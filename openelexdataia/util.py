@@ -1,3 +1,5 @@
+import struct
+
 NUMBER_WORDS = {
     'zero': 0,
     'one': 1,
@@ -66,3 +68,9 @@ def district_word_to_number(word, sep='-'):
         return first
     else:
         return first + district_word_to_number(sep.join(bits[1:]), sep)
+
+def parse_fixed_widths(fieldwidths, line):
+    expected_length = sum(fieldwidths)
+    line = line.ljust(expected_length, ' ')
+    fmts = ' '.join("{}{}".format(w, "s") for w in fieldwidths)
+    return [col.strip() for col in struct.unpack(fmts, line)]
