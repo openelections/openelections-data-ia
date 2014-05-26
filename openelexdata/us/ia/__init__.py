@@ -1,7 +1,7 @@
 import argparse
 import sys
 
-from openelexdataia.parser import BaseParser, ParserState
+from openelexdata.us.ia.parser import BaseParser, ParserState
 
 arg_parser = argparse.ArgumentParser()
 arg_parser.add_argument("infile", nargs='?', type=argparse.FileType('r'),

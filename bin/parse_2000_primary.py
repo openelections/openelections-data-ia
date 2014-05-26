@@ -3,8 +3,8 @@
 import csv
 import re
 
-from openelexdataia import BaseParser, ParserState, arg_parser
-from openelexdataia.util import district_word_to_number
+from openelexdata.us.ia import BaseParser, ParserState, arg_parser
+from openelexdata.us.ia.util import district_word_to_number
 
 HEADER_PREFIX_RE = re.compile(r'^(JUNE 6, 2000|PRIM CANV)')
 

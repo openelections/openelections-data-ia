@@ -3,7 +3,7 @@
 import csv
 import re
 
-from openelexdataia import arg_parser
+from openelexdata.us.ia import arg_parser
 
 fields = [
     'office',

@@ -3,8 +3,8 @@
 import csv
 import re
 
-from openelexdataia import BaseParser, ParserState, arg_parser
-from openelexdataia.util import parse_fixed_widths
+from openelexdata.us.ia import BaseParser, ParserState, arg_parser
+from openelexdata.us.ia.util import parse_fixed_widths
 
 
 fieldwidths = [14, 11, 11, 13, 11, 15, 16, 18, 18, 15, 13, 6]
