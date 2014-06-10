@@ -7,9 +7,15 @@ from openelexdata.us.ia import BaseParser, ParserState, arg_parser
 from openelexdata.us.ia.util import get_column_breaks, split_into_columns
 
 whitespace_re = re.compile(r'\s{2,}')
-page_number_re = re.compile(r'- \d+ -')
+page_number_re = re.compile(r'- *\d+ *-')
 number_re = re.compile(r'[\d,]+')
 district_re = re.compile(r'(?P<district_num>\d{1,3})(st|nd|rd|th) District:')
+
+offices = [
+    "State House of Representatives",
+    "State Senate",
+    "U.S. House of Representatives",
+]
 
 class RootState(ParserState):
     name = 'root'
@@ -32,7 +38,7 @@ class PageHeaderState(ParserState):
     name = 'pageheader'
 
     def handle_line(self, line):
-        if line == "State House of Representatives":
+        if line in offices:
             self._context['office'] = line
             self._context.change_to_previous_state()
 
