@@ -25,14 +25,26 @@ class StateManager(dict):
         return self._states[name]
 
     def change_state(self, name):
+        self._next_state = self._get_state(name)
         self._current_state.exit()
-        self._previous_state= self._current_state
-        self._current_state = self._get_state(name)
+        self._previous_state = self._current_state
+        self._current_state = self._next_state
+        self._next_state = None
         self._current_state.enter()
+
+    def change_to_previous_state(self):
+        self.change_state(self.previous_state)
 
     @property
     def previous_state(self):
         return self._previous_state.name
+
+    @property
+    def next_state(self):
+        try:
+            return self._next_state.name
+        except AttributeError:
+            return None
 
     def handle_line(self, line):
         self._line_number += 1
@@ -64,5 +76,6 @@ class BaseParser(StateManager):
 
     def parse(self):
         for line in self.infile:
+            self.raw_line = line
             clean_line = line.strip() 
             self.handle_line(clean_line)

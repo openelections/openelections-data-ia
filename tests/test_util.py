@@ -1,6 +1,8 @@
+import re
 from unittest import TestCase
 
-from openelexdataia.util import district_word_to_number, parse_fixed_widths
+from openelexdata.us.ia.util import (district_word_to_number, parse_fixed_widths,
+    get_column_breaks)
 
 class TestUtil(TestCase):
     def test_district_word_to_number(self):
@@ -29,3 +31,22 @@ class TestUtil(TestCase):
         bits = parse_fixed_widths(fieldwidths, line)
         self.assertEqual(len(bits), len(fieldwidths))
         self.assertEqual(bits, expected)
+
+    def test_get_column_breaks(self):
+        whitespace_re = re.compile(r'\s{2,}')
+        lines = [
+            "                Democratic       Republican            Scattering        Totals ",
+            "                                Dwayne Arlan ",
+        ]
+        breaks = get_column_breaks(lines, whitespace_re)
+        self.assertEqual(breaks, [16, 32, 55, 73])
+
+        lines = [
+            "                Democratic       Republican            Scattering        Totals",
+            "                 Wesley            Greg",
+            "                 Whitead         Hoversten",
+        ]
+        breaks = get_column_breaks(lines, whitespace_re)
+        self.assertEqual(breaks, [16, 33, 55, 73])
+
+
