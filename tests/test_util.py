@@ -33,12 +33,11 @@ class TestUtil(TestCase):
         self.assertEqual(bits, expected)
 
     def test_get_column_breaks(self):
-        whitespace_re = re.compile(r'\s{2,}')
         lines = [
             "                Democratic       Republican            Scattering        Totals ",
             "                                Dwayne Arlan ",
         ]
-        breaks = get_column_breaks(lines, whitespace_re)
+        breaks = get_column_breaks(lines)
         self.assertEqual(breaks, [16, 32, 55, 73])
 
         lines = [
@@ -46,7 +45,14 @@ class TestUtil(TestCase):
             "                 Wesley            Greg",
             "                 Whitead         Hoversten",
         ]
-        breaks = get_column_breaks(lines, whitespace_re)
+        breaks = get_column_breaks(lines)
         self.assertEqual(breaks, [16, 33, 55, 73])
 
-
+        lines = [
+            "                Doug Gross     Steve Sukup   Bob Vander ",
+            "                                               Plaats     Write-In ",
+            "                 Republican    Republican                  Votes         Totals",
+            "                                              Republican",
+        ]
+        breaks = get_column_breaks(lines)
+        self.assertEqual(breaks, [16, 31, 45, 58, 73])

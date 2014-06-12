@@ -116,7 +116,7 @@ class ResultsState(ParserState):
     def _parse_header(self, header_lines=None):
         if header_lines is None:
             header_lines = self._context['header_lines']
-        self._breaks = get_column_breaks(header_lines, whitespace_re)
+        self._breaks = get_column_breaks(header_lines)
         header_cols = split_into_columns(header_lines, self._breaks)
 
         parties = ['']*len(header_cols[0])

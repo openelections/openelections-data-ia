@@ -1,3 +1,4 @@
+import re
 import struct
 
 NUMBER_WORDS = {
@@ -75,45 +76,7 @@ def parse_fixed_widths(fieldwidths, line):
     fmts = ' '.join("{}{}".format(w, "s") for w in fieldwidths)
     return [col.strip() for col in struct.unpack(fmts, line)]
 
-def old_get_column_breaks(lines, whitespace_re):
-    num_cols = 0
-    baseline = None
-    baseline_idx = 0
-    rows = []
-
-    # Determine which line has the most columns.
-    for i in range(len(lines)):
-        line = lines[i]
-        cols = whitespace_re.split(line.strip())
-        rows.append(cols)
-        if len(cols) > num_cols:
-            num_cols = len(cols)
-            baseline = line
-            baseline_idx = i
-
-    # Determin the breakpoints for the row with most columns
-    breaks = []
-    for col in rows[baseline_idx]: 
-        brk = baseline.index(col)
-        breaks.append(brk)
-
-    for i in range(len(lines)):
-        if i == baseline_idx:
-            continue
- 
-        line = lines[i]
-        cols = rows[i]
-        for col in cols:
-            brk = line.index(col)
-            for j in range(len(breaks)):
-               if brk <= breaks[j]:
-                   print(col, brk)
-                   breaks[j] = brk
-                   break
-
-    return breaks
-
-def get_column_breaks(lines, whitespace_re):
+def get_column_breaks(lines, whitespace_re=re.compile(r'\s')):
     """
     Get breakpoints for whitespace-defined columns in lines of text
 
@@ -122,62 +85,27 @@ def get_column_breaks(lines, whitespace_re):
 
     Args:
         lines: List of strings representing a line of data in columns
-        whitespace_re: Compiled regex used to split text into columns
+        whitespace_re: Compiled regex used to test that text is whitespace.
 
     Returns:
         A list of integers representing the start indexes of the columns
     """
-    all_breaks = []
-    breaks = None
-    baseline_idx = 0
+    smap = []
+    breaks = []
 
-    # Detect the columns and record the start and end indices of
-    # non-whitespace text
-    for i in range(len(lines)):
-        line = lines[i]
-        breaks_for_line = []
-        cols = whitespace_re.split(line.strip())
-        for col in cols:
-            brk = line.index(col)
-            end = brk + len(col) - 1
-            breaks_for_line.append((brk, end))
+    for line in lines:
+        ldiff = len(line) - len(smap)
+        if ldiff > 0:
+            smap.extend([False] * ldiff)
 
-        all_breaks.append(breaks_for_line)
+        for i in range(len(line)):
+            smap[i] = smap[i] or whitespace_re.match(line[i]) is None
 
-        # We want to determine which line has the most columns.
-        # We'll use this as the baseline for all the other columns.
-        if breaks is None or len(cols) > len(breaks):
-            breaks = breaks_for_line
-            baseline_idx = i
-   
-    for i in range(len(all_breaks)):
-        # Skip the baseline
-        if i == baseline_idx:
-            continue
+    for i in range(len(smap)):
+        if smap[i] and not smap[i -1 ]:
+            breaks.append(i)
 
-        for start, end in all_breaks[i]:
-            # Iterate through the columns and try to determine which baseline
-            # column it corresponds to
-            for j in range(len(breaks)):
-                cur_start, cur_end = breaks[j]
-                new_start = cur_start
-                new_end = cur_end
-                if start < cur_end and end > cur_start:
-                    # A column in this line overlaps with one of the baseline
-                    # columns.
-
-                    # Check if we need to adjust the start and end indices of
-                    # the column.
-                    if start < cur_start:
-                        new_start = start
-
-                    if end > cur_end:
-                        new_end = end
-
-                    breaks[j] = (new_start, new_end)
-                    break
-
-    return [start for start, end in breaks]
+    return breaks
 
 def split_into_columns(lines, breaks):
     cols = []
