@@ -6,9 +6,16 @@ import re
 from openelexdata.us.ia import BaseParser, ParserState, arg_parser
 from openelexdata.us.ia.util import get_column_breaks, split_into_columns
 
-contest_re = re.compile(r'(?P<office>Governor|Secretary of Agriculture) - (?P<party>Democrat|Iowa Green Party|Republican)')
+contest_re = re.compile(r'(?P<office>Governor|Secretary of Agriculture|'
+        'Secretary of State|Attorney General|Auditor of State|'
+        'State Representative|State Senator)'
+        '( District (?P<district_num>\d{2,3})|) - (?P<party>Democrat|Iowa Green Party|Republican)')
 whitespace_re = re.compile(r'\s{2,}')
 number_re = re.compile('^[\d,]+$')
+
+def _parse_contest_details(m):
+    fields = ['office', 'party', 'district_num'] 
+    return {k:m.group(k) for k in fields}
 
 class RootState(ParserState):
     name = 'root'
@@ -16,11 +23,7 @@ class RootState(ParserState):
     def handle_line(self, line):
         m = contest_re.match(line)
         if m:
-            self._context['office'] = m.group('office')
-            # In most cases, we'll grab the party from the column headers of
-            # results.  Unfortunately, this is missing in some cases, so we
-            # need to save the header here as well.
-            self._context['party'] = m.group('party')
+            self._context.update(_parse_contest_details(m))
             self._context.change_state('result_header')
         elif line.startswith("State of Iowa"):
             self._context.change_state('document_header')
@@ -45,9 +48,8 @@ class PageHeader(ParserState):
     def handle_line(self, line):
         m = contest_re.match(line)
         if m:
-            self._context['office'] = m.group('office')
+            self._context.update(_parse_contest_details(m))
             self._context.change_state('result_header')
-
 
 class ResultHeader(ParserState):
     name = 'result_header'
@@ -60,7 +62,11 @@ class ResultHeader(ParserState):
             return
 
         cols = whitespace_re.split(line)
-        if len(cols) > 1 and number_re.match(cols[1]):
+        m = contest_re.match(line)
+        if m:
+            self._context.update(_parse_contest_details(m))
+            self._context.change_state('result_header')
+        elif len(cols) > 1 and number_re.match(cols[1]):
             self._context.change_state('results')
         else:
             self._context['header_lines'].append(self._context.raw_line)
@@ -78,7 +84,6 @@ class Results(ParserState):
 
     def exit(self):
         if self._context.next_state == "root":
-            #del self._context['district_num']
             del self._context['header_lines']
 
     def handle_line(self, line):
@@ -109,7 +114,7 @@ class Results(ParserState):
             vote_index += 1
             self._context.results.append({
                 'office': self._context['office'], 
-                #'district': self._context['district_num'],
+                'district': self._context['district_num'],
                 'candidate': candidate,
                 'party': party, 
                 'reporting_level': reporting_level, 
