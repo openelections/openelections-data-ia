@@ -6,9 +6,9 @@ import re
 from openelexdata.us.ia import BaseParser, ParserState, arg_parser
 from openelexdata.us.ia.util import get_column_breaks, split_into_columns
 
-contest_re = re.compile(r'(?P<office>Governor) - (Democrat|Iowa Green Party|Republican)')
+contest_re = re.compile(r'(?P<office>Governor|Secretary of Agriculture) - (?P<party>Democrat|Iowa Green Party|Republican)')
 whitespace_re = re.compile(r'\s{2,}')
-number_re = re.compile('^\d+$')
+number_re = re.compile('^[\d,]+$')
 
 class RootState(ParserState):
     name = 'root'
@@ -17,6 +17,10 @@ class RootState(ParserState):
         m = contest_re.match(line)
         if m:
             self._context['office'] = m.group('office')
+            # In most cases, we'll grab the party from the column headers of
+            # results.  Unfortunately, this is missing in some cases, so we
+            # need to save the header here as well.
+            self._context['party'] = m.group('party')
             self._context.change_state('result_header')
         elif line.startswith("State of Iowa"):
             self._context.change_state('document_header')
@@ -68,6 +72,8 @@ class Results(ParserState):
     def enter(self):
         if self._context.previous_state == 'result_header':
             self._candidates, self._parties = self._parse_header()
+            #print(self._candidates)
+            #print(self._parties)
             self.handle_line(self._context.current_line)
 
     def exit(self):
@@ -92,7 +98,14 @@ class Results(ParserState):
             party = self._parties[i]
             if not party and self._context['primary']:
                 party = self._parties[0]
-            votes = cols[vote_index].replace(',', '')
+
+            try:
+                votes = cols[vote_index].replace(',', '')
+            except IndexError:
+                # Some result files have no values in a column.  In particular
+                # this is the case for the Secretary of State results.
+                votes = ''
+
             vote_index += 1
             self._context.results.append({
                 'office': self._context['office'], 
@@ -112,6 +125,7 @@ class Results(ParserState):
         party_col_vals = ["Democratic", "Iowa Green", "Party", "Republican"]
         if header_lines is None:
             header_lines = self._context['header_lines']
+        #print(header_lines)
         self._breaks = get_column_breaks(header_lines)
         header_cols = split_into_columns(header_lines, self._breaks)
 
@@ -129,6 +143,11 @@ class Results(ParserState):
                 else:
                     sep = " " if candidates[i] else ""
                     candidates[i] += sep + col
+
+        # Some result headers do not include parties, grab the party from the
+        # contest headers we parsed earlier 
+        if parties[0] == '' and 'party' in self._context:
+            parties[0] = self._context['party']
 
         return candidates, parties
 
