@@ -8,8 +8,11 @@ from openelexdata.us.ia.util import get_column_breaks, split_into_columns
 
 contest_re = re.compile(r'(?P<office>Governor|Secretary of Agriculture|'
         'Secretary of State|Attorney General|Auditor of State|'
-        'State Representative|State Senator)'
-        '( District (?P<district_num>\d{2,3})|) - (?P<party>Democrat|Iowa Green Party|Republican)')
+        'State Representative|State Senator|Treasurer of State|'
+        'United States Representative|United States Senator|'
+        'Governor/Lieutenant Governor)'
+        '( District (?P<district_num>\d{1,3})|)( - (?P<party>Democrat|Iowa Green Party|Republican)|)')
+       
 whitespace_re = re.compile(r'\s{2,}')
 number_re = re.compile('^[\d,]+$')
 
@@ -127,7 +130,8 @@ class Results(ParserState):
 
     def _parse_header(self, header_lines=None):
         #candidate_col_vals = ["Write-In", "Votes", "Totals"]
-        party_col_vals = ["Democratic", "Iowa Green", "Party", "Republican"]
+        party_col_vals = ["Democratic", "Iowa Green", "Party", "Republican",
+            "Libertarian", "Nominated by", "Petition"]
         if header_lines is None:
             header_lines = self._context['header_lines']
         #print(header_lines)
@@ -154,6 +158,31 @@ class Results(ParserState):
         if parties[0] == '' and 'party' in self._context:
             parties[0] = self._context['party']
 
+        # HACK: Misaligned columns in first page of 2002 general Governor
+        # results.  Fix it.
+        if (self._context['office'] == "Governor" and
+                not self._context['primary']):
+            return self._general_gov_candidates_parties()
+
+        return candidates, parties
+
+    def _general_gov_candidates_parties(self):
+        candidates = [
+            "Tom Vilsack & Sally Pederson",
+            "Doug Gross & Debi Durham",
+            "Jay Robinson & Holly Jane Hart",
+            "Clyde Cleveland & Richard Campagna",
+            "Write-In Votes",
+            "Totals"
+        ]
+        parties = [
+            "Democratic Party",
+            "Republican Party",
+            "Iowa Green Party",
+            "Libertarian Party",
+            "",
+            ""
+        ]
         return candidates, parties
 
 
