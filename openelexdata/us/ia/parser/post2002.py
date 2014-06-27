@@ -8,7 +8,7 @@ contest_re = re.compile(r'(?P<office>Governor|Secretary of Agriculture|'
         'Secretary of State|Attorney General|Auditor of State|'
         'State Representative|State Senator|Treasurer of State|'
         'United States Representative|United States Senator|'
-        'Governor/Lieutenant Governor)'
+        'Governor/Lieutenant Governor|President/Vice President)'
         '( District (?P<district_num>\d{1,3})|)( - (?P<party>Democrat|Iowa Green Party|Republican)|)')
        
 whitespace_re = re.compile(r'\s{2,}')
@@ -129,7 +129,8 @@ class Results(ParserState):
     def _parse_header(self, header_lines=None):
         #candidate_col_vals = ["Write-In", "Votes", "Totals"]
         party_col_vals = ["Democratic", "Iowa Green", "Party", "Republican",
-            "Libertarian", "Nominated by", "Petition"]
+            "Libertarian", "Nominated by", "Petition",
+            "Constitution", "Socialist", "Workers Party"]
         if header_lines is None:
             header_lines = self._context['header_lines']
         #print(header_lines)
