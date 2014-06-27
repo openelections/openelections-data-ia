@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+"""
+Parse 2004 county-level primary and general election results.
+"""
 
 import csv
 
