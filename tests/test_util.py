@@ -1,4 +1,3 @@
-import re
 from unittest import TestCase
 
 from openelexdata.us.ia.util import (district_word_to_number, parse_fixed_widths,
