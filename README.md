@@ -14,6 +14,10 @@ Files were converted to text using the pdftotext command and the text output was
 pdftotext -layout pdf/20000606__ia__primary__county.pdf - | ./bin/parse_2000_primary.py > 20000606__ia__primary__county.csv
 ```
 
+### Manual preprocessing
+
+pdftotext couldn't extract the text from the PDF file for the county-level 2006-11-07 general election results.  I used Adobe Acrobat Pro 9 to extract the text from the file and saved it to ``txt/20061107__ia__general__county.orig.txt``.  Some of the text was transposed and the spacing made it difficult to parse, so I had to manually clean it up using vim and LibreOffice Calc.  The cleaned text file is saved in ``txt/20061107__ia__general__county.txt``.
+
 ### Manual entry
 
 Some files had a small number of results and were in a format that was difficult to parse.  These were entered manually.
@@ -21,6 +25,7 @@ Some files had a small number of results and were in a format that was difficult
 This process was used for the following elections:
 
 * 2000-01-04 Special Election, State Representative, District 53
+
 
 ## TODO
 
