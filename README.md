@@ -29,7 +29,9 @@ This process was used for the following elections:
 
 ## TODO
 
-I'm prioritizing non-special elections and getting the most coverage possible so there are some results I'm putting on the backburner. These include:
+I'm prioritizing non-special elections and getting the most coverage possible so there are some results I'm putting on the backburner.  This is mostly because they are image PDFs. 
+
+These include:
 
 * 20020122__ia__special__general__state_house__28__county.pdf
 * 20020219__ia__special__general__state_senate__39__county.pdf
@@ -40,3 +42,4 @@ I'm prioritizing non-special elections and getting the most coverage possible so
 * 20030805__ia__special__general__state_house__100__county.pdf
 * 20030826__ia__special__general__state_house__30__county.pdf
 * 20040203__ia__special__general__state_senate__30__county.pdf
+* 20091124__ia__special__general__state_house__33__precinct.pdf
