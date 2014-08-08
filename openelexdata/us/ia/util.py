@@ -76,7 +76,7 @@ def parse_fixed_widths(fieldwidths, line):
     fmts = ' '.join("{}{}".format(w, "s") for w in fieldwidths)
     return [col.strip() for col in struct.unpack(fmts, line)]
 
-def get_column_breaks(lines, whitespace_re=re.compile(r'\s')):
+def get_column_breaks(lines, whitespace_re=re.compile(r'\s{2,}')):
     """
     Get breakpoints for whitespace-defined columns in lines of text
 
@@ -90,19 +90,39 @@ def get_column_breaks(lines, whitespace_re=re.compile(r'\s')):
     Returns:
         A list of integers representing the start indexes of the columns
     """
+    # Smap will hold boolean values representing whether, across all the lines,
+    # there is part of a string fragment character in that particular index.
+    # For example, for the string "Foo   Bar", the smap would be
+    # [True, True, True, False, False, False, True, True, True]
     smap = []
     breaks = []
 
     for line in lines:
+        # The length of smap should be that of the longest of our lines.  If
+        # we encounter a shorter line, extend smap.
         ldiff = len(line) - len(smap)
         if ldiff > 0:
+            # Assume spaces are part of a whitespace run
             smap.extend([False] * ldiff)
 
-        for i in range(len(line)):
-            smap[i] = smap[i] or whitespace_re.match(line[i]) is None
+        i = 0
+        # Get all matches of whitespace runs using our regex
+        for m in whitespace_re.finditer(line): 
+            while i < m.start():
+                # Everything between the end of the last whitespace run and
+                # the start of the current whitespace run is part of a string
+                smap[i] = True
+                i += 1
+
+            i = m.end()
+
+        # Assume everything from the end of the last whitespace run and the end
+        # of the string is part of a string fragment
+        for j in range(i, len(smap)):
+            smap[i] = True
 
     for i in range(len(smap)):
-        if smap[i] and not smap[i -1 ]:
+        if smap[i] and not smap[i - 1]:
             breaks.append(i)
 
     return breaks

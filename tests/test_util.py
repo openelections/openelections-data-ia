@@ -55,3 +55,9 @@ class TestUtil(TestCase):
         ]
         breaks = get_column_breaks(lines)
         self.assertEqual(breaks, [16, 31, 45, 58, 73])
+
+        lines = [
+            "       County        Michael A. Mauro   Matt Schultz           Jake Porter                                            Write-in                           Over Votes     Under         Total"
+        ]
+        breaks = get_column_breaks(lines)
+        self.assertEqual(breaks, [7, 21, 40, 63, 118, 153, 168, 182])
