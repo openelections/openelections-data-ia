@@ -1,0 +1,524 @@
+office,district,candidate,party,reporting_level,jurisdiction,votes
+State Senator,01,Rick Mullin,,county,Woodbury,7359
+State Senator,01,Rick Bertrand,,county,Woodbury,7581
+State Senator,01,Write-in,,county,Woodbury,18
+State Senator,01,Over Votes,,county,Woodbury,7
+State Senator,01,Under Votes,,county,Woodbury,364
+State Senator,01,Total,,county,Woodbury,15329
+State Senator,01,Rick Mullin,,county,Grand Totals,7359
+State Senator,01,Rick Bertrand,,county,Grand Totals,7581
+State Senator,01,Write-in,,county,Grand Totals,18
+State Senator,01,Over Votes,,county,Grand Totals,7
+State Senator,01,Under Votes,,county,Grand Totals,364
+State Senator,01,Total,,county,Grand Totals,15329
+State Senator,03,David Johnson,,county,Clay,4515
+State Senator,03,Write-in,,county,Clay,31
+State Senator,03,Over Votes,,county,Clay,1
+State Senator,03,Under Votes,,county,Clay,1291
+State Senator,03,Total,,county,Clay,5838
+State Senator,03,David Johnson,,county,Dickinson,5631
+State Senator,03,Write-in,,county,Dickinson,46
+State Senator,03,Over Votes,,county,Dickinson,0
+State Senator,03,Under Votes,,county,Dickinson,1654
+State Senator,03,Total,,county,Dickinson,7331
+State Senator,03,David Johnson,,county,O'Brien,4627
+State Senator,03,Write-in,,county,O'Brien,24
+State Senator,03,Over Votes,,county,O'Brien,0
+State Senator,03,Under Votes,,county,O'Brien,903
+State Senator,03,Total,,county,O'Brien,5554
+State Senator,03,David Johnson,,county,Osceola,2159
+State Senator,03,Write-in,,county,Osceola,14
+State Senator,03,Over Votes,,county,Osceola,0
+State Senator,03,Under Votes,,county,Osceola,323
+State Senator,03,Total,,county,Osceola,2496
+State Senator,03,David Johnson,,county,Sioux,838
+State Senator,03,Write-in,,county,Sioux,1
+State Senator,03,Over Votes,,county,Sioux,0
+State Senator,03,Under Votes,,county,Sioux,151
+State Senator,03,Total,,county,Sioux,990
+State Senator,03,David Johnson,,county,Grand Totals,17770
+State Senator,03,Write-in,,county,Grand Totals,116
+State Senator,03,Over Votes,,county,Grand Totals,1
+State Senator,03,Under Votes,,county,Grand Totals,4322
+State Senator,03,Total,,county,Grand Totals,22209
+State Senator,05,Rich Olive,,county,Franklin,10
+State Senator,05,Robert Bacon,,county,Franklin,7
+State Senator,05,Write-in,,county,Franklin,0
+State Senator,05,Over Votes,,county,Franklin,0
+State Senator,05,Under Votes,,county,Franklin,1
+State Senator,05,Total,,county,Franklin,18
+State Senator,05,Rich Olive,,county,Hamilton,3041
+State Senator,05,Robert Bacon,,county,Hamilton,3099
+State Senator,05,Write-in,,county,Hamilton,5
+State Senator,05,Over Votes,,county,Hamilton,0
+State Senator,05,Under Votes,,county,Hamilton,153
+State Senator,05,Total,,county,Hamilton,6298
+State Senator,05,Rich Olive,,county,Story,4969
+State Senator,05,Robert Bacon,,county,Story,6305
+State Senator,05,Write-in,,county,Story,12
+State Senator,05,Over Votes,,county,Story,0
+State Senator,05,Under Votes,,county,Story,325
+State Senator,05,Total,,county,Story,11611
+State Senator,05,Rich Olive,,county,Webster,331
+State Senator,05,Robert Bacon,,county,Webster,348
+State Senator,05,Write-in,,county,Webster,0
+State Senator,05,Over Votes,,county,Webster,0
+State Senator,05,Under Votes,,county,Webster,26
+State Senator,05,Total,,county,Webster,705
+State Senator,05,Rich Olive,,county,Wright,2159
+State Senator,05,Robert Bacon,,county,Wright,2609
+State Senator,05,Write-in,,county,Wright,2
+State Senator,05,Over Votes,,county,Wright,0
+State Senator,05,Under Votes,,county,Wright,170
+State Senator,05,Total,,county,Wright,4940
+State Senator,05,Rich Olive,,county,Grand Totals,10510
+State Senator,05,Robert Bacon,,county,Grand Totals,12368
+State Senator,05,Write-in,,county,Grand Totals,19
+State Senator,05,Over Votes,,county,Grand Totals,0
+State Senator,05,Under Votes,,county,Grand Totals,675
+State Senator,05,Total,,county,Grand Totals,23572
+State Senator,07,Amanda Ragan,,county,Cerro Gordo,6832
+State Senator,07,James Mills,,county,Cerro Gordo,3897
+State Senator,07,Write-in,,county,Cerro Gordo,10
+State Senator,07,Over Votes,,county,Cerro Gordo,2
+State Senator,07,Under Votes,,county,Cerro Gordo,109
+State Senator,07,Total,,county,Cerro Gordo,10850
+State Senator,07,Amanda Ragan,,county,Floyd,3535
+State Senator,07,James Mills,,county,Floyd,2516
+State Senator,07,Write-in,,county,Floyd,4
+State Senator,07,Over Votes,,county,Floyd,0
+State Senator,07,Under Votes,,county,Floyd,92
+State Senator,07,Total,,county,Floyd,6147
+State Senator,07,Amanda Ragan,,county,Howard,61
+State Senator,07,James Mills,,county,Howard,45
+State Senator,07,Write-in,,county,Howard,0
+State Senator,07,Over Votes,,county,Howard,0
+State Senator,07,Under Votes,,county,Howard,1
+State Senator,07,Total,,county,Howard,107
+State Senator,07,Amanda Ragan,,county,Mitchell,2480
+State Senator,07,James Mills,,county,Mitchell,1994
+State Senator,07,Write-in,,county,Mitchell,1
+State Senator,07,Over Votes,,county,Mitchell,0
+State Senator,07,Under Votes,,county,Mitchell,86
+State Senator,07,Total,,county,Mitchell,4561
+State Senator,07,Amanda Ragan,,county,Grand Totals,12908
+State Senator,07,James Mills,,county,Grand Totals,8452
+State Senator,07,Write-in,,county,Grand Totals,15
+State Senator,07,Over Votes,,county,Grand Totals,2
+State Senator,07,Under Votes,,county,Grand Totals,288
+State Senator,07,Total,,county,Grand Totals,21665
+State Senator,09,William M. Heckroth,,county,Black Hawk,461
+State Senator,09,Bill Dix,,county,Black Hawk,800
+State Senator,09,Write-in,,county,Black Hawk,3
+State Senator,09,Over Votes,,county,Black Hawk,1
+State Senator,09,Under Votes,,county,Black Hawk,40
+State Senator,09,Total,,county,Black Hawk,1305
+State Senator,09,William M. Heckroth,,county,Bremer,4303
+State Senator,09,Bill Dix,,county,Bremer,5493
+State Senator,09,Write-in,,county,Bremer,4
+State Senator,09,Over Votes,,county,Bremer,0
+State Senator,09,Under Votes,,county,Bremer,116
+State Senator,09,Total,,county,Bremer,9916
+State Senator,09,William M. Heckroth,,county,Butler,1874
+State Senator,09,Bill Dix,,county,Butler,3798
+State Senator,09,Write-in,,county,Butler,8
+State Senator,09,Over Votes,,county,Butler,0
+State Senator,09,Under Votes,,county,Butler,68
+State Senator,09,Total,,county,Butler,5748
+State Senator,09,William M. Heckroth,,county,Fayette,2967
+State Senator,09,Bill Dix,,county,Fayette,3098
+State Senator,09,Write-in,,county,Fayette,7
+State Senator,09,Over Votes,,county,Fayette,1
+State Senator,09,Under Votes,,county,Fayette,121
+State Senator,09,Total,,county,Fayette,6194
+State Senator,09,William M. Heckroth,,county,Grand Totals,9605
+State Senator,09,Bill Dix,,county,Grand Totals,13189
+State Senator,09,Write-in,,county,Grand Totals,22
+State Senator,09,Over Votes,,county,Grand Totals,2
+State Senator,09,Under Votes,,county,Grand Totals,345
+State Senator,09,Total,,county,Grand Totals,23163
+State Senator,11,Bill Dotzler,,county,Black Hawk,10459
+State Senator,11,Ron Welper,,county,Black Hawk,6126
+State Senator,11,Write-in,,county,Black Hawk,15
+State Senator,11,Over Votes,,county,Black Hawk,4
+State Senator,11,Under Votes,,county,Black Hawk,519
+State Senator,11,Total,,county,Black Hawk,17123
+State Senator,11,Bill Dotzler,,county,Grand Totals,10459
+State Senator,11,Ron Welper,,county,Grand Totals,6126
+State Senator,11,Write-in,,county,Grand Totals,15
+State Senator,11,Over Votes,,county,Grand Totals,4
+State Senator,11,Under Votes,,county,Grand Totals,519
+State Senator,11,Total,,county,Grand Totals,17123
+State Senator,13,Tod R. Bowman,,county,Clinton,4965
+State Senator,13,Andrew Naeve,,county,Clinton,5489
+State Senator,13,Write-in,,county,Clinton,14
+State Senator,13,Over Votes,,county,Clinton,2
+State Senator,13,Under Votes,,county,Clinton,218
+State Senator,13,Total,,county,Clinton,10688
+State Senator,13,Tod R. Bowman,,county,Dubuque,944
+State Senator,13,Andrew Naeve,,county,Dubuque,1175
+State Senator,13,Write-in,,county,Dubuque,0
+State Senator,13,Over Votes,,county,Dubuque,0
+State Senator,13,Under Votes,,county,Dubuque,194
+State Senator,13,Total,,county,Dubuque,2313
+State Senator,13,Tod R. Bowman,,county,Jackson,4108
+State Senator,13,Andrew Naeve,,county,Jackson,3283
+State Senator,13,Write-in,,county,Jackson,5
+State Senator,13,Over Votes,,county,Jackson,0
+State Senator,13,Under Votes,,county,Jackson,172
+State Senator,13,Total,,county,Jackson,7568
+State Senator,13,Tod R. Bowman,,county,Grand Totals,10017
+State Senator,13,Andrew Naeve,,county,Grand Totals,9947
+State Senator,13,Write-in,,county,Grand Totals,19
+State Senator,13,Over Votes,,county,Grand Totals,2
+State Senator,13,Under Votes,,county,Grand Totals,584
+State Senator,13,Total,,county,Grand Totals,20569
+State Senator,15,Robert E. Dvorsky,,county,Johnson,13717
+State Senator,15,Christopher Peters,,county,Johnson,4476
+State Senator,15,Write-in,,county,Johnson,96
+State Senator,15,Over Votes,,county,Johnson,10
+State Senator,15,Under Votes,,county,Johnson,3532
+State Senator,15,Total,,county,Johnson,21831
+State Senator,15,Robert E. Dvorsky,,county,Linn,4247
+State Senator,15,Christopher Peters,,county,Linn,1616
+State Senator,15,Write-in,,county,Linn,32
+State Senator,15,Over Votes,,county,Linn,1
+State Senator,15,Under Votes,,county,Linn,1983
+State Senator,15,Total,,county,Linn,7879
+State Senator,15,Robert E. Dvorsky,,county,Grand Totals,17964
+State Senator,15,Christopher Peters,,county,Grand Totals,6092
+State Senator,15,Write-in,,county,Grand Totals,128
+State Senator,15,Over Votes,,county,Grand Totals,11
+State Senator,15,Under Votes,,county,Grand Totals,5515
+State Senator,15,Total,,county,Grand Totals,29710
+State Senator,17,Wally E. Horn,,county,Linn,13842
+State Senator,17,Write-in,,county,Linn,300
+State Senator,17,Over Votes,,county,Linn,0
+State Senator,17,Under Votes,,county,Linn,5534
+State Senator,17,Total,,county,Linn,19676
+State Senator,17,Wally E. Horn,,county,Grand Totals,13842
+State Senator,17,Write-in,,county,Grand Totals,300
+State Senator,17,Over Votes,,county,Grand Totals,0
+State Senator,17,Under Votes,,county,Grand Totals,5534
+State Senator,17,Total,,county,Grand Totals,19676
+State Senator,19,Robert M. Hogg,,county,Linn,15481
+State Senator,19,Write-in,,county,Linn,462
+State Senator,19,Over Votes,,county,Linn,2
+State Senator,19,Under Votes,,county,Linn,7869
+State Senator,19,Total,,county,Linn,23814
+State Senator,19,Robert M. Hogg,,county,Grand Totals,15481
+State Senator,19,Write-in,,county,Grand Totals,462
+State Senator,19,Over Votes,,county,Grand Totals,2
+State Senator,19,Under Votes,,county,Grand Totals,7869
+State Senator,19,Total,,county,Grand Totals,23814
+State Senator,21,Dennis H. Black,,county,Jasper,8076
+State Senator,21,Joe Pirillo,,county,Jasper,5770
+State Senator,21,Write-in,,county,Jasper,23
+State Senator,21,Over Votes,,county,Jasper,4
+State Senator,21,Under Votes,,county,Jasper,269
+State Senator,21,Total,,county,Jasper,14142
+State Senator,21,Dennis H. Black,,county,Polk,5441
+State Senator,21,Joe Pirillo,,county,Polk,6551
+State Senator,21,Write-in,,county,Polk,16
+State Senator,21,Over Votes,,county,Polk,3
+State Senator,21,Under Votes,,county,Polk,540
+State Senator,21,Total,,county,Polk,12551
+State Senator,21,Dennis H. Black,,county,Grand Totals,13517
+State Senator,21,Joe Pirillo,,county,Grand Totals,12321
+State Senator,21,Write-in,,county,Grand Totals,39
+State Senator,21,Over Votes,,county,Grand Totals,7
+State Senator,21,Under Votes,,county,Grand Totals,809
+State Senator,21,Total,,county,Grand Totals,26693
+State Senator,23,Herman C. Quirmbach,,county,Boone,979
+State Senator,23,Timothy L. Gartin,,county,Boone,910
+State Senator,23,Write-in,,county,Boone,0
+State Senator,23,Over Votes,,county,Boone,0
+State Senator,23,Under Votes,,county,Boone,65
+State Senator,23,Total,,county,Boone,1954
+State Senator,23,Herman C. Quirmbach,,county,Story,10788
+State Senator,23,Timothy L. Gartin,,county,Story,9578
+State Senator,23,Write-in,,county,Story,31
+State Senator,23,Over Votes,,county,Story,1
+State Senator,23,Under Votes,,county,Story,663
+State Senator,23,Total,,county,Story,21061
+State Senator,23,Herman C. Quirmbach,,county,Grand Totals,11767
+State Senator,23,Timothy L. Gartin,,county,Grand Totals,10488
+State Senator,23,Write-in,,county,Grand Totals,31
+State Senator,23,Over Votes,,county,Grand Totals,1
+State Senator,23,Under Votes,,county,Grand Totals,728
+State Senator,23,Total,,county,Grand Totals,23015
+State Senator,25,Daryl Beall,,county,Calhoun,2011
+State Senator,25,Chris McGonegle,,county,Calhoun,1918
+State Senator,25,Write-in,,county,Calhoun,3
+State Senator,25,Over Votes,,county,Calhoun,0
+State Senator,25,Under Votes,,county,Calhoun,141
+State Senator,25,Total,,county,Calhoun,4073
+State Senator,25,Daryl Beall,,county,Greene,1993
+State Senator,25,Chris McGonegle,,county,Greene,1684
+State Senator,25,Write-in,,county,Greene,0
+State Senator,25,Over Votes,,county,Greene,0
+State Senator,25,Under Votes,,county,Greene,164
+State Senator,25,Total,,county,Greene,3841
+State Senator,25,Daryl Beall,,county,Webster,6500
+State Senator,25,Chris McGonegle,,county,Webster,5259
+State Senator,25,Write-in,,county,Webster,6
+State Senator,25,Over Votes,,county,Webster,2
+State Senator,25,Under Votes,,county,Webster,221
+State Senator,25,Total,,county,Webster,11988
+State Senator,25,Daryl Beall,,county,Grand Totals,10504
+State Senator,25,Chris McGonegle,,county,Grand Totals,8861
+State Senator,25,Write-in,,county,Grand Totals,9
+State Senator,25,Over Votes,,county,Grand Totals,2
+State Senator,25,Under Votes,,county,Grand Totals,526
+State Senator,25,Total,,county,Grand Totals,19902
+State Senator,27,Marty Pottebaum,,county,Cherokee,1510
+State Senator,27,Bill Anderson,,county,Cherokee,3144
+State Senator,27,Write-in,,county,Cherokee,1
+State Senator,27,Over Votes,,county,Cherokee,1
+State Senator,27,Under Votes,,county,Cherokee,130
+State Senator,27,Total,,county,Cherokee,4786
+State Senator,27,Marty Pottebaum,,county,Plymouth,844
+State Senator,27,Bill Anderson,,county,Plymouth,1840
+State Senator,27,Write-in,,county,Plymouth,2
+State Senator,27,Over Votes,,county,Plymouth,0
+State Senator,27,Under Votes,,county,Plymouth,64
+State Senator,27,Total,,county,Plymouth,2750
+State Senator,27,Marty Pottebaum,,county,Woodbury,5390
+State Senator,27,Bill Anderson,,county,Woodbury,7883
+State Senator,27,Write-in,,county,Woodbury,10
+State Senator,27,Over Votes,,county,Woodbury,2
+State Senator,27,Under Votes,,county,Woodbury,376
+State Senator,27,Total,,county,Woodbury,13661
+State Senator,27,Marty Pottebaum,,county,Grand Totals,7744
+State Senator,27,Bill Anderson,,county,Grand Totals,12867
+State Senator,27,Write-in,,county,Grand Totals,13
+State Senator,27,Over Votes,,county,Grand Totals,3
+State Senator,27,Under Votes,,county,Grand Totals,570
+State Senator,27,Total,,county,Grand Totals,21197
+State Senator,29,Nancy Boettger,,county,Adair,2385
+State Senator,29,Write-in,,county,Adair,28
+State Senator,29,Over Votes,,county,Adair,0
+State Senator,29,Under Votes,,county,Adair,709
+State Senator,29,Total,,county,Adair,3122
+State Senator,29,Nancy Boettger,,county,Audubon,1875
+State Senator,29,Write-in,,county,Audubon,19
+State Senator,29,Over Votes,,county,Audubon,0
+State Senator,29,Under Votes,,county,Audubon,904
+State Senator,29,Total,,county,Audubon,2798
+State Senator,29,Nancy Boettger,,county,Cass,4054
+State Senator,29,Write-in,,county,Cass,41
+State Senator,29,Over Votes,,county,Cass,1
+State Senator,29,Under Votes,,county,Cass,1198
+State Senator,29,Total,,county,Cass,5294
+State Senator,29,Nancy Boettger,,county,Guthrie,3498
+State Senator,29,Write-in,,county,Guthrie,36
+State Senator,29,Over Votes,,county,Guthrie,1
+State Senator,29,Under Votes,,county,Guthrie,1082
+State Senator,29,Total,,county,Guthrie,4617
+State Senator,29,Nancy Boettger,,county,Pottawattamie,1082
+State Senator,29,Write-in,,county,Pottawattamie,19
+State Senator,29,Over Votes,,county,Pottawattamie,0
+State Senator,29,Under Votes,,county,Pottawattamie,278
+State Senator,29,Total,,county,Pottawattamie,1379
+State Senator,29,Nancy Boettger,,county,Shelby,3233
+State Senator,29,Write-in,,county,Shelby,62
+State Senator,29,Over Votes,,county,Shelby,0
+State Senator,29,Under Votes,,county,Shelby,918
+State Senator,29,Total,,county,Shelby,4213
+State Senator,29,Nancy Boettger,,county,Grand Totals,16127
+State Senator,29,Write-in,,county,Grand Totals,205
+State Senator,29,Over Votes,,county,Grand Totals,2
+State Senator,29,Under Votes,,county,Grand Totals,5089
+State Senator,29,Total,,county,Grand Totals,21423
+State Senator,31,Matt McCoy,,county,Polk,13385
+State Senator,31,Dave Leach,,county,Polk,7064
+State Senator,31,Write-in,,county,Polk,34
+State Senator,31,Over Votes,,county,Polk,6
+State Senator,31,Under Votes,,county,Polk,829
+State Senator,31,Total,,county,Polk,21318
+State Senator,31,Matt McCoy,,county,Grand Totals,13385
+State Senator,31,Dave Leach,,county,Grand Totals,7064
+State Senator,31,Write-in,,county,Grand Totals,34
+State Senator,31,Over Votes,,county,Grand Totals,6
+State Senator,31,Under Votes,,county,Grand Totals,829
+State Senator,31,Total,,county,Grand Totals,21318
+State Senator,33,Jack Hatch,,county,Polk,10565
+State Senator,33,Write-in,,county,Polk,262
+State Senator,33,Over Votes,,county,Polk,5
+State Senator,33,Under Votes,,county,Polk,3476
+State Senator,33,Total,,county,Polk,14308
+State Senator,33,Jack Hatch,,county,Grand Totals,10565
+State Senator,33,Write-in,,county,Grand Totals,262
+State Senator,33,Over Votes,,county,Grand Totals,5
+State Senator,33,Under Votes,,county,Grand Totals,3476
+State Senator,33,Total,,county,Grand Totals,14308
+State Senator,35,Larry Noble,,county,Polk,27563
+State Senator,35,Write-in,,county,Polk,389
+State Senator,35,Over Votes,,county,Polk,5
+State Senator,35,Under Votes,,county,Polk,10971
+State Senator,35,Total,,county,Polk,38928
+State Senator,35,Larry Noble,,county,Grand Totals,27563
+State Senator,35,Write-in,,county,Grand Totals,389
+State Senator,35,Over Votes,,county,Grand Totals,5
+State Senator,35,Under Votes,,county,Grand Totals,10971
+State Senator,35,Total,,county,Grand Totals,38928
+State Senator,37,Staci Appel,,county,Dallas,717
+State Senator,37,Kent Sorenson,,county,Dallas,1115
+State Senator,37,Write-in,,county,Dallas,2
+State Senator,37,Over Votes,,county,Dallas,0
+State Senator,37,Under Votes,,county,Dallas,53
+State Senator,37,Total,,county,Dallas,1887
+State Senator,37,Staci Appel,,county,Madison,2189
+State Senator,37,Kent Sorenson,,county,Madison,4446
+State Senator,37,Write-in,,county,Madison,16
+State Senator,37,Over Votes,,county,Madison,1
+State Senator,37,Under Votes,,county,Madison,219
+State Senator,37,Total,,county,Madison,6871
+State Senator,37,Staci Appel,,county,Warren,8740
+State Senator,37,Kent Sorenson,,county,Warren,11187
+State Senator,37,Write-in,,county,Warren,47
+State Senator,37,Over Votes,,county,Warren,2
+State Senator,37,Under Votes,,county,Warren,405
+State Senator,37,Total,,county,Warren,20381
+State Senator,37,Staci Appel,,county,Grand Totals,11646
+State Senator,37,Kent Sorenson,,county,Grand Totals,16748
+State Senator,37,Write-in,,county,Grand Totals,65
+State Senator,37,Over Votes,,county,Grand Totals,3
+State Senator,37,Under Votes,,county,Grand Totals,677
+State Senator,37,Total,,county,Grand Totals,29139
+State Senator,39,Joe Bolkcom,,county,Johnson,19485
+State Senator,39,Write-in,,county,Johnson,486
+State Senator,39,Over Votes,,county,Johnson,2
+State Senator,39,Under Votes,,county,Johnson,8329
+State Senator,39,Total,,county,Johnson,28302
+State Senator,39,Joe Bolkcom,,county,Grand Totals,19485
+State Senator,39,Write-in,,county,Grand Totals,486
+State Senator,39,Over Votes,,county,Grand Totals,2
+State Senator,39,Under Votes,,county,Grand Totals,8329
+State Senator,39,Total,,county,Grand Totals,28302
+State Senator,41,Richard A. Clewell,,county,Scott,9432
+State Senator,41,Roby Smith,,county,Scott,13865
+State Senator,41,Write-in,,county,Scott,41
+State Senator,41,Over Votes,,county,Scott,0
+State Senator,41,Under Votes,,county,Scott,722
+State Senator,41,Total,,county,Scott,24060
+State Senator,41,Richard A. Clewell,,county,Grand Totals,9432
+State Senator,41,Roby Smith,,county,Grand Totals,13865
+State Senator,41,Write-in,,county,Grand Totals,41
+State Senator,41,Over Votes,,county,Grand Totals,0
+State Senator,41,Under Votes,,county,Grand Totals,722
+State Senator,41,Total,,county,Grand Totals,24060
+State Senator,43,Joe M. Seng,,county,Scott,9894
+State Senator,43,Mark J. Riley,,county,Scott,5991
+State Senator,43,Write-in,,county,Scott,11
+State Senator,43,Over Votes,,county,Scott,1
+State Senator,43,Under Votes,,county,Scott,348
+State Senator,43,Total,,county,Scott,16245
+State Senator,43,Joe M. Seng,,county,Grand Totals,9894
+State Senator,43,Mark J. Riley,,county,Grand Totals,5991
+State Senator,43,Write-in,,county,Grand Totals,11
+State Senator,43,Over Votes,,county,Grand Totals,1
+State Senator,43,Under Votes,,county,Grand Totals,348
+State Senator,43,Total,,county,Grand Totals,16245
+State Senator,45,Becky Schmitz,,county,Jefferson,3651
+State Senator,45,Sandra Greiner,,county,Jefferson,2799
+State Senator,45,Douglas William Philips,,county,Jefferson,228
+State Senator,45,Write-in,,county,Jefferson,6
+State Senator,45,Over Votes,,county,Jefferson,0
+State Senator,45,Under Votes,,county,Jefferson,171
+State Senator,45,Total,,county,Jefferson,6855
+State Senator,45,Becky Schmitz,,county,Johnson,1254
+State Senator,45,Sandra Greiner,,county,Johnson,1189
+State Senator,45,Douglas William Philips,,county,Johnson,99
+State Senator,45,Write-in,,county,Johnson,2
+State Senator,45,Over Votes,,county,Johnson,2
+State Senator,45,Under Votes,,county,Johnson,115
+State Senator,45,Total,,county,Johnson,2661
+State Senator,45,Becky Schmitz,,county,Van Buren,1073
+State Senator,45,Sandra Greiner,,county,Van Buren,1465
+State Senator,45,Douglas William Philips,,county,Van Buren,310
+State Senator,45,Write-in,,county,Van Buren,5
+State Senator,45,Over Votes,,county,Van Buren,1
+State Senator,45,Under Votes,,county,Van Buren,80
+State Senator,45,Total,,county,Van Buren,2934
+State Senator,45,Becky Schmitz,,county,Wapello,1010
+State Senator,45,Sandra Greiner,,county,Wapello,1159
+State Senator,45,Douglas William Philips,,county,Wapello,162
+State Senator,45,Write-in,,county,Wapello,3
+State Senator,45,Over Votes,,county,Wapello,0
+State Senator,45,Under Votes,,county,Wapello,78
+State Senator,45,Total,,county,Wapello,2412
+State Senator,45,Becky Schmitz,,county,Washington,3208
+State Senator,45,Sandra Greiner,,county,Washington,5052
+State Senator,45,Douglas William Philips,,county,Washington,332
+State Senator,45,Write-in,,county,Washington,0
+State Senator,45,Over Votes,,county,Washington,2
+State Senator,45,Under Votes,,county,Washington,277
+State Senator,45,Total,,county,Washington,8871
+State Senator,45,Becky Schmitz,,county,Grand Totals,10196
+State Senator,45,Sandra Greiner,,county,Grand Totals,11664
+State Senator,45,Douglas William Philips,,county,Grand Totals,1131
+State Senator,45,Write-in,,county,Grand Totals,16
+State Senator,45,Over Votes,,county,Grand Totals,5
+State Senator,45,Under Votes,,county,Grand Totals,721
+State Senator,45,Total,,county,Grand Totals,23733
+State Senator,47,Keith A. Kreiman,,county,Appanoose,2160
+State Senator,47,Mark Chelgren,,county,Appanoose,2408
+State Senator,47,Write-in,,county,Appanoose,0
+State Senator,47,Over Votes,,county,Appanoose,0
+State Senator,47,Under Votes,,county,Appanoose,94
+State Senator,47,Total,,county,Appanoose,4662
+State Senator,47,Keith A. Kreiman,,county,Davis,1378
+State Senator,47,Mark Chelgren,,county,Davis,1703
+State Senator,47,Write-in,,county,Davis,3
+State Senator,47,Over Votes,,county,Davis,2
+State Senator,47,Under Votes,,county,Davis,63
+State Senator,47,Total,,county,Davis,3149
+State Senator,47,Keith A. Kreiman,,county,Wapello,5111
+State Senator,47,Mark Chelgren,,county,Wapello,4121
+State Senator,47,Write-in,,county,Wapello,13
+State Senator,47,Over Votes,,county,Wapello,3
+State Senator,47,Under Votes,,county,Wapello,336
+State Senator,47,Total,,county,Wapello,9584
+State Senator,47,Keith A. Kreiman,,county,Wayne,923
+State Senator,47,Mark Chelgren,,county,Wayne,1350
+State Senator,47,Write-in,,county,Wayne,1
+State Senator,47,Over Votes,,county,Wayne,0
+State Senator,47,Under Votes,,county,Wayne,82
+State Senator,47,Total,,county,Wayne,2356
+State Senator,47,Keith A. Kreiman,,county,Grand Totals,9572
+State Senator,47,Mark Chelgren,,county,Grand Totals,9582
+State Senator,47,Write-in,,county,Grand Totals,17
+State Senator,47,Over Votes,,county,Grand Totals,5
+State Senator,47,Under Votes,,county,Grand Totals,575
+State Senator,47,Total,,county,Grand Totals,19751
+State Senator,49,Scott Schondelmeyer,,county,Fremont,768
+State Senator,49,Hubert Houser,,county,Fremont,1786
+State Senator,49,Write-in,,county,Fremont,3
+State Senator,49,Over Votes,,county,Fremont,1
+State Senator,49,Under Votes,,county,Fremont,157
+State Senator,49,Total,,county,Fremont,2715
+State Senator,49,Scott Schondelmeyer,,county,Mills,1243
+State Senator,49,Hubert Houser,,county,Mills,3466
+State Senator,49,Write-in,,county,Mills,3
+State Senator,49,Over Votes,,county,Mills,0
+State Senator,49,Under Votes,,county,Mills,244
+State Senator,49,Total,,county,Mills,4956
+State Senator,49,Scott Schondelmeyer,,county,Page,1141
+State Senator,49,Hubert Houser,,county,Page,3559
+State Senator,49,Write-in,,county,Page,3
+State Senator,49,Over Votes,,county,Page,1
+State Senator,49,Under Votes,,county,Page,151
+State Senator,49,Total,,county,Page,4855
+State Senator,49,Scott Schondelmeyer,,county,Pottawattamie,2129
+State Senator,49,Hubert Houser,,county,Pottawattamie,6206
+State Senator,49,Write-in,,county,Pottawattamie,13
+State Senator,49,Over Votes,,county,Pottawattamie,0
+State Senator,49,Under Votes,,county,Pottawattamie,427
+State Senator,49,Total,,county,Pottawattamie,8775
+State Senator,49,Scott Schondelmeyer,,county,Grand Totals,5281
+State Senator,49,Hubert Houser,,county,Grand Totals,15017
+State Senator,49,Write-in,,county,Grand Totals,22
+State Senator,49,Over Votes,,county,Grand Totals,2
+State Senator,49,Under Votes,,county,Grand Totals,979
+State Senator,49,Total,,county,Grand Totals,21301

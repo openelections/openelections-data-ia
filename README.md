@@ -43,3 +43,4 @@ These include:
 * 20030826__ia__special__general__state_house__30__county.pdf
 * 20040203__ia__special__general__state_senate__30__county.pdf
 * 20091124__ia__special__general__state_house__33__precinct.pdf
+* 20100608__ia__primary__county.pdf - Candidate names are in annoying diagonal orientation.  We could manually data enter these, or try to convert to image, rotate, and OCR.
