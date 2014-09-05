@@ -61,3 +61,11 @@ class TestUtil(TestCase):
         ]
         breaks = get_column_breaks(lines)
         self.assertEqual(breaks, [7, 21, 40, 63, 118, 153, 168, 182])
+
+        lines = [
+            "                                                                                 Total",
+            "            Jim Hahn     Shawn         Write-In       Under Votes   Over Votes",
+            "                       Hamerlinck",
+        ]
+        breaks = get_column_breaks(lines)
+        self.assertEqual(breaks, [12, 23, 39, 54, 68, 81])

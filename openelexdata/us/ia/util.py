@@ -115,11 +115,11 @@ def get_column_breaks(lines, whitespace_re=re.compile(r'\s{2,}')):
                 i += 1
 
             i = m.end()
-
+        
         # Assume everything from the end of the last whitespace run and the end
         # of the string is part of a string fragment
-        for j in range(i, len(smap)):
-            smap[i] = True
+        for j in range(i, len(line)):
+            smap[j] = True
 
     for i in range(len(smap)):
         if smap[i] and not smap[i - 1]:
