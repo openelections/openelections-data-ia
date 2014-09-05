@@ -71,6 +71,7 @@ if __name__ == "__main__":
     args = arg_parser.parse_args()
 
     writer = csv.DictWriter(args.outfile, fields)
+    writer.writeheader()
 
     for raw_line in args.infile:
         line = raw_line.strip()
