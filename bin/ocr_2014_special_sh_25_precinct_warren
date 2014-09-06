@@ -1,0 +1,11 @@
+#!/bin/bash
+
+pdfpath=$1
+pdffile=$(basename "$pdfpath")
+filename="${pdffile%.*}"
+pdftoppm -gray $pdfpath $filename
+for f in $filename*.pgm; do
+  mogrify -rotate 270 $f
+  tesseract $f stdout
+  #rm $f
+done
