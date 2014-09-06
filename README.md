@@ -16,7 +16,17 @@ pdftotext -layout pdf/20000606__ia__primary__county.pdf - | ./bin/parse_2000_pri
 
 ### Manual preprocessing
 
+#### 2006 General
+
 pdftotext couldn't extract the text from the PDF file for the county-level 2006-11-07 general election results.  I used Adobe Acrobat Pro 9 to extract the text from the file and saved it to ``txt/20061107__ia__general__county.orig.txt``.  Some of the text was transposed and the spacing made it difficult to parse, so I had to manually clean it up using vim and LibreOffice Calc.  The cleaned text file is saved in ``txt/20061107__ia__general__county.txt``.
+
+#### 2013 Special Election, State Senate District 13 Warren County
+
+This was an Image PDF.  I used pdftoppm, ImageMagick and Tesseract to extract text from the PDF.  These steps are performed in ``bin/ocr_2013_special_ss_13_precinct_warren``.
+
+I then copied and pasted the text into LibreOffice Calc and manually corrected some of the values that were incorrectly recognized by Tesseract.  This data mirrors the layout of the PDF file and is saved in ``input/20131119__ia__special__general__warren__state_senate__13__precinct.csv``.
+
+Finally, I used the script ``bin/reshape_2013_special_precinct_ss_13_warren.py`` to reshape the data from the raw format to our more standard format, with one row per candidate (or pseudo-candidate) result. 
 
 ### Manual entry
 

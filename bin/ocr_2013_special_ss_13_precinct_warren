@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Extract text for the 2013 precinct-level results for the Warren County in
+# the State Senate District 13 contest
+
+pdfpath=$1
+pdffile=$(basename "$pdfpath")
+filename="${pdffile%.*}"
+pdftoppm -gray $pdfpath $filename
+for f in $filename*.pgm; do
+  mogrify -rotate 90 $f
+  tesseract $f stdout
+done

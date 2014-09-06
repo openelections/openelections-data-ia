@@ -1,7 +1,12 @@
 #!/usr/bin/env python
 
-"""Parse 2013 precinct-level general election results for the State Senate
-District 13 contest"""
+"""
+Parse 2013 precinct-level general election Madison county results for the 
+State Senate District 13 contest
+
+Warren county uses an image PDF in a different format
+"""
+
 
 import csv
 import re
