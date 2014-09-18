@@ -126,6 +126,16 @@ class Results(ParserState):
         if cols[0] == "Totals":
             self._context.change_state('root')
 
+    def fix_cols(self, cols):
+        # Fix known case where there's only one space separating the first
+        # (jurisdiction) and second columns.
+        if cols[0] == "POTTAWATTAMIE 12,090":
+            split_vals = cols[0].split(" ")
+            cols[0] = split_vals[0]
+            cols.insert(1, split_vals[1])
+        
+        return cols
+
     def _parse_header(self, header_lines=None):
         #candidate_col_vals = ["Write-In", "Votes", "Totals"]
         party_col_vals = ["Democratic", "Iowa Green", "Party", "Republican",
