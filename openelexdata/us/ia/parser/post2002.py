@@ -96,6 +96,7 @@ class Results(ParserState):
         if len(cols) < 2:
             return
 
+        cols = self._fix_cols(cols)
         jurisdiction = cols[0]
         reporting_level = 'racewide' if jurisdiction == "Totals" else 'county'
         vote_index = 1
@@ -126,7 +127,7 @@ class Results(ParserState):
         if cols[0] == "Totals":
             self._context.change_state('root')
 
-    def fix_cols(self, cols):
+    def _fix_cols(self, cols):
         # Fix known case where there's only one space separating the first
         # (jurisdiction) and second columns.
         if cols[0] == "POTTAWATTAMIE 12,090":
