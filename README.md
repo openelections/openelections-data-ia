@@ -47,6 +47,7 @@ Some files had a small number of results and were in a format that was difficult
 This process was used for the following elections:
 
 * 2000-01-04 Special Election, State Representative, District 53
+* 2002-03-12 Special Election, State Senate, District 10
 
 
 ## TODO
@@ -57,7 +58,6 @@ These include:
 
 * 20020122__ia__special__general__state_house__28__county.pdf
 * 20020219__ia__special__general__state_senate__39__county.pdf
-* 20020312__ia__special__general__state_senate__10__state.pdf
 * 20021105__ia__general__precinct.pdf
 * 20030114__ia__special__general__state_senate__26__county.pdf
 * 20030211__ia__special__general__state_house__62__county.pdf
