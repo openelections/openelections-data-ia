@@ -48,6 +48,9 @@ This process was used for the following elections:
 
 * 2000-01-04 Special Election, State Representative, District 53
 * 2002-03-12 Special Election, State Senate, District 10
+* 2002-01-22 Special Election, State House, District 28
+* 2002-02-19 Special Election, State Senate, District 39
+
 
 
 ## TODO
