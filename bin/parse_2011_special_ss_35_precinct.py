@@ -63,6 +63,7 @@ fields = [
     'reporting_level',
     'jurisdiction',
     'precinct_code',
+    'county',
     'votes',
 ]
 
@@ -99,5 +100,6 @@ if __name__ == "__main__":
                     'jurisdiction': "{} {!s}".format(precinct_place_name,
                         precinct_number).strip(),
                     'precinct_code': precinct_code,
+                    'county': "Polk",
                     'votes': votes,
                 })
