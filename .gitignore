@@ -1,2 +1,16 @@
 *.swp
 *.pyc
+bin/activate
+bin/activate*
+bin/easy_install
+bin/easy_install*
+bin/pip
+bin/pip*
+bin/python
+bin/python*
+bin/runxlrd.py
+bin/wheel
+include/
+lib/
+.Python
+pip-selfcheck.json
