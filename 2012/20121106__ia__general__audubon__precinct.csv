@@ -1,0 +1,446 @@
+county,precinct,office,district,party,candidate,absentee,election_date,votes
+Audubon,Precinct One,President/Vice President,,Republican,Mitt Romney Paul Ryan,471.0,591.0,1062.0
+Audubon,Precinct One,President/Vice President,,Democratic,Barack Obama Joe Biden,395.0,443.0,838.0
+Audubon,Precinct One,President/Vice President,,Constitution,Virgil Goode James Clymer,4.0,1.0,5.0
+Audubon,Precinct One,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,4.0,3.0,7.0
+Audubon,Precinct One,President/Vice President,,Libertarian,Gary Johnson James P. Gray,0.0,4.0,4.0
+Audubon,Precinct One,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,1.0,1.0
+Audubon,Precinct One,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,1.0,1.0
+Audubon,Precinct One,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,1.0,0.0,1.0
+Audubon,Precinct One,President/Vice President,,,Write-In,3.0,3.0,6.0
+Audubon,Precinct One,President/Vice President,,,Under Votes,14.0,12.0,26.0
+Audubon,Precinct One,President/Vice President,,,Over Votes,2.0,0.0,2.0
+Audubon,Precinct Two,President/Vice President,,Republican,Mitt Romney Paul Ryan,252.0,488.0,740.0
+Audubon,Precinct Two,President/Vice President,,Democratic,Barack Obama Joe Biden,316.0,457.0,773.0
+Audubon,Precinct Two,President/Vice President,,Constitution,Virgil Goode James Clymer,3.0,0.0,3.0
+Audubon,Precinct Two,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,0.0,1.0,1.0
+Audubon,Precinct Two,President/Vice President,,Libertarian,Gary Johnson James P. Gray,2.0,6.0,8.0
+Audubon,Precinct Two,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,0.0,0.0
+Audubon,Precinct Two,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,0.0,0.0
+Audubon,Precinct Two,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,1.0,0.0,1.0
+Audubon,Precinct Two,President/Vice President,,,Write-In,1.0,5.0,6.0
+Audubon,Precinct Two,President/Vice President,,,Under Votes,1.0,15.0,16.0
+Audubon,Precinct Two,President/Vice President,,,Over Votes,3.0,2.0,5.0
+Audubon,,President/Vice President,,Republican,Mitt Romney Paul Ryan,723.0,1079.0,1802.0
+Audubon,,President/Vice President,,Democratic,Barack Obama Joe Biden,711.0,900.0,1611.0
+Audubon,,President/Vice President,,Constitution,Virgil Goode James Clymer,7.0,1.0,8.0
+Audubon,,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,4.0,4.0,8.0
+Audubon,,President/Vice President,,Libertarian,Gary Johnson James P. Gray,2.0,10.0,12.0
+Audubon,,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,1.0,1.0
+Audubon,,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,1.0,1.0
+Audubon,,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,2.0,0.0,2.0
+Audubon,,President/Vice President,,,Write-In,4.0,8.0,12.0
+Audubon,,President/Vice President,,,Under Votes,15.0,27.0,42.0
+Audubon,,President/Vice President,,,Over Votes,5.0,2.0,7.0
+Audubon,Precinct One,U.S. House of Representatives,4,Republican,Steve King,457.0,568.0,1025.0
+Audubon,Precinct One,U.S. House of Representatives,4,Democratic,Christie Vilsack,388.0,429.0,817.0
+Audubon,Precinct One,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,19.0,22.0,41.0
+Audubon,Precinct One,U.S. House of Representatives,4,,Write-In,0.0,0.0,0.0
+Audubon,Precinct One,U.S. House of Representatives,4,,Under Votes,29.0,38.0,67.0
+Audubon,Precinct One,U.S. House of Representatives,4,,Over Votes,1.0,2.0,3.0
+Audubon,Precinct Two,U.S. House of Representatives,4,Republican,Steve King,254.0,478.0,732.0
+Audubon,Precinct Two,U.S. House of Representatives,4,Democratic,Christie Vilsack,297.0,417.0,714.0
+Audubon,Precinct Two,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,10.0,30.0,40.0
+Audubon,Precinct Two,U.S. House of Representatives,4,,Write-In,0.0,0.0,0.0
+Audubon,Precinct Two,U.S. House of Representatives,4,,Under Votes,17.0,49.0,66.0
+Audubon,Precinct Two,U.S. House of Representatives,4,,Over Votes,1.0,0.0,1.0
+Audubon,,U.S. House of Representatives,4,Republican,Steve King,711.0,1046.0,1757.0
+Audubon,,U.S. House of Representatives,4,Democratic,Christie Vilsack,685.0,846.0,1531.0
+Audubon,,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,29.0,52.0,81.0
+Audubon,,U.S. House of Representatives,4,,Write-In,0.0,0.0,0.0
+Audubon,,U.S. House of Representatives,4,,Under Votes,46.0,87.0,133.0
+Audubon,,U.S. House of Representatives,4,,Over Votes,2.0,2.0,4.0
+Audubon,Precinct One,State Senator,6,Republican,Mark Segebart,437.0,573.0,1010.0
+Audubon,Precinct One,State Senator,6,Democratic,Mary C. Bruner,371.0,363.0,734.0
+Audubon,Precinct One,State Senator,6,,Write-In,0.0,0.0,0.0
+Audubon,Precinct One,State Senator,6,,Under Votes,86.0,123.0,209.0
+Audubon,Precinct One,State Senator,6,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct Two,State Senator,6,Republican,Mark Segebart,238.0,477.0,715.0
+Audubon,Precinct Two,State Senator,6,Democratic,Mary C. Bruner,281.0,371.0,652.0
+Audubon,Precinct Two,State Senator,6,,Write-In,0.0,1.0,1.0
+Audubon,Precinct Two,State Senator,6,,Under Votes,59.0,125.0,184.0
+Audubon,Precinct Two,State Senator,6,,Over Votes,1.0,0.0,1.0
+Audubon,,State Senator,6,Republican,Mark Segebart,675.0,1050.0,1725.0
+Audubon,,State Senator,6,Democratic,Mary C. Bruner,652.0,734.0,1386.0
+Audubon,,State Senator,6,,Write-In,0.0,1.0,1.0
+Audubon,,State Senator,6,,Under Votes,145.0,248.0,393.0
+Audubon,,State Senator,6,,Over Votes,1.0,0.0,1.0
+Audubon,Precinct One,State Representative,12,Republican,Barney Bornhoft,352.0,413.0,765.0
+Audubon,Precinct One,State Representative,12,Democratic,Dan Muhlbauer,460.0,544.0,1004.0
+Audubon,Precinct One,State Representative,12,,Write-In,0.0,0.0,0.0
+Audubon,Precinct One,State Representative,12,,Under Votes,80.0,102.0,182.0
+Audubon,Precinct One,State Representative,12,,Over Votes,2.0,0.0,2.0
+Audubon,Precinct Two,State Representative,12,Republican,Barney Bornhoft,203.0,378.0,581.0
+Audubon,Precinct Two,State Representative,12,Democratic,Dan Muhlbauer,315.0,462.0,777.0
+Audubon,Precinct Two,State Representative,12,,Write-In,0.0,2.0,2.0
+Audubon,Precinct Two,State Representative,12,,Under Votes,61.0,132.0,193.0
+Audubon,Precinct Two,State Representative,12,,Over Votes,0.0,0.0,0.0
+Audubon,,State Representative,12,Republican,Barney Bornhoft,555.0,791.0,1346.0
+Audubon,,State Representative,12,Democratic,Dan Muhlbauer,775.0,1006.0,1781.0
+Audubon,,State Representative,12,,Write-In,0.0,2.0,2.0
+Audubon,,State Representative,12,,Under Votes,141.0,234.0,375.0
+Audubon,,State Representative,12,,Over Votes,2.0,0.0,2.0
+Audubon,Precinct One,Board of Supervisors,,Republican,Duane Deist,387.0,499.0,886.0
+Audubon,Precinct One,Board of Supervisors,,Republican,Todd M. Nelsen,479.0,596.0,1075.0
+Audubon,Precinct One,Board of Supervisors,,Democratic,Jerry R. Carter,308.0,304.0,612.0
+Audubon,Precinct One,Board of Supervisors,,Democratic,Kent Grabill,391.0,444.0,835.0
+Audubon,Precinct One,Board of Supervisors,,,Write-In,3.0,2.0,5.0
+Audubon,Precinct One,Board of Supervisors,,,Under Votes,216.0,273.0,489.0
+Audubon,Precinct One,Board of Supervisors,,,Over Votes,4.0,0.0,4.0
+Audubon,Precinct Two,Board of Supervisors,,Republican,Duane Deist,243.0,426.0,669.0
+Audubon,Precinct Two,Board of Supervisors,,Republican,Todd M. Nelsen,279.0,466.0,745.0
+Audubon,Precinct Two,Board of Supervisors,,Democratic,Jerry R. Carter,208.0,263.0,471.0
+Audubon,Precinct Two,Board of Supervisors,,Democratic,Kent Grabill,285.0,425.0,710.0
+Audubon,Precinct Two,Board of Supervisors,,,Write-In,0.0,2.0,2.0
+Audubon,Precinct Two,Board of Supervisors,,,Under Votes,141.0,366.0,507.0
+Audubon,Precinct Two,Board of Supervisors,,,Over Votes,2.0,0.0,2.0
+Audubon,,Board of Supervisors,,Republican,Duane Deist,630.0,925.0,1555.0
+Audubon,,Board of Supervisors,,Republican,Todd M. Nelsen,758.0,1062.0,1820.0
+Audubon,,Board of Supervisors,,Democratic,Jerry R. Carter,516.0,567.0,1083.0
+Audubon,,Board of Supervisors,,Democratic,Kent Grabill,676.0,869.0,1545.0
+Audubon,,Board of Supervisors,,,Write-In,3.0,4.0,7.0
+Audubon,,Board of Supervisors,,,Under Votes,357.0,639.0,996.0
+Audubon,,Board of Supervisors,,,Over Votes,6.0,0.0,6.0
+Audubon,Precinct One,County Auditor,,Republican,Lisa Frederiksen,762.0,885.0,1647.0
+Audubon,Precinct One,County Auditor,,,Write-In,2.0,8.0,10.0
+Audubon,Precinct One,County Auditor,,,Under Votes,130.0,165.0,295.0
+Audubon,Precinct One,County Auditor,,,Over Votes,0.0,1.0,1.0
+Audubon,Precinct Two,County Auditor,,Republican,Lisa Frederiksen,455.0,760.0,1215.0
+Audubon,Precinct Two,County Auditor,,,Write-In,2.0,2.0,4.0
+Audubon,Precinct Two,County Auditor,,,Under Votes,122.0,211.0,333.0
+Audubon,Precinct Two,County Auditor,,,Over Votes,0.0,1.0,1.0
+Audubon,,County Auditor,,Republican,Lisa Frederiksen,1217.0,1645.0,2862.0
+Audubon,,County Auditor,,,Write-In,4.0,10.0,14.0
+Audubon,,County Auditor,,,Under Votes,252.0,376.0,628.0
+Audubon,,County Auditor,,,Over Votes,0.0,2.0,2.0
+Audubon,Precinct One,County Sheriff,,Republican,Todd W. Johnson,636.0,765.0,1401.0
+Audubon,Precinct One,County Sheriff,,Democratic,Blake Asberry,243.0,275.0,518.0
+Audubon,Precinct One,County Sheriff,,,Write-In,2.0,2.0,4.0
+Audubon,Precinct One,County Sheriff,,,Under Votes,13.0,17.0,30.0
+Audubon,Precinct One,County Sheriff,,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct Two,County Sheriff,,Republican,Todd W. Johnson,382.0,596.0,978.0
+Audubon,Precinct Two,County Sheriff,,Democratic,Blake Asberry,190.0,373.0,563.0
+Audubon,Precinct Two,County Sheriff,,,Write-In,1.0,0.0,1.0
+Audubon,Precinct Two,County Sheriff,,,Under Votes,6.0,5.0,11.0
+Audubon,Precinct Two,County Sheriff,,,Over Votes,0.0,0.0,0.0
+Audubon,,County Sheriff,,Republican,Todd W. Johnson,1018.0,1361.0,2379.0
+Audubon,,County Sheriff,,Democratic,Blake Asberry,433.0,648.0,1081.0
+Audubon,,County Sheriff,,,Write-In,3.0,2.0,5.0
+Audubon,,County Sheriff,,,Under Votes,19.0,22.0,41.0
+Audubon,,County Sheriff,,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct One,County Treasurer (vacancy term ending 12/31/14),,Democratic,Debbie Campbell,710.0,838.0,1548.0
+Audubon,Precinct One,County Treasurer (vacancy term ending 12/31/14),,,Write-In,7.0,17.0,24.0
+Audubon,Precinct One,County Treasurer (vacancy term ending 12/31/14),,,Under Votes,177.0,204.0,381.0
+Audubon,Precinct One,County Treasurer (vacancy term ending 12/31/14),,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct Two,County Treasurer (vacancy term ending 12/31/14),,Democratic,Debbie Campbell,429.0,706.0,1135.0
+Audubon,Precinct Two,County Treasurer (vacancy term ending 12/31/14),,,Write-In,4.0,17.0,21.0
+Audubon,Precinct Two,County Treasurer (vacancy term ending 12/31/14),,,Under Votes,146.0,251.0,397.0
+Audubon,Precinct Two,County Treasurer (vacancy term ending 12/31/14),,,Over Votes,0.0,0.0,0.0
+Audubon,,County Treasurer (vacancy term ending 12/31/14),,Democratic,Debbie Campbell,1139.0,1544.0,2683.0
+Audubon,,County Treasurer (vacancy term ending 12/31/14),,,Write-In,11.0,34.0,45.0
+Audubon,,County Treasurer (vacancy term ending 12/31/14),,,Under Votes,323.0,455.0,778.0
+Audubon,,County Treasurer (vacancy term ending 12/31/14),,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct Two,Audubon Township Trustee,,,Write-In,3.0,17.0,20.0
+Audubon,Precinct Two,Audubon Township Trustee,,,Under Votes,67.0,157.0,224.0
+Audubon,Precinct Two,Audubon Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,,Audubon Township Trustee,,,Write-In,3.0,17.0,20.0
+Audubon,,Audubon Township Trustee,,,Under Votes,67.0,157.0,224.0
+Audubon,,Audubon Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct One,Cameron Township Trustee,,,Howard Weitl Nonpartisan,40.0,19.0,59.0
+Audubon,Precinct One,Cameron Township Trustee,,,Write-In,4.0,0.0,4.0
+Audubon,Precinct One,Cameron Township Trustee,,,Under Votes,56.0,31.0,87.0
+Audubon,Precinct One,Cameron Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,,Cameron Township Trustee,,,Howard Weitl Nonpartisan,40.0,19.0,59.0
+Audubon,,Cameron Township Trustee,,,Write-In,4.0,0.0,4.0
+Audubon,,Cameron Township Trustee,,,Under Votes,56.0,31.0,87.0
+Audubon,,Cameron Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct One,Douglas Township Trustee,,,Keith Grabill Nonpartisan,36.0,66.0,102.0
+Audubon,Precinct One,Douglas Township Trustee,,,Richard Zinke Nonpartisan,38.0,59.0,97.0
+Audubon,Precinct One,Douglas Township Trustee,,,Write-In,0.0,2.0,2.0
+Audubon,Precinct One,Douglas Township Trustee,,,Under Votes,28.0,41.0,69.0
+Audubon,Precinct One,Douglas Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,,Douglas Township Trustee,,,Keith Grabill Nonpartisan,36.0,66.0,102.0
+Audubon,,Douglas Township Trustee,,,Richard Zinke Nonpartisan,38.0,59.0,97.0
+Audubon,,Douglas Township Trustee,,,Write-In,0.0,2.0,2.0
+Audubon,,Douglas Township Trustee,,,Under Votes,28.0,41.0,69.0
+Audubon,,Douglas Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct Two,Exira Township Trustee,,,Robert C. Hansen Nonpartisan,28.0,83.0,111.0
+Audubon,Precinct Two,Exira Township Trustee,,,David Schlater Nonpartisan,26.0,67.0,93.0
+Audubon,Precinct Two,Exira Township Trustee,,,Write-In,0.0,3.0,3.0
+Audubon,Precinct Two,Exira Township Trustee,,,Under Votes,30.0,111.0,141.0
+Audubon,Precinct Two,Exira Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,,Exira Township Trustee,,,Robert C. Hansen Nonpartisan,28.0,83.0,111.0
+Audubon,,Exira Township Trustee,,,David Schlater Nonpartisan,26.0,67.0,93.0
+Audubon,,Exira Township Trustee,,,Write-In,0.0,3.0,3.0
+Audubon,,Exira Township Trustee,,,Under Votes,30.0,111.0,141.0
+Audubon,,Exira Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct Two,Greeley Township Trustee,,,David Jensen Nonpartisan,32.0,43.0,75.0
+Audubon,Precinct Two,Greeley Township Trustee,,,Mike D. Bauer Nonpartisan,24.0,23.0,47.0
+Audubon,Precinct Two,Greeley Township Trustee,,,Write-In,0.0,1.0,1.0
+Audubon,Precinct Two,Greeley Township Trustee,,,Under Votes,22.0,41.0,63.0
+Audubon,Precinct Two,Greeley Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,,Greeley Township Trustee,,,David Jensen Nonpartisan,32.0,43.0,75.0
+Audubon,,Greeley Township Trustee,,,Mike D. Bauer Nonpartisan,24.0,23.0,47.0
+Audubon,,Greeley Township Trustee,,,Write-In,0.0,1.0,1.0
+Audubon,,Greeley Township Trustee,,,Under Votes,22.0,41.0,63.0
+Audubon,,Greeley Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct Two,Hamlin Township Trustee,,,Ron Mullenger Nonpartisan,49.0,63.0,112.0
+Audubon,Precinct Two,Hamlin Township Trustee,,,John Osvald Nonpartisan,36.0,48.0,84.0
+Audubon,Precinct Two,Hamlin Township Trustee,,,Write-In,0.0,1.0,1.0
+Audubon,Precinct Two,Hamlin Township Trustee,,,Under Votes,49.0,50.0,99.0
+Audubon,Precinct Two,Hamlin Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,,Hamlin Township Trustee,,,Ron Mullenger Nonpartisan,49.0,63.0,112.0
+Audubon,,Hamlin Township Trustee,,,John Osvald Nonpartisan,36.0,48.0,84.0
+Audubon,,Hamlin Township Trustee,,,Write-In,0.0,1.0,1.0
+Audubon,,Hamlin Township Trustee,,,Under Votes,49.0,50.0,99.0
+Audubon,,Hamlin Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct One,Leroy Township Trustee,,,Ivan B. Andersen Nonpartisan,59.0,79.0,138.0
+Audubon,Precinct One,Leroy Township Trustee,,,Mark McLaughlin Nonpartisan,63.0,98.0,161.0
+Audubon,Precinct One,Leroy Township Trustee,,,Write-In,1.0,2.0,3.0
+Audubon,Precinct One,Leroy Township Trustee,,,Under Votes,49.0,97.0,146.0
+Audubon,Precinct One,Leroy Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,,Leroy Township Trustee,,,Ivan B. Andersen Nonpartisan,59.0,79.0,138.0
+Audubon,,Leroy Township Trustee,,,Mark McLaughlin Nonpartisan,63.0,98.0,161.0
+Audubon,,Leroy Township Trustee,,,Write-In,1.0,2.0,3.0
+Audubon,,Leroy Township Trustee,,,Under Votes,49.0,97.0,146.0
+Audubon,,Leroy Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct One,Lincoln Township Trustee,,,Write-In,22.0,16.0,38.0
+Audubon,Precinct One,Lincoln Township Trustee,,,Under Votes,114.0,114.0,228.0
+Audubon,Precinct One,Lincoln Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,,Lincoln Township Trustee,,,Write-In,22.0,16.0,38.0
+Audubon,,Lincoln Township Trustee,,,Under Votes,114.0,114.0,228.0
+Audubon,,Lincoln Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct One,Melville Township Trustee,,,Randy Klever Nonpartisan,13.0,39.0,52.0
+Audubon,Precinct One,Melville Township Trustee,,,Duane Sloth Nonpartisan,14.0,31.0,45.0
+Audubon,Precinct One,Melville Township Trustee,,,Write-In,0.0,0.0,0.0
+Audubon,Precinct One,Melville Township Trustee,,,Under Votes,13.0,26.0,39.0
+Audubon,Precinct One,Melville Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,,Melville Township Trustee,,,Randy Klever Nonpartisan,13.0,39.0,52.0
+Audubon,,Melville Township Trustee,,,Duane Sloth Nonpartisan,14.0,31.0,45.0
+Audubon,,Melville Township Trustee,,,Write-In,0.0,0.0,0.0
+Audubon,,Melville Township Trustee,,,Under Votes,13.0,26.0,39.0
+Audubon,,Melville Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct Two,Oakfield Township Trustee,,,Write-In,7.0,28.0,35.0
+Audubon,Precinct Two,Oakfield Township Trustee,,,Under Votes,107.0,176.0,283.0
+Audubon,Precinct Two,Oakfield Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,,Oakfield Township Trustee,,,Write-In,7.0,28.0,35.0
+Audubon,,Oakfield Township Trustee,,,Under Votes,107.0,176.0,283.0
+Audubon,,Oakfield Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct Two,Sharon Township Trustee,,,Write-In,16.0,5.0,21.0
+Audubon,Precinct Two,Sharon Township Trustee,,,Under Votes,154.0,149.0,303.0
+Audubon,Precinct Two,Sharon Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,,Sharon Township Trustee,,,Write-In,16.0,5.0,21.0
+Audubon,,Sharon Township Trustee,,,Under Votes,154.0,149.0,303.0
+Audubon,,Sharon Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct One,Viola Township Trustee,,,Larry Anthofer Nonpartisan,43.0,24.0,67.0
+Audubon,Precinct One,Viola Township Trustee,,,Write-In,3.0,5.0,8.0
+Audubon,Precinct One,Viola Township Trustee,,,Under Votes,52.0,23.0,75.0
+Audubon,Precinct One,Viola Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,,Viola Township Trustee,,,Larry Anthofer Nonpartisan,43.0,24.0,67.0
+Audubon,,Viola Township Trustee,,,Write-In,3.0,5.0,8.0
+Audubon,,Viola Township Trustee,,,Under Votes,52.0,23.0,75.0
+Audubon,,Viola Township Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct One,Public Hospital Trustee,,,Marlene Ballou Nonpartisan,566.0,681.0,1247.0
+Audubon,Precinct One,Public Hospital Trustee,,,Paul R. Schultz Nonpartisan,570.0,691.0,1261.0
+Audubon,Precinct One,Public Hospital Trustee,,,Jay Dee Mendenhall Nonpartisan,497.0,576.0,1073.0
+Audubon,Precinct One,Public Hospital Trustee,,,Write-In,5.0,4.0,9.0
+Audubon,Precinct One,Public Hospital Trustee,,,Under Votes,1038.0,1225.0,2263.0
+Audubon,Precinct One,Public Hospital Trustee,,,Over Votes,6.0,0.0,6.0
+Audubon,Precinct Two,Public Hospital Trustee,,,Marlene Ballou Nonpartisan,347.0,620.0,967.0
+Audubon,Precinct Two,Public Hospital Trustee,,,Paul R. Schultz Nonpartisan,295.0,505.0,800.0
+Audubon,Precinct Two,Public Hospital Trustee,,,Jay Dee Mendenhall Nonpartisan,261.0,427.0,688.0
+Audubon,Precinct Two,Public Hospital Trustee,,,Write-In,1.0,4.0,5.0
+Audubon,Precinct Two,Public Hospital Trustee,,,Under Votes,833.0,1366.0,2199.0
+Audubon,Precinct Two,Public Hospital Trustee,,,Over Votes,0.0,0.0,0.0
+Audubon,,Public Hospital Trustee,,,Marlene Ballou Nonpartisan,913.0,1301.0,2214.0
+Audubon,,Public Hospital Trustee,,,Paul R. Schultz Nonpartisan,865.0,1196.0,2061.0
+Audubon,,Public Hospital Trustee,,,Jay Dee Mendenhall Nonpartisan,758.0,1003.0,1761.0
+Audubon,,Public Hospital Trustee,,,Write-In,6.0,8.0,14.0
+Audubon,,Public Hospital Trustee,,,Under Votes,1871.0,2591.0,4462.0
+Audubon,,Public Hospital Trustee,,,Over Votes,6.0,0.0,6.0
+Audubon,Precinct One,Soil and Water Conservation,Commissioner,,Charles J. Hansen Nonpartisan,540.0,613.0,1153.0
+Audubon,Precinct One,Soil and Water Conservation,Commissioner,,Virgil C. Sorensen Nonpartisan,553.0,621.0,1174.0
+Audubon,Precinct One,Soil and Water Conservation,Commissioner,,Russell A. Bruhn Nonpartisan,578.0,648.0,1226.0
+Audubon,Precinct One,Soil and Water Conservation,Commissioner,,Write-In,3.0,2.0,5.0
+Audubon,Precinct One,Soil and Water Conservation,Commissioner,,Under Votes,1005.0,1287.0,2292.0
+Audubon,Precinct One,Soil and Water Conservation,Commissioner,,Over Votes,3.0,6.0,9.0
+Audubon,Precinct Two,Soil and Water Conservation,Commissioner,,Charles J. Hansen Nonpartisan,291.0,474.0,765.0
+Audubon,Precinct Two,Soil and Water Conservation,Commissioner,,Virgil C. Sorensen Nonpartisan,358.0,633.0,991.0
+Audubon,Precinct Two,Soil and Water Conservation,Commissioner,,Russell A. Bruhn Nonpartisan,265.0,434.0,699.0
+Audubon,Precinct Two,Soil and Water Conservation,Commissioner,,Write-In,1.0,3.0,4.0
+Audubon,Precinct Two,Soil and Water Conservation,Commissioner,,Under Votes,822.0,1378.0,2200.0
+Audubon,Precinct Two,Soil and Water Conservation,Commissioner,,Over Votes,0.0,0.0,0.0
+Audubon,,Soil and Water Conservation,Commissioner,,Charles J. Hansen Nonpartisan,831.0,1087.0,1918.0
+Audubon,,Soil and Water Conservation,Commissioner,,Virgil C. Sorensen Nonpartisan,911.0,1254.0,2165.0
+Audubon,,Soil and Water Conservation,Commissioner,,Russell A. Bruhn Nonpartisan,843.0,1082.0,1925.0
+Audubon,,Soil and Water Conservation,Commissioner,,Write-In,4.0,5.0,9.0
+Audubon,,Soil and Water Conservation,Commissioner,,Under Votes,1827.0,2665.0,4492.0
+Audubon,,Soil and Water Conservation,Commissioner,,Over Votes,3.0,6.0,9.0
+Audubon,Precinct One,County Agricultural Extension Council Member,,,Bryan Svoboda Nonpartisan,545.0,660.0,1205.0
+Audubon,Precinct One,County Agricultural Extension Council Member,,,Sandra Irlmeier Nonpartisan,454.0,510.0,964.0
+Audubon,Precinct One,County Agricultural Extension Council Member,,,Thomas R. Hansen Nonpartisan,465.0,544.0,1009.0
+Audubon,Precinct One,County Agricultural Extension Council Member,,,Randy Dreher Nonpartisan,480.0,548.0,1028.0
+Audubon,Precinct One,County Agricultural Extension Council Member,,,Write-In,5.0,3.0,8.0
+Audubon,Precinct One,County Agricultural Extension Council Member,,,Under Votes,1623.0,1971.0,3594.0
+Audubon,Precinct One,County Agricultural Extension Council Member,,,Over Votes,4.0,0.0,4.0
+Audubon,Precinct Two,County Agricultural Extension Council Member,,,Bryan Svoboda Nonpartisan,279.0,523.0,802.0
+Audubon,Precinct Two,County Agricultural Extension Council Member,,,Sandra Irlmeier Nonpartisan,266.0,473.0,739.0
+Audubon,Precinct Two,County Agricultural Extension Council Member,,,Thomas R. Hansen Nonpartisan,271.0,443.0,714.0
+Audubon,Precinct Two,County Agricultural Extension Council Member,,,Randy Dreher Nonpartisan,262.0,432.0,694.0
+Audubon,Precinct Two,County Agricultural Extension Council Member,,,Write-In,2.0,5.0,7.0
+Audubon,Precinct Two,County Agricultural Extension Council Member,,,Under Votes,1236.0,2020.0,3256.0
+Audubon,Precinct Two,County Agricultural Extension Council Member,,,Over Votes,0.0,0.0,0.0
+Audubon,,County Agricultural Extension Council Member,,,Bryan Svoboda Nonpartisan,824.0,1183.0,2007.0
+Audubon,,County Agricultural Extension Council Member,,,Sandra Irlmeier Nonpartisan,720.0,983.0,1703.0
+Audubon,,County Agricultural Extension Council Member,,,Thomas R. Hansen Nonpartisan,736.0,987.0,1723.0
+Audubon,,County Agricultural Extension Council Member,,,Randy Dreher Nonpartisan,742.0,980.0,1722.0
+Audubon,,County Agricultural Extension Council Member,,,Write-In,7.0,8.0,15.0
+Audubon,,County Agricultural Extension Council Member,,,Under Votes,2859.0,3991.0,6850.0
+Audubon,,County Agricultural Extension Council Member,,,Over Votes,4.0,0.0,4.0
+Audubon,Precinct One,County Agricultural Extension Council Member (vacancy term ending 12-31-2014),,,Aaron Bruhn Nonpartisan,599.0,687.0,1286.0
+Audubon,Precinct One,County Agricultural Extension Council Member (vacancy term ending 12-31-2014),,,Margo Fuller Nonpartisan,383.0,464.0,847.0
+Audubon,Precinct One,County Agricultural Extension Council Member (vacancy term ending 12-31-2014),,,Write-In,8.0,5.0,13.0
+Audubon,Precinct One,County Agricultural Extension Council Member (vacancy term ending 12-31-2014),,,Under Votes,798.0,962.0,1760.0
+Audubon,Precinct One,County Agricultural Extension Council Member (vacancy term ending 12-31-2014),,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct Two,County Agricultural Extension Council Member (vacancy term ending 12-31-2014),,,Aaron Bruhn Nonpartisan,289.0,522.0,811.0
+Audubon,Precinct Two,County Agricultural Extension Council Member (vacancy term ending 12-31-2014),,,Margo Fuller Nonpartisan,255.0,435.0,690.0
+Audubon,Precinct Two,County Agricultural Extension Council Member (vacancy term ending 12-31-2014),,,Write-In,0.0,2.0,2.0
+Audubon,Precinct Two,County Agricultural Extension Council Member (vacancy term ending 12-31-2014),,,Under Votes,614.0,989.0,1603.0
+Audubon,Precinct Two,County Agricultural Extension Council Member (vacancy term ending 12-31-2014),,,Over Votes,0.0,0.0,0.0
+Audubon,,County Agricultural Extension Council Member (vacancy term ending 12-31-2014),,,Aaron Bruhn Nonpartisan,888.0,1209.0,2097.0
+Audubon,,County Agricultural Extension Council Member (vacancy term ending 12-31-2014),,,Margo Fuller Nonpartisan,638.0,899.0,1537.0
+Audubon,,County Agricultural Extension Council Member (vacancy term ending 12-31-2014),,,Write-In,8.0,7.0,15.0
+Audubon,,County Agricultural Extension Council Member (vacancy term ending 12-31-2014),,,Under Votes,1412.0,1951.0,3363.0
+Audubon,,County Agricultural Extension Council Member (vacancy term ending 12-31-2014),,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct One,Supreme Court Justice Edward Mansfield,,,Yes,387.0,448.0,835.0
+Audubon,Precinct One,Supreme Court Justice Edward Mansfield,,,No,148.0,202.0,350.0
+Audubon,Precinct One,Supreme Court Justice Edward Mansfield,,,Under Votes,357.0,408.0,765.0
+Audubon,Precinct One,Supreme Court Justice Edward Mansfield,,,Over Votes,2.0,1.0,3.0
+Audubon,Precinct Two,Supreme Court Justice Edward Mansfield,,,Yes,241.0,428.0,669.0
+Audubon,Precinct Two,Supreme Court Justice Edward Mansfield,,,No,94.0,215.0,309.0
+Audubon,Precinct Two,Supreme Court Justice Edward Mansfield,,,Under Votes,244.0,331.0,575.0
+Audubon,Precinct Two,Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,0.0,0.0
+Audubon,,Supreme Court Justice Edward Mansfield,,,Yes,628.0,876.0,1504.0
+Audubon,,Supreme Court Justice Edward Mansfield,,,No,242.0,417.0,659.0
+Audubon,,Supreme Court Justice Edward Mansfield,,,Under Votes,601.0,739.0,1340.0
+Audubon,,Supreme Court Justice Edward Mansfield,,,Over Votes,2.0,1.0,3.0
+Audubon,Precinct One,Supreme Court Justice Thomas D. Waterman,,,Yes,377.0,446.0,823.0
+Audubon,Precinct One,Supreme Court Justice Thomas D. Waterman,,,No,143.0,190.0,333.0
+Audubon,Precinct One,Supreme Court Justice Thomas D. Waterman,,,Under Votes,372.0,422.0,794.0
+Audubon,Precinct One,Supreme Court Justice Thomas D. Waterman,,,Over Votes,2.0,1.0,3.0
+Audubon,Precinct Two,Supreme Court Justice Thomas D. Waterman,,,Yes,240.0,418.0,658.0
+Audubon,Precinct Two,Supreme Court Justice Thomas D. Waterman,,,No,87.0,207.0,294.0
+Audubon,Precinct Two,Supreme Court Justice Thomas D. Waterman,,,Under Votes,251.0,349.0,600.0
+Audubon,Precinct Two,Supreme Court Justice Thomas D. Waterman,,,Over Votes,1.0,0.0,1.0
+Audubon,,Supreme Court Justice Thomas D. Waterman,,,Yes,617.0,864.0,1481.0
+Audubon,,Supreme Court Justice Thomas D. Waterman,,,No,230.0,397.0,627.0
+Audubon,,Supreme Court Justice Thomas D. Waterman,,,Under Votes,623.0,771.0,1394.0
+Audubon,,Supreme Court Justice Thomas D. Waterman,,,Over Votes,3.0,1.0,4.0
+Audubon,Precinct One,Supreme Court Justice David S. Wiggins,,,Yes,305.0,297.0,602.0
+Audubon,Precinct One,Supreme Court Justice David S. Wiggins,,,No,342.0,520.0,862.0
+Audubon,Precinct One,Supreme Court Justice David S. Wiggins,,,Under Votes,246.0,241.0,487.0
+Audubon,Precinct One,Supreme Court Justice David S. Wiggins,,,Over Votes,1.0,1.0,2.0
+Audubon,Precinct Two,Supreme Court Justice David S. Wiggins,,,Yes,204.0,282.0,486.0
+Audubon,Precinct Two,Supreme Court Justice David S. Wiggins,,,No,191.0,459.0,650.0
+Audubon,Precinct Two,Supreme Court Justice David S. Wiggins,,,Under Votes,184.0,233.0,417.0
+Audubon,Precinct Two,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Audubon,,Supreme Court Justice David S. Wiggins,,,Yes,509.0,579.0,1088.0
+Audubon,,Supreme Court Justice David S. Wiggins,,,No,533.0,979.0,1512.0
+Audubon,,Supreme Court Justice David S. Wiggins,,,Under Votes,430.0,474.0,904.0
+Audubon,,Supreme Court Justice David S. Wiggins,,,Over Votes,1.0,1.0,2.0
+Audubon,Precinct One,Supreme Court Justice Bruce B. Zager,,,Yes,366.0,441.0,807.0
+Audubon,Precinct One,Supreme Court Justice Bruce B. Zager,,,No,147.0,179.0,326.0
+Audubon,Precinct One,Supreme Court Justice Bruce B. Zager,,,Under Votes,380.0,439.0,819.0
+Audubon,Precinct One,Supreme Court Justice Bruce B. Zager,,,Over Votes,1.0,0.0,1.0
+Audubon,Precinct Two,Supreme Court Justice Bruce B. Zager,,,Yes,237.0,397.0,634.0
+Audubon,Precinct Two,Supreme Court Justice Bruce B. Zager,,,No,87.0,199.0,286.0
+Audubon,Precinct Two,Supreme Court Justice Bruce B. Zager,,,Under Votes,255.0,376.0,631.0
+Audubon,Precinct Two,Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,2.0,2.0
+Audubon,,Supreme Court Justice Bruce B. Zager,,,Yes,603.0,838.0,1441.0
+Audubon,,Supreme Court Justice Bruce B. Zager,,,No,234.0,378.0,612.0
+Audubon,,Supreme Court Justice Bruce B. Zager,,,Under Votes,635.0,815.0,1450.0
+Audubon,,Supreme Court Justice Bruce B. Zager,,,Over Votes,1.0,2.0,3.0
+Audubon,Precinct One,Court of Appeals Judge Michael R. Mullins,,,Yes,355.0,411.0,766.0
+Audubon,Precinct One,Court of Appeals Judge Michael R. Mullins,,,No,137.0,173.0,310.0
+Audubon,Precinct One,Court of Appeals Judge Michael R. Mullins,,,Under Votes,402.0,473.0,875.0
+Audubon,Precinct One,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,2.0,2.0
+Audubon,Precinct Two,Court of Appeals Judge Michael R. Mullins,,,Yes,226.0,395.0,621.0
+Audubon,Precinct Two,Court of Appeals Judge Michael R. Mullins,,,No,79.0,190.0,269.0
+Audubon,Precinct Two,Court of Appeals Judge Michael R. Mullins,,,Under Votes,274.0,389.0,663.0
+Audubon,Precinct Two,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,0.0,0.0
+Audubon,,Court of Appeals Judge Michael R. Mullins,,,Yes,581.0,806.0,1387.0
+Audubon,,Court of Appeals Judge Michael R. Mullins,,,No,216.0,363.0,579.0
+Audubon,,Court of Appeals Judge Michael R. Mullins,,,Under Votes,676.0,862.0,1538.0
+Audubon,,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,2.0,2.0
+Audubon,Precinct One,Court of Appeals Judge Mary Ellen Tabor,,,Yes,359.0,434.0,793.0
+Audubon,Precinct One,Court of Appeals Judge Mary Ellen Tabor,,,No,142.0,171.0,313.0
+Audubon,Precinct One,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,392.0,452.0,844.0
+Audubon,Precinct One,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,1.0,2.0,3.0
+Audubon,Precinct Two,Court of Appeals Judge Mary Ellen Tabor,,,Yes,240.0,413.0,653.0
+Audubon,Precinct Two,Court of Appeals Judge Mary Ellen Tabor,,,No,75.0,197.0,272.0
+Audubon,Precinct Two,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,264.0,364.0,628.0
+Audubon,Precinct Two,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,0.0,0.0
+Audubon,,Court of Appeals Judge Mary Ellen Tabor,,,Yes,599.0,847.0,1446.0
+Audubon,,Court of Appeals Judge Mary Ellen Tabor,,,No,217.0,368.0,585.0
+Audubon,,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,656.0,816.0,1472.0
+Audubon,,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,1.0,2.0,3.0
+Audubon,Precinct One,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,298.0,368.0,666.0
+Audubon,Precinct One,Court of Appeals Judge Anuradha Vaitheswaran,,,No,193.0,213.0,406.0
+Audubon,Precinct One,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,403.0,477.0,880.0
+Audubon,Precinct One,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,1.0,1.0
+Audubon,Precinct Two,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,204.0,321.0,525.0
+Audubon,Precinct Two,Court of Appeals Judge Anuradha Vaitheswaran,,,No,107.0,260.0,367.0
+Audubon,Precinct Two,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,268.0,393.0,661.0
+Audubon,Precinct Two,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,0.0,0.0
+Audubon,,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,502.0,689.0,1191.0
+Audubon,,Court of Appeals Judge Anuradha Vaitheswaran,,,No,300.0,473.0,773.0
+Audubon,,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,671.0,870.0,1541.0
+Audubon,,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,1.0,1.0
+Audubon,Precinct One,District Court 4 Judge Mark J. Eveloff,,,Yes,355.0,420.0,775.0
+Audubon,Precinct One,District Court 4 Judge Mark J. Eveloff,,,No,135.0,171.0,306.0
+Audubon,Precinct One,District Court 4 Judge Mark J. Eveloff,,,Under Votes,404.0,468.0,872.0
+Audubon,Precinct One,District Court 4 Judge Mark J. Eveloff,,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct Two,District Court 4 Judge Mark J. Eveloff,,,Yes,232.0,399.0,631.0
+Audubon,Precinct Two,District Court 4 Judge Mark J. Eveloff,,,No,77.0,203.0,280.0
+Audubon,Precinct Two,District Court 4 Judge Mark J. Eveloff,,,Under Votes,270.0,372.0,642.0
+Audubon,Precinct Two,District Court 4 Judge Mark J. Eveloff,,,Over Votes,0.0,0.0,0.0
+Audubon,,District Court 4 Judge Mark J. Eveloff,,,Yes,587.0,819.0,1406.0
+Audubon,,District Court 4 Judge Mark J. Eveloff,,,No,212.0,374.0,586.0
+Audubon,,District Court 4 Judge Mark J. Eveloff,,,Under Votes,674.0,840.0,1514.0
+Audubon,,District Court 4 Judge Mark J. Eveloff,,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct One,District Court 4 Judge James M. Richardson,,,Yes,519.0,647.0,1166.0
+Audubon,Precinct One,District Court 4 Judge James M. Richardson,,,No,157.0,156.0,313.0
+Audubon,Precinct One,District Court 4 Judge James M. Richardson,,,Under Votes,218.0,256.0,474.0
+Audubon,Precinct One,District Court 4 Judge James M. Richardson,,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct Two,District Court 4 Judge James M. Richardson,,,Yes,306.0,515.0,821.0
+Audubon,Precinct Two,District Court 4 Judge James M. Richardson,,,No,90.0,177.0,267.0
+Audubon,Precinct Two,District Court 4 Judge James M. Richardson,,,Under Votes,182.0,281.0,463.0
+Audubon,Precinct Two,District Court 4 Judge James M. Richardson,,,Over Votes,1.0,1.0,2.0
+Audubon,,District Court 4 Judge James M. Richardson,,,Yes,825.0,1162.0,1987.0
+Audubon,,District Court 4 Judge James M. Richardson,,,No,247.0,333.0,580.0
+Audubon,,District Court 4 Judge James M. Richardson,,,Under Votes,400.0,537.0,937.0
+Audubon,,District Court 4 Judge James M. Richardson,,,Over Votes,1.0,1.0,2.0
+Audubon,Precinct One,District Court 4 Judge Gregory W. Steensland,,,Yes,352.0,408.0,760.0
+Audubon,Precinct One,District Court 4 Judge Gregory W. Steensland,,,No,136.0,184.0,320.0
+Audubon,Precinct One,District Court 4 Judge Gregory W. Steensland,,,Under Votes,406.0,465.0,871.0
+Audubon,Precinct One,District Court 4 Judge Gregory W. Steensland,,,Over Votes,0.0,2.0,2.0
+Audubon,Precinct Two,District Court 4 Judge Gregory W. Steensland,,,Yes,232.0,386.0,618.0
+Audubon,Precinct Two,District Court 4 Judge Gregory W. Steensland,,,No,85.0,213.0,298.0
+Audubon,Precinct Two,District Court 4 Judge Gregory W. Steensland,,,Under Votes,262.0,375.0,637.0
+Audubon,Precinct Two,District Court 4 Judge Gregory W. Steensland,,,Over Votes,0.0,0.0,0.0
+Audubon,,District Court 4 Judge Gregory W. Steensland,,,Yes,584.0,794.0,1378.0
+Audubon,,District Court 4 Judge Gregory W. Steensland,,,No,221.0,397.0,618.0
+Audubon,,District Court 4 Judge Gregory W. Steensland,,,Under Votes,668.0,840.0,1508.0
+Audubon,,District Court 4 Judge Gregory W. Steensland,,,Over Votes,0.0,2.0,2.0
+Audubon,Precinct One,District Court 4 Associate Judge Craig Michael Dreismeier,,,Yes,349.0,408.0,757.0
+Audubon,Precinct One,District Court 4 Associate Judge Craig Michael Dreismeier,,,No,128.0,164.0,292.0
+Audubon,Precinct One,District Court 4 Associate Judge Craig Michael Dreismeier,,,Under Votes,417.0,487.0,904.0
+Audubon,Precinct One,District Court 4 Associate Judge Craig Michael Dreismeier,,,Over Votes,0.0,0.0,0.0
+Audubon,Precinct Two,District Court 4 Associate Judge Craig Michael Dreismeier,,,Yes,234.0,403.0,637.0
+Audubon,Precinct Two,District Court 4 Associate Judge Craig Michael Dreismeier,,,No,71.0,187.0,258.0
+Audubon,Precinct Two,District Court 4 Associate Judge Craig Michael Dreismeier,,,Under Votes,274.0,384.0,658.0
+Audubon,Precinct Two,District Court 4 Associate Judge Craig Michael Dreismeier,,,Over Votes,0.0,0.0,0.0
+Audubon,,District Court 4 Associate Judge Craig Michael Dreismeier,,,Yes,583.0,811.0,1394.0
+Audubon,,District Court 4 Associate Judge Craig Michael Dreismeier,,,No,199.0,351.0,550.0
+Audubon,,District Court 4 Associate Judge Craig Michael Dreismeier,,,Under Votes,691.0,871.0,1562.0
+Audubon,,District Court 4 Associate Judge Craig Michael Dreismeier,,,Over Votes,0.0,0.0,0.0

@@ -1,0 +1,835 @@
+county,precinct,office,district,party,candidate,absentee,election_date,votes
+Monroe,No. 1 - Albia 1st Ward,President/Vice President,,Republican,Mitt Romney Paul Ryan,84.0,162.0,246.0
+Monroe,No. 1 - Albia 1st Ward,President/Vice President,,Democratic,Barack Obama Joe Biden,96.0,111.0,207.0
+Monroe,No. 1 - Albia 1st Ward,President/Vice President,,Constitution,Virgil Goode James Clymer,0.0,1.0,1.0
+Monroe,No. 1 - Albia 1st Ward,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,0.0,1.0,1.0
+Monroe,No. 1 - Albia 1st Ward,President/Vice President,,Libertarian,Gary Johnson James P. Gray,0.0,2.0,2.0
+Monroe,No. 1 - Albia 1st Ward,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,1.0,1.0
+Monroe,No. 1 - Albia 1st Ward,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,1.0,1.0
+Monroe,No. 1 - Albia 1st Ward,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,0.0,0.0,0.0
+Monroe,No. 1 - Albia 1st Ward,President/Vice President,,,Write-In,0.0,3.0,3.0
+Monroe,No. 1 - Albia 1st Ward,President/Vice President,,,Under Votes,0.0,2.0,2.0
+Monroe,No. 1 - Albia 1st Ward,President/Vice President,,,Over Votes,2.0,0.0,2.0
+Monroe,No. 2 - Albia 2nd Ward,President/Vice President,,Republican,Mitt Romney Paul Ryan,82.0,124.0,206.0
+Monroe,No. 2 - Albia 2nd Ward,President/Vice President,,Democratic,Barack Obama Joe Biden,96.0,112.0,208.0
+Monroe,No. 2 - Albia 2nd Ward,President/Vice President,,Constitution,Virgil Goode James Clymer,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,1.0,0.0,1.0
+Monroe,No. 2 - Albia 2nd Ward,President/Vice President,,Libertarian,Gary Johnson James P. Gray,0.0,2.0,2.0
+Monroe,No. 2 - Albia 2nd Ward,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,President/Vice President,,,Write-In,1.0,1.0,2.0
+Monroe,No. 2 - Albia 2nd Ward,President/Vice President,,,Under Votes,1.0,3.0,4.0
+Monroe,No. 2 - Albia 2nd Ward,President/Vice President,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,President/Vice President,,Republican,Mitt Romney Paul Ryan,61.0,87.0,148.0
+Monroe,No. 3 - Albia 3rd Ward,President/Vice President,,Democratic,Barack Obama Joe Biden,106.0,100.0,206.0
+Monroe,No. 3 - Albia 3rd Ward,President/Vice President,,Constitution,Virgil Goode James Clymer,1.0,0.0,1.0
+Monroe,No. 3 - Albia 3rd Ward,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,President/Vice President,,Libertarian,Gary Johnson James P. Gray,0.0,1.0,1.0
+Monroe,No. 3 - Albia 3rd Ward,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,0.0,1.0,1.0
+Monroe,No. 3 - Albia 3rd Ward,President/Vice President,,,Write-In,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,President/Vice President,,,Under Votes,2.0,0.0,2.0
+Monroe,No. 3 - Albia 3rd Ward,President/Vice President,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,President/Vice President,,Republican,Mitt Romney Paul Ryan,80.0,104.0,184.0
+Monroe,No. 4 - Albia 4th Ward,President/Vice President,,Democratic,Barack Obama Joe Biden,106.0,130.0,236.0
+Monroe,No. 4 - Albia 4th Ward,President/Vice President,,Constitution,Virgil Goode James Clymer,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,President/Vice President,,Libertarian,Gary Johnson James P. Gray,2.0,0.0,2.0
+Monroe,No. 4 - Albia 4th Ward,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,0.0,1.0,1.0
+Monroe,No. 4 - Albia 4th Ward,President/Vice President,,,Write-In,1.0,0.0,1.0
+Monroe,No. 4 - Albia 4th Ward,President/Vice President,,,Under Votes,0.0,1.0,1.0
+Monroe,No. 4 - Albia 4th Ward,President/Vice President,,,Over Votes,1.0,1.0,2.0
+Monroe,No. 5 - Courthouse,President/Vice President,,Republican,Mitt Romney Paul Ryan,345.0,403.0,748.0
+Monroe,No. 5 - Courthouse,President/Vice President,,Democratic,Barack Obama Joe Biden,252.0,200.0,452.0
+Monroe,No. 5 - Courthouse,President/Vice President,,Constitution,Virgil Goode James Clymer,9.0,2.0,11.0
+Monroe,No. 5 - Courthouse,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,1.0,1.0,2.0
+Monroe,No. 5 - Courthouse,President/Vice President,,Libertarian,Gary Johnson James P. Gray,3.0,1.0,4.0
+Monroe,No. 5 - Courthouse,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,1.0,0.0,1.0
+Monroe,No. 5 - Courthouse,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,1.0,1.0,2.0
+Monroe,No. 5 - Courthouse,President/Vice President,,,Write-In,5.0,4.0,9.0
+Monroe,No. 5 - Courthouse,President/Vice President,,,Under Votes,7.0,4.0,11.0
+Monroe,No. 5 - Courthouse,President/Vice President,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,President/Vice President,,Republican,Mitt Romney Paul Ryan,115.0,213.0,328.0
+Monroe,No. 6 - Lovilia Community Center,President/Vice President,,Democratic,Barack Obama Joe Biden,100.0,162.0,262.0
+Monroe,No. 6 - Lovilia Community Center,President/Vice President,,Constitution,Virgil Goode James Clymer,0.0,4.0,4.0
+Monroe,No. 6 - Lovilia Community Center,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,0.0,1.0,1.0
+Monroe,No. 6 - Lovilia Community Center,President/Vice President,,Libertarian,Gary Johnson James P. Gray,1.0,10.0,11.0
+Monroe,No. 6 - Lovilia Community Center,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,1.0,1.0
+Monroe,No. 6 - Lovilia Community Center,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,President/Vice President,,,Write-In,1.0,3.0,4.0
+Monroe,No. 6 - Lovilia Community Center,President/Vice President,,,Under Votes,2.0,3.0,5.0
+Monroe,No. 6 - Lovilia Community Center,President/Vice President,,,Over Votes,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",President/Vice President,,Republican,Mitt Romney Paul Ryan,53.0,113.0,166.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",President/Vice President,,Democratic,Barack Obama Joe Biden,77.0,83.0,160.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",President/Vice President,,Constitution,Virgil Goode James Clymer,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",President/Vice President,,Libertarian,Gary Johnson James P. Gray,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",President/Vice President,,,Write-In,2.0,0.0,2.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",President/Vice President,,,Under Votes,0.0,2.0,2.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",President/Vice President,,,Over Votes,2.0,0.0,2.0
+Monroe,,President/Vice President,,Republican,Mitt Romney Paul Ryan,820.0,1206.0,2026.0
+Monroe,,President/Vice President,,Democratic,Barack Obama Joe Biden,833.0,898.0,1731.0
+Monroe,,President/Vice President,,Constitution,Virgil Goode James Clymer,10.0,7.0,17.0
+Monroe,,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,2.0,3.0,5.0
+Monroe,,President/Vice President,,Libertarian,Gary Johnson James P. Gray,6.0,16.0,22.0
+Monroe,,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,1.0,1.0,2.0
+Monroe,,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,2.0,2.0
+Monroe,,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,1.0,3.0,4.0
+Monroe,,President/Vice President,,,Write-In,10.0,11.0,21.0
+Monroe,,President/Vice President,,,Under Votes,12.0,15.0,27.0
+Monroe,,President/Vice President,,,Over Votes,5.0,1.0,6.0
+Monroe,No. 1 - Albia 1st Ward,U.S. House of Representatives,2,Republican,John Archer,73.0,142.0,215.0
+Monroe,No. 1 - Albia 1st Ward,U.S. House of Representatives,2,Democratic,Dave Loebsack,97.0,121.0,218.0
+Monroe,No. 1 - Albia 1st Ward,U.S. House of Representatives,2,Nominated by Petition,Alan Aversa,3.0,2.0,5.0
+Monroe,No. 1 - Albia 1st Ward,U.S. House of Representatives,2,,Write-In,0.0,0.0,0.0
+Monroe,No. 1 - Albia 1st Ward,U.S. House of Representatives,2,,Under Votes,7.0,19.0,26.0
+Monroe,No. 1 - Albia 1st Ward,U.S. House of Representatives,2,,Over Votes,2.0,0.0,2.0
+Monroe,No. 2 - Albia 2nd Ward,U.S. House of Representatives,2,Republican,John Archer,76.0,108.0,184.0
+Monroe,No. 2 - Albia 2nd Ward,U.S. House of Representatives,2,Democratic,Dave Loebsack,80.0,110.0,190.0
+Monroe,No. 2 - Albia 2nd Ward,U.S. House of Representatives,2,Nominated by Petition,Alan Aversa,5.0,9.0,14.0
+Monroe,No. 2 - Albia 2nd Ward,U.S. House of Representatives,2,,Write-In,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,U.S. House of Representatives,2,,Under Votes,20.0,15.0,35.0
+Monroe,No. 2 - Albia 2nd Ward,U.S. House of Representatives,2,,Over Votes,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,U.S. House of Representatives,2,Republican,John Archer,60.0,88.0,148.0
+Monroe,No. 3 - Albia 3rd Ward,U.S. House of Representatives,2,Democratic,Dave Loebsack,96.0,90.0,186.0
+Monroe,No. 3 - Albia 3rd Ward,U.S. House of Representatives,2,Nominated by Petition,Alan Aversa,1.0,5.0,6.0
+Monroe,No. 3 - Albia 3rd Ward,U.S. House of Representatives,2,,Write-In,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,U.S. House of Representatives,2,,Under Votes,13.0,5.0,18.0
+Monroe,No. 3 - Albia 3rd Ward,U.S. House of Representatives,2,,Over Votes,0.0,1.0,1.0
+Monroe,No. 4 - Albia 4th Ward,U.S. House of Representatives,2,Republican,John Archer,70.0,98.0,168.0
+Monroe,No. 4 - Albia 4th Ward,U.S. House of Representatives,2,Democratic,Dave Loebsack,102.0,124.0,226.0
+Monroe,No. 4 - Albia 4th Ward,U.S. House of Representatives,2,Nominated by Petition,Alan Aversa,2.0,5.0,7.0
+Monroe,No. 4 - Albia 4th Ward,U.S. House of Representatives,2,,Write-In,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,U.S. House of Representatives,2,,Under Votes,15.0,10.0,25.0
+Monroe,No. 4 - Albia 4th Ward,U.S. House of Representatives,2,,Over Votes,1.0,0.0,1.0
+Monroe,No. 5 - Courthouse,U.S. House of Representatives,2,Republican,John Archer,314.0,344.0,658.0
+Monroe,No. 5 - Courthouse,U.S. House of Representatives,2,Democratic,Dave Loebsack,276.0,222.0,498.0
+Monroe,No. 5 - Courthouse,U.S. House of Representatives,2,Nominated by Petition,Alan Aversa,8.0,16.0,24.0
+Monroe,No. 5 - Courthouse,U.S. House of Representatives,2,,Write-In,0.0,1.0,1.0
+Monroe,No. 5 - Courthouse,U.S. House of Representatives,2,,Under Votes,25.0,33.0,58.0
+Monroe,No. 5 - Courthouse,U.S. House of Representatives,2,,Over Votes,1.0,0.0,1.0
+Monroe,No. 6 - Lovilia Community Center,U.S. House of Representatives,2,Republican,John Archer,97.0,205.0,302.0
+Monroe,No. 6 - Lovilia Community Center,U.S. House of Representatives,2,Democratic,Dave Loebsack,107.0,168.0,275.0
+Monroe,No. 6 - Lovilia Community Center,U.S. House of Representatives,2,Nominated by Petition,Alan Aversa,4.0,7.0,11.0
+Monroe,No. 6 - Lovilia Community Center,U.S. House of Representatives,2,,Write-In,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,U.S. House of Representatives,2,,Under Votes,11.0,17.0,28.0
+Monroe,No. 6 - Lovilia Community Center,U.S. House of Representatives,2,,Over Votes,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",U.S. House of Representatives,2,Republican,John Archer,52.0,92.0,144.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",U.S. House of Representatives,2,Democratic,Dave Loebsack,77.0,92.0,169.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",U.S. House of Representatives,2,Nominated by Petition,Alan Aversa,0.0,5.0,5.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",U.S. House of Representatives,2,,Write-In,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",U.S. House of Representatives,2,,Under Votes,5.0,9.0,14.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",U.S. House of Representatives,2,,Over Votes,0.0,0.0,0.0
+Monroe,,U.S. House of Representatives,2,Republican,John Archer,742.0,1077.0,1819.0
+Monroe,,U.S. House of Representatives,2,Democratic,Dave Loebsack,835.0,927.0,1762.0
+Monroe,,U.S. House of Representatives,2,Nominated by Petition,Alan Aversa,23.0,49.0,72.0
+Monroe,,U.S. House of Representatives,2,,Write-In,0.0,1.0,1.0
+Monroe,,U.S. House of Representatives,2,,Under Votes,96.0,108.0,204.0
+Monroe,,U.S. House of Representatives,2,,Over Votes,4.0,1.0,5.0
+Monroe,No. 1 - Albia 1st Ward,State Senator,40,Republican,Ken Rozenboom,95.0,173.0,268.0
+Monroe,No. 1 - Albia 1st Ward,State Senator,40,Democratic,Tim Tripp,79.0,91.0,170.0
+Monroe,No. 1 - Albia 1st Ward,State Senator,40,,Write-In,0.0,0.0,0.0
+Monroe,No. 1 - Albia 1st Ward,State Senator,40,,Under Votes,8.0,20.0,28.0
+Monroe,No. 1 - Albia 1st Ward,State Senator,40,,Over Votes,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,State Senator,40,Republican,Ken Rozenboom,80.0,133.0,213.0
+Monroe,No. 2 - Albia 2nd Ward,State Senator,40,Democratic,Tim Tripp,82.0,93.0,175.0
+Monroe,No. 2 - Albia 2nd Ward,State Senator,40,,Write-In,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,State Senator,40,,Under Votes,19.0,16.0,35.0
+Monroe,No. 2 - Albia 2nd Ward,State Senator,40,,Over Votes,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,State Senator,40,Republican,Ken Rozenboom,77.0,101.0,178.0
+Monroe,No. 3 - Albia 3rd Ward,State Senator,40,Democratic,Tim Tripp,80.0,79.0,159.0
+Monroe,No. 3 - Albia 3rd Ward,State Senator,40,,Write-In,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,State Senator,40,,Under Votes,13.0,9.0,22.0
+Monroe,No. 3 - Albia 3rd Ward,State Senator,40,,Over Votes,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,State Senator,40,Republican,Ken Rozenboom,74.0,109.0,183.0
+Monroe,No. 4 - Albia 4th Ward,State Senator,40,Democratic,Tim Tripp,98.0,111.0,209.0
+Monroe,No. 4 - Albia 4th Ward,State Senator,40,,Write-In,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,State Senator,40,,Under Votes,18.0,17.0,35.0
+Monroe,No. 4 - Albia 4th Ward,State Senator,40,,Over Votes,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,State Senator,40,Republican,Ken Rozenboom,377.0,411.0,788.0
+Monroe,No. 5 - Courthouse,State Senator,40,Democratic,Tim Tripp,211.0,167.0,378.0
+Monroe,No. 5 - Courthouse,State Senator,40,,Write-In,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,State Senator,40,,Under Votes,36.0,38.0,74.0
+Monroe,No. 5 - Courthouse,State Senator,40,,Over Votes,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,State Senator,40,Republican,Ken Rozenboom,117.0,223.0,340.0
+Monroe,No. 6 - Lovilia Community Center,State Senator,40,Democratic,Tim Tripp,91.0,154.0,245.0
+Monroe,No. 6 - Lovilia Community Center,State Senator,40,,Write-In,0.0,1.0,1.0
+Monroe,No. 6 - Lovilia Community Center,State Senator,40,,Under Votes,11.0,19.0,30.0
+Monroe,No. 6 - Lovilia Community Center,State Senator,40,,Over Votes,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",State Senator,40,Republican,Ken Rozenboom,53.0,110.0,163.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",State Senator,40,Democratic,Tim Tripp,73.0,77.0,150.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",State Senator,40,,Write-In,1.0,1.0,2.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",State Senator,40,,Under Votes,7.0,10.0,17.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",State Senator,40,,Over Votes,0.0,0.0,0.0
+Monroe,,State Senator,40,Republican,Ken Rozenboom,873.0,1260.0,2133.0
+Monroe,,State Senator,40,Democratic,Tim Tripp,714.0,772.0,1486.0
+Monroe,,State Senator,40,,Write-In,1.0,2.0,3.0
+Monroe,,State Senator,40,,Under Votes,112.0,129.0,241.0
+Monroe,,State Senator,40,,Over Votes,0.0,0.0,0.0
+Monroe,No. 1 - Albia 1st Ward,State Representative,80,Republican,Larry Sheets,56.0,120.0,176.0
+Monroe,No. 1 - Albia 1st Ward,State Representative,80,Democratic,Joseph Judge,122.0,156.0,278.0
+Monroe,No. 1 - Albia 1st Ward,State Representative,80,,Write-In,0.0,0.0,0.0
+Monroe,No. 1 - Albia 1st Ward,State Representative,80,,Under Votes,3.0,8.0,11.0
+Monroe,No. 1 - Albia 1st Ward,State Representative,80,,Over Votes,1.0,0.0,1.0
+Monroe,No. 2 - Albia 2nd Ward,State Representative,80,Republican,Larry Sheets,64.0,88.0,152.0
+Monroe,No. 2 - Albia 2nd Ward,State Representative,80,Democratic,Joseph Judge,109.0,149.0,258.0
+Monroe,No. 2 - Albia 2nd Ward,State Representative,80,,Write-In,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,State Representative,80,,Under Votes,8.0,5.0,13.0
+Monroe,No. 2 - Albia 2nd Ward,State Representative,80,,Over Votes,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,State Representative,80,Republican,Larry Sheets,52.0,77.0,129.0
+Monroe,No. 3 - Albia 3rd Ward,State Representative,80,Democratic,Joseph Judge,113.0,108.0,221.0
+Monroe,No. 3 - Albia 3rd Ward,State Representative,80,,Write-In,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,State Representative,80,,Under Votes,5.0,4.0,9.0
+Monroe,No. 3 - Albia 3rd Ward,State Representative,80,,Over Votes,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,State Representative,80,Republican,Larry Sheets,52.0,82.0,134.0
+Monroe,No. 4 - Albia 4th Ward,State Representative,80,Democratic,Joseph Judge,132.0,153.0,285.0
+Monroe,No. 4 - Albia 4th Ward,State Representative,80,,Write-In,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,State Representative,80,,Under Votes,6.0,2.0,8.0
+Monroe,No. 4 - Albia 4th Ward,State Representative,80,,Over Votes,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,State Representative,80,Republican,Larry Sheets,294.0,303.0,597.0
+Monroe,No. 5 - Courthouse,State Representative,80,Democratic,Joseph Judge,321.0,300.0,621.0
+Monroe,No. 5 - Courthouse,State Representative,80,,Write-In,0.0,1.0,1.0
+Monroe,No. 5 - Courthouse,State Representative,80,,Under Votes,9.0,12.0,21.0
+Monroe,No. 5 - Courthouse,State Representative,80,,Over Votes,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,State Representative,80,Republican,Larry Sheets,79.0,160.0,239.0
+Monroe,No. 6 - Lovilia Community Center,State Representative,80,Democratic,Joseph Judge,130.0,226.0,356.0
+Monroe,No. 6 - Lovilia Community Center,State Representative,80,,Write-In,0.0,1.0,1.0
+Monroe,No. 6 - Lovilia Community Center,State Representative,80,,Under Votes,10.0,10.0,20.0
+Monroe,No. 6 - Lovilia Community Center,State Representative,80,,Over Votes,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",State Representative,80,Republican,Larry Sheets,49.0,99.0,148.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",State Representative,80,Democratic,Joseph Judge,83.0,98.0,181.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",State Representative,80,,Write-In,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",State Representative,80,,Under Votes,2.0,1.0,3.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",State Representative,80,,Over Votes,0.0,0.0,0.0
+Monroe,,State Representative,80,Republican,Larry Sheets,646.0,929.0,1575.0
+Monroe,,State Representative,80,Democratic,Joseph Judge,1010.0,1190.0,2200.0
+Monroe,,State Representative,80,,Write-In,0.0,2.0,2.0
+Monroe,,State Representative,80,,Under Votes,43.0,42.0,85.0
+Monroe,,State Representative,80,,Over Votes,1.0,0.0,1.0
+Monroe,No. 1 - Albia 1st Ward,Co. Board of Supervisors,,Republican,Michael R. Beary,69.0,130.0,199.0
+Monroe,No. 1 - Albia 1st Ward,Co. Board of Supervisors,,Democratic,Deb Ballalatak,57.0,55.0,112.0
+Monroe,No. 1 - Albia 1st Ward,Co. Board of Supervisors,,Democratic,John Hughes,115.0,178.0,293.0
+Monroe,No. 1 - Albia 1st Ward,Co. Board of Supervisors,,,Denny Amoss,61.0,111.0,172.0
+Monroe,No. 1 - Albia 1st Ward,Co. Board of Supervisors,,,Write-In,0.0,0.0,0.0
+Monroe,No. 1 - Albia 1st Ward,Co. Board of Supervisors,,,Under Votes,59.0,88.0,147.0
+Monroe,No. 1 - Albia 1st Ward,Co. Board of Supervisors,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,Co. Board of Supervisors,,Republican,Michael R. Beary,61.0,114.0,175.0
+Monroe,No. 2 - Albia 2nd Ward,Co. Board of Supervisors,,Democratic,Deb Ballalatak,64.0,56.0,120.0
+Monroe,No. 2 - Albia 2nd Ward,Co. Board of Supervisors,,Democratic,John Hughes,107.0,138.0,245.0
+Monroe,No. 2 - Albia 2nd Ward,Co. Board of Supervisors,,,Denny Amoss,64.0,87.0,151.0
+Monroe,No. 2 - Albia 2nd Ward,Co. Board of Supervisors,,,Write-In,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,Co. Board of Supervisors,,,Under Votes,59.0,84.0,143.0
+Monroe,No. 2 - Albia 2nd Ward,Co. Board of Supervisors,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,Co. Board of Supervisors,,Republican,Michael R. Beary,65.0,89.0,154.0
+Monroe,No. 3 - Albia 3rd Ward,Co. Board of Supervisors,,Democratic,Deb Ballalatak,71.0,49.0,120.0
+Monroe,No. 3 - Albia 3rd Ward,Co. Board of Supervisors,,Democratic,John Hughes,94.0,114.0,208.0
+Monroe,No. 3 - Albia 3rd Ward,Co. Board of Supervisors,,,Denny Amoss,56.0,53.0,109.0
+Monroe,No. 3 - Albia 3rd Ward,Co. Board of Supervisors,,,Write-In,0.0,1.0,1.0
+Monroe,No. 3 - Albia 3rd Ward,Co. Board of Supervisors,,,Under Votes,51.0,69.0,120.0
+Monroe,No. 3 - Albia 3rd Ward,Co. Board of Supervisors,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,Co. Board of Supervisors,,Republican,Michael R. Beary,72.0,96.0,168.0
+Monroe,No. 4 - Albia 4th Ward,Co. Board of Supervisors,,Democratic,Deb Ballalatak,68.0,74.0,142.0
+Monroe,No. 4 - Albia 4th Ward,Co. Board of Supervisors,,Democratic,John Hughes,120.0,149.0,269.0
+Monroe,No. 4 - Albia 4th Ward,Co. Board of Supervisors,,,Denny Amoss,53.0,59.0,112.0
+Monroe,No. 4 - Albia 4th Ward,Co. Board of Supervisors,,,Write-In,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,Co. Board of Supervisors,,,Under Votes,60.0,92.0,152.0
+Monroe,No. 4 - Albia 4th Ward,Co. Board of Supervisors,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,Co. Board of Supervisors,,Republican,Michael R. Beary,280.0,277.0,557.0
+Monroe,No. 5 - Courthouse,Co. Board of Supervisors,,Democratic,Deb Ballalatak,175.0,121.0,296.0
+Monroe,No. 5 - Courthouse,Co. Board of Supervisors,,Democratic,John Hughes,343.0,350.0,693.0
+Monroe,No. 5 - Courthouse,Co. Board of Supervisors,,,Denny Amoss,255.0,280.0,535.0
+Monroe,No. 5 - Courthouse,Co. Board of Supervisors,,,Write-In,3.0,3.0,6.0
+Monroe,No. 5 - Courthouse,Co. Board of Supervisors,,,Under Votes,178.0,192.0,370.0
+Monroe,No. 5 - Courthouse,Co. Board of Supervisors,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,Co. Board of Supervisors,,Republican,Michael R. Beary,98.0,212.0,310.0
+Monroe,No. 6 - Lovilia Community Center,Co. Board of Supervisors,,Democratic,Deb Ballalatak,96.0,121.0,217.0
+Monroe,No. 6 - Lovilia Community Center,Co. Board of Supervisors,,Democratic,John Hughes,115.0,196.0,311.0
+Monroe,No. 6 - Lovilia Community Center,Co. Board of Supervisors,,,Denny Amoss,72.0,91.0,163.0
+Monroe,No. 6 - Lovilia Community Center,Co. Board of Supervisors,,,Write-In,2.0,3.0,5.0
+Monroe,No. 6 - Lovilia Community Center,Co. Board of Supervisors,,,Under Votes,54.0,163.0,217.0
+Monroe,No. 6 - Lovilia Community Center,Co. Board of Supervisors,,,Over Votes,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Co. Board of Supervisors,,Republican,Michael R. Beary,49.0,87.0,136.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Co. Board of Supervisors,,Democratic,Deb Ballalatak,58.0,45.0,103.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Co. Board of Supervisors,,Democratic,John Hughes,86.0,108.0,194.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Co. Board of Supervisors,,,Denny Amoss,38.0,78.0,116.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Co. Board of Supervisors,,,Write-In,0.0,2.0,2.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Co. Board of Supervisors,,,Under Votes,34.0,72.0,106.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Co. Board of Supervisors,,,Over Votes,0.0,0.0,0.0
+Monroe,,Co. Board of Supervisors,,Republican,Michael R. Beary,694.0,1005.0,1699.0
+Monroe,,Co. Board of Supervisors,,Democratic,Deb Ballalatak,589.0,521.0,1110.0
+Monroe,,Co. Board of Supervisors,,Democratic,John Hughes,980.0,1233.0,2213.0
+Monroe,,Co. Board of Supervisors,,,Denny Amoss,599.0,759.0,1358.0
+Monroe,,Co. Board of Supervisors,,,Write-In,5.0,9.0,14.0
+Monroe,,Co. Board of Supervisors,,,Under Votes,495.0,760.0,1255.0
+Monroe,,Co. Board of Supervisors,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 1 - Albia 1st Ward,County Auditor,,Republican,Jeannie Bettis,131.0,259.0,390.0
+Monroe,No. 1 - Albia 1st Ward,County Auditor,,,Write-In,0.0,1.0,1.0
+Monroe,No. 1 - Albia 1st Ward,County Auditor,,,Under Votes,51.0,24.0,75.0
+Monroe,No. 1 - Albia 1st Ward,County Auditor,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,County Auditor,,Republican,Jeannie Bettis,146.0,214.0,360.0
+Monroe,No. 2 - Albia 2nd Ward,County Auditor,,,Write-In,0.0,1.0,1.0
+Monroe,No. 2 - Albia 2nd Ward,County Auditor,,,Under Votes,35.0,27.0,62.0
+Monroe,No. 2 - Albia 2nd Ward,County Auditor,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,County Auditor,,Republican,Jeannie Bettis,130.0,172.0,302.0
+Monroe,No. 3 - Albia 3rd Ward,County Auditor,,,Write-In,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,County Auditor,,,Under Votes,40.0,17.0,57.0
+Monroe,No. 3 - Albia 3rd Ward,County Auditor,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,County Auditor,,Republican,Jeannie Bettis,148.0,205.0,353.0
+Monroe,No. 4 - Albia 4th Ward,County Auditor,,,Write-In,1.0,1.0,2.0
+Monroe,No. 4 - Albia 4th Ward,County Auditor,,,Under Votes,41.0,31.0,72.0
+Monroe,No. 4 - Albia 4th Ward,County Auditor,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,County Auditor,,Republican,Jeannie Bettis,541.0,556.0,1097.0
+Monroe,No. 5 - Courthouse,County Auditor,,,Write-In,1.0,1.0,2.0
+Monroe,No. 5 - Courthouse,County Auditor,,,Under Votes,82.0,59.0,141.0
+Monroe,No. 5 - Courthouse,County Auditor,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,County Auditor,,Republican,Jeannie Bettis,168.0,331.0,499.0
+Monroe,No. 6 - Lovilia Community Center,County Auditor,,,Write-In,0.0,3.0,3.0
+Monroe,No. 6 - Lovilia Community Center,County Auditor,,,Under Votes,51.0,63.0,114.0
+Monroe,No. 6 - Lovilia Community Center,County Auditor,,,Over Votes,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",County Auditor,,Republican,Jeannie Bettis,93.0,160.0,253.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",County Auditor,,,Write-In,0.0,1.0,1.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",County Auditor,,,Under Votes,41.0,37.0,78.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",County Auditor,,,Over Votes,0.0,0.0,0.0
+Monroe,,County Auditor,,Republican,Jeannie Bettis,1357.0,1897.0,3254.0
+Monroe,,County Auditor,,,Write-In,2.0,8.0,10.0
+Monroe,,County Auditor,,,Under Votes,341.0,258.0,599.0
+Monroe,,County Auditor,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 1 - Albia 1st Ward,County Sheriff,,Democratic,Daniel J. Johnson,151.0,251.0,402.0
+Monroe,No. 1 - Albia 1st Ward,County Sheriff,,,Write-In,1.0,1.0,2.0
+Monroe,No. 1 - Albia 1st Ward,County Sheriff,,,Under Votes,30.0,32.0,62.0
+Monroe,No. 1 - Albia 1st Ward,County Sheriff,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,County Sheriff,,Democratic,Daniel J. Johnson,150.0,220.0,370.0
+Monroe,No. 2 - Albia 2nd Ward,County Sheriff,,,Write-In,1.0,0.0,1.0
+Monroe,No. 2 - Albia 2nd Ward,County Sheriff,,,Under Votes,30.0,22.0,52.0
+Monroe,No. 2 - Albia 2nd Ward,County Sheriff,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,County Sheriff,,Democratic,Daniel J. Johnson,139.0,168.0,307.0
+Monroe,No. 3 - Albia 3rd Ward,County Sheriff,,,Write-In,1.0,0.0,1.0
+Monroe,No. 3 - Albia 3rd Ward,County Sheriff,,,Under Votes,30.0,21.0,51.0
+Monroe,No. 3 - Albia 3rd Ward,County Sheriff,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,County Sheriff,,Democratic,Daniel J. Johnson,153.0,205.0,358.0
+Monroe,No. 4 - Albia 4th Ward,County Sheriff,,,Write-In,2.0,2.0,4.0
+Monroe,No. 4 - Albia 4th Ward,County Sheriff,,,Under Votes,35.0,30.0,65.0
+Monroe,No. 4 - Albia 4th Ward,County Sheriff,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,County Sheriff,,Democratic,Daniel J. Johnson,488.0,523.0,1011.0
+Monroe,No. 5 - Courthouse,County Sheriff,,,Write-In,6.0,7.0,13.0
+Monroe,No. 5 - Courthouse,County Sheriff,,,Under Votes,130.0,86.0,216.0
+Monroe,No. 5 - Courthouse,County Sheriff,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,County Sheriff,,Democratic,Daniel J. Johnson,177.0,324.0,501.0
+Monroe,No. 6 - Lovilia Community Center,County Sheriff,,,Write-In,3.0,7.0,10.0
+Monroe,No. 6 - Lovilia Community Center,County Sheriff,,,Under Votes,39.0,66.0,105.0
+Monroe,No. 6 - Lovilia Community Center,County Sheriff,,,Over Votes,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",County Sheriff,,Democratic,Daniel J. Johnson,104.0,161.0,265.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",County Sheriff,,,Write-In,0.0,2.0,2.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",County Sheriff,,,Under Votes,30.0,35.0,65.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",County Sheriff,,,Over Votes,0.0,0.0,0.0
+Monroe,,County Sheriff,,Democratic,Daniel J. Johnson,1362.0,1852.0,3214.0
+Monroe,,County Sheriff,,,Write-In,14.0,19.0,33.0
+Monroe,,County Sheriff,,,Under Votes,324.0,292.0,616.0
+Monroe,,County Sheriff,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,Pleasant Township Trustee,,,Max Rupe,69.0,44.0,113.0
+Monroe,No. 5 - Courthouse,Pleasant Township Trustee,,,John L. DeHamer,50.0,29.0,79.0
+Monroe,No. 5 - Courthouse,Pleasant Township Trustee,,,Write-In,1.0,2.0,3.0
+Monroe,No. 5 - Courthouse,Pleasant Township Trustee,,,Under Votes,33.0,37.0,70.0
+Monroe,No. 5 - Courthouse,Pleasant Township Trustee,,,Over Votes,0.0,0.0,0.0
+Monroe,,Pleasant Township Trustee,,,Max Rupe,69.0,44.0,113.0
+Monroe,,Pleasant Township Trustee,,,John L. DeHamer,50.0,29.0,79.0
+Monroe,,Pleasant Township Trustee,,,Write-In,1.0,2.0,3.0
+Monroe,,Pleasant Township Trustee,,,Under Votes,33.0,37.0,70.0
+Monroe,,Pleasant Township Trustee,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 1 - Albia 1st Ward,County Hospital Trustee,,,Joseph L. Bates,120.0,202.0,322.0
+Monroe,No. 1 - Albia 1st Ward,County Hospital Trustee,,,Jason T. Summers,127.0,211.0,338.0
+Monroe,No. 1 - Albia 1st Ward,County Hospital Trustee,,,Write-In,0.0,2.0,2.0
+Monroe,No. 1 - Albia 1st Ward,County Hospital Trustee,,,Under Votes,87.0,129.0,216.0
+Monroe,No. 1 - Albia 1st Ward,County Hospital Trustee,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,County Hospital Trustee,,,Joseph L. Bates,104.0,166.0,270.0
+Monroe,No. 2 - Albia 2nd Ward,County Hospital Trustee,,,Jason T. Summers,129.0,186.0,315.0
+Monroe,No. 2 - Albia 2nd Ward,County Hospital Trustee,,,Write-In,2.0,0.0,2.0
+Monroe,No. 2 - Albia 2nd Ward,County Hospital Trustee,,,Under Votes,98.0,108.0,206.0
+Monroe,No. 2 - Albia 2nd Ward,County Hospital Trustee,,,Over Votes,0.0,1.0,1.0
+Monroe,No. 3 - Albia 3rd Ward,County Hospital Trustee,,,Joseph L. Bates,99.0,137.0,236.0
+Monroe,No. 3 - Albia 3rd Ward,County Hospital Trustee,,,Jason T. Summers,110.0,140.0,250.0
+Monroe,No. 3 - Albia 3rd Ward,County Hospital Trustee,,,Write-In,0.0,1.0,1.0
+Monroe,No. 3 - Albia 3rd Ward,County Hospital Trustee,,,Under Votes,96.0,85.0,181.0
+Monroe,No. 3 - Albia 3rd Ward,County Hospital Trustee,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,County Hospital Trustee,,,Joseph L. Bates,125.0,163.0,288.0
+Monroe,No. 4 - Albia 4th Ward,County Hospital Trustee,,,Jason T. Summers,136.0,171.0,307.0
+Monroe,No. 4 - Albia 4th Ward,County Hospital Trustee,,,Write-In,0.0,3.0,3.0
+Monroe,No. 4 - Albia 4th Ward,County Hospital Trustee,,,Under Votes,87.0,118.0,205.0
+Monroe,No. 4 - Albia 4th Ward,County Hospital Trustee,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,County Hospital Trustee,,,Joseph L. Bates,406.0,418.0,824.0
+Monroe,No. 5 - Courthouse,County Hospital Trustee,,,Jason T. Summers,425.0,443.0,868.0
+Monroe,No. 5 - Courthouse,County Hospital Trustee,,,Write-In,1.0,2.0,3.0
+Monroe,No. 5 - Courthouse,County Hospital Trustee,,,Under Votes,294.0,297.0,591.0
+Monroe,No. 5 - Courthouse,County Hospital Trustee,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,County Hospital Trustee,,,Joseph L. Bates,131.0,245.0,376.0
+Monroe,No. 6 - Lovilia Community Center,County Hospital Trustee,,,Jason T. Summers,141.0,277.0,418.0
+Monroe,No. 6 - Lovilia Community Center,County Hospital Trustee,,,Write-In,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,County Hospital Trustee,,,Under Votes,115.0,223.0,338.0
+Monroe,No. 6 - Lovilia Community Center,County Hospital Trustee,,,Over Votes,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",County Hospital Trustee,,,Joseph L. Bates,74.0,116.0,190.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",County Hospital Trustee,,,Jason T. Summers,78.0,122.0,200.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",County Hospital Trustee,,,Write-In,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",County Hospital Trustee,,,Under Votes,80.0,114.0,194.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",County Hospital Trustee,,,Over Votes,0.0,0.0,0.0
+Monroe,,County Hospital Trustee,,,Joseph L. Bates,1059.0,1447.0,2506.0
+Monroe,,County Hospital Trustee,,,Jason T. Summers,1146.0,1550.0,2696.0
+Monroe,,County Hospital Trustee,,,Write-In,3.0,8.0,11.0
+Monroe,,County Hospital Trustee,,,Under Votes,857.0,1074.0,1931.0
+Monroe,,County Hospital Trustee,,,Over Votes,0.0,1.0,1.0
+Monroe,No. 1 - Albia 1st Ward,Soil & Water Dist Comm,,,Donald Niebuhr,92.0,171.0,263.0
+Monroe,No. 1 - Albia 1st Ward,Soil & Water Dist Comm,,,Mervin McDanel,92.0,174.0,266.0
+Monroe,No. 1 - Albia 1st Ward,Soil & Water Dist Comm,,,Albert Tangie,110.0,187.0,297.0
+Monroe,No. 1 - Albia 1st Ward,Soil & Water Dist Comm,,,Write-In,0.0,0.0,0.0
+Monroe,No. 1 - Albia 1st Ward,Soil & Water Dist Comm,,,Under Votes,146.0,208.0,354.0
+Monroe,No. 1 - Albia 1st Ward,Soil & Water Dist Comm,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,Soil & Water Dist Comm,,,Donald Niebuhr,80.0,151.0,231.0
+Monroe,No. 2 - Albia 2nd Ward,Soil & Water Dist Comm,,,Mervin McDanel,79.0,155.0,234.0
+Monroe,No. 2 - Albia 2nd Ward,Soil & Water Dist Comm,,,Albert Tangie,107.0,158.0,265.0
+Monroe,No. 2 - Albia 2nd Ward,Soil & Water Dist Comm,,,Write-In,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,Soil & Water Dist Comm,,,Under Votes,171.0,168.0,339.0
+Monroe,No. 2 - Albia 2nd Ward,Soil & Water Dist Comm,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,Soil & Water Dist Comm,,,Donald Niebuhr,75.0,113.0,188.0
+Monroe,No. 3 - Albia 3rd Ward,Soil & Water Dist Comm,,,Mervin McDanel,83.0,117.0,200.0
+Monroe,No. 3 - Albia 3rd Ward,Soil & Water Dist Comm,,,Albert Tangie,90.0,127.0,217.0
+Monroe,No. 3 - Albia 3rd Ward,Soil & Water Dist Comm,,,Write-In,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,Soil & Water Dist Comm,,,Under Votes,138.0,148.0,286.0
+Monroe,No. 3 - Albia 3rd Ward,Soil & Water Dist Comm,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,Soil & Water Dist Comm,,,Donald Niebuhr,107.0,124.0,231.0
+Monroe,No. 4 - Albia 4th Ward,Soil & Water Dist Comm,,,Mervin McDanel,107.0,135.0,242.0
+Monroe,No. 4 - Albia 4th Ward,Soil & Water Dist Comm,,,Albert Tangie,114.0,146.0,260.0
+Monroe,No. 4 - Albia 4th Ward,Soil & Water Dist Comm,,,Write-In,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,Soil & Water Dist Comm,,,Under Votes,140.0,208.0,348.0
+Monroe,No. 4 - Albia 4th Ward,Soil & Water Dist Comm,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,Soil & Water Dist Comm,,,Donald Niebuhr,352.0,388.0,740.0
+Monroe,No. 5 - Courthouse,Soil & Water Dist Comm,,,Mervin McDanel,386.0,415.0,801.0
+Monroe,No. 5 - Courthouse,Soil & Water Dist Comm,,,Albert Tangie,358.0,388.0,746.0
+Monroe,No. 5 - Courthouse,Soil & Water Dist Comm,,,Write-In,6.0,3.0,9.0
+Monroe,No. 5 - Courthouse,Soil & Water Dist Comm,,,Under Votes,447.0,452.0,899.0
+Monroe,No. 5 - Courthouse,Soil & Water Dist Comm,,,Over Votes,1.0,0.0,1.0
+Monroe,No. 6 - Lovilia Community Center,Soil & Water Dist Comm,,,Donald Niebuhr,119.0,214.0,333.0
+Monroe,No. 6 - Lovilia Community Center,Soil & Water Dist Comm,,,Mervin McDanel,118.0,249.0,367.0
+Monroe,No. 6 - Lovilia Community Center,Soil & Water Dist Comm,,,Albert Tangie,129.0,234.0,363.0
+Monroe,No. 6 - Lovilia Community Center,Soil & Water Dist Comm,,,Write-In,2.0,1.0,3.0
+Monroe,No. 6 - Lovilia Community Center,Soil & Water Dist Comm,,,Under Votes,159.0,333.0,492.0
+Monroe,No. 6 - Lovilia Community Center,Soil & Water Dist Comm,,,Over Votes,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Soil & Water Dist Comm,,,Donald Niebuhr,64.0,107.0,171.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Soil & Water Dist Comm,,,Mervin McDanel,78.0,115.0,193.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Soil & Water Dist Comm,,,Albert Tangie,65.0,98.0,163.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Soil & Water Dist Comm,,,Write-In,4.0,2.0,6.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Soil & Water Dist Comm,,,Under Votes,115.0,154.0,269.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Soil & Water Dist Comm,,,Over Votes,0.0,0.0,0.0
+Monroe,,Soil & Water Dist Comm,,,Donald Niebuhr,889.0,1268.0,2157.0
+Monroe,,Soil & Water Dist Comm,,,Mervin McDanel,943.0,1360.0,2303.0
+Monroe,,Soil & Water Dist Comm,,,Albert Tangie,973.0,1338.0,2311.0
+Monroe,,Soil & Water Dist Comm,,,Write-In,12.0,6.0,18.0
+Monroe,,Soil & Water Dist Comm,,,Under Votes,1316.0,1671.0,2987.0
+Monroe,,Soil & Water Dist Comm,,,Over Votes,1.0,0.0,1.0
+Monroe,No. 1 - Albia 1st Ward,Co. Agri Extension Council,,,Lisa Gronewold,87.0,128.0,215.0
+Monroe,No. 1 - Albia 1st Ward,Co. Agri Extension Council,,,Michael Stocker,109.0,174.0,283.0
+Monroe,No. 1 - Albia 1st Ward,Co. Agri Extension Council,,,Walter Gardner Jr.,52.0,113.0,165.0
+Monroe,No. 1 - Albia 1st Ward,Co. Agri Extension Council,,,Michael R. Fisher,49.0,94.0,143.0
+Monroe,No. 1 - Albia 1st Ward,Co. Agri Extension Council,,,Justin Huber,103.0,166.0,269.0
+Monroe,No. 1 - Albia 1st Ward,Co. Agri Extension Council,,,Janice Crall,85.0,128.0,213.0
+Monroe,No. 1 - Albia 1st Ward,Co. Agri Extension Council,,,Write-In,0.0,0.0,0.0
+Monroe,No. 1 - Albia 1st Ward,Co. Agri Extension Council,,,Under Votes,164.0,237.0,401.0
+Monroe,No. 1 - Albia 1st Ward,Co. Agri Extension Council,,,Over Votes,1.0,0.0,1.0
+Monroe,No. 2 - Albia 2nd Ward,Co. Agri Extension Council,,,Lisa Gronewold,60.0,99.0,159.0
+Monroe,No. 2 - Albia 2nd Ward,Co. Agri Extension Council,,,Michael Stocker,101.0,137.0,238.0
+Monroe,No. 2 - Albia 2nd Ward,Co. Agri Extension Council,,,Walter Gardner Jr.,63.0,84.0,147.0
+Monroe,No. 2 - Albia 2nd Ward,Co. Agri Extension Council,,,Michael R. Fisher,38.0,58.0,96.0
+Monroe,No. 2 - Albia 2nd Ward,Co. Agri Extension Council,,,Justin Huber,94.0,147.0,241.0
+Monroe,No. 2 - Albia 2nd Ward,Co. Agri Extension Council,,,Janice Crall,59.0,121.0,180.0
+Monroe,No. 2 - Albia 2nd Ward,Co. Agri Extension Council,,,Write-In,0.0,1.0,1.0
+Monroe,No. 2 - Albia 2nd Ward,Co. Agri Extension Council,,,Under Votes,198.0,228.0,426.0
+Monroe,No. 2 - Albia 2nd Ward,Co. Agri Extension Council,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,Co. Agri Extension Council,,,Lisa Gronewold,66.0,83.0,149.0
+Monroe,No. 3 - Albia 3rd Ward,Co. Agri Extension Council,,,Michael Stocker,92.0,104.0,196.0
+Monroe,No. 3 - Albia 3rd Ward,Co. Agri Extension Council,,,Walter Gardner Jr.,47.0,61.0,108.0
+Monroe,No. 3 - Albia 3rd Ward,Co. Agri Extension Council,,,Michael R. Fisher,45.0,50.0,95.0
+Monroe,No. 3 - Albia 3rd Ward,Co. Agri Extension Council,,,Justin Huber,85.0,108.0,193.0
+Monroe,No. 3 - Albia 3rd Ward,Co. Agri Extension Council,,,Janice Crall,69.0,87.0,156.0
+Monroe,No. 3 - Albia 3rd Ward,Co. Agri Extension Council,,,Write-In,1.0,0.0,1.0
+Monroe,No. 3 - Albia 3rd Ward,Co. Agri Extension Council,,,Under Votes,157.0,188.0,345.0
+Monroe,No. 3 - Albia 3rd Ward,Co. Agri Extension Council,,,Over Votes,1.0,0.0,1.0
+Monroe,No. 4 - Albia 4th Ward,Co. Agri Extension Council,,,Lisa Gronewold,75.0,90.0,165.0
+Monroe,No. 4 - Albia 4th Ward,Co. Agri Extension Council,,,Michael Stocker,100.0,142.0,242.0
+Monroe,No. 4 - Albia 4th Ward,Co. Agri Extension Council,,,Walter Gardner Jr.,74.0,91.0,165.0
+Monroe,No. 4 - Albia 4th Ward,Co. Agri Extension Council,,,Michael R. Fisher,52.0,64.0,116.0
+Monroe,No. 4 - Albia 4th Ward,Co. Agri Extension Council,,,Justin Huber,101.0,135.0,236.0
+Monroe,No. 4 - Albia 4th Ward,Co. Agri Extension Council,,,Janice Crall,77.0,94.0,171.0
+Monroe,No. 4 - Albia 4th Ward,Co. Agri Extension Council,,,Write-In,0.0,1.0,1.0
+Monroe,No. 4 - Albia 4th Ward,Co. Agri Extension Council,,,Under Votes,158.0,244.0,402.0
+Monroe,No. 4 - Albia 4th Ward,Co. Agri Extension Council,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,Co. Agri Extension Council,,,Lisa Gronewold,263.0,266.0,529.0
+Monroe,No. 5 - Courthouse,Co. Agri Extension Council,,,Michael Stocker,368.0,379.0,747.0
+Monroe,No. 5 - Courthouse,Co. Agri Extension Council,,,Walter Gardner Jr.,259.0,248.0,507.0
+Monroe,No. 5 - Courthouse,Co. Agri Extension Council,,,Michael R. Fisher,193.0,226.0,419.0
+Monroe,No. 5 - Courthouse,Co. Agri Extension Council,,,Justin Huber,350.0,387.0,737.0
+Monroe,No. 5 - Courthouse,Co. Agri Extension Council,,,Janice Crall,233.0,238.0,471.0
+Monroe,No. 5 - Courthouse,Co. Agri Extension Council,,,Write-In,4.0,2.0,6.0
+Monroe,No. 5 - Courthouse,Co. Agri Extension Council,,,Under Votes,489.0,568.0,1057.0
+Monroe,No. 5 - Courthouse,Co. Agri Extension Council,,,Over Votes,1.0,0.0,1.0
+Monroe,No. 6 - Lovilia Community Center,Co. Agri Extension Council,,,Lisa Gronewold,69.0,117.0,186.0
+Monroe,No. 6 - Lovilia Community Center,Co. Agri Extension Council,,,Michael Stocker,115.0,210.0,325.0
+Monroe,No. 6 - Lovilia Community Center,Co. Agri Extension Council,,,Walter Gardner Jr.,93.0,145.0,238.0
+Monroe,No. 6 - Lovilia Community Center,Co. Agri Extension Council,,,Michael R. Fisher,101.0,194.0,295.0
+Monroe,No. 6 - Lovilia Community Center,Co. Agri Extension Council,,,Justin Huber,90.0,194.0,284.0
+Monroe,No. 6 - Lovilia Community Center,Co. Agri Extension Council,,,Janice Crall,78.0,136.0,214.0
+Monroe,No. 6 - Lovilia Community Center,Co. Agri Extension Council,,,Write-In,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,Co. Agri Extension Council,,,Under Votes,182.0,427.0,609.0
+Monroe,No. 6 - Lovilia Community Center,Co. Agri Extension Council,,,Over Votes,1.0,0.0,1.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Co. Agri Extension Council,,,Lisa Gronewold,52.0,75.0,127.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Co. Agri Extension Council,,,Michael Stocker,64.0,95.0,159.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Co. Agri Extension Council,,,Walter Gardner Jr.,45.0,64.0,109.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Co. Agri Extension Council,,,Michael R. Fisher,39.0,61.0,100.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Co. Agri Extension Council,,,Justin Huber,56.0,91.0,147.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Co. Agri Extension Council,,,Janice Crall,55.0,85.0,140.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Co. Agri Extension Council,,,Write-In,0.0,1.0,1.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Co. Agri Extension Council,,,Under Votes,111.0,176.0,287.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Co. Agri Extension Council,,,Over Votes,0.0,0.0,0.0
+Monroe,,Co. Agri Extension Council,,,Lisa Gronewold,672.0,858.0,1530.0
+Monroe,,Co. Agri Extension Council,,,Michael Stocker,949.0,1241.0,2190.0
+Monroe,,Co. Agri Extension Council,,,Walter Gardner Jr.,633.0,806.0,1439.0
+Monroe,,Co. Agri Extension Council,,,Michael R. Fisher,517.0,747.0,1264.0
+Monroe,,Co. Agri Extension Council,,,Justin Huber,879.0,1228.0,2107.0
+Monroe,,Co. Agri Extension Council,,,Janice Crall,656.0,889.0,1545.0
+Monroe,,Co. Agri Extension Council,,,Write-In,5.0,5.0,10.0
+Monroe,,Co. Agri Extension Council,,,Under Votes,1459.0,2068.0,3527.0
+Monroe,,Co. Agri Extension Council,,,Over Votes,4.0,0.0,4.0
+Monroe,No. 6 - Lovilia Community Center,Lovilia City Council Member TFV,,,Sarah Lang,52.0,124.0,176.0
+Monroe,No. 6 - Lovilia Community Center,Lovilia City Council Member TFV,,,Write-In,1.0,3.0,4.0
+Monroe,No. 6 - Lovilia Community Center,Lovilia City Council Member TFV,,,Under Votes,20.0,32.0,52.0
+Monroe,No. 6 - Lovilia Community Center,Lovilia City Council Member TFV,,,Over Votes,0.0,0.0,0.0
+Monroe,,Lovilia City Council Member TFV,,,Sarah Lang,52.0,124.0,176.0
+Monroe,,Lovilia City Council Member TFV,,,Write-In,1.0,3.0,4.0
+Monroe,,Lovilia City Council Member TFV,,,Under Votes,20.0,32.0,52.0
+Monroe,,Lovilia City Council Member TFV,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 1 - Albia 1st Ward,Supreme Court Justice Edward Mansfield,,,Yes,94.0,174.0,268.0
+Monroe,No. 1 - Albia 1st Ward,Supreme Court Justice Edward Mansfield,,,No,30.0,56.0,86.0
+Monroe,No. 1 - Albia 1st Ward,Supreme Court Justice Edward Mansfield,,,Under Votes,58.0,54.0,112.0
+Monroe,No. 1 - Albia 1st Ward,Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,Supreme Court Justice Edward Mansfield,,,Yes,87.0,140.0,227.0
+Monroe,No. 2 - Albia 2nd Ward,Supreme Court Justice Edward Mansfield,,,No,34.0,52.0,86.0
+Monroe,No. 2 - Albia 2nd Ward,Supreme Court Justice Edward Mansfield,,,Under Votes,60.0,50.0,110.0
+Monroe,No. 2 - Albia 2nd Ward,Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,Supreme Court Justice Edward Mansfield,,,Yes,78.0,97.0,175.0
+Monroe,No. 3 - Albia 3rd Ward,Supreme Court Justice Edward Mansfield,,,No,29.0,54.0,83.0
+Monroe,No. 3 - Albia 3rd Ward,Supreme Court Justice Edward Mansfield,,,Under Votes,63.0,38.0,101.0
+Monroe,No. 3 - Albia 3rd Ward,Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,Supreme Court Justice Edward Mansfield,,,Yes,90.0,120.0,210.0
+Monroe,No. 4 - Albia 4th Ward,Supreme Court Justice Edward Mansfield,,,No,39.0,68.0,107.0
+Monroe,No. 4 - Albia 4th Ward,Supreme Court Justice Edward Mansfield,,,Under Votes,61.0,49.0,110.0
+Monroe,No. 4 - Albia 4th Ward,Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,Supreme Court Justice Edward Mansfield,,,Yes,277.0,298.0,575.0
+Monroe,No. 5 - Courthouse,Supreme Court Justice Edward Mansfield,,,No,173.0,195.0,368.0
+Monroe,No. 5 - Courthouse,Supreme Court Justice Edward Mansfield,,,Under Votes,174.0,123.0,297.0
+Monroe,No. 5 - Courthouse,Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,Supreme Court Justice Edward Mansfield,,,Yes,90.0,191.0,281.0
+Monroe,No. 6 - Lovilia Community Center,Supreme Court Justice Edward Mansfield,,,No,56.0,115.0,171.0
+Monroe,No. 6 - Lovilia Community Center,Supreme Court Justice Edward Mansfield,,,Under Votes,73.0,91.0,164.0
+Monroe,No. 6 - Lovilia Community Center,Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Supreme Court Justice Edward Mansfield,,,Yes,54.0,88.0,142.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Supreme Court Justice Edward Mansfield,,,No,34.0,51.0,85.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Supreme Court Justice Edward Mansfield,,,Under Votes,46.0,59.0,105.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,0.0,0.0
+Monroe,,Supreme Court Justice Edward Mansfield,,,Yes,770.0,1108.0,1878.0
+Monroe,,Supreme Court Justice Edward Mansfield,,,No,395.0,591.0,986.0
+Monroe,,Supreme Court Justice Edward Mansfield,,,Under Votes,535.0,464.0,999.0
+Monroe,,Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 1 - Albia 1st Ward,Supreme Court Justice Thomas D. Waterman,,,Yes,93.0,174.0,267.0
+Monroe,No. 1 - Albia 1st Ward,Supreme Court Justice Thomas D. Waterman,,,No,30.0,52.0,82.0
+Monroe,No. 1 - Albia 1st Ward,Supreme Court Justice Thomas D. Waterman,,,Under Votes,59.0,58.0,117.0
+Monroe,No. 1 - Albia 1st Ward,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,Supreme Court Justice Thomas D. Waterman,,,Yes,85.0,139.0,224.0
+Monroe,No. 2 - Albia 2nd Ward,Supreme Court Justice Thomas D. Waterman,,,No,37.0,50.0,87.0
+Monroe,No. 2 - Albia 2nd Ward,Supreme Court Justice Thomas D. Waterman,,,Under Votes,59.0,53.0,112.0
+Monroe,No. 2 - Albia 2nd Ward,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,Supreme Court Justice Thomas D. Waterman,,,Yes,78.0,95.0,173.0
+Monroe,No. 3 - Albia 3rd Ward,Supreme Court Justice Thomas D. Waterman,,,No,30.0,52.0,82.0
+Monroe,No. 3 - Albia 3rd Ward,Supreme Court Justice Thomas D. Waterman,,,Under Votes,62.0,42.0,104.0
+Monroe,No. 3 - Albia 3rd Ward,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,Supreme Court Justice Thomas D. Waterman,,,Yes,95.0,117.0,212.0
+Monroe,No. 4 - Albia 4th Ward,Supreme Court Justice Thomas D. Waterman,,,No,34.0,66.0,100.0
+Monroe,No. 4 - Albia 4th Ward,Supreme Court Justice Thomas D. Waterman,,,Under Votes,61.0,54.0,115.0
+Monroe,No. 4 - Albia 4th Ward,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,Supreme Court Justice Thomas D. Waterman,,,Yes,279.0,296.0,575.0
+Monroe,No. 5 - Courthouse,Supreme Court Justice Thomas D. Waterman,,,No,164.0,194.0,358.0
+Monroe,No. 5 - Courthouse,Supreme Court Justice Thomas D. Waterman,,,Under Votes,181.0,126.0,307.0
+Monroe,No. 5 - Courthouse,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,Supreme Court Justice Thomas D. Waterman,,,Yes,92.0,181.0,273.0
+Monroe,No. 6 - Lovilia Community Center,Supreme Court Justice Thomas D. Waterman,,,No,55.0,115.0,170.0
+Monroe,No. 6 - Lovilia Community Center,Supreme Court Justice Thomas D. Waterman,,,Under Votes,72.0,101.0,173.0
+Monroe,No. 6 - Lovilia Community Center,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Supreme Court Justice Thomas D. Waterman,,,Yes,53.0,81.0,134.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Supreme Court Justice Thomas D. Waterman,,,No,33.0,52.0,85.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Supreme Court Justice Thomas D. Waterman,,,Under Votes,48.0,65.0,113.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Monroe,,Supreme Court Justice Thomas D. Waterman,,,Yes,775.0,1083.0,1858.0
+Monroe,,Supreme Court Justice Thomas D. Waterman,,,No,383.0,581.0,964.0
+Monroe,,Supreme Court Justice Thomas D. Waterman,,,Under Votes,542.0,499.0,1041.0
+Monroe,,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 1 - Albia 1st Ward,Supreme Court Justice David S. Wiggins,,,Yes,72.0,107.0,179.0
+Monroe,No. 1 - Albia 1st Ward,Supreme Court Justice David S. Wiggins,,,No,59.0,137.0,196.0
+Monroe,No. 1 - Albia 1st Ward,Supreme Court Justice David S. Wiggins,,,Under Votes,51.0,40.0,91.0
+Monroe,No. 1 - Albia 1st Ward,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,Supreme Court Justice David S. Wiggins,,,Yes,57.0,91.0,148.0
+Monroe,No. 2 - Albia 2nd Ward,Supreme Court Justice David S. Wiggins,,,No,72.0,115.0,187.0
+Monroe,No. 2 - Albia 2nd Ward,Supreme Court Justice David S. Wiggins,,,Under Votes,52.0,36.0,88.0
+Monroe,No. 2 - Albia 2nd Ward,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,Supreme Court Justice David S. Wiggins,,,Yes,63.0,66.0,129.0
+Monroe,No. 3 - Albia 3rd Ward,Supreme Court Justice David S. Wiggins,,,No,49.0,100.0,149.0
+Monroe,No. 3 - Albia 3rd Ward,Supreme Court Justice David S. Wiggins,,,Under Votes,58.0,23.0,81.0
+Monroe,No. 3 - Albia 3rd Ward,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,Supreme Court Justice David S. Wiggins,,,Yes,71.0,87.0,158.0
+Monroe,No. 4 - Albia 4th Ward,Supreme Court Justice David S. Wiggins,,,No,74.0,122.0,196.0
+Monroe,No. 4 - Albia 4th Ward,Supreme Court Justice David S. Wiggins,,,Under Votes,44.0,28.0,72.0
+Monroe,No. 4 - Albia 4th Ward,Supreme Court Justice David S. Wiggins,,,Over Votes,1.0,0.0,1.0
+Monroe,No. 5 - Courthouse,Supreme Court Justice David S. Wiggins,,,Yes,168.0,169.0,337.0
+Monroe,No. 5 - Courthouse,Supreme Court Justice David S. Wiggins,,,No,348.0,382.0,730.0
+Monroe,No. 5 - Courthouse,Supreme Court Justice David S. Wiggins,,,Under Votes,108.0,65.0,173.0
+Monroe,No. 5 - Courthouse,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,Supreme Court Justice David S. Wiggins,,,Yes,61.0,127.0,188.0
+Monroe,No. 6 - Lovilia Community Center,Supreme Court Justice David S. Wiggins,,,No,111.0,215.0,326.0
+Monroe,No. 6 - Lovilia Community Center,Supreme Court Justice David S. Wiggins,,,Under Votes,47.0,55.0,102.0
+Monroe,No. 6 - Lovilia Community Center,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Supreme Court Justice David S. Wiggins,,,Yes,38.0,47.0,85.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Supreme Court Justice David S. Wiggins,,,No,64.0,117.0,181.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Supreme Court Justice David S. Wiggins,,,Under Votes,32.0,34.0,66.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Monroe,,Supreme Court Justice David S. Wiggins,,,Yes,530.0,694.0,1224.0
+Monroe,,Supreme Court Justice David S. Wiggins,,,No,777.0,1188.0,1965.0
+Monroe,,Supreme Court Justice David S. Wiggins,,,Under Votes,392.0,281.0,673.0
+Monroe,,Supreme Court Justice David S. Wiggins,,,Over Votes,1.0,0.0,1.0
+Monroe,No. 1 - Albia 1st Ward,Supreme Court Justice Bruce B. Zager,,,Yes,98.0,177.0,275.0
+Monroe,No. 1 - Albia 1st Ward,Supreme Court Justice Bruce B. Zager,,,No,27.0,52.0,79.0
+Monroe,No. 1 - Albia 1st Ward,Supreme Court Justice Bruce B. Zager,,,Under Votes,57.0,55.0,112.0
+Monroe,No. 1 - Albia 1st Ward,Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,Supreme Court Justice Bruce B. Zager,,,Yes,82.0,143.0,225.0
+Monroe,No. 2 - Albia 2nd Ward,Supreme Court Justice Bruce B. Zager,,,No,40.0,51.0,91.0
+Monroe,No. 2 - Albia 2nd Ward,Supreme Court Justice Bruce B. Zager,,,Under Votes,59.0,48.0,107.0
+Monroe,No. 2 - Albia 2nd Ward,Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,Supreme Court Justice Bruce B. Zager,,,Yes,79.0,99.0,178.0
+Monroe,No. 3 - Albia 3rd Ward,Supreme Court Justice Bruce B. Zager,,,No,29.0,53.0,82.0
+Monroe,No. 3 - Albia 3rd Ward,Supreme Court Justice Bruce B. Zager,,,Under Votes,62.0,37.0,99.0
+Monroe,No. 3 - Albia 3rd Ward,Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,Supreme Court Justice Bruce B. Zager,,,Yes,90.0,121.0,211.0
+Monroe,No. 4 - Albia 4th Ward,Supreme Court Justice Bruce B. Zager,,,No,39.0,71.0,110.0
+Monroe,No. 4 - Albia 4th Ward,Supreme Court Justice Bruce B. Zager,,,Under Votes,61.0,45.0,106.0
+Monroe,No. 4 - Albia 4th Ward,Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,Supreme Court Justice Bruce B. Zager,,,Yes,280.0,296.0,576.0
+Monroe,No. 5 - Courthouse,Supreme Court Justice Bruce B. Zager,,,No,170.0,199.0,369.0
+Monroe,No. 5 - Courthouse,Supreme Court Justice Bruce B. Zager,,,Under Votes,173.0,121.0,294.0
+Monroe,No. 5 - Courthouse,Supreme Court Justice Bruce B. Zager,,,Over Votes,1.0,0.0,1.0
+Monroe,No. 6 - Lovilia Community Center,Supreme Court Justice Bruce B. Zager,,,Yes,88.0,200.0,288.0
+Monroe,No. 6 - Lovilia Community Center,Supreme Court Justice Bruce B. Zager,,,No,59.0,111.0,170.0
+Monroe,No. 6 - Lovilia Community Center,Supreme Court Justice Bruce B. Zager,,,Under Votes,72.0,86.0,158.0
+Monroe,No. 6 - Lovilia Community Center,Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Supreme Court Justice Bruce B. Zager,,,Yes,53.0,90.0,143.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Supreme Court Justice Bruce B. Zager,,,No,35.0,50.0,85.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Supreme Court Justice Bruce B. Zager,,,Under Votes,46.0,58.0,104.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,0.0,0.0
+Monroe,,Supreme Court Justice Bruce B. Zager,,,Yes,770.0,1126.0,1896.0
+Monroe,,Supreme Court Justice Bruce B. Zager,,,No,399.0,587.0,986.0
+Monroe,,Supreme Court Justice Bruce B. Zager,,,Under Votes,530.0,450.0,980.0
+Monroe,,Supreme Court Justice Bruce B. Zager,,,Over Votes,1.0,0.0,1.0
+Monroe,No. 1 - Albia 1st Ward,Court of Appeals Judge Michael R. Mullins,,,Yes,98.0,176.0,274.0
+Monroe,No. 1 - Albia 1st Ward,Court of Appeals Judge Michael R. Mullins,,,No,22.0,48.0,70.0
+Monroe,No. 1 - Albia 1st Ward,Court of Appeals Judge Michael R. Mullins,,,Under Votes,62.0,60.0,122.0
+Monroe,No. 1 - Albia 1st Ward,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,Court of Appeals Judge Michael R. Mullins,,,Yes,79.0,136.0,215.0
+Monroe,No. 2 - Albia 2nd Ward,Court of Appeals Judge Michael R. Mullins,,,No,29.0,48.0,77.0
+Monroe,No. 2 - Albia 2nd Ward,Court of Appeals Judge Michael R. Mullins,,,Under Votes,73.0,57.0,130.0
+Monroe,No. 2 - Albia 2nd Ward,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,1.0,1.0
+Monroe,No. 3 - Albia 3rd Ward,Court of Appeals Judge Michael R. Mullins,,,Yes,85.0,106.0,191.0
+Monroe,No. 3 - Albia 3rd Ward,Court of Appeals Judge Michael R. Mullins,,,No,19.0,42.0,61.0
+Monroe,No. 3 - Albia 3rd Ward,Court of Appeals Judge Michael R. Mullins,,,Under Votes,66.0,41.0,107.0
+Monroe,No. 3 - Albia 3rd Ward,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,Court of Appeals Judge Michael R. Mullins,,,Yes,93.0,123.0,216.0
+Monroe,No. 4 - Albia 4th Ward,Court of Appeals Judge Michael R. Mullins,,,No,32.0,65.0,97.0
+Monroe,No. 4 - Albia 4th Ward,Court of Appeals Judge Michael R. Mullins,,,Under Votes,65.0,49.0,114.0
+Monroe,No. 4 - Albia 4th Ward,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,Court of Appeals Judge Michael R. Mullins,,,Yes,271.0,306.0,577.0
+Monroe,No. 5 - Courthouse,Court of Appeals Judge Michael R. Mullins,,,No,161.0,176.0,337.0
+Monroe,No. 5 - Courthouse,Court of Appeals Judge Michael R. Mullins,,,Under Votes,192.0,134.0,326.0
+Monroe,No. 5 - Courthouse,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,Court of Appeals Judge Michael R. Mullins,,,Yes,87.0,196.0,283.0
+Monroe,No. 6 - Lovilia Community Center,Court of Appeals Judge Michael R. Mullins,,,No,53.0,101.0,154.0
+Monroe,No. 6 - Lovilia Community Center,Court of Appeals Judge Michael R. Mullins,,,Under Votes,79.0,100.0,179.0
+Monroe,No. 6 - Lovilia Community Center,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Court of Appeals Judge Michael R. Mullins,,,Yes,57.0,89.0,146.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Court of Appeals Judge Michael R. Mullins,,,No,27.0,45.0,72.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Court of Appeals Judge Michael R. Mullins,,,Under Votes,50.0,64.0,114.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,0.0,0.0
+Monroe,,Court of Appeals Judge Michael R. Mullins,,,Yes,770.0,1132.0,1902.0
+Monroe,,Court of Appeals Judge Michael R. Mullins,,,No,343.0,525.0,868.0
+Monroe,,Court of Appeals Judge Michael R. Mullins,,,Under Votes,587.0,505.0,1092.0
+Monroe,,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,1.0,1.0
+Monroe,No. 1 - Albia 1st Ward,Court of Appeals Judge Mary Ellen Tabor,,,Yes,103.0,178.0,281.0
+Monroe,No. 1 - Albia 1st Ward,Court of Appeals Judge Mary Ellen Tabor,,,No,20.0,46.0,66.0
+Monroe,No. 1 - Albia 1st Ward,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,59.0,60.0,119.0
+Monroe,No. 1 - Albia 1st Ward,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,Court of Appeals Judge Mary Ellen Tabor,,,Yes,84.0,136.0,220.0
+Monroe,No. 2 - Albia 2nd Ward,Court of Appeals Judge Mary Ellen Tabor,,,No,26.0,48.0,74.0
+Monroe,No. 2 - Albia 2nd Ward,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,71.0,57.0,128.0
+Monroe,No. 2 - Albia 2nd Ward,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,1.0,1.0
+Monroe,No. 3 - Albia 3rd Ward,Court of Appeals Judge Mary Ellen Tabor,,,Yes,82.0,102.0,184.0
+Monroe,No. 3 - Albia 3rd Ward,Court of Appeals Judge Mary Ellen Tabor,,,No,21.0,46.0,67.0
+Monroe,No. 3 - Albia 3rd Ward,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,67.0,41.0,108.0
+Monroe,No. 3 - Albia 3rd Ward,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,Court of Appeals Judge Mary Ellen Tabor,,,Yes,90.0,131.0,221.0
+Monroe,No. 4 - Albia 4th Ward,Court of Appeals Judge Mary Ellen Tabor,,,No,37.0,58.0,95.0
+Monroe,No. 4 - Albia 4th Ward,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,63.0,48.0,111.0
+Monroe,No. 4 - Albia 4th Ward,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,Court of Appeals Judge Mary Ellen Tabor,,,Yes,263.0,294.0,557.0
+Monroe,No. 5 - Courthouse,Court of Appeals Judge Mary Ellen Tabor,,,No,166.0,185.0,351.0
+Monroe,No. 5 - Courthouse,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,195.0,137.0,332.0
+Monroe,No. 5 - Courthouse,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,Court of Appeals Judge Mary Ellen Tabor,,,Yes,89.0,199.0,288.0
+Monroe,No. 6 - Lovilia Community Center,Court of Appeals Judge Mary Ellen Tabor,,,No,52.0,99.0,151.0
+Monroe,No. 6 - Lovilia Community Center,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,77.0,99.0,176.0
+Monroe,No. 6 - Lovilia Community Center,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,1.0,0.0,1.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Court of Appeals Judge Mary Ellen Tabor,,,Yes,61.0,88.0,149.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Court of Appeals Judge Mary Ellen Tabor,,,No,25.0,47.0,72.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,48.0,63.0,111.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,0.0,0.0
+Monroe,,Court of Appeals Judge Mary Ellen Tabor,,,Yes,772.0,1128.0,1900.0
+Monroe,,Court of Appeals Judge Mary Ellen Tabor,,,No,347.0,529.0,876.0
+Monroe,,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,580.0,505.0,1085.0
+Monroe,,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,1.0,1.0,2.0
+Monroe,No. 1 - Albia 1st Ward,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,86.0,159.0,245.0
+Monroe,No. 1 - Albia 1st Ward,Court of Appeals Judge Anuradha Vaitheswaran,,,No,33.0,63.0,96.0
+Monroe,No. 1 - Albia 1st Ward,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,63.0,62.0,125.0
+Monroe,No. 1 - Albia 1st Ward,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,68.0,117.0,185.0
+Monroe,No. 2 - Albia 2nd Ward,Court of Appeals Judge Anuradha Vaitheswaran,,,No,38.0,61.0,99.0
+Monroe,No. 2 - Albia 2nd Ward,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,75.0,63.0,138.0
+Monroe,No. 2 - Albia 2nd Ward,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,1.0,1.0
+Monroe,No. 3 - Albia 3rd Ward,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,70.0,90.0,160.0
+Monroe,No. 3 - Albia 3rd Ward,Court of Appeals Judge Anuradha Vaitheswaran,,,No,30.0,53.0,83.0
+Monroe,No. 3 - Albia 3rd Ward,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,70.0,46.0,116.0
+Monroe,No. 3 - Albia 3rd Ward,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,78.0,114.0,192.0
+Monroe,No. 4 - Albia 4th Ward,Court of Appeals Judge Anuradha Vaitheswaran,,,No,47.0,67.0,114.0
+Monroe,No. 4 - Albia 4th Ward,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,65.0,56.0,121.0
+Monroe,No. 4 - Albia 4th Ward,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,229.0,271.0,500.0
+Monroe,No. 5 - Courthouse,Court of Appeals Judge Anuradha Vaitheswaran,,,No,196.0,205.0,401.0
+Monroe,No. 5 - Courthouse,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,198.0,140.0,338.0
+Monroe,No. 5 - Courthouse,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,1.0,0.0,1.0
+Monroe,No. 6 - Lovilia Community Center,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,78.0,176.0,254.0
+Monroe,No. 6 - Lovilia Community Center,Court of Appeals Judge Anuradha Vaitheswaran,,,No,62.0,118.0,180.0
+Monroe,No. 6 - Lovilia Community Center,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,79.0,103.0,182.0
+Monroe,No. 6 - Lovilia Community Center,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,52.0,77.0,129.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Court of Appeals Judge Anuradha Vaitheswaran,,,No,31.0,55.0,86.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,51.0,66.0,117.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,0.0,0.0
+Monroe,,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,661.0,1004.0,1665.0
+Monroe,,Court of Appeals Judge Anuradha Vaitheswaran,,,No,437.0,622.0,1059.0
+Monroe,,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,601.0,536.0,1137.0
+Monroe,,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,1.0,1.0,2.0
+Monroe,No. 1 - Albia 1st Ward,District Court 8A Judge Lucy J. Gamon,,,Yes,101.0,183.0,284.0
+Monroe,No. 1 - Albia 1st Ward,District Court 8A Judge Lucy J. Gamon,,,No,22.0,41.0,63.0
+Monroe,No. 1 - Albia 1st Ward,District Court 8A Judge Lucy J. Gamon,,,Under Votes,59.0,60.0,119.0
+Monroe,No. 1 - Albia 1st Ward,District Court 8A Judge Lucy J. Gamon,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,District Court 8A Judge Lucy J. Gamon,,,Yes,80.0,140.0,220.0
+Monroe,No. 2 - Albia 2nd Ward,District Court 8A Judge Lucy J. Gamon,,,No,32.0,46.0,78.0
+Monroe,No. 2 - Albia 2nd Ward,District Court 8A Judge Lucy J. Gamon,,,Under Votes,69.0,56.0,125.0
+Monroe,No. 2 - Albia 2nd Ward,District Court 8A Judge Lucy J. Gamon,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,District Court 8A Judge Lucy J. Gamon,,,Yes,87.0,108.0,195.0
+Monroe,No. 3 - Albia 3rd Ward,District Court 8A Judge Lucy J. Gamon,,,No,17.0,45.0,62.0
+Monroe,No. 3 - Albia 3rd Ward,District Court 8A Judge Lucy J. Gamon,,,Under Votes,66.0,35.0,101.0
+Monroe,No. 3 - Albia 3rd Ward,District Court 8A Judge Lucy J. Gamon,,,Over Votes,0.0,1.0,1.0
+Monroe,No. 4 - Albia 4th Ward,District Court 8A Judge Lucy J. Gamon,,,Yes,94.0,119.0,213.0
+Monroe,No. 4 - Albia 4th Ward,District Court 8A Judge Lucy J. Gamon,,,No,34.0,70.0,104.0
+Monroe,No. 4 - Albia 4th Ward,District Court 8A Judge Lucy J. Gamon,,,Under Votes,62.0,48.0,110.0
+Monroe,No. 4 - Albia 4th Ward,District Court 8A Judge Lucy J. Gamon,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,District Court 8A Judge Lucy J. Gamon,,,Yes,265.0,299.0,564.0
+Monroe,No. 5 - Courthouse,District Court 8A Judge Lucy J. Gamon,,,No,165.0,184.0,349.0
+Monroe,No. 5 - Courthouse,District Court 8A Judge Lucy J. Gamon,,,Under Votes,194.0,133.0,327.0
+Monroe,No. 5 - Courthouse,District Court 8A Judge Lucy J. Gamon,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,District Court 8A Judge Lucy J. Gamon,,,Yes,94.0,198.0,292.0
+Monroe,No. 6 - Lovilia Community Center,District Court 8A Judge Lucy J. Gamon,,,No,50.0,100.0,150.0
+Monroe,No. 6 - Lovilia Community Center,District Court 8A Judge Lucy J. Gamon,,,Under Votes,75.0,99.0,174.0
+Monroe,No. 6 - Lovilia Community Center,District Court 8A Judge Lucy J. Gamon,,,Over Votes,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",District Court 8A Judge Lucy J. Gamon,,,Yes,54.0,84.0,138.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",District Court 8A Judge Lucy J. Gamon,,,No,29.0,49.0,78.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",District Court 8A Judge Lucy J. Gamon,,,Under Votes,51.0,65.0,116.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",District Court 8A Judge Lucy J. Gamon,,,Over Votes,0.0,0.0,0.0
+Monroe,,District Court 8A Judge Lucy J. Gamon,,,Yes,775.0,1131.0,1906.0
+Monroe,,District Court 8A Judge Lucy J. Gamon,,,No,349.0,535.0,884.0
+Monroe,,District Court 8A Judge Lucy J. Gamon,,,Under Votes,576.0,496.0,1072.0
+Monroe,,District Court 8A Judge Lucy J. Gamon,,,Over Votes,0.0,1.0,1.0
+Monroe,No. 1 - Albia 1st Ward,District Court 8A Judge Myron L. Gookin,,,Yes,94.0,178.0,272.0
+Monroe,No. 1 - Albia 1st Ward,District Court 8A Judge Myron L. Gookin,,,No,25.0,47.0,72.0
+Monroe,No. 1 - Albia 1st Ward,District Court 8A Judge Myron L. Gookin,,,Under Votes,63.0,59.0,122.0
+Monroe,No. 1 - Albia 1st Ward,District Court 8A Judge Myron L. Gookin,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,District Court 8A Judge Myron L. Gookin,,,Yes,81.0,134.0,215.0
+Monroe,No. 2 - Albia 2nd Ward,District Court 8A Judge Myron L. Gookin,,,No,30.0,54.0,84.0
+Monroe,No. 2 - Albia 2nd Ward,District Court 8A Judge Myron L. Gookin,,,Under Votes,70.0,54.0,124.0
+Monroe,No. 2 - Albia 2nd Ward,District Court 8A Judge Myron L. Gookin,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,District Court 8A Judge Myron L. Gookin,,,Yes,80.0,103.0,183.0
+Monroe,No. 3 - Albia 3rd Ward,District Court 8A Judge Myron L. Gookin,,,No,20.0,48.0,68.0
+Monroe,No. 3 - Albia 3rd Ward,District Court 8A Judge Myron L. Gookin,,,Under Votes,68.0,38.0,106.0
+Monroe,No. 3 - Albia 3rd Ward,District Court 8A Judge Myron L. Gookin,,,Over Votes,2.0,0.0,2.0
+Monroe,No. 4 - Albia 4th Ward,District Court 8A Judge Myron L. Gookin,,,Yes,92.0,123.0,215.0
+Monroe,No. 4 - Albia 4th Ward,District Court 8A Judge Myron L. Gookin,,,No,37.0,65.0,102.0
+Monroe,No. 4 - Albia 4th Ward,District Court 8A Judge Myron L. Gookin,,,Under Votes,61.0,49.0,110.0
+Monroe,No. 4 - Albia 4th Ward,District Court 8A Judge Myron L. Gookin,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,District Court 8A Judge Myron L. Gookin,,,Yes,269.0,287.0,556.0
+Monroe,No. 5 - Courthouse,District Court 8A Judge Myron L. Gookin,,,No,162.0,194.0,356.0
+Monroe,No. 5 - Courthouse,District Court 8A Judge Myron L. Gookin,,,Under Votes,193.0,135.0,328.0
+Monroe,No. 5 - Courthouse,District Court 8A Judge Myron L. Gookin,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,District Court 8A Judge Myron L. Gookin,,,Yes,90.0,199.0,289.0
+Monroe,No. 6 - Lovilia Community Center,District Court 8A Judge Myron L. Gookin,,,No,51.0,100.0,151.0
+Monroe,No. 6 - Lovilia Community Center,District Court 8A Judge Myron L. Gookin,,,Under Votes,78.0,98.0,176.0
+Monroe,No. 6 - Lovilia Community Center,District Court 8A Judge Myron L. Gookin,,,Over Votes,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",District Court 8A Judge Myron L. Gookin,,,Yes,52.0,82.0,134.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",District Court 8A Judge Myron L. Gookin,,,No,32.0,51.0,83.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",District Court 8A Judge Myron L. Gookin,,,Under Votes,50.0,65.0,115.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",District Court 8A Judge Myron L. Gookin,,,Over Votes,0.0,0.0,0.0
+Monroe,,District Court 8A Judge Myron L. Gookin,,,Yes,758.0,1106.0,1864.0
+Monroe,,District Court 8A Judge Myron L. Gookin,,,No,357.0,559.0,916.0
+Monroe,,District Court 8A Judge Myron L. Gookin,,,Under Votes,583.0,498.0,1081.0
+Monroe,,District Court 8A Judge Myron L. Gookin,,,Over Votes,2.0,0.0,2.0
+Monroe,No. 1 - Albia 1st Ward,District Court 8A Associate Judge Crystal S. Cronk,,,Yes,102.0,180.0,282.0
+Monroe,No. 1 - Albia 1st Ward,District Court 8A Associate Judge Crystal S. Cronk,,,No,20.0,46.0,66.0
+Monroe,No. 1 - Albia 1st Ward,District Court 8A Associate Judge Crystal S. Cronk,,,Under Votes,60.0,58.0,118.0
+Monroe,No. 1 - Albia 1st Ward,District Court 8A Associate Judge Crystal S. Cronk,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 2 - Albia 2nd Ward,District Court 8A Associate Judge Crystal S. Cronk,,,Yes,84.0,142.0,226.0
+Monroe,No. 2 - Albia 2nd Ward,District Court 8A Associate Judge Crystal S. Cronk,,,No,28.0,45.0,73.0
+Monroe,No. 2 - Albia 2nd Ward,District Court 8A Associate Judge Crystal S. Cronk,,,Under Votes,69.0,55.0,124.0
+Monroe,No. 2 - Albia 2nd Ward,District Court 8A Associate Judge Crystal S. Cronk,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 3 - Albia 3rd Ward,District Court 8A Associate Judge Crystal S. Cronk,,,Yes,84.0,108.0,192.0
+Monroe,No. 3 - Albia 3rd Ward,District Court 8A Associate Judge Crystal S. Cronk,,,No,20.0,46.0,66.0
+Monroe,No. 3 - Albia 3rd Ward,District Court 8A Associate Judge Crystal S. Cronk,,,Under Votes,66.0,35.0,101.0
+Monroe,No. 3 - Albia 3rd Ward,District Court 8A Associate Judge Crystal S. Cronk,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 4 - Albia 4th Ward,District Court 8A Associate Judge Crystal S. Cronk,,,Yes,91.0,123.0,214.0
+Monroe,No. 4 - Albia 4th Ward,District Court 8A Associate Judge Crystal S. Cronk,,,No,38.0,66.0,104.0
+Monroe,No. 4 - Albia 4th Ward,District Court 8A Associate Judge Crystal S. Cronk,,,Under Votes,61.0,48.0,109.0
+Monroe,No. 4 - Albia 4th Ward,District Court 8A Associate Judge Crystal S. Cronk,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 5 - Courthouse,District Court 8A Associate Judge Crystal S. Cronk,,,Yes,261.0,304.0,565.0
+Monroe,No. 5 - Courthouse,District Court 8A Associate Judge Crystal S. Cronk,,,No,169.0,179.0,348.0
+Monroe,No. 5 - Courthouse,District Court 8A Associate Judge Crystal S. Cronk,,,Under Votes,194.0,133.0,327.0
+Monroe,No. 5 - Courthouse,District Court 8A Associate Judge Crystal S. Cronk,,,Over Votes,0.0,0.0,0.0
+Monroe,No. 6 - Lovilia Community Center,District Court 8A Associate Judge Crystal S. Cronk,,,Yes,95.0,209.0,304.0
+Monroe,No. 6 - Lovilia Community Center,District Court 8A Associate Judge Crystal S. Cronk,,,No,46.0,95.0,141.0
+Monroe,No. 6 - Lovilia Community Center,District Court 8A Associate Judge Crystal S. Cronk,,,Under Votes,78.0,93.0,171.0
+Monroe,No. 6 - Lovilia Community Center,District Court 8A Associate Judge Crystal S. Cronk,,,Over Votes,0.0,0.0,0.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",District Court 8A Associate Judge Crystal S. Cronk,,,Yes,56.0,86.0,142.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",District Court 8A Associate Judge Crystal S. Cronk,,,No,28.0,48.0,76.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",District Court 8A Associate Judge Crystal S. Cronk,,,Under Votes,50.0,64.0,114.0
+Monroe,"No. 7 - St. Patrick's Church - FR,JK,WY ",District Court 8A Associate Judge Crystal S. Cronk,,,Over Votes,0.0,0.0,0.0
+Monroe,,District Court 8A Associate Judge Crystal S. Cronk,,,Yes,773.0,1152.0,1925.0
+Monroe,,District Court 8A Associate Judge Crystal S. Cronk,,,No,349.0,525.0,874.0
+Monroe,,District Court 8A Associate Judge Crystal S. Cronk,,,Under Votes,578.0,486.0,1064.0
+Monroe,,District Court 8A Associate Judge Crystal S. Cronk,,,Over Votes,0.0,0.0,0.0

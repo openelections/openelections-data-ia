@@ -1,0 +1,929 @@
+county,precinct,office,district,party,candidate,absentee,election_date,votes
+Butler,1-GR,President/Vice President,,Republican,Mitt Romney Paul Ryan,166.0,345.0,511.0
+Butler,1-GR,President/Vice President,,Democratic,Barack Obama Joe Biden,203.0,332.0,535.0
+Butler,1-GR,President/Vice President,,Constitution,Virgil Goode James Clymer,0.0,3.0,3.0
+Butler,1-GR,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,2.0,2.0,4.0
+Butler,1-GR,President/Vice President,,Libertarian,Gary Johnson James P. Gray,1.0,5.0,6.0
+Butler,1-GR,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,0.0,0.0
+Butler,1-GR,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,0.0,0.0
+Butler,1-GR,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,0.0,0.0,0.0
+Butler,1-GR,President/Vice President,,,Write-In,1.0,3.0,4.0
+Butler,1-GR,President/Vice President,,,Under Votes,2.0,2.0,4.0
+Butler,1-GR,President/Vice President,,,Over Votes,1.0,0.0,1.0
+Butler,2-CL,President/Vice President,,Republican,Mitt Romney Paul Ryan,210.0,414.0,624.0
+Butler,2-CL,President/Vice President,,Democratic,Barack Obama Joe Biden,224.0,423.0,647.0
+Butler,2-CL,President/Vice President,,Constitution,Virgil Goode James Clymer,2.0,3.0,5.0
+Butler,2-CL,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,0.0,1.0,1.0
+Butler,2-CL,President/Vice President,,Libertarian,Gary Johnson James P. Gray,0.0,2.0,2.0
+Butler,2-CL,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,0.0,0.0
+Butler,2-CL,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,0.0,0.0
+Butler,2-CL,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,0.0,0.0,0.0
+Butler,2-CL,President/Vice President,,,Write-In,0.0,4.0,4.0
+Butler,2-CL,President/Vice President,,,Under Votes,2.0,3.0,5.0
+Butler,2-CL,President/Vice President,,,Over Votes,1.0,0.0,1.0
+Butler,3-DU,President/Vice President,,Republican,Mitt Romney Paul Ryan,145.0,285.0,430.0
+Butler,3-DU,President/Vice President,,Democratic,Barack Obama Joe Biden,95.0,153.0,248.0
+Butler,3-DU,President/Vice President,,Constitution,Virgil Goode James Clymer,0.0,1.0,1.0
+Butler,3-DU,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,0.0,1.0,1.0
+Butler,3-DU,President/Vice President,,Libertarian,Gary Johnson James P. Gray,0.0,1.0,1.0
+Butler,3-DU,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,0.0,0.0
+Butler,3-DU,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,0.0,0.0
+Butler,3-DU,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,0.0,2.0,2.0
+Butler,3-DU,President/Vice President,,,Write-In,3.0,0.0,3.0
+Butler,3-DU,President/Vice President,,,Under Votes,1.0,2.0,3.0
+Butler,3-DU,President/Vice President,,,Over Votes,0.0,2.0,2.0
+Butler,4-AL,President/Vice President,,Republican,Mitt Romney Paul Ryan,165.0,244.0,409.0
+Butler,4-AL,President/Vice President,,Democratic,Barack Obama Joe Biden,103.0,170.0,273.0
+Butler,4-AL,President/Vice President,,Constitution,Virgil Goode James Clymer,1.0,1.0,2.0
+Butler,4-AL,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,0.0,0.0,0.0
+Butler,4-AL,President/Vice President,,Libertarian,Gary Johnson James P. Gray,1.0,4.0,5.0
+Butler,4-AL,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,0.0,0.0
+Butler,4-AL,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,0.0,0.0
+Butler,4-AL,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,0.0,0.0,0.0
+Butler,4-AL,President/Vice President,,,Write-In,0.0,3.0,3.0
+Butler,4-AL,President/Vice President,,,Under Votes,1.0,2.0,3.0
+Butler,4-AL,President/Vice President,,,Over Votes,1.0,0.0,1.0
+Butler,5-AP,President/Vice President,,Republican,Mitt Romney Paul Ryan,200.0,417.0,617.0
+Butler,5-AP,President/Vice President,,Democratic,Barack Obama Joe Biden,93.0,171.0,264.0
+Butler,5-AP,President/Vice President,,Constitution,Virgil Goode James Clymer,0.0,4.0,4.0
+Butler,5-AP,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,1.0,2.0,3.0
+Butler,5-AP,President/Vice President,,Libertarian,Gary Johnson James P. Gray,0.0,7.0,7.0
+Butler,5-AP,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,0.0,0.0
+Butler,5-AP,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,0.0,0.0
+Butler,5-AP,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,1.0,1.0,2.0
+Butler,5-AP,President/Vice President,,,Write-In,0.0,2.0,2.0
+Butler,5-AP,President/Vice President,,,Under Votes,0.0,2.0,2.0
+Butler,5-AP,President/Vice President,,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,President/Vice President,,Republican,Mitt Romney Paul Ryan,219.0,397.0,616.0
+Butler,6-SR,President/Vice President,,Democratic,Barack Obama Joe Biden,232.0,365.0,597.0
+Butler,6-SR,President/Vice President,,Constitution,Virgil Goode James Clymer,2.0,3.0,5.0
+Butler,6-SR,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,4.0,2.0,6.0
+Butler,6-SR,President/Vice President,,Libertarian,Gary Johnson James P. Gray,0.0,6.0,6.0
+Butler,6-SR,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,1.0,1.0
+Butler,6-SR,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,1.0,0.0,1.0
+Butler,6-SR,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,1.0,2.0,3.0
+Butler,6-SR,President/Vice President,,,Write-In,1.0,1.0,2.0
+Butler,6-SR,President/Vice President,,,Under Votes,0.0,0.0,0.0
+Butler,6-SR,President/Vice President,,,Over Votes,0.0,0.0,0.0
+Butler,7-PB,President/Vice President,,Republican,Mitt Romney Paul Ryan,195.0,464.0,659.0
+Butler,7-PB,President/Vice President,,Democratic,Barack Obama Joe Biden,190.0,309.0,499.0
+Butler,7-PB,President/Vice President,,Constitution,Virgil Goode James Clymer,1.0,2.0,3.0
+Butler,7-PB,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,0.0,0.0,0.0
+Butler,7-PB,President/Vice President,,Libertarian,Gary Johnson James P. Gray,0.0,2.0,2.0
+Butler,7-PB,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,0.0,0.0
+Butler,7-PB,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,0.0,0.0
+Butler,7-PB,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,0.0,0.0,0.0
+Butler,7-PB,President/Vice President,,,Write-In,1.0,4.0,5.0
+Butler,7-PB,President/Vice President,,,Under Votes,2.0,3.0,5.0
+Butler,7-PB,President/Vice President,,,Over Votes,1.0,0.0,1.0
+Butler,8-NH,President/Vice President,,Republican,Mitt Romney Paul Ryan,78.0,162.0,240.0
+Butler,8-NH,President/Vice President,,Democratic,Barack Obama Joe Biden,79.0,187.0,266.0
+Butler,8-NH,President/Vice President,,Constitution,Virgil Goode James Clymer,0.0,2.0,2.0
+Butler,8-NH,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,1.0,2.0,3.0
+Butler,8-NH,President/Vice President,,Libertarian,Gary Johnson James P. Gray,0.0,4.0,4.0
+Butler,8-NH,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,0.0,0.0
+Butler,8-NH,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,0.0,0.0
+Butler,8-NH,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,1.0,0.0,1.0
+Butler,8-NH,President/Vice President,,,Write-In,0.0,1.0,1.0
+Butler,8-NH,President/Vice President,,,Under Votes,1.0,0.0,1.0
+Butler,8-NH,President/Vice President,,,Over Votes,0.0,1.0,1.0
+Butler,,President/Vice President,,Republican,Mitt Romney Paul Ryan,1378.0,2728.0,4106.0
+Butler,,President/Vice President,,Democratic,Barack Obama Joe Biden,1219.0,2110.0,3329.0
+Butler,,President/Vice President,,Constitution,Virgil Goode James Clymer,6.0,19.0,25.0
+Butler,,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,8.0,10.0,18.0
+Butler,,President/Vice President,,Libertarian,Gary Johnson James P. Gray,2.0,31.0,33.0
+Butler,,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,1.0,1.0
+Butler,,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,1.0,0.0,1.0
+Butler,,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,3.0,5.0,8.0
+Butler,,President/Vice President,,,Write-In,6.0,18.0,24.0
+Butler,,President/Vice President,,,Under Votes,9.0,14.0,23.0
+Butler,,President/Vice President,,,Over Votes,4.0,3.0,7.0
+Butler,1-GR,U.S. House of Representatives,4,Republican,Steve King,151.0,310.0,461.0
+Butler,1-GR,U.S. House of Representatives,4,Democratic,Christie Vilsack,216.0,358.0,574.0
+Butler,1-GR,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,4.0,13.0,17.0
+Butler,1-GR,U.S. House of Representatives,4,,Write-In,0.0,0.0,0.0
+Butler,1-GR,U.S. House of Representatives,4,,Under Votes,5.0,10.0,15.0
+Butler,1-GR,U.S. House of Representatives,4,,Over Votes,0.0,1.0,1.0
+Butler,2-CL,U.S. House of Representatives,4,Republican,Steve King,209.0,372.0,581.0
+Butler,2-CL,U.S. House of Representatives,4,Democratic,Christie Vilsack,211.0,432.0,643.0
+Butler,2-CL,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,9.0,21.0,30.0
+Butler,2-CL,U.S. House of Representatives,4,,Write-In,0.0,0.0,0.0
+Butler,2-CL,U.S. House of Representatives,4,,Under Votes,10.0,24.0,34.0
+Butler,2-CL,U.S. House of Representatives,4,,Over Votes,0.0,1.0,1.0
+Butler,3-DU,U.S. House of Representatives,4,Republican,Steve King,140.0,260.0,400.0
+Butler,3-DU,U.S. House of Representatives,4,Democratic,Christie Vilsack,90.0,170.0,260.0
+Butler,3-DU,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,4.0,12.0,16.0
+Butler,3-DU,U.S. House of Representatives,4,,Write-In,0.0,1.0,1.0
+Butler,3-DU,U.S. House of Representatives,4,,Under Votes,10.0,4.0,14.0
+Butler,3-DU,U.S. House of Representatives,4,,Over Votes,0.0,0.0,0.0
+Butler,4-AL,U.S. House of Representatives,4,Republican,Steve King,161.0,239.0,400.0
+Butler,4-AL,U.S. House of Representatives,4,Democratic,Christie Vilsack,102.0,167.0,269.0
+Butler,4-AL,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,4.0,7.0,11.0
+Butler,4-AL,U.S. House of Representatives,4,,Write-In,0.0,0.0,0.0
+Butler,4-AL,U.S. House of Representatives,4,,Under Votes,4.0,11.0,15.0
+Butler,4-AL,U.S. House of Representatives,4,,Over Votes,1.0,0.0,1.0
+Butler,5-AP,U.S. House of Representatives,4,Republican,Steve King,189.0,396.0,585.0
+Butler,5-AP,U.S. House of Representatives,4,Democratic,Christie Vilsack,93.0,188.0,281.0
+Butler,5-AP,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,2.0,8.0,10.0
+Butler,5-AP,U.S. House of Representatives,4,,Write-In,0.0,0.0,0.0
+Butler,5-AP,U.S. House of Representatives,4,,Under Votes,11.0,14.0,25.0
+Butler,5-AP,U.S. House of Representatives,4,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,U.S. House of Representatives,4,Republican,Steve King,211.0,375.0,586.0
+Butler,6-SR,U.S. House of Representatives,4,Democratic,Christie Vilsack,235.0,351.0,586.0
+Butler,6-SR,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,8.0,25.0,33.0
+Butler,6-SR,U.S. House of Representatives,4,,Write-In,0.0,2.0,2.0
+Butler,6-SR,U.S. House of Representatives,4,,Under Votes,6.0,24.0,30.0
+Butler,6-SR,U.S. House of Representatives,4,,Over Votes,0.0,0.0,0.0
+Butler,7-PB,U.S. House of Representatives,4,Republican,Steve King,182.0,429.0,611.0
+Butler,7-PB,U.S. House of Representatives,4,Democratic,Christie Vilsack,186.0,327.0,513.0
+Butler,7-PB,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,8.0,12.0,20.0
+Butler,7-PB,U.S. House of Representatives,4,,Write-In,0.0,0.0,0.0
+Butler,7-PB,U.S. House of Representatives,4,,Under Votes,14.0,16.0,30.0
+Butler,7-PB,U.S. House of Representatives,4,,Over Votes,0.0,0.0,0.0
+Butler,8-NH,U.S. House of Representatives,4,Republican,Steve King,69.0,143.0,212.0
+Butler,8-NH,U.S. House of Representatives,4,Democratic,Christie Vilsack,79.0,194.0,273.0
+Butler,8-NH,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,4.0,8.0,12.0
+Butler,8-NH,U.S. House of Representatives,4,,Write-In,0.0,0.0,0.0
+Butler,8-NH,U.S. House of Representatives,4,,Under Votes,8.0,14.0,22.0
+Butler,8-NH,U.S. House of Representatives,4,,Over Votes,0.0,0.0,0.0
+Butler,,U.S. House of Representatives,4,Republican,Steve King,1312.0,2524.0,3836.0
+Butler,,U.S. House of Representatives,4,Democratic,Christie Vilsack,1212.0,2187.0,3399.0
+Butler,,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,43.0,106.0,149.0
+Butler,,U.S. House of Representatives,4,,Write-In,0.0,3.0,3.0
+Butler,,U.S. House of Representatives,4,,Under Votes,68.0,117.0,185.0
+Butler,,U.S. House of Representatives,4,,Over Votes,1.0,2.0,3.0
+Butler,5-AP,State Representative,50,Republican,Patrick Grassley,235.0,528.0,763.0
+Butler,5-AP,State Representative,50,,Write-In,4.0,13.0,17.0
+Butler,5-AP,State Representative,50,,Under Votes,56.0,65.0,121.0
+Butler,5-AP,State Representative,50,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,State Representative,50,Republican,Patrick Grassley,301.0,582.0,883.0
+Butler,6-SR,State Representative,50,,Write-In,12.0,16.0,28.0
+Butler,6-SR,State Representative,50,,Under Votes,147.0,179.0,326.0
+Butler,6-SR,State Representative,50,,Over Votes,0.0,0.0,0.0
+Butler,7-PB,State Representative,50,Republican,Patrick Grassley,295.0,651.0,946.0
+Butler,7-PB,State Representative,50,,Write-In,5.0,8.0,13.0
+Butler,7-PB,State Representative,50,,Under Votes,90.0,124.0,214.0
+Butler,7-PB,State Representative,50,,Over Votes,0.0,1.0,1.0
+Butler,8-NH,State Representative,50,Republican,Patrick Grassley,117.0,282.0,399.0
+Butler,8-NH,State Representative,50,,Write-In,1.0,12.0,13.0
+Butler,8-NH,State Representative,50,,Under Votes,42.0,65.0,107.0
+Butler,8-NH,State Representative,50,,Over Votes,0.0,0.0,0.0
+Butler,,State Representative,50,Republican,Patrick Grassley,948.0,2043.0,2991.0
+Butler,,State Representative,50,,Write-In,22.0,49.0,71.0
+Butler,,State Representative,50,,Under Votes,335.0,433.0,768.0
+Butler,,State Representative,50,,Over Votes,0.0,1.0,1.0
+Butler,1-GR,State Representative,54,Republican,Linda Upmeyer,229.0,515.0,744.0
+Butler,1-GR,State Representative,54,,Write-In,7.0,6.0,13.0
+Butler,1-GR,State Representative,54,,Under Votes,140.0,171.0,311.0
+Butler,1-GR,State Representative,54,,Over Votes,0.0,0.0,0.0
+Butler,2-CL,State Representative,54,Republican,Linda Upmeyer,286.0,590.0,876.0
+Butler,2-CL,State Representative,54,,Write-In,4.0,13.0,17.0
+Butler,2-CL,State Representative,54,,Under Votes,149.0,247.0,396.0
+Butler,2-CL,State Representative,54,,Over Votes,0.0,0.0,0.0
+Butler,3-DU,State Representative,54,Republican,Linda Upmeyer,188.0,380.0,568.0
+Butler,3-DU,State Representative,54,,Write-In,2.0,1.0,3.0
+Butler,3-DU,State Representative,54,,Under Votes,54.0,66.0,120.0
+Butler,3-DU,State Representative,54,,Over Votes,0.0,0.0,0.0
+Butler,4-AL,State Representative,54,Republican,Linda Upmeyer,196.0,332.0,528.0
+Butler,4-AL,State Representative,54,,Write-In,3.0,2.0,5.0
+Butler,4-AL,State Representative,54,,Under Votes,73.0,90.0,163.0
+Butler,4-AL,State Representative,54,,Over Votes,0.0,0.0,0.0
+Butler,,State Representative,54,Republican,Linda Upmeyer,899.0,1817.0,2716.0
+Butler,,State Representative,54,,Write-In,16.0,22.0,38.0
+Butler,,State Representative,54,,Under Votes,416.0,574.0,990.0
+Butler,,State Representative,54,,Over Votes,0.0,0.0,0.0
+Butler,2-CL,COUNTY SUPERVISOR DIST 1,,Democratic,Karl A. Nelson,178.0,286.0,464.0
+Butler,2-CL,COUNTY SUPERVISOR DIST 1,,Republican,Rex M. Ackerman,229.0,450.0,679.0
+Butler,2-CL,COUNTY SUPERVISOR DIST 1,,Nominated by Petition,Adam Paul Hoffman,25.0,86.0,111.0
+Butler,2-CL,COUNTY SUPERVISOR DIST 1,,,Write-In,0.0,1.0,1.0
+Butler,2-CL,COUNTY SUPERVISOR DIST 1,,,Under Votes,7.0,26.0,33.0
+Butler,2-CL,COUNTY SUPERVISOR DIST 1,,,Over Votes,0.0,1.0,1.0
+Butler,6-SR,COUNTY SUPERVISOR DIST 1,,Democratic,Karl A. Nelson,250.0,417.0,667.0
+Butler,6-SR,COUNTY SUPERVISOR DIST 1,,Republican,Rex M. Ackerman,176.0,289.0,465.0
+Butler,6-SR,COUNTY SUPERVISOR DIST 1,,Nominated by Petition,Adam Paul Hoffman,23.0,52.0,75.0
+Butler,6-SR,COUNTY SUPERVISOR DIST 1,,,Write-In,0.0,0.0,0.0
+Butler,6-SR,COUNTY SUPERVISOR DIST 1,,,Under Votes,11.0,19.0,30.0
+Butler,6-SR,COUNTY SUPERVISOR DIST 1,,,Over Votes,0.0,0.0,0.0
+Butler,,COUNTY SUPERVISOR DIST 1,,Democratic,Karl A. Nelson,428.0,703.0,1131.0
+Butler,,COUNTY SUPERVISOR DIST 1,,Republican,Rex M. Ackerman,405.0,739.0,1144.0
+Butler,,COUNTY SUPERVISOR DIST 1,,Nominated by Petition,Adam Paul Hoffman,48.0,138.0,186.0
+Butler,,COUNTY SUPERVISOR DIST 1,,,Write-In,0.0,1.0,1.0
+Butler,,COUNTY SUPERVISOR DIST 1,,,Under Votes,18.0,45.0,63.0
+Butler,,COUNTY SUPERVISOR DIST 1,,,Over Votes,0.0,1.0,1.0
+Butler,1-GR,COUNTY AUDITOR,,Republican,Liz Williams,262.0,554.0,816.0
+Butler,1-GR,COUNTY AUDITOR,,,Write-In,4.0,5.0,9.0
+Butler,1-GR,COUNTY AUDITOR,,,Under Votes,110.0,133.0,243.0
+Butler,1-GR,COUNTY AUDITOR,,,Over Votes,0.0,0.0,0.0
+Butler,2-CL,COUNTY AUDITOR,,Republican,Liz Williams,288.0,616.0,904.0
+Butler,2-CL,COUNTY AUDITOR,,,Write-In,4.0,16.0,20.0
+Butler,2-CL,COUNTY AUDITOR,,,Under Votes,147.0,218.0,365.0
+Butler,2-CL,COUNTY AUDITOR,,,Over Votes,0.0,0.0,0.0
+Butler,3-DU,COUNTY AUDITOR,,Republican,Liz Williams,196.0,381.0,577.0
+Butler,3-DU,COUNTY AUDITOR,,,Write-In,0.0,0.0,0.0
+Butler,3-DU,COUNTY AUDITOR,,,Under Votes,48.0,66.0,114.0
+Butler,3-DU,COUNTY AUDITOR,,,Over Votes,0.0,0.0,0.0
+Butler,4-AL,COUNTY AUDITOR,,Republican,Liz Williams,200.0,344.0,544.0
+Butler,4-AL,COUNTY AUDITOR,,,Write-In,5.0,7.0,12.0
+Butler,4-AL,COUNTY AUDITOR,,,Under Votes,67.0,73.0,140.0
+Butler,4-AL,COUNTY AUDITOR,,,Over Votes,0.0,0.0,0.0
+Butler,5-AP,COUNTY AUDITOR,,Republican,Liz Williams,232.0,522.0,754.0
+Butler,5-AP,COUNTY AUDITOR,,,Write-In,2.0,6.0,8.0
+Butler,5-AP,COUNTY AUDITOR,,,Under Votes,61.0,78.0,139.0
+Butler,5-AP,COUNTY AUDITOR,,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,COUNTY AUDITOR,,Republican,Liz Williams,313.0,579.0,892.0
+Butler,6-SR,COUNTY AUDITOR,,,Write-In,4.0,13.0,17.0
+Butler,6-SR,COUNTY AUDITOR,,,Under Votes,143.0,185.0,328.0
+Butler,6-SR,COUNTY AUDITOR,,,Over Votes,0.0,0.0,0.0
+Butler,7-PB,COUNTY AUDITOR,,Republican,Liz Williams,294.0,630.0,924.0
+Butler,7-PB,COUNTY AUDITOR,,,Write-In,2.0,7.0,9.0
+Butler,7-PB,COUNTY AUDITOR,,,Under Votes,94.0,147.0,241.0
+Butler,7-PB,COUNTY AUDITOR,,,Over Votes,0.0,0.0,0.0
+Butler,8-NH,COUNTY AUDITOR,,Republican,Liz Williams,106.0,263.0,369.0
+Butler,8-NH,COUNTY AUDITOR,,,Write-In,0.0,4.0,4.0
+Butler,8-NH,COUNTY AUDITOR,,,Under Votes,54.0,92.0,146.0
+Butler,8-NH,COUNTY AUDITOR,,,Over Votes,0.0,0.0,0.0
+Butler,,COUNTY AUDITOR,,Republican,Liz Williams,1891.0,3889.0,5780.0
+Butler,,COUNTY AUDITOR,,,Write-In,21.0,58.0,79.0
+Butler,,COUNTY AUDITOR,,,Under Votes,724.0,992.0,1716.0
+Butler,,COUNTY AUDITOR,,,Over Votes,0.0,0.0,0.0
+Butler,1-GR,COUNTY SHERIFF,,Republican,Jason S. Johnson,270.0,564.0,834.0
+Butler,1-GR,COUNTY SHERIFF,,,Write-In,5.0,9.0,14.0
+Butler,1-GR,COUNTY SHERIFF,,,Under Votes,101.0,119.0,220.0
+Butler,1-GR,COUNTY SHERIFF,,,Over Votes,0.0,0.0,0.0
+Butler,2-CL,COUNTY SHERIFF,,Republican,Jason S. Johnson,315.0,661.0,976.0
+Butler,2-CL,COUNTY SHERIFF,,,Write-In,0.0,11.0,11.0
+Butler,2-CL,COUNTY SHERIFF,,,Under Votes,124.0,178.0,302.0
+Butler,2-CL,COUNTY SHERIFF,,,Over Votes,0.0,0.0,0.0
+Butler,3-DU,COUNTY SHERIFF,,Republican,Jason S. Johnson,214.0,403.0,617.0
+Butler,3-DU,COUNTY SHERIFF,,,Write-In,0.0,5.0,5.0
+Butler,3-DU,COUNTY SHERIFF,,,Under Votes,30.0,39.0,69.0
+Butler,3-DU,COUNTY SHERIFF,,,Over Votes,0.0,0.0,0.0
+Butler,4-AL,COUNTY SHERIFF,,Republican,Jason S. Johnson,234.0,386.0,620.0
+Butler,4-AL,COUNTY SHERIFF,,,Write-In,0.0,4.0,4.0
+Butler,4-AL,COUNTY SHERIFF,,,Under Votes,38.0,34.0,72.0
+Butler,4-AL,COUNTY SHERIFF,,,Over Votes,0.0,0.0,0.0
+Butler,5-AP,COUNTY SHERIFF,,Republican,Jason S. Johnson,243.0,547.0,790.0
+Butler,5-AP,COUNTY SHERIFF,,,Write-In,4.0,4.0,8.0
+Butler,5-AP,COUNTY SHERIFF,,,Under Votes,48.0,55.0,103.0
+Butler,5-AP,COUNTY SHERIFF,,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,COUNTY SHERIFF,,Republican,Jason S. Johnson,325.0,609.0,934.0
+Butler,6-SR,COUNTY SHERIFF,,,Write-In,4.0,15.0,19.0
+Butler,6-SR,COUNTY SHERIFF,,,Under Votes,131.0,153.0,284.0
+Butler,6-SR,COUNTY SHERIFF,,,Over Votes,0.0,0.0,0.0
+Butler,7-PB,COUNTY SHERIFF,,Republican,Jason S. Johnson,323.0,680.0,1003.0
+Butler,7-PB,COUNTY SHERIFF,,,Write-In,3.0,5.0,8.0
+Butler,7-PB,COUNTY SHERIFF,,,Under Votes,64.0,99.0,163.0
+Butler,7-PB,COUNTY SHERIFF,,,Over Votes,0.0,0.0,0.0
+Butler,8-NH,COUNTY SHERIFF,,Republican,Jason S. Johnson,116.0,285.0,401.0
+Butler,8-NH,COUNTY SHERIFF,,,Write-In,0.0,4.0,4.0
+Butler,8-NH,COUNTY SHERIFF,,,Under Votes,44.0,70.0,114.0
+Butler,8-NH,COUNTY SHERIFF,,,Over Votes,0.0,0.0,0.0
+Butler,,COUNTY SHERIFF,,Republican,Jason S. Johnson,2040.0,4135.0,6175.0
+Butler,,COUNTY SHERIFF,,,Write-In,16.0,57.0,73.0
+Butler,,COUNTY SHERIFF,,,Under Votes,580.0,747.0,1327.0
+Butler,,COUNTY SHERIFF,,,Over Votes,0.0,0.0,0.0
+Butler,7-PB,ALBION TOWNSHIP TRUSTEE,,,Ronald Wessels Nonpartisan,55.0,85.0,140.0
+Butler,7-PB,ALBION TOWNSHIP TRUSTEE,,,Write-In,2.0,1.0,3.0
+Butler,7-PB,ALBION TOWNSHIP TRUSTEE,,,Under Votes,19.0,31.0,50.0
+Butler,7-PB,ALBION TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,,ALBION TOWNSHIP TRUSTEE,,,Ronald Wessels Nonpartisan,55.0,85.0,140.0
+Butler,,ALBION TOWNSHIP TRUSTEE,,,Write-In,2.0,1.0,3.0
+Butler,,ALBION TOWNSHIP TRUSTEE,,,Under Votes,19.0,31.0,50.0
+Butler,,ALBION TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,BEAVER TOWNSHIP TRUSTEE,,,Meinard Koop Nonpartisan,55.0,59.0,114.0
+Butler,6-SR,BEAVER TOWNSHIP TRUSTEE,,,Write-In,0.0,0.0,0.0
+Butler,6-SR,BEAVER TOWNSHIP TRUSTEE,,,Under Votes,33.0,24.0,57.0
+Butler,6-SR,BEAVER TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,8-NH,BEAVER TOWNSHIP TRUSTEE,,,Meinard Koop Nonpartisan,67.0,137.0,204.0
+Butler,8-NH,BEAVER TOWNSHIP TRUSTEE,,,Write-In,2.0,0.0,2.0
+Butler,8-NH,BEAVER TOWNSHIP TRUSTEE,,,Under Votes,26.0,43.0,69.0
+Butler,8-NH,BEAVER TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,,BEAVER TOWNSHIP TRUSTEE,,,Meinard Koop Nonpartisan,122.0,196.0,318.0
+Butler,,BEAVER TOWNSHIP TRUSTEE,,,Write-In,2.0,0.0,2.0
+Butler,,BEAVER TOWNSHIP TRUSTEE,,,Under Votes,59.0,67.0,126.0
+Butler,,BEAVER TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,1-GR,BENNEZETTE TOWNSHIP TRUSTEE,,,Write-In,0.0,13.0,13.0
+Butler,1-GR,BENNEZETTE TOWNSHIP TRUSTEE,,,Under Votes,15.0,70.0,85.0
+Butler,1-GR,BENNEZETTE TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,,BENNEZETTE TOWNSHIP TRUSTEE,,,Write-In,0.0,13.0,13.0
+Butler,,BENNEZETTE TOWNSHIP TRUSTEE,,,Under Votes,15.0,70.0,85.0
+Butler,,BENNEZETTE TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,2-CL,BUTLER TOWNSHIP TRUSTEE,,,Dale A. Mennenga Nonpartisan,69.0,147.0,216.0
+Butler,2-CL,BUTLER TOWNSHIP TRUSTEE,,,Write-In,0.0,4.0,4.0
+Butler,2-CL,BUTLER TOWNSHIP TRUSTEE,,,Under Votes,36.0,34.0,70.0
+Butler,2-CL,BUTLER TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,,BUTLER TOWNSHIP TRUSTEE,,,Dale A. Mennenga Nonpartisan,69.0,147.0,216.0
+Butler,,BUTLER TOWNSHIP TRUSTEE,,,Write-In,0.0,4.0,4.0
+Butler,,BUTLER TOWNSHIP TRUSTEE,,,Under Votes,36.0,34.0,70.0
+Butler,,BUTLER TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,1-GR,COLDWATER TOWNSHIP TRUSTEE,,,Gregory L. Landers Nonpartisan,37.0,89.0,126.0
+Butler,1-GR,COLDWATER TOWNSHIP TRUSTEE,,,Write-In,0.0,1.0,1.0
+Butler,1-GR,COLDWATER TOWNSHIP TRUSTEE,,,Under Votes,24.0,22.0,46.0
+Butler,1-GR,COLDWATER TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,,COLDWATER TOWNSHIP TRUSTEE,,,Gregory L. Landers Nonpartisan,37.0,89.0,126.0
+Butler,,COLDWATER TOWNSHIP TRUSTEE,,,Write-In,0.0,1.0,1.0
+Butler,,COLDWATER TOWNSHIP TRUSTEE,,,Under Votes,24.0,22.0,46.0
+Butler,,COLDWATER TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,1-GR,DAYTON TOWNSHIP TRUSTEE,,,Roger D. Backer Nonpartisan,39.0,78.0,117.0
+Butler,1-GR,DAYTON TOWNSHIP TRUSTEE,,,Write-In,0.0,0.0,0.0
+Butler,1-GR,DAYTON TOWNSHIP TRUSTEE,,,Under Votes,13.0,14.0,27.0
+Butler,1-GR,DAYTON TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,,DAYTON TOWNSHIP TRUSTEE,,,Roger D. Backer Nonpartisan,39.0,78.0,117.0
+Butler,,DAYTON TOWNSHIP TRUSTEE,,,Write-In,0.0,0.0,0.0
+Butler,,DAYTON TOWNSHIP TRUSTEE,,,Under Votes,13.0,14.0,27.0
+Butler,,DAYTON TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,2-CL,FREMONT TOWNSHIP TRUSTEE,,,Write-In,6.0,13.0,19.0
+Butler,2-CL,FREMONT TOWNSHIP TRUSTEE,,,Under Votes,63.0,89.0,152.0
+Butler,2-CL,FREMONT TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,,FREMONT TOWNSHIP TRUSTEE,,,Write-In,6.0,13.0,19.0
+Butler,,FREMONT TOWNSHIP TRUSTEE,,,Under Votes,63.0,89.0,152.0
+Butler,,FREMONT TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,2-CL,JACKSON TOWNSHIP TRUSTEE,,,Scott Bruns Nonpartisan,53.0,92.0,145.0
+Butler,2-CL,JACKSON TOWNSHIP TRUSTEE,,,Write-In,0.0,0.0,0.0
+Butler,2-CL,JACKSON TOWNSHIP TRUSTEE,,,Under Votes,14.0,25.0,39.0
+Butler,2-CL,JACKSON TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,,JACKSON TOWNSHIP TRUSTEE,,,Scott Bruns Nonpartisan,53.0,92.0,145.0
+Butler,,JACKSON TOWNSHIP TRUSTEE,,,Write-In,0.0,0.0,0.0
+Butler,,JACKSON TOWNSHIP TRUSTEE,,,Under Votes,14.0,25.0,39.0
+Butler,,JACKSON TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,JEFFERSON TOWNSHIP TRUSTEE,,,Ronald Henning Nonpartisan,51.0,68.0,119.0
+Butler,6-SR,JEFFERSON TOWNSHIP TRUSTEE,,,Write-In,0.0,1.0,1.0
+Butler,6-SR,JEFFERSON TOWNSHIP TRUSTEE,,,Under Votes,17.0,28.0,45.0
+Butler,6-SR,JEFFERSON TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,,JEFFERSON TOWNSHIP TRUSTEE,,,Ronald Henning Nonpartisan,51.0,68.0,119.0
+Butler,,JEFFERSON TOWNSHIP TRUSTEE,,,Write-In,0.0,1.0,1.0
+Butler,,JEFFERSON TOWNSHIP TRUSTEE,,,Under Votes,17.0,28.0,45.0
+Butler,,JEFFERSON TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,3-DU,MADISON TOWNSHIP TRUSTEE,,,William Klahsen Nonpartisan,35.0,69.0,104.0
+Butler,3-DU,MADISON TOWNSHIP TRUSTEE,,,Write-In,0.0,0.0,0.0
+Butler,3-DU,MADISON TOWNSHIP TRUSTEE,,,Under Votes,11.0,16.0,27.0
+Butler,3-DU,MADISON TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,,MADISON TOWNSHIP TRUSTEE,,,William Klahsen Nonpartisan,35.0,69.0,104.0
+Butler,,MADISON TOWNSHIP TRUSTEE,,,Write-In,0.0,0.0,0.0
+Butler,,MADISON TOWNSHIP TRUSTEE,,,Under Votes,11.0,16.0,27.0
+Butler,,MADISON TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,5-AP,MONROE TOWNSHIP TRUSTEE,,,Prentice Karsjens Nonpartisan,49.0,117.0,166.0
+Butler,5-AP,MONROE TOWNSHIP TRUSTEE,,,Write-In,0.0,2.0,2.0
+Butler,5-AP,MONROE TOWNSHIP TRUSTEE,,,Under Votes,13.0,23.0,36.0
+Butler,5-AP,MONROE TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,,MONROE TOWNSHIP TRUSTEE,,,Prentice Karsjens Nonpartisan,49.0,117.0,166.0
+Butler,,MONROE TOWNSHIP TRUSTEE,,,Write-In,0.0,2.0,2.0
+Butler,,MONROE TOWNSHIP TRUSTEE,,,Under Votes,13.0,23.0,36.0
+Butler,,MONROE TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,3-DU,PITTSFORD TOWNSHIP TRUSTEE,,,Dennis Wiegmann Nonpartisan,24.0,66.0,90.0
+Butler,3-DU,PITTSFORD TOWNSHIP TRUSTEE,,,Write-In,0.0,0.0,0.0
+Butler,3-DU,PITTSFORD TOWNSHIP TRUSTEE,,,Under Votes,4.0,20.0,24.0
+Butler,3-DU,PITTSFORD TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,,PITTSFORD TOWNSHIP TRUSTEE,,,Dennis Wiegmann Nonpartisan,24.0,66.0,90.0
+Butler,,PITTSFORD TOWNSHIP TRUSTEE,,,Write-In,0.0,0.0,0.0
+Butler,,PITTSFORD TOWNSHIP TRUSTEE,,,Under Votes,4.0,20.0,24.0
+Butler,,PITTSFORD TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,5-AP,RIPLEY TOWNSHIP TRUSTEE,,,Eric Kruse Nonpartisan,57.0,63.0,120.0
+Butler,5-AP,RIPLEY TOWNSHIP TRUSTEE,,,Write-In,1.0,1.0,2.0
+Butler,5-AP,RIPLEY TOWNSHIP TRUSTEE,,,Under Votes,7.0,15.0,22.0
+Butler,5-AP,RIPLEY TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,,RIPLEY TOWNSHIP TRUSTEE,,,Eric Kruse Nonpartisan,57.0,63.0,120.0
+Butler,,RIPLEY TOWNSHIP TRUSTEE,,,Write-In,1.0,1.0,2.0
+Butler,,RIPLEY TOWNSHIP TRUSTEE,,,Under Votes,7.0,15.0,22.0
+Butler,,RIPLEY TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,SHELL ROCK TOWNSHIP TRUSTEE,,,Tom Willson Nonpartisan,16.0,28.0,44.0
+Butler,6-SR,SHELL ROCK TOWNSHIP TRUSTEE,,,Robert J. Greenlee Nonpartisan,21.0,30.0,51.0
+Butler,6-SR,SHELL ROCK TOWNSHIP TRUSTEE,,,Terry Siems Nonpartisan,22.0,46.0,68.0
+Butler,6-SR,SHELL ROCK TOWNSHIP TRUSTEE,,,Write-In,0.0,1.0,1.0
+Butler,6-SR,SHELL ROCK TOWNSHIP TRUSTEE,,,Under Votes,13.0,17.0,30.0
+Butler,6-SR,SHELL ROCK TOWNSHIP TRUSTEE,,,Over Votes,0.0,1.0,1.0
+Butler,,SHELL ROCK TOWNSHIP TRUSTEE,,,Tom Willson Nonpartisan,16.0,28.0,44.0
+Butler,,SHELL ROCK TOWNSHIP TRUSTEE,,,Robert J. Greenlee Nonpartisan,21.0,30.0,51.0
+Butler,,SHELL ROCK TOWNSHIP TRUSTEE,,,Terry Siems Nonpartisan,22.0,46.0,68.0
+Butler,,SHELL ROCK TOWNSHIP TRUSTEE,,,Write-In,0.0,1.0,1.0
+Butler,,SHELL ROCK TOWNSHIP TRUSTEE,,,Under Votes,13.0,17.0,30.0
+Butler,,SHELL ROCK TOWNSHIP TRUSTEE,,,Over Votes,0.0,1.0,1.0
+Butler,3-DU,WASHINGTON TOWNSHIP TRUSTEE,,,John Klahsen Nonpartisan,77.0,69.0,146.0
+Butler,3-DU,WASHINGTON TOWNSHIP TRUSTEE,,,Write-In,0.0,0.0,0.0
+Butler,3-DU,WASHINGTON TOWNSHIP TRUSTEE,,,Under Votes,11.0,13.0,24.0
+Butler,3-DU,WASHINGTON TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,,WASHINGTON TOWNSHIP TRUSTEE,,,John Klahsen Nonpartisan,77.0,69.0,146.0
+Butler,,WASHINGTON TOWNSHIP TRUSTEE,,,Write-In,0.0,0.0,0.0
+Butler,,WASHINGTON TOWNSHIP TRUSTEE,,,Under Votes,11.0,13.0,24.0
+Butler,,WASHINGTON TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,4-AL,WEST POINT TOWNSHIP TRUSTEE,,,Write-In,2.0,5.0,7.0
+Butler,4-AL,WEST POINT TOWNSHIP TRUSTEE,,,Under Votes,53.0,78.0,131.0
+Butler,4-AL,WEST POINT TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,,WEST POINT TOWNSHIP TRUSTEE,,,Write-In,2.0,5.0,7.0
+Butler,,WEST POINT TOWNSHIP TRUSTEE,,,Under Votes,53.0,78.0,131.0
+Butler,,WEST POINT TOWNSHIP TRUSTEE,,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,BEAVER TOWNSHIP TRUSTEE/VAC,,,Steven Koop Nonpartisan,58.0,63.0,121.0
+Butler,6-SR,BEAVER TOWNSHIP TRUSTEE/VAC,,,Write-In,0.0,0.0,0.0
+Butler,6-SR,BEAVER TOWNSHIP TRUSTEE/VAC,,,Under Votes,30.0,20.0,50.0
+Butler,6-SR,BEAVER TOWNSHIP TRUSTEE/VAC,,,Over Votes,0.0,0.0,0.0
+Butler,8-NH,BEAVER TOWNSHIP TRUSTEE/VAC,,,Steven Koop Nonpartisan,68.0,139.0,207.0
+Butler,8-NH,BEAVER TOWNSHIP TRUSTEE/VAC,,,Write-In,1.0,2.0,3.0
+Butler,8-NH,BEAVER TOWNSHIP TRUSTEE/VAC,,,Under Votes,26.0,39.0,65.0
+Butler,8-NH,BEAVER TOWNSHIP TRUSTEE/VAC,,,Over Votes,0.0,0.0,0.0
+Butler,,BEAVER TOWNSHIP TRUSTEE/VAC,,,Steven Koop Nonpartisan,126.0,202.0,328.0
+Butler,,BEAVER TOWNSHIP TRUSTEE/VAC,,,Write-In,1.0,2.0,3.0
+Butler,,BEAVER TOWNSHIP TRUSTEE/VAC,,,Under Votes,56.0,59.0,115.0
+Butler,,BEAVER TOWNSHIP TRUSTEE/VAC,,,Over Votes,0.0,0.0,0.0
+Butler,3-DU,PITTSFORD TOWNSHIP TRUSTEE/VAC,,,Dale J. Lindaman Nonpartisan,22.0,63.0,85.0
+Butler,3-DU,PITTSFORD TOWNSHIP TRUSTEE/VAC,,,Write-In,0.0,2.0,2.0
+Butler,3-DU,PITTSFORD TOWNSHIP TRUSTEE/VAC,,,Under Votes,6.0,21.0,27.0
+Butler,3-DU,PITTSFORD TOWNSHIP TRUSTEE/VAC,,,Over Votes,0.0,0.0,0.0
+Butler,,PITTSFORD TOWNSHIP TRUSTEE/VAC,,,Dale J. Lindaman Nonpartisan,22.0,63.0,85.0
+Butler,,PITTSFORD TOWNSHIP TRUSTEE/VAC,,,Write-In,0.0,2.0,2.0
+Butler,,PITTSFORD TOWNSHIP TRUSTEE/VAC,,,Under Votes,6.0,21.0,27.0
+Butler,,PITTSFORD TOWNSHIP TRUSTEE/VAC,,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,SHELL ROCK TOWNSHIP TRUSTEE/VAC,,,Hank Willson Nonpartisan,53.0,86.0,139.0
+Butler,6-SR,SHELL ROCK TOWNSHIP TRUSTEE/VAC,,,Write-In,4.0,5.0,9.0
+Butler,6-SR,SHELL ROCK TOWNSHIP TRUSTEE/VAC,,,Under Votes,15.0,32.0,47.0
+Butler,6-SR,SHELL ROCK TOWNSHIP TRUSTEE/VAC,,,Over Votes,0.0,0.0,0.0
+Butler,,SHELL ROCK TOWNSHIP TRUSTEE/VAC,,,Hank Willson Nonpartisan,53.0,86.0,139.0
+Butler,,SHELL ROCK TOWNSHIP TRUSTEE/VAC,,,Write-In,4.0,5.0,9.0
+Butler,,SHELL ROCK TOWNSHIP TRUSTEE/VAC,,,Under Votes,15.0,32.0,47.0
+Butler,,SHELL ROCK TOWNSHIP TRUSTEE/VAC,,,Over Votes,0.0,0.0,0.0
+Butler,4-AL,W POINT TOWNSHIP TRUSTEE/VAC,,,Derek Buss Nonpartisan,35.0,64.0,99.0
+Butler,4-AL,W POINT TOWNSHIP TRUSTEE/VAC,,,Write-In,2.0,0.0,2.0
+Butler,4-AL,W POINT TOWNSHIP TRUSTEE/VAC,,,Under Votes,18.0,19.0,37.0
+Butler,4-AL,W POINT TOWNSHIP TRUSTEE/VAC,,,Over Votes,0.0,0.0,0.0
+Butler,,W POINT TOWNSHIP TRUSTEE/VAC,,,Derek Buss Nonpartisan,35.0,64.0,99.0
+Butler,,W POINT TOWNSHIP TRUSTEE/VAC,,,Write-In,2.0,0.0,2.0
+Butler,,W POINT TOWNSHIP TRUSTEE/VAC,,,Under Votes,18.0,19.0,37.0
+Butler,,W POINT TOWNSHIP TRUSTEE/VAC,,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,BEAVER TOWNSHIP CLERK/VAC,,,Julia Stancliffe Nonpartisan,56.0,55.0,111.0
+Butler,6-SR,BEAVER TOWNSHIP CLERK/VAC,,,Write-In,0.0,0.0,0.0
+Butler,6-SR,BEAVER TOWNSHIP CLERK/VAC,,,Under Votes,32.0,28.0,60.0
+Butler,6-SR,BEAVER TOWNSHIP CLERK/VAC,,,Over Votes,0.0,0.0,0.0
+Butler,8-NH,BEAVER TOWNSHIP CLERK/VAC,,,Julia Stancliffe Nonpartisan,66.0,131.0,197.0
+Butler,8-NH,BEAVER TOWNSHIP CLERK/VAC,,,Write-In,0.0,0.0,0.0
+Butler,8-NH,BEAVER TOWNSHIP CLERK/VAC,,,Under Votes,29.0,49.0,78.0
+Butler,8-NH,BEAVER TOWNSHIP CLERK/VAC,,,Over Votes,0.0,0.0,0.0
+Butler,,BEAVER TOWNSHIP CLERK/VAC,,,Julia Stancliffe Nonpartisan,122.0,186.0,308.0
+Butler,,BEAVER TOWNSHIP CLERK/VAC,,,Write-In,0.0,0.0,0.0
+Butler,,BEAVER TOWNSHIP CLERK/VAC,,,Under Votes,61.0,77.0,138.0
+Butler,,BEAVER TOWNSHIP CLERK/VAC,,,Over Votes,0.0,0.0,0.0
+Butler,1-GR,SOIL & WATER CONSERVATION COMM,,,James Lindaman Nonpartisan,193.0,393.0,586.0
+Butler,1-GR,SOIL & WATER CONSERVATION COMM,,,Lee Folkerts Nonpartisan,204.0,422.0,626.0
+Butler,1-GR,SOIL & WATER CONSERVATION COMM,,,Scott Bruns Nonpartisan,203.0,419.0,622.0
+Butler,1-GR,SOIL & WATER CONSERVATION COMM,,,Write-In,0.0,0.0,0.0
+Butler,1-GR,SOIL & WATER CONSERVATION COMM,,,Under Votes,528.0,839.0,1367.0
+Butler,1-GR,SOIL & WATER CONSERVATION COMM,,,Over Votes,0.0,3.0,3.0
+Butler,2-CL,SOIL & WATER CONSERVATION COMM,,,James Lindaman Nonpartisan,244.0,457.0,701.0
+Butler,2-CL,SOIL & WATER CONSERVATION COMM,,,Lee Folkerts Nonpartisan,252.0,501.0,753.0
+Butler,2-CL,SOIL & WATER CONSERVATION COMM,,,Scott Bruns Nonpartisan,231.0,460.0,691.0
+Butler,2-CL,SOIL & WATER CONSERVATION COMM,,,Write-In,0.0,9.0,9.0
+Butler,2-CL,SOIL & WATER CONSERVATION COMM,,,Under Votes,590.0,1123.0,1713.0
+Butler,2-CL,SOIL & WATER CONSERVATION COMM,,,Over Votes,0.0,0.0,0.0
+Butler,3-DU,SOIL & WATER CONSERVATION COMM,,,James Lindaman Nonpartisan,153.0,261.0,414.0
+Butler,3-DU,SOIL & WATER CONSERVATION COMM,,,Lee Folkerts Nonpartisan,157.0,265.0,422.0
+Butler,3-DU,SOIL & WATER CONSERVATION COMM,,,Scott Bruns Nonpartisan,147.0,265.0,412.0
+Butler,3-DU,SOIL & WATER CONSERVATION COMM,,,Write-In,1.0,1.0,2.0
+Butler,3-DU,SOIL & WATER CONSERVATION COMM,,,Under Votes,271.0,549.0,820.0
+Butler,3-DU,SOIL & WATER CONSERVATION COMM,,,Over Votes,3.0,0.0,3.0
+Butler,4-AL,SOIL & WATER CONSERVATION COMM,,,James Lindaman Nonpartisan,157.0,243.0,400.0
+Butler,4-AL,SOIL & WATER CONSERVATION COMM,,,Lee Folkerts Nonpartisan,174.0,270.0,444.0
+Butler,4-AL,SOIL & WATER CONSERVATION COMM,,,Scott Bruns Nonpartisan,194.0,302.0,496.0
+Butler,4-AL,SOIL & WATER CONSERVATION COMM,,,Write-In,0.0,3.0,3.0
+Butler,4-AL,SOIL & WATER CONSERVATION COMM,,,Under Votes,291.0,454.0,745.0
+Butler,4-AL,SOIL & WATER CONSERVATION COMM,,,Over Votes,0.0,0.0,0.0
+Butler,5-AP,SOIL & WATER CONSERVATION COMM,,,James Lindaman Nonpartisan,193.0,441.0,634.0
+Butler,5-AP,SOIL & WATER CONSERVATION COMM,,,Lee Folkerts Nonpartisan,174.0,385.0,559.0
+Butler,5-AP,SOIL & WATER CONSERVATION COMM,,,Scott Bruns Nonpartisan,158.0,368.0,526.0
+Butler,5-AP,SOIL & WATER CONSERVATION COMM,,,Write-In,5.0,1.0,6.0
+Butler,5-AP,SOIL & WATER CONSERVATION COMM,,,Under Votes,355.0,623.0,978.0
+Butler,5-AP,SOIL & WATER CONSERVATION COMM,,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,SOIL & WATER CONSERVATION COMM,,,James Lindaman Nonpartisan,245.0,401.0,646.0
+Butler,6-SR,SOIL & WATER CONSERVATION COMM,,,Lee Folkerts Nonpartisan,249.0,391.0,640.0
+Butler,6-SR,SOIL & WATER CONSERVATION COMM,,,Scott Bruns Nonpartisan,239.0,378.0,617.0
+Butler,6-SR,SOIL & WATER CONSERVATION COMM,,,Write-In,2.0,7.0,9.0
+Butler,6-SR,SOIL & WATER CONSERVATION COMM,,,Under Votes,645.0,1154.0,1799.0
+Butler,6-SR,SOIL & WATER CONSERVATION COMM,,,Over Votes,0.0,0.0,0.0
+Butler,7-PB,SOIL & WATER CONSERVATION COMM,,,James Lindaman Nonpartisan,241.0,444.0,685.0
+Butler,7-PB,SOIL & WATER CONSERVATION COMM,,,Lee Folkerts Nonpartisan,244.0,430.0,674.0
+Butler,7-PB,SOIL & WATER CONSERVATION COMM,,,Scott Bruns Nonpartisan,231.0,417.0,648.0
+Butler,7-PB,SOIL & WATER CONSERVATION COMM,,,Write-In,1.0,2.0,3.0
+Butler,7-PB,SOIL & WATER CONSERVATION COMM,,,Under Votes,453.0,1056.0,1509.0
+Butler,7-PB,SOIL & WATER CONSERVATION COMM,,,Over Votes,0.0,3.0,3.0
+Butler,8-NH,SOIL & WATER CONSERVATION COMM,,,James Lindaman Nonpartisan,84.0,189.0,273.0
+Butler,8-NH,SOIL & WATER CONSERVATION COMM,,,Lee Folkerts Nonpartisan,90.0,178.0,268.0
+Butler,8-NH,SOIL & WATER CONSERVATION COMM,,,Scott Bruns Nonpartisan,85.0,177.0,262.0
+Butler,8-NH,SOIL & WATER CONSERVATION COMM,,,Write-In,3.0,0.0,3.0
+Butler,8-NH,SOIL & WATER CONSERVATION COMM,,,Under Votes,218.0,533.0,751.0
+Butler,8-NH,SOIL & WATER CONSERVATION COMM,,,Over Votes,0.0,0.0,0.0
+Butler,,SOIL & WATER CONSERVATION COMM,,,James Lindaman Nonpartisan,1510.0,2829.0,4339.0
+Butler,,SOIL & WATER CONSERVATION COMM,,,Lee Folkerts Nonpartisan,1544.0,2842.0,4386.0
+Butler,,SOIL & WATER CONSERVATION COMM,,,Scott Bruns Nonpartisan,1488.0,2786.0,4274.0
+Butler,,SOIL & WATER CONSERVATION COMM,,,Write-In,12.0,23.0,35.0
+Butler,,SOIL & WATER CONSERVATION COMM,,,Under Votes,3351.0,6331.0,9682.0
+Butler,,SOIL & WATER CONSERVATION COMM,,,Over Votes,3.0,6.0,9.0
+Butler,1-GR,COUNTY AG EXTENSION COUNCIL,,,Margaret Harris Nonpartisan,172.0,346.0,518.0
+Butler,1-GR,COUNTY AG EXTENSION COUNCIL,,,Irvin Haan Nonpartisan,124.0,246.0,370.0
+Butler,1-GR,COUNTY AG EXTENSION COUNCIL,,,Amy M. Barnett Nonpartisan,164.0,356.0,520.0
+Butler,1-GR,COUNTY AG EXTENSION COUNCIL,,,Robert A. Horst Nonpartisan,141.0,315.0,456.0
+Butler,1-GR,COUNTY AG EXTENSION COUNCIL,,,Clark W. Lupkes Nonpartisan,132.0,281.0,413.0
+Butler,1-GR,COUNTY AG EXTENSION COUNCIL,,,Denise A. Tjaden Nonpartisan,157.0,314.0,471.0
+Butler,1-GR,COUNTY AG EXTENSION COUNCIL,,,Write-In,1.0,7.0,8.0
+Butler,1-GR,COUNTY AG EXTENSION COUNCIL,,,Under Votes,989.0,1560.0,2549.0
+Butler,1-GR,COUNTY AG EXTENSION COUNCIL,,,Over Votes,0.0,35.0,35.0
+Butler,2-CL,COUNTY AG EXTENSION COUNCIL,,,Margaret Harris Nonpartisan,247.0,503.0,750.0
+Butler,2-CL,COUNTY AG EXTENSION COUNCIL,,,Irvin Haan Nonpartisan,155.0,317.0,472.0
+Butler,2-CL,COUNTY AG EXTENSION COUNCIL,,,Amy M. Barnett Nonpartisan,212.0,460.0,672.0
+Butler,2-CL,COUNTY AG EXTENSION COUNCIL,,,Robert A. Horst Nonpartisan,160.0,320.0,480.0
+Butler,2-CL,COUNTY AG EXTENSION COUNCIL,,,Clark W. Lupkes Nonpartisan,151.0,308.0,459.0
+Butler,2-CL,COUNTY AG EXTENSION COUNCIL,,,Denise A. Tjaden Nonpartisan,186.0,365.0,551.0
+Butler,2-CL,COUNTY AG EXTENSION COUNCIL,,,Write-In,1.0,5.0,6.0
+Butler,2-CL,COUNTY AG EXTENSION COUNCIL,,,Under Votes,1083.0,1942.0,3025.0
+Butler,2-CL,COUNTY AG EXTENSION COUNCIL,,,Over Votes,0.0,30.0,30.0
+Butler,3-DU,COUNTY AG EXTENSION COUNCIL,,,Margaret Harris Nonpartisan,100.0,174.0,274.0
+Butler,3-DU,COUNTY AG EXTENSION COUNCIL,,,Irvin Haan Nonpartisan,107.0,175.0,282.0
+Butler,3-DU,COUNTY AG EXTENSION COUNCIL,,,Amy M. Barnett Nonpartisan,100.0,170.0,270.0
+Butler,3-DU,COUNTY AG EXTENSION COUNCIL,,,Robert A. Horst Nonpartisan,95.0,170.0,265.0
+Butler,3-DU,COUNTY AG EXTENSION COUNCIL,,,Clark W. Lupkes Nonpartisan,142.0,232.0,374.0
+Butler,3-DU,COUNTY AG EXTENSION COUNCIL,,,Denise A. Tjaden Nonpartisan,106.0,241.0,347.0
+Butler,3-DU,COUNTY AG EXTENSION COUNCIL,,,Write-In,0.0,2.0,2.0
+Butler,3-DU,COUNTY AG EXTENSION COUNCIL,,,Under Votes,550.0,1056.0,1606.0
+Butler,3-DU,COUNTY AG EXTENSION COUNCIL,,,Over Votes,20.0,15.0,35.0
+Butler,4-AL,COUNTY AG EXTENSION COUNCIL,,,Margaret Harris Nonpartisan,115.0,193.0,308.0
+Butler,4-AL,COUNTY AG EXTENSION COUNCIL,,,Irvin Haan Nonpartisan,102.0,172.0,274.0
+Butler,4-AL,COUNTY AG EXTENSION COUNCIL,,,Amy M. Barnett Nonpartisan,114.0,179.0,293.0
+Butler,4-AL,COUNTY AG EXTENSION COUNCIL,,,Robert A. Horst Nonpartisan,112.0,175.0,287.0
+Butler,4-AL,COUNTY AG EXTENSION COUNCIL,,,Clark W. Lupkes Nonpartisan,99.0,161.0,260.0
+Butler,4-AL,COUNTY AG EXTENSION COUNCIL,,,Denise A. Tjaden Nonpartisan,122.0,186.0,308.0
+Butler,4-AL,COUNTY AG EXTENSION COUNCIL,,,Write-In,4.0,3.0,7.0
+Butler,4-AL,COUNTY AG EXTENSION COUNCIL,,,Under Votes,677.0,1036.0,1713.0
+Butler,4-AL,COUNTY AG EXTENSION COUNCIL,,,Over Votes,15.0,15.0,30.0
+Butler,5-AP,COUNTY AG EXTENSION COUNCIL,,,Margaret Harris Nonpartisan,109.0,263.0,372.0
+Butler,5-AP,COUNTY AG EXTENSION COUNCIL,,,Irvin Haan Nonpartisan,145.0,355.0,500.0
+Butler,5-AP,COUNTY AG EXTENSION COUNCIL,,,Amy M. Barnett Nonpartisan,96.0,259.0,355.0
+Butler,5-AP,COUNTY AG EXTENSION COUNCIL,,,Robert A. Horst Nonpartisan,97.0,213.0,310.0
+Butler,5-AP,COUNTY AG EXTENSION COUNCIL,,,Clark W. Lupkes Nonpartisan,149.0,341.0,490.0
+Butler,5-AP,COUNTY AG EXTENSION COUNCIL,,,Denise A. Tjaden Nonpartisan,106.0,229.0,335.0
+Butler,5-AP,COUNTY AG EXTENSION COUNCIL,,,Write-In,6.0,2.0,8.0
+Butler,5-AP,COUNTY AG EXTENSION COUNCIL,,,Under Votes,757.0,1328.0,2085.0
+Butler,5-AP,COUNTY AG EXTENSION COUNCIL,,,Over Votes,10.0,40.0,50.0
+Butler,6-SR,COUNTY AG EXTENSION COUNCIL,,,Margaret Harris Nonpartisan,206.0,320.0,526.0
+Butler,6-SR,COUNTY AG EXTENSION COUNCIL,,,Irvin Haan Nonpartisan,178.0,295.0,473.0
+Butler,6-SR,COUNTY AG EXTENSION COUNCIL,,,Amy M. Barnett Nonpartisan,213.0,363.0,576.0
+Butler,6-SR,COUNTY AG EXTENSION COUNCIL,,,Robert A. Horst Nonpartisan,167.0,285.0,452.0
+Butler,6-SR,COUNTY AG EXTENSION COUNCIL,,,Clark W. Lupkes Nonpartisan,195.0,299.0,494.0
+Butler,6-SR,COUNTY AG EXTENSION COUNCIL,,,Denise A. Tjaden Nonpartisan,192.0,318.0,510.0
+Butler,6-SR,COUNTY AG EXTENSION COUNCIL,,,Write-In,2.0,4.0,6.0
+Butler,6-SR,COUNTY AG EXTENSION COUNCIL,,,Under Votes,1122.0,1996.0,3118.0
+Butler,6-SR,COUNTY AG EXTENSION COUNCIL,,,Over Votes,25.0,5.0,30.0
+Butler,7-PB,COUNTY AG EXTENSION COUNCIL,,,Margaret Harris Nonpartisan,148.0,289.0,437.0
+Butler,7-PB,COUNTY AG EXTENSION COUNCIL,,,Irvin Haan Nonpartisan,215.0,413.0,628.0
+Butler,7-PB,COUNTY AG EXTENSION COUNCIL,,,Amy M. Barnett Nonpartisan,171.0,317.0,488.0
+Butler,7-PB,COUNTY AG EXTENSION COUNCIL,,,Robert A. Horst Nonpartisan,146.0,273.0,419.0
+Butler,7-PB,COUNTY AG EXTENSION COUNCIL,,,Clark W. Lupkes Nonpartisan,180.0,331.0,511.0
+Butler,7-PB,COUNTY AG EXTENSION COUNCIL,,,Denise A. Tjaden Nonpartisan,156.0,296.0,452.0
+Butler,7-PB,COUNTY AG EXTENSION COUNCIL,,,Write-In,2.0,7.0,9.0
+Butler,7-PB,COUNTY AG EXTENSION COUNCIL,,,Under Votes,912.0,1969.0,2881.0
+Butler,7-PB,COUNTY AG EXTENSION COUNCIL,,,Over Votes,20.0,25.0,45.0
+Butler,8-NH,COUNTY AG EXTENSION COUNCIL,,,Margaret Harris Nonpartisan,72.0,141.0,213.0
+Butler,8-NH,COUNTY AG EXTENSION COUNCIL,,,Irvin Haan Nonpartisan,66.0,118.0,184.0
+Butler,8-NH,COUNTY AG EXTENSION COUNCIL,,,Amy M. Barnett Nonpartisan,65.0,152.0,217.0
+Butler,8-NH,COUNTY AG EXTENSION COUNCIL,,,Robert A. Horst Nonpartisan,47.0,121.0,168.0
+Butler,8-NH,COUNTY AG EXTENSION COUNCIL,,,Clark W. Lupkes Nonpartisan,62.0,119.0,181.0
+Butler,8-NH,COUNTY AG EXTENSION COUNCIL,,,Denise A. Tjaden Nonpartisan,56.0,142.0,198.0
+Butler,8-NH,COUNTY AG EXTENSION COUNCIL,,,Write-In,2.0,1.0,3.0
+Butler,8-NH,COUNTY AG EXTENSION COUNCIL,,,Under Votes,420.0,986.0,1406.0
+Butler,8-NH,COUNTY AG EXTENSION COUNCIL,,,Over Votes,10.0,15.0,25.0
+Butler,,COUNTY AG EXTENSION COUNCIL,,,Margaret Harris Nonpartisan,1169.0,2229.0,3398.0
+Butler,,COUNTY AG EXTENSION COUNCIL,,,Irvin Haan Nonpartisan,1092.0,2091.0,3183.0
+Butler,,COUNTY AG EXTENSION COUNCIL,,,Amy M. Barnett Nonpartisan,1135.0,2256.0,3391.0
+Butler,,COUNTY AG EXTENSION COUNCIL,,,Robert A. Horst Nonpartisan,965.0,1872.0,2837.0
+Butler,,COUNTY AG EXTENSION COUNCIL,,,Clark W. Lupkes Nonpartisan,1110.0,2072.0,3182.0
+Butler,,COUNTY AG EXTENSION COUNCIL,,,Denise A. Tjaden Nonpartisan,1081.0,2091.0,3172.0
+Butler,,COUNTY AG EXTENSION COUNCIL,,,Write-In,18.0,31.0,49.0
+Butler,,COUNTY AG EXTENSION COUNCIL,,,Under Votes,6510.0,11873.0,18383.0
+Butler,,COUNTY AG EXTENSION COUNCIL,,,Over Votes,100.0,180.0,280.0
+Butler,1-GR,FOR CITY COUNCIL,,,Mary Stanbrough Nonpartisan,8.0,13.0,21.0
+Butler,1-GR,FOR CITY COUNCIL,,,Write-In,1.0,5.0,6.0
+Butler,1-GR,FOR CITY COUNCIL,,,Under Votes,0.0,2.0,2.0
+Butler,1-GR,FOR CITY COUNCIL,,,Over Votes,0.0,0.0,0.0
+Butler,,FOR CITY COUNCIL,,,Mary Stanbrough Nonpartisan,8.0,13.0,21.0
+Butler,,FOR CITY COUNCIL,,,Write-In,1.0,5.0,6.0
+Butler,,FOR CITY COUNCIL,,,Under Votes,0.0,2.0,2.0
+Butler,,FOR CITY COUNCIL,,,Over Votes,0.0,0.0,0.0
+Butler,1-GR,Supreme Court Justice Edward Mansfield,,,Yes,198.0,387.0,585.0
+Butler,1-GR,Supreme Court Justice Edward Mansfield,,,No,46.0,149.0,195.0
+Butler,1-GR,Supreme Court Justice Edward Mansfield,,,Under Votes,131.0,156.0,287.0
+Butler,1-GR,Supreme Court Justice Edward Mansfield,,,Over Votes,1.0,0.0,1.0
+Butler,2-CL,Supreme Court Justice Edward Mansfield,,,Yes,215.0,451.0,666.0
+Butler,2-CL,Supreme Court Justice Edward Mansfield,,,No,70.0,178.0,248.0
+Butler,2-CL,Supreme Court Justice Edward Mansfield,,,Under Votes,153.0,220.0,373.0
+Butler,2-CL,Supreme Court Justice Edward Mansfield,,,Over Votes,1.0,1.0,2.0
+Butler,3-DU,Supreme Court Justice Edward Mansfield,,,Yes,115.0,231.0,346.0
+Butler,3-DU,Supreme Court Justice Edward Mansfield,,,No,49.0,83.0,132.0
+Butler,3-DU,Supreme Court Justice Edward Mansfield,,,Under Votes,80.0,133.0,213.0
+Butler,3-DU,Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,0.0,0.0
+Butler,4-AL,Supreme Court Justice Edward Mansfield,,,Yes,132.0,215.0,347.0
+Butler,4-AL,Supreme Court Justice Edward Mansfield,,,No,39.0,94.0,133.0
+Butler,4-AL,Supreme Court Justice Edward Mansfield,,,Under Votes,101.0,115.0,216.0
+Butler,4-AL,Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,0.0,0.0
+Butler,5-AP,Supreme Court Justice Edward Mansfield,,,Yes,140.0,336.0,476.0
+Butler,5-AP,Supreme Court Justice Edward Mansfield,,,No,42.0,138.0,180.0
+Butler,5-AP,Supreme Court Justice Edward Mansfield,,,Under Votes,113.0,132.0,245.0
+Butler,5-AP,Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,Supreme Court Justice Edward Mansfield,,,Yes,245.0,403.0,648.0
+Butler,6-SR,Supreme Court Justice Edward Mansfield,,,No,81.0,202.0,283.0
+Butler,6-SR,Supreme Court Justice Edward Mansfield,,,Under Votes,133.0,172.0,305.0
+Butler,6-SR,Supreme Court Justice Edward Mansfield,,,Over Votes,1.0,0.0,1.0
+Butler,7-PB,Supreme Court Justice Edward Mansfield,,,Yes,215.0,435.0,650.0
+Butler,7-PB,Supreme Court Justice Edward Mansfield,,,No,61.0,143.0,204.0
+Butler,7-PB,Supreme Court Justice Edward Mansfield,,,Under Votes,114.0,206.0,320.0
+Butler,7-PB,Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,0.0,0.0
+Butler,8-NH,Supreme Court Justice Edward Mansfield,,,Yes,82.0,198.0,280.0
+Butler,8-NH,Supreme Court Justice Edward Mansfield,,,No,33.0,74.0,107.0
+Butler,8-NH,Supreme Court Justice Edward Mansfield,,,Under Votes,45.0,86.0,131.0
+Butler,8-NH,Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,1.0,1.0
+Butler,,Supreme Court Justice Edward Mansfield,,,Yes,1342.0,2656.0,3998.0
+Butler,,Supreme Court Justice Edward Mansfield,,,No,421.0,1061.0,1482.0
+Butler,,Supreme Court Justice Edward Mansfield,,,Under Votes,870.0,1220.0,2090.0
+Butler,,Supreme Court Justice Edward Mansfield,,,Over Votes,3.0,2.0,5.0
+Butler,1-GR,Supreme Court Justice Thomas D. Waterman,,,Yes,200.0,390.0,590.0
+Butler,1-GR,Supreme Court Justice Thomas D. Waterman,,,No,44.0,143.0,187.0
+Butler,1-GR,Supreme Court Justice Thomas D. Waterman,,,Under Votes,132.0,158.0,290.0
+Butler,1-GR,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,1.0,1.0
+Butler,2-CL,Supreme Court Justice Thomas D. Waterman,,,Yes,217.0,463.0,680.0
+Butler,2-CL,Supreme Court Justice Thomas D. Waterman,,,No,70.0,166.0,236.0
+Butler,2-CL,Supreme Court Justice Thomas D. Waterman,,,Under Votes,152.0,221.0,373.0
+Butler,2-CL,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Butler,3-DU,Supreme Court Justice Thomas D. Waterman,,,Yes,120.0,221.0,341.0
+Butler,3-DU,Supreme Court Justice Thomas D. Waterman,,,No,45.0,93.0,138.0
+Butler,3-DU,Supreme Court Justice Thomas D. Waterman,,,Under Votes,79.0,133.0,212.0
+Butler,3-DU,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Butler,4-AL,Supreme Court Justice Thomas D. Waterman,,,Yes,129.0,221.0,350.0
+Butler,4-AL,Supreme Court Justice Thomas D. Waterman,,,No,40.0,90.0,130.0
+Butler,4-AL,Supreme Court Justice Thomas D. Waterman,,,Under Votes,103.0,113.0,216.0
+Butler,4-AL,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Butler,5-AP,Supreme Court Justice Thomas D. Waterman,,,Yes,137.0,335.0,472.0
+Butler,5-AP,Supreme Court Justice Thomas D. Waterman,,,No,46.0,144.0,190.0
+Butler,5-AP,Supreme Court Justice Thomas D. Waterman,,,Under Votes,112.0,127.0,239.0
+Butler,5-AP,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,Supreme Court Justice Thomas D. Waterman,,,Yes,235.0,395.0,630.0
+Butler,6-SR,Supreme Court Justice Thomas D. Waterman,,,No,91.0,207.0,298.0
+Butler,6-SR,Supreme Court Justice Thomas D. Waterman,,,Under Votes,134.0,175.0,309.0
+Butler,6-SR,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Butler,7-PB,Supreme Court Justice Thomas D. Waterman,,,Yes,217.0,432.0,649.0
+Butler,7-PB,Supreme Court Justice Thomas D. Waterman,,,No,63.0,141.0,204.0
+Butler,7-PB,Supreme Court Justice Thomas D. Waterman,,,Under Votes,109.0,210.0,319.0
+Butler,7-PB,Supreme Court Justice Thomas D. Waterman,,,Over Votes,1.0,1.0,2.0
+Butler,8-NH,Supreme Court Justice Thomas D. Waterman,,,Yes,82.0,201.0,283.0
+Butler,8-NH,Supreme Court Justice Thomas D. Waterman,,,No,32.0,72.0,104.0
+Butler,8-NH,Supreme Court Justice Thomas D. Waterman,,,Under Votes,46.0,86.0,132.0
+Butler,8-NH,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Butler,,Supreme Court Justice Thomas D. Waterman,,,Yes,1337.0,2658.0,3995.0
+Butler,,Supreme Court Justice Thomas D. Waterman,,,No,431.0,1056.0,1487.0
+Butler,,Supreme Court Justice Thomas D. Waterman,,,Under Votes,867.0,1223.0,2090.0
+Butler,,Supreme Court Justice Thomas D. Waterman,,,Over Votes,1.0,2.0,3.0
+Butler,1-GR,Supreme Court Justice David S. Wiggins,,,Yes,138.0,258.0,396.0
+Butler,1-GR,Supreme Court Justice David S. Wiggins,,,No,144.0,313.0,457.0
+Butler,1-GR,Supreme Court Justice David S. Wiggins,,,Under Votes,94.0,121.0,215.0
+Butler,1-GR,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Butler,2-CL,Supreme Court Justice David S. Wiggins,,,Yes,158.0,329.0,487.0
+Butler,2-CL,Supreme Court Justice David S. Wiggins,,,No,164.0,355.0,519.0
+Butler,2-CL,Supreme Court Justice David S. Wiggins,,,Under Votes,117.0,166.0,283.0
+Butler,2-CL,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Butler,3-DU,Supreme Court Justice David S. Wiggins,,,Yes,79.0,143.0,222.0
+Butler,3-DU,Supreme Court Justice David S. Wiggins,,,No,113.0,231.0,344.0
+Butler,3-DU,Supreme Court Justice David S. Wiggins,,,Under Votes,52.0,73.0,125.0
+Butler,3-DU,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Butler,4-AL,Supreme Court Justice David S. Wiggins,,,Yes,89.0,145.0,234.0
+Butler,4-AL,Supreme Court Justice David S. Wiggins,,,No,100.0,208.0,308.0
+Butler,4-AL,Supreme Court Justice David S. Wiggins,,,Under Votes,83.0,71.0,154.0
+Butler,4-AL,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Butler,5-AP,Supreme Court Justice David S. Wiggins,,,Yes,79.0,195.0,274.0
+Butler,5-AP,Supreme Court Justice David S. Wiggins,,,No,138.0,336.0,474.0
+Butler,5-AP,Supreme Court Justice David S. Wiggins,,,Under Votes,78.0,75.0,153.0
+Butler,5-AP,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,Supreme Court Justice David S. Wiggins,,,Yes,181.0,300.0,481.0
+Butler,6-SR,Supreme Court Justice David S. Wiggins,,,No,170.0,352.0,522.0
+Butler,6-SR,Supreme Court Justice David S. Wiggins,,,Under Votes,109.0,125.0,234.0
+Butler,6-SR,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Butler,7-PB,Supreme Court Justice David S. Wiggins,,,Yes,170.0,269.0,439.0
+Butler,7-PB,Supreme Court Justice David S. Wiggins,,,No,141.0,369.0,510.0
+Butler,7-PB,Supreme Court Justice David S. Wiggins,,,Under Votes,79.0,145.0,224.0
+Butler,7-PB,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,1.0,1.0
+Butler,8-NH,Supreme Court Justice David S. Wiggins,,,Yes,65.0,127.0,192.0
+Butler,8-NH,Supreme Court Justice David S. Wiggins,,,No,62.0,167.0,229.0
+Butler,8-NH,Supreme Court Justice David S. Wiggins,,,Under Votes,33.0,65.0,98.0
+Butler,8-NH,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Butler,,Supreme Court Justice David S. Wiggins,,,Yes,959.0,1766.0,2725.0
+Butler,,Supreme Court Justice David S. Wiggins,,,No,1032.0,2331.0,3363.0
+Butler,,Supreme Court Justice David S. Wiggins,,,Under Votes,645.0,841.0,1486.0
+Butler,,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,1.0,1.0
+Butler,1-GR,Supreme Court Justice Bruce B. Zager,,,Yes,202.0,392.0,594.0
+Butler,1-GR,Supreme Court Justice Bruce B. Zager,,,No,45.0,141.0,186.0
+Butler,1-GR,Supreme Court Justice Bruce B. Zager,,,Under Votes,129.0,155.0,284.0
+Butler,1-GR,Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,4.0,4.0
+Butler,2-CL,Supreme Court Justice Bruce B. Zager,,,Yes,218.0,455.0,673.0
+Butler,2-CL,Supreme Court Justice Bruce B. Zager,,,No,70.0,177.0,247.0
+Butler,2-CL,Supreme Court Justice Bruce B. Zager,,,Under Votes,150.0,218.0,368.0
+Butler,2-CL,Supreme Court Justice Bruce B. Zager,,,Over Votes,1.0,0.0,1.0
+Butler,3-DU,Supreme Court Justice Bruce B. Zager,,,Yes,121.0,233.0,354.0
+Butler,3-DU,Supreme Court Justice Bruce B. Zager,,,No,45.0,82.0,127.0
+Butler,3-DU,Supreme Court Justice Bruce B. Zager,,,Under Votes,78.0,131.0,209.0
+Butler,3-DU,Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,1.0,1.0
+Butler,4-AL,Supreme Court Justice Bruce B. Zager,,,Yes,129.0,225.0,354.0
+Butler,4-AL,Supreme Court Justice Bruce B. Zager,,,No,41.0,89.0,130.0
+Butler,4-AL,Supreme Court Justice Bruce B. Zager,,,Under Votes,101.0,110.0,211.0
+Butler,4-AL,Supreme Court Justice Bruce B. Zager,,,Over Votes,1.0,0.0,1.0
+Butler,5-AP,Supreme Court Justice Bruce B. Zager,,,Yes,142.0,332.0,474.0
+Butler,5-AP,Supreme Court Justice Bruce B. Zager,,,No,43.0,146.0,189.0
+Butler,5-AP,Supreme Court Justice Bruce B. Zager,,,Under Votes,110.0,128.0,238.0
+Butler,5-AP,Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,Supreme Court Justice Bruce B. Zager,,,Yes,244.0,401.0,645.0
+Butler,6-SR,Supreme Court Justice Bruce B. Zager,,,No,85.0,205.0,290.0
+Butler,6-SR,Supreme Court Justice Bruce B. Zager,,,Under Votes,130.0,171.0,301.0
+Butler,6-SR,Supreme Court Justice Bruce B. Zager,,,Over Votes,1.0,0.0,1.0
+Butler,7-PB,Supreme Court Justice Bruce B. Zager,,,Yes,218.0,449.0,667.0
+Butler,7-PB,Supreme Court Justice Bruce B. Zager,,,No,61.0,134.0,195.0
+Butler,7-PB,Supreme Court Justice Bruce B. Zager,,,Under Votes,111.0,201.0,312.0
+Butler,7-PB,Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,0.0,0.0
+Butler,8-NH,Supreme Court Justice Bruce B. Zager,,,Yes,88.0,196.0,284.0
+Butler,8-NH,Supreme Court Justice Bruce B. Zager,,,No,28.0,80.0,108.0
+Butler,8-NH,Supreme Court Justice Bruce B. Zager,,,Under Votes,44.0,82.0,126.0
+Butler,8-NH,Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,1.0,1.0
+Butler,,Supreme Court Justice Bruce B. Zager,,,Yes,1362.0,2683.0,4045.0
+Butler,,Supreme Court Justice Bruce B. Zager,,,No,418.0,1054.0,1472.0
+Butler,,Supreme Court Justice Bruce B. Zager,,,Under Votes,853.0,1196.0,2049.0
+Butler,,Supreme Court Justice Bruce B. Zager,,,Over Votes,3.0,6.0,9.0
+Butler,1-GR,Court of Appeals Judge Michael R. Mullins,,,Yes,193.0,376.0,569.0
+Butler,1-GR,Court of Appeals Judge Michael R. Mullins,,,No,39.0,122.0,161.0
+Butler,1-GR,Court of Appeals Judge Michael R. Mullins,,,Under Votes,143.0,194.0,337.0
+Butler,1-GR,Court of Appeals Judge Michael R. Mullins,,,Over Votes,1.0,0.0,1.0
+Butler,2-CL,Court of Appeals Judge Michael R. Mullins,,,Yes,219.0,454.0,673.0
+Butler,2-CL,Court of Appeals Judge Michael R. Mullins,,,No,63.0,152.0,215.0
+Butler,2-CL,Court of Appeals Judge Michael R. Mullins,,,Under Votes,157.0,244.0,401.0
+Butler,2-CL,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,0.0,0.0
+Butler,3-DU,Court of Appeals Judge Michael R. Mullins,,,Yes,121.0,232.0,353.0
+Butler,3-DU,Court of Appeals Judge Michael R. Mullins,,,No,43.0,70.0,113.0
+Butler,3-DU,Court of Appeals Judge Michael R. Mullins,,,Under Votes,80.0,145.0,225.0
+Butler,3-DU,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,0.0,0.0
+Butler,4-AL,Court of Appeals Judge Michael R. Mullins,,,Yes,128.0,210.0,338.0
+Butler,4-AL,Court of Appeals Judge Michael R. Mullins,,,No,34.0,88.0,122.0
+Butler,4-AL,Court of Appeals Judge Michael R. Mullins,,,Under Votes,110.0,126.0,236.0
+Butler,4-AL,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,0.0,0.0
+Butler,5-AP,Court of Appeals Judge Michael R. Mullins,,,Yes,127.0,326.0,453.0
+Butler,5-AP,Court of Appeals Judge Michael R. Mullins,,,No,46.0,136.0,182.0
+Butler,5-AP,Court of Appeals Judge Michael R. Mullins,,,Under Votes,122.0,144.0,266.0
+Butler,5-AP,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,Court of Appeals Judge Michael R. Mullins,,,Yes,231.0,402.0,633.0
+Butler,6-SR,Court of Appeals Judge Michael R. Mullins,,,No,75.0,180.0,255.0
+Butler,6-SR,Court of Appeals Judge Michael R. Mullins,,,Under Votes,154.0,194.0,348.0
+Butler,6-SR,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,1.0,1.0
+Butler,7-PB,Court of Appeals Judge Michael R. Mullins,,,Yes,209.0,427.0,636.0
+Butler,7-PB,Court of Appeals Judge Michael R. Mullins,,,No,54.0,131.0,185.0
+Butler,7-PB,Court of Appeals Judge Michael R. Mullins,,,Under Votes,127.0,226.0,353.0
+Butler,7-PB,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,0.0,0.0
+Butler,8-NH,Court of Appeals Judge Michael R. Mullins,,,Yes,75.0,202.0,277.0
+Butler,8-NH,Court of Appeals Judge Michael R. Mullins,,,No,33.0,56.0,89.0
+Butler,8-NH,Court of Appeals Judge Michael R. Mullins,,,Under Votes,52.0,100.0,152.0
+Butler,8-NH,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,1.0,1.0
+Butler,,Court of Appeals Judge Michael R. Mullins,,,Yes,1303.0,2629.0,3932.0
+Butler,,Court of Appeals Judge Michael R. Mullins,,,No,387.0,935.0,1322.0
+Butler,,Court of Appeals Judge Michael R. Mullins,,,Under Votes,945.0,1373.0,2318.0
+Butler,,Court of Appeals Judge Michael R. Mullins,,,Over Votes,1.0,2.0,3.0
+Butler,1-GR,Court of Appeals Judge Mary Ellen Tabor,,,Yes,193.0,379.0,572.0
+Butler,1-GR,Court of Appeals Judge Mary Ellen Tabor,,,No,39.0,120.0,159.0
+Butler,1-GR,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,143.0,193.0,336.0
+Butler,1-GR,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,1.0,0.0,1.0
+Butler,2-CL,Court of Appeals Judge Mary Ellen Tabor,,,Yes,219.0,450.0,669.0
+Butler,2-CL,Court of Appeals Judge Mary Ellen Tabor,,,No,65.0,156.0,221.0
+Butler,2-CL,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,155.0,244.0,399.0
+Butler,2-CL,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,0.0,0.0
+Butler,3-DU,Court of Appeals Judge Mary Ellen Tabor,,,Yes,125.0,224.0,349.0
+Butler,3-DU,Court of Appeals Judge Mary Ellen Tabor,,,No,39.0,73.0,112.0
+Butler,3-DU,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,80.0,149.0,229.0
+Butler,3-DU,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,1.0,1.0
+Butler,4-AL,Court of Appeals Judge Mary Ellen Tabor,,,Yes,122.0,218.0,340.0
+Butler,4-AL,Court of Appeals Judge Mary Ellen Tabor,,,No,43.0,82.0,125.0
+Butler,4-AL,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,107.0,124.0,231.0
+Butler,4-AL,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,0.0,0.0
+Butler,5-AP,Court of Appeals Judge Mary Ellen Tabor,,,Yes,127.0,314.0,441.0
+Butler,5-AP,Court of Appeals Judge Mary Ellen Tabor,,,No,44.0,143.0,187.0
+Butler,5-AP,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,124.0,149.0,273.0
+Butler,5-AP,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,Court of Appeals Judge Mary Ellen Tabor,,,Yes,236.0,420.0,656.0
+Butler,6-SR,Court of Appeals Judge Mary Ellen Tabor,,,No,79.0,165.0,244.0
+Butler,6-SR,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,145.0,191.0,336.0
+Butler,6-SR,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,1.0,1.0
+Butler,7-PB,Court of Appeals Judge Mary Ellen Tabor,,,Yes,211.0,435.0,646.0
+Butler,7-PB,Court of Appeals Judge Mary Ellen Tabor,,,No,57.0,125.0,182.0
+Butler,7-PB,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,122.0,224.0,346.0
+Butler,7-PB,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,0.0,0.0
+Butler,8-NH,Court of Appeals Judge Mary Ellen Tabor,,,Yes,78.0,184.0,262.0
+Butler,8-NH,Court of Appeals Judge Mary Ellen Tabor,,,No,28.0,78.0,106.0
+Butler,8-NH,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,54.0,97.0,151.0
+Butler,8-NH,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,0.0,0.0
+Butler,,Court of Appeals Judge Mary Ellen Tabor,,,Yes,1311.0,2624.0,3935.0
+Butler,,Court of Appeals Judge Mary Ellen Tabor,,,No,394.0,942.0,1336.0
+Butler,,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,930.0,1371.0,2301.0
+Butler,,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,1.0,2.0,3.0
+Butler,1-GR,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,179.0,326.0,505.0
+Butler,1-GR,Court of Appeals Judge Anuradha Vaitheswaran,,,No,58.0,171.0,229.0
+Butler,1-GR,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,139.0,194.0,333.0
+Butler,1-GR,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,1.0,1.0
+Butler,2-CL,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,190.0,399.0,589.0
+Butler,2-CL,Court of Appeals Judge Anuradha Vaitheswaran,,,No,87.0,204.0,291.0
+Butler,2-CL,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,161.0,246.0,407.0
+Butler,2-CL,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,1.0,1.0,2.0
+Butler,3-DU,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,108.0,205.0,313.0
+Butler,3-DU,Court of Appeals Judge Anuradha Vaitheswaran,,,No,55.0,93.0,148.0
+Butler,3-DU,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,81.0,148.0,229.0
+Butler,3-DU,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,1.0,1.0
+Butler,4-AL,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,114.0,194.0,308.0
+Butler,4-AL,Court of Appeals Judge Anuradha Vaitheswaran,,,No,51.0,105.0,156.0
+Butler,4-AL,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,107.0,125.0,232.0
+Butler,4-AL,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,0.0,0.0
+Butler,5-AP,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,110.0,289.0,399.0
+Butler,5-AP,Court of Appeals Judge Anuradha Vaitheswaran,,,No,65.0,170.0,235.0
+Butler,5-AP,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,120.0,147.0,267.0
+Butler,5-AP,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,202.0,356.0,558.0
+Butler,6-SR,Court of Appeals Judge Anuradha Vaitheswaran,,,No,107.0,222.0,329.0
+Butler,6-SR,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,148.0,196.0,344.0
+Butler,6-SR,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,3.0,3.0,6.0
+Butler,7-PB,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,191.0,386.0,577.0
+Butler,7-PB,Court of Appeals Judge Anuradha Vaitheswaran,,,No,75.0,176.0,251.0
+Butler,7-PB,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,124.0,221.0,345.0
+Butler,7-PB,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,1.0,1.0
+Butler,8-NH,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,72.0,173.0,245.0
+Butler,8-NH,Court of Appeals Judge Anuradha Vaitheswaran,,,No,37.0,86.0,123.0
+Butler,8-NH,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,51.0,99.0,150.0
+Butler,8-NH,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,1.0,1.0
+Butler,,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,1166.0,2328.0,3494.0
+Butler,,Court of Appeals Judge Anuradha Vaitheswaran,,,No,535.0,1227.0,1762.0
+Butler,,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,931.0,1376.0,2307.0
+Butler,,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,4.0,8.0,12.0
+Butler,1-GR,District Court 2A Judge Rustin Davenport,,,Yes,192.0,390.0,582.0
+Butler,1-GR,District Court 2A Judge Rustin Davenport,,,No,44.0,119.0,163.0
+Butler,1-GR,District Court 2A Judge Rustin Davenport,,,Under Votes,140.0,183.0,323.0
+Butler,1-GR,District Court 2A Judge Rustin Davenport,,,Over Votes,0.0,0.0,0.0
+Butler,2-CL,District Court 2A Judge Rustin Davenport,,,Yes,214.0,446.0,660.0
+Butler,2-CL,District Court 2A Judge Rustin Davenport,,,No,66.0,158.0,224.0
+Butler,2-CL,District Court 2A Judge Rustin Davenport,,,Under Votes,159.0,245.0,404.0
+Butler,2-CL,District Court 2A Judge Rustin Davenport,,,Over Votes,0.0,1.0,1.0
+Butler,3-DU,District Court 2A Judge Rustin Davenport,,,Yes,124.0,229.0,353.0
+Butler,3-DU,District Court 2A Judge Rustin Davenport,,,No,38.0,74.0,112.0
+Butler,3-DU,District Court 2A Judge Rustin Davenport,,,Under Votes,82.0,144.0,226.0
+Butler,3-DU,District Court 2A Judge Rustin Davenport,,,Over Votes,0.0,0.0,0.0
+Butler,4-AL,District Court 2A Judge Rustin Davenport,,,Yes,134.0,212.0,346.0
+Butler,4-AL,District Court 2A Judge Rustin Davenport,,,No,34.0,90.0,124.0
+Butler,4-AL,District Court 2A Judge Rustin Davenport,,,Under Votes,104.0,122.0,226.0
+Butler,4-AL,District Court 2A Judge Rustin Davenport,,,Over Votes,0.0,0.0,0.0
+Butler,5-AP,District Court 2A Judge Rustin Davenport,,,Yes,128.0,322.0,450.0
+Butler,5-AP,District Court 2A Judge Rustin Davenport,,,No,46.0,136.0,182.0
+Butler,5-AP,District Court 2A Judge Rustin Davenport,,,Under Votes,121.0,148.0,269.0
+Butler,5-AP,District Court 2A Judge Rustin Davenport,,,Over Votes,0.0,0.0,0.0
+Butler,6-SR,District Court 2A Judge Rustin Davenport,,,Yes,232.0,404.0,636.0
+Butler,6-SR,District Court 2A Judge Rustin Davenport,,,No,77.0,183.0,260.0
+Butler,6-SR,District Court 2A Judge Rustin Davenport,,,Under Votes,151.0,189.0,340.0
+Butler,6-SR,District Court 2A Judge Rustin Davenport,,,Over Votes,0.0,1.0,1.0
+Butler,7-PB,District Court 2A Judge Rustin Davenport,,,Yes,205.0,438.0,643.0
+Butler,7-PB,District Court 2A Judge Rustin Davenport,,,No,59.0,122.0,181.0
+Butler,7-PB,District Court 2A Judge Rustin Davenport,,,Under Votes,125.0,224.0,349.0
+Butler,7-PB,District Court 2A Judge Rustin Davenport,,,Over Votes,1.0,0.0,1.0
+Butler,8-NH,District Court 2A Judge Rustin Davenport,,,Yes,82.0,200.0,282.0
+Butler,8-NH,District Court 2A Judge Rustin Davenport,,,No,26.0,61.0,87.0
+Butler,8-NH,District Court 2A Judge Rustin Davenport,,,Under Votes,52.0,98.0,150.0
+Butler,8-NH,District Court 2A Judge Rustin Davenport,,,Over Votes,0.0,0.0,0.0
+Butler,,District Court 2A Judge Rustin Davenport,,,Yes,1311.0,2641.0,3952.0
+Butler,,District Court 2A Judge Rustin Davenport,,,No,390.0,943.0,1333.0
+Butler,,District Court 2A Judge Rustin Davenport,,,Under Votes,934.0,1353.0,2287.0
+Butler,,District Court 2A Judge Rustin Davenport,,,Over Votes,1.0,2.0,3.0
+Butler,1-GR,District Court 2A Judge James M. Drew,,,Yes,207.0,411.0,618.0
+Butler,1-GR,District Court 2A Judge James M. Drew,,,No,35.0,105.0,140.0
+Butler,1-GR,District Court 2A Judge James M. Drew,,,Under Votes,132.0,175.0,307.0
+Butler,1-GR,District Court 2A Judge James M. Drew,,,Over Votes,2.0,1.0,3.0
+Butler,2-CL,District Court 2A Judge James M. Drew,,,Yes,219.0,470.0,689.0
+Butler,2-CL,District Court 2A Judge James M. Drew,,,No,62.0,139.0,201.0
+Butler,2-CL,District Court 2A Judge James M. Drew,,,Under Votes,156.0,240.0,396.0
+Butler,2-CL,District Court 2A Judge James M. Drew,,,Over Votes,2.0,1.0,3.0
+Butler,3-DU,District Court 2A Judge James M. Drew,,,Yes,136.0,284.0,420.0
+Butler,3-DU,District Court 2A Judge James M. Drew,,,No,35.0,56.0,91.0
+Butler,3-DU,District Court 2A Judge James M. Drew,,,Under Votes,72.0,107.0,179.0
+Butler,3-DU,District Court 2A Judge James M. Drew,,,Over Votes,1.0,0.0,1.0
+Butler,4-AL,District Court 2A Judge James M. Drew,,,Yes,151.0,235.0,386.0
+Butler,4-AL,District Court 2A Judge James M. Drew,,,No,27.0,76.0,103.0
+Butler,4-AL,District Court 2A Judge James M. Drew,,,Under Votes,93.0,113.0,206.0
+Butler,4-AL,District Court 2A Judge James M. Drew,,,Over Votes,1.0,0.0,1.0
+Butler,5-AP,District Court 2A Judge James M. Drew,,,Yes,135.0,340.0,475.0
+Butler,5-AP,District Court 2A Judge James M. Drew,,,No,42.0,122.0,164.0
+Butler,5-AP,District Court 2A Judge James M. Drew,,,Under Votes,116.0,140.0,256.0
+Butler,5-AP,District Court 2A Judge James M. Drew,,,Over Votes,2.0,4.0,6.0
+Butler,6-SR,District Court 2A Judge James M. Drew,,,Yes,237.0,424.0,661.0
+Butler,6-SR,District Court 2A Judge James M. Drew,,,No,73.0,167.0,240.0
+Butler,6-SR,District Court 2A Judge James M. Drew,,,Under Votes,149.0,186.0,335.0
+Butler,6-SR,District Court 2A Judge James M. Drew,,,Over Votes,1.0,0.0,1.0
+Butler,7-PB,District Court 2A Judge James M. Drew,,,Yes,216.0,449.0,665.0
+Butler,7-PB,District Court 2A Judge James M. Drew,,,No,51.0,113.0,164.0
+Butler,7-PB,District Court 2A Judge James M. Drew,,,Under Votes,122.0,220.0,342.0
+Butler,7-PB,District Court 2A Judge James M. Drew,,,Over Votes,1.0,2.0,3.0
+Butler,8-NH,District Court 2A Judge James M. Drew,,,Yes,80.0,196.0,276.0
+Butler,8-NH,District Court 2A Judge James M. Drew,,,No,27.0,62.0,89.0
+Butler,8-NH,District Court 2A Judge James M. Drew,,,Under Votes,52.0,98.0,150.0
+Butler,8-NH,District Court 2A Judge James M. Drew,,,Over Votes,1.0,3.0,4.0
+Butler,,District Court 2A Judge James M. Drew,,,Yes,1381.0,2809.0,4190.0
+Butler,,District Court 2A Judge James M. Drew,,,No,352.0,840.0,1192.0
+Butler,,District Court 2A Judge James M. Drew,,,Under Votes,892.0,1279.0,2171.0
+Butler,,District Court 2A Judge James M. Drew,,,Over Votes,11.0,11.0,22.0

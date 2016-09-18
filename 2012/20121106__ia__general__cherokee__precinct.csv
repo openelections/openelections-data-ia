@@ -1,0 +1,865 @@
+county,precinct,office,district,party,candidate,absentee,election_date,votes
+Cherokee,#1 Aurelia Precinct,President/Vice President,,Republican,Mitt Romney Paul Ryan,166.0,399.0,565.0
+Cherokee,#1 Aurelia Precinct,President/Vice President,,Democratic,Barack Obama Joe Biden,113.0,251.0,364.0
+Cherokee,#1 Aurelia Precinct,President/Vice President,,Constitution,Virgil Goode James Clymer,0.0,4.0,4.0
+Cherokee,#1 Aurelia Precinct,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,1.0,4.0,5.0
+Cherokee,#1 Aurelia Precinct,President/Vice President,,Libertarian,Gary Johnson James P. Gray,1.0,6.0,7.0
+Cherokee,#1 Aurelia Precinct,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,0.0,0.0
+Cherokee,#1 Aurelia Precinct,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,0.0,0.0
+Cherokee,#1 Aurelia Precinct,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,0.0,0.0,0.0
+Cherokee,#1 Aurelia Precinct,President/Vice President,,,Write-In,3.0,3.0,6.0
+Cherokee,#1 Aurelia Precinct,President/Vice President,,,Under Votes,1.0,1.0,2.0
+Cherokee,#1 Aurelia Precinct,President/Vice President,,,Over Votes,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,President/Vice President,,Republican,Mitt Romney Paul Ryan,317.0,531.0,848.0
+Cherokee,#2 Cleghorn Precinct,President/Vice President,,Democratic,Barack Obama Joe Biden,172.0,285.0,457.0
+Cherokee,#2 Cleghorn Precinct,President/Vice President,,Constitution,Virgil Goode James Clymer,0.0,1.0,1.0
+Cherokee,#2 Cleghorn Precinct,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,0.0,1.0,1.0
+Cherokee,#2 Cleghorn Precinct,President/Vice President,,Libertarian,Gary Johnson James P. Gray,1.0,4.0,5.0
+Cherokee,#2 Cleghorn Precinct,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,1.0,0.0,1.0
+Cherokee,#2 Cleghorn Precinct,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,1.0,0.0,1.0
+Cherokee,#2 Cleghorn Precinct,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,1.0,0.0,1.0
+Cherokee,#2 Cleghorn Precinct,President/Vice President,,,Write-In,1.0,1.0,2.0
+Cherokee,#2 Cleghorn Precinct,President/Vice President,,,Under Votes,1.0,3.0,4.0
+Cherokee,#2 Cleghorn Precinct,President/Vice President,,,Over Votes,1.0,0.0,1.0
+Cherokee,#3 Quimby Precinct,President/Vice President,,Republican,Mitt Romney Paul Ryan,213.0,301.0,514.0
+Cherokee,#3 Quimby Precinct,President/Vice President,,Democratic,Barack Obama Joe Biden,138.0,170.0,308.0
+Cherokee,#3 Quimby Precinct,President/Vice President,,Constitution,Virgil Goode James Clymer,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,0.0,1.0,1.0
+Cherokee,#3 Quimby Precinct,President/Vice President,,Libertarian,Gary Johnson James P. Gray,1.0,1.0,2.0
+Cherokee,#3 Quimby Precinct,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,1.0,1.0
+Cherokee,#3 Quimby Precinct,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,1.0,0.0,1.0
+Cherokee,#3 Quimby Precinct,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,President/Vice President,,,Write-In,1.0,7.0,8.0
+Cherokee,#3 Quimby Precinct,President/Vice President,,,Under Votes,1.0,0.0,1.0
+Cherokee,#3 Quimby Precinct,President/Vice President,,,Over Votes,1.0,0.0,1.0
+Cherokee,#4 Cherokee Precinct,President/Vice President,,Republican,Mitt Romney Paul Ryan,177.0,287.0,464.0
+Cherokee,#4 Cherokee Precinct,President/Vice President,,Democratic,Barack Obama Joe Biden,120.0,151.0,271.0
+Cherokee,#4 Cherokee Precinct,President/Vice President,,Constitution,Virgil Goode James Clymer,0.0,1.0,1.0
+Cherokee,#4 Cherokee Precinct,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,1.0,1.0,2.0
+Cherokee,#4 Cherokee Precinct,President/Vice President,,Libertarian,Gary Johnson James P. Gray,0.0,1.0,1.0
+Cherokee,#4 Cherokee Precinct,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,1.0,1.0
+Cherokee,#4 Cherokee Precinct,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,President/Vice President,,,Write-In,1.0,0.0,1.0
+Cherokee,#4 Cherokee Precinct,President/Vice President,,,Under Votes,0.0,2.0,2.0
+Cherokee,#4 Cherokee Precinct,President/Vice President,,,Over Votes,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,President/Vice President,,Republican,Mitt Romney Paul Ryan,211.0,321.0,532.0
+Cherokee,#5 Cherokee Ward 1 Precinct,President/Vice President,,Democratic,Barack Obama Joe Biden,207.0,220.0,427.0
+Cherokee,#5 Cherokee Ward 1 Precinct,President/Vice President,,Constitution,Virgil Goode James Clymer,1.0,1.0,2.0
+Cherokee,#5 Cherokee Ward 1 Precinct,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,1.0,3.0,4.0
+Cherokee,#5 Cherokee Ward 1 Precinct,President/Vice President,,Libertarian,Gary Johnson James P. Gray,9.0,7.0,16.0
+Cherokee,#5 Cherokee Ward 1 Precinct,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,1.0,0.0,1.0
+Cherokee,#5 Cherokee Ward 1 Precinct,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,1.0,0.0,1.0
+Cherokee,#5 Cherokee Ward 1 Precinct,President/Vice President,,,Write-In,0.0,5.0,5.0
+Cherokee,#5 Cherokee Ward 1 Precinct,President/Vice President,,,Under Votes,1.0,0.0,1.0
+Cherokee,#5 Cherokee Ward 1 Precinct,President/Vice President,,,Over Votes,1.0,0.0,1.0
+Cherokee,#6 Cherokee Ward 2 Precinct,President/Vice President,,Republican,Mitt Romney Paul Ryan,103.0,198.0,301.0
+Cherokee,#6 Cherokee Ward 2 Precinct,President/Vice President,,Democratic,Barack Obama Joe Biden,151.0,239.0,390.0
+Cherokee,#6 Cherokee Ward 2 Precinct,President/Vice President,,Constitution,Virgil Goode James Clymer,0.0,2.0,2.0
+Cherokee,#6 Cherokee Ward 2 Precinct,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,1.0,2.0,3.0
+Cherokee,#6 Cherokee Ward 2 Precinct,President/Vice President,,Libertarian,Gary Johnson James P. Gray,1.0,7.0,8.0
+Cherokee,#6 Cherokee Ward 2 Precinct,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,0.0,0.0
+Cherokee,#6 Cherokee Ward 2 Precinct,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,1.0,1.0
+Cherokee,#6 Cherokee Ward 2 Precinct,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,0.0,0.0,0.0
+Cherokee,#6 Cherokee Ward 2 Precinct,President/Vice President,,,Write-In,1.0,0.0,1.0
+Cherokee,#6 Cherokee Ward 2 Precinct,President/Vice President,,,Under Votes,2.0,1.0,3.0
+Cherokee,#6 Cherokee Ward 2 Precinct,President/Vice President,,,Over Votes,2.0,0.0,2.0
+Cherokee,#7 Cherokee Ward 3 Precinct,President/Vice President,,Republican,Mitt Romney Paul Ryan,172.0,266.0,438.0
+Cherokee,#7 Cherokee Ward 3 Precinct,President/Vice President,,Democratic,Barack Obama Joe Biden,188.0,229.0,417.0
+Cherokee,#7 Cherokee Ward 3 Precinct,President/Vice President,,Constitution,Virgil Goode James Clymer,1.0,1.0,2.0
+Cherokee,#7 Cherokee Ward 3 Precinct,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,1.0,2.0,3.0
+Cherokee,#7 Cherokee Ward 3 Precinct,President/Vice President,,Libertarian,Gary Johnson James P. Gray,2.0,4.0,6.0
+Cherokee,#7 Cherokee Ward 3 Precinct,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,1.0,1.0
+Cherokee,#7 Cherokee Ward 3 Precinct,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,1.0,1.0,2.0
+Cherokee,#7 Cherokee Ward 3 Precinct,President/Vice President,,,Write-In,3.0,5.0,8.0
+Cherokee,#7 Cherokee Ward 3 Precinct,President/Vice President,,,Under Votes,2.0,0.0,2.0
+Cherokee,#7 Cherokee Ward 3 Precinct,President/Vice President,,,Over Votes,3.0,1.0,4.0
+Cherokee,,President/Vice President,,Republican,Mitt Romney Paul Ryan,1359.0,2303.0,3662.0
+Cherokee,,President/Vice President,,Democratic,Barack Obama Joe Biden,1089.0,1545.0,2634.0
+Cherokee,,President/Vice President,,Constitution,Virgil Goode James Clymer,2.0,10.0,12.0
+Cherokee,,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,5.0,14.0,19.0
+Cherokee,,President/Vice President,,Libertarian,Gary Johnson James P. Gray,15.0,30.0,45.0
+Cherokee,,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,1.0,2.0,3.0
+Cherokee,,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,3.0,2.0,5.0
+Cherokee,,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,3.0,1.0,4.0
+Cherokee,,President/Vice President,,,Write-In,10.0,21.0,31.0
+Cherokee,,President/Vice President,,,Under Votes,8.0,7.0,15.0
+Cherokee,,President/Vice President,,,Over Votes,8.0,1.0,9.0
+Cherokee,#1 Aurelia Precinct,U.S. House of Representatives,4,Republican,Steve King,163.0,410.0,573.0
+Cherokee,#1 Aurelia Precinct,U.S. House of Representatives,4,Democratic,Christie Vilsack,107.0,235.0,342.0
+Cherokee,#1 Aurelia Precinct,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,9.0,15.0,24.0
+Cherokee,#1 Aurelia Precinct,U.S. House of Representatives,4,,Write-In,0.0,0.0,0.0
+Cherokee,#1 Aurelia Precinct,U.S. House of Representatives,4,,Under Votes,6.0,7.0,13.0
+Cherokee,#1 Aurelia Precinct,U.S. House of Representatives,4,,Over Votes,0.0,1.0,1.0
+Cherokee,#2 Cleghorn Precinct,U.S. House of Representatives,4,Republican,Steve King,314.0,558.0,872.0
+Cherokee,#2 Cleghorn Precinct,U.S. House of Representatives,4,Democratic,Christie Vilsack,166.0,240.0,406.0
+Cherokee,#2 Cleghorn Precinct,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,6.0,23.0,29.0
+Cherokee,#2 Cleghorn Precinct,U.S. House of Representatives,4,,Write-In,4.0,0.0,4.0
+Cherokee,#2 Cleghorn Precinct,U.S. House of Representatives,4,,Under Votes,6.0,5.0,11.0
+Cherokee,#2 Cleghorn Precinct,U.S. House of Representatives,4,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,U.S. House of Representatives,4,Republican,Steve King,211.0,322.0,533.0
+Cherokee,#3 Quimby Precinct,U.S. House of Representatives,4,Democratic,Christie Vilsack,133.0,140.0,273.0
+Cherokee,#3 Quimby Precinct,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,7.0,14.0,21.0
+Cherokee,#3 Quimby Precinct,U.S. House of Representatives,4,,Write-In,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,U.S. House of Representatives,4,,Under Votes,5.0,5.0,10.0
+Cherokee,#3 Quimby Precinct,U.S. House of Representatives,4,,Over Votes,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,U.S. House of Representatives,4,Republican,Steve King,179.0,290.0,469.0
+Cherokee,#4 Cherokee Precinct,U.S. House of Representatives,4,Democratic,Christie Vilsack,114.0,135.0,249.0
+Cherokee,#4 Cherokee Precinct,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,5.0,13.0,18.0
+Cherokee,#4 Cherokee Precinct,U.S. House of Representatives,4,,Write-In,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,U.S. House of Representatives,4,,Under Votes,1.0,6.0,7.0
+Cherokee,#4 Cherokee Precinct,U.S. House of Representatives,4,,Over Votes,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,U.S. House of Representatives,4,Republican,Steve King,208.0,337.0,545.0
+Cherokee,#5 Cherokee Ward 1 Precinct,U.S. House of Representatives,4,Democratic,Christie Vilsack,206.0,204.0,410.0
+Cherokee,#5 Cherokee Ward 1 Precinct,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,14.0,7.0,21.0
+Cherokee,#5 Cherokee Ward 1 Precinct,U.S. House of Representatives,4,,Write-In,0.0,1.0,1.0
+Cherokee,#5 Cherokee Ward 1 Precinct,U.S. House of Representatives,4,,Under Votes,5.0,8.0,13.0
+Cherokee,#5 Cherokee Ward 1 Precinct,U.S. House of Representatives,4,,Over Votes,0.0,0.0,0.0
+Cherokee,#6 Cherokee Ward 2 Precinct,U.S. House of Representatives,4,Republican,Steve King,108.0,221.0,329.0
+Cherokee,#6 Cherokee Ward 2 Precinct,U.S. House of Representatives,4,Democratic,Christie Vilsack,146.0,203.0,349.0
+Cherokee,#6 Cherokee Ward 2 Precinct,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,2.0,20.0,22.0
+Cherokee,#6 Cherokee Ward 2 Precinct,U.S. House of Representatives,4,,Write-In,0.0,0.0,0.0
+Cherokee,#6 Cherokee Ward 2 Precinct,U.S. House of Representatives,4,,Under Votes,5.0,6.0,11.0
+Cherokee,#6 Cherokee Ward 2 Precinct,U.S. House of Representatives,4,,Over Votes,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,U.S. House of Representatives,4,Republican,Steve King,169.0,285.0,454.0
+Cherokee,#7 Cherokee Ward 3 Precinct,U.S. House of Representatives,4,Democratic,Christie Vilsack,184.0,202.0,386.0
+Cherokee,#7 Cherokee Ward 3 Precinct,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,8.0,16.0,24.0
+Cherokee,#7 Cherokee Ward 3 Precinct,U.S. House of Representatives,4,,Write-In,1.0,0.0,1.0
+Cherokee,#7 Cherokee Ward 3 Precinct,U.S. House of Representatives,4,,Under Votes,11.0,6.0,17.0
+Cherokee,#7 Cherokee Ward 3 Precinct,U.S. House of Representatives,4,,Over Votes,0.0,1.0,1.0
+Cherokee,,U.S. House of Representatives,4,Republican,Steve King,1352.0,2423.0,3775.0
+Cherokee,,U.S. House of Representatives,4,Democratic,Christie Vilsack,1056.0,1359.0,2415.0
+Cherokee,,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,51.0,108.0,159.0
+Cherokee,,U.S. House of Representatives,4,,Write-In,5.0,1.0,6.0
+Cherokee,,U.S. House of Representatives,4,,Under Votes,39.0,43.0,82.0
+Cherokee,,U.S. House of Representatives,4,,Over Votes,0.0,2.0,2.0
+Cherokee,#1 Aurelia Precinct,State Senator,2,Republican,Randy Feenstra,189.0,448.0,637.0
+Cherokee,#1 Aurelia Precinct,State Senator,2,,Write-In,0.0,3.0,3.0
+Cherokee,#1 Aurelia Precinct,State Senator,2,,Under Votes,96.0,217.0,313.0
+Cherokee,#1 Aurelia Precinct,State Senator,2,,Over Votes,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,State Senator,2,Republican,Randy Feenstra,352.0,625.0,977.0
+Cherokee,#2 Cleghorn Precinct,State Senator,2,,Write-In,2.0,4.0,6.0
+Cherokee,#2 Cleghorn Precinct,State Senator,2,,Under Votes,142.0,197.0,339.0
+Cherokee,#2 Cleghorn Precinct,State Senator,2,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,State Senator,2,Republican,Randy Feenstra,236.0,358.0,594.0
+Cherokee,#3 Quimby Precinct,State Senator,2,,Write-In,0.0,1.0,1.0
+Cherokee,#3 Quimby Precinct,State Senator,2,,Under Votes,120.0,122.0,242.0
+Cherokee,#3 Quimby Precinct,State Senator,2,,Over Votes,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,State Senator,2,Republican,Randy Feenstra,200.0,313.0,513.0
+Cherokee,#4 Cherokee Precinct,State Senator,2,,Write-In,2.0,2.0,4.0
+Cherokee,#4 Cherokee Precinct,State Senator,2,,Under Votes,97.0,129.0,226.0
+Cherokee,#4 Cherokee Precinct,State Senator,2,,Over Votes,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,State Senator,2,Republican,Randy Feenstra,262.0,414.0,676.0
+Cherokee,#5 Cherokee Ward 1 Precinct,State Senator,2,,Write-In,1.0,0.0,1.0
+Cherokee,#5 Cherokee Ward 1 Precinct,State Senator,2,,Under Votes,170.0,143.0,313.0
+Cherokee,#5 Cherokee Ward 1 Precinct,State Senator,2,,Over Votes,0.0,0.0,0.0
+Cherokee,#6 Cherokee Ward 2 Precinct,State Senator,2,Republican,Randy Feenstra,140.0,316.0,456.0
+Cherokee,#6 Cherokee Ward 2 Precinct,State Senator,2,,Write-In,1.0,2.0,3.0
+Cherokee,#6 Cherokee Ward 2 Precinct,State Senator,2,,Under Votes,120.0,132.0,252.0
+Cherokee,#6 Cherokee Ward 2 Precinct,State Senator,2,,Over Votes,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,State Senator,2,Republican,Randy Feenstra,226.0,357.0,583.0
+Cherokee,#7 Cherokee Ward 3 Precinct,State Senator,2,,Write-In,3.0,3.0,6.0
+Cherokee,#7 Cherokee Ward 3 Precinct,State Senator,2,,Under Votes,144.0,150.0,294.0
+Cherokee,#7 Cherokee Ward 3 Precinct,State Senator,2,,Over Votes,0.0,0.0,0.0
+Cherokee,,State Senator,2,Republican,Randy Feenstra,1605.0,2831.0,4436.0
+Cherokee,,State Senator,2,,Write-In,9.0,15.0,24.0
+Cherokee,,State Senator,2,,Under Votes,889.0,1090.0,1979.0
+Cherokee,,State Senator,2,,Over Votes,0.0,0.0,0.0
+Cherokee,#1 Aurelia Precinct,State Representative,3,Republican,Dan Huseman,214.0,553.0,767.0
+Cherokee,#1 Aurelia Precinct,State Representative,3,,Write-In,0.0,5.0,5.0
+Cherokee,#1 Aurelia Precinct,State Representative,3,,Under Votes,71.0,110.0,181.0
+Cherokee,#1 Aurelia Precinct,State Representative,3,,Over Votes,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,State Representative,3,Republican,Dan Huseman,376.0,680.0,1056.0
+Cherokee,#2 Cleghorn Precinct,State Representative,3,,Write-In,2.0,3.0,5.0
+Cherokee,#2 Cleghorn Precinct,State Representative,3,,Under Votes,117.0,143.0,260.0
+Cherokee,#2 Cleghorn Precinct,State Representative,3,,Over Votes,1.0,0.0,1.0
+Cherokee,#3 Quimby Precinct,State Representative,3,Republican,Dan Huseman,264.0,388.0,652.0
+Cherokee,#3 Quimby Precinct,State Representative,3,,Write-In,1.0,0.0,1.0
+Cherokee,#3 Quimby Precinct,State Representative,3,,Under Votes,91.0,93.0,184.0
+Cherokee,#3 Quimby Precinct,State Representative,3,,Over Votes,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,State Representative,3,Republican,Dan Huseman,220.0,346.0,566.0
+Cherokee,#4 Cherokee Precinct,State Representative,3,,Write-In,2.0,2.0,4.0
+Cherokee,#4 Cherokee Precinct,State Representative,3,,Under Votes,77.0,96.0,173.0
+Cherokee,#4 Cherokee Precinct,State Representative,3,,Over Votes,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,State Representative,3,Republican,Dan Huseman,285.0,451.0,736.0
+Cherokee,#5 Cherokee Ward 1 Precinct,State Representative,3,,Write-In,3.0,0.0,3.0
+Cherokee,#5 Cherokee Ward 1 Precinct,State Representative,3,,Under Votes,145.0,106.0,251.0
+Cherokee,#5 Cherokee Ward 1 Precinct,State Representative,3,,Over Votes,0.0,0.0,0.0
+Cherokee,#6 Cherokee Ward 2 Precinct,State Representative,3,Republican,Dan Huseman,167.0,343.0,510.0
+Cherokee,#6 Cherokee Ward 2 Precinct,State Representative,3,,Write-In,2.0,1.0,3.0
+Cherokee,#6 Cherokee Ward 2 Precinct,State Representative,3,,Under Votes,92.0,106.0,198.0
+Cherokee,#6 Cherokee Ward 2 Precinct,State Representative,3,,Over Votes,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,State Representative,3,Republican,Dan Huseman,256.0,397.0,653.0
+Cherokee,#7 Cherokee Ward 3 Precinct,State Representative,3,,Write-In,2.0,2.0,4.0
+Cherokee,#7 Cherokee Ward 3 Precinct,State Representative,3,,Under Votes,115.0,111.0,226.0
+Cherokee,#7 Cherokee Ward 3 Precinct,State Representative,3,,Over Votes,0.0,0.0,0.0
+Cherokee,,State Representative,3,Republican,Dan Huseman,1782.0,3158.0,4940.0
+Cherokee,,State Representative,3,,Write-In,12.0,13.0,25.0
+Cherokee,,State Representative,3,,Under Votes,708.0,765.0,1473.0
+Cherokee,,State Representative,3,,Over Votes,1.0,0.0,1.0
+Cherokee,#1 Aurelia Precinct,Co. Supervisor Dist #1,,Republican,Rick Mongan,159.0,342.0,501.0
+Cherokee,#1 Aurelia Precinct,Co. Supervisor Dist #1,,Democratic,Dean Schmidt,110.0,272.0,382.0
+Cherokee,#1 Aurelia Precinct,Co. Supervisor Dist #1,,,Write-In,1.0,0.0,1.0
+Cherokee,#1 Aurelia Precinct,Co. Supervisor Dist #1,,,Under Votes,15.0,54.0,69.0
+Cherokee,#1 Aurelia Precinct,Co. Supervisor Dist #1,,,Over Votes,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,Co. Supervisor Dist #1,,Republican,Rick Mongan,229.0,404.0,633.0
+Cherokee,#2 Cleghorn Precinct,Co. Supervisor Dist #1,,Democratic,Dean Schmidt,242.0,392.0,634.0
+Cherokee,#2 Cleghorn Precinct,Co. Supervisor Dist #1,,,Write-In,3.0,2.0,5.0
+Cherokee,#2 Cleghorn Precinct,Co. Supervisor Dist #1,,,Under Votes,22.0,28.0,50.0
+Cherokee,#2 Cleghorn Precinct,Co. Supervisor Dist #1,,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,Co. Supervisor Dist #1,,Republican,Rick Mongan,168.0,247.0,415.0
+Cherokee,#3 Quimby Precinct,Co. Supervisor Dist #1,,Democratic,Dean Schmidt,163.0,199.0,362.0
+Cherokee,#3 Quimby Precinct,Co. Supervisor Dist #1,,,Write-In,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,Co. Supervisor Dist #1,,,Under Votes,25.0,34.0,59.0
+Cherokee,#3 Quimby Precinct,Co. Supervisor Dist #1,,,Over Votes,0.0,1.0,1.0
+Cherokee,#4 Cherokee Precinct,Co. Supervisor Dist #1,,Republican,Rick Mongan,176.0,267.0,443.0
+Cherokee,#4 Cherokee Precinct,Co. Supervisor Dist #1,,Democratic,Dean Schmidt,116.0,158.0,274.0
+Cherokee,#4 Cherokee Precinct,Co. Supervisor Dist #1,,,Write-In,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,Co. Supervisor Dist #1,,,Under Votes,7.0,19.0,26.0
+Cherokee,#4 Cherokee Precinct,Co. Supervisor Dist #1,,,Over Votes,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Supervisor Dist #1,,Republican,Rick Mongan,201.0,327.0,528.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Supervisor Dist #1,,Democratic,Dean Schmidt,207.0,207.0,414.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Supervisor Dist #1,,,Write-In,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Supervisor Dist #1,,,Under Votes,23.0,23.0,46.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Supervisor Dist #1,,,Over Votes,2.0,0.0,2.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Supervisor Dist #1,,Republican,Rick Mongan,112.0,249.0,361.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Supervisor Dist #1,,Democratic,Dean Schmidt,136.0,185.0,321.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Supervisor Dist #1,,,Write-In,0.0,1.0,1.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Supervisor Dist #1,,,Under Votes,13.0,15.0,28.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Supervisor Dist #1,,,Over Votes,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Supervisor Dist #1,,Republican,Rick Mongan,188.0,270.0,458.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Supervisor Dist #1,,Democratic,Dean Schmidt,160.0,214.0,374.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Supervisor Dist #1,,,Write-In,0.0,2.0,2.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Supervisor Dist #1,,,Under Votes,25.0,22.0,47.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Supervisor Dist #1,,,Over Votes,0.0,2.0,2.0
+Cherokee,,Co. Supervisor Dist #1,,Republican,Rick Mongan,1233.0,2106.0,3339.0
+Cherokee,,Co. Supervisor Dist #1,,Democratic,Dean Schmidt,1134.0,1627.0,2761.0
+Cherokee,,Co. Supervisor Dist #1,,,Write-In,4.0,5.0,9.0
+Cherokee,,Co. Supervisor Dist #1,,,Under Votes,130.0,195.0,325.0
+Cherokee,,Co. Supervisor Dist #1,,,Over Votes,2.0,3.0,5.0
+Cherokee,#1 Aurelia Precinct,Co. Supervisor Dist #2,,Republican,Dennis Bush,143.0,333.0,476.0
+Cherokee,#1 Aurelia Precinct,Co. Supervisor Dist #2,,Democratic,Larry Prunty,120.0,255.0,375.0
+Cherokee,#1 Aurelia Precinct,Co. Supervisor Dist #2,,,Write-In,0.0,0.0,0.0
+Cherokee,#1 Aurelia Precinct,Co. Supervisor Dist #2,,,Under Votes,21.0,80.0,101.0
+Cherokee,#1 Aurelia Precinct,Co. Supervisor Dist #2,,,Over Votes,1.0,0.0,1.0
+Cherokee,#2 Cleghorn Precinct,Co. Supervisor Dist #2,,Republican,Dennis Bush,268.0,417.0,685.0
+Cherokee,#2 Cleghorn Precinct,Co. Supervisor Dist #2,,Democratic,Larry Prunty,199.0,372.0,571.0
+Cherokee,#2 Cleghorn Precinct,Co. Supervisor Dist #2,,,Write-In,2.0,2.0,4.0
+Cherokee,#2 Cleghorn Precinct,Co. Supervisor Dist #2,,,Under Votes,27.0,35.0,62.0
+Cherokee,#2 Cleghorn Precinct,Co. Supervisor Dist #2,,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,Co. Supervisor Dist #2,,Republican,Dennis Bush,194.0,268.0,462.0
+Cherokee,#3 Quimby Precinct,Co. Supervisor Dist #2,,Democratic,Larry Prunty,139.0,178.0,317.0
+Cherokee,#3 Quimby Precinct,Co. Supervisor Dist #2,,,Write-In,0.0,1.0,1.0
+Cherokee,#3 Quimby Precinct,Co. Supervisor Dist #2,,,Under Votes,23.0,34.0,57.0
+Cherokee,#3 Quimby Precinct,Co. Supervisor Dist #2,,,Over Votes,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,Co. Supervisor Dist #2,,Republican,Dennis Bush,176.0,240.0,416.0
+Cherokee,#4 Cherokee Precinct,Co. Supervisor Dist #2,,Democratic,Larry Prunty,111.0,178.0,289.0
+Cherokee,#4 Cherokee Precinct,Co. Supervisor Dist #2,,,Write-In,0.0,1.0,1.0
+Cherokee,#4 Cherokee Precinct,Co. Supervisor Dist #2,,,Under Votes,12.0,25.0,37.0
+Cherokee,#4 Cherokee Precinct,Co. Supervisor Dist #2,,,Over Votes,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Supervisor Dist #2,,Republican,Dennis Bush,203.0,291.0,494.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Supervisor Dist #2,,Democratic,Larry Prunty,200.0,226.0,426.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Supervisor Dist #2,,,Write-In,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Supervisor Dist #2,,,Under Votes,30.0,40.0,70.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Supervisor Dist #2,,,Over Votes,0.0,0.0,0.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Supervisor Dist #2,,Republican,Dennis Bush,101.0,176.0,277.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Supervisor Dist #2,,Democratic,Larry Prunty,141.0,247.0,388.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Supervisor Dist #2,,,Write-In,0.0,1.0,1.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Supervisor Dist #2,,,Under Votes,19.0,26.0,45.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Supervisor Dist #2,,,Over Votes,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Supervisor Dist #2,,Republican,Dennis Bush,176.0,229.0,405.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Supervisor Dist #2,,Democratic,Larry Prunty,170.0,247.0,417.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Supervisor Dist #2,,,Write-In,0.0,2.0,2.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Supervisor Dist #2,,,Under Votes,27.0,32.0,59.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Supervisor Dist #2,,,Over Votes,0.0,0.0,0.0
+Cherokee,,Co. Supervisor Dist #2,,Republican,Dennis Bush,1261.0,1954.0,3215.0
+Cherokee,,Co. Supervisor Dist #2,,Democratic,Larry Prunty,1080.0,1703.0,2783.0
+Cherokee,,Co. Supervisor Dist #2,,,Write-In,2.0,7.0,9.0
+Cherokee,,Co. Supervisor Dist #2,,,Under Votes,159.0,272.0,431.0
+Cherokee,,Co. Supervisor Dist #2,,,Over Votes,1.0,0.0,1.0
+Cherokee,#1 Aurelia Precinct,Co. Supervisor Dist #5,,Republican,Ginger Walker,167.0,384.0,551.0
+Cherokee,#1 Aurelia Precinct,Co. Supervisor Dist #5,,Democratic,Marci Brown,98.0,227.0,325.0
+Cherokee,#1 Aurelia Precinct,Co. Supervisor Dist #5,,,Write-In,0.0,0.0,0.0
+Cherokee,#1 Aurelia Precinct,Co. Supervisor Dist #5,,,Under Votes,20.0,57.0,77.0
+Cherokee,#1 Aurelia Precinct,Co. Supervisor Dist #5,,,Over Votes,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,Co. Supervisor Dist #5,,Republican,Ginger Walker,275.0,474.0,749.0
+Cherokee,#2 Cleghorn Precinct,Co. Supervisor Dist #5,,Democratic,Marci Brown,178.0,284.0,462.0
+Cherokee,#2 Cleghorn Precinct,Co. Supervisor Dist #5,,,Write-In,3.0,2.0,5.0
+Cherokee,#2 Cleghorn Precinct,Co. Supervisor Dist #5,,,Under Votes,39.0,66.0,105.0
+Cherokee,#2 Cleghorn Precinct,Co. Supervisor Dist #5,,,Over Votes,1.0,0.0,1.0
+Cherokee,#3 Quimby Precinct,Co. Supervisor Dist #5,,Republican,Ginger Walker,193.0,292.0,485.0
+Cherokee,#3 Quimby Precinct,Co. Supervisor Dist #5,,Democratic,Marci Brown,134.0,157.0,291.0
+Cherokee,#3 Quimby Precinct,Co. Supervisor Dist #5,,,Write-In,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,Co. Supervisor Dist #5,,,Under Votes,29.0,32.0,61.0
+Cherokee,#3 Quimby Precinct,Co. Supervisor Dist #5,,,Over Votes,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,Co. Supervisor Dist #5,,Republican,Ginger Walker,173.0,296.0,469.0
+Cherokee,#4 Cherokee Precinct,Co. Supervisor Dist #5,,Democratic,Marci Brown,118.0,125.0,243.0
+Cherokee,#4 Cherokee Precinct,Co. Supervisor Dist #5,,,Write-In,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,Co. Supervisor Dist #5,,,Under Votes,8.0,23.0,31.0
+Cherokee,#4 Cherokee Precinct,Co. Supervisor Dist #5,,,Over Votes,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Supervisor Dist #5,,Republican,Ginger Walker,210.0,329.0,539.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Supervisor Dist #5,,Democratic,Marci Brown,201.0,197.0,398.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Supervisor Dist #5,,,Write-In,0.0,1.0,1.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Supervisor Dist #5,,,Under Votes,22.0,30.0,52.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Supervisor Dist #5,,,Over Votes,0.0,0.0,0.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Supervisor Dist #5,,Republican,Ginger Walker,110.0,239.0,349.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Supervisor Dist #5,,Democratic,Marci Brown,134.0,197.0,331.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Supervisor Dist #5,,,Write-In,0.0,1.0,1.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Supervisor Dist #5,,,Under Votes,17.0,13.0,30.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Supervisor Dist #5,,,Over Votes,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Supervisor Dist #5,,Republican,Ginger Walker,189.0,262.0,451.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Supervisor Dist #5,,Democratic,Marci Brown,159.0,219.0,378.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Supervisor Dist #5,,,Write-In,0.0,3.0,3.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Supervisor Dist #5,,,Under Votes,25.0,26.0,51.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Supervisor Dist #5,,,Over Votes,0.0,0.0,0.0
+Cherokee,,Co. Supervisor Dist #5,,Republican,Ginger Walker,1317.0,2276.0,3593.0
+Cherokee,,Co. Supervisor Dist #5,,Democratic,Marci Brown,1022.0,1406.0,2428.0
+Cherokee,,Co. Supervisor Dist #5,,,Write-In,3.0,7.0,10.0
+Cherokee,,Co. Supervisor Dist #5,,,Under Votes,160.0,247.0,407.0
+Cherokee,,Co. Supervisor Dist #5,,,Over Votes,1.0,0.0,1.0
+Cherokee,#1 Aurelia Precinct,County Auditor,,Republican,Kris Glienke,223.0,539.0,762.0
+Cherokee,#1 Aurelia Precinct,County Auditor,,,Write-In,3.0,9.0,12.0
+Cherokee,#1 Aurelia Precinct,County Auditor,,,Under Votes,59.0,120.0,179.0
+Cherokee,#1 Aurelia Precinct,County Auditor,,,Over Votes,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,County Auditor,,Republican,Kris Glienke,392.0,661.0,1053.0
+Cherokee,#2 Cleghorn Precinct,County Auditor,,,Write-In,7.0,7.0,14.0
+Cherokee,#2 Cleghorn Precinct,County Auditor,,,Under Votes,97.0,158.0,255.0
+Cherokee,#2 Cleghorn Precinct,County Auditor,,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,County Auditor,,Republican,Kris Glienke,260.0,383.0,643.0
+Cherokee,#3 Quimby Precinct,County Auditor,,,Write-In,0.0,1.0,1.0
+Cherokee,#3 Quimby Precinct,County Auditor,,,Under Votes,96.0,97.0,193.0
+Cherokee,#3 Quimby Precinct,County Auditor,,,Over Votes,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,County Auditor,,Republican,Kris Glienke,229.0,348.0,577.0
+Cherokee,#4 Cherokee Precinct,County Auditor,,,Write-In,3.0,3.0,6.0
+Cherokee,#4 Cherokee Precinct,County Auditor,,,Under Votes,67.0,93.0,160.0
+Cherokee,#4 Cherokee Precinct,County Auditor,,,Over Votes,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,County Auditor,,Republican,Kris Glienke,307.0,442.0,749.0
+Cherokee,#5 Cherokee Ward 1 Precinct,County Auditor,,,Write-In,2.0,5.0,7.0
+Cherokee,#5 Cherokee Ward 1 Precinct,County Auditor,,,Under Votes,124.0,110.0,234.0
+Cherokee,#5 Cherokee Ward 1 Precinct,County Auditor,,,Over Votes,0.0,0.0,0.0
+Cherokee,#6 Cherokee Ward 2 Precinct,County Auditor,,Republican,Kris Glienke,168.0,339.0,507.0
+Cherokee,#6 Cherokee Ward 2 Precinct,County Auditor,,,Write-In,2.0,3.0,5.0
+Cherokee,#6 Cherokee Ward 2 Precinct,County Auditor,,,Under Votes,91.0,108.0,199.0
+Cherokee,#6 Cherokee Ward 2 Precinct,County Auditor,,,Over Votes,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,County Auditor,,Republican,Kris Glienke,255.0,378.0,633.0
+Cherokee,#7 Cherokee Ward 3 Precinct,County Auditor,,,Write-In,6.0,7.0,13.0
+Cherokee,#7 Cherokee Ward 3 Precinct,County Auditor,,,Under Votes,112.0,125.0,237.0
+Cherokee,#7 Cherokee Ward 3 Precinct,County Auditor,,,Over Votes,0.0,0.0,0.0
+Cherokee,,County Auditor,,Republican,Kris Glienke,1834.0,3090.0,4924.0
+Cherokee,,County Auditor,,,Write-In,23.0,35.0,58.0
+Cherokee,,County Auditor,,,Under Votes,646.0,811.0,1457.0
+Cherokee,,County Auditor,,,Over Votes,0.0,0.0,0.0
+Cherokee,#1 Aurelia Precinct,County Sheriff,,Republican,Dave Scott,204.0,515.0,719.0
+Cherokee,#1 Aurelia Precinct,County Sheriff,,,Write-In,4.0,14.0,18.0
+Cherokee,#1 Aurelia Precinct,County Sheriff,,,Under Votes,77.0,139.0,216.0
+Cherokee,#1 Aurelia Precinct,County Sheriff,,,Over Votes,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,County Sheriff,,Republican,Dave Scott,405.0,694.0,1099.0
+Cherokee,#2 Cleghorn Precinct,County Sheriff,,,Write-In,12.0,21.0,33.0
+Cherokee,#2 Cleghorn Precinct,County Sheriff,,,Under Votes,79.0,111.0,190.0
+Cherokee,#2 Cleghorn Precinct,County Sheriff,,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,County Sheriff,,Republican,Dave Scott,271.0,376.0,647.0
+Cherokee,#3 Quimby Precinct,County Sheriff,,,Write-In,2.0,19.0,21.0
+Cherokee,#3 Quimby Precinct,County Sheriff,,,Under Votes,83.0,86.0,169.0
+Cherokee,#3 Quimby Precinct,County Sheriff,,,Over Votes,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,County Sheriff,,Republican,Dave Scott,234.0,359.0,593.0
+Cherokee,#4 Cherokee Precinct,County Sheriff,,,Write-In,0.0,15.0,15.0
+Cherokee,#4 Cherokee Precinct,County Sheriff,,,Under Votes,65.0,70.0,135.0
+Cherokee,#4 Cherokee Precinct,County Sheriff,,,Over Votes,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,County Sheriff,,Republican,Dave Scott,305.0,441.0,746.0
+Cherokee,#5 Cherokee Ward 1 Precinct,County Sheriff,,,Write-In,3.0,26.0,29.0
+Cherokee,#5 Cherokee Ward 1 Precinct,County Sheriff,,,Under Votes,125.0,90.0,215.0
+Cherokee,#5 Cherokee Ward 1 Precinct,County Sheriff,,,Over Votes,0.0,0.0,0.0
+Cherokee,#6 Cherokee Ward 2 Precinct,County Sheriff,,Republican,Dave Scott,170.0,328.0,498.0
+Cherokee,#6 Cherokee Ward 2 Precinct,County Sheriff,,,Write-In,9.0,30.0,39.0
+Cherokee,#6 Cherokee Ward 2 Precinct,County Sheriff,,,Under Votes,82.0,92.0,174.0
+Cherokee,#6 Cherokee Ward 2 Precinct,County Sheriff,,,Over Votes,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,County Sheriff,,Republican,Dave Scott,260.0,383.0,643.0
+Cherokee,#7 Cherokee Ward 3 Precinct,County Sheriff,,,Write-In,8.0,18.0,26.0
+Cherokee,#7 Cherokee Ward 3 Precinct,County Sheriff,,,Under Votes,105.0,109.0,214.0
+Cherokee,#7 Cherokee Ward 3 Precinct,County Sheriff,,,Over Votes,0.0,0.0,0.0
+Cherokee,,County Sheriff,,Republican,Dave Scott,1849.0,3096.0,4945.0
+Cherokee,,County Sheriff,,,Write-In,38.0,143.0,181.0
+Cherokee,,County Sheriff,,,Under Votes,616.0,697.0,1313.0
+Cherokee,,County Sheriff,,,Over Votes,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,Amherst Twp Trustee,,,Clark Rainboth,48.0,86.0,134.0
+Cherokee,#2 Cleghorn Precinct,Amherst Twp Trustee,,,Write-In,1.0,1.0,2.0
+Cherokee,#2 Cleghorn Precinct,Amherst Twp Trustee,,,Under Votes,2.0,5.0,7.0
+Cherokee,#2 Cleghorn Precinct,Amherst Twp Trustee,,,Over Votes,0.0,0.0,0.0
+Cherokee,,Amherst Twp Trustee,,,Clark Rainboth,48.0,86.0,134.0
+Cherokee,,Amherst Twp Trustee,,,Write-In,1.0,1.0,2.0
+Cherokee,,Amherst Twp Trustee,,,Under Votes,2.0,5.0,7.0
+Cherokee,,Amherst Twp Trustee,,,Over Votes,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,Marcus Twp Trustee,,,Paul Wilberding,26.0,40.0,66.0
+Cherokee,#2 Cleghorn Precinct,Marcus Twp Trustee,,,Write-In,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,Marcus Twp Trustee,,,Under Votes,4.0,10.0,14.0
+Cherokee,#2 Cleghorn Precinct,Marcus Twp Trustee,,,Over Votes,0.0,0.0,0.0
+Cherokee,,Marcus Twp Trustee,,,Paul Wilberding,26.0,40.0,66.0
+Cherokee,,Marcus Twp Trustee,,,Write-In,0.0,0.0,0.0
+Cherokee,,Marcus Twp Trustee,,,Under Votes,4.0,10.0,14.0
+Cherokee,,Marcus Twp Trustee,,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,Grand Meadow Twp Trustee,,,Arnold Dawson,40.0,68.0,108.0
+Cherokee,#3 Quimby Precinct,Grand Meadow Twp Trustee,,,Mark Bunham,31.0,36.0,67.0
+Cherokee,#3 Quimby Precinct,Grand Meadow Twp Trustee,,,Write-In,0.0,1.0,1.0
+Cherokee,#3 Quimby Precinct,Grand Meadow Twp Trustee,,,Under Votes,15006.0,39004.0,54010.0
+Cherokee,#3 Quimby Precinct,Grand Meadow Twp Trustee,,,Over Votes,0.0,0.0,0.0
+Cherokee,,Grand Meadow Twp Trustee,,,Arnold Dawson,40.0,68.0,108.0
+Cherokee,,Grand Meadow Twp Trustee,,,Mark Bunham,31.0,36.0,67.0
+Cherokee,,Grand Meadow Twp Trustee,,,Write-In,0.0,1.0,1.0
+Cherokee,,Grand Meadow Twp Trustee,,,Under Votes,15006.0,39004.0,54010.0
+Cherokee,,Grand Meadow Twp Trustee,,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,Rock Twp Trustee,,,Write-In,10.0,19.0,29.0
+Cherokee,#3 Quimby Precinct,Rock Twp Trustee,,,Under Votes,6055.0,9045.0,15100.0
+Cherokee,#3 Quimby Precinct,Rock Twp Trustee,,,Over Votes,0.0,0.0,0.0
+Cherokee,,Rock Twp Trustee,,,Write-In,10.0,19.0,29.0
+Cherokee,,Rock Twp Trustee,,,Under Votes,6055.0,9045.0,15100.0
+Cherokee,,Rock Twp Trustee,,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,Tilden Twp Trustee,,,Jerry D. Johnson,43.0,28.0,71.0
+Cherokee,#3 Quimby Precinct,Tilden Twp Trustee,,,Bradley W. Coburn,43.0,25.0,68.0
+Cherokee,#3 Quimby Precinct,Tilden Twp Trustee,,,Write-In,1.0,0.0,1.0
+Cherokee,#3 Quimby Precinct,Tilden Twp Trustee,,,Under Votes,9006.0,21004.0,30010.0
+Cherokee,#3 Quimby Precinct,Tilden Twp Trustee,,,Over Votes,0.0,0.0,0.0
+Cherokee,,Tilden Twp Trustee,,,Jerry D. Johnson,43.0,28.0,71.0
+Cherokee,,Tilden Twp Trustee,,,Bradley W. Coburn,43.0,25.0,68.0
+Cherokee,,Tilden Twp Trustee,,,Write-In,1.0,0.0,1.0
+Cherokee,,Tilden Twp Trustee,,,Under Votes,9006.0,21004.0,30010.0
+Cherokee,,Tilden Twp Trustee,,,Over Votes,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,Amherst Twp Clerk,,,Write-In,6.0,3.0,9.0
+Cherokee,#2 Cleghorn Precinct,Amherst Twp Clerk,,,Under Votes,45.0,89.0,134.0
+Cherokee,#2 Cleghorn Precinct,Amherst Twp Clerk,,,Over Votes,0.0,0.0,0.0
+Cherokee,,Amherst Twp Clerk,,,Write-In,6.0,3.0,9.0
+Cherokee,,Amherst Twp Clerk,,,Under Votes,45.0,89.0,134.0
+Cherokee,,Amherst Twp Clerk,,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,Grand MeadowTwp Clerk,,,Philip Ladenthin,39.0,67.0,106.0
+Cherokee,#3 Quimby Precinct,Grand MeadowTwp Clerk,,,Write-In,0.0,1.0,1.0
+Cherokee,#3 Quimby Precinct,Grand MeadowTwp Clerk,,,Under Votes,10.0,8.0,18.0
+Cherokee,#3 Quimby Precinct,Grand MeadowTwp Clerk,,,Over Votes,0.0,0.0,0.0
+Cherokee,,Grand MeadowTwp Clerk,,,Philip Ladenthin,39.0,67.0,106.0
+Cherokee,,Grand MeadowTwp Clerk,,,Write-In,0.0,1.0,1.0
+Cherokee,,Grand MeadowTwp Clerk,,,Under Votes,10.0,8.0,18.0
+Cherokee,,Grand MeadowTwp Clerk,,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,Rock Twp Clerk,,,Richard Ravnsborg,42.0,50.0,92.0
+Cherokee,#3 Quimby Precinct,Rock Twp Clerk,,,Write-In,2.0,0.0,2.0
+Cherokee,#3 Quimby Precinct,Rock Twp Clerk,,,Under Votes,19.0,9.0,28.0
+Cherokee,#3 Quimby Precinct,Rock Twp Clerk,,,Over Votes,0.0,0.0,0.0
+Cherokee,,Rock Twp Clerk,,,Richard Ravnsborg,42.0,50.0,92.0
+Cherokee,,Rock Twp Clerk,,,Write-In,2.0,0.0,2.0
+Cherokee,,Rock Twp Clerk,,,Under Votes,19.0,9.0,28.0
+Cherokee,,Rock Twp Clerk,,,Over Votes,0.0,0.0,0.0
+Cherokee,#1 Aurelia Precinct,Soil & Water Dist Comm,,,Thomas Bindner,150.0,319.0,469.0
+Cherokee,#1 Aurelia Precinct,Soil & Water Dist Comm,,,Brian Mugge,150.0,332.0,482.0
+Cherokee,#1 Aurelia Precinct,Soil & Water Dist Comm,,,Gary Otto,194.0,493.0,687.0
+Cherokee,#1 Aurelia Precinct,Soil & Water Dist Comm,,,Write-In,0.0,7.0,7.0
+Cherokee,#1 Aurelia Precinct,Soil & Water Dist Comm,,,Under Votes,154069.0,496119.0,650188.0
+Cherokee,#1 Aurelia Precinct,Soil & Water Dist Comm,,,Over Votes,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,Soil & Water Dist Comm,,,Thomas Bindner,313.0,466.0,779.0
+Cherokee,#2 Cleghorn Precinct,Soil & Water Dist Comm,,,Brian Mugge,333.0,516.0,849.0
+Cherokee,#2 Cleghorn Precinct,Soil & Water Dist Comm,,,Gary Otto,269.0,400.0,669.0
+Cherokee,#2 Cleghorn Precinct,Soil & Water Dist Comm,,,Write-In,10.0,7.0,17.0
+Cherokee,#2 Cleghorn Precinct,Soil & Water Dist Comm,,,Under Votes,359068.0,675138.0,1034206.0
+Cherokee,#2 Cleghorn Precinct,Soil & Water Dist Comm,,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,Soil & Water Dist Comm,,,Thomas Bindner,199.0,258.0,457.0
+Cherokee,#3 Quimby Precinct,Soil & Water Dist Comm,,,Brian Mugge,206.0,261.0,467.0
+Cherokee,#3 Quimby Precinct,Soil & Water Dist Comm,,,Gary Otto,209.0,274.0,483.0
+Cherokee,#3 Quimby Precinct,Soil & Water Dist Comm,,,Write-In,4.0,5.0,9.0
+Cherokee,#3 Quimby Precinct,Soil & Water Dist Comm,,,Under Votes,141103.0,333104.0,474207.0
+Cherokee,#3 Quimby Precinct,Soil & Water Dist Comm,,,Over Votes,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,Soil & Water Dist Comm,,,Thomas Bindner,152.0,214.0,366.0
+Cherokee,#4 Cherokee Precinct,Soil & Water Dist Comm,,,Brian Mugge,160.0,241.0,401.0
+Cherokee,#4 Cherokee Precinct,Soil & Water Dist Comm,,,Gary Otto,166.0,261.0,427.0
+Cherokee,#4 Cherokee Precinct,Soil & Water Dist Comm,,,Write-In,2.0,2.0,4.0
+Cherokee,#4 Cherokee Precinct,Soil & Water Dist Comm,,,Under Votes,120099.0,296106.0,416205.0
+Cherokee,#4 Cherokee Precinct,Soil & Water Dist Comm,,,Over Votes,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Soil & Water Dist Comm,,,Thomas Bindner,246.0,340.0,586.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Soil & Water Dist Comm,,,Brian Mugge,257.0,344.0,601.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Soil & Water Dist Comm,,,Gary Otto,260.0,354.0,614.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Soil & Water Dist Comm,,,Write-In,0.0,1.0,1.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Soil & Water Dist Comm,,,Under Votes,188116.0,269121.0,457237.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Soil & Water Dist Comm,,,Over Votes,0.0,0.0,0.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Soil & Water Dist Comm,,,Thomas Bindner,115.0,208.0,323.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Soil & Water Dist Comm,,,Brian Mugge,135.0,233.0,368.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Soil & Water Dist Comm,,,Gary Otto,128.0,238.0,366.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Soil & Water Dist Comm,,,Write-In,0.0,1.0,1.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Soil & Water Dist Comm,,,Under Votes,168079.0,301123.0,469202.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Soil & Water Dist Comm,,,Over Votes,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Soil & Water Dist Comm,,,Thomas Bindner,186.0,281.0,467.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Soil & Water Dist Comm,,,Brian Mugge,205.0,308.0,513.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Soil & Water Dist Comm,,,Gary Otto,221.0,315.0,536.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Soil & Water Dist Comm,,,Write-In,0.0,4.0,4.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Soil & Water Dist Comm,,,Under Votes,177110.0,235128.0,412238.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Soil & Water Dist Comm,,,Over Votes,0.0,1.0,1.0
+Cherokee,,Soil & Water Dist Comm,,,Thomas Bindner,1361.0,2086.0,3447.0
+Cherokee,,Soil & Water Dist Comm,,,Brian Mugge,1446.0,2235.0,3681.0
+Cherokee,,Soil & Water Dist Comm,,,Gary Otto,1447.0,2335.0,3782.0
+Cherokee,,Soil & Water Dist Comm,,,Write-In,16.0,27.0,43.0
+Cherokee,,Soil & Water Dist Comm,,,Under Votes,1307644.0,2605839.0,3913483.0
+Cherokee,,Soil & Water Dist Comm,,,Over Votes,0.0,1.0,1.0
+Cherokee,#1 Aurelia Precinct,Co. Agri Extension Council,,,David Whited,159.0,326.0,485.0
+Cherokee,#1 Aurelia Precinct,Co. Agri Extension Council,,,Barbara Kindwall,159.0,366.0,525.0
+Cherokee,#1 Aurelia Precinct,Co. Agri Extension Council,,,Chuck Clark,147.0,362.0,509.0
+Cherokee,#1 Aurelia Precinct,Co. Agri Extension Council,,,Write-In,6.0,26.0,32.0
+Cherokee,#1 Aurelia Precinct,Co. Agri Extension Council,,,Under Votes,317088.0,832190.0,1149278.0
+Cherokee,#1 Aurelia Precinct,Co. Agri Extension Council,,,Over Votes,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,Co. Agri Extension Council,,,David Whited,382.0,574.0,956.0
+Cherokee,#2 Cleghorn Precinct,Co. Agri Extension Council,,,Barbara Kindwall,257.0,379.0,636.0
+Cherokee,#2 Cleghorn Precinct,Co. Agri Extension Council,,,Chuck Clark,270.0,375.0,645.0
+Cherokee,#2 Cleghorn Precinct,Co. Agri Extension Council,,,Write-In,24.0,18.0,42.0
+Cherokee,#2 Cleghorn Precinct,Co. Agri Extension Council,,,Under Votes,783067.0,1362149.0,2145216.0
+Cherokee,#2 Cleghorn Precinct,Co. Agri Extension Council,,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,Co. Agri Extension Council,,,David Whited,216.0,279.0,495.0
+Cherokee,#3 Quimby Precinct,Co. Agri Extension Council,,,Barbara Kindwall,186.0,240.0,426.0
+Cherokee,#3 Quimby Precinct,Co. Agri Extension Council,,,Chuck Clark,191.0,250.0,441.0
+Cherokee,#3 Quimby Precinct,Co. Agri Extension Council,,,Write-In,14.0,14.0,28.0
+Cherokee,#3 Quimby Precinct,Co. Agri Extension Council,,,Under Votes,437095.0,721105.0,1158200.0
+Cherokee,#3 Quimby Precinct,Co. Agri Extension Council,,,Over Votes,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,Co. Agri Extension Council,,,David Whited,158.0,226.0,384.0
+Cherokee,#4 Cherokee Precinct,Co. Agri Extension Council,,,Barbara Kindwall,158.0,229.0,387.0
+Cherokee,#4 Cherokee Precinct,Co. Agri Extension Council,,,Chuck Clark,152.0,217.0,369.0
+Cherokee,#4 Cherokee Precinct,Co. Agri Extension Council,,,Write-In,22.0,20.0,42.0
+Cherokee,#4 Cherokee Precinct,Co. Agri Extension Council,,,Under Votes,310099.0,624115.0,934214.0
+Cherokee,#4 Cherokee Precinct,Co. Agri Extension Council,,,Over Votes,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Agri Extension Council,,,David Whited,235.0,322.0,557.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Agri Extension Council,,,Barbara Kindwall,258.0,342.0,600.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Agri Extension Council,,,Chuck Clark,242.0,344.0,586.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Agri Extension Council,,,Write-In,5.0,20.0,25.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Agri Extension Council,,,Under Votes,516119.0,680130.0,1196249.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Co. Agri Extension Council,,,Over Votes,0.0,0.0,0.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Agri Extension Council,,,David Whited,112.0,196.0,308.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Agri Extension Council,,,Barbara Kindwall,128.0,228.0,356.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Agri Extension Council,,,Chuck Clark,136.0,242.0,378.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Agri Extension Council,,,Write-In,4.0,6.0,10.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Agri Extension Council,,,Under Votes,392068.0,652119.0,1044187.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Co. Agri Extension Council,,,Over Votes,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Agri Extension Council,,,David Whited,187.0,284.0,471.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Agri Extension Council,,,Barbara Kindwall,199.0,300.0,499.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Agri Extension Council,,,Chuck Clark,209.0,301.0,510.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Agri Extension Council,,,Write-In,1.0,20.0,21.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Agri Extension Council,,,Under Votes,492101.0,639124.0,1131225.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Co. Agri Extension Council,,,Over Votes,0.0,0.0,0.0
+Cherokee,,Co. Agri Extension Council,,,David Whited,1449.0,2207.0,3656.0
+Cherokee,,Co. Agri Extension Council,,,Barbara Kindwall,1345.0,2084.0,3429.0
+Cherokee,,Co. Agri Extension Council,,,Chuck Clark,1347.0,2091.0,3438.0
+Cherokee,,Co. Agri Extension Council,,,Write-In,76.0,124.0,200.0
+Cherokee,,Co. Agri Extension Council,,,Under Votes,3247637.0,5510932.0,8758569.0
+Cherokee,,Co. Agri Extension Council,,,Over Votes,0.0,0.0,0.0
+Cherokee,#1 Aurelia Precinct,Supreme Court Justice Edward Mansfield,,,Yes,148.0,292.0,440.0
+Cherokee,#1 Aurelia Precinct,Supreme Court Justice Edward Mansfield,,,No,52.0,147.0,199.0
+Cherokee,#1 Aurelia Precinct,Supreme Court Justice Edward Mansfield,,,Under Votes,84.0,229.0,313.0
+Cherokee,#1 Aurelia Precinct,Supreme Court Justice Edward Mansfield,,,Over Votes,1.0,0.0,1.0
+Cherokee,#2 Cleghorn Precinct,Supreme Court Justice Edward Mansfield,,,Yes,246.0,399.0,645.0
+Cherokee,#2 Cleghorn Precinct,Supreme Court Justice Edward Mansfield,,,No,126.0,196.0,322.0
+Cherokee,#2 Cleghorn Precinct,Supreme Court Justice Edward Mansfield,,,Under Votes,124.0,231.0,355.0
+Cherokee,#2 Cleghorn Precinct,Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,Supreme Court Justice Edward Mansfield,,,Yes,153.0,209.0,362.0
+Cherokee,#3 Quimby Precinct,Supreme Court Justice Edward Mansfield,,,No,95.0,145.0,240.0
+Cherokee,#3 Quimby Precinct,Supreme Court Justice Edward Mansfield,,,Under Votes,108.0,127.0,235.0
+Cherokee,#3 Quimby Precinct,Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,Supreme Court Justice Edward Mansfield,,,Yes,144.0,203.0,347.0
+Cherokee,#4 Cherokee Precinct,Supreme Court Justice Edward Mansfield,,,No,68.0,109.0,177.0
+Cherokee,#4 Cherokee Precinct,Supreme Court Justice Edward Mansfield,,,Under Votes,87.0,132.0,219.0
+Cherokee,#4 Cherokee Precinct,Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Supreme Court Justice Edward Mansfield,,,Yes,224.0,296.0,520.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Supreme Court Justice Edward Mansfield,,,No,65.0,130.0,195.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Supreme Court Justice Edward Mansfield,,,Under Votes,144.0,131.0,275.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,0.0,0.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Supreme Court Justice Edward Mansfield,,,Yes,135.0,210.0,345.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Supreme Court Justice Edward Mansfield,,,No,47.0,107.0,154.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Supreme Court Justice Edward Mansfield,,,Under Votes,79.0,133.0,212.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Supreme Court Justice Edward Mansfield,,,Yes,172.0,244.0,416.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Supreme Court Justice Edward Mansfield,,,No,77.0,100.0,177.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Supreme Court Justice Edward Mansfield,,,Under Votes,124.0,164.0,288.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Supreme Court Justice Edward Mansfield,,,Over Votes,0.0,2.0,2.0
+Cherokee,,Supreme Court Justice Edward Mansfield,,,Yes,1222.0,1853.0,3075.0
+Cherokee,,Supreme Court Justice Edward Mansfield,,,No,530.0,934.0,1464.0
+Cherokee,,Supreme Court Justice Edward Mansfield,,,Under Votes,750.0,1147.0,1897.0
+Cherokee,,Supreme Court Justice Edward Mansfield,,,Over Votes,1.0,2.0,3.0
+Cherokee,#1 Aurelia Precinct,Supreme Court Justice Thomas D. Waterman,,,Yes,153.0,303.0,456.0
+Cherokee,#1 Aurelia Precinct,Supreme Court Justice Thomas D. Waterman,,,No,52.0,163.0,215.0
+Cherokee,#1 Aurelia Precinct,Supreme Court Justice Thomas D. Waterman,,,Under Votes,80.0,202.0,282.0
+Cherokee,#1 Aurelia Precinct,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,Supreme Court Justice Thomas D. Waterman,,,Yes,249.0,430.0,679.0
+Cherokee,#2 Cleghorn Precinct,Supreme Court Justice Thomas D. Waterman,,,No,132.0,195.0,327.0
+Cherokee,#2 Cleghorn Precinct,Supreme Court Justice Thomas D. Waterman,,,Under Votes,115.0,201.0,316.0
+Cherokee,#2 Cleghorn Precinct,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,Supreme Court Justice Thomas D. Waterman,,,Yes,156.0,209.0,365.0
+Cherokee,#3 Quimby Precinct,Supreme Court Justice Thomas D. Waterman,,,No,96.0,148.0,244.0
+Cherokee,#3 Quimby Precinct,Supreme Court Justice Thomas D. Waterman,,,Under Votes,104.0,124.0,228.0
+Cherokee,#3 Quimby Precinct,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,Supreme Court Justice Thomas D. Waterman,,,Yes,148.0,213.0,361.0
+Cherokee,#4 Cherokee Precinct,Supreme Court Justice Thomas D. Waterman,,,No,71.0,110.0,181.0
+Cherokee,#4 Cherokee Precinct,Supreme Court Justice Thomas D. Waterman,,,Under Votes,80.0,121.0,201.0
+Cherokee,#4 Cherokee Precinct,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Supreme Court Justice Thomas D. Waterman,,,Yes,222.0,305.0,527.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Supreme Court Justice Thomas D. Waterman,,,No,71.0,130.0,201.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Supreme Court Justice Thomas D. Waterman,,,Under Votes,139.0,122.0,261.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Supreme Court Justice Thomas D. Waterman,,,Over Votes,1.0,0.0,1.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Supreme Court Justice Thomas D. Waterman,,,Yes,144.0,216.0,360.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Supreme Court Justice Thomas D. Waterman,,,No,42.0,109.0,151.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Supreme Court Justice Thomas D. Waterman,,,Under Votes,75.0,125.0,200.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Supreme Court Justice Thomas D. Waterman,,,Yes,177.0,258.0,435.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Supreme Court Justice Thomas D. Waterman,,,No,80.0,97.0,177.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Supreme Court Justice Thomas D. Waterman,,,Under Votes,116.0,155.0,271.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Supreme Court Justice Thomas D. Waterman,,,Over Votes,0.0,0.0,0.0
+Cherokee,,Supreme Court Justice Thomas D. Waterman,,,Yes,1249.0,1934.0,3183.0
+Cherokee,,Supreme Court Justice Thomas D. Waterman,,,No,544.0,952.0,1496.0
+Cherokee,,Supreme Court Justice Thomas D. Waterman,,,Under Votes,709.0,1050.0,1759.0
+Cherokee,,Supreme Court Justice Thomas D. Waterman,,,Over Votes,1.0,0.0,1.0
+Cherokee,#1 Aurelia Precinct,Supreme Court Justice David S. Wiggins,,,Yes,114.0,217.0,331.0
+Cherokee,#1 Aurelia Precinct,Supreme Court Justice David S. Wiggins,,,No,123.0,302.0,425.0
+Cherokee,#1 Aurelia Precinct,Supreme Court Justice David S. Wiggins,,,Under Votes,48.0,148.0,196.0
+Cherokee,#1 Aurelia Precinct,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,1.0,1.0
+Cherokee,#2 Cleghorn Precinct,Supreme Court Justice David S. Wiggins,,,Yes,171.0,272.0,443.0
+Cherokee,#2 Cleghorn Precinct,Supreme Court Justice David S. Wiggins,,,No,245.0,422.0,667.0
+Cherokee,#2 Cleghorn Precinct,Supreme Court Justice David S. Wiggins,,,Under Votes,80.0,132.0,212.0
+Cherokee,#2 Cleghorn Precinct,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,Supreme Court Justice David S. Wiggins,,,Yes,96.0,128.0,224.0
+Cherokee,#3 Quimby Precinct,Supreme Court Justice David S. Wiggins,,,No,177.0,257.0,434.0
+Cherokee,#3 Quimby Precinct,Supreme Court Justice David S. Wiggins,,,Under Votes,83.0,96.0,179.0
+Cherokee,#3 Quimby Precinct,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,Supreme Court Justice David S. Wiggins,,,Yes,110.0,135.0,245.0
+Cherokee,#4 Cherokee Precinct,Supreme Court Justice David S. Wiggins,,,No,138.0,236.0,374.0
+Cherokee,#4 Cherokee Precinct,Supreme Court Justice David S. Wiggins,,,Under Votes,51.0,73.0,124.0
+Cherokee,#4 Cherokee Precinct,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Supreme Court Justice David S. Wiggins,,,Yes,175.0,211.0,386.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Supreme Court Justice David S. Wiggins,,,No,160.0,271.0,431.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Supreme Court Justice David S. Wiggins,,,Under Votes,98.0,75.0,173.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Supreme Court Justice David S. Wiggins,,,Yes,103.0,151.0,254.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Supreme Court Justice David S. Wiggins,,,No,90.0,195.0,285.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Supreme Court Justice David S. Wiggins,,,Under Votes,68.0,104.0,172.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Supreme Court Justice David S. Wiggins,,,Yes,149.0,173.0,322.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Supreme Court Justice David S. Wiggins,,,No,121.0,214.0,335.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Supreme Court Justice David S. Wiggins,,,Under Votes,103.0,123.0,226.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,0.0,0.0
+Cherokee,,Supreme Court Justice David S. Wiggins,,,Yes,918.0,1287.0,2205.0
+Cherokee,,Supreme Court Justice David S. Wiggins,,,No,1054.0,1897.0,2951.0
+Cherokee,,Supreme Court Justice David S. Wiggins,,,Under Votes,531.0,751.0,1282.0
+Cherokee,,Supreme Court Justice David S. Wiggins,,,Over Votes,0.0,1.0,1.0
+Cherokee,#1 Aurelia Precinct,Supreme Court Justice Bruce B. Zager,,,Yes,150.0,288.0,438.0
+Cherokee,#1 Aurelia Precinct,Supreme Court Justice Bruce B. Zager,,,No,48.0,147.0,195.0
+Cherokee,#1 Aurelia Precinct,Supreme Court Justice Bruce B. Zager,,,Under Votes,87.0,233.0,320.0
+Cherokee,#1 Aurelia Precinct,Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,Supreme Court Justice Bruce B. Zager,,,Yes,243.0,404.0,647.0
+Cherokee,#2 Cleghorn Precinct,Supreme Court Justice Bruce B. Zager,,,No,128.0,187.0,315.0
+Cherokee,#2 Cleghorn Precinct,Supreme Court Justice Bruce B. Zager,,,Under Votes,125.0,235.0,360.0
+Cherokee,#2 Cleghorn Precinct,Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,Supreme Court Justice Bruce B. Zager,,,Yes,150.0,199.0,349.0
+Cherokee,#3 Quimby Precinct,Supreme Court Justice Bruce B. Zager,,,No,93.0,142.0,235.0
+Cherokee,#3 Quimby Precinct,Supreme Court Justice Bruce B. Zager,,,Under Votes,113.0,140.0,253.0
+Cherokee,#3 Quimby Precinct,Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,Supreme Court Justice Bruce B. Zager,,,Yes,142.0,200.0,342.0
+Cherokee,#4 Cherokee Precinct,Supreme Court Justice Bruce B. Zager,,,No,67.0,108.0,175.0
+Cherokee,#4 Cherokee Precinct,Supreme Court Justice Bruce B. Zager,,,Under Votes,90.0,136.0,226.0
+Cherokee,#4 Cherokee Precinct,Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Supreme Court Justice Bruce B. Zager,,,Yes,215.0,287.0,502.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Supreme Court Justice Bruce B. Zager,,,No,75.0,131.0,206.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Supreme Court Justice Bruce B. Zager,,,Under Votes,143.0,139.0,282.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,0.0,0.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Supreme Court Justice Bruce B. Zager,,,Yes,128.0,209.0,337.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Supreme Court Justice Bruce B. Zager,,,No,54.0,105.0,159.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Supreme Court Justice Bruce B. Zager,,,Under Votes,79.0,136.0,215.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Supreme Court Justice Bruce B. Zager,,,Yes,171.0,248.0,419.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Supreme Court Justice Bruce B. Zager,,,No,80.0,97.0,177.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Supreme Court Justice Bruce B. Zager,,,Under Votes,122.0,165.0,287.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,0.0,0.0
+Cherokee,,Supreme Court Justice Bruce B. Zager,,,Yes,1199.0,1835.0,3034.0
+Cherokee,,Supreme Court Justice Bruce B. Zager,,,No,545.0,917.0,1462.0
+Cherokee,,Supreme Court Justice Bruce B. Zager,,,Under Votes,759.0,1184.0,1943.0
+Cherokee,,Supreme Court Justice Bruce B. Zager,,,Over Votes,0.0,0.0,0.0
+Cherokee,#1 Aurelia Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,143.0,304.0,447.0
+Cherokee,#1 Aurelia Precinct,Court of Appeals Judge Michael R. Mullins,,,No,46.0,130.0,176.0
+Cherokee,#1 Aurelia Precinct,Court of Appeals Judge Michael R. Mullins,,,Under Votes,96.0,234.0,330.0
+Cherokee,#1 Aurelia Precinct,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,244.0,406.0,650.0
+Cherokee,#2 Cleghorn Precinct,Court of Appeals Judge Michael R. Mullins,,,No,113.0,180.0,293.0
+Cherokee,#2 Cleghorn Precinct,Court of Appeals Judge Michael R. Mullins,,,Under Votes,138.0,240.0,378.0
+Cherokee,#2 Cleghorn Precinct,Court of Appeals Judge Michael R. Mullins,,,Over Votes,1.0,0.0,1.0
+Cherokee,#3 Quimby Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,153.0,208.0,361.0
+Cherokee,#3 Quimby Precinct,Court of Appeals Judge Michael R. Mullins,,,No,84.0,133.0,217.0
+Cherokee,#3 Quimby Precinct,Court of Appeals Judge Michael R. Mullins,,,Under Votes,119.0,140.0,259.0
+Cherokee,#3 Quimby Precinct,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,146.0,212.0,358.0
+Cherokee,#4 Cherokee Precinct,Court of Appeals Judge Michael R. Mullins,,,No,55.0,93.0,148.0
+Cherokee,#4 Cherokee Precinct,Court of Appeals Judge Michael R. Mullins,,,Under Votes,98.0,139.0,237.0
+Cherokee,#4 Cherokee Precinct,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,222.0,307.0,529.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Court of Appeals Judge Michael R. Mullins,,,No,62.0,109.0,171.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Court of Appeals Judge Michael R. Mullins,,,Under Votes,149.0,141.0,290.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,0.0,0.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,135.0,222.0,357.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Court of Appeals Judge Michael R. Mullins,,,No,41.0,85.0,126.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Court of Appeals Judge Michael R. Mullins,,,Under Votes,85.0,143.0,228.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,174.0,258.0,432.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Court of Appeals Judge Michael R. Mullins,,,No,62.0,85.0,147.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Court of Appeals Judge Michael R. Mullins,,,Under Votes,137.0,167.0,304.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Court of Appeals Judge Michael R. Mullins,,,Over Votes,0.0,0.0,0.0
+Cherokee,,Court of Appeals Judge Michael R. Mullins,,,Yes,1217.0,1917.0,3134.0
+Cherokee,,Court of Appeals Judge Michael R. Mullins,,,No,463.0,815.0,1278.0
+Cherokee,,Court of Appeals Judge Michael R. Mullins,,,Under Votes,822.0,1204.0,2026.0
+Cherokee,,Court of Appeals Judge Michael R. Mullins,,,Over Votes,1.0,0.0,1.0
+Cherokee,#1 Aurelia Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,147.0,296.0,443.0
+Cherokee,#1 Aurelia Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,47.0,137.0,184.0
+Cherokee,#1 Aurelia Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,91.0,235.0,326.0
+Cherokee,#1 Aurelia Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,237.0,413.0,650.0
+Cherokee,#2 Cleghorn Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,122.0,175.0,297.0
+Cherokee,#2 Cleghorn Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,137.0,238.0,375.0
+Cherokee,#2 Cleghorn Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,151.0,212.0,363.0
+Cherokee,#3 Quimby Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,84.0,128.0,212.0
+Cherokee,#3 Quimby Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,121.0,141.0,262.0
+Cherokee,#3 Quimby Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,146.0,212.0,358.0
+Cherokee,#4 Cherokee Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,60.0,93.0,153.0
+Cherokee,#4 Cherokee Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,93.0,139.0,232.0
+Cherokee,#4 Cherokee Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,221.0,301.0,522.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,61.0,117.0,178.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,151.0,139.0,290.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,0.0,0.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,141.0,212.0,353.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,38.0,97.0,135.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,82.0,141.0,223.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,169.0,262.0,431.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,65.0,86.0,151.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,139.0,162.0,301.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,0.0,0.0
+Cherokee,,Court of Appeals Judge Mary Ellen Tabor,,,Yes,1212.0,1908.0,3120.0
+Cherokee,,Court of Appeals Judge Mary Ellen Tabor,,,No,477.0,833.0,1310.0
+Cherokee,,Court of Appeals Judge Mary Ellen Tabor,,,Under Votes,814.0,1195.0,2009.0
+Cherokee,,Court of Appeals Judge Mary Ellen Tabor,,,Over Votes,0.0,0.0,0.0
+Cherokee,#1 Aurelia Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,137.0,258.0,395.0
+Cherokee,#1 Aurelia Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,55.0,167.0,222.0
+Cherokee,#1 Aurelia Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,93.0,243.0,336.0
+Cherokee,#1 Aurelia Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,213.0,373.0,586.0
+Cherokee,#2 Cleghorn Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,142.0,215.0,357.0
+Cherokee,#2 Cleghorn Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,141.0,238.0,379.0
+Cherokee,#2 Cleghorn Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,126.0,181.0,307.0
+Cherokee,#3 Quimby Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,110.0,158.0,268.0
+Cherokee,#3 Quimby Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,120.0,142.0,262.0
+Cherokee,#3 Quimby Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,131.0,186.0,317.0
+Cherokee,#4 Cherokee Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,71.0,117.0,188.0
+Cherokee,#4 Cherokee Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,97.0,140.0,237.0
+Cherokee,#4 Cherokee Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,1.0,1.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,195.0,270.0,465.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,84.0,143.0,227.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,153.0,144.0,297.0
+Cherokee,#5 Cherokee Ward 1 Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,1.0,0.0,1.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,124.0,190.0,314.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,54.0,119.0,173.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,83.0,141.0,224.0
+Cherokee,#6 Cherokee Ward 2 Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,147.0,220.0,367.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,90.0,121.0,211.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,136.0,168.0,304.0
+Cherokee,#7 Cherokee Ward 3 Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,0.0,1.0,1.0
+Cherokee,,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,1073.0,1678.0,2751.0
+Cherokee,,Court of Appeals Judge Anuradha Vaitheswaran,,,No,606.0,1040.0,1646.0
+Cherokee,,Court of Appeals Judge Anuradha Vaitheswaran,,,Under Votes,823.0,1216.0,2039.0
+Cherokee,,Court of Appeals Judge Anuradha Vaitheswaran,,,Over Votes,1.0,2.0,3.0
+Cherokee,#1 Aurelia Precinct,District Court 3A Judge David A. Lester,,,Yes,153.0,298.0,451.0
+Cherokee,#1 Aurelia Precinct,District Court 3A Judge David A. Lester,,,No,42.0,138.0,180.0
+Cherokee,#1 Aurelia Precinct,District Court 3A Judge David A. Lester,,,Under Votes,90.0,232.0,322.0
+Cherokee,#1 Aurelia Precinct,District Court 3A Judge David A. Lester,,,Over Votes,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,District Court 3A Judge David A. Lester,,,Yes,237.0,404.0,641.0
+Cherokee,#2 Cleghorn Precinct,District Court 3A Judge David A. Lester,,,No,119.0,178.0,297.0
+Cherokee,#2 Cleghorn Precinct,District Court 3A Judge David A. Lester,,,Under Votes,140.0,244.0,384.0
+Cherokee,#2 Cleghorn Precinct,District Court 3A Judge David A. Lester,,,Over Votes,0.0,0.0,0.0
+Cherokee,#3 Quimby Precinct,District Court 3A Judge David A. Lester,,,Yes,147.0,220.0,367.0
+Cherokee,#3 Quimby Precinct,District Court 3A Judge David A. Lester,,,No,90.0,125.0,215.0
+Cherokee,#3 Quimby Precinct,District Court 3A Judge David A. Lester,,,Under Votes,119.0,136.0,255.0
+Cherokee,#3 Quimby Precinct,District Court 3A Judge David A. Lester,,,Over Votes,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,District Court 3A Judge David A. Lester,,,Yes,150.0,209.0,359.0
+Cherokee,#4 Cherokee Precinct,District Court 3A Judge David A. Lester,,,No,53.0,102.0,155.0
+Cherokee,#4 Cherokee Precinct,District Court 3A Judge David A. Lester,,,Under Votes,96.0,133.0,229.0
+Cherokee,#4 Cherokee Precinct,District Court 3A Judge David A. Lester,,,Over Votes,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,District Court 3A Judge David A. Lester,,,Yes,218.0,305.0,523.0
+Cherokee,#5 Cherokee Ward 1 Precinct,District Court 3A Judge David A. Lester,,,No,63.0,114.0,177.0
+Cherokee,#5 Cherokee Ward 1 Precinct,District Court 3A Judge David A. Lester,,,Under Votes,151.0,138.0,289.0
+Cherokee,#5 Cherokee Ward 1 Precinct,District Court 3A Judge David A. Lester,,,Over Votes,1.0,0.0,1.0
+Cherokee,#6 Cherokee Ward 2 Precinct,District Court 3A Judge David A. Lester,,,Yes,138.0,212.0,350.0
+Cherokee,#6 Cherokee Ward 2 Precinct,District Court 3A Judge David A. Lester,,,No,42.0,100.0,142.0
+Cherokee,#6 Cherokee Ward 2 Precinct,District Court 3A Judge David A. Lester,,,Under Votes,80.0,138.0,218.0
+Cherokee,#6 Cherokee Ward 2 Precinct,District Court 3A Judge David A. Lester,,,Over Votes,1.0,0.0,1.0
+Cherokee,#7 Cherokee Ward 3 Precinct,District Court 3A Judge David A. Lester,,,Yes,167.0,247.0,414.0
+Cherokee,#7 Cherokee Ward 3 Precinct,District Court 3A Judge David A. Lester,,,No,71.0,95.0,166.0
+Cherokee,#7 Cherokee Ward 3 Precinct,District Court 3A Judge David A. Lester,,,Under Votes,134.0,168.0,302.0
+Cherokee,#7 Cherokee Ward 3 Precinct,District Court 3A Judge David A. Lester,,,Over Votes,1.0,0.0,1.0
+Cherokee,,District Court 3A Judge David A. Lester,,,Yes,1210.0,1895.0,3105.0
+Cherokee,,District Court 3A Judge David A. Lester,,,No,480.0,852.0,1332.0
+Cherokee,,District Court 3A Judge David A. Lester,,,Under Votes,810.0,1189.0,1999.0
+Cherokee,,District Court 3A Judge David A. Lester,,,Over Votes,3.0,0.0,3.0
+Cherokee,#1 Aurelia Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Yes,146.0,309.0,455.0
+Cherokee,#1 Aurelia Precinct,District Court 3A Judge Nancy L. Whittenburg,,,No,49.0,142.0,191.0
+Cherokee,#1 Aurelia Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Under Votes,89.0,217.0,306.0
+Cherokee,#1 Aurelia Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Over Votes,1.0,0.0,1.0
+Cherokee,#2 Cleghorn Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Yes,236.0,414.0,650.0
+Cherokee,#2 Cleghorn Precinct,District Court 3A Judge Nancy L. Whittenburg,,,No,124.0,183.0,307.0
+Cherokee,#2 Cleghorn Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Under Votes,135.0,229.0,364.0
+Cherokee,#2 Cleghorn Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Over Votes,1.0,0.0,1.0
+Cherokee,#3 Quimby Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Yes,150.0,222.0,372.0
+Cherokee,#3 Quimby Precinct,District Court 3A Judge Nancy L. Whittenburg,,,No,90.0,128.0,218.0
+Cherokee,#3 Quimby Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Under Votes,114.0,131.0,245.0
+Cherokee,#3 Quimby Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Over Votes,2.0,0.0,2.0
+Cherokee,#4 Cherokee Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Yes,151.0,210.0,361.0
+Cherokee,#4 Cherokee Precinct,District Court 3A Judge Nancy L. Whittenburg,,,No,55.0,109.0,164.0
+Cherokee,#4 Cherokee Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Under Votes,93.0,124.0,217.0
+Cherokee,#4 Cherokee Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Over Votes,0.0,1.0,1.0
+Cherokee,#5 Cherokee Ward 1 Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Yes,215.0,301.0,516.0
+Cherokee,#5 Cherokee Ward 1 Precinct,District Court 3A Judge Nancy L. Whittenburg,,,No,66.0,121.0,187.0
+Cherokee,#5 Cherokee Ward 1 Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Under Votes,150.0,134.0,284.0
+Cherokee,#5 Cherokee Ward 1 Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Over Votes,2.0,1.0,3.0
+Cherokee,#6 Cherokee Ward 2 Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Yes,146.0,229.0,375.0
+Cherokee,#6 Cherokee Ward 2 Precinct,District Court 3A Judge Nancy L. Whittenburg,,,No,40.0,94.0,134.0
+Cherokee,#6 Cherokee Ward 2 Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Under Votes,75.0,127.0,202.0
+Cherokee,#6 Cherokee Ward 2 Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Over Votes,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Yes,174.0,258.0,432.0
+Cherokee,#7 Cherokee Ward 3 Precinct,District Court 3A Judge Nancy L. Whittenburg,,,No,69.0,90.0,159.0
+Cherokee,#7 Cherokee Ward 3 Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Under Votes,130.0,161.0,291.0
+Cherokee,#7 Cherokee Ward 3 Precinct,District Court 3A Judge Nancy L. Whittenburg,,,Over Votes,0.0,1.0,1.0
+Cherokee,,District Court 3A Judge Nancy L. Whittenburg,,,Yes,1218.0,1943.0,3161.0
+Cherokee,,District Court 3A Judge Nancy L. Whittenburg,,,No,493.0,867.0,1360.0
+Cherokee,,District Court 3A Judge Nancy L. Whittenburg,,,Under Votes,786.0,1123.0,1909.0
+Cherokee,,District Court 3A Judge Nancy L. Whittenburg,,,Over Votes,6.0,3.0,9.0
+Cherokee,#1 Aurelia Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Yes,145.0,310.0,455.0
+Cherokee,#1 Aurelia Precinct,District Court 3A Associate Judge Donald J. Bormann,,,No,48.0,130.0,178.0
+Cherokee,#1 Aurelia Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Under Votes,92.0,228.0,320.0
+Cherokee,#1 Aurelia Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Over Votes,0.0,0.0,0.0
+Cherokee,#2 Cleghorn Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Yes,240.0,409.0,649.0
+Cherokee,#2 Cleghorn Precinct,District Court 3A Associate Judge Donald J. Bormann,,,No,118.0,180.0,298.0
+Cherokee,#2 Cleghorn Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Under Votes,137.0,237.0,374.0
+Cherokee,#2 Cleghorn Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Over Votes,1.0,0.0,1.0
+Cherokee,#3 Quimby Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Yes,149.0,220.0,369.0
+Cherokee,#3 Quimby Precinct,District Court 3A Associate Judge Donald J. Bormann,,,No,89.0,129.0,218.0
+Cherokee,#3 Quimby Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Under Votes,118.0,132.0,250.0
+Cherokee,#3 Quimby Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Over Votes,0.0,0.0,0.0
+Cherokee,#4 Cherokee Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Yes,156.0,212.0,368.0
+Cherokee,#4 Cherokee Precinct,District Court 3A Associate Judge Donald J. Bormann,,,No,47.0,98.0,145.0
+Cherokee,#4 Cherokee Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Under Votes,96.0,134.0,230.0
+Cherokee,#4 Cherokee Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Over Votes,0.0,0.0,0.0
+Cherokee,#5 Cherokee Ward 1 Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Yes,220.0,303.0,523.0
+Cherokee,#5 Cherokee Ward 1 Precinct,District Court 3A Associate Judge Donald J. Bormann,,,No,60.0,114.0,174.0
+Cherokee,#5 Cherokee Ward 1 Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Under Votes,153.0,140.0,293.0
+Cherokee,#5 Cherokee Ward 1 Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Over Votes,0.0,0.0,0.0
+Cherokee,#6 Cherokee Ward 2 Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Yes,144.0,223.0,367.0
+Cherokee,#6 Cherokee Ward 2 Precinct,District Court 3A Associate Judge Donald J. Bormann,,,No,39.0,94.0,133.0
+Cherokee,#6 Cherokee Ward 2 Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Under Votes,78.0,133.0,211.0
+Cherokee,#6 Cherokee Ward 2 Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Over Votes,0.0,0.0,0.0
+Cherokee,#7 Cherokee Ward 3 Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Yes,174.0,254.0,428.0
+Cherokee,#7 Cherokee Ward 3 Precinct,District Court 3A Associate Judge Donald J. Bormann,,,No,66.0,89.0,155.0
+Cherokee,#7 Cherokee Ward 3 Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Under Votes,133.0,167.0,300.0
+Cherokee,#7 Cherokee Ward 3 Precinct,District Court 3A Associate Judge Donald J. Bormann,,,Over Votes,0.0,0.0,0.0
+Cherokee,,District Court 3A Associate Judge Donald J. Bormann,,,Yes,1228.0,1931.0,3159.0
+Cherokee,,District Court 3A Associate Judge Donald J. Bormann,,,No,467.0,834.0,1301.0
+Cherokee,,District Court 3A Associate Judge Donald J. Bormann,,,Under Votes,807.0,1171.0,1978.0
+Cherokee,,District Court 3A Associate Judge Donald J. Bormann,,,Over Votes,1.0,0.0,1.0
