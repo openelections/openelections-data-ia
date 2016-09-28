@@ -1,0 +1,411 @@
+county,precinct,office,district,party,candidate,absentee,polling,votes
+Henry,Central Precinct,U.S. Senator,,Rep,Sam Clovis,,,15.0
+Henry,Mt Pleasant Ward 1,U.S. Senator,,Rep,Sam Clovis,2.0,10.0,12.0
+Henry,Mt Pleasant Ward 2,U.S. Senator,,Rep,Sam Clovis,2.0,14.0,16.0
+Henry,Mt Pleasant Ward 3,U.S. Senator,,Rep,Sam Clovis,3.0,7.0,10.0
+Henry,Mt Pleasant Ward 4,U.S. Senator,,Rep,Sam Clovis,3.0,11.0,14.0
+Henry,Northeast Precinct,U.S. Senator,,Rep,Sam Clovis,3.0,12.0,15.0
+Henry,Northwest Precinct,U.S. Senator,,Rep,Sam Clovis,2.0,29.0,31.0
+Henry,Southeast Precinct,U.S. Senator,,Rep,Sam Clovis,0.0,14.0,14.0
+Henry,Southwest Precinct,U.S. Senator,,Rep,Sam Clovis,1.0,7.0,8.0
+Henry,,U.S. Senator,,Rep,Sam Clovis,,,137.0
+Henry,Central Precinct,U.S. Senator,,Rep,Joni Ernst,,,95.0
+Henry,Mt Pleasant Ward 1,U.S. Senator,,Rep,Joni Ernst,5.0,57.0,62.0
+Henry,Mt Pleasant Ward 2,U.S. Senator,,Rep,Joni Ernst,6.0,45.0,51.0
+Henry,Mt Pleasant Ward 3,U.S. Senator,,Rep,Joni Ernst,8.0,46.0,54.0
+Henry,Mt Pleasant Ward 4,U.S. Senator,,Rep,Joni Ernst,8.0,71.0,79.0
+Henry,Northeast Precinct,U.S. Senator,,Rep,Joni Ernst,10.0,87.0,97.0
+Henry,Northwest Precinct,U.S. Senator,,Rep,Joni Ernst,9.0,39.0,48.0
+Henry,Southeast Precinct,U.S. Senator,,Rep,Joni Ernst,7.0,100.0,107.0
+Henry,Southwest Precinct,U.S. Senator,,Rep,Joni Ernst,4.0,58.0,62.0
+Henry,,U.S. Senator,,Rep,Joni Ernst,,,680.0
+Henry,Central Precinct,U.S. Senator,,Rep,Mark Jacobs,,,36.0
+Henry,Mt Pleasant Ward 1,U.S. Senator,,Rep,Mark Jacobs,17.0,36.0,53.0
+Henry,Mt Pleasant Ward 2,U.S. Senator,,Rep,Mark Jacobs,1.0,21.0,22.0
+Henry,Mt Pleasant Ward 3,U.S. Senator,,Rep,Mark Jacobs,7.0,19.0,26.0
+Henry,Mt Pleasant Ward 4,U.S. Senator,,Rep,Mark Jacobs,4.0,33.0,37.0
+Henry,Northeast Precinct,U.S. Senator,,Rep,Mark Jacobs,4.0,22.0,26.0
+Henry,Northwest Precinct,U.S. Senator,,Rep,Mark Jacobs,2.0,21.0,23.0
+Henry,Southeast Precinct,U.S. Senator,,Rep,Mark Jacobs,4.0,19.0,23.0
+Henry,Southwest Precinct,U.S. Senator,,Rep,Mark Jacobs,4.0,23.0,27.0
+Henry,,U.S. Senator,,Rep,Mark Jacobs,,,288.0
+Henry,Central Precinct,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Henry,Mt Pleasant Ward 1,U.S. Senator,,Rep,Scott Schaben,1.0,1.0,2.0
+Henry,Mt Pleasant Ward 2,U.S. Senator,,Rep,Scott Schaben,1.0,1.0,2.0
+Henry,Mt Pleasant Ward 3,U.S. Senator,,Rep,Scott Schaben,1.0,0.0,1.0
+Henry,Mt Pleasant Ward 4,U.S. Senator,,Rep,Scott Schaben,1.0,1.0,2.0
+Henry,Northeast Precinct,U.S. Senator,,Rep,Scott Schaben,0.0,3.0,3.0
+Henry,Northwest Precinct,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Henry,Southeast Precinct,U.S. Senator,,Rep,Scott Schaben,1.0,1.0,2.0
+Henry,Southwest Precinct,U.S. Senator,,Rep,Scott Schaben,1.0,3.0,4.0
+Henry,,U.S. Senator,,Rep,Scott Schaben,,,16.0
+Henry,Central Precinct,U.S. Senator,,Rep,Matt Whitaker,,,12.0
+Henry,Mt Pleasant Ward 1,U.S. Senator,,Rep,Matt Whitaker,3.0,14.0,17.0
+Henry,Mt Pleasant Ward 2,U.S. Senator,,Rep,Matt Whitaker,1.0,11.0,12.0
+Henry,Mt Pleasant Ward 3,U.S. Senator,,Rep,Matt Whitaker,0.0,18.0,18.0
+Henry,Mt Pleasant Ward 4,U.S. Senator,,Rep,Matt Whitaker,3.0,10.0,13.0
+Henry,Northeast Precinct,U.S. Senator,,Rep,Matt Whitaker,0.0,9.0,9.0
+Henry,Northwest Precinct,U.S. Senator,,Rep,Matt Whitaker,1.0,20.0,21.0
+Henry,Southeast Precinct,U.S. Senator,,Rep,Matt Whitaker,4.0,10.0,14.0
+Henry,Southwest Precinct,U.S. Senator,,Rep,Matt Whitaker,1.0,14.0,15.0
+Henry,,U.S. Senator,,Rep,Matt Whitaker,,,139.0
+Henry,Central Precinct,U.S. Senator,,Rep,Write-in,,,0.0
+Henry,Mt Pleasant Ward 1,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 2,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 3,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 4,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Henry,Northeast Precinct,U.S. Senator,,Rep,Write-in,1.0,0.0,1.0
+Henry,Northwest Precinct,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Henry,Southeast Precinct,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Henry,Southwest Precinct,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Henry,,U.S. Senator,,Rep,Write-in,,,1.0
+Henry,Central Precinct,U.S. Senator,,Dem,Bruce Braley,,,20.0
+Henry,Mt Pleasant Ward 1,U.S. Senator,,Dem,Bruce Braley,8.0,12.0,20.0
+Henry,Mt Pleasant Ward 2,U.S. Senator,,Dem,Bruce Braley,3.0,15.0,18.0
+Henry,Mt Pleasant Ward 3,U.S. Senator,,Dem,Bruce Braley,11.0,15.0,26.0
+Henry,Mt Pleasant Ward 4,U.S. Senator,,Dem,Bruce Braley,2.0,9.0,11.0
+Henry,Northeast Precinct,U.S. Senator,,Dem,Bruce Braley,1.0,6.0,7.0
+Henry,Northwest Precinct,U.S. Senator,,Dem,Bruce Braley,0.0,12.0,12.0
+Henry,Southeast Precinct,U.S. Senator,,Dem,Bruce Braley,2.0,19.0,21.0
+Henry,Southwest Precinct,U.S. Senator,,Dem,Bruce Braley,2.0,20.0,22.0
+Henry,,U.S. Senator,,Dem,Bruce Braley,,,160.0
+Henry,Central Precinct,U.S. Senator,,Dem,Write-in,,,0.0
+Henry,Mt Pleasant Ward 1,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 2,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 3,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 4,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Henry,Northeast Precinct,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Henry,Northwest Precinct,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Henry,Southeast Precinct,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Henry,Southwest Precinct,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Henry,,U.S. Senator,,Dem,Write-in,,,0.0
+Henry,Central Precinct,U.S. Rep.,2,Rep,Mark S. Lofgren,,,51.0
+Henry,Mt Pleasant Ward 1,U.S. Rep.,2,Rep,Mark S. Lofgren,7.0,46.0,53.0
+Henry,Mt Pleasant Ward 2,U.S. Rep.,2,Rep,Mark S. Lofgren,5.0,40.0,45.0
+Henry,Mt Pleasant Ward 3,U.S. Rep.,2,Rep,Mark S. Lofgren,7.0,33.0,40.0
+Henry,Mt Pleasant Ward 4,U.S. Rep.,2,Rep,Mark S. Lofgren,5.0,55.0,60.0
+Henry,Northeast Precinct,U.S. Rep.,2,Rep,Mark S. Lofgren,5.0,35.0,40.0
+Henry,Northwest Precinct,U.S. Rep.,2,Rep,Mark S. Lofgren,8.0,47.0,55.0
+Henry,Southeast Precinct,U.S. Rep.,2,Rep,Mark S. Lofgren,8.0,40.0,48.0
+Henry,Southwest Precinct,U.S. Rep.,2,Rep,Mark S. Lofgren,1.0,36.0,37.0
+Henry,,U.S. Rep.,2,Rep,Mark S. Lofgren,,,439.0
+Henry,Central Precinct,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,,,97.0
+Henry,Mt Pleasant Ward 1,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,21.0,59.0,80.0
+Henry,Mt Pleasant Ward 2,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,7.0,45.0,52.0
+Henry,Mt Pleasant Ward 3,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,11.0,52.0,63.0
+Henry,Mt Pleasant Ward 4,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,13.0,64.0,77.0
+Henry,Northeast Precinct,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,10.0,84.0,94.0
+Henry,Northwest Precinct,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,5.0,51.0,56.0
+Henry,Southeast Precinct,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,7.0,91.0,98.0
+Henry,Southwest Precinct,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,8.0,61.0,69.0
+Henry,,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,,,724.0
+Henry,Central Precinct,U.S. Rep.,2,Rep,Matthew C. Waldren,,,6.0
+Henry,Mt Pleasant Ward 1,U.S. Rep.,2,Rep,Matthew C. Waldren,1.0,11.0,12.0
+Henry,Mt Pleasant Ward 2,U.S. Rep.,2,Rep,Matthew C. Waldren,0.0,4.0,4.0
+Henry,Mt Pleasant Ward 3,U.S. Rep.,2,Rep,Matthew C. Waldren,2.0,5.0,7.0
+Henry,Mt Pleasant Ward 4,U.S. Rep.,2,Rep,Matthew C. Waldren,2.0,7.0,9.0
+Henry,Northeast Precinct,U.S. Rep.,2,Rep,Matthew C. Waldren,3.0,9.0,12.0
+Henry,Northwest Precinct,U.S. Rep.,2,Rep,Matthew C. Waldren,0.0,15.0,15.0
+Henry,Southeast Precinct,U.S. Rep.,2,Rep,Matthew C. Waldren,0.0,9.0,9.0
+Henry,Southwest Precinct,U.S. Rep.,2,Rep,Matthew C. Waldren,0.0,7.0,7.0
+Henry,,U.S. Rep.,2,Rep,Matthew C. Waldren,,,82.0
+Henry,Central Precinct,U.S. Rep.,2,Rep,Write-in,,,0.0
+Henry,Mt Pleasant Ward 1,U.S. Rep.,2,Rep,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 2,U.S. Rep.,2,Rep,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 3,U.S. Rep.,2,Rep,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 4,U.S. Rep.,2,Rep,Write-in,0.0,0.0,0.0
+Henry,Northeast Precinct,U.S. Rep.,2,Rep,Write-in,0.0,0.0,0.0
+Henry,Northwest Precinct,U.S. Rep.,2,Rep,Write-in,0.0,0.0,0.0
+Henry,Southeast Precinct,U.S. Rep.,2,Rep,Write-in,0.0,0.0,0.0
+Henry,Southwest Precinct,U.S. Rep.,2,Rep,Write-in,0.0,0.0,0.0
+Henry,,U.S. Rep.,2,Rep,Write-in,,,0.0
+Henry,Central Precinct,U.S. Rep.,2,Dem,Dave Loebsack,,,21.0
+Henry,Mt Pleasant Ward 1,U.S. Rep.,2,Dem,Dave Loebsack,8.0,12.0,20.0
+Henry,Mt Pleasant Ward 2,U.S. Rep.,2,Dem,Dave Loebsack,2.0,15.0,17.0
+Henry,Mt Pleasant Ward 3,U.S. Rep.,2,Dem,Dave Loebsack,13.0,15.0,28.0
+Henry,Mt Pleasant Ward 4,U.S. Rep.,2,Dem,Dave Loebsack,2.0,9.0,11.0
+Henry,Northeast Precinct,U.S. Rep.,2,Dem,Dave Loebsack,1.0,7.0,8.0
+Henry,Northwest Precinct,U.S. Rep.,2,Dem,Dave Loebsack,0.0,12.0,12.0
+Henry,Southeast Precinct,U.S. Rep.,2,Dem,Dave Loebsack,2.0,18.0,20.0
+Henry,Southwest Precinct,U.S. Rep.,2,Dem,Dave Loebsack,2.0,20.0,22.0
+Henry,,U.S. Rep.,2,Dem,Dave Loebsack,,,163.0
+Henry,Central Precinct,U.S. Rep.,2,Dem,Write-in,,,0.0
+Henry,Mt Pleasant Ward 1,U.S. Rep.,2,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 2,U.S. Rep.,2,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 3,U.S. Rep.,2,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 4,U.S. Rep.,2,Dem,Write-in,0.0,0.0,0.0
+Henry,Northeast Precinct,U.S. Rep.,2,Dem,Write-in,0.0,0.0,0.0
+Henry,Northwest Precinct,U.S. Rep.,2,Dem,Write-in,0.0,0.0,0.0
+Henry,Southeast Precinct,U.S. Rep.,2,Dem,Write-in,0.0,0.0,0.0
+Henry,Southwest Precinct,U.S. Rep.,2,Dem,Write-in,0.0,0.0,0.0
+Henry,,U.S. Rep.,2,Dem,Write-in,,,0.0
+Henry,Central Precinct,Governor,,Rep,Terry E. Branstad,,,128.0
+Henry,Mt Pleasant Ward 1,Governor,,Rep,Terry E. Branstad,30.0,94.0,124.0
+Henry,Mt Pleasant Ward 2,Governor,,Rep,Terry E. Branstad,11.0,67.0,78.0
+Henry,Mt Pleasant Ward 3,Governor,,Rep,Terry E. Branstad,14.0,75.0,89.0
+Henry,Mt Pleasant Ward 4,Governor,,Rep,Terry E. Branstad,15.0,101.0,116.0
+Henry,Northeast Precinct,Governor,,Rep,Terry E. Branstad,14.0,92.0,106.0
+Henry,Northwest Precinct,Governor,,Rep,Terry E. Branstad,11.0,74.0,85.0
+Henry,Southeast Precinct,Governor,,Rep,Terry E. Branstad,12.0,122.0,134.0
+Henry,Southwest Precinct,Governor,,Rep,Terry E. Branstad,7.0,77.0,84.0
+Henry,,Governor,,Rep,Terry E. Branstad,,,988.0
+Henry,Central Precinct,Governor,,Rep,Tom Hoefling,,,34.0
+Henry,Mt Pleasant Ward 1,Governor,,Rep,Tom Hoefling,2.0,24.0,26.0
+Henry,Mt Pleasant Ward 2,Governor,,Rep,Tom Hoefling,2.0,26.0,28.0
+Henry,Mt Pleasant Ward 3,Governor,,Rep,Tom Hoefling,6.0,17.0,23.0
+Henry,Mt Pleasant Ward 4,Governor,,Rep,Tom Hoefling,5.0,23.0,28.0
+Henry,Northeast Precinct,Governor,,Rep,Tom Hoefling,3.0,41.0,44.0
+Henry,Northwest Precinct,Governor,,Rep,Tom Hoefling,4.0,39.0,43.0
+Henry,Southeast Precinct,Governor,,Rep,Tom Hoefling,5.0,23.0,28.0
+Henry,Southwest Precinct,Governor,,Rep,Tom Hoefling,4.0,31.0,35.0
+Henry,,Governor,,Rep,Tom Hoefling,,,295.0
+Henry,Central Precinct,Governor,,Rep,Write-in,,,0.0
+Henry,Mt Pleasant Ward 1,Governor,,Rep,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 2,Governor,,Rep,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 3,Governor,,Rep,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 4,Governor,,Rep,Write-in,0.0,0.0,0.0
+Henry,Northeast Precinct,Governor,,Rep,Write-in,1.0,1.0,2.0
+Henry,Northwest Precinct,Governor,,Rep,Write-in,0.0,0.0,0.0
+Henry,Southeast Precinct,Governor,,Rep,Write-in,0.0,0.0,0.0
+Henry,Southwest Precinct,Governor,,Rep,Write-in,0.0,0.0,0.0
+Henry,,Governor,,Rep,Write-in,,,2.0
+Henry,Central Precinct,Governor,,Dem,Jack Hatch,,,20.0
+Henry,Mt Pleasant Ward 1,Governor,,Dem,Jack Hatch,8.0,12.0,20.0
+Henry,Mt Pleasant Ward 2,Governor,,Dem,Jack Hatch,3.0,14.0,17.0
+Henry,Mt Pleasant Ward 3,Governor,,Dem,Jack Hatch,10.0,15.0,25.0
+Henry,Mt Pleasant Ward 4,Governor,,Dem,Jack Hatch,2.0,9.0,11.0
+Henry,Northeast Precinct,Governor,,Dem,Jack Hatch,1.0,6.0,7.0
+Henry,Northwest Precinct,Governor,,Dem,Jack Hatch,0.0,11.0,11.0
+Henry,Southeast Precinct,Governor,,Dem,Jack Hatch,2.0,18.0,20.0
+Henry,Southwest Precinct,Governor,,Dem,Jack Hatch,2.0,21.0,23.0
+Henry,,Governor,,Dem,Jack Hatch,,,158.0
+Henry,Central Precinct,Governor,,Dem,Write-in,,,0.0
+Henry,Mt Pleasant Ward 1,Governor,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 2,Governor,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 3,Governor,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 4,Governor,,Dem,Write-in,0.0,0.0,0.0
+Henry,Northeast Precinct,Governor,,Dem,Write-in,0.0,0.0,0.0
+Henry,Northwest Precinct,Governor,,Dem,Write-in,0.0,0.0,0.0
+Henry,Southeast Precinct,Governor,,Dem,Write-in,0.0,0.0,0.0
+Henry,Southwest Precinct,Governor,,Dem,Write-in,0.0,0.0,0.0
+Henry,,Governor,,Dem,Write-in,,,0.0
+Henry,Central Precinct,Secretary of State,,Rep,Paul D. Pate,,,119.0
+Henry,Mt Pleasant Ward 1,Secretary of State,,Rep,Paul D. Pate,23.0,102.0,125.0
+Henry,Mt Pleasant Ward 2,Secretary of State,,Rep,Paul D. Pate,10.0,78.0,88.0
+Henry,Mt Pleasant Ward 3,Secretary of State,,Rep,Paul D. Pate,18.0,82.0,100.0
+Henry,Mt Pleasant Ward 4,Secretary of State,,Rep,Paul D. Pate,15.0,105.0,120.0
+Henry,Northeast Precinct,Secretary of State,,Rep,Paul D. Pate,16.0,116.0,132.0
+Henry,Northwest Precinct,Secretary of State,,Rep,Paul D. Pate,14.0,92.0,106.0
+Henry,Southeast Precinct,Secretary of State,,Rep,Paul D. Pate,12.0,125.0,137.0
+Henry,Southwest Precinct,Secretary of State,,Rep,Paul D. Pate,9.0,85.0,94.0
+Henry,,Secretary of State,,Rep,Paul D. Pate,,,1058.0
+Henry,Central Precinct,Secretary of State,,Rep,Write-in,,,0.0
+Henry,Mt Pleasant Ward 1,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 2,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 3,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 4,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Henry,Northeast Precinct,Secretary of State,,Rep,Write-in,0.0,1.0,1.0
+Henry,Northwest Precinct,Secretary of State,,Rep,Write-in,0.0,1.0,1.0
+Henry,Southeast Precinct,Secretary of State,,Rep,Write-in,0.0,2.0,2.0
+Henry,Southwest Precinct,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Henry,,Secretary of State,,Rep,Write-in,,,4.0
+Henry,Central Precinct,Secretary of State,,Dem,Brad Anderson,,,20.0
+Henry,Mt Pleasant Ward 1,Secretary of State,,Dem,Brad Anderson,7.0,12.0,19.0
+Henry,Mt Pleasant Ward 2,Secretary of State,,Dem,Brad Anderson,3.0,13.0,16.0
+Henry,Mt Pleasant Ward 3,Secretary of State,,Dem,Brad Anderson,12.0,12.0,24.0
+Henry,Mt Pleasant Ward 4,Secretary of State,,Dem,Brad Anderson,2.0,7.0,9.0
+Henry,Northeast Precinct,Secretary of State,,Dem,Brad Anderson,0.0,6.0,6.0
+Henry,Northwest Precinct,Secretary of State,,Dem,Brad Anderson,0.0,11.0,11.0
+Henry,Southeast Precinct,Secretary of State,,Dem,Brad Anderson,2.0,18.0,20.0
+Henry,Southwest Precinct,Secretary of State,,Dem,Brad Anderson,2.0,19.0,21.0
+Henry,,Secretary of State,,Dem,Brad Anderson,,,150.0
+Henry,Central Precinct,Secretary of State,,Dem,Write-in,,,0.0
+Henry,Mt Pleasant Ward 1,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 2,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 3,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 4,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Northeast Precinct,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Northwest Precinct,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Southeast Precinct,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Southwest Precinct,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,,Secretary of State,,Dem,Write-in,,,0.0
+Henry,Central Precinct,Auditor of State,,Rep,Mary Mosiman,,,116.0
+Henry,Mt Pleasant Ward 1,Auditor of State,,Rep,Mary Mosiman,27.0,96.0,123.0
+Henry,Mt Pleasant Ward 2,Auditor of State,,Rep,Mary Mosiman,11.0,79.0,90.0
+Henry,Mt Pleasant Ward 3,Auditor of State,,Rep,Mary Mosiman,17.0,80.0,97.0
+Henry,Mt Pleasant Ward 4,Auditor of State,,Rep,Mary Mosiman,16.0,103.0,119.0
+Henry,Northeast Precinct,Auditor of State,,Rep,Mary Mosiman,13.0,117.0,130.0
+Henry,Northwest Precinct,Auditor of State,,Rep,Mary Mosiman,13.0,86.0,99.0
+Henry,Southeast Precinct,Auditor of State,,Rep,Mary Mosiman,14.0,125.0,139.0
+Henry,Southwest Precinct,Auditor of State,,Rep,Mary Mosiman,9.0,89.0,98.0
+Henry,,Auditor of State,,Rep,Mary Mosiman,,,1049.0
+Henry,Central Precinct,Auditor of State,,Rep,Write-in,,,0.0
+Henry,Mt Pleasant Ward 1,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 2,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 3,Auditor of State,,Rep,Write-in,1.0,0.0,1.0
+Henry,Mt Pleasant Ward 4,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Henry,Northeast Precinct,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Henry,Northwest Precinct,Auditor of State,,Rep,Write-in,0.0,1.0,1.0
+Henry,Southeast Precinct,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Henry,Southwest Precinct,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Henry,,Auditor of State,,Rep,Write-in,,,2.0
+Henry,Central Precinct,Auditor of State,,Dem,Jonathan Neiderbach,,,20.0
+Henry,Mt Pleasant Ward 1,Auditor of State,,Dem,Jonathan Neiderbach,7.0,11.0,18.0
+Henry,Mt Pleasant Ward 2,Auditor of State,,Dem,Jonathan Neiderbach,3.0,13.0,16.0
+Henry,Mt Pleasant Ward 3,Auditor of State,,Dem,Jonathan Neiderbach,11.0,12.0,23.0
+Henry,Mt Pleasant Ward 4,Auditor of State,,Dem,Jonathan Neiderbach,2.0,8.0,10.0
+Henry,Northeast Precinct,Auditor of State,,Dem,Jonathan Neiderbach,0.0,6.0,6.0
+Henry,Northwest Precinct,Auditor of State,,Dem,Jonathan Neiderbach,0.0,11.0,11.0
+Henry,Southeast Precinct,Auditor of State,,Dem,Jonathan Neiderbach,2.0,18.0,20.0
+Henry,Southwest Precinct,Auditor of State,,Dem,Jonathan Neiderbach,1.0,19.0,20.0
+Henry,,Auditor of State,,Dem,Jonathan Neiderbach,,,147.0
+Henry,Central Precinct,Auditor of State,,Dem,Write-in,,,0.0
+Henry,Mt Pleasant Ward 1,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 2,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 3,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 4,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Northeast Precinct,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Northwest Precinct,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Southeast Precinct,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Southwest Precinct,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,,Auditor of State,,Dem,Write-in,,,0.0
+Henry,Central Precinct,Treasurer of State,,Rep,Write-in,,,1.0
+Henry,Mt Pleasant Ward 1,Treasurer of State,,Rep,Write-in,2.0,5.0,7.0
+Henry,Mt Pleasant Ward 2,Treasurer of State,,Rep,Write-in,0.0,1.0,1.0
+Henry,Mt Pleasant Ward 3,Treasurer of State,,Rep,Write-in,1.0,1.0,2.0
+Henry,Mt Pleasant Ward 4,Treasurer of State,,Rep,Write-in,0.0,3.0,3.0
+Henry,Northeast Precinct,Treasurer of State,,Rep,Write-in,0.0,6.0,6.0
+Henry,Northwest Precinct,Treasurer of State,,Rep,Write-in,0.0,1.0,1.0
+Henry,Southeast Precinct,Treasurer of State,,Rep,Write-in,0.0,6.0,6.0
+Henry,Southwest Precinct,Treasurer of State,,Rep,Write-in,0.0,3.0,3.0
+Henry,,Treasurer of State,,Rep,Write-in,,,30.0
+Henry,Central Precinct,Treasurer of State,,Dem,Michael L. Fitzgerald,,,21.0
+Henry,Mt Pleasant Ward 1,Treasurer of State,,Dem,Michael L. Fitzgerald,6.0,12.0,18.0
+Henry,Mt Pleasant Ward 2,Treasurer of State,,Dem,Michael L. Fitzgerald,3.0,13.0,16.0
+Henry,Mt Pleasant Ward 3,Treasurer of State,,Dem,Michael L. Fitzgerald,12.0,15.0,27.0
+Henry,Mt Pleasant Ward 4,Treasurer of State,,Dem,Michael L. Fitzgerald,2.0,8.0,10.0
+Henry,Northeast Precinct,Treasurer of State,,Dem,Michael L. Fitzgerald,1.0,7.0,8.0
+Henry,Northwest Precinct,Treasurer of State,,Dem,Michael L. Fitzgerald,0.0,12.0,12.0
+Henry,Southeast Precinct,Treasurer of State,,Dem,Michael L. Fitzgerald,2.0,18.0,20.0
+Henry,Southwest Precinct,Treasurer of State,,Dem,Michael L. Fitzgerald,1.0,21.0,22.0
+Henry,,Treasurer of State,,Dem,Michael L. Fitzgerald,,,157.0
+Henry,Central Precinct,Treasurer of State,,Dem,Write-in,,,0.0
+Henry,Mt Pleasant Ward 1,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 2,Treasurer of State,,Dem,Write-in,1.0,0.0,1.0
+Henry,Mt Pleasant Ward 3,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 4,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Northeast Precinct,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Northwest Precinct,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Southeast Precinct,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,Southwest Precinct,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Henry,,Treasurer of State,,Dem,Write-in,,,1.0
+Henry,Central Precinct,Secretary of Agriculture,,Rep,Bill Northey,,,132.0
+Henry,Mt Pleasant Ward 1,Secretary of Agriculture,,Rep,Bill Northey,25.0,102.0,127.0
+Henry,Mt Pleasant Ward 2,Secretary of Agriculture,,Rep,Bill Northey,12.0,79.0,91.0
+Henry,Mt Pleasant Ward 3,Secretary of Agriculture,,Rep,Bill Northey,18.0,84.0,102.0
+Henry,Mt Pleasant Ward 4,Secretary of Agriculture,,Rep,Bill Northey,16.0,106.0,122.0
+Henry,Northeast Precinct,Secretary of Agriculture,,Rep,Bill Northey,17.0,120.0,137.0
+Henry,Northwest Precinct,Secretary of Agriculture,,Rep,Bill Northey,14.0,92.0,106.0
+Henry,Southeast Precinct,Secretary of Agriculture,,Rep,Bill Northey,14.0,129.0,143.0
+Henry,Southwest Precinct,Secretary of Agriculture,,Rep,Bill Northey,10.0,87.0,97.0
+Henry,,Secretary of Agriculture,,Rep,Bill Northey,,,1093.0
+Henry,Central Precinct,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Henry,Mt Pleasant Ward 1,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 2,Secretary of Agriculture,,Rep,Write-in,0.0,1.0,1.0
+Henry,Mt Pleasant Ward 3,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 4,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Henry,Northeast Precinct,Secretary of Agriculture,,Rep,Write-in,0.0,1.0,1.0
+Henry,Northwest Precinct,Secretary of Agriculture,,Rep,Write-in,0.0,1.0,1.0
+Henry,Southeast Precinct,Secretary of Agriculture,,Rep,Write-in,0.0,1.0,1.0
+Henry,Southwest Precinct,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Henry,,Secretary of Agriculture,,Rep,Write-in,,,4.0
+Henry,Central Precinct,Secretary of Agriculture,,Dem,Sherrie Taha,,,19.0
+Henry,Mt Pleasant Ward 1,Secretary of Agriculture,,Dem,Sherrie Taha,7.0,11.0,18.0
+Henry,Mt Pleasant Ward 2,Secretary of Agriculture,,Dem,Sherrie Taha,3.0,12.0,15.0
+Henry,Mt Pleasant Ward 3,Secretary of Agriculture,,Dem,Sherrie Taha,11.0,13.0,24.0
+Henry,Mt Pleasant Ward 4,Secretary of Agriculture,,Dem,Sherrie Taha,2.0,7.0,9.0
+Henry,Northeast Precinct,Secretary of Agriculture,,Dem,Sherrie Taha,0.0,6.0,6.0
+Henry,Northwest Precinct,Secretary of Agriculture,,Dem,Sherrie Taha,0.0,10.0,10.0
+Henry,Southeast Precinct,Secretary of Agriculture,,Dem,Sherrie Taha,2.0,19.0,21.0
+Henry,Southwest Precinct,Secretary of Agriculture,,Dem,Sherrie Taha,1.0,18.0,19.0
+Henry,,Secretary of Agriculture,,Dem,Sherrie Taha,,,144.0
+Henry,Central Precinct,Secretary of Agriculture,,Dem,Write-in,,,1.0
+Henry,Mt Pleasant Ward 1,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 2,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 3,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 4,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Henry,Northeast Precinct,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Henry,Northwest Precinct,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Henry,Southeast Precinct,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Henry,Southwest Precinct,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Henry,,Secretary of Agriculture,,Dem,Write-in,,,1.0
+Henry,Central Precinct,Attorney General,,Rep,Write-in,,,5.0
+Henry,Mt Pleasant Ward 1,Attorney General,,Rep,Write-in,0.0,2.0,2.0
+Henry,Mt Pleasant Ward 2,Attorney General,,Rep,Write-in,0.0,1.0,1.0
+Henry,Mt Pleasant Ward 3,Attorney General,,Rep,Write-in,0.0,3.0,3.0
+Henry,Mt Pleasant Ward 4,Attorney General,,Rep,Write-in,0.0,1.0,1.0
+Henry,Northeast Precinct,Attorney General,,Rep,Write-in,0.0,6.0,6.0
+Henry,Northwest Precinct,Attorney General,,Rep,Write-in,0.0,3.0,3.0
+Henry,Southeast Precinct,Attorney General,,Rep,Write-in,0.0,5.0,5.0
+Henry,Southwest Precinct,Attorney General,,Rep,Write-in,0.0,1.0,1.0
+Henry,,Attorney General,,Rep,Write-in,,,27.0
+Henry,Central Precinct,Attorney General,,Dem,Tom Miller,,,20.0
+Henry,Mt Pleasant Ward 1,Attorney General,,Dem,Tom Miller,8.0,12.0,20.0
+Henry,Mt Pleasant Ward 2,Attorney General,,Dem,Tom Miller,3.0,14.0,17.0
+Henry,Mt Pleasant Ward 3,Attorney General,,Dem,Tom Miller,12.0,15.0,27.0
+Henry,Mt Pleasant Ward 4,Attorney General,,Dem,Tom Miller,2.0,8.0,10.0
+Henry,Northeast Precinct,Attorney General,,Dem,Tom Miller,1.0,7.0,8.0
+Henry,Northwest Precinct,Attorney General,,Dem,Tom Miller,0.0,11.0,11.0
+Henry,Southeast Precinct,Attorney General,,Dem,Tom Miller,2.0,18.0,20.0
+Henry,Southwest Precinct,Attorney General,,Dem,Tom Miller,0.0,21.0,21.0
+Henry,,Attorney General,,Dem,Tom Miller,,,157.0
+Henry,Central Precinct,Attorney General,,Dem,Write-in,,,0.0
+Henry,Mt Pleasant Ward 1,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 2,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 3,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 4,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Henry,Northeast Precinct,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Henry,Northwest Precinct,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Henry,Southeast Precinct,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Henry,Southwest Precinct,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Henry,,Attorney General,,Dem,Write-in,,,0.0
+Henry,Central Precinct,State Rep.,84,Rep,Dave Heaton,,,100.0
+Henry,Mt Pleasant Ward 1,State Rep.,84,Rep,Dave Heaton,26.0,80.0,106.0
+Henry,Mt Pleasant Ward 2,State Rep.,84,Rep,Dave Heaton,11.0,58.0,69.0
+Henry,Mt Pleasant Ward 3,State Rep.,84,Rep,Dave Heaton,16.0,66.0,82.0
+Henry,Mt Pleasant Ward 4,State Rep.,84,Rep,Dave Heaton,18.0,91.0,109.0
+Henry,Northeast Precinct,State Rep.,84,Rep,Dave Heaton,14.0,108.0,122.0
+Henry,Northwest Precinct,State Rep.,84,Rep,Dave Heaton,11.0,59.0,70.0
+Henry,Southeast Precinct,State Rep.,84,Rep,Dave Heaton,10.0,109.0,119.0
+Henry,Southwest Precinct,State Rep.,84,Rep,Dave Heaton,9.0,75.0,84.0
+Henry,,State Rep.,84,Rep,Dave Heaton,,,896.0
+Henry,Central Precinct,State Rep.,84,Rep,Ralph Holmstrom,,,60.0
+Henry,Mt Pleasant Ward 1,State Rep.,84,Rep,Ralph Holmstrom,6.0,39.0,45.0
+Henry,Mt Pleasant Ward 2,State Rep.,84,Rep,Ralph Holmstrom,3.0,36.0,39.0
+Henry,Mt Pleasant Ward 3,State Rep.,84,Rep,Ralph Holmstrom,5.0,28.0,33.0
+Henry,Mt Pleasant Ward 4,State Rep.,84,Rep,Ralph Holmstrom,3.0,37.0,40.0
+Henry,Northeast Precinct,State Rep.,84,Rep,Ralph Holmstrom,4.0,27.0,31.0
+Henry,Northwest Precinct,State Rep.,84,Rep,Ralph Holmstrom,4.0,56.0,60.0
+Henry,Southeast Precinct,State Rep.,84,Rep,Ralph Holmstrom,7.0,40.0,47.0
+Henry,Southwest Precinct,State Rep.,84,Rep,Ralph Holmstrom,3.0,34.0,37.0
+Henry,,State Rep.,84,Rep,Ralph Holmstrom,,,406.0
+Henry,Central Precinct,State Rep.,84,Rep,Write-in,,,0.0
+Henry,Mt Pleasant Ward 1,State Rep.,84,Rep,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 2,State Rep.,84,Rep,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 3,State Rep.,84,Rep,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 4,State Rep.,84,Rep,Write-in,0.0,0.0,0.0
+Henry,Northeast Precinct,State Rep.,84,Rep,Write-in,0.0,0.0,0.0
+Henry,Northwest Precinct,State Rep.,84,Rep,Write-in,0.0,0.0,0.0
+Henry,Southeast Precinct,State Rep.,84,Rep,Write-in,0.0,1.0,1.0
+Henry,Southwest Precinct,State Rep.,84,Rep,Write-in,0.0,0.0,0.0
+Henry,,State Rep.,84,Rep,Write-in,,,1.0
+Henry,Central Precinct,State Rep.,84,Dem,Write-in,,,2.0
+Henry,Mt Pleasant Ward 1,State Rep.,84,Dem,Write-in,0.0,0.0,0.0
+Henry,Mt Pleasant Ward 2,State Rep.,84,Dem,Write-in,0.0,1.0,1.0
+Henry,Mt Pleasant Ward 3,State Rep.,84,Dem,Write-in,1.0,0.0,1.0
+Henry,Mt Pleasant Ward 4,State Rep.,84,Dem,Write-in,0.0,0.0,0.0
+Henry,Northeast Precinct,State Rep.,84,Dem,Write-in,0.0,0.0,0.0
+Henry,Northwest Precinct,State Rep.,84,Dem,Write-in,0.0,1.0,1.0
+Henry,Southeast Precinct,State Rep.,84,Dem,Write-in,1.0,2.0,3.0
+Henry,Southwest Precinct,State Rep.,84,Dem,Write-in,0.0,1.0,1.0
+Henry,,State Rep.,84,Dem,Write-in,,,10.0

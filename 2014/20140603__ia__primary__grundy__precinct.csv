@@ -1,0 +1,337 @@
+county,precinct,office,district,party,candidate,absentee,polling,votes
+Grundy,PRECINCT 1,U.S. Senator,,Rep,Sam Clovis,,,22.0
+Grundy,PRECINCT 2,U.S. Senator,,Rep,Sam Clovis,,,9.0
+Grundy,PRECINCT 3,U.S. Senator,,Rep,Sam Clovis,,,22.0
+Grundy,PRECINCT 4,U.S. Senator,,Rep,Sam Clovis,,,6.0
+Grundy,PRECINCT 5,U.S. Senator,,Rep,Sam Clovis,,,19.0
+Grundy,PRECINCT 6,U.S. Senator,,Rep,Sam Clovis,,,24.0
+Grundy,PRECINCT 7,U.S. Senator,,Rep,Sam Clovis,,,17.0
+Grundy,,U.S. Senator,,Rep,Sam Clovis,,,124.0
+Grundy,PRECINCT 1,U.S. Senator,,Rep,Joni Ernst,,,81.0
+Grundy,PRECINCT 2,U.S. Senator,,Rep,Joni Ernst,,,36.0
+Grundy,PRECINCT 3,U.S. Senator,,Rep,Joni Ernst,,,83.0
+Grundy,PRECINCT 4,U.S. Senator,,Rep,Joni Ernst,,,41.0
+Grundy,PRECINCT 5,U.S. Senator,,Rep,Joni Ernst,,,89.0
+Grundy,PRECINCT 6,U.S. Senator,,Rep,Joni Ernst,,,123.0
+Grundy,PRECINCT 7,U.S. Senator,,Rep,Joni Ernst,,,97.0
+Grundy,,U.S. Senator,,Rep,Joni Ernst,,,598.0
+Grundy,PRECINCT 1,U.S. Senator,,Rep,Mark Jacobs,,,14.0
+Grundy,PRECINCT 2,U.S. Senator,,Rep,Mark Jacobs,,,8.0
+Grundy,PRECINCT 3,U.S. Senator,,Rep,Mark Jacobs,,,5.0
+Grundy,PRECINCT 4,U.S. Senator,,Rep,Mark Jacobs,,,8.0
+Grundy,PRECINCT 5,U.S. Senator,,Rep,Mark Jacobs,,,12.0
+Grundy,PRECINCT 6,U.S. Senator,,Rep,Mark Jacobs,,,20.0
+Grundy,PRECINCT 7,U.S. Senator,,Rep,Mark Jacobs,,,25.0
+Grundy,,U.S. Senator,,Rep,Mark Jacobs,,,117.0
+Grundy,PRECINCT 1,U.S. Senator,,Rep,Scott Schaben,,,3.0
+Grundy,PRECINCT 2,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Grundy,PRECINCT 3,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Grundy,PRECINCT 4,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Grundy,PRECINCT 5,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Grundy,PRECINCT 6,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Grundy,PRECINCT 7,U.S. Senator,,Rep,Scott Schaben,,,1.0
+Grundy,,U.S. Senator,,Rep,Scott Schaben,,,4.0
+Grundy,PRECINCT 1,U.S. Senator,,Rep,Matt Whitaker,,,7.0
+Grundy,PRECINCT 2,U.S. Senator,,Rep,Matt Whitaker,,,3.0
+Grundy,PRECINCT 3,U.S. Senator,,Rep,Matt Whitaker,,,7.0
+Grundy,PRECINCT 4,U.S. Senator,,Rep,Matt Whitaker,,,8.0
+Grundy,PRECINCT 5,U.S. Senator,,Rep,Matt Whitaker,,,1.0
+Grundy,PRECINCT 6,U.S. Senator,,Rep,Matt Whitaker,,,14.0
+Grundy,PRECINCT 7,U.S. Senator,,Rep,Matt Whitaker,,,8.0
+Grundy,,U.S. Senator,,Rep,Matt Whitaker,,,54.0
+Grundy,PRECINCT 1,U.S. Senator,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 2,U.S. Senator,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 3,U.S. Senator,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 4,U.S. Senator,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 5,U.S. Senator,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 6,U.S. Senator,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 7,U.S. Senator,,Rep,Write-in,,,0.0
+Grundy,,U.S. Senator,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 1,U.S. Senator,,Dem,Bruce Braley,,,13.0
+Grundy,PRECINCT 2,U.S. Senator,,Dem,Bruce Braley,,,5.0
+Grundy,PRECINCT 3,U.S. Senator,,Dem,Bruce Braley,,,7.0
+Grundy,PRECINCT 4,U.S. Senator,,Dem,Bruce Braley,,,2.0
+Grundy,PRECINCT 5,U.S. Senator,,Dem,Bruce Braley,,,11.0
+Grundy,PRECINCT 6,U.S. Senator,,Dem,Bruce Braley,,,15.0
+Grundy,PRECINCT 7,U.S. Senator,,Dem,Bruce Braley,,,17.0
+Grundy,,U.S. Senator,,Dem,Bruce Braley,,,97.0
+Grundy,PRECINCT 1,U.S. Senator,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 2,U.S. Senator,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 3,U.S. Senator,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 4,U.S. Senator,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 5,U.S. Senator,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 6,U.S. Senator,,Dem,Write-in,,,1.0
+Grundy,PRECINCT 7,U.S. Senator,,Dem,Write-in,,,0.0
+Grundy,,U.S. Senator,,Dem,Write-in,,,1.0
+Grundy,PRECINCT 1,U.S. Rep.,4,Rep,Steve King,,,113.0
+Grundy,PRECINCT 2,U.S. Rep.,4,Rep,Steve King,,,48.0
+Grundy,PRECINCT 3,U.S. Rep.,4,Rep,Steve King,,,102.0
+Grundy,PRECINCT 4,U.S. Rep.,4,Rep,Steve King,,,61.0
+Grundy,PRECINCT 5,U.S. Rep.,4,Rep,Steve King,,,113.0
+Grundy,PRECINCT 6,U.S. Rep.,4,Rep,Steve King,,,160.0
+Grundy,PRECINCT 7,U.S. Rep.,4,Rep,Steve King,,,129.0
+Grundy,,U.S. Rep.,4,Rep,Steve King,,,804.0
+Grundy,PRECINCT 1,U.S. Rep.,4,Rep,Write-in,,,0.0
+Grundy,PRECINCT 2,U.S. Rep.,4,Rep,Write-in,,,0.0
+Grundy,PRECINCT 3,U.S. Rep.,4,Rep,Write-in,,,0.0
+Grundy,PRECINCT 4,U.S. Rep.,4,Rep,Write-in,,,0.0
+Grundy,PRECINCT 5,U.S. Rep.,4,Rep,Write-in,,,0.0
+Grundy,PRECINCT 6,U.S. Rep.,4,Rep,Write-in,,,0.0
+Grundy,PRECINCT 7,U.S. Rep.,4,Rep,Write-in,,,2.0
+Grundy,,U.S. Rep.,4,Rep,Write-in,,,2.0
+Grundy,PRECINCT 1,U.S. Rep.,4,Dem,Jim Mowrer,,,13.0
+Grundy,PRECINCT 2,U.S. Rep.,4,Dem,Jim Mowrer,,,5.0
+Grundy,PRECINCT 3,U.S. Rep.,4,Dem,Jim Mowrer,,,7.0
+Grundy,PRECINCT 4,U.S. Rep.,4,Dem,Jim Mowrer,,,2.0
+Grundy,PRECINCT 5,U.S. Rep.,4,Dem,Jim Mowrer,,,11.0
+Grundy,PRECINCT 6,U.S. Rep.,4,Dem,Jim Mowrer,,,14.0
+Grundy,PRECINCT 7,U.S. Rep.,4,Dem,Jim Mowrer,,,18.0
+Grundy,,U.S. Rep.,4,Dem,Jim Mowrer,,,93.0
+Grundy,PRECINCT 1,U.S. Rep.,4,Dem,Write-in,,,0.0
+Grundy,PRECINCT 2,U.S. Rep.,4,Dem,Write-in,,,0.0
+Grundy,PRECINCT 3,U.S. Rep.,4,Dem,Write-in,,,0.0
+Grundy,PRECINCT 4,U.S. Rep.,4,Dem,Write-in,,,0.0
+Grundy,PRECINCT 5,U.S. Rep.,4,Dem,Write-in,,,0.0
+Grundy,PRECINCT 6,U.S. Rep.,4,Dem,Write-in,,,0.0
+Grundy,PRECINCT 7,U.S. Rep.,4,Dem,Write-in,,,0.0
+Grundy,,U.S. Rep.,4,Dem,Write-in,,,0.0
+Grundy,PRECINCT 1,Governor,,Rep,Terry E. Branstad,,,93.0
+Grundy,PRECINCT 2,Governor,,Rep,Terry E. Branstad,,,45.0
+Grundy,PRECINCT 3,Governor,,Rep,Terry E. Branstad,,,88.0
+Grundy,PRECINCT 4,Governor,,Rep,Terry E. Branstad,,,52.0
+Grundy,PRECINCT 5,Governor,,Rep,Terry E. Branstad,,,97.0
+Grundy,PRECINCT 6,Governor,,Rep,Terry E. Branstad,,,141.0
+Grundy,PRECINCT 7,Governor,,Rep,Terry E. Branstad,,,112.0
+Grundy,,Governor,,Rep,Terry E. Branstad,,,697.0
+Grundy,PRECINCT 1,Governor,,Rep,Tom Hoefling,,,27.0
+Grundy,PRECINCT 2,Governor,,Rep,Tom Hoefling,,,11.0
+Grundy,PRECINCT 3,Governor,,Rep,Tom Hoefling,,,26.0
+Grundy,PRECINCT 4,Governor,,Rep,Tom Hoefling,,,11.0
+Grundy,PRECINCT 5,Governor,,Rep,Tom Hoefling,,,19.0
+Grundy,PRECINCT 6,Governor,,Rep,Tom Hoefling,,,35.0
+Grundy,PRECINCT 7,Governor,,Rep,Tom Hoefling,,,34.0
+Grundy,,Governor,,Rep,Tom Hoefling,,,179.0
+Grundy,PRECINCT 1,Governor,,Rep,Write-in,,,2.0
+Grundy,PRECINCT 2,Governor,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 3,Governor,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 4,Governor,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 5,Governor,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 6,Governor,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 7,Governor,,Rep,Write-in,,,0.0
+Grundy,,Governor,,Rep,Write-in,,,2.0
+Grundy,PRECINCT 1,Governor,,Dem,Jack Hatch,,,13.0
+Grundy,PRECINCT 2,Governor,,Dem,Jack Hatch,,,5.0
+Grundy,PRECINCT 3,Governor,,Dem,Jack Hatch,,,7.0
+Grundy,PRECINCT 4,Governor,,Dem,Jack Hatch,,,2.0
+Grundy,PRECINCT 5,Governor,,Dem,Jack Hatch,,,11.0
+Grundy,PRECINCT 6,Governor,,Dem,Jack Hatch,,,15.0
+Grundy,PRECINCT 7,Governor,,Dem,Jack Hatch,,,18.0
+Grundy,,Governor,,Dem,Jack Hatch,,,97.0
+Grundy,PRECINCT 1,Governor,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 2,Governor,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 3,Governor,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 4,Governor,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 5,Governor,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 6,Governor,,Dem,Write-in,,,1.0
+Grundy,PRECINCT 7,Governor,,Dem,Write-in,,,0.0
+Grundy,,Governor,,Dem,Write-in,,,1.0
+Grundy,PRECINCT 1,Secretary of State,,Rep,Paul D. Pate,,,104.0
+Grundy,PRECINCT 2,Secretary of State,,Rep,Paul D. Pate,,,46.0
+Grundy,PRECINCT 3,Secretary of State,,Rep,Paul D. Pate,,,95.0
+Grundy,PRECINCT 4,Secretary of State,,Rep,Paul D. Pate,,,57.0
+Grundy,PRECINCT 5,Secretary of State,,Rep,Paul D. Pate,,,98.0
+Grundy,PRECINCT 6,Secretary of State,,Rep,Paul D. Pate,,,152.0
+Grundy,PRECINCT 7,Secretary of State,,Rep,Paul D. Pate,,,127.0
+Grundy,,Secretary of State,,Rep,Paul D. Pate,,,756.0
+Grundy,PRECINCT 1,Secretary of State,,Rep,Write-in,,,1.0
+Grundy,PRECINCT 2,Secretary of State,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 3,Secretary of State,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 4,Secretary of State,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 5,Secretary of State,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 6,Secretary of State,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 7,Secretary of State,,Rep,Write-in,,,0.0
+Grundy,,Secretary of State,,Rep,Write-in,,,1.0
+Grundy,PRECINCT 1,Secretary of State,,Dem,Brad Anderson,,,13.0
+Grundy,PRECINCT 2,Secretary of State,,Dem,Brad Anderson,,,4.0
+Grundy,PRECINCT 3,Secretary of State,,Dem,Brad Anderson,,,7.0
+Grundy,PRECINCT 4,Secretary of State,,Dem,Brad Anderson,,,1.0
+Grundy,PRECINCT 5,Secretary of State,,Dem,Brad Anderson,,,10.0
+Grundy,PRECINCT 6,Secretary of State,,Dem,Brad Anderson,,,14.0
+Grundy,PRECINCT 7,Secretary of State,,Dem,Brad Anderson,,,18.0
+Grundy,,Secretary of State,,Dem,Brad Anderson,,,90.0
+Grundy,PRECINCT 1,Secretary of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 2,Secretary of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 3,Secretary of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 4,Secretary of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 5,Secretary of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 6,Secretary of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 7,Secretary of State,,Dem,Write-in,,,0.0
+Grundy,,Secretary of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 1,Auditor of State,,Rep,Mary Mosiman,,,98.0
+Grundy,PRECINCT 2,Auditor of State,,Rep,Mary Mosiman,,,48.0
+Grundy,PRECINCT 3,Auditor of State,,Rep,Mary Mosiman,,,87.0
+Grundy,PRECINCT 4,Auditor of State,,Rep,Mary Mosiman,,,55.0
+Grundy,PRECINCT 5,Auditor of State,,Rep,Mary Mosiman,,,99.0
+Grundy,PRECINCT 6,Auditor of State,,Rep,Mary Mosiman,,,148.0
+Grundy,PRECINCT 7,Auditor of State,,Rep,Mary Mosiman,,,125.0
+Grundy,,Auditor of State,,Rep,Mary Mosiman,,,738.0
+Grundy,PRECINCT 1,Auditor of State,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 2,Auditor of State,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 3,Auditor of State,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 4,Auditor of State,,Rep,Write-in,,,1.0
+Grundy,PRECINCT 5,Auditor of State,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 6,Auditor of State,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 7,Auditor of State,,Rep,Write-in,,,0.0
+Grundy,,Auditor of State,,Rep,Write-in,,,1.0
+Grundy,PRECINCT 1,Auditor of State,,Dem,Jonathan Neiderbach,,,12.0
+Grundy,PRECINCT 2,Auditor of State,,Dem,Jonathan Neiderbach,,,5.0
+Grundy,PRECINCT 3,Auditor of State,,Dem,Jonathan Neiderbach,,,7.0
+Grundy,PRECINCT 4,Auditor of State,,Dem,Jonathan Neiderbach,,,1.0
+Grundy,PRECINCT 5,Auditor of State,,Dem,Jonathan Neiderbach,,,10.0
+Grundy,PRECINCT 6,Auditor of State,,Dem,Jonathan Neiderbach,,,14.0
+Grundy,PRECINCT 7,Auditor of State,,Dem,Jonathan Neiderbach,,,18.0
+Grundy,,Auditor of State,,Dem,Jonathan Neiderbach,,,88.0
+Grundy,PRECINCT 1,Auditor of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 2,Auditor of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 3,Auditor of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 4,Auditor of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 5,Auditor of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 6,Auditor of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 7,Auditor of State,,Dem,Write-in,,,0.0
+Grundy,,Auditor of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 1,Treasurer of State,,Rep,Write-in,,,3.0
+Grundy,PRECINCT 2,Treasurer of State,,Rep,Write-in,,,3.0
+Grundy,PRECINCT 3,Treasurer of State,,Rep,Write-in,,,1.0
+Grundy,PRECINCT 4,Treasurer of State,,Rep,Write-in,,,4.0
+Grundy,PRECINCT 5,Treasurer of State,,Rep,Write-in,,,6.0
+Grundy,PRECINCT 6,Treasurer of State,,Rep,Write-in,,,4.0
+Grundy,PRECINCT 7,Treasurer of State,,Rep,Write-in,,,3.0
+Grundy,,Treasurer of State,,Rep,Write-in,,,24.0
+Grundy,PRECINCT 1,Treasurer of State,,Dem,Michael L. Fitzgerald,,,13.0
+Grundy,PRECINCT 2,Treasurer of State,,Dem,Michael L. Fitzgerald,,,5.0
+Grundy,PRECINCT 3,Treasurer of State,,Dem,Michael L. Fitzgerald,,,7.0
+Grundy,PRECINCT 4,Treasurer of State,,Dem,Michael L. Fitzgerald,,,2.0
+Grundy,PRECINCT 5,Treasurer of State,,Dem,Michael L. Fitzgerald,,,11.0
+Grundy,PRECINCT 6,Treasurer of State,,Dem,Michael L. Fitzgerald,,,15.0
+Grundy,PRECINCT 7,Treasurer of State,,Dem,Michael L. Fitzgerald,,,18.0
+Grundy,,Treasurer of State,,Dem,Michael L. Fitzgerald,,,97.0
+Grundy,PRECINCT 1,Treasurer of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 2,Treasurer of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 3,Treasurer of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 4,Treasurer of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 5,Treasurer of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 6,Treasurer of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 7,Treasurer of State,,Dem,Write-in,,,0.0
+Grundy,,Treasurer of State,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 1,Secretary of Agriculture,,Rep,Bill Northey,,,113.0
+Grundy,PRECINCT 2,Secretary of Agriculture,,Rep,Bill Northey,,,47.0
+Grundy,PRECINCT 3,Secretary of Agriculture,,Rep,Bill Northey,,,94.0
+Grundy,PRECINCT 4,Secretary of Agriculture,,Rep,Bill Northey,,,58.0
+Grundy,PRECINCT 5,Secretary of Agriculture,,Rep,Bill Northey,,,105.0
+Grundy,PRECINCT 6,Secretary of Agriculture,,Rep,Bill Northey,,,157.0
+Grundy,PRECINCT 7,Secretary of Agriculture,,Rep,Bill Northey,,,136.0
+Grundy,,Secretary of Agriculture,,Rep,Bill Northey,,,791.0
+Grundy,PRECINCT 1,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 2,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 3,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 4,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 5,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Grundy,PRECINCT 6,Secretary of Agriculture,,Rep,Write-in,,,1.0
+Grundy,PRECINCT 7,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Grundy,,Secretary of Agriculture,,Rep,Write-in,,,1.0
+Grundy,PRECINCT 1,Secretary of Agriculture,,Dem,Sherrie Taha,,,12.0
+Grundy,PRECINCT 2,Secretary of Agriculture,,Dem,Sherrie Taha,,,5.0
+Grundy,PRECINCT 3,Secretary of Agriculture,,Dem,Sherrie Taha,,,7.0
+Grundy,PRECINCT 4,Secretary of Agriculture,,Dem,Sherrie Taha,,,1.0
+Grundy,PRECINCT 5,Secretary of Agriculture,,Dem,Sherrie Taha,,,9.0
+Grundy,PRECINCT 6,Secretary of Agriculture,,Dem,Sherrie Taha,,,13.0
+Grundy,PRECINCT 7,Secretary of Agriculture,,Dem,Sherrie Taha,,,18.0
+Grundy,,Secretary of Agriculture,,Dem,Sherrie Taha,,,87.0
+Grundy,PRECINCT 1,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 2,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 3,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 4,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 5,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 6,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 7,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Grundy,,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 1,Attorney General,,Rep,Write-in,,,3.0
+Grundy,PRECINCT 2,Attorney General,,Rep,Write-in,,,1.0
+Grundy,PRECINCT 3,Attorney General,,Rep,Write-in,,,1.0
+Grundy,PRECINCT 4,Attorney General,,Rep,Write-in,,,3.0
+Grundy,PRECINCT 5,Attorney General,,Rep,Write-in,,,4.0
+Grundy,PRECINCT 6,Attorney General,,Rep,Write-in,,,2.0
+Grundy,PRECINCT 7,Attorney General,,Rep,Write-in,,,3.0
+Grundy,,Attorney General,,Rep,Write-in,,,18.0
+Grundy,PRECINCT 1,Attorney General,,Dem,Tom Miller,,,13.0
+Grundy,PRECINCT 2,Attorney General,,Dem,Tom Miller,,,5.0
+Grundy,PRECINCT 3,Attorney General,,Dem,Tom Miller,,,7.0
+Grundy,PRECINCT 4,Attorney General,,Dem,Tom Miller,,,2.0
+Grundy,PRECINCT 5,Attorney General,,Dem,Tom Miller,,,10.0
+Grundy,PRECINCT 6,Attorney General,,Dem,Tom Miller,,,15.0
+Grundy,PRECINCT 7,Attorney General,,Dem,Tom Miller,,,18.0
+Grundy,,Attorney General,,Dem,Tom Miller,,,96.0
+Grundy,PRECINCT 1,Attorney General,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 2,Attorney General,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 3,Attorney General,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 4,Attorney General,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 5,Attorney General,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 6,Attorney General,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 7,Attorney General,,Dem,Write-in,,,0.0
+Grundy,,Attorney General,,Dem,Write-in,,,0.0
+Grundy,PRECINCT 1,State Senator,25,Rep,Bill Dix,,,108.0
+Grundy,PRECINCT 2,State Senator,25,Rep,Bill Dix,,,49.0
+Grundy,PRECINCT 3,State Senator,25,Rep,Bill Dix,,,95.0
+Grundy,PRECINCT 4,State Senator,25,Rep,Bill Dix,,,60.0
+Grundy,PRECINCT 5,State Senator,25,Rep,Bill Dix,,,99.0
+Grundy,PRECINCT 6,State Senator,25,Rep,Bill Dix,,,160.0
+Grundy,PRECINCT 7,State Senator,25,Rep,Bill Dix,,,133.0
+Grundy,,State Senator,25,Rep,Bill Dix,,,780.0
+Grundy,PRECINCT 1,State Senator,25,Rep,Write-in,,,0.0
+Grundy,PRECINCT 2,State Senator,25,Rep,Write-in,,,0.0
+Grundy,PRECINCT 3,State Senator,25,Rep,Write-in,,,0.0
+Grundy,PRECINCT 4,State Senator,25,Rep,Write-in,,,0.0
+Grundy,PRECINCT 5,State Senator,25,Rep,Write-in,,,1.0
+Grundy,PRECINCT 6,State Senator,25,Rep,Write-in,,,0.0
+Grundy,PRECINCT 7,State Senator,25,Rep,Write-in,,,0.0
+Grundy,,State Senator,25,Rep,Write-in,,,2.0
+Grundy,PRECINCT 1,State Senator,25,Dem,Write-in,,,0.0
+Grundy,PRECINCT 2,State Senator,25,Dem,Write-in,,,0.0
+Grundy,PRECINCT 3,State Senator,25,Dem,Write-in,,,0.0
+Grundy,PRECINCT 4,State Senator,25,Dem,Write-in,,,0.0
+Grundy,PRECINCT 5,State Senator,25,Dem,Write-in,,,0.0
+Grundy,PRECINCT 6,State Senator,25,Dem,Write-in,,,0.0
+Grundy,PRECINCT 7,State Senator,25,Dem,Write-in,,,2.0
+Grundy,,State Senator,25,Dem,Write-in,,,2.0
+Grundy,PRECINCT 1,State Rep.,50,Rep,Pat Grassley,,,115.0
+Grundy,PRECINCT 2,State Rep.,50,Rep,Pat Grassley,,,45.0
+Grundy,PRECINCT 3,State Rep.,50,Rep,Pat Grassley,,,99.0
+Grundy,PRECINCT 4,State Rep.,50,Rep,Pat Grassley,,,62.0
+Grundy,PRECINCT 5,State Rep.,50,Rep,Pat Grassley,,,110.0
+Grundy,PRECINCT 6,State Rep.,50,Rep,Pat Grassley,,,168.0
+Grundy,PRECINCT 7,State Rep.,50,Rep,Pat Grassley,,,135.0
+Grundy,,State Rep.,50,Rep,Pat Grassley,,,816.0
+Grundy,PRECINCT 1,State Rep.,50,Rep,Write-in,,,0.0
+Grundy,PRECINCT 2,State Rep.,50,Rep,Write-in,,,1.0
+Grundy,PRECINCT 3,State Rep.,50,Rep,Write-in,,,3.0
+Grundy,PRECINCT 4,State Rep.,50,Rep,Write-in,,,0.0
+Grundy,PRECINCT 5,State Rep.,50,Rep,Write-in,,,2.0
+Grundy,PRECINCT 6,State Rep.,50,Rep,Write-in,,,1.0
+Grundy,PRECINCT 7,State Rep.,50,Rep,Write-in,,,0.0
+Grundy,,State Rep.,50,Rep,Write-in,,,7.0
+Grundy,PRECINCT 1,State Rep.,50,Dem,Doris Fritz,,,12.0
+Grundy,PRECINCT 2,State Rep.,50,Dem,Doris Fritz,,,5.0
+Grundy,PRECINCT 3,State Rep.,50,Dem,Doris Fritz,,,7.0
+Grundy,PRECINCT 4,State Rep.,50,Dem,Doris Fritz,,,1.0
+Grundy,PRECINCT 5,State Rep.,50,Dem,Doris Fritz,,,10.0
+Grundy,PRECINCT 6,State Rep.,50,Dem,Doris Fritz,,,13.0
+Grundy,PRECINCT 7,State Rep.,50,Dem,Doris Fritz,,,16.0
+Grundy,,State Rep.,50,Dem,Doris Fritz,,,86.0
+Grundy,PRECINCT 1,State Rep.,50,Dem,Write-in,,,0.0
+Grundy,PRECINCT 2,State Rep.,50,Dem,Write-in,,,0.0
+Grundy,PRECINCT 3,State Rep.,50,Dem,Write-in,,,0.0
+Grundy,PRECINCT 4,State Rep.,50,Dem,Write-in,,,0.0
+Grundy,PRECINCT 5,State Rep.,50,Dem,Write-in,,,0.0
+Grundy,PRECINCT 6,State Rep.,50,Dem,Write-in,,,0.0
+Grundy,PRECINCT 7,State Rep.,50,Dem,Write-in,,,0.0
+Grundy,,State Rep.,50,Dem,Write-in,,,0.0

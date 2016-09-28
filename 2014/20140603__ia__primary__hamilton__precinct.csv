@@ -1,0 +1,343 @@
+county,precinct,office,district,party,candidate,absentee,polling,votes
+Hamilton,Precinct 1 CA-FD-FM-IN,U.S. Senator,,Rep,Sam Clovis,,,14.0
+Hamilton,Precinct 2 BL-LB-WM,U.S. Senator,,Rep,Sam Clovis,1.0,8.0,9.0
+Hamilton,Precinct 3 CL-HA-MN-WB,U.S. Senator,,Rep,Sam Clovis,1.0,37.0,38.0
+Hamilton,Precinct 4 LY-EL,U.S. Senator,,Rep,Sam Clovis,2.0,25.0,27.0
+Hamilton,Precinct 5 LC-RG-SC,U.S. Senator,,Rep,Sam Clovis,8.0,17.0,25.0
+Hamilton,Webster City 1,U.S. Senator,,Rep,Sam Clovis,4.0,26.0,30.0
+Hamilton,Webster City 2,U.S. Senator,,Rep,Sam Clovis,3.0,25.0,28.0
+Hamilton,Webster City 3,U.S. Senator,,Rep,Sam Clovis,5.0,12.0,17.0
+Hamilton,,U.S. Senator,,Rep,Sam Clovis,,,188.0
+Hamilton,Precinct 1 CA-FD-FM-IN,U.S. Senator,,Rep,Joni Ernst,,,53.0
+Hamilton,Precinct 2 BL-LB-WM,U.S. Senator,,Rep,Joni Ernst,7.0,64.0,71.0
+Hamilton,Precinct 3 CL-HA-MN-WB,U.S. Senator,,Rep,Joni Ernst,4.0,68.0,72.0
+Hamilton,Precinct 4 LY-EL,U.S. Senator,,Rep,Joni Ernst,3.0,83.0,86.0
+Hamilton,Precinct 5 LC-RG-SC,U.S. Senator,,Rep,Joni Ernst,3.0,39.0,42.0
+Hamilton,Webster City 1,U.S. Senator,,Rep,Joni Ernst,7.0,72.0,79.0
+Hamilton,Webster City 2,U.S. Senator,,Rep,Joni Ernst,13.0,116.0,129.0
+Hamilton,Webster City 3,U.S. Senator,,Rep,Joni Ernst,3.0,47.0,50.0
+Hamilton,,U.S. Senator,,Rep,Joni Ernst,,,587.0
+Hamilton,Precinct 1 CA-FD-FM-IN,U.S. Senator,,Rep,Mark Jacobs,,,9.0
+Hamilton,Precinct 2 BL-LB-WM,U.S. Senator,,Rep,Mark Jacobs,3.0,7.0,10.0
+Hamilton,Precinct 3 CL-HA-MN-WB,U.S. Senator,,Rep,Mark Jacobs,1.0,10.0,11.0
+Hamilton,Precinct 4 LY-EL,U.S. Senator,,Rep,Mark Jacobs,1.0,7.0,8.0
+Hamilton,Precinct 5 LC-RG-SC,U.S. Senator,,Rep,Mark Jacobs,3.0,11.0,14.0
+Hamilton,Webster City 1,U.S. Senator,,Rep,Mark Jacobs,10.0,23.0,33.0
+Hamilton,Webster City 2,U.S. Senator,,Rep,Mark Jacobs,11.0,26.0,37.0
+Hamilton,Webster City 3,U.S. Senator,,Rep,Mark Jacobs,3.0,7.0,10.0
+Hamilton,,U.S. Senator,,Rep,Mark Jacobs,,,133.0
+Hamilton,Precinct 1 CA-FD-FM-IN,U.S. Senator,,Rep,Scott Schaben,,,1.0
+Hamilton,Precinct 2 BL-LB-WM,U.S. Senator,,Rep,Scott Schaben,0.0,1.0,1.0
+Hamilton,Precinct 3 CL-HA-MN-WB,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Hamilton,Precinct 4 LY-EL,U.S. Senator,,Rep,Scott Schaben,0.0,2.0,2.0
+Hamilton,Precinct 5 LC-RG-SC,U.S. Senator,,Rep,Scott Schaben,1.0,0.0,1.0
+Hamilton,Webster City 1,U.S. Senator,,Rep,Scott Schaben,0.0,1.0,1.0
+Hamilton,Webster City 2,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Hamilton,Webster City 3,U.S. Senator,,Rep,Scott Schaben,0.0,2.0,2.0
+Hamilton,,U.S. Senator,,Rep,Scott Schaben,,,8.0
+Hamilton,Precinct 1 CA-FD-FM-IN,U.S. Senator,,Rep,Matt Whitaker,,,4.0
+Hamilton,Precinct 2 BL-LB-WM,U.S. Senator,,Rep,Matt Whitaker,0.0,5.0,5.0
+Hamilton,Precinct 3 CL-HA-MN-WB,U.S. Senator,,Rep,Matt Whitaker,1.0,7.0,8.0
+Hamilton,Precinct 4 LY-EL,U.S. Senator,,Rep,Matt Whitaker,0.0,5.0,5.0
+Hamilton,Precinct 5 LC-RG-SC,U.S. Senator,,Rep,Matt Whitaker,0.0,8.0,8.0
+Hamilton,Webster City 1,U.S. Senator,,Rep,Matt Whitaker,1.0,5.0,6.0
+Hamilton,Webster City 2,U.S. Senator,,Rep,Matt Whitaker,5.0,7.0,12.0
+Hamilton,Webster City 3,U.S. Senator,,Rep,Matt Whitaker,2.0,3.0,5.0
+Hamilton,,U.S. Senator,,Rep,Matt Whitaker,,,53.0
+Hamilton,Precinct 1 CA-FD-FM-IN,U.S. Senator,,Rep,Write-in,,,0.0
+Hamilton,Precinct 2 BL-LB-WM,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 3 CL-HA-MN-WB,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 4 LY-EL,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 5 LC-RG-SC,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 1,U.S. Senator,,Rep,Write-in,0.0,1.0,1.0
+Hamilton,Webster City 2,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 3,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,,U.S. Senator,,Rep,Write-in,,,1.0
+Hamilton,Precinct 1 CA-FD-FM-IN,U.S. Senator,,Dem,Bruce Braley,,,18.0
+Hamilton,Precinct 2 BL-LB-WM,U.S. Senator,,Dem,Bruce Braley,0.0,6.0,6.0
+Hamilton,Precinct 3 CL-HA-MN-WB,U.S. Senator,,Dem,Bruce Braley,6.0,9.0,15.0
+Hamilton,Precinct 4 LY-EL,U.S. Senator,,Dem,Bruce Braley,1.0,19.0,20.0
+Hamilton,Precinct 5 LC-RG-SC,U.S. Senator,,Dem,Bruce Braley,1.0,5.0,6.0
+Hamilton,Webster City 1,U.S. Senator,,Dem,Bruce Braley,8.0,29.0,37.0
+Hamilton,Webster City 2,U.S. Senator,,Dem,Bruce Braley,4.0,20.0,24.0
+Hamilton,Webster City 3,U.S. Senator,,Dem,Bruce Braley,1.0,6.0,7.0
+Hamilton,,U.S. Senator,,Dem,Bruce Braley,,,135.0
+Hamilton,Precinct 1 CA-FD-FM-IN,U.S. Senator,,Dem,Write-in,,,0.0
+Hamilton,Precinct 2 BL-LB-WM,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 3 CL-HA-MN-WB,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 4 LY-EL,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 5 LC-RG-SC,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 1,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 2,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 3,U.S. Senator,,Dem,Write-in,0.0,2.0,2.0
+Hamilton,,U.S. Senator,,Dem,Write-in,,,2.0
+Hamilton,Precinct 1 CA-FD-FM-IN,U.S. Rep.,4,Rep,Steve King,,,70.0
+Hamilton,Precinct 2 BL-LB-WM,U.S. Rep.,4,Rep,Steve King,11.0,74.0,85.0
+Hamilton,Precinct 3 CL-HA-MN-WB,U.S. Rep.,4,Rep,Steve King,7.0,108.0,115.0
+Hamilton,Precinct 4 LY-EL,U.S. Rep.,4,Rep,Steve King,6.0,107.0,113.0
+Hamilton,Precinct 5 LC-RG-SC,U.S. Rep.,4,Rep,Steve King,15.0,69.0,84.0
+Hamilton,Webster City 1,U.S. Rep.,4,Rep,Steve King,19.0,98.0,117.0
+Hamilton,Webster City 2,U.S. Rep.,4,Rep,Steve King,24.0,149.0,173.0
+Hamilton,Webster City 3,U.S. Rep.,4,Rep,Steve King,11.0,54.0,65.0
+Hamilton,,U.S. Rep.,4,Rep,Steve King,,,828.0
+Hamilton,Precinct 1 CA-FD-FM-IN,U.S. Rep.,4,Rep,Write-in,,,1.0
+Hamilton,Precinct 2 BL-LB-WM,U.S. Rep.,4,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 3 CL-HA-MN-WB,U.S. Rep.,4,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 4 LY-EL,U.S. Rep.,4,Rep,Write-in,0.0,1.0,1.0
+Hamilton,Precinct 5 LC-RG-SC,U.S. Rep.,4,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 1,U.S. Rep.,4,Rep,Write-in,0.0,1.0,1.0
+Hamilton,Webster City 2,U.S. Rep.,4,Rep,Write-in,0.0,1.0,1.0
+Hamilton,Webster City 3,U.S. Rep.,4,Rep,Write-in,0.0,0.0,0.0
+Hamilton,,U.S. Rep.,4,Rep,Write-in,,,4.0
+Hamilton,Precinct 1 CA-FD-FM-IN,U.S. Rep.,4,Dem,Jim Mowrer,,,17.0
+Hamilton,Precinct 2 BL-LB-WM,U.S. Rep.,4,Dem,Jim Mowrer,0.0,4.0,4.0
+Hamilton,Precinct 3 CL-HA-MN-WB,U.S. Rep.,4,Dem,Jim Mowrer,5.0,8.0,13.0
+Hamilton,Precinct 4 LY-EL,U.S. Rep.,4,Dem,Jim Mowrer,1.0,19.0,20.0
+Hamilton,Precinct 5 LC-RG-SC,U.S. Rep.,4,Dem,Jim Mowrer,0.0,4.0,4.0
+Hamilton,Webster City 1,U.S. Rep.,4,Dem,Jim Mowrer,7.0,25.0,32.0
+Hamilton,Webster City 2,U.S. Rep.,4,Dem,Jim Mowrer,4.0,18.0,22.0
+Hamilton,Webster City 3,U.S. Rep.,4,Dem,Jim Mowrer,1.0,8.0,9.0
+Hamilton,,U.S. Rep.,4,Dem,Jim Mowrer,,,124.0
+Hamilton,Precinct 1 CA-FD-FM-IN,U.S. Rep.,4,Dem,Write-in,,,0.0
+Hamilton,Precinct 2 BL-LB-WM,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 3 CL-HA-MN-WB,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 4 LY-EL,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 5 LC-RG-SC,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 1,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 2,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 3,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Hamilton,,U.S. Rep.,4,Dem,Write-in,,,0.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Governor,,Rep,Terry E. Branstad,,,66.0
+Hamilton,Precinct 2 BL-LB-WM,Governor,,Rep,Terry E. Branstad,7.0,73.0,80.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Governor,,Rep,Terry E. Branstad,7.0,91.0,98.0
+Hamilton,Precinct 4 LY-EL,Governor,,Rep,Terry E. Branstad,6.0,97.0,103.0
+Hamilton,Precinct 5 LC-RG-SC,Governor,,Rep,Terry E. Branstad,14.0,59.0,73.0
+Hamilton,Webster City 1,Governor,,Rep,Terry E. Branstad,20.0,85.0,105.0
+Hamilton,Webster City 2,Governor,,Rep,Terry E. Branstad,26.0,140.0,166.0
+Hamilton,Webster City 3,Governor,,Rep,Terry E. Branstad,13.0,49.0,62.0
+Hamilton,,Governor,,Rep,Terry E. Branstad,,,758.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Governor,,Rep,Tom Hoefling,,,14.0
+Hamilton,Precinct 2 BL-LB-WM,Governor,,Rep,Tom Hoefling,4.0,11.0,15.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Governor,,Rep,Tom Hoefling,0.0,28.0,28.0
+Hamilton,Precinct 4 LY-EL,Governor,,Rep,Tom Hoefling,0.0,22.0,22.0
+Hamilton,Precinct 5 LC-RG-SC,Governor,,Rep,Tom Hoefling,1.0,15.0,16.0
+Hamilton,Webster City 1,Governor,,Rep,Tom Hoefling,5.0,35.0,40.0
+Hamilton,Webster City 2,Governor,,Rep,Tom Hoefling,7.0,31.0,38.0
+Hamilton,Webster City 3,Governor,,Rep,Tom Hoefling,3.0,21.0,24.0
+Hamilton,,Governor,,Rep,Tom Hoefling,,,199.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Governor,,Rep,Write-in,,,0.0
+Hamilton,Precinct 2 BL-LB-WM,Governor,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Governor,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 4 LY-EL,Governor,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 5 LC-RG-SC,Governor,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 1,Governor,,Rep,Write-in,0.0,2.0,2.0
+Hamilton,Webster City 2,Governor,,Rep,Write-in,0.0,1.0,1.0
+Hamilton,Webster City 3,Governor,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,,Governor,,Rep,Write-in,,,3.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Governor,,Dem,Jack Hatch,,,17.0
+Hamilton,Precinct 2 BL-LB-WM,Governor,,Dem,Jack Hatch,0.0,5.0,5.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Governor,,Dem,Jack Hatch,6.0,8.0,14.0
+Hamilton,Precinct 4 LY-EL,Governor,,Dem,Jack Hatch,1.0,20.0,21.0
+Hamilton,Precinct 5 LC-RG-SC,Governor,,Dem,Jack Hatch,0.0,5.0,5.0
+Hamilton,Webster City 1,Governor,,Dem,Jack Hatch,7.0,27.0,34.0
+Hamilton,Webster City 2,Governor,,Dem,Jack Hatch,4.0,20.0,24.0
+Hamilton,Webster City 3,Governor,,Dem,Jack Hatch,1.0,7.0,8.0
+Hamilton,,Governor,,Dem,Jack Hatch,,,131.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Governor,,Dem,Write-in,,,0.0
+Hamilton,Precinct 2 BL-LB-WM,Governor,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Governor,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 4 LY-EL,Governor,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 5 LC-RG-SC,Governor,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 1,Governor,,Dem,Write-in,0.0,1.0,1.0
+Hamilton,Webster City 2,Governor,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 3,Governor,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,,Governor,,Dem,Write-in,,,1.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Secretary of State,,Rep,Paul D. Pate,,,54.0
+Hamilton,Precinct 2 BL-LB-WM,Secretary of State,,Rep,Paul D. Pate,10.0,63.0,73.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Secretary of State,,Rep,Paul D. Pate,6.0,91.0,97.0
+Hamilton,Precinct 4 LY-EL,Secretary of State,,Rep,Paul D. Pate,4.0,95.0,99.0
+Hamilton,Precinct 5 LC-RG-SC,Secretary of State,,Rep,Paul D. Pate,15.0,57.0,72.0
+Hamilton,Webster City 1,Secretary of State,,Rep,Paul D. Pate,13.0,89.0,102.0
+Hamilton,Webster City 2,Secretary of State,,Rep,Paul D. Pate,22.0,132.0,154.0
+Hamilton,Webster City 3,Secretary of State,,Rep,Paul D. Pate,9.0,46.0,55.0
+Hamilton,,Secretary of State,,Rep,Paul D. Pate,,,712.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Secretary of State,,Rep,Write-in,,,0.0
+Hamilton,Precinct 2 BL-LB-WM,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 4 LY-EL,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 5 LC-RG-SC,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 1,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 2,Secretary of State,,Rep,Write-in,0.0,1.0,1.0
+Hamilton,Webster City 3,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,,Secretary of State,,Rep,Write-in,,,1.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Secretary of State,,Dem,Brad Anderson,,,17.0
+Hamilton,Precinct 2 BL-LB-WM,Secretary of State,,Dem,Brad Anderson,0.0,4.0,4.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Secretary of State,,Dem,Brad Anderson,6.0,8.0,14.0
+Hamilton,Precinct 4 LY-EL,Secretary of State,,Dem,Brad Anderson,1.0,19.0,20.0
+Hamilton,Precinct 5 LC-RG-SC,Secretary of State,,Dem,Brad Anderson,0.0,4.0,4.0
+Hamilton,Webster City 1,Secretary of State,,Dem,Brad Anderson,8.0,25.0,33.0
+Hamilton,Webster City 2,Secretary of State,,Dem,Brad Anderson,4.0,19.0,23.0
+Hamilton,Webster City 3,Secretary of State,,Dem,Brad Anderson,1.0,8.0,9.0
+Hamilton,,Secretary of State,,Dem,Brad Anderson,,,127.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Secretary of State,,Dem,Write-in,,,0.0
+Hamilton,Precinct 2 BL-LB-WM,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 4 LY-EL,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 5 LC-RG-SC,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 1,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 2,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 3,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,,Secretary of State,,Dem,Write-in,,,0.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Auditor of State,,Rep,Mary Mosiman,,,55.0
+Hamilton,Precinct 2 BL-LB-WM,Auditor of State,,Rep,Mary Mosiman,10.0,58.0,68.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Auditor of State,,Rep,Mary Mosiman,7.0,92.0,99.0
+Hamilton,Precinct 4 LY-EL,Auditor of State,,Rep,Mary Mosiman,4.0,95.0,99.0
+Hamilton,Precinct 5 LC-RG-SC,Auditor of State,,Rep,Mary Mosiman,14.0,59.0,73.0
+Hamilton,Webster City 1,Auditor of State,,Rep,Mary Mosiman,18.0,86.0,104.0
+Hamilton,Webster City 2,Auditor of State,,Rep,Mary Mosiman,22.0,133.0,155.0
+Hamilton,Webster City 3,Auditor of State,,Rep,Mary Mosiman,9.0,47.0,56.0
+Hamilton,,Auditor of State,,Rep,Mary Mosiman,,,715.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Auditor of State,,Rep,Write-in,,,0.0
+Hamilton,Precinct 2 BL-LB-WM,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 4 LY-EL,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 5 LC-RG-SC,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 1,Auditor of State,,Rep,Write-in,0.0,1.0,1.0
+Hamilton,Webster City 2,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 3,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,,Auditor of State,,Rep,Write-in,,,1.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Auditor of State,,Dem,Jonathan Neiderbach,,,17.0
+Hamilton,Precinct 2 BL-LB-WM,Auditor of State,,Dem,Jonathan Neiderbach,0.0,4.0,4.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Auditor of State,,Dem,Jonathan Neiderbach,6.0,8.0,14.0
+Hamilton,Precinct 4 LY-EL,Auditor of State,,Dem,Jonathan Neiderbach,1.0,19.0,20.0
+Hamilton,Precinct 5 LC-RG-SC,Auditor of State,,Dem,Jonathan Neiderbach,0.0,4.0,4.0
+Hamilton,Webster City 1,Auditor of State,,Dem,Jonathan Neiderbach,7.0,24.0,31.0
+Hamilton,Webster City 2,Auditor of State,,Dem,Jonathan Neiderbach,4.0,18.0,22.0
+Hamilton,Webster City 3,Auditor of State,,Dem,Jonathan Neiderbach,1.0,8.0,9.0
+Hamilton,,Auditor of State,,Dem,Jonathan Neiderbach,,,124.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Auditor of State,,Dem,Write-in,,,0.0
+Hamilton,Precinct 2 BL-LB-WM,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 4 LY-EL,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 5 LC-RG-SC,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 1,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 2,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 3,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,,Auditor of State,,Dem,Write-in,,,0.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Treasurer of State,,Rep,Write-in,,,1.0
+Hamilton,Precinct 2 BL-LB-WM,Treasurer of State,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Treasurer of State,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 4 LY-EL,Treasurer of State,,Rep,Write-in,0.0,2.0,2.0
+Hamilton,Precinct 5 LC-RG-SC,Treasurer of State,,Rep,Write-in,1.0,0.0,1.0
+Hamilton,Webster City 1,Treasurer of State,,Rep,Write-in,0.0,5.0,5.0
+Hamilton,Webster City 2,Treasurer of State,,Rep,Write-in,0.0,3.0,3.0
+Hamilton,Webster City 3,Treasurer of State,,Rep,Write-in,0.0,4.0,4.0
+Hamilton,,Treasurer of State,,Rep,Write-in,,,16.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Treasurer of State,,Dem,Michael L. Fitzgerald,,,17.0
+Hamilton,Precinct 2 BL-LB-WM,Treasurer of State,,Dem,Michael L. Fitzgerald,0.0,6.0,6.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Treasurer of State,,Dem,Michael L. Fitzgerald,7.0,9.0,16.0
+Hamilton,Precinct 4 LY-EL,Treasurer of State,,Dem,Michael L. Fitzgerald,1.0,20.0,21.0
+Hamilton,Precinct 5 LC-RG-SC,Treasurer of State,,Dem,Michael L. Fitzgerald,1.0,5.0,6.0
+Hamilton,Webster City 1,Treasurer of State,,Dem,Michael L. Fitzgerald,8.0,27.0,35.0
+Hamilton,Webster City 2,Treasurer of State,,Dem,Michael L. Fitzgerald,4.0,20.0,24.0
+Hamilton,Webster City 3,Treasurer of State,,Dem,Michael L. Fitzgerald,1.0,7.0,8.0
+Hamilton,,Treasurer of State,,Dem,Michael L. Fitzgerald,,,136.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Treasurer of State,,Dem,Write-in,,,0.0
+Hamilton,Precinct 2 BL-LB-WM,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 4 LY-EL,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 5 LC-RG-SC,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 1,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 2,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 3,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,,Treasurer of State,,Dem,Write-in,,,0.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Secretary of Agriculture,,Rep,Bill Northey,,,68.0
+Hamilton,Precinct 2 BL-LB-WM,Secretary of Agriculture,,Rep,Bill Northey,11.0,70.0,81.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Secretary of Agriculture,,Rep,Bill Northey,7.0,104.0,111.0
+Hamilton,Precinct 4 LY-EL,Secretary of Agriculture,,Rep,Bill Northey,5.0,104.0,109.0
+Hamilton,Precinct 5 LC-RG-SC,Secretary of Agriculture,,Rep,Bill Northey,15.0,64.0,79.0
+Hamilton,Webster City 1,Secretary of Agriculture,,Rep,Bill Northey,20.0,99.0,119.0
+Hamilton,Webster City 2,Secretary of Agriculture,,Rep,Bill Northey,24.0,142.0,166.0
+Hamilton,Webster City 3,Secretary of Agriculture,,Rep,Bill Northey,9.0,47.0,56.0
+Hamilton,,Secretary of Agriculture,,Rep,Bill Northey,,,795.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Hamilton,Precinct 2 BL-LB-WM,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 4 LY-EL,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 5 LC-RG-SC,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 1,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 2,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 3,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Secretary of Agriculture,,Dem,Sherrie Taha,,,16.0
+Hamilton,Precinct 2 BL-LB-WM,Secretary of Agriculture,,Dem,Sherrie Taha,0.0,4.0,4.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Secretary of Agriculture,,Dem,Sherrie Taha,6.0,9.0,15.0
+Hamilton,Precinct 4 LY-EL,Secretary of Agriculture,,Dem,Sherrie Taha,1.0,18.0,19.0
+Hamilton,Precinct 5 LC-RG-SC,Secretary of Agriculture,,Dem,Sherrie Taha,0.0,4.0,4.0
+Hamilton,Webster City 1,Secretary of Agriculture,,Dem,Sherrie Taha,8.0,25.0,33.0
+Hamilton,Webster City 2,Secretary of Agriculture,,Dem,Sherrie Taha,4.0,17.0,21.0
+Hamilton,Webster City 3,Secretary of Agriculture,,Dem,Sherrie Taha,1.0,8.0,9.0
+Hamilton,,Secretary of Agriculture,,Dem,Sherrie Taha,,,124.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Hamilton,Precinct 2 BL-LB-WM,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 4 LY-EL,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 5 LC-RG-SC,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 1,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 2,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 3,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Attorney General,,Rep,Write-in,,,1.0
+Hamilton,Precinct 2 BL-LB-WM,Attorney General,,Rep,Write-in,0.0,2.0,2.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 4 LY-EL,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 5 LC-RG-SC,Attorney General,,Rep,Write-in,1.0,0.0,1.0
+Hamilton,Webster City 1,Attorney General,,Rep,Write-in,2.0,4.0,6.0
+Hamilton,Webster City 2,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 3,Attorney General,,Rep,Write-in,0.0,3.0,3.0
+Hamilton,,Attorney General,,Rep,Write-in,,,13.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Attorney General,,Dem,Tom Miller,,,17.0
+Hamilton,Precinct 2 BL-LB-WM,Attorney General,,Dem,Tom Miller,0.0,5.0,5.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Attorney General,,Dem,Tom Miller,7.0,10.0,17.0
+Hamilton,Precinct 4 LY-EL,Attorney General,,Dem,Tom Miller,1.0,19.0,20.0
+Hamilton,Precinct 5 LC-RG-SC,Attorney General,,Dem,Tom Miller,1.0,5.0,6.0
+Hamilton,Webster City 1,Attorney General,,Dem,Tom Miller,9.0,30.0,39.0
+Hamilton,Webster City 2,Attorney General,,Dem,Tom Miller,3.0,20.0,23.0
+Hamilton,Webster City 3,Attorney General,,Dem,Tom Miller,0.0,8.0,8.0
+Hamilton,,Attorney General,,Dem,Tom Miller,,,138.0
+Hamilton,Precinct 1 CA-FD-FM-IN,Attorney General,,Dem,Write-in,,,0.0
+Hamilton,Precinct 2 BL-LB-WM,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 3 CL-HA-MN-WB,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 4 LY-EL,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 5 LC-RG-SC,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 1,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 2,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 3,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Hamilton,,Attorney General,,Dem,Write-in,,,0.0
+Hamilton,Precinct 1 CA-FD-FM-IN,State Rep.,48,Rep,Robert Bacon,,,60.0
+Hamilton,Precinct 2 BL-LB-WM,State Rep.,48,Rep,Robert Bacon,11.0,66.0,77.0
+Hamilton,Precinct 3 CL-HA-MN-WB,State Rep.,48,Rep,Robert Bacon,7.0,94.0,101.0
+Hamilton,Precinct 4 LY-EL,State Rep.,48,Rep,Robert Bacon,4.0,95.0,99.0
+Hamilton,Precinct 5 LC-RG-SC,State Rep.,48,Rep,Robert Bacon,9.0,58.0,67.0
+Hamilton,Webster City 1,State Rep.,48,Rep,Robert Bacon,18.0,88.0,106.0
+Hamilton,Webster City 2,State Rep.,48,Rep,Robert Bacon,21.0,136.0,157.0
+Hamilton,Webster City 3,State Rep.,48,Rep,Robert Bacon,10.0,49.0,59.0
+Hamilton,,State Rep.,48,Rep,Robert Bacon,,,731.0
+Hamilton,Precinct 1 CA-FD-FM-IN,State Rep.,48,Rep,Write-in,,,0.0
+Hamilton,Precinct 2 BL-LB-WM,State Rep.,48,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 3 CL-HA-MN-WB,State Rep.,48,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 4 LY-EL,State Rep.,48,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 5 LC-RG-SC,State Rep.,48,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 1,State Rep.,48,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 2,State Rep.,48,Rep,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 3,State Rep.,48,Rep,Write-in,0.0,0.0,0.0
+Hamilton,,State Rep.,48,Rep,Write-in,,,0.0
+Hamilton,Precinct 1 CA-FD-FM-IN,State Rep.,48,Dem,Write-in,,,0.0
+Hamilton,Precinct 2 BL-LB-WM,State Rep.,48,Dem,Write-in,0.0,1.0,1.0
+Hamilton,Precinct 3 CL-HA-MN-WB,State Rep.,48,Dem,Write-in,1.0,0.0,1.0
+Hamilton,Precinct 4 LY-EL,State Rep.,48,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Precinct 5 LC-RG-SC,State Rep.,48,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 1,State Rep.,48,Dem,Write-in,0.0,0.0,0.0
+Hamilton,Webster City 2,State Rep.,48,Dem,Write-in,0.0,1.0,1.0
+Hamilton,Webster City 3,State Rep.,48,Dem,Write-in,0.0,1.0,1.0
+Hamilton,,State Rep.,48,Dem,Write-in,,,4.0

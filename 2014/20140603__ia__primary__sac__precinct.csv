@@ -1,0 +1,381 @@
+county,precinct,office,district,party,candidate,absentee,polling,votes
+Sac,Auburn,U.S. Senator,,Rep,Sam Clovis,,,18.0
+Sac,Early,U.S. Senator,,Rep,Sam Clovis,2.0,20.0,22.0
+Sac,Lake View,U.S. Senator,,Rep,Sam Clovis,1.0,24.0,25.0
+Sac,Lytton,U.S. Senator,,Rep,Sam Clovis,1.0,13.0,14.0
+Sac,Nemaha,U.S. Senator,,Rep,Sam Clovis,0.0,5.0,5.0
+Sac,Odebolt,U.S. Senator,,Rep,Sam Clovis,2.0,24.0,26.0
+Sac,Sac City,U.S. Senator,,Rep,Sam Clovis,6.0,41.0,47.0
+Sac,Schaller,U.S. Senator,,Rep,Sam Clovis,0.0,24.0,24.0
+Sac,Wall Lake,U.S. Senator,,Rep,Sam Clovis,1.0,32.0,33.0
+Sac,,U.S. Senator,,Rep,Sam Clovis,,,214.0
+Sac,Auburn,U.S. Senator,,Rep,Joni Ernst,,,28.0
+Sac,Early,U.S. Senator,,Rep,Joni Ernst,1.0,16.0,17.0
+Sac,Lake View,U.S. Senator,,Rep,Joni Ernst,8.0,79.0,87.0
+Sac,Lytton,U.S. Senator,,Rep,Joni Ernst,3.0,28.0,31.0
+Sac,Nemaha,U.S. Senator,,Rep,Joni Ernst,3.0,20.0,23.0
+Sac,Odebolt,U.S. Senator,,Rep,Joni Ernst,4.0,51.0,55.0
+Sac,Sac City,U.S. Senator,,Rep,Joni Ernst,10.0,103.0,113.0
+Sac,Schaller,U.S. Senator,,Rep,Joni Ernst,0.0,34.0,34.0
+Sac,Wall Lake,U.S. Senator,,Rep,Joni Ernst,1.0,39.0,40.0
+Sac,,U.S. Senator,,Rep,Joni Ernst,,,428.0
+Sac,Auburn,U.S. Senator,,Rep,Mark Jacobs,,,4.0
+Sac,Early,U.S. Senator,,Rep,Mark Jacobs,2.0,14.0,16.0
+Sac,Lake View,U.S. Senator,,Rep,Mark Jacobs,2.0,30.0,32.0
+Sac,Lytton,U.S. Senator,,Rep,Mark Jacobs,1.0,7.0,8.0
+Sac,Nemaha,U.S. Senator,,Rep,Mark Jacobs,0.0,4.0,4.0
+Sac,Odebolt,U.S. Senator,,Rep,Mark Jacobs,0.0,17.0,17.0
+Sac,Sac City,U.S. Senator,,Rep,Mark Jacobs,6.0,62.0,68.0
+Sac,Schaller,U.S. Senator,,Rep,Mark Jacobs,1.0,21.0,22.0
+Sac,Wall Lake,U.S. Senator,,Rep,Mark Jacobs,0.0,31.0,31.0
+Sac,,U.S. Senator,,Rep,Mark Jacobs,,,202.0
+Sac,Auburn,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Sac,Early,U.S. Senator,,Rep,Scott Schaben,0.0,2.0,2.0
+Sac,Lake View,U.S. Senator,,Rep,Scott Schaben,1.0,5.0,6.0
+Sac,Lytton,U.S. Senator,,Rep,Scott Schaben,0.0,1.0,1.0
+Sac,Nemaha,U.S. Senator,,Rep,Scott Schaben,0.0,2.0,2.0
+Sac,Odebolt,U.S. Senator,,Rep,Scott Schaben,0.0,4.0,4.0
+Sac,Sac City,U.S. Senator,,Rep,Scott Schaben,0.0,8.0,8.0
+Sac,Schaller,U.S. Senator,,Rep,Scott Schaben,0.0,1.0,1.0
+Sac,Wall Lake,U.S. Senator,,Rep,Scott Schaben,0.0,2.0,2.0
+Sac,,U.S. Senator,,Rep,Scott Schaben,,,26.0
+Sac,Auburn,U.S. Senator,,Rep,Matt Whitaker,,,2.0
+Sac,Early,U.S. Senator,,Rep,Matt Whitaker,0.0,3.0,3.0
+Sac,Lake View,U.S. Senator,,Rep,Matt Whitaker,0.0,11.0,11.0
+Sac,Lytton,U.S. Senator,,Rep,Matt Whitaker,0.0,4.0,4.0
+Sac,Nemaha,U.S. Senator,,Rep,Matt Whitaker,0.0,1.0,1.0
+Sac,Odebolt,U.S. Senator,,Rep,Matt Whitaker,0.0,3.0,3.0
+Sac,Sac City,U.S. Senator,,Rep,Matt Whitaker,5.0,20.0,25.0
+Sac,Schaller,U.S. Senator,,Rep,Matt Whitaker,0.0,4.0,4.0
+Sac,Wall Lake,U.S. Senator,,Rep,Matt Whitaker,0.0,2.0,2.0
+Sac,,U.S. Senator,,Rep,Matt Whitaker,,,55.0
+Sac,Auburn,U.S. Senator,,Rep,Write-in,,,0.0
+Sac,Early,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Sac,Lake View,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Sac,Lytton,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Sac,Nemaha,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Sac,Odebolt,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Sac,Sac City,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Sac,Schaller,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Sac,Wall Lake,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Sac,,U.S. Senator,,Rep,Write-in,,,0.0
+Sac,Auburn,U.S. Senator,,Dem,Bruce Braley,,,7.0
+Sac,Early,U.S. Senator,,Dem,Bruce Braley,0.0,7.0,7.0
+Sac,Lake View,U.S. Senator,,Dem,Bruce Braley,0.0,17.0,17.0
+Sac,Lytton,U.S. Senator,,Dem,Bruce Braley,0.0,5.0,5.0
+Sac,Nemaha,U.S. Senator,,Dem,Bruce Braley,0.0,0.0,0.0
+Sac,Odebolt,U.S. Senator,,Dem,Bruce Braley,0.0,6.0,6.0
+Sac,Sac City,U.S. Senator,,Dem,Bruce Braley,1.0,28.0,29.0
+Sac,Schaller,U.S. Senator,,Dem,Bruce Braley,0.0,12.0,12.0
+Sac,Wall Lake,U.S. Senator,,Dem,Bruce Braley,0.0,5.0,5.0
+Sac,,U.S. Senator,,Dem,Bruce Braley,,,88.0
+Sac,Auburn,U.S. Senator,,Dem,Write-in,,,0.0
+Sac,Early,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Sac,Lake View,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Sac,Lytton,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Sac,Nemaha,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Sac,Odebolt,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Sac,Sac City,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Sac,Schaller,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Sac,Wall Lake,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Sac,,U.S. Senator,,Dem,Write-in,,,0.0
+Sac,Auburn,U.S. Rep.,4,Rep,Steve King,,,47.0
+Sac,Early,U.S. Rep.,4,Rep,Steve King,5.0,50.0,55.0
+Sac,Lake View,U.S. Rep.,4,Rep,Steve King,12.0,144.0,156.0
+Sac,Lytton,U.S. Rep.,4,Rep,Steve King,4.0,41.0,45.0
+Sac,Nemaha,U.S. Rep.,4,Rep,Steve King,3.0,31.0,34.0
+Sac,Odebolt,U.S. Rep.,4,Rep,Steve King,6.0,97.0,103.0
+Sac,Sac City,U.S. Rep.,4,Rep,Steve King,22.0,192.0,214.0
+Sac,Schaller,U.S. Rep.,4,Rep,Steve King,1.0,81.0,82.0
+Sac,Wall Lake,U.S. Rep.,4,Rep,Steve King,3.0,97.0,100.0
+Sac,,U.S. Rep.,4,Rep,Steve King,,,836.0
+Sac,Auburn,U.S. Rep.,4,Rep,Write-in,,,0.0
+Sac,Early,U.S. Rep.,4,Rep,Write-in,0.0,0.0,0.0
+Sac,Lake View,U.S. Rep.,4,Rep,Write-in,0.0,0.0,0.0
+Sac,Lytton,U.S. Rep.,4,Rep,Write-in,0.0,1.0,1.0
+Sac,Nemaha,U.S. Rep.,4,Rep,Write-in,0.0,0.0,0.0
+Sac,Odebolt,U.S. Rep.,4,Rep,Write-in,0.0,0.0,0.0
+Sac,Sac City,U.S. Rep.,4,Rep,Write-in,0.0,2.0,2.0
+Sac,Schaller,U.S. Rep.,4,Rep,Write-in,0.0,0.0,0.0
+Sac,Wall Lake,U.S. Rep.,4,Rep,Write-in,0.0,0.0,0.0
+Sac,,U.S. Rep.,4,Rep,Write-in,,,3.0
+Sac,Auburn,U.S. Rep.,4,Dem,Jim Mowrer,,,7.0
+Sac,Early,U.S. Rep.,4,Dem,Jim Mowrer,0.0,7.0,7.0
+Sac,Lake View,U.S. Rep.,4,Dem,Jim Mowrer,0.0,15.0,15.0
+Sac,Lytton,U.S. Rep.,4,Dem,Jim Mowrer,0.0,4.0,4.0
+Sac,Nemaha,U.S. Rep.,4,Dem,Jim Mowrer,0.0,0.0,0.0
+Sac,Odebolt,U.S. Rep.,4,Dem,Jim Mowrer,0.0,6.0,6.0
+Sac,Sac City,U.S. Rep.,4,Dem,Jim Mowrer,1.0,24.0,25.0
+Sac,Schaller,U.S. Rep.,4,Dem,Jim Mowrer,0.0,11.0,11.0
+Sac,Wall Lake,U.S. Rep.,4,Dem,Jim Mowrer,0.0,4.0,4.0
+Sac,,U.S. Rep.,4,Dem,Jim Mowrer,,,79.0
+Sac,Auburn,U.S. Rep.,4,Dem,Write-in,,,0.0
+Sac,Early,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Sac,Lake View,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Sac,Lytton,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Sac,Nemaha,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Sac,Odebolt,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Sac,Sac City,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Sac,Schaller,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Sac,Wall Lake,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Sac,,U.S. Rep.,4,Dem,Write-in,,,0.0
+Sac,Auburn,Governor,,Rep,Terry E. Branstad,,,42.0
+Sac,Early,Governor,,Rep,Terry E. Branstad,5.0,46.0,51.0
+Sac,Lake View,Governor,,Rep,Terry E. Branstad,11.0,119.0,130.0
+Sac,Lytton,Governor,,Rep,Terry E. Branstad,4.0,43.0,47.0
+Sac,Nemaha,Governor,,Rep,Terry E. Branstad,3.0,31.0,34.0
+Sac,Odebolt,Governor,,Rep,Terry E. Branstad,6.0,87.0,93.0
+Sac,Sac City,Governor,,Rep,Terry E. Branstad,22.0,173.0,195.0
+Sac,Schaller,Governor,,Rep,Terry E. Branstad,1.0,69.0,70.0
+Sac,Wall Lake,Governor,,Rep,Terry E. Branstad,1.0,75.0,76.0
+Sac,,Governor,,Rep,Terry E. Branstad,,,738.0
+Sac,Auburn,Governor,,Rep,Tom Hoefling,,,9.0
+Sac,Early,Governor,,Rep,Tom Hoefling,0.0,11.0,11.0
+Sac,Lake View,Governor,,Rep,Tom Hoefling,1.0,40.0,41.0
+Sac,Lytton,Governor,,Rep,Tom Hoefling,1.0,12.0,13.0
+Sac,Nemaha,Governor,,Rep,Tom Hoefling,3.0,1.0,4.0
+Sac,Odebolt,Governor,,Rep,Tom Hoefling,0.0,12.0,12.0
+Sac,Sac City,Governor,,Rep,Tom Hoefling,8.0,70.0,78.0
+Sac,Schaller,Governor,,Rep,Tom Hoefling,0.0,16.0,16.0
+Sac,Wall Lake,Governor,,Rep,Tom Hoefling,2.0,32.0,34.0
+Sac,,Governor,,Rep,Tom Hoefling,,,218.0
+Sac,Auburn,Governor,,Rep,Write-in,,,0.0
+Sac,Early,Governor,,Rep,Write-in,0.0,0.0,0.0
+Sac,Lake View,Governor,,Rep,Write-in,0.0,1.0,1.0
+Sac,Lytton,Governor,,Rep,Write-in,0.0,0.0,0.0
+Sac,Nemaha,Governor,,Rep,Write-in,0.0,0.0,0.0
+Sac,Odebolt,Governor,,Rep,Write-in,0.0,0.0,0.0
+Sac,Sac City,Governor,,Rep,Write-in,0.0,1.0,1.0
+Sac,Schaller,Governor,,Rep,Write-in,0.0,0.0,0.0
+Sac,Wall Lake,Governor,,Rep,Write-in,0.0,0.0,0.0
+Sac,,Governor,,Rep,Write-in,,,2.0
+Sac,Auburn,Governor,,Dem,Jack Hatch,,,6.0
+Sac,Early,Governor,,Dem,Jack Hatch,0.0,6.0,6.0
+Sac,Lake View,Governor,,Dem,Jack Hatch,0.0,15.0,15.0
+Sac,Lytton,Governor,,Dem,Jack Hatch,0.0,5.0,5.0
+Sac,Nemaha,Governor,,Dem,Jack Hatch,0.0,0.0,0.0
+Sac,Odebolt,Governor,,Dem,Jack Hatch,0.0,5.0,5.0
+Sac,Sac City,Governor,,Dem,Jack Hatch,1.0,27.0,28.0
+Sac,Schaller,Governor,,Dem,Jack Hatch,0.0,11.0,11.0
+Sac,Wall Lake,Governor,,Dem,Jack Hatch,0.0,6.0,6.0
+Sac,,Governor,,Dem,Jack Hatch,,,82.0
+Sac,Auburn,Governor,,Dem,Write-in,,,0.0
+Sac,Early,Governor,,Dem,Write-in,0.0,0.0,0.0
+Sac,Lake View,Governor,,Dem,Write-in,0.0,1.0,1.0
+Sac,Lytton,Governor,,Dem,Write-in,0.0,0.0,0.0
+Sac,Nemaha,Governor,,Dem,Write-in,0.0,0.0,0.0
+Sac,Odebolt,Governor,,Dem,Write-in,0.0,0.0,0.0
+Sac,Sac City,Governor,,Dem,Write-in,0.0,0.0,0.0
+Sac,Schaller,Governor,,Dem,Write-in,0.0,0.0,0.0
+Sac,Wall Lake,Governor,,Dem,Write-in,0.0,0.0,0.0
+Sac,,Governor,,Dem,Write-in,,,1.0
+Sac,Auburn,Secretary of State,,Rep,Paul D. Pate,,,40.0
+Sac,Early,Secretary of State,,Rep,Paul D. Pate,5.0,37.0,42.0
+Sac,Lake View,Secretary of State,,Rep,Paul D. Pate,10.0,115.0,125.0
+Sac,Lytton,Secretary of State,,Rep,Paul D. Pate,5.0,33.0,38.0
+Sac,Nemaha,Secretary of State,,Rep,Paul D. Pate,3.0,30.0,33.0
+Sac,Odebolt,Secretary of State,,Rep,Paul D. Pate,6.0,68.0,74.0
+Sac,Sac City,Secretary of State,,Rep,Paul D. Pate,20.0,166.0,186.0
+Sac,Schaller,Secretary of State,,Rep,Paul D. Pate,1.0,70.0,71.0
+Sac,Wall Lake,Secretary of State,,Rep,Paul D. Pate,2.0,77.0,79.0
+Sac,,Secretary of State,,Rep,Paul D. Pate,,,688.0
+Sac,Auburn,Secretary of State,,Rep,Write-in,,,0.0
+Sac,Early,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Sac,Lake View,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Sac,Lytton,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Sac,Nemaha,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Sac,Odebolt,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Sac,Sac City,Secretary of State,,Rep,Write-in,0.0,1.0,1.0
+Sac,Schaller,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Sac,Wall Lake,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Sac,,Secretary of State,,Rep,Write-in,,,1.0
+Sac,Auburn,Secretary of State,,Dem,Brad Anderson,,,7.0
+Sac,Early,Secretary of State,,Dem,Brad Anderson,0.0,6.0,6.0
+Sac,Lake View,Secretary of State,,Dem,Brad Anderson,0.0,16.0,16.0
+Sac,Lytton,Secretary of State,,Dem,Brad Anderson,0.0,4.0,4.0
+Sac,Nemaha,Secretary of State,,Dem,Brad Anderson,0.0,0.0,0.0
+Sac,Odebolt,Secretary of State,,Dem,Brad Anderson,0.0,5.0,5.0
+Sac,Sac City,Secretary of State,,Dem,Brad Anderson,1.0,28.0,29.0
+Sac,Schaller,Secretary of State,,Dem,Brad Anderson,0.0,12.0,12.0
+Sac,Wall Lake,Secretary of State,,Dem,Brad Anderson,0.0,5.0,5.0
+Sac,,Secretary of State,,Dem,Brad Anderson,,,84.0
+Sac,Auburn,Secretary of State,,Dem,Write-in,,,0.0
+Sac,Early,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Lake View,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Lytton,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Nemaha,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Odebolt,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Sac City,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Schaller,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Wall Lake,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,,Secretary of State,,Dem,Write-in,,,0.0
+Sac,Auburn,Auditor of State,,Rep,Mary Mosiman,,,40.0
+Sac,Early,Auditor of State,,Rep,Mary Mosiman,5.0,40.0,45.0
+Sac,Lake View,Auditor of State,,Rep,Mary Mosiman,10.0,119.0,129.0
+Sac,Lytton,Auditor of State,,Rep,Mary Mosiman,4.0,33.0,37.0
+Sac,Nemaha,Auditor of State,,Rep,Mary Mosiman,4.0,30.0,34.0
+Sac,Odebolt,Auditor of State,,Rep,Mary Mosiman,6.0,70.0,76.0
+Sac,Sac City,Auditor of State,,Rep,Mary Mosiman,20.0,162.0,182.0
+Sac,Schaller,Auditor of State,,Rep,Mary Mosiman,1.0,65.0,66.0
+Sac,Wall Lake,Auditor of State,,Rep,Mary Mosiman,2.0,78.0,80.0
+Sac,,Auditor of State,,Rep,Mary Mosiman,,,689.0
+Sac,Auburn,Auditor of State,,Rep,Write-in,,,1.0
+Sac,Early,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Sac,Lake View,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Sac,Lytton,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Sac,Nemaha,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Sac,Odebolt,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Sac,Sac City,Auditor of State,,Rep,Write-in,0.0,2.0,2.0
+Sac,Schaller,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Sac,Wall Lake,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Sac,,Auditor of State,,Rep,Write-in,,,3.0
+Sac,Auburn,Auditor of State,,Dem,Jonathan Neiderbach,,,5.0
+Sac,Early,Auditor of State,,Dem,Jonathan Neiderbach,0.0,5.0,5.0
+Sac,Lake View,Auditor of State,,Dem,Jonathan Neiderbach,0.0,16.0,16.0
+Sac,Lytton,Auditor of State,,Dem,Jonathan Neiderbach,0.0,4.0,4.0
+Sac,Nemaha,Auditor of State,,Dem,Jonathan Neiderbach,0.0,0.0,0.0
+Sac,Odebolt,Auditor of State,,Dem,Jonathan Neiderbach,0.0,6.0,6.0
+Sac,Sac City,Auditor of State,,Dem,Jonathan Neiderbach,1.0,25.0,26.0
+Sac,Schaller,Auditor of State,,Dem,Jonathan Neiderbach,0.0,11.0,11.0
+Sac,Wall Lake,Auditor of State,,Dem,Jonathan Neiderbach,0.0,5.0,5.0
+Sac,,Auditor of State,,Dem,Jonathan Neiderbach,,,78.0
+Sac,Auburn,Auditor of State,,Dem,Write-in,,,0.0
+Sac,Early,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Lake View,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Lytton,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Nemaha,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Odebolt,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Sac City,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Schaller,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Wall Lake,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,,Auditor of State,,Dem,Write-in,,,0.0
+Sac,Auburn,Treasurer of State,,Rep,Write-in,,,3.0
+Sac,Early,Treasurer of State,,Rep,Write-in,0.0,3.0,3.0
+Sac,Lake View,Treasurer of State,,Rep,Write-in,0.0,7.0,7.0
+Sac,Lytton,Treasurer of State,,Rep,Write-in,0.0,0.0,0.0
+Sac,Nemaha,Treasurer of State,,Rep,Write-in,0.0,1.0,1.0
+Sac,Odebolt,Treasurer of State,,Rep,Write-in,0.0,1.0,1.0
+Sac,Sac City,Treasurer of State,,Rep,Write-in,0.0,6.0,6.0
+Sac,Schaller,Treasurer of State,,Rep,Write-in,0.0,1.0,1.0
+Sac,Wall Lake,Treasurer of State,,Rep,Write-in,0.0,1.0,1.0
+Sac,,Treasurer of State,,Rep,Write-in,,,23.0
+Sac,Auburn,Treasurer of State,,Dem,Michael L. Fitzgerald,,,7.0
+Sac,Early,Treasurer of State,,Dem,Michael L. Fitzgerald,0.0,7.0,7.0
+Sac,Lake View,Treasurer of State,,Dem,Michael L. Fitzgerald,0.0,16.0,16.0
+Sac,Lytton,Treasurer of State,,Dem,Michael L. Fitzgerald,0.0,4.0,4.0
+Sac,Nemaha,Treasurer of State,,Dem,Michael L. Fitzgerald,0.0,0.0,0.0
+Sac,Odebolt,Treasurer of State,,Dem,Michael L. Fitzgerald,0.0,6.0,6.0
+Sac,Sac City,Treasurer of State,,Dem,Michael L. Fitzgerald,1.0,29.0,30.0
+Sac,Schaller,Treasurer of State,,Dem,Michael L. Fitzgerald,0.0,12.0,12.0
+Sac,Wall Lake,Treasurer of State,,Dem,Michael L. Fitzgerald,0.0,5.0,5.0
+Sac,,Treasurer of State,,Dem,Michael L. Fitzgerald,,,87.0
+Sac,Auburn,Treasurer of State,,Dem,Write-in,,,0.0
+Sac,Early,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Lake View,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Lytton,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Nemaha,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Odebolt,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Sac City,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Schaller,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,Wall Lake,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Sac,,Treasurer of State,,Dem,Write-in,,,0.0
+Sac,Auburn,Secretary of Agriculture,,Rep,Bill Northey,,,43.0
+Sac,Early,Secretary of Agriculture,,Rep,Bill Northey,5.0,47.0,52.0
+Sac,Lake View,Secretary of Agriculture,,Rep,Bill Northey,11.0,127.0,138.0
+Sac,Lytton,Secretary of Agriculture,,Rep,Bill Northey,5.0,41.0,46.0
+Sac,Nemaha,Secretary of Agriculture,,Rep,Bill Northey,4.0,31.0,35.0
+Sac,Odebolt,Secretary of Agriculture,,Rep,Bill Northey,6.0,84.0,90.0
+Sac,Sac City,Secretary of Agriculture,,Rep,Bill Northey,25.0,187.0,212.0
+Sac,Schaller,Secretary of Agriculture,,Rep,Bill Northey,2.0,77.0,79.0
+Sac,Wall Lake,Secretary of Agriculture,,Rep,Bill Northey,2.0,89.0,91.0
+Sac,,Secretary of Agriculture,,Rep,Bill Northey,,,786.0
+Sac,Auburn,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Sac,Early,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Sac,Lake View,Secretary of Agriculture,,Rep,Write-in,0.0,1.0,1.0
+Sac,Lytton,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Sac,Nemaha,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Sac,Odebolt,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Sac,Sac City,Secretary of Agriculture,,Rep,Write-in,0.0,1.0,1.0
+Sac,Schaller,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Sac,Wall Lake,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Sac,,Secretary of Agriculture,,Rep,Write-in,,,2.0
+Sac,Auburn,Secretary of Agriculture,,Dem,Sherrie Taha,,,6.0
+Sac,Early,Secretary of Agriculture,,Dem,Sherrie Taha,0.0,7.0,7.0
+Sac,Lake View,Secretary of Agriculture,,Dem,Sherrie Taha,0.0,14.0,14.0
+Sac,Lytton,Secretary of Agriculture,,Dem,Sherrie Taha,0.0,4.0,4.0
+Sac,Nemaha,Secretary of Agriculture,,Dem,Sherrie Taha,0.0,0.0,0.0
+Sac,Odebolt,Secretary of Agriculture,,Dem,Sherrie Taha,0.0,5.0,5.0
+Sac,Sac City,Secretary of Agriculture,,Dem,Sherrie Taha,1.0,24.0,25.0
+Sac,Schaller,Secretary of Agriculture,,Dem,Sherrie Taha,0.0,11.0,11.0
+Sac,Wall Lake,Secretary of Agriculture,,Dem,Sherrie Taha,0.0,4.0,4.0
+Sac,,Secretary of Agriculture,,Dem,Sherrie Taha,,,76.0
+Sac,Auburn,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Sac,Early,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Sac,Lake View,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Sac,Lytton,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Sac,Nemaha,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Sac,Odebolt,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Sac,Sac City,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Sac,Schaller,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Sac,Wall Lake,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Sac,,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Sac,Auburn,Attorney General,,Rep,Write-in,,,1.0
+Sac,Early,Attorney General,,Rep,Write-in,0.0,5.0,5.0
+Sac,Lake View,Attorney General,,Rep,Write-in,1.0,3.0,4.0
+Sac,Lytton,Attorney General,,Rep,Write-in,0.0,1.0,1.0
+Sac,Nemaha,Attorney General,,Rep,Write-in,0.0,1.0,1.0
+Sac,Odebolt,Attorney General,,Rep,Write-in,1.0,2.0,3.0
+Sac,Sac City,Attorney General,,Rep,Write-in,0.0,8.0,8.0
+Sac,Schaller,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Sac,Wall Lake,Attorney General,,Rep,Write-in,0.0,1.0,1.0
+Sac,,Attorney General,,Rep,Write-in,,,24.0
+Sac,Auburn,Attorney General,,Dem,Tom Miller,,,7.0
+Sac,Early,Attorney General,,Dem,Tom Miller,0.0,7.0,7.0
+Sac,Lake View,Attorney General,,Dem,Tom Miller,0.0,16.0,16.0
+Sac,Lytton,Attorney General,,Dem,Tom Miller,0.0,4.0,4.0
+Sac,Nemaha,Attorney General,,Dem,Tom Miller,0.0,0.0,0.0
+Sac,Odebolt,Attorney General,,Dem,Tom Miller,0.0,6.0,6.0
+Sac,Sac City,Attorney General,,Dem,Tom Miller,1.0,29.0,30.0
+Sac,Schaller,Attorney General,,Dem,Tom Miller,0.0,12.0,12.0
+Sac,Wall Lake,Attorney General,,Dem,Tom Miller,0.0,5.0,5.0
+Sac,,Attorney General,,Dem,Tom Miller,,,87.0
+Sac,Auburn,Attorney General,,Dem,Write-in,,,0.0
+Sac,Early,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Sac,Lake View,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Sac,Lytton,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Sac,Nemaha,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Sac,Odebolt,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Sac,Sac City,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Sac,Schaller,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Sac,Wall Lake,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Sac,,Attorney General,,Dem,Write-in,,,0.0
+Sac,Auburn,State Rep.,11,Rep,Gary Worthan,,,37.0
+Sac,Early,State Rep.,11,Rep,Gary Worthan,5.0,46.0,51.0
+Sac,Lake View,State Rep.,11,Rep,Gary Worthan,9.0,121.0,130.0
+Sac,Lytton,State Rep.,11,Rep,Gary Worthan,5.0,35.0,40.0
+Sac,Nemaha,State Rep.,11,Rep,Gary Worthan,4.0,31.0,35.0
+Sac,Odebolt,State Rep.,11,Rep,Gary Worthan,6.0,77.0,83.0
+Sac,Sac City,State Rep.,11,Rep,Gary Worthan,22.0,186.0,208.0
+Sac,Schaller,State Rep.,11,Rep,Gary Worthan,2.0,74.0,76.0
+Sac,Wall Lake,State Rep.,11,Rep,Gary Worthan,2.0,81.0,83.0
+Sac,,State Rep.,11,Rep,Gary Worthan,,,743.0
+Sac,Auburn,State Rep.,11,Rep,Write-in,,,1.0
+Sac,Early,State Rep.,11,Rep,Write-in,0.0,1.0,1.0
+Sac,Lake View,State Rep.,11,Rep,Write-in,0.0,0.0,0.0
+Sac,Lytton,State Rep.,11,Rep,Write-in,0.0,0.0,0.0
+Sac,Nemaha,State Rep.,11,Rep,Write-in,0.0,0.0,0.0
+Sac,Odebolt,State Rep.,11,Rep,Write-in,0.0,0.0,0.0
+Sac,Sac City,State Rep.,11,Rep,Write-in,0.0,0.0,0.0
+Sac,Schaller,State Rep.,11,Rep,Write-in,0.0,0.0,0.0
+Sac,Wall Lake,State Rep.,11,Rep,Write-in,0.0,0.0,0.0
+Sac,,State Rep.,11,Rep,Write-in,,,2.0
+Sac,Auburn,State Rep.,11,Dem,Write-in,,,0.0
+Sac,Early,State Rep.,11,Dem,Write-in,0.0,0.0,0.0
+Sac,Lake View,State Rep.,11,Dem,Write-in,0.0,3.0,3.0
+Sac,Lytton,State Rep.,11,Dem,Write-in,0.0,0.0,0.0
+Sac,Nemaha,State Rep.,11,Dem,Write-in,0.0,0.0,0.0
+Sac,Odebolt,State Rep.,11,Dem,Write-in,0.0,0.0,0.0
+Sac,Sac City,State Rep.,11,Dem,Write-in,0.0,3.0,3.0
+Sac,Schaller,State Rep.,11,Dem,Write-in,0.0,1.0,1.0
+Sac,Wall Lake,State Rep.,11,Dem,Write-in,0.0,0.0,0.0
+Sac,,State Rep.,11,Dem,Write-in,,,7.0

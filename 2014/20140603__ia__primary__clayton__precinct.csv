@@ -1,0 +1,721 @@
+county,precinct,office,district,party,candidate,absentee,polling,votes
+Clayton,BOARDMAN-HIGHLAND,U.S. Senator,,Rep,Sam Clovis,,,10.0
+Clayton,BUENA VISTA,U.S. Senator,,Rep,Sam Clovis,0.0,0.0,0.0
+Clayton,CASS,U.S. Senator,,Rep,Sam Clovis,2.0,6.0,8.0
+Clayton,CLAYTON-GARNAVILLO,U.S. Senator,,Rep,Sam Clovis,0.0,3.0,3.0
+Clayton,COX CREEK-SPERRY,U.S. Senator,,Rep,Sam Clovis,0.0,3.0,3.0
+Clayton,ELK-MALLORY-VOLGA,U.S. Senator,,Rep,Sam Clovis,0.0,4.0,4.0
+Clayton,FARMERSBURG-WAGNER,U.S. Senator,,Rep,Sam Clovis,1.0,11.0,12.0
+Clayton,GIARD-LUANA-MONONA,U.S. Senator,,Rep,Sam Clovis,0.0,3.0,3.0
+Clayton,GRAND MEADOW,U.S. Senator,,Rep,Sam Clovis,0.0,5.0,5.0
+Clayton,JEFFERSON-MILLVILLE,U.S. Senator,,Rep,Sam Clovis,0.0,1.0,1.0
+Clayton,LODOMILLO,U.S. Senator,,Rep,Sam Clovis,0.0,5.0,5.0
+Clayton,MARION,U.S. Senator,,Rep,Sam Clovis,2.0,0.0,2.0
+Clayton,MENDON,U.S. Senator,,Rep,Sam Clovis,0.0,0.0,0.0
+Clayton,READ,U.S. Senator,,Rep,Sam Clovis,0.0,0.0,0.0
+Clayton,,U.S. Senator,,Rep,Sam Clovis,,,57.0
+Clayton,BOARDMAN-HIGHLAND,U.S. Senator,,Rep,Joni Ernst,,,46.0
+Clayton,BUENA VISTA,U.S. Senator,,Rep,Joni Ernst,0.0,3.0,3.0
+Clayton,CASS,U.S. Senator,,Rep,Joni Ernst,0.0,51.0,51.0
+Clayton,CLAYTON-GARNAVILLO,U.S. Senator,,Rep,Joni Ernst,3.0,44.0,47.0
+Clayton,COX CREEK-SPERRY,U.S. Senator,,Rep,Joni Ernst,3.0,26.0,29.0
+Clayton,ELK-MALLORY-VOLGA,U.S. Senator,,Rep,Joni Ernst,6.0,26.0,32.0
+Clayton,FARMERSBURG-WAGNER,U.S. Senator,,Rep,Joni Ernst,0.0,30.0,30.0
+Clayton,GIARD-LUANA-MONONA,U.S. Senator,,Rep,Joni Ernst,2.0,52.0,54.0
+Clayton,GRAND MEADOW,U.S. Senator,,Rep,Joni Ernst,0.0,11.0,11.0
+Clayton,JEFFERSON-MILLVILLE,U.S. Senator,,Rep,Joni Ernst,3.0,73.0,76.0
+Clayton,LODOMILLO,U.S. Senator,,Rep,Joni Ernst,0.0,13.0,13.0
+Clayton,MARION,U.S. Senator,,Rep,Joni Ernst,0.0,18.0,18.0
+Clayton,MENDON,U.S. Senator,,Rep,Joni Ernst,3.0,47.0,50.0
+Clayton,READ,U.S. Senator,,Rep,Joni Ernst,0.0,9.0,9.0
+Clayton,,U.S. Senator,,Rep,Joni Ernst,,,474.0
+Clayton,BOARDMAN-HIGHLAND,U.S. Senator,,Rep,Mark Jacobs,,,12.0
+Clayton,BUENA VISTA,U.S. Senator,,Rep,Mark Jacobs,0.0,1.0,1.0
+Clayton,CASS,U.S. Senator,,Rep,Mark Jacobs,5.0,12.0,17.0
+Clayton,CLAYTON-GARNAVILLO,U.S. Senator,,Rep,Mark Jacobs,1.0,12.0,13.0
+Clayton,COX CREEK-SPERRY,U.S. Senator,,Rep,Mark Jacobs,2.0,10.0,12.0
+Clayton,ELK-MALLORY-VOLGA,U.S. Senator,,Rep,Mark Jacobs,0.0,6.0,6.0
+Clayton,FARMERSBURG-WAGNER,U.S. Senator,,Rep,Mark Jacobs,1.0,4.0,5.0
+Clayton,GIARD-LUANA-MONONA,U.S. Senator,,Rep,Mark Jacobs,0.0,15.0,15.0
+Clayton,GRAND MEADOW,U.S. Senator,,Rep,Mark Jacobs,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,U.S. Senator,,Rep,Mark Jacobs,1.0,12.0,13.0
+Clayton,LODOMILLO,U.S. Senator,,Rep,Mark Jacobs,1.0,7.0,8.0
+Clayton,MARION,U.S. Senator,,Rep,Mark Jacobs,0.0,3.0,3.0
+Clayton,MENDON,U.S. Senator,,Rep,Mark Jacobs,3.0,8.0,11.0
+Clayton,READ,U.S. Senator,,Rep,Mark Jacobs,0.0,1.0,1.0
+Clayton,,U.S. Senator,,Rep,Mark Jacobs,,,119.0
+Clayton,BOARDMAN-HIGHLAND,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Clayton,BUENA VISTA,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Clayton,CASS,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Clayton,CLAYTON-GARNAVILLO,U.S. Senator,,Rep,Scott Schaben,0.0,2.0,2.0
+Clayton,COX CREEK-SPERRY,U.S. Senator,,Rep,Scott Schaben,0.0,3.0,3.0
+Clayton,ELK-MALLORY-VOLGA,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Clayton,FARMERSBURG-WAGNER,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,U.S. Senator,,Rep,Scott Schaben,0.0,1.0,1.0
+Clayton,GRAND MEADOW,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Clayton,LODOMILLO,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Clayton,MARION,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Clayton,MENDON,U.S. Senator,,Rep,Scott Schaben,0.0,1.0,1.0
+Clayton,READ,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Clayton,,U.S. Senator,,Rep,Scott Schaben,,,7.0
+Clayton,BOARDMAN-HIGHLAND,U.S. Senator,,Rep,Matt Whitaker,,,6.0
+Clayton,BUENA VISTA,U.S. Senator,,Rep,Matt Whitaker,0.0,2.0,2.0
+Clayton,CASS,U.S. Senator,,Rep,Matt Whitaker,2.0,5.0,7.0
+Clayton,CLAYTON-GARNAVILLO,U.S. Senator,,Rep,Matt Whitaker,2.0,4.0,6.0
+Clayton,COX CREEK-SPERRY,U.S. Senator,,Rep,Matt Whitaker,0.0,7.0,7.0
+Clayton,ELK-MALLORY-VOLGA,U.S. Senator,,Rep,Matt Whitaker,2.0,1.0,3.0
+Clayton,FARMERSBURG-WAGNER,U.S. Senator,,Rep,Matt Whitaker,0.0,1.0,1.0
+Clayton,GIARD-LUANA-MONONA,U.S. Senator,,Rep,Matt Whitaker,0.0,12.0,12.0
+Clayton,GRAND MEADOW,U.S. Senator,,Rep,Matt Whitaker,0.0,2.0,2.0
+Clayton,JEFFERSON-MILLVILLE,U.S. Senator,,Rep,Matt Whitaker,1.0,6.0,7.0
+Clayton,LODOMILLO,U.S. Senator,,Rep,Matt Whitaker,0.0,3.0,3.0
+Clayton,MARION,U.S. Senator,,Rep,Matt Whitaker,0.0,1.0,1.0
+Clayton,MENDON,U.S. Senator,,Rep,Matt Whitaker,0.0,1.0,1.0
+Clayton,READ,U.S. Senator,,Rep,Matt Whitaker,0.0,0.0,0.0
+Clayton,,U.S. Senator,,Rep,Matt Whitaker,,,59.0
+Clayton,BOARDMAN-HIGHLAND,U.S. Senator,,Rep,Write-in,,,0.0
+Clayton,BUENA VISTA,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Clayton,CASS,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Clayton,CLAYTON-GARNAVILLO,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Clayton,COX CREEK-SPERRY,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Clayton,ELK-MALLORY-VOLGA,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Clayton,FARMERSBURG-WAGNER,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Clayton,GRAND MEADOW,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Clayton,LODOMILLO,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Clayton,MARION,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Clayton,MENDON,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Clayton,READ,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Clayton,,U.S. Senator,,Rep,Write-in,,,0.0
+Clayton,BOARDMAN-HIGHLAND,U.S. Senator,,Dem,Bruce Braley,,,81.0
+Clayton,BUENA VISTA,U.S. Senator,,Dem,Bruce Braley,0.0,13.0,13.0
+Clayton,CASS,U.S. Senator,,Dem,Bruce Braley,5.0,31.0,36.0
+Clayton,CLAYTON-GARNAVILLO,U.S. Senator,,Dem,Bruce Braley,6.0,21.0,27.0
+Clayton,COX CREEK-SPERRY,U.S. Senator,,Dem,Bruce Braley,9.0,23.0,32.0
+Clayton,ELK-MALLORY-VOLGA,U.S. Senator,,Dem,Bruce Braley,1.0,18.0,19.0
+Clayton,FARMERSBURG-WAGNER,U.S. Senator,,Dem,Bruce Braley,0.0,13.0,13.0
+Clayton,GIARD-LUANA-MONONA,U.S. Senator,,Dem,Bruce Braley,1.0,31.0,32.0
+Clayton,GRAND MEADOW,U.S. Senator,,Dem,Bruce Braley,0.0,9.0,9.0
+Clayton,JEFFERSON-MILLVILLE,U.S. Senator,,Dem,Bruce Braley,4.0,45.0,49.0
+Clayton,LODOMILLO,U.S. Senator,,Dem,Bruce Braley,0.0,3.0,3.0
+Clayton,MARION,U.S. Senator,,Dem,Bruce Braley,0.0,2.0,2.0
+Clayton,MENDON,U.S. Senator,,Dem,Bruce Braley,3.0,48.0,51.0
+Clayton,READ,U.S. Senator,,Dem,Bruce Braley,4.0,6.0,10.0
+Clayton,,U.S. Senator,,Dem,Bruce Braley,,,388.0
+Clayton,BOARDMAN-HIGHLAND,U.S. Senator,,Dem,Write-in,,,0.0
+Clayton,BUENA VISTA,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Clayton,CASS,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Clayton,CLAYTON-GARNAVILLO,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Clayton,COX CREEK-SPERRY,U.S. Senator,,Dem,Write-in,0.0,1.0,1.0
+Clayton,ELK-MALLORY-VOLGA,U.S. Senator,,Dem,Write-in,0.0,1.0,1.0
+Clayton,FARMERSBURG-WAGNER,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Clayton,GRAND MEADOW,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Clayton,LODOMILLO,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Clayton,MARION,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Clayton,MENDON,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Clayton,READ,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Clayton,,U.S. Senator,,Dem,Write-in,,,2.0
+Clayton,BOARDMAN-HIGHLAND,U.S. Rep.,1,Rep,Rod Blum,,,38.0
+Clayton,BUENA VISTA,U.S. Rep.,1,Rep,Rod Blum,0.0,6.0,6.0
+Clayton,CASS,U.S. Rep.,1,Rep,Rod Blum,4.0,35.0,39.0
+Clayton,CLAYTON-GARNAVILLO,U.S. Rep.,1,Rep,Rod Blum,4.0,32.0,36.0
+Clayton,COX CREEK-SPERRY,U.S. Rep.,1,Rep,Rod Blum,2.0,34.0,36.0
+Clayton,ELK-MALLORY-VOLGA,U.S. Rep.,1,Rep,Rod Blum,4.0,26.0,30.0
+Clayton,FARMERSBURG-WAGNER,U.S. Rep.,1,Rep,Rod Blum,2.0,26.0,28.0
+Clayton,GIARD-LUANA-MONONA,U.S. Rep.,1,Rep,Rod Blum,1.0,32.0,33.0
+Clayton,GRAND MEADOW,U.S. Rep.,1,Rep,Rod Blum,0.0,10.0,10.0
+Clayton,JEFFERSON-MILLVILLE,U.S. Rep.,1,Rep,Rod Blum,2.0,44.0,46.0
+Clayton,LODOMILLO,U.S. Rep.,1,Rep,Rod Blum,1.0,13.0,14.0
+Clayton,MARION,U.S. Rep.,1,Rep,Rod Blum,2.0,13.0,15.0
+Clayton,MENDON,U.S. Rep.,1,Rep,Rod Blum,0.0,29.0,29.0
+Clayton,READ,U.S. Rep.,1,Rep,Rod Blum,0.0,4.0,4.0
+Clayton,,U.S. Rep.,1,Rep,Rod Blum,,,368.0
+Clayton,BOARDMAN-HIGHLAND,U.S. Rep.,1,Rep,Gail E. Boliver,,,6.0
+Clayton,BUENA VISTA,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,0.0,0.0
+Clayton,CASS,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,2.0,2.0
+Clayton,CLAYTON-GARNAVILLO,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,1.0,1.0
+Clayton,COX CREEK-SPERRY,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,2.0,2.0
+Clayton,ELK-MALLORY-VOLGA,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,0.0,0.0
+Clayton,FARMERSBURG-WAGNER,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,2.0,2.0
+Clayton,GIARD-LUANA-MONONA,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,5.0,5.0
+Clayton,GRAND MEADOW,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,1.0,1.0
+Clayton,JEFFERSON-MILLVILLE,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,5.0,5.0
+Clayton,LODOMILLO,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,1.0,1.0
+Clayton,MARION,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,0.0,0.0
+Clayton,MENDON,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,1.0,1.0
+Clayton,READ,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,0.0,0.0
+Clayton,,U.S. Rep.,1,Rep,Gail E. Boliver,,,27.0
+Clayton,BOARDMAN-HIGHLAND,U.S. Rep.,1,Rep,Steve Rathje,,,29.0
+Clayton,BUENA VISTA,U.S. Rep.,1,Rep,Steve Rathje,0.0,1.0,1.0
+Clayton,CASS,U.S. Rep.,1,Rep,Steve Rathje,5.0,34.0,39.0
+Clayton,CLAYTON-GARNAVILLO,U.S. Rep.,1,Rep,Steve Rathje,2.0,31.0,33.0
+Clayton,COX CREEK-SPERRY,U.S. Rep.,1,Rep,Steve Rathje,3.0,14.0,17.0
+Clayton,ELK-MALLORY-VOLGA,U.S. Rep.,1,Rep,Steve Rathje,4.0,8.0,12.0
+Clayton,FARMERSBURG-WAGNER,U.S. Rep.,1,Rep,Steve Rathje,0.0,17.0,17.0
+Clayton,GIARD-LUANA-MONONA,U.S. Rep.,1,Rep,Steve Rathje,1.0,43.0,44.0
+Clayton,GRAND MEADOW,U.S. Rep.,1,Rep,Steve Rathje,0.0,7.0,7.0
+Clayton,JEFFERSON-MILLVILLE,U.S. Rep.,1,Rep,Steve Rathje,4.0,41.0,45.0
+Clayton,LODOMILLO,U.S. Rep.,1,Rep,Steve Rathje,0.0,12.0,12.0
+Clayton,MARION,U.S. Rep.,1,Rep,Steve Rathje,0.0,10.0,10.0
+Clayton,MENDON,U.S. Rep.,1,Rep,Steve Rathje,6.0,26.0,32.0
+Clayton,READ,U.S. Rep.,1,Rep,Steve Rathje,0.0,6.0,6.0
+Clayton,,U.S. Rep.,1,Rep,Steve Rathje,,,308.0
+Clayton,BOARDMAN-HIGHLAND,U.S. Rep.,1,Rep,Write-in,,,0.0
+Clayton,BUENA VISTA,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Clayton,CASS,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Clayton,CLAYTON-GARNAVILLO,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Clayton,COX CREEK-SPERRY,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Clayton,ELK-MALLORY-VOLGA,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Clayton,FARMERSBURG-WAGNER,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Clayton,GRAND MEADOW,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Clayton,LODOMILLO,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Clayton,MARION,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Clayton,MENDON,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Clayton,READ,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Clayton,,U.S. Rep.,1,Rep,Write-in,,,0.0
+Clayton,BOARDMAN-HIGHLAND,U.S. Rep.,1,Dem,Swati Dandekar,,,18.0
+Clayton,BUENA VISTA,U.S. Rep.,1,Dem,Swati Dandekar,0.0,2.0,2.0
+Clayton,CASS,U.S. Rep.,1,Dem,Swati Dandekar,0.0,5.0,5.0
+Clayton,CLAYTON-GARNAVILLO,U.S. Rep.,1,Dem,Swati Dandekar,0.0,2.0,2.0
+Clayton,COX CREEK-SPERRY,U.S. Rep.,1,Dem,Swati Dandekar,0.0,4.0,4.0
+Clayton,ELK-MALLORY-VOLGA,U.S. Rep.,1,Dem,Swati Dandekar,0.0,0.0,0.0
+Clayton,FARMERSBURG-WAGNER,U.S. Rep.,1,Dem,Swati Dandekar,0.0,2.0,2.0
+Clayton,GIARD-LUANA-MONONA,U.S. Rep.,1,Dem,Swati Dandekar,0.0,3.0,3.0
+Clayton,GRAND MEADOW,U.S. Rep.,1,Dem,Swati Dandekar,0.0,3.0,3.0
+Clayton,JEFFERSON-MILLVILLE,U.S. Rep.,1,Dem,Swati Dandekar,1.0,8.0,9.0
+Clayton,LODOMILLO,U.S. Rep.,1,Dem,Swati Dandekar,0.0,1.0,1.0
+Clayton,MARION,U.S. Rep.,1,Dem,Swati Dandekar,0.0,1.0,1.0
+Clayton,MENDON,U.S. Rep.,1,Dem,Swati Dandekar,1.0,12.0,13.0
+Clayton,READ,U.S. Rep.,1,Dem,Swati Dandekar,2.0,1.0,3.0
+Clayton,,U.S. Rep.,1,Dem,Swati Dandekar,,,68.0
+Clayton,BOARDMAN-HIGHLAND,U.S. Rep.,1,Dem,Anesa Kajtazovic,,,3.0
+Clayton,BUENA VISTA,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,0.0,0.0
+Clayton,CASS,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,5.0,5.0
+Clayton,CLAYTON-GARNAVILLO,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,0.0,0.0
+Clayton,COX CREEK-SPERRY,U.S. Rep.,1,Dem,Anesa Kajtazovic,3.0,2.0,5.0
+Clayton,ELK-MALLORY-VOLGA,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,2.0,2.0
+Clayton,FARMERSBURG-WAGNER,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,2.0,2.0
+Clayton,GRAND MEADOW,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,U.S. Rep.,1,Dem,Anesa Kajtazovic,1.0,5.0,6.0
+Clayton,LODOMILLO,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,0.0,0.0
+Clayton,MARION,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,0.0,0.0
+Clayton,MENDON,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,4.0,4.0
+Clayton,READ,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,2.0,2.0
+Clayton,,U.S. Rep.,1,Dem,Anesa Kajtazovic,,,30.0
+Clayton,BOARDMAN-HIGHLAND,U.S. Rep.,1,Dem,Pat Murphy,,,41.0
+Clayton,BUENA VISTA,U.S. Rep.,1,Dem,Pat Murphy,0.0,9.0,9.0
+Clayton,CASS,U.S. Rep.,1,Dem,Pat Murphy,5.0,15.0,20.0
+Clayton,CLAYTON-GARNAVILLO,U.S. Rep.,1,Dem,Pat Murphy,6.0,12.0,18.0
+Clayton,COX CREEK-SPERRY,U.S. Rep.,1,Dem,Pat Murphy,5.0,10.0,15.0
+Clayton,ELK-MALLORY-VOLGA,U.S. Rep.,1,Dem,Pat Murphy,1.0,11.0,12.0
+Clayton,FARMERSBURG-WAGNER,U.S. Rep.,1,Dem,Pat Murphy,0.0,10.0,10.0
+Clayton,GIARD-LUANA-MONONA,U.S. Rep.,1,Dem,Pat Murphy,1.0,16.0,17.0
+Clayton,GRAND MEADOW,U.S. Rep.,1,Dem,Pat Murphy,0.0,2.0,2.0
+Clayton,JEFFERSON-MILLVILLE,U.S. Rep.,1,Dem,Pat Murphy,1.0,22.0,23.0
+Clayton,LODOMILLO,U.S. Rep.,1,Dem,Pat Murphy,0.0,4.0,4.0
+Clayton,MARION,U.S. Rep.,1,Dem,Pat Murphy,0.0,2.0,2.0
+Clayton,MENDON,U.S. Rep.,1,Dem,Pat Murphy,2.0,22.0,24.0
+Clayton,READ,U.S. Rep.,1,Dem,Pat Murphy,1.0,1.0,2.0
+Clayton,,U.S. Rep.,1,Dem,Pat Murphy,,,205.0
+Clayton,BOARDMAN-HIGHLAND,U.S. Rep.,1,Dem,Dave O'Brien,,,10.0
+Clayton,BUENA VISTA,U.S. Rep.,1,Dem,Dave O'Brien,0.0,0.0,0.0
+Clayton,CASS,U.S. Rep.,1,Dem,Dave O'Brien,1.0,3.0,4.0
+Clayton,CLAYTON-GARNAVILLO,U.S. Rep.,1,Dem,Dave O'Brien,1.0,4.0,5.0
+Clayton,COX CREEK-SPERRY,U.S. Rep.,1,Dem,Dave O'Brien,0.0,2.0,2.0
+Clayton,ELK-MALLORY-VOLGA,U.S. Rep.,1,Dem,Dave O'Brien,0.0,1.0,1.0
+Clayton,FARMERSBURG-WAGNER,U.S. Rep.,1,Dem,Dave O'Brien,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,U.S. Rep.,1,Dem,Dave O'Brien,0.0,6.0,6.0
+Clayton,GRAND MEADOW,U.S. Rep.,1,Dem,Dave O'Brien,0.0,2.0,2.0
+Clayton,JEFFERSON-MILLVILLE,U.S. Rep.,1,Dem,Dave O'Brien,0.0,4.0,4.0
+Clayton,LODOMILLO,U.S. Rep.,1,Dem,Dave O'Brien,0.0,0.0,0.0
+Clayton,MARION,U.S. Rep.,1,Dem,Dave O'Brien,0.0,0.0,0.0
+Clayton,MENDON,U.S. Rep.,1,Dem,Dave O'Brien,0.0,3.0,3.0
+Clayton,READ,U.S. Rep.,1,Dem,Dave O'Brien,1.0,2.0,3.0
+Clayton,,U.S. Rep.,1,Dem,Dave O'Brien,,,41.0
+Clayton,BOARDMAN-HIGHLAND,U.S. Rep.,1,Dem,Monica Vernon,,,12.0
+Clayton,BUENA VISTA,U.S. Rep.,1,Dem,Monica Vernon,0.0,3.0,3.0
+Clayton,CASS,U.S. Rep.,1,Dem,Monica Vernon,0.0,3.0,3.0
+Clayton,CLAYTON-GARNAVILLO,U.S. Rep.,1,Dem,Monica Vernon,1.0,4.0,5.0
+Clayton,COX CREEK-SPERRY,U.S. Rep.,1,Dem,Monica Vernon,1.0,3.0,4.0
+Clayton,ELK-MALLORY-VOLGA,U.S. Rep.,1,Dem,Monica Vernon,0.0,6.0,6.0
+Clayton,FARMERSBURG-WAGNER,U.S. Rep.,1,Dem,Monica Vernon,0.0,2.0,2.0
+Clayton,GIARD-LUANA-MONONA,U.S. Rep.,1,Dem,Monica Vernon,2.0,5.0,7.0
+Clayton,GRAND MEADOW,U.S. Rep.,1,Dem,Monica Vernon,0.0,2.0,2.0
+Clayton,JEFFERSON-MILLVILLE,U.S. Rep.,1,Dem,Monica Vernon,1.0,10.0,11.0
+Clayton,LODOMILLO,U.S. Rep.,1,Dem,Monica Vernon,0.0,0.0,0.0
+Clayton,MARION,U.S. Rep.,1,Dem,Monica Vernon,0.0,0.0,0.0
+Clayton,MENDON,U.S. Rep.,1,Dem,Monica Vernon,0.0,9.0,9.0
+Clayton,READ,U.S. Rep.,1,Dem,Monica Vernon,0.0,0.0,0.0
+Clayton,,U.S. Rep.,1,Dem,Monica Vernon,,,65.0
+Clayton,BOARDMAN-HIGHLAND,U.S. Rep.,1,Dem,Write-in,,,0.0
+Clayton,BUENA VISTA,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Clayton,CASS,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Clayton,CLAYTON-GARNAVILLO,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Clayton,COX CREEK-SPERRY,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Clayton,ELK-MALLORY-VOLGA,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Clayton,FARMERSBURG-WAGNER,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Clayton,GRAND MEADOW,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Clayton,LODOMILLO,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Clayton,MARION,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Clayton,MENDON,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Clayton,READ,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Clayton,,U.S. Rep.,1,Dem,Write-in,,,0.0
+Clayton,BOARDMAN-HIGHLAND,Governor,,Rep,Terry E. Branstad,,,64.0
+Clayton,BUENA VISTA,Governor,,Rep,Terry E. Branstad,0.0,5.0,5.0
+Clayton,CASS,Governor,,Rep,Terry E. Branstad,7.0,60.0,67.0
+Clayton,CLAYTON-GARNAVILLO,Governor,,Rep,Terry E. Branstad,3.0,58.0,61.0
+Clayton,COX CREEK-SPERRY,Governor,,Rep,Terry E. Branstad,5.0,34.0,39.0
+Clayton,ELK-MALLORY-VOLGA,Governor,,Rep,Terry E. Branstad,8.0,30.0,38.0
+Clayton,FARMERSBURG-WAGNER,Governor,,Rep,Terry E. Branstad,2.0,42.0,44.0
+Clayton,GIARD-LUANA-MONONA,Governor,,Rep,Terry E. Branstad,2.0,71.0,73.0
+Clayton,GRAND MEADOW,Governor,,Rep,Terry E. Branstad,0.0,14.0,14.0
+Clayton,JEFFERSON-MILLVILLE,Governor,,Rep,Terry E. Branstad,7.0,80.0,87.0
+Clayton,LODOMILLO,Governor,,Rep,Terry E. Branstad,1.0,24.0,25.0
+Clayton,MARION,Governor,,Rep,Terry E. Branstad,0.0,18.0,18.0
+Clayton,MENDON,Governor,,Rep,Terry E. Branstad,7.0,50.0,57.0
+Clayton,READ,Governor,,Rep,Terry E. Branstad,0.0,9.0,9.0
+Clayton,,Governor,,Rep,Terry E. Branstad,,,609.0
+Clayton,BOARDMAN-HIGHLAND,Governor,,Rep,Tom Hoefling,,,10.0
+Clayton,BUENA VISTA,Governor,,Rep,Tom Hoefling,0.0,1.0,1.0
+Clayton,CASS,Governor,,Rep,Tom Hoefling,1.0,11.0,12.0
+Clayton,CLAYTON-GARNAVILLO,Governor,,Rep,Tom Hoefling,3.0,7.0,10.0
+Clayton,COX CREEK-SPERRY,Governor,,Rep,Tom Hoefling,0.0,15.0,15.0
+Clayton,ELK-MALLORY-VOLGA,Governor,,Rep,Tom Hoefling,0.0,6.0,6.0
+Clayton,FARMERSBURG-WAGNER,Governor,,Rep,Tom Hoefling,0.0,4.0,4.0
+Clayton,GIARD-LUANA-MONONA,Governor,,Rep,Tom Hoefling,0.0,12.0,12.0
+Clayton,GRAND MEADOW,Governor,,Rep,Tom Hoefling,0.0,3.0,3.0
+Clayton,JEFFERSON-MILLVILLE,Governor,,Rep,Tom Hoefling,0.0,9.0,9.0
+Clayton,LODOMILLO,Governor,,Rep,Tom Hoefling,0.0,3.0,3.0
+Clayton,MARION,Governor,,Rep,Tom Hoefling,2.0,4.0,6.0
+Clayton,MENDON,Governor,,Rep,Tom Hoefling,0.0,7.0,7.0
+Clayton,READ,Governor,,Rep,Tom Hoefling,0.0,1.0,1.0
+Clayton,,Governor,,Rep,Tom Hoefling,,,100.0
+Clayton,BOARDMAN-HIGHLAND,Governor,,Rep,Write-in,,,0.0
+Clayton,BUENA VISTA,Governor,,Rep,Write-in,0.0,0.0,0.0
+Clayton,CASS,Governor,,Rep,Write-in,0.0,0.0,0.0
+Clayton,CLAYTON-GARNAVILLO,Governor,,Rep,Write-in,0.0,0.0,0.0
+Clayton,COX CREEK-SPERRY,Governor,,Rep,Write-in,0.0,0.0,0.0
+Clayton,ELK-MALLORY-VOLGA,Governor,,Rep,Write-in,0.0,0.0,0.0
+Clayton,FARMERSBURG-WAGNER,Governor,,Rep,Write-in,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,Governor,,Rep,Write-in,0.0,0.0,0.0
+Clayton,GRAND MEADOW,Governor,,Rep,Write-in,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,Governor,,Rep,Write-in,0.0,0.0,0.0
+Clayton,LODOMILLO,Governor,,Rep,Write-in,0.0,0.0,0.0
+Clayton,MARION,Governor,,Rep,Write-in,0.0,0.0,0.0
+Clayton,MENDON,Governor,,Rep,Write-in,0.0,0.0,0.0
+Clayton,READ,Governor,,Rep,Write-in,0.0,0.0,0.0
+Clayton,,Governor,,Rep,Write-in,,,0.0
+Clayton,BOARDMAN-HIGHLAND,Governor,,Dem,Jack Hatch,,,84.0
+Clayton,BUENA VISTA,Governor,,Dem,Jack Hatch,0.0,12.0,12.0
+Clayton,CASS,Governor,,Dem,Jack Hatch,5.0,29.0,34.0
+Clayton,CLAYTON-GARNAVILLO,Governor,,Dem,Jack Hatch,6.0,19.0,25.0
+Clayton,COX CREEK-SPERRY,Governor,,Dem,Jack Hatch,9.0,24.0,33.0
+Clayton,ELK-MALLORY-VOLGA,Governor,,Dem,Jack Hatch,1.0,16.0,17.0
+Clayton,FARMERSBURG-WAGNER,Governor,,Dem,Jack Hatch,0.0,13.0,13.0
+Clayton,GIARD-LUANA-MONONA,Governor,,Dem,Jack Hatch,1.0,27.0,28.0
+Clayton,GRAND MEADOW,Governor,,Dem,Jack Hatch,0.0,9.0,9.0
+Clayton,JEFFERSON-MILLVILLE,Governor,,Dem,Jack Hatch,3.0,44.0,47.0
+Clayton,LODOMILLO,Governor,,Dem,Jack Hatch,0.0,4.0,4.0
+Clayton,MARION,Governor,,Dem,Jack Hatch,0.0,3.0,3.0
+Clayton,MENDON,Governor,,Dem,Jack Hatch,3.0,48.0,51.0
+Clayton,READ,Governor,,Dem,Jack Hatch,4.0,6.0,10.0
+Clayton,,Governor,,Dem,Jack Hatch,,,380.0
+Clayton,BOARDMAN-HIGHLAND,Governor,,Dem,Write-in,,,0.0
+Clayton,BUENA VISTA,Governor,,Dem,Write-in,0.0,0.0,0.0
+Clayton,CASS,Governor,,Dem,Write-in,0.0,0.0,0.0
+Clayton,CLAYTON-GARNAVILLO,Governor,,Dem,Write-in,0.0,0.0,0.0
+Clayton,COX CREEK-SPERRY,Governor,,Dem,Write-in,0.0,0.0,0.0
+Clayton,ELK-MALLORY-VOLGA,Governor,,Dem,Write-in,0.0,0.0,0.0
+Clayton,FARMERSBURG-WAGNER,Governor,,Dem,Write-in,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,Governor,,Dem,Write-in,0.0,0.0,0.0
+Clayton,GRAND MEADOW,Governor,,Dem,Write-in,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,Governor,,Dem,Write-in,0.0,0.0,0.0
+Clayton,LODOMILLO,Governor,,Dem,Write-in,0.0,0.0,0.0
+Clayton,MARION,Governor,,Dem,Write-in,0.0,0.0,0.0
+Clayton,MENDON,Governor,,Dem,Write-in,0.0,1.0,1.0
+Clayton,READ,Governor,,Dem,Write-in,0.0,0.0,0.0
+Clayton,,Governor,,Dem,Write-in,,,1.0
+Clayton,BOARDMAN-HIGHLAND,Secretary of State,,Rep,Paul D. Pate,,,65.0
+Clayton,BUENA VISTA,Secretary of State,,Rep,Paul D. Pate,0.0,6.0,6.0
+Clayton,CASS,Secretary of State,,Rep,Paul D. Pate,8.0,62.0,70.0
+Clayton,CLAYTON-GARNAVILLO,Secretary of State,,Rep,Paul D. Pate,6.0,55.0,61.0
+Clayton,COX CREEK-SPERRY,Secretary of State,,Rep,Paul D. Pate,3.0,44.0,47.0
+Clayton,ELK-MALLORY-VOLGA,Secretary of State,,Rep,Paul D. Pate,8.0,30.0,38.0
+Clayton,FARMERSBURG-WAGNER,Secretary of State,,Rep,Paul D. Pate,1.0,40.0,41.0
+Clayton,GIARD-LUANA-MONONA,Secretary of State,,Rep,Paul D. Pate,1.0,73.0,74.0
+Clayton,GRAND MEADOW,Secretary of State,,Rep,Paul D. Pate,0.0,16.0,16.0
+Clayton,JEFFERSON-MILLVILLE,Secretary of State,,Rep,Paul D. Pate,5.0,77.0,82.0
+Clayton,LODOMILLO,Secretary of State,,Rep,Paul D. Pate,1.0,25.0,26.0
+Clayton,MARION,Secretary of State,,Rep,Paul D. Pate,2.0,20.0,22.0
+Clayton,MENDON,Secretary of State,,Rep,Paul D. Pate,7.0,49.0,56.0
+Clayton,READ,Secretary of State,,Rep,Paul D. Pate,0.0,10.0,10.0
+Clayton,,Secretary of State,,Rep,Paul D. Pate,,,623.0
+Clayton,BOARDMAN-HIGHLAND,Secretary of State,,Rep,Write-in,,,0.0
+Clayton,BUENA VISTA,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,CASS,Secretary of State,,Rep,Write-in,0.0,1.0,1.0
+Clayton,CLAYTON-GARNAVILLO,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,COX CREEK-SPERRY,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,ELK-MALLORY-VOLGA,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,FARMERSBURG-WAGNER,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,Secretary of State,,Rep,Write-in,0.0,1.0,1.0
+Clayton,GRAND MEADOW,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,Secretary of State,,Rep,Write-in,1.0,1.0,2.0
+Clayton,LODOMILLO,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,MARION,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,MENDON,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,READ,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,,Secretary of State,,Rep,Write-in,,,4.0
+Clayton,BOARDMAN-HIGHLAND,Secretary of State,,Dem,Brad Anderson,,,74.0
+Clayton,BUENA VISTA,Secretary of State,,Dem,Brad Anderson,0.0,10.0,10.0
+Clayton,CASS,Secretary of State,,Dem,Brad Anderson,4.0,29.0,33.0
+Clayton,CLAYTON-GARNAVILLO,Secretary of State,,Dem,Brad Anderson,5.0,18.0,23.0
+Clayton,COX CREEK-SPERRY,Secretary of State,,Dem,Brad Anderson,9.0,23.0,32.0
+Clayton,ELK-MALLORY-VOLGA,Secretary of State,,Dem,Brad Anderson,0.0,16.0,16.0
+Clayton,FARMERSBURG-WAGNER,Secretary of State,,Dem,Brad Anderson,0.0,10.0,10.0
+Clayton,GIARD-LUANA-MONONA,Secretary of State,,Dem,Brad Anderson,1.0,25.0,26.0
+Clayton,GRAND MEADOW,Secretary of State,,Dem,Brad Anderson,0.0,8.0,8.0
+Clayton,JEFFERSON-MILLVILLE,Secretary of State,,Dem,Brad Anderson,3.0,43.0,46.0
+Clayton,LODOMILLO,Secretary of State,,Dem,Brad Anderson,0.0,3.0,3.0
+Clayton,MARION,Secretary of State,,Dem,Brad Anderson,0.0,3.0,3.0
+Clayton,MENDON,Secretary of State,,Dem,Brad Anderson,3.0,48.0,51.0
+Clayton,READ,Secretary of State,,Dem,Brad Anderson,2.0,6.0,8.0
+Clayton,,Secretary of State,,Dem,Brad Anderson,,,352.0
+Clayton,BOARDMAN-HIGHLAND,Secretary of State,,Dem,Write-in,,,0.0
+Clayton,BUENA VISTA,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,CASS,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,CLAYTON-GARNAVILLO,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,COX CREEK-SPERRY,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,ELK-MALLORY-VOLGA,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,FARMERSBURG-WAGNER,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,GRAND MEADOW,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,LODOMILLO,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,MARION,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,MENDON,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,READ,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,,Secretary of State,,Dem,Write-in,,,0.0
+Clayton,BOARDMAN-HIGHLAND,Auditor of State,,Rep,Mary Mosiman,,,61.0
+Clayton,BUENA VISTA,Auditor of State,,Rep,Mary Mosiman,0.0,6.0,6.0
+Clayton,CASS,Auditor of State,,Rep,Mary Mosiman,7.0,61.0,68.0
+Clayton,CLAYTON-GARNAVILLO,Auditor of State,,Rep,Mary Mosiman,6.0,52.0,58.0
+Clayton,COX CREEK-SPERRY,Auditor of State,,Rep,Mary Mosiman,3.0,39.0,42.0
+Clayton,ELK-MALLORY-VOLGA,Auditor of State,,Rep,Mary Mosiman,7.0,29.0,36.0
+Clayton,FARMERSBURG-WAGNER,Auditor of State,,Rep,Mary Mosiman,1.0,37.0,38.0
+Clayton,GIARD-LUANA-MONONA,Auditor of State,,Rep,Mary Mosiman,1.0,67.0,68.0
+Clayton,GRAND MEADOW,Auditor of State,,Rep,Mary Mosiman,0.0,16.0,16.0
+Clayton,JEFFERSON-MILLVILLE,Auditor of State,,Rep,Mary Mosiman,3.0,72.0,75.0
+Clayton,LODOMILLO,Auditor of State,,Rep,Mary Mosiman,1.0,23.0,24.0
+Clayton,MARION,Auditor of State,,Rep,Mary Mosiman,2.0,19.0,21.0
+Clayton,MENDON,Auditor of State,,Rep,Mary Mosiman,7.0,44.0,51.0
+Clayton,READ,Auditor of State,,Rep,Mary Mosiman,0.0,10.0,10.0
+Clayton,,Auditor of State,,Rep,Mary Mosiman,,,583.0
+Clayton,BOARDMAN-HIGHLAND,Auditor of State,,Rep,Write-in,,,0.0
+Clayton,BUENA VISTA,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,CASS,Auditor of State,,Rep,Write-in,0.0,1.0,1.0
+Clayton,CLAYTON-GARNAVILLO,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,COX CREEK-SPERRY,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,ELK-MALLORY-VOLGA,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,FARMERSBURG-WAGNER,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,GRAND MEADOW,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,Auditor of State,,Rep,Write-in,1.0,0.0,1.0
+Clayton,LODOMILLO,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,MARION,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,MENDON,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,READ,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,,Auditor of State,,Rep,Write-in,,,2.0
+Clayton,BOARDMAN-HIGHLAND,Auditor of State,,Dem,Jonathan Neiderbach,,,74.0
+Clayton,BUENA VISTA,Auditor of State,,Dem,Jonathan Neiderbach,0.0,10.0,10.0
+Clayton,CASS,Auditor of State,,Dem,Jonathan Neiderbach,4.0,28.0,32.0
+Clayton,CLAYTON-GARNAVILLO,Auditor of State,,Dem,Jonathan Neiderbach,5.0,17.0,22.0
+Clayton,COX CREEK-SPERRY,Auditor of State,,Dem,Jonathan Neiderbach,9.0,22.0,31.0
+Clayton,ELK-MALLORY-VOLGA,Auditor of State,,Dem,Jonathan Neiderbach,0.0,17.0,17.0
+Clayton,FARMERSBURG-WAGNER,Auditor of State,,Dem,Jonathan Neiderbach,0.0,9.0,9.0
+Clayton,GIARD-LUANA-MONONA,Auditor of State,,Dem,Jonathan Neiderbach,1.0,24.0,25.0
+Clayton,GRAND MEADOW,Auditor of State,,Dem,Jonathan Neiderbach,0.0,8.0,8.0
+Clayton,JEFFERSON-MILLVILLE,Auditor of State,,Dem,Jonathan Neiderbach,2.0,44.0,46.0
+Clayton,LODOMILLO,Auditor of State,,Dem,Jonathan Neiderbach,0.0,3.0,3.0
+Clayton,MARION,Auditor of State,,Dem,Jonathan Neiderbach,0.0,3.0,3.0
+Clayton,MENDON,Auditor of State,,Dem,Jonathan Neiderbach,3.0,48.0,51.0
+Clayton,READ,Auditor of State,,Dem,Jonathan Neiderbach,2.0,6.0,8.0
+Clayton,,Auditor of State,,Dem,Jonathan Neiderbach,,,348.0
+Clayton,BOARDMAN-HIGHLAND,Auditor of State,,Dem,Write-in,,,0.0
+Clayton,BUENA VISTA,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,CASS,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,CLAYTON-GARNAVILLO,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,COX CREEK-SPERRY,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,ELK-MALLORY-VOLGA,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,FARMERSBURG-WAGNER,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,GRAND MEADOW,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,LODOMILLO,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,MARION,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,MENDON,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,READ,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,,Auditor of State,,Dem,Write-in,,,0.0
+Clayton,BOARDMAN-HIGHLAND,Treasurer of State,,Rep,Write-in,,,1.0
+Clayton,BUENA VISTA,Treasurer of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,CASS,Treasurer of State,,Rep,Write-in,0.0,2.0,2.0
+Clayton,CLAYTON-GARNAVILLO,Treasurer of State,,Rep,Write-in,0.0,2.0,2.0
+Clayton,COX CREEK-SPERRY,Treasurer of State,,Rep,Write-in,0.0,2.0,2.0
+Clayton,ELK-MALLORY-VOLGA,Treasurer of State,,Rep,Write-in,1.0,1.0,2.0
+Clayton,FARMERSBURG-WAGNER,Treasurer of State,,Rep,Write-in,0.0,1.0,1.0
+Clayton,GIARD-LUANA-MONONA,Treasurer of State,,Rep,Write-in,0.0,3.0,3.0
+Clayton,GRAND MEADOW,Treasurer of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,Treasurer of State,,Rep,Write-in,1.0,1.0,2.0
+Clayton,LODOMILLO,Treasurer of State,,Rep,Write-in,0.0,1.0,1.0
+Clayton,MARION,Treasurer of State,,Rep,Write-in,0.0,3.0,3.0
+Clayton,MENDON,Treasurer of State,,Rep,Write-in,0.0,2.0,2.0
+Clayton,READ,Treasurer of State,,Rep,Write-in,0.0,0.0,0.0
+Clayton,,Treasurer of State,,Rep,Write-in,,,21.0
+Clayton,BOARDMAN-HIGHLAND,Treasurer of State,,Dem,Michael L. Fitzgerald,,,79.0
+Clayton,BUENA VISTA,Treasurer of State,,Dem,Michael L. Fitzgerald,0.0,13.0,13.0
+Clayton,CASS,Treasurer of State,,Dem,Michael L. Fitzgerald,5.0,28.0,33.0
+Clayton,CLAYTON-GARNAVILLO,Treasurer of State,,Dem,Michael L. Fitzgerald,5.0,18.0,23.0
+Clayton,COX CREEK-SPERRY,Treasurer of State,,Dem,Michael L. Fitzgerald,9.0,24.0,33.0
+Clayton,ELK-MALLORY-VOLGA,Treasurer of State,,Dem,Michael L. Fitzgerald,0.0,16.0,16.0
+Clayton,FARMERSBURG-WAGNER,Treasurer of State,,Dem,Michael L. Fitzgerald,0.0,11.0,11.0
+Clayton,GIARD-LUANA-MONONA,Treasurer of State,,Dem,Michael L. Fitzgerald,3.0,27.0,30.0
+Clayton,GRAND MEADOW,Treasurer of State,,Dem,Michael L. Fitzgerald,0.0,9.0,9.0
+Clayton,JEFFERSON-MILLVILLE,Treasurer of State,,Dem,Michael L. Fitzgerald,4.0,46.0,50.0
+Clayton,LODOMILLO,Treasurer of State,,Dem,Michael L. Fitzgerald,0.0,3.0,3.0
+Clayton,MARION,Treasurer of State,,Dem,Michael L. Fitzgerald,0.0,3.0,3.0
+Clayton,MENDON,Treasurer of State,,Dem,Michael L. Fitzgerald,3.0,50.0,53.0
+Clayton,READ,Treasurer of State,,Dem,Michael L. Fitzgerald,3.0,6.0,9.0
+Clayton,,Treasurer of State,,Dem,Michael L. Fitzgerald,,,375.0
+Clayton,BOARDMAN-HIGHLAND,Treasurer of State,,Dem,Write-in,,,0.0
+Clayton,BUENA VISTA,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,CASS,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,CLAYTON-GARNAVILLO,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,COX CREEK-SPERRY,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,ELK-MALLORY-VOLGA,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,FARMERSBURG-WAGNER,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,GRAND MEADOW,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,LODOMILLO,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,MARION,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,MENDON,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,READ,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Clayton,,Treasurer of State,,Dem,Write-in,,,0.0
+Clayton,BOARDMAN-HIGHLAND,Secretary of Agriculture,,Rep,Bill Northey,,,64.0
+Clayton,BUENA VISTA,Secretary of Agriculture,,Rep,Bill Northey,0.0,6.0,6.0
+Clayton,CASS,Secretary of Agriculture,,Rep,Bill Northey,8.0,63.0,71.0
+Clayton,CLAYTON-GARNAVILLO,Secretary of Agriculture,,Rep,Bill Northey,6.0,57.0,63.0
+Clayton,COX CREEK-SPERRY,Secretary of Agriculture,,Rep,Bill Northey,3.0,46.0,49.0
+Clayton,ELK-MALLORY-VOLGA,Secretary of Agriculture,,Rep,Bill Northey,8.0,29.0,37.0
+Clayton,FARMERSBURG-WAGNER,Secretary of Agriculture,,Rep,Bill Northey,1.0,39.0,40.0
+Clayton,GIARD-LUANA-MONONA,Secretary of Agriculture,,Rep,Bill Northey,2.0,69.0,71.0
+Clayton,GRAND MEADOW,Secretary of Agriculture,,Rep,Bill Northey,0.0,16.0,16.0
+Clayton,JEFFERSON-MILLVILLE,Secretary of Agriculture,,Rep,Bill Northey,5.0,80.0,85.0
+Clayton,LODOMILLO,Secretary of Agriculture,,Rep,Bill Northey,1.0,24.0,25.0
+Clayton,MARION,Secretary of Agriculture,,Rep,Bill Northey,2.0,21.0,23.0
+Clayton,MENDON,Secretary of Agriculture,,Rep,Bill Northey,7.0,48.0,55.0
+Clayton,READ,Secretary of Agriculture,,Rep,Bill Northey,0.0,9.0,9.0
+Clayton,,Secretary of Agriculture,,Rep,Bill Northey,,,623.0
+Clayton,BOARDMAN-HIGHLAND,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Clayton,BUENA VISTA,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Clayton,CASS,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Clayton,CLAYTON-GARNAVILLO,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Clayton,COX CREEK-SPERRY,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Clayton,ELK-MALLORY-VOLGA,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Clayton,FARMERSBURG-WAGNER,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Clayton,GRAND MEADOW,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Clayton,LODOMILLO,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Clayton,MARION,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Clayton,MENDON,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Clayton,READ,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Clayton,,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Clayton,BOARDMAN-HIGHLAND,Secretary of Agriculture,,Dem,Sherrie Taha,,,74.0
+Clayton,BUENA VISTA,Secretary of Agriculture,,Dem,Sherrie Taha,0.0,10.0,10.0
+Clayton,CASS,Secretary of Agriculture,,Dem,Sherrie Taha,2.0,27.0,29.0
+Clayton,CLAYTON-GARNAVILLO,Secretary of Agriculture,,Dem,Sherrie Taha,5.0,16.0,21.0
+Clayton,COX CREEK-SPERRY,Secretary of Agriculture,,Dem,Sherrie Taha,9.0,22.0,31.0
+Clayton,ELK-MALLORY-VOLGA,Secretary of Agriculture,,Dem,Sherrie Taha,0.0,16.0,16.0
+Clayton,FARMERSBURG-WAGNER,Secretary of Agriculture,,Dem,Sherrie Taha,0.0,9.0,9.0
+Clayton,GIARD-LUANA-MONONA,Secretary of Agriculture,,Dem,Sherrie Taha,1.0,26.0,27.0
+Clayton,GRAND MEADOW,Secretary of Agriculture,,Dem,Sherrie Taha,0.0,8.0,8.0
+Clayton,JEFFERSON-MILLVILLE,Secretary of Agriculture,,Dem,Sherrie Taha,3.0,43.0,46.0
+Clayton,LODOMILLO,Secretary of Agriculture,,Dem,Sherrie Taha,0.0,4.0,4.0
+Clayton,MARION,Secretary of Agriculture,,Dem,Sherrie Taha,0.0,3.0,3.0
+Clayton,MENDON,Secretary of Agriculture,,Dem,Sherrie Taha,3.0,47.0,50.0
+Clayton,READ,Secretary of Agriculture,,Dem,Sherrie Taha,2.0,6.0,8.0
+Clayton,,Secretary of Agriculture,,Dem,Sherrie Taha,,,346.0
+Clayton,BOARDMAN-HIGHLAND,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Clayton,BUENA VISTA,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Clayton,CASS,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Clayton,CLAYTON-GARNAVILLO,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Clayton,COX CREEK-SPERRY,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Clayton,ELK-MALLORY-VOLGA,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Clayton,FARMERSBURG-WAGNER,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Clayton,GRAND MEADOW,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Clayton,LODOMILLO,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Clayton,MARION,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Clayton,MENDON,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Clayton,READ,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Clayton,,Secretary of Agriculture,,Dem,Write-in,,,1.0
+Clayton,BOARDMAN-HIGHLAND,Attorney General,,Rep,Write-in,,,2.0
+Clayton,BUENA VISTA,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Clayton,CASS,Attorney General,,Rep,Write-in,1.0,1.0,2.0
+Clayton,CLAYTON-GARNAVILLO,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Clayton,COX CREEK-SPERRY,Attorney General,,Rep,Write-in,0.0,1.0,1.0
+Clayton,ELK-MALLORY-VOLGA,Attorney General,,Rep,Write-in,0.0,1.0,1.0
+Clayton,FARMERSBURG-WAGNER,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,Attorney General,,Rep,Write-in,0.0,3.0,3.0
+Clayton,GRAND MEADOW,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,Attorney General,,Rep,Write-in,0.0,2.0,2.0
+Clayton,LODOMILLO,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Clayton,MARION,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Clayton,MENDON,Attorney General,,Rep,Write-in,0.0,1.0,1.0
+Clayton,READ,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Clayton,,Attorney General,,Rep,Write-in,,,12.0
+Clayton,BOARDMAN-HIGHLAND,Attorney General,,Dem,Tom Miller,,,84.0
+Clayton,BUENA VISTA,Attorney General,,Dem,Tom Miller,0.0,13.0,13.0
+Clayton,CASS,Attorney General,,Dem,Tom Miller,5.0,28.0,33.0
+Clayton,CLAYTON-GARNAVILLO,Attorney General,,Dem,Tom Miller,7.0,21.0,28.0
+Clayton,COX CREEK-SPERRY,Attorney General,,Dem,Tom Miller,9.0,24.0,33.0
+Clayton,ELK-MALLORY-VOLGA,Attorney General,,Dem,Tom Miller,0.0,17.0,17.0
+Clayton,FARMERSBURG-WAGNER,Attorney General,,Dem,Tom Miller,0.0,13.0,13.0
+Clayton,GIARD-LUANA-MONONA,Attorney General,,Dem,Tom Miller,3.0,30.0,33.0
+Clayton,GRAND MEADOW,Attorney General,,Dem,Tom Miller,0.0,8.0,8.0
+Clayton,JEFFERSON-MILLVILLE,Attorney General,,Dem,Tom Miller,4.0,49.0,53.0
+Clayton,LODOMILLO,Attorney General,,Dem,Tom Miller,0.0,4.0,4.0
+Clayton,MARION,Attorney General,,Dem,Tom Miller,0.0,3.0,3.0
+Clayton,MENDON,Attorney General,,Dem,Tom Miller,3.0,50.0,53.0
+Clayton,READ,Attorney General,,Dem,Tom Miller,3.0,5.0,8.0
+Clayton,,Attorney General,,Dem,Tom Miller,,,394.0
+Clayton,BOARDMAN-HIGHLAND,Attorney General,,Dem,Write-in,,,0.0
+Clayton,BUENA VISTA,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Clayton,CASS,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Clayton,CLAYTON-GARNAVILLO,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Clayton,COX CREEK-SPERRY,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Clayton,ELK-MALLORY-VOLGA,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Clayton,FARMERSBURG-WAGNER,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Clayton,GRAND MEADOW,Attorney General,,Dem,Write-in,0.0,1.0,1.0
+Clayton,JEFFERSON-MILLVILLE,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Clayton,LODOMILLO,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Clayton,MARION,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Clayton,MENDON,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Clayton,READ,Attorney General,,Dem,Write-in,0.0,1.0,1.0
+Clayton,,Attorney General,,Dem,Write-in,,,2.0
+Clayton,BOARDMAN-HIGHLAND,State Rep.,55,Rep,Darrel Branhagen,,,59.0
+Clayton,BUENA VISTA,State Rep.,55,Rep,Darrel Branhagen, , , 
+Clayton,CASS,State Rep.,55,Rep,Darrel Branhagen, , , 
+Clayton,CLAYTON-GARNAVILLO,State Rep.,55,Rep,Darrel Branhagen, , , 
+Clayton,COX CREEK-SPERRY,State Rep.,55,Rep,Darrel Branhagen, , , 
+Clayton,ELK-MALLORY-VOLGA,State Rep.,55,Rep,Darrel Branhagen, , , 
+Clayton,FARMERSBURG-WAGNER,State Rep.,55,Rep,Darrel Branhagen, , , 
+Clayton,GIARD-LUANA-MONONA,State Rep.,55,Rep,Darrel Branhagen, , , 
+Clayton,GRAND MEADOW,State Rep.,55,Rep,Darrel Branhagen, , , 
+Clayton,JEFFERSON-MILLVILLE,State Rep.,55,Rep,Darrel Branhagen, , , 
+Clayton,LODOMILLO,State Rep.,55,Rep,Darrel Branhagen, , , 
+Clayton,MARION,State Rep.,55,Rep,Darrel Branhagen,2.0,19.0,21.0
+Clayton,MENDON,State Rep.,55,Rep,Darrel Branhagen, , , 
+Clayton,READ,State Rep.,55,Rep,Darrel Branhagen, , , 
+Clayton,,State Rep.,55,Rep,Darrel Branhagen,,,89.0
+Clayton,BOARDMAN-HIGHLAND,State Rep.,55,Rep,Write-in,,,0.0
+Clayton,BUENA VISTA,State Rep.,55,Rep,Write-in, , , 
+Clayton,CASS,State Rep.,55,Rep,Write-in, , , 
+Clayton,CLAYTON-GARNAVILLO,State Rep.,55,Rep,Write-in, , , 
+Clayton,COX CREEK-SPERRY,State Rep.,55,Rep,Write-in, , , 
+Clayton,ELK-MALLORY-VOLGA,State Rep.,55,Rep,Write-in, , , 
+Clayton,FARMERSBURG-WAGNER,State Rep.,55,Rep,Write-in, , , 
+Clayton,GIARD-LUANA-MONONA,State Rep.,55,Rep,Write-in, , , 
+Clayton,GRAND MEADOW,State Rep.,55,Rep,Write-in, , , 
+Clayton,JEFFERSON-MILLVILLE,State Rep.,55,Rep,Write-in, , , 
+Clayton,LODOMILLO,State Rep.,55,Rep,Write-in, , , 
+Clayton,MARION,State Rep.,55,Rep,Write-in,0.0,0.0,0.0
+Clayton,MENDON,State Rep.,55,Rep,Write-in, , , 
+Clayton,READ,State Rep.,55,Rep,Write-in, , , 
+Clayton,,State Rep.,55,Rep,Write-in,,,0.0
+Clayton,BOARDMAN-HIGHLAND,State Rep.,55,Dem,Rick Edwards,,,76.0
+Clayton,BUENA VISTA,State Rep.,55,Dem,Rick Edwards, , , 
+Clayton,CASS,State Rep.,55,Dem,Rick Edwards, , , 
+Clayton,CLAYTON-GARNAVILLO,State Rep.,55,Dem,Rick Edwards, , , 
+Clayton,COX CREEK-SPERRY,State Rep.,55,Dem,Rick Edwards, , , 
+Clayton,ELK-MALLORY-VOLGA,State Rep.,55,Dem,Rick Edwards, , , 
+Clayton,FARMERSBURG-WAGNER,State Rep.,55,Dem,Rick Edwards, , , 
+Clayton,GIARD-LUANA-MONONA,State Rep.,55,Dem,Rick Edwards, , , 
+Clayton,GRAND MEADOW,State Rep.,55,Dem,Rick Edwards, , , 
+Clayton,JEFFERSON-MILLVILLE,State Rep.,55,Dem,Rick Edwards, , , 
+Clayton,LODOMILLO,State Rep.,55,Dem,Rick Edwards, , , 
+Clayton,MARION,State Rep.,55,Dem,Rick Edwards,0.0,3.0,3.0
+Clayton,MENDON,State Rep.,55,Dem,Rick Edwards, , , 
+Clayton,READ,State Rep.,55,Dem,Rick Edwards, , , 
+Clayton,,State Rep.,55,Dem,Rick Edwards,,,89.0
+Clayton,BOARDMAN-HIGHLAND,State Rep.,55,Dem,Write-in,,,0.0
+Clayton,BUENA VISTA,State Rep.,55,Dem,Write-in, , , 
+Clayton,CASS,State Rep.,55,Dem,Write-in, , , 
+Clayton,CLAYTON-GARNAVILLO,State Rep.,55,Dem,Write-in, , , 
+Clayton,COX CREEK-SPERRY,State Rep.,55,Dem,Write-in, , , 
+Clayton,ELK-MALLORY-VOLGA,State Rep.,55,Dem,Write-in, , , 
+Clayton,FARMERSBURG-WAGNER,State Rep.,55,Dem,Write-in, , , 
+Clayton,GIARD-LUANA-MONONA,State Rep.,55,Dem,Write-in, , , 
+Clayton,GRAND MEADOW,State Rep.,55,Dem,Write-in, , , 
+Clayton,JEFFERSON-MILLVILLE,State Rep.,55,Dem,Write-in, , , 
+Clayton,LODOMILLO,State Rep.,55,Dem,Write-in, , , 
+Clayton,MARION,State Rep.,55,Dem,Write-in,0.0,0.0,0.0
+Clayton,MENDON,State Rep.,55,Dem,Write-in, , , 
+Clayton,READ,State Rep.,55,Dem,Write-in, , , 
+Clayton,,State Rep.,55,Dem,Write-in,,,0.0
+Clayton,BOARDMAN-HIGHLAND,State Rep.,56,Rep,Write-in,,, 
+Clayton,BUENA VISTA,State Rep.,56,Rep,Write-in,0.0,0.0,0.0
+Clayton,CASS,State Rep.,56,Rep,Write-in,1.0,3.0,4.0
+Clayton,CLAYTON-GARNAVILLO,State Rep.,56,Rep,Write-in,1.0,0.0,1.0
+Clayton,COX CREEK-SPERRY,State Rep.,56,Rep,Write-in,0.0,2.0,2.0
+Clayton,ELK-MALLORY-VOLGA,State Rep.,56,Rep,Write-in,0.0,3.0,3.0
+Clayton,FARMERSBURG-WAGNER,State Rep.,56,Rep,Write-in,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,State Rep.,56,Rep,Write-in,0.0,3.0,3.0
+Clayton,GRAND MEADOW,State Rep.,56,Rep,Write-in,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,State Rep.,56,Rep,Write-in,0.0,2.0,2.0
+Clayton,LODOMILLO,State Rep.,56,Rep,Write-in,0.0,0.0,0.0
+Clayton,MARION,State Rep.,56,Rep,Write-in, , , 
+Clayton,MENDON,State Rep.,56,Rep,Write-in,0.0,2.0,2.0
+Clayton,READ,State Rep.,56,Rep,Write-in,0.0,0.0,0.0
+Clayton,,State Rep.,56,Rep,Write-in,,,17.0
+Clayton,BOARDMAN-HIGHLAND,State Rep.,56,Dem,Patti Ruff,,, 
+Clayton,BUENA VISTA,State Rep.,56,Dem,Patti Ruff,0.0,13.0,13.0
+Clayton,CASS,State Rep.,56,Dem,Patti Ruff,4.0,29.0,33.0
+Clayton,CLAYTON-GARNAVILLO,State Rep.,56,Dem,Patti Ruff,7.0,20.0,27.0
+Clayton,COX CREEK-SPERRY,State Rep.,56,Dem,Patti Ruff,9.0,25.0,34.0
+Clayton,ELK-MALLORY-VOLGA,State Rep.,56,Dem,Patti Ruff,0.0,18.0,18.0
+Clayton,FARMERSBURG-WAGNER,State Rep.,56,Dem,Patti Ruff,0.0,13.0,13.0
+Clayton,GIARD-LUANA-MONONA,State Rep.,56,Dem,Patti Ruff,3.0,30.0,33.0
+Clayton,GRAND MEADOW,State Rep.,56,Dem,Patti Ruff,0.0,8.0,8.0
+Clayton,JEFFERSON-MILLVILLE,State Rep.,56,Dem,Patti Ruff,3.0,49.0,52.0
+Clayton,LODOMILLO,State Rep.,56,Dem,Patti Ruff,0.0,4.0,4.0
+Clayton,MARION,State Rep.,56,Dem,Patti Ruff, , , 
+Clayton,MENDON,State Rep.,56,Dem,Patti Ruff,3.0,48.0,51.0
+Clayton,READ,State Rep.,56,Dem,Patti Ruff,4.0,6.0,10.0
+Clayton,,State Rep.,56,Dem,Patti Ruff,,,296.0
+Clayton,BOARDMAN-HIGHLAND,State Rep.,56,Dem,Write-in,,, 
+Clayton,BUENA VISTA,State Rep.,56,Dem,Write-in,0.0,0.0,0.0
+Clayton,CASS,State Rep.,56,Dem,Write-in,0.0,0.0,0.0
+Clayton,CLAYTON-GARNAVILLO,State Rep.,56,Dem,Write-in,0.0,0.0,0.0
+Clayton,COX CREEK-SPERRY,State Rep.,56,Dem,Write-in,0.0,0.0,0.0
+Clayton,ELK-MALLORY-VOLGA,State Rep.,56,Dem,Write-in,0.0,0.0,0.0
+Clayton,FARMERSBURG-WAGNER,State Rep.,56,Dem,Write-in,0.0,0.0,0.0
+Clayton,GIARD-LUANA-MONONA,State Rep.,56,Dem,Write-in,0.0,0.0,0.0
+Clayton,GRAND MEADOW,State Rep.,56,Dem,Write-in,0.0,0.0,0.0
+Clayton,JEFFERSON-MILLVILLE,State Rep.,56,Dem,Write-in,0.0,0.0,0.0
+Clayton,LODOMILLO,State Rep.,56,Dem,Write-in,0.0,0.0,0.0
+Clayton,MARION,State Rep.,56,Dem,Write-in, , , 
+Clayton,MENDON,State Rep.,56,Dem,Write-in,0.0,0.0,0.0
+Clayton,READ,State Rep.,56,Dem,Write-in,0.0,0.0,0.0
+Clayton,,State Rep.,56,Dem,Write-in,,,0.0

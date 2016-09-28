@@ -1,0 +1,732 @@
+county,precinct,office,district,party,candidate,absentee,polling,votes
+Des Moines,DM,U.S. Senator,,Rep,Sam Clovis,,,11.0
+Des Moines,FM,U.S. Senator,,Rep,Sam Clovis,,,21.0
+Des Moines,HJ,U.S. Senator,,Rep,Sam Clovis,,,9.0
+Des Moines,MY,U.S. Senator,,Rep,Sam Clovis,,,5.0
+Des Moines,PCT 1T,U.S. Senator,,Rep,Sam Clovis,,,30.0
+Des Moines,PCT 2,U.S. Senator,,Rep,Sam Clovis,,,18.0
+Des Moines,PCT 3,U.S. Senator,,Rep,Sam Clovis,,,15.0
+Des Moines,PCT 4,U.S. Senator,,Rep,Sam Clovis,,,18.0
+Des Moines,PCT 5,U.S. Senator,,Rep,Sam Clovis,,,10.0
+Des Moines,PCT 6,U.S. Senator,,Rep,Sam Clovis,,,5.0
+Des Moines,PCT 7,U.S. Senator,,Rep,Sam Clovis,,,18.0
+Des Moines,PCT 8C,U.S. Senator,,Rep,Sam Clovis,,,10.0
+Des Moines,PCT 9,U.S. Senator,,Rep,Sam Clovis,,,17.0
+Des Moines,PW,U.S. Senator,,Rep,Sam Clovis,,,4.0
+Des Moines,UNION,U.S. Senator,,Rep,Sam Clovis,,,6.0
+Des Moines,WB,U.S. Senator,,Rep,Sam Clovis,,,19.0
+Des Moines,,U.S. Senator,,Rep,Sam Clovis,,,242.0
+Des Moines,DM,U.S. Senator,,Rep,Joni Ernst,,,46.0
+Des Moines,FM,U.S. Senator,,Rep,Joni Ernst,,,46.0
+Des Moines,HJ,U.S. Senator,,Rep,Joni Ernst,,,18.0
+Des Moines,MY,U.S. Senator,,Rep,Joni Ernst,,,59.0
+Des Moines,PCT 1T,U.S. Senator,,Rep,Joni Ernst,,,64.0
+Des Moines,PCT 2,U.S. Senator,,Rep,Joni Ernst,,,32.0
+Des Moines,PCT 3,U.S. Senator,,Rep,Joni Ernst,,,37.0
+Des Moines,PCT 4,U.S. Senator,,Rep,Joni Ernst,,,26.0
+Des Moines,PCT 5,U.S. Senator,,Rep,Joni Ernst,,,37.0
+Des Moines,PCT 6,U.S. Senator,,Rep,Joni Ernst,,,6.0
+Des Moines,PCT 7,U.S. Senator,,Rep,Joni Ernst,,,31.0
+Des Moines,PCT 8C,U.S. Senator,,Rep,Joni Ernst,,,56.0
+Des Moines,PCT 9,U.S. Senator,,Rep,Joni Ernst,,,54.0
+Des Moines,PW,U.S. Senator,,Rep,Joni Ernst,,,29.0
+Des Moines,UNION,U.S. Senator,,Rep,Joni Ernst,,,19.0
+Des Moines,WB,U.S. Senator,,Rep,Joni Ernst,,,40.0
+Des Moines,,U.S. Senator,,Rep,Joni Ernst,,,637.0
+Des Moines,DM,U.S. Senator,,Rep,Mark Jacobs,,,8.0
+Des Moines,FM,U.S. Senator,,Rep,Mark Jacobs,,,14.0
+Des Moines,HJ,U.S. Senator,,Rep,Mark Jacobs,,,2.0
+Des Moines,MY,U.S. Senator,,Rep,Mark Jacobs,,,17.0
+Des Moines,PCT 1T,U.S. Senator,,Rep,Mark Jacobs,,,14.0
+Des Moines,PCT 2,U.S. Senator,,Rep,Mark Jacobs,,,6.0
+Des Moines,PCT 3,U.S. Senator,,Rep,Mark Jacobs,,,14.0
+Des Moines,PCT 4,U.S. Senator,,Rep,Mark Jacobs,,,5.0
+Des Moines,PCT 5,U.S. Senator,,Rep,Mark Jacobs,,,10.0
+Des Moines,PCT 6,U.S. Senator,,Rep,Mark Jacobs,,,5.0
+Des Moines,PCT 7,U.S. Senator,,Rep,Mark Jacobs,,,5.0
+Des Moines,PCT 8C,U.S. Senator,,Rep,Mark Jacobs,,,13.0
+Des Moines,PCT 9,U.S. Senator,,Rep,Mark Jacobs,,,21.0
+Des Moines,PW,U.S. Senator,,Rep,Mark Jacobs,,,6.0
+Des Moines,UNION,U.S. Senator,,Rep,Mark Jacobs,,,2.0
+Des Moines,WB,U.S. Senator,,Rep,Mark Jacobs,,,11.0
+Des Moines,,U.S. Senator,,Rep,Mark Jacobs,,,188.0
+Des Moines,DM,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Des Moines,FM,U.S. Senator,,Rep,Scott Schaben,,,3.0
+Des Moines,HJ,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Des Moines,MY,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Des Moines,PCT 1T,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Des Moines,PCT 2,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Des Moines,PCT 3,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Des Moines,PCT 4,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Des Moines,PCT 5,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Des Moines,PCT 6,U.S. Senator,,Rep,Scott Schaben,,,1.0
+Des Moines,PCT 7,U.S. Senator,,Rep,Scott Schaben,,,2.0
+Des Moines,PCT 8C,U.S. Senator,,Rep,Scott Schaben,,,1.0
+Des Moines,PCT 9,U.S. Senator,,Rep,Scott Schaben,,,1.0
+Des Moines,PW,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Des Moines,UNION,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Des Moines,WB,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Des Moines,,U.S. Senator,,Rep,Scott Schaben,,,11.0
+Des Moines,DM,U.S. Senator,,Rep,Matt Whitaker,,,6.0
+Des Moines,FM,U.S. Senator,,Rep,Matt Whitaker,,,2.0
+Des Moines,HJ,U.S. Senator,,Rep,Matt Whitaker,,,7.0
+Des Moines,MY,U.S. Senator,,Rep,Matt Whitaker,,,4.0
+Des Moines,PCT 1T,U.S. Senator,,Rep,Matt Whitaker,,,7.0
+Des Moines,PCT 2,U.S. Senator,,Rep,Matt Whitaker,,,3.0
+Des Moines,PCT 3,U.S. Senator,,Rep,Matt Whitaker,,,3.0
+Des Moines,PCT 4,U.S. Senator,,Rep,Matt Whitaker,,,5.0
+Des Moines,PCT 5,U.S. Senator,,Rep,Matt Whitaker,,,0.0
+Des Moines,PCT 6,U.S. Senator,,Rep,Matt Whitaker,,,1.0
+Des Moines,PCT 7,U.S. Senator,,Rep,Matt Whitaker,,,5.0
+Des Moines,PCT 8C,U.S. Senator,,Rep,Matt Whitaker,,,8.0
+Des Moines,PCT 9,U.S. Senator,,Rep,Matt Whitaker,,,9.0
+Des Moines,PW,U.S. Senator,,Rep,Matt Whitaker,,,3.0
+Des Moines,UNION,U.S. Senator,,Rep,Matt Whitaker,,,0.0
+Des Moines,WB,U.S. Senator,,Rep,Matt Whitaker,,,5.0
+Des Moines,,U.S. Senator,,Rep,Matt Whitaker,,,81.0
+Des Moines,DM,U.S. Senator,,Rep,Write-in,,,0.0
+Des Moines,FM,U.S. Senator,,Rep,Write-in,,,0.0
+Des Moines,HJ,U.S. Senator,,Rep,Write-in,,,1.0
+Des Moines,MY,U.S. Senator,,Rep,Write-in,,,0.0
+Des Moines,PCT 1T,U.S. Senator,,Rep,Write-in,,,0.0
+Des Moines,PCT 2,U.S. Senator,,Rep,Write-in,,,0.0
+Des Moines,PCT 3,U.S. Senator,,Rep,Write-in,,,0.0
+Des Moines,PCT 4,U.S. Senator,,Rep,Write-in,,,0.0
+Des Moines,PCT 5,U.S. Senator,,Rep,Write-in,,,0.0
+Des Moines,PCT 6,U.S. Senator,,Rep,Write-in,,,0.0
+Des Moines,PCT 7,U.S. Senator,,Rep,Write-in,,,0.0
+Des Moines,PCT 8C,U.S. Senator,,Rep,Write-in,,,0.0
+Des Moines,PCT 9,U.S. Senator,,Rep,Write-in,,,0.0
+Des Moines,PW,U.S. Senator,,Rep,Write-in,,,0.0
+Des Moines,UNION,U.S. Senator,,Rep,Write-in,,,0.0
+Des Moines,WB,U.S. Senator,,Rep,Write-in,,,0.0
+Des Moines,,U.S. Senator,,Rep,Write-in,,,1.0
+Des Moines,DM,U.S. Senator,,Dem,Bruce Braley,,,35.0
+Des Moines,FM,U.S. Senator,,Dem,Bruce Braley,,,34.0
+Des Moines,HJ,U.S. Senator,,Dem,Bruce Braley,,,20.0
+Des Moines,MY,U.S. Senator,,Dem,Bruce Braley,,,37.0
+Des Moines,PCT 1T,U.S. Senator,,Dem,Bruce Braley,,,49.0
+Des Moines,PCT 2,U.S. Senator,,Dem,Bruce Braley,,,54.0
+Des Moines,PCT 3,U.S. Senator,,Dem,Bruce Braley,,,28.0
+Des Moines,PCT 4,U.S. Senator,,Dem,Bruce Braley,,,43.0
+Des Moines,PCT 5,U.S. Senator,,Dem,Bruce Braley,,,26.0
+Des Moines,PCT 6,U.S. Senator,,Dem,Bruce Braley,,,25.0
+Des Moines,PCT 7,U.S. Senator,,Dem,Bruce Braley,,,46.0
+Des Moines,PCT 8C,U.S. Senator,,Dem,Bruce Braley,,,66.0
+Des Moines,PCT 9,U.S. Senator,,Dem,Bruce Braley,,,77.0
+Des Moines,PW,U.S. Senator,,Dem,Bruce Braley,,,9.0
+Des Moines,UNION,U.S. Senator,,Dem,Bruce Braley,,,11.0
+Des Moines,WB,U.S. Senator,,Dem,Bruce Braley,,,36.0
+Des Moines,,U.S. Senator,,Dem,Bruce Braley,,,753.0
+Des Moines,DM,U.S. Senator,,Dem,Write-in,,,0.0
+Des Moines,FM,U.S. Senator,,Dem,Write-in,,,0.0
+Des Moines,HJ,U.S. Senator,,Dem,Write-in,,,0.0
+Des Moines,MY,U.S. Senator,,Dem,Write-in,,,0.0
+Des Moines,PCT 1T,U.S. Senator,,Dem,Write-in,,,0.0
+Des Moines,PCT 2,U.S. Senator,,Dem,Write-in,,,1.0
+Des Moines,PCT 3,U.S. Senator,,Dem,Write-in,,,1.0
+Des Moines,PCT 4,U.S. Senator,,Dem,Write-in,,,0.0
+Des Moines,PCT 5,U.S. Senator,,Dem,Write-in,,,0.0
+Des Moines,PCT 6,U.S. Senator,,Dem,Write-in,,,0.0
+Des Moines,PCT 7,U.S. Senator,,Dem,Write-in,,,2.0
+Des Moines,PCT 8C,U.S. Senator,,Dem,Write-in,,,0.0
+Des Moines,PCT 9,U.S. Senator,,Dem,Write-in,,,0.0
+Des Moines,PW,U.S. Senator,,Dem,Write-in,,,0.0
+Des Moines,UNION,U.S. Senator,,Dem,Write-in,,,1.0
+Des Moines,WB,U.S. Senator,,Dem,Write-in,,,1.0
+Des Moines,,U.S. Senator,,Dem,Write-in,,,8.0
+Des Moines,DM,U.S. Rep.,2,Rep,Mark S. Lofgren,,,19.0
+Des Moines,FM,U.S. Rep.,2,Rep,Mark S. Lofgren,,,21.0
+Des Moines,HJ,U.S. Rep.,2,Rep,Mark S. Lofgren,,,11.0
+Des Moines,MY,U.S. Rep.,2,Rep,Mark S. Lofgren,,,26.0
+Des Moines,PCT 1T,U.S. Rep.,2,Rep,Mark S. Lofgren,,,40.0
+Des Moines,PCT 2,U.S. Rep.,2,Rep,Mark S. Lofgren,,,18.0
+Des Moines,PCT 3,U.S. Rep.,2,Rep,Mark S. Lofgren,,,14.0
+Des Moines,PCT 4,U.S. Rep.,2,Rep,Mark S. Lofgren,,,15.0
+Des Moines,PCT 5,U.S. Rep.,2,Rep,Mark S. Lofgren,,,6.0
+Des Moines,PCT 6,U.S. Rep.,2,Rep,Mark S. Lofgren,,,5.0
+Des Moines,PCT 7,U.S. Rep.,2,Rep,Mark S. Lofgren,,,21.0
+Des Moines,PCT 8C,U.S. Rep.,2,Rep,Mark S. Lofgren,,,23.0
+Des Moines,PCT 9,U.S. Rep.,2,Rep,Mark S. Lofgren,,,31.0
+Des Moines,PW,U.S. Rep.,2,Rep,Mark S. Lofgren,,,16.0
+Des Moines,UNION,U.S. Rep.,2,Rep,Mark S. Lofgren,,,12.0
+Des Moines,WB,U.S. Rep.,2,Rep,Mark S. Lofgren,,,18.0
+Des Moines,,U.S. Rep.,2,Rep,Mark S. Lofgren,,,346.0
+Des Moines,DM,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,,,49.0
+Des Moines,FM,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,,,59.0
+Des Moines,HJ,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,,,18.0
+Des Moines,MY,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,,,52.0
+Des Moines,PCT 1T,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,,,62.0
+Des Moines,PCT 2,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,,,32.0
+Des Moines,PCT 3,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,,,44.0
+Des Moines,PCT 4,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,,,30.0
+Des Moines,PCT 5,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,,,46.0
+Des Moines,PCT 6,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,,,10.0
+Des Moines,PCT 7,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,,,29.0
+Des Moines,PCT 8C,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,,,54.0
+Des Moines,PCT 9,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,,,59.0
+Des Moines,PW,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,,,23.0
+Des Moines,UNION,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,,,13.0
+Des Moines,WB,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,,,43.0
+Des Moines,,U.S. Rep.,2,Rep,Mariannette Miller-Meeks,,,673.0
+Des Moines,DM,U.S. Rep.,2,Rep,Matthew C. Waldren,,,2.0
+Des Moines,FM,U.S. Rep.,2,Rep,Matthew C. Waldren,,,4.0
+Des Moines,HJ,U.S. Rep.,2,Rep,Matthew C. Waldren,,,5.0
+Des Moines,MY,U.S. Rep.,2,Rep,Matthew C. Waldren,,,4.0
+Des Moines,PCT 1T,U.S. Rep.,2,Rep,Matthew C. Waldren,,,9.0
+Des Moines,PCT 2,U.S. Rep.,2,Rep,Matthew C. Waldren,,,7.0
+Des Moines,PCT 3,U.S. Rep.,2,Rep,Matthew C. Waldren,,,8.0
+Des Moines,PCT 4,U.S. Rep.,2,Rep,Matthew C. Waldren,,,8.0
+Des Moines,PCT 5,U.S. Rep.,2,Rep,Matthew C. Waldren,,,4.0
+Des Moines,PCT 6,U.S. Rep.,2,Rep,Matthew C. Waldren,,,3.0
+Des Moines,PCT 7,U.S. Rep.,2,Rep,Matthew C. Waldren,,,5.0
+Des Moines,PCT 8C,U.S. Rep.,2,Rep,Matthew C. Waldren,,,5.0
+Des Moines,PCT 9,U.S. Rep.,2,Rep,Matthew C. Waldren,,,8.0
+Des Moines,PW,U.S. Rep.,2,Rep,Matthew C. Waldren,,,1.0
+Des Moines,UNION,U.S. Rep.,2,Rep,Matthew C. Waldren,,,1.0
+Des Moines,WB,U.S. Rep.,2,Rep,Matthew C. Waldren,,,13.0
+Des Moines,,U.S. Rep.,2,Rep,Matthew C. Waldren,,,99.0
+Des Moines,DM,U.S. Rep.,2,Rep,Write-in,,,0.0
+Des Moines,FM,U.S. Rep.,2,Rep,Write-in,,,0.0
+Des Moines,HJ,U.S. Rep.,2,Rep,Write-in,,,0.0
+Des Moines,MY,U.S. Rep.,2,Rep,Write-in,,,0.0
+Des Moines,PCT 1T,U.S. Rep.,2,Rep,Write-in,,,0.0
+Des Moines,PCT 2,U.S. Rep.,2,Rep,Write-in,,,0.0
+Des Moines,PCT 3,U.S. Rep.,2,Rep,Write-in,,,0.0
+Des Moines,PCT 4,U.S. Rep.,2,Rep,Write-in,,,0.0
+Des Moines,PCT 5,U.S. Rep.,2,Rep,Write-in,,,0.0
+Des Moines,PCT 6,U.S. Rep.,2,Rep,Write-in,,,0.0
+Des Moines,PCT 7,U.S. Rep.,2,Rep,Write-in,,,0.0
+Des Moines,PCT 8C,U.S. Rep.,2,Rep,Write-in,,,0.0
+Des Moines,PCT 9,U.S. Rep.,2,Rep,Write-in,,,1.0
+Des Moines,PW,U.S. Rep.,2,Rep,Write-in,,,0.0
+Des Moines,UNION,U.S. Rep.,2,Rep,Write-in,,,0.0
+Des Moines,WB,U.S. Rep.,2,Rep,Write-in,,,0.0
+Des Moines,,U.S. Rep.,2,Rep,Write-in,,,1.0
+Des Moines,DM,U.S. Rep.,2,Dem,Dave Loebsack,,,40.0
+Des Moines,FM,U.S. Rep.,2,Dem,Dave Loebsack,,,33.0
+Des Moines,HJ,U.S. Rep.,2,Dem,Dave Loebsack,,,19.0
+Des Moines,MY,U.S. Rep.,2,Dem,Dave Loebsack,,,39.0
+Des Moines,PCT 1T,U.S. Rep.,2,Dem,Dave Loebsack,,,47.0
+Des Moines,PCT 2,U.S. Rep.,2,Dem,Dave Loebsack,,,54.0
+Des Moines,PCT 3,U.S. Rep.,2,Dem,Dave Loebsack,,,31.0
+Des Moines,PCT 4,U.S. Rep.,2,Dem,Dave Loebsack,,,42.0
+Des Moines,PCT 5,U.S. Rep.,2,Dem,Dave Loebsack,,,28.0
+Des Moines,PCT 6,U.S. Rep.,2,Dem,Dave Loebsack,,,25.0
+Des Moines,PCT 7,U.S. Rep.,2,Dem,Dave Loebsack,,,47.0
+Des Moines,PCT 8C,U.S. Rep.,2,Dem,Dave Loebsack,,,71.0
+Des Moines,PCT 9,U.S. Rep.,2,Dem,Dave Loebsack,,,79.0
+Des Moines,PW,U.S. Rep.,2,Dem,Dave Loebsack,,,11.0
+Des Moines,UNION,U.S. Rep.,2,Dem,Dave Loebsack,,,11.0
+Des Moines,WB,U.S. Rep.,2,Dem,Dave Loebsack,,,35.0
+Des Moines,,U.S. Rep.,2,Dem,Dave Loebsack,,,775.0
+Des Moines,DM,U.S. Rep.,2,Dem,Write-in,,,0.0
+Des Moines,FM,U.S. Rep.,2,Dem,Write-in,,,0.0
+Des Moines,HJ,U.S. Rep.,2,Dem,Write-in,,,0.0
+Des Moines,MY,U.S. Rep.,2,Dem,Write-in,,,0.0
+Des Moines,PCT 1T,U.S. Rep.,2,Dem,Write-in,,,0.0
+Des Moines,PCT 2,U.S. Rep.,2,Dem,Write-in,,,3.0
+Des Moines,PCT 3,U.S. Rep.,2,Dem,Write-in,,,0.0
+Des Moines,PCT 4,U.S. Rep.,2,Dem,Write-in,,,0.0
+Des Moines,PCT 5,U.S. Rep.,2,Dem,Write-in,,,0.0
+Des Moines,PCT 6,U.S. Rep.,2,Dem,Write-in,,,0.0
+Des Moines,PCT 7,U.S. Rep.,2,Dem,Write-in,,,0.0
+Des Moines,PCT 8C,U.S. Rep.,2,Dem,Write-in,,,2.0
+Des Moines,PCT 9,U.S. Rep.,2,Dem,Write-in,,,0.0
+Des Moines,PW,U.S. Rep.,2,Dem,Write-in,,,0.0
+Des Moines,UNION,U.S. Rep.,2,Dem,Write-in,,,1.0
+Des Moines,WB,U.S. Rep.,2,Dem,Write-in,,,1.0
+Des Moines,,U.S. Rep.,2,Dem,Write-in,,,7.0
+Des Moines,DM,Governor,,Rep,Terry E. Branstad,,,59.0
+Des Moines,FM,Governor,,Rep,Terry E. Branstad,,,72.0
+Des Moines,HJ,Governor,,Rep,Terry E. Branstad,,,30.0
+Des Moines,MY,Governor,,Rep,Terry E. Branstad,,,73.0
+Des Moines,PCT 1T,Governor,,Rep,Terry E. Branstad,,,99.0
+Des Moines,PCT 2,Governor,,Rep,Terry E. Branstad,,,38.0
+Des Moines,PCT 3,Governor,,Rep,Terry E. Branstad,,,53.0
+Des Moines,PCT 4,Governor,,Rep,Terry E. Branstad,,,36.0
+Des Moines,PCT 5,Governor,,Rep,Terry E. Branstad,,,54.0
+Des Moines,PCT 6,Governor,,Rep,Terry E. Branstad,,,15.0
+Des Moines,PCT 7,Governor,,Rep,Terry E. Branstad,,,46.0
+Des Moines,PCT 8C,Governor,,Rep,Terry E. Branstad,,,75.0
+Des Moines,PCT 9,Governor,,Rep,Terry E. Branstad,,,86.0
+Des Moines,PW,Governor,,Rep,Terry E. Branstad,,,37.0
+Des Moines,UNION,Governor,,Rep,Terry E. Branstad,,,21.0
+Des Moines,WB,Governor,,Rep,Terry E. Branstad,,,62.0
+Des Moines,,Governor,,Rep,Terry E. Branstad,,,942.0
+Des Moines,DM,Governor,,Rep,Tom Hoefling,,,12.0
+Des Moines,FM,Governor,,Rep,Tom Hoefling,,,13.0
+Des Moines,HJ,Governor,,Rep,Tom Hoefling,,,7.0
+Des Moines,MY,Governor,,Rep,Tom Hoefling,,,9.0
+Des Moines,PCT 1T,Governor,,Rep,Tom Hoefling,,,16.0
+Des Moines,PCT 2,Governor,,Rep,Tom Hoefling,,,19.0
+Des Moines,PCT 3,Governor,,Rep,Tom Hoefling,,,15.0
+Des Moines,PCT 4,Governor,,Rep,Tom Hoefling,,,18.0
+Des Moines,PCT 5,Governor,,Rep,Tom Hoefling,,,6.0
+Des Moines,PCT 6,Governor,,Rep,Tom Hoefling,,,3.0
+Des Moines,PCT 7,Governor,,Rep,Tom Hoefling,,,14.0
+Des Moines,PCT 8C,Governor,,Rep,Tom Hoefling,,,12.0
+Des Moines,PCT 9,Governor,,Rep,Tom Hoefling,,,15.0
+Des Moines,PW,Governor,,Rep,Tom Hoefling,,,3.0
+Des Moines,UNION,Governor,,Rep,Tom Hoefling,,,6.0
+Des Moines,WB,Governor,,Rep,Tom Hoefling,,,13.0
+Des Moines,,Governor,,Rep,Tom Hoefling,,,207.0
+Des Moines,DM,Governor,,Rep,Write-in,,,0.0
+Des Moines,FM,Governor,,Rep,Write-in,,,1.0
+Des Moines,HJ,Governor,,Rep,Write-in,,,0.0
+Des Moines,MY,Governor,,Rep,Write-in,,,0.0
+Des Moines,PCT 1T,Governor,,Rep,Write-in,,,0.0
+Des Moines,PCT 2,Governor,,Rep,Write-in,,,0.0
+Des Moines,PCT 3,Governor,,Rep,Write-in,,,0.0
+Des Moines,PCT 4,Governor,,Rep,Write-in,,,0.0
+Des Moines,PCT 5,Governor,,Rep,Write-in,,,0.0
+Des Moines,PCT 6,Governor,,Rep,Write-in,,,0.0
+Des Moines,PCT 7,Governor,,Rep,Write-in,,,1.0
+Des Moines,PCT 8C,Governor,,Rep,Write-in,,,0.0
+Des Moines,PCT 9,Governor,,Rep,Write-in,,,0.0
+Des Moines,PW,Governor,,Rep,Write-in,,,0.0
+Des Moines,UNION,Governor,,Rep,Write-in,,,0.0
+Des Moines,WB,Governor,,Rep,Write-in,,,0.0
+Des Moines,,Governor,,Rep,Write-in,,,3.0
+Des Moines,DM,Governor,,Dem,Jack Hatch,,,36.0
+Des Moines,FM,Governor,,Dem,Jack Hatch,,,34.0
+Des Moines,HJ,Governor,,Dem,Jack Hatch,,,18.0
+Des Moines,MY,Governor,,Dem,Jack Hatch,,,39.0
+Des Moines,PCT 1T,Governor,,Dem,Jack Hatch,,,45.0
+Des Moines,PCT 2,Governor,,Dem,Jack Hatch,,,53.0
+Des Moines,PCT 3,Governor,,Dem,Jack Hatch,,,27.0
+Des Moines,PCT 4,Governor,,Dem,Jack Hatch,,,41.0
+Des Moines,PCT 5,Governor,,Dem,Jack Hatch,,,24.0
+Des Moines,PCT 6,Governor,,Dem,Jack Hatch,,,24.0
+Des Moines,PCT 7,Governor,,Dem,Jack Hatch,,,46.0
+Des Moines,PCT 8C,Governor,,Dem,Jack Hatch,,,65.0
+Des Moines,PCT 9,Governor,,Dem,Jack Hatch,,,73.0
+Des Moines,PW,Governor,,Dem,Jack Hatch,,,10.0
+Des Moines,UNION,Governor,,Dem,Jack Hatch,,,13.0
+Des Moines,WB,Governor,,Dem,Jack Hatch,,,36.0
+Des Moines,,Governor,,Dem,Jack Hatch,,,741.0
+Des Moines,DM,Governor,,Dem,Write-in,,,0.0
+Des Moines,FM,Governor,,Dem,Write-in,,,0.0
+Des Moines,HJ,Governor,,Dem,Write-in,,,0.0
+Des Moines,MY,Governor,,Dem,Write-in,,,0.0
+Des Moines,PCT 1T,Governor,,Dem,Write-in,,,0.0
+Des Moines,PCT 2,Governor,,Dem,Write-in,,,2.0
+Des Moines,PCT 3,Governor,,Dem,Write-in,,,0.0
+Des Moines,PCT 4,Governor,,Dem,Write-in,,,0.0
+Des Moines,PCT 5,Governor,,Dem,Write-in,,,0.0
+Des Moines,PCT 6,Governor,,Dem,Write-in,,,0.0
+Des Moines,PCT 7,Governor,,Dem,Write-in,,,0.0
+Des Moines,PCT 8C,Governor,,Dem,Write-in,,,1.0
+Des Moines,PCT 9,Governor,,Dem,Write-in,,,0.0
+Des Moines,PW,Governor,,Dem,Write-in,,,0.0
+Des Moines,UNION,Governor,,Dem,Write-in,,,0.0
+Des Moines,WB,Governor,,Dem,Write-in,,,1.0
+Des Moines,,Governor,,Dem,Write-in,,,5.0
+Des Moines,DM,Secretary of State,,Rep,Paul D. Pate,,,54.0
+Des Moines,FM,Secretary of State,,Rep,Paul D. Pate,,,60.0
+Des Moines,HJ,Secretary of State,,Rep,Paul D. Pate,,,26.0
+Des Moines,MY,Secretary of State,,Rep,Paul D. Pate,,,64.0
+Des Moines,PCT 1T,Secretary of State,,Rep,Paul D. Pate,,,75.0
+Des Moines,PCT 2,Secretary of State,,Rep,Paul D. Pate,,,41.0
+Des Moines,PCT 3,Secretary of State,,Rep,Paul D. Pate,,,56.0
+Des Moines,PCT 4,Secretary of State,,Rep,Paul D. Pate,,,39.0
+Des Moines,PCT 5,Secretary of State,,Rep,Paul D. Pate,,,40.0
+Des Moines,PCT 6,Secretary of State,,Rep,Paul D. Pate,,,14.0
+Des Moines,PCT 7,Secretary of State,,Rep,Paul D. Pate,,,41.0
+Des Moines,PCT 8C,Secretary of State,,Rep,Paul D. Pate,,,66.0
+Des Moines,PCT 9,Secretary of State,,Rep,Paul D. Pate,,,80.0
+Des Moines,PW,Secretary of State,,Rep,Paul D. Pate,,,30.0
+Des Moines,UNION,Secretary of State,,Rep,Paul D. Pate,,,19.0
+Des Moines,WB,Secretary of State,,Rep,Paul D. Pate,,,59.0
+Des Moines,,Secretary of State,,Rep,Paul D. Pate,,,849.0
+Des Moines,DM,Secretary of State,,Rep,Write-in,,,0.0
+Des Moines,FM,Secretary of State,,Rep,Write-in,,,1.0
+Des Moines,HJ,Secretary of State,,Rep,Write-in,,,0.0
+Des Moines,MY,Secretary of State,,Rep,Write-in,,,0.0
+Des Moines,PCT 1T,Secretary of State,,Rep,Write-in,,,0.0
+Des Moines,PCT 2,Secretary of State,,Rep,Write-in,,,0.0
+Des Moines,PCT 3,Secretary of State,,Rep,Write-in,,,0.0
+Des Moines,PCT 4,Secretary of State,,Rep,Write-in,,,1.0
+Des Moines,PCT 5,Secretary of State,,Rep,Write-in,,,0.0
+Des Moines,PCT 6,Secretary of State,,Rep,Write-in,,,0.0
+Des Moines,PCT 7,Secretary of State,,Rep,Write-in,,,0.0
+Des Moines,PCT 8C,Secretary of State,,Rep,Write-in,,,0.0
+Des Moines,PCT 9,Secretary of State,,Rep,Write-in,,,0.0
+Des Moines,PW,Secretary of State,,Rep,Write-in,,,0.0
+Des Moines,UNION,Secretary of State,,Rep,Write-in,,,0.0
+Des Moines,WB,Secretary of State,,Rep,Write-in,,,0.0
+Des Moines,,Secretary of State,,Rep,Write-in,,,3.0
+Des Moines,DM,Secretary of State,,Dem,Brad Anderson,,,34.0
+Des Moines,FM,Secretary of State,,Dem,Brad Anderson,,,30.0
+Des Moines,HJ,Secretary of State,,Dem,Brad Anderson,,,16.0
+Des Moines,MY,Secretary of State,,Dem,Brad Anderson,,,36.0
+Des Moines,PCT 1T,Secretary of State,,Dem,Brad Anderson,,,45.0
+Des Moines,PCT 2,Secretary of State,,Dem,Brad Anderson,,,52.0
+Des Moines,PCT 3,Secretary of State,,Dem,Brad Anderson,,,28.0
+Des Moines,PCT 4,Secretary of State,,Dem,Brad Anderson,,,40.0
+Des Moines,PCT 5,Secretary of State,,Dem,Brad Anderson,,,23.0
+Des Moines,PCT 6,Secretary of State,,Dem,Brad Anderson,,,24.0
+Des Moines,PCT 7,Secretary of State,,Dem,Brad Anderson,,,42.0
+Des Moines,PCT 8C,Secretary of State,,Dem,Brad Anderson,,,65.0
+Des Moines,PCT 9,Secretary of State,,Dem,Brad Anderson,,,73.0
+Des Moines,PW,Secretary of State,,Dem,Brad Anderson,,,10.0
+Des Moines,UNION,Secretary of State,,Dem,Brad Anderson,,,12.0
+Des Moines,WB,Secretary of State,,Dem,Brad Anderson,,,33.0
+Des Moines,,Secretary of State,,Dem,Brad Anderson,,,715.0
+Des Moines,DM,Secretary of State,,Dem,Write-in,,,0.0
+Des Moines,FM,Secretary of State,,Dem,Write-in,,,0.0
+Des Moines,HJ,Secretary of State,,Dem,Write-in,,,0.0
+Des Moines,MY,Secretary of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 1T,Secretary of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 2,Secretary of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 3,Secretary of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 4,Secretary of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 5,Secretary of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 6,Secretary of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 7,Secretary of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 8C,Secretary of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 9,Secretary of State,,Dem,Write-in,,,0.0
+Des Moines,PW,Secretary of State,,Dem,Write-in,,,0.0
+Des Moines,UNION,Secretary of State,,Dem,Write-in,,,0.0
+Des Moines,WB,Secretary of State,,Dem,Write-in,,,1.0
+Des Moines,,Secretary of State,,Dem,Write-in,,,1.0
+Des Moines,DM,Auditor of State,,Rep,Mary Mosiman,,,54.0
+Des Moines,FM,Auditor of State,,Rep,Mary Mosiman,,,60.0
+Des Moines,HJ,Auditor of State,,Rep,Mary Mosiman,,,28.0
+Des Moines,MY,Auditor of State,,Rep,Mary Mosiman,,,62.0
+Des Moines,PCT 1T,Auditor of State,,Rep,Mary Mosiman,,,77.0
+Des Moines,PCT 2,Auditor of State,,Rep,Mary Mosiman,,,40.0
+Des Moines,PCT 3,Auditor of State,,Rep,Mary Mosiman,,,52.0
+Des Moines,PCT 4,Auditor of State,,Rep,Mary Mosiman,,,40.0
+Des Moines,PCT 5,Auditor of State,,Rep,Mary Mosiman,,,39.0
+Des Moines,PCT 6,Auditor of State,,Rep,Mary Mosiman,,,13.0
+Des Moines,PCT 7,Auditor of State,,Rep,Mary Mosiman,,,43.0
+Des Moines,PCT 8C,Auditor of State,,Rep,Mary Mosiman,,,64.0
+Des Moines,PCT 9,Auditor of State,,Rep,Mary Mosiman,,,81.0
+Des Moines,PW,Auditor of State,,Rep,Mary Mosiman,,,30.0
+Des Moines,UNION,Auditor of State,,Rep,Mary Mosiman,,,19.0
+Des Moines,WB,Auditor of State,,Rep,Mary Mosiman,,,64.0
+Des Moines,,Auditor of State,,Rep,Mary Mosiman,,,848.0
+Des Moines,DM,Auditor of State,,Rep,Write-in,,,0.0
+Des Moines,FM,Auditor of State,,Rep,Write-in,,,0.0
+Des Moines,HJ,Auditor of State,,Rep,Write-in,,,0.0
+Des Moines,MY,Auditor of State,,Rep,Write-in,,,0.0
+Des Moines,PCT 1T,Auditor of State,,Rep,Write-in,,,0.0
+Des Moines,PCT 2,Auditor of State,,Rep,Write-in,,,0.0
+Des Moines,PCT 3,Auditor of State,,Rep,Write-in,,,0.0
+Des Moines,PCT 4,Auditor of State,,Rep,Write-in,,,1.0
+Des Moines,PCT 5,Auditor of State,,Rep,Write-in,,,0.0
+Des Moines,PCT 6,Auditor of State,,Rep,Write-in,,,0.0
+Des Moines,PCT 7,Auditor of State,,Rep,Write-in,,,0.0
+Des Moines,PCT 8C,Auditor of State,,Rep,Write-in,,,0.0
+Des Moines,PCT 9,Auditor of State,,Rep,Write-in,,,1.0
+Des Moines,PW,Auditor of State,,Rep,Write-in,,,0.0
+Des Moines,UNION,Auditor of State,,Rep,Write-in,,,0.0
+Des Moines,WB,Auditor of State,,Rep,Write-in,,,2.0
+Des Moines,,Auditor of State,,Rep,Write-in,,,5.0
+Des Moines,DM,Auditor of State,,Dem,Jonathan Neiderbach,,,34.0
+Des Moines,FM,Auditor of State,,Dem,Jonathan Neiderbach,,,30.0
+Des Moines,HJ,Auditor of State,,Dem,Jonathan Neiderbach,,,18.0
+Des Moines,MY,Auditor of State,,Dem,Jonathan Neiderbach,,,33.0
+Des Moines,PCT 1T,Auditor of State,,Dem,Jonathan Neiderbach,,,45.0
+Des Moines,PCT 2,Auditor of State,,Dem,Jonathan Neiderbach,,,51.0
+Des Moines,PCT 3,Auditor of State,,Dem,Jonathan Neiderbach,,,27.0
+Des Moines,PCT 4,Auditor of State,,Dem,Jonathan Neiderbach,,,40.0
+Des Moines,PCT 5,Auditor of State,,Dem,Jonathan Neiderbach,,,21.0
+Des Moines,PCT 6,Auditor of State,,Dem,Jonathan Neiderbach,,,24.0
+Des Moines,PCT 7,Auditor of State,,Dem,Jonathan Neiderbach,,,42.0
+Des Moines,PCT 8C,Auditor of State,,Dem,Jonathan Neiderbach,,,62.0
+Des Moines,PCT 9,Auditor of State,,Dem,Jonathan Neiderbach,,,71.0
+Des Moines,PW,Auditor of State,,Dem,Jonathan Neiderbach,,,11.0
+Des Moines,UNION,Auditor of State,,Dem,Jonathan Neiderbach,,,12.0
+Des Moines,WB,Auditor of State,,Dem,Jonathan Neiderbach,,,32.0
+Des Moines,,Auditor of State,,Dem,Jonathan Neiderbach,,,701.0
+Des Moines,DM,Auditor of State,,Dem,Write-in,,,0.0
+Des Moines,FM,Auditor of State,,Dem,Write-in,,,0.0
+Des Moines,HJ,Auditor of State,,Dem,Write-in,,,0.0
+Des Moines,MY,Auditor of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 1T,Auditor of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 2,Auditor of State,,Dem,Write-in,,,1.0
+Des Moines,PCT 3,Auditor of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 4,Auditor of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 5,Auditor of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 6,Auditor of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 7,Auditor of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 8C,Auditor of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 9,Auditor of State,,Dem,Write-in,,,0.0
+Des Moines,PW,Auditor of State,,Dem,Write-in,,,0.0
+Des Moines,UNION,Auditor of State,,Dem,Write-in,,,0.0
+Des Moines,WB,Auditor of State,,Dem,Write-in,,,1.0
+Des Moines,,Auditor of State,,Dem,Write-in,,,2.0
+Des Moines,DM,Treasurer of State,,Rep,Write-in,,,2.0
+Des Moines,FM,Treasurer of State,,Rep,Write-in,,,0.0
+Des Moines,HJ,Treasurer of State,,Rep,Write-in,,,1.0
+Des Moines,MY,Treasurer of State,,Rep,Write-in,,,2.0
+Des Moines,PCT 1T,Treasurer of State,,Rep,Write-in,,,0.0
+Des Moines,PCT 2,Treasurer of State,,Rep,Write-in,,,1.0
+Des Moines,PCT 3,Treasurer of State,,Rep,Write-in,,,3.0
+Des Moines,PCT 4,Treasurer of State,,Rep,Write-in,,,2.0
+Des Moines,PCT 5,Treasurer of State,,Rep,Write-in,,,2.0
+Des Moines,PCT 6,Treasurer of State,,Rep,Write-in,,,0.0
+Des Moines,PCT 7,Treasurer of State,,Rep,Write-in,,,4.0
+Des Moines,PCT 8C,Treasurer of State,,Rep,Write-in,,,2.0
+Des Moines,PCT 9,Treasurer of State,,Rep,Write-in,,,2.0
+Des Moines,PW,Treasurer of State,,Rep,Write-in,,,2.0
+Des Moines,UNION,Treasurer of State,,Rep,Write-in,,,1.0
+Des Moines,WB,Treasurer of State,,Rep,Write-in,,,6.0
+Des Moines,,Treasurer of State,,Rep,Write-in,,,33.0
+Des Moines,DM,Treasurer of State,,Dem,Michael L. Fitzgerald,,,37.0
+Des Moines,FM,Treasurer of State,,Dem,Michael L. Fitzgerald,,,34.0
+Des Moines,HJ,Treasurer of State,,Dem,Michael L. Fitzgerald,,,16.0
+Des Moines,MY,Treasurer of State,,Dem,Michael L. Fitzgerald,,,36.0
+Des Moines,PCT 1T,Treasurer of State,,Dem,Michael L. Fitzgerald,,,47.0
+Des Moines,PCT 2,Treasurer of State,,Dem,Michael L. Fitzgerald,,,52.0
+Des Moines,PCT 3,Treasurer of State,,Dem,Michael L. Fitzgerald,,,29.0
+Des Moines,PCT 4,Treasurer of State,,Dem,Michael L. Fitzgerald,,,42.0
+Des Moines,PCT 5,Treasurer of State,,Dem,Michael L. Fitzgerald,,,24.0
+Des Moines,PCT 6,Treasurer of State,,Dem,Michael L. Fitzgerald,,,25.0
+Des Moines,PCT 7,Treasurer of State,,Dem,Michael L. Fitzgerald,,,44.0
+Des Moines,PCT 8C,Treasurer of State,,Dem,Michael L. Fitzgerald,,,70.0
+Des Moines,PCT 9,Treasurer of State,,Dem,Michael L. Fitzgerald,,,73.0
+Des Moines,PW,Treasurer of State,,Dem,Michael L. Fitzgerald,,,11.0
+Des Moines,UNION,Treasurer of State,,Dem,Michael L. Fitzgerald,,,12.0
+Des Moines,WB,Treasurer of State,,Dem,Michael L. Fitzgerald,,,35.0
+Des Moines,,Treasurer of State,,Dem,Michael L. Fitzgerald,,,746.0
+Des Moines,DM,Treasurer of State,,Dem,Write-in,,,0.0
+Des Moines,FM,Treasurer of State,,Dem,Write-in,,,0.0
+Des Moines,HJ,Treasurer of State,,Dem,Write-in,,,0.0
+Des Moines,MY,Treasurer of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 1T,Treasurer of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 2,Treasurer of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 3,Treasurer of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 4,Treasurer of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 5,Treasurer of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 6,Treasurer of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 7,Treasurer of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 8C,Treasurer of State,,Dem,Write-in,,,0.0
+Des Moines,PCT 9,Treasurer of State,,Dem,Write-in,,,0.0
+Des Moines,PW,Treasurer of State,,Dem,Write-in,,,0.0
+Des Moines,UNION,Treasurer of State,,Dem,Write-in,,,0.0
+Des Moines,WB,Treasurer of State,,Dem,Write-in,,,0.0
+Des Moines,,Treasurer of State,,Dem,Write-in,,,0.0
+Des Moines,DM,Secretary of Agriculture,,Rep,Bill Northey,,,60.0
+Des Moines,FM,Secretary of Agriculture,,Rep,Bill Northey,,,61.0
+Des Moines,HJ,Secretary of Agriculture,,Rep,Bill Northey,,,28.0
+Des Moines,MY,Secretary of Agriculture,,Rep,Bill Northey,,,72.0
+Des Moines,PCT 1T,Secretary of Agriculture,,Rep,Bill Northey,,,79.0
+Des Moines,PCT 2,Secretary of Agriculture,,Rep,Bill Northey,,,40.0
+Des Moines,PCT 3,Secretary of Agriculture,,Rep,Bill Northey,,,49.0
+Des Moines,PCT 4,Secretary of Agriculture,,Rep,Bill Northey,,,39.0
+Des Moines,PCT 5,Secretary of Agriculture,,Rep,Bill Northey,,,38.0
+Des Moines,PCT 6,Secretary of Agriculture,,Rep,Bill Northey,,,13.0
+Des Moines,PCT 7,Secretary of Agriculture,,Rep,Bill Northey,,,42.0
+Des Moines,PCT 8C,Secretary of Agriculture,,Rep,Bill Northey,,,66.0
+Des Moines,PCT 9,Secretary of Agriculture,,Rep,Bill Northey,,,80.0
+Des Moines,PW,Secretary of Agriculture,,Rep,Bill Northey,,,33.0
+Des Moines,UNION,Secretary of Agriculture,,Rep,Bill Northey,,,20.0
+Des Moines,WB,Secretary of Agriculture,,Rep,Bill Northey,,,64.0
+Des Moines,,Secretary of Agriculture,,Rep,Bill Northey,,,875.0
+Des Moines,DM,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Des Moines,FM,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Des Moines,HJ,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Des Moines,MY,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Des Moines,PCT 1T,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Des Moines,PCT 2,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Des Moines,PCT 3,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Des Moines,PCT 4,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Des Moines,PCT 5,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Des Moines,PCT 6,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Des Moines,PCT 7,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Des Moines,PCT 8C,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Des Moines,PCT 9,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Des Moines,PW,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Des Moines,UNION,Secretary of Agriculture,,Rep,Write-in,,,1.0
+Des Moines,WB,Secretary of Agriculture,,Rep,Write-in,,,1.0
+Des Moines,,Secretary of Agriculture,,Rep,Write-in,,,2.0
+Des Moines,DM,Secretary of Agriculture,,Dem,Sherrie Taha,,,31.0
+Des Moines,FM,Secretary of Agriculture,,Dem,Sherrie Taha,,,30.0
+Des Moines,HJ,Secretary of Agriculture,,Dem,Sherrie Taha,,,19.0
+Des Moines,MY,Secretary of Agriculture,,Dem,Sherrie Taha,,,33.0
+Des Moines,PCT 1T,Secretary of Agriculture,,Dem,Sherrie Taha,,,41.0
+Des Moines,PCT 2,Secretary of Agriculture,,Dem,Sherrie Taha,,,53.0
+Des Moines,PCT 3,Secretary of Agriculture,,Dem,Sherrie Taha,,,29.0
+Des Moines,PCT 4,Secretary of Agriculture,,Dem,Sherrie Taha,,,38.0
+Des Moines,PCT 5,Secretary of Agriculture,,Dem,Sherrie Taha,,,24.0
+Des Moines,PCT 6,Secretary of Agriculture,,Dem,Sherrie Taha,,,24.0
+Des Moines,PCT 7,Secretary of Agriculture,,Dem,Sherrie Taha,,,41.0
+Des Moines,PCT 8C,Secretary of Agriculture,,Dem,Sherrie Taha,,,62.0
+Des Moines,PCT 9,Secretary of Agriculture,,Dem,Sherrie Taha,,,69.0
+Des Moines,PW,Secretary of Agriculture,,Dem,Sherrie Taha,,,10.0
+Des Moines,UNION,Secretary of Agriculture,,Dem,Sherrie Taha,,,12.0
+Des Moines,WB,Secretary of Agriculture,,Dem,Sherrie Taha,,,34.0
+Des Moines,,Secretary of Agriculture,,Dem,Sherrie Taha,,,696.0
+Des Moines,DM,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Des Moines,FM,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Des Moines,HJ,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Des Moines,MY,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Des Moines,PCT 1T,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Des Moines,PCT 2,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Des Moines,PCT 3,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Des Moines,PCT 4,Secretary of Agriculture,,Dem,Write-in,,,1.0
+Des Moines,PCT 5,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Des Moines,PCT 6,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Des Moines,PCT 7,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Des Moines,PCT 8C,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Des Moines,PCT 9,Secretary of Agriculture,,Dem,Write-in,,,1.0
+Des Moines,PW,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Des Moines,UNION,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Des Moines,WB,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Des Moines,,Secretary of Agriculture,,Dem,Write-in,,,3.0
+Des Moines,DM,Attorney General,,Rep,Write-in,,,0.0
+Des Moines,FM,Attorney General,,Rep,Write-in,,,1.0
+Des Moines,HJ,Attorney General,,Rep,Write-in,,,2.0
+Des Moines,MY,Attorney General,,Rep,Write-in,,,3.0
+Des Moines,PCT 1T,Attorney General,,Rep,Write-in,,,0.0
+Des Moines,PCT 2,Attorney General,,Rep,Write-in,,,0.0
+Des Moines,PCT 3,Attorney General,,Rep,Write-in,,,3.0
+Des Moines,PCT 4,Attorney General,,Rep,Write-in,,,2.0
+Des Moines,PCT 5,Attorney General,,Rep,Write-in,,,1.0
+Des Moines,PCT 6,Attorney General,,Rep,Write-in,,,0.0
+Des Moines,PCT 7,Attorney General,,Rep,Write-in,,,2.0
+Des Moines,PCT 8C,Attorney General,,Rep,Write-in,,,2.0
+Des Moines,PCT 9,Attorney General,,Rep,Write-in,,,3.0
+Des Moines,PW,Attorney General,,Rep,Write-in,,,0.0
+Des Moines,UNION,Attorney General,,Rep,Write-in,,,1.0
+Des Moines,WB,Attorney General,,Rep,Write-in,,,3.0
+Des Moines,,Attorney General,,Rep,Write-in,,,26.0
+Des Moines,DM,Attorney General,,Dem,Tom Miller,,,37.0
+Des Moines,FM,Attorney General,,Dem,Tom Miller,,,33.0
+Des Moines,HJ,Attorney General,,Dem,Tom Miller,,,18.0
+Des Moines,MY,Attorney General,,Dem,Tom Miller,,,33.0
+Des Moines,PCT 1T,Attorney General,,Dem,Tom Miller,,,45.0
+Des Moines,PCT 2,Attorney General,,Dem,Tom Miller,,,52.0
+Des Moines,PCT 3,Attorney General,,Dem,Tom Miller,,,31.0
+Des Moines,PCT 4,Attorney General,,Dem,Tom Miller,,,41.0
+Des Moines,PCT 5,Attorney General,,Dem,Tom Miller,,,26.0
+Des Moines,PCT 6,Attorney General,,Dem,Tom Miller,,,25.0
+Des Moines,PCT 7,Attorney General,,Dem,Tom Miller,,,47.0
+Des Moines,PCT 8C,Attorney General,,Dem,Tom Miller,,,69.0
+Des Moines,PCT 9,Attorney General,,Dem,Tom Miller,,,76.0
+Des Moines,PW,Attorney General,,Dem,Tom Miller,,,11.0
+Des Moines,UNION,Attorney General,,Dem,Tom Miller,,,12.0
+Des Moines,WB,Attorney General,,Dem,Tom Miller,,,33.0
+Des Moines,,Attorney General,,Dem,Tom Miller,,,748.0
+Des Moines,DM,Attorney General,,Dem,Write-in,,,0.0
+Des Moines,FM,Attorney General,,Dem,Write-in,,,0.0
+Des Moines,HJ,Attorney General,,Dem,Write-in,,,0.0
+Des Moines,MY,Attorney General,,Dem,Write-in,,,1.0
+Des Moines,PCT 1T,Attorney General,,Dem,Write-in,,,0.0
+Des Moines,PCT 2,Attorney General,,Dem,Write-in,,,1.0
+Des Moines,PCT 3,Attorney General,,Dem,Write-in,,,0.0
+Des Moines,PCT 4,Attorney General,,Dem,Write-in,,,0.0
+Des Moines,PCT 5,Attorney General,,Dem,Write-in,,,0.0
+Des Moines,PCT 6,Attorney General,,Dem,Write-in,,,0.0
+Des Moines,PCT 7,Attorney General,,Dem,Write-in,,,0.0
+Des Moines,PCT 8C,Attorney General,,Dem,Write-in,,,0.0
+Des Moines,PCT 9,Attorney General,,Dem,Write-in,,,0.0
+Des Moines,PW,Attorney General,,Dem,Write-in,,,0.0
+Des Moines,UNION,Attorney General,,Dem,Write-in,,,1.0
+Des Moines,WB,Attorney General,,Dem,Write-in,,,1.0
+Des Moines,,Attorney General,,Dem,Write-in,,,5.0
+Des Moines,DM,State Rep.,87,Rep,Write-in,,, 
+Des Moines,FM,State Rep.,87,Rep,Write-in,,, 
+Des Moines,HJ,State Rep.,87,Rep,Write-in,,, 
+Des Moines,MY,State Rep.,87,Rep,Write-in,,, 
+Des Moines,PCT 1T,State Rep.,87,Rep,Write-in,,,0.0
+Des Moines,PCT 2,State Rep.,87,Rep,Write-in,,,0.0
+Des Moines,PCT 3,State Rep.,87,Rep,Write-in,,,1.0
+Des Moines,PCT 4,State Rep.,87,Rep,Write-in,,,2.0
+Des Moines,PCT 5,State Rep.,87,Rep,Write-in,,,2.0
+Des Moines,PCT 6,State Rep.,87,Rep,Write-in,,,1.0
+Des Moines,PCT 7,State Rep.,87,Rep,Write-in,,,4.0
+Des Moines,PCT 8C,State Rep.,87,Rep,Write-in,,,3.0
+Des Moines,PCT 9,State Rep.,87,Rep,Write-in,,,3.0
+Des Moines,PW,State Rep.,87,Rep,Write-in,,, 
+Des Moines,UNION,State Rep.,87,Rep,Write-in,,, 
+Des Moines,WB,State Rep.,87,Rep,Write-in,,,3.0
+Des Moines,,State Rep.,87,Rep,Write-in,,,20.0
+Des Moines,DM,State Rep.,87,Dem,Dennis M. Cohoon,,, 
+Des Moines,FM,State Rep.,87,Dem,Dennis M. Cohoon,,, 
+Des Moines,HJ,State Rep.,87,Dem,Dennis M. Cohoon,,, 
+Des Moines,MY,State Rep.,87,Dem,Dennis M. Cohoon,,, 
+Des Moines,PCT 1T,State Rep.,87,Dem,Dennis M. Cohoon,,,45.0
+Des Moines,PCT 2,State Rep.,87,Dem,Dennis M. Cohoon,,,53.0
+Des Moines,PCT 3,State Rep.,87,Dem,Dennis M. Cohoon,,,32.0
+Des Moines,PCT 4,State Rep.,87,Dem,Dennis M. Cohoon,,,40.0
+Des Moines,PCT 5,State Rep.,87,Dem,Dennis M. Cohoon,,,26.0
+Des Moines,PCT 6,State Rep.,87,Dem,Dennis M. Cohoon,,,26.0
+Des Moines,PCT 7,State Rep.,87,Dem,Dennis M. Cohoon,,,48.0
+Des Moines,PCT 8C,State Rep.,87,Dem,Dennis M. Cohoon,,,65.0
+Des Moines,PCT 9,State Rep.,87,Dem,Dennis M. Cohoon,,,74.0
+Des Moines,PW,State Rep.,87,Dem,Dennis M. Cohoon,,, 
+Des Moines,UNION,State Rep.,87,Dem,Dennis M. Cohoon,,, 
+Des Moines,WB,State Rep.,87,Dem,Dennis M. Cohoon,,,35.0
+Des Moines,,State Rep.,87,Dem,Dennis M. Cohoon,,,557.0
+Des Moines,DM,State Rep.,87,Dem,Write-in,,, 
+Des Moines,FM,State Rep.,87,Dem,Write-in,,, 
+Des Moines,HJ,State Rep.,87,Dem,Write-in,,, 
+Des Moines,MY,State Rep.,87,Dem,Write-in,,, 
+Des Moines,PCT 1T,State Rep.,87,Dem,Write-in,,,0.0
+Des Moines,PCT 2,State Rep.,87,Dem,Write-in,,,0.0
+Des Moines,PCT 3,State Rep.,87,Dem,Write-in,,,0.0
+Des Moines,PCT 4,State Rep.,87,Dem,Write-in,,,0.0
+Des Moines,PCT 5,State Rep.,87,Dem,Write-in,,,0.0
+Des Moines,PCT 6,State Rep.,87,Dem,Write-in,,,0.0
+Des Moines,PCT 7,State Rep.,87,Dem,Write-in,,,0.0
+Des Moines,PCT 8C,State Rep.,87,Dem,Write-in,,,0.0
+Des Moines,PCT 9,State Rep.,87,Dem,Write-in,,,0.0
+Des Moines,PW,State Rep.,87,Dem,Write-in,,, 
+Des Moines,UNION,State Rep.,87,Dem,Write-in,,, 
+Des Moines,WB,State Rep.,87,Dem,Write-in,,,1.0
+Des Moines,,State Rep.,87,Dem,Write-in,,,2.0
+Des Moines,DM,State Rep.,88,Rep,Tom Sands,,,65.0
+Des Moines,FM,State Rep.,88,Rep,Tom Sands,,,74.0
+Des Moines,HJ,State Rep.,88,Rep,Tom Sands,,,34.0
+Des Moines,MY,State Rep.,88,Rep,Tom Sands,,,78.0
+Des Moines,PCT 1T,State Rep.,88,Rep,Tom Sands,,, 
+Des Moines,PCT 2,State Rep.,88,Rep,Tom Sands,,, 
+Des Moines,PCT 3,State Rep.,88,Rep,Tom Sands,,, 
+Des Moines,PCT 4,State Rep.,88,Rep,Tom Sands,,, 
+Des Moines,PCT 5,State Rep.,88,Rep,Tom Sands,,, 
+Des Moines,PCT 6,State Rep.,88,Rep,Tom Sands,,, 
+Des Moines,PCT 7,State Rep.,88,Rep,Tom Sands,,, 
+Des Moines,PCT 8C,State Rep.,88,Rep,Tom Sands,,, 
+Des Moines,PCT 9,State Rep.,88,Rep,Tom Sands,,, 
+Des Moines,PW,State Rep.,88,Rep,Tom Sands,,,38.0
+Des Moines,UNION,State Rep.,88,Rep,Tom Sands,,,21.0
+Des Moines,WB,State Rep.,88,Rep,Tom Sands,,, 
+Des Moines,,State Rep.,88,Rep,Tom Sands,,,341.0
+Des Moines,DM,State Rep.,88,Rep,Write-in,,,0.0
+Des Moines,FM,State Rep.,88,Rep,Write-in,,,0.0
+Des Moines,HJ,State Rep.,88,Rep,Write-in,,,0.0
+Des Moines,MY,State Rep.,88,Rep,Write-in,,,0.0
+Des Moines,PCT 1T,State Rep.,88,Rep,Write-in,,, 
+Des Moines,PCT 2,State Rep.,88,Rep,Write-in,,, 
+Des Moines,PCT 3,State Rep.,88,Rep,Write-in,,, 
+Des Moines,PCT 4,State Rep.,88,Rep,Write-in,,, 
+Des Moines,PCT 5,State Rep.,88,Rep,Write-in,,, 
+Des Moines,PCT 6,State Rep.,88,Rep,Write-in,,, 
+Des Moines,PCT 7,State Rep.,88,Rep,Write-in,,, 
+Des Moines,PCT 8C,State Rep.,88,Rep,Write-in,,, 
+Des Moines,PCT 9,State Rep.,88,Rep,Write-in,,, 
+Des Moines,PW,State Rep.,88,Rep,Write-in,,,0.0
+Des Moines,UNION,State Rep.,88,Rep,Write-in,,,0.0
+Des Moines,WB,State Rep.,88,Rep,Write-in,,, 
+Des Moines,,State Rep.,88,Rep,Write-in,,,0.0
+Des Moines,DM,State Rep.,88,Dem,Write-in,,,4.0
+Des Moines,FM,State Rep.,88,Dem,Write-in,,,0.0
+Des Moines,HJ,State Rep.,88,Dem,Write-in,,,2.0
+Des Moines,MY,State Rep.,88,Dem,Write-in,,,4.0
+Des Moines,PCT 1T,State Rep.,88,Dem,Write-in,,, 
+Des Moines,PCT 2,State Rep.,88,Dem,Write-in,,, 
+Des Moines,PCT 3,State Rep.,88,Dem,Write-in,,, 
+Des Moines,PCT 4,State Rep.,88,Dem,Write-in,,, 
+Des Moines,PCT 5,State Rep.,88,Dem,Write-in,,, 
+Des Moines,PCT 6,State Rep.,88,Dem,Write-in,,, 
+Des Moines,PCT 7,State Rep.,88,Dem,Write-in,,, 
+Des Moines,PCT 8C,State Rep.,88,Dem,Write-in,,, 
+Des Moines,PCT 9,State Rep.,88,Dem,Write-in,,, 
+Des Moines,PW,State Rep.,88,Dem,Write-in,,,1.0
+Des Moines,UNION,State Rep.,88,Dem,Write-in,,,1.0
+Des Moines,WB,State Rep.,88,Dem,Write-in,,, 
+Des Moines,,State Rep.,88,Dem,Write-in,,,14.0

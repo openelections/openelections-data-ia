@@ -1,0 +1,289 @@
+county,precinct,office,district,party,candidate,absentee,polling,votes
+Adams,Adams 1,U.S. Senator,,Rep,Sam Clovis,0.0,1.0,1.0
+Adams,Adams 2,U.S. Senator,,Rep,Sam Clovis,1.0,5.0,6.0
+Adams,Adams 3,U.S. Senator,,Rep,Sam Clovis,0.0,1.0,1.0
+Adams,Adams 4,U.S. Senator,,Rep,Sam Clovis,3.0,2.0,5.0
+Adams,Adams 5,U.S. Senator,,Rep,Sam Clovis,0.0,5.0,5.0
+Adams,,U.S. Senator,,Rep,Sam Clovis,,,18.0
+Adams,Adams 1,U.S. Senator,,Rep,Joni Ernst,11.0,49.0,60.0
+Adams,Adams 2,U.S. Senator,,Rep,Joni Ernst,17.0,59.0,76.0
+Adams,Adams 3,U.S. Senator,,Rep,Joni Ernst,7.0,61.0,68.0
+Adams,Adams 4,U.S. Senator,,Rep,Joni Ernst,23.0,57.0,80.0
+Adams,Adams 5,U.S. Senator,,Rep,Joni Ernst,10.0,27.0,37.0
+Adams,,U.S. Senator,,Rep,Joni Ernst,,,321.0
+Adams,Adams 1,U.S. Senator,,Rep,Mark Jacobs,1.0,3.0,4.0
+Adams,Adams 2,U.S. Senator,,Rep,Mark Jacobs,2.0,5.0,7.0
+Adams,Adams 3,U.S. Senator,,Rep,Mark Jacobs,1.0,7.0,8.0
+Adams,Adams 4,U.S. Senator,,Rep,Mark Jacobs,5.0,3.0,8.0
+Adams,Adams 5,U.S. Senator,,Rep,Mark Jacobs,2.0,0.0,2.0
+Adams,,U.S. Senator,,Rep,Mark Jacobs,,,29.0
+Adams,Adams 1,U.S. Senator,,Rep,Scott Schaben,1.0,0.0,1.0
+Adams,Adams 2,U.S. Senator,,Rep,Scott Schaben,0.0,1.0,1.0
+Adams,Adams 3,U.S. Senator,,Rep,Scott Schaben,0.0,1.0,1.0
+Adams,Adams 4,U.S. Senator,,Rep,Scott Schaben,1.0,3.0,4.0
+Adams,Adams 5,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Adams,,U.S. Senator,,Rep,Scott Schaben,,,7.0
+Adams,Adams 1,U.S. Senator,,Rep,Matt Whitaker,0.0,1.0,1.0
+Adams,Adams 2,U.S. Senator,,Rep,Matt Whitaker,0.0,2.0,2.0
+Adams,Adams 3,U.S. Senator,,Rep,Matt Whitaker,0.0,0.0,0.0
+Adams,Adams 4,U.S. Senator,,Rep,Matt Whitaker,0.0,0.0,0.0
+Adams,Adams 5,U.S. Senator,,Rep,Matt Whitaker,0.0,0.0,0.0
+Adams,,U.S. Senator,,Rep,Matt Whitaker,,,3.0
+Adams,Adams 1,U.S. Senator,,Rep,Write-in,1.0,0.0,1.0
+Adams,Adams 2,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 3,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 4,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 5,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Adams,,U.S. Senator,,Rep,Write-in,,,1.0
+Adams,Adams 1,U.S. Senator,,Dem,Bruce Braley,4.0,10.0,14.0
+Adams,Adams 2,U.S. Senator,,Dem,Bruce Braley,4.0,13.0,17.0
+Adams,Adams 3,U.S. Senator,,Dem,Bruce Braley,8.0,16.0,24.0
+Adams,Adams 4,U.S. Senator,,Dem,Bruce Braley,4.0,8.0,12.0
+Adams,Adams 5,U.S. Senator,,Dem,Bruce Braley,2.0,2.0,4.0
+Adams,,U.S. Senator,,Dem,Bruce Braley,,,71.0
+Adams,Adams 1,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 2,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 3,U.S. Senator,,Dem,Write-in,1.0,0.0,1.0
+Adams,Adams 4,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 5,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Adams,,U.S. Senator,,Dem,Write-in,,,1.0
+Adams,Adams 1,U.S. Rep.,3,Rep,Robert Cramer,0.0,10.0,10.0
+Adams,Adams 2,U.S. Rep.,3,Rep,Robert Cramer,3.0,6.0,9.0
+Adams,Adams 3,U.S. Rep.,3,Rep,Robert Cramer,1.0,15.0,16.0
+Adams,Adams 4,U.S. Rep.,3,Rep,Robert Cramer,2.0,9.0,11.0
+Adams,Adams 5,U.S. Rep.,3,Rep,Robert Cramer,4.0,10.0,14.0
+Adams,,U.S. Rep.,3,Rep,Robert Cramer,,,60.0
+Adams,Adams 1,U.S. Rep.,3,Rep,Joe Grandanette,0.0,0.0,0.0
+Adams,Adams 2,U.S. Rep.,3,Rep,Joe Grandanette,1.0,2.0,3.0
+Adams,Adams 3,U.S. Rep.,3,Rep,Joe Grandanette,0.0,0.0,0.0
+Adams,Adams 4,U.S. Rep.,3,Rep,Joe Grandanette,0.0,2.0,2.0
+Adams,Adams 5,U.S. Rep.,3,Rep,Joe Grandanette,0.0,0.0,0.0
+Adams,,U.S. Rep.,3,Rep,Joe Grandanette,,,5.0
+Adams,Adams 1,U.S. Rep.,3,Rep,Matt Schultz,1.0,8.0,9.0
+Adams,Adams 2,U.S. Rep.,3,Rep,Matt Schultz,7.0,8.0,15.0
+Adams,Adams 3,U.S. Rep.,3,Rep,Matt Schultz,4.0,11.0,15.0
+Adams,Adams 4,U.S. Rep.,3,Rep,Matt Schultz,4.0,7.0,11.0
+Adams,Adams 5,U.S. Rep.,3,Rep,Matt Schultz,1.0,4.0,5.0
+Adams,,U.S. Rep.,3,Rep,Matt Schultz,,,55.0
+Adams,Adams 1,U.S. Rep.,3,Rep,Monte Shaw,6.0,21.0,27.0
+Adams,Adams 2,U.S. Rep.,3,Rep,Monte Shaw,5.0,35.0,40.0
+Adams,Adams 3,U.S. Rep.,3,Rep,Monte Shaw,2.0,21.0,23.0
+Adams,Adams 4,U.S. Rep.,3,Rep,Monte Shaw,13.0,27.0,40.0
+Adams,Adams 5,U.S. Rep.,3,Rep,Monte Shaw,3.0,11.0,14.0
+Adams,,U.S. Rep.,3,Rep,Monte Shaw,,,144.0
+Adams,Adams 1,U.S. Rep.,3,Rep,David Young,3.0,4.0,7.0
+Adams,Adams 2,U.S. Rep.,3,Rep,David Young,2.0,8.0,10.0
+Adams,Adams 3,U.S. Rep.,3,Rep,David Young,1.0,10.0,11.0
+Adams,Adams 4,U.S. Rep.,3,Rep,David Young,4.0,9.0,13.0
+Adams,Adams 5,U.S. Rep.,3,Rep,David Young,0.0,2.0,2.0
+Adams,,U.S. Rep.,3,Rep,David Young,,,43.0
+Adams,Adams 1,U.S. Rep.,3,Rep,Brad Zaun,1.0,9.0,10.0
+Adams,Adams 2,U.S. Rep.,3,Rep,Brad Zaun,1.0,8.0,9.0
+Adams,Adams 3,U.S. Rep.,3,Rep,Brad Zaun,0.0,9.0,9.0
+Adams,Adams 4,U.S. Rep.,3,Rep,Brad Zaun,5.0,4.0,9.0
+Adams,Adams 5,U.S. Rep.,3,Rep,Brad Zaun,2.0,4.0,6.0
+Adams,,U.S. Rep.,3,Rep,Brad Zaun,,,43.0
+Adams,Adams 1,U.S. Rep.,3,Rep,Write-in,1.0,0.0,1.0
+Adams,Adams 2,U.S. Rep.,3,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 3,U.S. Rep.,3,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 4,U.S. Rep.,3,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 5,U.S. Rep.,3,Rep,Write-in,0.0,0.0,0.0
+Adams,,U.S. Rep.,3,Rep,Write-in,,,1.0
+Adams,Adams 1,U.S. Rep.,3,Dem,Staci Appel,3.0,11.0,14.0
+Adams,Adams 2,U.S. Rep.,3,Dem,Staci Appel,4.0,12.0,16.0
+Adams,Adams 3,U.S. Rep.,3,Dem,Staci Appel,7.0,14.0,21.0
+Adams,Adams 4,U.S. Rep.,3,Dem,Staci Appel,4.0,8.0,12.0
+Adams,Adams 5,U.S. Rep.,3,Dem,Staci Appel,1.0,1.0,2.0
+Adams,,U.S. Rep.,3,Dem,Staci Appel,,,65.0
+Adams,Adams 1,U.S. Rep.,3,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 2,U.S. Rep.,3,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 3,U.S. Rep.,3,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 4,U.S. Rep.,3,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 5,U.S. Rep.,3,Dem,Write-in,1.0,0.0,1.0
+Adams,,U.S. Rep.,3,Dem,Write-in,,,1.0
+Adams,Adams 1,Governor,,Rep,Terry E. Branstad,9.0,46.0,55.0
+Adams,Adams 2,Governor,,Rep,Terry E. Branstad,16.0,58.0,74.0
+Adams,Adams 3,Governor,,Rep,Terry E. Branstad,4.0,55.0,59.0
+Adams,Adams 4,Governor,,Rep,Terry E. Branstad,25.0,52.0,77.0
+Adams,Adams 5,Governor,,Rep,Terry E. Branstad,11.0,28.0,39.0
+Adams,,Governor,,Rep,Terry E. Branstad,,,304.0
+Adams,Adams 1,Governor,,Rep,Tom Hoefling,5.0,7.0,12.0
+Adams,Adams 2,Governor,,Rep,Tom Hoefling,3.0,13.0,16.0
+Adams,Adams 3,Governor,,Rep,Tom Hoefling,3.0,12.0,15.0
+Adams,Adams 4,Governor,,Rep,Tom Hoefling,5.0,11.0,16.0
+Adams,Adams 5,Governor,,Rep,Tom Hoefling,1.0,3.0,4.0
+Adams,,Governor,,Rep,Tom Hoefling,,,63.0
+Adams,Adams 1,Governor,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 2,Governor,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 3,Governor,,Rep,Write-in,1.0,0.0,1.0
+Adams,Adams 4,Governor,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 5,Governor,,Rep,Write-in,0.0,0.0,0.0
+Adams,,Governor,,Rep,Write-in,,,1.0
+Adams,Adams 1,Governor,,Dem,Jack Hatch,4.0,11.0,15.0
+Adams,Adams 2,Governor,,Dem,Jack Hatch,4.0,14.0,18.0
+Adams,Adams 3,Governor,,Dem,Jack Hatch,8.0,16.0,24.0
+Adams,Adams 4,Governor,,Dem,Jack Hatch,4.0,8.0,12.0
+Adams,Adams 5,Governor,,Dem,Jack Hatch,2.0,2.0,4.0
+Adams,,Governor,,Dem,Jack Hatch,,,73.0
+Adams,Adams 1,Governor,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 2,Governor,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 3,Governor,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 4,Governor,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 5,Governor,,Dem,Write-in,0.0,0.0,0.0
+Adams,,Governor,,Dem,Write-in,,,0.0
+Adams,Adams 1,Secretary of State,,Rep,Paul D. Pate,12.0,40.0,52.0
+Adams,Adams 2,Secretary of State,,Rep,Paul D. Pate,16.0,57.0,73.0
+Adams,Adams 3,Secretary of State,,Rep,Paul D. Pate,5.0,56.0,61.0
+Adams,Adams 4,Secretary of State,,Rep,Paul D. Pate,18.0,50.0,68.0
+Adams,Adams 5,Secretary of State,,Rep,Paul D. Pate,6.0,29.0,35.0
+Adams,,Secretary of State,,Rep,Paul D. Pate,,,289.0
+Adams,Adams 1,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 2,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 3,Secretary of State,,Rep,Write-in,1.0,0.0,1.0
+Adams,Adams 4,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 5,Secretary of State,,Rep,Write-in,0.0,1.0,1.0
+Adams,,Secretary of State,,Rep,Write-in,,,2.0
+Adams,Adams 1,Secretary of State,,Dem,Brad Anderson,3.0,11.0,14.0
+Adams,Adams 2,Secretary of State,,Dem,Brad Anderson,4.0,13.0,17.0
+Adams,Adams 3,Secretary of State,,Dem,Brad Anderson,6.0,16.0,22.0
+Adams,Adams 4,Secretary of State,,Dem,Brad Anderson,4.0,8.0,12.0
+Adams,Adams 5,Secretary of State,,Dem,Brad Anderson,2.0,1.0,3.0
+Adams,,Secretary of State,,Dem,Brad Anderson,,,68.0
+Adams,Adams 1,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 2,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 3,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 4,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 5,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Adams,,Secretary of State,,Dem,Write-in,,,0.0
+Adams,Adams 1,Auditor of State,,Rep,Mary Mosiman,13.0,40.0,53.0
+Adams,Adams 2,Auditor of State,,Rep,Mary Mosiman,15.0,56.0,71.0
+Adams,Adams 3,Auditor of State,,Rep,Mary Mosiman,6.0,52.0,58.0
+Adams,Adams 4,Auditor of State,,Rep,Mary Mosiman,16.0,51.0,67.0
+Adams,Adams 5,Auditor of State,,Rep,Mary Mosiman,6.0,30.0,36.0
+Adams,,Auditor of State,,Rep,Mary Mosiman,,,285.0
+Adams,Adams 1,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 2,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 3,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 4,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 5,Auditor of State,,Rep,Write-in,0.0,1.0,1.0
+Adams,,Auditor of State,,Rep,Write-in,,,1.0
+Adams,Adams 1,Auditor of State,,Dem,Jonathan Neiderbach,3.0,11.0,14.0
+Adams,Adams 2,Auditor of State,,Dem,Jonathan Neiderbach,3.0,12.0,15.0
+Adams,Adams 3,Auditor of State,,Dem,Jonathan Neiderbach,5.0,16.0,21.0
+Adams,Adams 4,Auditor of State,,Dem,Jonathan Neiderbach,4.0,9.0,13.0
+Adams,Adams 5,Auditor of State,,Dem,Jonathan Neiderbach,2.0,1.0,3.0
+Adams,,Auditor of State,,Dem,Jonathan Neiderbach,,,66.0
+Adams,Adams 1,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 2,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 3,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 4,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 5,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Adams,,Auditor of State,,Dem,Write-in,,,0.0
+Adams,Adams 1,Treasurer of State,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 2,Treasurer of State,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 3,Treasurer of State,,Rep,Write-in,0.0,1.0,1.0
+Adams,Adams 4,Treasurer of State,,Rep,Write-in,1.0,0.0,1.0
+Adams,Adams 5,Treasurer of State,,Rep,Write-in,0.0,1.0,1.0
+Adams,,Treasurer of State,,Rep,Write-in,,,3.0
+Adams,Adams 1,Treasurer of State,,Dem,Michael L. Fitzgerald,3.0,12.0,15.0
+Adams,Adams 2,Treasurer of State,,Dem,Michael L. Fitzgerald,4.0,15.0,19.0
+Adams,Adams 3,Treasurer of State,,Dem,Michael L. Fitzgerald,7.0,17.0,24.0
+Adams,Adams 4,Treasurer of State,,Dem,Michael L. Fitzgerald,4.0,9.0,13.0
+Adams,Adams 5,Treasurer of State,,Dem,Michael L. Fitzgerald,1.0,1.0,2.0
+Adams,,Treasurer of State,,Dem,Michael L. Fitzgerald,,,73.0
+Adams,Adams 1,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 2,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 3,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 4,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 5,Treasurer of State,,Dem,Write-in,1.0,0.0,1.0
+Adams,,Treasurer of State,,Dem,Write-in,,,1.0
+Adams,Adams 1,Secretary of Agriculture,,Rep,Bill Northey,13.0,44.0,57.0
+Adams,Adams 2,Secretary of Agriculture,,Rep,Bill Northey,16.0,64.0,80.0
+Adams,Adams 3,Secretary of Agriculture,,Rep,Bill Northey,6.0,56.0,62.0
+Adams,Adams 4,Secretary of Agriculture,,Rep,Bill Northey,25.0,59.0,84.0
+Adams,Adams 5,Secretary of Agriculture,,Rep,Bill Northey,8.0,32.0,40.0
+Adams,,Secretary of Agriculture,,Rep,Bill Northey,,,323.0
+Adams,Adams 1,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 2,Secretary of Agriculture,,Rep,Write-in,0.0,1.0,1.0
+Adams,Adams 3,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 4,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 5,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Adams,,Secretary of Agriculture,,Rep,Write-in,,,1.0
+Adams,Adams 1,Secretary of Agriculture,,Dem,Sherrie Taha,2.0,11.0,13.0
+Adams,Adams 2,Secretary of Agriculture,,Dem,Sherrie Taha,4.0,12.0,16.0
+Adams,Adams 3,Secretary of Agriculture,,Dem,Sherrie Taha,5.0,16.0,21.0
+Adams,Adams 4,Secretary of Agriculture,,Dem,Sherrie Taha,4.0,9.0,13.0
+Adams,Adams 5,Secretary of Agriculture,,Dem,Sherrie Taha,1.0,1.0,2.0
+Adams,,Secretary of Agriculture,,Dem,Sherrie Taha,,,65.0
+Adams,Adams 1,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 2,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 3,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 4,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 5,Secretary of Agriculture,,Dem,Write-in,1.0,0.0,1.0
+Adams,,Secretary of Agriculture,,Dem,Write-in,,,1.0
+Adams,Adams 1,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 2,Attorney General,,Rep,Write-in,1.0,1.0,2.0
+Adams,Adams 3,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 4,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 5,Attorney General,,Rep,Write-in,0.0,1.0,1.0
+Adams,,Attorney General,,Rep,Write-in,,,3.0
+Adams,Adams 1,Attorney General,,Dem,Tom Miller,4.0,12.0,16.0
+Adams,Adams 2,Attorney General,,Dem,Tom Miller,4.0,15.0,19.0
+Adams,Adams 3,Attorney General,,Dem,Tom Miller,7.0,17.0,24.0
+Adams,Adams 4,Attorney General,,Dem,Tom Miller,4.0,9.0,13.0
+Adams,Adams 5,Attorney General,,Dem,Tom Miller,2.0,2.0,4.0
+Adams,,Attorney General,,Dem,Tom Miller,,,76.0
+Adams,Adams 1,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 2,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 3,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 4,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 5,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Adams,,Attorney General,,Dem,Write-in,,,0.0
+Adams,Adams 1,State Senator,11,Rep,Art Hill,0.0,0.0,0.0
+Adams,Adams 2,State Senator,11,Rep,Art Hill,1.0,3.0,4.0
+Adams,Adams 3,State Senator,11,Rep,Art Hill,0.0,6.0,6.0
+Adams,Adams 4,State Senator,11,Rep,Art Hill,3.0,4.0,7.0
+Adams,Adams 5,State Senator,11,Rep,Art Hill,2.0,3.0,5.0
+Adams,,State Senator,11,Rep,Art Hill,,,22.0
+Adams,Adams 1,State Senator,11,Rep,Tom Shipley,14.0,51.0,65.0
+Adams,Adams 2,State Senator,11,Rep,Tom Shipley,19.0,68.0,87.0
+Adams,Adams 3,State Senator,11,Rep,Tom Shipley,7.0,58.0,65.0
+Adams,Adams 4,State Senator,11,Rep,Tom Shipley,23.0,58.0,81.0
+Adams,Adams 5,State Senator,11,Rep,Tom Shipley,8.0,27.0,35.0
+Adams,,State Senator,11,Rep,Tom Shipley,,,333.0
+Adams,Adams 1,State Senator,11,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 2,State Senator,11,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 3,State Senator,11,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 4,State Senator,11,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 5,State Senator,11,Rep,Write-in,0.0,0.0,0.0
+Adams,,State Senator,11,Rep,Write-in,,,0.0
+Adams,Adams 1,State Senator,11,Dem,Write-in,0.0,1.0,1.0
+Adams,Adams 2,State Senator,11,Dem,Write-in,0.0,2.0,2.0
+Adams,Adams 3,State Senator,11,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 4,State Senator,11,Dem,Write-in,0.0,2.0,2.0
+Adams,Adams 5,State Senator,11,Dem,Write-in,0.0,0.0,0.0
+Adams,,State Senator,11,Dem,Write-in,,,5.0
+Adams,Adams 1,State Rep.,21,Rep,Jack Drake,10.0,46.0,56.0
+Adams,Adams 2,State Rep.,21,Rep,Jack Drake,16.0,58.0,74.0
+Adams,Adams 3,State Rep.,21,Rep,Jack Drake,5.0,55.0,60.0
+Adams,Adams 4,State Rep.,21,Rep,Jack Drake,19.0,56.0,75.0
+Adams,Adams 5,State Rep.,21,Rep,Jack Drake,7.0,28.0,35.0
+Adams,,State Rep.,21,Rep,Jack Drake,,,300.0
+Adams,Adams 1,State Rep.,21,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 2,State Rep.,21,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 3,State Rep.,21,Rep,Write-in,1.0,0.0,1.0
+Adams,Adams 4,State Rep.,21,Rep,Write-in,0.0,0.0,0.0
+Adams,Adams 5,State Rep.,21,Rep,Write-in,0.0,1.0,1.0
+Adams,,State Rep.,21,Rep,Write-in,,,2.0
+Adams,Adams 1,State Rep.,21,Dem,Tim Ennis,4.0,13.0,17.0
+Adams,Adams 2,State Rep.,21,Dem,Tim Ennis,4.0,16.0,20.0
+Adams,Adams 3,State Rep.,21,Dem,Tim Ennis,9.0,17.0,26.0
+Adams,Adams 4,State Rep.,21,Dem,Tim Ennis,4.0,9.0,13.0
+Adams,Adams 5,State Rep.,21,Dem,Tim Ennis,2.0,2.0,4.0
+Adams,,State Rep.,21,Dem,Tim Ennis,,,80.0
+Adams,Adams 1,State Rep.,21,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 2,State Rep.,21,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 3,State Rep.,21,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 4,State Rep.,21,Dem,Write-in,0.0,0.0,0.0
+Adams,Adams 5,State Rep.,21,Dem,Write-in,0.0,0.0,0.0
+Adams,,State Rep.,21,Dem,Write-in,,,0.0

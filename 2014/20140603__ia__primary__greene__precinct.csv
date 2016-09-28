@@ -1,0 +1,321 @@
+county,precinct,office,district,party,candidate,absentee,polling,votes
+Greene,Central Precinct,U.S. Senator,,Rep,Sam Clovis,,,25.0
+Greene,East Precinct,U.S. Senator,,Rep,Sam Clovis,1.0,12.0,13.0
+Greene,Jefferson 1 Precinct,U.S. Senator,,Rep,Sam Clovis,4.0,16.0,20.0
+Greene,Jefferson 2 Precinct,U.S. Senator,,Rep,Sam Clovis,1.0,18.0,19.0
+Greene,Jefferson 3 Precinct,U.S. Senator,,Rep,Sam Clovis,1.0,15.0,16.0
+Greene,North Precinct,U.S. Senator,,Rep,Sam Clovis,1.0,16.0,17.0
+Greene,West Precinct,U.S. Senator,,Rep,Sam Clovis,0.0,5.0,5.0
+Greene,,U.S. Senator,,Rep,Sam Clovis,,,121.0
+Greene,Central Precinct,U.S. Senator,,Rep,Joni Ernst,,,50.0
+Greene,East Precinct,U.S. Senator,,Rep,Joni Ernst,6.0,42.0,48.0
+Greene,Jefferson 1 Precinct,U.S. Senator,,Rep,Joni Ernst,2.0,29.0,31.0
+Greene,Jefferson 2 Precinct,U.S. Senator,,Rep,Joni Ernst,5.0,43.0,48.0
+Greene,Jefferson 3 Precinct,U.S. Senator,,Rep,Joni Ernst,9.0,66.0,75.0
+Greene,North Precinct,U.S. Senator,,Rep,Joni Ernst,4.0,39.0,43.0
+Greene,West Precinct,U.S. Senator,,Rep,Joni Ernst,0.0,33.0,33.0
+Greene,,U.S. Senator,,Rep,Joni Ernst,,,337.0
+Greene,Central Precinct,U.S. Senator,,Rep,Mark Jacobs,,,7.0
+Greene,East Precinct,U.S. Senator,,Rep,Mark Jacobs,3.0,1.0,4.0
+Greene,Jefferson 1 Precinct,U.S. Senator,,Rep,Mark Jacobs,1.0,10.0,11.0
+Greene,Jefferson 2 Precinct,U.S. Senator,,Rep,Mark Jacobs,0.0,7.0,7.0
+Greene,Jefferson 3 Precinct,U.S. Senator,,Rep,Mark Jacobs,2.0,14.0,16.0
+Greene,North Precinct,U.S. Senator,,Rep,Mark Jacobs,4.0,9.0,13.0
+Greene,West Precinct,U.S. Senator,,Rep,Mark Jacobs,0.0,7.0,7.0
+Greene,,U.S. Senator,,Rep,Mark Jacobs,,,65.0
+Greene,Central Precinct,U.S. Senator,,Rep,Scott Schaben,,,3.0
+Greene,East Precinct,U.S. Senator,,Rep,Scott Schaben,0.0,2.0,2.0
+Greene,Jefferson 1 Precinct,U.S. Senator,,Rep,Scott Schaben,1.0,0.0,1.0
+Greene,Jefferson 2 Precinct,U.S. Senator,,Rep,Scott Schaben,0.0,4.0,4.0
+Greene,Jefferson 3 Precinct,U.S. Senator,,Rep,Scott Schaben,0.0,4.0,4.0
+Greene,North Precinct,U.S. Senator,,Rep,Scott Schaben,1.0,2.0,3.0
+Greene,West Precinct,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Greene,,U.S. Senator,,Rep,Scott Schaben,,,17.0
+Greene,Central Precinct,U.S. Senator,,Rep,Matt Whitaker,,,6.0
+Greene,East Precinct,U.S. Senator,,Rep,Matt Whitaker,1.0,8.0,9.0
+Greene,Jefferson 1 Precinct,U.S. Senator,,Rep,Matt Whitaker,1.0,5.0,6.0
+Greene,Jefferson 2 Precinct,U.S. Senator,,Rep,Matt Whitaker,2.0,4.0,6.0
+Greene,Jefferson 3 Precinct,U.S. Senator,,Rep,Matt Whitaker,1.0,9.0,10.0
+Greene,North Precinct,U.S. Senator,,Rep,Matt Whitaker,0.0,9.0,9.0
+Greene,West Precinct,U.S. Senator,,Rep,Matt Whitaker,0.0,3.0,3.0
+Greene,,U.S. Senator,,Rep,Matt Whitaker,,,50.0
+Greene,Central Precinct,U.S. Senator,,Rep,Write-in,,,0.0
+Greene,East Precinct,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Greene,Jefferson 1 Precinct,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Greene,Jefferson 2 Precinct,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Greene,Jefferson 3 Precinct,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Greene,North Precinct,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Greene,West Precinct,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Greene,,U.S. Senator,,Rep,Write-in,,,0.0
+Greene,Central Precinct,U.S. Senator,,Dem,Bruce Braley,,,8.0
+Greene,East Precinct,U.S. Senator,,Dem,Bruce Braley,7.0,21.0,28.0
+Greene,Jefferson 1 Precinct,U.S. Senator,,Dem,Bruce Braley,1.0,13.0,14.0
+Greene,Jefferson 2 Precinct,U.S. Senator,,Dem,Bruce Braley,6.0,16.0,22.0
+Greene,Jefferson 3 Precinct,U.S. Senator,,Dem,Bruce Braley,14.0,23.0,37.0
+Greene,North Precinct,U.S. Senator,,Dem,Bruce Braley,2.0,20.0,22.0
+Greene,West Precinct,U.S. Senator,,Dem,Bruce Braley,0.0,4.0,4.0
+Greene,,U.S. Senator,,Dem,Bruce Braley,,,137.0
+Greene,Central Precinct,U.S. Senator,,Dem,Write-in,,,1.0
+Greene,East Precinct,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 1 Precinct,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 2 Precinct,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 3 Precinct,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Greene,North Precinct,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Greene,West Precinct,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Greene,,U.S. Senator,,Dem,Write-in,,,1.0
+Greene,Central Precinct,U.S. Rep.,4,Rep,Steve King,,,81.0
+Greene,East Precinct,U.S. Rep.,4,Rep,Steve King,10.0,61.0,71.0
+Greene,Jefferson 1 Precinct,U.S. Rep.,4,Rep,Steve King,8.0,46.0,54.0
+Greene,Jefferson 2 Precinct,U.S. Rep.,4,Rep,Steve King,10.0,63.0,73.0
+Greene,Jefferson 3 Precinct,U.S. Rep.,4,Rep,Steve King,12.0,87.0,99.0
+Greene,North Precinct,U.S. Rep.,4,Rep,Steve King,8.0,67.0,75.0
+Greene,West Precinct,U.S. Rep.,4,Rep,Steve King,0.0,40.0,40.0
+Greene,,U.S. Rep.,4,Rep,Steve King,,,505.0
+Greene,Central Precinct,U.S. Rep.,4,Rep,Write-in,,,2.0
+Greene,East Precinct,U.S. Rep.,4,Rep,Write-in,0.0,0.0,0.0
+Greene,Jefferson 1 Precinct,U.S. Rep.,4,Rep,Write-in,0.0,1.0,1.0
+Greene,Jefferson 2 Precinct,U.S. Rep.,4,Rep,Write-in,0.0,0.0,0.0
+Greene,Jefferson 3 Precinct,U.S. Rep.,4,Rep,Write-in,0.0,0.0,0.0
+Greene,North Precinct,U.S. Rep.,4,Rep,Write-in,0.0,0.0,0.0
+Greene,West Precinct,U.S. Rep.,4,Rep,Write-in,0.0,1.0,1.0
+Greene,,U.S. Rep.,4,Rep,Write-in,,,5.0
+Greene,Central Precinct,U.S. Rep.,4,Dem,Jim Mowrer,,,7.0
+Greene,East Precinct,U.S. Rep.,4,Dem,Jim Mowrer,6.0,20.0,26.0
+Greene,Jefferson 1 Precinct,U.S. Rep.,4,Dem,Jim Mowrer,1.0,13.0,14.0
+Greene,Jefferson 2 Precinct,U.S. Rep.,4,Dem,Jim Mowrer,5.0,16.0,21.0
+Greene,Jefferson 3 Precinct,U.S. Rep.,4,Dem,Jim Mowrer,13.0,22.0,35.0
+Greene,North Precinct,U.S. Rep.,4,Dem,Jim Mowrer,1.0,19.0,20.0
+Greene,West Precinct,U.S. Rep.,4,Dem,Jim Mowrer,0.0,4.0,4.0
+Greene,,U.S. Rep.,4,Dem,Jim Mowrer,,,129.0
+Greene,Central Precinct,U.S. Rep.,4,Dem,Write-in,,,0.0
+Greene,East Precinct,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 1 Precinct,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 2 Precinct,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 3 Precinct,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Greene,North Precinct,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Greene,West Precinct,U.S. Rep.,4,Dem,Write-in,0.0,0.0,0.0
+Greene,,U.S. Rep.,4,Dem,Write-in,,,0.0
+Greene,Central Precinct,Governor,,Rep,Terry E. Branstad,,,77.0
+Greene,East Precinct,Governor,,Rep,Terry E. Branstad,11.0,54.0,65.0
+Greene,Jefferson 1 Precinct,Governor,,Rep,Terry E. Branstad,9.0,40.0,49.0
+Greene,Jefferson 2 Precinct,Governor,,Rep,Terry E. Branstad,12.0,58.0,70.0
+Greene,Jefferson 3 Precinct,Governor,,Rep,Terry E. Branstad,15.0,89.0,104.0
+Greene,North Precinct,Governor,,Rep,Terry E. Branstad,8.0,54.0,62.0
+Greene,West Precinct,Governor,,Rep,Terry E. Branstad,0.0,43.0,43.0
+Greene,,Governor,,Rep,Terry E. Branstad,,,485.0
+Greene,Central Precinct,Governor,,Rep,Tom Hoefling,,,13.0
+Greene,East Precinct,Governor,,Rep,Tom Hoefling,1.0,9.0,10.0
+Greene,Jefferson 1 Precinct,Governor,,Rep,Tom Hoefling,0.0,18.0,18.0
+Greene,Jefferson 2 Precinct,Governor,,Rep,Tom Hoefling,1.0,18.0,19.0
+Greene,Jefferson 3 Precinct,Governor,,Rep,Tom Hoefling,1.0,15.0,16.0
+Greene,North Precinct,Governor,,Rep,Tom Hoefling,2.0,18.0,20.0
+Greene,West Precinct,Governor,,Rep,Tom Hoefling,0.0,4.0,4.0
+Greene,,Governor,,Rep,Tom Hoefling,,,101.0
+Greene,Central Precinct,Governor,,Rep,Write-in,,,0.0
+Greene,East Precinct,Governor,,Rep,Write-in,0.0,0.0,0.0
+Greene,Jefferson 1 Precinct,Governor,,Rep,Write-in,0.0,0.0,0.0
+Greene,Jefferson 2 Precinct,Governor,,Rep,Write-in,0.0,0.0,0.0
+Greene,Jefferson 3 Precinct,Governor,,Rep,Write-in,0.0,0.0,0.0
+Greene,North Precinct,Governor,,Rep,Write-in,0.0,0.0,0.0
+Greene,West Precinct,Governor,,Rep,Write-in,0.0,0.0,0.0
+Greene,,Governor,,Rep,Write-in,,,0.0
+Greene,Central Precinct,Governor,,Dem,Jack Hatch,,,8.0
+Greene,East Precinct,Governor,,Dem,Jack Hatch,6.0,21.0,27.0
+Greene,Jefferson 1 Precinct,Governor,,Dem,Jack Hatch,1.0,14.0,15.0
+Greene,Jefferson 2 Precinct,Governor,,Dem,Jack Hatch,7.0,17.0,24.0
+Greene,Jefferson 3 Precinct,Governor,,Dem,Jack Hatch,13.0,23.0,36.0
+Greene,North Precinct,Governor,,Dem,Jack Hatch,2.0,18.0,20.0
+Greene,West Precinct,Governor,,Dem,Jack Hatch,0.0,3.0,3.0
+Greene,,Governor,,Dem,Jack Hatch,,,135.0
+Greene,Central Precinct,Governor,,Dem,Write-in,,,0.0
+Greene,East Precinct,Governor,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 1 Precinct,Governor,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 2 Precinct,Governor,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 3 Precinct,Governor,,Dem,Write-in,0.0,0.0,0.0
+Greene,North Precinct,Governor,,Dem,Write-in,0.0,0.0,0.0
+Greene,West Precinct,Governor,,Dem,Write-in,0.0,0.0,0.0
+Greene,,Governor,,Dem,Write-in,,,0.0
+Greene,Central Precinct,Secretary of State,,Rep,Paul D. Pate,,,61.0
+Greene,East Precinct,Secretary of State,,Rep,Paul D. Pate,8.0,39.0,47.0
+Greene,Jefferson 1 Precinct,Secretary of State,,Rep,Paul D. Pate,5.0,31.0,36.0
+Greene,Jefferson 2 Precinct,Secretary of State,,Rep,Paul D. Pate,7.0,57.0,64.0
+Greene,Jefferson 3 Precinct,Secretary of State,,Rep,Paul D. Pate,13.0,85.0,98.0
+Greene,North Precinct,Secretary of State,,Rep,Paul D. Pate,7.0,60.0,67.0
+Greene,West Precinct,Secretary of State,,Rep,Paul D. Pate,0.0,40.0,40.0
+Greene,,Secretary of State,,Rep,Paul D. Pate,,,428.0
+Greene,Central Precinct,Secretary of State,,Rep,Write-in,,,1.0
+Greene,East Precinct,Secretary of State,,Rep,Write-in,0.0,1.0,1.0
+Greene,Jefferson 1 Precinct,Secretary of State,,Rep,Write-in,0.0,1.0,1.0
+Greene,Jefferson 2 Precinct,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Greene,Jefferson 3 Precinct,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Greene,North Precinct,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Greene,West Precinct,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Greene,,Secretary of State,,Rep,Write-in,,,3.0
+Greene,Central Precinct,Secretary of State,,Dem,Brad Anderson,,,7.0
+Greene,East Precinct,Secretary of State,,Dem,Brad Anderson,6.0,20.0,26.0
+Greene,Jefferson 1 Precinct,Secretary of State,,Dem,Brad Anderson,1.0,13.0,14.0
+Greene,Jefferson 2 Precinct,Secretary of State,,Dem,Brad Anderson,5.0,16.0,21.0
+Greene,Jefferson 3 Precinct,Secretary of State,,Dem,Brad Anderson,12.0,22.0,34.0
+Greene,North Precinct,Secretary of State,,Dem,Brad Anderson,3.0,19.0,22.0
+Greene,West Precinct,Secretary of State,,Dem,Brad Anderson,0.0,3.0,3.0
+Greene,,Secretary of State,,Dem,Brad Anderson,,,129.0
+Greene,Central Precinct,Secretary of State,,Dem,Write-in,,,0.0
+Greene,East Precinct,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 1 Precinct,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 2 Precinct,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 3 Precinct,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Greene,North Precinct,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Greene,West Precinct,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Greene,,Secretary of State,,Dem,Write-in,,,0.0
+Greene,Central Precinct,Auditor of State,,Rep,Mary Mosiman,,,59.0
+Greene,East Precinct,Auditor of State,,Rep,Mary Mosiman,7.0,40.0,47.0
+Greene,Jefferson 1 Precinct,Auditor of State,,Rep,Mary Mosiman,4.0,28.0,32.0
+Greene,Jefferson 2 Precinct,Auditor of State,,Rep,Mary Mosiman,7.0,56.0,63.0
+Greene,Jefferson 3 Precinct,Auditor of State,,Rep,Mary Mosiman,13.0,78.0,91.0
+Greene,North Precinct,Auditor of State,,Rep,Mary Mosiman,7.0,57.0,64.0
+Greene,West Precinct,Auditor of State,,Rep,Mary Mosiman,0.0,31.0,31.0
+Greene,,Auditor of State,,Rep,Mary Mosiman,,,403.0
+Greene,Central Precinct,Auditor of State,,Rep,Write-in,,,1.0
+Greene,East Precinct,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Greene,Jefferson 1 Precinct,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Greene,Jefferson 2 Precinct,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Greene,Jefferson 3 Precinct,Auditor of State,,Rep,Write-in,0.0,1.0,1.0
+Greene,North Precinct,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Greene,West Precinct,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Greene,,Auditor of State,,Rep,Write-in,,,2.0
+Greene,Central Precinct,Auditor of State,,Dem,Jonathan Neiderbach,,,6.0
+Greene,East Precinct,Auditor of State,,Dem,Jonathan Neiderbach,7.0,19.0,26.0
+Greene,Jefferson 1 Precinct,Auditor of State,,Dem,Jonathan Neiderbach,1.0,13.0,14.0
+Greene,Jefferson 2 Precinct,Auditor of State,,Dem,Jonathan Neiderbach,5.0,16.0,21.0
+Greene,Jefferson 3 Precinct,Auditor of State,,Dem,Jonathan Neiderbach,13.0,20.0,33.0
+Greene,North Precinct,Auditor of State,,Dem,Jonathan Neiderbach,1.0,19.0,20.0
+Greene,West Precinct,Auditor of State,,Dem,Jonathan Neiderbach,0.0,3.0,3.0
+Greene,,Auditor of State,,Dem,Jonathan Neiderbach,,,125.0
+Greene,Central Precinct,Auditor of State,,Dem,Write-in,,,0.0
+Greene,East Precinct,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 1 Precinct,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 2 Precinct,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 3 Precinct,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Greene,North Precinct,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Greene,West Precinct,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Greene,,Auditor of State,,Dem,Write-in,,,0.0
+Greene,Central Precinct,Treasurer of State,,Rep,Write-in,,,8.0
+Greene,East Precinct,Treasurer of State,,Rep,Write-in,1.0,1.0,2.0
+Greene,Jefferson 1 Precinct,Treasurer of State,,Rep,Write-in,0.0,1.0,1.0
+Greene,Jefferson 2 Precinct,Treasurer of State,,Rep,Write-in,0.0,3.0,3.0
+Greene,Jefferson 3 Precinct,Treasurer of State,,Rep,Write-in,1.0,1.0,2.0
+Greene,North Precinct,Treasurer of State,,Rep,Write-in,0.0,2.0,2.0
+Greene,West Precinct,Treasurer of State,,Rep,Write-in,0.0,1.0,1.0
+Greene,,Treasurer of State,,Rep,Write-in,,,22.0
+Greene,Central Precinct,Treasurer of State,,Dem,Michael L. Fitzgerald,,,8.0
+Greene,East Precinct,Treasurer of State,,Dem,Michael L. Fitzgerald,6.0,21.0,27.0
+Greene,Jefferson 1 Precinct,Treasurer of State,,Dem,Michael L. Fitzgerald,1.0,13.0,14.0
+Greene,Jefferson 2 Precinct,Treasurer of State,,Dem,Michael L. Fitzgerald,5.0,17.0,22.0
+Greene,Jefferson 3 Precinct,Treasurer of State,,Dem,Michael L. Fitzgerald,14.0,22.0,36.0
+Greene,North Precinct,Treasurer of State,,Dem,Michael L. Fitzgerald,3.0,23.0,26.0
+Greene,West Precinct,Treasurer of State,,Dem,Michael L. Fitzgerald,0.0,4.0,4.0
+Greene,,Treasurer of State,,Dem,Michael L. Fitzgerald,,,139.0
+Greene,Central Precinct,Treasurer of State,,Dem,Write-in,,,0.0
+Greene,East Precinct,Treasurer of State,,Dem,Write-in,1.0,0.0,1.0
+Greene,Jefferson 1 Precinct,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 2 Precinct,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 3 Precinct,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Greene,North Precinct,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Greene,West Precinct,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Greene,,Treasurer of State,,Dem,Write-in,,,1.0
+Greene,Central Precinct,Secretary of Agriculture,,Rep,Bill Northey,,,75.0
+Greene,East Precinct,Secretary of Agriculture,,Rep,Bill Northey,10.0,56.0,66.0
+Greene,Jefferson 1 Precinct,Secretary of Agriculture,,Rep,Bill Northey,6.0,35.0,41.0
+Greene,Jefferson 2 Precinct,Secretary of Agriculture,,Rep,Bill Northey,12.0,61.0,73.0
+Greene,Jefferson 3 Precinct,Secretary of Agriculture,,Rep,Bill Northey,15.0,90.0,105.0
+Greene,North Precinct,Secretary of Agriculture,,Rep,Bill Northey,9.0,66.0,75.0
+Greene,West Precinct,Secretary of Agriculture,,Rep,Bill Northey,0.0,39.0,39.0
+Greene,,Secretary of Agriculture,,Rep,Bill Northey,,,489.0
+Greene,Central Precinct,Secretary of Agriculture,,Rep,Write-in,,,0.0
+Greene,East Precinct,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Greene,Jefferson 1 Precinct,Secretary of Agriculture,,Rep,Write-in,0.0,2.0,2.0
+Greene,Jefferson 2 Precinct,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Greene,Jefferson 3 Precinct,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Greene,North Precinct,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Greene,West Precinct,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Greene,,Secretary of Agriculture,,Rep,Write-in,,,2.0
+Greene,Central Precinct,Secretary of Agriculture,,Dem,Sherrie Taha,,,6.0
+Greene,East Precinct,Secretary of Agriculture,,Dem,Sherrie Taha,6.0,19.0,25.0
+Greene,Jefferson 1 Precinct,Secretary of Agriculture,,Dem,Sherrie Taha,1.0,13.0,14.0
+Greene,Jefferson 2 Precinct,Secretary of Agriculture,,Dem,Sherrie Taha,6.0,15.0,21.0
+Greene,Jefferson 3 Precinct,Secretary of Agriculture,,Dem,Sherrie Taha,13.0,20.0,33.0
+Greene,North Precinct,Secretary of Agriculture,,Dem,Sherrie Taha,1.0,19.0,20.0
+Greene,West Precinct,Secretary of Agriculture,,Dem,Sherrie Taha,0.0,3.0,3.0
+Greene,,Secretary of Agriculture,,Dem,Sherrie Taha,,,123.0
+Greene,Central Precinct,Secretary of Agriculture,,Dem,Write-in,,,1.0
+Greene,East Precinct,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 1 Precinct,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 2 Precinct,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 3 Precinct,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Greene,North Precinct,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Greene,West Precinct,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Greene,,Secretary of Agriculture,,Dem,Write-in,,,1.0
+Greene,Central Precinct,Attorney General,,Rep,Write-in,,,4.0
+Greene,East Precinct,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Greene,Jefferson 1 Precinct,Attorney General,,Rep,Write-in,0.0,4.0,4.0
+Greene,Jefferson 2 Precinct,Attorney General,,Rep,Write-in,1.0,1.0,2.0
+Greene,Jefferson 3 Precinct,Attorney General,,Rep,Write-in,0.0,4.0,4.0
+Greene,North Precinct,Attorney General,,Rep,Write-in,0.0,3.0,3.0
+Greene,West Precinct,Attorney General,,Rep,Write-in,0.0,1.0,1.0
+Greene,,Attorney General,,Rep,Write-in,,,20.0
+Greene,Central Precinct,Attorney General,,Dem,Tom Miller,,,9.0
+Greene,East Precinct,Attorney General,,Dem,Tom Miller,7.0,21.0,28.0
+Greene,Jefferson 1 Precinct,Attorney General,,Dem,Tom Miller,1.0,15.0,16.0
+Greene,Jefferson 2 Precinct,Attorney General,,Dem,Tom Miller,6.0,17.0,23.0
+Greene,Jefferson 3 Precinct,Attorney General,,Dem,Tom Miller,14.0,23.0,37.0
+Greene,North Precinct,Attorney General,,Dem,Tom Miller,2.0,23.0,25.0
+Greene,West Precinct,Attorney General,,Dem,Tom Miller,0.0,4.0,4.0
+Greene,,Attorney General,,Dem,Tom Miller,,,144.0
+Greene,Central Precinct,Attorney General,,Dem,Write-in,,,0.0
+Greene,East Precinct,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 1 Precinct,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 2 Precinct,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 3 Precinct,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Greene,North Precinct,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Greene,West Precinct,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Greene,,Attorney General,,Dem,Write-in,,,0.0
+Greene,Central Precinct,State Rep.,47,Rep,Chip Baltimore,,,67.0
+Greene,East Precinct,State Rep.,47,Rep,Chip Baltimore,11.0,51.0,62.0
+Greene,Jefferson 1 Precinct,State Rep.,47,Rep,Chip Baltimore,8.0,41.0,49.0
+Greene,Jefferson 2 Precinct,State Rep.,47,Rep,Chip Baltimore,10.0,54.0,64.0
+Greene,Jefferson 3 Precinct,State Rep.,47,Rep,Chip Baltimore,13.0,90.0,103.0
+Greene,North Precinct,State Rep.,47,Rep,Chip Baltimore,8.0,62.0,70.0
+Greene,West Precinct,State Rep.,47,Rep,Chip Baltimore,0.0,39.0,39.0
+Greene,,State Rep.,47,Rep,Chip Baltimore,,,469.0
+Greene,Central Precinct,State Rep.,47,Rep,Write-in,,,1.0
+Greene,East Precinct,State Rep.,47,Rep,Write-in,0.0,1.0,1.0
+Greene,Jefferson 1 Precinct,State Rep.,47,Rep,Write-in,0.0,1.0,1.0
+Greene,Jefferson 2 Precinct,State Rep.,47,Rep,Write-in,0.0,0.0,0.0
+Greene,Jefferson 3 Precinct,State Rep.,47,Rep,Write-in,0.0,1.0,1.0
+Greene,North Precinct,State Rep.,47,Rep,Write-in,0.0,0.0,0.0
+Greene,West Precinct,State Rep.,47,Rep,Write-in,0.0,1.0,1.0
+Greene,,State Rep.,47,Rep,Write-in,,,5.0
+Greene,Central Precinct,State Rep.,47,Dem,Hans Erickson,,,6.0
+Greene,East Precinct,State Rep.,47,Dem,Hans Erickson,1.0,9.0,10.0
+Greene,Jefferson 1 Precinct,State Rep.,47,Dem,Hans Erickson,0.0,7.0,7.0
+Greene,Jefferson 2 Precinct,State Rep.,47,Dem,Hans Erickson,2.0,6.0,8.0
+Greene,Jefferson 3 Precinct,State Rep.,47,Dem,Hans Erickson,4.0,14.0,18.0
+Greene,North Precinct,State Rep.,47,Dem,Hans Erickson,1.0,5.0,6.0
+Greene,West Precinct,State Rep.,47,Dem,Hans Erickson,0.0,2.0,2.0
+Greene,,State Rep.,47,Dem,Hans Erickson,,,58.0
+Greene,Central Precinct,State Rep.,47,Dem,Mark J. Trueblood,,,2.0
+Greene,East Precinct,State Rep.,47,Dem,Mark J. Trueblood,5.0,9.0,14.0
+Greene,Jefferson 1 Precinct,State Rep.,47,Dem,Mark J. Trueblood,0.0,3.0,3.0
+Greene,Jefferson 2 Precinct,State Rep.,47,Dem,Mark J. Trueblood,3.0,10.0,13.0
+Greene,Jefferson 3 Precinct,State Rep.,47,Dem,Mark J. Trueblood,9.0,7.0,16.0
+Greene,North Precinct,State Rep.,47,Dem,Mark J. Trueblood,2.0,13.0,15.0
+Greene,West Precinct,State Rep.,47,Dem,Mark J. Trueblood,0.0,1.0,1.0
+Greene,,State Rep.,47,Dem,Mark J. Trueblood,,,65.0
+Greene,Central Precinct,State Rep.,47,Dem,Write-in,,,0.0
+Greene,East Precinct,State Rep.,47,Dem,Write-in,0.0,1.0,1.0
+Greene,Jefferson 1 Precinct,State Rep.,47,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 2 Precinct,State Rep.,47,Dem,Write-in,0.0,0.0,0.0
+Greene,Jefferson 3 Precinct,State Rep.,47,Dem,Write-in,0.0,0.0,0.0
+Greene,North Precinct,State Rep.,47,Dem,Write-in,0.0,0.0,0.0
+Greene,West Precinct,State Rep.,47,Dem,Write-in,0.0,0.0,0.0
+Greene,,State Rep.,47,Dem,Write-in,,,1.0

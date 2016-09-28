@@ -1,0 +1,851 @@
+county,precinct,office,district,party,candidate,absentee,polling,votes
+Jackson,Pct 1 - Bellevue Hall,U.S. Senator,,Rep,Sam Clovis,,,29.0
+Jackson,Pct 10 - Miles City Hall,U.S. Senator,,Rep,Sam Clovis,0.0,5.0,5.0
+Jackson,Pct 11 - Sabula City Hall,U.S. Senator,,Rep,Sam Clovis,0.0,2.0,2.0
+Jackson,Pct 12 - Senior Citizens Bldg,U.S. Senator,,Rep,Sam Clovis,0.0,2.0,2.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,U.S. Senator,,Rep,Sam Clovis,0.0,2.0,2.0
+Jackson,Pct 14 - Maquoketa City Hall,U.S. Senator,,Rep,Sam Clovis,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,U.S. Senator,,Rep,Sam Clovis,0.0,2.0,2.0
+Jackson,Pct 16 - Maquoketa Fire Station,U.S. Senator,,Rep,Sam Clovis,0.0,8.0,8.0
+Jackson,Pct 2 - St. Donatus City Hall,U.S. Senator,,Rep,Sam Clovis,4.0,10.0,14.0
+Jackson,Pct 3 - LaMotte Recreation Center,U.S. Senator,,Rep,Sam Clovis,1.0,3.0,4.0
+Jackson,Pct 4 - St. Lawrence Community Hall,U.S. Senator,,Rep,Sam Clovis,0.0,1.0,1.0
+Jackson,Pct 5 - Monmouth City Hall,U.S. Senator,,Rep,Sam Clovis,4.0,3.0,7.0
+Jackson,Pct 6 - Andrew City Hall,U.S. Senator,,Rep,Sam Clovis,0.0,12.0,12.0
+Jackson,Pct 7 - Courtroom- Courthouse,U.S. Senator,,Rep,Sam Clovis,3.0,3.0,6.0
+Jackson,Pct 8 - Springbrook City Hall,U.S. Senator,,Rep,Sam Clovis,1.0,4.0,5.0
+Jackson,Pct 9 - Preston Community Hall,U.S. Senator,,Rep,Sam Clovis,1.0,1.0,2.0
+Jackson,,U.S. Senator,,Rep,Sam Clovis,,,116.0
+Jackson,Pct 1 - Bellevue Hall,U.S. Senator,,Rep,Joni Ernst,,,70.0
+Jackson,Pct 10 - Miles City Hall,U.S. Senator,,Rep,Joni Ernst,0.0,7.0,7.0
+Jackson,Pct 11 - Sabula City Hall,U.S. Senator,,Rep,Joni Ernst,2.0,28.0,30.0
+Jackson,Pct 12 - Senior Citizens Bldg,U.S. Senator,,Rep,Joni Ernst,3.0,21.0,24.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,U.S. Senator,,Rep,Joni Ernst,6.0,28.0,34.0
+Jackson,Pct 14 - Maquoketa City Hall,U.S. Senator,,Rep,Joni Ernst,4.0,16.0,20.0
+Jackson,Pct 15 - North Lobby Courthouse,U.S. Senator,,Rep,Joni Ernst,10.0,35.0,45.0
+Jackson,Pct 16 - Maquoketa Fire Station,U.S. Senator,,Rep,Joni Ernst,10.0,50.0,60.0
+Jackson,Pct 2 - St. Donatus City Hall,U.S. Senator,,Rep,Joni Ernst,2.0,24.0,26.0
+Jackson,Pct 3 - LaMotte Recreation Center,U.S. Senator,,Rep,Joni Ernst,4.0,20.0,24.0
+Jackson,Pct 4 - St. Lawrence Community Hall,U.S. Senator,,Rep,Joni Ernst,1.0,21.0,22.0
+Jackson,Pct 5 - Monmouth City Hall,U.S. Senator,,Rep,Joni Ernst,2.0,13.0,15.0
+Jackson,Pct 6 - Andrew City Hall,U.S. Senator,,Rep,Joni Ernst,2.0,38.0,40.0
+Jackson,Pct 7 - Courtroom- Courthouse,U.S. Senator,,Rep,Joni Ernst,13.0,51.0,64.0
+Jackson,Pct 8 - Springbrook City Hall,U.S. Senator,,Rep,Joni Ernst,3.0,18.0,21.0
+Jackson,Pct 9 - Preston Community Hall,U.S. Senator,,Rep,Joni Ernst,5.0,40.0,45.0
+Jackson,,U.S. Senator,,Rep,Joni Ernst,,,552.0
+Jackson,Pct 1 - Bellevue Hall,U.S. Senator,,Rep,Mark Jacobs,,,9.0
+Jackson,Pct 10 - Miles City Hall,U.S. Senator,,Rep,Mark Jacobs,3.0,8.0,11.0
+Jackson,Pct 11 - Sabula City Hall,U.S. Senator,,Rep,Mark Jacobs,0.0,11.0,11.0
+Jackson,Pct 12 - Senior Citizens Bldg,U.S. Senator,,Rep,Mark Jacobs,0.0,3.0,3.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,U.S. Senator,,Rep,Mark Jacobs,2.0,5.0,7.0
+Jackson,Pct 14 - Maquoketa City Hall,U.S. Senator,,Rep,Mark Jacobs,2.0,7.0,9.0
+Jackson,Pct 15 - North Lobby Courthouse,U.S. Senator,,Rep,Mark Jacobs,6.0,15.0,21.0
+Jackson,Pct 16 - Maquoketa Fire Station,U.S. Senator,,Rep,Mark Jacobs,1.0,20.0,21.0
+Jackson,Pct 2 - St. Donatus City Hall,U.S. Senator,,Rep,Mark Jacobs,0.0,7.0,7.0
+Jackson,Pct 3 - LaMotte Recreation Center,U.S. Senator,,Rep,Mark Jacobs,1.0,3.0,4.0
+Jackson,Pct 4 - St. Lawrence Community Hall,U.S. Senator,,Rep,Mark Jacobs,0.0,8.0,8.0
+Jackson,Pct 5 - Monmouth City Hall,U.S. Senator,,Rep,Mark Jacobs,0.0,5.0,5.0
+Jackson,Pct 6 - Andrew City Hall,U.S. Senator,,Rep,Mark Jacobs,0.0,4.0,4.0
+Jackson,Pct 7 - Courtroom- Courthouse,U.S. Senator,,Rep,Mark Jacobs,10.0,21.0,31.0
+Jackson,Pct 8 - Springbrook City Hall,U.S. Senator,,Rep,Mark Jacobs,0.0,3.0,3.0
+Jackson,Pct 9 - Preston Community Hall,U.S. Senator,,Rep,Mark Jacobs,1.0,14.0,15.0
+Jackson,,U.S. Senator,,Rep,Mark Jacobs,,,177.0
+Jackson,Pct 1 - Bellevue Hall,U.S. Senator,,Rep,Scott Schaben,,,0.0
+Jackson,Pct 10 - Miles City Hall,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Jackson,Pct 11 - Sabula City Hall,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,U.S. Senator,,Rep,Scott Schaben,0.0,4.0,4.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Jackson,Pct 14 - Maquoketa City Hall,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,U.S. Senator,,Rep,Scott Schaben,0.0,1.0,1.0
+Jackson,Pct 16 - Maquoketa Fire Station,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Jackson,Pct 2 - St. Donatus City Hall,U.S. Senator,,Rep,Scott Schaben,0.0,1.0,1.0
+Jackson,Pct 3 - LaMotte Recreation Center,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Jackson,Pct 4 - St. Lawrence Community Hall,U.S. Senator,,Rep,Scott Schaben,0.0,1.0,1.0
+Jackson,Pct 5 - Monmouth City Hall,U.S. Senator,,Rep,Scott Schaben,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,U.S. Senator,,Rep,Scott Schaben,0.0,2.0,2.0
+Jackson,Pct 7 - Courtroom- Courthouse,U.S. Senator,,Rep,Scott Schaben,0.0,1.0,1.0
+Jackson,Pct 8 - Springbrook City Hall,U.S. Senator,,Rep,Scott Schaben,0.0,1.0,1.0
+Jackson,Pct 9 - Preston Community Hall,U.S. Senator,,Rep,Scott Schaben,1.0,0.0,1.0
+Jackson,,U.S. Senator,,Rep,Scott Schaben,,,12.0
+Jackson,Pct 1 - Bellevue Hall,U.S. Senator,,Rep,Matt Whitaker,,,3.0
+Jackson,Pct 10 - Miles City Hall,U.S. Senator,,Rep,Matt Whitaker,0.0,1.0,1.0
+Jackson,Pct 11 - Sabula City Hall,U.S. Senator,,Rep,Matt Whitaker,0.0,2.0,2.0
+Jackson,Pct 12 - Senior Citizens Bldg,U.S. Senator,,Rep,Matt Whitaker,0.0,2.0,2.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,U.S. Senator,,Rep,Matt Whitaker,1.0,2.0,3.0
+Jackson,Pct 14 - Maquoketa City Hall,U.S. Senator,,Rep,Matt Whitaker,0.0,2.0,2.0
+Jackson,Pct 15 - North Lobby Courthouse,U.S. Senator,,Rep,Matt Whitaker,0.0,5.0,5.0
+Jackson,Pct 16 - Maquoketa Fire Station,U.S. Senator,,Rep,Matt Whitaker,2.0,8.0,10.0
+Jackson,Pct 2 - St. Donatus City Hall,U.S. Senator,,Rep,Matt Whitaker,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,U.S. Senator,,Rep,Matt Whitaker,0.0,1.0,1.0
+Jackson,Pct 4 - St. Lawrence Community Hall,U.S. Senator,,Rep,Matt Whitaker,0.0,5.0,5.0
+Jackson,Pct 5 - Monmouth City Hall,U.S. Senator,,Rep,Matt Whitaker,0.0,1.0,1.0
+Jackson,Pct 6 - Andrew City Hall,U.S. Senator,,Rep,Matt Whitaker,1.0,4.0,5.0
+Jackson,Pct 7 - Courtroom- Courthouse,U.S. Senator,,Rep,Matt Whitaker,1.0,5.0,6.0
+Jackson,Pct 8 - Springbrook City Hall,U.S. Senator,,Rep,Matt Whitaker,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,U.S. Senator,,Rep,Matt Whitaker,0.0,1.0,1.0
+Jackson,,U.S. Senator,,Rep,Matt Whitaker,,,48.0
+Jackson,Pct 1 - Bellevue Hall,U.S. Senator,,Rep,Write-in,,,0.0
+Jackson,Pct 10 - Miles City Hall,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 11 - Sabula City Hall,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 14 - Maquoketa City Hall,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 16 - Maquoketa Fire Station,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 2 - St. Donatus City Hall,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 4 - St. Lawrence Community Hall,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 7 - Courtroom- Courthouse,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 8 - Springbrook City Hall,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,U.S. Senator,,Rep,Write-in,0.0,0.0,0.0
+Jackson,,U.S. Senator,,Rep,Write-in,,,0.0
+Jackson,Pct 1 - Bellevue Hall,U.S. Senator,,Dem,Bruce Braley,,,96.0
+Jackson,Pct 10 - Miles City Hall,U.S. Senator,,Dem,Bruce Braley,2.0,10.0,12.0
+Jackson,Pct 11 - Sabula City Hall,U.S. Senator,,Dem,Bruce Braley,12.0,45.0,57.0
+Jackson,Pct 12 - Senior Citizens Bldg,U.S. Senator,,Dem,Bruce Braley,8.0,23.0,31.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,U.S. Senator,,Dem,Bruce Braley,7.0,28.0,35.0
+Jackson,Pct 14 - Maquoketa City Hall,U.S. Senator,,Dem,Bruce Braley,2.0,27.0,29.0
+Jackson,Pct 15 - North Lobby Courthouse,U.S. Senator,,Dem,Bruce Braley,8.0,41.0,49.0
+Jackson,Pct 16 - Maquoketa Fire Station,U.S. Senator,,Dem,Bruce Braley,15.0,59.0,74.0
+Jackson,Pct 2 - St. Donatus City Hall,U.S. Senator,,Dem,Bruce Braley,1.0,17.0,18.0
+Jackson,Pct 3 - LaMotte Recreation Center,U.S. Senator,,Dem,Bruce Braley,3.0,27.0,30.0
+Jackson,Pct 4 - St. Lawrence Community Hall,U.S. Senator,,Dem,Bruce Braley,3.0,21.0,24.0
+Jackson,Pct 5 - Monmouth City Hall,U.S. Senator,,Dem,Bruce Braley,1.0,26.0,27.0
+Jackson,Pct 6 - Andrew City Hall,U.S. Senator,,Dem,Bruce Braley,5.0,22.0,27.0
+Jackson,Pct 7 - Courtroom- Courthouse,U.S. Senator,,Dem,Bruce Braley,6.0,30.0,36.0
+Jackson,Pct 8 - Springbrook City Hall,U.S. Senator,,Dem,Bruce Braley,5.0,20.0,25.0
+Jackson,Pct 9 - Preston Community Hall,U.S. Senator,,Dem,Bruce Braley,6.0,26.0,32.0
+Jackson,,U.S. Senator,,Dem,Bruce Braley,,,615.0
+Jackson,Pct 1 - Bellevue Hall,U.S. Senator,,Dem,Write-in,,,0.0
+Jackson,Pct 10 - Miles City Hall,U.S. Senator,,Dem,Write-in,0.0,2.0,2.0
+Jackson,Pct 11 - Sabula City Hall,U.S. Senator,,Dem,Write-in,0.0,1.0,1.0
+Jackson,Pct 12 - Senior Citizens Bldg,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 14 - Maquoketa City Hall,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 16 - Maquoketa Fire Station,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 2 - St. Donatus City Hall,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 4 - St. Lawrence Community Hall,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,U.S. Senator,,Dem,Write-in,0.0,1.0,1.0
+Jackson,Pct 7 - Courtroom- Courthouse,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 8 - Springbrook City Hall,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,U.S. Senator,,Dem,Write-in,0.0,0.0,0.0
+Jackson,,U.S. Senator,,Dem,Write-in,,,4.0
+Jackson,Pct 1 - Bellevue Hall,U.S. Rep.,1,Rep,Rod Blum,,,76.0
+Jackson,Pct 10 - Miles City Hall,U.S. Rep.,1,Rep,Rod Blum,2.0,7.0,9.0
+Jackson,Pct 11 - Sabula City Hall,U.S. Rep.,1,Rep,Rod Blum,2.0,18.0,20.0
+Jackson,Pct 12 - Senior Citizens Bldg,U.S. Rep.,1,Rep,Rod Blum,0.0,8.0,8.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,U.S. Rep.,1,Rep,Rod Blum,4.0,19.0,23.0
+Jackson,Pct 14 - Maquoketa City Hall,U.S. Rep.,1,Rep,Rod Blum,1.0,9.0,10.0
+Jackson,Pct 15 - North Lobby Courthouse,U.S. Rep.,1,Rep,Rod Blum,13.0,22.0,35.0
+Jackson,Pct 16 - Maquoketa Fire Station,U.S. Rep.,1,Rep,Rod Blum,4.0,38.0,42.0
+Jackson,Pct 2 - St. Donatus City Hall,U.S. Rep.,1,Rep,Rod Blum,4.0,27.0,31.0
+Jackson,Pct 3 - LaMotte Recreation Center,U.S. Rep.,1,Rep,Rod Blum,5.0,18.0,23.0
+Jackson,Pct 4 - St. Lawrence Community Hall,U.S. Rep.,1,Rep,Rod Blum,1.0,22.0,23.0
+Jackson,Pct 5 - Monmouth City Hall,U.S. Rep.,1,Rep,Rod Blum,2.0,7.0,9.0
+Jackson,Pct 6 - Andrew City Hall,U.S. Rep.,1,Rep,Rod Blum,3.0,27.0,30.0
+Jackson,Pct 7 - Courtroom- Courthouse,U.S. Rep.,1,Rep,Rod Blum,10.0,39.0,49.0
+Jackson,Pct 8 - Springbrook City Hall,U.S. Rep.,1,Rep,Rod Blum,4.0,15.0,19.0
+Jackson,Pct 9 - Preston Community Hall,U.S. Rep.,1,Rep,Rod Blum,4.0,19.0,23.0
+Jackson,,U.S. Rep.,1,Rep,Rod Blum,,,445.0
+Jackson,Pct 1 - Bellevue Hall,U.S. Rep.,1,Rep,Gail E. Boliver,,,4.0
+Jackson,Pct 10 - Miles City Hall,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,2.0,2.0
+Jackson,Pct 11 - Sabula City Hall,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,6.0,6.0
+Jackson,Pct 12 - Senior Citizens Bldg,U.S. Rep.,1,Rep,Gail E. Boliver,1.0,2.0,3.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,2.0,2.0
+Jackson,Pct 14 - Maquoketa City Hall,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,3.0,3.0
+Jackson,Pct 15 - North Lobby Courthouse,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,6.0,6.0
+Jackson,Pct 16 - Maquoketa Fire Station,U.S. Rep.,1,Rep,Gail E. Boliver,2.0,9.0,11.0
+Jackson,Pct 2 - St. Donatus City Hall,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,1.0,1.0
+Jackson,Pct 4 - St. Lawrence Community Hall,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,3.0,3.0
+Jackson,Pct 5 - Monmouth City Hall,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,1.0,1.0
+Jackson,Pct 6 - Andrew City Hall,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,4.0,4.0
+Jackson,Pct 7 - Courtroom- Courthouse,U.S. Rep.,1,Rep,Gail E. Boliver,4.0,4.0,8.0
+Jackson,Pct 8 - Springbrook City Hall,U.S. Rep.,1,Rep,Gail E. Boliver,0.0,1.0,1.0
+Jackson,Pct 9 - Preston Community Hall,U.S. Rep.,1,Rep,Gail E. Boliver,1.0,3.0,4.0
+Jackson,,U.S. Rep.,1,Rep,Gail E. Boliver,,,62.0
+Jackson,Pct 1 - Bellevue Hall,U.S. Rep.,1,Rep,Steve Rathje,,,21.0
+Jackson,Pct 10 - Miles City Hall,U.S. Rep.,1,Rep,Steve Rathje,1.0,8.0,9.0
+Jackson,Pct 11 - Sabula City Hall,U.S. Rep.,1,Rep,Steve Rathje,0.0,12.0,12.0
+Jackson,Pct 12 - Senior Citizens Bldg,U.S. Rep.,1,Rep,Steve Rathje,2.0,15.0,17.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,U.S. Rep.,1,Rep,Steve Rathje,4.0,11.0,15.0
+Jackson,Pct 14 - Maquoketa City Hall,U.S. Rep.,1,Rep,Steve Rathje,5.0,6.0,11.0
+Jackson,Pct 15 - North Lobby Courthouse,U.S. Rep.,1,Rep,Steve Rathje,3.0,27.0,30.0
+Jackson,Pct 16 - Maquoketa Fire Station,U.S. Rep.,1,Rep,Steve Rathje,6.0,25.0,31.0
+Jackson,Pct 2 - St. Donatus City Hall,U.S. Rep.,1,Rep,Steve Rathje,0.0,6.0,6.0
+Jackson,Pct 3 - LaMotte Recreation Center,U.S. Rep.,1,Rep,Steve Rathje,1.0,6.0,7.0
+Jackson,Pct 4 - St. Lawrence Community Hall,U.S. Rep.,1,Rep,Steve Rathje,0.0,5.0,5.0
+Jackson,Pct 5 - Monmouth City Hall,U.S. Rep.,1,Rep,Steve Rathje,3.0,11.0,14.0
+Jackson,Pct 6 - Andrew City Hall,U.S. Rep.,1,Rep,Steve Rathje,0.0,20.0,20.0
+Jackson,Pct 7 - Courtroom- Courthouse,U.S. Rep.,1,Rep,Steve Rathje,9.0,23.0,32.0
+Jackson,Pct 8 - Springbrook City Hall,U.S. Rep.,1,Rep,Steve Rathje,0.0,5.0,5.0
+Jackson,Pct 9 - Preston Community Hall,U.S. Rep.,1,Rep,Steve Rathje,3.0,29.0,32.0
+Jackson,,U.S. Rep.,1,Rep,Steve Rathje,,,275.0
+Jackson,Pct 1 - Bellevue Hall,U.S. Rep.,1,Rep,Write-in,,,0.0
+Jackson,Pct 10 - Miles City Hall,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 11 - Sabula City Hall,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 14 - Maquoketa City Hall,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 16 - Maquoketa Fire Station,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 2 - St. Donatus City Hall,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 4 - St. Lawrence Community Hall,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 7 - Courtroom- Courthouse,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 8 - Springbrook City Hall,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,U.S. Rep.,1,Rep,Write-in,0.0,0.0,0.0
+Jackson,,U.S. Rep.,1,Rep,Write-in,,,0.0
+Jackson,Pct 1 - Bellevue Hall,U.S. Rep.,1,Dem,Swati Dandekar,,,14.0
+Jackson,Pct 10 - Miles City Hall,U.S. Rep.,1,Dem,Swati Dandekar,0.0,2.0,2.0
+Jackson,Pct 11 - Sabula City Hall,U.S. Rep.,1,Dem,Swati Dandekar,0.0,2.0,2.0
+Jackson,Pct 12 - Senior Citizens Bldg,U.S. Rep.,1,Dem,Swati Dandekar,2.0,0.0,2.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,U.S. Rep.,1,Dem,Swati Dandekar,0.0,1.0,1.0
+Jackson,Pct 14 - Maquoketa City Hall,U.S. Rep.,1,Dem,Swati Dandekar,0.0,3.0,3.0
+Jackson,Pct 15 - North Lobby Courthouse,U.S. Rep.,1,Dem,Swati Dandekar,1.0,3.0,4.0
+Jackson,Pct 16 - Maquoketa Fire Station,U.S. Rep.,1,Dem,Swati Dandekar,1.0,6.0,7.0
+Jackson,Pct 2 - St. Donatus City Hall,U.S. Rep.,1,Dem,Swati Dandekar,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,U.S. Rep.,1,Dem,Swati Dandekar,0.0,2.0,2.0
+Jackson,Pct 4 - St. Lawrence Community Hall,U.S. Rep.,1,Dem,Swati Dandekar,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,U.S. Rep.,1,Dem,Swati Dandekar,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,U.S. Rep.,1,Dem,Swati Dandekar,0.0,1.0,1.0
+Jackson,Pct 7 - Courtroom- Courthouse,U.S. Rep.,1,Dem,Swati Dandekar,0.0,6.0,6.0
+Jackson,Pct 8 - Springbrook City Hall,U.S. Rep.,1,Dem,Swati Dandekar,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,U.S. Rep.,1,Dem,Swati Dandekar,1.0,1.0,2.0
+Jackson,,U.S. Rep.,1,Dem,Swati Dandekar,,,46.0
+Jackson,Pct 1 - Bellevue Hall,U.S. Rep.,1,Dem,Anesa Kajtazovic,,,9.0
+Jackson,Pct 10 - Miles City Hall,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,1.0,1.0
+Jackson,Pct 11 - Sabula City Hall,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,2.0,2.0
+Jackson,Pct 12 - Senior Citizens Bldg,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,1.0,1.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,1.0,1.0
+Jackson,Pct 14 - Maquoketa City Hall,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,2.0,2.0
+Jackson,Pct 15 - North Lobby Courthouse,U.S. Rep.,1,Dem,Anesa Kajtazovic,1.0,5.0,6.0
+Jackson,Pct 16 - Maquoketa Fire Station,U.S. Rep.,1,Dem,Anesa Kajtazovic,1.0,6.0,7.0
+Jackson,Pct 2 - St. Donatus City Hall,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,1.0,1.0
+Jackson,Pct 3 - LaMotte Recreation Center,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,1.0,1.0
+Jackson,Pct 4 - St. Lawrence Community Hall,U.S. Rep.,1,Dem,Anesa Kajtazovic,1.0,3.0,4.0
+Jackson,Pct 5 - Monmouth City Hall,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,U.S. Rep.,1,Dem,Anesa Kajtazovic,1.0,0.0,1.0
+Jackson,Pct 7 - Courtroom- Courthouse,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,3.0,3.0
+Jackson,Pct 8 - Springbrook City Hall,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,U.S. Rep.,1,Dem,Anesa Kajtazovic,0.0,0.0,0.0
+Jackson,,U.S. Rep.,1,Dem,Anesa Kajtazovic,,,39.0
+Jackson,Pct 1 - Bellevue Hall,U.S. Rep.,1,Dem,Pat Murphy,,,43.0
+Jackson,Pct 10 - Miles City Hall,U.S. Rep.,1,Dem,Pat Murphy,0.0,4.0,4.0
+Jackson,Pct 11 - Sabula City Hall,U.S. Rep.,1,Dem,Pat Murphy,0.0,4.0,4.0
+Jackson,Pct 12 - Senior Citizens Bldg,U.S. Rep.,1,Dem,Pat Murphy,3.0,13.0,16.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,U.S. Rep.,1,Dem,Pat Murphy,6.0,7.0,13.0
+Jackson,Pct 14 - Maquoketa City Hall,U.S. Rep.,1,Dem,Pat Murphy,0.0,12.0,12.0
+Jackson,Pct 15 - North Lobby Courthouse,U.S. Rep.,1,Dem,Pat Murphy,4.0,14.0,18.0
+Jackson,Pct 16 - Maquoketa Fire Station,U.S. Rep.,1,Dem,Pat Murphy,6.0,27.0,33.0
+Jackson,Pct 2 - St. Donatus City Hall,U.S. Rep.,1,Dem,Pat Murphy,1.0,12.0,13.0
+Jackson,Pct 3 - LaMotte Recreation Center,U.S. Rep.,1,Dem,Pat Murphy,2.0,13.0,15.0
+Jackson,Pct 4 - St. Lawrence Community Hall,U.S. Rep.,1,Dem,Pat Murphy,1.0,14.0,15.0
+Jackson,Pct 5 - Monmouth City Hall,U.S. Rep.,1,Dem,Pat Murphy,1.0,8.0,9.0
+Jackson,Pct 6 - Andrew City Hall,U.S. Rep.,1,Dem,Pat Murphy,2.0,10.0,12.0
+Jackson,Pct 7 - Courtroom- Courthouse,U.S. Rep.,1,Dem,Pat Murphy,2.0,9.0,11.0
+Jackson,Pct 8 - Springbrook City Hall,U.S. Rep.,1,Dem,Pat Murphy,4.0,11.0,15.0
+Jackson,Pct 9 - Preston Community Hall,U.S. Rep.,1,Dem,Pat Murphy,4.0,7.0,11.0
+Jackson,,U.S. Rep.,1,Dem,Pat Murphy,,,255.0
+Jackson,Pct 1 - Bellevue Hall,U.S. Rep.,1,Dem,Dave O'Brien,,,7.0
+Jackson,Pct 10 - Miles City Hall,U.S. Rep.,1,Dem,Dave O'Brien,1.0,4.0,5.0
+Jackson,Pct 11 - Sabula City Hall,U.S. Rep.,1,Dem,Dave O'Brien,0.0,5.0,5.0
+Jackson,Pct 12 - Senior Citizens Bldg,U.S. Rep.,1,Dem,Dave O'Brien,0.0,4.0,4.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,U.S. Rep.,1,Dem,Dave O'Brien,0.0,5.0,5.0
+Jackson,Pct 14 - Maquoketa City Hall,U.S. Rep.,1,Dem,Dave O'Brien,0.0,3.0,3.0
+Jackson,Pct 15 - North Lobby Courthouse,U.S. Rep.,1,Dem,Dave O'Brien,0.0,3.0,3.0
+Jackson,Pct 16 - Maquoketa Fire Station,U.S. Rep.,1,Dem,Dave O'Brien,1.0,4.0,5.0
+Jackson,Pct 2 - St. Donatus City Hall,U.S. Rep.,1,Dem,Dave O'Brien,0.0,1.0,1.0
+Jackson,Pct 3 - LaMotte Recreation Center,U.S. Rep.,1,Dem,Dave O'Brien,0.0,2.0,2.0
+Jackson,Pct 4 - St. Lawrence Community Hall,U.S. Rep.,1,Dem,Dave O'Brien,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,U.S. Rep.,1,Dem,Dave O'Brien,0.0,7.0,7.0
+Jackson,Pct 6 - Andrew City Hall,U.S. Rep.,1,Dem,Dave O'Brien,0.0,0.0,0.0
+Jackson,Pct 7 - Courtroom- Courthouse,U.S. Rep.,1,Dem,Dave O'Brien,0.0,5.0,5.0
+Jackson,Pct 8 - Springbrook City Hall,U.S. Rep.,1,Dem,Dave O'Brien,0.0,3.0,3.0
+Jackson,Pct 9 - Preston Community Hall,U.S. Rep.,1,Dem,Dave O'Brien,0.0,3.0,3.0
+Jackson,,U.S. Rep.,1,Dem,Dave O'Brien,,,60.0
+Jackson,Pct 1 - Bellevue Hall,U.S. Rep.,1,Dem,Monica Vernon,,,24.0
+Jackson,Pct 10 - Miles City Hall,U.S. Rep.,1,Dem,Monica Vernon,0.0,2.0,2.0
+Jackson,Pct 11 - Sabula City Hall,U.S. Rep.,1,Dem,Monica Vernon,19.0,39.0,58.0
+Jackson,Pct 12 - Senior Citizens Bldg,U.S. Rep.,1,Dem,Monica Vernon,3.0,7.0,10.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,U.S. Rep.,1,Dem,Monica Vernon,2.0,18.0,20.0
+Jackson,Pct 14 - Maquoketa City Hall,U.S. Rep.,1,Dem,Monica Vernon,2.0,7.0,9.0
+Jackson,Pct 15 - North Lobby Courthouse,U.S. Rep.,1,Dem,Monica Vernon,1.0,16.0,17.0
+Jackson,Pct 16 - Maquoketa Fire Station,U.S. Rep.,1,Dem,Monica Vernon,4.0,18.0,22.0
+Jackson,Pct 2 - St. Donatus City Hall,U.S. Rep.,1,Dem,Monica Vernon,0.0,4.0,4.0
+Jackson,Pct 3 - LaMotte Recreation Center,U.S. Rep.,1,Dem,Monica Vernon,1.0,12.0,13.0
+Jackson,Pct 4 - St. Lawrence Community Hall,U.S. Rep.,1,Dem,Monica Vernon,1.0,3.0,4.0
+Jackson,Pct 5 - Monmouth City Hall,U.S. Rep.,1,Dem,Monica Vernon,0.0,9.0,9.0
+Jackson,Pct 6 - Andrew City Hall,U.S. Rep.,1,Dem,Monica Vernon,1.0,12.0,13.0
+Jackson,Pct 7 - Courtroom- Courthouse,U.S. Rep.,1,Dem,Monica Vernon,3.0,8.0,11.0
+Jackson,Pct 8 - Springbrook City Hall,U.S. Rep.,1,Dem,Monica Vernon,1.0,7.0,8.0
+Jackson,Pct 9 - Preston Community Hall,U.S. Rep.,1,Dem,Monica Vernon,1.0,15.0,16.0
+Jackson,,U.S. Rep.,1,Dem,Monica Vernon,,,240.0
+Jackson,Pct 1 - Bellevue Hall,U.S. Rep.,1,Dem,Write-in,,,0.0
+Jackson,Pct 10 - Miles City Hall,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 11 - Sabula City Hall,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 14 - Maquoketa City Hall,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 16 - Maquoketa Fire Station,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 2 - St. Donatus City Hall,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 4 - St. Lawrence Community Hall,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 7 - Courtroom- Courthouse,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 8 - Springbrook City Hall,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,U.S. Rep.,1,Dem,Write-in,0.0,0.0,0.0
+Jackson,,U.S. Rep.,1,Dem,Write-in,,,0.0
+Jackson,Pct 1 - Bellevue Hall,Governor,,Rep,Terry E. Branstad,,,94.0
+Jackson,Pct 10 - Miles City Hall,Governor,,Rep,Terry E. Branstad,2.0,18.0,20.0
+Jackson,Pct 11 - Sabula City Hall,Governor,,Rep,Terry E. Branstad,2.0,38.0,40.0
+Jackson,Pct 12 - Senior Citizens Bldg,Governor,,Rep,Terry E. Branstad,2.0,27.0,29.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Governor,,Rep,Terry E. Branstad,7.0,28.0,35.0
+Jackson,Pct 14 - Maquoketa City Hall,Governor,,Rep,Terry E. Branstad,6.0,18.0,24.0
+Jackson,Pct 15 - North Lobby Courthouse,Governor,,Rep,Terry E. Branstad,15.0,53.0,68.0
+Jackson,Pct 16 - Maquoketa Fire Station,Governor,,Rep,Terry E. Branstad,10.0,74.0,84.0
+Jackson,Pct 2 - St. Donatus City Hall,Governor,,Rep,Terry E. Branstad,4.0,39.0,43.0
+Jackson,Pct 3 - LaMotte Recreation Center,Governor,,Rep,Terry E. Branstad,6.0,26.0,32.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Governor,,Rep,Terry E. Branstad,1.0,28.0,29.0
+Jackson,Pct 5 - Monmouth City Hall,Governor,,Rep,Terry E. Branstad,6.0,15.0,21.0
+Jackson,Pct 6 - Andrew City Hall,Governor,,Rep,Terry E. Branstad,4.0,52.0,56.0
+Jackson,Pct 7 - Courtroom- Courthouse,Governor,,Rep,Terry E. Branstad,22.0,69.0,91.0
+Jackson,Pct 8 - Springbrook City Hall,Governor,,Rep,Terry E. Branstad,4.0,19.0,23.0
+Jackson,Pct 9 - Preston Community Hall,Governor,,Rep,Terry E. Branstad,8.0,48.0,56.0
+Jackson,,Governor,,Rep,Terry E. Branstad,,,766.0
+Jackson,Pct 1 - Bellevue Hall,Governor,,Rep,Tom Hoefling,,,12.0
+Jackson,Pct 10 - Miles City Hall,Governor,,Rep,Tom Hoefling,0.0,3.0,3.0
+Jackson,Pct 11 - Sabula City Hall,Governor,,Rep,Tom Hoefling,0.0,4.0,4.0
+Jackson,Pct 12 - Senior Citizens Bldg,Governor,,Rep,Tom Hoefling,1.0,7.0,8.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Governor,,Rep,Tom Hoefling,1.0,6.0,7.0
+Jackson,Pct 14 - Maquoketa City Hall,Governor,,Rep,Tom Hoefling,0.0,7.0,7.0
+Jackson,Pct 15 - North Lobby Courthouse,Governor,,Rep,Tom Hoefling,0.0,14.0,14.0
+Jackson,Pct 16 - Maquoketa Fire Station,Governor,,Rep,Tom Hoefling,4.0,11.0,15.0
+Jackson,Pct 2 - St. Donatus City Hall,Governor,,Rep,Tom Hoefling,0.0,3.0,3.0
+Jackson,Pct 3 - LaMotte Recreation Center,Governor,,Rep,Tom Hoefling,0.0,1.0,1.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Governor,,Rep,Tom Hoefling,0.0,8.0,8.0
+Jackson,Pct 5 - Monmouth City Hall,Governor,,Rep,Tom Hoefling,0.0,8.0,8.0
+Jackson,Pct 6 - Andrew City Hall,Governor,,Rep,Tom Hoefling,0.0,9.0,9.0
+Jackson,Pct 7 - Courtroom- Courthouse,Governor,,Rep,Tom Hoefling,6.0,12.0,18.0
+Jackson,Pct 8 - Springbrook City Hall,Governor,,Rep,Tom Hoefling,0.0,7.0,7.0
+Jackson,Pct 9 - Preston Community Hall,Governor,,Rep,Tom Hoefling,0.0,8.0,8.0
+Jackson,,Governor,,Rep,Tom Hoefling,,,138.0
+Jackson,Pct 1 - Bellevue Hall,Governor,,Rep,Write-in,,,1.0
+Jackson,Pct 10 - Miles City Hall,Governor,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 11 - Sabula City Hall,Governor,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,Governor,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Governor,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 14 - Maquoketa City Hall,Governor,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,Governor,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 16 - Maquoketa Fire Station,Governor,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 2 - St. Donatus City Hall,Governor,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,Governor,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Governor,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,Governor,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,Governor,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 7 - Courtroom- Courthouse,Governor,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 8 - Springbrook City Hall,Governor,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,Governor,,Rep,Write-in,0.0,0.0,0.0
+Jackson,,Governor,,Rep,Write-in,,,1.0
+Jackson,Pct 1 - Bellevue Hall,Governor,,Dem,Jack Hatch,,,76.0
+Jackson,Pct 10 - Miles City Hall,Governor,,Dem,Jack Hatch,2.0,10.0,12.0
+Jackson,Pct 11 - Sabula City Hall,Governor,,Dem,Jack Hatch,12.0,39.0,51.0
+Jackson,Pct 12 - Senior Citizens Bldg,Governor,,Dem,Jack Hatch,8.0,18.0,26.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Governor,,Dem,Jack Hatch,8.0,28.0,36.0
+Jackson,Pct 14 - Maquoketa City Hall,Governor,,Dem,Jack Hatch,2.0,27.0,29.0
+Jackson,Pct 15 - North Lobby Courthouse,Governor,,Dem,Jack Hatch,7.0,31.0,38.0
+Jackson,Pct 16 - Maquoketa Fire Station,Governor,,Dem,Jack Hatch,13.0,52.0,65.0
+Jackson,Pct 2 - St. Donatus City Hall,Governor,,Dem,Jack Hatch,1.0,15.0,16.0
+Jackson,Pct 3 - LaMotte Recreation Center,Governor,,Dem,Jack Hatch,3.0,27.0,30.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Governor,,Dem,Jack Hatch,1.0,20.0,21.0
+Jackson,Pct 5 - Monmouth City Hall,Governor,,Dem,Jack Hatch,1.0,18.0,19.0
+Jackson,Pct 6 - Andrew City Hall,Governor,,Dem,Jack Hatch,4.0,20.0,24.0
+Jackson,Pct 7 - Courtroom- Courthouse,Governor,,Dem,Jack Hatch,5.0,26.0,31.0
+Jackson,Pct 8 - Springbrook City Hall,Governor,,Dem,Jack Hatch,5.0,16.0,21.0
+Jackson,Pct 9 - Preston Community Hall,Governor,,Dem,Jack Hatch,5.0,23.0,28.0
+Jackson,,Governor,,Dem,Jack Hatch,,,535.0
+Jackson,Pct 1 - Bellevue Hall,Governor,,Dem,Write-in,,,1.0
+Jackson,Pct 10 - Miles City Hall,Governor,,Dem,Write-in,0.0,1.0,1.0
+Jackson,Pct 11 - Sabula City Hall,Governor,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,Governor,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Governor,,Dem,Write-in,0.0,1.0,1.0
+Jackson,Pct 14 - Maquoketa City Hall,Governor,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,Governor,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 16 - Maquoketa Fire Station,Governor,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 2 - St. Donatus City Hall,Governor,,Dem,Write-in,0.0,1.0,1.0
+Jackson,Pct 3 - LaMotte Recreation Center,Governor,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Governor,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,Governor,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,Governor,,Dem,Write-in,0.0,1.0,1.0
+Jackson,Pct 7 - Courtroom- Courthouse,Governor,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 8 - Springbrook City Hall,Governor,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,Governor,,Dem,Write-in,0.0,0.0,0.0
+Jackson,,Governor,,Dem,Write-in,,,5.0
+Jackson,Pct 1 - Bellevue Hall,Secretary of State,,Rep,Paul D. Pate,,,73.0
+Jackson,Pct 10 - Miles City Hall,Secretary of State,,Rep,Paul D. Pate,3.0,16.0,19.0
+Jackson,Pct 11 - Sabula City Hall,Secretary of State,,Rep,Paul D. Pate,2.0,31.0,33.0
+Jackson,Pct 12 - Senior Citizens Bldg,Secretary of State,,Rep,Paul D. Pate,3.0,19.0,22.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Secretary of State,,Rep,Paul D. Pate,7.0,26.0,33.0
+Jackson,Pct 14 - Maquoketa City Hall,Secretary of State,,Rep,Paul D. Pate,3.0,17.0,20.0
+Jackson,Pct 15 - North Lobby Courthouse,Secretary of State,,Rep,Paul D. Pate,14.0,44.0,58.0
+Jackson,Pct 16 - Maquoketa Fire Station,Secretary of State,,Rep,Paul D. Pate,7.0,67.0,74.0
+Jackson,Pct 2 - St. Donatus City Hall,Secretary of State,,Rep,Paul D. Pate,3.0,23.0,26.0
+Jackson,Pct 3 - LaMotte Recreation Center,Secretary of State,,Rep,Paul D. Pate,4.0,20.0,24.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Secretary of State,,Rep,Paul D. Pate,0.0,21.0,21.0
+Jackson,Pct 5 - Monmouth City Hall,Secretary of State,,Rep,Paul D. Pate,4.0,17.0,21.0
+Jackson,Pct 6 - Andrew City Hall,Secretary of State,,Rep,Paul D. Pate,3.0,36.0,39.0
+Jackson,Pct 7 - Courtroom- Courthouse,Secretary of State,,Rep,Paul D. Pate,19.0,47.0,66.0
+Jackson,Pct 8 - Springbrook City Hall,Secretary of State,,Rep,Paul D. Pate,2.0,15.0,17.0
+Jackson,Pct 9 - Preston Community Hall,Secretary of State,,Rep,Paul D. Pate,7.0,46.0,53.0
+Jackson,,Secretary of State,,Rep,Paul D. Pate,,,618.0
+Jackson,Pct 1 - Bellevue Hall,Secretary of State,,Rep,Write-in,,,0.0
+Jackson,Pct 10 - Miles City Hall,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 11 - Sabula City Hall,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 14 - Maquoketa City Hall,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 16 - Maquoketa Fire Station,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 2 - St. Donatus City Hall,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 7 - Courtroom- Courthouse,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 8 - Springbrook City Hall,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,Secretary of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,,Secretary of State,,Rep,Write-in,,,0.0
+Jackson,Pct 1 - Bellevue Hall,Secretary of State,,Dem,Brad Anderson,,,76.0
+Jackson,Pct 10 - Miles City Hall,Secretary of State,,Dem,Brad Anderson,2.0,9.0,11.0
+Jackson,Pct 11 - Sabula City Hall,Secretary of State,,Dem,Brad Anderson,12.0,40.0,52.0
+Jackson,Pct 12 - Senior Citizens Bldg,Secretary of State,,Dem,Brad Anderson,7.0,21.0,28.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Secretary of State,,Dem,Brad Anderson,6.0,28.0,34.0
+Jackson,Pct 14 - Maquoketa City Hall,Secretary of State,,Dem,Brad Anderson,2.0,25.0,27.0
+Jackson,Pct 15 - North Lobby Courthouse,Secretary of State,,Dem,Brad Anderson,6.0,30.0,36.0
+Jackson,Pct 16 - Maquoketa Fire Station,Secretary of State,,Dem,Brad Anderson,13.0,52.0,65.0
+Jackson,Pct 2 - St. Donatus City Hall,Secretary of State,,Dem,Brad Anderson,1.0,16.0,17.0
+Jackson,Pct 3 - LaMotte Recreation Center,Secretary of State,,Dem,Brad Anderson,3.0,27.0,30.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Secretary of State,,Dem,Brad Anderson,1.0,18.0,19.0
+Jackson,Pct 5 - Monmouth City Hall,Secretary of State,,Dem,Brad Anderson,1.0,17.0,18.0
+Jackson,Pct 6 - Andrew City Hall,Secretary of State,,Dem,Brad Anderson,3.0,21.0,24.0
+Jackson,Pct 7 - Courtroom- Courthouse,Secretary of State,,Dem,Brad Anderson,5.0,29.0,34.0
+Jackson,Pct 8 - Springbrook City Hall,Secretary of State,,Dem,Brad Anderson,5.0,15.0,20.0
+Jackson,Pct 9 - Preston Community Hall,Secretary of State,,Dem,Brad Anderson,5.0,21.0,26.0
+Jackson,,Secretary of State,,Dem,Brad Anderson,,,528.0
+Jackson,Pct 1 - Bellevue Hall,Secretary of State,,Dem,Write-in,,,0.0
+Jackson,Pct 10 - Miles City Hall,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 11 - Sabula City Hall,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 14 - Maquoketa City Hall,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 16 - Maquoketa Fire Station,Secretary of State,,Dem,Write-in,0.0,1.0,1.0
+Jackson,Pct 2 - St. Donatus City Hall,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 7 - Courtroom- Courthouse,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 8 - Springbrook City Hall,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,Secretary of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,,Secretary of State,,Dem,Write-in,,,1.0
+Jackson,Pct 1 - Bellevue Hall,Auditor of State,,Rep,Mary Mosiman,,,68.0
+Jackson,Pct 10 - Miles City Hall,Auditor of State,,Rep,Mary Mosiman,3.0,15.0,18.0
+Jackson,Pct 11 - Sabula City Hall,Auditor of State,,Rep,Mary Mosiman,2.0,28.0,30.0
+Jackson,Pct 12 - Senior Citizens Bldg,Auditor of State,,Rep,Mary Mosiman,3.0,18.0,21.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Auditor of State,,Rep,Mary Mosiman,6.0,25.0,31.0
+Jackson,Pct 14 - Maquoketa City Hall,Auditor of State,,Rep,Mary Mosiman,3.0,16.0,19.0
+Jackson,Pct 15 - North Lobby Courthouse,Auditor of State,,Rep,Mary Mosiman,14.0,46.0,60.0
+Jackson,Pct 16 - Maquoketa Fire Station,Auditor of State,,Rep,Mary Mosiman,7.0,59.0,66.0
+Jackson,Pct 2 - St. Donatus City Hall,Auditor of State,,Rep,Mary Mosiman,3.0,28.0,31.0
+Jackson,Pct 3 - LaMotte Recreation Center,Auditor of State,,Rep,Mary Mosiman,4.0,19.0,23.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Auditor of State,,Rep,Mary Mosiman,0.0,21.0,21.0
+Jackson,Pct 5 - Monmouth City Hall,Auditor of State,,Rep,Mary Mosiman,4.0,15.0,19.0
+Jackson,Pct 6 - Andrew City Hall,Auditor of State,,Rep,Mary Mosiman,2.0,38.0,40.0
+Jackson,Pct 7 - Courtroom- Courthouse,Auditor of State,,Rep,Mary Mosiman,19.0,44.0,63.0
+Jackson,Pct 8 - Springbrook City Hall,Auditor of State,,Rep,Mary Mosiman,2.0,11.0,13.0
+Jackson,Pct 9 - Preston Community Hall,Auditor of State,,Rep,Mary Mosiman,5.0,42.0,47.0
+Jackson,,Auditor of State,,Rep,Mary Mosiman,,,587.0
+Jackson,Pct 1 - Bellevue Hall,Auditor of State,,Rep,Write-in,,,0.0
+Jackson,Pct 10 - Miles City Hall,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 11 - Sabula City Hall,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,Auditor of State,,Rep,Write-in,0.0,1.0,1.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 14 - Maquoketa City Hall,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 16 - Maquoketa Fire Station,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 2 - St. Donatus City Hall,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 7 - Courtroom- Courthouse,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 8 - Springbrook City Hall,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,Auditor of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,,Auditor of State,,Rep,Write-in,,,1.0
+Jackson,Pct 1 - Bellevue Hall,Auditor of State,,Dem,Jonathan Neiderbach,,,74.0
+Jackson,Pct 10 - Miles City Hall,Auditor of State,,Dem,Jonathan Neiderbach,2.0,9.0,11.0
+Jackson,Pct 11 - Sabula City Hall,Auditor of State,,Dem,Jonathan Neiderbach,12.0,37.0,49.0
+Jackson,Pct 12 - Senior Citizens Bldg,Auditor of State,,Dem,Jonathan Neiderbach,8.0,21.0,29.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Auditor of State,,Dem,Jonathan Neiderbach,6.0,28.0,34.0
+Jackson,Pct 14 - Maquoketa City Hall,Auditor of State,,Dem,Jonathan Neiderbach,2.0,23.0,25.0
+Jackson,Pct 15 - North Lobby Courthouse,Auditor of State,,Dem,Jonathan Neiderbach,6.0,30.0,36.0
+Jackson,Pct 16 - Maquoketa Fire Station,Auditor of State,,Dem,Jonathan Neiderbach,13.0,49.0,62.0
+Jackson,Pct 2 - St. Donatus City Hall,Auditor of State,,Dem,Jonathan Neiderbach,1.0,16.0,17.0
+Jackson,Pct 3 - LaMotte Recreation Center,Auditor of State,,Dem,Jonathan Neiderbach,3.0,28.0,31.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Auditor of State,,Dem,Jonathan Neiderbach,1.0,18.0,19.0
+Jackson,Pct 5 - Monmouth City Hall,Auditor of State,,Dem,Jonathan Neiderbach,0.0,17.0,17.0
+Jackson,Pct 6 - Andrew City Hall,Auditor of State,,Dem,Jonathan Neiderbach,3.0,19.0,22.0
+Jackson,Pct 7 - Courtroom- Courthouse,Auditor of State,,Dem,Jonathan Neiderbach,5.0,29.0,34.0
+Jackson,Pct 8 - Springbrook City Hall,Auditor of State,,Dem,Jonathan Neiderbach,4.0,15.0,19.0
+Jackson,Pct 9 - Preston Community Hall,Auditor of State,,Dem,Jonathan Neiderbach,5.0,21.0,26.0
+Jackson,,Auditor of State,,Dem,Jonathan Neiderbach,,,515.0
+Jackson,Pct 1 - Bellevue Hall,Auditor of State,,Dem,Write-in,,,0.0
+Jackson,Pct 10 - Miles City Hall,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 11 - Sabula City Hall,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 14 - Maquoketa City Hall,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 16 - Maquoketa Fire Station,Auditor of State,,Dem,Write-in,0.0,1.0,1.0
+Jackson,Pct 2 - St. Donatus City Hall,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,Auditor of State,,Dem,Write-in,0.0,1.0,1.0
+Jackson,Pct 7 - Courtroom- Courthouse,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 8 - Springbrook City Hall,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,Auditor of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,,Auditor of State,,Dem,Write-in,,,2.0
+Jackson,Pct 1 - Bellevue Hall,Treasurer of State,,Rep,Write-in,,,3.0
+Jackson,Pct 10 - Miles City Hall,Treasurer of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 11 - Sabula City Hall,Treasurer of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,Treasurer of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Treasurer of State,,Rep,Write-in,1.0,3.0,4.0
+Jackson,Pct 14 - Maquoketa City Hall,Treasurer of State,,Rep,Write-in,0.0,2.0,2.0
+Jackson,Pct 15 - North Lobby Courthouse,Treasurer of State,,Rep,Write-in,0.0,2.0,2.0
+Jackson,Pct 16 - Maquoketa Fire Station,Treasurer of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 2 - St. Donatus City Hall,Treasurer of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,Treasurer of State,,Rep,Write-in,0.0,1.0,1.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Treasurer of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,Treasurer of State,,Rep,Write-in,0.0,1.0,1.0
+Jackson,Pct 6 - Andrew City Hall,Treasurer of State,,Rep,Write-in,0.0,3.0,3.0
+Jackson,Pct 7 - Courtroom- Courthouse,Treasurer of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 8 - Springbrook City Hall,Treasurer of State,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,Treasurer of State,,Rep,Write-in,0.0,1.0,1.0
+Jackson,,Treasurer of State,,Rep,Write-in,,,17.0
+Jackson,Pct 1 - Bellevue Hall,Treasurer of State,,Dem,Michael L. Fitzgerald,,,82.0
+Jackson,Pct 10 - Miles City Hall,Treasurer of State,,Dem,Michael L. Fitzgerald,2.0,12.0,14.0
+Jackson,Pct 11 - Sabula City Hall,Treasurer of State,,Dem,Michael L. Fitzgerald,12.0,43.0,55.0
+Jackson,Pct 12 - Senior Citizens Bldg,Treasurer of State,,Dem,Michael L. Fitzgerald,8.0,22.0,30.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Treasurer of State,,Dem,Michael L. Fitzgerald,8.0,29.0,37.0
+Jackson,Pct 14 - Maquoketa City Hall,Treasurer of State,,Dem,Michael L. Fitzgerald,2.0,26.0,28.0
+Jackson,Pct 15 - North Lobby Courthouse,Treasurer of State,,Dem,Michael L. Fitzgerald,7.0,37.0,44.0
+Jackson,Pct 16 - Maquoketa Fire Station,Treasurer of State,,Dem,Michael L. Fitzgerald,14.0,58.0,72.0
+Jackson,Pct 2 - St. Donatus City Hall,Treasurer of State,,Dem,Michael L. Fitzgerald,1.0,17.0,18.0
+Jackson,Pct 3 - LaMotte Recreation Center,Treasurer of State,,Dem,Michael L. Fitzgerald,3.0,24.0,27.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Treasurer of State,,Dem,Michael L. Fitzgerald,3.0,18.0,21.0
+Jackson,Pct 5 - Monmouth City Hall,Treasurer of State,,Dem,Michael L. Fitzgerald,1.0,25.0,26.0
+Jackson,Pct 6 - Andrew City Hall,Treasurer of State,,Dem,Michael L. Fitzgerald,4.0,22.0,26.0
+Jackson,Pct 7 - Courtroom- Courthouse,Treasurer of State,,Dem,Michael L. Fitzgerald,6.0,30.0,36.0
+Jackson,Pct 8 - Springbrook City Hall,Treasurer of State,,Dem,Michael L. Fitzgerald,5.0,16.0,21.0
+Jackson,Pct 9 - Preston Community Hall,Treasurer of State,,Dem,Michael L. Fitzgerald,5.0,24.0,29.0
+Jackson,,Treasurer of State,,Dem,Michael L. Fitzgerald,,,578.0
+Jackson,Pct 1 - Bellevue Hall,Treasurer of State,,Dem,Write-in,,,0.0
+Jackson,Pct 10 - Miles City Hall,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 11 - Sabula City Hall,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 14 - Maquoketa City Hall,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 16 - Maquoketa Fire Station,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 2 - St. Donatus City Hall,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 7 - Courtroom- Courthouse,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 8 - Springbrook City Hall,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,Treasurer of State,,Dem,Write-in,0.0,0.0,0.0
+Jackson,,Treasurer of State,,Dem,Write-in,,,0.0
+Jackson,Pct 1 - Bellevue Hall,Secretary of Agriculture,,Rep,Bill Northey,,,74.0
+Jackson,Pct 10 - Miles City Hall,Secretary of Agriculture,,Rep,Bill Northey,3.0,18.0,21.0
+Jackson,Pct 11 - Sabula City Hall,Secretary of Agriculture,,Rep,Bill Northey,1.0,28.0,29.0
+Jackson,Pct 12 - Senior Citizens Bldg,Secretary of Agriculture,,Rep,Bill Northey,3.0,22.0,25.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Secretary of Agriculture,,Rep,Bill Northey,6.0,26.0,32.0
+Jackson,Pct 14 - Maquoketa City Hall,Secretary of Agriculture,,Rep,Bill Northey,4.0,16.0,20.0
+Jackson,Pct 15 - North Lobby Courthouse,Secretary of Agriculture,,Rep,Bill Northey,14.0,47.0,61.0
+Jackson,Pct 16 - Maquoketa Fire Station,Secretary of Agriculture,,Rep,Bill Northey,8.0,69.0,77.0
+Jackson,Pct 2 - St. Donatus City Hall,Secretary of Agriculture,,Rep,Bill Northey,3.0,31.0,34.0
+Jackson,Pct 3 - LaMotte Recreation Center,Secretary of Agriculture,,Rep,Bill Northey,4.0,22.0,26.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Secretary of Agriculture,,Rep,Bill Northey,0.0,23.0,23.0
+Jackson,Pct 5 - Monmouth City Hall,Secretary of Agriculture,,Rep,Bill Northey,4.0,20.0,24.0
+Jackson,Pct 6 - Andrew City Hall,Secretary of Agriculture,,Rep,Bill Northey,4.0,44.0,48.0
+Jackson,Pct 7 - Courtroom- Courthouse,Secretary of Agriculture,,Rep,Bill Northey,22.0,56.0,78.0
+Jackson,Pct 8 - Springbrook City Hall,Secretary of Agriculture,,Rep,Bill Northey,3.0,19.0,22.0
+Jackson,Pct 9 - Preston Community Hall,Secretary of Agriculture,,Rep,Bill Northey,7.0,46.0,53.0
+Jackson,,Secretary of Agriculture,,Rep,Bill Northey,,,666.0
+Jackson,Pct 1 - Bellevue Hall,Secretary of Agriculture,,Rep,Write-in,,,1.0
+Jackson,Pct 10 - Miles City Hall,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 11 - Sabula City Hall,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 14 - Maquoketa City Hall,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 16 - Maquoketa Fire Station,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 2 - St. Donatus City Hall,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 7 - Courtroom- Courthouse,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 8 - Springbrook City Hall,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,Secretary of Agriculture,,Rep,Write-in,0.0,0.0,0.0
+Jackson,,Secretary of Agriculture,,Rep,Write-in,,,1.0
+Jackson,Pct 1 - Bellevue Hall,Secretary of Agriculture,,Dem,Sherrie Taha,,,75.0
+Jackson,Pct 10 - Miles City Hall,Secretary of Agriculture,,Dem,Sherrie Taha,2.0,9.0,11.0
+Jackson,Pct 11 - Sabula City Hall,Secretary of Agriculture,,Dem,Sherrie Taha,10.0,38.0,48.0
+Jackson,Pct 12 - Senior Citizens Bldg,Secretary of Agriculture,,Dem,Sherrie Taha,7.0,18.0,25.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Secretary of Agriculture,,Dem,Sherrie Taha,7.0,26.0,33.0
+Jackson,Pct 14 - Maquoketa City Hall,Secretary of Agriculture,,Dem,Sherrie Taha,2.0,24.0,26.0
+Jackson,Pct 15 - North Lobby Courthouse,Secretary of Agriculture,,Dem,Sherrie Taha,6.0,31.0,37.0
+Jackson,Pct 16 - Maquoketa Fire Station,Secretary of Agriculture,,Dem,Sherrie Taha,12.0,49.0,61.0
+Jackson,Pct 2 - St. Donatus City Hall,Secretary of Agriculture,,Dem,Sherrie Taha,1.0,16.0,17.0
+Jackson,Pct 3 - LaMotte Recreation Center,Secretary of Agriculture,,Dem,Sherrie Taha,1.0,25.0,26.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Secretary of Agriculture,,Dem,Sherrie Taha,1.0,18.0,19.0
+Jackson,Pct 5 - Monmouth City Hall,Secretary of Agriculture,,Dem,Sherrie Taha,1.0,19.0,20.0
+Jackson,Pct 6 - Andrew City Hall,Secretary of Agriculture,,Dem,Sherrie Taha,3.0,20.0,23.0
+Jackson,Pct 7 - Courtroom- Courthouse,Secretary of Agriculture,,Dem,Sherrie Taha,6.0,29.0,35.0
+Jackson,Pct 8 - Springbrook City Hall,Secretary of Agriculture,,Dem,Sherrie Taha,5.0,15.0,20.0
+Jackson,Pct 9 - Preston Community Hall,Secretary of Agriculture,,Dem,Sherrie Taha,5.0,18.0,23.0
+Jackson,,Secretary of Agriculture,,Dem,Sherrie Taha,,,510.0
+Jackson,Pct 1 - Bellevue Hall,Secretary of Agriculture,,Dem,Write-in,,,0.0
+Jackson,Pct 10 - Miles City Hall,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 11 - Sabula City Hall,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 14 - Maquoketa City Hall,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 16 - Maquoketa Fire Station,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 2 - St. Donatus City Hall,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,Secretary of Agriculture,,Dem,Write-in,0.0,1.0,1.0
+Jackson,Pct 7 - Courtroom- Courthouse,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 8 - Springbrook City Hall,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,Secretary of Agriculture,,Dem,Write-in,0.0,0.0,0.0
+Jackson,,Secretary of Agriculture,,Dem,Write-in,,,1.0
+Jackson,Pct 1 - Bellevue Hall,Attorney General,,Rep,Write-in,,,0.0
+Jackson,Pct 10 - Miles City Hall,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 11 - Sabula City Hall,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Attorney General,,Rep,Write-in,1.0,2.0,3.0
+Jackson,Pct 14 - Maquoketa City Hall,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,Attorney General,,Rep,Write-in,0.0,1.0,1.0
+Jackson,Pct 16 - Maquoketa Fire Station,Attorney General,,Rep,Write-in,0.0,1.0,1.0
+Jackson,Pct 2 - St. Donatus City Hall,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,Attorney General,,Rep,Write-in,0.0,1.0,1.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,Attorney General,,Rep,Write-in,0.0,2.0,2.0
+Jackson,Pct 7 - Courtroom- Courthouse,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 8 - Springbrook City Hall,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,Attorney General,,Rep,Write-in,0.0,0.0,0.0
+Jackson,,Attorney General,,Rep,Write-in,,,8.0
+Jackson,Pct 1 - Bellevue Hall,Attorney General,,Dem,Tom Miller,,,85.0
+Jackson,Pct 10 - Miles City Hall,Attorney General,,Dem,Tom Miller,2.0,10.0,12.0
+Jackson,Pct 11 - Sabula City Hall,Attorney General,,Dem,Tom Miller,12.0,39.0,51.0
+Jackson,Pct 12 - Senior Citizens Bldg,Attorney General,,Dem,Tom Miller,8.0,22.0,30.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Attorney General,,Dem,Tom Miller,7.0,30.0,37.0
+Jackson,Pct 14 - Maquoketa City Hall,Attorney General,,Dem,Tom Miller,2.0,26.0,28.0
+Jackson,Pct 15 - North Lobby Courthouse,Attorney General,,Dem,Tom Miller,6.0,38.0,44.0
+Jackson,Pct 16 - Maquoketa Fire Station,Attorney General,,Dem,Tom Miller,14.0,54.0,68.0
+Jackson,Pct 2 - St. Donatus City Hall,Attorney General,,Dem,Tom Miller,1.0,17.0,18.0
+Jackson,Pct 3 - LaMotte Recreation Center,Attorney General,,Dem,Tom Miller,3.0,26.0,29.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Attorney General,,Dem,Tom Miller,2.0,19.0,21.0
+Jackson,Pct 5 - Monmouth City Hall,Attorney General,,Dem,Tom Miller,1.0,24.0,25.0
+Jackson,Pct 6 - Andrew City Hall,Attorney General,,Dem,Tom Miller,4.0,22.0,26.0
+Jackson,Pct 7 - Courtroom- Courthouse,Attorney General,,Dem,Tom Miller,6.0,30.0,36.0
+Jackson,Pct 8 - Springbrook City Hall,Attorney General,,Dem,Tom Miller,5.0,15.0,20.0
+Jackson,Pct 9 - Preston Community Hall,Attorney General,,Dem,Tom Miller,5.0,23.0,28.0
+Jackson,,Attorney General,,Dem,Tom Miller,,,569.0
+Jackson,Pct 1 - Bellevue Hall,Attorney General,,Dem,Write-in,,,0.0
+Jackson,Pct 10 - Miles City Hall,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 11 - Sabula City Hall,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 14 - Maquoketa City Hall,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 16 - Maquoketa Fire Station,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 2 - St. Donatus City Hall,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 4 - St. Lawrence Community Hall,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 7 - Courtroom- Courthouse,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 8 - Springbrook City Hall,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,Attorney General,,Dem,Write-in,0.0,0.0,0.0
+Jackson,,Attorney General,,Dem,Write-in,,,0.0
+Jackson,Pct 1 - Bellevue Hall,State Senator,29,Rep,James R. Budde,,,78.0
+Jackson,Pct 10 - Miles City Hall,State Senator,29,Rep,James R. Budde,2.0,14.0,16.0
+Jackson,Pct 11 - Sabula City Hall,State Senator,29,Rep,James R. Budde,1.0,28.0,29.0
+Jackson,Pct 12 - Senior Citizens Bldg,State Senator,29,Rep,James R. Budde,2.0,13.0,15.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,State Senator,29,Rep,James R. Budde,6.0,22.0,28.0
+Jackson,Pct 14 - Maquoketa City Hall,State Senator,29,Rep,James R. Budde,4.0,11.0,15.0
+Jackson,Pct 15 - North Lobby Courthouse,State Senator,29,Rep,James R. Budde,10.0,31.0,41.0
+Jackson,Pct 16 - Maquoketa Fire Station,State Senator,29,Rep,James R. Budde,7.0,40.0,47.0
+Jackson,Pct 2 - St. Donatus City Hall,State Senator,29,Rep,James R. Budde,5.0,27.0,32.0
+Jackson,Pct 3 - LaMotte Recreation Center,State Senator,29,Rep,James R. Budde,5.0,15.0,20.0
+Jackson,Pct 4 - St. Lawrence Community Hall,State Senator,29,Rep,James R. Budde,0.0,17.0,17.0
+Jackson,Pct 5 - Monmouth City Hall,State Senator,29,Rep,James R. Budde,3.0,15.0,18.0
+Jackson,Pct 6 - Andrew City Hall,State Senator,29,Rep,James R. Budde,3.0,37.0,40.0
+Jackson,Pct 7 - Courtroom- Courthouse,State Senator,29,Rep,James R. Budde,12.0,35.0,47.0
+Jackson,Pct 8 - Springbrook City Hall,State Senator,29,Rep,James R. Budde,2.0,21.0,23.0
+Jackson,Pct 9 - Preston Community Hall,State Senator,29,Rep,James R. Budde,7.0,41.0,48.0
+Jackson,,State Senator,29,Rep,James R. Budde,,,543.0
+Jackson,Pct 1 - Bellevue Hall,State Senator,29,Rep,James A. Heavens,,,23.0
+Jackson,Pct 10 - Miles City Hall,State Senator,29,Rep,James A. Heavens,0.0,6.0,6.0
+Jackson,Pct 11 - Sabula City Hall,State Senator,29,Rep,James A. Heavens,1.0,6.0,7.0
+Jackson,Pct 12 - Senior Citizens Bldg,State Senator,29,Rep,James A. Heavens,1.0,9.0,10.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,State Senator,29,Rep,James A. Heavens,2.0,10.0,12.0
+Jackson,Pct 14 - Maquoketa City Hall,State Senator,29,Rep,James A. Heavens,1.0,6.0,7.0
+Jackson,Pct 15 - North Lobby Courthouse,State Senator,29,Rep,James A. Heavens,5.0,22.0,27.0
+Jackson,Pct 16 - Maquoketa Fire Station,State Senator,29,Rep,James A. Heavens,4.0,25.0,29.0
+Jackson,Pct 2 - St. Donatus City Hall,State Senator,29,Rep,James A. Heavens,1.0,11.0,12.0
+Jackson,Pct 3 - LaMotte Recreation Center,State Senator,29,Rep,James A. Heavens,0.0,10.0,10.0
+Jackson,Pct 4 - St. Lawrence Community Hall,State Senator,29,Rep,James A. Heavens,0.0,9.0,9.0
+Jackson,Pct 5 - Monmouth City Hall,State Senator,29,Rep,James A. Heavens,0.0,4.0,4.0
+Jackson,Pct 6 - Andrew City Hall,State Senator,29,Rep,James A. Heavens,1.0,14.0,15.0
+Jackson,Pct 7 - Courtroom- Courthouse,State Senator,29,Rep,James A. Heavens,7.0,23.0,30.0
+Jackson,Pct 8 - Springbrook City Hall,State Senator,29,Rep,James A. Heavens,0.0,6.0,6.0
+Jackson,Pct 9 - Preston Community Hall,State Senator,29,Rep,James A. Heavens,0.0,12.0,12.0
+Jackson,,State Senator,29,Rep,James A. Heavens,,,219.0
+Jackson,Pct 1 - Bellevue Hall,State Senator,29,Rep,Write-in,,,0.0
+Jackson,Pct 10 - Miles City Hall,State Senator,29,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 11 - Sabula City Hall,State Senator,29,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,State Senator,29,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,State Senator,29,Rep,Write-in,0.0,1.0,1.0
+Jackson,Pct 14 - Maquoketa City Hall,State Senator,29,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,State Senator,29,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 16 - Maquoketa Fire Station,State Senator,29,Rep,Write-in,0.0,1.0,1.0
+Jackson,Pct 2 - St. Donatus City Hall,State Senator,29,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,State Senator,29,Rep,Write-in,0.0,1.0,1.0
+Jackson,Pct 4 - St. Lawrence Community Hall,State Senator,29,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,State Senator,29,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,State Senator,29,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 7 - Courtroom- Courthouse,State Senator,29,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 8 - Springbrook City Hall,State Senator,29,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,State Senator,29,Rep,Write-in,0.0,0.0,0.0
+Jackson,,State Senator,29,Rep,Write-in,,,3.0
+Jackson,Pct 1 - Bellevue Hall,State Senator,29,Dem,Tod R. Bowman,,,94.0
+Jackson,Pct 10 - Miles City Hall,State Senator,29,Dem,Tod R. Bowman,2.0,14.0,16.0
+Jackson,Pct 11 - Sabula City Hall,State Senator,29,Dem,Tod R. Bowman,13.0,49.0,62.0
+Jackson,Pct 12 - Senior Citizens Bldg,State Senator,29,Dem,Tod R. Bowman,8.0,23.0,31.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,State Senator,29,Dem,Tod R. Bowman,8.0,25.0,33.0
+Jackson,Pct 14 - Maquoketa City Hall,State Senator,29,Dem,Tod R. Bowman,2.0,26.0,28.0
+Jackson,Pct 15 - North Lobby Courthouse,State Senator,29,Dem,Tod R. Bowman,8.0,35.0,43.0
+Jackson,Pct 16 - Maquoketa Fire Station,State Senator,29,Dem,Tod R. Bowman,15.0,63.0,78.0
+Jackson,Pct 2 - St. Donatus City Hall,State Senator,29,Dem,Tod R. Bowman,1.0,17.0,18.0
+Jackson,Pct 3 - LaMotte Recreation Center,State Senator,29,Dem,Tod R. Bowman,3.0,29.0,32.0
+Jackson,Pct 4 - St. Lawrence Community Hall,State Senator,29,Dem,Tod R. Bowman,3.0,21.0,24.0
+Jackson,Pct 5 - Monmouth City Hall,State Senator,29,Dem,Tod R. Bowman,0.0,27.0,27.0
+Jackson,Pct 6 - Andrew City Hall,State Senator,29,Dem,Tod R. Bowman,2.0,18.0,20.0
+Jackson,Pct 7 - Courtroom- Courthouse,State Senator,29,Dem,Tod R. Bowman,5.0,30.0,35.0
+Jackson,Pct 8 - Springbrook City Hall,State Senator,29,Dem,Tod R. Bowman,5.0,16.0,21.0
+Jackson,Pct 9 - Preston Community Hall,State Senator,29,Dem,Tod R. Bowman,5.0,27.0,32.0
+Jackson,,State Senator,29,Dem,Tod R. Bowman,,,606.0
+Jackson,Pct 1 - Bellevue Hall,State Senator,29,Dem,Write-in,,,0.0
+Jackson,Pct 10 - Miles City Hall,State Senator,29,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 11 - Sabula City Hall,State Senator,29,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,State Senator,29,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,State Senator,29,Dem,Write-in,0.0,3.0,3.0
+Jackson,Pct 14 - Maquoketa City Hall,State Senator,29,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,State Senator,29,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 16 - Maquoketa Fire Station,State Senator,29,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 2 - St. Donatus City Hall,State Senator,29,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,State Senator,29,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 4 - St. Lawrence Community Hall,State Senator,29,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,State Senator,29,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,State Senator,29,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 7 - Courtroom- Courthouse,State Senator,29,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 8 - Springbrook City Hall,State Senator,29,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,State Senator,29,Dem,Write-in,0.0,0.0,0.0
+Jackson,,State Senator,29,Dem,Write-in,,,3.0
+Jackson,Pct 1 - Bellevue Hall,State Rep.,58,Rep,Brian Moore,,,95.0
+Jackson,Pct 10 - Miles City Hall,State Rep.,58,Rep,Brian Moore,3.0,20.0,23.0
+Jackson,Pct 11 - Sabula City Hall,State Rep.,58,Rep,Brian Moore,2.0,29.0,31.0
+Jackson,Pct 12 - Senior Citizens Bldg,State Rep.,58,Rep,Brian Moore,3.0,30.0,33.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,State Rep.,58,Rep,Brian Moore,10.0,35.0,45.0
+Jackson,Pct 14 - Maquoketa City Hall,State Rep.,58,Rep,Brian Moore,6.0,25.0,31.0
+Jackson,Pct 15 - North Lobby Courthouse,State Rep.,58,Rep,Brian Moore,16.0,63.0,79.0
+Jackson,Pct 16 - Maquoketa Fire Station,State Rep.,58,Rep,Brian Moore,11.0,82.0,93.0
+Jackson,Pct 2 - St. Donatus City Hall,State Rep.,58,Rep,Brian Moore,3.0,38.0,41.0
+Jackson,Pct 3 - LaMotte Recreation Center,State Rep.,58,Rep,Brian Moore,6.0,24.0,30.0
+Jackson,Pct 4 - St. Lawrence Community Hall,State Rep.,58,Rep,Brian Moore,1.0,31.0,32.0
+Jackson,Pct 5 - Monmouth City Hall,State Rep.,58,Rep,Brian Moore,4.0,22.0,26.0
+Jackson,Pct 6 - Andrew City Hall,State Rep.,58,Rep,Brian Moore,5.0,53.0,58.0
+Jackson,Pct 7 - Courtroom- Courthouse,State Rep.,58,Rep,Brian Moore,26.0,72.0,98.0
+Jackson,Pct 8 - Springbrook City Hall,State Rep.,58,Rep,Brian Moore,4.0,22.0,26.0
+Jackson,Pct 9 - Preston Community Hall,State Rep.,58,Rep,Brian Moore,8.0,52.0,60.0
+Jackson,,State Rep.,58,Rep,Brian Moore,,,824.0
+Jackson,Pct 1 - Bellevue Hall,State Rep.,58,Rep,Write-in,,,0.0
+Jackson,Pct 10 - Miles City Hall,State Rep.,58,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 11 - Sabula City Hall,State Rep.,58,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,State Rep.,58,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,State Rep.,58,Rep,Write-in,0.0,1.0,1.0
+Jackson,Pct 14 - Maquoketa City Hall,State Rep.,58,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,State Rep.,58,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 16 - Maquoketa Fire Station,State Rep.,58,Rep,Write-in,1.0,1.0,2.0
+Jackson,Pct 2 - St. Donatus City Hall,State Rep.,58,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,State Rep.,58,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 4 - St. Lawrence Community Hall,State Rep.,58,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,State Rep.,58,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,State Rep.,58,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 7 - Courtroom- Courthouse,State Rep.,58,Rep,Write-in,0.0,1.0,1.0
+Jackson,Pct 8 - Springbrook City Hall,State Rep.,58,Rep,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,State Rep.,58,Rep,Write-in,0.0,0.0,0.0
+Jackson,,State Rep.,58,Rep,Write-in,,,4.0
+Jackson,Pct 1 - Bellevue Hall,State Rep.,58,Dem,Kim Huckstadt,,,76.0
+Jackson,Pct 10 - Miles City Hall,State Rep.,58,Dem,Kim Huckstadt,2.0,12.0,14.0
+Jackson,Pct 11 - Sabula City Hall,State Rep.,58,Dem,Kim Huckstadt,11.0,41.0,52.0
+Jackson,Pct 12 - Senior Citizens Bldg,State Rep.,58,Dem,Kim Huckstadt,8.0,20.0,28.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,State Rep.,58,Dem,Kim Huckstadt,7.0,28.0,35.0
+Jackson,Pct 14 - Maquoketa City Hall,State Rep.,58,Dem,Kim Huckstadt,2.0,25.0,27.0
+Jackson,Pct 15 - North Lobby Courthouse,State Rep.,58,Dem,Kim Huckstadt,8.0,33.0,41.0
+Jackson,Pct 16 - Maquoketa Fire Station,State Rep.,58,Dem,Kim Huckstadt,15.0,57.0,72.0
+Jackson,Pct 2 - St. Donatus City Hall,State Rep.,58,Dem,Kim Huckstadt,1.0,16.0,17.0
+Jackson,Pct 3 - LaMotte Recreation Center,State Rep.,58,Dem,Kim Huckstadt,2.0,26.0,28.0
+Jackson,Pct 4 - St. Lawrence Community Hall,State Rep.,58,Dem,Kim Huckstadt,1.0,19.0,20.0
+Jackson,Pct 5 - Monmouth City Hall,State Rep.,58,Dem,Kim Huckstadt,1.0,26.0,27.0
+Jackson,Pct 6 - Andrew City Hall,State Rep.,58,Dem,Kim Huckstadt,2.0,19.0,21.0
+Jackson,Pct 7 - Courtroom- Courthouse,State Rep.,58,Dem,Kim Huckstadt,5.0,31.0,36.0
+Jackson,Pct 8 - Springbrook City Hall,State Rep.,58,Dem,Kim Huckstadt,4.0,17.0,21.0
+Jackson,Pct 9 - Preston Community Hall,State Rep.,58,Dem,Kim Huckstadt,5.0,26.0,31.0
+Jackson,,State Rep.,58,Dem,Kim Huckstadt,,,557.0
+Jackson,Pct 1 - Bellevue Hall,State Rep.,58,Dem,Write-in,,,1.0
+Jackson,Pct 10 - Miles City Hall,State Rep.,58,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 11 - Sabula City Hall,State Rep.,58,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 12 - Senior Citizens Bldg,State Rep.,58,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 13 - Hospital Skilled Unit Lobby,State Rep.,58,Dem,Write-in,0.0,1.0,1.0
+Jackson,Pct 14 - Maquoketa City Hall,State Rep.,58,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 15 - North Lobby Courthouse,State Rep.,58,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 16 - Maquoketa Fire Station,State Rep.,58,Dem,Write-in,0.0,1.0,1.0
+Jackson,Pct 2 - St. Donatus City Hall,State Rep.,58,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 3 - LaMotte Recreation Center,State Rep.,58,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 4 - St. Lawrence Community Hall,State Rep.,58,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 5 - Monmouth City Hall,State Rep.,58,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 6 - Andrew City Hall,State Rep.,58,Dem,Write-in,0.0,1.0,1.0
+Jackson,Pct 7 - Courtroom- Courthouse,State Rep.,58,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 8 - Springbrook City Hall,State Rep.,58,Dem,Write-in,0.0,0.0,0.0
+Jackson,Pct 9 - Preston Community Hall,State Rep.,58,Dem,Write-in,0.0,0.0,0.0
+Jackson,,State Rep.,58,Dem,Write-in,,,4.0
