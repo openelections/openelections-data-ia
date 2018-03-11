@@ -1,5 +1,6 @@
 *.swp
 *.pyc
+*.csv#
 bin/activate
 bin/activate*
 bin/easy_install
