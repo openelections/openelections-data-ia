@@ -1,0 +1,662 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Henry,Northwest Precinct,United States Representative District 2,,REP,Christopher Peters,445,300,145
+Henry,Northeast Precinct,United States Representative District 2,,REP,Christopher Peters,387,249,138
+Henry,Southeast Precinct,United States Representative District 2,,REP,Christopher Peters,684,418,266
+Henry,Southwest Precinct,United States Representative District 2,,REP,Christopher Peters,362,249,113
+Henry,Mt Pleasant Ward 1,United States Representative District 2,,REP,Christopher Peters,336,156,180
+Henry,Mt Pleasant Ward 2,United States Representative District 2,,REP,Christopher Peters,305,174,131
+Henry,Mt Pleasant Ward 3,United States Representative District 2,,REP,Christopher Peters,348,160,188
+Henry,Mt Pleasant Ward 4,United States Representative District 2,,REP,Christopher Peters,355,164,191
+Henry,Central Precinct,United States Representative District 2,,REP,Christopher Peters,728,340,388
+Henry,Northwest Precinct,United States Representative District 2,,DEM,Dave Loebsack,295,193,102
+Henry,Northeast Precinct,United States Representative District 2,,DEM,Dave Loebsack,295,192,103
+Henry,Southeast Precinct,United States Representative District 2,,DEM,Dave Loebsack,639,424,215
+Henry,Southwest Precinct,United States Representative District 2,,DEM,Dave Loebsack,239,133,106
+Henry,Mt Pleasant Ward 1,United States Representative District 2,,DEM,Dave Loebsack,310,105,205
+Henry,Mt Pleasant Ward 2,United States Representative District 2,,DEM,Dave Loebsack,330,153,177
+Henry,Mt Pleasant Ward 3,United States Representative District 2,,DEM,Dave Loebsack,354,162,192
+Henry,Mt Pleasant Ward 4,United States Representative District 2,,DEM,Dave Loebsack,289,95,194
+Henry,Central Precinct,United States Representative District 2,,DEM,Dave Loebsack,460,156,304
+Henry,Northwest Precinct,United States Representative District 2,,LIB,Mark David Strauss,12,8,4
+Henry,Northeast Precinct,United States Representative District 2,,LIB,Mark David Strauss,9,6,3
+Henry,Southeast Precinct,United States Representative District 2,,LIB,Mark David Strauss,22,16,6
+Henry,Southwest Precinct,United States Representative District 2,,LIB,Mark David Strauss,11,7,4
+Henry,Mt Pleasant Ward 1,United States Representative District 2,,LIB,Mark David Strauss,15,10,5
+Henry,Mt Pleasant Ward 2,United States Representative District 2,,LIB,Mark David Strauss,15,10,5
+Henry,Mt Pleasant Ward 3,United States Representative District 2,,LIB,Mark David Strauss,8,5,3
+Henry,Mt Pleasant Ward 4,United States Representative District 2,,LIB,Mark David Strauss,13,10,3
+Henry,Central Precinct,United States Representative District 2,,LIB,Mark David Strauss,15,8,7
+Henry,Northwest Precinct,United States Representative District 2,,,Daniel Clark,4,3,1
+Henry,Northeast Precinct,United States Representative District 2,,,Daniel Clark,5,2,3
+Henry,Southeast Precinct,United States Representative District 2,,,Daniel Clark,20,14,6
+Henry,Southwest Precinct,United States Representative District 2,,,Daniel Clark,14,9,5
+Henry,Mt Pleasant Ward 1,United States Representative District 2,,,Daniel Clark,22,15,7
+Henry,Mt Pleasant Ward 2,United States Representative District 2,,,Daniel Clark,16,6,10
+Henry,Mt Pleasant Ward 3,United States Representative District 2,,,Daniel Clark,19,9,10
+Henry,Mt Pleasant Ward 4,United States Representative District 2,,,Daniel Clark,13,6,7
+Henry,Central Precinct,United States Representative District 2,,,Daniel Clark,7,3,4
+Henry,Northwest Precinct,United States Representative District 2,,,Write-in,0,0,0
+Henry,Northeast Precinct,United States Representative District 2,,,Write-in,0,0,0
+Henry,Southeast Precinct,United States Representative District 2,,,Write-in,0,0,0
+Henry,Southwest Precinct,United States Representative District 2,,,Write-in,1,1,0
+Henry,Mt Pleasant Ward 1,United States Representative District 2,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 2,United States Representative District 2,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 3,United States Representative District 2,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 4,United States Representative District 2,,,Write-in,0,0,0
+Henry,Central Precinct,United States Representative District 2,,,Write-in,0,0,0
+Henry,Northwest Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,495,330,165
+Henry,Northeast Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,408,261,147
+Henry,Southeast Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,720,453,267
+Henry,Southwest Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,400,276,124
+Henry,Mt Pleasant Ward 1,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,374,165,209
+Henry,Mt Pleasant Ward 2,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,329,185,144
+Henry,Mt Pleasant Ward 3,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,386,170,216
+Henry,Mt Pleasant Ward 4,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,388,179,209
+Henry,Central Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,784,366,418
+Henry,Northwest Precinct,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,250,166,84
+Henry,Northeast Precinct,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,275,178,97
+Henry,Southeast Precinct,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,613,397,216
+Henry,Southwest Precinct,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,216,114,102
+Henry,Mt Pleasant Ward 1,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,292,109,183
+Henry,Mt Pleasant Ward 2,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,322,149,173
+Henry,Mt Pleasant Ward 3,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,343,165,178
+Henry,Mt Pleasant Ward 4,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,271,89,182
+Henry,Central Precinct,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,414,135,279
+Henry,Northwest Precinct,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,13,8,5
+Henry,Northeast Precinct,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,11,8,3
+Henry,Southeast Precinct,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,26,17,9
+Henry,Southwest Precinct,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,13,9,4
+Henry,Mt Pleasant Ward 1,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,16,13,3
+Henry,Mt Pleasant Ward 2,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,12,9,3
+Henry,Mt Pleasant Ward 3,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,5,2,3
+Henry,Mt Pleasant Ward 4,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,7,5,2
+Henry,Central Precinct,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,12,4,8
+Henry,Northwest Precinct,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,5,1,4
+Henry,Northeast Precinct,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,2,1
+Henry,Southeast Precinct,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,14,9,5
+Henry,Southwest Precinct,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,5,3,2
+Henry,Mt Pleasant Ward 1,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,4,1,3
+Henry,Mt Pleasant Ward 2,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,5,1,4
+Henry,Mt Pleasant Ward 3,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,2,1
+Henry,Mt Pleasant Ward 4,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,5,3,2
+Henry,Central Precinct,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,7,2,5
+Henry,Northwest Precinct,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Henry,Northeast Precinct,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Henry,Southeast Precinct,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Henry,Southwest Precinct,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 1,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 2,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 3,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 4,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Henry,Central Precinct,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Henry,Northwest Precinct,Secretary of State,,REP,Paul D. Pate,527,347,180
+Henry,Northeast Precinct,Secretary of State,,REP,Paul D. Pate,446,283,163
+Henry,Southeast Precinct,Secretary of State,,REP,Paul D. Pate,775,491,284
+Henry,Southwest Precinct,Secretary of State,,REP,Paul D. Pate,421,296,125
+Henry,Mt Pleasant Ward 1,Secretary of State,,REP,Paul D. Pate,424,185,239
+Henry,Mt Pleasant Ward 2,Secretary of State,,REP,Paul D. Pate,365,204,161
+Henry,Mt Pleasant Ward 3,Secretary of State,,REP,Paul D. Pate,426,193,233
+Henry,Mt Pleasant Ward 4,Secretary of State,,REP,Paul D. Pate,443,199,244
+Henry,Central Precinct,Secretary of State,,REP,Paul D. Pate,853,383,470
+Henry,Northwest Precinct,Secretary of State,,DEM,Deidre DeJear,211,143,68
+Henry,Northeast Precinct,Secretary of State,,DEM,Deidre DeJear,230,150,80
+Henry,Southeast Precinct,Secretary of State,,DEM,Deidre DeJear,535,338,197
+Henry,Southwest Precinct,Secretary of State,,DEM,Deidre DeJear,188,89,99
+Henry,Mt Pleasant Ward 1,Secretary of State,,DEM,Deidre DeJear,245,92,153
+Henry,Mt Pleasant Ward 2,Secretary of State,,DEM,Deidre DeJear,275,123,152
+Henry,Mt Pleasant Ward 3,Secretary of State,,DEM,Deidre DeJear,285,133,152
+Henry,Mt Pleasant Ward 4,Secretary of State,,DEM,Deidre DeJear,206,61,145
+Henry,Central Precinct,Secretary of State,,DEM,Deidre DeJear,333,109,224
+Henry,Northwest Precinct,Secretary of State,,LIB,Jules Ofenbakh,12,8,4
+Henry,Northeast Precinct,Secretary of State,,LIB,Jules Ofenbakh,13,11,2
+Henry,Southeast Precinct,Secretary of State,,LIB,Jules Ofenbakh,32,26,6
+Henry,Southwest Precinct,Secretary of State,,LIB,Jules Ofenbakh,9,5,4
+Henry,Mt Pleasant Ward 1,Secretary of State,,LIB,Jules Ofenbakh,14,10,4
+Henry,Mt Pleasant Ward 2,Secretary of State,,LIB,Jules Ofenbakh,17,11,6
+Henry,Mt Pleasant Ward 3,Secretary of State,,LIB,Jules Ofenbakh,12,8,4
+Henry,Mt Pleasant Ward 4,Secretary of State,,LIB,Jules Ofenbakh,14,10,4
+Henry,Central Precinct,Secretary of State,,LIB,Jules Ofenbakh,16,10,6
+Henry,Northwest Precinct,Secretary of State,,,Write-in,0,0,0
+Henry,Northeast Precinct,Secretary of State,,,Write-in,0,0,0
+Henry,Southeast Precinct,Secretary of State,,,Write-in,1,1,0
+Henry,Southwest Precinct,Secretary of State,,,Write-in,1,1,0
+Henry,Mt Pleasant Ward 1,Secretary of State,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 2,Secretary of State,,,Write-in,2,2,0
+Henry,Mt Pleasant Ward 3,Secretary of State,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 4,Secretary of State,,,Write-in,0,0,0
+Henry,Central Precinct,Secretary of State,,,Write-in,1,0,1
+Henry,Northwest Precinct,Auditor of State,,REP,Mary Mosiman,466,310,156
+Henry,Northeast Precinct,Auditor of State,,REP,Mary Mosiman,374,238,136
+Henry,Southeast Precinct,Auditor of State,,REP,Mary Mosiman,662,423,239
+Henry,Southwest Precinct,Auditor of State,,REP,Mary Mosiman,376,267,109
+Henry,Mt Pleasant Ward 1,Auditor of State,,REP,Mary Mosiman,355,165,190
+Henry,Mt Pleasant Ward 2,Auditor of State,,REP,Mary Mosiman,330,186,144
+Henry,Mt Pleasant Ward 3,Auditor of State,,REP,Mary Mosiman,365,163,202
+Henry,Mt Pleasant Ward 4,Auditor of State,,REP,Mary Mosiman,387,174,213
+Henry,Central Precinct,Auditor of State,,REP,Mary Mosiman,735,339,396
+Henry,Northwest Precinct,Auditor of State,,DEM,Rob Sand,265,174,91
+Henry,Northeast Precinct,Auditor of State,,DEM,Rob Sand,296,192,104
+Henry,Southeast Precinct,Auditor of State,,DEM,Rob Sand,646,406,240
+Henry,Southwest Precinct,Auditor of State,,DEM,Rob Sand,231,116,115
+Henry,Mt Pleasant Ward 1,Auditor of State,,DEM,Rob Sand,301,100,201
+Henry,Mt Pleasant Ward 2,Auditor of State,,DEM,Rob Sand,314,138,176
+Henry,Mt Pleasant Ward 3,Auditor of State,,DEM,Rob Sand,338,161,177
+Henry,Mt Pleasant Ward 4,Auditor of State,,DEM,Rob Sand,263,86,177
+Henry,Central Precinct,Auditor of State,,DEM,Rob Sand,437,144,293
+Henry,Northwest Precinct,Auditor of State,,LIB,Fred Perryman,16,10,6
+Henry,Northeast Precinct,Auditor of State,,LIB,Fred Perryman,12,9,3
+Henry,Southeast Precinct,Auditor of State,,LIB,Fred Perryman,32,25,7
+Henry,Southwest Precinct,Auditor of State,,LIB,Fred Perryman,13,9,4
+Henry,Mt Pleasant Ward 1,Auditor of State,,LIB,Fred Perryman,18,13,5
+Henry,Mt Pleasant Ward 2,Auditor of State,,LIB,Fred Perryman,15,12,3
+Henry,Mt Pleasant Ward 3,Auditor of State,,LIB,Fred Perryman,17,9,8
+Henry,Mt Pleasant Ward 4,Auditor of State,,LIB,Fred Perryman,8,6,2
+Henry,Central Precinct,Auditor of State,,LIB,Fred Perryman,19,14,5
+Henry,Northwest Precinct,Auditor of State,,,Write-in,0,0,0
+Henry,Northeast Precinct,Auditor of State,,,Write-in,0,0,0
+Henry,Southeast Precinct,Auditor of State,,,Write-in,1,1,0
+Henry,Southwest Precinct,Auditor of State,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 1,Auditor of State,,,Write-in,1,0,1
+Henry,Mt Pleasant Ward 2,Auditor of State,,,Write-in,1,1,0
+Henry,Mt Pleasant Ward 3,Auditor of State,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 4,Auditor of State,,,Write-in,1,1,0
+Henry,Central Precinct,Auditor of State,,,Write-in,1,0,1
+Henry,Northwest Precinct,Treasurer of State,,REP,Jeremy N. Davis,455,302,153
+Henry,Northeast Precinct,Treasurer of State,,REP,Jeremy N. Davis,371,246,125
+Henry,Southeast Precinct,Treasurer of State,,REP,Jeremy N. Davis,671,424,247
+Henry,Southwest Precinct,Treasurer of State,,REP,Jeremy N. Davis,365,251,114
+Henry,Mt Pleasant Ward 1,Treasurer of State,,REP,Jeremy N. Davis,352,158,194
+Henry,Mt Pleasant Ward 2,Treasurer of State,,REP,Jeremy N. Davis,303,176,127
+Henry,Mt Pleasant Ward 3,Treasurer of State,,REP,Jeremy N. Davis,334,150,184
+Henry,Mt Pleasant Ward 4,Treasurer of State,,REP,Jeremy N. Davis,357,165,192
+Henry,Central Precinct,Treasurer of State,,REP,Jeremy N. Davis,738,333,405
+Henry,Northwest Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,281,188,93
+Henry,Northeast Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,290,178,112
+Henry,Southeast Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,635,404,231
+Henry,Southwest Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,240,128,112
+Henry,Mt Pleasant Ward 1,Treasurer of State,,DEM,Michael L. Fitzgerald,310,110,200
+Henry,Mt Pleasant Ward 2,Treasurer of State,,DEM,Michael L. Fitzgerald,333,148,185
+Henry,Mt Pleasant Ward 3,Treasurer of State,,DEM,Michael L. Fitzgerald,366,167,199
+Henry,Mt Pleasant Ward 4,Treasurer of State,,DEM,Michael L. Fitzgerald,287,90,197
+Henry,Central Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,443,157,286
+Henry,Northwest Precinct,Treasurer of State,,LIB,Timothy Hird,14,7,7
+Henry,Northeast Precinct,Treasurer of State,,LIB,Timothy Hird,23,21,2
+Henry,Southeast Precinct,Treasurer of State,,LIB,Timothy Hird,33,27,6
+Henry,Southwest Precinct,Treasurer of State,,LIB,Timothy Hird,11,8,3
+Henry,Mt Pleasant Ward 1,Treasurer of State,,LIB,Timothy Hird,19,14,5
+Henry,Mt Pleasant Ward 2,Treasurer of State,,LIB,Timothy Hird,18,12,6
+Henry,Mt Pleasant Ward 3,Treasurer of State,,LIB,Timothy Hird,18,10,8
+Henry,Mt Pleasant Ward 4,Treasurer of State,,LIB,Timothy Hird,13,10,3
+Henry,Central Precinct,Treasurer of State,,LIB,Timothy Hird,15,7,8
+Henry,Northwest Precinct,Treasurer of State,,,Write-in,0,0,0
+Henry,Northeast Precinct,Treasurer of State,,,Write-in,0,0,0
+Henry,Southeast Precinct,Treasurer of State,,,Write-in,1,1,0
+Henry,Southwest Precinct,Treasurer of State,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 1,Treasurer of State,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 2,Treasurer of State,,,Write-in,1,1,0
+Henry,Mt Pleasant Ward 3,Treasurer of State,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 4,Treasurer of State,,,Write-in,0,0,0
+Henry,Central Precinct,Treasurer of State,,,Write-in,0,0,0
+Henry,Northwest Precinct,Secretary of Agriculture,,REP,Mike Naig,511,345,166
+Henry,Northeast Precinct,Secretary of Agriculture,,REP,Mike Naig,423,272,151
+Henry,Southeast Precinct,Secretary of Agriculture,,REP,Mike Naig,722,461,261
+Henry,Southwest Precinct,Secretary of Agriculture,,REP,Mike Naig,403,280,123
+Henry,Mt Pleasant Ward 1,Secretary of Agriculture,,REP,Mike Naig,381,166,215
+Henry,Mt Pleasant Ward 2,Secretary of Agriculture,,REP,Mike Naig,340,200,140
+Henry,Mt Pleasant Ward 3,Secretary of Agriculture,,REP,Mike Naig,379,170,209
+Henry,Mt Pleasant Ward 4,Secretary of Agriculture,,REP,Mike Naig,395,181,214
+Henry,Central Precinct,Secretary of Agriculture,,REP,Mike Naig,782,344,438
+Henry,Northwest Precinct,Secretary of Agriculture,,DEM,Tim Gannon,223,144,79
+Henry,Northeast Precinct,Secretary of Agriculture,,DEM,Tim Gannon,242,156,86
+Henry,Southeast Precinct,Secretary of Agriculture,,DEM,Tim Gannon,560,359,201
+Henry,Southwest Precinct,Secretary of Agriculture,,DEM,Tim Gannon,208,106,102
+Henry,Mt Pleasant Ward 1,Secretary of Agriculture,,DEM,Tim Gannon,266,99,167
+Henry,Mt Pleasant Ward 2,Secretary of Agriculture,,DEM,Tim Gannon,284,121,163
+Henry,Mt Pleasant Ward 3,Secretary of Agriculture,,DEM,Tim Gannon,312,150,162
+Henry,Mt Pleasant Ward 4,Secretary of Agriculture,,DEM,Tim Gannon,241,80,161
+Henry,Central Precinct,Secretary of Agriculture,,DEM,Tim Gannon,382,137,245
+Henry,Northwest Precinct,Secretary of Agriculture,,LIB,Rick Stewart,17,9,8
+Henry,Northeast Precinct,Secretary of Agriculture,,LIB,Rick Stewart,16,13,3
+Henry,Southeast Precinct,Secretary of Agriculture,,LIB,Rick Stewart,50,36,14
+Henry,Southwest Precinct,Secretary of Agriculture,,LIB,Rick Stewart,12,8,4
+Henry,Mt Pleasant Ward 1,Secretary of Agriculture,,LIB,Rick Stewart,29,17,12
+Henry,Mt Pleasant Ward 2,Secretary of Agriculture,,LIB,Rick Stewart,26,16,10
+Henry,Mt Pleasant Ward 3,Secretary of Agriculture,,LIB,Rick Stewart,27,11,16
+Henry,Mt Pleasant Ward 4,Secretary of Agriculture,,LIB,Rick Stewart,24,10,14
+Henry,Central Precinct,Secretary of Agriculture,,LIB,Rick Stewart,25,15,10
+Henry,Northwest Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Northeast Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Southeast Precinct,Secretary of Agriculture,,,Write-in,1,1,0
+Henry,Southwest Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 1,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 2,Secretary of Agriculture,,,Write-in,1,1,0
+Henry,Mt Pleasant Ward 3,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 4,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Central Precinct,Secretary of Agriculture,,,Write-in,1,0,1
+Henry,Northwest Precinct,Attorney General,,DEM,Tom Miller,465,316,149
+Henry,Northeast Precinct,Attorney General,,DEM,Tom Miller,442,291,151
+Henry,Southeast Precinct,Attorney General,,DEM,Tom Miller,857,567,290
+Henry,Southwest Precinct,Attorney General,,DEM,Tom Miller,366,220,146
+Henry,Mt Pleasant Ward 1,Attorney General,,DEM,Tom Miller,428,159,269
+Henry,Mt Pleasant Ward 2,Attorney General,,DEM,Tom Miller,422,202,220
+Henry,Mt Pleasant Ward 3,Attorney General,,DEM,Tom Miller,472,218,254
+Henry,Mt Pleasant Ward 4,Attorney General,,DEM,Tom Miller,434,155,279
+Henry,Central Precinct,Attorney General,,DEM,Tom Miller,689,266,423
+Henry,Northwest Precinct,Attorney General,,LIB,Marco Battaglia,146,102,44
+Henry,Northeast Precinct,Attorney General,,LIB,Marco Battaglia,141,98,43
+Henry,Southeast Precinct,Attorney General,,LIB,Marco Battaglia,264,177,87
+Henry,Southwest Precinct,Attorney General,,LIB,Marco Battaglia,137,90,47
+Henry,Mt Pleasant Ward 1,Attorney General,,LIB,Marco Battaglia,126,72,54
+Henry,Mt Pleasant Ward 2,Attorney General,,LIB,Marco Battaglia,138,86,52
+Henry,Mt Pleasant Ward 3,Attorney General,,LIB,Marco Battaglia,155,70,85
+Henry,Mt Pleasant Ward 4,Attorney General,,LIB,Marco Battaglia,115,69,46
+Henry,Central Precinct,Attorney General,,LIB,Marco Battaglia,230,109,121
+Henry,Northwest Precinct,Attorney General,,,Write-in,3,3,0
+Henry,Northeast Precinct,Attorney General,,,Write-in,4,2,2
+Henry,Southeast Precinct,Attorney General,,,Write-in,6,6,0
+Henry,Southwest Precinct,Attorney General,,,Write-in,5,3,2
+Henry,Mt Pleasant Ward 1,Attorney General,,,Write-in,7,4,3
+Henry,Mt Pleasant Ward 2,Attorney General,,,Write-in,4,1,3
+Henry,Mt Pleasant Ward 3,Attorney General,,,Write-in,5,3,2
+Henry,Mt Pleasant Ward 4,Attorney General,,,Write-in,4,1,3
+Henry,Central Precinct,Attorney General,,,Write-in,6,4,2
+Henry,Northwest Precinct,State Representative District 84,,REP,Joe Mitchell,563,382,181
+Henry,Northeast Precinct,State Representative District 84,,REP,Joe Mitchell,406,265,141
+Henry,Southeast Precinct,State Representative District 84,,REP,Joe Mitchell,754,485,269
+Henry,Southwest Precinct,State Representative District 84,,REP,Joe Mitchell,405,286,119
+Henry,Mt Pleasant Ward 1,State Representative District 84,,REP,Joe Mitchell,405,182,223
+Henry,Mt Pleasant Ward 2,State Representative District 84,,REP,Joe Mitchell,348,202,146
+Henry,Mt Pleasant Ward 3,State Representative District 84,,REP,Joe Mitchell,412,185,227
+Henry,Mt Pleasant Ward 4,State Representative District 84,,REP,Joe Mitchell,416,193,223
+Henry,Central Precinct,State Representative District 84,,REP,Joe Mitchell,814,371,443
+Henry,Northwest Precinct,State Representative District 84,,DEM,Jason Moats,197,122,75
+Henry,Northeast Precinct,State Representative District 84,,DEM,Jason Moats,286,182,104
+Henry,Southeast Precinct,State Representative District 84,,DEM,Jason Moats,605,384,221
+Henry,Southwest Precinct,State Representative District 84,,DEM,Jason Moats,227,114,113
+Henry,Mt Pleasant Ward 1,State Representative District 84,,DEM,Jason Moats,279,104,175
+Henry,Mt Pleasant Ward 2,State Representative District 84,,DEM,Jason Moats,312,137,175
+Henry,Mt Pleasant Ward 3,State Representative District 84,,DEM,Jason Moats,318,149,169
+Henry,Mt Pleasant Ward 4,State Representative District 84,,DEM,Jason Moats,250,79,171
+Henry,Central Precinct,State Representative District 84,,DEM,Jason Moats,385,133,252
+Henry,Northwest Precinct,State Representative District 84,,,Write-in,0,0,0
+Henry,Northeast Precinct,State Representative District 84,,,Write-in,1,1,0
+Henry,Southeast Precinct,State Representative District 84,,,Write-in,1,0,1
+Henry,Southwest Precinct,State Representative District 84,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 1,State Representative District 84,,,Write-in,1,1,0
+Henry,Mt Pleasant Ward 2,State Representative District 84,,,Write-in,1,1,0
+Henry,Mt Pleasant Ward 3,State Representative District 84,,,Write-in,1,0,1
+Henry,Mt Pleasant Ward 4,State Representative District 84,,,Write-in,1,0,1
+Henry,Central Precinct,State Representative District 84,,,Write-in,0,0,0
+Henry,Northwest Precinct,Board of Supervisors,,REP,Marc B Lindeen,653,436,217
+Henry,Northeast Precinct,Board of Supervisors,,REP,Marc B Lindeen,590,384,206
+Henry,Southeast Precinct,Board of Supervisors,,REP,Marc B Lindeen,1097,728,369
+Henry,Southwest Precinct,Board of Supervisors,,REP,Marc B Lindeen,522,348,174
+Henry,Mt Pleasant Ward 1,Board of Supervisors,,REP,Marc B Lindeen,548,234,314
+Henry,Mt Pleasant Ward 2,Board of Supervisors,,REP,Marc B Lindeen,531,289,242
+Henry,Mt Pleasant Ward 3,Board of Supervisors,,REP,Marc B Lindeen,589,285,304
+Henry,Mt Pleasant Ward 4,Board of Supervisors,,REP,Marc B Lindeen,571,245,326
+Henry,Central Precinct,Board of Supervisors,,REP,Marc B Lindeen,984,425,559
+Henry,Northwest Precinct,Board of Supervisors,,,Write-in,3,1,2
+Henry,Northeast Precinct,Board of Supervisors,,,Write-in,11,7,4
+Henry,Southeast Precinct,Board of Supervisors,,,Write-in,11,8,3
+Henry,Southwest Precinct,Board of Supervisors,,,Write-in,20,10,10
+Henry,Mt Pleasant Ward 1,Board of Supervisors,,,Write-in,22,11,11
+Henry,Mt Pleasant Ward 2,Board of Supervisors,,,Write-in,11,6,5
+Henry,Mt Pleasant Ward 3,Board of Supervisors,,,Write-in,14,6,8
+Henry,Mt Pleasant Ward 4,Board of Supervisors,,,Write-in,7,1,6
+Henry,Central Precinct,Board of Supervisors,,,Write-in,21,12,9
+Henry,Northwest Precinct,County Treasurer,,REP,Ana Lair,655,438,217
+Henry,Northeast Precinct,County Treasurer,,REP,Ana Lair,622,401,221
+Henry,Southeast Precinct,County Treasurer,,REP,Ana Lair,1183,778,405
+Henry,Southwest Precinct,County Treasurer,,REP,Ana Lair,547,358,189
+Henry,Mt Pleasant Ward 1,County Treasurer,,REP,Ana Lair,570,253,317
+Henry,Mt Pleasant Ward 2,County Treasurer,,REP,Ana Lair,545,299,246
+Henry,Mt Pleasant Ward 3,County Treasurer,,REP,Ana Lair,617,300,317
+Henry,Mt Pleasant Ward 4,County Treasurer,,REP,Ana Lair,585,247,338
+Henry,Central Precinct,County Treasurer,,REP,Ana Lair,1031,445,586
+Henry,Northwest Precinct,County Treasurer,,,Write-in,1,0,1
+Henry,Northeast Precinct,County Treasurer,,,Write-in,3,3,0
+Henry,Southeast Precinct,County Treasurer,,,Write-in,7,2,5
+Henry,Southwest Precinct,County Treasurer,,,Write-in,4,3,1
+Henry,Mt Pleasant Ward 1,County Treasurer,,,Write-in,9,3,6
+Henry,Mt Pleasant Ward 2,County Treasurer,,,Write-in,9,5,4
+Henry,Mt Pleasant Ward 3,County Treasurer,,,Write-in,8,4,4
+Henry,Mt Pleasant Ward 4,County Treasurer,,,Write-in,7,3,4
+Henry,Central Precinct,County Treasurer,,,Write-in,8,3,5
+Henry,Northwest Precinct,County Recorder,,DEM,Mindy Dill-Fitzgibbon,502,348,154
+Henry,Northeast Precinct,County Recorder,,DEM,Mindy Dill-Fitzgibbon,507,336,171
+Henry,Southeast Precinct,County Recorder,,DEM,Mindy Dill-Fitzgibbon,947,638,309
+Henry,Southwest Precinct,County Recorder,,DEM,Mindy Dill-Fitzgibbon,433,267,166
+Henry,Mt Pleasant Ward 1,County Recorder,,DEM,Mindy Dill-Fitzgibbon,484,211,273
+Henry,Mt Pleasant Ward 2,County Recorder,,DEM,Mindy Dill-Fitzgibbon,482,243,239
+Henry,Mt Pleasant Ward 3,County Recorder,,DEM,Mindy Dill-Fitzgibbon,548,257,291
+Henry,Mt Pleasant Ward 4,County Recorder,,DEM,Mindy Dill-Fitzgibbon,478,180,298
+Henry,Central Precinct,County Recorder,,DEM,Mindy Dill-Fitzgibbon,802,319,483
+Henry,Northwest Precinct,County Recorder,,,Write-in,10,8,2
+Henry,Northeast Precinct,County Recorder,,,Write-in,6,5,1
+Henry,Southeast Precinct,County Recorder,,,Write-in,18,15,3
+Henry,Southwest Precinct,County Recorder,,,Write-in,11,7,4
+Henry,Mt Pleasant Ward 1,County Recorder,,,Write-in,14,7,7
+Henry,Mt Pleasant Ward 2,County Recorder,,,Write-in,15,8,7
+Henry,Mt Pleasant Ward 3,County Recorder,,,Write-in,20,12,8
+Henry,Mt Pleasant Ward 4,County Recorder,,,Write-in,15,8,7
+Henry,Central Precinct,County Recorder,,,Write-in,20,8,12
+Henry,Northwest Precinct,County Attorney,,REP,Darin R Stater,617,423,194
+Henry,Northeast Precinct,County Attorney,,REP,Darin R Stater,570,372,198
+Henry,Southeast Precinct,County Attorney,,REP,Darin R Stater,1084,716,368
+Henry,Southwest Precinct,County Attorney,,REP,Darin R Stater,512,339,173
+Henry,Mt Pleasant Ward 1,County Attorney,,REP,Darin R Stater,524,227,297
+Henry,Mt Pleasant Ward 2,County Attorney,,REP,Darin R Stater,522,282,240
+Henry,Mt Pleasant Ward 3,County Attorney,,REP,Darin R Stater,587,287,300
+Henry,Mt Pleasant Ward 4,County Attorney,,REP,Darin R Stater,551,241,310
+Henry,Central Precinct,County Attorney,,REP,Darin R Stater,967,416,551
+Henry,Northwest Precinct,County Attorney,,,Write-in,5,1,4
+Henry,Northeast Precinct,County Attorney,,,Write-in,6,3,3
+Henry,Southeast Precinct,County Attorney,,,Write-in,10,7,3
+Henry,Southwest Precinct,County Attorney,,,Write-in,12,6,6
+Henry,Mt Pleasant Ward 1,County Attorney,,,Write-in,15,4,11
+Henry,Mt Pleasant Ward 2,County Attorney,,,Write-in,9,5,4
+Henry,Mt Pleasant Ward 3,County Attorney,,,Write-in,8,4,4
+Henry,Mt Pleasant Ward 4,County Attorney,,,Write-in,10,3,7
+Henry,Central Precinct,County Attorney,,,Write-in,10,3,7
+Henry,Southeast Precinct,Baltimore Township Trustee,,,Dave Lohman,331,190,141
+Henry,Southeast Precinct,Baltimore Township Trustee,,,Write-in,3,3,0
+Henry,Southeast Precinct,Baltimore Township Clerk,,,Dorothy D. Jacobs,342,204,138
+Henry,Southeast Precinct,Baltimore Township Clerk,,,Write-in,2,1,1
+Henry,Northeast Precinct,Canaan Township Trustee,,,Nathan Lange,121,48,73
+Henry,Northeast Precinct,Canaan Township Trustee,,,Write-in,0,0,0
+Henry,Northeast Precinct,Canaan Township Clerk,,,Kate Byczek,124,49,75
+Henry,Northeast Precinct,Canaan Township Clerk,,,Write-in,0,0,0
+Henry,Central Precinct,Center Township Trustee,,,Steve Gray,379,169,210
+Henry,Central Precinct,Center Township Trustee,,,Write-in,1,0,1
+Henry,Central Precinct,Center Township Clerk,,,Carol McCulley,365,161,204
+Henry,Central Precinct,Center Township Clerk,,,Write-in,0,0,0
+Henry,Southwest Precinct,Jackson Township Trustee,,,Write-in,24,10,14
+Henry,Southwest Precinct,Jackson Township Clerk,,,Write-in,15,6,9
+Henry,Northwest Precinct,Jefferson Township Trustee,,,Paul VonTersch,230,175,55
+Henry,Northwest Precinct,Jefferson Township Trustee,,,Write-in,6,6,0
+Henry,Northwest Precinct,Jefferson Township Clerk,,,Write-in,6,5,1
+Henry,Central Precinct,Marion Township Trustee,,,Write-in,8,3,5
+Henry,Central Precinct,Marion Township Clerk,,,Write-in,6,2,4
+Henry,Southeast Precinct,New London Township Trustee,,,Write-in,15,9,6
+Henry,Southeast Precinct,New London Township Clerk,,,Write-in,8,5,3
+Henry,Southwest Precinct,Salem Township Trustee,,,Jon Mills,151,108,43
+Henry,Southwest Precinct,Salem Township Trustee,,,Write-in,0,0,0
+Henry,Southwest Precinct,Salem Township Clerk,,,Dan L Wesely,147,108,39
+Henry,Southwest Precinct,Salem Township Clerk,,,Write-in,0,0,0
+Henry,Northeast Precinct,Scott Township Trustee,,,Write-in,9,6,3
+Henry,Northeast Precinct,Scott Township Clerk,,,Write-in,4,2,2
+Henry,Central Precinct,Tippecanoe Township Trustee,,,Mike Kerr,226,99,127
+Henry,Central Precinct,Tippecanoe Township Trustee,,,Write-in,3,1,2
+Henry,Central Precinct,Tippecanoe Township Clerk,,,Gary Oldt,234,105,129
+Henry,Central Precinct,Tippecanoe Township Clerk,,,Write-in,1,1,0
+Henry,Central Precinct,Trenton Township Trustee,,,Write-in,22,2,20
+Henry,Central Precinct,Trenton Township Clerk,,,Kris Miller,150,50,100
+Henry,Central Precinct,Trenton Township Clerk,,,Write-in,3,3,0
+Henry,Northwest Precinct,Wayne Township Trustee,,,Write-in,12,2,10
+Henry,Northeast Precinct,Wayne Township Trustee,,,Write-in,3,2,1
+Henry,Northwest Precinct,Wayne Township Clerk,,,Brad Benson,85,44,41
+Henry,Northeast Precinct,Wayne Township Clerk,,,Brad Benson,54,26,28
+Henry,Northwest Precinct,Wayne Township Clerk,,,Write-in,0,0,0
+Henry,Northeast Precinct,Wayne Township Clerk,,,Write-in,0,0,0
+Henry,Northwest Precinct,Hospital Board of Trustees,,,Robert G Meyer,570,388,182
+Henry,Northeast Precinct,Hospital Board of Trustees,,,Robert G Meyer,487,320,167
+Henry,Southeast Precinct,Hospital Board of Trustees,,,Robert G Meyer,724,472,252
+Henry,Southwest Precinct,Hospital Board of Trustees,,,Robert G Meyer,381,248,133
+Henry,Mt Pleasant Ward 1,Hospital Board of Trustees,,,Robert G Meyer,431,181,250
+Henry,Mt Pleasant Ward 2,Hospital Board of Trustees,,,Robert G Meyer,419,217,202
+Henry,Mt Pleasant Ward 3,Hospital Board of Trustees,,,Robert G Meyer,471,221,250
+Henry,Mt Pleasant Ward 4,Hospital Board of Trustees,,,Robert G Meyer,450,189,261
+Henry,Central Precinct,Hospital Board of Trustees,,,Robert G Meyer,715,288,427
+Henry,Northwest Precinct,Hospital Board of Trustees,,,Joel Prottsman,474,312,162
+Henry,Northeast Precinct,Hospital Board of Trustees,,,Joel Prottsman,512,339,173
+Henry,Southeast Precinct,Hospital Board of Trustees,,,Joel Prottsman,1079,726,353
+Henry,Southwest Precinct,Hospital Board of Trustees,,,Joel Prottsman,425,287,138
+Henry,Mt Pleasant Ward 1,Hospital Board of Trustees,,,Joel Prottsman,448,187,261
+Henry,Mt Pleasant Ward 2,Hospital Board of Trustees,,,Joel Prottsman,439,226,213
+Henry,Mt Pleasant Ward 3,Hospital Board of Trustees,,,Joel Prottsman,496,236,260
+Henry,Mt Pleasant Ward 4,Hospital Board of Trustees,,,Joel Prottsman,463,190,273
+Henry,Central Precinct,Hospital Board of Trustees,,,Joel Prottsman,771,320,451
+Henry,Northwest Precinct,Hospital Board of Trustees,,,Write-in,2,2,0
+Henry,Northeast Precinct,Hospital Board of Trustees,,,Write-in,3,1,2
+Henry,Southeast Precinct,Hospital Board of Trustees,,,Write-in,4,3,1
+Henry,Southwest Precinct,Hospital Board of Trustees,,,Write-in,3,3,0
+Henry,Mt Pleasant Ward 1,Hospital Board of Trustees,,,Write-in,6,3,3
+Henry,Mt Pleasant Ward 2,Hospital Board of Trustees,,,Write-in,1,0,1
+Henry,Mt Pleasant Ward 3,Hospital Board of Trustees,,,Write-in,5,2,3
+Henry,Mt Pleasant Ward 4,Hospital Board of Trustees,,,Write-in,5,3,2
+Henry,Central Precinct,Hospital Board of Trustees,,,Write-in,10,4,6
+Henry,Northwest Precinct,Hospital Board of Trustees To Fill a Vacancy,,,Carla McNamee,580,394,186
+Henry,Northeast Precinct,Hospital Board of Trustees To Fill a Vacancy,,,Carla McNamee,551,367,184
+Henry,Southeast Precinct,Hospital Board of Trustees To Fill a Vacancy,,,Carla McNamee,1028,698,330
+Henry,Southwest Precinct,Hospital Board of Trustees To Fill a Vacancy,,,Carla McNamee,498,325,173
+Henry,Mt Pleasant Ward 1,Hospital Board of Trustees To Fill a Vacancy,,,Carla McNamee,518,222,296
+Henry,Mt Pleasant Ward 2,Hospital Board of Trustees To Fill a Vacancy,,,Carla McNamee,509,268,241
+Henry,Mt Pleasant Ward 3,Hospital Board of Trustees To Fill a Vacancy,,,Carla McNamee,588,281,307
+Henry,Mt Pleasant Ward 4,Hospital Board of Trustees To Fill a Vacancy,,,Carla McNamee,527,215,312
+Henry,Central Precinct,Hospital Board of Trustees To Fill a Vacancy,,,Carla McNamee,903,385,518
+Henry,Northwest Precinct,Hospital Board of Trustees To Fill a Vacancy,,,Write-in,3,1,2
+Henry,Northeast Precinct,Hospital Board of Trustees To Fill a Vacancy,,,Write-in,4,2,2
+Henry,Southeast Precinct,Hospital Board of Trustees To Fill a Vacancy,,,Write-in,4,3,1
+Henry,Southwest Precinct,Hospital Board of Trustees To Fill a Vacancy,,,Write-in,2,2,0
+Henry,Mt Pleasant Ward 1,Hospital Board of Trustees To Fill a Vacancy,,,Write-in,7,3,4
+Henry,Mt Pleasant Ward 2,Hospital Board of Trustees To Fill a Vacancy,,,Write-in,5,2,3
+Henry,Mt Pleasant Ward 3,Hospital Board of Trustees To Fill a Vacancy,,,Write-in,6,2,4
+Henry,Mt Pleasant Ward 4,Hospital Board of Trustees To Fill a Vacancy,,,Write-in,4,3,1
+Henry,Central Precinct,Hospital Board of Trustees To Fill a Vacancy,,,Write-in,5,1,4
+Henry,Northwest Precinct,Henry County Soil & Water Conservation Dist. Commissioner,,,Rick Mallams,537,362,175
+Henry,Northeast Precinct,Henry County Soil & Water Conservation Dist. Commissioner,,,Rick Mallams,532,344,188
+Henry,Southeast Precinct,Henry County Soil & Water Conservation Dist. Commissioner,,,Rick Mallams,956,638,318
+Henry,Southwest Precinct,Henry County Soil & Water Conservation Dist. Commissioner,,,Rick Mallams,432,277,155
+Henry,Mt Pleasant Ward 1,Henry County Soil & Water Conservation Dist. Commissioner,,,Rick Mallams,484,205,279
+Henry,Mt Pleasant Ward 2,Henry County Soil & Water Conservation Dist. Commissioner,,,Rick Mallams,456,225,231
+Henry,Mt Pleasant Ward 3,Henry County Soil & Water Conservation Dist. Commissioner,,,Rick Mallams,530,243,287
+Henry,Mt Pleasant Ward 4,Henry County Soil & Water Conservation Dist. Commissioner,,,Rick Mallams,486,194,292
+Henry,Central Precinct,Henry County Soil & Water Conservation Dist. Commissioner,,,Rick Mallams,866,366,500
+Henry,Northwest Precinct,Henry County Soil & Water Conservation Dist. Commissioner,,,Harlan Miller,466,315,151
+Henry,Northeast Precinct,Henry County Soil & Water Conservation Dist. Commissioner,,,Harlan Miller,481,321,160
+Henry,Southeast Precinct,Henry County Soil & Water Conservation Dist. Commissioner,,,Harlan Miller,763,507,256
+Henry,Southwest Precinct,Henry County Soil & Water Conservation Dist. Commissioner,,,Harlan Miller,441,289,152
+Henry,Mt Pleasant Ward 1,Henry County Soil & Water Conservation Dist. Commissioner,,,Harlan Miller,417,182,235
+Henry,Mt Pleasant Ward 2,Henry County Soil & Water Conservation Dist. Commissioner,,,Harlan Miller,407,213,194
+Henry,Mt Pleasant Ward 3,Henry County Soil & Water Conservation Dist. Commissioner,,,Harlan Miller,460,211,249
+Henry,Mt Pleasant Ward 4,Henry County Soil & Water Conservation Dist. Commissioner,,,Harlan Miller,413,172,241
+Henry,Central Precinct,Henry County Soil & Water Conservation Dist. Commissioner,,,Harlan Miller,702,287,415
+Henry,Northwest Precinct,Henry County Soil & Water Conservation Dist. Commissioner,,,Write-in,3,1,2
+Henry,Northeast Precinct,Henry County Soil & Water Conservation Dist. Commissioner,,,Write-in,5,1,4
+Henry,Southeast Precinct,Henry County Soil & Water Conservation Dist. Commissioner,,,Write-in,7,3,4
+Henry,Southwest Precinct,Henry County Soil & Water Conservation Dist. Commissioner,,,Write-in,4,1,3
+Henry,Mt Pleasant Ward 1,Henry County Soil & Water Conservation Dist. Commissioner,,,Write-in,3,0,3
+Henry,Mt Pleasant Ward 2,Henry County Soil & Water Conservation Dist. Commissioner,,,Write-in,2,0,2
+Henry,Mt Pleasant Ward 3,Henry County Soil & Water Conservation Dist. Commissioner,,,Write-in,4,2,2
+Henry,Mt Pleasant Ward 4,Henry County Soil & Water Conservation Dist. Commissioner,,,Write-in,0,0,0
+Henry,Central Precinct,Henry County Soil & Water Conservation Dist. Commissioner,,,Write-in,2,2,0
+Henry,Northwest Precinct,Henry County Agricultural Extension Council Members,,,Roger Beckman,501,342,159
+Henry,Northeast Precinct,Henry County Agricultural Extension Council Members,,,Roger Beckman,477,312,165
+Henry,Southeast Precinct,Henry County Agricultural Extension Council Members,,,Roger Beckman,865,582,283
+Henry,Southwest Precinct,Henry County Agricultural Extension Council Members,,,Roger Beckman,397,268,129
+Henry,Mt Pleasant Ward 1,Henry County Agricultural Extension Council Members,,,Roger Beckman,436,178,258
+Henry,Mt Pleasant Ward 2,Henry County Agricultural Extension Council Members,,,Roger Beckman,407,212,195
+Henry,Mt Pleasant Ward 3,Henry County Agricultural Extension Council Members,,,Roger Beckman,466,217,249
+Henry,Mt Pleasant Ward 4,Henry County Agricultural Extension Council Members,,,Roger Beckman,441,187,254
+Henry,Central Precinct,Henry County Agricultural Extension Council Members,,,Roger Beckman,748,326,422
+Henry,Northwest Precinct,Henry County Agricultural Extension Council Members,,,Marc Benson,506,345,161
+Henry,Northeast Precinct,Henry County Agricultural Extension Council Members,,,Marc Benson,507,332,175
+Henry,Southeast Precinct,Henry County Agricultural Extension Council Members,,,Marc Benson,738,496,242
+Henry,Southwest Precinct,Henry County Agricultural Extension Council Members,,,Marc Benson,360,244,116
+Henry,Mt Pleasant Ward 1,Henry County Agricultural Extension Council Members,,,Marc Benson,377,155,222
+Henry,Mt Pleasant Ward 2,Henry County Agricultural Extension Council Members,,,Marc Benson,360,185,175
+Henry,Mt Pleasant Ward 3,Henry County Agricultural Extension Council Members,,,Marc Benson,421,196,225
+Henry,Mt Pleasant Ward 4,Henry County Agricultural Extension Council Members,,,Marc Benson,392,159,233
+Henry,Central Precinct,Henry County Agricultural Extension Council Members,,,Marc Benson,682,285,397
+Henry,Northwest Precinct,Henry County Agricultural Extension Council Members,,,Linn Hunsaker,486,336,150
+Henry,Northeast Precinct,Henry County Agricultural Extension Council Members,,,Linn Hunsaker,460,295,165
+Henry,Southeast Precinct,Henry County Agricultural Extension Council Members,,,Linn Hunsaker,827,546,281
+Henry,Southwest Precinct,Henry County Agricultural Extension Council Members,,,Linn Hunsaker,416,284,132
+Henry,Mt Pleasant Ward 1,Henry County Agricultural Extension Council Members,,,Linn Hunsaker,433,172,261
+Henry,Mt Pleasant Ward 2,Henry County Agricultural Extension Council Members,,,Linn Hunsaker,418,209,209
+Henry,Mt Pleasant Ward 3,Henry County Agricultural Extension Council Members,,,Linn Hunsaker,481,219,262
+Henry,Mt Pleasant Ward 4,Henry County Agricultural Extension Council Members,,,Linn Hunsaker,443,186,257
+Henry,Central Precinct,Henry County Agricultural Extension Council Members,,,Linn Hunsaker,784,322,462
+Henry,Northwest Precinct,Henry County Agricultural Extension Council Members,,,Mary Lou Steffensmeier,469,317,152
+Henry,Northeast Precinct,Henry County Agricultural Extension Council Members,,,Mary Lou Steffensmeier,457,310,147
+Henry,Southeast Precinct,Henry County Agricultural Extension Council Members,,,Mary Lou Steffensmeier,831,552,279
+Henry,Southwest Precinct,Henry County Agricultural Extension Council Members,,,Mary Lou Steffensmeier,427,292,135
+Henry,Mt Pleasant Ward 1,Henry County Agricultural Extension Council Members,,,Mary Lou Steffensmeier,415,173,242
+Henry,Mt Pleasant Ward 2,Henry County Agricultural Extension Council Members,,,Mary Lou Steffensmeier,381,202,179
+Henry,Mt Pleasant Ward 3,Henry County Agricultural Extension Council Members,,,Mary Lou Steffensmeier,462,218,244
+Henry,Mt Pleasant Ward 4,Henry County Agricultural Extension Council Members,,,Mary Lou Steffensmeier,406,169,237
+Henry,Central Precinct,Henry County Agricultural Extension Council Members,,,Mary Lou Steffensmeier,699,294,405
+Henry,Northwest Precinct,Henry County Agricultural Extension Council Members,,,Brenda Rubey,471,323,148
+Henry,Northeast Precinct,Henry County Agricultural Extension Council Members,,,Brenda Rubey,439,292,147
+Henry,Southeast Precinct,Henry County Agricultural Extension Council Members,,,Brenda Rubey,737,492,245
+Henry,Southwest Precinct,Henry County Agricultural Extension Council Members,,,Brenda Rubey,363,246,117
+Henry,Mt Pleasant Ward 1,Henry County Agricultural Extension Council Members,,,Brenda Rubey,393,164,229
+Henry,Mt Pleasant Ward 2,Henry County Agricultural Extension Council Members,,,Brenda Rubey,362,187,175
+Henry,Mt Pleasant Ward 3,Henry County Agricultural Extension Council Members,,,Brenda Rubey,418,194,224
+Henry,Mt Pleasant Ward 4,Henry County Agricultural Extension Council Members,,,Brenda Rubey,390,160,230
+Henry,Central Precinct,Henry County Agricultural Extension Council Members,,,Brenda Rubey,661,275,386
+Henry,Northwest Precinct,Henry County Agricultural Extension Council Members,,,Kelly Waters,460,308,152
+Henry,Northeast Precinct,Henry County Agricultural Extension Council Members,,,Kelly Waters,439,294,145
+Henry,Southeast Precinct,Henry County Agricultural Extension Council Members,,,Kelly Waters,755,506,249
+Henry,Southwest Precinct,Henry County Agricultural Extension Council Members,,,Kelly Waters,375,253,122
+Henry,Mt Pleasant Ward 1,Henry County Agricultural Extension Council Members,,,Kelly Waters,378,158,220
+Henry,Mt Pleasant Ward 2,Henry County Agricultural Extension Council Members,,,Kelly Waters,357,186,171
+Henry,Mt Pleasant Ward 3,Henry County Agricultural Extension Council Members,,,Kelly Waters,420,192,228
+Henry,Mt Pleasant Ward 4,Henry County Agricultural Extension Council Members,,,Kelly Waters,384,159,225
+Henry,Central Precinct,Henry County Agricultural Extension Council Members,,,Kelly Waters,651,274,377
+Henry,Northwest Precinct,Henry County Agricultural Extension Council Members,,,Write-in,6,1,5
+Henry,Northeast Precinct,Henry County Agricultural Extension Council Members,,,Write-in,4,3,1
+Henry,Southeast Precinct,Henry County Agricultural Extension Council Members,,,Write-in,7,6,1
+Henry,Southwest Precinct,Henry County Agricultural Extension Council Members,,,Write-in,4,3,1
+Henry,Mt Pleasant Ward 1,Henry County Agricultural Extension Council Members,,,Write-in,9,1,8
+Henry,Mt Pleasant Ward 2,Henry County Agricultural Extension Council Members,,,Write-in,2,0,2
+Henry,Mt Pleasant Ward 3,Henry County Agricultural Extension Council Members,,,Write-in,3,3,0
+Henry,Mt Pleasant Ward 4,Henry County Agricultural Extension Council Members,,,Write-in,2,0,2
+Henry,Central Precinct,Henry County Agricultural Extension Council Members,,,Write-in,7,3,4
+Henry,Northwest Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,403,278,125
+Henry,Northeast Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,401,266,135
+Henry,Southeast Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,795,536,259
+Henry,Southwest Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,360,238,122
+Henry,Mt Pleasant Ward 1,Court of Appeals Judge Mary Ellen Tabor,,,Yes,381,151,230
+Henry,Mt Pleasant Ward 2,Court of Appeals Judge Mary Ellen Tabor,,,Yes,364,191,173
+Henry,Mt Pleasant Ward 3,Court of Appeals Judge Mary Ellen Tabor,,,Yes,426,200,226
+Henry,Mt Pleasant Ward 4,Court of Appeals Judge Mary Ellen Tabor,,,Yes,384,151,233
+Henry,Central Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,568,233,335
+Henry,Northwest Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,164,111,53
+Henry,Northeast Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,141,98,43
+Henry,Southeast Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,236,158,78
+Henry,Southwest Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,126,76,50
+Henry,Mt Pleasant Ward 1,Court of Appeals Judge Mary Ellen Tabor,,,No,117,55,62
+Henry,Mt Pleasant Ward 2,Court of Appeals Judge Mary Ellen Tabor,,,No,129,66,63
+Henry,Mt Pleasant Ward 3,Court of Appeals Judge Mary Ellen Tabor,,,No,138,60,78
+Henry,Mt Pleasant Ward 4,Court of Appeals Judge Mary Ellen Tabor,,,No,108,46,62
+Henry,Central Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,282,119,163
+Henry,Northwest Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,351,241,110
+Henry,Northeast Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,336,227,109
+Henry,Southeast Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,668,458,210
+Henry,Southwest Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,300,196,104
+Henry,Mt Pleasant Ward 1,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,325,130,195
+Henry,Mt Pleasant Ward 2,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,317,164,153
+Henry,Mt Pleasant Ward 3,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,371,173,198
+Henry,Mt Pleasant Ward 4,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,345,141,204
+Henry,Central Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,502,211,291
+Henry,Northwest Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,204,140,64
+Henry,Northeast Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,187,125,62
+Henry,Southeast Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,320,213,107
+Henry,Southwest Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,164,104,60
+Henry,Mt Pleasant Ward 1,Court of Appeals Judge Anuradha Vaitheswaran,,,No,161,74,87
+Henry,Mt Pleasant Ward 2,Court of Appeals Judge Anuradha Vaitheswaran,,,No,161,85,76
+Henry,Mt Pleasant Ward 3,Court of Appeals Judge Anuradha Vaitheswaran,,,No,181,79,102
+Henry,Mt Pleasant Ward 4,Court of Appeals Judge Anuradha Vaitheswaran,,,No,135,51,84
+Henry,Central Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,322,131,191
+Henry,Northwest Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,438,298,140
+Henry,Northeast Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,394,260,134
+Henry,Southeast Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,782,524,258
+Henry,Southwest Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,368,239,129
+Henry,Mt Pleasant Ward 1,Court of Appeals Judge Michael R. Mullins,,,Yes,366,146,220
+Henry,Mt Pleasant Ward 2,Court of Appeals Judge Michael R. Mullins,,,Yes,363,189,174
+Henry,Mt Pleasant Ward 3,Court of Appeals Judge Michael R. Mullins,,,Yes,424,201,223
+Henry,Mt Pleasant Ward 4,Court of Appeals Judge Michael R. Mullins,,,Yes,383,152,231
+Henry,Central Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,580,239,341
+Henry,Northwest Precinct,Court of Appeals Judge Michael R. Mullins,,,No,128,86,42
+Henry,Northeast Precinct,Court of Appeals Judge Michael R. Mullins,,,No,134,94,40
+Henry,Southeast Precinct,Court of Appeals Judge Michael R. Mullins,,,No,213,145,68
+Henry,Southwest Precinct,Court of Appeals Judge Michael R. Mullins,,,No,108,70,38
+Henry,Mt Pleasant Ward 1,Court of Appeals Judge Michael R. Mullins,,,No,114,52,62
+Henry,Mt Pleasant Ward 2,Court of Appeals Judge Michael R. Mullins,,,No,123,63,60
+Henry,Mt Pleasant Ward 3,Court of Appeals Judge Michael R. Mullins,,,No,126,53,73
+Henry,Mt Pleasant Ward 4,Court of Appeals Judge Michael R. Mullins,,,No,102,41,61
+Henry,Central Precinct,Court of Appeals Judge Michael R. Mullins,,,No,239,102,137
+Henry,Northwest Precinct,District 8B District Judge John M. Wright,,,Yes,413,284,129
+Henry,Northeast Precinct,District 8B District Judge John M. Wright,,,Yes,394,263,131
+Henry,Southeast Precinct,District 8B District Judge John M. Wright,,,Yes,797,539,258
+Henry,Southwest Precinct,District 8B District Judge John M. Wright,,,Yes,365,235,130
+Henry,Mt Pleasant Ward 1,District 8B District Judge John M. Wright,,,Yes,372,149,223
+Henry,Mt Pleasant Ward 2,District 8B District Judge John M. Wright,,,Yes,363,191,172
+Henry,Mt Pleasant Ward 3,District 8B District Judge John M. Wright,,,Yes,432,203,229
+Henry,Mt Pleasant Ward 4,District 8B District Judge John M. Wright,,,Yes,387,152,235
+Henry,Central Precinct,District 8B District Judge John M. Wright,,,Yes,596,243,353
+Henry,Northwest Precinct,District 8B District Judge John M. Wright,,,No,141,93,48
+Henry,Northeast Precinct,District 8B District Judge John M. Wright,,,No,138,92,46
+Henry,Southeast Precinct,District 8B District Judge John M. Wright,,,No,236,157,79
+Henry,Southwest Precinct,District 8B District Judge John M. Wright,,,No,120,77,43
+Henry,Mt Pleasant Ward 1,District 8B District Judge John M. Wright,,,No,122,55,67
+Henry,Mt Pleasant Ward 2,District 8B District Judge John M. Wright,,,No,124,64,60
+Henry,Mt Pleasant Ward 3,District 8B District Judge John M. Wright,,,No,136,57,79
+Henry,Mt Pleasant Ward 4,District 8B District Judge John M. Wright,,,No,103,43,60
+Henry,Central Precinct,District 8B District Judge John M. Wright,,,No,253,108,145
+Henry,Northwest Precinct,District 8B District Judge Mark Kruse,,,Yes,418,287,131
+Henry,Northeast Precinct,District 8B District Judge Mark Kruse,,,Yes,412,272,140
+Henry,Southeast Precinct,District 8B District Judge Mark Kruse,,,Yes,824,555,269
+Henry,Southwest Precinct,District 8B District Judge Mark Kruse,,,Yes,379,248,131
+Henry,Mt Pleasant Ward 1,District 8B District Judge Mark Kruse,,,Yes,384,146,238
+Henry,Mt Pleasant Ward 2,District 8B District Judge Mark Kruse,,,Yes,367,196,171
+Henry,Mt Pleasant Ward 3,District 8B District Judge Mark Kruse,,,Yes,441,206,235
+Henry,Mt Pleasant Ward 4,District 8B District Judge Mark Kruse,,,Yes,398,153,245
+Henry,Central Precinct,District 8B District Judge Mark Kruse,,,Yes,625,253,372
+Henry,Northwest Precinct,District 8B District Judge Mark Kruse,,,No,135,93,42
+Henry,Northeast Precinct,District 8B District Judge Mark Kruse,,,No,124,87,37
+Henry,Southeast Precinct,District 8B District Judge Mark Kruse,,,No,196,133,63
+Henry,Southwest Precinct,District 8B District Judge Mark Kruse,,,No,104,64,40
+Henry,Mt Pleasant Ward 1,District 8B District Judge Mark Kruse,,,No,111,58,53
+Henry,Mt Pleasant Ward 2,District 8B District Judge Mark Kruse,,,No,123,61,62
+Henry,Mt Pleasant Ward 3,District 8B District Judge Mark Kruse,,,No,123,56,67
+Henry,Mt Pleasant Ward 4,District 8B District Judge Mark Kruse,,,No,95,40,55
+Henry,Central Precinct,District 8B District Judge Mark Kruse,,,No,220,99,121
+Henry,Northwest Precinct,District 8B District Associate Judge Tyron T. Rogers,,,Yes,414,287,127
+Henry,Northeast Precinct,District 8B District Associate Judge Tyron T. Rogers,,,Yes,382,260,122
+Henry,Southeast Precinct,District 8B District Associate Judge Tyron T. Rogers,,,Yes,761,518,243
+Henry,Southwest Precinct,District 8B District Associate Judge Tyron T. Rogers,,,Yes,341,225,116
+Henry,Mt Pleasant Ward 1,District 8B District Associate Judge Tyron T. Rogers,,,Yes,363,142,221
+Henry,Mt Pleasant Ward 2,District 8B District Associate Judge Tyron T. Rogers,,,Yes,358,188,170
+Henry,Mt Pleasant Ward 3,District 8B District Associate Judge Tyron T. Rogers,,,Yes,410,193,217
+Henry,Mt Pleasant Ward 4,District 8B District Associate Judge Tyron T. Rogers,,,Yes,383,150,233
+Henry,Central Precinct,District 8B District Associate Judge Tyron T. Rogers,,,Yes,569,234,335
+Henry,Northwest Precinct,District 8B District Associate Judge Tyron T. Rogers,,,No,135,91,44
+Henry,Northeast Precinct,District 8B District Associate Judge Tyron T. Rogers,,,No,141,95,46
+Henry,Southeast Precinct,District 8B District Associate Judge Tyron T. Rogers,,,No,248,166,82
+Henry,Southwest Precinct,District 8B District Associate Judge Tyron T. Rogers,,,No,130,81,49
+Henry,Mt Pleasant Ward 1,District 8B District Associate Judge Tyron T. Rogers,,,No,129,61,68
+Henry,Mt Pleasant Ward 2,District 8B District Associate Judge Tyron T. Rogers,,,No,125,66,59
+Henry,Mt Pleasant Ward 3,District 8B District Associate Judge Tyron T. Rogers,,,No,144,65,79
+Henry,Mt Pleasant Ward 4,District 8B District Associate Judge Tyron T. Rogers,,,No,109,46,63
+Henry,Central Precinct,District 8B District Associate Judge Tyron T. Rogers,,,No,260,109,151
+Henry,Northwest Precinct,District 8B District Associate Judge Jennifer Slocum Bailey,,,Yes,394,268,126
+Henry,Northeast Precinct,District 8B District Associate Judge Jennifer Slocum Bailey,,,Yes,404,270,134
+Henry,Southeast Precinct,District 8B District Associate Judge Jennifer Slocum Bailey,,,Yes,819,554,265
+Henry,Southwest Precinct,District 8B District Associate Judge Jennifer Slocum Bailey,,,Yes,361,238,123
+Henry,Mt Pleasant Ward 1,District 8B District Associate Judge Jennifer Slocum Bailey,,,Yes,385,155,230
+Henry,Mt Pleasant Ward 2,District 8B District Associate Judge Jennifer Slocum Bailey,,,Yes,373,191,182
+Henry,Mt Pleasant Ward 3,District 8B District Associate Judge Jennifer Slocum Bailey,,,Yes,437,209,228
+Henry,Mt Pleasant Ward 4,District 8B District Associate Judge Jennifer Slocum Bailey,,,Yes,389,150,239
+Henry,Central Precinct,District 8B District Associate Judge Jennifer Slocum Bailey,,,Yes,602,252,350
+Henry,Northwest Precinct,District 8B District Associate Judge Jennifer Slocum Bailey,,,No,152,107,45
+Henry,Northeast Precinct,District 8B District Associate Judge Jennifer Slocum Bailey,,,No,125,88,37
+Henry,Southeast Precinct,District 8B District Associate Judge Jennifer Slocum Bailey,,,No,214,145,69
+Henry,Southwest Precinct,District 8B District Associate Judge Jennifer Slocum Bailey,,,No,107,67,40
+Henry,Mt Pleasant Ward 1,District 8B District Associate Judge Jennifer Slocum Bailey,,,No,108,50,58
+Henry,Mt Pleasant Ward 2,District 8B District Associate Judge Jennifer Slocum Bailey,,,No,119,65,54
+Henry,Mt Pleasant Ward 3,District 8B District Associate Judge Jennifer Slocum Bailey,,,No,129,54,75
+Henry,Mt Pleasant Ward 4,District 8B District Associate Judge Jennifer Slocum Bailey,,,No,101,44,57
+Henry,Central Precinct,District 8B District Associate Judge Jennifer Slocum Bailey,,,No,235,96,139

@@ -1,0 +1,536 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Page,Clarinda Ward 1,United States Representative District 3,,REP,David Young,421,293,128
+Page,Clarinda Ward 2,United States Representative District 3,,REP,David Young,634,404,230
+Page,Essex City Hall,United States Representative District 3,,REP,David Young,380,298,82
+Page,Shenandoah Fire Station,United States Representative District 3,,REP,David Young,479,272,207
+Page,Page County Courthouse,United States Representative District 3,,REP,David Young,816,446,370
+Page,Shenandoah Ward 1,United States Representative District 3,,REP,David Young,199,156,43
+Page,Shenandoah Ward 2,United States Representative District 3,,REP,David Young,385,254,131
+Page,Shenandoah Ward 3,United States Representative District 3,,REP,David Young,462,321,141
+Page,Clarinda Ward 1,United States Representative District 3,,DEM,Cindy Axne,193,98,95
+Page,Clarinda Ward 2,United States Representative District 3,,DEM,Cindy Axne,410,186,224
+Page,Essex City Hall,United States Representative District 3,,DEM,Cindy Axne,111,87,24
+Page,Shenandoah Fire Station,United States Representative District 3,,DEM,Cindy Axne,165,84,81
+Page,Page County Courthouse,United States Representative District 3,,DEM,Cindy Axne,233,112,121
+Page,Shenandoah Ward 1,United States Representative District 3,,DEM,Cindy Axne,147,94,53
+Page,Shenandoah Ward 2,United States Representative District 3,,DEM,Cindy Axne,222,129,93
+Page,Shenandoah Ward 3,United States Representative District 3,,DEM,Cindy Axne,260,166,94
+Page,Clarinda Ward 1,United States Representative District 3,,LIB,Bryan Jack Holder,3,2,1
+Page,Clarinda Ward 2,United States Representative District 3,,LIB,Bryan Jack Holder,12,9,3
+Page,Essex City Hall,United States Representative District 3,,LIB,Bryan Jack Holder,5,3,2
+Page,Shenandoah Fire Station,United States Representative District 3,,LIB,Bryan Jack Holder,9,5,4
+Page,Page County Courthouse,United States Representative District 3,,LIB,Bryan Jack Holder,13,10,3
+Page,Shenandoah Ward 1,United States Representative District 3,,LIB,Bryan Jack Holder,4,3,1
+Page,Shenandoah Ward 2,United States Representative District 3,,LIB,Bryan Jack Holder,9,7,2
+Page,Shenandoah Ward 3,United States Representative District 3,,LIB,Bryan Jack Holder,10,4,6
+Page,Clarinda Ward 1,United States Representative District 3,,GRN,Paul Knupp,3,2,1
+Page,Clarinda Ward 2,United States Representative District 3,,GRN,Paul Knupp,5,5,0
+Page,Essex City Hall,United States Representative District 3,,GRN,Paul Knupp,0,0,0
+Page,Shenandoah Fire Station,United States Representative District 3,,GRN,Paul Knupp,0,0,0
+Page,Page County Courthouse,United States Representative District 3,,GRN,Paul Knupp,2,1,1
+Page,Shenandoah Ward 1,United States Representative District 3,,GRN,Paul Knupp,3,2,1
+Page,Shenandoah Ward 2,United States Representative District 3,,GRN,Paul Knupp,2,2,0
+Page,Shenandoah Ward 3,United States Representative District 3,,GRN,Paul Knupp,3,2,1
+Page,Clarinda Ward 1,United States Representative District 3,,LMN,Mark Elworth Jr.,1,1,0
+Page,Clarinda Ward 2,United States Representative District 3,,LMN,Mark Elworth Jr.,7,5,2
+Page,Essex City Hall,United States Representative District 3,,LMN,Mark Elworth Jr.,3,2,1
+Page,Shenandoah Fire Station,United States Representative District 3,,LMN,Mark Elworth Jr.,3,1,2
+Page,Page County Courthouse,United States Representative District 3,,LMN,Mark Elworth Jr.,1,1,0
+Page,Shenandoah Ward 1,United States Representative District 3,,LMN,Mark Elworth Jr.,2,2,0
+Page,Shenandoah Ward 2,United States Representative District 3,,LMN,Mark Elworth Jr.,1,0,1
+Page,Shenandoah Ward 3,United States Representative District 3,,LMN,Mark Elworth Jr.,2,2,0
+Page,Clarinda Ward 1,United States Representative District 3,,,Joe Grandanette,2,1,1
+Page,Clarinda Ward 2,United States Representative District 3,,,Joe Grandanette,3,0,3
+Page,Essex City Hall,United States Representative District 3,,,Joe Grandanette,2,0,2
+Page,Shenandoah Fire Station,United States Representative District 3,,,Joe Grandanette,1,0,1
+Page,Page County Courthouse,United States Representative District 3,,,Joe Grandanette,0,0,0
+Page,Shenandoah Ward 1,United States Representative District 3,,,Joe Grandanette,0,0,0
+Page,Shenandoah Ward 2,United States Representative District 3,,,Joe Grandanette,0,0,0
+Page,Shenandoah Ward 3,United States Representative District 3,,,Joe Grandanette,2,1,1
+Page,Clarinda Ward 1,United States Representative District 3,,,Write-in,0,0,0
+Page,Clarinda Ward 2,United States Representative District 3,,,Write-in,0,0,0
+Page,Essex City Hall,United States Representative District 3,,,Write-in,1,0,1
+Page,Shenandoah Fire Station,United States Representative District 3,,,Write-in,0,0,0
+Page,Page County Courthouse,United States Representative District 3,,,Write-in,1,1,0
+Page,Shenandoah Ward 1,United States Representative District 3,,,Write-in,0,0,0
+Page,Shenandoah Ward 2,United States Representative District 3,,,Write-in,0,0,0
+Page,Shenandoah Ward 3,United States Representative District 3,,,Write-in,0,0,0
+Page,Clarinda Ward 1,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,378,254,124
+Page,Clarinda Ward 2,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,624,388,236
+Page,Essex City Hall,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,384,294,90
+Page,Shenandoah Fire Station,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,482,267,215
+Page,Page County Courthouse,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,782,421,361
+Page,Shenandoah Ward 1,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,203,153,50
+Page,Shenandoah Ward 2,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,389,254,135
+Page,Shenandoah Ward 3,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,460,312,148
+Page,Clarinda Ward 1,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,236,136,100
+Page,Clarinda Ward 2,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,422,208,214
+Page,Essex City Hall,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,114,92,22
+Page,Shenandoah Fire Station,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,170,93,77
+Page,Page County Courthouse,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,259,139,120
+Page,Shenandoah Ward 1,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,146,99,47
+Page,Shenandoah Ward 2,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,219,128,91
+Page,Shenandoah Ward 3,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,273,181,92
+Page,Clarinda Ward 1,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,10,6,4
+Page,Clarinda Ward 2,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,17,12,5
+Page,Essex City Hall,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,3,3,0
+Page,Shenandoah Fire Station,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,5,1,4
+Page,Page County Courthouse,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,16,10,6
+Page,Shenandoah Ward 1,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,4,3,1
+Page,Shenandoah Ward 2,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,10,8,2
+Page,Shenandoah Ward 3,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,4,3,1
+Page,Clarinda Ward 1,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,5,4,1
+Page,Clarinda Ward 2,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,1,2
+Page,Essex City Hall,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,1,1,0
+Page,Shenandoah Fire Station,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,0,0,0
+Page,Page County Courthouse,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,6,2,4
+Page,Shenandoah Ward 1,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,3,0
+Page,Shenandoah Ward 2,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,2,2,0
+Page,Shenandoah Ward 3,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,2,1
+Page,Clarinda Ward 1,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Page,Clarinda Ward 2,Governor/Lieutenant Governor,,,Write-in,1,0,1
+Page,Essex City Hall,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Page,Shenandoah Fire Station,Governor/Lieutenant Governor,,,Write-in,1,1,0
+Page,Page County Courthouse,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Page,Shenandoah Ward 1,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Page,Shenandoah Ward 2,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Page,Shenandoah Ward 3,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Page,Clarinda Ward 1,Secretary of State,,REP,Paul D. Pate,423,295,128
+Page,Clarinda Ward 2,Secretary of State,,REP,Paul D. Pate,666,421,245
+Page,Essex City Hall,Secretary of State,,REP,Paul D. Pate,385,299,86
+Page,Shenandoah Fire Station,Secretary of State,,REP,Paul D. Pate,497,275,222
+Page,Page County Courthouse,Secretary of State,,REP,Paul D. Pate,832,456,376
+Page,Shenandoah Ward 1,Secretary of State,,REP,Paul D. Pate,214,167,47
+Page,Shenandoah Ward 2,Secretary of State,,REP,Paul D. Pate,390,256,134
+Page,Shenandoah Ward 3,Secretary of State,,REP,Paul D. Pate,490,335,155
+Page,Clarinda Ward 1,Secretary of State,,DEM,Deidre DeJear,182,90,92
+Page,Clarinda Ward 2,Secretary of State,,DEM,Deidre DeJear,368,169,199
+Page,Essex City Hall,Secretary of State,,DEM,Deidre DeJear,105,85,20
+Page,Shenandoah Fire Station,Secretary of State,,DEM,Deidre DeJear,139,72,67
+Page,Page County Courthouse,Secretary of State,,DEM,Deidre DeJear,198,96,102
+Page,Shenandoah Ward 1,Secretary of State,,DEM,Deidre DeJear,133,83,50
+Page,Shenandoah Ward 2,Secretary of State,,DEM,Deidre DeJear,211,120,91
+Page,Shenandoah Ward 3,Secretary of State,,DEM,Deidre DeJear,233,152,81
+Page,Clarinda Ward 1,Secretary of State,,LIB,Jules Ofenbakh,12,8,4
+Page,Clarinda Ward 2,Secretary of State,,LIB,Jules Ofenbakh,20,10,10
+Page,Essex City Hall,Secretary of State,,LIB,Jules Ofenbakh,5,3,2
+Page,Shenandoah Fire Station,Secretary of State,,LIB,Jules Ofenbakh,10,5,5
+Page,Page County Courthouse,Secretary of State,,LIB,Jules Ofenbakh,21,14,7
+Page,Shenandoah Ward 1,Secretary of State,,LIB,Jules Ofenbakh,9,8,1
+Page,Shenandoah Ward 2,Secretary of State,,LIB,Jules Ofenbakh,13,12,1
+Page,Shenandoah Ward 3,Secretary of State,,LIB,Jules Ofenbakh,8,6,2
+Page,Clarinda Ward 1,Secretary of State,,,Write-in,0,0,0
+Page,Clarinda Ward 2,Secretary of State,,,Write-in,0,0,0
+Page,Essex City Hall,Secretary of State,,,Write-in,0,0,0
+Page,Shenandoah Fire Station,Secretary of State,,,Write-in,0,0,0
+Page,Page County Courthouse,Secretary of State,,,Write-in,0,0,0
+Page,Shenandoah Ward 1,Secretary of State,,,Write-in,0,0,0
+Page,Shenandoah Ward 2,Secretary of State,,,Write-in,0,0,0
+Page,Shenandoah Ward 3,Secretary of State,,,Write-in,0,0,0
+Page,Clarinda Ward 1,Auditor of State,,REP,Mary Mosiman,406,279,127
+Page,Clarinda Ward 2,Auditor of State,,REP,Mary Mosiman,641,405,236
+Page,Essex City Hall,Auditor of State,,REP,Mary Mosiman,367,284,83
+Page,Shenandoah Fire Station,Auditor of State,,REP,Mary Mosiman,479,263,216
+Page,Page County Courthouse,Auditor of State,,REP,Mary Mosiman,791,437,354
+Page,Shenandoah Ward 1,Auditor of State,,REP,Mary Mosiman,203,157,46
+Page,Shenandoah Ward 2,Auditor of State,,REP,Mary Mosiman,392,256,136
+Page,Shenandoah Ward 3,Auditor of State,,REP,Mary Mosiman,480,328,152
+Page,Clarinda Ward 1,Auditor of State,,DEM,Rob Sand,196,102,94
+Page,Clarinda Ward 2,Auditor of State,,DEM,Rob Sand,388,180,208
+Page,Essex City Hall,Auditor of State,,DEM,Rob Sand,111,90,21
+Page,Shenandoah Fire Station,Auditor of State,,DEM,Rob Sand,149,80,69
+Page,Page County Courthouse,Auditor of State,,DEM,Rob Sand,241,118,123
+Page,Shenandoah Ward 1,Auditor of State,,DEM,Rob Sand,136,85,51
+Page,Shenandoah Ward 2,Auditor of State,,DEM,Rob Sand,203,117,86
+Page,Shenandoah Ward 3,Auditor of State,,DEM,Rob Sand,232,149,83
+Page,Clarinda Ward 1,Auditor of State,,LIB,Fred Perryman,11,9,2
+Page,Clarinda Ward 2,Auditor of State,,LIB,Fred Perryman,21,16,5
+Page,Essex City Hall,Auditor of State,,LIB,Fred Perryman,10,5,5
+Page,Shenandoah Fire Station,Auditor of State,,LIB,Fred Perryman,12,8,4
+Page,Page County Courthouse,Auditor of State,,LIB,Fred Perryman,15,9,6
+Page,Shenandoah Ward 1,Auditor of State,,LIB,Fred Perryman,11,11,0
+Page,Shenandoah Ward 2,Auditor of State,,LIB,Fred Perryman,16,14,2
+Page,Shenandoah Ward 3,Auditor of State,,LIB,Fred Perryman,16,12,4
+Page,Clarinda Ward 1,Auditor of State,,,Write-in,0,0,0
+Page,Clarinda Ward 2,Auditor of State,,,Write-in,0,0,0
+Page,Essex City Hall,Auditor of State,,,Write-in,0,0,0
+Page,Shenandoah Fire Station,Auditor of State,,,Write-in,0,0,0
+Page,Page County Courthouse,Auditor of State,,,Write-in,0,0,0
+Page,Shenandoah Ward 1,Auditor of State,,,Write-in,0,0,0
+Page,Shenandoah Ward 2,Auditor of State,,,Write-in,0,0,0
+Page,Shenandoah Ward 3,Auditor of State,,,Write-in,0,0,0
+Page,Clarinda Ward 1,Treasurer of State,,REP,Jeremy N. Davis,374,263,111
+Page,Clarinda Ward 2,Treasurer of State,,REP,Jeremy N. Davis,587,374,213
+Page,Essex City Hall,Treasurer of State,,REP,Jeremy N. Davis,342,263,79
+Page,Shenandoah Fire Station,Treasurer of State,,REP,Jeremy N. Davis,433,237,196
+Page,Page County Courthouse,Treasurer of State,,REP,Jeremy N. Davis,744,405,339
+Page,Shenandoah Ward 1,Treasurer of State,,REP,Jeremy N. Davis,190,146,44
+Page,Shenandoah Ward 2,Treasurer of State,,REP,Jeremy N. Davis,351,227,124
+Page,Shenandoah Ward 3,Treasurer of State,,REP,Jeremy N. Davis,431,297,134
+Page,Clarinda Ward 1,Treasurer of State,,DEM,Michael L. Fitzgerald,229,121,108
+Page,Clarinda Ward 2,Treasurer of State,,DEM,Michael L. Fitzgerald,446,213,233
+Page,Essex City Hall,Treasurer of State,,DEM,Michael L. Fitzgerald,150,120,30
+Page,Shenandoah Fire Station,Treasurer of State,,DEM,Michael L. Fitzgerald,198,106,92
+Page,Page County Courthouse,Treasurer of State,,DEM,Michael L. Fitzgerald,289,148,141
+Page,Shenandoah Ward 1,Treasurer of State,,DEM,Michael L. Fitzgerald,158,104,54
+Page,Shenandoah Ward 2,Treasurer of State,,DEM,Michael L. Fitzgerald,252,152,100
+Page,Shenandoah Ward 3,Treasurer of State,,DEM,Michael L. Fitzgerald,283,180,103
+Page,Clarinda Ward 1,Treasurer of State,,LIB,Timothy Hird,10,8,2
+Page,Clarinda Ward 2,Treasurer of State,,LIB,Timothy Hird,16,11,5
+Page,Essex City Hall,Treasurer of State,,LIB,Timothy Hird,3,2,1
+Page,Shenandoah Fire Station,Treasurer of State,,LIB,Timothy Hird,9,6,3
+Page,Page County Courthouse,Treasurer of State,,LIB,Timothy Hird,15,10,5
+Page,Shenandoah Ward 1,Treasurer of State,,LIB,Timothy Hird,6,6,0
+Page,Shenandoah Ward 2,Treasurer of State,,LIB,Timothy Hird,10,9,1
+Page,Shenandoah Ward 3,Treasurer of State,,LIB,Timothy Hird,14,11,3
+Page,Clarinda Ward 1,Treasurer of State,,,Write-in,0,0,0
+Page,Clarinda Ward 2,Treasurer of State,,,Write-in,0,0,0
+Page,Essex City Hall,Treasurer of State,,,Write-in,0,0,0
+Page,Shenandoah Fire Station,Treasurer of State,,,Write-in,0,0,0
+Page,Page County Courthouse,Treasurer of State,,,Write-in,0,0,0
+Page,Shenandoah Ward 1,Treasurer of State,,,Write-in,0,0,0
+Page,Shenandoah Ward 2,Treasurer of State,,,Write-in,0,0,0
+Page,Shenandoah Ward 3,Treasurer of State,,,Write-in,0,0,0
+Page,Clarinda Ward 1,Secretary of Agriculture,,REP,Mike Naig,399,279,120
+Page,Clarinda Ward 2,Secretary of Agriculture,,REP,Mike Naig,641,403,238
+Page,Essex City Hall,Secretary of Agriculture,,REP,Mike Naig,383,299,84
+Page,Shenandoah Fire Station,Secretary of Agriculture,,REP,Mike Naig,480,263,217
+Page,Page County Courthouse,Secretary of Agriculture,,REP,Mike Naig,804,433,371
+Page,Shenandoah Ward 1,Secretary of Agriculture,,REP,Mike Naig,200,151,49
+Page,Shenandoah Ward 2,Secretary of Agriculture,,REP,Mike Naig,384,249,135
+Page,Shenandoah Ward 3,Secretary of Agriculture,,REP,Mike Naig,463,313,150
+Page,Clarinda Ward 1,Secretary of Agriculture,,DEM,Tim Gannon,197,103,94
+Page,Clarinda Ward 2,Secretary of Agriculture,,DEM,Tim Gannon,382,183,199
+Page,Essex City Hall,Secretary of Agriculture,,DEM,Tim Gannon,105,83,22
+Page,Shenandoah Fire Station,Secretary of Agriculture,,DEM,Tim Gannon,151,81,70
+Page,Page County Courthouse,Secretary of Agriculture,,DEM,Tim Gannon,226,117,109
+Page,Shenandoah Ward 1,Secretary of Agriculture,,DEM,Tim Gannon,143,95,48
+Page,Shenandoah Ward 2,Secretary of Agriculture,,DEM,Tim Gannon,208,126,82
+Page,Shenandoah Ward 3,Secretary of Agriculture,,DEM,Tim Gannon,239,153,86
+Page,Clarinda Ward 1,Secretary of Agriculture,,LIB,Rick Stewart,11,5,6
+Page,Clarinda Ward 2,Secretary of Agriculture,,LIB,Rick Stewart,24,13,11
+Page,Essex City Hall,Secretary of Agriculture,,LIB,Rick Stewart,6,3,3
+Page,Shenandoah Fire Station,Secretary of Agriculture,,LIB,Rick Stewart,11,6,5
+Page,Page County Courthouse,Secretary of Agriculture,,LIB,Rick Stewart,23,16,7
+Page,Shenandoah Ward 1,Secretary of Agriculture,,LIB,Rick Stewart,11,10,1
+Page,Shenandoah Ward 2,Secretary of Agriculture,,LIB,Rick Stewart,17,10,7
+Page,Shenandoah Ward 3,Secretary of Agriculture,,LIB,Rick Stewart,21,18,3
+Page,Clarinda Ward 1,Secretary of Agriculture,,,Write-in,0,0,0
+Page,Clarinda Ward 2,Secretary of Agriculture,,,Write-in,0,0,0
+Page,Essex City Hall,Secretary of Agriculture,,,Write-in,0,0,0
+Page,Shenandoah Fire Station,Secretary of Agriculture,,,Write-in,0,0,0
+Page,Page County Courthouse,Secretary of Agriculture,,,Write-in,0,0,0
+Page,Shenandoah Ward 1,Secretary of Agriculture,,,Write-in,0,0,0
+Page,Shenandoah Ward 2,Secretary of Agriculture,,,Write-in,0,0,0
+Page,Shenandoah Ward 3,Secretary of Agriculture,,,Write-in,0,0,0
+Page,Clarinda Ward 1,Attorney General,,DEM,Tom Miller,393,238,155
+Page,Clarinda Ward 2,Attorney General,,DEM,Tom Miller,697,369,328
+Page,Essex City Hall,Attorney General,,DEM,Tom Miller,271,212,59
+Page,Shenandoah Fire Station,Attorney General,,DEM,Tom Miller,360,192,168
+Page,Page County Courthouse,Attorney General,,DEM,Tom Miller,597,325,272
+Page,Shenandoah Ward 1,Attorney General,,DEM,Tom Miller,211,143,68
+Page,Shenandoah Ward 2,Attorney General,,DEM,Tom Miller,395,239,156
+Page,Shenandoah Ward 3,Attorney General,,DEM,Tom Miller,439,284,155
+Page,Clarinda Ward 1,Attorney General,,LIB,Marco Battaglia,128,95,33
+Page,Clarinda Ward 2,Attorney General,,LIB,Marco Battaglia,195,137,58
+Page,Essex City Hall,Attorney General,,LIB,Marco Battaglia,115,93,22
+Page,Shenandoah Fire Station,Attorney General,,LIB,Marco Battaglia,127,77,50
+Page,Page County Courthouse,Attorney General,,LIB,Marco Battaglia,242,153,89
+Page,Shenandoah Ward 1,Attorney General,,LIB,Marco Battaglia,91,75,16
+Page,Shenandoah Ward 2,Attorney General,,LIB,Marco Battaglia,124,85,39
+Page,Shenandoah Ward 3,Attorney General,,LIB,Marco Battaglia,153,115,38
+Page,Clarinda Ward 1,Attorney General,,,Write-in,3,3,0
+Page,Clarinda Ward 2,Attorney General,,,Write-in,9,7,2
+Page,Essex City Hall,Attorney General,,,Write-in,3,2,1
+Page,Shenandoah Fire Station,Attorney General,,,Write-in,7,4,3
+Page,Page County Courthouse,Attorney General,,,Write-in,13,7,6
+Page,Shenandoah Ward 1,Attorney General,,,Write-in,0,0,0
+Page,Shenandoah Ward 2,Attorney General,,,Write-in,2,2,0
+Page,Shenandoah Ward 3,Attorney General,,,Write-in,6,6,0
+Page,Clarinda Ward 1,State Representative District 24,,REP,Cecil Dolecheck,402,279,123
+Page,Clarinda Ward 2,State Representative District 24,,REP,Cecil Dolecheck,651,411,240
+Page,Essex City Hall,State Representative District 24,,REP,Cecil Dolecheck,388,298,90
+Page,Shenandoah Fire Station,State Representative District 24,,REP,Cecil Dolecheck,477,262,215
+Page,Page County Courthouse,State Representative District 24,,REP,Cecil Dolecheck,805,435,370
+Page,Shenandoah Ward 1,State Representative District 24,,REP,Cecil Dolecheck,206,158,48
+Page,Shenandoah Ward 2,State Representative District 24,,REP,Cecil Dolecheck,390,260,130
+Page,Shenandoah Ward 3,State Representative District 24,,REP,Cecil Dolecheck,468,317,151
+Page,Clarinda Ward 1,State Representative District 24,,DEM,James Uhlenkamp,214,113,101
+Page,Clarinda Ward 2,State Representative District 24,,DEM,James Uhlenkamp,406,192,214
+Page,Essex City Hall,State Representative District 24,,DEM,James Uhlenkamp,112,90,22
+Page,Shenandoah Fire Station,State Representative District 24,,DEM,James Uhlenkamp,167,90,77
+Page,Page County Courthouse,State Representative District 24,,DEM,James Uhlenkamp,248,130,118
+Page,Shenandoah Ward 1,State Representative District 24,,DEM,James Uhlenkamp,149,99,50
+Page,Shenandoah Ward 2,State Representative District 24,,DEM,James Uhlenkamp,222,126,96
+Page,Shenandoah Ward 3,State Representative District 24,,DEM,James Uhlenkamp,259,169,90
+Page,Clarinda Ward 1,State Representative District 24,,,Write-in,1,1,0
+Page,Clarinda Ward 2,State Representative District 24,,,Write-in,0,0,0
+Page,Essex City Hall,State Representative District 24,,,Write-in,0,0,0
+Page,Shenandoah Fire Station,State Representative District 24,,,Write-in,0,0,0
+Page,Page County Courthouse,State Representative District 24,,,Write-in,0,0,0
+Page,Shenandoah Ward 1,State Representative District 24,,,Write-in,0,0,0
+Page,Shenandoah Ward 2,State Representative District 24,,,Write-in,0,0,0
+Page,Shenandoah Ward 3,State Representative District 24,,,Write-in,0,0,0
+Page,Clarinda Ward 1,County Supervisor District 2,,REP,Alan Armstrong,511,338,173
+Page,Clarinda Ward 2,County Supervisor District 2,,REP,Alan Armstrong,851,516,335
+Page,Essex City Hall,County Supervisor District 2,,REP,Alan Armstrong,424,328,96
+Page,Shenandoah Fire Station,County Supervisor District 2,,REP,Alan Armstrong,563,310,253
+Page,Page County Courthouse,County Supervisor District 2,,REP,Alan Armstrong,872,484,388
+Page,Shenandoah Ward 1,County Supervisor District 2,,REP,Alan Armstrong,303,227,76
+Page,Shenandoah Ward 2,County Supervisor District 2,,REP,Alan Armstrong,519,337,182
+Page,Shenandoah Ward 3,County Supervisor District 2,,REP,Alan Armstrong,645,441,204
+Page,Clarinda Ward 1,County Supervisor District 2,,,Write-in,10,7,3
+Page,Clarinda Ward 2,County Supervisor District 2,,,Write-in,15,5,10
+Page,Essex City Hall,County Supervisor District 2,,,Write-in,16,12,4
+Page,Shenandoah Fire Station,County Supervisor District 2,,,Write-in,15,10,5
+Page,Page County Courthouse,County Supervisor District 2,,,Write-in,31,19,12
+Page,Shenandoah Ward 1,County Supervisor District 2,,,Write-in,8,6,2
+Page,Shenandoah Ward 2,County Supervisor District 2,,,Write-in,15,13,2
+Page,Shenandoah Ward 3,County Supervisor District 2,,,Write-in,15,10,5
+Page,Clarinda Ward 1,County Treasurer,,REP,Angie Dow,551,366,185
+Page,Clarinda Ward 2,County Treasurer,,REP,Angie Dow,914,545,369
+Page,Essex City Hall,County Treasurer,,REP,Angie Dow,458,355,103
+Page,Shenandoah Fire Station,County Treasurer,,REP,Angie Dow,584,320,264
+Page,Page County Courthouse,County Treasurer,,REP,Angie Dow,963,529,434
+Page,Shenandoah Ward 1,County Treasurer,,REP,Angie Dow,314,232,82
+Page,Shenandoah Ward 2,County Treasurer,,REP,Angie Dow,519,338,181
+Page,Shenandoah Ward 3,County Treasurer,,REP,Angie Dow,650,442,208
+Page,Clarinda Ward 1,County Treasurer,,,Write-in,4,2,2
+Page,Clarinda Ward 2,County Treasurer,,,Write-in,8,3,5
+Page,Essex City Hall,County Treasurer,,,Write-in,2,2,0
+Page,Shenandoah Fire Station,County Treasurer,,,Write-in,4,4,0
+Page,Page County Courthouse,County Treasurer,,,Write-in,6,2,4
+Page,Shenandoah Ward 1,County Treasurer,,,Write-in,4,3,1
+Page,Shenandoah Ward 2,County Treasurer,,,Write-in,4,4,0
+Page,Shenandoah Ward 3,County Treasurer,,,Write-in,12,11,1
+Page,Clarinda Ward 1,County Recorder,,REP,Brenda L. Esaias,545,362,183
+Page,Clarinda Ward 2,County Recorder,,REP,Brenda L. Esaias,901,539,362
+Page,Essex City Hall,County Recorder,,REP,Brenda L. Esaias,455,357,98
+Page,Shenandoah Fire Station,County Recorder,,REP,Brenda L. Esaias,582,318,264
+Page,Page County Courthouse,County Recorder,,REP,Brenda L. Esaias,961,528,433
+Page,Shenandoah Ward 1,County Recorder,,REP,Brenda L. Esaias,303,223,80
+Page,Shenandoah Ward 2,County Recorder,,REP,Brenda L. Esaias,518,342,176
+Page,Shenandoah Ward 3,County Recorder,,REP,Brenda L. Esaias,634,432,202
+Page,Clarinda Ward 1,County Recorder,,,Write-in,5,3,2
+Page,Clarinda Ward 2,County Recorder,,,Write-in,9,3,6
+Page,Essex City Hall,County Recorder,,,Write-in,4,2,2
+Page,Shenandoah Fire Station,County Recorder,,,Write-in,3,3,0
+Page,Page County Courthouse,County Recorder,,,Write-in,9,4,5
+Page,Shenandoah Ward 1,County Recorder,,,Write-in,6,4,2
+Page,Shenandoah Ward 2,County Recorder,,,Write-in,4,4,0
+Page,Shenandoah Ward 3,County Recorder,,,Write-in,15,13,2
+Page,Clarinda Ward 1,County Attorney,,REP,Carl Sonksen,526,351,175
+Page,Clarinda Ward 2,County Attorney,,REP,Carl Sonksen,876,529,347
+Page,Essex City Hall,County Attorney,,REP,Carl Sonksen,434,340,94
+Page,Shenandoah Fire Station,County Attorney,,REP,Carl Sonksen,555,305,250
+Page,Page County Courthouse,County Attorney,,REP,Carl Sonksen,896,496,400
+Page,Shenandoah Ward 1,County Attorney,,REP,Carl Sonksen,299,222,77
+Page,Shenandoah Ward 2,County Attorney,,REP,Carl Sonksen,495,328,167
+Page,Shenandoah Ward 3,County Attorney,,REP,Carl Sonksen,624,423,201
+Page,Clarinda Ward 1,County Attorney,,,Write-in,5,4,1
+Page,Clarinda Ward 2,County Attorney,,,Write-in,11,6,5
+Page,Essex City Hall,County Attorney,,,Write-in,5,3,2
+Page,Shenandoah Fire Station,County Attorney,,,Write-in,8,5,3
+Page,Page County Courthouse,County Attorney,,,Write-in,23,11,12
+Page,Shenandoah Ward 1,County Attorney,,,Write-in,5,3,2
+Page,Shenandoah Ward 2,County Attorney,,,Write-in,5,5,0
+Page,Shenandoah Ward 3,County Attorney,,,Write-in,12,11,1
+Page,Page County Courthouse,Amity Township Trustee,,,Kenneth Jackson,56,29,27
+Page,Page County Courthouse,Amity Township Trustee,,,Write-in,7,5,2
+Page,Page County Courthouse,Amity Township Clerk,,,Joe K Christiansen,1,0,1
+Page,Page County Courthouse,Amity Township Clerk,,,Candice Engstrand,1,1,0
+Page,Page County Courthouse,Amity Township Clerk,,,Eric J Engstrand,1,1,0
+Page,Page County Courthouse,Amity Township Clerk,,,Joe Farquar,1,1,0
+Page,Page County Courthouse,Amity Township Clerk,,,Mary Hobsen,1,0,1
+Page,Page County Courthouse,Amity Township Clerk,,,Jacob Holmes,2,0,2
+Page,Page County Courthouse,Amity Township Clerk,,,C. LeAnn Mackey,1,0,1
+Page,Page County Courthouse,Amity Township Clerk,,,Judy Norris,1,1,0
+Page,Page County Courthouse,Amity Township Clerk,,,Gene Ripley,1,1,0
+Page,Page County Courthouse,Amity Township Clerk,,,Tyler Slough,1,0,1
+Page,Page County Courthouse,Amity Township Clerk,,,Can't Read,1,1,0
+Page,Page County Courthouse,Amity Township Clerk,,,Write-in,0,0,0
+Page,Page County Courthouse,Buchanan Township Trustee,,,Dennis Davison,54,28,26
+Page,Page County Courthouse,Buchanan Township Trustee,,,Write-in,0,0,0
+Page,Page County Courthouse,Buchanan Township Clerk,,,Edward Burch,1,1,0
+Page,Page County Courthouse,Buchanan Township Clerk,,,Chad Davison,1,0,1
+Page,Page County Courthouse,Buchanan Township Clerk,,,Gary Davison,2,1,1
+Page,Page County Courthouse,Buchanan Township Clerk,,,Caroline Gray,1,1,0
+Page,Page County Courthouse,Buchanan Township Clerk,,,Janica Hardey,1,0,1
+Page,Page County Courthouse,Buchanan Township Clerk,,,Bonnie Hoskins,1,1,0
+Page,Page County Courthouse,Buchanan Township Clerk,,,Steve McAndrews,1,0,1
+Page,Page County Courthouse,Buchanan Township Clerk,,,Matthew McClarnon,1,1,0
+Page,Page County Courthouse,Buchanan Township Clerk,,,Sandy Phillips,1,1,0
+Page,Page County Courthouse,Buchanan Township Clerk,,,Bernetta Wagoner,1,0,1
+Page,Page County Courthouse,Buchanan Township Clerk,,,Write-in,0,0,0
+Page,Clarinda Ward 1,Soil & Water Conservation Dist. Commissioner,,,Curtis Davison,441,279,162
+Page,Clarinda Ward 2,Soil & Water Conservation Dist. Commissioner,,,Curtis Davison,694,387,307
+Page,Essex City Hall,Soil & Water Conservation Dist. Commissioner,,,Curtis Davison,355,280,75
+Page,Shenandoah Fire Station,Soil & Water Conservation Dist. Commissioner,,,Curtis Davison,461,234,227
+Page,Page County Courthouse,Soil & Water Conservation Dist. Commissioner,,,Curtis Davison,752,406,346
+Page,Shenandoah Ward 1,Soil & Water Conservation Dist. Commissioner,,,Curtis Davison,229,166,63
+Page,Shenandoah Ward 2,Soil & Water Conservation Dist. Commissioner,,,Curtis Davison,406,261,145
+Page,Shenandoah Ward 3,Soil & Water Conservation Dist. Commissioner,,,Curtis Davison,506,339,167
+Page,Clarinda Ward 1,Soil & Water Conservation Dist. Commissioner,,,Robert Henke,454,296,158
+Page,Clarinda Ward 2,Soil & Water Conservation Dist. Commissioner,,,Robert Henke,732,420,312
+Page,Essex City Hall,Soil & Water Conservation Dist. Commissioner,,,Robert Henke,347,274,73
+Page,Shenandoah Fire Station,Soil & Water Conservation Dist. Commissioner,,,Robert Henke,439,225,214
+Page,Page County Courthouse,Soil & Water Conservation Dist. Commissioner,,,Robert Henke,788,431,357
+Page,Shenandoah Ward 1,Soil & Water Conservation Dist. Commissioner,,,Robert Henke,218,160,58
+Page,Shenandoah Ward 2,Soil & Water Conservation Dist. Commissioner,,,Robert Henke,374,243,131
+Page,Shenandoah Ward 3,Soil & Water Conservation Dist. Commissioner,,,Robert Henke,470,314,156
+Page,Clarinda Ward 1,Soil & Water Conservation Dist. Commissioner,,,Write-in,1,0,1
+Page,Clarinda Ward 2,Soil & Water Conservation Dist. Commissioner,,,Write-in,9,6,3
+Page,Essex City Hall,Soil & Water Conservation Dist. Commissioner,,,Write-in,6,2,4
+Page,Shenandoah Fire Station,Soil & Water Conservation Dist. Commissioner,,,Write-in,6,4,2
+Page,Page County Courthouse,Soil & Water Conservation Dist. Commissioner,,,Write-in,15,8,7
+Page,Shenandoah Ward 1,Soil & Water Conservation Dist. Commissioner,,,Write-in,2,2,0
+Page,Shenandoah Ward 2,Soil & Water Conservation Dist. Commissioner,,,Write-in,7,5,2
+Page,Shenandoah Ward 3,Soil & Water Conservation Dist. Commissioner,,,Write-in,5,4,1
+Page,Clarinda Ward 1,County Agricultural Extension Council,,,Douglas Apperson,404,254,150
+Page,Clarinda Ward 2,County Agricultural Extension Council,,,Douglas Apperson,609,335,274
+Page,Essex City Hall,County Agricultural Extension Council,,,Douglas Apperson,361,281,80
+Page,Shenandoah Fire Station,County Agricultural Extension Council,,,Douglas Apperson,497,256,241
+Page,Page County Courthouse,County Agricultural Extension Council,,,Douglas Apperson,685,383,302
+Page,Shenandoah Ward 1,County Agricultural Extension Council,,,Douglas Apperson,226,163,63
+Page,Shenandoah Ward 2,County Agricultural Extension Council,,,Douglas Apperson,407,266,141
+Page,Shenandoah Ward 3,County Agricultural Extension Council,,,Douglas Apperson,496,335,161
+Page,Clarinda Ward 1,County Agricultural Extension Council,,,Rosanne Cavin,412,261,151
+Page,Clarinda Ward 2,County Agricultural Extension Council,,,Rosanne Cavin,626,349,277
+Page,Essex City Hall,County Agricultural Extension Council,,,Rosanne Cavin,300,235,65
+Page,Shenandoah Fire Station,County Agricultural Extension Council,,,Rosanne Cavin,381,179,202
+Page,Page County Courthouse,County Agricultural Extension Council,,,Rosanne Cavin,684,384,300
+Page,Shenandoah Ward 1,County Agricultural Extension Council,,,Rosanne Cavin,187,140,47
+Page,Shenandoah Ward 2,County Agricultural Extension Council,,,Rosanne Cavin,325,215,110
+Page,Shenandoah Ward 3,County Agricultural Extension Council,,,Rosanne Cavin,397,263,134
+Page,Clarinda Ward 1,County Agricultural Extension Council,,,Diane Ferguson,426,273,153
+Page,Clarinda Ward 2,County Agricultural Extension Council,,,Diane Ferguson,676,374,302
+Page,Essex City Hall,County Agricultural Extension Council,,,Diane Ferguson,308,239,69
+Page,Shenandoah Fire Station,County Agricultural Extension Council,,,Diane Ferguson,389,186,203
+Page,Page County Courthouse,County Agricultural Extension Council,,,Diane Ferguson,707,403,304
+Page,Shenandoah Ward 1,County Agricultural Extension Council,,,Diane Ferguson,191,143,48
+Page,Shenandoah Ward 2,County Agricultural Extension Council,,,Diane Ferguson,342,224,118
+Page,Shenandoah Ward 3,County Agricultural Extension Council,,,Diane Ferguson,419,283,136
+Page,Clarinda Ward 1,County Agricultural Extension Council,,,Andrew Liljedahl,378,230,148
+Page,Clarinda Ward 2,County Agricultural Extension Council,,,Andrew Liljedahl,577,312,265
+Page,Essex City Hall,County Agricultural Extension Council,,,Andrew Liljedahl,357,273,84
+Page,Shenandoah Fire Station,County Agricultural Extension Council,,,Andrew Liljedahl,429,211,218
+Page,Page County Courthouse,County Agricultural Extension Council,,,Andrew Liljedahl,658,375,283
+Page,Shenandoah Ward 1,County Agricultural Extension Council,,,Andrew Liljedahl,195,144,51
+Page,Shenandoah Ward 2,County Agricultural Extension Council,,,Andrew Liljedahl,376,252,124
+Page,Shenandoah Ward 3,County Agricultural Extension Council,,,Andrew Liljedahl,447,298,149
+Page,Clarinda Ward 1,County Agricultural Extension Council,,,Carol Sue McEnaney,370,227,143
+Page,Clarinda Ward 2,County Agricultural Extension Council,,,Carol Sue McEnaney,552,295,257
+Page,Essex City Hall,County Agricultural Extension Council,,,Carol Sue McEnaney,316,244,72
+Page,Shenandoah Fire Station,County Agricultural Extension Council,,,Carol Sue McEnaney,400,193,207
+Page,Page County Courthouse,County Agricultural Extension Council,,,Carol Sue McEnaney,595,336,259
+Page,Shenandoah Ward 1,County Agricultural Extension Council,,,Carol Sue McEnaney,208,151,57
+Page,Shenandoah Ward 2,County Agricultural Extension Council,,,Carol Sue McEnaney,360,237,123
+Page,Shenandoah Ward 3,County Agricultural Extension Council,,,Carol Sue McEnaney,438,288,150
+Page,Clarinda Ward 1,County Agricultural Extension Council,,,Write-in,4,3,1
+Page,Clarinda Ward 2,County Agricultural Extension Council,,,Write-in,17,13,4
+Page,Essex City Hall,County Agricultural Extension Council,,,Write-in,6,3,3
+Page,Shenandoah Fire Station,County Agricultural Extension Council,,,Write-in,8,6,2
+Page,Page County Courthouse,County Agricultural Extension Council,,,Write-in,18,14,4
+Page,Shenandoah Ward 1,County Agricultural Extension Council,,,Write-in,7,1,6
+Page,Shenandoah Ward 2,County Agricultural Extension Council,,,Write-in,5,4,1
+Page,Shenandoah Ward 3,County Agricultural Extension Council,,,Write-in,8,8,0
+Page,Clarinda Ward 1,Court of Appeals Judge Michael R. Mullins,,,Yes,378,248,130
+Page,Clarinda Ward 2,Court of Appeals Judge Michael R. Mullins,,,Yes,589,341,248
+Page,Essex City Hall,Court of Appeals Judge Michael R. Mullins,,,Yes,268,223,45
+Page,Shenandoah Fire Station,Court of Appeals Judge Michael R. Mullins,,,Yes,391,202,189
+Page,Page County Courthouse,Court of Appeals Judge Michael R. Mullins,,,Yes,592,348,244
+Page,Shenandoah Ward 1,Court of Appeals Judge Michael R. Mullins,,,Yes,212,155,57
+Page,Shenandoah Ward 2,Court of Appeals Judge Michael R. Mullins,,,Yes,369,233,136
+Page,Shenandoah Ward 3,Court of Appeals Judge Michael R. Mullins,,,Yes,440,302,138
+Page,Clarinda Ward 1,Court of Appeals Judge Michael R. Mullins,,,No,116,80,36
+Page,Clarinda Ward 2,Court of Appeals Judge Michael R. Mullins,,,No,190,114,76
+Page,Essex City Hall,Court of Appeals Judge Michael R. Mullins,,,No,120,87,33
+Page,Shenandoah Fire Station,Court of Appeals Judge Michael R. Mullins,,,No,126,71,55
+Page,Page County Courthouse,Court of Appeals Judge Michael R. Mullins,,,No,263,149,114
+Page,Shenandoah Ward 1,Court of Appeals Judge Michael R. Mullins,,,No,75,55,20
+Page,Shenandoah Ward 2,Court of Appeals Judge Michael R. Mullins,,,No,105,73,32
+Page,Shenandoah Ward 3,Court of Appeals Judge Michael R. Mullins,,,No,164,116,48
+Page,Clarinda Ward 1,Court of Appeals Judge Mary Ellen Tabor,,,Yes,361,235,126
+Page,Clarinda Ward 2,Court of Appeals Judge Mary Ellen Tabor,,,Yes,575,328,247
+Page,Essex City Hall,Court of Appeals Judge Mary Ellen Tabor,,,Yes,258,217,41
+Page,Shenandoah Fire Station,Court of Appeals Judge Mary Ellen Tabor,,,Yes,330,168,162
+Page,Page County Courthouse,Court of Appeals Judge Mary Ellen Tabor,,,Yes,531,321,210
+Page,Shenandoah Ward 1,Court of Appeals Judge Mary Ellen Tabor,,,Yes,211,158,53
+Page,Shenandoah Ward 2,Court of Appeals Judge Mary Ellen Tabor,,,Yes,342,217,125
+Page,Shenandoah Ward 3,Court of Appeals Judge Mary Ellen Tabor,,,Yes,423,290,133
+Page,Clarinda Ward 1,Court of Appeals Judge Mary Ellen Tabor,,,No,124,85,39
+Page,Clarinda Ward 2,Court of Appeals Judge Mary Ellen Tabor,,,No,193,114,79
+Page,Essex City Hall,Court of Appeals Judge Mary Ellen Tabor,,,No,121,84,37
+Page,Shenandoah Fire Station,Court of Appeals Judge Mary Ellen Tabor,,,No,178,95,83
+Page,Page County Courthouse,Court of Appeals Judge Mary Ellen Tabor,,,No,300,168,132
+Page,Shenandoah Ward 1,Court of Appeals Judge Mary Ellen Tabor,,,No,71,49,22
+Page,Shenandoah Ward 2,Court of Appeals Judge Mary Ellen Tabor,,,No,127,85,42
+Page,Shenandoah Ward 3,Court of Appeals Judge Mary Ellen Tabor,,,No,170,120,50
+Page,Clarinda Ward 1,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,337,224,113
+Page,Clarinda Ward 2,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,511,296,215
+Page,Essex City Hall,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,237,200,37
+Page,Shenandoah Fire Station,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,294,148,146
+Page,Page County Courthouse,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,455,273,182
+Page,Shenandoah Ward 1,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,187,141,46
+Page,Shenandoah Ward 2,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,307,195,112
+Page,Shenandoah Ward 3,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,380,261,119
+Page,Clarinda Ward 1,Court of Appeals Judge Anuradha Vaitheswaran,,,No,149,99,50
+Page,Clarinda Ward 2,Court of Appeals Judge Anuradha Vaitheswaran,,,No,242,138,104
+Page,Essex City Hall,Court of Appeals Judge Anuradha Vaitheswaran,,,No,141,99,42
+Page,Shenandoah Fire Station,Court of Appeals Judge Anuradha Vaitheswaran,,,No,202,106,96
+Page,Page County Courthouse,Court of Appeals Judge Anuradha Vaitheswaran,,,No,372,215,157
+Page,Shenandoah Ward 1,Court of Appeals Judge Anuradha Vaitheswaran,,,No,94,65,29
+Page,Shenandoah Ward 2,Court of Appeals Judge Anuradha Vaitheswaran,,,No,157,102,55
+Page,Shenandoah Ward 3,Court of Appeals Judge Anuradha Vaitheswaran,,,No,203,140,63
+Page,Clarinda Ward 1,District 4 District Judge Greg W. Steensland,,,Yes,361,242,119
+Page,Clarinda Ward 2,District 4 District Judge Greg W. Steensland,,,Yes,562,328,234
+Page,Essex City Hall,District 4 District Judge Greg W. Steensland,,,Yes,253,212,41
+Page,Shenandoah Fire Station,District 4 District Judge Greg W. Steensland,,,Yes,333,172,161
+Page,Page County Courthouse,District 4 District Judge Greg W. Steensland,,,Yes,555,327,228
+Page,Shenandoah Ward 1,District 4 District Judge Greg W. Steensland,,,Yes,207,156,51
+Page,Shenandoah Ward 2,District 4 District Judge Greg W. Steensland,,,Yes,336,214,122
+Page,Shenandoah Ward 3,District 4 District Judge Greg W. Steensland,,,Yes,407,281,126
+Page,Clarinda Ward 1,District 4 District Judge Greg W. Steensland,,,No,126,83,43
+Page,Clarinda Ward 2,District 4 District Judge Greg W. Steensland,,,No,203,116,87
+Page,Essex City Hall,District 4 District Judge Greg W. Steensland,,,No,129,89,40
+Page,Shenandoah Fire Station,District 4 District Judge Greg W. Steensland,,,No,176,94,82
+Page,Page County Courthouse,District 4 District Judge Greg W. Steensland,,,No,289,170,119
+Page,Shenandoah Ward 1,District 4 District Judge Greg W. Steensland,,,No,81,55,26
+Page,Shenandoah Ward 2,District 4 District Judge Greg W. Steensland,,,No,129,87,42
+Page,Shenandoah Ward 3,District 4 District Judge Greg W. Steensland,,,No,189,129,60
+Page,Clarinda Ward 1,District 4 District Associate Judge Craig M. Dreismeier,,,Yes,355,231,124
+Page,Clarinda Ward 2,District 4 District Associate Judge Craig M. Dreismeier,,,Yes,580,338,242
+Page,Essex City Hall,District 4 District Associate Judge Craig M. Dreismeier,,,Yes,262,215,47
+Page,Shenandoah Fire Station,District 4 District Associate Judge Craig M. Dreismeier,,,Yes,375,196,179
+Page,Page County Courthouse,District 4 District Associate Judge Craig M. Dreismeier,,,Yes,582,339,243
+Page,Shenandoah Ward 1,District 4 District Associate Judge Craig M. Dreismeier,,,Yes,205,148,57
+Page,Shenandoah Ward 2,District 4 District Associate Judge Craig M. Dreismeier,,,Yes,345,215,130
+Page,Shenandoah Ward 3,District 4 District Associate Judge Craig M. Dreismeier,,,Yes,425,286,139
+Page,Clarinda Ward 1,District 4 District Associate Judge Craig M. Dreismeier,,,No,122,87,35
+Page,Clarinda Ward 2,District 4 District Associate Judge Craig M. Dreismeier,,,No,183,105,78
+Page,Essex City Hall,District 4 District Associate Judge Craig M. Dreismeier,,,No,118,85,33
+Page,Shenandoah Fire Station,District 4 District Associate Judge Craig M. Dreismeier,,,No,131,70,61
+Page,Page County Courthouse,District 4 District Associate Judge Craig M. Dreismeier,,,No,262,154,108
+Page,Shenandoah Ward 1,District 4 District Associate Judge Craig M. Dreismeier,,,No,79,59,20
+Page,Shenandoah Ward 2,District 4 District Associate Judge Craig M. Dreismeier,,,No,118,82,36
+Page,Shenandoah Ward 3,District 4 District Associate Judge Craig M. Dreismeier,,,No,167,122,45
+Page,Clarinda Ward 1,District 4 District Associate Judge Amy L. Zacharias,,,Yes,364,240,124
+Page,Clarinda Ward 2,District 4 District Associate Judge Amy L. Zacharias,,,Yes,586,336,250
+Page,Essex City Hall,District 4 District Associate Judge Amy L. Zacharias,,,Yes,273,223,50
+Page,Shenandoah Fire Station,District 4 District Associate Judge Amy L. Zacharias,,,Yes,371,192,179
+Page,Page County Courthouse,District 4 District Associate Judge Amy L. Zacharias,,,Yes,567,341,226
+Page,Shenandoah Ward 1,District 4 District Associate Judge Amy L. Zacharias,,,Yes,223,164,59
+Page,Shenandoah Ward 2,District 4 District Associate Judge Amy L. Zacharias,,,Yes,368,234,134
+Page,Shenandoah Ward 3,District 4 District Associate Judge Amy L. Zacharias,,,Yes,435,295,140
+Page,Clarinda Ward 1,District 4 District Associate Judge Amy L. Zacharias,,,No,118,82,36
+Page,Clarinda Ward 2,District 4 District Associate Judge Amy L. Zacharias,,,No,178,107,71
+Page,Essex City Hall,District 4 District Associate Judge Amy L. Zacharias,,,No,111,81,30
+Page,Shenandoah Fire Station,District 4 District Associate Judge Amy L. Zacharias,,,No,141,77,64
+Page,Page County Courthouse,District 4 District Associate Judge Amy L. Zacharias,,,No,266,156,110
+Page,Shenandoah Ward 1,District 4 District Associate Judge Amy L. Zacharias,,,No,58,42,16
+Page,Shenandoah Ward 2,District 4 District Associate Judge Amy L. Zacharias,,,No,106,74,32
+Page,Shenandoah Ward 3,District 4 District Associate Judge Amy L. Zacharias,,,No,157,117,40
+Page,Page County Courthouse,Amity Township Public Measure A,,,Yes,27,18,9
+Page,Page County Courthouse,Amity Township Public Measure A,,,No,40,22,18
+Page,Page County Courthouse,Buchanan Township Public Measure B,,,Yes,25,14,11
+Page,Page County Courthouse,Buchanan Township Public Measure B,,,No,34,18,16

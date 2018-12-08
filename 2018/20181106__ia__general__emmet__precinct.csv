@@ -1,0 +1,711 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Emmet,AG-IL-Armstrong,United States Representative District 4,,DEM,J.D. Scholten,194,153,41
+Emmet,CN-SL-Gruver,United States Representative District 4,,DEM,J.D. Scholten,72,56,16
+Emmet,DM-JC-Ringsted,United States Representative District 4,,DEM,J.D. Scholten,105,76,29
+Emmet,EL-LN-Dolliver,United States Representative District 4,,DEM,J.D. Scholten,48,29,19
+Emmet,Emmet-Estherville,United States Representative District 4,,DEM,J.D. Scholten,88,53,35
+Emmet,Estherville Ward 1,United States Representative District 4,,DEM,J.D. Scholten,275,162,113
+Emmet,Estherville Ward 2,United States Representative District 4,,DEM,J.D. Scholten,230,150,80
+Emmet,Estherville Ward 3,United States Representative District 4,,DEM,J.D. Scholten,268,154,114
+Emmet,Estherville Ward 4,United States Representative District 4,,DEM,J.D. Scholten,180,103,77
+Emmet,Estherville Ward 5,United States Representative District 4,,DEM,J.D. Scholten,164,94,70
+Emmet,HL-TM-Wallingford,United States Representative District 4,,DEM,J.D. Scholten,119,91,28
+Emmet,AG-IL-Armstrong,United States Representative District 4,,REP,Steve King,283,215,68
+Emmet,CN-SL-Gruver,United States Representative District 4,,REP,Steve King,117,86,31
+Emmet,DM-JC-Ringsted,United States Representative District 4,,REP,Steve King,130,92,38
+Emmet,EL-LN-Dolliver,United States Representative District 4,,REP,Steve King,90,68,22
+Emmet,Emmet-Estherville,United States Representative District 4,,REP,Steve King,184,120,64
+Emmet,Estherville Ward 1,United States Representative District 4,,REP,Steve King,269,176,93
+Emmet,Estherville Ward 2,United States Representative District 4,,REP,Steve King,202,135,67
+Emmet,Estherville Ward 3,United States Representative District 4,,REP,Steve King,186,109,77
+Emmet,Estherville Ward 4,United States Representative District 4,,REP,Steve King,139,95,44
+Emmet,Estherville Ward 5,United States Representative District 4,,REP,Steve King,126,79,47
+Emmet,HL-TM-Wallingford,United States Representative District 4,,REP,Steve King,153,132,21
+Emmet,AG-IL-Armstrong,United States Representative District 4,,LIB,Charles Aldrich,6,5,1
+Emmet,CN-SL-Gruver,United States Representative District 4,,LIB,Charles Aldrich,4,4,0
+Emmet,DM-JC-Ringsted,United States Representative District 4,,LIB,Charles Aldrich,7,5,2
+Emmet,EL-LN-Dolliver,United States Representative District 4,,LIB,Charles Aldrich,5,3,2
+Emmet,Emmet-Estherville,United States Representative District 4,,LIB,Charles Aldrich,3,2,1
+Emmet,Estherville Ward 1,United States Representative District 4,,LIB,Charles Aldrich,4,4,0
+Emmet,Estherville Ward 2,United States Representative District 4,,LIB,Charles Aldrich,5,1,4
+Emmet,Estherville Ward 3,United States Representative District 4,,LIB,Charles Aldrich,8,7,1
+Emmet,Estherville Ward 4,United States Representative District 4,,LIB,Charles Aldrich,5,3,2
+Emmet,Estherville Ward 5,United States Representative District 4,,LIB,Charles Aldrich,13,10,3
+Emmet,HL-TM-Wallingford,United States Representative District 4,,LIB,Charles Aldrich,3,2,1
+Emmet,AG-IL-Armstrong,United States Representative District 4,,,Edward Peterson,4,4,0
+Emmet,CN-SL-Gruver,United States Representative District 4,,,Edward Peterson,2,2,0
+Emmet,DM-JC-Ringsted,United States Representative District 4,,,Edward Peterson,1,1,0
+Emmet,EL-LN-Dolliver,United States Representative District 4,,,Edward Peterson,2,1,1
+Emmet,Emmet-Estherville,United States Representative District 4,,,Edward Peterson,3,3,0
+Emmet,Estherville Ward 1,United States Representative District 4,,,Edward Peterson,4,3,1
+Emmet,Estherville Ward 2,United States Representative District 4,,,Edward Peterson,6,4,2
+Emmet,Estherville Ward 3,United States Representative District 4,,,Edward Peterson,4,1,3
+Emmet,Estherville Ward 4,United States Representative District 4,,,Edward Peterson,2,1,1
+Emmet,Estherville Ward 5,United States Representative District 4,,,Edward Peterson,5,1,4
+Emmet,HL-TM-Wallingford,United States Representative District 4,,,Edward Peterson,1,0,1
+Emmet,AG-IL-Armstrong,United States Representative District 4,,,Write-in,0,0,0
+Emmet,CN-SL-Gruver,United States Representative District 4,,,Write-in,0,0,0
+Emmet,DM-JC-Ringsted,United States Representative District 4,,,Write-in,0,0,0
+Emmet,EL-LN-Dolliver,United States Representative District 4,,,Write-in,0,0,0
+Emmet,Emmet-Estherville,United States Representative District 4,,,Write-in,0,0,0
+Emmet,Estherville Ward 1,United States Representative District 4,,,Write-in,0,0,0
+Emmet,Estherville Ward 2,United States Representative District 4,,,Write-in,0,0,0
+Emmet,Estherville Ward 3,United States Representative District 4,,,Write-in,0,0,0
+Emmet,Estherville Ward 4,United States Representative District 4,,,Write-in,0,0,0
+Emmet,Estherville Ward 5,United States Representative District 4,,,Write-in,1,1,0
+Emmet,HL-TM-Wallingford,United States Representative District 4,,,Write-in,0,0,0
+Emmet,AG-IL-Armstrong,Governor/Lieutenant Governor,,DEM,Fred Hubbell,137,100,37
+Emmet,CN-SL-Gruver,Governor/Lieutenant Governor,,DEM,Fred Hubbell,47,31,16
+Emmet,DM-JC-Ringsted,Governor/Lieutenant Governor,,DEM,Fred Hubbell,73,52,21
+Emmet,EL-LN-Dolliver,Governor/Lieutenant Governor,,DEM,Fred Hubbell,41,25,16
+Emmet,Emmet-Estherville,Governor/Lieutenant Governor,,DEM,Fred Hubbell,71,40,31
+Emmet,Estherville Ward 1,Governor/Lieutenant Governor,,DEM,Fred Hubbell,218,114,104
+Emmet,Estherville Ward 2,Governor/Lieutenant Governor,,DEM,Fred Hubbell,184,114,70
+Emmet,Estherville Ward 3,Governor/Lieutenant Governor,,DEM,Fred Hubbell,233,128,105
+Emmet,Estherville Ward 4,Governor/Lieutenant Governor,,DEM,Fred Hubbell,164,94,70
+Emmet,Estherville Ward 5,Governor/Lieutenant Governor,,DEM,Fred Hubbell,126,71,55
+Emmet,HL-TM-Wallingford,Governor/Lieutenant Governor,,DEM,Fred Hubbell,89,64,25
+Emmet,AG-IL-Armstrong,Governor/Lieutenant Governor,,REP,Kim Reynolds,351,280,71
+Emmet,CN-SL-Gruver,Governor/Lieutenant Governor,,REP,Kim Reynolds,148,118,30
+Emmet,DM-JC-Ringsted,Governor/Lieutenant Governor,,REP,Kim Reynolds,171,125,46
+Emmet,EL-LN-Dolliver,Governor/Lieutenant Governor,,REP,Kim Reynolds,108,76,32
+Emmet,Emmet-Estherville,Governor/Lieutenant Governor,,REP,Kim Reynolds,206,139,67
+Emmet,Estherville Ward 1,Governor/Lieutenant Governor,,REP,Kim Reynolds,330,226,104
+Emmet,Estherville Ward 2,Governor/Lieutenant Governor,,REP,Kim Reynolds,251,171,80
+Emmet,Estherville Ward 3,Governor/Lieutenant Governor,,REP,Kim Reynolds,221,136,85
+Emmet,Estherville Ward 4,Governor/Lieutenant Governor,,REP,Kim Reynolds,161,110,51
+Emmet,Estherville Ward 5,Governor/Lieutenant Governor,,REP,Kim Reynolds,169,108,61
+Emmet,HL-TM-Wallingford,Governor/Lieutenant Governor,,REP,Kim Reynolds,182,157,25
+Emmet,AG-IL-Armstrong,Governor/Lieutenant Governor,,LIB,Jake Porter,4,2,2
+Emmet,CN-SL-Gruver,Governor/Lieutenant Governor,,LIB,Jake Porter,3,1,2
+Emmet,DM-JC-Ringsted,Governor/Lieutenant Governor,,LIB,Jake Porter,4,1,3
+Emmet,EL-LN-Dolliver,Governor/Lieutenant Governor,,LIB,Jake Porter,4,4,0
+Emmet,Emmet-Estherville,Governor/Lieutenant Governor,,LIB,Jake Porter,1,1,0
+Emmet,Estherville Ward 1,Governor/Lieutenant Governor,,LIB,Jake Porter,6,4,2
+Emmet,Estherville Ward 2,Governor/Lieutenant Governor,,LIB,Jake Porter,7,3,4
+Emmet,Estherville Ward 3,Governor/Lieutenant Governor,,LIB,Jake Porter,10,7,3
+Emmet,Estherville Ward 4,Governor/Lieutenant Governor,,LIB,Jake Porter,5,2,3
+Emmet,Estherville Ward 5,Governor/Lieutenant Governor,,LIB,Jake Porter,14,8,6
+Emmet,HL-TM-Wallingford,Governor/Lieutenant Governor,,LIB,Jake Porter,4,3,1
+Emmet,AG-IL-Armstrong,Governor/Lieutenant Governor,,CWP,Gary Siegwarth,5,2,3
+Emmet,CN-SL-Gruver,Governor/Lieutenant Governor,,CWP,Gary Siegwarth,2,1,1
+Emmet,DM-JC-Ringsted,Governor/Lieutenant Governor,,CWP,Gary Siegwarth,0,0,0
+Emmet,EL-LN-Dolliver,Governor/Lieutenant Governor,,CWP,Gary Siegwarth,0,0,0
+Emmet,Emmet-Estherville,Governor/Lieutenant Governor,,CWP,Gary Siegwarth,0,0,0
+Emmet,Estherville Ward 1,Governor/Lieutenant Governor,,CWP,Gary Siegwarth,2,2,0
+Emmet,Estherville Ward 2,Governor/Lieutenant Governor,,CWP,Gary Siegwarth,6,5,1
+Emmet,Estherville Ward 3,Governor/Lieutenant Governor,,CWP,Gary Siegwarth,5,2,3
+Emmet,Estherville Ward 4,Governor/Lieutenant Governor,,CWP,Gary Siegwarth,0,0,0
+Emmet,Estherville Ward 5,Governor/Lieutenant Governor,,CWP,Gary Siegwarth,2,1,1
+Emmet,HL-TM-Wallingford,Governor/Lieutenant Governor,,CWP,Gary Siegwarth,4,4,0
+Emmet,AG-IL-Armstrong,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Emmet,CN-SL-Gruver,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Emmet,DM-JC-Ringsted,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Emmet,EL-LN-Dolliver,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Emmet,Emmet-Estherville,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Emmet,Estherville Ward 1,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Emmet,Estherville Ward 2,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Emmet,Estherville Ward 3,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Emmet,Estherville Ward 4,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Emmet,Estherville Ward 5,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Emmet,HL-TM-Wallingford,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Emmet,AG-IL-Armstrong,Secretary of State,,DEM,Deidre DeJear,136,102,34
+Emmet,CN-SL-Gruver,Secretary of State,,DEM,Deidre DeJear,48,32,16
+Emmet,DM-JC-Ringsted,Secretary of State,,DEM,Deidre DeJear,66,45,21
+Emmet,EL-LN-Dolliver,Secretary of State,,DEM,Deidre DeJear,36,23,13
+Emmet,Emmet-Estherville,Secretary of State,,DEM,Deidre DeJear,61,31,30
+Emmet,Estherville Ward 1,Secretary of State,,DEM,Deidre DeJear,220,120,100
+Emmet,Estherville Ward 2,Secretary of State,,DEM,Deidre DeJear,181,109,72
+Emmet,Estherville Ward 3,Secretary of State,,DEM,Deidre DeJear,216,114,102
+Emmet,Estherville Ward 4,Secretary of State,,DEM,Deidre DeJear,152,87,65
+Emmet,Estherville Ward 5,Secretary of State,,DEM,Deidre DeJear,136,76,60
+Emmet,HL-TM-Wallingford,Secretary of State,,DEM,Deidre DeJear,86,67,19
+Emmet,AG-IL-Armstrong,Secretary of State,,REP,Paul D. Pate,338,263,75
+Emmet,CN-SL-Gruver,Secretary of State,,REP,Paul D. Pate,142,110,32
+Emmet,DM-JC-Ringsted,Secretary of State,,REP,Paul D. Pate,163,118,45
+Emmet,EL-LN-Dolliver,Secretary of State,,REP,Paul D. Pate,105,74,31
+Emmet,Emmet-Estherville,Secretary of State,,REP,Paul D. Pate,204,138,66
+Emmet,Estherville Ward 1,Secretary of State,,REP,Paul D. Pate,311,211,100
+Emmet,Estherville Ward 2,Secretary of State,,REP,Paul D. Pate,238,168,70
+Emmet,Estherville Ward 3,Secretary of State,,REP,Paul D. Pate,228,144,84
+Emmet,Estherville Ward 4,Secretary of State,,REP,Paul D. Pate,159,108,51
+Emmet,Estherville Ward 5,Secretary of State,,REP,Paul D. Pate,154,98,56
+Emmet,HL-TM-Wallingford,Secretary of State,,REP,Paul D. Pate,173,143,30
+Emmet,AG-IL-Armstrong,Secretary of State,,LIB,Jules Ofenbakh,5,5,0
+Emmet,CN-SL-Gruver,Secretary of State,,LIB,Jules Ofenbakh,3,2,1
+Emmet,DM-JC-Ringsted,Secretary of State,,LIB,Jules Ofenbakh,7,4,3
+Emmet,EL-LN-Dolliver,Secretary of State,,LIB,Jules Ofenbakh,0,0,0
+Emmet,Emmet-Estherville,Secretary of State,,LIB,Jules Ofenbakh,2,2,0
+Emmet,Estherville Ward 1,Secretary of State,,LIB,Jules Ofenbakh,6,3,3
+Emmet,Estherville Ward 2,Secretary of State,,LIB,Jules Ofenbakh,11,5,6
+Emmet,Estherville Ward 3,Secretary of State,,LIB,Jules Ofenbakh,12,8,4
+Emmet,Estherville Ward 4,Secretary of State,,LIB,Jules Ofenbakh,10,4,6
+Emmet,Estherville Ward 5,Secretary of State,,LIB,Jules Ofenbakh,10,8,2
+Emmet,HL-TM-Wallingford,Secretary of State,,LIB,Jules Ofenbakh,9,7,2
+Emmet,AG-IL-Armstrong,Secretary of State,,,Write-in,0,0,0
+Emmet,CN-SL-Gruver,Secretary of State,,,Write-in,0,0,0
+Emmet,DM-JC-Ringsted,Secretary of State,,,Write-in,0,0,0
+Emmet,EL-LN-Dolliver,Secretary of State,,,Write-in,0,0,0
+Emmet,Emmet-Estherville,Secretary of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 1,Secretary of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 2,Secretary of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 3,Secretary of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 4,Secretary of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 5,Secretary of State,,,Write-in,0,0,0
+Emmet,HL-TM-Wallingford,Secretary of State,,,Write-in,0,0,0
+Emmet,AG-IL-Armstrong,Auditor of State,,DEM,Rob Sand,171,132,39
+Emmet,CN-SL-Gruver,Auditor of State,,DEM,Rob Sand,59,43,16
+Emmet,DM-JC-Ringsted,Auditor of State,,DEM,Rob Sand,83,54,29
+Emmet,EL-LN-Dolliver,Auditor of State,,DEM,Rob Sand,49,30,19
+Emmet,Emmet-Estherville,Auditor of State,,DEM,Rob Sand,88,52,36
+Emmet,Estherville Ward 1,Auditor of State,,DEM,Rob Sand,247,132,115
+Emmet,Estherville Ward 2,Auditor of State,,DEM,Rob Sand,201,123,78
+Emmet,Estherville Ward 3,Auditor of State,,DEM,Rob Sand,255,137,118
+Emmet,Estherville Ward 4,Auditor of State,,DEM,Rob Sand,162,88,74
+Emmet,Estherville Ward 5,Auditor of State,,DEM,Rob Sand,149,79,70
+Emmet,HL-TM-Wallingford,Auditor of State,,DEM,Rob Sand,110,85,25
+Emmet,AG-IL-Armstrong,Auditor of State,,REP,Mary Mosiman,299,234,65
+Emmet,CN-SL-Gruver,Auditor of State,,REP,Mary Mosiman,133,101,32
+Emmet,DM-JC-Ringsted,Auditor of State,,REP,Mary Mosiman,147,111,36
+Emmet,EL-LN-Dolliver,Auditor of State,,REP,Mary Mosiman,88,64,24
+Emmet,Emmet-Estherville,Auditor of State,,REP,Mary Mosiman,175,114,61
+Emmet,Estherville Ward 1,Auditor of State,,REP,Mary Mosiman,281,195,86
+Emmet,Estherville Ward 2,Auditor of State,,REP,Mary Mosiman,211,147,64
+Emmet,Estherville Ward 3,Auditor of State,,REP,Mary Mosiman,193,121,72
+Emmet,Estherville Ward 4,Auditor of State,,REP,Mary Mosiman,148,102,46
+Emmet,Estherville Ward 5,Auditor of State,,REP,Mary Mosiman,145,99,46
+Emmet,HL-TM-Wallingford,Auditor of State,,REP,Mary Mosiman,147,124,23
+Emmet,AG-IL-Armstrong,Auditor of State,,LIB,Fred Perryman,13,9,4
+Emmet,CN-SL-Gruver,Auditor of State,,LIB,Fred Perryman,2,1,1
+Emmet,DM-JC-Ringsted,Auditor of State,,LIB,Fred Perryman,6,4,2
+Emmet,EL-LN-Dolliver,Auditor of State,,LIB,Fred Perryman,3,2,1
+Emmet,Emmet-Estherville,Auditor of State,,LIB,Fred Perryman,5,4,1
+Emmet,Estherville Ward 1,Auditor of State,,LIB,Fred Perryman,13,8,5
+Emmet,Estherville Ward 2,Auditor of State,,LIB,Fred Perryman,15,9,6
+Emmet,Estherville Ward 3,Auditor of State,,LIB,Fred Perryman,10,9,1
+Emmet,Estherville Ward 4,Auditor of State,,LIB,Fred Perryman,5,3,2
+Emmet,Estherville Ward 5,Auditor of State,,LIB,Fred Perryman,7,6,1
+Emmet,HL-TM-Wallingford,Auditor of State,,LIB,Fred Perryman,6,5,1
+Emmet,AG-IL-Armstrong,Auditor of State,,,Write-in,0,0,0
+Emmet,CN-SL-Gruver,Auditor of State,,,Write-in,0,0,0
+Emmet,DM-JC-Ringsted,Auditor of State,,,Write-in,0,0,0
+Emmet,EL-LN-Dolliver,Auditor of State,,,Write-in,0,0,0
+Emmet,Emmet-Estherville,Auditor of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 1,Auditor of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 2,Auditor of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 3,Auditor of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 4,Auditor of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 5,Auditor of State,,,Write-in,0,0,0
+Emmet,HL-TM-Wallingford,Auditor of State,,,Write-in,0,0,0
+Emmet,AG-IL-Armstrong,Treasurer of State,,DEM,Michael L. Fitzgerald,177,139,38
+Emmet,CN-SL-Gruver,Treasurer of State,,DEM,Michael L. Fitzgerald,62,45,17
+Emmet,DM-JC-Ringsted,Treasurer of State,,DEM,Michael L. Fitzgerald,112,82,30
+Emmet,EL-LN-Dolliver,Treasurer of State,,DEM,Michael L. Fitzgerald,56,33,23
+Emmet,Emmet-Estherville,Treasurer of State,,DEM,Michael L. Fitzgerald,93,55,38
+Emmet,Estherville Ward 1,Treasurer of State,,DEM,Michael L. Fitzgerald,249,137,112
+Emmet,Estherville Ward 2,Treasurer of State,,DEM,Michael L. Fitzgerald,221,132,89
+Emmet,Estherville Ward 3,Treasurer of State,,DEM,Michael L. Fitzgerald,254,129,125
+Emmet,Estherville Ward 4,Treasurer of State,,DEM,Michael L. Fitzgerald,168,90,78
+Emmet,Estherville Ward 5,Treasurer of State,,DEM,Michael L. Fitzgerald,147,78,69
+Emmet,HL-TM-Wallingford,Treasurer of State,,DEM,Michael L. Fitzgerald,107,84,23
+Emmet,AG-IL-Armstrong,Treasurer of State,,REP,Jeremy N. Davis,300,230,70
+Emmet,CN-SL-Gruver,Treasurer of State,,REP,Jeremy N. Davis,126,96,30
+Emmet,DM-JC-Ringsted,Treasurer of State,,REP,Jeremy N. Davis,122,87,35
+Emmet,EL-LN-Dolliver,Treasurer of State,,REP,Jeremy N. Davis,82,61,21
+Emmet,Emmet-Estherville,Treasurer of State,,REP,Jeremy N. Davis,169,111,58
+Emmet,Estherville Ward 1,Treasurer of State,,REP,Jeremy N. Davis,280,190,90
+Emmet,Estherville Ward 2,Treasurer of State,,REP,Jeremy N. Davis,199,143,56
+Emmet,Estherville Ward 3,Treasurer of State,,REP,Jeremy N. Davis,189,125,64
+Emmet,Estherville Ward 4,Treasurer of State,,REP,Jeremy N. Davis,142,99,43
+Emmet,Estherville Ward 5,Treasurer of State,,REP,Jeremy N. Davis,145,94,51
+Emmet,HL-TM-Wallingford,Treasurer of State,,REP,Jeremy N. Davis,152,128,24
+Emmet,AG-IL-Armstrong,Treasurer of State,,LIB,Timothy Hird,10,8,2
+Emmet,CN-SL-Gruver,Treasurer of State,,LIB,Timothy Hird,2,1,1
+Emmet,DM-JC-Ringsted,Treasurer of State,,LIB,Timothy Hird,5,2,3
+Emmet,EL-LN-Dolliver,Treasurer of State,,LIB,Timothy Hird,3,2,1
+Emmet,Emmet-Estherville,Treasurer of State,,LIB,Timothy Hird,6,6,0
+Emmet,Estherville Ward 1,Treasurer of State,,LIB,Timothy Hird,12,8,4
+Emmet,Estherville Ward 2,Treasurer of State,,LIB,Timothy Hird,9,5,4
+Emmet,Estherville Ward 3,Treasurer of State,,LIB,Timothy Hird,12,11,1
+Emmet,Estherville Ward 4,Treasurer of State,,LIB,Timothy Hird,8,6,2
+Emmet,Estherville Ward 5,Treasurer of State,,LIB,Timothy Hird,12,10,2
+Emmet,HL-TM-Wallingford,Treasurer of State,,LIB,Timothy Hird,7,6,1
+Emmet,AG-IL-Armstrong,Treasurer of State,,,Write-in,0,0,0
+Emmet,CN-SL-Gruver,Treasurer of State,,,Write-in,0,0,0
+Emmet,DM-JC-Ringsted,Treasurer of State,,,Write-in,0,0,0
+Emmet,EL-LN-Dolliver,Treasurer of State,,,Write-in,0,0,0
+Emmet,Emmet-Estherville,Treasurer of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 1,Treasurer of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 2,Treasurer of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 3,Treasurer of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 4,Treasurer of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 5,Treasurer of State,,,Write-in,0,0,0
+Emmet,HL-TM-Wallingford,Treasurer of State,,,Write-in,0,0,0
+Emmet,AG-IL-Armstrong,Secretary of Agriculture,,DEM,Tim Gannon,136,102,34
+Emmet,CN-SL-Gruver,Secretary of Agriculture,,DEM,Tim Gannon,45,31,14
+Emmet,DM-JC-Ringsted,Secretary of Agriculture,,DEM,Tim Gannon,47,31,16
+Emmet,EL-LN-Dolliver,Secretary of Agriculture,,DEM,Tim Gannon,33,20,13
+Emmet,Emmet-Estherville,Secretary of Agriculture,,DEM,Tim Gannon,59,29,30
+Emmet,Estherville Ward 1,Secretary of Agriculture,,DEM,Tim Gannon,198,109,89
+Emmet,Estherville Ward 2,Secretary of Agriculture,,DEM,Tim Gannon,171,105,66
+Emmet,Estherville Ward 3,Secretary of Agriculture,,DEM,Tim Gannon,200,100,100
+Emmet,Estherville Ward 4,Secretary of Agriculture,,DEM,Tim Gannon,142,82,60
+Emmet,Estherville Ward 5,Secretary of Agriculture,,DEM,Tim Gannon,119,66,53
+Emmet,HL-TM-Wallingford,Secretary of Agriculture,,DEM,Tim Gannon,63,49,14
+Emmet,AG-IL-Armstrong,Secretary of Agriculture,,REP,Mike Naig,345,271,74
+Emmet,CN-SL-Gruver,Secretary of Agriculture,,REP,Mike Naig,149,116,33
+Emmet,DM-JC-Ringsted,Secretary of Agriculture,,REP,Mike Naig,196,145,51
+Emmet,EL-LN-Dolliver,Secretary of Agriculture,,REP,Mike Naig,118,84,34
+Emmet,Emmet-Estherville,Secretary of Agriculture,,REP,Mike Naig,212,145,67
+Emmet,Estherville Ward 1,Secretary of Agriculture,,REP,Mike Naig,346,231,115
+Emmet,Estherville Ward 2,Secretary of Agriculture,,REP,Mike Naig,258,176,82
+Emmet,Estherville Ward 3,Secretary of Agriculture,,REP,Mike Naig,245,155,90
+Emmet,Estherville Ward 4,Secretary of Agriculture,,REP,Mike Naig,171,112,59
+Emmet,Estherville Ward 5,Secretary of Agriculture,,REP,Mike Naig,174,110,64
+Emmet,HL-TM-Wallingford,Secretary of Agriculture,,REP,Mike Naig,209,175,34
+Emmet,AG-IL-Armstrong,Secretary of Agriculture,,LIB,Rick Stewart,6,5,1
+Emmet,CN-SL-Gruver,Secretary of Agriculture,,LIB,Rick Stewart,2,1,1
+Emmet,DM-JC-Ringsted,Secretary of Agriculture,,LIB,Rick Stewart,4,1,3
+Emmet,EL-LN-Dolliver,Secretary of Agriculture,,LIB,Rick Stewart,1,1,0
+Emmet,Emmet-Estherville,Secretary of Agriculture,,LIB,Rick Stewart,3,3,0
+Emmet,Estherville Ward 1,Secretary of Agriculture,,LIB,Rick Stewart,8,5,3
+Emmet,Estherville Ward 2,Secretary of Agriculture,,LIB,Rick Stewart,9,5,4
+Emmet,Estherville Ward 3,Secretary of Agriculture,,LIB,Rick Stewart,15,11,4
+Emmet,Estherville Ward 4,Secretary of Agriculture,,LIB,Rick Stewart,7,3,4
+Emmet,Estherville Ward 5,Secretary of Agriculture,,LIB,Rick Stewart,13,10,3
+Emmet,HL-TM-Wallingford,Secretary of Agriculture,,LIB,Rick Stewart,2,1,1
+Emmet,AG-IL-Armstrong,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,CN-SL-Gruver,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,DM-JC-Ringsted,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,EL-LN-Dolliver,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,Emmet-Estherville,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,Estherville Ward 1,Secretary of Agriculture,,,Write-in,1,0,1
+Emmet,Estherville Ward 2,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,Estherville Ward 3,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,Estherville Ward 4,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,Estherville Ward 5,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,HL-TM-Wallingford,Secretary of Agriculture,,,Write-in,1,1,0
+Emmet,AG-IL-Armstrong,Attorney General,,DEM,Tom Miller,270,207,63
+Emmet,CN-SL-Gruver,Attorney General,,DEM,Tom Miller,97,74,23
+Emmet,DM-JC-Ringsted,Attorney General,,DEM,Tom Miller,161,118,43
+Emmet,EL-LN-Dolliver,Attorney General,,DEM,Tom Miller,83,54,29
+Emmet,Emmet-Estherville,Attorney General,,DEM,Tom Miller,151,95,56
+Emmet,Estherville Ward 1,Attorney General,,DEM,Tom Miller,343,198,145
+Emmet,Estherville Ward 2,Attorney General,,DEM,Tom Miller,282,181,101
+Emmet,Estherville Ward 3,Attorney General,,DEM,Tom Miller,312,162,150
+Emmet,Estherville Ward 4,Attorney General,,DEM,Tom Miller,208,119,89
+Emmet,Estherville Ward 5,Attorney General,,DEM,Tom Miller,185,101,84
+Emmet,HL-TM-Wallingford,Attorney General,,DEM,Tom Miller,162,128,34
+Emmet,AG-IL-Armstrong,Attorney General,,LIB,Marco Battaglia,124,97,27
+Emmet,CN-SL-Gruver,Attorney General,,LIB,Marco Battaglia,57,43,14
+Emmet,DM-JC-Ringsted,Attorney General,,LIB,Marco Battaglia,46,34,12
+Emmet,EL-LN-Dolliver,Attorney General,,LIB,Marco Battaglia,29,22,7
+Emmet,Emmet-Estherville,Attorney General,,LIB,Marco Battaglia,52,37,15
+Emmet,Estherville Ward 1,Attorney General,,LIB,Marco Battaglia,124,84,40
+Emmet,Estherville Ward 2,Attorney General,,LIB,Marco Battaglia,102,68,34
+Emmet,Estherville Ward 3,Attorney General,,LIB,Marco Battaglia,89,65,24
+Emmet,Estherville Ward 4,Attorney General,,LIB,Marco Battaglia,57,37,20
+Emmet,Estherville Ward 5,Attorney General,,LIB,Marco Battaglia,75,59,16
+Emmet,HL-TM-Wallingford,Attorney General,,LIB,Marco Battaglia,61,55,6
+Emmet,AG-IL-Armstrong,Attorney General,,,Write-in,4,2,2
+Emmet,CN-SL-Gruver,Attorney General,,,Write-in,1,0,1
+Emmet,DM-JC-Ringsted,Attorney General,,,Write-in,2,2,0
+Emmet,EL-LN-Dolliver,Attorney General,,,Write-in,0,0,0
+Emmet,Emmet-Estherville,Attorney General,,,Write-in,3,2,1
+Emmet,Estherville Ward 1,Attorney General,,,Write-in,5,5,0
+Emmet,Estherville Ward 2,Attorney General,,,Write-in,3,3,0
+Emmet,Estherville Ward 3,Attorney General,,,Write-in,2,1,1
+Emmet,Estherville Ward 4,Attorney General,,,Write-in,1,0,1
+Emmet,Estherville Ward 5,Attorney General,,,Write-in,0,0,0
+Emmet,HL-TM-Wallingford,Attorney General,,,Write-in,0,0,0
+Emmet,AG-IL-Armstrong,State Representative District 7,,DEM,Debra Jensen,162,121,41
+Emmet,CN-SL-Gruver,State Representative District 7,,DEM,Debra Jensen,47,33,14
+Emmet,DM-JC-Ringsted,State Representative District 7,,DEM,Debra Jensen,88,63,25
+Emmet,EL-LN-Dolliver,State Representative District 7,,DEM,Debra Jensen,44,25,19
+Emmet,Emmet-Estherville,State Representative District 7,,DEM,Debra Jensen,75,41,34
+Emmet,Estherville Ward 1,State Representative District 7,,DEM,Debra Jensen,241,135,106
+Emmet,Estherville Ward 2,State Representative District 7,,DEM,Debra Jensen,202,116,86
+Emmet,Estherville Ward 3,State Representative District 7,,DEM,Debra Jensen,246,131,115
+Emmet,Estherville Ward 4,State Representative District 7,,DEM,Debra Jensen,170,101,69
+Emmet,Estherville Ward 5,State Representative District 7,,DEM,Debra Jensen,146,76,70
+Emmet,HL-TM-Wallingford,State Representative District 7,,DEM,Debra Jensen,100,78,22
+Emmet,AG-IL-Armstrong,State Representative District 7,,REP,Tedd Gassman,326,256,70
+Emmet,CN-SL-Gruver,State Representative District 7,,REP,Tedd Gassman,142,109,33
+Emmet,DM-JC-Ringsted,State Representative District 7,,REP,Tedd Gassman,152,110,42
+Emmet,EL-LN-Dolliver,State Representative District 7,,REP,Tedd Gassman,104,77,27
+Emmet,Emmet-Estherville,State Representative District 7,,REP,Tedd Gassman,194,131,63
+Emmet,Estherville Ward 1,State Representative District 7,,REP,Tedd Gassman,309,206,103
+Emmet,Estherville Ward 2,State Representative District 7,,REP,Tedd Gassman,241,173,68
+Emmet,Estherville Ward 3,State Representative District 7,,REP,Tedd Gassman,213,134,79
+Emmet,Estherville Ward 4,State Representative District 7,,REP,Tedd Gassman,155,102,53
+Emmet,Estherville Ward 5,State Representative District 7,,REP,Tedd Gassman,157,106,51
+Emmet,HL-TM-Wallingford,State Representative District 7,,REP,Tedd Gassman,173,145,28
+Emmet,AG-IL-Armstrong,State Representative District 7,,,Write-in,1,1,0
+Emmet,CN-SL-Gruver,State Representative District 7,,,Write-in,0,0,0
+Emmet,DM-JC-Ringsted,State Representative District 7,,,Write-in,0,0,0
+Emmet,EL-LN-Dolliver,State Representative District 7,,,Write-in,0,0,0
+Emmet,Emmet-Estherville,State Representative District 7,,,Write-in,0,0,0
+Emmet,Estherville Ward 1,State Representative District 7,,,Write-in,2,2,0
+Emmet,Estherville Ward 2,State Representative District 7,,,Write-in,0,0,0
+Emmet,Estherville Ward 3,State Representative District 7,,,Write-in,1,0,1
+Emmet,Estherville Ward 4,State Representative District 7,,,Write-in,0,0,0
+Emmet,Estherville Ward 5,State Representative District 7,,,Write-in,1,0,1
+Emmet,HL-TM-Wallingford,State Representative District 7,,,Write-in,0,0,0
+Emmet,AG-IL-Armstrong,Board of Supervisor,,DEM,Cole T. Beardsley,131,92,39
+Emmet,CN-SL-Gruver,Board of Supervisor,,DEM,Cole T. Beardsley,34,23,11
+Emmet,DM-JC-Ringsted,Board of Supervisor,,DEM,Cole T. Beardsley,60,42,18
+Emmet,EL-LN-Dolliver,Board of Supervisor,,DEM,Cole T. Beardsley,18,10,8
+Emmet,Emmet-Estherville,Board of Supervisor,,DEM,Cole T. Beardsley,90,49,41
+Emmet,Estherville Ward 1,Board of Supervisor,,DEM,Cole T. Beardsley,221,119,102
+Emmet,Estherville Ward 2,Board of Supervisor,,DEM,Cole T. Beardsley,201,119,82
+Emmet,Estherville Ward 3,Board of Supervisor,,DEM,Cole T. Beardsley,222,122,100
+Emmet,Estherville Ward 4,Board of Supervisor,,DEM,Cole T. Beardsley,158,96,62
+Emmet,Estherville Ward 5,Board of Supervisor,,DEM,Cole T. Beardsley,134,78,56
+Emmet,HL-TM-Wallingford,Board of Supervisor,,DEM,Cole T. Beardsley,70,48,22
+Emmet,AG-IL-Armstrong,Board of Supervisor,,REP,John Pluth,330,258,72
+Emmet,CN-SL-Gruver,Board of Supervisor,,REP,John Pluth,160,123,37
+Emmet,DM-JC-Ringsted,Board of Supervisor,,REP,John Pluth,180,131,49
+Emmet,EL-LN-Dolliver,Board of Supervisor,,REP,John Pluth,111,76,35
+Emmet,Emmet-Estherville,Board of Supervisor,,REP,John Pluth,191,129,62
+Emmet,Estherville Ward 1,Board of Supervisor,,REP,John Pluth,360,236,124
+Emmet,Estherville Ward 2,Board of Supervisor,,REP,John Pluth,260,177,83
+Emmet,Estherville Ward 3,Board of Supervisor,,REP,John Pluth,248,140,108
+Emmet,Estherville Ward 4,Board of Supervisor,,REP,John Pluth,175,117,58
+Emmet,Estherville Ward 5,Board of Supervisor,,REP,John Pluth,167,106,61
+Emmet,HL-TM-Wallingford,Board of Supervisor,,REP,John Pluth,204,174,30
+Emmet,AG-IL-Armstrong,Board of Supervisor,,,Jeff Quastad,310,240,70
+Emmet,CN-SL-Gruver,Board of Supervisor,,,Jeff Quastad,168,129,39
+Emmet,DM-JC-Ringsted,Board of Supervisor,,,Jeff Quastad,154,111,43
+Emmet,EL-LN-Dolliver,Board of Supervisor,,,Jeff Quastad,130,90,40
+Emmet,Emmet-Estherville,Board of Supervisor,,,Jeff Quastad,176,119,57
+Emmet,Estherville Ward 1,Board of Supervisor,,,Jeff Quastad,311,209,102
+Emmet,Estherville Ward 2,Board of Supervisor,,,Jeff Quastad,240,160,80
+Emmet,Estherville Ward 3,Board of Supervisor,,,Jeff Quastad,236,136,100
+Emmet,Estherville Ward 4,Board of Supervisor,,,Jeff Quastad,176,118,58
+Emmet,Estherville Ward 5,Board of Supervisor,,,Jeff Quastad,161,99,62
+Emmet,HL-TM-Wallingford,Board of Supervisor,,,Jeff Quastad,203,166,37
+Emmet,AG-IL-Armstrong,Board of Supervisor,,,Write-in,0,0,0
+Emmet,CN-SL-Gruver,Board of Supervisor,,,Write-in,1,1,0
+Emmet,DM-JC-Ringsted,Board of Supervisor,,,Write-in,1,1,0
+Emmet,EL-LN-Dolliver,Board of Supervisor,,,Write-in,0,0,0
+Emmet,Emmet-Estherville,Board of Supervisor,,,Write-in,1,0,1
+Emmet,Estherville Ward 1,Board of Supervisor,,,Write-in,5,2,3
+Emmet,Estherville Ward 2,Board of Supervisor,,,Write-in,6,4,2
+Emmet,Estherville Ward 3,Board of Supervisor,,,Write-in,2,2,0
+Emmet,Estherville Ward 4,Board of Supervisor,,,Write-in,0,0,0
+Emmet,Estherville Ward 5,Board of Supervisor,,,Write-in,1,1,0
+Emmet,HL-TM-Wallingford,Board of Supervisor,,,Write-in,1,1,0
+Emmet,AG-IL-Armstrong,County Treasurer,,DEM,Brenda Moore,347,271,76
+Emmet,CN-SL-Gruver,County Treasurer,,DEM,Brenda Moore,147,113,34
+Emmet,DM-JC-Ringsted,County Treasurer,,DEM,Brenda Moore,208,155,53
+Emmet,EL-LN-Dolliver,County Treasurer,,DEM,Brenda Moore,107,70,37
+Emmet,Emmet-Estherville,County Treasurer,,DEM,Brenda Moore,201,130,71
+Emmet,Estherville Ward 1,County Treasurer,,DEM,Brenda Moore,433,269,164
+Emmet,Estherville Ward 2,County Treasurer,,DEM,Brenda Moore,363,233,130
+Emmet,Estherville Ward 3,County Treasurer,,DEM,Brenda Moore,382,213,169
+Emmet,Estherville Ward 4,County Treasurer,,DEM,Brenda Moore,243,142,101
+Emmet,Estherville Ward 5,County Treasurer,,DEM,Brenda Moore,238,146,92
+Emmet,HL-TM-Wallingford,County Treasurer,,DEM,Brenda Moore,225,186,39
+Emmet,AG-IL-Armstrong,County Treasurer,,,Write-in,8,3,5
+Emmet,CN-SL-Gruver,County Treasurer,,,Write-in,3,0,3
+Emmet,DM-JC-Ringsted,County Treasurer,,,Write-in,4,4,0
+Emmet,EL-LN-Dolliver,County Treasurer,,,Write-in,0,0,0
+Emmet,Emmet-Estherville,County Treasurer,,,Write-in,3,2,1
+Emmet,Estherville Ward 1,County Treasurer,,,Write-in,13,10,3
+Emmet,Estherville Ward 2,County Treasurer,,,Write-in,11,10,1
+Emmet,Estherville Ward 3,County Treasurer,,,Write-in,3,3,0
+Emmet,Estherville Ward 4,County Treasurer,,,Write-in,9,8,1
+Emmet,Estherville Ward 5,County Treasurer,,,Write-in,7,6,1
+Emmet,HL-TM-Wallingford,County Treasurer,,,Write-in,0,0,0
+Emmet,AG-IL-Armstrong,County Recorder,,REP,Diann Quastad Minion,445,343,102
+Emmet,CN-SL-Gruver,County Recorder,,REP,Diann Quastad Minion,191,145,46
+Emmet,DM-JC-Ringsted,County Recorder,,REP,Diann Quastad Minion,221,160,61
+Emmet,EL-LN-Dolliver,County Recorder,,REP,Diann Quastad Minion,143,99,44
+Emmet,Emmet-Estherville,County Recorder,,REP,Diann Quastad Minion,240,154,86
+Emmet,Estherville Ward 1,County Recorder,,REP,Diann Quastad Minion,494,316,178
+Emmet,Estherville Ward 2,County Recorder,,REP,Diann Quastad Minion,380,256,124
+Emmet,Estherville Ward 3,County Recorder,,REP,Diann Quastad Minion,385,234,151
+Emmet,Estherville Ward 4,County Recorder,,REP,Diann Quastad Minion,252,159,93
+Emmet,Estherville Ward 5,County Recorder,,REP,Diann Quastad Minion,258,161,97
+Emmet,HL-TM-Wallingford,County Recorder,,REP,Diann Quastad Minion,251,210,41
+Emmet,AG-IL-Armstrong,County Recorder,,,Write-in,3,3,0
+Emmet,CN-SL-Gruver,County Recorder,,,Write-in,2,0,2
+Emmet,DM-JC-Ringsted,County Recorder,,,Write-in,2,2,0
+Emmet,EL-LN-Dolliver,County Recorder,,,Write-in,1,0,1
+Emmet,Emmet-Estherville,County Recorder,,,Write-in,2,0,2
+Emmet,Estherville Ward 1,County Recorder,,,Write-in,5,5,0
+Emmet,Estherville Ward 2,County Recorder,,,Write-in,6,2,4
+Emmet,Estherville Ward 3,County Recorder,,,Write-in,6,3,3
+Emmet,Estherville Ward 4,County Recorder,,,Write-in,2,1,1
+Emmet,Estherville Ward 5,County Recorder,,,Write-in,5,3,2
+Emmet,HL-TM-Wallingford,County Recorder,,,Write-in,1,1,0
+Emmet,AG-IL-Armstrong,County Attorney,,REP,Melanie Summers Bauler,419,327,92
+Emmet,CN-SL-Gruver,County Attorney,,REP,Melanie Summers Bauler,165,125,40
+Emmet,DM-JC-Ringsted,County Attorney,,REP,Melanie Summers Bauler,201,145,56
+Emmet,EL-LN-Dolliver,County Attorney,,REP,Melanie Summers Bauler,122,86,36
+Emmet,Emmet-Estherville,County Attorney,,REP,Melanie Summers Bauler,219,143,76
+Emmet,Estherville Ward 1,County Attorney,,REP,Melanie Summers Bauler,453,289,164
+Emmet,Estherville Ward 2,County Attorney,,REP,Melanie Summers Bauler,354,240,114
+Emmet,Estherville Ward 3,County Attorney,,REP,Melanie Summers Bauler,354,218,136
+Emmet,Estherville Ward 4,County Attorney,,REP,Melanie Summers Bauler,232,145,87
+Emmet,Estherville Ward 5,County Attorney,,REP,Melanie Summers Bauler,230,151,79
+Emmet,HL-TM-Wallingford,County Attorney,,REP,Melanie Summers Bauler,236,198,38
+Emmet,AG-IL-Armstrong,County Attorney,,,Write-in,8,3,5
+Emmet,CN-SL-Gruver,County Attorney,,,Write-in,2,0,2
+Emmet,DM-JC-Ringsted,County Attorney,,,Write-in,3,3,0
+Emmet,EL-LN-Dolliver,County Attorney,,,Write-in,2,1,1
+Emmet,Emmet-Estherville,County Attorney,,,Write-in,7,1,6
+Emmet,Estherville Ward 1,County Attorney,,,Write-in,11,6,5
+Emmet,Estherville Ward 2,County Attorney,,,Write-in,12,7,5
+Emmet,Estherville Ward 3,County Attorney,,,Write-in,9,5,4
+Emmet,Estherville Ward 4,County Attorney,,,Write-in,5,1,4
+Emmet,Estherville Ward 5,County Attorney,,,Write-in,5,1,4
+Emmet,HL-TM-Wallingford,County Attorney,,,Write-in,4,4,0
+Emmet,AG-IL-Armstrong,Armstrong Grove Township Trustee,,,Jeff Felkey,78,68,10
+Emmet,AG-IL-Armstrong,Armstrong Grove Township Trustee,,,Write-in,0,0,0
+Emmet,AG-IL-Armstrong,Armstrong Grove Township Clerk,,,Write-in,7,7,0
+Emmet,CN-SL-Gruver,Center Township Trustee,,,Jerry Pluth,94,70,24
+Emmet,CN-SL-Gruver,Center Township Trustee,,,Write-in,1,1,0
+Emmet,CN-SL-Gruver,Center Township Clerk,,,John E. Klingbeil,98,72,26
+Emmet,CN-SL-Gruver,Center Township Clerk,,,Write-in,0,0,0
+Emmet,Emmet-Estherville,Emmet Township Trustee,,,Write-in,9,3,6
+Emmet,Emmet-Estherville,Emmet Twnshp Clrk,,,Phyllis Martens,74,46,28
+Emmet,Emmet-Estherville,Emmet Twnshp Clrk,,,Write-in,1,0,1
+Emmet,AG-IL-Armstrong,Iowa Lake Township Trustee,,,Write-in,6,5,1
+Emmet,AG-IL-Armstrong,Iowa Lake Township Clerk,,,Deb Tietje,58,36,22
+Emmet,AG-IL-Armstrong,Iowa Lake Township Clerk,,,Write-in,0,0,0
+Emmet,EL-LN-Dolliver,Lincoln Township Trustee,,,Dennis Hoffman,48,34,14
+Emmet,EL-LN-Dolliver,Lincoln Township Trustee,,,Write-in,0,0,0
+Emmet,EL-LN-Dolliver,Lincoln Township Clerk,,,Jean Hoffman,48,34,14
+Emmet,EL-LN-Dolliver,Lincoln Township Clerk,,,Write-in,0,0,0
+Emmet,AG-IL-Armstrong,Soil & Water Conservation,,,Arden Kinnander,438,339,99
+Emmet,CN-SL-Gruver,Soil & Water Conservation,,,Arden Kinnander,142,108,34
+Emmet,DM-JC-Ringsted,Soil & Water Conservation,,,Arden Kinnander,208,151,57
+Emmet,EL-LN-Dolliver,Soil & Water Conservation,,,Arden Kinnander,105,73,32
+Emmet,Emmet-Estherville,Soil & Water Conservation,,,Arden Kinnander,169,108,61
+Emmet,Estherville Ward 1,Soil & Water Conservation,,,Arden Kinnander,345,209,136
+Emmet,Estherville Ward 2,Soil & Water Conservation,,,Arden Kinnander,291,186,105
+Emmet,Estherville Ward 3,Soil & Water Conservation,,,Arden Kinnander,280,165,115
+Emmet,Estherville Ward 4,Soil & Water Conservation,,,Arden Kinnander,179,115,64
+Emmet,Estherville Ward 5,Soil & Water Conservation,,,Arden Kinnander,177,109,68
+Emmet,HL-TM-Wallingford,Soil & Water Conservation,,,Arden Kinnander,173,145,28
+Emmet,AG-IL-Armstrong,Soil & Water Conservation,,,Don Valen,234,176,58
+Emmet,CN-SL-Gruver,Soil & Water Conservation,,,Don Valen,133,97,36
+Emmet,DM-JC-Ringsted,Soil & Water Conservation,,,Don Valen,137,103,34
+Emmet,EL-LN-Dolliver,Soil & Water Conservation,,,Don Valen,122,79,43
+Emmet,Emmet-Estherville,Soil & Water Conservation,,,Don Valen,196,124,72
+Emmet,Estherville Ward 1,Soil & Water Conservation,,,Don Valen,385,237,148
+Emmet,Estherville Ward 2,Soil & Water Conservation,,,Don Valen,309,212,97
+Emmet,Estherville Ward 3,Soil & Water Conservation,,,Don Valen,314,178,136
+Emmet,Estherville Ward 4,Soil & Water Conservation,,,Don Valen,190,111,79
+Emmet,Estherville Ward 5,Soil & Water Conservation,,,Don Valen,199,126,73
+Emmet,HL-TM-Wallingford,Soil & Water Conservation,,,Don Valen,184,150,34
+Emmet,AG-IL-Armstrong,Soil & Water Conservation,,,Write-in,3,3,0
+Emmet,CN-SL-Gruver,Soil & Water Conservation,,,Write-in,1,1,0
+Emmet,DM-JC-Ringsted,Soil & Water Conservation,,,Write-in,2,2,0
+Emmet,EL-LN-Dolliver,Soil & Water Conservation,,,Write-in,0,0,0
+Emmet,Emmet-Estherville,Soil & Water Conservation,,,Write-in,1,0,1
+Emmet,Estherville Ward 1,Soil & Water Conservation,,,Write-in,4,3,1
+Emmet,Estherville Ward 2,Soil & Water Conservation,,,Write-in,5,4,1
+Emmet,Estherville Ward 3,Soil & Water Conservation,,,Write-in,2,1,1
+Emmet,Estherville Ward 4,Soil & Water Conservation,,,Write-in,3,2,1
+Emmet,Estherville Ward 5,Soil & Water Conservation,,,Write-in,3,2,1
+Emmet,HL-TM-Wallingford,Soil & Water Conservation,,,Write-in,2,1,1
+Emmet,AG-IL-Armstrong,Soil & Water Conservation To Fill A Vacancy,,,Joan Eveleth,375,285,90
+Emmet,CN-SL-Gruver,Soil & Water Conservation To Fill A Vacancy,,,Joan Eveleth,160,120,40
+Emmet,DM-JC-Ringsted,Soil & Water Conservation To Fill A Vacancy,,,Joan Eveleth,199,141,58
+Emmet,EL-LN-Dolliver,Soil & Water Conservation To Fill A Vacancy,,,Joan Eveleth,125,85,40
+Emmet,Emmet-Estherville,Soil & Water Conservation To Fill A Vacancy,,,Joan Eveleth,212,137,75
+Emmet,Estherville Ward 1,Soil & Water Conservation To Fill A Vacancy,,,Joan Eveleth,450,288,162
+Emmet,Estherville Ward 2,Soil & Water Conservation To Fill A Vacancy,,,Joan Eveleth,359,240,119
+Emmet,Estherville Ward 3,Soil & Water Conservation To Fill A Vacancy,,,Joan Eveleth,379,221,158
+Emmet,Estherville Ward 4,Soil & Water Conservation To Fill A Vacancy,,,Joan Eveleth,242,150,92
+Emmet,Estherville Ward 5,Soil & Water Conservation To Fill A Vacancy,,,Joan Eveleth,246,155,91
+Emmet,HL-TM-Wallingford,Soil & Water Conservation To Fill A Vacancy,,,Joan Eveleth,216,179,37
+Emmet,AG-IL-Armstrong,Soil & Water Conservation To Fill A Vacancy,,,Write-in,4,2,2
+Emmet,CN-SL-Gruver,Soil & Water Conservation To Fill A Vacancy,,,Write-in,1,1,0
+Emmet,DM-JC-Ringsted,Soil & Water Conservation To Fill A Vacancy,,,Write-in,1,1,0
+Emmet,EL-LN-Dolliver,Soil & Water Conservation To Fill A Vacancy,,,Write-in,1,0,1
+Emmet,Emmet-Estherville,Soil & Water Conservation To Fill A Vacancy,,,Write-in,2,0,2
+Emmet,Estherville Ward 1,Soil & Water Conservation To Fill A Vacancy,,,Write-in,4,4,0
+Emmet,Estherville Ward 2,Soil & Water Conservation To Fill A Vacancy,,,Write-in,6,3,3
+Emmet,Estherville Ward 3,Soil & Water Conservation To Fill A Vacancy,,,Write-in,2,1,1
+Emmet,Estherville Ward 4,Soil & Water Conservation To Fill A Vacancy,,,Write-in,3,2,1
+Emmet,Estherville Ward 5,Soil & Water Conservation To Fill A Vacancy,,,Write-in,2,2,0
+Emmet,HL-TM-Wallingford,Soil & Water Conservation To Fill A Vacancy,,,Write-in,0,0,0
+Emmet,AG-IL-Armstrong,County Agricultural Extension,,,Crystal Clabaugh,282,212,70
+Emmet,CN-SL-Gruver,County Agricultural Extension,,,Crystal Clabaugh,138,96,42
+Emmet,DM-JC-Ringsted,County Agricultural Extension,,,Crystal Clabaugh,144,108,36
+Emmet,EL-LN-Dolliver,County Agricultural Extension,,,Crystal Clabaugh,102,68,34
+Emmet,Emmet-Estherville,County Agricultural Extension,,,Crystal Clabaugh,180,115,65
+Emmet,Estherville Ward 1,County Agricultural Extension,,,Crystal Clabaugh,345,209,136
+Emmet,Estherville Ward 2,County Agricultural Extension,,,Crystal Clabaugh,303,208,95
+Emmet,Estherville Ward 3,County Agricultural Extension,,,Crystal Clabaugh,313,191,122
+Emmet,Estherville Ward 4,County Agricultural Extension,,,Crystal Clabaugh,183,116,67
+Emmet,Estherville Ward 5,County Agricultural Extension,,,Crystal Clabaugh,191,121,70
+Emmet,HL-TM-Wallingford,County Agricultural Extension,,,Crystal Clabaugh,174,148,26
+Emmet,AG-IL-Armstrong,County Agricultural Extension,,,Nancy Rosburg,271,199,72
+Emmet,CN-SL-Gruver,County Agricultural Extension,,,Nancy Rosburg,131,94,37
+Emmet,DM-JC-Ringsted,County Agricultural Extension,,,Nancy Rosburg,151,111,40
+Emmet,EL-LN-Dolliver,County Agricultural Extension,,,Nancy Rosburg,104,68,36
+Emmet,Emmet-Estherville,County Agricultural Extension,,,Nancy Rosburg,191,122,69
+Emmet,Estherville Ward 1,County Agricultural Extension,,,Nancy Rosburg,364,223,141
+Emmet,Estherville Ward 2,County Agricultural Extension,,,Nancy Rosburg,286,186,100
+Emmet,Estherville Ward 3,County Agricultural Extension,,,Nancy Rosburg,293,174,119
+Emmet,Estherville Ward 4,County Agricultural Extension,,,Nancy Rosburg,191,114,77
+Emmet,Estherville Ward 5,County Agricultural Extension,,,Nancy Rosburg,189,119,70
+Emmet,HL-TM-Wallingford,County Agricultural Extension,,,Nancy Rosburg,168,141,27
+Emmet,AG-IL-Armstrong,County Agricultural Extension,,,Todd Eisenbacher,352,262,90
+Emmet,CN-SL-Gruver,County Agricultural Extension,,,Todd Eisenbacher,121,87,34
+Emmet,DM-JC-Ringsted,County Agricultural Extension,,,Todd Eisenbacher,170,125,45
+Emmet,EL-LN-Dolliver,County Agricultural Extension,,,Todd Eisenbacher,95,64,31
+Emmet,Emmet-Estherville,County Agricultural Extension,,,Todd Eisenbacher,156,103,53
+Emmet,Estherville Ward 1,County Agricultural Extension,,,Todd Eisenbacher,312,186,126
+Emmet,Estherville Ward 2,County Agricultural Extension,,,Todd Eisenbacher,264,177,87
+Emmet,Estherville Ward 3,County Agricultural Extension,,,Todd Eisenbacher,265,152,113
+Emmet,Estherville Ward 4,County Agricultural Extension,,,Todd Eisenbacher,157,98,59
+Emmet,Estherville Ward 5,County Agricultural Extension,,,Todd Eisenbacher,160,102,58
+Emmet,HL-TM-Wallingford,County Agricultural Extension,,,Todd Eisenbacher,158,132,26
+Emmet,AG-IL-Armstrong,County Agricultural Extension,,,Greg Deim,316,239,77
+Emmet,CN-SL-Gruver,County Agricultural Extension,,,Greg Deim,134,98,36
+Emmet,DM-JC-Ringsted,County Agricultural Extension,,,Greg Deim,164,116,48
+Emmet,EL-LN-Dolliver,County Agricultural Extension,,,Greg Deim,92,61,31
+Emmet,Emmet-Estherville,County Agricultural Extension,,,Greg Deim,176,111,65
+Emmet,Estherville Ward 1,County Agricultural Extension,,,Greg Deim,336,209,127
+Emmet,Estherville Ward 2,County Agricultural Extension,,,Greg Deim,277,185,92
+Emmet,Estherville Ward 3,County Agricultural Extension,,,Greg Deim,282,161,121
+Emmet,Estherville Ward 4,County Agricultural Extension,,,Greg Deim,172,113,59
+Emmet,Estherville Ward 5,County Agricultural Extension,,,Greg Deim,171,109,62
+Emmet,HL-TM-Wallingford,County Agricultural Extension,,,Greg Deim,164,137,27
+Emmet,AG-IL-Armstrong,County Agricultural Extension,,,Beth Wycoff,267,197,70
+Emmet,CN-SL-Gruver,County Agricultural Extension,,,Beth Wycoff,125,90,35
+Emmet,DM-JC-Ringsted,County Agricultural Extension,,,Beth Wycoff,149,106,43
+Emmet,EL-LN-Dolliver,County Agricultural Extension,,,Beth Wycoff,90,54,36
+Emmet,Emmet-Estherville,County Agricultural Extension,,,Beth Wycoff,190,119,71
+Emmet,Estherville Ward 1,County Agricultural Extension,,,Beth Wycoff,377,228,149
+Emmet,Estherville Ward 2,County Agricultural Extension,,,Beth Wycoff,306,209,97
+Emmet,Estherville Ward 3,County Agricultural Extension,,,Beth Wycoff,311,179,132
+Emmet,Estherville Ward 4,County Agricultural Extension,,,Beth Wycoff,206,127,79
+Emmet,Estherville Ward 5,County Agricultural Extension,,,Beth Wycoff,199,124,75
+Emmet,HL-TM-Wallingford,County Agricultural Extension,,,Beth Wycoff,165,140,25
+Emmet,AG-IL-Armstrong,County Agricultural Extension,,,Write-in,7,4,3
+Emmet,CN-SL-Gruver,County Agricultural Extension,,,Write-in,4,4,0
+Emmet,DM-JC-Ringsted,County Agricultural Extension,,,Write-in,2,2,0
+Emmet,EL-LN-Dolliver,County Agricultural Extension,,,Write-in,0,0,0
+Emmet,Emmet-Estherville,County Agricultural Extension,,,Write-in,1,1,0
+Emmet,Estherville Ward 1,County Agricultural Extension,,,Write-in,6,6,0
+Emmet,Estherville Ward 2,County Agricultural Extension,,,Write-in,10,5,5
+Emmet,Estherville Ward 3,County Agricultural Extension,,,Write-in,6,1,5
+Emmet,Estherville Ward 4,County Agricultural Extension,,,Write-in,5,3,2
+Emmet,Estherville Ward 5,County Agricultural Extension,,,Write-in,8,5,3
+Emmet,HL-TM-Wallingford,County Agricultural Extension,,,Write-in,1,1,0
+Emmet,AG-IL-Armstrong,Court of Appeals Judge Mary Ellen Tabor,,,Yes,266,203,63
+Emmet,CN-SL-Gruver,Court of Appeals Judge Mary Ellen Tabor,,,Yes,114,80,34
+Emmet,DM-JC-Ringsted,Court of Appeals Judge Mary Ellen Tabor,,,Yes,129,95,34
+Emmet,EL-LN-Dolliver,Court of Appeals Judge Mary Ellen Tabor,,,Yes,82,52,30
+Emmet,Emmet-Estherville,Court of Appeals Judge Mary Ellen Tabor,,,Yes,131,87,44
+Emmet,Estherville Ward 1,Court of Appeals Judge Mary Ellen Tabor,,,Yes,335,202,133
+Emmet,Estherville Ward 2,Court of Appeals Judge Mary Ellen Tabor,,,Yes,252,172,80
+Emmet,Estherville Ward 3,Court of Appeals Judge Mary Ellen Tabor,,,Yes,280,161,119
+Emmet,Estherville Ward 4,Court of Appeals Judge Mary Ellen Tabor,,,Yes,175,98,77
+Emmet,Estherville Ward 5,Court of Appeals Judge Mary Ellen Tabor,,,Yes,167,104,63
+Emmet,HL-TM-Wallingford,Court of Appeals Judge Mary Ellen Tabor,,,Yes,148,114,34
+Emmet,AG-IL-Armstrong,Court of Appeals Judge Mary Ellen Tabor,,,No,87,70,17
+Emmet,CN-SL-Gruver,Court of Appeals Judge Mary Ellen Tabor,,,No,28,22,6
+Emmet,DM-JC-Ringsted,Court of Appeals Judge Mary Ellen Tabor,,,No,45,34,11
+Emmet,EL-LN-Dolliver,Court of Appeals Judge Mary Ellen Tabor,,,No,13,12,1
+Emmet,Emmet-Estherville,Court of Appeals Judge Mary Ellen Tabor,,,No,54,34,20
+Emmet,Estherville Ward 1,Court of Appeals Judge Mary Ellen Tabor,,,No,99,71,28
+Emmet,Estherville Ward 2,Court of Appeals Judge Mary Ellen Tabor,,,No,93,61,32
+Emmet,Estherville Ward 3,Court of Appeals Judge Mary Ellen Tabor,,,No,82,54,28
+Emmet,Estherville Ward 4,Court of Appeals Judge Mary Ellen Tabor,,,No,63,40,23
+Emmet,Estherville Ward 5,Court of Appeals Judge Mary Ellen Tabor,,,No,64,39,25
+Emmet,HL-TM-Wallingford,Court of Appeals Judge Mary Ellen Tabor,,,No,54,51,3
+Emmet,AG-IL-Armstrong,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,232,178,54
+Emmet,CN-SL-Gruver,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,98,73,25
+Emmet,DM-JC-Ringsted,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,120,90,30
+Emmet,EL-LN-Dolliver,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,74,47,27
+Emmet,Emmet-Estherville,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,119,77,42
+Emmet,Estherville Ward 1,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,305,185,120
+Emmet,Estherville Ward 2,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,236,154,82
+Emmet,Estherville Ward 3,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,251,146,105
+Emmet,Estherville Ward 4,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,162,94,68
+Emmet,Estherville Ward 5,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,150,94,56
+Emmet,HL-TM-Wallingford,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,131,105,26
+Emmet,AG-IL-Armstrong,Court of Appeals Judge Anuradha Vaitheswaran,,,No,117,92,25
+Emmet,CN-SL-Gruver,Court of Appeals Judge Anuradha Vaitheswaran,,,No,42,27,15
+Emmet,DM-JC-Ringsted,Court of Appeals Judge Anuradha Vaitheswaran,,,No,52,37,15
+Emmet,EL-LN-Dolliver,Court of Appeals Judge Anuradha Vaitheswaran,,,No,18,16,2
+Emmet,Emmet-Estherville,Court of Appeals Judge Anuradha Vaitheswaran,,,No,65,42,23
+Emmet,Estherville Ward 1,Court of Appeals Judge Anuradha Vaitheswaran,,,No,117,82,35
+Emmet,Estherville Ward 2,Court of Appeals Judge Anuradha Vaitheswaran,,,No,105,75,30
+Emmet,Estherville Ward 3,Court of Appeals Judge Anuradha Vaitheswaran,,,No,105,65,40
+Emmet,Estherville Ward 4,Court of Appeals Judge Anuradha Vaitheswaran,,,No,70,42,28
+Emmet,Estherville Ward 5,Court of Appeals Judge Anuradha Vaitheswaran,,,No,79,47,32
+Emmet,HL-TM-Wallingford,Court of Appeals Judge Anuradha Vaitheswaran,,,No,67,56,11
+Emmet,AG-IL-Armstrong,Court of Appeals Judge Michael R. Mullins,,,Yes,265,202,63
+Emmet,CN-SL-Gruver,Court of Appeals Judge Michael R. Mullins,,,Yes,116,83,33
+Emmet,DM-JC-Ringsted,Court of Appeals Judge Michael R. Mullins,,,Yes,124,91,33
+Emmet,EL-LN-Dolliver,Court of Appeals Judge Michael R. Mullins,,,Yes,81,51,30
+Emmet,Emmet-Estherville,Court of Appeals Judge Michael R. Mullins,,,Yes,135,90,45
+Emmet,Estherville Ward 1,Court of Appeals Judge Michael R. Mullins,,,Yes,321,191,130
+Emmet,Estherville Ward 2,Court of Appeals Judge Michael R. Mullins,,,Yes,250,165,85
+Emmet,Estherville Ward 3,Court of Appeals Judge Michael R. Mullins,,,Yes,264,152,112
+Emmet,Estherville Ward 4,Court of Appeals Judge Michael R. Mullins,,,Yes,166,100,66
+Emmet,Estherville Ward 5,Court of Appeals Judge Michael R. Mullins,,,Yes,173,110,63
+Emmet,HL-TM-Wallingford,Court of Appeals Judge Michael R. Mullins,,,Yes,151,118,33
+Emmet,AG-IL-Armstrong,Court of Appeals Judge Michael R. Mullins,,,No,84,68,16
+Emmet,CN-SL-Gruver,Court of Appeals Judge Michael R. Mullins,,,No,21,16,5
+Emmet,DM-JC-Ringsted,Court of Appeals Judge Michael R. Mullins,,,No,45,34,11
+Emmet,EL-LN-Dolliver,Court of Appeals Judge Michael R. Mullins,,,No,13,13,0
+Emmet,Emmet-Estherville,Court of Appeals Judge Michael R. Mullins,,,No,48,29,19
+Emmet,Estherville Ward 1,Court of Appeals Judge Michael R. Mullins,,,No,102,76,26
+Emmet,Estherville Ward 2,Court of Appeals Judge Michael R. Mullins,,,No,90,65,25
+Emmet,Estherville Ward 3,Court of Appeals Judge Michael R. Mullins,,,No,92,58,34
+Emmet,Estherville Ward 4,Court of Appeals Judge Michael R. Mullins,,,No,68,39,29
+Emmet,Estherville Ward 5,Court of Appeals Judge Michael R. Mullins,,,No,56,32,24
+Emmet,HL-TM-Wallingford,Court of Appeals Judge Michael R. Mullins,,,No,47,43,4
+Emmet,AG-IL-Armstrong,District 3A District Judge David A. Lester,,,Yes,309,237,72
+Emmet,CN-SL-Gruver,District 3A District Judge David A. Lester,,,Yes,139,101,38
+Emmet,DM-JC-Ringsted,District 3A District Judge David A. Lester,,,Yes,156,106,50
+Emmet,EL-LN-Dolliver,District 3A District Judge David A. Lester,,,Yes,103,68,35
+Emmet,Emmet-Estherville,District 3A District Judge David A. Lester,,,Yes,197,128,69
+Emmet,Estherville Ward 1,District 3A District Judge David A. Lester,,,Yes,426,257,169
+Emmet,Estherville Ward 2,District 3A District Judge David A. Lester,,,Yes,332,218,114
+Emmet,Estherville Ward 3,District 3A District Judge David A. Lester,,,Yes,342,185,157
+Emmet,Estherville Ward 4,District 3A District Judge David A. Lester,,,Yes,210,129,81
+Emmet,Estherville Ward 5,District 3A District Judge David A. Lester,,,Yes,219,129,90
+Emmet,HL-TM-Wallingford,District 3A District Judge David A. Lester,,,Yes,184,148,36
+Emmet,AG-IL-Armstrong,District 3A District Judge David A. Lester,,,No,76,61,15
+Emmet,CN-SL-Gruver,District 3A District Judge David A. Lester,,,No,25,19,6
+Emmet,DM-JC-Ringsted,District 3A District Judge David A. Lester,,,No,34,29,5
+Emmet,EL-LN-Dolliver,District 3A District Judge David A. Lester,,,No,17,13,4
+Emmet,Emmet-Estherville,District 3A District Judge David A. Lester,,,No,30,20,10
+Emmet,Estherville Ward 1,District 3A District Judge David A. Lester,,,No,65,47,18
+Emmet,Estherville Ward 2,District 3A District Judge David A. Lester,,,No,69,51,18
+Emmet,Estherville Ward 3,District 3A District Judge David A. Lester,,,No,56,42,14
+Emmet,Estherville Ward 4,District 3A District Judge David A. Lester,,,No,49,27,22
+Emmet,Estherville Ward 5,District 3A District Judge David A. Lester,,,No,52,34,18
+Emmet,HL-TM-Wallingford,District 3A District Judge David A. Lester,,,No,44,39,5
+Emmet,AG-IL-Armstrong,District 3A District Judge Nancy L. Whittenburg,,,Yes,272,213,59
+Emmet,CN-SL-Gruver,District 3A District Judge Nancy L. Whittenburg,,,Yes,116,87,29
+Emmet,DM-JC-Ringsted,District 3A District Judge Nancy L. Whittenburg,,,Yes,138,93,45
+Emmet,EL-LN-Dolliver,District 3A District Judge Nancy L. Whittenburg,,,Yes,81,51,30
+Emmet,Emmet-Estherville,District 3A District Judge Nancy L. Whittenburg,,,Yes,144,100,44
+Emmet,Estherville Ward 1,District 3A District Judge Nancy L. Whittenburg,,,Yes,339,196,143
+Emmet,Estherville Ward 2,District 3A District Judge Nancy L. Whittenburg,,,Yes,270,181,89
+Emmet,Estherville Ward 3,District 3A District Judge Nancy L. Whittenburg,,,Yes,287,168,119
+Emmet,Estherville Ward 4,District 3A District Judge Nancy L. Whittenburg,,,Yes,174,104,70
+Emmet,Estherville Ward 5,District 3A District Judge Nancy L. Whittenburg,,,Yes,186,113,73
+Emmet,HL-TM-Wallingford,District 3A District Judge Nancy L. Whittenburg,,,Yes,159,127,32
+Emmet,AG-IL-Armstrong,District 3A District Judge Nancy L. Whittenburg,,,No,94,72,22
+Emmet,CN-SL-Gruver,District 3A District Judge Nancy L. Whittenburg,,,No,33,22,11
+Emmet,DM-JC-Ringsted,District 3A District Judge Nancy L. Whittenburg,,,No,46,36,10
+Emmet,EL-LN-Dolliver,District 3A District Judge Nancy L. Whittenburg,,,No,21,17,4
+Emmet,Emmet-Estherville,District 3A District Judge Nancy L. Whittenburg,,,No,59,37,22
+Emmet,Estherville Ward 1,District 3A District Judge Nancy L. Whittenburg,,,No,110,83,27
+Emmet,Estherville Ward 2,District 3A District Judge Nancy L. Whittenburg,,,No,94,67,27
+Emmet,Estherville Ward 3,District 3A District Judge Nancy L. Whittenburg,,,No,95,56,39
+Emmet,Estherville Ward 4,District 3A District Judge Nancy L. Whittenburg,,,No,65,36,29
+Emmet,Estherville Ward 5,District 3A District Judge Nancy L. Whittenburg,,,No,62,38,24
+Emmet,HL-TM-Wallingford,District 3A District Judge Nancy L. Whittenburg,,,No,58,52,6

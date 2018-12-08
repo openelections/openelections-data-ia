@@ -1,0 +1,536 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Clarke,MIDDLE PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,206,112,94
+Clarke,MURRAY PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,208,155,53
+Clarke,NORTH EAST PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,309,164,145
+Clarke,OSCEOLA 1ST WARD PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,214,113,101
+Clarke,OSCEOLA 2ND WARD PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,209,102,107
+Clarke,OSCEOLA 3RD WARD PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,289,165,124
+Clarke,WOODBURN PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,90,52,38
+Clarke,MIDDLE PRECINCT,United States Representative District 2,,REP,Christopher Peters,318,209,109
+Clarke,MURRAY PRECINCT,United States Representative District 2,,REP,Christopher Peters,312,240,72
+Clarke,NORTH EAST PRECINCT,United States Representative District 2,,REP,Christopher Peters,450,269,181
+Clarke,OSCEOLA 1ST WARD PRECINCT,United States Representative District 2,,REP,Christopher Peters,235,161,74
+Clarke,OSCEOLA 2ND WARD PRECINCT,United States Representative District 2,,REP,Christopher Peters,180,123,57
+Clarke,OSCEOLA 3RD WARD PRECINCT,United States Representative District 2,,REP,Christopher Peters,306,187,119
+Clarke,WOODBURN PRECINCT,United States Representative District 2,,REP,Christopher Peters,138,106,32
+Clarke,MIDDLE PRECINCT,United States Representative District 2,,LIB,Mark David Strauss,13,12,1
+Clarke,MURRAY PRECINCT,United States Representative District 2,,LIB,Mark David Strauss,18,16,2
+Clarke,NORTH EAST PRECINCT,United States Representative District 2,,LIB,Mark David Strauss,23,17,6
+Clarke,OSCEOLA 1ST WARD PRECINCT,United States Representative District 2,,LIB,Mark David Strauss,18,11,7
+Clarke,OSCEOLA 2ND WARD PRECINCT,United States Representative District 2,,LIB,Mark David Strauss,15,11,4
+Clarke,OSCEOLA 3RD WARD PRECINCT,United States Representative District 2,,LIB,Mark David Strauss,21,15,6
+Clarke,WOODBURN PRECINCT,United States Representative District 2,,LIB,Mark David Strauss,7,7,0
+Clarke,MIDDLE PRECINCT,United States Representative District 2,,,Daniel Clark,1,1,0
+Clarke,MURRAY PRECINCT,United States Representative District 2,,,Daniel Clark,9,6,3
+Clarke,NORTH EAST PRECINCT,United States Representative District 2,,,Daniel Clark,6,2,4
+Clarke,OSCEOLA 1ST WARD PRECINCT,United States Representative District 2,,,Daniel Clark,3,2,1
+Clarke,OSCEOLA 2ND WARD PRECINCT,United States Representative District 2,,,Daniel Clark,4,2,2
+Clarke,OSCEOLA 3RD WARD PRECINCT,United States Representative District 2,,,Daniel Clark,7,4,3
+Clarke,WOODBURN PRECINCT,United States Representative District 2,,,Daniel Clark,4,3,1
+Clarke,MIDDLE PRECINCT,United States Representative District 2,,,Write-in,1,1,0
+Clarke,MURRAY PRECINCT,United States Representative District 2,,,Write-in,1,1,0
+Clarke,NORTH EAST PRECINCT,United States Representative District 2,,,Write-in,1,0,1
+Clarke,OSCEOLA 1ST WARD PRECINCT,United States Representative District 2,,,Write-in,0,0,0
+Clarke,OSCEOLA 2ND WARD PRECINCT,United States Representative District 2,,,Write-in,0,0,0
+Clarke,OSCEOLA 3RD WARD PRECINCT,United States Representative District 2,,,Write-in,1,0,1
+Clarke,WOODBURN PRECINCT,United States Representative District 2,,,Write-in,0,0,0
+Clarke,MIDDLE PRECINCT,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,156,79,77
+Clarke,MURRAY PRECINCT,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,168,123,45
+Clarke,NORTH EAST PRECINCT,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,248,123,125
+Clarke,OSCEOLA 1ST WARD PRECINCT,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,195,95,100
+Clarke,OSCEOLA 2ND WARD PRECINCT,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,186,97,89
+Clarke,OSCEOLA 3RD WARD PRECINCT,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,249,150,99
+Clarke,WOODBURN PRECINCT,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,78,42,36
+Clarke,MIDDLE PRECINCT,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,386,256,130
+Clarke,MURRAY PRECINCT,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,383,298,85
+Clarke,NORTH EAST PRECINCT,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,544,328,216
+Clarke,OSCEOLA 1ST WARD PRECINCT,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,270,190,80
+Clarke,OSCEOLA 2ND WARD PRECINCT,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,206,130,76
+Clarke,OSCEOLA 3RD WARD PRECINCT,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,382,222,160
+Clarke,WOODBURN PRECINCT,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,170,134,36
+Clarke,MIDDLE PRECINCT,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,9,8,1
+Clarke,MURRAY PRECINCT,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,14,11,3
+Clarke,NORTH EAST PRECINCT,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,11,6,5
+Clarke,OSCEOLA 1ST WARD PRECINCT,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,13,8,5
+Clarke,OSCEOLA 2ND WARD PRECINCT,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,17,9,8
+Clarke,OSCEOLA 3RD WARD PRECINCT,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,5,4,1
+Clarke,WOODBURN PRECINCT,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,3,3,0
+Clarke,MIDDLE PRECINCT,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,1,1,0
+Clarke,MURRAY PRECINCT,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,2,1,1
+Clarke,NORTH EAST PRECINCT,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,2,1,1
+Clarke,OSCEOLA 1ST WARD PRECINCT,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,2,1,1
+Clarke,OSCEOLA 2ND WARD PRECINCT,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,2,2,0
+Clarke,OSCEOLA 3RD WARD PRECINCT,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,4,2,2
+Clarke,WOODBURN PRECINCT,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,0,0,0
+Clarke,MIDDLE PRECINCT,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Clarke,MURRAY PRECINCT,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Clarke,NORTH EAST PRECINCT,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Clarke,OSCEOLA 1ST WARD PRECINCT,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Clarke,OSCEOLA 2ND WARD PRECINCT,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Clarke,OSCEOLA 3RD WARD PRECINCT,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Clarke,WOODBURN PRECINCT,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Clarke,MIDDLE PRECINCT,Secretary of State,,DEM,Deidre DeJear,140,77,63
+Clarke,MURRAY PRECINCT,Secretary of State,,DEM,Deidre DeJear,172,130,42
+Clarke,NORTH EAST PRECINCT,Secretary of State,,DEM,Deidre DeJear,239,128,111
+Clarke,OSCEOLA 1ST WARD PRECINCT,Secretary of State,,DEM,Deidre DeJear,178,92,86
+Clarke,OSCEOLA 2ND WARD PRECINCT,Secretary of State,,DEM,Deidre DeJear,175,85,90
+Clarke,OSCEOLA 3RD WARD PRECINCT,Secretary of State,,DEM,Deidre DeJear,245,144,101
+Clarke,WOODBURN PRECINCT,Secretary of State,,DEM,Deidre DeJear,75,48,27
+Clarke,MIDDLE PRECINCT,Secretary of State,,REP,Paul D. Pate,383,244,139
+Clarke,MURRAY PRECINCT,Secretary of State,,REP,Paul D. Pate,357,273,84
+Clarke,NORTH EAST PRECINCT,Secretary of State,,REP,Paul D. Pate,521,313,208
+Clarke,OSCEOLA 1ST WARD PRECINCT,Secretary of State,,REP,Paul D. Pate,277,184,93
+Clarke,OSCEOLA 2ND WARD PRECINCT,Secretary of State,,REP,Paul D. Pate,221,144,77
+Clarke,OSCEOLA 3RD WARD PRECINCT,Secretary of State,,REP,Paul D. Pate,370,216,154
+Clarke,WOODBURN PRECINCT,Secretary of State,,REP,Paul D. Pate,158,115,43
+Clarke,MIDDLE PRECINCT,Secretary of State,,LIB,Jules Ofenbakh,13,12,1
+Clarke,MURRAY PRECINCT,Secretary of State,,LIB,Jules Ofenbakh,12,9,3
+Clarke,NORTH EAST PRECINCT,Secretary of State,,LIB,Jules Ofenbakh,21,11,10
+Clarke,OSCEOLA 1ST WARD PRECINCT,Secretary of State,,LIB,Jules Ofenbakh,15,11,4
+Clarke,OSCEOLA 2ND WARD PRECINCT,Secretary of State,,LIB,Jules Ofenbakh,8,5,3
+Clarke,OSCEOLA 3RD WARD PRECINCT,Secretary of State,,LIB,Jules Ofenbakh,11,9,2
+Clarke,WOODBURN PRECINCT,Secretary of State,,LIB,Jules Ofenbakh,7,6,1
+Clarke,MIDDLE PRECINCT,Secretary of State,,,Write-in,0,0,0
+Clarke,MURRAY PRECINCT,Secretary of State,,,Write-in,1,1,0
+Clarke,NORTH EAST PRECINCT,Secretary of State,,,Write-in,1,0,1
+Clarke,OSCEOLA 1ST WARD PRECINCT,Secretary of State,,,Write-in,0,0,0
+Clarke,OSCEOLA 2ND WARD PRECINCT,Secretary of State,,,Write-in,0,0,0
+Clarke,OSCEOLA 3RD WARD PRECINCT,Secretary of State,,,Write-in,1,1,0
+Clarke,WOODBURN PRECINCT,Secretary of State,,,Write-in,0,0,0
+Clarke,MIDDLE PRECINCT,Auditor of State,,DEM,Rob Sand,218,119,99
+Clarke,MURRAY PRECINCT,Auditor of State,,DEM,Rob Sand,240,175,65
+Clarke,NORTH EAST PRECINCT,Auditor of State,,DEM,Rob Sand,324,169,155
+Clarke,OSCEOLA 1ST WARD PRECINCT,Auditor of State,,DEM,Rob Sand,232,123,109
+Clarke,OSCEOLA 2ND WARD PRECINCT,Auditor of State,,DEM,Rob Sand,210,100,110
+Clarke,OSCEOLA 3RD WARD PRECINCT,Auditor of State,,DEM,Rob Sand,304,171,133
+Clarke,WOODBURN PRECINCT,Auditor of State,,DEM,Rob Sand,106,66,40
+Clarke,MIDDLE PRECINCT,Auditor of State,,REP,Mary Mosiman,297,196,101
+Clarke,MURRAY PRECINCT,Auditor of State,,REP,Mary Mosiman,291,227,64
+Clarke,NORTH EAST PRECINCT,Auditor of State,,REP,Mary Mosiman,436,267,169
+Clarke,OSCEOLA 1ST WARD PRECINCT,Auditor of State,,REP,Mary Mosiman,224,153,71
+Clarke,OSCEOLA 2ND WARD PRECINCT,Auditor of State,,REP,Mary Mosiman,183,126,57
+Clarke,OSCEOLA 3RD WARD PRECINCT,Auditor of State,,REP,Mary Mosiman,304,183,121
+Clarke,WOODBURN PRECINCT,Auditor of State,,REP,Mary Mosiman,123,93,30
+Clarke,MIDDLE PRECINCT,Auditor of State,,LIB,Fred Perryman,16,14,2
+Clarke,MURRAY PRECINCT,Auditor of State,,LIB,Fred Perryman,14,13,1
+Clarke,NORTH EAST PRECINCT,Auditor of State,,LIB,Fred Perryman,20,15,5
+Clarke,OSCEOLA 1ST WARD PRECINCT,Auditor of State,,LIB,Fred Perryman,12,7,5
+Clarke,OSCEOLA 2ND WARD PRECINCT,Auditor of State,,LIB,Fred Perryman,10,8,2
+Clarke,OSCEOLA 3RD WARD PRECINCT,Auditor of State,,LIB,Fred Perryman,19,15,4
+Clarke,WOODBURN PRECINCT,Auditor of State,,LIB,Fred Perryman,8,7,1
+Clarke,MIDDLE PRECINCT,Auditor of State,,,Write-in,0,0,0
+Clarke,MURRAY PRECINCT,Auditor of State,,,Write-in,0,0,0
+Clarke,NORTH EAST PRECINCT,Auditor of State,,,Write-in,1,0,1
+Clarke,OSCEOLA 1ST WARD PRECINCT,Auditor of State,,,Write-in,0,0,0
+Clarke,OSCEOLA 2ND WARD PRECINCT,Auditor of State,,,Write-in,0,0,0
+Clarke,OSCEOLA 3RD WARD PRECINCT,Auditor of State,,,Write-in,1,1,0
+Clarke,WOODBURN PRECINCT,Auditor of State,,,Write-in,0,0,0
+Clarke,MIDDLE PRECINCT,Treasurer of State,,DEM,Michael L. Fitzgerald,234,127,107
+Clarke,MURRAY PRECINCT,Treasurer of State,,DEM,Michael L. Fitzgerald,261,197,64
+Clarke,NORTH EAST PRECINCT,Treasurer of State,,DEM,Michael L. Fitzgerald,334,174,160
+Clarke,OSCEOLA 1ST WARD PRECINCT,Treasurer of State,,DEM,Michael L. Fitzgerald,237,126,111
+Clarke,OSCEOLA 2ND WARD PRECINCT,Treasurer of State,,DEM,Michael L. Fitzgerald,239,123,116
+Clarke,OSCEOLA 3RD WARD PRECINCT,Treasurer of State,,DEM,Michael L. Fitzgerald,315,183,132
+Clarke,WOODBURN PRECINCT,Treasurer of State,,DEM,Michael L. Fitzgerald,106,64,42
+Clarke,MIDDLE PRECINCT,Treasurer of State,,REP,Jeremy N. Davis,287,192,95
+Clarke,MURRAY PRECINCT,Treasurer of State,,REP,Jeremy N. Davis,277,210,67
+Clarke,NORTH EAST PRECINCT,Treasurer of State,,REP,Jeremy N. Davis,426,262,164
+Clarke,OSCEOLA 1ST WARD PRECINCT,Treasurer of State,,REP,Jeremy N. Davis,221,154,67
+Clarke,OSCEOLA 2ND WARD PRECINCT,Treasurer of State,,REP,Jeremy N. Davis,159,108,51
+Clarke,OSCEOLA 3RD WARD PRECINCT,Treasurer of State,,REP,Jeremy N. Davis,295,173,122
+Clarke,WOODBURN PRECINCT,Treasurer of State,,REP,Jeremy N. Davis,124,96,28
+Clarke,MIDDLE PRECINCT,Treasurer of State,,LIB,Timothy Hird,14,14,0
+Clarke,MURRAY PRECINCT,Treasurer of State,,LIB,Timothy Hird,11,9,2
+Clarke,NORTH EAST PRECINCT,Treasurer of State,,LIB,Timothy Hird,18,12,6
+Clarke,OSCEOLA 1ST WARD PRECINCT,Treasurer of State,,LIB,Timothy Hird,13,8,5
+Clarke,OSCEOLA 2ND WARD PRECINCT,Treasurer of State,,LIB,Timothy Hird,8,5,3
+Clarke,OSCEOLA 3RD WARD PRECINCT,Treasurer of State,,LIB,Timothy Hird,17,14,3
+Clarke,WOODBURN PRECINCT,Treasurer of State,,LIB,Timothy Hird,7,6,1
+Clarke,MIDDLE PRECINCT,Treasurer of State,,,Write-in,0,0,0
+Clarke,MURRAY PRECINCT,Treasurer of State,,,Write-in,0,0,0
+Clarke,NORTH EAST PRECINCT,Treasurer of State,,,Write-in,0,0,0
+Clarke,OSCEOLA 1ST WARD PRECINCT,Treasurer of State,,,Write-in,0,0,0
+Clarke,OSCEOLA 2ND WARD PRECINCT,Treasurer of State,,,Write-in,0,0,0
+Clarke,OSCEOLA 3RD WARD PRECINCT,Treasurer of State,,,Write-in,0,0,0
+Clarke,WOODBURN PRECINCT,Treasurer of State,,,Write-in,0,0,0
+Clarke,MIDDLE PRECINCT,Secretary of Agriculture,,DEM,Tim Gannon,180,91,89
+Clarke,MURRAY PRECINCT,Secretary of Agriculture,,DEM,Tim Gannon,204,155,49
+Clarke,NORTH EAST PRECINCT,Secretary of Agriculture,,DEM,Tim Gannon,280,153,127
+Clarke,OSCEOLA 1ST WARD PRECINCT,Secretary of Agriculture,,DEM,Tim Gannon,206,104,102
+Clarke,OSCEOLA 2ND WARD PRECINCT,Secretary of Agriculture,,DEM,Tim Gannon,199,95,104
+Clarke,OSCEOLA 3RD WARD PRECINCT,Secretary of Agriculture,,DEM,Tim Gannon,261,154,107
+Clarke,WOODBURN PRECINCT,Secretary of Agriculture,,DEM,Tim Gannon,88,53,35
+Clarke,MIDDLE PRECINCT,Secretary of Agriculture,,REP,Mike Naig,339,226,113
+Clarke,MURRAY PRECINCT,Secretary of Agriculture,,REP,Mike Naig,315,241,74
+Clarke,NORTH EAST PRECINCT,Secretary of Agriculture,,REP,Mike Naig,472,281,191
+Clarke,OSCEOLA 1ST WARD PRECINCT,Secretary of Agriculture,,REP,Mike Naig,239,163,76
+Clarke,OSCEOLA 2ND WARD PRECINCT,Secretary of Agriculture,,REP,Mike Naig,189,126,63
+Clarke,OSCEOLA 3RD WARD PRECINCT,Secretary of Agriculture,,REP,Mike Naig,339,197,142
+Clarke,WOODBURN PRECINCT,Secretary of Agriculture,,REP,Mike Naig,147,112,35
+Clarke,MIDDLE PRECINCT,Secretary of Agriculture,,LIB,Rick Stewart,16,15,1
+Clarke,MURRAY PRECINCT,Secretary of Agriculture,,LIB,Rick Stewart,23,19,4
+Clarke,NORTH EAST PRECINCT,Secretary of Agriculture,,LIB,Rick Stewart,27,19,8
+Clarke,OSCEOLA 1ST WARD PRECINCT,Secretary of Agriculture,,LIB,Rick Stewart,23,15,8
+Clarke,OSCEOLA 2ND WARD PRECINCT,Secretary of Agriculture,,LIB,Rick Stewart,13,11,2
+Clarke,OSCEOLA 3RD WARD PRECINCT,Secretary of Agriculture,,LIB,Rick Stewart,21,15,6
+Clarke,WOODBURN PRECINCT,Secretary of Agriculture,,LIB,Rick Stewart,7,6,1
+Clarke,MIDDLE PRECINCT,Secretary of Agriculture,,,Write-in,1,1,0
+Clarke,MURRAY PRECINCT,Secretary of Agriculture,,,Write-in,2,2,0
+Clarke,NORTH EAST PRECINCT,Secretary of Agriculture,,,Write-in,0,0,0
+Clarke,OSCEOLA 1ST WARD PRECINCT,Secretary of Agriculture,,,Write-in,1,1,0
+Clarke,OSCEOLA 2ND WARD PRECINCT,Secretary of Agriculture,,,Write-in,0,0,0
+Clarke,OSCEOLA 3RD WARD PRECINCT,Secretary of Agriculture,,,Write-in,1,1,0
+Clarke,WOODBURN PRECINCT,Secretary of Agriculture,,,Write-in,0,0,0
+Clarke,MIDDLE PRECINCT,Attorney General,,DEM,Tom Miller,316,190,126
+Clarke,MURRAY PRECINCT,Attorney General,,DEM,Tom Miller,361,275,86
+Clarke,NORTH EAST PRECINCT,Attorney General,,DEM,Tom Miller,481,268,213
+Clarke,OSCEOLA 1ST WARD PRECINCT,Attorney General,,DEM,Tom Miller,336,190,146
+Clarke,OSCEOLA 2ND WARD PRECINCT,Attorney General,,DEM,Tom Miller,288,154,134
+Clarke,OSCEOLA 3RD WARD PRECINCT,Attorney General,,DEM,Tom Miller,419,241,178
+Clarke,WOODBURN PRECINCT,Attorney General,,DEM,Tom Miller,142,95,47
+Clarke,MIDDLE PRECINCT,Attorney General,,LIB,Marco Battaglia,147,96,51
+Clarke,MURRAY PRECINCT,Attorney General,,LIB,Marco Battaglia,136,104,32
+Clarke,NORTH EAST PRECINCT,Attorney General,,LIB,Marco Battaglia,224,135,89
+Clarke,OSCEOLA 1ST WARD PRECINCT,Attorney General,,LIB,Marco Battaglia,99,69,30
+Clarke,OSCEOLA 2ND WARD PRECINCT,Attorney General,,LIB,Marco Battaglia,78,58,20
+Clarke,OSCEOLA 3RD WARD PRECINCT,Attorney General,,LIB,Marco Battaglia,152,102,50
+Clarke,WOODBURN PRECINCT,Attorney General,,LIB,Marco Battaglia,70,54,16
+Clarke,MIDDLE PRECINCT,Attorney General,,,Write-in,7,2,5
+Clarke,MURRAY PRECINCT,Attorney General,,,Write-in,0,0,0
+Clarke,NORTH EAST PRECINCT,Attorney General,,,Write-in,4,4,0
+Clarke,OSCEOLA 1ST WARD PRECINCT,Attorney General,,,Write-in,1,0,1
+Clarke,OSCEOLA 2ND WARD PRECINCT,Attorney General,,,Write-in,2,1,1
+Clarke,OSCEOLA 3RD WARD PRECINCT,Attorney General,,,Write-in,2,1,1
+Clarke,WOODBURN PRECINCT,Attorney General,,,Write-in,1,1,0
+Clarke,MIDDLE PRECINCT,State Representative District 27,,DEM,Richard Foster,142,71,71
+Clarke,MURRAY PRECINCT,State Representative District 27,,DEM,Richard Foster,146,104,42
+Clarke,NORTH EAST PRECINCT,State Representative District 27,,DEM,Richard Foster,245,130,115
+Clarke,OSCEOLA 1ST WARD PRECINCT,State Representative District 27,,DEM,Richard Foster,175,83,92
+Clarke,OSCEOLA 2ND WARD PRECINCT,State Representative District 27,,DEM,Richard Foster,186,91,95
+Clarke,OSCEOLA 3RD WARD PRECINCT,State Representative District 27,,DEM,Richard Foster,260,155,105
+Clarke,WOODBURN PRECINCT,State Representative District 27,,DEM,Richard Foster,85,55,30
+Clarke,MIDDLE PRECINCT,State Representative District 27,,REP,Joel Fry,400,265,135
+Clarke,MURRAY PRECINCT,State Representative District 27,,REP,Joel Fry,416,327,89
+Clarke,NORTH EAST PRECINCT,State Representative District 27,,REP,Joel Fry,546,320,226
+Clarke,OSCEOLA 1ST WARD PRECINCT,State Representative District 27,,REP,Joel Fry,301,205,96
+Clarke,OSCEOLA 2ND WARD PRECINCT,State Representative District 27,,REP,Joel Fry,220,144,76
+Clarke,OSCEOLA 3RD WARD PRECINCT,State Representative District 27,,REP,Joel Fry,365,217,148
+Clarke,WOODBURN PRECINCT,State Representative District 27,,REP,Joel Fry,161,120,41
+Clarke,MIDDLE PRECINCT,State Representative District 27,,,Write-in,0,0,0
+Clarke,MURRAY PRECINCT,State Representative District 27,,,Write-in,3,1,2
+Clarke,NORTH EAST PRECINCT,State Representative District 27,,,Write-in,0,0,0
+Clarke,OSCEOLA 1ST WARD PRECINCT,State Representative District 27,,,Write-in,2,2,0
+Clarke,OSCEOLA 2ND WARD PRECINCT,State Representative District 27,,,Write-in,0,0,0
+Clarke,OSCEOLA 3RD WARD PRECINCT,State Representative District 27,,,Write-in,0,0,0
+Clarke,WOODBURN PRECINCT,State Representative District 27,,,Write-in,0,0,0
+Clarke,MIDDLE PRECINCT,Board of Supervisors, Dist. 1,DEM,Scott Busick,137,73,64
+Clarke,MURRAY PRECINCT,Board of Supervisors, Dist. 1,DEM,Scott Busick,150,112,38
+Clarke,WOODBURN PRECINCT,Board of Supervisors, Dist. 1,DEM,Scott Busick,81,56,25
+Clarke,MIDDLE PRECINCT,Board of Supervisors, Dist. 1,REP,Dean K. Robins,405,266,139
+Clarke,MURRAY PRECINCT,Board of Supervisors, Dist. 1,REP,Dean K. Robins,400,309,91
+Clarke,WOODBURN PRECINCT,Board of Supervisors, Dist. 1,REP,Dean K. Robins,159,113,46
+Clarke,MIDDLE PRECINCT,Board of Supervisors, Dist. 1,,Write-in,2,1,1
+Clarke,MURRAY PRECINCT,Board of Supervisors, Dist. 1,,Write-in,5,4,1
+Clarke,WOODBURN PRECINCT,Board of Supervisors, Dist. 1,,Write-in,1,1,0
+Clarke,MIDDLE PRECINCT,County Treasurer,,REP,Debbie Lynn,513,325,188
+Clarke,MURRAY PRECINCT,County Treasurer,,REP,Debbie Lynn,521,405,116
+Clarke,NORTH EAST PRECINCT,County Treasurer,,REP,Debbie Lynn,709,412,297
+Clarke,OSCEOLA 1ST WARD PRECINCT,County Treasurer,,REP,Debbie Lynn,426,266,160
+Clarke,OSCEOLA 2ND WARD PRECINCT,County Treasurer,,REP,Debbie Lynn,358,214,144
+Clarke,OSCEOLA 3RD WARD PRECINCT,County Treasurer,,REP,Debbie Lynn,580,341,239
+Clarke,WOODBURN PRECINCT,County Treasurer,,REP,Debbie Lynn,216,156,60
+Clarke,MIDDLE PRECINCT,County Treasurer,,,Write-in,6,4,2
+Clarke,MURRAY PRECINCT,County Treasurer,,,Write-in,7,5,2
+Clarke,NORTH EAST PRECINCT,County Treasurer,,,Write-in,5,4,1
+Clarke,OSCEOLA 1ST WARD PRECINCT,County Treasurer,,,Write-in,3,2,1
+Clarke,OSCEOLA 2ND WARD PRECINCT,County Treasurer,,,Write-in,4,3,1
+Clarke,OSCEOLA 3RD WARD PRECINCT,County Treasurer,,,Write-in,3,2,1
+Clarke,WOODBURN PRECINCT,County Treasurer,,,Write-in,3,3,0
+Clarke,MIDDLE PRECINCT,County Recorder,,DEM,Peggy Cummings,421,256,165
+Clarke,MURRAY PRECINCT,County Recorder,,DEM,Peggy Cummings,454,351,103
+Clarke,NORTH EAST PRECINCT,County Recorder,,DEM,Peggy Cummings,632,357,275
+Clarke,OSCEOLA 1ST WARD PRECINCT,County Recorder,,DEM,Peggy Cummings,408,244,164
+Clarke,OSCEOLA 2ND WARD PRECINCT,County Recorder,,DEM,Peggy Cummings,337,196,141
+Clarke,OSCEOLA 3RD WARD PRECINCT,County Recorder,,DEM,Peggy Cummings,535,309,226
+Clarke,WOODBURN PRECINCT,County Recorder,,DEM,Peggy Cummings,187,134,53
+Clarke,MIDDLE PRECINCT,County Recorder,,,Write-in,5,5,0
+Clarke,MURRAY PRECINCT,County Recorder,,,Write-in,6,6,0
+Clarke,NORTH EAST PRECINCT,County Recorder,,,Write-in,22,14,8
+Clarke,OSCEOLA 1ST WARD PRECINCT,County Recorder,,,Write-in,7,4,3
+Clarke,OSCEOLA 2ND WARD PRECINCT,County Recorder,,,Write-in,4,2,2
+Clarke,OSCEOLA 3RD WARD PRECINCT,County Recorder,,,Write-in,8,7,1
+Clarke,WOODBURN PRECINCT,County Recorder,,,Write-in,6,5,1
+Clarke,MIDDLE PRECINCT,County Attorney,,DEM,Michelle Murphy Rivera,142,74,68
+Clarke,MURRAY PRECINCT,County Attorney,,DEM,Michelle Murphy Rivera,112,72,40
+Clarke,NORTH EAST PRECINCT,County Attorney,,DEM,Michelle Murphy Rivera,209,107,102
+Clarke,OSCEOLA 1ST WARD PRECINCT,County Attorney,,DEM,Michelle Murphy Rivera,154,76,78
+Clarke,OSCEOLA 2ND WARD PRECINCT,County Attorney,,DEM,Michelle Murphy Rivera,151,69,82
+Clarke,OSCEOLA 3RD WARD PRECINCT,County Attorney,,DEM,Michelle Murphy Rivera,225,115,110
+Clarke,WOODBURN PRECINCT,County Attorney,,DEM,Michelle Murphy Rivera,77,38,39
+Clarke,MIDDLE PRECINCT,County Attorney,,REP,Adam Ramsey,400,265,135
+Clarke,MURRAY PRECINCT,County Attorney,,REP,Adam Ramsey,443,353,90
+Clarke,NORTH EAST PRECINCT,County Attorney,,REP,Adam Ramsey,577,342,235
+Clarke,OSCEOLA 1ST WARD PRECINCT,County Attorney,,REP,Adam Ramsey,312,208,104
+Clarke,OSCEOLA 2ND WARD PRECINCT,County Attorney,,REP,Adam Ramsey,251,161,90
+Clarke,OSCEOLA 3RD WARD PRECINCT,County Attorney,,REP,Adam Ramsey,408,257,151
+Clarke,WOODBURN PRECINCT,County Attorney,,REP,Adam Ramsey,168,136,32
+Clarke,MIDDLE PRECINCT,County Attorney,,,Write-in,1,1,0
+Clarke,MURRAY PRECINCT,County Attorney,,,Write-in,1,1,0
+Clarke,NORTH EAST PRECINCT,County Attorney,,,Write-in,2,2,0
+Clarke,OSCEOLA 1ST WARD PRECINCT,County Attorney,,,Write-in,1,1,0
+Clarke,OSCEOLA 2ND WARD PRECINCT,County Attorney,,,Write-in,1,0,1
+Clarke,OSCEOLA 3RD WARD PRECINCT,County Attorney,,,Write-in,2,2,0
+Clarke,WOODBURN PRECINCT,County Attorney,,,Write-in,0,0,0
+Clarke,MURRAY PRECINCT,Doyle Township Trustees,,,Shawn Patton,76,52,24
+Clarke,MURRAY PRECINCT,Doyle Township Trustees,,,Frank Jones,80,56,24
+Clarke,MURRAY PRECINCT,Doyle Township Trustees,,,Write-in,2,1,1
+Clarke,MURRAY PRECINCT,Doyle Township Clerk,,,Lisa Patton,88,61,27
+Clarke,MURRAY PRECINCT,Doyle Township Clerk,,,Write-in,0,0,0
+Clarke,WOODBURN PRECINCT,Franklin Township Trustees,,,Terry Bear,4,2,2
+Clarke,WOODBURN PRECINCT,Franklin Township Trustees,,,Robert Taylor,1,1,0
+Clarke,WOODBURN PRECINCT,Franklin Township Trustees,,,Toni Olney,2,1,1
+Clarke,WOODBURN PRECINCT,Franklin Township Trustees,,,Blank,1,1,0
+Clarke,WOODBURN PRECINCT,Franklin Township Trustees,,,Dusty Hamilton,3,0,3
+Clarke,WOODBURN PRECINCT,Franklin Township Trustees,,,David Bear,2,0,2
+Clarke,WOODBURN PRECINCT,Franklin Township Trustees,,,Jason Boyer,1,0,1
+Clarke,WOODBURN PRECINCT,Franklin Township Trustees,,,Write-in,0,0,0
+Clarke,WOODBURN PRECINCT,Franklin Township Clerk,,,Steve Smith,2,1,1
+Clarke,WOODBURN PRECINCT,Franklin Township Clerk,,,Terry Bear,1,1,0
+Clarke,WOODBURN PRECINCT,Franklin Township Clerk,,,Lorrie Bear,1,0,1
+Clarke,WOODBURN PRECINCT,Franklin Township Clerk,,,Virginia Smith,1,0,1
+Clarke,WOODBURN PRECINCT,Franklin Township Clerk,,,Blank,1,1,0
+Clarke,WOODBURN PRECINCT,Franklin Township Clerk,,,Write-in,0,0,0
+Clarke,NORTH EAST PRECINCT,Fremont Township Trustees,,,LeAnn McFarland,177,97,80
+Clarke,NORTH EAST PRECINCT,Fremont Township Trustees,,,Randy Barnard,186,101,85
+Clarke,NORTH EAST PRECINCT,Fremont Township Trustees,,,Write-in,3,2,1
+Clarke,NORTH EAST PRECINCT,Fremont Township Clerk,,,Marcia E. Lange,212,116,96
+Clarke,NORTH EAST PRECINCT,Fremont Township Clerk,,,Write-in,1,1,0
+Clarke,MIDDLE PRECINCT,Green Bay Township Trustees,,,Rick Oshel,116,69,47
+Clarke,MIDDLE PRECINCT,Green Bay Township Trustees,,,Larry Ward,1,1,0
+Clarke,MIDDLE PRECINCT,Green Bay Township Trustees,,,Brian Mateer,1,0,1
+Clarke,MIDDLE PRECINCT,Green Bay Township Trustees,,,Glen Heckman,1,0,1
+Clarke,MIDDLE PRECINCT,Green Bay Township Trustees,,,Write-in,0,0,0
+Clarke,MIDDLE PRECINCT,Green Bay Township Clerk,,,Lois Moms,1,1,0
+Clarke,MIDDLE PRECINCT,Green Bay Township Clerk,,,Nicole Wilken,1,1,0
+Clarke,MIDDLE PRECINCT,Green Bay Township Clerk,,,Connie Courcier,1,1,0
+Clarke,MIDDLE PRECINCT,Green Bay Township Clerk,,,Fran Ellis,1,0,1
+Clarke,MIDDLE PRECINCT,Green Bay Township Clerk,,,Beth Oshel,2,0,2
+Clarke,MIDDLE PRECINCT,Green Bay Township Clerk,,,Write-in,0,0,0
+Clarke,WOODBURN PRECINCT,Jackson Township Trustees,,,Donna Carson,6,4,2
+Clarke,WOODBURN PRECINCT,Jackson Township Trustees,,,Harley Pippin,2,2,0
+Clarke,WOODBURN PRECINCT,Jackson Township Trustees,,,Condon Clark,1,1,0
+Clarke,WOODBURN PRECINCT,Jackson Township Trustees,,,Donna D Halvorsen,2,2,0
+Clarke,WOODBURN PRECINCT,Jackson Township Trustees,,,Perry Parmer,2,2,0
+Clarke,WOODBURN PRECINCT,Jackson Township Trustees,,,Tony Stearns,2,2,0
+Clarke,WOODBURN PRECINCT,Jackson Township Trustees,,,GearyPhillips,2,2,0
+Clarke,WOODBURN PRECINCT,Jackson Township Trustees,,,Larry Kirscher,1,1,0
+Clarke,WOODBURN PRECINCT,Jackson Township Trustees,,,Tommy White,1,1,0
+Clarke,WOODBURN PRECINCT,Jackson Township Trustees,,,Randy Showers,1,1,0
+Clarke,WOODBURN PRECINCT,Jackson Township Trustees,,,Brian Pollard,1,1,0
+Clarke,WOODBURN PRECINCT,Jackson Township Trustees,,,Leigh J Wright,2,1,1
+Clarke,WOODBURN PRECINCT,Jackson Township Trustees,,,Mary Pett,1,1,0
+Clarke,WOODBURN PRECINCT,Jackson Township Trustees,,,Keith Heston,1,1,0
+Clarke,WOODBURN PRECINCT,Jackson Township Trustees,,,Write-in,0,0,0
+Clarke,WOODBURN PRECINCT,Jackson Township Clerk,,,Mary Pett,7,5,2
+Clarke,WOODBURN PRECINCT,Jackson Township Clerk,,,Kay Frizzell,1,1,0
+Clarke,WOODBURN PRECINCT,Jackson Township Clerk,,,Donna Halvorsen,1,1,0
+Clarke,WOODBURN PRECINCT,Jackson Township Clerk,,,Sue Stearns,1,1,0
+Clarke,WOODBURN PRECINCT,Jackson Township Clerk,,,Chris Phillips,2,2,0
+Clarke,WOODBURN PRECINCT,Jackson Township Clerk,,,Sherry Showers,1,1,0
+Clarke,WOODBURN PRECINCT,Jackson Township Clerk,,,Tony Stearns,1,1,0
+Clarke,WOODBURN PRECINCT,Jackson Township Clerk,,,Write-in,0,0,0
+Clarke,MIDDLE PRECINCT,Knox Township Trustees,,,David C. Curnes,94,56,38
+Clarke,MIDDLE PRECINCT,Knox Township Trustees,,,Matt McCann,93,62,31
+Clarke,MIDDLE PRECINCT,Knox Township Trustees,,,Write-in,0,0,0
+Clarke,MIDDLE PRECINCT,Knox Township Clerk,,,Aldene Morgan,101,67,34
+Clarke,MIDDLE PRECINCT,Knox Township Clerk,,,Write-in,0,0,0
+Clarke,NORTH EAST PRECINCT,Liberty Township Trustees,,,Cindy Henry,148,82,66
+Clarke,NORTH EAST PRECINCT,Liberty Township Trustees,,,Robert Asmus,138,77,61
+Clarke,NORTH EAST PRECINCT,Liberty Township Trustees,,,Write-in,7,3,4
+Clarke,NORTH EAST PRECINCT,Liberty Township Clerk,,,Judy Barber,159,85,74
+Clarke,NORTH EAST PRECINCT,Liberty Township Clerk,,,Write-in,2,0,2
+Clarke,MURRAY PRECINCT,Madison Township Trustees,,,Ethan Abbott,54,37,17
+Clarke,MURRAY PRECINCT,Madison Township Trustees,,,David Borness,43,29,14
+Clarke,MURRAY PRECINCT,Madison Township Trustees,,,Write-in,2,2,0
+Clarke,MURRAY PRECINCT,Madison Township Clerk,,,Amanda Abbott,9,7,2
+Clarke,MURRAY PRECINCT,Madison Township Clerk,,,Mary Ann Evison,4,3,1
+Clarke,MURRAY PRECINCT,Madison Township Clerk,,,'J',1,1,0
+Clarke,MURRAY PRECINCT,Madison Township Clerk,,,Dale Escher,1,0,1
+Clarke,MURRAY PRECINCT,Madison Township Clerk,,,Write-in,0,0,0
+Clarke,NORTH EAST PRECINCT,Osceola Township Trustees,,,Jerry Vanderkamp,7,7,0
+Clarke,NORTH EAST PRECINCT,Osceola Township Trustees,,,Ed Stoll,6,6,0
+Clarke,NORTH EAST PRECINCT,Osceola Township Trustees,,,Dennis Chaney,1,1,0
+Clarke,NORTH EAST PRECINCT,Osceola Township Trustees,,,Mike Williams,1,1,0
+Clarke,NORTH EAST PRECINCT,Osceola Township Trustees,,,Jaqueline Shinn,1,1,0
+Clarke,NORTH EAST PRECINCT,Osceola Township Trustees,,,Gary Swanson,1,1,0
+Clarke,NORTH EAST PRECINCT,Osceola Township Trustees,,,Toby Clark,1,1,0
+Clarke,NORTH EAST PRECINCT,Osceola Township Trustees,,,Merlin Eddy,1,1,0
+Clarke,NORTH EAST PRECINCT,Osceola Township Trustees,,,Grant Nelson,1,1,0
+Clarke,NORTH EAST PRECINCT,Osceola Township Trustees,,,Marvin Hardisty,1,0,1
+Clarke,NORTH EAST PRECINCT,Osceola Township Trustees,,,Write-in,0,0,0
+Clarke,NORTH EAST PRECINCT,Osceola Township Clerk,,,Jan Short,1,1,0
+Clarke,NORTH EAST PRECINCT,Osceola Township Clerk,,,Jaqueline Shinn,1,1,0
+Clarke,NORTH EAST PRECINCT,Osceola Township Clerk,,,Jerry Vanderkamp,1,1,0
+Clarke,NORTH EAST PRECINCT,Osceola Township Clerk,,,Write-in,0,0,0
+Clarke,MURRAY PRECINCT,Troy Township Trustees,,,Darrell Carson,99,77,22
+Clarke,MURRAY PRECINCT,Troy Township Trustees,,,Randy Callison,17,17,0
+Clarke,MURRAY PRECINCT,Troy Township Trustees,,,Andy Gonseth,1,1,0
+Clarke,MURRAY PRECINCT,Troy Township Trustees,,,Write-in,0,0,0
+Clarke,MURRAY PRECINCT,Troy Township Clerk,,,Janiece Hood,95,74,21
+Clarke,MURRAY PRECINCT,Troy Township Clerk,,,Write-in,0,0,0
+Clarke,MIDDLE PRECINCT,Ward Township Trustees,,,Arthur Pontier,114,65,49
+Clarke,MIDDLE PRECINCT,Ward Township Trustees,,,Jerod Flaherty,95,62,33
+Clarke,MIDDLE PRECINCT,Ward Township Trustees,,,Write-in,0,0,0
+Clarke,MIDDLE PRECINCT,Ward Township Clerk,,,Bill Kelso,131,76,55
+Clarke,MIDDLE PRECINCT,Ward Township Clerk,,,Write-in,0,0,0
+Clarke,MIDDLE PRECINCT,Washington Township Trustees,,,Gene Snyder,121,78,43
+Clarke,MIDDLE PRECINCT,Washington Township Trustees,,,Julie Morris,4,3,1
+Clarke,MIDDLE PRECINCT,Washington Township Trustees,,,Michael Patterson,1,1,0
+Clarke,MIDDLE PRECINCT,Washington Township Trustees,,,Tom Patterson,2,1,1
+Clarke,MIDDLE PRECINCT,Washington Township Trustees,,,Kyle Robins,1,1,0
+Clarke,MIDDLE PRECINCT,Washington Township Trustees,,,Allen Fitzgerald,1,1,0
+Clarke,MIDDLE PRECINCT,Washington Township Trustees,,,Mike Garner,1,1,0
+Clarke,MIDDLE PRECINCT,Washington Township Trustees,,,Walter Brant Jr,1,0,1
+Clarke,MIDDLE PRECINCT,Washington Township Trustees,,,Write-in,0,0,0
+Clarke,MIDDLE PRECINCT,Washington Township Clerk,,,Patty Snyder,119,77,42
+Clarke,MIDDLE PRECINCT,Washington Township Clerk,,,Write-in,2,2,0
+Clarke,MIDDLE PRECINCT,Hospital Trustee,,,Kelly Blanchard,343,216,127
+Clarke,MURRAY PRECINCT,Hospital Trustee,,,Kelly Blanchard,340,260,80
+Clarke,NORTH EAST PRECINCT,Hospital Trustee,,,Kelly Blanchard,530,296,234
+Clarke,OSCEOLA 1ST WARD PRECINCT,Hospital Trustee,,,Kelly Blanchard,321,196,125
+Clarke,OSCEOLA 2ND WARD PRECINCT,Hospital Trustee,,,Kelly Blanchard,288,170,118
+Clarke,OSCEOLA 3RD WARD PRECINCT,Hospital Trustee,,,Kelly Blanchard,441,257,184
+Clarke,WOODBURN PRECINCT,Hospital Trustee,,,Kelly Blanchard,133,95,38
+Clarke,MIDDLE PRECINCT,Hospital Trustee,,,Teresa Woods,392,245,147
+Clarke,MURRAY PRECINCT,Hospital Trustee,,,Teresa Woods,435,334,101
+Clarke,NORTH EAST PRECINCT,Hospital Trustee,,,Teresa Woods,563,325,238
+Clarke,OSCEOLA 1ST WARD PRECINCT,Hospital Trustee,,,Teresa Woods,344,201,143
+Clarke,OSCEOLA 2ND WARD PRECINCT,Hospital Trustee,,,Teresa Woods,288,175,113
+Clarke,OSCEOLA 3RD WARD PRECINCT,Hospital Trustee,,,Teresa Woods,484,289,195
+Clarke,WOODBURN PRECINCT,Hospital Trustee,,,Teresa Woods,166,117,49
+Clarke,MIDDLE PRECINCT,Hospital Trustee,,,Write-in,4,3,1
+Clarke,MURRAY PRECINCT,Hospital Trustee,,,Write-in,2,2,0
+Clarke,NORTH EAST PRECINCT,Hospital Trustee,,,Write-in,4,1,3
+Clarke,OSCEOLA 1ST WARD PRECINCT,Hospital Trustee,,,Write-in,5,1,4
+Clarke,OSCEOLA 2ND WARD PRECINCT,Hospital Trustee,,,Write-in,4,4,0
+Clarke,OSCEOLA 3RD WARD PRECINCT,Hospital Trustee,,,Write-in,4,4,0
+Clarke,WOODBURN PRECINCT,Hospital Trustee,,,Write-in,1,1,0
+Clarke,MIDDLE PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Norman Lust,284,175,109
+Clarke,MURRAY PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Norman Lust,310,238,72
+Clarke,NORTH EAST PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Norman Lust,457,263,194
+Clarke,OSCEOLA 1ST WARD PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Norman Lust,270,161,109
+Clarke,OSCEOLA 2ND WARD PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Norman Lust,237,141,96
+Clarke,OSCEOLA 3RD WARD PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Norman Lust,376,214,162
+Clarke,WOODBURN PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Norman Lust,118,80,38
+Clarke,MIDDLE PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Christopher George,404,255,149
+Clarke,MURRAY PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Christopher George,404,310,94
+Clarke,NORTH EAST PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Christopher George,567,330,237
+Clarke,OSCEOLA 1ST WARD PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Christopher George,347,206,141
+Clarke,OSCEOLA 2ND WARD PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Christopher George,302,182,120
+Clarke,OSCEOLA 3RD WARD PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Christopher George,466,279,187
+Clarke,WOODBURN PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Christopher George,163,114,49
+Clarke,MIDDLE PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Write-in,2,2,0
+Clarke,MURRAY PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Write-in,5,5,0
+Clarke,NORTH EAST PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Write-in,5,4,1
+Clarke,OSCEOLA 1ST WARD PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Write-in,6,4,2
+Clarke,OSCEOLA 2ND WARD PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Write-in,3,1,2
+Clarke,OSCEOLA 3RD WARD PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Write-in,9,7,2
+Clarke,WOODBURN PRECINCT,Soil and Water Conservation Dist. Commissioners,,,Write-in,2,2,0
+Clarke,MIDDLE PRECINCT,Agricultural Extension Council,,,Darbi DeVore,333,200,133
+Clarke,MURRAY PRECINCT,Agricultural Extension Council,,,Darbi DeVore,323,240,83
+Clarke,NORTH EAST PRECINCT,Agricultural Extension Council,,,Darbi DeVore,499,284,215
+Clarke,OSCEOLA 1ST WARD PRECINCT,Agricultural Extension Council,,,Darbi DeVore,302,179,123
+Clarke,OSCEOLA 2ND WARD PRECINCT,Agricultural Extension Council,,,Darbi DeVore,262,161,101
+Clarke,OSCEOLA 3RD WARD PRECINCT,Agricultural Extension Council,,,Darbi DeVore,409,247,162
+Clarke,WOODBURN PRECINCT,Agricultural Extension Council,,,Darbi DeVore,140,94,46
+Clarke,MIDDLE PRECINCT,Agricultural Extension Council,,,Ronda Schrodt,347,204,143
+Clarke,MURRAY PRECINCT,Agricultural Extension Council,,,Ronda Schrodt,409,318,91
+Clarke,NORTH EAST PRECINCT,Agricultural Extension Council,,,Ronda Schrodt,482,278,204
+Clarke,OSCEOLA 1ST WARD PRECINCT,Agricultural Extension Council,,,Ronda Schrodt,280,160,120
+Clarke,OSCEOLA 2ND WARD PRECINCT,Agricultural Extension Council,,,Ronda Schrodt,250,145,105
+Clarke,OSCEOLA 3RD WARD PRECINCT,Agricultural Extension Council,,,Ronda Schrodt,399,229,170
+Clarke,WOODBURN PRECINCT,Agricultural Extension Council,,,Ronda Schrodt,127,86,41
+Clarke,MIDDLE PRECINCT,Agricultural Extension Council,,,Rita Kay Griffith,294,179,115
+Clarke,MURRAY PRECINCT,Agricultural Extension Council,,,Rita Kay Griffith,321,234,87
+Clarke,NORTH EAST PRECINCT,Agricultural Extension Council,,,Rita Kay Griffith,440,258,182
+Clarke,OSCEOLA 1ST WARD PRECINCT,Agricultural Extension Council,,,Rita Kay Griffith,262,151,111
+Clarke,OSCEOLA 2ND WARD PRECINCT,Agricultural Extension Council,,,Rita Kay Griffith,232,137,95
+Clarke,OSCEOLA 3RD WARD PRECINCT,Agricultural Extension Council,,,Rita Kay Griffith,340,190,150
+Clarke,WOODBURN PRECINCT,Agricultural Extension Council,,,Rita Kay Griffith,120,80,40
+Clarke,MIDDLE PRECINCT,Agricultural Extension Council,,,Linda Abbott,360,227,133
+Clarke,MURRAY PRECINCT,Agricultural Extension Council,,,Linda Abbott,383,297,86
+Clarke,NORTH EAST PRECINCT,Agricultural Extension Council,,,Linda Abbott,515,300,215
+Clarke,OSCEOLA 1ST WARD PRECINCT,Agricultural Extension Council,,,Linda Abbott,305,183,122
+Clarke,OSCEOLA 2ND WARD PRECINCT,Agricultural Extension Council,,,Linda Abbott,260,155,105
+Clarke,OSCEOLA 3RD WARD PRECINCT,Agricultural Extension Council,,,Linda Abbott,429,243,186
+Clarke,WOODBURN PRECINCT,Agricultural Extension Council,,,Linda Abbott,140,99,41
+Clarke,MIDDLE PRECINCT,Agricultural Extension Council,,,Kelly Myers,10,9,1
+Clarke,MURRAY PRECINCT,Agricultural Extension Council,,,Kelly Myers,2,2,0
+Clarke,NORTH EAST PRECINCT,Agricultural Extension Council,,,Kelly Myers,25,20,5
+Clarke,OSCEOLA 1ST WARD PRECINCT,Agricultural Extension Council,,,Kelly Myers,10,8,2
+Clarke,OSCEOLA 2ND WARD PRECINCT,Agricultural Extension Council,,,Kelly Myers,6,6,0
+Clarke,OSCEOLA 3RD WARD PRECINCT,Agricultural Extension Council,,,Kelly Myers,20,17,3
+Clarke,WOODBURN PRECINCT,Agricultural Extension Council,,,Kelly Myers,10,9,1
+Clarke,MIDDLE PRECINCT,Agricultural Extension Council,,,Write-in,20,13,7
+Clarke,MURRAY PRECINCT,Agricultural Extension Council,,,Write-in,11,10,1
+Clarke,NORTH EAST PRECINCT,Agricultural Extension Council,,,Write-in,33,16,17
+Clarke,OSCEOLA 1ST WARD PRECINCT,Agricultural Extension Council,,,Write-in,18,10,8
+Clarke,OSCEOLA 2ND WARD PRECINCT,Agricultural Extension Council,,,Write-in,13,8,5
+Clarke,OSCEOLA 3RD WARD PRECINCT,Agricultural Extension Council,,,Write-in,22,14,8
+Clarke,WOODBURN PRECINCT,Agricultural Extension Council,,,Write-in,14,8,6
+Clarke,MIDDLE PRECINCT,Court of Appeals Judge Mary Ellen Tabor,,,Yes,279,176,103
+Clarke,MURRAY PRECINCT,Court of Appeals Judge Mary Ellen Tabor,,,Yes,277,214,63
+Clarke,NORTH EAST PRECINCT,Court of Appeals Judge Mary Ellen Tabor,,,Yes,417,244,173
+Clarke,OSCEOLA 1ST WARD PRECINCT,Court of Appeals Judge Mary Ellen Tabor,,,Yes,280,174,106
+Clarke,OSCEOLA 2ND WARD PRECINCT,Court of Appeals Judge Mary Ellen Tabor,,,Yes,241,142,99
+Clarke,OSCEOLA 3RD WARD PRECINCT,Court of Appeals Judge Mary Ellen Tabor,,,Yes,393,219,174
+Clarke,WOODBURN PRECINCT,Court of Appeals Judge Mary Ellen Tabor,,,Yes,110,76,34
+Clarke,MIDDLE PRECINCT,Court of Appeals Judge Mary Ellen Tabor,,,No,163,110,53
+Clarke,MURRAY PRECINCT,Court of Appeals Judge Mary Ellen Tabor,,,No,179,140,39
+Clarke,NORTH EAST PRECINCT,Court of Appeals Judge Mary Ellen Tabor,,,No,225,129,96
+Clarke,OSCEOLA 1ST WARD PRECINCT,Court of Appeals Judge Mary Ellen Tabor,,,No,115,72,43
+Clarke,OSCEOLA 2ND WARD PRECINCT,Court of Appeals Judge Mary Ellen Tabor,,,No,100,61,39
+Clarke,OSCEOLA 3RD WARD PRECINCT,Court of Appeals Judge Mary Ellen Tabor,,,No,133,91,42
+Clarke,WOODBURN PRECINCT,Court of Appeals Judge Mary Ellen Tabor,,,No,85,63,22
+Clarke,MIDDLE PRECINCT,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,244,152,92
+Clarke,MURRAY PRECINCT,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,239,185,54
+Clarke,NORTH EAST PRECINCT,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,366,215,151
+Clarke,OSCEOLA 1ST WARD PRECINCT,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,243,145,98
+Clarke,OSCEOLA 2ND WARD PRECINCT,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,218,123,95
+Clarke,OSCEOLA 3RD WARD PRECINCT,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,345,194,151
+Clarke,WOODBURN PRECINCT,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,94,63,31
+Clarke,MIDDLE PRECINCT,Court of Appeals Judge Anuradha Vaitheswaran,,,No,184,124,60
+Clarke,MURRAY PRECINCT,Court of Appeals Judge Anuradha Vaitheswaran,,,No,206,161,45
+Clarke,NORTH EAST PRECINCT,Court of Appeals Judge Anuradha Vaitheswaran,,,No,265,149,116
+Clarke,OSCEOLA 1ST WARD PRECINCT,Court of Appeals Judge Anuradha Vaitheswaran,,,No,141,94,47
+Clarke,OSCEOLA 2ND WARD PRECINCT,Court of Appeals Judge Anuradha Vaitheswaran,,,No,110,73,37
+Clarke,OSCEOLA 3RD WARD PRECINCT,Court of Appeals Judge Anuradha Vaitheswaran,,,No,177,114,63
+Clarke,WOODBURN PRECINCT,Court of Appeals Judge Anuradha Vaitheswaran,,,No,98,74,24
+Clarke,MIDDLE PRECINCT,Court of Appeals Judge Michael R. Mullins,,,Yes,279,173,106
+Clarke,MURRAY PRECINCT,Court of Appeals Judge Michael R. Mullins,,,Yes,280,211,69
+Clarke,NORTH EAST PRECINCT,Court of Appeals Judge Michael R. Mullins,,,Yes,414,240,174
+Clarke,OSCEOLA 1ST WARD PRECINCT,Court of Appeals Judge Michael R. Mullins,,,Yes,279,171,108
+Clarke,OSCEOLA 2ND WARD PRECINCT,Court of Appeals Judge Michael R. Mullins,,,Yes,249,145,104
+Clarke,OSCEOLA 3RD WARD PRECINCT,Court of Appeals Judge Michael R. Mullins,,,Yes,387,215,172
+Clarke,WOODBURN PRECINCT,Court of Appeals Judge Michael R. Mullins,,,Yes,112,74,38
+Clarke,MIDDLE PRECINCT,Court of Appeals Judge Michael R. Mullins,,,No,156,106,50
+Clarke,MURRAY PRECINCT,Court of Appeals Judge Michael R. Mullins,,,No,171,138,33
+Clarke,NORTH EAST PRECINCT,Court of Appeals Judge Michael R. Mullins,,,No,211,124,87
+Clarke,OSCEOLA 1ST WARD PRECINCT,Court of Appeals Judge Michael R. Mullins,,,No,106,69,37
+Clarke,OSCEOLA 2ND WARD PRECINCT,Court of Appeals Judge Michael R. Mullins,,,No,85,53,32
+Clarke,OSCEOLA 3RD WARD PRECINCT,Court of Appeals Judge Michael R. Mullins,,,No,128,89,39
+Clarke,WOODBURN PRECINCT,Court of Appeals Judge Michael R. Mullins,,,No,82,64,18
+Clarke,MIDDLE PRECINCT,District 5B District Judge Patrick W. Greenwood,,,Yes,295,184,111
+Clarke,MURRAY PRECINCT,District 5B District Judge Patrick W. Greenwood,,,Yes,291,221,70
+Clarke,NORTH EAST PRECINCT,District 5B District Judge Patrick W. Greenwood,,,Yes,441,256,185
+Clarke,OSCEOLA 1ST WARD PRECINCT,District 5B District Judge Patrick W. Greenwood,,,Yes,291,176,115
+Clarke,OSCEOLA 2ND WARD PRECINCT,District 5B District Judge Patrick W. Greenwood,,,Yes,247,145,102
+Clarke,OSCEOLA 3RD WARD PRECINCT,District 5B District Judge Patrick W. Greenwood,,,Yes,402,225,177
+Clarke,WOODBURN PRECINCT,District 5B District Judge Patrick W. Greenwood,,,Yes,111,76,35
+Clarke,MIDDLE PRECINCT,District 5B District Judge Patrick W. Greenwood,,,No,149,102,47
+Clarke,MURRAY PRECINCT,District 5B District Judge Patrick W. Greenwood,,,No,168,134,34
+Clarke,NORTH EAST PRECINCT,District 5B District Judge Patrick W. Greenwood,,,No,202,117,85
+Clarke,OSCEOLA 1ST WARD PRECINCT,District 5B District Judge Patrick W. Greenwood,,,No,106,69,37
+Clarke,OSCEOLA 2ND WARD PRECINCT,District 5B District Judge Patrick W. Greenwood,,,No,93,59,34
+Clarke,OSCEOLA 3RD WARD PRECINCT,District 5B District Judge Patrick W. Greenwood,,,No,131,89,42
+Clarke,WOODBURN PRECINCT,District 5B District Judge Patrick W. Greenwood,,,No,83,62,21

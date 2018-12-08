@@ -1,0 +1,766 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Hancock,Precinct #1,United States Representative District 4,,REP,Steve King,304,205,99
+Hancock,Precinct #2,United States Representative District 4,,REP,Steve King,95,78,17
+Hancock,Precinct #3,United States Representative District 4,,REP,Steve King,92,75,17
+Hancock,Precinct #4,United States Representative District 4,,REP,Steve King,646,452,194
+Hancock,Precinct #5,United States Representative District 4,,REP,Steve King,110,66,44
+Hancock,Precinct #6,United States Representative District 4,,REP,Steve King,816,531,285
+Hancock,Precint #7,United States Representative District 4,,REP,Steve King,222,158,64
+Hancock,Precinct #8,United States Representative District 4,,REP,Steve King,139,99,40
+Hancock,Precinct #9,United States Representative District 4,,REP,Steve King,261,187,74
+Hancock,Precinct #10,United States Representative District 4,,REP,Steve King,80,69,11
+Hancock,Precinct #1,United States Representative District 4,,DEM,J.D. Scholten,236,146,90
+Hancock,Precinct #2,United States Representative District 4,,DEM,J.D. Scholten,78,70,8
+Hancock,Precinct #3,United States Representative District 4,,DEM,J.D. Scholten,66,55,11
+Hancock,Precinct #4,United States Representative District 4,,DEM,J.D. Scholten,408,277,131
+Hancock,Precinct #5,United States Representative District 4,,DEM,J.D. Scholten,46,35,11
+Hancock,Precinct #6,United States Representative District 4,,DEM,J.D. Scholten,604,376,228
+Hancock,Precint #7,United States Representative District 4,,DEM,J.D. Scholten,142,107,35
+Hancock,Precinct #8,United States Representative District 4,,DEM,J.D. Scholten,89,63,26
+Hancock,Precinct #9,United States Representative District 4,,DEM,J.D. Scholten,122,86,36
+Hancock,Precinct #10,United States Representative District 4,,DEM,J.D. Scholten,52,35,17
+Hancock,Precinct #1,United States Representative District 4,,LIB,Charles Aldrich,18,14,4
+Hancock,Precinct #2,United States Representative District 4,,LIB,Charles Aldrich,4,4,0
+Hancock,Precinct #3,United States Representative District 4,,LIB,Charles Aldrich,5,4,1
+Hancock,Precinct #4,United States Representative District 4,,LIB,Charles Aldrich,17,14,3
+Hancock,Precinct #5,United States Representative District 4,,LIB,Charles Aldrich,4,3,1
+Hancock,Precinct #6,United States Representative District 4,,LIB,Charles Aldrich,41,32,9
+Hancock,Precint #7,United States Representative District 4,,LIB,Charles Aldrich,11,11,0
+Hancock,Precinct #8,United States Representative District 4,,LIB,Charles Aldrich,5,2,3
+Hancock,Precinct #9,United States Representative District 4,,LIB,Charles Aldrich,8,7,1
+Hancock,Precinct #10,United States Representative District 4,,LIB,Charles Aldrich,7,5,2
+Hancock,Precinct #1,United States Representative District 4,,,Edward Peterson,6,3,3
+Hancock,Precinct #2,United States Representative District 4,,,Edward Peterson,5,5,0
+Hancock,Precinct #3,United States Representative District 4,,,Edward Peterson,3,3,0
+Hancock,Precinct #4,United States Representative District 4,,,Edward Peterson,5,4,1
+Hancock,Precinct #5,United States Representative District 4,,,Edward Peterson,1,0,1
+Hancock,Precinct #6,United States Representative District 4,,,Edward Peterson,8,6,2
+Hancock,Precint #7,United States Representative District 4,,,Edward Peterson,7,5,2
+Hancock,Precinct #8,United States Representative District 4,,,Edward Peterson,0,0,0
+Hancock,Precinct #9,United States Representative District 4,,,Edward Peterson,0,0,0
+Hancock,Precinct #10,United States Representative District 4,,,Edward Peterson,1,0,1
+Hancock,Precinct #1,United States Representative District 4,,,Write-in,1,0,1
+Hancock,Precinct #2,United States Representative District 4,,,Write-in,0,0,0
+Hancock,Precinct #3,United States Representative District 4,,,Write-in,0,0,0
+Hancock,Precinct #4,United States Representative District 4,,,Write-in,1,1,0
+Hancock,Precinct #5,United States Representative District 4,,,Write-in,0,0,0
+Hancock,Precinct #6,United States Representative District 4,,,Write-in,2,2,0
+Hancock,Precint #7,United States Representative District 4,,,Write-in,0,0,0
+Hancock,Precinct #8,United States Representative District 4,,,Write-in,0,0,0
+Hancock,Precinct #9,United States Representative District 4,,,Write-in,0,0,0
+Hancock,Precinct #10,United States Representative District 4,,,Write-in,0,0,0
+Hancock,Precinct #1,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,365,251,114
+Hancock,Precinct #2,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,109,94,15
+Hancock,Precinct #3,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,118,97,21
+Hancock,Precinct #4,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,766,554,212
+Hancock,Precinct #5,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,127,81,46
+Hancock,Precinct #6,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,985,661,324
+Hancock,Precint #7,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,253,184,69
+Hancock,Precinct #8,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,154,116,38
+Hancock,Precinct #9,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,292,211,81
+Hancock,Precinct #10,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,88,75,13
+Hancock,Precinct #1,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,195,111,84
+Hancock,Precinct #2,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,63,55,8
+Hancock,Precinct #3,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,51,42,9
+Hancock,Precinct #4,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,301,187,114
+Hancock,Precinct #5,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,35,24,11
+Hancock,Precinct #6,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,488,284,204
+Hancock,Precint #7,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,114,86,28
+Hancock,Precinct #8,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,72,43,29
+Hancock,Precinct #9,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,97,67,30
+Hancock,Precinct #10,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,48,30,18
+Hancock,Precinct #1,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,7,5,2
+Hancock,Precinct #2,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,6,4,2
+Hancock,Precinct #3,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,1,1,0
+Hancock,Precinct #4,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,9,7,2
+Hancock,Precinct #5,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,3,2,1
+Hancock,Precinct #6,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,21,15,6
+Hancock,Precint #7,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,11,7,4
+Hancock,Precinct #8,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,6,4,2
+Hancock,Precinct #9,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,6,3,3
+Hancock,Precinct #10,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,3,3,0
+Hancock,Precinct #1,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,3,0
+Hancock,Precinct #2,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,3,0
+Hancock,Precinct #3,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,1,1,0
+Hancock,Precinct #4,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,6,4,2
+Hancock,Precinct #5,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,0,0,0
+Hancock,Precinct #6,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,5,5,0
+Hancock,Precint #7,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,7,6,1
+Hancock,Precinct #8,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,2,1,1
+Hancock,Precinct #9,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,0,0,0
+Hancock,Precinct #10,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,1,1,0
+Hancock,Precinct #1,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hancock,Precinct #2,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hancock,Precinct #3,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hancock,Precinct #4,Governor/Lieutenant Governor,,,Write-in,1,1,0
+Hancock,Precinct #5,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hancock,Precinct #6,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hancock,Precint #7,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hancock,Precinct #8,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hancock,Precinct #9,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hancock,Precinct #10,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hancock,Precinct #1,Secretary of State,,REP,Paul D. Pate,363,254,109
+Hancock,Precinct #2,Secretary of State,,REP,Paul D. Pate,117,100,17
+Hancock,Precinct #3,Secretary of State,,REP,Paul D. Pate,115,95,20
+Hancock,Precinct #4,Secretary of State,,REP,Paul D. Pate,755,548,207
+Hancock,Precinct #5,Secretary of State,,REP,Paul D. Pate,128,80,48
+Hancock,Precinct #6,Secretary of State,,REP,Paul D. Pate,1000,685,315
+Hancock,Precint #7,Secretary of State,,REP,Paul D. Pate,268,197,71
+Hancock,Precinct #8,Secretary of State,,REP,Paul D. Pate,160,117,43
+Hancock,Precinct #9,Secretary of State,,REP,Paul D. Pate,297,215,82
+Hancock,Precinct #10,Secretary of State,,REP,Paul D. Pate,90,77,13
+Hancock,Precinct #1,Secretary of State,,DEM,Deidre DeJear,181,99,82
+Hancock,Precinct #2,Secretary of State,,DEM,Deidre DeJear,59,51,8
+Hancock,Precinct #3,Secretary of State,,DEM,Deidre DeJear,44,38,6
+Hancock,Precinct #4,Secretary of State,,DEM,Deidre DeJear,278,167,111
+Hancock,Precinct #5,Secretary of State,,DEM,Deidre DeJear,27,18,9
+Hancock,Precinct #6,Secretary of State,,DEM,Deidre DeJear,407,217,190
+Hancock,Precint #7,Secretary of State,,DEM,Deidre DeJear,97,71,26
+Hancock,Precinct #8,Secretary of State,,DEM,Deidre DeJear,63,41,22
+Hancock,Precinct #9,Secretary of State,,DEM,Deidre DeJear,87,61,26
+Hancock,Precinct #10,Secretary of State,,DEM,Deidre DeJear,42,25,17
+Hancock,Precinct #1,Secretary of State,,LIB,Jules Ofenbakh,13,9,4
+Hancock,Precinct #2,Secretary of State,,LIB,Jules Ofenbakh,4,4,0
+Hancock,Precinct #3,Secretary of State,,LIB,Jules Ofenbakh,3,2,1
+Hancock,Precinct #4,Secretary of State,,LIB,Jules Ofenbakh,14,10,4
+Hancock,Precinct #5,Secretary of State,,LIB,Jules Ofenbakh,4,4,0
+Hancock,Precinct #6,Secretary of State,,LIB,Jules Ofenbakh,32,24,8
+Hancock,Precint #7,Secretary of State,,LIB,Jules Ofenbakh,10,8,2
+Hancock,Precinct #8,Secretary of State,,LIB,Jules Ofenbakh,8,4,4
+Hancock,Precinct #9,Secretary of State,,LIB,Jules Ofenbakh,7,5,2
+Hancock,Precinct #10,Secretary of State,,LIB,Jules Ofenbakh,7,6,1
+Hancock,Precinct #1,Secretary of State,,,Write-in,0,0,0
+Hancock,Precinct #2,Secretary of State,,,Write-in,0,0,0
+Hancock,Precinct #3,Secretary of State,,,Write-in,1,1,0
+Hancock,Precinct #4,Secretary of State,,,Write-in,0,0,0
+Hancock,Precinct #5,Secretary of State,,,Write-in,0,0,0
+Hancock,Precinct #6,Secretary of State,,,Write-in,0,0,0
+Hancock,Precint #7,Secretary of State,,,Write-in,0,0,0
+Hancock,Precinct #8,Secretary of State,,,Write-in,0,0,0
+Hancock,Precinct #9,Secretary of State,,,Write-in,0,0,0
+Hancock,Precinct #10,Secretary of State,,,Write-in,0,0,0
+Hancock,Precinct #1,Auditor of State,,REP,Mary Mosiman,357,245,112
+Hancock,Precinct #2,Auditor of State,,REP,Mary Mosiman,110,93,17
+Hancock,Precinct #3,Auditor of State,,REP,Mary Mosiman,105,86,19
+Hancock,Precinct #4,Auditor of State,,REP,Mary Mosiman,740,537,203
+Hancock,Precinct #5,Auditor of State,,REP,Mary Mosiman,117,74,43
+Hancock,Precinct #6,Auditor of State,,REP,Mary Mosiman,954,650,304
+Hancock,Precint #7,Auditor of State,,REP,Mary Mosiman,264,194,70
+Hancock,Precinct #8,Auditor of State,,REP,Mary Mosiman,147,103,44
+Hancock,Precinct #9,Auditor of State,,REP,Mary Mosiman,283,206,77
+Hancock,Precinct #10,Auditor of State,,REP,Mary Mosiman,90,77,13
+Hancock,Precinct #1,Auditor of State,,DEM,Rob Sand,184,107,77
+Hancock,Precinct #2,Auditor of State,,DEM,Rob Sand,58,50,8
+Hancock,Precinct #3,Auditor of State,,DEM,Rob Sand,54,45,9
+Hancock,Precinct #4,Auditor of State,,DEM,Rob Sand,283,170,113
+Hancock,Precinct #5,Auditor of State,,DEM,Rob Sand,35,24,11
+Hancock,Precinct #6,Auditor of State,,DEM,Rob Sand,448,246,202
+Hancock,Precint #7,Auditor of State,,DEM,Rob Sand,102,74,28
+Hancock,Precinct #8,Auditor of State,,DEM,Rob Sand,71,48,23
+Hancock,Precinct #9,Auditor of State,,DEM,Rob Sand,94,64,30
+Hancock,Precinct #10,Auditor of State,,DEM,Rob Sand,41,23,18
+Hancock,Precinct #1,Auditor of State,,LIB,Fred Perryman,15,11,4
+Hancock,Precinct #2,Auditor of State,,LIB,Fred Perryman,11,11,0
+Hancock,Precinct #3,Auditor of State,,LIB,Fred Perryman,6,5,1
+Hancock,Precinct #4,Auditor of State,,LIB,Fred Perryman,21,16,5
+Hancock,Precinct #5,Auditor of State,,LIB,Fred Perryman,8,5,3
+Hancock,Precinct #6,Auditor of State,,LIB,Fred Perryman,32,28,4
+Hancock,Precint #7,Auditor of State,,LIB,Fred Perryman,10,9,1
+Hancock,Precinct #8,Auditor of State,,LIB,Fred Perryman,11,9,2
+Hancock,Precinct #9,Auditor of State,,LIB,Fred Perryman,11,8,3
+Hancock,Precinct #10,Auditor of State,,LIB,Fred Perryman,8,8,0
+Hancock,Precinct #1,Auditor of State,,,Write-in,0,0,0
+Hancock,Precinct #2,Auditor of State,,,Write-in,0,0,0
+Hancock,Precinct #3,Auditor of State,,,Write-in,1,1,0
+Hancock,Precinct #4,Auditor of State,,,Write-in,0,0,0
+Hancock,Precinct #5,Auditor of State,,,Write-in,0,0,0
+Hancock,Precinct #6,Auditor of State,,,Write-in,1,0,1
+Hancock,Precint #7,Auditor of State,,,Write-in,0,0,0
+Hancock,Precinct #8,Auditor of State,,,Write-in,0,0,0
+Hancock,Precinct #9,Auditor of State,,,Write-in,0,0,0
+Hancock,Precinct #10,Auditor of State,,,Write-in,0,0,0
+Hancock,Precinct #1,Treasurer of State,,REP,Jeremy N. Davis,309,214,95
+Hancock,Precinct #2,Treasurer of State,,REP,Jeremy N. Davis,95,79,16
+Hancock,Precinct #3,Treasurer of State,,REP,Jeremy N. Davis,90,73,17
+Hancock,Precinct #4,Treasurer of State,,REP,Jeremy N. Davis,634,467,167
+Hancock,Precinct #5,Treasurer of State,,REP,Jeremy N. Davis,90,54,36
+Hancock,Precinct #6,Treasurer of State,,REP,Jeremy N. Davis,786,537,249
+Hancock,Precint #7,Treasurer of State,,REP,Jeremy N. Davis,220,163,57
+Hancock,Precinct #8,Treasurer of State,,REP,Jeremy N. Davis,122,89,33
+Hancock,Precinct #9,Treasurer of State,,REP,Jeremy N. Davis,257,191,66
+Hancock,Precinct #10,Treasurer of State,,REP,Jeremy N. Davis,73,60,13
+Hancock,Precinct #1,Treasurer of State,,DEM,Michael L. Fitzgerald,239,144,95
+Hancock,Precinct #2,Treasurer of State,,DEM,Michael L. Fitzgerald,81,72,9
+Hancock,Precinct #3,Treasurer of State,,DEM,Michael L. Fitzgerald,73,62,11
+Hancock,Precinct #4,Treasurer of State,,DEM,Michael L. Fitzgerald,401,252,149
+Hancock,Precinct #5,Treasurer of State,,DEM,Michael L. Fitzgerald,63,44,19
+Hancock,Precinct #6,Treasurer of State,,DEM,Michael L. Fitzgerald,638,375,263
+Hancock,Precint #7,Treasurer of State,,DEM,Michael L. Fitzgerald,145,106,39
+Hancock,Precinct #8,Treasurer of State,,DEM,Michael L. Fitzgerald,98,65,33
+Hancock,Precinct #9,Treasurer of State,,DEM,Michael L. Fitzgerald,125,84,41
+Hancock,Precinct #10,Treasurer of State,,DEM,Michael L. Fitzgerald,58,40,18
+Hancock,Precinct #1,Treasurer of State,,LIB,Timothy Hird,10,6,4
+Hancock,Precinct #2,Treasurer of State,,LIB,Timothy Hird,3,3,0
+Hancock,Precinct #3,Treasurer of State,,LIB,Timothy Hird,4,3,1
+Hancock,Precinct #4,Treasurer of State,,LIB,Timothy Hird,12,8,4
+Hancock,Precinct #5,Treasurer of State,,LIB,Timothy Hird,6,4,2
+Hancock,Precinct #6,Treasurer of State,,LIB,Timothy Hird,27,21,6
+Hancock,Precint #7,Treasurer of State,,LIB,Timothy Hird,10,9,1
+Hancock,Precinct #8,Treasurer of State,,LIB,Timothy Hird,9,7,2
+Hancock,Precinct #9,Treasurer of State,,LIB,Timothy Hird,6,3,3
+Hancock,Precinct #10,Treasurer of State,,LIB,Timothy Hird,5,5,0
+Hancock,Precinct #1,Treasurer of State,,,Write-in,0,0,0
+Hancock,Precinct #2,Treasurer of State,,,Write-in,0,0,0
+Hancock,Precinct #3,Treasurer of State,,,Write-in,1,1,0
+Hancock,Precinct #4,Treasurer of State,,,Write-in,0,0,0
+Hancock,Precinct #5,Treasurer of State,,,Write-in,0,0,0
+Hancock,Precinct #6,Treasurer of State,,,Write-in,0,0,0
+Hancock,Precint #7,Treasurer of State,,,Write-in,0,0,0
+Hancock,Precinct #8,Treasurer of State,,,Write-in,0,0,0
+Hancock,Precinct #9,Treasurer of State,,,Write-in,0,0,0
+Hancock,Precinct #10,Treasurer of State,,,Write-in,0,0,0
+Hancock,Precinct #1,Secretary of Agriculture,,REP,Mike Naig,325,227,98
+Hancock,Precinct #2,Secretary of Agriculture,,REP,Mike Naig,100,83,17
+Hancock,Precinct #3,Secretary of Agriculture,,REP,Mike Naig,105,84,21
+Hancock,Precinct #4,Secretary of Agriculture,,REP,Mike Naig,726,521,205
+Hancock,Precinct #5,Secretary of Agriculture,,REP,Mike Naig,112,67,45
+Hancock,Precinct #6,Secretary of Agriculture,,REP,Mike Naig,929,626,303
+Hancock,Precint #7,Secretary of Agriculture,,REP,Mike Naig,249,181,68
+Hancock,Precinct #8,Secretary of Agriculture,,REP,Mike Naig,156,113,43
+Hancock,Precinct #9,Secretary of Agriculture,,REP,Mike Naig,290,212,78
+Hancock,Precinct #10,Secretary of Agriculture,,REP,Mike Naig,84,70,14
+Hancock,Precinct #1,Secretary of Agriculture,,DEM,Tim Gannon,215,129,86
+Hancock,Precinct #2,Secretary of Agriculture,,DEM,Tim Gannon,70,62,8
+Hancock,Precinct #3,Secretary of Agriculture,,DEM,Tim Gannon,54,47,7
+Hancock,Precinct #4,Secretary of Agriculture,,DEM,Tim Gannon,301,191,110
+Hancock,Precinct #5,Secretary of Agriculture,,DEM,Tim Gannon,41,31,10
+Hancock,Precinct #6,Secretary of Agriculture,,DEM,Tim Gannon,474,278,196
+Hancock,Precint #7,Secretary of Agriculture,,DEM,Tim Gannon,108,80,28
+Hancock,Precinct #8,Secretary of Agriculture,,DEM,Tim Gannon,66,42,24
+Hancock,Precinct #9,Secretary of Agriculture,,DEM,Tim Gannon,93,63,30
+Hancock,Precinct #10,Secretary of Agriculture,,DEM,Tim Gannon,45,28,17
+Hancock,Precinct #1,Secretary of Agriculture,,LIB,Rick Stewart,18,9,9
+Hancock,Precinct #2,Secretary of Agriculture,,LIB,Rick Stewart,9,9,0
+Hancock,Precinct #3,Secretary of Agriculture,,LIB,Rick Stewart,7,5,2
+Hancock,Precinct #4,Secretary of Agriculture,,LIB,Rick Stewart,18,15,3
+Hancock,Precinct #5,Secretary of Agriculture,,LIB,Rick Stewart,8,6,2
+Hancock,Precinct #6,Secretary of Agriculture,,LIB,Rick Stewart,40,29,11
+Hancock,Precint #7,Secretary of Agriculture,,LIB,Rick Stewart,18,16,2
+Hancock,Precinct #8,Secretary of Agriculture,,LIB,Rick Stewart,9,6,3
+Hancock,Precinct #9,Secretary of Agriculture,,LIB,Rick Stewart,8,6,2
+Hancock,Precinct #10,Secretary of Agriculture,,LIB,Rick Stewart,8,8,0
+Hancock,Precinct #1,Secretary of Agriculture,,,Write-in,0,0,0
+Hancock,Precinct #2,Secretary of Agriculture,,,Write-in,0,0,0
+Hancock,Precinct #3,Secretary of Agriculture,,,Write-in,1,1,0
+Hancock,Precinct #4,Secretary of Agriculture,,,Write-in,0,0,0
+Hancock,Precinct #5,Secretary of Agriculture,,,Write-in,0,0,0
+Hancock,Precinct #6,Secretary of Agriculture,,,Write-in,0,0,0
+Hancock,Precint #7,Secretary of Agriculture,,,Write-in,0,0,0
+Hancock,Precinct #8,Secretary of Agriculture,,,Write-in,0,0,0
+Hancock,Precinct #9,Secretary of Agriculture,,,Write-in,0,0,0
+Hancock,Precinct #10,Secretary of Agriculture,,,Write-in,0,0,0
+Hancock,Precinct #1,Attorney General,,DEM,Tom Miller,359,224,135
+Hancock,Precinct #2,Attorney General,,DEM,Tom Miller,118,101,17
+Hancock,Precinct #3,Attorney General,,DEM,Tom Miller,109,84,25
+Hancock,Precinct #4,Attorney General,,DEM,Tom Miller,639,439,200
+Hancock,Precinct #5,Attorney General,,DEM,Tom Miller,105,67,38
+Hancock,Precinct #6,Attorney General,,DEM,Tom Miller,945,594,351
+Hancock,Precint #7,Attorney General,,DEM,Tom Miller,221,163,58
+Hancock,Precinct #8,Attorney General,,DEM,Tom Miller,141,102,39
+Hancock,Precinct #9,Attorney General,,DEM,Tom Miller,217,150,67
+Hancock,Precinct #10,Attorney General,,DEM,Tom Miller,94,68,26
+Hancock,Precinct #1,Attorney General,,LIB,Marco Battaglia,120,91,29
+Hancock,Precinct #2,Attorney General,,LIB,Marco Battaglia,41,36,5
+Hancock,Precinct #3,Attorney General,,LIB,Marco Battaglia,41,39,2
+Hancock,Precinct #4,Attorney General,,LIB,Marco Battaglia,227,166,61
+Hancock,Precinct #5,Attorney General,,LIB,Marco Battaglia,22,16,6
+Hancock,Precinct #6,Attorney General,,LIB,Marco Battaglia,294,215,79
+Hancock,Precint #7,Attorney General,,LIB,Marco Battaglia,101,75,26
+Hancock,Precinct #8,Attorney General,,LIB,Marco Battaglia,59,40,19
+Hancock,Precinct #9,Attorney General,,LIB,Marco Battaglia,113,84,29
+Hancock,Precinct #10,Attorney General,,LIB,Marco Battaglia,30,27,3
+Hancock,Precinct #1,Attorney General,,,Write-in,2,0,2
+Hancock,Precinct #2,Attorney General,,,Write-in,0,0,0
+Hancock,Precinct #3,Attorney General,,,Write-in,3,3,0
+Hancock,Precinct #4,Attorney General,,,Write-in,8,6,2
+Hancock,Precinct #5,Attorney General,,,Write-in,2,2,0
+Hancock,Precinct #6,Attorney General,,,Write-in,6,5,1
+Hancock,Precint #7,Attorney General,,,Write-in,3,2,1
+Hancock,Precinct #8,Attorney General,,,Write-in,0,0,0
+Hancock,Precinct #9,Attorney General,,,Write-in,2,0,2
+Hancock,Precinct #10,Attorney General,,,Write-in,2,1,1
+Hancock,Precinct #1,State Representative District 8,,REP,Terry Baxter,354,249,105
+Hancock,Precinct #2,State Representative District 8,,REP,Terry Baxter,112,95,17
+Hancock,Precinct #3,State Representative District 8,,REP,Terry Baxter,111,91,20
+Hancock,Precinct #4,State Representative District 8,,REP,Terry Baxter,710,513,197
+Hancock,Precinct #5,State Representative District 8,,REP,Terry Baxter,126,83,43
+Hancock,Precinct #6,State Representative District 8,,REP,Terry Baxter,1027,712,315
+Hancock,Precint #7,State Representative District 8,,REP,Terry Baxter,274,207,67
+Hancock,Precinct #8,State Representative District 8,,REP,Terry Baxter,137,98,39
+Hancock,Precinct #9,State Representative District 8,,REP,Terry Baxter,295,214,81
+Hancock,Precinct #10,State Representative District 8,,REP,Terry Baxter,93,79,14
+Hancock,Precinct #1,State Representative District 8,,DEM,Connie Price,207,116,91
+Hancock,Precinct #2,State Representative District 8,,DEM,Connie Price,68,60,8
+Hancock,Precinct #3,State Representative District 8,,DEM,Connie Price,57,47,10
+Hancock,Precinct #4,State Representative District 8,,DEM,Connie Price,351,227,124
+Hancock,Precinct #5,State Representative District 8,,DEM,Connie Price,34,22,12
+Hancock,Precinct #6,State Representative District 8,,DEM,Connie Price,439,240,199
+Hancock,Precint #7,State Representative District 8,,DEM,Connie Price,104,72,32
+Hancock,Precinct #8,State Representative District 8,,DEM,Connie Price,95,64,31
+Hancock,Precinct #9,State Representative District 8,,DEM,Connie Price,99,67,32
+Hancock,Precinct #10,State Representative District 8,,DEM,Connie Price,45,28,17
+Hancock,Precinct #1,State Representative District 8,,,Write-in,0,0,0
+Hancock,Precinct #2,State Representative District 8,,,Write-in,0,0,0
+Hancock,Precinct #3,State Representative District 8,,,Write-in,1,1,0
+Hancock,Precinct #4,State Representative District 8,,,Write-in,0,0,0
+Hancock,Precinct #5,State Representative District 8,,,Write-in,0,0,0
+Hancock,Precinct #6,State Representative District 8,,,Write-in,0,0,0
+Hancock,Precint #7,State Representative District 8,,,Write-in,0,0,0
+Hancock,Precinct #8,State Representative District 8,,,Write-in,0,0,0
+Hancock,Precinct #9,State Representative District 8,,,Write-in,0,0,0
+Hancock,Precinct #10,State Representative District 8,,,Write-in,0,0,0
+Hancock,Precinct #1,Board of Supervisors,,REP,Florence Sis Greiman,231,150,81
+Hancock,Precinct #2,Board of Supervisors,,REP,Florence Sis Greiman,73,60,13
+Hancock,Precinct #3,Board of Supervisors,,REP,Florence Sis Greiman,89,72,17
+Hancock,Precinct #4,Board of Supervisors,,REP,Florence Sis Greiman,548,369,179
+Hancock,Precinct #5,Board of Supervisors,,REP,Florence Sis Greiman,70,46,24
+Hancock,Precinct #6,Board of Supervisors,,REP,Florence Sis Greiman,790,512,278
+Hancock,Precint #7,Board of Supervisors,,REP,Florence Sis Greiman,216,159,57
+Hancock,Precinct #8,Board of Supervisors,,REP,Florence Sis Greiman,123,86,37
+Hancock,Precinct #9,Board of Supervisors,,REP,Florence Sis Greiman,267,189,78
+Hancock,Precinct #10,Board of Supervisors,,REP,Florence Sis Greiman,68,56,12
+Hancock,Precinct #1,Board of Supervisors,,REP,Gary Rayhons,291,202,89
+Hancock,Precinct #2,Board of Supervisors,,REP,Gary Rayhons,98,84,14
+Hancock,Precinct #3,Board of Supervisors,,REP,Gary Rayhons,96,75,21
+Hancock,Precinct #4,Board of Supervisors,,REP,Gary Rayhons,661,477,184
+Hancock,Precinct #5,Board of Supervisors,,REP,Gary Rayhons,113,73,40
+Hancock,Precinct #6,Board of Supervisors,,REP,Gary Rayhons,825,568,257
+Hancock,Precint #7,Board of Supervisors,,REP,Gary Rayhons,224,166,58
+Hancock,Precinct #8,Board of Supervisors,,REP,Gary Rayhons,137,101,36
+Hancock,Precinct #9,Board of Supervisors,,REP,Gary Rayhons,224,161,63
+Hancock,Precinct #10,Board of Supervisors,,REP,Gary Rayhons,73,60,13
+Hancock,Precinct #1,Board of Supervisors,,DEM,Ted D. Hall,290,174,116
+Hancock,Precinct #2,Board of Supervisors,,DEM,Ted D. Hall,76,66,10
+Hancock,Precinct #3,Board of Supervisors,,DEM,Ted D. Hall,62,51,11
+Hancock,Precinct #4,Board of Supervisors,,DEM,Ted D. Hall,229,140,89
+Hancock,Precinct #5,Board of Supervisors,,DEM,Ted D. Hall,30,15,15
+Hancock,Precinct #6,Board of Supervisors,,DEM,Ted D. Hall,424,237,187
+Hancock,Precint #7,Board of Supervisors,,DEM,Ted D. Hall,91,67,24
+Hancock,Precinct #8,Board of Supervisors,,DEM,Ted D. Hall,63,39,24
+Hancock,Precinct #9,Board of Supervisors,,DEM,Ted D. Hall,103,74,29
+Hancock,Precinct #10,Board of Supervisors,,DEM,Ted D. Hall,39,27,12
+Hancock,Precinct #1,Board of Supervisors,,DEM,Donny Schleusner,174,104,70
+Hancock,Precinct #2,Board of Supervisors,,DEM,Donny Schleusner,63,57,6
+Hancock,Precinct #3,Board of Supervisors,,DEM,Donny Schleusner,50,45,5
+Hancock,Precinct #4,Board of Supervisors,,DEM,Donny Schleusner,454,311,143
+Hancock,Precinct #5,Board of Supervisors,,DEM,Donny Schleusner,90,61,29
+Hancock,Precinct #6,Board of Supervisors,,DEM,Donny Schleusner,599,367,232
+Hancock,Precint #7,Board of Supervisors,,DEM,Donny Schleusner,156,109,47
+Hancock,Precinct #8,Board of Supervisors,,DEM,Donny Schleusner,96,65,31
+Hancock,Precinct #9,Board of Supervisors,,DEM,Donny Schleusner,98,65,33
+Hancock,Precinct #10,Board of Supervisors,,DEM,Donny Schleusner,53,40,13
+Hancock,Precinct #1,Board of Supervisors,,,Write-in,1,1,0
+Hancock,Precinct #2,Board of Supervisors,,,Write-in,0,0,0
+Hancock,Precinct #3,Board of Supervisors,,,Write-in,1,1,0
+Hancock,Precinct #4,Board of Supervisors,,,Write-in,3,3,0
+Hancock,Precinct #5,Board of Supervisors,,,Write-in,0,0,0
+Hancock,Precinct #6,Board of Supervisors,,,Write-in,5,3,2
+Hancock,Precint #7,Board of Supervisors,,,Write-in,1,1,0
+Hancock,Precinct #8,Board of Supervisors,,,Write-in,1,1,0
+Hancock,Precinct #9,Board of Supervisors,,,Write-in,0,0,0
+Hancock,Precinct #10,Board of Supervisors,,,Write-in,1,1,0
+Hancock,Precinct #1,County Treasurer,,REP,Deborah D. Engstler,499,331,168
+Hancock,Precinct #2,County Treasurer,,REP,Deborah D. Engstler,158,135,23
+Hancock,Precinct #3,County Treasurer,,REP,Deborah D. Engstler,162,133,29
+Hancock,Precinct #4,County Treasurer,,REP,Deborah D. Engstler,964,685,279
+Hancock,Precinct #5,County Treasurer,,REP,Deborah D. Engstler,153,99,54
+Hancock,Precinct #6,County Treasurer,,REP,Deborah D. Engstler,1329,871,458
+Hancock,Precint #7,County Treasurer,,REP,Deborah D. Engstler,336,258,78
+Hancock,Precinct #8,County Treasurer,,REP,Deborah D. Engstler,200,142,58
+Hancock,Precinct #9,County Treasurer,,REP,Deborah D. Engstler,361,257,104
+Hancock,Precinct #10,County Treasurer,,REP,Deborah D. Engstler,122,98,24
+Hancock,Precinct #1,County Treasurer,,,Write-in,7,3,4
+Hancock,Precinct #2,County Treasurer,,,Write-in,1,1,0
+Hancock,Precinct #3,County Treasurer,,,Write-in,1,1,0
+Hancock,Precinct #4,County Treasurer,,,Write-in,5,4,1
+Hancock,Precinct #5,County Treasurer,,,Write-in,1,1,0
+Hancock,Precinct #6,County Treasurer,,,Write-in,10,5,5
+Hancock,Precint #7,County Treasurer,,,Write-in,6,3,3
+Hancock,Precinct #8,County Treasurer,,,Write-in,3,1,2
+Hancock,Precinct #9,County Treasurer,,,Write-in,2,2,0
+Hancock,Precinct #10,County Treasurer,,,Write-in,1,1,0
+Hancock,Precinct #1,County Recorder,,REP,Tracy L. Marshall,479,320,159
+Hancock,Precinct #2,County Recorder,,REP,Tracy L. Marshall,155,131,24
+Hancock,Precinct #3,County Recorder,,REP,Tracy L. Marshall,153,127,26
+Hancock,Precinct #4,County Recorder,,REP,Tracy L. Marshall,916,657,259
+Hancock,Precinct #5,County Recorder,,REP,Tracy L. Marshall,153,100,53
+Hancock,Precinct #6,County Recorder,,REP,Tracy L. Marshall,1324,888,436
+Hancock,Precint #7,County Recorder,,REP,Tracy L. Marshall,341,258,83
+Hancock,Precinct #8,County Recorder,,REP,Tracy L. Marshall,202,145,57
+Hancock,Precinct #9,County Recorder,,REP,Tracy L. Marshall,354,257,97
+Hancock,Precinct #10,County Recorder,,REP,Tracy L. Marshall,118,94,24
+Hancock,Precinct #1,County Recorder,,,Write-in,3,1,2
+Hancock,Precinct #2,County Recorder,,,Write-in,1,1,0
+Hancock,Precinct #3,County Recorder,,,Write-in,0,0,0
+Hancock,Precinct #4,County Recorder,,,Write-in,6,5,1
+Hancock,Precinct #5,County Recorder,,,Write-in,1,1,0
+Hancock,Precinct #6,County Recorder,,,Write-in,8,4,4
+Hancock,Precint #7,County Recorder,,,Write-in,3,3,0
+Hancock,Precinct #8,County Recorder,,,Write-in,4,2,2
+Hancock,Precinct #9,County Recorder,,,Write-in,1,1,0
+Hancock,Precinct #10,County Recorder,,,Write-in,1,1,0
+Hancock,Precinct #1,County Attorney,,REP,Blake Norman,471,316,155
+Hancock,Precinct #2,County Attorney,,REP,Blake Norman,151,128,23
+Hancock,Precinct #3,County Attorney,,REP,Blake Norman,150,124,26
+Hancock,Precinct #4,County Attorney,,REP,Blake Norman,895,644,251
+Hancock,Precinct #5,County Attorney,,REP,Blake Norman,145,95,50
+Hancock,Precinct #6,County Attorney,,REP,Blake Norman,1275,851,424
+Hancock,Precint #7,County Attorney,,REP,Blake Norman,319,241,78
+Hancock,Precinct #8,County Attorney,,REP,Blake Norman,202,143,59
+Hancock,Precinct #9,County Attorney,,REP,Blake Norman,342,250,92
+Hancock,Precinct #10,County Attorney,,REP,Blake Norman,115,94,21
+Hancock,Precinct #1,County Attorney,,,Write-in,2,0,2
+Hancock,Precinct #2,County Attorney,,,Write-in,1,1,0
+Hancock,Precinct #3,County Attorney,,,Write-in,1,1,0
+Hancock,Precinct #4,County Attorney,,,Write-in,6,6,0
+Hancock,Precinct #5,County Attorney,,,Write-in,1,1,0
+Hancock,Precinct #6,County Attorney,,,Write-in,10,6,4
+Hancock,Precint #7,County Attorney,,,Write-in,4,4,0
+Hancock,Precinct #8,County Attorney,,,Write-in,2,1,1
+Hancock,Precinct #9,County Attorney,,,Write-in,2,1,1
+Hancock,Precinct #10,County Attorney,,,Write-in,0,0,0
+Hancock,Precinct #9,Amsterdam Township Trustee,,,Tim Schreur,52,36,16
+Hancock,Precinct #9,Amsterdam Township Trustee,,,Ron Melohn,48,34,14
+Hancock,Precinct #9,Amsterdam Township Trustee,,,Write-in,0,0,0
+Hancock,Precinct #9,Amsterdam Township Trustee To Fill Vacancy,,,Dean Van De Wiele,54,38,16
+Hancock,Precinct #9,Amsterdam Township Trustee To Fill Vacancy,,,Write-in,0,0,0
+Hancock,Precinct #9,Amsterdam Township Clerk,,,Blank_No Name,1,1,0
+Hancock,Precinct #9,Amsterdam Township Clerk,,,Dan Hansen,1,0,1
+Hancock,Precinct #9,Amsterdam Township Clerk,,,Write-in,0,0,0
+Hancock,Precinct #10,Avery Township Trustee,,,Larry Treinen,77,60,17
+Hancock,Precinct #10,Avery Township Trustee,,,Rob Ostendorf,1,1,0
+Hancock,Precinct #10,Avery Township Trustee,,,Write-in,0,0,0
+Hancock,Precinct #10,Avery Township Clerk,,,Dean Avery,79,63,16
+Hancock,Precinct #10,Avery Township Clerk,,,Write-in,0,0,0
+Hancock,Precinct #3,Bingham Township Trustee,,,Gary Hayungs,81,62,19
+Hancock,Precinct #3,Bingham Township Trustee,,,Brandon Beenken,77,59,18
+Hancock,Precinct #3,Bingham Township Trustee,,,Write-in,0,0,0
+Hancock,Precinct #3,Bingham Township Clerk,,,Phyllis Schutjer,83,66,17
+Hancock,Precinct #3,Bingham Township Clerk,,,Write-in,1,0,1
+Hancock,Precinct #8,Boone Township Trustee,,,Ivan L. Frey,59,40,19
+Hancock,Precinct #8,Boone Township Trustee,,,Carol Priebe,56,39,17
+Hancock,Precinct #8,Boone Township Trustee,,,Write-in,1,1,0
+Hancock,Precinct #8,Boone Township Clerk,,,Kitty Price,59,41,18
+Hancock,Precinct #8,Boone Township Clerk,,,Write-in,0,0,0
+Hancock,Precinct #4,Britt Township Trustee,,,Mark Eisenman,7,5,2
+Hancock,Precinct #4,Britt Township Trustee,,,Mark Matern,1,0,1
+Hancock,Precinct #4,Britt Township Trustee,,,Dave Fox,1,0,1
+Hancock,Precinct #4,Britt Township Trustee,,,Write-in,0,0,0
+Hancock,Precinct #4,Britt Township Clerk,,,Mark Matten,1,0,1
+Hancock,Precinct #4,Britt Township Clerk,,,Sondra Lampe,1,0,1
+Hancock,Precinct #4,Britt Township Clerk,,,Darcy Eisenman,1,0,1
+Hancock,Precinct #4,Britt Township Clerk,,,Write-in,0,0,0
+Hancock,Precinct #6,Concord Township Trustee,,,Ron McCabe,115,86,29
+Hancock,Precinct #6,Concord Township Trustee,,,Spencer Klooster,5,4,1
+Hancock,Precinct #6,Concord Township Trustee,,,Kimm Larson,2,0,2
+Hancock,Precinct #6,Concord Township Trustee,,,Nola Waddingham,1,0,1
+Hancock,Precinct #6,Concord Township Trustee,,,Stan Greiman,1,1,0
+Hancock,Precinct #6,Concord Township Trustee,,,Write-in,0,0,0
+Hancock,Precinct #6,Concord Township Clerk,,,Elizabeth Waddingham,116,86,30
+Hancock,Precinct #6,Concord Township Clerk,,,Write-in,1,0,1
+Hancock,Precinct #2,Crystal Township Trustee,,,Terry L. Olsen,71,55,16
+Hancock,Precinct #2,Crystal Township Trustee,,,Bruce Kluver,3,3,0
+Hancock,Precinct #2,Crystal Township Trustee,,,Hunter McNeese,1,1,0
+Hancock,Precinct #2,Crystal Township Trustee,,,Jeremy Barnes,1,1,0
+Hancock,Precinct #2,Crystal Township Trustee,,,Larry Kunkel,1,1,0
+Hancock,Precinct #2,Crystal Township Trustee,,,Dan Carlson,1,1,0
+Hancock,Precinct #2,Crystal Township Trustee,,,Write-in,0,0,0
+Hancock,Precinct #2,Crystal Township Clerk,,,Lois Sonius,77,61,16
+Hancock,Precinct #2,Crystal Township Clerk,,,Write-in,0,0,0
+Hancock,Precint #7,Ell Township Trustee,,,Robert Hadacek,97,74,23
+Hancock,Precint #7,Ell Township Trustee,,,Tom Nichols,5,4,1
+Hancock,Precint #7,Ell Township Trustee,,,Justin Klooster,1,0,1
+Hancock,Precint #7,Ell Township Trustee,,,Kody Trampel,1,1,0
+Hancock,Precint #7,Ell Township Trustee,,,Don Anderson,1,1,0
+Hancock,Precint #7,Ell Township Trustee,,,Scott Smith,1,1,0
+Hancock,Precint #7,Ell Township Trustee,,,Ted Greiman,1,1,0
+Hancock,Precint #7,Ell Township Trustee,,,Brent Renner,1,1,0
+Hancock,Precint #7,Ell Township Trustee,,,Blank_No Name,1,1,0
+Hancock,Precint #7,Ell Township Trustee,,,Write-in,0,0,0
+Hancock,Precint #7,Ell Township Clerk,,,Marla Hadacek,98,74,24
+Hancock,Precint #7,Ell Township Clerk,,,Write-in,1,1,0
+Hancock,Precinct #1,Ellington Township Trustee,,,Stephen Boman,182,123,59
+Hancock,Precinct #1,Ellington Township Trustee,,,Bernal Hanna,195,127,68
+Hancock,Precinct #1,Ellington Township Trustee,,,Write-in,1,1,0
+Hancock,Precinct #1,Ellington Township Clerk,,,Jerry Kropp,210,142,68
+Hancock,Precinct #1,Ellington Township Clerk,,,Write-in,0,0,0
+Hancock,Precinct #4,Erin Township Trustee,,,Douglas Verbrugge,68,49,19
+Hancock,Precinct #4,Erin Township Trustee,,,Troy Faust,3,3,0
+Hancock,Precinct #4,Erin Township Trustee,,,Mike Matern,1,1,0
+Hancock,Precinct #4,Erin Township Trustee,,,William Friedow,1,0,1
+Hancock,Precinct #4,Erin Township Trustee,,,Vance Johnson,1,0,1
+Hancock,Precinct #4,Erin Township Trustee,,,Quentin Stortenbecker,1,0,1
+Hancock,Precinct #4,Erin Township Trustee,,,Blank_No Name,1,1,0
+Hancock,Precinct #4,Erin Township Trustee,,,Write-in,0,0,0
+Hancock,Precinct #4,Erin Township Clerk,,,J.B. Johnson,62,45,17
+Hancock,Precinct #4,Erin Township Clerk,,,Write-in,0,0,0
+Hancock,Precinct #5,Garfield Township Trustee,,,Lewis A. Nedved,151,101,50
+Hancock,Precinct #5,Garfield Township Trustee,,,Marvin Ricke,132,83,49
+Hancock,Precinct #5,Garfield Township Trustee,,,Write-in,0,0,0
+Hancock,Precinct #5,Garfield Township Clerk,,,Tom Formanek,155,103,52
+Hancock,Precinct #5,Garfield Township Clerk,,,Write-in,0,0,0
+Hancock,Precint #7,Liberty Township Trustee,,,David Schoenwetter,102,65,37
+Hancock,Precint #7,Liberty Township Trustee,,,Kimm Larson,2,1,1
+Hancock,Precint #7,Liberty Township Trustee,,,Dean Hrubes,1,0,1
+Hancock,Precint #7,Liberty Township Trustee,,,Levi Woiwood,1,1,0
+Hancock,Precint #7,Liberty Township Trustee,,,Rob Buckley,1,1,0
+Hancock,Precint #7,Liberty Township Trustee,,,Eldon Gast,1,1,0
+Hancock,Precint #7,Liberty Township Trustee,,,Write-in,0,0,0
+Hancock,Precint #7,Liberty Township Clerk,,,Dean Bertilson,105,66,39
+Hancock,Precint #7,Liberty Township Clerk,,,Write-in,1,1,0
+Hancock,Precinct #1,Madison Township Trustee,,,Roger Wellik,165,114,51
+Hancock,Precinct #1,Madison Township Trustee,,,David Reese,147,99,48
+Hancock,Precinct #1,Madison Township Trustee,,,Write-in,4,0,4
+Hancock,Precinct #1,Madison Township Clerk,,,Susan E. Reese,171,115,56
+Hancock,Precinct #1,Madison Township Clerk,,,Write-in,1,0,1
+Hancock,Precinct #8,Magor Township Trustee,,,Bruce Smidt,53,35,18
+Hancock,Precinct #8,Magor Township Trustee,,,Paul Studer,4,0,4
+Hancock,Precinct #8,Magor Township Trustee,,,Kelly Walk,1,0,1
+Hancock,Precinct #8,Magor Township Trustee,,,Scott Sloan,1,1,0
+Hancock,Precinct #8,Magor Township Trustee,,,Feleix Wright,1,1,0
+Hancock,Precinct #8,Magor Township Trustee,,,Write-in,0,0,0
+Hancock,Precinct #8,Magor Township Clerk,,,Mervin G. Krauss,55,35,20
+Hancock,Precinct #8,Magor Township Clerk,,,Write-in,0,0,0
+Hancock,Precinct #4,Orthel Township Trustee,,,Jeffery A. Nielsen,92,54,38
+Hancock,Precinct #4,Orthel Township Trustee,,,Kenneth DeWaard,79,45,34
+Hancock,Precinct #4,Orthel Township Trustee,,,Write-in,0,0,0
+Hancock,Precinct #4,Orthel Township Clerk,,,Steve Kelly,92,55,37
+Hancock,Precinct #4,Orthel Township Clerk,,,Write-in,0,0,0
+Hancock,Precinct #9,Twin Lake Township Trustee To Fill Vacancy,,,Jaime Schmidt,1,1,0
+Hancock,Precinct #9,Twin Lake Township Trustee To Fill Vacancy,,,Les Anderson,1,1,0
+Hancock,Precinct #9,Twin Lake Township Trustee To Fill Vacancy,,,Matthew G. Greiman,1,0,1
+Hancock,Precinct #9,Twin Lake Township Trustee To Fill Vacancy,,,Roger Hansen,1,0,1
+Hancock,Precinct #9,Twin Lake Township Trustee To Fill Vacancy,,,Blank_No Name,2,2,0
+Hancock,Precinct #9,Twin Lake Township Trustee To Fill Vacancy,,,Write-in,0,0,0
+Hancock,Precinct #9,Twin Lake Township Clerk,,,Gary Steenblock,67,44,23
+Hancock,Precinct #9,Twin Lake Township Clerk,,,Write-in,1,0,1
+Hancock,Precinct #1,County Public Hospital Trustee,,,Ellen Tusha,413,273,140
+Hancock,Precinct #2,County Public Hospital Trustee,,,Ellen Tusha,139,120,19
+Hancock,Precinct #3,County Public Hospital Trustee,,,Ellen Tusha,142,117,25
+Hancock,Precinct #4,County Public Hospital Trustee,,,Ellen Tusha,840,594,246
+Hancock,Precinct #5,County Public Hospital Trustee,,,Ellen Tusha,138,90,48
+Hancock,Precinct #6,County Public Hospital Trustee,,,Ellen Tusha,1238,813,425
+Hancock,Precint #7,County Public Hospital Trustee,,,Ellen Tusha,281,215,66
+Hancock,Precinct #8,County Public Hospital Trustee,,,Ellen Tusha,193,136,57
+Hancock,Precinct #9,County Public Hospital Trustee,,,Ellen Tusha,295,214,81
+Hancock,Precinct #10,County Public Hospital Trustee,,,Ellen Tusha,103,82,21
+Hancock,Precinct #1,County Public Hospital Trustee,,,Bill Paulus,398,258,140
+Hancock,Precinct #2,County Public Hospital Trustee,,,Bill Paulus,126,107,19
+Hancock,Precinct #3,County Public Hospital Trustee,,,Bill Paulus,131,108,23
+Hancock,Precinct #4,County Public Hospital Trustee,,,Bill Paulus,706,498,208
+Hancock,Precinct #5,County Public Hospital Trustee,,,Bill Paulus,131,84,47
+Hancock,Precinct #6,County Public Hospital Trustee,,,Bill Paulus,1102,734,368
+Hancock,Precint #7,County Public Hospital Trustee,,,Bill Paulus,279,206,73
+Hancock,Precinct #8,County Public Hospital Trustee,,,Bill Paulus,167,118,49
+Hancock,Precinct #9,County Public Hospital Trustee,,,Bill Paulus,242,169,73
+Hancock,Precinct #10,County Public Hospital Trustee,,,Bill Paulus,86,68,18
+Hancock,Precinct #1,County Public Hospital Trustee,,,Write-in,1,0,1
+Hancock,Precinct #2,County Public Hospital Trustee,,,Write-in,0,0,0
+Hancock,Precinct #3,County Public Hospital Trustee,,,Write-in,1,1,0
+Hancock,Precinct #4,County Public Hospital Trustee,,,Write-in,4,3,1
+Hancock,Precinct #5,County Public Hospital Trustee,,,Write-in,0,0,0
+Hancock,Precinct #6,County Public Hospital Trustee,,,Write-in,2,2,0
+Hancock,Precint #7,County Public Hospital Trustee,,,Write-in,3,3,0
+Hancock,Precinct #8,County Public Hospital Trustee,,,Write-in,2,1,1
+Hancock,Precinct #9,County Public Hospital Trustee,,,Write-in,2,0,2
+Hancock,Precinct #10,County Public Hospital Trustee,,,Write-in,1,1,0
+Hancock,Precinct #1,Soil and Water Conservation District Commissioner,,,Robert Stille,391,258,133
+Hancock,Precinct #2,Soil and Water Conservation District Commissioner,,,Robert Stille,128,109,19
+Hancock,Precinct #3,Soil and Water Conservation District Commissioner,,,Robert Stille,129,106,23
+Hancock,Precinct #4,Soil and Water Conservation District Commissioner,,,Robert Stille,719,510,209
+Hancock,Precinct #5,Soil and Water Conservation District Commissioner,,,Robert Stille,116,73,43
+Hancock,Precinct #6,Soil and Water Conservation District Commissioner,,,Robert Stille,1103,717,386
+Hancock,Precint #7,Soil and Water Conservation District Commissioner,,,Robert Stille,299,227,72
+Hancock,Precinct #8,Soil and Water Conservation District Commissioner,,,Robert Stille,178,125,53
+Hancock,Precinct #9,Soil and Water Conservation District Commissioner,,,Robert Stille,289,202,87
+Hancock,Precinct #10,Soil and Water Conservation District Commissioner,,,Robert Stille,95,77,18
+Hancock,Precinct #1,Soil and Water Conservation District Commissioner,,,Andrea K. Nedved,413,271,142
+Hancock,Precinct #2,Soil and Water Conservation District Commissioner,,,Andrea K. Nedved,133,112,21
+Hancock,Precinct #3,Soil and Water Conservation District Commissioner,,,Andrea K. Nedved,134,109,25
+Hancock,Precinct #4,Soil and Water Conservation District Commissioner,,,Andrea K. Nedved,769,545,224
+Hancock,Precinct #5,Soil and Water Conservation District Commissioner,,,Andrea K. Nedved,142,95,47
+Hancock,Precinct #6,Soil and Water Conservation District Commissioner,,,Andrea K. Nedved,1174,784,390
+Hancock,Precint #7,Soil and Water Conservation District Commissioner,,,Andrea K. Nedved,279,212,67
+Hancock,Precinct #8,Soil and Water Conservation District Commissioner,,,Andrea K. Nedved,186,132,54
+Hancock,Precinct #9,Soil and Water Conservation District Commissioner,,,Andrea K. Nedved,266,187,79
+Hancock,Precinct #10,Soil and Water Conservation District Commissioner,,,Andrea K. Nedved,92,74,18
+Hancock,Precinct #1,Soil and Water Conservation District Commissioner,,,Write-in,1,1,0
+Hancock,Precinct #2,Soil and Water Conservation District Commissioner,,,Write-in,1,1,0
+Hancock,Precinct #3,Soil and Water Conservation District Commissioner,,,Write-in,1,1,0
+Hancock,Precinct #4,Soil and Water Conservation District Commissioner,,,Write-in,5,4,1
+Hancock,Precinct #5,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Hancock,Precinct #6,Soil and Water Conservation District Commissioner,,,Write-in,2,1,1
+Hancock,Precint #7,Soil and Water Conservation District Commissioner,,,Write-in,2,1,1
+Hancock,Precinct #8,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Hancock,Precinct #9,Soil and Water Conservation District Commissioner,,,Write-in,1,1,0
+Hancock,Precinct #10,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Hancock,Precinct #1,County Agricultural Extension Council,,,Heidi Greiman-Konz,359,239,120
+Hancock,Precinct #2,County Agricultural Extension Council,,,Heidi Greiman-Konz,113,94,19
+Hancock,Precinct #3,County Agricultural Extension Council,,,Heidi Greiman-Konz,110,91,19
+Hancock,Precinct #4,County Agricultural Extension Council,,,Heidi Greiman-Konz,657,466,191
+Hancock,Precinct #5,County Agricultural Extension Council,,,Heidi Greiman-Konz,112,72,40
+Hancock,Precinct #6,County Agricultural Extension Council,,,Heidi Greiman-Konz,1024,689,335
+Hancock,Precint #7,County Agricultural Extension Council,,,Heidi Greiman-Konz,245,186,59
+Hancock,Precinct #8,County Agricultural Extension Council,,,Heidi Greiman-Konz,173,118,55
+Hancock,Precinct #9,County Agricultural Extension Council,,,Heidi Greiman-Konz,241,166,75
+Hancock,Precinct #10,County Agricultural Extension Council,,,Heidi Greiman-Konz,82,68,14
+Hancock,Precinct #1,County Agricultural Extension Council,,,Brandon Beenken,383,257,126
+Hancock,Precinct #2,County Agricultural Extension Council,,,Brandon Beenken,127,108,19
+Hancock,Precinct #3,County Agricultural Extension Council,,,Brandon Beenken,142,116,26
+Hancock,Precinct #4,County Agricultural Extension Council,,,Brandon Beenken,699,489,210
+Hancock,Precinct #5,County Agricultural Extension Council,,,Brandon Beenken,107,65,42
+Hancock,Precinct #6,County Agricultural Extension Council,,,Brandon Beenken,977,656,321
+Hancock,Precint #7,County Agricultural Extension Council,,,Brandon Beenken,245,187,58
+Hancock,Precinct #8,County Agricultural Extension Council,,,Brandon Beenken,170,119,51
+Hancock,Precinct #9,County Agricultural Extension Council,,,Brandon Beenken,243,171,72
+Hancock,Precinct #10,County Agricultural Extension Council,,,Brandon Beenken,85,68,17
+Hancock,Precinct #1,County Agricultural Extension Council,,,Mary Greiman,359,235,124
+Hancock,Precinct #2,County Agricultural Extension Council,,,Mary Greiman,116,98,18
+Hancock,Precinct #3,County Agricultural Extension Council,,,Mary Greiman,103,86,17
+Hancock,Precinct #4,County Agricultural Extension Council,,,Mary Greiman,676,483,193
+Hancock,Precinct #5,County Agricultural Extension Council,,,Mary Greiman,117,77,40
+Hancock,Precinct #6,County Agricultural Extension Council,,,Mary Greiman,1068,712,356
+Hancock,Precint #7,County Agricultural Extension Council,,,Mary Greiman,262,198,64
+Hancock,Precinct #8,County Agricultural Extension Council,,,Mary Greiman,163,113,50
+Hancock,Precinct #9,County Agricultural Extension Council,,,Mary Greiman,242,167,75
+Hancock,Precinct #10,County Agricultural Extension Council,,,Mary Greiman,85,71,14
+Hancock,Precinct #1,County Agricultural Extension Council,,,Cory Greiman,358,238,120
+Hancock,Precinct #2,County Agricultural Extension Council,,,Cory Greiman,114,96,18
+Hancock,Precinct #3,County Agricultural Extension Council,,,Cory Greiman,106,88,18
+Hancock,Precinct #4,County Agricultural Extension Council,,,Cory Greiman,644,453,191
+Hancock,Precinct #5,County Agricultural Extension Council,,,Cory Greiman,112,72,40
+Hancock,Precinct #6,County Agricultural Extension Council,,,Cory Greiman,1052,712,340
+Hancock,Precint #7,County Agricultural Extension Council,,,Cory Greiman,262,199,63
+Hancock,Precinct #8,County Agricultural Extension Council,,,Cory Greiman,160,110,50
+Hancock,Precinct #9,County Agricultural Extension Council,,,Cory Greiman,240,167,73
+Hancock,Precinct #10,County Agricultural Extension Council,,,Cory Greiman,86,73,13
+Hancock,Precinct #1,County Agricultural Extension Council,,,Ray Tlach,359,238,121
+Hancock,Precinct #2,County Agricultural Extension Council,,,Ray Tlach,123,102,21
+Hancock,Precinct #3,County Agricultural Extension Council,,,Ray Tlach,114,94,20
+Hancock,Precinct #4,County Agricultural Extension Council,,,Ray Tlach,763,537,226
+Hancock,Precinct #5,County Agricultural Extension Council,,,Ray Tlach,124,81,43
+Hancock,Precinct #6,County Agricultural Extension Council,,,Ray Tlach,986,652,334
+Hancock,Precint #7,County Agricultural Extension Council,,,Ray Tlach,253,188,65
+Hancock,Precinct #8,County Agricultural Extension Council,,,Ray Tlach,171,120,51
+Hancock,Precinct #9,County Agricultural Extension Council,,,Ray Tlach,249,176,73
+Hancock,Precinct #10,County Agricultural Extension Council,,,Ray Tlach,79,65,14
+Hancock,Precinct #1,County Agricultural Extension Council,,,Write-in,4,1,3
+Hancock,Precinct #2,County Agricultural Extension Council,,,Write-in,1,1,0
+Hancock,Precinct #3,County Agricultural Extension Council,,,Write-in,1,1,0
+Hancock,Precinct #4,County Agricultural Extension Council,,,Write-in,7,3,4
+Hancock,Precinct #5,County Agricultural Extension Council,,,Write-in,3,0,3
+Hancock,Precinct #6,County Agricultural Extension Council,,,Write-in,2,0,2
+Hancock,Precint #7,County Agricultural Extension Council,,,Write-in,11,8,3
+Hancock,Precinct #8,County Agricultural Extension Council,,,Write-in,1,0,1
+Hancock,Precinct #9,County Agricultural Extension Council,,,Write-in,4,0,4
+Hancock,Precinct #10,County Agricultural Extension Council,,,Write-in,0,0,0
+Hancock,Precinct #1,Court of Appeals Judge Mary Ellen Tabor,,,Yes,338,216,122
+Hancock,Precinct #2,Court of Appeals Judge Mary Ellen Tabor,,,Yes,117,104,13
+Hancock,Precinct #3,Court of Appeals Judge Mary Ellen Tabor,,,Yes,101,82,19
+Hancock,Precinct #4,Court of Appeals Judge Mary Ellen Tabor,,,Yes,601,428,173
+Hancock,Precinct #5,Court of Appeals Judge Mary Ellen Tabor,,,Yes,101,67,34
+Hancock,Precinct #6,Court of Appeals Judge Mary Ellen Tabor,,,Yes,920,625,295
+Hancock,Precint #7,Court of Appeals Judge Mary Ellen Tabor,,,Yes,208,159,49
+Hancock,Precinct #8,Court of Appeals Judge Mary Ellen Tabor,,,Yes,145,106,39
+Hancock,Precinct #9,Court of Appeals Judge Mary Ellen Tabor,,,Yes,222,157,65
+Hancock,Precinct #10,Court of Appeals Judge Mary Ellen Tabor,,,Yes,82,57,25
+Hancock,Precinct #1,Court of Appeals Judge Mary Ellen Tabor,,,No,117,84,33
+Hancock,Precinct #2,Court of Appeals Judge Mary Ellen Tabor,,,No,38,30,8
+Hancock,Precinct #3,Court of Appeals Judge Mary Ellen Tabor,,,No,47,43,4
+Hancock,Precinct #4,Court of Appeals Judge Mary Ellen Tabor,,,No,205,160,45
+Hancock,Precinct #5,Court of Appeals Judge Mary Ellen Tabor,,,No,33,20,13
+Hancock,Precinct #6,Court of Appeals Judge Mary Ellen Tabor,,,No,241,153,88
+Hancock,Precint #7,Court of Appeals Judge Mary Ellen Tabor,,,No,105,83,22
+Hancock,Precinct #8,Court of Appeals Judge Mary Ellen Tabor,,,No,52,32,20
+Hancock,Precinct #9,Court of Appeals Judge Mary Ellen Tabor,,,No,84,61,23
+Hancock,Precinct #10,Court of Appeals Judge Mary Ellen Tabor,,,No,33,31,2
+Hancock,Precinct #1,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,299,190,109
+Hancock,Precinct #2,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,96,85,11
+Hancock,Precinct #3,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,98,80,18
+Hancock,Precinct #4,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,542,392,150
+Hancock,Precinct #5,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,93,62,31
+Hancock,Precinct #6,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,858,580,278
+Hancock,Precint #7,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,176,136,40
+Hancock,Precinct #8,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,126,89,37
+Hancock,Precinct #9,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,196,136,60
+Hancock,Precinct #10,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,74,51,23
+Hancock,Precinct #1,Court of Appeals Judge Anuradha Vaitheswaran,,,No,150,106,44
+Hancock,Precinct #2,Court of Appeals Judge Anuradha Vaitheswaran,,,No,60,49,11
+Hancock,Precinct #3,Court of Appeals Judge Anuradha Vaitheswaran,,,No,46,41,5
+Hancock,Precinct #4,Court of Appeals Judge Anuradha Vaitheswaran,,,No,253,190,63
+Hancock,Precinct #5,Court of Appeals Judge Anuradha Vaitheswaran,,,No,38,24,14
+Hancock,Precinct #6,Court of Appeals Judge Anuradha Vaitheswaran,,,No,282,184,98
+Hancock,Precint #7,Court of Appeals Judge Anuradha Vaitheswaran,,,No,130,100,30
+Hancock,Precinct #8,Court of Appeals Judge Anuradha Vaitheswaran,,,No,68,48,20
+Hancock,Precinct #9,Court of Appeals Judge Anuradha Vaitheswaran,,,No,107,80,27
+Hancock,Precinct #10,Court of Appeals Judge Anuradha Vaitheswaran,,,No,41,37,4
+Hancock,Precinct #1,Court of Appeals Judge Michael R. Mullins,,,Yes,333,213,120
+Hancock,Precinct #2,Court of Appeals Judge Michael R. Mullins,,,Yes,116,100,16
+Hancock,Precinct #3,Court of Appeals Judge Michael R. Mullins,,,Yes,99,81,18
+Hancock,Precinct #4,Court of Appeals Judge Michael R. Mullins,,,Yes,620,443,177
+Hancock,Precinct #5,Court of Appeals Judge Michael R. Mullins,,,Yes,101,64,37
+Hancock,Precinct #6,Court of Appeals Judge Michael R. Mullins,,,Yes,931,628,303
+Hancock,Precint #7,Court of Appeals Judge Michael R. Mullins,,,Yes,207,155,52
+Hancock,Precinct #8,Court of Appeals Judge Michael R. Mullins,,,Yes,152,108,44
+Hancock,Precinct #9,Court of Appeals Judge Michael R. Mullins,,,Yes,219,157,62
+Hancock,Precinct #10,Court of Appeals Judge Michael R. Mullins,,,Yes,84,63,21
+Hancock,Precinct #1,Court of Appeals Judge Michael R. Mullins,,,No,120,87,33
+Hancock,Precinct #2,Court of Appeals Judge Michael R. Mullins,,,No,37,31,6
+Hancock,Precinct #3,Court of Appeals Judge Michael R. Mullins,,,No,45,40,5
+Hancock,Precinct #4,Court of Appeals Judge Michael R. Mullins,,,No,167,135,32
+Hancock,Precinct #5,Court of Appeals Judge Michael R. Mullins,,,No,29,19,10
+Hancock,Precinct #6,Court of Appeals Judge Michael R. Mullins,,,No,213,138,75
+Hancock,Precint #7,Court of Appeals Judge Michael R. Mullins,,,No,101,82,19
+Hancock,Precinct #8,Court of Appeals Judge Michael R. Mullins,,,No,43,29,14
+Hancock,Precinct #9,Court of Appeals Judge Michael R. Mullins,,,No,79,56,23
+Hancock,Precinct #10,Court of Appeals Judge Michael R. Mullins,,,No,30,24,6
+Hancock,Precinct #1,District 2A District Judge James M. Drew,,,Yes,347,224,123
+Hancock,Precinct #2,District 2A District Judge James M. Drew,,,Yes,116,101,15
+Hancock,Precinct #3,District 2A District Judge James M. Drew,,,Yes,101,82,19
+Hancock,Precinct #4,District 2A District Judge James M. Drew,,,Yes,663,479,184
+Hancock,Precinct #5,District 2A District Judge James M. Drew,,,Yes,114,75,39
+Hancock,Precinct #6,District 2A District Judge James M. Drew,,,Yes,972,654,318
+Hancock,Precint #7,District 2A District Judge James M. Drew,,,Yes,222,167,55
+Hancock,Precinct #8,District 2A District Judge James M. Drew,,,Yes,147,106,41
+Hancock,Precinct #9,District 2A District Judge James M. Drew,,,Yes,238,164,74
+Hancock,Precinct #10,District 2A District Judge James M. Drew,,,Yes,86,64,22
+Hancock,Precinct #1,District 2A District Judge James M. Drew,,,No,108,79,29
+Hancock,Precinct #2,District 2A District Judge James M. Drew,,,No,41,33,8
+Hancock,Precinct #3,District 2A District Judge James M. Drew,,,No,47,43,4
+Hancock,Precinct #4,District 2A District Judge James M. Drew,,,No,146,115,31
+Hancock,Precinct #5,District 2A District Judge James M. Drew,,,No,22,14,8
+Hancock,Precinct #6,District 2A District Judge James M. Drew,,,No,202,137,65
+Hancock,Precint #7,District 2A District Judge James M. Drew,,,No,89,74,15
+Hancock,Precinct #8,District 2A District Judge James M. Drew,,,No,45,31,14
+Hancock,Precinct #9,District 2A District Judge James M. Drew,,,No,70,56,14
+Hancock,Precinct #10,District 2A District Judge James M. Drew,,,No,27,22,5
+Hancock,Precinct #1,District 2A District Judge Rustin Davenport,,,Yes,334,213,121
+Hancock,Precinct #2,District 2A District Judge Rustin Davenport,,,Yes,115,96,19
+Hancock,Precinct #3,District 2A District Judge Rustin Davenport,,,Yes,102,84,18
+Hancock,Precinct #4,District 2A District Judge Rustin Davenport,,,Yes,615,447,168
+Hancock,Precinct #5,District 2A District Judge Rustin Davenport,,,Yes,107,70,37
+Hancock,Precinct #6,District 2A District Judge Rustin Davenport,,,Yes,925,627,298
+Hancock,Precint #7,District 2A District Judge Rustin Davenport,,,Yes,217,162,55
+Hancock,Precinct #8,District 2A District Judge Rustin Davenport,,,Yes,138,101,37
+Hancock,Precinct #9,District 2A District Judge Rustin Davenport,,,Yes,226,156,70
+Hancock,Precinct #10,District 2A District Judge Rustin Davenport,,,Yes,85,62,23
+Hancock,Precinct #1,District 2A District Judge Rustin Davenport,,,No,120,88,32
+Hancock,Precinct #2,District 2A District Judge Rustin Davenport,,,No,41,37,4
+Hancock,Precinct #3,District 2A District Judge Rustin Davenport,,,No,46,41,5
+Hancock,Precinct #4,District 2A District Judge Rustin Davenport,,,No,176,135,41
+Hancock,Precinct #5,District 2A District Judge Rustin Davenport,,,No,28,18,10
+Hancock,Precinct #6,District 2A District Judge Rustin Davenport,,,No,232,150,82
+Hancock,Precint #7,District 2A District Judge Rustin Davenport,,,No,90,75,15
+Hancock,Precinct #8,District 2A District Judge Rustin Davenport,,,No,52,34,18
+Hancock,Precinct #9,District 2A District Judge Rustin Davenport,,,No,76,59,17
+Hancock,Precinct #10,District 2A District Judge Rustin Davenport,,,No,31,26,5

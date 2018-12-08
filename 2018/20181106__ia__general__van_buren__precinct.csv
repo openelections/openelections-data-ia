@@ -1,0 +1,704 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Van Buren,Birmingham,United States Representative District 2,,REP,Christopher Peters,283,208,75
+Van Buren,Bonaparte,United States Representative District 2,,REP,Christopher Peters,232,183,49
+Van Buren,Cantril,United States Representative District 2,,REP,Christopher Peters,75,60,15
+Van Buren,Douds,United States Representative District 2,,REP,Christopher Peters,211,162,49
+Van Buren,Farmington,United States Representative District 2,,REP,Christopher Peters,195,166,29
+Van Buren,Keosauqua,United States Representative District 2,,REP,Christopher Peters,424,280,144
+Van Buren,Milton,United States Representative District 2,,REP,Christopher Peters,127,96,31
+Van Buren,Stockport,United States Representative District 2,,REP,Christopher Peters,87,72,15
+Van Buren,Birmingham,United States Representative District 2,,DEM,Dave Loebsack,164,113,51
+Van Buren,Bonaparte,United States Representative District 2,,DEM,Dave Loebsack,167,120,47
+Van Buren,Cantril,United States Representative District 2,,DEM,Dave Loebsack,81,52,29
+Van Buren,Douds,United States Representative District 2,,DEM,Dave Loebsack,119,89,30
+Van Buren,Farmington,United States Representative District 2,,DEM,Dave Loebsack,146,107,39
+Van Buren,Keosauqua,United States Representative District 2,,DEM,Dave Loebsack,382,233,149
+Van Buren,Milton,United States Representative District 2,,DEM,Dave Loebsack,78,66,12
+Van Buren,Stockport,United States Representative District 2,,DEM,Dave Loebsack,60,46,14
+Van Buren,Birmingham,United States Representative District 2,,LIB,Mark David Strauss,8,6,2
+Van Buren,Bonaparte,United States Representative District 2,,LIB,Mark David Strauss,8,7,1
+Van Buren,Cantril,United States Representative District 2,,LIB,Mark David Strauss,2,2,0
+Van Buren,Douds,United States Representative District 2,,LIB,Mark David Strauss,8,6,2
+Van Buren,Farmington,United States Representative District 2,,LIB,Mark David Strauss,4,4,0
+Van Buren,Keosauqua,United States Representative District 2,,LIB,Mark David Strauss,10,5,5
+Van Buren,Milton,United States Representative District 2,,LIB,Mark David Strauss,2,2,0
+Van Buren,Stockport,United States Representative District 2,,LIB,Mark David Strauss,2,2,0
+Van Buren,Birmingham,United States Representative District 2,,,Daniel Clark,2,2,0
+Van Buren,Bonaparte,United States Representative District 2,,,Daniel Clark,2,2,0
+Van Buren,Cantril,United States Representative District 2,,,Daniel Clark,3,2,1
+Van Buren,Douds,United States Representative District 2,,,Daniel Clark,3,2,1
+Van Buren,Farmington,United States Representative District 2,,,Daniel Clark,5,2,3
+Van Buren,Keosauqua,United States Representative District 2,,,Daniel Clark,5,3,2
+Van Buren,Milton,United States Representative District 2,,,Daniel Clark,1,1,0
+Van Buren,Stockport,United States Representative District 2,,,Daniel Clark,2,2,0
+Van Buren,Birmingham,United States Representative District 2,,,Write-in,0,0,0
+Van Buren,Bonaparte,United States Representative District 2,,,Write-in,0,0,0
+Van Buren,Cantril,United States Representative District 2,,,Write-in,0,0,0
+Van Buren,Douds,United States Representative District 2,,,Write-in,0,0,0
+Van Buren,Farmington,United States Representative District 2,,,Write-in,0,0,0
+Van Buren,Keosauqua,United States Representative District 2,,,Write-in,0,0,0
+Van Buren,Milton,United States Representative District 2,,,Write-in,0,0,0
+Van Buren,Stockport,United States Representative District 2,,,Write-in,1,0,1
+Van Buren,Birmingham,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,339,240,99
+Van Buren,Bonaparte,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,285,225,60
+Van Buren,Cantril,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,114,86,28
+Van Buren,Douds,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,254,199,55
+Van Buren,Farmington,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,222,187,35
+Van Buren,Keosauqua,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,547,363,184
+Van Buren,Milton,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,154,119,35
+Van Buren,Stockport,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,111,90,21
+Van Buren,Birmingham,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,109,83,26
+Van Buren,Bonaparte,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,120,83,37
+Van Buren,Cantril,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,45,28,17
+Van Buren,Douds,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,81,58,23
+Van Buren,Farmington,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,124,89,35
+Van Buren,Keosauqua,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,270,156,114
+Van Buren,Milton,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,51,43,8
+Van Buren,Stockport,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,39,29,10
+Van Buren,Birmingham,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,4,4,0
+Van Buren,Bonaparte,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,6,6,0
+Van Buren,Cantril,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,6,6,0
+Van Buren,Douds,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,9,5,4
+Van Buren,Farmington,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,5,4,1
+Van Buren,Keosauqua,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,6,2,4
+Van Buren,Milton,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,5,4,1
+Van Buren,Stockport,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,4,4,0
+Van Buren,Birmingham,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,1,1,0
+Van Buren,Bonaparte,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,3,0
+Van Buren,Cantril,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,0,0,0
+Van Buren,Douds,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,1,1,0
+Van Buren,Farmington,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,1,0,1
+Van Buren,Keosauqua,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,5,4,1
+Van Buren,Milton,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,1,1,0
+Van Buren,Stockport,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,0,0,0
+Van Buren,Birmingham,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Van Buren,Bonaparte,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Van Buren,Cantril,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Van Buren,Douds,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Van Buren,Farmington,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Van Buren,Keosauqua,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Van Buren,Milton,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Van Buren,Stockport,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Van Buren,Birmingham,Secretary of State,,REP,Paul D. Pate,337,246,91
+Van Buren,Bonaparte,Secretary of State,,REP,Paul D. Pate,287,229,58
+Van Buren,Cantril,Secretary of State,,REP,Paul D. Pate,110,84,26
+Van Buren,Douds,Secretary of State,,REP,Paul D. Pate,261,200,61
+Van Buren,Farmington,Secretary of State,,REP,Paul D. Pate,230,196,34
+Van Buren,Keosauqua,Secretary of State,,REP,Paul D. Pate,541,354,187
+Van Buren,Milton,Secretary of State,,REP,Paul D. Pate,154,118,36
+Van Buren,Stockport,Secretary of State,,REP,Paul D. Pate,113,94,19
+Van Buren,Birmingham,Secretary of State,,DEM,Deidre DeJear,96,64,32
+Van Buren,Bonaparte,Secretary of State,,DEM,Deidre DeJear,113,75,38
+Van Buren,Cantril,Secretary of State,,DEM,Deidre DeJear,39,22,17
+Van Buren,Douds,Secretary of State,,DEM,Deidre DeJear,70,52,18
+Van Buren,Farmington,Secretary of State,,DEM,Deidre DeJear,108,72,36
+Van Buren,Keosauqua,Secretary of State,,DEM,Deidre DeJear,242,139,103
+Van Buren,Milton,Secretary of State,,DEM,Deidre DeJear,44,39,5
+Van Buren,Stockport,Secretary of State,,DEM,Deidre DeJear,37,25,12
+Van Buren,Birmingham,Secretary of State,,LIB,Jules Ofenbakh,12,11,1
+Van Buren,Bonaparte,Secretary of State,,LIB,Jules Ofenbakh,8,7,1
+Van Buren,Cantril,Secretary of State,,LIB,Jules Ofenbakh,6,6,0
+Van Buren,Douds,Secretary of State,,LIB,Jules Ofenbakh,5,4,1
+Van Buren,Farmington,Secretary of State,,LIB,Jules Ofenbakh,5,5,0
+Van Buren,Keosauqua,Secretary of State,,LIB,Jules Ofenbakh,17,11,6
+Van Buren,Milton,Secretary of State,,LIB,Jules Ofenbakh,5,4,1
+Van Buren,Stockport,Secretary of State,,LIB,Jules Ofenbakh,3,3,0
+Van Buren,Birmingham,Secretary of State,,,Write-in,0,0,0
+Van Buren,Bonaparte,Secretary of State,,,Write-in,0,0,0
+Van Buren,Cantril,Secretary of State,,,Write-in,0,0,0
+Van Buren,Douds,Secretary of State,,,Write-in,0,0,0
+Van Buren,Farmington,Secretary of State,,,Write-in,0,0,0
+Van Buren,Keosauqua,Secretary of State,,,Write-in,1,1,0
+Van Buren,Milton,Secretary of State,,,Write-in,1,1,0
+Van Buren,Stockport,Secretary of State,,,Write-in,0,0,0
+Van Buren,Birmingham,Auditor of State,,REP,Mary Mosiman,320,232,88
+Van Buren,Bonaparte,Auditor of State,,REP,Mary Mosiman,267,209,58
+Van Buren,Cantril,Auditor of State,,REP,Mary Mosiman,104,76,28
+Van Buren,Douds,Auditor of State,,REP,Mary Mosiman,231,178,53
+Van Buren,Farmington,Auditor of State,,REP,Mary Mosiman,217,187,30
+Van Buren,Keosauqua,Auditor of State,,REP,Mary Mosiman,487,312,175
+Van Buren,Milton,Auditor of State,,REP,Mary Mosiman,148,112,36
+Van Buren,Stockport,Auditor of State,,REP,Mary Mosiman,101,82,19
+Van Buren,Birmingham,Auditor of State,,DEM,Rob Sand,113,79,34
+Van Buren,Bonaparte,Auditor of State,,DEM,Rob Sand,126,89,37
+Van Buren,Cantril,Auditor of State,,DEM,Rob Sand,49,33,16
+Van Buren,Douds,Auditor of State,,DEM,Rob Sand,95,71,24
+Van Buren,Farmington,Auditor of State,,DEM,Rob Sand,121,84,37
+Van Buren,Keosauqua,Auditor of State,,DEM,Rob Sand,288,178,110
+Van Buren,Milton,Auditor of State,,DEM,Rob Sand,50,44,6
+Van Buren,Stockport,Auditor of State,,DEM,Rob Sand,44,32,12
+Van Buren,Birmingham,Auditor of State,,LIB,Fred Perryman,9,9,0
+Van Buren,Bonaparte,Auditor of State,,LIB,Fred Perryman,9,8,1
+Van Buren,Cantril,Auditor of State,,LIB,Fred Perryman,4,3,1
+Van Buren,Douds,Auditor of State,,LIB,Fred Perryman,10,8,2
+Van Buren,Farmington,Auditor of State,,LIB,Fred Perryman,6,3,3
+Van Buren,Keosauqua,Auditor of State,,LIB,Fred Perryman,24,14,10
+Van Buren,Milton,Auditor of State,,LIB,Fred Perryman,4,3,1
+Van Buren,Stockport,Auditor of State,,LIB,Fred Perryman,6,6,0
+Van Buren,Birmingham,Auditor of State,,,Write-in,0,0,0
+Van Buren,Bonaparte,Auditor of State,,,Write-in,0,0,0
+Van Buren,Cantril,Auditor of State,,,Write-in,0,0,0
+Van Buren,Douds,Auditor of State,,,Write-in,0,0,0
+Van Buren,Farmington,Auditor of State,,,Write-in,0,0,0
+Van Buren,Keosauqua,Auditor of State,,,Write-in,1,1,0
+Van Buren,Milton,Auditor of State,,,Write-in,0,0,0
+Van Buren,Stockport,Auditor of State,,,Write-in,1,1,0
+Van Buren,Birmingham,Treasurer of State,,REP,Jeremy N. Davis,297,213,84
+Van Buren,Bonaparte,Treasurer of State,,REP,Jeremy N. Davis,237,191,46
+Van Buren,Cantril,Treasurer of State,,REP,Jeremy N. Davis,91,68,23
+Van Buren,Douds,Treasurer of State,,REP,Jeremy N. Davis,209,157,52
+Van Buren,Farmington,Treasurer of State,,REP,Jeremy N. Davis,195,166,29
+Van Buren,Keosauqua,Treasurer of State,,REP,Jeremy N. Davis,460,297,163
+Van Buren,Milton,Treasurer of State,,REP,Jeremy N. Davis,127,94,33
+Van Buren,Stockport,Treasurer of State,,REP,Jeremy N. Davis,90,72,18
+Van Buren,Birmingham,Treasurer of State,,DEM,Michael L. Fitzgerald,141,101,40
+Van Buren,Bonaparte,Treasurer of State,,DEM,Michael L. Fitzgerald,159,110,49
+Van Buren,Cantril,Treasurer of State,,DEM,Michael L. Fitzgerald,62,41,21
+Van Buren,Douds,Treasurer of State,,DEM,Michael L. Fitzgerald,113,88,25
+Van Buren,Farmington,Treasurer of State,,DEM,Michael L. Fitzgerald,148,107,41
+Van Buren,Keosauqua,Treasurer of State,,DEM,Michael L. Fitzgerald,325,199,126
+Van Buren,Milton,Treasurer of State,,DEM,Michael L. Fitzgerald,73,63,10
+Van Buren,Stockport,Treasurer of State,,DEM,Michael L. Fitzgerald,61,48,13
+Van Buren,Birmingham,Treasurer of State,,LIB,Timothy Hird,8,7,1
+Van Buren,Bonaparte,Treasurer of State,,LIB,Timothy Hird,8,7,1
+Van Buren,Cantril,Treasurer of State,,LIB,Timothy Hird,5,4,1
+Van Buren,Douds,Treasurer of State,,LIB,Timothy Hird,10,8,2
+Van Buren,Farmington,Treasurer of State,,LIB,Timothy Hird,2,2,0
+Van Buren,Keosauqua,Treasurer of State,,LIB,Timothy Hird,14,9,5
+Van Buren,Milton,Treasurer of State,,LIB,Timothy Hird,3,3,0
+Van Buren,Stockport,Treasurer of State,,LIB,Timothy Hird,3,3,0
+Van Buren,Birmingham,Treasurer of State,,,Write-in,0,0,0
+Van Buren,Bonaparte,Treasurer of State,,,Write-in,0,0,0
+Van Buren,Cantril,Treasurer of State,,,Write-in,0,0,0
+Van Buren,Douds,Treasurer of State,,,Write-in,0,0,0
+Van Buren,Farmington,Treasurer of State,,,Write-in,0,0,0
+Van Buren,Keosauqua,Treasurer of State,,,Write-in,0,0,0
+Van Buren,Milton,Treasurer of State,,,Write-in,0,0,0
+Van Buren,Stockport,Treasurer of State,,,Write-in,0,0,0
+Van Buren,Birmingham,Secretary of Agriculture,,REP,Mike Naig,320,227,93
+Van Buren,Bonaparte,Secretary of Agriculture,,REP,Mike Naig,260,208,52
+Van Buren,Cantril,Secretary of Agriculture,,REP,Mike Naig,96,74,22
+Van Buren,Douds,Secretary of Agriculture,,REP,Mike Naig,238,180,58
+Van Buren,Farmington,Secretary of Agriculture,,REP,Mike Naig,216,185,31
+Van Buren,Keosauqua,Secretary of Agriculture,,REP,Mike Naig,493,322,171
+Van Buren,Milton,Secretary of Agriculture,,REP,Mike Naig,140,103,37
+Van Buren,Stockport,Secretary of Agriculture,,REP,Mike Naig,102,83,19
+Van Buren,Birmingham,Secretary of Agriculture,,DEM,Tim Gannon,110,81,29
+Van Buren,Bonaparte,Secretary of Agriculture,,DEM,Tim Gannon,125,85,40
+Van Buren,Cantril,Secretary of Agriculture,,DEM,Tim Gannon,54,34,20
+Van Buren,Douds,Secretary of Agriculture,,DEM,Tim Gannon,88,70,18
+Van Buren,Farmington,Secretary of Agriculture,,DEM,Tim Gannon,118,81,37
+Van Buren,Keosauqua,Secretary of Agriculture,,DEM,Tim Gannon,277,163,114
+Van Buren,Milton,Secretary of Agriculture,,DEM,Tim Gannon,57,52,5
+Van Buren,Stockport,Secretary of Agriculture,,DEM,Tim Gannon,44,33,11
+Van Buren,Birmingham,Secretary of Agriculture,,LIB,Rick Stewart,16,13,3
+Van Buren,Bonaparte,Secretary of Agriculture,,LIB,Rick Stewart,17,14,3
+Van Buren,Cantril,Secretary of Agriculture,,LIB,Rick Stewart,7,4,3
+Van Buren,Douds,Secretary of Agriculture,,LIB,Rick Stewart,11,8,3
+Van Buren,Farmington,Secretary of Agriculture,,LIB,Rick Stewart,10,9,1
+Van Buren,Keosauqua,Secretary of Agriculture,,LIB,Rick Stewart,32,22,10
+Van Buren,Milton,Secretary of Agriculture,,LIB,Rick Stewart,7,7,0
+Van Buren,Stockport,Secretary of Agriculture,,LIB,Rick Stewart,6,5,1
+Van Buren,Birmingham,Secretary of Agriculture,,,Write-in,1,1,0
+Van Buren,Bonaparte,Secretary of Agriculture,,,Write-in,0,0,0
+Van Buren,Cantril,Secretary of Agriculture,,,Write-in,0,0,0
+Van Buren,Douds,Secretary of Agriculture,,,Write-in,0,0,0
+Van Buren,Farmington,Secretary of Agriculture,,,Write-in,0,0,0
+Van Buren,Keosauqua,Secretary of Agriculture,,,Write-in,1,1,0
+Van Buren,Milton,Secretary of Agriculture,,,Write-in,0,0,0
+Van Buren,Stockport,Secretary of Agriculture,,,Write-in,0,0,0
+Van Buren,Birmingham,Attorney General,,DEM,Tom Miller,269,191,78
+Van Buren,Bonaparte,Attorney General,,DEM,Tom Miller,240,175,65
+Van Buren,Cantril,Attorney General,,DEM,Tom Miller,109,74,35
+Van Buren,Douds,Attorney General,,DEM,Tom Miller,209,166,43
+Van Buren,Farmington,Attorney General,,DEM,Tom Miller,220,171,49
+Van Buren,Keosauqua,Attorney General,,DEM,Tom Miller,512,324,188
+Van Buren,Milton,Attorney General,,DEM,Tom Miller,124,104,20
+Van Buren,Stockport,Attorney General,,DEM,Tom Miller,100,79,21
+Van Buren,Birmingham,Attorney General,,LIB,Marco Battaglia,99,72,27
+Van Buren,Bonaparte,Attorney General,,LIB,Marco Battaglia,87,72,15
+Van Buren,Cantril,Attorney General,,LIB,Marco Battaglia,32,25,7
+Van Buren,Douds,Attorney General,,LIB,Marco Battaglia,62,47,15
+Van Buren,Farmington,Attorney General,,LIB,Marco Battaglia,70,59,11
+Van Buren,Keosauqua,Attorney General,,LIB,Marco Battaglia,165,106,59
+Van Buren,Milton,Attorney General,,LIB,Marco Battaglia,48,36,12
+Van Buren,Stockport,Attorney General,,LIB,Marco Battaglia,26,24,2
+Van Buren,Birmingham,Attorney General,,,Write-in,4,2,2
+Van Buren,Bonaparte,Attorney General,,,Write-in,4,4,0
+Van Buren,Cantril,Attorney General,,,Write-in,1,0,1
+Van Buren,Douds,Attorney General,,,Write-in,1,1,0
+Van Buren,Farmington,Attorney General,,,Write-in,3,3,0
+Van Buren,Keosauqua,Attorney General,,,Write-in,11,9,2
+Van Buren,Milton,Attorney General,,,Write-in,1,1,0
+Van Buren,Stockport,Attorney General,,,Write-in,1,0,1
+Van Buren,Birmingham,State Senator District 41,,REP,Mariannette Miller-Meeks,337,247,90
+Van Buren,Bonaparte,State Senator District 41,,REP,Mariannette Miller-Meeks,278,223,55
+Van Buren,Cantril,State Senator District 41,,REP,Mariannette Miller-Meeks,108,81,27
+Van Buren,Douds,State Senator District 41,,REP,Mariannette Miller-Meeks,258,194,64
+Van Buren,Farmington,State Senator District 41,,REP,Mariannette Miller-Meeks,237,203,34
+Van Buren,Keosauqua,State Senator District 41,,REP,Mariannette Miller-Meeks,532,345,187
+Van Buren,Milton,State Senator District 41,,REP,Mariannette Miller-Meeks,150,114,36
+Van Buren,Stockport,State Senator District 41,,REP,Mariannette Miller-Meeks,110,92,18
+Van Buren,Birmingham,State Senator District 41,,DEM,Mary S. Stewart,114,79,35
+Van Buren,Bonaparte,State Senator District 41,,DEM,Mary S. Stewart,128,86,42
+Van Buren,Cantril,State Senator District 41,,DEM,Mary S. Stewart,54,36,18
+Van Buren,Douds,State Senator District 41,,DEM,Mary S. Stewart,86,67,19
+Van Buren,Farmington,State Senator District 41,,DEM,Mary S. Stewart,109,71,38
+Van Buren,Keosauqua,State Senator District 41,,DEM,Mary S. Stewart,282,169,113
+Van Buren,Milton,State Senator District 41,,DEM,Mary S. Stewart,57,50,7
+Van Buren,Stockport,State Senator District 41,,DEM,Mary S. Stewart,43,30,13
+Van Buren,Birmingham,State Senator District 41,,,Write-in,1,1,0
+Van Buren,Bonaparte,State Senator District 41,,,Write-in,0,0,0
+Van Buren,Cantril,State Senator District 41,,,Write-in,0,0,0
+Van Buren,Douds,State Senator District 41,,,Write-in,1,1,0
+Van Buren,Farmington,State Senator District 41,,,Write-in,1,1,0
+Van Buren,Keosauqua,State Senator District 41,,,Write-in,2,2,0
+Van Buren,Milton,State Senator District 41,,,Write-in,1,1,0
+Van Buren,Stockport,State Senator District 41,,,Write-in,0,0,0
+Van Buren,Birmingham,State Representative District 82,,REP,Jeff Shipley,286,208,78
+Van Buren,Bonaparte,State Representative District 82,,REP,Jeff Shipley,251,200,51
+Van Buren,Cantril,State Representative District 82,,REP,Jeff Shipley,95,71,24
+Van Buren,Douds,State Representative District 82,,REP,Jeff Shipley,220,165,55
+Van Buren,Farmington,State Representative District 82,,REP,Jeff Shipley,211,180,31
+Van Buren,Keosauqua,State Representative District 82,,REP,Jeff Shipley,481,319,162
+Van Buren,Milton,State Representative District 82,,REP,Jeff Shipley,139,105,34
+Van Buren,Stockport,State Representative District 82,,REP,Jeff Shipley,94,76,18
+Van Buren,Birmingham,State Representative District 82,,DEM,Phil Miller,160,116,44
+Van Buren,Bonaparte,State Representative District 82,,DEM,Phil Miller,156,110,46
+Van Buren,Cantril,State Representative District 82,,DEM,Phil Miller,64,43,21
+Van Buren,Douds,State Representative District 82,,DEM,Phil Miller,116,90,26
+Van Buren,Farmington,State Representative District 82,,DEM,Phil Miller,135,95,40
+Van Buren,Keosauqua,State Representative District 82,,DEM,Phil Miller,327,193,134
+Van Buren,Milton,State Representative District 82,,DEM,Phil Miller,67,58,9
+Van Buren,Stockport,State Representative District 82,,DEM,Phil Miller,56,44,12
+Van Buren,Birmingham,State Representative District 82,,,Write-in,1,1,0
+Van Buren,Bonaparte,State Representative District 82,,,Write-in,0,0,0
+Van Buren,Cantril,State Representative District 82,,,Write-in,0,0,0
+Van Buren,Douds,State Representative District 82,,,Write-in,0,0,0
+Van Buren,Farmington,State Representative District 82,,,Write-in,0,0,0
+Van Buren,Keosauqua,State Representative District 82,,,Write-in,2,2,0
+Van Buren,Milton,State Representative District 82,,,Write-in,0,0,0
+Van Buren,Stockport,State Representative District 82,,,Write-in,2,1,1
+Van Buren,Birmingham,BOARD OF SUPERVISORS,,REP,Dale House,261,182,79
+Van Buren,Bonaparte,BOARD OF SUPERVISORS,,REP,Dale House,144,113,31
+Van Buren,Cantril,BOARD OF SUPERVISORS,,REP,Dale House,91,68,23
+Van Buren,Douds,BOARD OF SUPERVISORS,,REP,Dale House,199,153,46
+Van Buren,Farmington,BOARD OF SUPERVISORS,,REP,Dale House,162,137,25
+Van Buren,Keosauqua,BOARD OF SUPERVISORS,,REP,Dale House,382,241,141
+Van Buren,Milton,BOARD OF SUPERVISORS,,REP,Dale House,107,83,24
+Van Buren,Stockport,BOARD OF SUPERVISORS,,REP,Dale House,66,51,15
+Van Buren,Birmingham,BOARD OF SUPERVISORS,,REP,Mark G. Meek,257,188,69
+Van Buren,Bonaparte,BOARD OF SUPERVISORS,,REP,Mark G. Meek,249,186,63
+Van Buren,Cantril,BOARD OF SUPERVISORS,,REP,Mark G. Meek,88,71,17
+Van Buren,Douds,BOARD OF SUPERVISORS,,REP,Mark G. Meek,199,151,48
+Van Buren,Farmington,BOARD OF SUPERVISORS,,REP,Mark G. Meek,211,174,37
+Van Buren,Keosauqua,BOARD OF SUPERVISORS,,REP,Mark G. Meek,492,325,167
+Van Buren,Milton,BOARD OF SUPERVISORS,,REP,Mark G. Meek,124,91,33
+Van Buren,Stockport,BOARD OF SUPERVISORS,,REP,Mark G. Meek,89,71,18
+Van Buren,Birmingham,BOARD OF SUPERVISORS,,DEM,Taylor Sickels,52,30,22
+Van Buren,Bonaparte,BOARD OF SUPERVISORS,,DEM,Taylor Sickels,68,49,19
+Van Buren,Cantril,BOARD OF SUPERVISORS,,DEM,Taylor Sickels,28,16,12
+Van Buren,Douds,BOARD OF SUPERVISORS,,DEM,Taylor Sickels,42,30,12
+Van Buren,Farmington,BOARD OF SUPERVISORS,,DEM,Taylor Sickels,56,34,22
+Van Buren,Keosauqua,BOARD OF SUPERVISORS,,DEM,Taylor Sickels,133,72,61
+Van Buren,Milton,BOARD OF SUPERVISORS,,DEM,Taylor Sickels,22,17,5
+Van Buren,Stockport,BOARD OF SUPERVISORS,,DEM,Taylor Sickels,21,18,3
+Van Buren,Birmingham,BOARD OF SUPERVISORS,,DEM,Clark Whitaker,112,79,33
+Van Buren,Bonaparte,BOARD OF SUPERVISORS,,DEM,Clark Whitaker,154,110,44
+Van Buren,Cantril,BOARD OF SUPERVISORS,,DEM,Clark Whitaker,31,21,10
+Van Buren,Douds,BOARD OF SUPERVISORS,,DEM,Clark Whitaker,89,67,22
+Van Buren,Farmington,BOARD OF SUPERVISORS,,DEM,Clark Whitaker,140,101,39
+Van Buren,Keosauqua,BOARD OF SUPERVISORS,,DEM,Clark Whitaker,221,124,97
+Van Buren,Milton,BOARD OF SUPERVISORS,,DEM,Clark Whitaker,65,57,8
+Van Buren,Stockport,BOARD OF SUPERVISORS,,DEM,Clark Whitaker,66,49,17
+Van Buren,Birmingham,BOARD OF SUPERVISORS,,,Rob Caviness,118,98,20
+Van Buren,Bonaparte,BOARD OF SUPERVISORS,,,Rob Caviness,106,85,21
+Van Buren,Cantril,BOARD OF SUPERVISORS,,,Rob Caviness,68,46,22
+Van Buren,Douds,BOARD OF SUPERVISORS,,,Rob Caviness,70,52,18
+Van Buren,Farmington,BOARD OF SUPERVISORS,,,Rob Caviness,51,42,9
+Van Buren,Keosauqua,BOARD OF SUPERVISORS,,,Rob Caviness,282,188,94
+Van Buren,Milton,BOARD OF SUPERVISORS,,,Rob Caviness,52,44,8
+Van Buren,Stockport,BOARD OF SUPERVISORS,,,Rob Caviness,39,32,7
+Van Buren,Birmingham,BOARD OF SUPERVISORS,,,Write-in,4,4,0
+Van Buren,Bonaparte,BOARD OF SUPERVISORS,,,Write-in,2,1,1
+Van Buren,Cantril,BOARD OF SUPERVISORS,,,Write-in,0,0,0
+Van Buren,Douds,BOARD OF SUPERVISORS,,,Write-in,1,1,0
+Van Buren,Farmington,BOARD OF SUPERVISORS,,,Write-in,4,4,0
+Van Buren,Keosauqua,BOARD OF SUPERVISORS,,,Write-in,5,5,0
+Van Buren,Milton,BOARD OF SUPERVISORS,,,Write-in,0,0,0
+Van Buren,Stockport,BOARD OF SUPERVISORS,,,Write-in,0,0,0
+Van Buren,Birmingham,COUNTY TREASURER,,DEM,Linda Whitten,374,270,104
+Van Buren,Bonaparte,COUNTY TREASURER,,DEM,Linda Whitten,357,275,82
+Van Buren,Cantril,COUNTY TREASURER,,DEM,Linda Whitten,143,100,43
+Van Buren,Douds,COUNTY TREASURER,,DEM,Linda Whitten,270,212,58
+Van Buren,Farmington,COUNTY TREASURER,,DEM,Linda Whitten,281,224,57
+Van Buren,Keosauqua,COUNTY TREASURER,,DEM,Linda Whitten,734,471,263
+Van Buren,Milton,COUNTY TREASURER,,DEM,Linda Whitten,184,149,35
+Van Buren,Stockport,COUNTY TREASURER,,DEM,Linda Whitten,127,105,22
+Van Buren,Birmingham,COUNTY TREASURER,,,Write-in,4,3,1
+Van Buren,Bonaparte,COUNTY TREASURER,,,Write-in,5,5,0
+Van Buren,Cantril,COUNTY TREASURER,,,Write-in,4,4,0
+Van Buren,Douds,COUNTY TREASURER,,,Write-in,5,4,1
+Van Buren,Farmington,COUNTY TREASURER,,,Write-in,5,4,1
+Van Buren,Keosauqua,COUNTY TREASURER,,,Write-in,10,5,5
+Van Buren,Milton,COUNTY TREASURER,,,Write-in,2,1,1
+Van Buren,Stockport,COUNTY TREASURER,,,Write-in,2,2,0
+Van Buren,Birmingham,COUNTY RECORDER,,DEM,Ann Skaggs,398,292,106
+Van Buren,Bonaparte,COUNTY RECORDER,,DEM,Ann Skaggs,345,267,78
+Van Buren,Cantril,COUNTY RECORDER,,DEM,Ann Skaggs,143,102,41
+Van Buren,Douds,COUNTY RECORDER,,DEM,Ann Skaggs,272,212,60
+Van Buren,Farmington,COUNTY RECORDER,,DEM,Ann Skaggs,282,225,57
+Van Buren,Keosauqua,COUNTY RECORDER,,DEM,Ann Skaggs,740,476,264
+Van Buren,Milton,COUNTY RECORDER,,DEM,Ann Skaggs,177,144,33
+Van Buren,Stockport,COUNTY RECORDER,,DEM,Ann Skaggs,135,111,24
+Van Buren,Birmingham,COUNTY RECORDER,,,Write-in,6,4,2
+Van Buren,Bonaparte,COUNTY RECORDER,,,Write-in,4,3,1
+Van Buren,Cantril,COUNTY RECORDER,,,Write-in,2,2,0
+Van Buren,Douds,COUNTY RECORDER,,,Write-in,3,3,0
+Van Buren,Farmington,COUNTY RECORDER,,,Write-in,5,5,0
+Van Buren,Keosauqua,COUNTY RECORDER,,,Write-in,4,2,2
+Van Buren,Milton,COUNTY RECORDER,,,Write-in,2,1,1
+Van Buren,Stockport,COUNTY RECORDER,,,Write-in,2,2,0
+Van Buren,Birmingham,COUNTY ATTORNEY,,REP,H. Craig Miller,353,251,102
+Van Buren,Bonaparte,COUNTY ATTORNEY,,REP,H. Craig Miller,319,238,81
+Van Buren,Cantril,COUNTY ATTORNEY,,REP,H. Craig Miller,109,77,32
+Van Buren,Douds,COUNTY ATTORNEY,,REP,H. Craig Miller,264,199,65
+Van Buren,Farmington,COUNTY ATTORNEY,,REP,H. Craig Miller,280,230,50
+Van Buren,Keosauqua,COUNTY ATTORNEY,,REP,H. Craig Miller,582,368,214
+Van Buren,Milton,COUNTY ATTORNEY,,REP,H. Craig Miller,141,111,30
+Van Buren,Stockport,COUNTY ATTORNEY,,REP,H. Craig Miller,120,98,22
+Van Buren,Birmingham,COUNTY ATTORNEY,,,Abraham K. Watkins,79,63,16
+Van Buren,Bonaparte,COUNTY ATTORNEY,,,Abraham K. Watkins,76,63,13
+Van Buren,Cantril,COUNTY ATTORNEY,,,Abraham K. Watkins,40,30,10
+Van Buren,Douds,COUNTY ATTORNEY,,,Abraham K. Watkins,59,47,12
+Van Buren,Farmington,COUNTY ATTORNEY,,,Abraham K. Watkins,48,34,14
+Van Buren,Keosauqua,COUNTY ATTORNEY,,,Abraham K. Watkins,204,137,67
+Van Buren,Milton,COUNTY ATTORNEY,,,Abraham K. Watkins,49,44,5
+Van Buren,Stockport,COUNTY ATTORNEY,,,Abraham K. Watkins,30,21,9
+Van Buren,Birmingham,COUNTY ATTORNEY,,,Write-in,1,1,0
+Van Buren,Bonaparte,COUNTY ATTORNEY,,,Write-in,4,4,0
+Van Buren,Cantril,COUNTY ATTORNEY,,,Write-in,2,1,1
+Van Buren,Douds,COUNTY ATTORNEY,,,Write-in,3,3,0
+Van Buren,Farmington,COUNTY ATTORNEY,,,Write-in,4,2,2
+Van Buren,Keosauqua,COUNTY ATTORNEY,,,Write-in,7,3,4
+Van Buren,Milton,COUNTY ATTORNEY,,,Write-in,3,2,1
+Van Buren,Stockport,COUNTY ATTORNEY,,,Write-in,2,2,0
+Van Buren,Birmingham,COUNTY AUDITOR,,REP,Lisa Plecker,408,292,116
+Van Buren,Bonaparte,COUNTY AUDITOR,,REP,Lisa Plecker,362,278,84
+Van Buren,Cantril,COUNTY AUDITOR,,REP,Lisa Plecker,153,113,40
+Van Buren,Douds,COUNTY AUDITOR,,REP,Lisa Plecker,316,240,76
+Van Buren,Farmington,COUNTY AUDITOR,,REP,Lisa Plecker,316,255,61
+Van Buren,Keosauqua,COUNTY AUDITOR,,REP,Lisa Plecker,760,486,274
+Van Buren,Milton,COUNTY AUDITOR,,REP,Lisa Plecker,184,141,43
+Van Buren,Stockport,COUNTY AUDITOR,,REP,Lisa Plecker,143,115,28
+Van Buren,Birmingham,COUNTY AUDITOR,,,Write-in,3,3,0
+Van Buren,Bonaparte,COUNTY AUDITOR,,,Write-in,5,5,0
+Van Buren,Cantril,COUNTY AUDITOR,,,Write-in,2,1,1
+Van Buren,Douds,COUNTY AUDITOR,,,Write-in,2,2,0
+Van Buren,Farmington,COUNTY AUDITOR,,,Write-in,6,5,1
+Van Buren,Keosauqua,COUNTY AUDITOR,,,Write-in,5,3,2
+Van Buren,Milton,COUNTY AUDITOR,,,Write-in,1,1,0
+Van Buren,Stockport,COUNTY AUDITOR,,,Write-in,0,0,0
+Van Buren,Bonaparte,BONAPARTE TWP TRUSTEE,,,Write-in,25,16,9
+Van Buren,Stockport,CEDAR TWP TRUSTEE,,,David Hoaglin,59,43,16
+Van Buren,Stockport,CEDAR TWP TRUSTEE,,,Write-in,0,0,0
+Van Buren,Douds,CHEQUEST TWP TRUSTEE,,,Ted Wenke,68,52,16
+Van Buren,Douds,CHEQUEST TWP TRUSTEE,,,Monty Chaplin,57,38,19
+Van Buren,Douds,CHEQUEST TWP TRUSTEE,,,Write-in,1,1,0
+Van Buren,Cantril,DES MOINES TWP TRUSTEE,,,Terry Morris,89,68,21
+Van Buren,Cantril,DES MOINES TWP TRUSTEE,,,Write-in,6,2,4
+Van Buren,Farmington,FARMINGTON TWP TRUSTEE,,,Dale T. Muntz,102,72,30
+Van Buren,Farmington,FARMINGTON TWP TRUSTEE,,,David Hellwig,109,82,27
+Van Buren,Farmington,FARMINGTON TWP TRUSTEE,,,Write-in,3,1,2
+Van Buren,Bonaparte,HARRISBURG TWP TRUSTEE,,,Rodney Peck,67,55,12
+Van Buren,Bonaparte,HARRISBURG TWP TRUSTEE,,,John V. Eden,87,70,17
+Van Buren,Bonaparte,HARRISBURG TWP TRUSTEE,,,Write-in,2,2,0
+Van Buren,Keosauqua,HENRY TOWNSHIP TRUSTEE,,,Ken M. Hornbaker,68,44,24
+Van Buren,Keosauqua,HENRY TOWNSHIP TRUSTEE,,,Write-in,1,0,1
+Van Buren,Keosauqua,HENRY TOWNSHIP TRUSTEE VAC,,,Write-in,21,11,10
+Van Buren,Milton,JACKSON TWP TRUSTEE,,,Orland Weatherington,90,73,17
+Van Buren,Milton,JACKSON TWP TRUSTEE,,,Write-in,5,2,3
+Van Buren,Birmingham,LICK CREEK TWP TRUSTEE,,,Duane Ray Gates,139,98,41
+Van Buren,Birmingham,LICK CREEK TWP TRUSTEE,,,Write-in,10,8,2
+Van Buren,Birmingham,UNION TWP TRUSTEE,,,Steven Unkrich,101,74,27
+Van Buren,Birmingham,UNION TWP TRUSTEE,,,Kenny Orndoff,80,53,27
+Van Buren,Birmingham,UNION TWP TRUSTEE,,,Write-in,0,0,0
+Van Buren,Keosauqua,VAN BUREN TWP TRUSTEE,,,Aaron Hamberg,202,137,65
+Van Buren,Keosauqua,VAN BUREN TWP TRUSTEE,,,Write-in,0,0,0
+Van Buren,Keosauqua,VERNON TWP TRUSTEE,,,Dean Cole,72,36,36
+Van Buren,Keosauqua,VERNON TWP TRUSTEE,,,Gene Franklin,68,40,28
+Van Buren,Keosauqua,VERNON TWP TRUSTEE,,,Write-in,6,4,2
+Van Buren,Keosauqua,VERNON TWP TRUSTEE-VAC,,,Robert Soberg,66,37,29
+Van Buren,Keosauqua,VERNON TWP TRUSTEE-VAC,,,Write-in,13,12,1
+Van Buren,Douds,VILLAGE TWP TRUSTEE,,,Write-in,33,25,8
+Van Buren,Bonaparte,WASHINGTON TWP TRUSTEE,,,Keith Morris,51,31,20
+Van Buren,Bonaparte,WASHINGTON TWP TRUSTEE,,,Ward Gregory,46,31,15
+Van Buren,Bonaparte,WASHINGTON TWP TRUSTEE,,,Write-in,12,4,8
+Van Buren,Bonaparte,BONAPARTE TWP CLERK,,,Richard L. Eden,105,76,29
+Van Buren,Bonaparte,BONAPARTE TWP CLERK,,,Write-in,0,0,0
+Van Buren,Stockport,CEDAR TWP CLERK,,,George F. Askew,56,42,14
+Van Buren,Stockport,CEDAR TWP CLERK,,,Write-in,2,1,1
+Van Buren,Douds,CHEQUEST TWP CLERK,,,David McQuoid,77,53,24
+Van Buren,Douds,CHEQUEST TWP CLERK,,,Write-in,0,0,0
+Van Buren,Cantril,DES MOINES TWP CLERK,,,Ted Daugherty,88,69,19
+Van Buren,Cantril,DES MOINES TWP CLERK,,,Write-in,1,1,0
+Van Buren,Farmington,FARMINGTON TWP CLERK,,,Sharon Fett,123,97,26
+Van Buren,Farmington,FARMINGTON TWP CLERK,,,Write-in,3,0,3
+Van Buren,Bonaparte,HARRISBURG TWP CLERK,,,Wayne Phelps,82,65,17
+Van Buren,Bonaparte,HARRISBURG TWP CLERK,,,Write-in,0,0,0
+Van Buren,Keosauqua,HENRY TWP CLERK,,,David McLain,64,41,23
+Van Buren,Keosauqua,HENRY TWP CLERK,,,Write-in,2,1,1
+Van Buren,Milton,JACKSON TWP CLERK,,,Ernest Birchmier,92,71,21
+Van Buren,Milton,JACKSON TWP CLERK,,,Write-in,3,2,1
+Van Buren,Birmingham,LICK CREEK TWP CLERK,,,Connie Chase,153,105,48
+Van Buren,Birmingham,LICK CREEK TWP CLERK,,,Write-in,6,4,2
+Van Buren,Birmingham,UNION TWP CLERK,,,Mark Carter,104,77,27
+Van Buren,Birmingham,UNION TWP CLERK,,,Write-in,2,1,1
+Van Buren,Keosauqua,VAN BUREN TWP CLERK,,,Danita Joan Cox,174,118,56
+Van Buren,Keosauqua,VAN BUREN TWP CLERK,,,Write-in,2,1,1
+Van Buren,Keosauqua,VERNON TWP CLERK,,,Rex Westercamp,84,48,36
+Van Buren,Keosauqua,VERNON TWP CLERK,,,Write-in,0,0,0
+Van Buren,Douds,VILLAGE TWP CLERK,,,Donald G. Pool,197,158,39
+Van Buren,Douds,VILLAGE TWP CLERK,,,Write-in,3,3,0
+Van Buren,Bonaparte,WASHINGTON TWP CLERK,,,Tommy Carr,22,18,4
+Van Buren,Bonaparte,WASHINGTON TWP CLERK,,,Write-in,23,12,11
+Van Buren,Birmingham,HOSPITAL TRUSTEE,,,Michael W. Thomas,278,203,75
+Van Buren,Bonaparte,HOSPITAL TRUSTEE,,,Michael W. Thomas,262,203,59
+Van Buren,Cantril,HOSPITAL TRUSTEE,,,Michael W. Thomas,108,76,32
+Van Buren,Douds,HOSPITAL TRUSTEE,,,Michael W. Thomas,202,157,45
+Van Buren,Farmington,HOSPITAL TRUSTEE,,,Michael W. Thomas,259,211,48
+Van Buren,Keosauqua,HOSPITAL TRUSTEE,,,Michael W. Thomas,544,343,201
+Van Buren,Milton,HOSPITAL TRUSTEE,,,Michael W. Thomas,148,122,26
+Van Buren,Stockport,HOSPITAL TRUSTEE,,,Michael W. Thomas,97,79,18
+Van Buren,Birmingham,HOSPITAL TRUSTEE,,,Lloyd L. Foster,269,195,74
+Van Buren,Bonaparte,HOSPITAL TRUSTEE,,,Lloyd L. Foster,226,174,52
+Van Buren,Cantril,HOSPITAL TRUSTEE,,,Lloyd L. Foster,100,78,22
+Van Buren,Douds,HOSPITAL TRUSTEE,,,Lloyd L. Foster,171,129,42
+Van Buren,Farmington,HOSPITAL TRUSTEE,,,Lloyd L. Foster,212,168,44
+Van Buren,Keosauqua,HOSPITAL TRUSTEE,,,Lloyd L. Foster,510,323,187
+Van Buren,Milton,HOSPITAL TRUSTEE,,,Lloyd L. Foster,126,104,22
+Van Buren,Stockport,HOSPITAL TRUSTEE,,,Lloyd L. Foster,92,75,17
+Van Buren,Birmingham,HOSPITAL TRUSTEE,,,Curtis Lee McIntosh,309,221,88
+Van Buren,Bonaparte,HOSPITAL TRUSTEE,,,Curtis Lee McIntosh,285,221,64
+Van Buren,Cantril,HOSPITAL TRUSTEE,,,Curtis Lee McIntosh,114,83,31
+Van Buren,Douds,HOSPITAL TRUSTEE,,,Curtis Lee McIntosh,211,160,51
+Van Buren,Farmington,HOSPITAL TRUSTEE,,,Curtis Lee McIntosh,239,188,51
+Van Buren,Keosauqua,HOSPITAL TRUSTEE,,,Curtis Lee McIntosh,677,425,252
+Van Buren,Milton,HOSPITAL TRUSTEE,,,Curtis Lee McIntosh,148,115,33
+Van Buren,Stockport,HOSPITAL TRUSTEE,,,Curtis Lee McIntosh,119,95,24
+Van Buren,Birmingham,HOSPITAL TRUSTEE,,,Write-in,8,5,3
+Van Buren,Bonaparte,HOSPITAL TRUSTEE,,,Write-in,24,19,5
+Van Buren,Cantril,HOSPITAL TRUSTEE,,,Write-in,5,2,3
+Van Buren,Douds,HOSPITAL TRUSTEE,,,Write-in,8,3,5
+Van Buren,Farmington,HOSPITAL TRUSTEE,,,Write-in,4,3,1
+Van Buren,Keosauqua,HOSPITAL TRUSTEE,,,Write-in,21,16,5
+Van Buren,Milton,HOSPITAL TRUSTEE,,,Write-in,6,4,2
+Van Buren,Stockport,HOSPITAL TRUSTEE,,,Write-in,5,5,0
+Van Buren,Birmingham,SOIL & WATER COMMISSIONER,,,Rodney Peck,312,221,91
+Van Buren,Bonaparte,SOIL & WATER COMMISSIONER,,,Rodney Peck,300,226,74
+Van Buren,Cantril,SOIL & WATER COMMISSIONER,,,Rodney Peck,114,82,32
+Van Buren,Douds,SOIL & WATER COMMISSIONER,,,Rodney Peck,220,168,52
+Van Buren,Farmington,SOIL & WATER COMMISSIONER,,,Rodney Peck,234,186,48
+Van Buren,Keosauqua,SOIL & WATER COMMISSIONER,,,Rodney Peck,604,379,225
+Van Buren,Milton,SOIL & WATER COMMISSIONER,,,Rodney Peck,149,117,32
+Van Buren,Stockport,SOIL & WATER COMMISSIONER,,,Rodney Peck,123,96,27
+Van Buren,Birmingham,SOIL & WATER COMMISSIONER,,,Jennifer Gardner,277,196,81
+Van Buren,Bonaparte,SOIL & WATER COMMISSIONER,,,Jennifer Gardner,263,199,64
+Van Buren,Cantril,SOIL & WATER COMMISSIONER,,,Jennifer Gardner,89,65,24
+Van Buren,Douds,SOIL & WATER COMMISSIONER,,,Jennifer Gardner,204,157,47
+Van Buren,Farmington,SOIL & WATER COMMISSIONER,,,Jennifer Gardner,219,169,50
+Van Buren,Keosauqua,SOIL & WATER COMMISSIONER,,,Jennifer Gardner,518,322,196
+Van Buren,Milton,SOIL & WATER COMMISSIONER,,,Jennifer Gardner,139,110,29
+Van Buren,Stockport,SOIL & WATER COMMISSIONER,,,Jennifer Gardner,91,74,17
+Van Buren,Birmingham,SOIL & WATER COMMISSIONER,,,Write-in,9,7,2
+Van Buren,Bonaparte,SOIL & WATER COMMISSIONER,,,Write-in,6,6,0
+Van Buren,Cantril,SOIL & WATER COMMISSIONER,,,Write-in,4,0,4
+Van Buren,Douds,SOIL & WATER COMMISSIONER,,,Write-in,10,6,4
+Van Buren,Farmington,SOIL & WATER COMMISSIONER,,,Write-in,2,2,0
+Van Buren,Keosauqua,SOIL & WATER COMMISSIONER,,,Write-in,16,10,6
+Van Buren,Milton,SOIL & WATER COMMISSIONER,,,Write-in,7,5,2
+Van Buren,Stockport,SOIL & WATER COMMISSIONER,,,Write-in,6,6,0
+Van Buren,Birmingham,AG EXTENSION COUNCIL,,,Timothy Gilchrist,255,183,72
+Van Buren,Bonaparte,AG EXTENSION COUNCIL,,,Timothy Gilchrist,176,136,40
+Van Buren,Cantril,AG EXTENSION COUNCIL,,,Timothy Gilchrist,104,71,33
+Van Buren,Douds,AG EXTENSION COUNCIL,,,Timothy Gilchrist,173,127,46
+Van Buren,Farmington,AG EXTENSION COUNCIL,,,Timothy Gilchrist,152,123,29
+Van Buren,Keosauqua,AG EXTENSION COUNCIL,,,Timothy Gilchrist,489,309,180
+Van Buren,Milton,AG EXTENSION COUNCIL,,,Timothy Gilchrist,154,116,38
+Van Buren,Stockport,AG EXTENSION COUNCIL,,,Timothy Gilchrist,82,67,15
+Van Buren,Birmingham,AG EXTENSION COUNCIL,,,Amy Eden,208,155,53
+Van Buren,Bonaparte,AG EXTENSION COUNCIL,,,Amy Eden,317,247,70
+Van Buren,Cantril,AG EXTENSION COUNCIL,,,Amy Eden,93,66,27
+Van Buren,Douds,AG EXTENSION COUNCIL,,,Amy Eden,130,104,26
+Van Buren,Farmington,AG EXTENSION COUNCIL,,,Amy Eden,219,173,46
+Van Buren,Keosauqua,AG EXTENSION COUNCIL,,,Amy Eden,476,308,168
+Van Buren,Milton,AG EXTENSION COUNCIL,,,Amy Eden,101,80,21
+Van Buren,Stockport,AG EXTENSION COUNCIL,,,Amy Eden,87,68,19
+Van Buren,Birmingham,AG EXTENSION COUNCIL,,,Katie Plowman,299,224,75
+Van Buren,Bonaparte,AG EXTENSION COUNCIL,,,Katie Plowman,221,172,49
+Van Buren,Cantril,AG EXTENSION COUNCIL,,,Katie Plowman,99,70,29
+Van Buren,Douds,AG EXTENSION COUNCIL,,,Katie Plowman,220,170,50
+Van Buren,Farmington,AG EXTENSION COUNCIL,,,Katie Plowman,180,145,35
+Van Buren,Keosauqua,AG EXTENSION COUNCIL,,,Katie Plowman,513,317,196
+Van Buren,Milton,AG EXTENSION COUNCIL,,,Katie Plowman,121,97,24
+Van Buren,Stockport,AG EXTENSION COUNCIL,,,Katie Plowman,93,72,21
+Van Buren,Birmingham,AG EXTENSION COUNCIL,,,Will Whitaker,211,152,59
+Van Buren,Bonaparte,AG EXTENSION COUNCIL,,,Will Whitaker,246,185,61
+Van Buren,Cantril,AG EXTENSION COUNCIL,,,Will Whitaker,82,59,23
+Van Buren,Douds,AG EXTENSION COUNCIL,,,Will Whitaker,139,107,32
+Van Buren,Farmington,AG EXTENSION COUNCIL,,,Will Whitaker,203,158,45
+Van Buren,Keosauqua,AG EXTENSION COUNCIL,,,Will Whitaker,456,285,171
+Van Buren,Milton,AG EXTENSION COUNCIL,,,Will Whitaker,101,81,20
+Van Buren,Stockport,AG EXTENSION COUNCIL,,,Will Whitaker,92,71,21
+Van Buren,Birmingham,AG EXTENSION COUNCIL,,,Darrell Kruse,183,130,53
+Van Buren,Bonaparte,AG EXTENSION COUNCIL,,,Darrell Kruse,205,155,50
+Van Buren,Cantril,AG EXTENSION COUNCIL,,,Darrell Kruse,91,63,28
+Van Buren,Douds,AG EXTENSION COUNCIL,,,Darrell Kruse,137,111,26
+Van Buren,Farmington,AG EXTENSION COUNCIL,,,Darrell Kruse,176,142,34
+Van Buren,Keosauqua,AG EXTENSION COUNCIL,,,Darrell Kruse,383,246,137
+Van Buren,Milton,AG EXTENSION COUNCIL,,,Darrell Kruse,117,92,25
+Van Buren,Stockport,AG EXTENSION COUNCIL,,,Darrell Kruse,76,64,12
+Van Buren,Birmingham,AG EXTENSION COUNCIL,,,Twyla Peacock,238,168,70
+Van Buren,Bonaparte,AG EXTENSION COUNCIL,,,Twyla Peacock,208,153,55
+Van Buren,Cantril,AG EXTENSION COUNCIL,,,Twyla Peacock,85,61,24
+Van Buren,Douds,AG EXTENSION COUNCIL,,,Twyla Peacock,173,133,40
+Van Buren,Farmington,AG EXTENSION COUNCIL,,,Twyla Peacock,192,147,45
+Van Buren,Keosauqua,AG EXTENSION COUNCIL,,,Twyla Peacock,474,286,188
+Van Buren,Milton,AG EXTENSION COUNCIL,,,Twyla Peacock,109,91,18
+Van Buren,Stockport,AG EXTENSION COUNCIL,,,Twyla Peacock,71,50,21
+Van Buren,Birmingham,AG EXTENSION COUNCIL,,,Write-in,8,7,1
+Van Buren,Bonaparte,AG EXTENSION COUNCIL,,,Write-in,9,6,3
+Van Buren,Cantril,AG EXTENSION COUNCIL,,,Write-in,6,0,6
+Van Buren,Douds,AG EXTENSION COUNCIL,,,Write-in,12,11,1
+Van Buren,Farmington,AG EXTENSION COUNCIL,,,Write-in,1,1,0
+Van Buren,Keosauqua,AG EXTENSION COUNCIL,,,Write-in,7,7,0
+Van Buren,Milton,AG EXTENSION COUNCIL,,,Write-in,1,0,1
+Van Buren,Stockport,AG EXTENSION COUNCIL,,,Write-in,0,0,0
+Van Buren,Birmingham,Court of Appeals Judge Mary Ellen Tabor,,,Yes,207,139,68
+Van Buren,Bonaparte,Court of Appeals Judge Mary Ellen Tabor,,,Yes,202,155,47
+Van Buren,Cantril,Court of Appeals Judge Mary Ellen Tabor,,,Yes,90,60,30
+Van Buren,Douds,Court of Appeals Judge Mary Ellen Tabor,,,Yes,154,116,38
+Van Buren,Farmington,Court of Appeals Judge Mary Ellen Tabor,,,Yes,173,135,38
+Van Buren,Keosauqua,Court of Appeals Judge Mary Ellen Tabor,,,Yes,441,278,163
+Van Buren,Milton,Court of Appeals Judge Mary Ellen Tabor,,,Yes,97,78,19
+Van Buren,Stockport,Court of Appeals Judge Mary Ellen Tabor,,,Yes,67,54,13
+Van Buren,Birmingham,Court of Appeals Judge Mary Ellen Tabor,,,No,133,104,29
+Van Buren,Bonaparte,Court of Appeals Judge Mary Ellen Tabor,,,No,127,98,29
+Van Buren,Cantril,Court of Appeals Judge Mary Ellen Tabor,,,No,35,28,7
+Van Buren,Douds,Court of Appeals Judge Mary Ellen Tabor,,,No,96,74,22
+Van Buren,Farmington,Court of Appeals Judge Mary Ellen Tabor,,,No,111,90,21
+Van Buren,Keosauqua,Court of Appeals Judge Mary Ellen Tabor,,,No,208,142,66
+Van Buren,Milton,Court of Appeals Judge Mary Ellen Tabor,,,No,67,51,16
+Van Buren,Stockport,Court of Appeals Judge Mary Ellen Tabor,,,No,49,40,9
+Van Buren,Birmingham,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,164,118,46
+Van Buren,Bonaparte,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,153,117,36
+Van Buren,Cantril,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,68,44,24
+Van Buren,Douds,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,112,82,30
+Van Buren,Farmington,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,143,110,33
+Van Buren,Keosauqua,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,358,224,134
+Van Buren,Milton,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,83,65,18
+Van Buren,Stockport,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,48,37,11
+Van Buren,Birmingham,Court of Appeals Judge Anuradha Vaitheswaran,,,No,169,120,49
+Van Buren,Bonaparte,Court of Appeals Judge Anuradha Vaitheswaran,,,No,164,126,38
+Van Buren,Cantril,Court of Appeals Judge Anuradha Vaitheswaran,,,No,49,37,12
+Van Buren,Douds,Court of Appeals Judge Anuradha Vaitheswaran,,,No,132,102,30
+Van Buren,Farmington,Court of Appeals Judge Anuradha Vaitheswaran,,,No,138,113,25
+Van Buren,Keosauqua,Court of Appeals Judge Anuradha Vaitheswaran,,,No,269,181,88
+Van Buren,Milton,Court of Appeals Judge Anuradha Vaitheswaran,,,No,75,59,16
+Van Buren,Stockport,Court of Appeals Judge Anuradha Vaitheswaran,,,No,66,55,11
+Van Buren,Birmingham,Court of Appeals Judge Michael R. Mullins,,,Yes,224,155,69
+Van Buren,Bonaparte,Court of Appeals Judge Michael R. Mullins,,,Yes,199,154,45
+Van Buren,Cantril,Court of Appeals Judge Michael R. Mullins,,,Yes,85,57,28
+Van Buren,Douds,Court of Appeals Judge Michael R. Mullins,,,Yes,152,110,42
+Van Buren,Farmington,Court of Appeals Judge Michael R. Mullins,,,Yes,174,139,35
+Van Buren,Keosauqua,Court of Appeals Judge Michael R. Mullins,,,Yes,456,293,163
+Van Buren,Milton,Court of Appeals Judge Michael R. Mullins,,,Yes,105,80,25
+Van Buren,Stockport,Court of Appeals Judge Michael R. Mullins,,,Yes,64,51,13
+Van Buren,Birmingham,Court of Appeals Judge Michael R. Mullins,,,No,117,88,29
+Van Buren,Bonaparte,Court of Appeals Judge Michael R. Mullins,,,No,125,95,30
+Van Buren,Cantril,Court of Appeals Judge Michael R. Mullins,,,No,35,28,7
+Van Buren,Douds,Court of Appeals Judge Michael R. Mullins,,,No,100,82,18
+Van Buren,Farmington,Court of Appeals Judge Michael R. Mullins,,,No,108,85,23
+Van Buren,Keosauqua,Court of Appeals Judge Michael R. Mullins,,,No,180,118,62
+Van Buren,Milton,Court of Appeals Judge Michael R. Mullins,,,No,57,48,9
+Van Buren,Stockport,Court of Appeals Judge Michael R. Mullins,,,No,50,41,9
+Van Buren,Birmingham,District 8A District Judge Shawn R. Showers,,,Yes,211,146,65
+Van Buren,Bonaparte,District 8A District Judge Shawn R. Showers,,,Yes,195,145,50
+Van Buren,Cantril,District 8A District Judge Shawn R. Showers,,,Yes,82,55,27
+Van Buren,Douds,District 8A District Judge Shawn R. Showers,,,Yes,141,104,37
+Van Buren,Farmington,District 8A District Judge Shawn R. Showers,,,Yes,160,127,33
+Van Buren,Keosauqua,District 8A District Judge Shawn R. Showers,,,Yes,418,263,155
+Van Buren,Milton,District 8A District Judge Shawn R. Showers,,,Yes,108,83,25
+Van Buren,Stockport,District 8A District Judge Shawn R. Showers,,,Yes,56,45,11
+Van Buren,Birmingham,District 8A District Judge Shawn R. Showers,,,No,125,91,34
+Van Buren,Bonaparte,District 8A District Judge Shawn R. Showers,,,No,126,101,25
+Van Buren,Cantril,District 8A District Judge Shawn R. Showers,,,No,39,31,8
+Van Buren,Douds,District 8A District Judge Shawn R. Showers,,,No,102,81,21
+Van Buren,Farmington,District 8A District Judge Shawn R. Showers,,,No,119,96,23
+Van Buren,Keosauqua,District 8A District Judge Shawn R. Showers,,,No,206,141,65
+Van Buren,Milton,District 8A District Judge Shawn R. Showers,,,No,57,47,10
+Van Buren,Stockport,District 8A District Judge Shawn R. Showers,,,No,56,46,10
+Van Buren,Birmingham,District 8A District Judge Crystal S. Cronk,,,Yes,302,206,96
+Van Buren,Bonaparte,District 8A District Judge Crystal S. Cronk,,,Yes,252,186,66
+Van Buren,Cantril,District 8A District Judge Crystal S. Cronk,,,Yes,117,86,31
+Van Buren,Douds,District 8A District Judge Crystal S. Cronk,,,Yes,223,173,50
+Van Buren,Farmington,District 8A District Judge Crystal S. Cronk,,,Yes,188,150,38
+Van Buren,Keosauqua,District 8A District Judge Crystal S. Cronk,,,Yes,606,379,227
+Van Buren,Milton,District 8A District Judge Crystal S. Cronk,,,Yes,127,98,29
+Van Buren,Stockport,District 8A District Judge Crystal S. Cronk,,,Yes,92,78,14
+Van Buren,Birmingham,District 8A District Judge Crystal S. Cronk,,,No,81,66,15
+Van Buren,Bonaparte,District 8A District Judge Crystal S. Cronk,,,No,101,80,21
+Van Buren,Cantril,District 8A District Judge Crystal S. Cronk,,,No,23,16,7
+Van Buren,Douds,District 8A District Judge Crystal S. Cronk,,,No,55,41,14
+Van Buren,Farmington,District 8A District Judge Crystal S. Cronk,,,No,111,87,24
+Van Buren,Keosauqua,District 8A District Judge Crystal S. Cronk,,,No,115,75,40
+Van Buren,Milton,District 8A District Judge Crystal S. Cronk,,,No,54,46,8
+Van Buren,Stockport,District 8A District Judge Crystal S. Cronk,,,No,33,26,7
+Van Buren,Birmingham,District 8A District Judge Lucy J. Gamon,,,Yes,217,148,69
+Van Buren,Bonaparte,District 8A District Judge Lucy J. Gamon,,,Yes,199,146,53
+Van Buren,Cantril,District 8A District Judge Lucy J. Gamon,,,Yes,81,55,26
+Van Buren,Douds,District 8A District Judge Lucy J. Gamon,,,Yes,145,110,35
+Van Buren,Farmington,District 8A District Judge Lucy J. Gamon,,,Yes,163,126,37
+Van Buren,Keosauqua,District 8A District Judge Lucy J. Gamon,,,Yes,430,273,157
+Van Buren,Milton,District 8A District Judge Lucy J. Gamon,,,Yes,109,85,24
+Van Buren,Stockport,District 8A District Judge Lucy J. Gamon,,,Yes,62,48,14
+Van Buren,Birmingham,District 8A District Judge Lucy J. Gamon,,,No,125,99,26
+Van Buren,Bonaparte,District 8A District Judge Lucy J. Gamon,,,No,126,102,24
+Van Buren,Cantril,District 8A District Judge Lucy J. Gamon,,,No,38,28,10
+Van Buren,Douds,District 8A District Judge Lucy J. Gamon,,,No,102,79,23
+Van Buren,Farmington,District 8A District Judge Lucy J. Gamon,,,No,117,95,22
+Van Buren,Keosauqua,District 8A District Judge Lucy J. Gamon,,,No,200,134,66
+Van Buren,Milton,District 8A District Judge Lucy J. Gamon,,,No,55,44,11
+Van Buren,Stockport,District 8A District Judge Lucy J. Gamon,,,No,48,41,7
+Van Buren,Birmingham,District 8A District Judge Myron Gookin,,,Yes,275,198,77
+Van Buren,Bonaparte,District 8A District Judge Myron Gookin,,,Yes,195,144,51
+Van Buren,Cantril,District 8A District Judge Myron Gookin,,,Yes,88,58,30
+Van Buren,Douds,District 8A District Judge Myron Gookin,,,Yes,172,129,43
+Van Buren,Farmington,District 8A District Judge Myron Gookin,,,Yes,166,134,32
+Van Buren,Keosauqua,District 8A District Judge Myron Gookin,,,Yes,481,299,182
+Van Buren,Milton,District 8A District Judge Myron Gookin,,,Yes,116,88,28
+Van Buren,Stockport,District 8A District Judge Myron Gookin,,,Yes,75,62,13
+Van Buren,Birmingham,District 8A District Judge Myron Gookin,,,No,91,61,30
+Van Buren,Bonaparte,District 8A District Judge Myron Gookin,,,No,134,105,29
+Van Buren,Cantril,District 8A District Judge Myron Gookin,,,No,37,30,7
+Van Buren,Douds,District 8A District Judge Myron Gookin,,,No,89,70,19
+Van Buren,Farmington,District 8A District Judge Myron Gookin,,,No,115,90,25
+Van Buren,Keosauqua,District 8A District Judge Myron Gookin,,,No,177,120,57
+Van Buren,Milton,District 8A District Judge Myron Gookin,,,No,49,42,7
+Van Buren,Stockport,District 8A District Judge Myron Gookin,,,No,43,33,10
+Van Buren,Birmingham,District 8A District Associate Judge Daniel P. Kitchen,,,Yes,234,165,69
+Van Buren,Bonaparte,District 8A District Associate Judge Daniel P. Kitchen,,,Yes,216,163,53
+Van Buren,Cantril,District 8A District Associate Judge Daniel P. Kitchen,,,Yes,90,60,30
+Van Buren,Douds,District 8A District Associate Judge Daniel P. Kitchen,,,Yes,162,119,43
+Van Buren,Farmington,District 8A District Associate Judge Daniel P. Kitchen,,,Yes,177,138,39
+Van Buren,Keosauqua,District 8A District Associate Judge Daniel P. Kitchen,,,Yes,462,301,161
+Van Buren,Milton,District 8A District Associate Judge Daniel P. Kitchen,,,Yes,115,87,28
+Van Buren,Stockport,District 8A District Associate Judge Daniel P. Kitchen,,,Yes,69,54,15
+Van Buren,Birmingham,District 8A District Associate Judge Daniel P. Kitchen,,,No,109,79,30
+Van Buren,Bonaparte,District 8A District Associate Judge Daniel P. Kitchen,,,No,112,90,22
+Van Buren,Cantril,District 8A District Associate Judge Daniel P. Kitchen,,,No,36,30,6
+Van Buren,Douds,District 8A District Associate Judge Daniel P. Kitchen,,,No,86,70,16
+Van Buren,Farmington,District 8A District Associate Judge Daniel P. Kitchen,,,No,107,88,19
+Van Buren,Keosauqua,District 8A District Associate Judge Daniel P. Kitchen,,,No,178,114,64
+Van Buren,Milton,District 8A District Associate Judge Daniel P. Kitchen,,,No,51,43,8
+Van Buren,Stockport,District 8A District Associate Judge Daniel P. Kitchen,,,No,48,40,8

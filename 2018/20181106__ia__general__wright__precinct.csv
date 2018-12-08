@@ -1,0 +1,765 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Wright,Belmond,United States Representative District 4,,REP,Steve King,669,432,237
+Wright,Clarion,United States Representative District 4,,REP,Steve King,499,302,197
+Wright,Big 6,United States Representative District 4,,REP,Steve King,340,172,168
+Wright,Dows,United States Representative District 4,,REP,Steve King,166,116,50
+Wright,Eagle Grove #1,United States Representative District 4,,REP,Steve King,88,63,25
+Wright,Eagle Grove #2,United States Representative District 4,,REP,Steve King,136,73,63
+Wright,Eagle Grove #3,United States Representative District 4,,REP,Steve King,193,129,64
+Wright,Eagle Grove #4,United States Representative District 4,,REP,Steve King,122,82,40
+Wright,Rural Eagle Grove,United States Representative District 4,,REP,Steve King,219,123,96
+Wright,Goldfield,United States Representative District 4,,REP,Steve King,218,149,69
+Wright,Belmond,United States Representative District 4,,DEM,J.D. Scholten,650,398,252
+Wright,Clarion,United States Representative District 4,,DEM,J.D. Scholten,395,234,161
+Wright,Big 6,United States Representative District 4,,DEM,J.D. Scholten,202,110,92
+Wright,Dows,United States Representative District 4,,DEM,J.D. Scholten,130,88,42
+Wright,Eagle Grove #1,United States Representative District 4,,DEM,J.D. Scholten,113,86,27
+Wright,Eagle Grove #2,United States Representative District 4,,DEM,J.D. Scholten,99,72,27
+Wright,Eagle Grove #3,United States Representative District 4,,DEM,J.D. Scholten,135,101,34
+Wright,Eagle Grove #4,United States Representative District 4,,DEM,J.D. Scholten,131,96,35
+Wright,Rural Eagle Grove,United States Representative District 4,,DEM,J.D. Scholten,101,64,37
+Wright,Goldfield,United States Representative District 4,,DEM,J.D. Scholten,129,95,34
+Wright,Belmond,United States Representative District 4,,LIB,Charles Aldrich,34,25,9
+Wright,Clarion,United States Representative District 4,,LIB,Charles Aldrich,33,25,8
+Wright,Big 6,United States Representative District 4,,LIB,Charles Aldrich,3,2,1
+Wright,Dows,United States Representative District 4,,LIB,Charles Aldrich,11,9,2
+Wright,Eagle Grove #1,United States Representative District 4,,LIB,Charles Aldrich,7,5,2
+Wright,Eagle Grove #2,United States Representative District 4,,LIB,Charles Aldrich,4,4,0
+Wright,Eagle Grove #3,United States Representative District 4,,LIB,Charles Aldrich,12,10,2
+Wright,Eagle Grove #4,United States Representative District 4,,LIB,Charles Aldrich,9,7,2
+Wright,Rural Eagle Grove,United States Representative District 4,,LIB,Charles Aldrich,6,4,2
+Wright,Goldfield,United States Representative District 4,,LIB,Charles Aldrich,4,3,1
+Wright,Belmond,United States Representative District 4,,,Edward Peterson,7,5,2
+Wright,Clarion,United States Representative District 4,,,Edward Peterson,9,3,6
+Wright,Big 6,United States Representative District 4,,,Edward Peterson,1,1,0
+Wright,Dows,United States Representative District 4,,,Edward Peterson,1,1,0
+Wright,Eagle Grove #1,United States Representative District 4,,,Edward Peterson,1,0,1
+Wright,Eagle Grove #2,United States Representative District 4,,,Edward Peterson,0,0,0
+Wright,Eagle Grove #3,United States Representative District 4,,,Edward Peterson,4,2,2
+Wright,Eagle Grove #4,United States Representative District 4,,,Edward Peterson,1,1,0
+Wright,Rural Eagle Grove,United States Representative District 4,,,Edward Peterson,1,1,0
+Wright,Goldfield,United States Representative District 4,,,Edward Peterson,1,1,0
+Wright,Belmond,United States Representative District 4,,,Write-in,0,0,0
+Wright,Clarion,United States Representative District 4,,,Write-in,1,1,0
+Wright,Big 6,United States Representative District 4,,,Write-in,0,0,0
+Wright,Dows,United States Representative District 4,,,Write-in,0,0,0
+Wright,Eagle Grove #1,United States Representative District 4,,,Write-in,0,0,0
+Wright,Eagle Grove #2,United States Representative District 4,,,Write-in,0,0,0
+Wright,Eagle Grove #3,United States Representative District 4,,,Write-in,0,0,0
+Wright,Eagle Grove #4,United States Representative District 4,,,Write-in,0,0,0
+Wright,Rural Eagle Grove,United States Representative District 4,,,Write-in,0,0,0
+Wright,Goldfield,United States Representative District 4,,,Write-in,1,0,1
+Wright,Belmond,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,786,526,260
+Wright,Clarion,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,569,361,208
+Wright,Big 6,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,383,200,183
+Wright,Dows,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,191,140,51
+Wright,Eagle Grove #1,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,103,76,27
+Wright,Eagle Grove #2,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,146,86,60
+Wright,Eagle Grove #3,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,224,149,75
+Wright,Eagle Grove #4,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,147,101,46
+Wright,Rural Eagle Grove,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,245,144,101
+Wright,Goldfield,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,255,178,77
+Wright,Belmond,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,569,332,237
+Wright,Clarion,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,355,194,161
+Wright,Big 6,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,159,78,81
+Wright,Dows,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,117,74,43
+Wright,Eagle Grove #1,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,103,74,29
+Wright,Eagle Grove #2,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,89,61,28
+Wright,Eagle Grove #3,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,117,90,27
+Wright,Eagle Grove #4,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,111,79,32
+Wright,Rural Eagle Grove,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,75,42,33
+Wright,Goldfield,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,93,65,28
+Wright,Belmond,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,18,12,6
+Wright,Clarion,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,16,13,3
+Wright,Big 6,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,3,3,0
+Wright,Dows,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,3,3,0
+Wright,Eagle Grove #1,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,4,4,0
+Wright,Eagle Grove #2,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,4,3,1
+Wright,Eagle Grove #3,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,6,5,1
+Wright,Eagle Grove #4,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,5,5,0
+Wright,Rural Eagle Grove,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,6,5,1
+Wright,Goldfield,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,5,4,1
+Wright,Belmond,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,9,5,4
+Wright,Clarion,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,12,7,5
+Wright,Big 6,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,6,5,1
+Wright,Dows,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,0,0,0
+Wright,Eagle Grove #1,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,1,1,0
+Wright,Eagle Grove #2,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,0,0,0
+Wright,Eagle Grove #3,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,2,1
+Wright,Eagle Grove #4,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,2,2,0
+Wright,Rural Eagle Grove,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,1,1,0
+Wright,Goldfield,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,5,4,1
+Wright,Belmond,Governor/Lieutenant Governor,,,Write-in,1,0,1
+Wright,Clarion,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Wright,Big 6,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Wright,Dows,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Wright,Eagle Grove #1,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Wright,Eagle Grove #2,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Wright,Eagle Grove #3,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Wright,Eagle Grove #4,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Wright,Rural Eagle Grove,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Wright,Goldfield,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Wright,Belmond,Secretary of State,,REP,Paul D. Pate,816,539,277
+Wright,Clarion,Secretary of State,,REP,Paul D. Pate,604,380,224
+Wright,Big 6,Secretary of State,,REP,Paul D. Pate,391,200,191
+Wright,Dows,Secretary of State,,REP,Paul D. Pate,189,134,55
+Wright,Eagle Grove #1,Secretary of State,,REP,Paul D. Pate,110,79,31
+Wright,Eagle Grove #2,Secretary of State,,REP,Paul D. Pate,156,91,65
+Wright,Eagle Grove #3,Secretary of State,,REP,Paul D. Pate,233,163,70
+Wright,Eagle Grove #4,Secretary of State,,REP,Paul D. Pate,159,110,49
+Wright,Rural Eagle Grove,Secretary of State,,REP,Paul D. Pate,249,146,103
+Wright,Goldfield,Secretary of State,,REP,Paul D. Pate,258,181,77
+Wright,Belmond,Secretary of State,,DEM,Deidre DeJear,508,300,208
+Wright,Clarion,Secretary of State,,DEM,Deidre DeJear,301,163,138
+Wright,Big 6,Secretary of State,,DEM,Deidre DeJear,140,76,64
+Wright,Dows,Secretary of State,,DEM,Deidre DeJear,112,73,39
+Wright,Eagle Grove #1,Secretary of State,,DEM,Deidre DeJear,91,69,22
+Wright,Eagle Grove #2,Secretary of State,,DEM,Deidre DeJear,79,55,24
+Wright,Eagle Grove #3,Secretary of State,,DEM,Deidre DeJear,98,69,29
+Wright,Eagle Grove #4,Secretary of State,,DEM,Deidre DeJear,97,70,27
+Wright,Rural Eagle Grove,Secretary of State,,DEM,Deidre DeJear,69,39,30
+Wright,Goldfield,Secretary of State,,DEM,Deidre DeJear,83,59,24
+Wright,Belmond,Secretary of State,,LIB,Jules Ofenbakh,23,16,7
+Wright,Clarion,Secretary of State,,LIB,Jules Ofenbakh,17,14,3
+Wright,Big 6,Secretary of State,,LIB,Jules Ofenbakh,8,4,4
+Wright,Dows,Secretary of State,,LIB,Jules Ofenbakh,5,5,0
+Wright,Eagle Grove #1,Secretary of State,,LIB,Jules Ofenbakh,6,6,0
+Wright,Eagle Grove #2,Secretary of State,,LIB,Jules Ofenbakh,5,4,1
+Wright,Eagle Grove #3,Secretary of State,,LIB,Jules Ofenbakh,11,8,3
+Wright,Eagle Grove #4,Secretary of State,,LIB,Jules Ofenbakh,7,6,1
+Wright,Rural Eagle Grove,Secretary of State,,LIB,Jules Ofenbakh,9,7,2
+Wright,Goldfield,Secretary of State,,LIB,Jules Ofenbakh,8,6,2
+Wright,Belmond,Secretary of State,,,Write-in,0,0,0
+Wright,Clarion,Secretary of State,,,Write-in,0,0,0
+Wright,Big 6,Secretary of State,,,Write-in,1,0,1
+Wright,Dows,Secretary of State,,,Write-in,0,0,0
+Wright,Eagle Grove #1,Secretary of State,,,Write-in,0,0,0
+Wright,Eagle Grove #2,Secretary of State,,,Write-in,0,0,0
+Wright,Eagle Grove #3,Secretary of State,,,Write-in,0,0,0
+Wright,Eagle Grove #4,Secretary of State,,,Write-in,0,0,0
+Wright,Rural Eagle Grove,Secretary of State,,,Write-in,0,0,0
+Wright,Goldfield,Secretary of State,,,Write-in,0,0,0
+Wright,Belmond,Auditor of State,,REP,Mary Mosiman,757,503,254
+Wright,Clarion,Auditor of State,,REP,Mary Mosiman,521,337,184
+Wright,Big 6,Auditor of State,,REP,Mary Mosiman,348,182,166
+Wright,Dows,Auditor of State,,REP,Mary Mosiman,169,120,49
+Wright,Eagle Grove #1,Auditor of State,,REP,Mary Mosiman,90,67,23
+Wright,Eagle Grove #2,Auditor of State,,REP,Mary Mosiman,134,78,56
+Wright,Eagle Grove #3,Auditor of State,,REP,Mary Mosiman,199,136,63
+Wright,Eagle Grove #4,Auditor of State,,REP,Mary Mosiman,137,95,42
+Wright,Rural Eagle Grove,Auditor of State,,REP,Mary Mosiman,228,131,97
+Wright,Goldfield,Auditor of State,,REP,Mary Mosiman,229,162,67
+Wright,Belmond,Auditor of State,,DEM,Rob Sand,562,324,238
+Wright,Clarion,Auditor of State,,DEM,Rob Sand,381,202,179
+Wright,Big 6,Auditor of State,,DEM,Rob Sand,184,92,92
+Wright,Dows,Auditor of State,,DEM,Rob Sand,130,86,44
+Wright,Eagle Grove #1,Auditor of State,,DEM,Rob Sand,109,79,30
+Wright,Eagle Grove #2,Auditor of State,,DEM,Rob Sand,100,67,33
+Wright,Eagle Grove #3,Auditor of State,,DEM,Rob Sand,128,91,37
+Wright,Eagle Grove #4,Auditor of State,,DEM,Rob Sand,113,78,35
+Wright,Rural Eagle Grove,Auditor of State,,DEM,Rob Sand,90,54,36
+Wright,Goldfield,Auditor of State,,DEM,Rob Sand,109,75,34
+Wright,Belmond,Auditor of State,,LIB,Fred Perryman,21,16,5
+Wright,Clarion,Auditor of State,,LIB,Fred Perryman,22,19,3
+Wright,Big 6,Auditor of State,,LIB,Fred Perryman,9,4,5
+Wright,Dows,Auditor of State,,LIB,Fred Perryman,9,8,1
+Wright,Eagle Grove #1,Auditor of State,,LIB,Fred Perryman,6,5,1
+Wright,Eagle Grove #2,Auditor of State,,LIB,Fred Perryman,4,4,0
+Wright,Eagle Grove #3,Auditor of State,,LIB,Fred Perryman,12,10,2
+Wright,Eagle Grove #4,Auditor of State,,LIB,Fred Perryman,9,9,0
+Wright,Rural Eagle Grove,Auditor of State,,LIB,Fred Perryman,9,6,3
+Wright,Goldfield,Auditor of State,,LIB,Fred Perryman,7,5,2
+Wright,Belmond,Auditor of State,,,Write-in,0,0,0
+Wright,Clarion,Auditor of State,,,Write-in,0,0,0
+Wright,Big 6,Auditor of State,,,Write-in,0,0,0
+Wright,Dows,Auditor of State,,,Write-in,0,0,0
+Wright,Eagle Grove #1,Auditor of State,,,Write-in,1,1,0
+Wright,Eagle Grove #2,Auditor of State,,,Write-in,0,0,0
+Wright,Eagle Grove #3,Auditor of State,,,Write-in,0,0,0
+Wright,Eagle Grove #4,Auditor of State,,,Write-in,0,0,0
+Wright,Rural Eagle Grove,Auditor of State,,,Write-in,0,0,0
+Wright,Goldfield,Auditor of State,,,Write-in,0,0,0
+Wright,Belmond,Treasurer of State,,REP,Jeremy N. Davis,657,446,211
+Wright,Clarion,Treasurer of State,,REP,Jeremy N. Davis,468,299,169
+Wright,Big 6,Treasurer of State,,REP,Jeremy N. Davis,304,155,149
+Wright,Dows,Treasurer of State,,REP,Jeremy N. Davis,142,103,39
+Wright,Eagle Grove #1,Treasurer of State,,REP,Jeremy N. Davis,77,56,21
+Wright,Eagle Grove #2,Treasurer of State,,REP,Jeremy N. Davis,127,74,53
+Wright,Eagle Grove #3,Treasurer of State,,REP,Jeremy N. Davis,185,126,59
+Wright,Eagle Grove #4,Treasurer of State,,REP,Jeremy N. Davis,123,85,38
+Wright,Rural Eagle Grove,Treasurer of State,,REP,Jeremy N. Davis,211,122,89
+Wright,Goldfield,Treasurer of State,,REP,Jeremy N. Davis,202,138,64
+Wright,Belmond,Treasurer of State,,DEM,Michael L. Fitzgerald,657,377,280
+Wright,Clarion,Treasurer of State,,DEM,Michael L. Fitzgerald,426,237,189
+Wright,Big 6,Treasurer of State,,DEM,Michael L. Fitzgerald,223,118,105
+Wright,Dows,Treasurer of State,,DEM,Michael L. Fitzgerald,151,97,54
+Wright,Eagle Grove #1,Treasurer of State,,DEM,Michael L. Fitzgerald,122,92,30
+Wright,Eagle Grove #2,Treasurer of State,,DEM,Michael L. Fitzgerald,105,71,34
+Wright,Eagle Grove #3,Treasurer of State,,DEM,Michael L. Fitzgerald,145,106,39
+Wright,Eagle Grove #4,Treasurer of State,,DEM,Michael L. Fitzgerald,124,88,36
+Wright,Rural Eagle Grove,Treasurer of State,,DEM,Michael L. Fitzgerald,110,65,45
+Wright,Goldfield,Treasurer of State,,DEM,Michael L. Fitzgerald,139,100,39
+Wright,Belmond,Treasurer of State,,LIB,Timothy Hird,25,19,6
+Wright,Clarion,Treasurer of State,,LIB,Timothy Hird,25,17,8
+Wright,Big 6,Treasurer of State,,LIB,Timothy Hird,6,3,3
+Wright,Dows,Treasurer of State,,LIB,Timothy Hird,12,12,0
+Wright,Eagle Grove #1,Treasurer of State,,LIB,Timothy Hird,9,5,4
+Wright,Eagle Grove #2,Treasurer of State,,LIB,Timothy Hird,5,5,0
+Wright,Eagle Grove #3,Treasurer of State,,LIB,Timothy Hird,9,6,3
+Wright,Eagle Grove #4,Treasurer of State,,LIB,Timothy Hird,12,10,2
+Wright,Rural Eagle Grove,Treasurer of State,,LIB,Timothy Hird,7,5,2
+Wright,Goldfield,Treasurer of State,,LIB,Timothy Hird,6,5,1
+Wright,Belmond,Treasurer of State,,,Write-in,0,0,0
+Wright,Clarion,Treasurer of State,,,Write-in,0,0,0
+Wright,Big 6,Treasurer of State,,,Write-in,1,0,1
+Wright,Dows,Treasurer of State,,,Write-in,0,0,0
+Wright,Eagle Grove #1,Treasurer of State,,,Write-in,0,0,0
+Wright,Eagle Grove #2,Treasurer of State,,,Write-in,0,0,0
+Wright,Eagle Grove #3,Treasurer of State,,,Write-in,0,0,0
+Wright,Eagle Grove #4,Treasurer of State,,,Write-in,0,0,0
+Wright,Rural Eagle Grove,Treasurer of State,,,Write-in,0,0,0
+Wright,Goldfield,Treasurer of State,,,Write-in,0,0,0
+Wright,Belmond,Secretary of Agriculture,,REP,Mike Naig,785,524,261
+Wright,Clarion,Secretary of Agriculture,,REP,Mike Naig,601,384,217
+Wright,Big 6,Secretary of Agriculture,,REP,Mike Naig,390,209,181
+Wright,Dows,Secretary of Agriculture,,REP,Mike Naig,188,131,57
+Wright,Eagle Grove #1,Secretary of Agriculture,,REP,Mike Naig,99,75,24
+Wright,Eagle Grove #2,Secretary of Agriculture,,REP,Mike Naig,150,86,64
+Wright,Eagle Grove #3,Secretary of Agriculture,,REP,Mike Naig,227,156,71
+Wright,Eagle Grove #4,Secretary of Agriculture,,REP,Mike Naig,154,107,47
+Wright,Rural Eagle Grove,Secretary of Agriculture,,REP,Mike Naig,240,140,100
+Wright,Goldfield,Secretary of Agriculture,,REP,Mike Naig,245,171,74
+Wright,Belmond,Secretary of Agriculture,,DEM,Tim Gannon,521,298,223
+Wright,Clarion,Secretary of Agriculture,,DEM,Tim Gannon,298,158,140
+Wright,Big 6,Secretary of Agriculture,,DEM,Tim Gannon,150,70,80
+Wright,Dows,Secretary of Agriculture,,DEM,Tim Gannon,113,78,35
+Wright,Eagle Grove #1,Secretary of Agriculture,,DEM,Tim Gannon,96,70,26
+Wright,Eagle Grove #2,Secretary of Agriculture,,DEM,Tim Gannon,80,56,24
+Wright,Eagle Grove #3,Secretary of Agriculture,,DEM,Tim Gannon,104,75,29
+Wright,Eagle Grove #4,Secretary of Agriculture,,DEM,Tim Gannon,94,66,28
+Wright,Rural Eagle Grove,Secretary of Agriculture,,DEM,Tim Gannon,80,47,33
+Wright,Goldfield,Secretary of Agriculture,,DEM,Tim Gannon,86,62,24
+Wright,Belmond,Secretary of Agriculture,,LIB,Rick Stewart,35,25,10
+Wright,Clarion,Secretary of Agriculture,,LIB,Rick Stewart,26,18,8
+Wright,Big 6,Secretary of Agriculture,,LIB,Rick Stewart,5,3,2
+Wright,Dows,Secretary of Agriculture,,LIB,Rick Stewart,8,7,1
+Wright,Eagle Grove #1,Secretary of Agriculture,,LIB,Rick Stewart,12,8,4
+Wright,Eagle Grove #2,Secretary of Agriculture,,LIB,Rick Stewart,7,7,0
+Wright,Eagle Grove #3,Secretary of Agriculture,,LIB,Rick Stewart,13,9,4
+Wright,Eagle Grove #4,Secretary of Agriculture,,LIB,Rick Stewart,12,11,1
+Wright,Rural Eagle Grove,Secretary of Agriculture,,LIB,Rick Stewart,7,7,0
+Wright,Goldfield,Secretary of Agriculture,,LIB,Rick Stewart,12,8,4
+Wright,Belmond,Secretary of Agriculture,,,Write-in,2,0,2
+Wright,Clarion,Secretary of Agriculture,,,Write-in,0,0,0
+Wright,Big 6,Secretary of Agriculture,,,Write-in,1,1,0
+Wright,Dows,Secretary of Agriculture,,,Write-in,0,0,0
+Wright,Eagle Grove #1,Secretary of Agriculture,,,Write-in,0,0,0
+Wright,Eagle Grove #2,Secretary of Agriculture,,,Write-in,0,0,0
+Wright,Eagle Grove #3,Secretary of Agriculture,,,Write-in,0,0,0
+Wright,Eagle Grove #4,Secretary of Agriculture,,,Write-in,0,0,0
+Wright,Rural Eagle Grove,Secretary of Agriculture,,,Write-in,1,0,1
+Wright,Goldfield,Secretary of Agriculture,,,Write-in,0,0,0
+Wright,Belmond,Attorney General,,DEM,Tom Miller,925,557,368
+Wright,Clarion,Attorney General,,DEM,Tom Miller,624,366,258
+Wright,Big 6,Attorney General,,DEM,Tom Miller,341,174,167
+Wright,Dows,Attorney General,,DEM,Tom Miller,212,146,66
+Wright,Eagle Grove #1,Attorney General,,DEM,Tom Miller,152,112,40
+Wright,Eagle Grove #2,Attorney General,,DEM,Tom Miller,153,97,56
+Wright,Eagle Grove #3,Attorney General,,DEM,Tom Miller,240,169,71
+Wright,Eagle Grove #4,Attorney General,,DEM,Tom Miller,184,130,54
+Wright,Rural Eagle Grove,Attorney General,,DEM,Tom Miller,184,108,76
+Wright,Goldfield,Attorney General,,DEM,Tom Miller,204,143,61
+Wright,Belmond,Attorney General,,LIB,Marco Battaglia,249,171,78
+Wright,Clarion,Attorney General,,LIB,Marco Battaglia,165,116,49
+Wright,Big 6,Attorney General,,LIB,Marco Battaglia,103,64,39
+Wright,Dows,Attorney General,,LIB,Marco Battaglia,59,44,15
+Wright,Eagle Grove #1,Attorney General,,LIB,Marco Battaglia,33,22,11
+Wright,Eagle Grove #2,Attorney General,,LIB,Marco Battaglia,55,38,17
+Wright,Eagle Grove #3,Attorney General,,LIB,Marco Battaglia,74,51,23
+Wright,Eagle Grove #4,Attorney General,,LIB,Marco Battaglia,49,35,14
+Wright,Rural Eagle Grove,Attorney General,,LIB,Marco Battaglia,95,63,32
+Wright,Goldfield,Attorney General,,LIB,Marco Battaglia,81,54,27
+Wright,Belmond,Attorney General,,,Write-in,8,6,2
+Wright,Clarion,Attorney General,,,Write-in,4,3,1
+Wright,Big 6,Attorney General,,,Write-in,5,2,3
+Wright,Dows,Attorney General,,,Write-in,3,3,0
+Wright,Eagle Grove #1,Attorney General,,,Write-in,6,6,0
+Wright,Eagle Grove #2,Attorney General,,,Write-in,2,1,1
+Wright,Eagle Grove #3,Attorney General,,,Write-in,3,1,2
+Wright,Eagle Grove #4,Attorney General,,,Write-in,1,1,0
+Wright,Rural Eagle Grove,Attorney General,,,Write-in,2,2,0
+Wright,Goldfield,Attorney General,,,Write-in,2,1,1
+Wright,Belmond,State Representative District 8,,REP,Terry Baxter,800,545,255
+Wright,Clarion,State Representative District 8,,REP,Terry Baxter,604,392,212
+Wright,Big 6,State Representative District 8,,REP,Terry Baxter,394,209,185
+Wright,Dows,State Representative District 8,,REP,Terry Baxter,195,144,51
+Wright,Eagle Grove #1,State Representative District 8,,REP,Terry Baxter,103,75,28
+Wright,Eagle Grove #2,State Representative District 8,,REP,Terry Baxter,157,92,65
+Wright,Eagle Grove #3,State Representative District 8,,REP,Terry Baxter,224,153,71
+Wright,Eagle Grove #4,State Representative District 8,,REP,Terry Baxter,154,111,43
+Wright,Rural Eagle Grove,State Representative District 8,,REP,Terry Baxter,243,142,101
+Wright,Goldfield,State Representative District 8,,REP,Terry Baxter,257,181,76
+Wright,Belmond,State Representative District 8,,DEM,Connie Price,531,293,238
+Wright,Clarion,State Representative District 8,,DEM,Connie Price,311,157,154
+Wright,Big 6,State Representative District 8,,DEM,Connie Price,148,72,76
+Wright,Dows,State Representative District 8,,DEM,Connie Price,112,70,42
+Wright,Eagle Grove #1,State Representative District 8,,DEM,Connie Price,101,75,26
+Wright,Eagle Grove #2,State Representative District 8,,DEM,Connie Price,79,55,24
+Wright,Eagle Grove #3,State Representative District 8,,DEM,Connie Price,119,88,31
+Wright,Eagle Grove #4,State Representative District 8,,DEM,Connie Price,104,71,33
+Wright,Rural Eagle Grove,State Representative District 8,,DEM,Connie Price,79,46,33
+Wright,Goldfield,State Representative District 8,,DEM,Connie Price,83,58,25
+Wright,Belmond,State Representative District 8,,,Write-in,0,0,0
+Wright,Clarion,State Representative District 8,,,Write-in,0,0,0
+Wright,Big 6,State Representative District 8,,,Write-in,1,0,1
+Wright,Dows,State Representative District 8,,,Write-in,0,0,0
+Wright,Eagle Grove #1,State Representative District 8,,,Write-in,0,0,0
+Wright,Eagle Grove #2,State Representative District 8,,,Write-in,0,0,0
+Wright,Eagle Grove #3,State Representative District 8,,,Write-in,0,0,0
+Wright,Eagle Grove #4,State Representative District 8,,,Write-in,0,0,0
+Wright,Rural Eagle Grove,State Representative District 8,,,Write-in,0,0,0
+Wright,Goldfield,State Representative District 8,,,Write-in,0,0,0
+Wright,Belmond,County Supervisor Dist. 2,,REP,Dean Kluss,1079,689,390
+Wright,Clarion,County Supervisor Dist. 2,,REP,Dean Kluss,816,511,305
+Wright,Big 6,County Supervisor Dist. 2,,REP,Dean Kluss,487,254,233
+Wright,Dows,County Supervisor Dist. 2,,REP,Dean Kluss,257,184,73
+Wright,Eagle Grove #1,County Supervisor Dist. 2,,REP,Dean Kluss,173,132,41
+Wright,Eagle Grove #2,County Supervisor Dist. 2,,REP,Dean Kluss,191,120,71
+Wright,Eagle Grove #3,County Supervisor Dist. 2,,REP,Dean Kluss,298,211,87
+Wright,Eagle Grove #4,County Supervisor Dist. 2,,REP,Dean Kluss,223,162,61
+Wright,Rural Eagle Grove,County Supervisor Dist. 2,,REP,Dean Kluss,291,176,115
+Wright,Goldfield,County Supervisor Dist. 2,,REP,Dean Kluss,302,204,98
+Wright,Belmond,County Supervisor Dist. 2,,,Write-in,37,20,17
+Wright,Clarion,County Supervisor Dist. 2,,,Write-in,15,10,5
+Wright,Big 6,County Supervisor Dist. 2,,,Write-in,8,4,4
+Wright,Dows,County Supervisor Dist. 2,,,Write-in,5,2,3
+Wright,Eagle Grove #1,County Supervisor Dist. 2,,,Write-in,3,2,1
+Wright,Eagle Grove #2,County Supervisor Dist. 2,,,Write-in,4,2,2
+Wright,Eagle Grove #3,County Supervisor Dist. 2,,,Write-in,3,2,1
+Wright,Eagle Grove #4,County Supervisor Dist. 2,,,Write-in,3,2,1
+Wright,Rural Eagle Grove,County Supervisor Dist. 2,,,Write-in,5,1,4
+Wright,Goldfield,County Supervisor Dist. 2,,,Write-in,3,3,0
+Wright,Belmond,County Treasurer,,REP,Peggy Schluttenhofer,1138,733,405
+Wright,Clarion,County Treasurer,,REP,Peggy Schluttenhofer,859,526,333
+Wright,Big 6,County Treasurer,,REP,Peggy Schluttenhofer,508,266,242
+Wright,Dows,County Treasurer,,REP,Peggy Schluttenhofer,272,194,78
+Wright,Eagle Grove #1,County Treasurer,,REP,Peggy Schluttenhofer,180,134,46
+Wright,Eagle Grove #2,County Treasurer,,REP,Peggy Schluttenhofer,208,130,78
+Wright,Eagle Grove #3,County Treasurer,,REP,Peggy Schluttenhofer,307,217,90
+Wright,Eagle Grove #4,County Treasurer,,REP,Peggy Schluttenhofer,226,162,64
+Wright,Rural Eagle Grove,County Treasurer,,REP,Peggy Schluttenhofer,305,180,125
+Wright,Goldfield,County Treasurer,,REP,Peggy Schluttenhofer,314,217,97
+Wright,Belmond,County Treasurer,,,Write-in,8,4,4
+Wright,Clarion,County Treasurer,,,Write-in,6,3,3
+Wright,Big 6,County Treasurer,,,Write-in,1,0,1
+Wright,Dows,County Treasurer,,,Write-in,0,0,0
+Wright,Eagle Grove #1,County Treasurer,,,Write-in,3,2,1
+Wright,Eagle Grove #2,County Treasurer,,,Write-in,0,0,0
+Wright,Eagle Grove #3,County Treasurer,,,Write-in,2,2,0
+Wright,Eagle Grove #4,County Treasurer,,,Write-in,2,2,0
+Wright,Rural Eagle Grove,County Treasurer,,,Write-in,0,0,0
+Wright,Goldfield,County Treasurer,,,Write-in,0,0,0
+Wright,Belmond,County Recorder,,REP,Denise D. Baker,1117,714,403
+Wright,Clarion,County Recorder,,REP,Denise D. Baker,817,507,310
+Wright,Big 6,County Recorder,,REP,Denise D. Baker,492,259,233
+Wright,Dows,County Recorder,,REP,Denise D. Baker,256,182,74
+Wright,Eagle Grove #1,County Recorder,,REP,Denise D. Baker,182,134,48
+Wright,Eagle Grove #2,County Recorder,,REP,Denise D. Baker,206,128,78
+Wright,Eagle Grove #3,County Recorder,,REP,Denise D. Baker,306,216,90
+Wright,Eagle Grove #4,County Recorder,,REP,Denise D. Baker,231,166,65
+Wright,Rural Eagle Grove,County Recorder,,REP,Denise D. Baker,298,178,120
+Wright,Goldfield,County Recorder,,REP,Denise D. Baker,314,216,98
+Wright,Belmond,County Recorder,,,Write-in,10,7,3
+Wright,Clarion,County Recorder,,,Write-in,10,6,4
+Wright,Big 6,County Recorder,,,Write-in,3,2,1
+Wright,Dows,County Recorder,,,Write-in,1,1,0
+Wright,Eagle Grove #1,County Recorder,,,Write-in,3,2,1
+Wright,Eagle Grove #2,County Recorder,,,Write-in,0,0,0
+Wright,Eagle Grove #3,County Recorder,,,Write-in,2,1,1
+Wright,Eagle Grove #4,County Recorder,,,Write-in,3,3,0
+Wright,Rural Eagle Grove,County Recorder,,,Write-in,0,0,0
+Wright,Goldfield,County Recorder,,,Write-in,0,0,0
+Wright,Belmond,County Attorney,,REP,Eric R. Simonson,1087,686,401
+Wright,Clarion,County Attorney,,REP,Eric R. Simonson,752,472,280
+Wright,Big 6,County Attorney,,REP,Eric R. Simonson,452,231,221
+Wright,Dows,County Attorney,,REP,Eric R. Simonson,250,177,73
+Wright,Eagle Grove #1,County Attorney,,REP,Eric R. Simonson,174,131,43
+Wright,Eagle Grove #2,County Attorney,,REP,Eric R. Simonson,190,120,70
+Wright,Eagle Grove #3,County Attorney,,REP,Eric R. Simonson,286,203,83
+Wright,Eagle Grove #4,County Attorney,,REP,Eric R. Simonson,219,158,61
+Wright,Rural Eagle Grove,County Attorney,,REP,Eric R. Simonson,286,172,114
+Wright,Goldfield,County Attorney,,REP,Eric R. Simonson,276,187,89
+Wright,Belmond,County Attorney,,,Write-in,9,6,3
+Wright,Clarion,County Attorney,,,Write-in,13,7,6
+Wright,Big 6,County Attorney,,,Write-in,3,1,2
+Wright,Dows,County Attorney,,,Write-in,4,3,1
+Wright,Eagle Grove #1,County Attorney,,,Write-in,2,0,2
+Wright,Eagle Grove #2,County Attorney,,,Write-in,3,1,2
+Wright,Eagle Grove #3,County Attorney,,,Write-in,2,2,0
+Wright,Eagle Grove #4,County Attorney,,,Write-in,3,3,0
+Wright,Rural Eagle Grove,County Attorney,,,Write-in,0,0,0
+Wright,Goldfield,County Attorney,,,Write-in,1,1,0
+Wright,Belmond,Iowa Township Trustee,,,Alvin Bailey,70,35,35
+Wright,Belmond,Iowa Township Trustee,,,Write-in,0,0,0
+Wright,Belmond,Iowa Township Trustee, To Fill a Vacancy,,Rhonda M. Benton,71,36,35
+Wright,Belmond,Iowa Township Trustee, To Fill a Vacancy,,Write-in,0,0,0
+Wright,Belmond,Iowa Township Clerk,,,Aimee Miller,65,31,34
+Wright,Belmond,Iowa Township Clerk,,,Write-in,0,0,0
+Wright,Big 6,Wall Lake Township Trustee,,,Brittany Howieson,47,24,23
+Wright,Big 6,Wall Lake Township Trustee,,,Write-in,1,1,0
+Wright,Big 6,Wall Lake Township Clerk,,,Emily Cook,49,26,23
+Wright,Big 6,Wall Lake Township Clerk,,,Write-in,0,0,0
+Wright,Rural Eagle Grove,Woolstock Township Trustee,,,Bryan Claude,57,37,20
+Wright,Rural Eagle Grove,Woolstock Township Trustee,,,Write-in,2,2,0
+Wright,Rural Eagle Grove,Woolstock Township Clerk,,,Tamie Harrison,53,37,16
+Wright,Rural Eagle Grove,Woolstock Township Clerk,,,Write-in,1,1,0
+Wright,Belmond,Soil & Water Conservation District Commissioner,,,Joshua Nelson,895,569,326
+Wright,Clarion,Soil & Water Conservation District Commissioner,,,Joshua Nelson,519,333,186
+Wright,Big 6,Soil & Water Conservation District Commissioner,,,Joshua Nelson,321,164,157
+Wright,Dows,Soil & Water Conservation District Commissioner,,,Joshua Nelson,206,147,59
+Wright,Eagle Grove #1,Soil & Water Conservation District Commissioner,,,Joshua Nelson,132,98,34
+Wright,Eagle Grove #2,Soil & Water Conservation District Commissioner,,,Joshua Nelson,147,92,55
+Wright,Eagle Grove #3,Soil & Water Conservation District Commissioner,,,Joshua Nelson,232,159,73
+Wright,Eagle Grove #4,Soil & Water Conservation District Commissioner,,,Joshua Nelson,177,129,48
+Wright,Rural Eagle Grove,Soil & Water Conservation District Commissioner,,,Joshua Nelson,205,129,76
+Wright,Goldfield,Soil & Water Conservation District Commissioner,,,Joshua Nelson,161,104,57
+Wright,Belmond,Soil & Water Conservation District Commissioner,,,Nathan Huntley,724,452,272
+Wright,Clarion,Soil & Water Conservation District Commissioner,,,Nathan Huntley,621,393,228
+Wright,Big 6,Soil & Water Conservation District Commissioner,,,Nathan Huntley,375,193,182
+Wright,Dows,Soil & Water Conservation District Commissioner,,,Nathan Huntley,196,141,55
+Wright,Eagle Grove #1,Soil & Water Conservation District Commissioner,,,Nathan Huntley,134,100,34
+Wright,Eagle Grove #2,Soil & Water Conservation District Commissioner,,,Nathan Huntley,140,85,55
+Wright,Eagle Grove #3,Soil & Water Conservation District Commissioner,,,Nathan Huntley,230,160,70
+Wright,Eagle Grove #4,Soil & Water Conservation District Commissioner,,,Nathan Huntley,191,142,49
+Wright,Rural Eagle Grove,Soil & Water Conservation District Commissioner,,,Nathan Huntley,202,132,70
+Wright,Goldfield,Soil & Water Conservation District Commissioner,,,Nathan Huntley,244,158,86
+Wright,Belmond,Soil & Water Conservation District Commissioner,,,Write-in,7,1,6
+Wright,Clarion,Soil & Water Conservation District Commissioner,,,Write-in,5,1,4
+Wright,Big 6,Soil & Water Conservation District Commissioner,,,Write-in,2,0,2
+Wright,Dows,Soil & Water Conservation District Commissioner,,,Write-in,2,0,2
+Wright,Eagle Grove #1,Soil & Water Conservation District Commissioner,,,Write-in,0,0,0
+Wright,Eagle Grove #2,Soil & Water Conservation District Commissioner,,,Write-in,1,1,0
+Wright,Eagle Grove #3,Soil & Water Conservation District Commissioner,,,Write-in,0,0,0
+Wright,Eagle Grove #4,Soil & Water Conservation District Commissioner,,,Write-in,3,3,0
+Wright,Rural Eagle Grove,Soil & Water Conservation District Commissioner,,,Write-in,5,2,3
+Wright,Goldfield,Soil & Water Conservation District Commissioner,,,Write-in,1,1,0
+Wright,Belmond,County Agricultural Extension Council Members,,,Rhonda M. Benton,671,392,279
+Wright,Clarion,County Agricultural Extension Council Members,,,Rhonda M. Benton,569,356,213
+Wright,Big 6,County Agricultural Extension Council Members,,,Rhonda M. Benton,307,165,142
+Wright,Dows,County Agricultural Extension Council Members,,,Rhonda M. Benton,211,146,65
+Wright,Eagle Grove #1,County Agricultural Extension Council Members,,,Rhonda M. Benton,100,75,25
+Wright,Eagle Grove #2,County Agricultural Extension Council Members,,,Rhonda M. Benton,100,58,42
+Wright,Eagle Grove #3,County Agricultural Extension Council Members,,,Rhonda M. Benton,155,108,47
+Wright,Eagle Grove #4,County Agricultural Extension Council Members,,,Rhonda M. Benton,125,95,30
+Wright,Rural Eagle Grove,County Agricultural Extension Council Members,,,Rhonda M. Benton,148,93,55
+Wright,Goldfield,County Agricultural Extension Council Members,,,Rhonda M. Benton,139,88,51
+Wright,Belmond,County Agricultural Extension Council Members,,,Miguel Angel Chavez,316,192,124
+Wright,Clarion,County Agricultural Extension Council Members,,,Miguel Angel Chavez,371,248,123
+Wright,Big 6,County Agricultural Extension Council Members,,,Miguel Angel Chavez,198,99,99
+Wright,Dows,County Agricultural Extension Council Members,,,Miguel Angel Chavez,80,58,22
+Wright,Eagle Grove #1,County Agricultural Extension Council Members,,,Miguel Angel Chavez,63,51,12
+Wright,Eagle Grove #2,County Agricultural Extension Council Members,,,Miguel Angel Chavez,70,52,18
+Wright,Eagle Grove #3,County Agricultural Extension Council Members,,,Miguel Angel Chavez,105,73,32
+Wright,Eagle Grove #4,County Agricultural Extension Council Members,,,Miguel Angel Chavez,93,78,15
+Wright,Rural Eagle Grove,County Agricultural Extension Council Members,,,Miguel Angel Chavez,80,49,31
+Wright,Goldfield,County Agricultural Extension Council Members,,,Miguel Angel Chavez,104,69,35
+Wright,Belmond,County Agricultural Extension Council Members,,,Gregory K. Diamond,365,240,125
+Wright,Clarion,County Agricultural Extension Council Members,,,Gregory K. Diamond,377,242,135
+Wright,Big 6,County Agricultural Extension Council Members,,,Gregory K. Diamond,183,93,90
+Wright,Dows,County Agricultural Extension Council Members,,,Gregory K. Diamond,103,75,28
+Wright,Eagle Grove #1,County Agricultural Extension Council Members,,,Gregory K. Diamond,88,70,18
+Wright,Eagle Grove #2,County Agricultural Extension Council Members,,,Gregory K. Diamond,78,44,34
+Wright,Eagle Grove #3,County Agricultural Extension Council Members,,,Gregory K. Diamond,137,92,45
+Wright,Eagle Grove #4,County Agricultural Extension Council Members,,,Gregory K. Diamond,95,74,21
+Wright,Rural Eagle Grove,County Agricultural Extension Council Members,,,Gregory K. Diamond,106,65,41
+Wright,Goldfield,County Agricultural Extension Council Members,,,Gregory K. Diamond,100,61,39
+Wright,Belmond,County Agricultural Extension Council Members,,,Paige Grandgeorge,493,302,191
+Wright,Clarion,County Agricultural Extension Council Members,,,Paige Grandgeorge,404,247,157
+Wright,Big 6,County Agricultural Extension Council Members,,,Paige Grandgeorge,261,132,129
+Wright,Dows,County Agricultural Extension Council Members,,,Paige Grandgeorge,142,98,44
+Wright,Eagle Grove #1,County Agricultural Extension Council Members,,,Paige Grandgeorge,127,100,27
+Wright,Eagle Grove #2,County Agricultural Extension Council Members,,,Paige Grandgeorge,125,84,41
+Wright,Eagle Grove #3,County Agricultural Extension Council Members,,,Paige Grandgeorge,228,163,65
+Wright,Eagle Grove #4,County Agricultural Extension Council Members,,,Paige Grandgeorge,150,118,32
+Wright,Rural Eagle Grove,County Agricultural Extension Council Members,,,Paige Grandgeorge,199,120,79
+Wright,Goldfield,County Agricultural Extension Council Members,,,Paige Grandgeorge,146,89,57
+Wright,Belmond,County Agricultural Extension Council Members,,,Kevin L. Hadley,919,572,347
+Wright,Clarion,County Agricultural Extension Council Members,,,Kevin L. Hadley,462,292,170
+Wright,Big 6,County Agricultural Extension Council Members,,,Kevin L. Hadley,297,148,149
+Wright,Dows,County Agricultural Extension Council Members,,,Kevin L. Hadley,199,136,63
+Wright,Eagle Grove #1,County Agricultural Extension Council Members,,,Kevin L. Hadley,93,69,24
+Wright,Eagle Grove #2,County Agricultural Extension Council Members,,,Kevin L. Hadley,90,49,41
+Wright,Eagle Grove #3,County Agricultural Extension Council Members,,,Kevin L. Hadley,154,105,49
+Wright,Eagle Grove #4,County Agricultural Extension Council Members,,,Kevin L. Hadley,112,78,34
+Wright,Rural Eagle Grove,County Agricultural Extension Council Members,,,Kevin L. Hadley,135,88,47
+Wright,Goldfield,County Agricultural Extension Council Members,,,Kevin L. Hadley,125,67,58
+Wright,Belmond,County Agricultural Extension Council Members,,,Breanna Wagner,391,232,159
+Wright,Clarion,County Agricultural Extension Council Members,,,Breanna Wagner,352,222,130
+Wright,Big 6,County Agricultural Extension Council Members,,,Breanna Wagner,233,117,116
+Wright,Dows,County Agricultural Extension Council Members,,,Breanna Wagner,113,87,26
+Wright,Eagle Grove #1,County Agricultural Extension Council Members,,,Breanna Wagner,106,82,24
+Wright,Eagle Grove #2,County Agricultural Extension Council Members,,,Breanna Wagner,103,65,38
+Wright,Eagle Grove #3,County Agricultural Extension Council Members,,,Breanna Wagner,190,133,57
+Wright,Eagle Grove #4,County Agricultural Extension Council Members,,,Breanna Wagner,144,112,32
+Wright,Rural Eagle Grove,County Agricultural Extension Council Members,,,Breanna Wagner,182,113,69
+Wright,Goldfield,County Agricultural Extension Council Members,,,Breanna Wagner,112,68,44
+Wright,Belmond,County Agricultural Extension Council Members,,,Molly Wilson,413,247,166
+Wright,Clarion,County Agricultural Extension Council Members,,,Molly Wilson,334,202,132
+Wright,Big 6,County Agricultural Extension Council Members,,,Molly Wilson,173,77,96
+Wright,Dows,County Agricultural Extension Council Members,,,Molly Wilson,119,88,31
+Wright,Eagle Grove #1,County Agricultural Extension Council Members,,,Molly Wilson,118,93,25
+Wright,Eagle Grove #2,County Agricultural Extension Council Members,,,Molly Wilson,123,81,42
+Wright,Eagle Grove #3,County Agricultural Extension Council Members,,,Molly Wilson,220,153,67
+Wright,Eagle Grove #4,County Agricultural Extension Council Members,,,Molly Wilson,160,125,35
+Wright,Rural Eagle Grove,County Agricultural Extension Council Members,,,Molly Wilson,171,108,63
+Wright,Goldfield,County Agricultural Extension Council Members,,,Molly Wilson,137,81,56
+Wright,Belmond,County Agricultural Extension Council Members,,,Write-in,12,6,6
+Wright,Clarion,County Agricultural Extension Council Members,,,Write-in,4,4,0
+Wright,Big 6,County Agricultural Extension Council Members,,,Write-in,3,2,1
+Wright,Dows,County Agricultural Extension Council Members,,,Write-in,3,0,3
+Wright,Eagle Grove #1,County Agricultural Extension Council Members,,,Write-in,0,0,0
+Wright,Eagle Grove #2,County Agricultural Extension Council Members,,,Write-in,1,1,0
+Wright,Eagle Grove #3,County Agricultural Extension Council Members,,,Write-in,0,0,0
+Wright,Eagle Grove #4,County Agricultural Extension Council Members,,,Write-in,4,4,0
+Wright,Rural Eagle Grove,County Agricultural Extension Council Members,,,Write-in,9,4,5
+Wright,Goldfield,County Agricultural Extension Council Members,,,Write-in,2,2,0
+Wright,Belmond,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,570,336,234
+Wright,Clarion,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,428,284,144
+Wright,Big 6,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,228,129,99
+Wright,Dows,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,140,98,42
+Wright,Eagle Grove #1,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,114,92,22
+Wright,Eagle Grove #2,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,107,72,35
+Wright,Eagle Grove #3,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,185,132,53
+Wright,Eagle Grove #4,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,146,98,48
+Wright,Rural Eagle Grove,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,154,97,57
+Wright,Goldfield,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,113,70,43
+Wright,Belmond,Court of Appeals Judge Anuradha Vaitheswaran,,,No,303,209,94
+Wright,Clarion,Court of Appeals Judge Anuradha Vaitheswaran,,,No,210,132,78
+Wright,Big 6,Court of Appeals Judge Anuradha Vaitheswaran,,,No,104,49,55
+Wright,Dows,Court of Appeals Judge Anuradha Vaitheswaran,,,No,92,68,24
+Wright,Eagle Grove #1,Court of Appeals Judge Anuradha Vaitheswaran,,,No,48,36,12
+Wright,Eagle Grove #2,Court of Appeals Judge Anuradha Vaitheswaran,,,No,55,33,22
+Wright,Eagle Grove #3,Court of Appeals Judge Anuradha Vaitheswaran,,,No,89,62,27
+Wright,Eagle Grove #4,Court of Appeals Judge Anuradha Vaitheswaran,,,No,70,54,16
+Wright,Rural Eagle Grove,Court of Appeals Judge Anuradha Vaitheswaran,,,No,97,65,32
+Wright,Goldfield,Court of Appeals Judge Anuradha Vaitheswaran,,,No,89,59,30
+Wright,Belmond,Court of Appeals Judge Michael R. Mullins,,,Yes,630,369,261
+Wright,Clarion,Court of Appeals Judge Michael R. Mullins,,,Yes,476,303,173
+Wright,Big 6,Court of Appeals Judge Michael R. Mullins,,,Yes,255,133,122
+Wright,Dows,Court of Appeals Judge Michael R. Mullins,,,Yes,157,110,47
+Wright,Eagle Grove #1,Court of Appeals Judge Michael R. Mullins,,,Yes,125,103,22
+Wright,Eagle Grove #2,Court of Appeals Judge Michael R. Mullins,,,Yes,120,72,48
+Wright,Eagle Grove #3,Court of Appeals Judge Michael R. Mullins,,,Yes,205,142,63
+Wright,Eagle Grove #4,Court of Appeals Judge Michael R. Mullins,,,Yes,163,112,51
+Wright,Rural Eagle Grove,Court of Appeals Judge Michael R. Mullins,,,Yes,180,108,72
+Wright,Goldfield,Court of Appeals Judge Michael R. Mullins,,,Yes,147,88,59
+Wright,Belmond,Court of Appeals Judge Michael R. Mullins,,,No,249,176,73
+Wright,Clarion,Court of Appeals Judge Michael R. Mullins,,,No,162,113,49
+Wright,Big 6,Court of Appeals Judge Michael R. Mullins,,,No,73,40,33
+Wright,Dows,Court of Appeals Judge Michael R. Mullins,,,No,71,53,18
+Wright,Eagle Grove #1,Court of Appeals Judge Michael R. Mullins,,,No,37,27,10
+Wright,Eagle Grove #2,Court of Appeals Judge Michael R. Mullins,,,No,43,33,10
+Wright,Eagle Grove #3,Court of Appeals Judge Michael R. Mullins,,,No,68,51,17
+Wright,Eagle Grove #4,Court of Appeals Judge Michael R. Mullins,,,No,50,39,11
+Wright,Rural Eagle Grove,Court of Appeals Judge Michael R. Mullins,,,No,71,51,20
+Wright,Goldfield,Court of Appeals Judge Michael R. Mullins,,,No,57,44,13
+Wright,Belmond,Court of Appeals Judge Mary Ellen Tabor,,,Yes,626,363,263
+Wright,Clarion,Court of Appeals Judge Mary Ellen Tabor,,,Yes,470,300,170
+Wright,Big 6,Court of Appeals Judge Mary Ellen Tabor,,,Yes,244,134,110
+Wright,Dows,Court of Appeals Judge Mary Ellen Tabor,,,Yes,148,105,43
+Wright,Eagle Grove #1,Court of Appeals Judge Mary Ellen Tabor,,,Yes,126,100,26
+Wright,Eagle Grove #2,Court of Appeals Judge Mary Ellen Tabor,,,Yes,124,78,46
+Wright,Eagle Grove #3,Court of Appeals Judge Mary Ellen Tabor,,,Yes,201,144,57
+Wright,Eagle Grove #4,Court of Appeals Judge Mary Ellen Tabor,,,Yes,159,108,51
+Wright,Rural Eagle Grove,Court of Appeals Judge Mary Ellen Tabor,,,Yes,179,104,75
+Wright,Goldfield,Court of Appeals Judge Mary Ellen Tabor,,,Yes,128,78,50
+Wright,Belmond,Court of Appeals Judge Mary Ellen Tabor,,,No,254,184,70
+Wright,Clarion,Court of Appeals Judge Mary Ellen Tabor,,,No,167,113,54
+Wright,Big 6,Court of Appeals Judge Mary Ellen Tabor,,,No,83,40,43
+Wright,Dows,Court of Appeals Judge Mary Ellen Tabor,,,No,84,60,24
+Wright,Eagle Grove #1,Court of Appeals Judge Mary Ellen Tabor,,,No,37,29,8
+Wright,Eagle Grove #2,Court of Appeals Judge Mary Ellen Tabor,,,No,40,26,14
+Wright,Eagle Grove #3,Court of Appeals Judge Mary Ellen Tabor,,,No,74,51,23
+Wright,Eagle Grove #4,Court of Appeals Judge Mary Ellen Tabor,,,No,58,46,12
+Wright,Rural Eagle Grove,Court of Appeals Judge Mary Ellen Tabor,,,No,71,56,15
+Wright,Goldfield,Court of Appeals Judge Mary Ellen Tabor,,,No,75,52,23
+Wright,Belmond,District 2B District Judge Adria Kester,,,Yes,582,335,247
+Wright,Clarion,District 2B District Judge Adria Kester,,,Yes,458,294,164
+Wright,Big 6,District 2B District Judge Adria Kester,,,Yes,244,134,110
+Wright,Dows,District 2B District Judge Adria Kester,,,Yes,152,104,48
+Wright,Eagle Grove #1,District 2B District Judge Adria Kester,,,Yes,123,99,24
+Wright,Eagle Grove #2,District 2B District Judge Adria Kester,,,Yes,119,72,47
+Wright,Eagle Grove #3,District 2B District Judge Adria Kester,,,Yes,204,143,61
+Wright,Eagle Grove #4,District 2B District Judge Adria Kester,,,Yes,159,110,49
+Wright,Rural Eagle Grove,District 2B District Judge Adria Kester,,,Yes,178,109,69
+Wright,Goldfield,District 2B District Judge Adria Kester,,,Yes,115,63,52
+Wright,Belmond,District 2B District Judge Adria Kester,,,No,232,165,67
+Wright,Clarion,District 2B District Judge Adria Kester,,,No,154,108,46
+Wright,Big 6,District 2B District Judge Adria Kester,,,No,70,37,33
+Wright,Dows,District 2B District Judge Adria Kester,,,No,73,53,20
+Wright,Eagle Grove #1,District 2B District Judge Adria Kester,,,No,35,28,7
+Wright,Eagle Grove #2,District 2B District Judge Adria Kester,,,No,42,32,10
+Wright,Eagle Grove #3,District 2B District Judge Adria Kester,,,No,62,48,14
+Wright,Eagle Grove #4,District 2B District Judge Adria Kester,,,No,47,37,10
+Wright,Rural Eagle Grove,District 2B District Judge Adria Kester,,,No,63,45,18
+Wright,Goldfield,District 2B District Judge Adria Kester,,,No,60,48,12
+Wright,Belmond,District 2B District Judge Steven J. Oeth,,,Yes,564,325,239
+Wright,Clarion,District 2B District Judge Steven J. Oeth,,,Yes,450,293,157
+Wright,Big 6,District 2B District Judge Steven J. Oeth,,,Yes,235,127,108
+Wright,Dows,District 2B District Judge Steven J. Oeth,,,Yes,146,101,45
+Wright,Eagle Grove #1,District 2B District Judge Steven J. Oeth,,,Yes,114,95,19
+Wright,Eagle Grove #2,District 2B District Judge Steven J. Oeth,,,Yes,113,75,38
+Wright,Eagle Grove #3,District 2B District Judge Steven J. Oeth,,,Yes,189,137,52
+Wright,Eagle Grove #4,District 2B District Judge Steven J. Oeth,,,Yes,147,108,39
+Wright,Rural Eagle Grove,District 2B District Judge Steven J. Oeth,,,Yes,159,102,57
+Wright,Goldfield,District 2B District Judge Steven J. Oeth,,,Yes,102,57,45
+Wright,Belmond,District 2B District Judge Steven J. Oeth,,,No,234,165,69
+Wright,Clarion,District 2B District Judge Steven J. Oeth,,,No,159,107,52
+Wright,Big 6,District 2B District Judge Steven J. Oeth,,,No,79,41,38
+Wright,Dows,District 2B District Judge Steven J. Oeth,,,No,78,55,23
+Wright,Eagle Grove #1,District 2B District Judge Steven J. Oeth,,,No,40,29,11
+Wright,Eagle Grove #2,District 2B District Judge Steven J. Oeth,,,No,48,30,18
+Wright,Eagle Grove #3,District 2B District Judge Steven J. Oeth,,,No,77,54,23
+Wright,Eagle Grove #4,District 2B District Judge Steven J. Oeth,,,No,58,38,20
+Wright,Rural Eagle Grove,District 2B District Judge Steven J. Oeth,,,No,79,51,28
+Wright,Goldfield,District 2B District Judge Steven J. Oeth,,,No,65,46,19
+Wright,Belmond,District 2B District Judge Kurt John Stoebe,,,Yes,556,326,230
+Wright,Clarion,District 2B District Judge Kurt John Stoebe,,,Yes,459,288,171
+Wright,Big 6,District 2B District Judge Kurt John Stoebe,,,Yes,249,137,112
+Wright,Dows,District 2B District Judge Kurt John Stoebe,,,Yes,157,110,47
+Wright,Eagle Grove #1,District 2B District Judge Kurt John Stoebe,,,Yes,122,95,27
+Wright,Eagle Grove #2,District 2B District Judge Kurt John Stoebe,,,Yes,126,78,48
+Wright,Eagle Grove #3,District 2B District Judge Kurt John Stoebe,,,Yes,191,138,53
+Wright,Eagle Grove #4,District 2B District Judge Kurt John Stoebe,,,Yes,162,110,52
+Wright,Rural Eagle Grove,District 2B District Judge Kurt John Stoebe,,,Yes,166,99,67
+Wright,Goldfield,District 2B District Judge Kurt John Stoebe,,,Yes,131,80,51
+Wright,Belmond,District 2B District Judge Kurt John Stoebe,,,No,242,166,76
+Wright,Clarion,District 2B District Judge Kurt John Stoebe,,,No,165,118,47
+Wright,Big 6,District 2B District Judge Kurt John Stoebe,,,No,71,37,34
+Wright,Dows,District 2B District Judge Kurt John Stoebe,,,No,71,49,22
+Wright,Eagle Grove #1,District 2B District Judge Kurt John Stoebe,,,No,36,31,5
+Wright,Eagle Grove #2,District 2B District Judge Kurt John Stoebe,,,No,37,26,11
+Wright,Eagle Grove #3,District 2B District Judge Kurt John Stoebe,,,No,75,51,24
+Wright,Eagle Grove #4,District 2B District Judge Kurt John Stoebe,,,No,47,37,10
+Wright,Rural Eagle Grove,District 2B District Judge Kurt John Stoebe,,,No,68,51,17
+Wright,Goldfield,District 2B District Judge Kurt John Stoebe,,,No,58,42,16
+Wright,Belmond,District 2B District Judge Kurt L. Wilke,,,Yes,561,326,235
+Wright,Clarion,District 2B District Judge Kurt L. Wilke,,,Yes,463,296,167
+Wright,Big 6,District 2B District Judge Kurt L. Wilke,,,Yes,241,133,108
+Wright,Dows,District 2B District Judge Kurt L. Wilke,,,Yes,153,104,49
+Wright,Eagle Grove #1,District 2B District Judge Kurt L. Wilke,,,Yes,118,98,20
+Wright,Eagle Grove #2,District 2B District Judge Kurt L. Wilke,,,Yes,119,76,43
+Wright,Eagle Grove #3,District 2B District Judge Kurt L. Wilke,,,Yes,206,144,62
+Wright,Eagle Grove #4,District 2B District Judge Kurt L. Wilke,,,Yes,167,113,54
+Wright,Rural Eagle Grove,District 2B District Judge Kurt L. Wilke,,,Yes,173,103,70
+Wright,Goldfield,District 2B District Judge Kurt L. Wilke,,,Yes,125,72,53
+Wright,Belmond,District 2B District Judge Kurt L. Wilke,,,No,226,158,68
+Wright,Clarion,District 2B District Judge Kurt L. Wilke,,,No,149,104,45
+Wright,Big 6,District 2B District Judge Kurt L. Wilke,,,No,69,36,33
+Wright,Dows,District 2B District Judge Kurt L. Wilke,,,No,71,51,20
+Wright,Eagle Grove #1,District 2B District Judge Kurt L. Wilke,,,No,39,28,11
+Wright,Eagle Grove #2,District 2B District Judge Kurt L. Wilke,,,No,39,26,13
+Wright,Eagle Grove #3,District 2B District Judge Kurt L. Wilke,,,No,60,47,13
+Wright,Eagle Grove #4,District 2B District Judge Kurt L. Wilke,,,No,46,34,12
+Wright,Rural Eagle Grove,District 2B District Judge Kurt L. Wilke,,,No,68,50,18
+Wright,Goldfield,District 2B District Judge Kurt L. Wilke,,,No,57,44,13
+Wright,Belmond,District 2B District Associate Judge Angela L. Doyle,,,Yes,583,339,244
+Wright,Clarion,District 2B District Associate Judge Angela L. Doyle,,,Yes,454,292,162
+Wright,Big 6,District 2B District Associate Judge Angela L. Doyle,,,Yes,241,136,105
+Wright,Dows,District 2B District Associate Judge Angela L. Doyle,,,Yes,155,106,49
+Wright,Eagle Grove #1,District 2B District Associate Judge Angela L. Doyle,,,Yes,122,96,26
+Wright,Eagle Grove #2,District 2B District Associate Judge Angela L. Doyle,,,Yes,119,72,47
+Wright,Eagle Grove #3,District 2B District Associate Judge Angela L. Doyle,,,Yes,202,142,60
+Wright,Eagle Grove #4,District 2B District Associate Judge Angela L. Doyle,,,Yes,156,108,48
+Wright,Rural Eagle Grove,District 2B District Associate Judge Angela L. Doyle,,,Yes,180,109,71
+Wright,Goldfield,District 2B District Associate Judge Angela L. Doyle,,,Yes,113,65,48
+Wright,Belmond,District 2B District Associate Judge Angela L. Doyle,,,No,221,158,63
+Wright,Clarion,District 2B District Associate Judge Angela L. Doyle,,,No,150,107,43
+Wright,Big 6,District 2B District Associate Judge Angela L. Doyle,,,No,68,35,33
+Wright,Dows,District 2B District Associate Judge Angela L. Doyle,,,No,69,51,18
+Wright,Eagle Grove #1,District 2B District Associate Judge Angela L. Doyle,,,No,37,31,6
+Wright,Eagle Grove #2,District 2B District Associate Judge Angela L. Doyle,,,No,41,31,10
+Wright,Eagle Grove #3,District 2B District Associate Judge Angela L. Doyle,,,No,61,46,15
+Wright,Eagle Grove #4,District 2B District Associate Judge Angela L. Doyle,,,No,46,34,12
+Wright,Rural Eagle Grove,District 2B District Associate Judge Angela L. Doyle,,,No,62,48,14
+Wright,Goldfield,District 2B District Associate Judge Angela L. Doyle,,,No,57,44,13
+Wright,Belmond,District 2B District Associate Judge Joseph B. McCarville,,,Yes,549,320,229
+Wright,Clarion,District 2B District Associate Judge Joseph B. McCarville,,,Yes,449,286,163
+Wright,Big 6,District 2B District Associate Judge Joseph B. McCarville,,,Yes,236,132,104
+Wright,Dows,District 2B District Associate Judge Joseph B. McCarville,,,Yes,153,105,48
+Wright,Eagle Grove #1,District 2B District Associate Judge Joseph B. McCarville,,,Yes,117,93,24
+Wright,Eagle Grove #2,District 2B District Associate Judge Joseph B. McCarville,,,Yes,120,82,38
+Wright,Eagle Grove #3,District 2B District Associate Judge Joseph B. McCarville,,,Yes,196,141,55
+Wright,Eagle Grove #4,District 2B District Associate Judge Joseph B. McCarville,,,Yes,152,105,47
+Wright,Rural Eagle Grove,District 2B District Associate Judge Joseph B. McCarville,,,Yes,174,107,67
+Wright,Goldfield,District 2B District Associate Judge Joseph B. McCarville,,,Yes,114,67,47
+Wright,Belmond,District 2B District Associate Judge Joseph B. McCarville,,,No,232,160,72
+Wright,Clarion,District 2B District Associate Judge Joseph B. McCarville,,,No,157,113,44
+Wright,Big 6,District 2B District Associate Judge Joseph B. McCarville,,,No,72,36,36
+Wright,Dows,District 2B District Associate Judge Joseph B. McCarville,,,No,70,50,20
+Wright,Eagle Grove #1,District 2B District Associate Judge Joseph B. McCarville,,,No,39,31,8
+Wright,Eagle Grove #2,District 2B District Associate Judge Joseph B. McCarville,,,No,36,21,15
+Wright,Eagle Grove #3,District 2B District Associate Judge Joseph B. McCarville,,,No,67,47,20
+Wright,Eagle Grove #4,District 2B District Associate Judge Joseph B. McCarville,,,No,53,40,13
+Wright,Rural Eagle Grove,District 2B District Associate Judge Joseph B. McCarville,,,No,65,46,19
+Wright,Goldfield,District 2B District Associate Judge Joseph B. McCarville,,,No,61,45,16
+Wright,Belmond,District 2B District Associate Judge Kim M. Riley,,,Yes,583,344,239
+Wright,Clarion,District 2B District Associate Judge Kim M. Riley,,,Yes,451,286,165
+Wright,Big 6,District 2B District Associate Judge Kim M. Riley,,,Yes,235,131,104
+Wright,Dows,District 2B District Associate Judge Kim M. Riley,,,Yes,151,105,46
+Wright,Eagle Grove #1,District 2B District Associate Judge Kim M. Riley,,,Yes,130,105,25
+Wright,Eagle Grove #2,District 2B District Associate Judge Kim M. Riley,,,Yes,120,73,47
+Wright,Eagle Grove #3,District 2B District Associate Judge Kim M. Riley,,,Yes,199,142,57
+Wright,Eagle Grove #4,District 2B District Associate Judge Kim M. Riley,,,Yes,161,113,48
+Wright,Rural Eagle Grove,District 2B District Associate Judge Kim M. Riley,,,Yes,179,105,74
+Wright,Goldfield,District 2B District Associate Judge Kim M. Riley,,,Yes,106,64,42
+Wright,Belmond,District 2B District Associate Judge Kim M. Riley,,,No,222,152,70
+Wright,Clarion,District 2B District Associate Judge Kim M. Riley,,,No,154,110,44
+Wright,Big 6,District 2B District Associate Judge Kim M. Riley,,,No,71,37,34
+Wright,Dows,District 2B District Associate Judge Kim M. Riley,,,No,73,52,21
+Wright,Eagle Grove #1,District 2B District Associate Judge Kim M. Riley,,,No,30,23,7
+Wright,Eagle Grove #2,District 2B District Associate Judge Kim M. Riley,,,No,37,28,9
+Wright,Eagle Grove #3,District 2B District Associate Judge Kim M. Riley,,,No,63,46,17
+Wright,Eagle Grove #4,District 2B District Associate Judge Kim M. Riley,,,No,45,33,12
+Wright,Rural Eagle Grove,District 2B District Associate Judge Kim M. Riley,,,No,62,51,11
+Wright,Goldfield,District 2B District Associate Judge Kim M. Riley,,,No,63,44,19
+Wright,Belmond,District 2B District Associate Judge Paul B. Ahlers,,,Yes,563,328,235
+Wright,Clarion,District 2B District Associate Judge Paul B. Ahlers,,,Yes,449,282,167
+Wright,Big 6,District 2B District Associate Judge Paul B. Ahlers,,,Yes,243,134,109
+Wright,Dows,District 2B District Associate Judge Paul B. Ahlers,,,Yes,159,109,50
+Wright,Eagle Grove #1,District 2B District Associate Judge Paul B. Ahlers,,,Yes,117,97,20
+Wright,Eagle Grove #2,District 2B District Associate Judge Paul B. Ahlers,,,Yes,119,74,45
+Wright,Eagle Grove #3,District 2B District Associate Judge Paul B. Ahlers,,,Yes,188,133,55
+Wright,Eagle Grove #4,District 2B District Associate Judge Paul B. Ahlers,,,Yes,155,109,46
+Wright,Rural Eagle Grove,District 2B District Associate Judge Paul B. Ahlers,,,Yes,172,107,65
+Wright,Goldfield,District 2B District Associate Judge Paul B. Ahlers,,,Yes,113,69,44
+Wright,Belmond,District 2B District Associate Judge Paul B. Ahlers,,,No,231,163,68
+Wright,Clarion,District 2B District Associate Judge Paul B. Ahlers,,,No,162,117,45
+Wright,Big 6,District 2B District Associate Judge Paul B. Ahlers,,,No,68,36,32
+Wright,Dows,District 2B District Associate Judge Paul B. Ahlers,,,No,66,48,18
+Wright,Eagle Grove #1,District 2B District Associate Judge Paul B. Ahlers,,,No,38,28,10
+Wright,Eagle Grove #2,District 2B District Associate Judge Paul B. Ahlers,,,No,40,30,10
+Wright,Eagle Grove #3,District 2B District Associate Judge Paul B. Ahlers,,,No,69,50,19
+Wright,Eagle Grove #4,District 2B District Associate Judge Paul B. Ahlers,,,No,52,37,15
+Wright,Rural Eagle Grove,District 2B District Associate Judge Paul B. Ahlers,,,No,71,48,23
+Wright,Goldfield,District 2B District Associate Judge Paul B. Ahlers,,,No,59,43,16
+Wright,Belmond,District 2B District Associate Judge Paul G. Crawford,,,Yes,577,336,241
+Wright,Clarion,District 2B District Associate Judge Paul G. Crawford,,,Yes,439,283,156
+Wright,Big 6,District 2B District Associate Judge Paul G. Crawford,,,Yes,234,131,103
+Wright,Dows,District 2B District Associate Judge Paul G. Crawford,,,Yes,154,105,49
+Wright,Eagle Grove #1,District 2B District Associate Judge Paul G. Crawford,,,Yes,114,92,22
+Wright,Eagle Grove #2,District 2B District Associate Judge Paul G. Crawford,,,Yes,119,75,44
+Wright,Eagle Grove #3,District 2B District Associate Judge Paul G. Crawford,,,Yes,196,135,61
+Wright,Eagle Grove #4,District 2B District Associate Judge Paul G. Crawford,,,Yes,148,107,41
+Wright,Rural Eagle Grove,District 2B District Associate Judge Paul G. Crawford,,,Yes,162,101,61
+Wright,Goldfield,District 2B District Associate Judge Paul G. Crawford,,,Yes,102,58,44
+Wright,Belmond,District 2B District Associate Judge Paul G. Crawford,,,No,218,154,64
+Wright,Clarion,District 2B District Associate Judge Paul G. Crawford,,,No,163,113,50
+Wright,Big 6,District 2B District Associate Judge Paul G. Crawford,,,No,72,36,36
+Wright,Dows,District 2B District Associate Judge Paul G. Crawford,,,No,69,51,18
+Wright,Eagle Grove #1,District 2B District Associate Judge Paul G. Crawford,,,No,41,33,8
+Wright,Eagle Grove #2,District 2B District Associate Judge Paul G. Crawford,,,No,37,26,11
+Wright,Eagle Grove #3,District 2B District Associate Judge Paul G. Crawford,,,No,62,49,13
+Wright,Eagle Grove #4,District 2B District Associate Judge Paul G. Crawford,,,No,52,35,17
+Wright,Rural Eagle Grove,District 2B District Associate Judge Paul G. Crawford,,,No,77,53,24
+Wright,Goldfield,District 2B District Associate Judge Paul G. Crawford,,,No,63,46,17

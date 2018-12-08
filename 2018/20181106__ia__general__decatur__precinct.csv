@@ -1,0 +1,591 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Decatur,BL/FA/Lamoni,United States Representative District 2,,REP,Christopher Peters,410,310,100
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,United States Representative District 2,,REP,Christopher Peters,209,134,75
+Decatur,CE/ED/Leon,United States Representative District 2,,REP,Christopher Peters,471,313,158
+Decatur,DE/Decatur City,United States Representative District 2,,REP,Christopher Peters,108,90,18
+Decatur,GG/HP/WO/Garden Grove/LeRoy,United States Representative District 2,,REP,Christopher Peters,174,109,65
+Decatur,GR/RL/Grand River,United States Representative District 2,,REP,Christopher Peters,113,93,20
+Decatur,FR/LC/Van Wert/Weldon,United States Representative District 2,,REP,Christopher Peters,166,136,30
+Decatur,BL/FA/Lamoni,United States Representative District 2,,DEM,Dave Loebsack,427,298,129
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,United States Representative District 2,,DEM,Dave Loebsack,82,55,27
+Decatur,CE/ED/Leon,United States Representative District 2,,DEM,Dave Loebsack,306,168,138
+Decatur,DE/Decatur City,United States Representative District 2,,DEM,Dave Loebsack,42,34,8
+Decatur,GG/HP/WO/Garden Grove/LeRoy,United States Representative District 2,,DEM,Dave Loebsack,80,57,23
+Decatur,GR/RL/Grand River,United States Representative District 2,,DEM,Dave Loebsack,69,53,16
+Decatur,FR/LC/Van Wert/Weldon,United States Representative District 2,,DEM,Dave Loebsack,116,87,29
+Decatur,BL/FA/Lamoni,United States Representative District 2,,LIB,Mark David Strauss,19,17,2
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,United States Representative District 2,,LIB,Mark David Strauss,6,5,1
+Decatur,CE/ED/Leon,United States Representative District 2,,LIB,Mark David Strauss,30,21,9
+Decatur,DE/Decatur City,United States Representative District 2,,LIB,Mark David Strauss,5,3,2
+Decatur,GG/HP/WO/Garden Grove/LeRoy,United States Representative District 2,,LIB,Mark David Strauss,10,5,5
+Decatur,GR/RL/Grand River,United States Representative District 2,,LIB,Mark David Strauss,6,5,1
+Decatur,FR/LC/Van Wert/Weldon,United States Representative District 2,,LIB,Mark David Strauss,7,7,0
+Decatur,BL/FA/Lamoni,United States Representative District 2,,,Daniel Clark,2,2,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,United States Representative District 2,,,Daniel Clark,2,1,1
+Decatur,CE/ED/Leon,United States Representative District 2,,,Daniel Clark,15,11,4
+Decatur,DE/Decatur City,United States Representative District 2,,,Daniel Clark,2,2,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,United States Representative District 2,,,Daniel Clark,5,4,1
+Decatur,GR/RL/Grand River,United States Representative District 2,,,Daniel Clark,1,1,0
+Decatur,FR/LC/Van Wert/Weldon,United States Representative District 2,,,Daniel Clark,2,1,1
+Decatur,BL/FA/Lamoni,United States Representative District 2,,,Write-in,1,1,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,United States Representative District 2,,,Write-in,0,0,0
+Decatur,CE/ED/Leon,United States Representative District 2,,,Write-in,0,0,0
+Decatur,DE/Decatur City,United States Representative District 2,,,Write-in,0,0,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,United States Representative District 2,,,Write-in,0,0,0
+Decatur,GR/RL/Grand River,United States Representative District 2,,,Write-in,0,0,0
+Decatur,FR/LC/Van Wert/Weldon,United States Representative District 2,,,Write-in,0,0,0
+Decatur,BL/FA/Lamoni,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,457,346,111
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,242,159,83
+Decatur,CE/ED/Leon,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,542,362,180
+Decatur,DE/Decatur City,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,117,98,19
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,191,121,70
+Decatur,GR/RL/Grand River,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,134,111,23
+Decatur,FR/LC/Van Wert/Weldon,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,189,156,33
+Decatur,BL/FA/Lamoni,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,403,282,121
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,56,40,16
+Decatur,CE/ED/Leon,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,279,146,133
+Decatur,DE/Decatur City,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,40,30,10
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,75,50,25
+Decatur,GR/RL/Grand River,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,55,38,17
+Decatur,FR/LC/Van Wert/Weldon,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,100,72,28
+Decatur,BL/FA/Lamoni,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,14,10,4
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,9,5,4
+Decatur,CE/ED/Leon,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,17,14,3
+Decatur,DE/Decatur City,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,5,4,1
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,9,7,2
+Decatur,GR/RL/Grand River,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,3,3,0
+Decatur,FR/LC/Van Wert/Weldon,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,5,5,0
+Decatur,BL/FA/Lamoni,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,3,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,1,0,1
+Decatur,CE/ED/Leon,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,2,1
+Decatur,DE/Decatur City,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,0,0,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,0,0,0
+Decatur,GR/RL/Grand River,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,0,0,0
+Decatur,FR/LC/Van Wert/Weldon,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,3,0
+Decatur,BL/FA/Lamoni,Governor/Lieutenant Governor,,,Write-in,2,2,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Decatur,CE/ED/Leon,Governor/Lieutenant Governor,,,Write-in,1,0,1
+Decatur,DE/Decatur City,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Decatur,GR/RL/Grand River,Governor/Lieutenant Governor,,,Write-in,1,1,0
+Decatur,FR/LC/Van Wert/Weldon,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Decatur,BL/FA/Lamoni,Secretary of State,,REP,Paul D. Pate,463,354,109
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Secretary of State,,REP,Paul D. Pate,231,146,85
+Decatur,CE/ED/Leon,Secretary of State,,REP,Paul D. Pate,539,359,180
+Decatur,DE/Decatur City,Secretary of State,,REP,Paul D. Pate,113,92,21
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Secretary of State,,REP,Paul D. Pate,179,114,65
+Decatur,GR/RL/Grand River,Secretary of State,,REP,Paul D. Pate,133,109,24
+Decatur,FR/LC/Van Wert/Weldon,Secretary of State,,REP,Paul D. Pate,191,155,36
+Decatur,BL/FA/Lamoni,Secretary of State,,DEM,Deidre DeJear,377,258,119
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Secretary of State,,DEM,Deidre DeJear,57,42,15
+Decatur,CE/ED/Leon,Secretary of State,,DEM,Deidre DeJear,243,122,121
+Decatur,DE/Decatur City,Secretary of State,,DEM,Deidre DeJear,33,29,4
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Secretary of State,,DEM,Deidre DeJear,80,54,26
+Decatur,GR/RL/Grand River,Secretary of State,,DEM,Deidre DeJear,53,39,14
+Decatur,FR/LC/Van Wert/Weldon,Secretary of State,,DEM,Deidre DeJear,97,73,24
+Decatur,BL/FA/Lamoni,Secretary of State,,LIB,Jules Ofenbakh,16,15,1
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Secretary of State,,LIB,Jules Ofenbakh,11,6,5
+Decatur,CE/ED/Leon,Secretary of State,,LIB,Jules Ofenbakh,30,22,8
+Decatur,DE/Decatur City,Secretary of State,,LIB,Jules Ofenbakh,7,5,2
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Secretary of State,,LIB,Jules Ofenbakh,10,7,3
+Decatur,GR/RL/Grand River,Secretary of State,,LIB,Jules Ofenbakh,4,3,1
+Decatur,FR/LC/Van Wert/Weldon,Secretary of State,,LIB,Jules Ofenbakh,4,4,0
+Decatur,BL/FA/Lamoni,Secretary of State,,,Write-in,1,1,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Secretary of State,,,Write-in,0,0,0
+Decatur,CE/ED/Leon,Secretary of State,,,Write-in,0,0,0
+Decatur,DE/Decatur City,Secretary of State,,,Write-in,0,0,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Secretary of State,,,Write-in,0,0,0
+Decatur,GR/RL/Grand River,Secretary of State,,,Write-in,0,0,0
+Decatur,FR/LC/Van Wert/Weldon,Secretary of State,,,Write-in,0,0,0
+Decatur,BL/FA/Lamoni,Auditor of State,,REP,Mary Mosiman,422,327,95
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Auditor of State,,REP,Mary Mosiman,210,133,77
+Decatur,CE/ED/Leon,Auditor of State,,REP,Mary Mosiman,477,316,161
+Decatur,DE/Decatur City,Auditor of State,,REP,Mary Mosiman,96,78,18
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Auditor of State,,REP,Mary Mosiman,162,100,62
+Decatur,GR/RL/Grand River,Auditor of State,,REP,Mary Mosiman,110,91,19
+Decatur,FR/LC/Van Wert/Weldon,Auditor of State,,REP,Mary Mosiman,165,134,31
+Decatur,BL/FA/Lamoni,Auditor of State,,DEM,Rob Sand,407,277,130
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Auditor of State,,DEM,Rob Sand,81,53,28
+Decatur,CE/ED/Leon,Auditor of State,,DEM,Rob Sand,310,168,142
+Decatur,DE/Decatur City,Auditor of State,,DEM,Rob Sand,49,42,7
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Auditor of State,,DEM,Rob Sand,95,65,30
+Decatur,GR/RL/Grand River,Auditor of State,,DEM,Rob Sand,74,54,20
+Decatur,FR/LC/Van Wert/Weldon,Auditor of State,,DEM,Rob Sand,116,89,27
+Decatur,BL/FA/Lamoni,Auditor of State,,LIB,Fred Perryman,24,20,4
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Auditor of State,,LIB,Fred Perryman,8,7,1
+Decatur,CE/ED/Leon,Auditor of State,,LIB,Fred Perryman,30,21,9
+Decatur,DE/Decatur City,Auditor of State,,LIB,Fred Perryman,7,5,2
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Auditor of State,,LIB,Fred Perryman,13,9,4
+Decatur,GR/RL/Grand River,Auditor of State,,LIB,Fred Perryman,4,4,0
+Decatur,FR/LC/Van Wert/Weldon,Auditor of State,,LIB,Fred Perryman,8,6,2
+Decatur,BL/FA/Lamoni,Auditor of State,,,Write-in,1,1,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Auditor of State,,,Write-in,0,0,0
+Decatur,CE/ED/Leon,Auditor of State,,,Write-in,1,0,1
+Decatur,DE/Decatur City,Auditor of State,,,Write-in,0,0,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Auditor of State,,,Write-in,0,0,0
+Decatur,GR/RL/Grand River,Auditor of State,,,Write-in,0,0,0
+Decatur,FR/LC/Van Wert/Weldon,Auditor of State,,,Write-in,0,0,0
+Decatur,BL/FA/Lamoni,Treasurer of State,,REP,Jeremy N. Davis,380,297,83
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Treasurer of State,,REP,Jeremy N. Davis,191,123,68
+Decatur,CE/ED/Leon,Treasurer of State,,REP,Jeremy N. Davis,413,277,136
+Decatur,DE/Decatur City,Treasurer of State,,REP,Jeremy N. Davis,91,73,18
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Treasurer of State,,REP,Jeremy N. Davis,155,95,60
+Decatur,GR/RL/Grand River,Treasurer of State,,REP,Jeremy N. Davis,104,85,19
+Decatur,FR/LC/Van Wert/Weldon,Treasurer of State,,REP,Jeremy N. Davis,151,123,28
+Decatur,BL/FA/Lamoni,Treasurer of State,,DEM,Michael L. Fitzgerald,448,305,143
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Treasurer of State,,DEM,Michael L. Fitzgerald,99,65,34
+Decatur,CE/ED/Leon,Treasurer of State,,DEM,Michael L. Fitzgerald,379,211,168
+Decatur,DE/Decatur City,Treasurer of State,,DEM,Michael L. Fitzgerald,56,49,7
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Treasurer of State,,DEM,Michael L. Fitzgerald,106,73,33
+Decatur,GR/RL/Grand River,Treasurer of State,,DEM,Michael L. Fitzgerald,82,64,18
+Decatur,FR/LC/Van Wert/Weldon,Treasurer of State,,DEM,Michael L. Fitzgerald,139,108,31
+Decatur,BL/FA/Lamoni,Treasurer of State,,LIB,Timothy Hird,23,21,2
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Treasurer of State,,LIB,Timothy Hird,9,6,3
+Decatur,CE/ED/Leon,Treasurer of State,,LIB,Timothy Hird,23,18,5
+Decatur,DE/Decatur City,Treasurer of State,,LIB,Timothy Hird,4,3,1
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Treasurer of State,,LIB,Timothy Hird,9,6,3
+Decatur,GR/RL/Grand River,Treasurer of State,,LIB,Timothy Hird,2,2,0
+Decatur,FR/LC/Van Wert/Weldon,Treasurer of State,,LIB,Timothy Hird,5,4,1
+Decatur,BL/FA/Lamoni,Treasurer of State,,,Write-in,1,1,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Treasurer of State,,,Write-in,0,0,0
+Decatur,CE/ED/Leon,Treasurer of State,,,Write-in,1,0,1
+Decatur,DE/Decatur City,Treasurer of State,,,Write-in,0,0,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Treasurer of State,,,Write-in,0,0,0
+Decatur,GR/RL/Grand River,Treasurer of State,,,Write-in,0,0,0
+Decatur,FR/LC/Van Wert/Weldon,Treasurer of State,,,Write-in,0,0,0
+Decatur,BL/FA/Lamoni,Secretary of Agriculture,,REP,Mike Naig,440,338,102
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Secretary of Agriculture,,REP,Mike Naig,219,141,78
+Decatur,CE/ED/Leon,Secretary of Agriculture,,REP,Mike Naig,499,338,161
+Decatur,DE/Decatur City,Secretary of Agriculture,,REP,Mike Naig,109,86,23
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Secretary of Agriculture,,REP,Mike Naig,172,105,67
+Decatur,GR/RL/Grand River,Secretary of Agriculture,,REP,Mike Naig,123,101,22
+Decatur,FR/LC/Van Wert/Weldon,Secretary of Agriculture,,REP,Mike Naig,176,145,31
+Decatur,BL/FA/Lamoni,Secretary of Agriculture,,DEM,Tim Gannon,384,262,122
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Secretary of Agriculture,,DEM,Tim Gannon,71,49,22
+Decatur,CE/ED/Leon,Secretary of Agriculture,,DEM,Tim Gannon,275,138,137
+Decatur,DE/Decatur City,Secretary of Agriculture,,DEM,Tim Gannon,38,35,3
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Secretary of Agriculture,,DEM,Tim Gannon,86,60,26
+Decatur,GR/RL/Grand River,Secretary of Agriculture,,DEM,Tim Gannon,69,52,17
+Decatur,FR/LC/Van Wert/Weldon,Secretary of Agriculture,,DEM,Tim Gannon,108,82,26
+Decatur,BL/FA/Lamoni,Secretary of Agriculture,,LIB,Rick Stewart,25,22,3
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Secretary of Agriculture,,LIB,Rick Stewart,9,7,2
+Decatur,CE/ED/Leon,Secretary of Agriculture,,LIB,Rick Stewart,36,25,11
+Decatur,DE/Decatur City,Secretary of Agriculture,,LIB,Rick Stewart,7,6,1
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Secretary of Agriculture,,LIB,Rick Stewart,12,10,2
+Decatur,GR/RL/Grand River,Secretary of Agriculture,,LIB,Rick Stewart,1,1,0
+Decatur,FR/LC/Van Wert/Weldon,Secretary of Agriculture,,LIB,Rick Stewart,10,8,2
+Decatur,BL/FA/Lamoni,Secretary of Agriculture,,,Write-in,1,1,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Secretary of Agriculture,,,Write-in,0,0,0
+Decatur,CE/ED/Leon,Secretary of Agriculture,,,Write-in,0,0,0
+Decatur,DE/Decatur City,Secretary of Agriculture,,,Write-in,0,0,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Secretary of Agriculture,,,Write-in,0,0,0
+Decatur,GR/RL/Grand River,Secretary of Agriculture,,,Write-in,0,0,0
+Decatur,FR/LC/Van Wert/Weldon,Secretary of Agriculture,,,Write-in,0,0,0
+Decatur,BL/FA/Lamoni,Attorney General,,DEM,Tom Miller,571,403,168
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Attorney General,,DEM,Tom Miller,173,122,51
+Decatur,CE/ED/Leon,Attorney General,,DEM,Tom Miller,540,317,223
+Decatur,DE/Decatur City,Attorney General,,DEM,Tom Miller,92,80,12
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Attorney General,,DEM,Tom Miller,150,106,44
+Decatur,GR/RL/Grand River,Attorney General,,DEM,Tom Miller,113,86,27
+Decatur,FR/LC/Van Wert/Weldon,Attorney General,,DEM,Tom Miller,188,152,36
+Decatur,BL/FA/Lamoni,Attorney General,,LIB,Marco Battaglia,197,162,35
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Attorney General,,LIB,Marco Battaglia,79,49,30
+Decatur,CE/ED/Leon,Attorney General,,LIB,Marco Battaglia,183,125,58
+Decatur,DE/Decatur City,Attorney General,,LIB,Marco Battaglia,44,33,11
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Attorney General,,LIB,Marco Battaglia,82,49,33
+Decatur,GR/RL/Grand River,Attorney General,,LIB,Marco Battaglia,38,34,4
+Decatur,FR/LC/Van Wert/Weldon,Attorney General,,LIB,Marco Battaglia,75,58,17
+Decatur,BL/FA/Lamoni,Attorney General,,,Write-in,2,2,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Attorney General,,,Write-in,0,0,0
+Decatur,CE/ED/Leon,Attorney General,,,Write-in,6,6,0
+Decatur,DE/Decatur City,Attorney General,,,Write-in,0,0,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Attorney General,,,Write-in,0,0,0
+Decatur,GR/RL/Grand River,Attorney General,,,Write-in,0,0,0
+Decatur,FR/LC/Van Wert/Weldon,Attorney General,,,Write-in,0,0,0
+Decatur,BL/FA/Lamoni,State Representative District 27,,REP,Joel Fry,468,358,110
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,State Representative District 27,,REP,Joel Fry,235,150,85
+Decatur,CE/ED/Leon,State Representative District 27,,REP,Joel Fry,603,412,191
+Decatur,DE/Decatur City,State Representative District 27,,REP,Joel Fry,124,102,22
+Decatur,GG/HP/WO/Garden Grove/LeRoy,State Representative District 27,,REP,Joel Fry,196,127,69
+Decatur,GR/RL/Grand River,State Representative District 27,,REP,Joel Fry,134,113,21
+Decatur,FR/LC/Van Wert/Weldon,State Representative District 27,,REP,Joel Fry,208,167,41
+Decatur,BL/FA/Lamoni,State Representative District 27,,DEM,Richard Foster,395,275,120
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,State Representative District 27,,DEM,Richard Foster,61,42,19
+Decatur,CE/ED/Leon,State Representative District 27,,DEM,Richard Foster,223,100,123
+Decatur,DE/Decatur City,State Representative District 27,,DEM,Richard Foster,30,25,5
+Decatur,GG/HP/WO/Garden Grove/LeRoy,State Representative District 27,,DEM,Richard Foster,74,47,27
+Decatur,GR/RL/Grand River,State Representative District 27,,DEM,Richard Foster,56,39,17
+Decatur,FR/LC/Van Wert/Weldon,State Representative District 27,,DEM,Richard Foster,85,66,19
+Decatur,BL/FA/Lamoni,State Representative District 27,,,Write-in,1,1,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,State Representative District 27,,,Write-in,0,0,0
+Decatur,CE/ED/Leon,State Representative District 27,,,Write-in,1,0,1
+Decatur,DE/Decatur City,State Representative District 27,,,Write-in,1,1,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,State Representative District 27,,,Write-in,0,0,0
+Decatur,GR/RL/Grand River,State Representative District 27,,,Write-in,0,0,0
+Decatur,FR/LC/Van Wert/Weldon,State Representative District 27,,,Write-in,0,0,0
+Decatur,BL/FA/Lamoni,County Supervisors At-Large,,REP,Robert G. Bell,522,400,122
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,County Supervisors At-Large,,REP,Robert G. Bell,155,109,46
+Decatur,CE/ED/Leon,County Supervisors At-Large,,REP,Robert G. Bell,296,197,99
+Decatur,DE/Decatur City,County Supervisors At-Large,,REP,Robert G. Bell,76,64,12
+Decatur,GG/HP/WO/Garden Grove/LeRoy,County Supervisors At-Large,,REP,Robert G. Bell,137,83,54
+Decatur,GR/RL/Grand River,County Supervisors At-Large,,REP,Robert G. Bell,107,85,22
+Decatur,FR/LC/Van Wert/Weldon,County Supervisors At-Large,,REP,Robert G. Bell,135,112,23
+Decatur,BL/FA/Lamoni,County Supervisors At-Large,,DEM,Gary Bull Evans,278,191,87
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,County Supervisors At-Large,,DEM,Gary Bull Evans,77,53,24
+Decatur,CE/ED/Leon,County Supervisors At-Large,,DEM,Gary Bull Evans,280,166,114
+Decatur,DE/Decatur City,County Supervisors At-Large,,DEM,Gary Bull Evans,28,24,4
+Decatur,GG/HP/WO/Garden Grove/LeRoy,County Supervisors At-Large,,DEM,Gary Bull Evans,67,45,22
+Decatur,GR/RL/Grand River,County Supervisors At-Large,,DEM,Gary Bull Evans,57,42,15
+Decatur,FR/LC/Van Wert/Weldon,County Supervisors At-Large,,DEM,Gary Bull Evans,100,75,25
+Decatur,BL/FA/Lamoni,County Supervisors At-Large,,,Luke Helton,63,43,20
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,County Supervisors At-Large,,,Luke Helton,68,37,31
+Decatur,CE/ED/Leon,County Supervisors At-Large,,,Luke Helton,253,148,105
+Decatur,DE/Decatur City,County Supervisors At-Large,,,Luke Helton,53,40,13
+Decatur,GG/HP/WO/Garden Grove/LeRoy,County Supervisors At-Large,,,Luke Helton,64,47,17
+Decatur,GR/RL/Grand River,County Supervisors At-Large,,,Luke Helton,27,25,2
+Decatur,FR/LC/Van Wert/Weldon,County Supervisors At-Large,,,Luke Helton,58,45,13
+Decatur,BL/FA/Lamoni,County Supervisors At-Large,,,Write-in,1,1,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,County Supervisors At-Large,,,Write-in,2,1,1
+Decatur,CE/ED/Leon,County Supervisors At-Large,,,Write-in,0,0,0
+Decatur,DE/Decatur City,County Supervisors At-Large,,,Write-in,1,1,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,County Supervisors At-Large,,,Write-in,0,0,0
+Decatur,GR/RL/Grand River,County Supervisors At-Large,,,Write-in,0,0,0
+Decatur,FR/LC/Van Wert/Weldon,County Supervisors At-Large,,,Write-in,0,0,0
+Decatur,BL/FA/Lamoni,County Treasurer,,REP,Janet Pierson,688,519,169
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,County Treasurer,,REP,Janet Pierson,265,172,93
+Decatur,CE/ED/Leon,County Treasurer,,REP,Janet Pierson,718,467,251
+Decatur,DE/Decatur City,County Treasurer,,REP,Janet Pierson,145,117,28
+Decatur,GG/HP/WO/Garden Grove/LeRoy,County Treasurer,,REP,Janet Pierson,238,157,81
+Decatur,GR/RL/Grand River,County Treasurer,,REP,Janet Pierson,169,142,27
+Decatur,FR/LC/Van Wert/Weldon,County Treasurer,,REP,Janet Pierson,259,212,47
+Decatur,BL/FA/Lamoni,County Treasurer,,,Write-in,26,19,7
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,County Treasurer,,,Write-in,5,4,1
+Decatur,CE/ED/Leon,County Treasurer,,,Write-in,16,8,8
+Decatur,DE/Decatur City,County Treasurer,,,Write-in,4,4,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,County Treasurer,,,Write-in,3,3,0
+Decatur,GR/RL/Grand River,County Treasurer,,,Write-in,0,0,0
+Decatur,FR/LC/Van Wert/Weldon,County Treasurer,,,Write-in,4,3,1
+Decatur,BL/FA/Lamoni,County Recorder,,DEM,Gale Norman,701,521,180
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,County Recorder,,DEM,Gale Norman,234,159,75
+Decatur,CE/ED/Leon,County Recorder,,DEM,Gale Norman,662,410,252
+Decatur,DE/Decatur City,County Recorder,,DEM,Gale Norman,121,102,19
+Decatur,GG/HP/WO/Garden Grove/LeRoy,County Recorder,,DEM,Gale Norman,205,143,62
+Decatur,GR/RL/Grand River,County Recorder,,DEM,Gale Norman,149,122,27
+Decatur,FR/LC/Van Wert/Weldon,County Recorder,,DEM,Gale Norman,244,198,46
+Decatur,BL/FA/Lamoni,County Recorder,,,Write-in,7,6,1
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,County Recorder,,,Write-in,3,2,1
+Decatur,CE/ED/Leon,County Recorder,,,Write-in,13,9,4
+Decatur,DE/Decatur City,County Recorder,,,Write-in,4,4,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,County Recorder,,,Write-in,3,2,1
+Decatur,GR/RL/Grand River,County Recorder,,,Write-in,4,3,1
+Decatur,FR/LC/Van Wert/Weldon,County Recorder,,,Write-in,3,2,1
+Decatur,BL/FA/Lamoni,County Attorney,,,Lisa Hynden Jeanes,708,527,181
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,County Attorney,,,Lisa Hynden Jeanes,236,160,76
+Decatur,CE/ED/Leon,County Attorney,,,Lisa Hynden Jeanes,618,387,231
+Decatur,DE/Decatur City,County Attorney,,,Lisa Hynden Jeanes,113,96,17
+Decatur,GG/HP/WO/Garden Grove/LeRoy,County Attorney,,,Lisa Hynden Jeanes,202,140,62
+Decatur,GR/RL/Grand River,County Attorney,,,Lisa Hynden Jeanes,141,118,23
+Decatur,FR/LC/Van Wert/Weldon,County Attorney,,,Lisa Hynden Jeanes,211,173,38
+Decatur,BL/FA/Lamoni,County Attorney,,,Write-in,15,8,7
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,County Attorney,,,Write-in,6,3,3
+Decatur,CE/ED/Leon,County Attorney,,,Write-in,28,16,12
+Decatur,DE/Decatur City,County Attorney,,,Write-in,5,4,1
+Decatur,GG/HP/WO/Garden Grove/LeRoy,County Attorney,,,Write-in,2,1,1
+Decatur,GR/RL/Grand River,County Attorney,,,Write-in,2,2,0
+Decatur,FR/LC/Van Wert/Weldon,County Attorney,,,Write-in,7,6,1
+Decatur,BL/FA/Lamoni,Bloomington Township Trustee,,,Bill Salsman,74,58,16
+Decatur,BL/FA/Lamoni,Bloomington Township Trustee,,,Write-in,1,1,0
+Decatur,BL/FA/Lamoni,Bloomington Township Clerk,,,Don Templeton,68,55,13
+Decatur,BL/FA/Lamoni,Bloomington Township Clerk,,,Write-in,1,0,1
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Burrell Township Trustee,,,Bill Hill,62,35,27
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Burrell Township Trustee,,,Write-in,0,0,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Burrell Township Clerk,,,Scott Bethards,55,32,23
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Burrell Township Clerk,,,Write-in,0,0,0
+Decatur,CE/ED/Leon,Center Township Trustee,,,Merlin Bell,2,2,0
+Decatur,CE/ED/Leon,Center Township Trustee,,,Tom Stone,1,1,0
+Decatur,CE/ED/Leon,Center Township Trustee,,,Melissa Smith,1,1,0
+Decatur,CE/ED/Leon,Center Township Trustee,,,Cody Lindsey,1,1,0
+Decatur,CE/ED/Leon,Center Township Trustee,,,Bob Bixby,1,0,1
+Decatur,CE/ED/Leon,Center Township Trustee,,,Mike Brines,1,0,1
+Decatur,CE/ED/Leon,Center Township Trustee,,,Amber Smith,1,0,1
+Decatur,CE/ED/Leon,Center Township Trustee,,,Jason Buckingham,1,0,1
+Decatur,CE/ED/Leon,Center Township Trustee,,,Write-in,0,0,0
+Decatur,CE/ED/Leon,Center Township Clerk,,,Melissa Smith,1,1,0
+Decatur,CE/ED/Leon,Center Township Clerk,,,John Rippey,1,1,0
+Decatur,CE/ED/Leon,Center Township Clerk,,,Nancy Andrew,1,0,1
+Decatur,CE/ED/Leon,Center Township Clerk,,,Write-in,0,0,0
+Decatur,DE/Decatur City,Decatur Township Trustee,,,Ray Peppmeier,4,4,0
+Decatur,DE/Decatur City,Decatur Township Trustee,,,Dale Young,1,1,0
+Decatur,DE/Decatur City,Decatur Township Trustee,,,Tim Andrew,1,1,0
+Decatur,DE/Decatur City,Decatur Township Trustee,,,Kurt Moser,1,1,0
+Decatur,DE/Decatur City,Decatur Township Trustee,,,Julie Peppmeier,1,1,0
+Decatur,DE/Decatur City,Decatur Township Trustee,,,Loren Helton,1,1,0
+Decatur,DE/Decatur City,Decatur Township Trustee,,,Larry Griffin,1,1,0
+Decatur,DE/Decatur City,Decatur Township Trustee,,,Write-in,0,0,0
+Decatur,DE/Decatur City,Decatur Township Clerk,,,Julie Peppmeier,4,4,0
+Decatur,DE/Decatur City,Decatur Township Clerk,,,Dale Young,1,1,0
+Decatur,DE/Decatur City,Decatur Township Clerk,,,Steve Conner,1,1,0
+Decatur,DE/Decatur City,Decatur Township Clerk,,,Guy Clark,1,1,0
+Decatur,DE/Decatur City,Decatur Township Clerk,,,Write-in,0,0,0
+Decatur,CE/ED/Leon,Eden Township Trustee,,,James Cornell,6,4,2
+Decatur,CE/ED/Leon,Eden Township Trustee,,,George Yoder,1,0,1
+Decatur,CE/ED/Leon,Eden Township Trustee,,,Tyler Graham,1,1,0
+Decatur,CE/ED/Leon,Eden Township Trustee,,,Mike Craig,1,1,0
+Decatur,CE/ED/Leon,Eden Township Trustee,,,Jim Higdon,1,1,0
+Decatur,CE/ED/Leon,Eden Township Trustee,,,John Rippey,1,0,1
+Decatur,CE/ED/Leon,Eden Township Trustee,,,Pete Buckingham,2,0,2
+Decatur,CE/ED/Leon,Eden Township Trustee,,,Scott Hanthorn,1,0,1
+Decatur,CE/ED/Leon,Eden Township Trustee,,,Blank/Fictional,4,3,1
+Decatur,CE/ED/Leon,Eden Township Trustee,,,Write-in,0,0,0
+Decatur,CE/ED/Leon,Eden Township Clerk,,,Anne Akers,8,5,3
+Decatur,CE/ED/Leon,Eden Township Clerk,,,Dwight Nernes,1,1,0
+Decatur,CE/ED/Leon,Eden Township Clerk,,,John Rippey,1,0,1
+Decatur,CE/ED/Leon,Eden Township Clerk,,,Justine Buckingham,1,0,1
+Decatur,CE/ED/Leon,Eden Township Clerk,,,Mike Jones,1,0,1
+Decatur,CE/ED/Leon,Eden Township Clerk,,,Blank/Fictional,2,2,0
+Decatur,CE/ED/Leon,Eden Township Clerk,,,Write-in,0,0,0
+Decatur,BL/FA/Lamoni,Fayette Township Trustee,,,Ronald Mickelson,3,2,1
+Decatur,BL/FA/Lamoni,Fayette Township Trustee,,,Nancy Hoffman,1,1,0
+Decatur,BL/FA/Lamoni,Fayette Township Trustee,,,Kyle Stoll,1,1,0
+Decatur,BL/FA/Lamoni,Fayette Township Trustee,,,Steve Hoffman,1,1,0
+Decatur,BL/FA/Lamoni,Fayette Township Trustee,,,Don Templeton,1,1,0
+Decatur,BL/FA/Lamoni,Fayette Township Trustee,,,Amy Sellars,1,1,0
+Decatur,BL/FA/Lamoni,Fayette Township Trustee,,,Blank/Fictional,1,1,0
+Decatur,BL/FA/Lamoni,Fayette Township Trustee,,,Write-in,0,0,0
+Decatur,BL/FA/Lamoni,Fayette Township Clerk,,,Leon Kessel,4,2,2
+Decatur,BL/FA/Lamoni,Fayette Township Clerk,,,Nancy Hoffman,1,1,0
+Decatur,BL/FA/Lamoni,Fayette Township Clerk,,,Bill Heintz,1,1,0
+Decatur,BL/FA/Lamoni,Fayette Township Clerk,,,Ron Mickelson,1,1,0
+Decatur,BL/FA/Lamoni,Fayette Township Clerk,,,Blank/Fictional,1,1,0
+Decatur,BL/FA/Lamoni,Fayette Township Clerk,,,Write-in,0,0,0
+Decatur,FR/LC/Van Wert/Weldon,Franklin Township Trustee,,,Sam Brimm,71,57,14
+Decatur,FR/LC/Van Wert/Weldon,Franklin Township Trustee,,,Write-in,1,1,0
+Decatur,FR/LC/Van Wert/Weldon,Franklin Township Clerk,,,Lindsey Wade,2,2,0
+Decatur,FR/LC/Van Wert/Weldon,Franklin Township Clerk,,,Norman Troyer,2,2,0
+Decatur,FR/LC/Van Wert/Weldon,Franklin Township Clerk,,,Morris Yoder,1,1,0
+Decatur,FR/LC/Van Wert/Weldon,Franklin Township Clerk,,,Colby Dudney,1,1,0
+Decatur,FR/LC/Van Wert/Weldon,Franklin Township Clerk,,,Sandy Smith,1,0,1
+Decatur,FR/LC/Van Wert/Weldon,Franklin Township Clerk,,,Ruby Robertson,1,0,1
+Decatur,FR/LC/Van Wert/Weldon,Franklin Township Clerk,,,Dustin Wilke,1,1,0
+Decatur,FR/LC/Van Wert/Weldon,Franklin Township Clerk,,,Blank/Fictional,1,1,0
+Decatur,FR/LC/Van Wert/Weldon,Franklin Township Clerk,,,Write-in,0,0,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Garden Grove Township Trustee,,,Scott Coffey,7,7,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Garden Grove Township Trustee,,,Gary Stripe,3,2,1
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Garden Grove Township Trustee,,,Tony Funk,1,1,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Garden Grove Township Trustee,,,Chris Brown,1,1,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Garden Grove Township Trustee,,,Joan K Noble,1,1,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Garden Grove Township Trustee,,,Rodney Schmidt,1,0,1
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Garden Grove Township Trustee,,,Blank/Fictional,3,1,2
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Garden Grove Township Trustee,,,Write-in,0,0,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Garden Grove Township Clerk,,,Sandra Stripe,78,58,20
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Garden Grove Township Clerk,,,Write-in,1,0,1
+Decatur,GR/RL/Grand River,Grand River Township Trustee,,,Ty Hunt,5,4,1
+Decatur,GR/RL/Grand River,Grand River Township Trustee,,,Bonnie Cox,1,1,0
+Decatur,GR/RL/Grand River,Grand River Township Trustee,,,Blank/Fictional,2,1,1
+Decatur,GR/RL/Grand River,Grand River Township Trustee,,,Write-in,0,0,0
+Decatur,GR/RL/Grand River,Grand River Township Clerk,,,Susan M. Griffin,38,30,8
+Decatur,GR/RL/Grand River,Grand River Township Clerk,,,Write-in,0,0,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Hamilton Township Trustee,,,Lorren Helton,54,40,14
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Hamilton Township Trustee,,,Write-in,1,0,1
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Hamilton Township Clerk,,,Amy Hamilton,54,40,14
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Hamilton Township Clerk,,,Write-in,1,0,1
+Decatur,GG/HP/WO/Garden Grove/LeRoy,High Point Township Trustee,,,Zach Mendenhall,8,5,3
+Decatur,GG/HP/WO/Garden Grove/LeRoy,High Point Township Trustee,,,Dwayne Skinner,3,1,2
+Decatur,GG/HP/WO/Garden Grove/LeRoy,High Point Township Trustee,,,Mark Mendenhall,2,1,1
+Decatur,GG/HP/WO/Garden Grove/LeRoy,High Point Township Trustee,,,James Morris,2,1,1
+Decatur,GG/HP/WO/Garden Grove/LeRoy,High Point Township Trustee,,,Lyle Bremer,1,0,1
+Decatur,GG/HP/WO/Garden Grove/LeRoy,High Point Township Trustee,,,Noah Thomas,1,0,1
+Decatur,GG/HP/WO/Garden Grove/LeRoy,High Point Township Trustee,,,Kevin Buckingham,1,0,1
+Decatur,GG/HP/WO/Garden Grove/LeRoy,High Point Township Trustee,,,Write-in,0,0,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,High Point Township Clerk,,,David Mendenhall,58,44,14
+Decatur,GG/HP/WO/Garden Grove/LeRoy,High Point Township Clerk,,,Write-in,2,2,0
+Decatur,FR/LC/Van Wert/Weldon,Long Creek Township Trustee,,,William Beers,72,55,17
+Decatur,FR/LC/Van Wert/Weldon,Long Creek Township Trustee,,,Write-in,0,0,0
+Decatur,FR/LC/Van Wert/Weldon,Long Creek Township Clerk,,,Dennis Fierce,73,56,17
+Decatur,FR/LC/Van Wert/Weldon,Long Creek Township Clerk,,,Write-in,0,0,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Morgan Township Trustee,,,Josh Fry,2,1,1
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Morgan Township Trustee,,,Benji Hullinger,2,1,1
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Morgan Township Trustee,,,Jeffrey Landrum,1,0,1
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Morgan Township Trustee,,,Jason Hollinger,1,0,1
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Morgan Township Trustee,,,Bill Vogel,1,0,1
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Morgan Township Trustee,,,Dennis Buckingham,1,0,1
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Morgan Township Trustee,,,Write-in,0,0,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Morgan Township Clerk,,,Michael Andrew,28,10,18
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Morgan Township Clerk,,,Write-in,1,0,1
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,New Buda Township Trustee,,,Scott Shields,54,36,18
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,New Buda Township Trustee,,,Write-in,0,0,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,New Buda Township Clerk,,,Dennis E. McIntire,53,34,19
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,New Buda Township Clerk,,,Write-in,0,0,0
+Decatur,GR/RL/Grand River,Richland Township Trustee,,,Brian Deemer,64,54,10
+Decatur,GR/RL/Grand River,Richland Township Trustee,,,Write-in,1,1,0
+Decatur,GR/RL/Grand River,Richland Township Clerk,,,Patti Jimmerson,54,44,10
+Decatur,GR/RL/Grand River,Richland Township Clerk,,,Write-in,1,1,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Woodland Township Trustee,,,Bill Hamaker,8,2,6
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Woodland Township Trustee,,,Osa Foltz,1,1,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Woodland Township Trustee,,,Tom Beason,1,1,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Woodland Township Trustee,,,Don Wood,1,1,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Woodland Township Trustee,,,Jerry Hatfield,1,1,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Woodland Township Trustee,,,Kevin Hatfield,1,1,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Woodland Township Trustee,,,Jim Fleming,1,0,1
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Woodland Township Trustee,,,Blank/Fictional,1,1,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Woodland Township Trustee,,,Write-in,0,0,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Woodland Township Clerk,,,Sharon Hamaker,9,3,6
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Woodland Township Clerk,,,Lonnie Jensen,1,1,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Woodland Township Clerk,,,Terry Bundt,1,1,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Woodland Township Clerk,,,Terri Hatfield,1,0,1
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Woodland Township Clerk,,,Blank/Fictional,1,1,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Woodland Township Clerk,,,Write-in,0,0,0
+Decatur,BL/FA/Lamoni,County Public Hospital Trustee,,,Larry Griffin,350,271,79
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,County Public Hospital Trustee,,,Larry Griffin,186,122,64
+Decatur,CE/ED/Leon,County Public Hospital Trustee,,,Larry Griffin,486,316,170
+Decatur,DE/Decatur City,County Public Hospital Trustee,,,Larry Griffin,100,85,15
+Decatur,GG/HP/WO/Garden Grove/LeRoy,County Public Hospital Trustee,,,Larry Griffin,142,97,45
+Decatur,GR/RL/Grand River,County Public Hospital Trustee,,,Larry Griffin,151,124,27
+Decatur,FR/LC/Van Wert/Weldon,County Public Hospital Trustee,,,Larry Griffin,162,128,34
+Decatur,BL/FA/Lamoni,County Public Hospital Trustee,,,Rudy Evertsen,257,183,74
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,County Public Hospital Trustee,,,Rudy Evertsen,128,84,44
+Decatur,CE/ED/Leon,County Public Hospital Trustee,,,Rudy Evertsen,403,252,151
+Decatur,DE/Decatur City,County Public Hospital Trustee,,,Rudy Evertsen,62,54,8
+Decatur,GG/HP/WO/Garden Grove/LeRoy,County Public Hospital Trustee,,,Rudy Evertsen,92,62,30
+Decatur,GR/RL/Grand River,County Public Hospital Trustee,,,Rudy Evertsen,76,61,15
+Decatur,FR/LC/Van Wert/Weldon,County Public Hospital Trustee,,,Rudy Evertsen,109,88,21
+Decatur,BL/FA/Lamoni,County Public Hospital Trustee,,,Denise Elefson,605,445,160
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,County Public Hospital Trustee,,,Denise Elefson,169,116,53
+Decatur,CE/ED/Leon,County Public Hospital Trustee,,,Denise Elefson,472,297,175
+Decatur,DE/Decatur City,County Public Hospital Trustee,,,Denise Elefson,78,69,9
+Decatur,GG/HP/WO/Garden Grove/LeRoy,County Public Hospital Trustee,,,Denise Elefson,135,96,39
+Decatur,GR/RL/Grand River,County Public Hospital Trustee,,,Denise Elefson,90,73,17
+Decatur,FR/LC/Van Wert/Weldon,County Public Hospital Trustee,,,Denise Elefson,153,121,32
+Decatur,BL/FA/Lamoni,County Public Hospital Trustee,,,Guy Clark,360,266,94
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,County Public Hospital Trustee,,,Guy Clark,150,104,46
+Decatur,CE/ED/Leon,County Public Hospital Trustee,,,Guy Clark,406,261,145
+Decatur,DE/Decatur City,County Public Hospital Trustee,,,Guy Clark,69,61,8
+Decatur,GG/HP/WO/Garden Grove/LeRoy,County Public Hospital Trustee,,,Guy Clark,130,89,41
+Decatur,GR/RL/Grand River,County Public Hospital Trustee,,,Guy Clark,88,73,15
+Decatur,FR/LC/Van Wert/Weldon,County Public Hospital Trustee,,,Guy Clark,161,134,27
+Decatur,BL/FA/Lamoni,County Public Hospital Trustee,,,Write-in,12,12,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,County Public Hospital Trustee,,,Write-in,3,1,2
+Decatur,CE/ED/Leon,County Public Hospital Trustee,,,Write-in,18,12,6
+Decatur,DE/Decatur City,County Public Hospital Trustee,,,Write-in,5,4,1
+Decatur,GG/HP/WO/Garden Grove/LeRoy,County Public Hospital Trustee,,,Write-in,2,1,1
+Decatur,GR/RL/Grand River,County Public Hospital Trustee,,,Write-in,0,0,0
+Decatur,FR/LC/Van Wert/Weldon,County Public Hospital Trustee,,,Write-in,0,0,0
+Decatur,BL/FA/Lamoni,Soil and Water Conservation Dist. Commissioners,,,David Brennecke,518,395,123
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Soil and Water Conservation Dist. Commissioners,,,David Brennecke,211,140,71
+Decatur,CE/ED/Leon,Soil and Water Conservation Dist. Commissioners,,,David Brennecke,533,335,198
+Decatur,DE/Decatur City,Soil and Water Conservation Dist. Commissioners,,,David Brennecke,96,84,12
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Soil and Water Conservation Dist. Commissioners,,,David Brennecke,161,109,52
+Decatur,GR/RL/Grand River,Soil and Water Conservation Dist. Commissioners,,,David Brennecke,115,96,19
+Decatur,FR/LC/Van Wert/Weldon,Soil and Water Conservation Dist. Commissioners,,,David Brennecke,181,151,30
+Decatur,BL/FA/Lamoni,Soil and Water Conservation Dist. Commissioners,,,Bradley B. Funk,519,393,126
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Soil and Water Conservation Dist. Commissioners,,,Bradley B. Funk,197,125,72
+Decatur,CE/ED/Leon,Soil and Water Conservation Dist. Commissioners,,,Bradley B. Funk,546,341,205
+Decatur,DE/Decatur City,Soil and Water Conservation Dist. Commissioners,,,Bradley B. Funk,106,90,16
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Soil and Water Conservation Dist. Commissioners,,,Bradley B. Funk,191,130,61
+Decatur,GR/RL/Grand River,Soil and Water Conservation Dist. Commissioners,,,Bradley B. Funk,124,106,18
+Decatur,FR/LC/Van Wert/Weldon,Soil and Water Conservation Dist. Commissioners,,,Bradley B. Funk,189,157,32
+Decatur,BL/FA/Lamoni,Soil and Water Conservation Dist. Commissioners,,,Write-in,4,4,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Soil and Water Conservation Dist. Commissioners,,,Write-in,4,2,2
+Decatur,CE/ED/Leon,Soil and Water Conservation Dist. Commissioners,,,Write-in,9,7,2
+Decatur,DE/Decatur City,Soil and Water Conservation Dist. Commissioners,,,Write-in,4,4,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Soil and Water Conservation Dist. Commissioners,,,Write-in,4,3,1
+Decatur,GR/RL/Grand River,Soil and Water Conservation Dist. Commissioners,,,Write-in,1,0,1
+Decatur,FR/LC/Van Wert/Weldon,Soil and Water Conservation Dist. Commissioners,,,Write-in,1,1,0
+Decatur,BL/FA/Lamoni,Agricultural Extension Council,,,Leigh Ann Coffey,482,365,117
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Agricultural Extension Council,,,Leigh Ann Coffey,170,110,60
+Decatur,CE/ED/Leon,Agricultural Extension Council,,,Leigh Ann Coffey,507,331,176
+Decatur,DE/Decatur City,Agricultural Extension Council,,,Leigh Ann Coffey,93,80,13
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Agricultural Extension Council,,,Leigh Ann Coffey,192,132,60
+Decatur,GR/RL/Grand River,Agricultural Extension Council,,,Leigh Ann Coffey,118,104,14
+Decatur,FR/LC/Van Wert/Weldon,Agricultural Extension Council,,,Leigh Ann Coffey,198,168,30
+Decatur,BL/FA/Lamoni,Agricultural Extension Council,,,Rodney Waddell,529,399,130
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Agricultural Extension Council,,,Rodney Waddell,204,137,67
+Decatur,CE/ED/Leon,Agricultural Extension Council,,,Rodney Waddell,497,329,168
+Decatur,DE/Decatur City,Agricultural Extension Council,,,Rodney Waddell,91,78,13
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Agricultural Extension Council,,,Rodney Waddell,146,95,51
+Decatur,GR/RL/Grand River,Agricultural Extension Council,,,Rodney Waddell,107,95,12
+Decatur,FR/LC/Van Wert/Weldon,Agricultural Extension Council,,,Rodney Waddell,176,147,29
+Decatur,BL/FA/Lamoni,Agricultural Extension Council,,,Bobette Lindsey,470,352,118
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Agricultural Extension Council,,,Bobette Lindsey,185,120,65
+Decatur,CE/ED/Leon,Agricultural Extension Council,,,Bobette Lindsey,557,355,202
+Decatur,DE/Decatur City,Agricultural Extension Council,,,Bobette Lindsey,100,85,15
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Agricultural Extension Council,,,Bobette Lindsey,154,103,51
+Decatur,GR/RL/Grand River,Agricultural Extension Council,,,Bobette Lindsey,116,101,15
+Decatur,FR/LC/Van Wert/Weldon,Agricultural Extension Council,,,Bobette Lindsey,173,145,28
+Decatur,BL/FA/Lamoni,Agricultural Extension Council,,,Amy Hamilton,511,390,121
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Agricultural Extension Council,,,Amy Hamilton,217,148,69
+Decatur,CE/ED/Leon,Agricultural Extension Council,,,Amy Hamilton,554,351,203
+Decatur,DE/Decatur City,Agricultural Extension Council,,,Amy Hamilton,109,94,15
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Agricultural Extension Council,,,Amy Hamilton,169,115,54
+Decatur,GR/RL/Grand River,Agricultural Extension Council,,,Amy Hamilton,135,113,22
+Decatur,FR/LC/Van Wert/Weldon,Agricultural Extension Council,,,Amy Hamilton,196,161,35
+Decatur,BL/FA/Lamoni,Agricultural Extension Council,,,Lorren Helton,476,361,115
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Agricultural Extension Council,,,Lorren Helton,209,139,70
+Decatur,CE/ED/Leon,Agricultural Extension Council,,,Lorren Helton,588,381,207
+Decatur,DE/Decatur City,Agricultural Extension Council,,,Lorren Helton,103,86,17
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Agricultural Extension Council,,,Lorren Helton,166,110,56
+Decatur,GR/RL/Grand River,Agricultural Extension Council,,,Lorren Helton,119,104,15
+Decatur,FR/LC/Van Wert/Weldon,Agricultural Extension Council,,,Lorren Helton,188,155,33
+Decatur,BL/FA/Lamoni,Agricultural Extension Council,,,Write-in,12,9,3
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Agricultural Extension Council,,,Write-in,2,2,0
+Decatur,CE/ED/Leon,Agricultural Extension Council,,,Write-in,23,13,10
+Decatur,DE/Decatur City,Agricultural Extension Council,,,Write-in,10,10,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Agricultural Extension Council,,,Write-in,3,1,2
+Decatur,GR/RL/Grand River,Agricultural Extension Council,,,Write-in,2,1,1
+Decatur,FR/LC/Van Wert/Weldon,Agricultural Extension Council,,,Write-in,0,0,0
+Decatur,BL/FA/Lamoni,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,488,362,126
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,114,80,34
+Decatur,CE/ED/Leon,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,348,220,128
+Decatur,DE/Decatur City,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,78,68,10
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,99,73,26
+Decatur,GR/RL/Grand River,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,81,66,15
+Decatur,FR/LC/Van Wert/Weldon,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,116,92,24
+Decatur,BL/FA/Lamoni,Court of Appeals Judge Anuradha Vaitheswaran,,,No,164,130,34
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Court of Appeals Judge Anuradha Vaitheswaran,,,No,125,77,48
+Decatur,CE/ED/Leon,Court of Appeals Judge Anuradha Vaitheswaran,,,No,303,199,104
+Decatur,DE/Decatur City,Court of Appeals Judge Anuradha Vaitheswaran,,,No,41,30,11
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Court of Appeals Judge Anuradha Vaitheswaran,,,No,107,68,39
+Decatur,GR/RL/Grand River,Court of Appeals Judge Anuradha Vaitheswaran,,,No,56,46,10
+Decatur,FR/LC/Van Wert/Weldon,Court of Appeals Judge Anuradha Vaitheswaran,,,No,121,101,20
+Decatur,BL/FA/Lamoni,Court of Appeals Judge Michael R. Mullins,,,Yes,503,377,126
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Court of Appeals Judge Michael R. Mullins,,,Yes,137,91,46
+Decatur,CE/ED/Leon,Court of Appeals Judge Michael R. Mullins,,,Yes,419,262,157
+Decatur,DE/Decatur City,Court of Appeals Judge Michael R. Mullins,,,Yes,85,70,15
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Court of Appeals Judge Michael R. Mullins,,,Yes,125,88,37
+Decatur,GR/RL/Grand River,Court of Appeals Judge Michael R. Mullins,,,Yes,91,77,14
+Decatur,FR/LC/Van Wert/Weldon,Court of Appeals Judge Michael R. Mullins,,,Yes,149,123,26
+Decatur,BL/FA/Lamoni,Court of Appeals Judge Michael R. Mullins,,,No,140,109,31
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Court of Appeals Judge Michael R. Mullins,,,No,106,67,39
+Decatur,CE/ED/Leon,Court of Appeals Judge Michael R. Mullins,,,No,226,150,76
+Decatur,DE/Decatur City,Court of Appeals Judge Michael R. Mullins,,,No,32,26,6
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Court of Appeals Judge Michael R. Mullins,,,No,81,52,29
+Decatur,GR/RL/Grand River,Court of Appeals Judge Michael R. Mullins,,,No,46,35,11
+Decatur,FR/LC/Van Wert/Weldon,Court of Appeals Judge Michael R. Mullins,,,No,91,73,18
+Decatur,BL/FA/Lamoni,Court of Appeals Judge Mary Ellen Tabor,,,Yes,525,384,141
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Court of Appeals Judge Mary Ellen Tabor,,,Yes,136,95,41
+Decatur,CE/ED/Leon,Court of Appeals Judge Mary Ellen Tabor,,,Yes,404,251,153
+Decatur,DE/Decatur City,Court of Appeals Judge Mary Ellen Tabor,,,Yes,80,68,12
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Court of Appeals Judge Mary Ellen Tabor,,,Yes,123,87,36
+Decatur,GR/RL/Grand River,Court of Appeals Judge Mary Ellen Tabor,,,Yes,91,77,14
+Decatur,FR/LC/Van Wert/Weldon,Court of Appeals Judge Mary Ellen Tabor,,,Yes,141,116,25
+Decatur,BL/FA/Lamoni,Court of Appeals Judge Mary Ellen Tabor,,,No,122,97,25
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Court of Appeals Judge Mary Ellen Tabor,,,No,103,61,42
+Decatur,CE/ED/Leon,Court of Appeals Judge Mary Ellen Tabor,,,No,238,159,79
+Decatur,DE/Decatur City,Court of Appeals Judge Mary Ellen Tabor,,,No,37,30,7
+Decatur,GG/HP/WO/Garden Grove/LeRoy,Court of Appeals Judge Mary Ellen Tabor,,,No,80,51,29
+Decatur,GR/RL/Grand River,Court of Appeals Judge Mary Ellen Tabor,,,No,45,34,11
+Decatur,FR/LC/Van Wert/Weldon,Court of Appeals Judge Mary Ellen Tabor,,,No,93,74,19
+Decatur,BL/FA/Lamoni,District 5B District Judge Patrick W. Greenwood,,,Yes,671,496,175
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,District 5B District Judge Patrick W. Greenwood,,,Yes,202,138,64
+Decatur,CE/ED/Leon,District 5B District Judge Patrick W. Greenwood,,,Yes,651,399,252
+Decatur,DE/Decatur City,District 5B District Judge Patrick W. Greenwood,,,Yes,125,103,22
+Decatur,GG/HP/WO/Garden Grove/LeRoy,District 5B District Judge Patrick W. Greenwood,,,Yes,169,116,53
+Decatur,GR/RL/Grand River,District 5B District Judge Patrick W. Greenwood,,,Yes,125,103,22
+Decatur,FR/LC/Van Wert/Weldon,District 5B District Judge Patrick W. Greenwood,,,Yes,172,140,32
+Decatur,BL/FA/Lamoni,District 5B District Judge Patrick W. Greenwood,,,No,86,66,20
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,District 5B District Judge Patrick W. Greenwood,,,No,67,36,31
+Decatur,CE/ED/Leon,District 5B District Judge Patrick W. Greenwood,,,No,109,79,30
+Decatur,DE/Decatur City,District 5B District Judge Patrick W. Greenwood,,,No,16,14,2
+Decatur,GG/HP/WO/Garden Grove/LeRoy,District 5B District Judge Patrick W. Greenwood,,,No,60,38,22
+Decatur,GR/RL/Grand River,District 5B District Judge Patrick W. Greenwood,,,No,30,23,7
+Decatur,FR/LC/Van Wert/Weldon,District 5B District Judge Patrick W. Greenwood,,,No,73,60,13

@@ -1,0 +1,503 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Lyon,George Community Center,United States Representative District 4,,REP,Steve King,767,502,265
+Lyon,Doon City Hall,United States Representative District 4,,REP,Steve King,650,452,198
+Lyon,Inwood City Hall,United States Representative District 4,,REP,Steve King,311,225,86
+Lyon,Larchwood City Hall,United States Representative District 4,,REP,Steve King,294,208,86
+Lyon,Lester City Hall,United States Representative District 4,,REP,Steve King,288,209,79
+Lyon,Little Rock Town and Country Bldg,United States Representative District 4,,REP,Steve King,253,192,61
+Lyon,Rock Rapids Forster Bldg N,United States Representative District 4,,REP,Steve King,484,312,172
+Lyon,Rock Rapids Forster Bldg S,United States Representative District 4,,REP,Steve King,669,398,271
+Lyon,George Community Center,United States Representative District 4,,DEM,J.D. Scholten,205,153,52
+Lyon,Doon City Hall,United States Representative District 4,,DEM,J.D. Scholten,76,47,29
+Lyon,Inwood City Hall,United States Representative District 4,,DEM,J.D. Scholten,125,111,14
+Lyon,Larchwood City Hall,United States Representative District 4,,DEM,J.D. Scholten,290,230,60
+Lyon,Lester City Hall,United States Representative District 4,,DEM,J.D. Scholten,120,86,34
+Lyon,Little Rock Town and Country Bldg,United States Representative District 4,,DEM,J.D. Scholten,60,48,12
+Lyon,Rock Rapids Forster Bldg N,United States Representative District 4,,DEM,J.D. Scholten,181,126,55
+Lyon,Rock Rapids Forster Bldg S,United States Representative District 4,,DEM,J.D. Scholten,298,207,91
+Lyon,George Community Center,United States Representative District 4,,LIB,Charles Aldrich,9,8,1
+Lyon,Doon City Hall,United States Representative District 4,,LIB,Charles Aldrich,7,6,1
+Lyon,Inwood City Hall,United States Representative District 4,,LIB,Charles Aldrich,5,5,0
+Lyon,Larchwood City Hall,United States Representative District 4,,LIB,Charles Aldrich,8,6,2
+Lyon,Lester City Hall,United States Representative District 4,,LIB,Charles Aldrich,2,2,0
+Lyon,Little Rock Town and Country Bldg,United States Representative District 4,,LIB,Charles Aldrich,5,3,2
+Lyon,Rock Rapids Forster Bldg N,United States Representative District 4,,LIB,Charles Aldrich,9,6,3
+Lyon,Rock Rapids Forster Bldg S,United States Representative District 4,,LIB,Charles Aldrich,17,10,7
+Lyon,George Community Center,United States Representative District 4,,,Edward Peterson,6,6,0
+Lyon,Doon City Hall,United States Representative District 4,,,Edward Peterson,5,5,0
+Lyon,Inwood City Hall,United States Representative District 4,,,Edward Peterson,2,2,0
+Lyon,Larchwood City Hall,United States Representative District 4,,,Edward Peterson,3,3,0
+Lyon,Lester City Hall,United States Representative District 4,,,Edward Peterson,0,0,0
+Lyon,Little Rock Town and Country Bldg,United States Representative District 4,,,Edward Peterson,5,4,1
+Lyon,Rock Rapids Forster Bldg N,United States Representative District 4,,,Edward Peterson,5,4,1
+Lyon,Rock Rapids Forster Bldg S,United States Representative District 4,,,Edward Peterson,5,1,4
+Lyon,George Community Center,United States Representative District 4,,,Write-in,0,0,0
+Lyon,Doon City Hall,United States Representative District 4,,,Write-in,3,2,1
+Lyon,Inwood City Hall,United States Representative District 4,,,Write-in,0,0,0
+Lyon,Larchwood City Hall,United States Representative District 4,,,Write-in,1,1,0
+Lyon,Lester City Hall,United States Representative District 4,,,Write-in,2,2,0
+Lyon,Little Rock Town and Country Bldg,United States Representative District 4,,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg N,United States Representative District 4,,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg S,United States Representative District 4,,,Write-in,2,1,1
+Lyon,George Community Center,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,861,580,281
+Lyon,Doon City Hall,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,708,489,219
+Lyon,Inwood City Hall,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,356,270,86
+Lyon,Larchwood City Hall,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,381,287,94
+Lyon,Lester City Hall,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,348,257,91
+Lyon,Little Rock Town and Country Bldg,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,282,217,65
+Lyon,Rock Rapids Forster Bldg N,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,549,360,189
+Lyon,Rock Rapids Forster Bldg S,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,796,488,308
+Lyon,George Community Center,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,125,91,34
+Lyon,Doon City Hall,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,33,21,12
+Lyon,Inwood City Hall,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,80,66,14
+Lyon,Larchwood City Hall,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,199,149,50
+Lyon,Lester City Hall,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,64,41,23
+Lyon,Little Rock Town and Country Bldg,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,36,27,9
+Lyon,Rock Rapids Forster Bldg N,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,127,84,43
+Lyon,Rock Rapids Forster Bldg S,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,189,120,69
+Lyon,George Community Center,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,3,2,1
+Lyon,Doon City Hall,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,4,4,0
+Lyon,Inwood City Hall,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,1,1,0
+Lyon,Larchwood City Hall,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,10,8,2
+Lyon,Lester City Hall,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,1,0,1
+Lyon,Little Rock Town and Country Bldg,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,3,2,1
+Lyon,Rock Rapids Forster Bldg N,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,7,7,0
+Lyon,Rock Rapids Forster Bldg S,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,8,5,3
+Lyon,George Community Center,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,1,0,1
+Lyon,Doon City Hall,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,0,0,0
+Lyon,Inwood City Hall,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,0,0,0
+Lyon,Larchwood City Hall,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,3,0
+Lyon,Lester City Hall,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,1,1,0
+Lyon,Little Rock Town and Country Bldg,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,2,2,0
+Lyon,Rock Rapids Forster Bldg N,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,4,1,3
+Lyon,Rock Rapids Forster Bldg S,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,4,3,1
+Lyon,George Community Center,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Lyon,Doon City Hall,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Lyon,Inwood City Hall,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Lyon,Larchwood City Hall,Governor/Lieutenant Governor,,,Write-in,1,1,0
+Lyon,Lester City Hall,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Lyon,Little Rock Town and Country Bldg,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg N,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg S,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Lyon,George Community Center,Secretary of State,,REP,Paul D. Pate,842,554,288
+Lyon,Doon City Hall,Secretary of State,,REP,Paul D. Pate,693,481,212
+Lyon,Inwood City Hall,Secretary of State,,REP,Paul D. Pate,357,273,84
+Lyon,Larchwood City Hall,Secretary of State,,REP,Paul D. Pate,362,269,93
+Lyon,Lester City Hall,Secretary of State,,REP,Paul D. Pate,329,243,86
+Lyon,Little Rock Town and Country Bldg,Secretary of State,,REP,Paul D. Pate,273,206,67
+Lyon,Rock Rapids Forster Bldg N,Secretary of State,,REP,Paul D. Pate,545,361,184
+Lyon,Rock Rapids Forster Bldg S,Secretary of State,,REP,Paul D. Pate,789,489,300
+Lyon,George Community Center,Secretary of State,,DEM,Deidre DeJear,117,92,25
+Lyon,Doon City Hall,Secretary of State,,DEM,Deidre DeJear,38,22,16
+Lyon,Inwood City Hall,Secretary of State,,DEM,Deidre DeJear,63,50,13
+Lyon,Larchwood City Hall,Secretary of State,,DEM,Deidre DeJear,191,143,48
+Lyon,Lester City Hall,Secretary of State,,DEM,Deidre DeJear,73,47,26
+Lyon,Little Rock Town and Country Bldg,Secretary of State,,DEM,Deidre DeJear,32,25,7
+Lyon,Rock Rapids Forster Bldg N,Secretary of State,,DEM,Deidre DeJear,92,63,29
+Lyon,Rock Rapids Forster Bldg S,Secretary of State,,DEM,Deidre DeJear,171,103,68
+Lyon,George Community Center,Secretary of State,,LIB,Jules Ofenbakh,11,10,1
+Lyon,Doon City Hall,Secretary of State,,LIB,Jules Ofenbakh,6,5,1
+Lyon,Inwood City Hall,Secretary of State,,LIB,Jules Ofenbakh,3,3,0
+Lyon,Larchwood City Hall,Secretary of State,,LIB,Jules Ofenbakh,13,10,3
+Lyon,Lester City Hall,Secretary of State,,LIB,Jules Ofenbakh,4,3,1
+Lyon,Little Rock Town and Country Bldg,Secretary of State,,LIB,Jules Ofenbakh,4,4,0
+Lyon,Rock Rapids Forster Bldg N,Secretary of State,,LIB,Jules Ofenbakh,16,14,2
+Lyon,Rock Rapids Forster Bldg S,Secretary of State,,LIB,Jules Ofenbakh,18,12,6
+Lyon,George Community Center,Secretary of State,,,Write-in,0,0,0
+Lyon,Doon City Hall,Secretary of State,,,Write-in,0,0,0
+Lyon,Inwood City Hall,Secretary of State,,,Write-in,1,1,0
+Lyon,Larchwood City Hall,Secretary of State,,,Write-in,1,1,0
+Lyon,Lester City Hall,Secretary of State,,,Write-in,0,0,0
+Lyon,Little Rock Town and Country Bldg,Secretary of State,,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg N,Secretary of State,,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg S,Secretary of State,,,Write-in,0,0,0
+Lyon,George Community Center,Auditor of State,,REP,Mary Mosiman,816,541,275
+Lyon,Doon City Hall,Auditor of State,,REP,Mary Mosiman,680,473,207
+Lyon,Inwood City Hall,Auditor of State,,REP,Mary Mosiman,339,256,83
+Lyon,Larchwood City Hall,Auditor of State,,REP,Mary Mosiman,355,261,94
+Lyon,Lester City Hall,Auditor of State,,REP,Mary Mosiman,327,241,86
+Lyon,Little Rock Town and Country Bldg,Auditor of State,,REP,Mary Mosiman,271,204,67
+Lyon,Rock Rapids Forster Bldg N,Auditor of State,,REP,Mary Mosiman,523,347,176
+Lyon,Rock Rapids Forster Bldg S,Auditor of State,,REP,Mary Mosiman,754,461,293
+Lyon,George Community Center,Auditor of State,,DEM,Rob Sand,127,94,33
+Lyon,Doon City Hall,Auditor of State,,DEM,Rob Sand,43,25,18
+Lyon,Inwood City Hall,Auditor of State,,DEM,Rob Sand,67,54,13
+Lyon,Larchwood City Hall,Auditor of State,,DEM,Rob Sand,190,144,46
+Lyon,Lester City Hall,Auditor of State,,DEM,Rob Sand,68,43,25
+Lyon,Little Rock Town and Country Bldg,Auditor of State,,DEM,Rob Sand,35,27,8
+Lyon,Rock Rapids Forster Bldg N,Auditor of State,,DEM,Rob Sand,108,74,34
+Lyon,Rock Rapids Forster Bldg S,Auditor of State,,DEM,Rob Sand,190,120,70
+Lyon,George Community Center,Auditor of State,,LIB,Fred Perryman,16,14,2
+Lyon,Doon City Hall,Auditor of State,,LIB,Fred Perryman,8,7,1
+Lyon,Inwood City Hall,Auditor of State,,LIB,Fred Perryman,9,9,0
+Lyon,Larchwood City Hall,Auditor of State,,LIB,Fred Perryman,10,8,2
+Lyon,Lester City Hall,Auditor of State,,LIB,Fred Perryman,2,2,0
+Lyon,Little Rock Town and Country Bldg,Auditor of State,,LIB,Fred Perryman,2,2,0
+Lyon,Rock Rapids Forster Bldg N,Auditor of State,,LIB,Fred Perryman,17,16,1
+Lyon,Rock Rapids Forster Bldg S,Auditor of State,,LIB,Fred Perryman,18,10,8
+Lyon,George Community Center,Auditor of State,,,Write-in,0,0,0
+Lyon,Doon City Hall,Auditor of State,,,Write-in,0,0,0
+Lyon,Inwood City Hall,Auditor of State,,,Write-in,1,1,0
+Lyon,Larchwood City Hall,Auditor of State,,,Write-in,1,1,0
+Lyon,Lester City Hall,Auditor of State,,,Write-in,0,0,0
+Lyon,Little Rock Town and Country Bldg,Auditor of State,,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg N,Auditor of State,,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg S,Auditor of State,,,Write-in,0,0,0
+Lyon,George Community Center,Treasurer of State,,REP,Jeremy N. Davis,783,522,261
+Lyon,Doon City Hall,Treasurer of State,,REP,Jeremy N. Davis,678,471,207
+Lyon,Inwood City Hall,Treasurer of State,,REP,Jeremy N. Davis,334,252,82
+Lyon,Larchwood City Hall,Treasurer of State,,REP,Jeremy N. Davis,331,244,87
+Lyon,Lester City Hall,Treasurer of State,,REP,Jeremy N. Davis,317,235,82
+Lyon,Little Rock Town and Country Bldg,Treasurer of State,,REP,Jeremy N. Davis,255,192,63
+Lyon,Rock Rapids Forster Bldg N,Treasurer of State,,REP,Jeremy N. Davis,508,339,169
+Lyon,Rock Rapids Forster Bldg S,Treasurer of State,,REP,Jeremy N. Davis,749,467,282
+Lyon,George Community Center,Treasurer of State,,DEM,Michael L. Fitzgerald,164,117,47
+Lyon,Doon City Hall,Treasurer of State,,DEM,Michael L. Fitzgerald,53,32,21
+Lyon,Inwood City Hall,Treasurer of State,,DEM,Michael L. Fitzgerald,79,64,15
+Lyon,Larchwood City Hall,Treasurer of State,,DEM,Michael L. Fitzgerald,207,154,53
+Lyon,Lester City Hall,Treasurer of State,,DEM,Michael L. Fitzgerald,80,50,30
+Lyon,Little Rock Town and Country Bldg,Treasurer of State,,DEM,Michael L. Fitzgerald,53,41,12
+Lyon,Rock Rapids Forster Bldg N,Treasurer of State,,DEM,Michael L. Fitzgerald,122,82,40
+Lyon,Rock Rapids Forster Bldg S,Treasurer of State,,DEM,Michael L. Fitzgerald,203,121,82
+Lyon,George Community Center,Treasurer of State,,LIB,Timothy Hird,13,11,2
+Lyon,Doon City Hall,Treasurer of State,,LIB,Timothy Hird,7,5,2
+Lyon,Inwood City Hall,Treasurer of State,,LIB,Timothy Hird,7,6,1
+Lyon,Larchwood City Hall,Treasurer of State,,LIB,Timothy Hird,13,11,2
+Lyon,Lester City Hall,Treasurer of State,,LIB,Timothy Hird,2,2,0
+Lyon,Little Rock Town and Country Bldg,Treasurer of State,,LIB,Timothy Hird,3,3,0
+Lyon,Rock Rapids Forster Bldg N,Treasurer of State,,LIB,Timothy Hird,17,15,2
+Lyon,Rock Rapids Forster Bldg S,Treasurer of State,,LIB,Timothy Hird,11,6,5
+Lyon,George Community Center,Treasurer of State,,,Write-in,0,0,0
+Lyon,Doon City Hall,Treasurer of State,,,Write-in,0,0,0
+Lyon,Inwood City Hall,Treasurer of State,,,Write-in,1,1,0
+Lyon,Larchwood City Hall,Treasurer of State,,,Write-in,1,1,0
+Lyon,Lester City Hall,Treasurer of State,,,Write-in,0,0,0
+Lyon,Little Rock Town and Country Bldg,Treasurer of State,,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg N,Treasurer of State,,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg S,Treasurer of State,,,Write-in,0,0,0
+Lyon,George Community Center,Secretary of Agriculture,,REP,Mike Naig,837,554,283
+Lyon,Doon City Hall,Secretary of Agriculture,,REP,Mike Naig,693,479,214
+Lyon,Inwood City Hall,Secretary of Agriculture,,REP,Mike Naig,345,263,82
+Lyon,Larchwood City Hall,Secretary of Agriculture,,REP,Mike Naig,363,267,96
+Lyon,Lester City Hall,Secretary of Agriculture,,REP,Mike Naig,333,246,87
+Lyon,Little Rock Town and Country Bldg,Secretary of Agriculture,,REP,Mike Naig,274,205,69
+Lyon,Rock Rapids Forster Bldg N,Secretary of Agriculture,,REP,Mike Naig,548,363,185
+Lyon,Rock Rapids Forster Bldg S,Secretary of Agriculture,,REP,Mike Naig,788,489,299
+Lyon,George Community Center,Secretary of Agriculture,,DEM,Tim Gannon,118,90,28
+Lyon,Doon City Hall,Secretary of Agriculture,,DEM,Tim Gannon,32,19,13
+Lyon,Inwood City Hall,Secretary of Agriculture,,DEM,Tim Gannon,67,56,11
+Lyon,Larchwood City Hall,Secretary of Agriculture,,DEM,Tim Gannon,186,141,45
+Lyon,Lester City Hall,Secretary of Agriculture,,DEM,Tim Gannon,60,35,25
+Lyon,Little Rock Town and Country Bldg,Secretary of Agriculture,,DEM,Tim Gannon,32,26,6
+Lyon,Rock Rapids Forster Bldg N,Secretary of Agriculture,,DEM,Tim Gannon,91,59,32
+Lyon,Rock Rapids Forster Bldg S,Secretary of Agriculture,,DEM,Tim Gannon,155,93,62
+Lyon,George Community Center,Secretary of Agriculture,,LIB,Rick Stewart,9,8,1
+Lyon,Doon City Hall,Secretary of Agriculture,,LIB,Rick Stewart,11,9,2
+Lyon,Inwood City Hall,Secretary of Agriculture,,LIB,Rick Stewart,9,6,3
+Lyon,Larchwood City Hall,Secretary of Agriculture,,LIB,Rick Stewart,12,10,2
+Lyon,Lester City Hall,Secretary of Agriculture,,LIB,Rick Stewart,7,7,0
+Lyon,Little Rock Town and Country Bldg,Secretary of Agriculture,,LIB,Rick Stewart,7,7,0
+Lyon,Rock Rapids Forster Bldg N,Secretary of Agriculture,,LIB,Rick Stewart,15,15,0
+Lyon,Rock Rapids Forster Bldg S,Secretary of Agriculture,,LIB,Rick Stewart,17,11,6
+Lyon,George Community Center,Secretary of Agriculture,,,Write-in,1,1,0
+Lyon,Doon City Hall,Secretary of Agriculture,,,Write-in,1,1,0
+Lyon,Inwood City Hall,Secretary of Agriculture,,,Write-in,0,0,0
+Lyon,Larchwood City Hall,Secretary of Agriculture,,,Write-in,1,1,0
+Lyon,Lester City Hall,Secretary of Agriculture,,,Write-in,0,0,0
+Lyon,Little Rock Town and Country Bldg,Secretary of Agriculture,,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg N,Secretary of Agriculture,,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg S,Secretary of Agriculture,,,Write-in,1,0,1
+Lyon,George Community Center,Attorney General,,DEM,Tom Miller,419,289,130
+Lyon,Doon City Hall,Attorney General,,DEM,Tom Miller,237,157,80
+Lyon,Inwood City Hall,Attorney General,,DEM,Tom Miller,209,164,45
+Lyon,Larchwood City Hall,Attorney General,,DEM,Tom Miller,340,261,79
+Lyon,Lester City Hall,Attorney General,,DEM,Tom Miller,190,130,60
+Lyon,Little Rock Town and Country Bldg,Attorney General,,DEM,Tom Miller,144,106,38
+Lyon,Rock Rapids Forster Bldg N,Attorney General,,DEM,Tom Miller,297,198,99
+Lyon,Rock Rapids Forster Bldg S,Attorney General,,DEM,Tom Miller,465,283,182
+Lyon,George Community Center,Attorney General,,LIB,Marco Battaglia,222,159,63
+Lyon,Doon City Hall,Attorney General,,LIB,Marco Battaglia,150,114,36
+Lyon,Inwood City Hall,Attorney General,,LIB,Marco Battaglia,88,66,22
+Lyon,Larchwood City Hall,Attorney General,,LIB,Marco Battaglia,88,67,21
+Lyon,Lester City Hall,Attorney General,,LIB,Marco Battaglia,66,56,10
+Lyon,Little Rock Town and Country Bldg,Attorney General,,LIB,Marco Battaglia,69,52,17
+Lyon,Rock Rapids Forster Bldg N,Attorney General,,LIB,Marco Battaglia,142,103,39
+Lyon,Rock Rapids Forster Bldg S,Attorney General,,LIB,Marco Battaglia,213,140,73
+Lyon,George Community Center,Attorney General,,,Write-in,8,7,1
+Lyon,Doon City Hall,Attorney General,,,Write-in,9,8,1
+Lyon,Inwood City Hall,Attorney General,,,Write-in,3,3,0
+Lyon,Larchwood City Hall,Attorney General,,,Write-in,4,4,0
+Lyon,Lester City Hall,Attorney General,,,Write-in,6,5,1
+Lyon,Little Rock Town and Country Bldg,Attorney General,,,Write-in,3,3,0
+Lyon,Rock Rapids Forster Bldg N,Attorney General,,,Write-in,1,1,0
+Lyon,Rock Rapids Forster Bldg S,Attorney General,,,Write-in,12,8,4
+Lyon,George Community Center,State Senator District 1,,REP,Zach Whiting,878,595,283
+Lyon,Doon City Hall,State Senator District 1,,REP,Zach Whiting,688,479,209
+Lyon,Inwood City Hall,State Senator District 1,,REP,Zach Whiting,364,279,85
+Lyon,Larchwood City Hall,State Senator District 1,,REP,Zach Whiting,414,318,96
+Lyon,Lester City Hall,State Senator District 1,,REP,Zach Whiting,341,253,88
+Lyon,Little Rock Town and Country Bldg,State Senator District 1,,REP,Zach Whiting,286,217,69
+Lyon,Rock Rapids Forster Bldg N,State Senator District 1,,REP,Zach Whiting,587,394,193
+Lyon,Rock Rapids Forster Bldg S,State Senator District 1,,REP,Zach Whiting,853,526,327
+Lyon,George Community Center,State Senator District 1,,,Write-in,7,4,3
+Lyon,Doon City Hall,State Senator District 1,,,Write-in,1,1,0
+Lyon,Inwood City Hall,State Senator District 1,,,Write-in,2,2,0
+Lyon,Larchwood City Hall,State Senator District 1,,,Write-in,9,5,4
+Lyon,Lester City Hall,State Senator District 1,,,Write-in,2,1,1
+Lyon,Little Rock Town and Country Bldg,State Senator District 1,,,Write-in,3,2,1
+Lyon,Rock Rapids Forster Bldg N,State Senator District 1,,,Write-in,2,2,0
+Lyon,Rock Rapids Forster Bldg S,State Senator District 1,,,Write-in,6,3,3
+Lyon,George Community Center,State Representative District 1,,REP,John H. Wills,850,568,282
+Lyon,Doon City Hall,State Representative District 1,,REP,John H. Wills,690,480,210
+Lyon,Inwood City Hall,State Representative District 1,,REP,John H. Wills,342,256,86
+Lyon,Larchwood City Hall,State Representative District 1,,REP,John H. Wills,348,259,89
+Lyon,Lester City Hall,State Representative District 1,,REP,John H. Wills,321,239,82
+Lyon,Little Rock Town and Country Bldg,State Representative District 1,,REP,John H. Wills,276,209,67
+Lyon,Rock Rapids Forster Bldg N,State Representative District 1,,REP,John H. Wills,542,353,189
+Lyon,Rock Rapids Forster Bldg S,State Representative District 1,,REP,John H. Wills,783,483,300
+Lyon,George Community Center,State Representative District 1,,DEM,Karen A. Larson,118,85,33
+Lyon,Doon City Hall,State Representative District 1,,DEM,Karen A. Larson,41,23,18
+Lyon,Inwood City Hall,State Representative District 1,,DEM,Karen A. Larson,77,65,12
+Lyon,Larchwood City Hall,State Representative District 1,,DEM,Karen A. Larson,214,159,55
+Lyon,Lester City Hall,State Representative District 1,,DEM,Karen A. Larson,76,50,26
+Lyon,Little Rock Town and Country Bldg,State Representative District 1,,DEM,Karen A. Larson,36,29,7
+Lyon,Rock Rapids Forster Bldg N,State Representative District 1,,DEM,Karen A. Larson,119,83,36
+Lyon,Rock Rapids Forster Bldg S,State Representative District 1,,DEM,Karen A. Larson,198,123,75
+Lyon,George Community Center,State Representative District 1,,,Write-in,1,0,1
+Lyon,Doon City Hall,State Representative District 1,,,Write-in,1,1,0
+Lyon,Inwood City Hall,State Representative District 1,,,Write-in,0,0,0
+Lyon,Larchwood City Hall,State Representative District 1,,,Write-in,0,0,0
+Lyon,Lester City Hall,State Representative District 1,,,Write-in,0,0,0
+Lyon,Little Rock Town and Country Bldg,State Representative District 1,,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg N,State Representative District 1,,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg S,State Representative District 1,,,Write-in,0,0,0
+Lyon,Inwood City Hall,County Supervisor Dist. 1,,REP,Joshua A. Feucht,307,233,74
+Lyon,Larchwood City Hall,County Supervisor Dist. 1,,REP,Joshua A. Feucht,334,247,87
+Lyon,Inwood City Hall,County Supervisor Dist. 1,,DEM,Ken Kerkvliet,131,106,25
+Lyon,Larchwood City Hall,County Supervisor Dist. 1,,DEM,Ken Kerkvliet,268,205,63
+Lyon,Inwood City Hall,County Supervisor Dist. 1,,,Write-in,0,0,0
+Lyon,Larchwood City Hall,County Supervisor Dist. 1,,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg S,County Supervisor Dist. 4,,REP,Jerry Birkey,839,519,320
+Lyon,Rock Rapids Forster Bldg S,County Supervisor Dist. 4,,,Write-in,58,37,21
+Lyon,Little Rock Town and Country Bldg,County Supervisor Dist. 5,,REP,Steve Herman,85,58,27
+Lyon,Rock Rapids Forster Bldg N,County Supervisor Dist. 5,,REP,Steve Herman,433,286,147
+Lyon,Little Rock Town and Country Bldg,County Supervisor Dist. 5,,,Kirk J. Peters,244,196,48
+Lyon,Rock Rapids Forster Bldg N,County Supervisor Dist. 5,,,Kirk J. Peters,235,155,80
+Lyon,Little Rock Town and Country Bldg,County Supervisor Dist. 5,,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg N,County Supervisor Dist. 5,,,Write-in,0,0,0
+Lyon,George Community Center,County Treasurer,,REP,Russ Hopp,924,629,295
+Lyon,Doon City Hall,County Treasurer,,REP,Russ Hopp,699,483,216
+Lyon,Inwood City Hall,County Treasurer,,REP,Russ Hopp,373,290,83
+Lyon,Larchwood City Hall,County Treasurer,,REP,Russ Hopp,442,333,109
+Lyon,Lester City Hall,County Treasurer,,REP,Russ Hopp,361,268,93
+Lyon,Little Rock Town and Country Bldg,County Treasurer,,REP,Russ Hopp,298,226,72
+Lyon,Rock Rapids Forster Bldg N,County Treasurer,,REP,Russ Hopp,602,401,201
+Lyon,Rock Rapids Forster Bldg S,County Treasurer,,REP,Russ Hopp,883,547,336
+Lyon,George Community Center,County Treasurer,,,Write-in,4,3,1
+Lyon,Doon City Hall,County Treasurer,,,Write-in,1,1,0
+Lyon,Inwood City Hall,County Treasurer,,,Write-in,1,1,0
+Lyon,Larchwood City Hall,County Treasurer,,,Write-in,1,1,0
+Lyon,Lester City Hall,County Treasurer,,,Write-in,2,1,1
+Lyon,Little Rock Town and Country Bldg,County Treasurer,,,Write-in,1,1,0
+Lyon,Rock Rapids Forster Bldg N,County Treasurer,,,Write-in,5,5,0
+Lyon,Rock Rapids Forster Bldg S,County Treasurer,,,Write-in,4,2,2
+Lyon,George Community Center,County Recorder,,REP,Eldon E. Kruse,905,608,297
+Lyon,Doon City Hall,County Recorder,,REP,Eldon E. Kruse,679,468,211
+Lyon,Inwood City Hall,County Recorder,,REP,Eldon E. Kruse,370,290,80
+Lyon,Larchwood City Hall,County Recorder,,REP,Eldon E. Kruse,441,336,105
+Lyon,Lester City Hall,County Recorder,,REP,Eldon E. Kruse,347,259,88
+Lyon,Little Rock Town and Country Bldg,County Recorder,,REP,Eldon E. Kruse,294,223,71
+Lyon,Rock Rapids Forster Bldg N,County Recorder,,REP,Eldon E. Kruse,622,418,204
+Lyon,Rock Rapids Forster Bldg S,County Recorder,,REP,Eldon E. Kruse,921,575,346
+Lyon,George Community Center,County Recorder,,,Write-in,3,2,1
+Lyon,Doon City Hall,County Recorder,,,Write-in,2,1,1
+Lyon,Inwood City Hall,County Recorder,,,Write-in,2,2,0
+Lyon,Larchwood City Hall,County Recorder,,,Write-in,1,1,0
+Lyon,Lester City Hall,County Recorder,,,Write-in,1,1,0
+Lyon,Little Rock Town and Country Bldg,County Recorder,,,Write-in,1,1,0
+Lyon,Rock Rapids Forster Bldg N,County Recorder,,,Write-in,2,2,0
+Lyon,Rock Rapids Forster Bldg S,County Recorder,,,Write-in,2,1,1
+Lyon,George Community Center,County Attorney,,REP,Shayne Mayer,879,594,285
+Lyon,Doon City Hall,County Attorney,,REP,Shayne Mayer,655,453,202
+Lyon,Inwood City Hall,County Attorney,,REP,Shayne Mayer,368,287,81
+Lyon,Larchwood City Hall,County Attorney,,REP,Shayne Mayer,427,324,103
+Lyon,Lester City Hall,County Attorney,,REP,Shayne Mayer,335,249,86
+Lyon,Little Rock Town and Country Bldg,County Attorney,,REP,Shayne Mayer,279,210,69
+Lyon,Rock Rapids Forster Bldg N,County Attorney,,REP,Shayne Mayer,574,376,198
+Lyon,Rock Rapids Forster Bldg S,County Attorney,,REP,Shayne Mayer,865,535,330
+Lyon,George Community Center,County Attorney,,,Write-in,5,2,3
+Lyon,Doon City Hall,County Attorney,,,Write-in,11,8,3
+Lyon,Inwood City Hall,County Attorney,,,Write-in,2,1,1
+Lyon,Larchwood City Hall,County Attorney,,,Write-in,3,3,0
+Lyon,Lester City Hall,County Attorney,,,Write-in,3,2,1
+Lyon,Little Rock Town and Country Bldg,County Attorney,,,Write-in,6,6,0
+Lyon,Rock Rapids Forster Bldg N,County Attorney,,,Write-in,17,13,4
+Lyon,Rock Rapids Forster Bldg S,County Attorney,,,Write-in,30,19,11
+Lyon,George Community Center,Soil and Water Conservation Commissioner,,,Warren C. Newborg,574,368,206
+Lyon,Doon City Hall,Soil and Water Conservation Commissioner,,,Warren C. Newborg,485,308,177
+Lyon,Inwood City Hall,Soil and Water Conservation Commissioner,,,Warren C. Newborg,307,236,71
+Lyon,Larchwood City Hall,Soil and Water Conservation Commissioner,,,Warren C. Newborg,400,305,95
+Lyon,Lester City Hall,Soil and Water Conservation Commissioner,,,Warren C. Newborg,344,255,89
+Lyon,Little Rock Town and Country Bldg,Soil and Water Conservation Commissioner,,,Warren C. Newborg,204,151,53
+Lyon,Rock Rapids Forster Bldg N,Soil and Water Conservation Commissioner,,,Warren C. Newborg,511,336,175
+Lyon,Rock Rapids Forster Bldg S,Soil and Water Conservation Commissioner,,,Warren C. Newborg,738,454,284
+Lyon,George Community Center,Soil and Water Conservation Commissioner,,,Dale Sohl,660,444,216
+Lyon,Doon City Hall,Soil and Water Conservation Commissioner,,,Dale Sohl,379,226,153
+Lyon,Inwood City Hall,Soil and Water Conservation Commissioner,,,Dale Sohl,208,161,47
+Lyon,Larchwood City Hall,Soil and Water Conservation Commissioner,,,Dale Sohl,218,167,51
+Lyon,Lester City Hall,Soil and Water Conservation Commissioner,,,Dale Sohl,188,134,54
+Lyon,Little Rock Town and Country Bldg,Soil and Water Conservation Commissioner,,,Dale Sohl,197,147,50
+Lyon,Rock Rapids Forster Bldg N,Soil and Water Conservation Commissioner,,,Dale Sohl,399,270,129
+Lyon,Rock Rapids Forster Bldg S,Soil and Water Conservation Commissioner,,,Dale Sohl,588,361,227
+Lyon,George Community Center,Soil and Water Conservation Commissioner,,,Write-in,4,4,0
+Lyon,Doon City Hall,Soil and Water Conservation Commissioner,,,Write-in,1,0,1
+Lyon,Inwood City Hall,Soil and Water Conservation Commissioner,,,Write-in,3,2,1
+Lyon,Larchwood City Hall,Soil and Water Conservation Commissioner,,,Write-in,0,0,0
+Lyon,Lester City Hall,Soil and Water Conservation Commissioner,,,Write-in,4,2,2
+Lyon,Little Rock Town and Country Bldg,Soil and Water Conservation Commissioner,,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg N,Soil and Water Conservation Commissioner,,,Write-in,2,1,1
+Lyon,Rock Rapids Forster Bldg S,Soil and Water Conservation Commissioner,,,Write-in,9,8,1
+Lyon,George Community Center,Agricultural Extension Council,,,Jerry Haack,551,364,187
+Lyon,Doon City Hall,Agricultural Extension Council,,,Jerry Haack,408,247,161
+Lyon,Inwood City Hall,Agricultural Extension Council,,,Jerry Haack,256,194,62
+Lyon,Larchwood City Hall,Agricultural Extension Council,,,Jerry Haack,242,179,63
+Lyon,Lester City Hall,Agricultural Extension Council,,,Jerry Haack,228,165,63
+Lyon,Little Rock Town and Country Bldg,Agricultural Extension Council,,,Jerry Haack,189,138,51
+Lyon,Rock Rapids Forster Bldg N,Agricultural Extension Council,,,Jerry Haack,415,279,136
+Lyon,Rock Rapids Forster Bldg S,Agricultural Extension Council,,,Jerry Haack,605,377,228
+Lyon,George Community Center,Agricultural Extension Council,,,Jim Jensen,536,353,183
+Lyon,Doon City Hall,Agricultural Extension Council,,,Jim Jensen,392,229,163
+Lyon,Inwood City Hall,Agricultural Extension Council,,,Jim Jensen,266,200,66
+Lyon,Larchwood City Hall,Agricultural Extension Council,,,Jim Jensen,334,250,84
+Lyon,Lester City Hall,Agricultural Extension Council,,,Jim Jensen,266,190,76
+Lyon,Little Rock Town and Country Bldg,Agricultural Extension Council,,,Jim Jensen,185,134,51
+Lyon,Rock Rapids Forster Bldg N,Agricultural Extension Council,,,Jim Jensen,384,257,127
+Lyon,Rock Rapids Forster Bldg S,Agricultural Extension Council,,,Jim Jensen,572,354,218
+Lyon,George Community Center,Agricultural Extension Council,,,Derek Knobloch,564,372,192
+Lyon,Doon City Hall,Agricultural Extension Council,,,Derek Knobloch,426,265,161
+Lyon,Inwood City Hall,Agricultural Extension Council,,,Derek Knobloch,272,214,58
+Lyon,Larchwood City Hall,Agricultural Extension Council,,,Derek Knobloch,310,233,77
+Lyon,Lester City Hall,Agricultural Extension Council,,,Derek Knobloch,291,218,73
+Lyon,Little Rock Town and Country Bldg,Agricultural Extension Council,,,Derek Knobloch,197,145,52
+Lyon,Rock Rapids Forster Bldg N,Agricultural Extension Council,,,Derek Knobloch,449,303,146
+Lyon,Rock Rapids Forster Bldg S,Agricultural Extension Council,,,Derek Knobloch,651,403,248
+Lyon,George Community Center,Agricultural Extension Council,,,Chuck Van Roekel,540,352,188
+Lyon,Doon City Hall,Agricultural Extension Council,,,Chuck Van Roekel,416,256,160
+Lyon,Inwood City Hall,Agricultural Extension Council,,,Chuck Van Roekel,262,204,58
+Lyon,Larchwood City Hall,Agricultural Extension Council,,,Chuck Van Roekel,272,201,71
+Lyon,Lester City Hall,Agricultural Extension Council,,,Chuck Van Roekel,241,178,63
+Lyon,Little Rock Town and Country Bldg,Agricultural Extension Council,,,Chuck Van Roekel,185,135,50
+Lyon,Rock Rapids Forster Bldg N,Agricultural Extension Council,,,Chuck Van Roekel,400,269,131
+Lyon,Rock Rapids Forster Bldg S,Agricultural Extension Council,,,Chuck Van Roekel,597,367,230
+Lyon,George Community Center,Agricultural Extension Council,,,Susan Wiertzema,593,395,198
+Lyon,Doon City Hall,Agricultural Extension Council,,,Susan Wiertzema,352,210,142
+Lyon,Inwood City Hall,Agricultural Extension Council,,,Susan Wiertzema,212,168,44
+Lyon,Larchwood City Hall,Agricultural Extension Council,,,Susan Wiertzema,257,197,60
+Lyon,Lester City Hall,Agricultural Extension Council,,,Susan Wiertzema,194,139,55
+Lyon,Little Rock Town and Country Bldg,Agricultural Extension Council,,,Susan Wiertzema,245,189,56
+Lyon,Rock Rapids Forster Bldg N,Agricultural Extension Council,,,Susan Wiertzema,412,268,144
+Lyon,Rock Rapids Forster Bldg S,Agricultural Extension Council,,,Susan Wiertzema,562,348,214
+Lyon,George Community Center,Agricultural Extension Council,,,Write-in,0,0,0
+Lyon,Doon City Hall,Agricultural Extension Council,,,Write-in,2,1,1
+Lyon,Inwood City Hall,Agricultural Extension Council,,,Write-in,4,3,1
+Lyon,Larchwood City Hall,Agricultural Extension Council,,,Write-in,6,4,2
+Lyon,Lester City Hall,Agricultural Extension Council,,,Write-in,4,1,3
+Lyon,Little Rock Town and Country Bldg,Agricultural Extension Council,,,Write-in,1,0,1
+Lyon,Rock Rapids Forster Bldg N,Agricultural Extension Council,,,Write-in,6,6,0
+Lyon,Rock Rapids Forster Bldg S,Agricultural Extension Council,,,Write-in,6,5,1
+Lyon,George Community Center,Agricultural Extension Council, To Fill a Vacancy,,Trisha Huyser,695,469,226
+Lyon,Doon City Hall,Agricultural Extension Council, To Fill a Vacancy,,Trisha Huyser,514,351,163
+Lyon,Inwood City Hall,Agricultural Extension Council, To Fill a Vacancy,,Trisha Huyser,301,233,68
+Lyon,Larchwood City Hall,Agricultural Extension Council, To Fill a Vacancy,,Trisha Huyser,348,277,71
+Lyon,Lester City Hall,Agricultural Extension Council, To Fill a Vacancy,,Trisha Huyser,265,194,71
+Lyon,Little Rock Town and Country Bldg,Agricultural Extension Council, To Fill a Vacancy,,Trisha Huyser,242,182,60
+Lyon,Rock Rapids Forster Bldg N,Agricultural Extension Council, To Fill a Vacancy,,Trisha Huyser,473,327,146
+Lyon,Rock Rapids Forster Bldg S,Agricultural Extension Council, To Fill a Vacancy,,Trisha Huyser,670,419,251
+Lyon,George Community Center,Agricultural Extension Council, To Fill a Vacancy,,Write-in,2,2,0
+Lyon,Doon City Hall,Agricultural Extension Council, To Fill a Vacancy,,Write-in,1,0,1
+Lyon,Inwood City Hall,Agricultural Extension Council, To Fill a Vacancy,,Write-in,0,0,0
+Lyon,Larchwood City Hall,Agricultural Extension Council, To Fill a Vacancy,,Write-in,1,1,0
+Lyon,Lester City Hall,Agricultural Extension Council, To Fill a Vacancy,,Write-in,1,0,1
+Lyon,Little Rock Town and Country Bldg,Agricultural Extension Council, To Fill a Vacancy,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg N,Agricultural Extension Council, To Fill a Vacancy,,Write-in,1,1,0
+Lyon,Rock Rapids Forster Bldg S,Agricultural Extension Council, To Fill a Vacancy,,Write-in,2,0,2
+Lyon,George Community Center,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,449,322,127
+Lyon,Doon City Hall,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,220,149,71
+Lyon,Inwood City Hall,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,216,167,49
+Lyon,Larchwood City Hall,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,240,192,48
+Lyon,Lester City Hall,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,153,104,49
+Lyon,Little Rock Town and Country Bldg,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,160,120,40
+Lyon,Rock Rapids Forster Bldg N,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,280,197,83
+Lyon,Rock Rapids Forster Bldg S,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,399,254,145
+Lyon,George Community Center,Court of Appeals Judge Anuradha Vaitheswaran,,,No,218,152,66
+Lyon,Doon City Hall,Court of Appeals Judge Anuradha Vaitheswaran,,,No,242,176,66
+Lyon,Inwood City Hall,Court of Appeals Judge Anuradha Vaitheswaran,,,No,88,69,19
+Lyon,Larchwood City Hall,Court of Appeals Judge Anuradha Vaitheswaran,,,No,109,79,30
+Lyon,Lester City Hall,Court of Appeals Judge Anuradha Vaitheswaran,,,No,87,67,20
+Lyon,Little Rock Town and Country Bldg,Court of Appeals Judge Anuradha Vaitheswaran,,,No,59,48,11
+Lyon,Rock Rapids Forster Bldg N,Court of Appeals Judge Anuradha Vaitheswaran,,,No,177,124,53
+Lyon,Rock Rapids Forster Bldg S,Court of Appeals Judge Anuradha Vaitheswaran,,,No,245,150,95
+Lyon,George Community Center,Court of Appeals Judge Michael R. Mullins,,,Yes,535,376,159
+Lyon,Doon City Hall,Court of Appeals Judge Michael R. Mullins,,,Yes,363,250,113
+Lyon,Inwood City Hall,Court of Appeals Judge Michael R. Mullins,,,Yes,261,200,61
+Lyon,Larchwood City Hall,Court of Appeals Judge Michael R. Mullins,,,Yes,281,220,61
+Lyon,Lester City Hall,Court of Appeals Judge Michael R. Mullins,,,Yes,183,134,49
+Lyon,Little Rock Town and Country Bldg,Court of Appeals Judge Michael R. Mullins,,,Yes,183,137,46
+Lyon,Rock Rapids Forster Bldg N,Court of Appeals Judge Michael R. Mullins,,,Yes,355,245,110
+Lyon,Rock Rapids Forster Bldg S,Court of Appeals Judge Michael R. Mullins,,,Yes,519,321,198
+Lyon,George Community Center,Court of Appeals Judge Michael R. Mullins,,,No,137,97,40
+Lyon,Doon City Hall,Court of Appeals Judge Michael R. Mullins,,,No,97,72,25
+Lyon,Inwood City Hall,Court of Appeals Judge Michael R. Mullins,,,No,45,35,10
+Lyon,Larchwood City Hall,Court of Appeals Judge Michael R. Mullins,,,No,72,55,17
+Lyon,Lester City Hall,Court of Appeals Judge Michael R. Mullins,,,No,55,38,17
+Lyon,Little Rock Town and Country Bldg,Court of Appeals Judge Michael R. Mullins,,,No,35,30,5
+Lyon,Rock Rapids Forster Bldg N,Court of Appeals Judge Michael R. Mullins,,,No,95,67,28
+Lyon,Rock Rapids Forster Bldg S,Court of Appeals Judge Michael R. Mullins,,,No,130,82,48
+Lyon,George Community Center,Court of Appeals Judge Mary Ellen Tabor,,,Yes,508,362,146
+Lyon,Doon City Hall,Court of Appeals Judge Mary Ellen Tabor,,,Yes,253,176,77
+Lyon,Inwood City Hall,Court of Appeals Judge Mary Ellen Tabor,,,Yes,232,182,50
+Lyon,Larchwood City Hall,Court of Appeals Judge Mary Ellen Tabor,,,Yes,261,203,58
+Lyon,Lester City Hall,Court of Appeals Judge Mary Ellen Tabor,,,Yes,166,116,50
+Lyon,Little Rock Town and Country Bldg,Court of Appeals Judge Mary Ellen Tabor,,,Yes,175,129,46
+Lyon,Rock Rapids Forster Bldg N,Court of Appeals Judge Mary Ellen Tabor,,,Yes,314,222,92
+Lyon,Rock Rapids Forster Bldg S,Court of Appeals Judge Mary Ellen Tabor,,,Yes,451,287,164
+Lyon,George Community Center,Court of Appeals Judge Mary Ellen Tabor,,,No,159,107,52
+Lyon,Doon City Hall,Court of Appeals Judge Mary Ellen Tabor,,,No,201,144,57
+Lyon,Inwood City Hall,Court of Appeals Judge Mary Ellen Tabor,,,No,72,53,19
+Lyon,Larchwood City Hall,Court of Appeals Judge Mary Ellen Tabor,,,No,83,60,23
+Lyon,Lester City Hall,Court of Appeals Judge Mary Ellen Tabor,,,No,73,56,17
+Lyon,Little Rock Town and Country Bldg,Court of Appeals Judge Mary Ellen Tabor,,,No,40,35,5
+Lyon,Rock Rapids Forster Bldg N,Court of Appeals Judge Mary Ellen Tabor,,,No,139,96,43
+Lyon,Rock Rapids Forster Bldg S,Court of Appeals Judge Mary Ellen Tabor,,,No,192,113,79
+Lyon,George Community Center,District 3A District Judge David A. Lester,,,Yes,535,377,158
+Lyon,Doon City Hall,District 3A District Judge David A. Lester,,,Yes,351,245,106
+Lyon,Inwood City Hall,District 3A District Judge David A. Lester,,,Yes,261,203,58
+Lyon,Larchwood City Hall,District 3A District Judge David A. Lester,,,Yes,284,225,59
+Lyon,Lester City Hall,District 3A District Judge David A. Lester,,,Yes,184,136,48
+Lyon,Little Rock Town and Country Bldg,District 3A District Judge David A. Lester,,,Yes,188,141,47
+Lyon,Rock Rapids Forster Bldg N,District 3A District Judge David A. Lester,,,Yes,360,247,113
+Lyon,Rock Rapids Forster Bldg S,District 3A District Judge David A. Lester,,,Yes,522,318,204
+Lyon,George Community Center,District 3A District Judge David A. Lester,,,No,127,92,35
+Lyon,Doon City Hall,District 3A District Judge David A. Lester,,,No,110,82,28
+Lyon,Inwood City Hall,District 3A District Judge David A. Lester,,,No,46,36,10
+Lyon,Larchwood City Hall,District 3A District Judge David A. Lester,,,No,68,54,14
+Lyon,Lester City Hall,District 3A District Judge David A. Lester,,,No,49,38,11
+Lyon,Little Rock Town and Country Bldg,District 3A District Judge David A. Lester,,,No,34,28,6
+Lyon,Rock Rapids Forster Bldg N,District 3A District Judge David A. Lester,,,No,92,66,26
+Lyon,Rock Rapids Forster Bldg S,District 3A District Judge David A. Lester,,,No,130,86,44
+Lyon,George Community Center,District 3A District Judge Nancy L. Whittenburg,,,Yes,518,371,147
+Lyon,Doon City Hall,District 3A District Judge Nancy L. Whittenburg,,,Yes,334,238,96
+Lyon,Inwood City Hall,District 3A District Judge Nancy L. Whittenburg,,,Yes,243,188,55
+Lyon,Larchwood City Hall,District 3A District Judge Nancy L. Whittenburg,,,Yes,274,219,55
+Lyon,Lester City Hall,District 3A District Judge Nancy L. Whittenburg,,,Yes,175,129,46
+Lyon,Little Rock Town and Country Bldg,District 3A District Judge Nancy L. Whittenburg,,,Yes,171,127,44
+Lyon,Rock Rapids Forster Bldg N,District 3A District Judge Nancy L. Whittenburg,,,Yes,338,241,97
+Lyon,Rock Rapids Forster Bldg S,District 3A District Judge Nancy L. Whittenburg,,,Yes,480,302,178
+Lyon,George Community Center,District 3A District Judge Nancy L. Whittenburg,,,No,147,100,47
+Lyon,Doon City Hall,District 3A District Judge Nancy L. Whittenburg,,,No,117,84,33
+Lyon,Inwood City Hall,District 3A District Judge Nancy L. Whittenburg,,,No,58,45,13
+Lyon,Larchwood City Hall,District 3A District Judge Nancy L. Whittenburg,,,No,77,55,22
+Lyon,Lester City Hall,District 3A District Judge Nancy L. Whittenburg,,,No,61,45,16
+Lyon,Little Rock Town and Country Bldg,District 3A District Judge Nancy L. Whittenburg,,,No,43,39,4
+Lyon,Rock Rapids Forster Bldg N,District 3A District Judge Nancy L. Whittenburg,,,No,114,75,39
+Lyon,Rock Rapids Forster Bldg S,District 3A District Judge Nancy L. Whittenburg,,,No,166,100,66

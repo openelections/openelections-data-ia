@@ -1,0 +1,743 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Hamilton,PRECINCT 1,United States Representative District 4,,REP,Steve King,338,191,147
+Hamilton,PRECINCT 2,United States Representative District 4,,REP,Steve King,286,174,112
+Hamilton,PRECINCT 3,United States Representative District 4,,REP,Steve King,548,389,159
+Hamilton,PRECINCT 4,United States Representative District 4,,REP,Steve King,489,334,155
+Hamilton,PRECINCT 5,United States Representative District 4,,REP,Steve King,334,245,89
+Hamilton,WEBSTER CITY 1,United States Representative District 4,,REP,Steve King,442,225,217
+Hamilton,WEBSTER CITY 2,United States Representative District 4,,REP,Steve King,521,293,228
+Hamilton,WEBSTER CITY 3,United States Representative District 4,,REP,Steve King,257,170,87
+Hamilton,PRECINCT 1,United States Representative District 4,,DEM,J.D. Scholten,254,144,110
+Hamilton,PRECINCT 2,United States Representative District 4,,DEM,J.D. Scholten,202,128,74
+Hamilton,PRECINCT 3,United States Representative District 4,,DEM,J.D. Scholten,378,235,143
+Hamilton,PRECINCT 4,United States Representative District 4,,DEM,J.D. Scholten,380,250,130
+Hamilton,PRECINCT 5,United States Representative District 4,,DEM,J.D. Scholten,178,121,57
+Hamilton,WEBSTER CITY 1,United States Representative District 4,,DEM,J.D. Scholten,529,263,266
+Hamilton,WEBSTER CITY 2,United States Representative District 4,,DEM,J.D. Scholten,655,294,361
+Hamilton,WEBSTER CITY 3,United States Representative District 4,,DEM,J.D. Scholten,366,185,181
+Hamilton,PRECINCT 1,United States Representative District 4,,LIB,Charles Aldrich,19,13,6
+Hamilton,PRECINCT 2,United States Representative District 4,,LIB,Charles Aldrich,11,6,5
+Hamilton,PRECINCT 3,United States Representative District 4,,LIB,Charles Aldrich,17,10,7
+Hamilton,PRECINCT 4,United States Representative District 4,,LIB,Charles Aldrich,14,11,3
+Hamilton,PRECINCT 5,United States Representative District 4,,LIB,Charles Aldrich,11,8,3
+Hamilton,WEBSTER CITY 1,United States Representative District 4,,LIB,Charles Aldrich,21,14,7
+Hamilton,WEBSTER CITY 2,United States Representative District 4,,LIB,Charles Aldrich,22,13,9
+Hamilton,WEBSTER CITY 3,United States Representative District 4,,LIB,Charles Aldrich,14,6,8
+Hamilton,PRECINCT 1,United States Representative District 4,,,Edward Peterson,2,0,2
+Hamilton,PRECINCT 2,United States Representative District 4,,,Edward Peterson,2,1,1
+Hamilton,PRECINCT 3,United States Representative District 4,,,Edward Peterson,7,4,3
+Hamilton,PRECINCT 4,United States Representative District 4,,,Edward Peterson,8,7,1
+Hamilton,PRECINCT 5,United States Representative District 4,,,Edward Peterson,4,3,1
+Hamilton,WEBSTER CITY 1,United States Representative District 4,,,Edward Peterson,10,4,6
+Hamilton,WEBSTER CITY 2,United States Representative District 4,,,Edward Peterson,8,4,4
+Hamilton,WEBSTER CITY 3,United States Representative District 4,,,Edward Peterson,5,4,1
+Hamilton,PRECINCT 1,United States Representative District 4,,,Write-in,1,1,0
+Hamilton,PRECINCT 2,United States Representative District 4,,,Write-in,0,0,0
+Hamilton,PRECINCT 3,United States Representative District 4,,,Write-in,2,1,1
+Hamilton,PRECINCT 4,United States Representative District 4,,,Write-in,0,0,0
+Hamilton,PRECINCT 5,United States Representative District 4,,,Write-in,1,0,1
+Hamilton,WEBSTER CITY 1,United States Representative District 4,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,United States Representative District 4,,,Write-in,1,1,0
+Hamilton,WEBSTER CITY 3,United States Representative District 4,,,Write-in,1,0,1
+Hamilton,PRECINCT 1,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,401,232,169
+Hamilton,PRECINCT 2,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,332,212,120
+Hamilton,PRECINCT 3,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,613,448,165
+Hamilton,PRECINCT 4,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,546,380,166
+Hamilton,PRECINCT 5,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,375,275,100
+Hamilton,WEBSTER CITY 1,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,502,268,234
+Hamilton,WEBSTER CITY 2,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,644,373,271
+Hamilton,WEBSTER CITY 3,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,290,195,95
+Hamilton,PRECINCT 1,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,207,112,95
+Hamilton,PRECINCT 2,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,166,97,69
+Hamilton,PRECINCT 3,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,320,179,141
+Hamilton,PRECINCT 4,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,331,208,123
+Hamilton,PRECINCT 5,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,145,98,47
+Hamilton,WEBSTER CITY 1,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,489,228,261
+Hamilton,WEBSTER CITY 2,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,565,232,333
+Hamilton,WEBSTER CITY 3,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,337,160,177
+Hamilton,PRECINCT 1,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,9,6,3
+Hamilton,PRECINCT 2,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,5,3,2
+Hamilton,PRECINCT 3,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,14,10,4
+Hamilton,PRECINCT 4,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,12,11,1
+Hamilton,PRECINCT 5,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,9,5,4
+Hamilton,WEBSTER CITY 1,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,15,10,5
+Hamilton,WEBSTER CITY 2,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,13,9,4
+Hamilton,WEBSTER CITY 3,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,12,7,5
+Hamilton,PRECINCT 1,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,4,3,1
+Hamilton,PRECINCT 2,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,0,0,0
+Hamilton,PRECINCT 3,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,4,3,1
+Hamilton,PRECINCT 4,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,5,4,1
+Hamilton,PRECINCT 5,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,4,4,0
+Hamilton,WEBSTER CITY 1,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,7,4,3
+Hamilton,WEBSTER CITY 2,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,2,1
+Hamilton,WEBSTER CITY 3,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,6,4,2
+Hamilton,PRECINCT 1,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hamilton,PRECINCT 2,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hamilton,PRECINCT 3,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hamilton,PRECINCT 4,Governor/Lieutenant Governor,,,Write-in,1,1,0
+Hamilton,PRECINCT 5,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 3,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hamilton,PRECINCT 1,Secretary of State,,REP,Paul D. Pate,417,248,169
+Hamilton,PRECINCT 2,Secretary of State,,REP,Paul D. Pate,340,214,126
+Hamilton,PRECINCT 3,Secretary of State,,REP,Paul D. Pate,650,466,184
+Hamilton,PRECINCT 4,Secretary of State,,REP,Paul D. Pate,560,395,165
+Hamilton,PRECINCT 5,Secretary of State,,REP,Paul D. Pate,378,277,101
+Hamilton,WEBSTER CITY 1,Secretary of State,,REP,Paul D. Pate,517,281,236
+Hamilton,WEBSTER CITY 2,Secretary of State,,REP,Paul D. Pate,673,378,295
+Hamilton,WEBSTER CITY 3,Secretary of State,,REP,Paul D. Pate,303,202,101
+Hamilton,PRECINCT 1,Secretary of State,,DEM,Deidre DeJear,180,91,89
+Hamilton,PRECINCT 2,Secretary of State,,DEM,Deidre DeJear,151,90,61
+Hamilton,PRECINCT 3,Secretary of State,,DEM,Deidre DeJear,274,155,119
+Hamilton,PRECINCT 4,Secretary of State,,DEM,Deidre DeJear,294,185,109
+Hamilton,PRECINCT 5,Secretary of State,,DEM,Deidre DeJear,135,86,49
+Hamilton,WEBSTER CITY 1,Secretary of State,,DEM,Deidre DeJear,440,200,240
+Hamilton,WEBSTER CITY 2,Secretary of State,,DEM,Deidre DeJear,491,212,279
+Hamilton,WEBSTER CITY 3,Secretary of State,,DEM,Deidre DeJear,311,143,168
+Hamilton,PRECINCT 1,Secretary of State,,LIB,Jules Ofenbakh,12,9,3
+Hamilton,PRECINCT 2,Secretary of State,,LIB,Jules Ofenbakh,10,6,4
+Hamilton,PRECINCT 3,Secretary of State,,LIB,Jules Ofenbakh,14,10,4
+Hamilton,PRECINCT 4,Secretary of State,,LIB,Jules Ofenbakh,20,12,8
+Hamilton,PRECINCT 5,Secretary of State,,LIB,Jules Ofenbakh,14,13,1
+Hamilton,WEBSTER CITY 1,Secretary of State,,LIB,Jules Ofenbakh,24,13,11
+Hamilton,WEBSTER CITY 2,Secretary of State,,LIB,Jules Ofenbakh,16,6,10
+Hamilton,WEBSTER CITY 3,Secretary of State,,LIB,Jules Ofenbakh,18,12,6
+Hamilton,PRECINCT 1,Secretary of State,,,Write-in,1,1,0
+Hamilton,PRECINCT 2,Secretary of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 3,Secretary of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 4,Secretary of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 5,Secretary of State,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,Secretary of State,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,Secretary of State,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 3,Secretary of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 1,Auditor of State,,REP,Mary Mosiman,360,209,151
+Hamilton,PRECINCT 2,Auditor of State,,REP,Mary Mosiman,291,186,105
+Hamilton,PRECINCT 3,Auditor of State,,REP,Mary Mosiman,567,421,146
+Hamilton,PRECINCT 4,Auditor of State,,REP,Mary Mosiman,526,377,149
+Hamilton,PRECINCT 5,Auditor of State,,REP,Mary Mosiman,348,259,89
+Hamilton,WEBSTER CITY 1,Auditor of State,,REP,Mary Mosiman,459,253,206
+Hamilton,WEBSTER CITY 2,Auditor of State,,REP,Mary Mosiman,568,332,236
+Hamilton,WEBSTER CITY 3,Auditor of State,,REP,Mary Mosiman,255,173,82
+Hamilton,PRECINCT 1,Auditor of State,,DEM,Rob Sand,231,122,109
+Hamilton,PRECINCT 2,Auditor of State,,DEM,Rob Sand,188,109,79
+Hamilton,PRECINCT 3,Auditor of State,,DEM,Rob Sand,344,191,153
+Hamilton,PRECINCT 4,Auditor of State,,DEM,Rob Sand,328,204,124
+Hamilton,PRECINCT 5,Auditor of State,,DEM,Rob Sand,161,103,58
+Hamilton,WEBSTER CITY 1,Auditor of State,,DEM,Rob Sand,499,232,267
+Hamilton,WEBSTER CITY 2,Auditor of State,,DEM,Rob Sand,592,254,338
+Hamilton,WEBSTER CITY 3,Auditor of State,,DEM,Rob Sand,351,169,182
+Hamilton,PRECINCT 1,Auditor of State,,LIB,Fred Perryman,16,14,2
+Hamilton,PRECINCT 2,Auditor of State,,LIB,Fred Perryman,14,11,3
+Hamilton,PRECINCT 3,Auditor of State,,LIB,Fred Perryman,17,13,4
+Hamilton,PRECINCT 4,Auditor of State,,LIB,Fred Perryman,18,14,4
+Hamilton,PRECINCT 5,Auditor of State,,LIB,Fred Perryman,13,11,2
+Hamilton,WEBSTER CITY 1,Auditor of State,,LIB,Fred Perryman,21,9,12
+Hamilton,WEBSTER CITY 2,Auditor of State,,LIB,Fred Perryman,19,13,6
+Hamilton,WEBSTER CITY 3,Auditor of State,,LIB,Fred Perryman,21,13,8
+Hamilton,PRECINCT 1,Auditor of State,,,Write-in,1,1,0
+Hamilton,PRECINCT 2,Auditor of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 3,Auditor of State,,,Write-in,1,1,0
+Hamilton,PRECINCT 4,Auditor of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 5,Auditor of State,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,Auditor of State,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,Auditor of State,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 3,Auditor of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 1,Treasurer of State,,REP,Jeremy N. Davis,325,189,136
+Hamilton,PRECINCT 2,Treasurer of State,,REP,Jeremy N. Davis,273,171,102
+Hamilton,PRECINCT 3,Treasurer of State,,REP,Jeremy N. Davis,495,367,128
+Hamilton,PRECINCT 4,Treasurer of State,,REP,Jeremy N. Davis,446,321,125
+Hamilton,PRECINCT 5,Treasurer of State,,REP,Jeremy N. Davis,311,221,90
+Hamilton,WEBSTER CITY 1,Treasurer of State,,REP,Jeremy N. Davis,402,221,181
+Hamilton,WEBSTER CITY 2,Treasurer of State,,REP,Jeremy N. Davis,511,300,211
+Hamilton,WEBSTER CITY 3,Treasurer of State,,REP,Jeremy N. Davis,233,166,67
+Hamilton,PRECINCT 1,Treasurer of State,,DEM,Michael L. Fitzgerald,266,141,125
+Hamilton,PRECINCT 2,Treasurer of State,,DEM,Michael L. Fitzgerald,210,126,84
+Hamilton,PRECINCT 3,Treasurer of State,,DEM,Michael L. Fitzgerald,417,249,168
+Hamilton,PRECINCT 4,Treasurer of State,,DEM,Michael L. Fitzgerald,411,260,151
+Hamilton,PRECINCT 5,Treasurer of State,,DEM,Michael L. Fitzgerald,202,141,61
+Hamilton,WEBSTER CITY 1,Treasurer of State,,DEM,Michael L. Fitzgerald,548,252,296
+Hamilton,WEBSTER CITY 2,Treasurer of State,,DEM,Michael L. Fitzgerald,656,281,375
+Hamilton,WEBSTER CITY 3,Treasurer of State,,DEM,Michael L. Fitzgerald,371,173,198
+Hamilton,PRECINCT 1,Treasurer of State,,LIB,Timothy Hird,16,13,3
+Hamilton,PRECINCT 2,Treasurer of State,,LIB,Timothy Hird,11,5,6
+Hamilton,PRECINCT 3,Treasurer of State,,LIB,Timothy Hird,21,11,10
+Hamilton,PRECINCT 4,Treasurer of State,,LIB,Timothy Hird,22,15,7
+Hamilton,PRECINCT 5,Treasurer of State,,LIB,Timothy Hird,11,11,0
+Hamilton,WEBSTER CITY 1,Treasurer of State,,LIB,Timothy Hird,25,16,9
+Hamilton,WEBSTER CITY 2,Treasurer of State,,LIB,Timothy Hird,15,11,4
+Hamilton,WEBSTER CITY 3,Treasurer of State,,LIB,Timothy Hird,24,18,6
+Hamilton,PRECINCT 1,Treasurer of State,,,Write-in,1,1,0
+Hamilton,PRECINCT 2,Treasurer of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 3,Treasurer of State,,,Write-in,2,2,0
+Hamilton,PRECINCT 4,Treasurer of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 5,Treasurer of State,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,Treasurer of State,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,Treasurer of State,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 3,Treasurer of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 1,Secretary of Agriculture,,REP,Mike Naig,401,229,172
+Hamilton,PRECINCT 2,Secretary of Agriculture,,REP,Mike Naig,321,195,126
+Hamilton,PRECINCT 3,Secretary of Agriculture,,REP,Mike Naig,641,461,180
+Hamilton,PRECINCT 4,Secretary of Agriculture,,REP,Mike Naig,547,379,168
+Hamilton,PRECINCT 5,Secretary of Agriculture,,REP,Mike Naig,379,274,105
+Hamilton,WEBSTER CITY 1,Secretary of Agriculture,,REP,Mike Naig,513,278,235
+Hamilton,WEBSTER CITY 2,Secretary of Agriculture,,REP,Mike Naig,644,364,280
+Hamilton,WEBSTER CITY 3,Secretary of Agriculture,,REP,Mike Naig,290,192,98
+Hamilton,PRECINCT 1,Secretary of Agriculture,,DEM,Tim Gannon,194,105,89
+Hamilton,PRECINCT 2,Secretary of Agriculture,,DEM,Tim Gannon,157,98,59
+Hamilton,PRECINCT 3,Secretary of Agriculture,,DEM,Tim Gannon,283,158,125
+Hamilton,PRECINCT 4,Secretary of Agriculture,,DEM,Tim Gannon,309,200,109
+Hamilton,PRECINCT 5,Secretary of Agriculture,,DEM,Tim Gannon,131,87,44
+Hamilton,WEBSTER CITY 1,Secretary of Agriculture,,DEM,Tim Gannon,436,198,238
+Hamilton,WEBSTER CITY 2,Secretary of Agriculture,,DEM,Tim Gannon,507,213,294
+Hamilton,WEBSTER CITY 3,Secretary of Agriculture,,DEM,Tim Gannon,307,146,161
+Hamilton,PRECINCT 1,Secretary of Agriculture,,LIB,Rick Stewart,16,12,4
+Hamilton,PRECINCT 2,Secretary of Agriculture,,LIB,Rick Stewart,18,11,7
+Hamilton,PRECINCT 3,Secretary of Agriculture,,LIB,Rick Stewart,15,11,4
+Hamilton,PRECINCT 4,Secretary of Agriculture,,LIB,Rick Stewart,20,17,3
+Hamilton,PRECINCT 5,Secretary of Agriculture,,LIB,Rick Stewart,17,14,3
+Hamilton,WEBSTER CITY 1,Secretary of Agriculture,,LIB,Rick Stewart,30,21,9
+Hamilton,WEBSTER CITY 2,Secretary of Agriculture,,LIB,Rick Stewart,22,14,8
+Hamilton,WEBSTER CITY 3,Secretary of Agriculture,,LIB,Rick Stewart,25,16,9
+Hamilton,PRECINCT 1,Secretary of Agriculture,,,Write-in,1,1,0
+Hamilton,PRECINCT 2,Secretary of Agriculture,,,Write-in,1,1,0
+Hamilton,PRECINCT 3,Secretary of Agriculture,,,Write-in,1,1,0
+Hamilton,PRECINCT 4,Secretary of Agriculture,,,Write-in,1,0,1
+Hamilton,PRECINCT 5,Secretary of Agriculture,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,Secretary of Agriculture,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,Secretary of Agriculture,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 3,Secretary of Agriculture,,,Write-in,0,0,0
+Hamilton,PRECINCT 1,Attorney General,,DEM,Tom Miller,425,241,184
+Hamilton,PRECINCT 2,Attorney General,,DEM,Tom Miller,318,199,119
+Hamilton,PRECINCT 3,Attorney General,,DEM,Tom Miller,638,417,221
+Hamilton,PRECINCT 4,Attorney General,,DEM,Tom Miller,543,364,179
+Hamilton,PRECINCT 5,Attorney General,,DEM,Tom Miller,304,215,89
+Hamilton,WEBSTER CITY 1,Attorney General,,DEM,Tom Miller,706,354,352
+Hamilton,WEBSTER CITY 2,Attorney General,,DEM,Tom Miller,846,388,458
+Hamilton,WEBSTER CITY 3,Attorney General,,DEM,Tom Miller,471,257,214
+Hamilton,PRECINCT 1,Attorney General,,LIB,Marco Battaglia,111,66,45
+Hamilton,PRECINCT 2,Attorney General,,LIB,Marco Battaglia,129,83,46
+Hamilton,PRECINCT 3,Attorney General,,LIB,Marco Battaglia,195,137,58
+Hamilton,PRECINCT 4,Attorney General,,LIB,Marco Battaglia,216,163,53
+Hamilton,PRECINCT 5,Attorney General,,LIB,Marco Battaglia,145,102,43
+Hamilton,WEBSTER CITY 1,Attorney General,,LIB,Marco Battaglia,173,92,81
+Hamilton,WEBSTER CITY 2,Attorney General,,LIB,Marco Battaglia,198,125,73
+Hamilton,WEBSTER CITY 3,Attorney General,,LIB,Marco Battaglia,124,83,41
+Hamilton,PRECINCT 1,Attorney General,,,Write-in,7,5,2
+Hamilton,PRECINCT 2,Attorney General,,,Write-in,0,0,0
+Hamilton,PRECINCT 3,Attorney General,,,Write-in,8,7,1
+Hamilton,PRECINCT 4,Attorney General,,,Write-in,9,5,4
+Hamilton,PRECINCT 5,Attorney General,,,Write-in,6,5,1
+Hamilton,WEBSTER CITY 1,Attorney General,,,Write-in,1,0,1
+Hamilton,WEBSTER CITY 2,Attorney General,,,Write-in,4,2,2
+Hamilton,WEBSTER CITY 3,Attorney General,,,Write-in,3,2,1
+Hamilton,PRECINCT 1,State Representative District 48,,REP,Robert P. Bacon,406,237,169
+Hamilton,PRECINCT 2,State Representative District 48,,REP,Robert P. Bacon,333,210,123
+Hamilton,PRECINCT 3,State Representative District 48,,REP,Robert P. Bacon,626,450,176
+Hamilton,PRECINCT 4,State Representative District 48,,REP,Robert P. Bacon,555,391,164
+Hamilton,PRECINCT 5,State Representative District 48,,REP,Robert P. Bacon,382,285,97
+Hamilton,WEBSTER CITY 1,State Representative District 48,,REP,Robert P. Bacon,528,289,239
+Hamilton,WEBSTER CITY 2,State Representative District 48,,REP,Robert P. Bacon,674,390,284
+Hamilton,WEBSTER CITY 3,State Representative District 48,,REP,Robert P. Bacon,302,206,96
+Hamilton,PRECINCT 1,State Representative District 48,,DEM,Tim Winter,200,106,94
+Hamilton,PRECINCT 2,State Representative District 48,,DEM,Tim Winter,157,92,65
+Hamilton,PRECINCT 3,State Representative District 48,,DEM,Tim Winter,305,176,129
+Hamilton,PRECINCT 4,State Representative District 48,,DEM,Tim Winter,311,198,113
+Hamilton,PRECINCT 5,State Representative District 48,,DEM,Tim Winter,143,90,53
+Hamilton,WEBSTER CITY 1,State Representative District 48,,DEM,Tim Winter,445,204,241
+Hamilton,WEBSTER CITY 2,State Representative District 48,,DEM,Tim Winter,499,200,299
+Hamilton,WEBSTER CITY 3,State Representative District 48,,DEM,Tim Winter,325,153,172
+Hamilton,PRECINCT 1,State Representative District 48,,,Write-in,1,1,0
+Hamilton,PRECINCT 2,State Representative District 48,,,Write-in,0,0,0
+Hamilton,PRECINCT 3,State Representative District 48,,,Write-in,1,1,0
+Hamilton,PRECINCT 4,State Representative District 48,,,Write-in,0,0,0
+Hamilton,PRECINCT 5,State Representative District 48,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,State Representative District 48,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,State Representative District 48,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 3,State Representative District 48,,,Write-in,0,0,0
+Hamilton,PRECINCT 3,Board of Supervisors, Dist. 3,REP,Rick Young,788,551,237
+Hamilton,PRECINCT 4,Board of Supervisors, Dist. 3,REP,Rick Young,737,507,230
+Hamilton,PRECINCT 5,Board of Supervisors, Dist. 3,REP,Rick Young,453,337,116
+Hamilton,PRECINCT 3,Board of Supervisors, Dist. 3,,Write-in,22,12,10
+Hamilton,PRECINCT 4,Board of Supervisors, Dist. 3,,Write-in,18,13,5
+Hamilton,PRECINCT 5,Board of Supervisors, Dist. 3,,Write-in,6,3,3
+Hamilton,PRECINCT 1,County Treasurer,,REP,Judy Warwick,417,240,177
+Hamilton,PRECINCT 2,County Treasurer,,REP,Judy Warwick,331,207,124
+Hamilton,PRECINCT 3,County Treasurer,,REP,Judy Warwick,607,431,176
+Hamilton,PRECINCT 4,County Treasurer,,REP,Judy Warwick,543,372,171
+Hamilton,PRECINCT 5,County Treasurer,,REP,Judy Warwick,381,277,104
+Hamilton,WEBSTER CITY 1,County Treasurer,,REP,Judy Warwick,639,336,303
+Hamilton,WEBSTER CITY 2,County Treasurer,,REP,Judy Warwick,752,392,360
+Hamilton,WEBSTER CITY 3,County Treasurer,,REP,Judy Warwick,372,226,146
+Hamilton,PRECINCT 1,County Treasurer,,DEM,Colleen Hansen,207,113,94
+Hamilton,PRECINCT 2,County Treasurer,,DEM,Colleen Hansen,168,103,65
+Hamilton,PRECINCT 3,County Treasurer,,DEM,Colleen Hansen,328,200,128
+Hamilton,PRECINCT 4,County Treasurer,,DEM,Colleen Hansen,331,221,110
+Hamilton,PRECINCT 5,County Treasurer,,DEM,Colleen Hansen,144,98,46
+Hamilton,WEBSTER CITY 1,County Treasurer,,DEM,Colleen Hansen,362,168,194
+Hamilton,WEBSTER CITY 2,County Treasurer,,DEM,Colleen Hansen,467,220,247
+Hamilton,WEBSTER CITY 3,County Treasurer,,DEM,Colleen Hansen,270,138,132
+Hamilton,PRECINCT 1,County Treasurer,,,Write-in,1,1,0
+Hamilton,PRECINCT 2,County Treasurer,,,Write-in,0,0,0
+Hamilton,PRECINCT 3,County Treasurer,,,Write-in,1,1,0
+Hamilton,PRECINCT 4,County Treasurer,,,Write-in,1,1,0
+Hamilton,PRECINCT 5,County Treasurer,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,County Treasurer,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,County Treasurer,,,Write-in,2,0,2
+Hamilton,WEBSTER CITY 3,County Treasurer,,,Write-in,1,1,0
+Hamilton,PRECINCT 1,County Recorder,,REP,Kim Anderson,575,326,249
+Hamilton,PRECINCT 2,County Recorder,,REP,Kim Anderson,457,288,169
+Hamilton,PRECINCT 3,County Recorder,,REP,Kim Anderson,847,585,262
+Hamilton,PRECINCT 4,County Recorder,,REP,Kim Anderson,740,511,229
+Hamilton,PRECINCT 5,County Recorder,,REP,Kim Anderson,460,333,127
+Hamilton,WEBSTER CITY 1,County Recorder,,REP,Kim Anderson,845,437,408
+Hamilton,WEBSTER CITY 2,County Recorder,,REP,Kim Anderson,1013,541,472
+Hamilton,WEBSTER CITY 3,County Recorder,,REP,Kim Anderson,532,316,216
+Hamilton,PRECINCT 1,County Recorder,,,Write-in,2,2,0
+Hamilton,PRECINCT 2,County Recorder,,,Write-in,2,1,1
+Hamilton,PRECINCT 3,County Recorder,,,Write-in,9,5,4
+Hamilton,PRECINCT 4,County Recorder,,,Write-in,10,7,3
+Hamilton,PRECINCT 5,County Recorder,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,County Recorder,,,Write-in,11,5,6
+Hamilton,WEBSTER CITY 2,County Recorder,,,Write-in,12,4,8
+Hamilton,WEBSTER CITY 3,County Recorder,,,Write-in,7,4,3
+Hamilton,PRECINCT 1,County Attorney,,DEM,Patrick B. Chambers,452,267,185
+Hamilton,PRECINCT 2,County Attorney,,DEM,Patrick B. Chambers,364,233,131
+Hamilton,PRECINCT 3,County Attorney,,DEM,Patrick B. Chambers,665,445,220
+Hamilton,PRECINCT 4,County Attorney,,DEM,Patrick B. Chambers,585,395,190
+Hamilton,PRECINCT 5,County Attorney,,DEM,Patrick B. Chambers,310,228,82
+Hamilton,WEBSTER CITY 1,County Attorney,,DEM,Patrick B. Chambers,766,408,358
+Hamilton,WEBSTER CITY 2,County Attorney,,DEM,Patrick B. Chambers,932,466,466
+Hamilton,WEBSTER CITY 3,County Attorney,,DEM,Patrick B. Chambers,501,274,227
+Hamilton,PRECINCT 1,County Attorney,,,Write-in,12,7,5
+Hamilton,PRECINCT 2,County Attorney,,,Write-in,10,7,3
+Hamilton,PRECINCT 3,County Attorney,,,Write-in,22,17,5
+Hamilton,PRECINCT 4,County Attorney,,,Write-in,14,9,5
+Hamilton,PRECINCT 5,County Attorney,,,Write-in,20,14,6
+Hamilton,WEBSTER CITY 1,County Attorney,,,Write-in,22,8,14
+Hamilton,WEBSTER CITY 2,County Attorney,,,Write-in,16,9,7
+Hamilton,WEBSTER CITY 3,County Attorney,,,Write-in,15,10,5
+Hamilton,PRECINCT 2,Blairsburg Township Trustee,,,Ole Wibholm,34,18,16
+Hamilton,PRECINCT 2,Blairsburg Township Trustee,,,Randy J. Greufe,29,18,11
+Hamilton,PRECINCT 2,Blairsburg Township Trustee,,,Write-in,0,0,0
+Hamilton,PRECINCT 2,Blairsburg Township Clerk,,,Noel Singer,60,33,27
+Hamilton,PRECINCT 2,Blairsburg Township Clerk,,,Write-in,0,0,0
+Hamilton,PRECINCT 1,Cass Township Trustee,,,Steven Struchen,189,112,77
+Hamilton,WEBSTER CITY 3,Cass Township Trustee,,,Steven Struchen,3,0,3
+Hamilton,PRECINCT 1,Cass Township Trustee,,,Write-in,1,1,0
+Hamilton,WEBSTER CITY 3,Cass Township Trustee,,,Write-in,0,0,0
+Hamilton,PRECINCT 1,Cass Township Clerk,,,Jean Nicklasson,188,111,77
+Hamilton,WEBSTER CITY 3,Cass Township Clerk,,,Jean Nicklasson,3,0,3
+Hamilton,PRECINCT 1,Cass Township Clerk,,,Write-in,1,0,1
+Hamilton,WEBSTER CITY 3,Cass Township Clerk,,,Write-in,0,0,0
+Hamilton,PRECINCT 3,Clear Lake Township Trustee,,,Marvin Ness,128,91,37
+Hamilton,PRECINCT 3,Clear Lake Township Trustee,,,Write-in,1,0,1
+Hamilton,PRECINCT 3,Clear Lake Township Trustee, To Fill a Vacancy,,Carlton Ness,124,89,35
+Hamilton,PRECINCT 3,Clear Lake Township Trustee, To Fill a Vacancy,,Write-in,1,0,1
+Hamilton,PRECINCT 3,Clear Lake Township Clerk,,,Staci Olthoff,130,91,39
+Hamilton,PRECINCT 3,Clear Lake Township Clerk,,,Write-in,0,0,0
+Hamilton,PRECINCT 4,Ellsworth Township Trustee,,,Lynn Beyer,2,1,1
+Hamilton,PRECINCT 4,Ellsworth Township Trustee,,,Mark Gansen,1,1,0
+Hamilton,PRECINCT 4,Ellsworth Township Trustee,,,David Struchen,1,1,0
+Hamilton,PRECINCT 4,Ellsworth Township Trustee,,,Roger Fritz,1,1,0
+Hamilton,PRECINCT 4,Ellsworth Township Trustee,,,David E Carlson,1,1,0
+Hamilton,PRECINCT 4,Ellsworth Township Trustee,,,Bob Maass,1,1,0
+Hamilton,PRECINCT 4,Ellsworth Township Trustee,,,Christa Bina,2,0,2
+Hamilton,PRECINCT 4,Ellsworth Township Trustee,,,Shara Swenson,1,0,1
+Hamilton,PRECINCT 4,Ellsworth Township Trustee,,,Write-in,1,1,0
+Hamilton,PRECINCT 4,Ellsworth Township Clerk,,,Lynn Knutson,153,93,60
+Hamilton,PRECINCT 4,Ellsworth Township Clerk,,,Write-in,0,0,0
+Hamilton,PRECINCT 1,Freedom Township Trustee,,,David G. Hansen,120,66,54
+Hamilton,PRECINCT 1,Freedom Township Trustee,,,Write-in,1,1,0
+Hamilton,PRECINCT 1,Freedom Township Trustee, To Fill a Vacancy,,John Christopher Moline,1,1,0
+Hamilton,PRECINCT 1,Freedom Township Trustee, To Fill a Vacancy,,Fred Hopkins,1,0,1
+Hamilton,PRECINCT 1,Freedom Township Trustee, To Fill a Vacancy,,Nathan Hay,1,0,1
+Hamilton,PRECINCT 1,Freedom Township Trustee, To Fill a Vacancy,,Josie Greenley,1,0,1
+Hamilton,PRECINCT 1,Freedom Township Trustee, To Fill a Vacancy,,Bryan Gilbert,1,0,1
+Hamilton,PRECINCT 1,Freedom Township Trustee, To Fill a Vacancy,,Karen Mason,1,0,1
+Hamilton,PRECINCT 1,Freedom Township Trustee, To Fill a Vacancy,,Write-in,3,0,3
+Hamilton,PRECINCT 1,Freedom Township Clerk,,,Edie Hansen,109,58,51
+Hamilton,PRECINCT 1,Freedom Township Clerk,,,Write-in,1,1,0
+Hamilton,PRECINCT 1,Fremont Township Trustee,,,Tyler Patten,2,0,2
+Hamilton,PRECINCT 1,Fremont Township Trustee,,,Jesse Anderson,1,1,0
+Hamilton,PRECINCT 1,Fremont Township Trustee,,,Paul Wagner,1,1,0
+Hamilton,PRECINCT 1,Fremont Township Trustee,,,Write-in,2,0,2
+Hamilton,PRECINCT 1,Fremont Township Clerk,,,Ryan Davison,52,36,16
+Hamilton,PRECINCT 1,Fremont Township Clerk,,,Write-in,0,0,0
+Hamilton,PRECINCT 3,Hamilton Township Trustee,,,Steven D. Carlson,105,63,42
+Hamilton,PRECINCT 3,Hamilton Township Trustee,,,Write-in,0,0,0
+Hamilton,PRECINCT 3,Hamilton Township Clerk,,,Duane Hendrickson,101,61,40
+Hamilton,PRECINCT 3,Hamilton Township Clerk,,,Write-in,0,0,0
+Hamilton,PRECINCT 1,Independence Township Trustee,,,John T. Tapper,124,65,59
+Hamilton,PRECINCT 1,Independence Township Trustee,,,Write-in,1,1,0
+Hamilton,PRECINCT 1,Independence Township Clerk,,,John Eggers,123,67,56
+Hamilton,PRECINCT 1,Independence Township Clerk,,,Write-in,1,1,0
+Hamilton,PRECINCT 2,Liberty Township Trustee,,,Bradley E. Ratcliff,108,65,43
+Hamilton,PRECINCT 2,Liberty Township Trustee,,,Write-in,0,0,0
+Hamilton,PRECINCT 2,Liberty Township Clerk,,,Larry Jansen,2,1,1
+Hamilton,PRECINCT 2,Liberty Township Clerk,,,Bryan Denekas,0,0,0
+Hamilton,PRECINCT 2,Liberty Township Clerk,,,Bradley Ratcliff,1,1,0
+Hamilton,PRECINCT 2,Liberty Township Clerk,,,Billy Goodrich,1,1,0
+Hamilton,PRECINCT 2,Liberty Township Clerk,,,Jerry Klaver,1,0,1
+Hamilton,PRECINCT 2,Liberty Township Clerk,,,Ron Denekas,1,1,0
+Hamilton,PRECINCT 2,Liberty Township Clerk,,,Write-in,2,0,2
+Hamilton,PRECINCT 5,Lincoln Township Trustee,,,Randy Hinderaker,100,74,26
+Hamilton,PRECINCT 5,Lincoln Township Trustee,,,Write-in,2,2,0
+Hamilton,PRECINCT 5,Lincoln Township Clerk,,,Anthony Lindseth,5,3,2
+Hamilton,PRECINCT 5,Lincoln Township Clerk,,,Lesli Hill,1,1,0
+Hamilton,PRECINCT 5,Lincoln Township Clerk,,,Jim Hill,1,1,0
+Hamilton,PRECINCT 5,Lincoln Township Clerk,,,Heath Hill,2,2,0
+Hamilton,PRECINCT 5,Lincoln Township Clerk,,,Lauren Olson,2,0,2
+Hamilton,PRECINCT 5,Lincoln Township Clerk,,,Write-in,4,4,0
+Hamilton,PRECINCT 4,Lyon Township Trustee,,,Dave Osmundson,95,50,45
+Hamilton,PRECINCT 4,Lyon Township Trustee,,,Write-in,0,0,0
+Hamilton,PRECINCT 4,Lyon Township Clerk,,,Roger Barkema,97,51,46
+Hamilton,PRECINCT 4,Lyon Township Clerk,,,Write-in,0,0,0
+Hamilton,PRECINCT 3,Marion Township Trustee,,,Terrianne Larson,107,74,33
+Hamilton,PRECINCT 3,Marion Township Trustee,,,Write-in,4,4,0
+Hamilton,PRECINCT 3,Marion Township Clerk,,,Larry Runyan,121,85,36
+Hamilton,PRECINCT 3,Marion Township Clerk,,,Write-in,0,0,0
+Hamilton,PRECINCT 5,Rose Grove Township Trustee,,,Wade Wahlert,5,4,1
+Hamilton,PRECINCT 5,Rose Grove Township Trustee,,,Sean Inks,1,1,0
+Hamilton,PRECINCT 5,Rose Grove Township Trustee,,,Krystal Doolittle,1,1,0
+Hamilton,PRECINCT 5,Rose Grove Township Trustee,,,Teresa Wood,1,0,1
+Hamilton,PRECINCT 5,Rose Grove Township Trustee,,,Max Fonken,1,0,1
+Hamilton,PRECINCT 5,Rose Grove Township Trustee,,,Allen Oskvig,0,0,0
+Hamilton,PRECINCT 5,Rose Grove Township Trustee,,,Write-in,2,2,0
+Hamilton,PRECINCT 5,Rose Grove Township Clerk,,,Allen Oskvig,6,4,2
+Hamilton,PRECINCT 5,Rose Grove Township Clerk,,,Ryan Swenson,1,1,0
+Hamilton,PRECINCT 5,Rose Grove Township Clerk,,,Bruce Mark,1,1,0
+Hamilton,PRECINCT 5,Rose Grove Township Clerk,,,Teresa Wood,1,0,1
+Hamilton,PRECINCT 5,Rose Grove Township Clerk,,,Alan Ose,1,0,1
+Hamilton,PRECINCT 5,Rose Grove Township Clerk,,,Jacki Fonken,1,0,1
+Hamilton,PRECINCT 5,Rose Grove Township Clerk,,,Write-in,2,2,0
+Hamilton,PRECINCT 5,Scott Township Trustee,,,James Hassebrock,111,75,36
+Hamilton,PRECINCT 5,Scott Township Trustee,,,Write-in,3,2,1
+Hamilton,PRECINCT 5,Scott Township Clerk,,,Lisa Hovick,12,3,9
+Hamilton,PRECINCT 5,Scott Township Clerk,,,Jeff Mortvedt,1,0,1
+Hamilton,PRECINCT 5,Scott Township Clerk,,,James Hassebrock,1,0,1
+Hamilton,PRECINCT 5,Scott Township Clerk,,,Write-in,5,4,1
+Hamilton,PRECINCT 3,Webster Township Trustee,,,Jenny Roe,6,2,4
+Hamilton,PRECINCT 3,Webster Township Trustee,,,Chad Smith,2,2,0
+Hamilton,PRECINCT 3,Webster Township Trustee,,,Kim Anderson,2,0,2
+Hamilton,PRECINCT 3,Webster Township Trustee,,,Garett Burkhart,1,0,1
+Hamilton,PRECINCT 3,Webster Township Trustee,,,Write-in,4,3,1
+Hamilton,PRECINCT 3,Webster Township Clerk,,,Dawn Kesler,5,2,3
+Hamilton,PRECINCT 3,Webster Township Clerk,,,Kim Anderson,2,0,2
+Hamilton,PRECINCT 3,Webster Township Clerk,,,Write-in,4,3,1
+Hamilton,PRECINCT 2,Williams Township Trustee,,,John M. Wibholm,25,0,25
+Hamilton,PRECINCT 2,Williams Township Trustee,,,Write-in,0,0,0
+Hamilton,PRECINCT 2,Williams Township Clerk,,,Janice Russell,59,33,26
+Hamilton,PRECINCT 2,Williams Township Clerk,,,Write-in,0,0,0
+Hamilton,PRECINCT 1,County Hospital Trustee,,,Darcy Swon,410,240,170
+Hamilton,PRECINCT 2,County Hospital Trustee,,,Darcy Swon,295,180,115
+Hamilton,PRECINCT 3,County Hospital Trustee,,,Darcy Swon,656,454,202
+Hamilton,PRECINCT 4,County Hospital Trustee,,,Darcy Swon,513,363,150
+Hamilton,PRECINCT 5,County Hospital Trustee,,,Darcy Swon,293,214,79
+Hamilton,WEBSTER CITY 1,County Hospital Trustee,,,Darcy Swon,673,360,313
+Hamilton,WEBSTER CITY 2,County Hospital Trustee,,,Darcy Swon,859,457,402
+Hamilton,WEBSTER CITY 3,County Hospital Trustee,,,Darcy Swon,395,229,166
+Hamilton,PRECINCT 1,County Hospital Trustee,,,Carroll Ose,433,245,188
+Hamilton,PRECINCT 2,County Hospital Trustee,,,Carroll Ose,404,258,146
+Hamilton,PRECINCT 3,County Hospital Trustee,,,Carroll Ose,626,434,192
+Hamilton,PRECINCT 4,County Hospital Trustee,,,Carroll Ose,588,408,180
+Hamilton,PRECINCT 5,County Hospital Trustee,,,Carroll Ose,350,257,93
+Hamilton,WEBSTER CITY 1,County Hospital Trustee,,,Carroll Ose,625,332,293
+Hamilton,WEBSTER CITY 2,County Hospital Trustee,,,Carroll Ose,760,376,384
+Hamilton,WEBSTER CITY 3,County Hospital Trustee,,,Carroll Ose,398,220,178
+Hamilton,PRECINCT 1,County Hospital Trustee,,,Write-in,8,4,4
+Hamilton,PRECINCT 2,County Hospital Trustee,,,Write-in,1,1,0
+Hamilton,PRECINCT 3,County Hospital Trustee,,,Write-in,5,1,4
+Hamilton,PRECINCT 4,County Hospital Trustee,,,Write-in,4,4,0
+Hamilton,PRECINCT 5,County Hospital Trustee,,,Write-in,7,6,1
+Hamilton,WEBSTER CITY 1,County Hospital Trustee,,,Write-in,10,2,8
+Hamilton,WEBSTER CITY 2,County Hospital Trustee,,,Write-in,9,3,6
+Hamilton,WEBSTER CITY 3,County Hospital Trustee,,,Write-in,2,1,1
+Hamilton,PRECINCT 1,Soil & Water Conservation District Commissioners,,,Marty Johnson,469,274,195
+Hamilton,PRECINCT 2,Soil & Water Conservation District Commissioners,,,Marty Johnson,361,228,133
+Hamilton,PRECINCT 3,Soil & Water Conservation District Commissioners,,,Marty Johnson,733,504,229
+Hamilton,PRECINCT 4,Soil & Water Conservation District Commissioners,,,Marty Johnson,551,391,160
+Hamilton,PRECINCT 5,Soil & Water Conservation District Commissioners,,,Marty Johnson,345,258,87
+Hamilton,WEBSTER CITY 1,Soil & Water Conservation District Commissioners,,,Marty Johnson,700,370,330
+Hamilton,WEBSTER CITY 2,Soil & Water Conservation District Commissioners,,,Marty Johnson,853,433,420
+Hamilton,WEBSTER CITY 3,Soil & Water Conservation District Commissioners,,,Marty Johnson,428,249,179
+Hamilton,PRECINCT 1,Soil & Water Conservation District Commissioners,,,Jean Eells,405,232,173
+Hamilton,PRECINCT 2,Soil & Water Conservation District Commissioners,,,Jean Eells,316,194,122
+Hamilton,PRECINCT 3,Soil & Water Conservation District Commissioners,,,Jean Eells,584,398,186
+Hamilton,PRECINCT 4,Soil & Water Conservation District Commissioners,,,Jean Eells,500,345,155
+Hamilton,PRECINCT 5,Soil & Water Conservation District Commissioners,,,Jean Eells,289,215,74
+Hamilton,WEBSTER CITY 1,Soil & Water Conservation District Commissioners,,,Jean Eells,610,302,308
+Hamilton,WEBSTER CITY 2,Soil & Water Conservation District Commissioners,,,Jean Eells,768,385,383
+Hamilton,WEBSTER CITY 3,Soil & Water Conservation District Commissioners,,,Jean Eells,363,204,159
+Hamilton,PRECINCT 1,Soil & Water Conservation District Commissioners,,,Write-in,4,1,3
+Hamilton,PRECINCT 2,Soil & Water Conservation District Commissioners,,,Write-in,1,1,0
+Hamilton,PRECINCT 3,Soil & Water Conservation District Commissioners,,,Write-in,11,6,5
+Hamilton,PRECINCT 4,Soil & Water Conservation District Commissioners,,,Write-in,4,3,1
+Hamilton,PRECINCT 5,Soil & Water Conservation District Commissioners,,,Write-in,11,8,3
+Hamilton,WEBSTER CITY 1,Soil & Water Conservation District Commissioners,,,Write-in,5,3,2
+Hamilton,WEBSTER CITY 2,Soil & Water Conservation District Commissioners,,,Write-in,2,1,1
+Hamilton,WEBSTER CITY 3,Soil & Water Conservation District Commissioners,,,Write-in,1,1,0
+Hamilton,PRECINCT 1,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Lynn Knutson,475,285,190
+Hamilton,PRECINCT 2,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Lynn Knutson,403,256,147
+Hamilton,PRECINCT 3,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Lynn Knutson,752,530,222
+Hamilton,PRECINCT 4,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Lynn Knutson,676,467,209
+Hamilton,PRECINCT 5,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Lynn Knutson,394,295,99
+Hamilton,WEBSTER CITY 1,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Lynn Knutson,754,400,354
+Hamilton,WEBSTER CITY 2,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Lynn Knutson,914,481,433
+Hamilton,WEBSTER CITY 3,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Lynn Knutson,480,282,198
+Hamilton,PRECINCT 1,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Write-in,4,2,2
+Hamilton,PRECINCT 2,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Write-in,2,2,0
+Hamilton,PRECINCT 3,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Write-in,8,4,4
+Hamilton,PRECINCT 4,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Write-in,4,2,2
+Hamilton,PRECINCT 5,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Write-in,6,4,2
+Hamilton,WEBSTER CITY 1,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Write-in,2,2,0
+Hamilton,WEBSTER CITY 2,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Write-in,2,0,2
+Hamilton,WEBSTER CITY 3,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Write-in,1,0,1
+Hamilton,PRECINCT 1,Agricultural Extension Council Members,,,Tyler Burton,313,189,124
+Hamilton,PRECINCT 2,Agricultural Extension Council Members,,,Tyler Burton,354,221,133
+Hamilton,PRECINCT 3,Agricultural Extension Council Members,,,Tyler Burton,465,326,139
+Hamilton,PRECINCT 4,Agricultural Extension Council Members,,,Tyler Burton,395,286,109
+Hamilton,PRECINCT 5,Agricultural Extension Council Members,,,Tyler Burton,276,200,76
+Hamilton,WEBSTER CITY 1,Agricultural Extension Council Members,,,Tyler Burton,468,257,211
+Hamilton,WEBSTER CITY 2,Agricultural Extension Council Members,,,Tyler Burton,558,312,246
+Hamilton,WEBSTER CITY 3,Agricultural Extension Council Members,,,Tyler Burton,314,187,127
+Hamilton,PRECINCT 1,Agricultural Extension Council Members,,,Norman Wonderlich,244,134,110
+Hamilton,PRECINCT 2,Agricultural Extension Council Members,,,Norman Wonderlich,168,104,64
+Hamilton,PRECINCT 3,Agricultural Extension Council Members,,,Norman Wonderlich,361,253,108
+Hamilton,PRECINCT 4,Agricultural Extension Council Members,,,Norman Wonderlich,290,208,82
+Hamilton,PRECINCT 5,Agricultural Extension Council Members,,,Norman Wonderlich,181,128,53
+Hamilton,WEBSTER CITY 1,Agricultural Extension Council Members,,,Norman Wonderlich,333,181,152
+Hamilton,WEBSTER CITY 2,Agricultural Extension Council Members,,,Norman Wonderlich,432,209,223
+Hamilton,WEBSTER CITY 3,Agricultural Extension Council Members,,,Norman Wonderlich,209,129,80
+Hamilton,PRECINCT 1,Agricultural Extension Council Members,,,Amanda Luhman,305,181,124
+Hamilton,PRECINCT 2,Agricultural Extension Council Members,,,Amanda Luhman,264,166,98
+Hamilton,PRECINCT 3,Agricultural Extension Council Members,,,Amanda Luhman,504,353,151
+Hamilton,PRECINCT 4,Agricultural Extension Council Members,,,Amanda Luhman,428,304,124
+Hamilton,PRECINCT 5,Agricultural Extension Council Members,,,Amanda Luhman,316,225,91
+Hamilton,WEBSTER CITY 1,Agricultural Extension Council Members,,,Amanda Luhman,449,246,203
+Hamilton,WEBSTER CITY 2,Agricultural Extension Council Members,,,Amanda Luhman,529,282,247
+Hamilton,WEBSTER CITY 3,Agricultural Extension Council Members,,,Amanda Luhman,314,176,138
+Hamilton,PRECINCT 1,Agricultural Extension Council Members,,,Jeff Meyer,335,201,134
+Hamilton,PRECINCT 2,Agricultural Extension Council Members,,,Jeff Meyer,329,206,123
+Hamilton,PRECINCT 3,Agricultural Extension Council Members,,,Jeff Meyer,469,331,138
+Hamilton,PRECINCT 4,Agricultural Extension Council Members,,,Jeff Meyer,367,274,93
+Hamilton,PRECINCT 5,Agricultural Extension Council Members,,,Jeff Meyer,266,190,76
+Hamilton,WEBSTER CITY 1,Agricultural Extension Council Members,,,Jeff Meyer,465,257,208
+Hamilton,WEBSTER CITY 2,Agricultural Extension Council Members,,,Jeff Meyer,570,294,276
+Hamilton,WEBSTER CITY 3,Agricultural Extension Council Members,,,Jeff Meyer,315,186,129
+Hamilton,PRECINCT 1,Agricultural Extension Council Members,,,Steven Wright,251,155,96
+Hamilton,PRECINCT 2,Agricultural Extension Council Members,,,Steven Wright,198,122,76
+Hamilton,PRECINCT 3,Agricultural Extension Council Members,,,Steven Wright,451,323,128
+Hamilton,PRECINCT 4,Agricultural Extension Council Members,,,Steven Wright,382,278,104
+Hamilton,PRECINCT 5,Agricultural Extension Council Members,,,Steven Wright,246,181,65
+Hamilton,WEBSTER CITY 1,Agricultural Extension Council Members,,,Steven Wright,379,202,177
+Hamilton,WEBSTER CITY 2,Agricultural Extension Council Members,,,Steven Wright,446,253,193
+Hamilton,WEBSTER CITY 3,Agricultural Extension Council Members,,,Steven Wright,263,149,114
+Hamilton,PRECINCT 1,Agricultural Extension Council Members,,,Alex H. Pruismann,359,219,140
+Hamilton,PRECINCT 2,Agricultural Extension Council Members,,,Alex H. Pruismann,360,233,127
+Hamilton,PRECINCT 3,Agricultural Extension Council Members,,,Alex H. Pruismann,542,378,164
+Hamilton,PRECINCT 4,Agricultural Extension Council Members,,,Alex H. Pruismann,424,297,127
+Hamilton,PRECINCT 5,Agricultural Extension Council Members,,,Alex H. Pruismann,283,210,73
+Hamilton,WEBSTER CITY 1,Agricultural Extension Council Members,,,Alex H. Pruismann,530,303,227
+Hamilton,WEBSTER CITY 2,Agricultural Extension Council Members,,,Alex H. Pruismann,648,359,289
+Hamilton,WEBSTER CITY 3,Agricultural Extension Council Members,,,Alex H. Pruismann,374,222,152
+Hamilton,PRECINCT 1,Agricultural Extension Council Members,,,Write-in,7,3,4
+Hamilton,PRECINCT 2,Agricultural Extension Council Members,,,Write-in,1,0,1
+Hamilton,PRECINCT 3,Agricultural Extension Council Members,,,Write-in,19,7,12
+Hamilton,PRECINCT 4,Agricultural Extension Council Members,,,Write-in,9,4,5
+Hamilton,PRECINCT 5,Agricultural Extension Council Members,,,Write-in,14,11,3
+Hamilton,WEBSTER CITY 1,Agricultural Extension Council Members,,,Write-in,6,3,3
+Hamilton,WEBSTER CITY 2,Agricultural Extension Council Members,,,Write-in,6,2,4
+Hamilton,WEBSTER CITY 3,Agricultural Extension Council Members,,,Write-in,0,0,0
+Hamilton,PRECINCT 1,Court of Appeals Judge Michael R. Mullins,,,Yes,333,208,125
+Hamilton,PRECINCT 2,Court of Appeals Judge Michael R. Mullins,,,Yes,252,166,86
+Hamilton,PRECINCT 3,Court of Appeals Judge Michael R. Mullins,,,Yes,515,353,162
+Hamilton,PRECINCT 4,Court of Appeals Judge Michael R. Mullins,,,Yes,431,295,136
+Hamilton,PRECINCT 5,Court of Appeals Judge Michael R. Mullins,,,Yes,271,190,81
+Hamilton,WEBSTER CITY 1,Court of Appeals Judge Michael R. Mullins,,,Yes,529,282,247
+Hamilton,WEBSTER CITY 2,Court of Appeals Judge Michael R. Mullins,,,Yes,642,342,300
+Hamilton,WEBSTER CITY 3,Court of Appeals Judge Michael R. Mullins,,,Yes,343,204,139
+Hamilton,PRECINCT 1,Court of Appeals Judge Michael R. Mullins,,,No,115,69,46
+Hamilton,PRECINCT 2,Court of Appeals Judge Michael R. Mullins,,,No,96,59,37
+Hamilton,PRECINCT 3,Court of Appeals Judge Michael R. Mullins,,,No,195,133,62
+Hamilton,PRECINCT 4,Court of Appeals Judge Michael R. Mullins,,,No,177,141,36
+Hamilton,PRECINCT 5,Court of Appeals Judge Michael R. Mullins,,,No,119,95,24
+Hamilton,WEBSTER CITY 1,Court of Appeals Judge Michael R. Mullins,,,No,157,88,69
+Hamilton,WEBSTER CITY 2,Court of Appeals Judge Michael R. Mullins,,,No,178,98,80
+Hamilton,WEBSTER CITY 3,Court of Appeals Judge Michael R. Mullins,,,No,121,77,44
+Hamilton,PRECINCT 1,Court of Appeals Judge Mary Ellen Tabor,,,Yes,329,208,121
+Hamilton,PRECINCT 2,Court of Appeals Judge Mary Ellen Tabor,,,Yes,244,163,81
+Hamilton,PRECINCT 3,Court of Appeals Judge Mary Ellen Tabor,,,Yes,517,360,157
+Hamilton,PRECINCT 4,Court of Appeals Judge Mary Ellen Tabor,,,Yes,419,292,127
+Hamilton,PRECINCT 5,Court of Appeals Judge Mary Ellen Tabor,,,Yes,260,183,77
+Hamilton,WEBSTER CITY 1,Court of Appeals Judge Mary Ellen Tabor,,,Yes,527,280,247
+Hamilton,WEBSTER CITY 2,Court of Appeals Judge Mary Ellen Tabor,,,Yes,657,342,315
+Hamilton,WEBSTER CITY 3,Court of Appeals Judge Mary Ellen Tabor,,,Yes,354,202,152
+Hamilton,PRECINCT 1,Court of Appeals Judge Mary Ellen Tabor,,,No,120,68,52
+Hamilton,PRECINCT 2,Court of Appeals Judge Mary Ellen Tabor,,,No,103,58,45
+Hamilton,PRECINCT 3,Court of Appeals Judge Mary Ellen Tabor,,,No,190,123,67
+Hamilton,PRECINCT 4,Court of Appeals Judge Mary Ellen Tabor,,,No,187,141,46
+Hamilton,PRECINCT 5,Court of Appeals Judge Mary Ellen Tabor,,,No,126,101,25
+Hamilton,WEBSTER CITY 1,Court of Appeals Judge Mary Ellen Tabor,,,No,148,84,64
+Hamilton,WEBSTER CITY 2,Court of Appeals Judge Mary Ellen Tabor,,,No,167,94,73
+Hamilton,WEBSTER CITY 3,Court of Appeals Judge Mary Ellen Tabor,,,No,113,78,35
+Hamilton,PRECINCT 1,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,289,181,108
+Hamilton,PRECINCT 2,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,211,143,68
+Hamilton,PRECINCT 3,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,450,315,135
+Hamilton,PRECINCT 4,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,373,258,115
+Hamilton,PRECINCT 5,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,231,163,68
+Hamilton,WEBSTER CITY 1,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,472,255,217
+Hamilton,WEBSTER CITY 2,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,565,303,262
+Hamilton,WEBSTER CITY 3,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,305,174,131
+Hamilton,PRECINCT 1,Court of Appeals Judge Anuradha Vaitheswaran,,,No,152,90,62
+Hamilton,PRECINCT 2,Court of Appeals Judge Anuradha Vaitheswaran,,,No,128,74,54
+Hamilton,PRECINCT 3,Court of Appeals Judge Anuradha Vaitheswaran,,,No,239,157,82
+Hamilton,PRECINCT 4,Court of Appeals Judge Anuradha Vaitheswaran,,,No,221,169,52
+Hamilton,PRECINCT 5,Court of Appeals Judge Anuradha Vaitheswaran,,,No,155,119,36
+Hamilton,WEBSTER CITY 1,Court of Appeals Judge Anuradha Vaitheswaran,,,No,196,104,92
+Hamilton,WEBSTER CITY 2,Court of Appeals Judge Anuradha Vaitheswaran,,,No,230,126,104
+Hamilton,WEBSTER CITY 3,Court of Appeals Judge Anuradha Vaitheswaran,,,No,156,101,55
+Hamilton,PRECINCT 1,District 2B District Judge Adria Kester,,,Yes,343,212,131
+Hamilton,PRECINCT 2,District 2B District Judge Adria Kester,,,Yes,251,161,90
+Hamilton,PRECINCT 3,District 2B District Judge Adria Kester,,,Yes,517,352,165
+Hamilton,PRECINCT 4,District 2B District Judge Adria Kester,,,Yes,414,288,126
+Hamilton,PRECINCT 5,District 2B District Judge Adria Kester,,,Yes,272,190,82
+Hamilton,WEBSTER CITY 1,District 2B District Judge Adria Kester,,,Yes,534,283,251
+Hamilton,WEBSTER CITY 2,District 2B District Judge Adria Kester,,,Yes,642,341,301
+Hamilton,WEBSTER CITY 3,District 2B District Judge Adria Kester,,,Yes,349,200,149
+Hamilton,PRECINCT 1,District 2B District Judge Adria Kester,,,No,103,62,41
+Hamilton,PRECINCT 2,District 2B District Judge Adria Kester,,,No,97,59,38
+Hamilton,PRECINCT 3,District 2B District Judge Adria Kester,,,No,184,129,55
+Hamilton,PRECINCT 4,District 2B District Judge Adria Kester,,,No,185,140,45
+Hamilton,PRECINCT 5,District 2B District Judge Adria Kester,,,No,117,98,19
+Hamilton,WEBSTER CITY 1,District 2B District Judge Adria Kester,,,No,147,80,67
+Hamilton,WEBSTER CITY 2,District 2B District Judge Adria Kester,,,No,168,90,78
+Hamilton,WEBSTER CITY 3,District 2B District Judge Adria Kester,,,No,116,77,39
+Hamilton,PRECINCT 1,District 2B District Judge Steven J. Oeth,,,Yes,326,203,123
+Hamilton,PRECINCT 2,District 2B District Judge Steven J. Oeth,,,Yes,239,155,84
+Hamilton,PRECINCT 3,District 2B District Judge Steven J. Oeth,,,Yes,502,348,154
+Hamilton,PRECINCT 4,District 2B District Judge Steven J. Oeth,,,Yes,417,293,124
+Hamilton,PRECINCT 5,District 2B District Judge Steven J. Oeth,,,Yes,255,183,72
+Hamilton,WEBSTER CITY 1,District 2B District Judge Steven J. Oeth,,,Yes,500,272,228
+Hamilton,WEBSTER CITY 2,District 2B District Judge Steven J. Oeth,,,Yes,622,338,284
+Hamilton,WEBSTER CITY 3,District 2B District Judge Steven J. Oeth,,,Yes,341,199,142
+Hamilton,PRECINCT 1,District 2B District Judge Steven J. Oeth,,,No,115,67,48
+Hamilton,PRECINCT 2,District 2B District Judge Steven J. Oeth,,,No,107,67,40
+Hamilton,PRECINCT 3,District 2B District Judge Steven J. Oeth,,,No,197,134,63
+Hamilton,PRECINCT 4,District 2B District Judge Steven J. Oeth,,,No,186,141,45
+Hamilton,PRECINCT 5,District 2B District Judge Steven J. Oeth,,,No,127,98,29
+Hamilton,WEBSTER CITY 1,District 2B District Judge Steven J. Oeth,,,No,161,83,78
+Hamilton,WEBSTER CITY 2,District 2B District Judge Steven J. Oeth,,,No,172,90,82
+Hamilton,WEBSTER CITY 3,District 2B District Judge Steven J. Oeth,,,No,120,75,45
+Hamilton,PRECINCT 1,District 2B District Judge Kurt John Stoebe,,,Yes,327,204,123
+Hamilton,PRECINCT 2,District 2B District Judge Kurt John Stoebe,,,Yes,235,151,84
+Hamilton,PRECINCT 3,District 2B District Judge Kurt John Stoebe,,,Yes,493,338,155
+Hamilton,PRECINCT 4,District 2B District Judge Kurt John Stoebe,,,Yes,401,279,122
+Hamilton,PRECINCT 5,District 2B District Judge Kurt John Stoebe,,,Yes,265,192,73
+Hamilton,WEBSTER CITY 1,District 2B District Judge Kurt John Stoebe,,,Yes,506,273,233
+Hamilton,WEBSTER CITY 2,District 2B District Judge Kurt John Stoebe,,,Yes,629,338,291
+Hamilton,WEBSTER CITY 3,District 2B District Judge Kurt John Stoebe,,,Yes,337,202,135
+Hamilton,PRECINCT 1,District 2B District Judge Kurt John Stoebe,,,No,116,69,47
+Hamilton,PRECINCT 2,District 2B District Judge Kurt John Stoebe,,,No,109,69,40
+Hamilton,PRECINCT 3,District 2B District Judge Kurt John Stoebe,,,No,198,139,59
+Hamilton,PRECINCT 4,District 2B District Judge Kurt John Stoebe,,,No,192,148,44
+Hamilton,PRECINCT 5,District 2B District Judge Kurt John Stoebe,,,No,117,91,26
+Hamilton,WEBSTER CITY 1,District 2B District Judge Kurt John Stoebe,,,No,155,84,71
+Hamilton,WEBSTER CITY 2,District 2B District Judge Kurt John Stoebe,,,No,171,98,73
+Hamilton,WEBSTER CITY 3,District 2B District Judge Kurt John Stoebe,,,No,121,75,46
+Hamilton,PRECINCT 1,District 2B District Judge Kurt L. Wilke,,,Yes,339,205,134
+Hamilton,PRECINCT 2,District 2B District Judge Kurt L. Wilke,,,Yes,245,158,87
+Hamilton,PRECINCT 3,District 2B District Judge Kurt L. Wilke,,,Yes,501,342,159
+Hamilton,PRECINCT 4,District 2B District Judge Kurt L. Wilke,,,Yes,404,281,123
+Hamilton,PRECINCT 5,District 2B District Judge Kurt L. Wilke,,,Yes,259,186,73
+Hamilton,WEBSTER CITY 1,District 2B District Judge Kurt L. Wilke,,,Yes,525,277,248
+Hamilton,WEBSTER CITY 2,District 2B District Judge Kurt L. Wilke,,,Yes,665,357,308
+Hamilton,WEBSTER CITY 3,District 2B District Judge Kurt L. Wilke,,,Yes,330,197,133
+Hamilton,PRECINCT 1,District 2B District Judge Kurt L. Wilke,,,No,114,70,44
+Hamilton,PRECINCT 2,District 2B District Judge Kurt L. Wilke,,,No,98,61,37
+Hamilton,PRECINCT 3,District 2B District Judge Kurt L. Wilke,,,No,200,140,60
+Hamilton,PRECINCT 4,District 2B District Judge Kurt L. Wilke,,,No,190,145,45
+Hamilton,PRECINCT 5,District 2B District Judge Kurt L. Wilke,,,No,119,92,27
+Hamilton,WEBSTER CITY 1,District 2B District Judge Kurt L. Wilke,,,No,148,82,66
+Hamilton,WEBSTER CITY 2,District 2B District Judge Kurt L. Wilke,,,No,162,87,75
+Hamilton,WEBSTER CITY 3,District 2B District Judge Kurt L. Wilke,,,No,126,79,47
+Hamilton,PRECINCT 1,District 2B District Associate Judge Kim M. Riley,,,Yes,340,214,126
+Hamilton,PRECINCT 2,District 2B District Associate Judge Kim M. Riley,,,Yes,259,168,91
+Hamilton,PRECINCT 3,District 2B District Associate Judge Kim M. Riley,,,Yes,522,364,158
+Hamilton,PRECINCT 4,District 2B District Associate Judge Kim M. Riley,,,Yes,421,295,126
+Hamilton,PRECINCT 5,District 2B District Associate Judge Kim M. Riley,,,Yes,268,192,76
+Hamilton,WEBSTER CITY 1,District 2B District Associate Judge Kim M. Riley,,,Yes,529,287,242
+Hamilton,WEBSTER CITY 2,District 2B District Associate Judge Kim M. Riley,,,Yes,639,346,293
+Hamilton,WEBSTER CITY 3,District 2B District Associate Judge Kim M. Riley,,,Yes,355,202,153
+Hamilton,PRECINCT 1,District 2B District Associate Judge Kim M. Riley,,,No,99,59,40
+Hamilton,PRECINCT 2,District 2B District Associate Judge Kim M. Riley,,,No,89,53,36
+Hamilton,PRECINCT 3,District 2B District Associate Judge Kim M. Riley,,,No,181,119,62
+Hamilton,PRECINCT 4,District 2B District Associate Judge Kim M. Riley,,,No,179,137,42
+Hamilton,PRECINCT 5,District 2B District Associate Judge Kim M. Riley,,,No,116,92,24
+Hamilton,WEBSTER CITY 1,District 2B District Associate Judge Kim M. Riley,,,No,143,78,65
+Hamilton,WEBSTER CITY 2,District 2B District Associate Judge Kim M. Riley,,,No,155,83,72
+Hamilton,WEBSTER CITY 3,District 2B District Associate Judge Kim M. Riley,,,No,106,73,33
+Hamilton,PRECINCT 1,District 2B District Associate Judge Paul B. Ahlers,,,Yes,335,204,131
+Hamilton,PRECINCT 2,District 2B District Associate Judge Paul B. Ahlers,,,Yes,248,159,89
+Hamilton,PRECINCT 3,District 2B District Associate Judge Paul B. Ahlers,,,Yes,490,341,149
+Hamilton,PRECINCT 4,District 2B District Associate Judge Paul B. Ahlers,,,Yes,405,287,118
+Hamilton,PRECINCT 5,District 2B District Associate Judge Paul B. Ahlers,,,Yes,261,186,75
+Hamilton,WEBSTER CITY 1,District 2B District Associate Judge Paul B. Ahlers,,,Yes,535,289,246
+Hamilton,WEBSTER CITY 2,District 2B District Associate Judge Paul B. Ahlers,,,Yes,679,361,318
+Hamilton,WEBSTER CITY 3,District 2B District Associate Judge Paul B. Ahlers,,,Yes,353,201,152
+Hamilton,PRECINCT 1,District 2B District Associate Judge Paul B. Ahlers,,,No,121,72,49
+Hamilton,PRECINCT 2,District 2B District Associate Judge Paul B. Ahlers,,,No,101,62,39
+Hamilton,PRECINCT 3,District 2B District Associate Judge Paul B. Ahlers,,,No,209,141,68
+Hamilton,PRECINCT 4,District 2B District Associate Judge Paul B. Ahlers,,,No,190,141,49
+Hamilton,PRECINCT 5,District 2B District Associate Judge Paul B. Ahlers,,,No,123,97,26
+Hamilton,WEBSTER CITY 1,District 2B District Associate Judge Paul B. Ahlers,,,No,171,85,86
+Hamilton,WEBSTER CITY 2,District 2B District Associate Judge Paul B. Ahlers,,,No,163,95,68
+Hamilton,WEBSTER CITY 3,District 2B District Associate Judge Paul B. Ahlers,,,No,118,78,40
+Hamilton,PRECINCT 1,District 2B District Associate Judge Paul G. Crawford,,,Yes,330,207,123
+Hamilton,PRECINCT 2,District 2B District Associate Judge Paul G. Crawford,,,Yes,244,158,86
+Hamilton,PRECINCT 3,District 2B District Associate Judge Paul G. Crawford,,,Yes,480,331,149
+Hamilton,PRECINCT 4,District 2B District Associate Judge Paul G. Crawford,,,Yes,413,292,121
+Hamilton,PRECINCT 5,District 2B District Associate Judge Paul G. Crawford,,,Yes,257,183,74
+Hamilton,WEBSTER CITY 1,District 2B District Associate Judge Paul G. Crawford,,,Yes,494,271,223
+Hamilton,WEBSTER CITY 2,District 2B District Associate Judge Paul G. Crawford,,,Yes,617,336,281
+Hamilton,WEBSTER CITY 3,District 2B District Associate Judge Paul G. Crawford,,,Yes,330,195,135
+Hamilton,PRECINCT 1,District 2B District Associate Judge Paul G. Crawford,,,No,110,64,46
+Hamilton,PRECINCT 2,District 2B District Associate Judge Paul G. Crawford,,,No,100,62,38
+Hamilton,PRECINCT 3,District 2B District Associate Judge Paul G. Crawford,,,No,210,144,66
+Hamilton,PRECINCT 4,District 2B District Associate Judge Paul G. Crawford,,,No,178,132,46
+Hamilton,PRECINCT 5,District 2B District Associate Judge Paul G. Crawford,,,No,123,97,26
+Hamilton,WEBSTER CITY 1,District 2B District Associate Judge Paul G. Crawford,,,No,153,85,68
+Hamilton,WEBSTER CITY 2,District 2B District Associate Judge Paul G. Crawford,,,No,165,92,73
+Hamilton,WEBSTER CITY 3,District 2B District Associate Judge Paul G. Crawford,,,No,119,77,42
+Hamilton,PRECINCT 1,District 2B District Associate Judge Angela L. Doyle,,,Yes,339,211,128
+Hamilton,PRECINCT 2,District 2B District Associate Judge Angela L. Doyle,,,Yes,260,165,95
+Hamilton,PRECINCT 3,District 2B District Associate Judge Angela L. Doyle,,,Yes,521,358,163
+Hamilton,PRECINCT 4,District 2B District Associate Judge Angela L. Doyle,,,Yes,429,302,127
+Hamilton,PRECINCT 5,District 2B District Associate Judge Angela L. Doyle,,,Yes,269,191,78
+Hamilton,WEBSTER CITY 1,District 2B District Associate Judge Angela L. Doyle,,,Yes,532,286,246
+Hamilton,WEBSTER CITY 2,District 2B District Associate Judge Angela L. Doyle,,,Yes,643,342,301
+Hamilton,WEBSTER CITY 3,District 2B District Associate Judge Angela L. Doyle,,,Yes,366,205,161
+Hamilton,PRECINCT 1,District 2B District Associate Judge Angela L. Doyle,,,No,106,63,43
+Hamilton,PRECINCT 2,District 2B District Associate Judge Angela L. Doyle,,,No,95,59,36
+Hamilton,PRECINCT 3,District 2B District Associate Judge Angela L. Doyle,,,No,182,124,58
+Hamilton,PRECINCT 4,District 2B District Associate Judge Angela L. Doyle,,,No,172,131,41
+Hamilton,PRECINCT 5,District 2B District Associate Judge Angela L. Doyle,,,No,118,96,22
+Hamilton,WEBSTER CITY 1,District 2B District Associate Judge Angela L. Doyle,,,No,145,78,67
+Hamilton,WEBSTER CITY 2,District 2B District Associate Judge Angela L. Doyle,,,No,154,90,64
+Hamilton,WEBSTER CITY 3,District 2B District Associate Judge Angela L. Doyle,,,No,99,70,29
+Hamilton,PRECINCT 1,District 2B District Associate Judge Joseph B. McCarville,,,Yes,334,203,131
+Hamilton,PRECINCT 2,District 2B District Associate Judge Joseph B. McCarville,,,Yes,233,153,80
+Hamilton,PRECINCT 3,District 2B District Associate Judge Joseph B. McCarville,,,Yes,496,344,152
+Hamilton,PRECINCT 4,District 2B District Associate Judge Joseph B. McCarville,,,Yes,407,287,120
+Hamilton,PRECINCT 5,District 2B District Associate Judge Joseph B. McCarville,,,Yes,260,185,75
+Hamilton,WEBSTER CITY 1,District 2B District Associate Judge Joseph B. McCarville,,,Yes,516,275,241
+Hamilton,WEBSTER CITY 2,District 2B District Associate Judge Joseph B. McCarville,,,Yes,651,344,307
+Hamilton,WEBSTER CITY 3,District 2B District Associate Judge Joseph B. McCarville,,,Yes,341,206,135
+Hamilton,PRECINCT 1,District 2B District Associate Judge Joseph B. McCarville,,,No,117,73,44
+Hamilton,PRECINCT 2,District 2B District Associate Judge Joseph B. McCarville,,,No,111,66,45
+Hamilton,PRECINCT 3,District 2B District Associate Judge Joseph B. McCarville,,,No,203,139,64
+Hamilton,PRECINCT 4,District 2B District Associate Judge Joseph B. McCarville,,,No,189,138,51
+Hamilton,PRECINCT 5,District 2B District Associate Judge Joseph B. McCarville,,,No,125,99,26
+Hamilton,WEBSTER CITY 1,District 2B District Associate Judge Joseph B. McCarville,,,No,172,89,83
+Hamilton,WEBSTER CITY 2,District 2B District Associate Judge Joseph B. McCarville,,,No,175,102,73
+Hamilton,WEBSTER CITY 3,District 2B District Associate Judge Joseph B. McCarville,,,No,118,71,47

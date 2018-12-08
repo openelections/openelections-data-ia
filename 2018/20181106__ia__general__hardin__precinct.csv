@@ -1,0 +1,681 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Hardin,Alden/Buckeye,United States Representative District 4,,REP,Steve King,302,214,88
+Hardin,Hardin/Ellis/Jackson,United States Representative District 4,,REP,Steve King,399,272,127
+Hardin,Iowa Falls #1,United States Representative District 4,,REP,Steve King,341,199,142
+Hardin,Iowa Falls #2,United States Representative District 4,,REP,Steve King,577,370,207
+Hardin,Etna/Clay,United States Representative District 4,,REP,Steve King,567,333,234
+Hardin,Concord/Sherman/Grant/Tipton,United States Representative District 4,,REP,Steve King,688,416,272
+Hardin,Eldora/Pleasant/Providence/Union,United States Representative District 4,,REP,Steve King,509,211,298
+Hardin,Eldora City,United States Representative District 4,,REP,Steve King,534,247,287
+Hardin,Alden/Buckeye,United States Representative District 4,,DEM,J.D. Scholten,250,182,68
+Hardin,Hardin/Ellis/Jackson,United States Representative District 4,,DEM,J.D. Scholten,300,180,120
+Hardin,Iowa Falls #1,United States Representative District 4,,DEM,J.D. Scholten,446,257,189
+Hardin,Iowa Falls #2,United States Representative District 4,,DEM,J.D. Scholten,544,337,207
+Hardin,Etna/Clay,United States Representative District 4,,DEM,J.D. Scholten,400,239,161
+Hardin,Concord/Sherman/Grant/Tipton,United States Representative District 4,,DEM,J.D. Scholten,406,229,177
+Hardin,Eldora/Pleasant/Providence/Union,United States Representative District 4,,DEM,J.D. Scholten,256,103,153
+Hardin,Eldora City,United States Representative District 4,,DEM,J.D. Scholten,425,225,200
+Hardin,Alden/Buckeye,United States Representative District 4,,LIB,Charles Aldrich,9,6,3
+Hardin,Hardin/Ellis/Jackson,United States Representative District 4,,LIB,Charles Aldrich,12,8,4
+Hardin,Iowa Falls #1,United States Representative District 4,,LIB,Charles Aldrich,19,9,10
+Hardin,Iowa Falls #2,United States Representative District 4,,LIB,Charles Aldrich,15,9,6
+Hardin,Etna/Clay,United States Representative District 4,,LIB,Charles Aldrich,21,14,7
+Hardin,Concord/Sherman/Grant/Tipton,United States Representative District 4,,LIB,Charles Aldrich,30,21,9
+Hardin,Eldora/Pleasant/Providence/Union,United States Representative District 4,,LIB,Charles Aldrich,15,10,5
+Hardin,Eldora City,United States Representative District 4,,LIB,Charles Aldrich,28,21,7
+Hardin,Alden/Buckeye,United States Representative District 4,,,Edward Peterson,2,1,1
+Hardin,Hardin/Ellis/Jackson,United States Representative District 4,,,Edward Peterson,11,6,5
+Hardin,Iowa Falls #1,United States Representative District 4,,,Edward Peterson,10,5,5
+Hardin,Iowa Falls #2,United States Representative District 4,,,Edward Peterson,6,5,1
+Hardin,Etna/Clay,United States Representative District 4,,,Edward Peterson,10,7,3
+Hardin,Concord/Sherman/Grant/Tipton,United States Representative District 4,,,Edward Peterson,7,3,4
+Hardin,Eldora/Pleasant/Providence/Union,United States Representative District 4,,,Edward Peterson,9,3,6
+Hardin,Eldora City,United States Representative District 4,,,Edward Peterson,5,1,4
+Hardin,Alden/Buckeye,United States Representative District 4,,,Write-in,0,0,0
+Hardin,Hardin/Ellis/Jackson,United States Representative District 4,,,Write-in,0,0,0
+Hardin,Iowa Falls #1,United States Representative District 4,,,Write-in,0,0,0
+Hardin,Iowa Falls #2,United States Representative District 4,,,Write-in,0,0,0
+Hardin,Etna/Clay,United States Representative District 4,,,Write-in,0,0,0
+Hardin,Concord/Sherman/Grant/Tipton,United States Representative District 4,,,Write-in,1,1,0
+Hardin,Eldora/Pleasant/Providence/Union,United States Representative District 4,,,Write-in,0,0,0
+Hardin,Eldora City,United States Representative District 4,,,Write-in,1,1,0
+Hardin,Alden/Buckeye,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,352,258,94
+Hardin,Hardin/Ellis/Jackson,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,485,334,151
+Hardin,Iowa Falls #1,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,403,244,159
+Hardin,Iowa Falls #2,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,654,429,225
+Hardin,Etna/Clay,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,615,371,244
+Hardin,Concord/Sherman/Grant/Tipton,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,769,479,290
+Hardin,Eldora/Pleasant/Providence/Union,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,540,226,314
+Hardin,Eldora City,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,589,280,309
+Hardin,Alden/Buckeye,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,212,145,67
+Hardin,Hardin/Ellis/Jackson,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,241,134,107
+Hardin,Iowa Falls #1,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,399,223,176
+Hardin,Iowa Falls #2,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,488,285,203
+Hardin,Etna/Clay,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,375,217,158
+Hardin,Concord/Sherman/Grant/Tipton,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,342,176,166
+Hardin,Eldora/Pleasant/Providence/Union,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,243,96,147
+Hardin,Eldora City,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,389,198,191
+Hardin,Alden/Buckeye,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,9,8,1
+Hardin,Hardin/Ellis/Jackson,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,8,3,5
+Hardin,Iowa Falls #1,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,21,6,15
+Hardin,Iowa Falls #2,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,8,8,0
+Hardin,Etna/Clay,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,12,7,5
+Hardin,Concord/Sherman/Grant/Tipton,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,23,15,8
+Hardin,Eldora/Pleasant/Providence/Union,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,11,6,5
+Hardin,Eldora City,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,22,18,4
+Hardin,Alden/Buckeye,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,2,1,1
+Hardin,Hardin/Ellis/Jackson,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,1,1,0
+Hardin,Iowa Falls #1,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,5,4,1
+Hardin,Iowa Falls #2,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,3,0
+Hardin,Etna/Clay,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,8,4,4
+Hardin,Concord/Sherman/Grant/Tipton,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,9,6,3
+Hardin,Eldora/Pleasant/Providence/Union,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,2,1
+Hardin,Eldora City,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,8,3,5
+Hardin,Alden/Buckeye,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hardin,Hardin/Ellis/Jackson,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hardin,Iowa Falls #1,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hardin,Iowa Falls #2,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hardin,Etna/Clay,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hardin,Concord/Sherman/Grant/Tipton,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hardin,Eldora/Pleasant/Providence/Union,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Hardin,Eldora City,Governor/Lieutenant Governor,,,Write-in,1,1,0
+Hardin,Alden/Buckeye,Secretary of State,,REP,Paul D. Pate,364,268,96
+Hardin,Hardin/Ellis/Jackson,Secretary of State,,REP,Paul D. Pate,492,334,158
+Hardin,Iowa Falls #1,Secretary of State,,REP,Paul D. Pate,419,260,159
+Hardin,Iowa Falls #2,Secretary of State,,REP,Paul D. Pate,702,451,251
+Hardin,Etna/Clay,Secretary of State,,REP,Paul D. Pate,663,395,268
+Hardin,Concord/Sherman/Grant/Tipton,Secretary of State,,REP,Paul D. Pate,805,496,309
+Hardin,Eldora/Pleasant/Providence/Union,Secretary of State,,REP,Paul D. Pate,563,228,335
+Hardin,Eldora City,Secretary of State,,REP,Paul D. Pate,623,300,323
+Hardin,Alden/Buckeye,Secretary of State,,DEM,Deidre DeJear,183,120,63
+Hardin,Hardin/Ellis/Jackson,Secretary of State,,DEM,Deidre DeJear,221,126,95
+Hardin,Iowa Falls #1,Secretary of State,,DEM,Deidre DeJear,376,200,176
+Hardin,Iowa Falls #2,Secretary of State,,DEM,Deidre DeJear,410,247,163
+Hardin,Etna/Clay,Secretary of State,,DEM,Deidre DeJear,313,184,129
+Hardin,Concord/Sherman/Grant/Tipton,Secretary of State,,DEM,Deidre DeJear,294,152,142
+Hardin,Eldora/Pleasant/Providence/Union,Secretary of State,,DEM,Deidre DeJear,212,92,120
+Hardin,Eldora City,Secretary of State,,DEM,Deidre DeJear,344,172,172
+Hardin,Alden/Buckeye,Secretary of State,,LIB,Jules Ofenbakh,10,8,2
+Hardin,Hardin/Ellis/Jackson,Secretary of State,,LIB,Jules Ofenbakh,9,4,5
+Hardin,Iowa Falls #1,Secretary of State,,LIB,Jules Ofenbakh,15,8,7
+Hardin,Iowa Falls #2,Secretary of State,,LIB,Jules Ofenbakh,21,14,7
+Hardin,Etna/Clay,Secretary of State,,LIB,Jules Ofenbakh,13,9,4
+Hardin,Concord/Sherman/Grant/Tipton,Secretary of State,,LIB,Jules Ofenbakh,33,24,9
+Hardin,Eldora/Pleasant/Providence/Union,Secretary of State,,LIB,Jules Ofenbakh,15,8,7
+Hardin,Eldora City,Secretary of State,,LIB,Jules Ofenbakh,23,18,5
+Hardin,Alden/Buckeye,Secretary of State,,,Write-in,0,0,0
+Hardin,Hardin/Ellis/Jackson,Secretary of State,,,Write-in,0,0,0
+Hardin,Iowa Falls #1,Secretary of State,,,Write-in,0,0,0
+Hardin,Iowa Falls #2,Secretary of State,,,Write-in,0,0,0
+Hardin,Etna/Clay,Secretary of State,,,Write-in,0,0,0
+Hardin,Concord/Sherman/Grant/Tipton,Secretary of State,,,Write-in,0,0,0
+Hardin,Eldora/Pleasant/Providence/Union,Secretary of State,,,Write-in,0,0,0
+Hardin,Eldora City,Secretary of State,,,Write-in,0,0,0
+Hardin,Alden/Buckeye,Auditor of State,,REP,Mary Mosiman,324,232,92
+Hardin,Hardin/Ellis/Jackson,Auditor of State,,REP,Mary Mosiman,430,301,129
+Hardin,Iowa Falls #1,Auditor of State,,REP,Mary Mosiman,363,225,138
+Hardin,Iowa Falls #2,Auditor of State,,REP,Mary Mosiman,622,419,203
+Hardin,Etna/Clay,Auditor of State,,REP,Mary Mosiman,547,331,216
+Hardin,Concord/Sherman/Grant/Tipton,Auditor of State,,REP,Mary Mosiman,813,510,303
+Hardin,Eldora/Pleasant/Providence/Union,Auditor of State,,REP,Mary Mosiman,506,226,280
+Hardin,Eldora City,Auditor of State,,REP,Mary Mosiman,556,271,285
+Hardin,Alden/Buckeye,Auditor of State,,DEM,Rob Sand,223,155,68
+Hardin,Hardin/Ellis/Jackson,Auditor of State,,DEM,Rob Sand,276,156,120
+Hardin,Iowa Falls #1,Auditor of State,,DEM,Rob Sand,430,231,199
+Hardin,Iowa Falls #2,Auditor of State,,DEM,Rob Sand,492,279,213
+Hardin,Etna/Clay,Auditor of State,,DEM,Rob Sand,414,237,177
+Hardin,Concord/Sherman/Grant/Tipton,Auditor of State,,DEM,Rob Sand,288,141,147
+Hardin,Eldora/Pleasant/Providence/Union,Auditor of State,,DEM,Rob Sand,259,88,171
+Hardin,Eldora City,Auditor of State,,DEM,Rob Sand,398,192,206
+Hardin,Alden/Buckeye,Auditor of State,,LIB,Fred Perryman,10,9,1
+Hardin,Hardin/Ellis/Jackson,Auditor of State,,LIB,Fred Perryman,12,5,7
+Hardin,Iowa Falls #1,Auditor of State,,LIB,Fred Perryman,16,7,9
+Hardin,Iowa Falls #2,Auditor of State,,LIB,Fred Perryman,19,15,4
+Hardin,Etna/Clay,Auditor of State,,LIB,Fred Perryman,23,14,9
+Hardin,Concord/Sherman/Grant/Tipton,Auditor of State,,LIB,Fred Perryman,26,19,7
+Hardin,Eldora/Pleasant/Providence/Union,Auditor of State,,LIB,Fred Perryman,22,11,11
+Hardin,Eldora City,Auditor of State,,LIB,Fred Perryman,29,19,10
+Hardin,Alden/Buckeye,Auditor of State,,,Write-in,0,0,0
+Hardin,Hardin/Ellis/Jackson,Auditor of State,,,Write-in,0,0,0
+Hardin,Iowa Falls #1,Auditor of State,,,Write-in,0,0,0
+Hardin,Iowa Falls #2,Auditor of State,,,Write-in,0,0,0
+Hardin,Etna/Clay,Auditor of State,,,Write-in,0,0,0
+Hardin,Concord/Sherman/Grant/Tipton,Auditor of State,,,Write-in,0,0,0
+Hardin,Eldora/Pleasant/Providence/Union,Auditor of State,,,Write-in,0,0,0
+Hardin,Eldora City,Auditor of State,,,Write-in,0,0,0
+Hardin,Alden/Buckeye,Treasurer of State,,REP,Jeremy N. Davis,289,211,78
+Hardin,Hardin/Ellis/Jackson,Treasurer of State,,REP,Jeremy N. Davis,376,264,112
+Hardin,Iowa Falls #1,Treasurer of State,,REP,Jeremy N. Davis,306,195,111
+Hardin,Iowa Falls #2,Treasurer of State,,REP,Jeremy N. Davis,549,371,178
+Hardin,Etna/Clay,Treasurer of State,,REP,Jeremy N. Davis,509,317,192
+Hardin,Concord/Sherman/Grant/Tipton,Treasurer of State,,REP,Jeremy N. Davis,616,394,222
+Hardin,Eldora/Pleasant/Providence/Union,Treasurer of State,,REP,Jeremy N. Davis,438,192,246
+Hardin,Eldora City,Treasurer of State,,REP,Jeremy N. Davis,488,235,253
+Hardin,Alden/Buckeye,Treasurer of State,,DEM,Michael L. Fitzgerald,251,172,79
+Hardin,Hardin/Ellis/Jackson,Treasurer of State,,DEM,Michael L. Fitzgerald,334,193,141
+Hardin,Iowa Falls #1,Treasurer of State,,DEM,Michael L. Fitzgerald,486,260,226
+Hardin,Iowa Falls #2,Treasurer of State,,DEM,Michael L. Fitzgerald,560,327,233
+Hardin,Etna/Clay,Treasurer of State,,DEM,Michael L. Fitzgerald,468,263,205
+Hardin,Concord/Sherman/Grant/Tipton,Treasurer of State,,DEM,Michael L. Fitzgerald,483,252,231
+Hardin,Eldora/Pleasant/Providence/Union,Treasurer of State,,DEM,Michael L. Fitzgerald,326,122,204
+Hardin,Eldora City,Treasurer of State,,DEM,Michael L. Fitzgerald,477,236,241
+Hardin,Alden/Buckeye,Treasurer of State,,LIB,Timothy Hird,13,11,2
+Hardin,Hardin/Ellis/Jackson,Treasurer of State,,LIB,Timothy Hird,11,5,6
+Hardin,Iowa Falls #1,Treasurer of State,,LIB,Timothy Hird,17,9,8
+Hardin,Iowa Falls #2,Treasurer of State,,LIB,Timothy Hird,19,14,5
+Hardin,Etna/Clay,Treasurer of State,,LIB,Timothy Hird,14,7,7
+Hardin,Concord/Sherman/Grant/Tipton,Treasurer of State,,LIB,Timothy Hird,23,19,4
+Hardin,Eldora/Pleasant/Providence/Union,Treasurer of State,,LIB,Timothy Hird,22,11,11
+Hardin,Eldora City,Treasurer of State,,LIB,Timothy Hird,22,15,7
+Hardin,Alden/Buckeye,Treasurer of State,,,Write-in,0,0,0
+Hardin,Hardin/Ellis/Jackson,Treasurer of State,,,Write-in,0,0,0
+Hardin,Iowa Falls #1,Treasurer of State,,,Write-in,0,0,0
+Hardin,Iowa Falls #2,Treasurer of State,,,Write-in,0,0,0
+Hardin,Etna/Clay,Treasurer of State,,,Write-in,0,0,0
+Hardin,Concord/Sherman/Grant/Tipton,Treasurer of State,,,Write-in,0,0,0
+Hardin,Eldora/Pleasant/Providence/Union,Treasurer of State,,,Write-in,0,0,0
+Hardin,Eldora City,Treasurer of State,,,Write-in,0,0,0
+Hardin,Alden/Buckeye,Secretary of Agriculture,,REP,Mike Naig,355,258,97
+Hardin,Hardin/Ellis/Jackson,Secretary of Agriculture,,REP,Mike Naig,476,324,152
+Hardin,Iowa Falls #1,Secretary of Agriculture,,REP,Mike Naig,377,229,148
+Hardin,Iowa Falls #2,Secretary of Agriculture,,REP,Mike Naig,676,441,235
+Hardin,Etna/Clay,Secretary of Agriculture,,REP,Mike Naig,632,383,249
+Hardin,Concord/Sherman/Grant/Tipton,Secretary of Agriculture,,REP,Mike Naig,798,495,303
+Hardin,Eldora/Pleasant/Providence/Union,Secretary of Agriculture,,REP,Mike Naig,548,237,311
+Hardin,Eldora City,Secretary of Agriculture,,REP,Mike Naig,605,297,308
+Hardin,Alden/Buckeye,Secretary of Agriculture,,DEM,Tim Gannon,186,129,57
+Hardin,Hardin/Ellis/Jackson,Secretary of Agriculture,,DEM,Tim Gannon,226,129,97
+Hardin,Iowa Falls #1,Secretary of Agriculture,,DEM,Tim Gannon,400,218,182
+Hardin,Iowa Falls #2,Secretary of Agriculture,,DEM,Tim Gannon,426,253,173
+Hardin,Etna/Clay,Secretary of Agriculture,,DEM,Tim Gannon,332,192,140
+Hardin,Concord/Sherman/Grant/Tipton,Secretary of Agriculture,,DEM,Tim Gannon,300,157,143
+Hardin,Eldora/Pleasant/Providence/Union,Secretary of Agriculture,,DEM,Tim Gannon,211,76,135
+Hardin,Eldora City,Secretary of Agriculture,,DEM,Tim Gannon,342,173,169
+Hardin,Alden/Buckeye,Secretary of Agriculture,,LIB,Rick Stewart,16,11,5
+Hardin,Hardin/Ellis/Jackson,Secretary of Agriculture,,LIB,Rick Stewart,18,9,9
+Hardin,Iowa Falls #1,Secretary of Agriculture,,LIB,Rick Stewart,24,13,11
+Hardin,Iowa Falls #2,Secretary of Agriculture,,LIB,Rick Stewart,30,19,11
+Hardin,Etna/Clay,Secretary of Agriculture,,LIB,Rick Stewart,17,8,9
+Hardin,Concord/Sherman/Grant/Tipton,Secretary of Agriculture,,LIB,Rick Stewart,37,24,13
+Hardin,Eldora/Pleasant/Providence/Union,Secretary of Agriculture,,LIB,Rick Stewart,25,13,12
+Hardin,Eldora City,Secretary of Agriculture,,LIB,Rick Stewart,30,15,15
+Hardin,Alden/Buckeye,Secretary of Agriculture,,,Write-in,0,0,0
+Hardin,Hardin/Ellis/Jackson,Secretary of Agriculture,,,Write-in,0,0,0
+Hardin,Iowa Falls #1,Secretary of Agriculture,,,Write-in,0,0,0
+Hardin,Iowa Falls #2,Secretary of Agriculture,,,Write-in,0,0,0
+Hardin,Etna/Clay,Secretary of Agriculture,,,Write-in,0,0,0
+Hardin,Concord/Sherman/Grant/Tipton,Secretary of Agriculture,,,Write-in,0,0,0
+Hardin,Eldora/Pleasant/Providence/Union,Secretary of Agriculture,,,Write-in,0,0,0
+Hardin,Eldora City,Secretary of Agriculture,,,Write-in,0,0,0
+Hardin,Alden/Buckeye,Attorney General,,DEM,Tom Miller,350,241,109
+Hardin,Hardin/Ellis/Jackson,Attorney General,,DEM,Tom Miller,497,317,180
+Hardin,Iowa Falls #1,Attorney General,,DEM,Tom Miller,598,323,275
+Hardin,Iowa Falls #2,Attorney General,,DEM,Tom Miller,783,472,311
+Hardin,Etna/Clay,Attorney General,,DEM,Tom Miller,670,382,288
+Hardin,Concord/Sherman/Grant/Tipton,Attorney General,,DEM,Tom Miller,711,396,315
+Hardin,Eldora/Pleasant/Providence/Union,Attorney General,,DEM,Tom Miller,476,184,292
+Hardin,Eldora City,Attorney General,,DEM,Tom Miller,666,330,336
+Hardin,Alden/Buckeye,Attorney General,,LIB,Marco Battaglia,111,83,28
+Hardin,Hardin/Ellis/Jackson,Attorney General,,LIB,Marco Battaglia,138,89,49
+Hardin,Iowa Falls #1,Attorney General,,LIB,Marco Battaglia,131,90,41
+Hardin,Iowa Falls #2,Attorney General,,LIB,Marco Battaglia,226,165,61
+Hardin,Etna/Clay,Attorney General,,LIB,Marco Battaglia,193,120,73
+Hardin,Concord/Sherman/Grant/Tipton,Attorney General,,LIB,Marco Battaglia,257,171,86
+Hardin,Eldora/Pleasant/Providence/Union,Attorney General,,LIB,Marco Battaglia,195,92,103
+Hardin,Eldora City,Attorney General,,LIB,Marco Battaglia,199,112,87
+Hardin,Alden/Buckeye,Attorney General,,,Write-in,3,3,0
+Hardin,Hardin/Ellis/Jackson,Attorney General,,,Write-in,1,1,0
+Hardin,Iowa Falls #1,Attorney General,,,Write-in,2,2,0
+Hardin,Iowa Falls #2,Attorney General,,,Write-in,1,1,0
+Hardin,Etna/Clay,Attorney General,,,Write-in,5,4,1
+Hardin,Concord/Sherman/Grant/Tipton,Attorney General,,,Write-in,4,3,1
+Hardin,Eldora/Pleasant/Providence/Union,Attorney General,,,Write-in,2,0,2
+Hardin,Eldora City,Attorney General,,,Write-in,5,3,2
+Hardin,Alden/Buckeye,State Senator District 25,,REP,Annette Sweeney,389,282,107
+Hardin,Hardin/Ellis/Jackson,State Senator District 25,,REP,Annette Sweeney,517,352,165
+Hardin,Iowa Falls #1,State Senator District 25,,REP,Annette Sweeney,444,265,179
+Hardin,Iowa Falls #2,State Senator District 25,,REP,Annette Sweeney,731,484,247
+Hardin,Etna/Clay,State Senator District 25,,REP,Annette Sweeney,644,398,246
+Hardin,Concord/Sherman/Grant/Tipton,State Senator District 25,,REP,Annette Sweeney,853,529,324
+Hardin,Eldora/Pleasant/Providence/Union,State Senator District 25,,REP,Annette Sweeney,576,246,330
+Hardin,Eldora City,State Senator District 25,,REP,Annette Sweeney,649,318,331
+Hardin,Alden/Buckeye,State Senator District 25,,DEM,Tracy Freese,181,127,54
+Hardin,Hardin/Ellis/Jackson,State Senator District 25,,DEM,Tracy Freese,214,117,97
+Hardin,Iowa Falls #1,State Senator District 25,,DEM,Tracy Freese,365,197,168
+Hardin,Iowa Falls #2,State Senator District 25,,DEM,Tracy Freese,416,239,177
+Hardin,Etna/Clay,State Senator District 25,,DEM,Tracy Freese,348,192,156
+Hardin,Concord/Sherman/Grant/Tipton,State Senator District 25,,DEM,Tracy Freese,276,139,137
+Hardin,Eldora/Pleasant/Providence/Union,State Senator District 25,,DEM,Tracy Freese,216,82,134
+Hardin,Eldora City,State Senator District 25,,DEM,Tracy Freese,347,173,174
+Hardin,Alden/Buckeye,State Senator District 25,,,Write-in,0,0,0
+Hardin,Hardin/Ellis/Jackson,State Senator District 25,,,Write-in,0,0,0
+Hardin,Iowa Falls #1,State Senator District 25,,,Write-in,0,0,0
+Hardin,Iowa Falls #2,State Senator District 25,,,Write-in,0,0,0
+Hardin,Etna/Clay,State Senator District 25,,,Write-in,1,1,0
+Hardin,Concord/Sherman/Grant/Tipton,State Senator District 25,,,Write-in,1,1,0
+Hardin,Eldora/Pleasant/Providence/Union,State Senator District 25,,,Write-in,0,0,0
+Hardin,Eldora City,State Senator District 25,,,Write-in,2,1,1
+Hardin,Concord/Sherman/Grant/Tipton,State Representative District 49,,REP,Dave Deyoe,765,477,288
+Hardin,Eldora/Pleasant/Providence/Union,State Representative District 49,,REP,Dave Deyoe,540,230,310
+Hardin,Eldora City,State Representative District 49,,REP,Dave Deyoe,599,295,304
+Hardin,Concord/Sherman/Grant/Tipton,State Representative District 49,,DEM,Brenda Brink,322,165,157
+Hardin,Eldora/Pleasant/Providence/Union,State Representative District 49,,DEM,Brenda Brink,218,83,135
+Hardin,Eldora City,State Representative District 49,,DEM,Brenda Brink,339,165,174
+Hardin,Concord/Sherman/Grant/Tipton,State Representative District 49,,LIB,John Evans,32,23,9
+Hardin,Eldora/Pleasant/Providence/Union,State Representative District 49,,LIB,John Evans,23,10,13
+Hardin,Eldora City,State Representative District 49,,LIB,John Evans,41,27,14
+Hardin,Concord/Sherman/Grant/Tipton,State Representative District 49,,,Write-in,0,0,0
+Hardin,Eldora/Pleasant/Providence/Union,State Representative District 49,,,Write-in,0,0,0
+Hardin,Eldora City,State Representative District 49,,,Write-in,0,0,0
+Hardin,Alden/Buckeye,State Representative District 50,,REP,Pat Grassley,371,274,97
+Hardin,Hardin/Ellis/Jackson,State Representative District 50,,REP,Pat Grassley,496,336,160
+Hardin,Iowa Falls #1,State Representative District 50,,REP,Pat Grassley,426,265,161
+Hardin,Iowa Falls #2,State Representative District 50,,REP,Pat Grassley,713,472,241
+Hardin,Etna/Clay,State Representative District 50,,REP,Pat Grassley,698,431,267
+Hardin,Alden/Buckeye,State Representative District 50,,DEM,Dennis Evans,190,127,63
+Hardin,Hardin/Ellis/Jackson,State Representative District 50,,DEM,Dennis Evans,224,125,99
+Hardin,Iowa Falls #1,State Representative District 50,,DEM,Dennis Evans,386,201,185
+Hardin,Iowa Falls #2,State Representative District 50,,DEM,Dennis Evans,428,247,181
+Hardin,Etna/Clay,State Representative District 50,,DEM,Dennis Evans,304,163,141
+Hardin,Alden/Buckeye,State Representative District 50,,,Write-in,0,0,0
+Hardin,Hardin/Ellis/Jackson,State Representative District 50,,,Write-in,0,0,0
+Hardin,Iowa Falls #1,State Representative District 50,,,Write-in,0,0,0
+Hardin,Iowa Falls #2,State Representative District 50,,,Write-in,0,0,0
+Hardin,Etna/Clay,State Representative District 50,,,Write-in,0,0,0
+Hardin,Alden/Buckeye,County Board of Supervisors,,REP,Lance Granzow,330,238,92
+Hardin,Hardin/Ellis/Jackson,County Board of Supervisors,,REP,Lance Granzow,400,262,138
+Hardin,Iowa Falls #1,County Board of Supervisors,,REP,Lance Granzow,396,240,156
+Hardin,Iowa Falls #2,County Board of Supervisors,,REP,Lance Granzow,525,338,187
+Hardin,Etna/Clay,County Board of Supervisors,,REP,Lance Granzow,616,376,240
+Hardin,Concord/Sherman/Grant/Tipton,County Board of Supervisors,,REP,Lance Granzow,643,378,265
+Hardin,Eldora/Pleasant/Providence/Union,County Board of Supervisors,,REP,Lance Granzow,523,235,288
+Hardin,Eldora City,County Board of Supervisors,,REP,Lance Granzow,531,253,278
+Hardin,Alden/Buckeye,County Board of Supervisors,,REP,Reneé McClellan,284,195,89
+Hardin,Hardin/Ellis/Jackson,County Board of Supervisors,,REP,Reneé McClellan,485,324,161
+Hardin,Iowa Falls #1,County Board of Supervisors,,REP,Reneé McClellan,369,194,175
+Hardin,Iowa Falls #2,County Board of Supervisors,,REP,Reneé McClellan,760,483,277
+Hardin,Etna/Clay,County Board of Supervisors,,REP,Reneé McClellan,534,303,231
+Hardin,Concord/Sherman/Grant/Tipton,County Board of Supervisors,,REP,Reneé McClellan,786,466,320
+Hardin,Eldora/Pleasant/Providence/Union,County Board of Supervisors,,REP,Reneé McClellan,493,190,303
+Hardin,Eldora City,County Board of Supervisors,,REP,Reneé McClellan,678,330,348
+Hardin,Alden/Buckeye,County Board of Supervisors,,DEM,Nick Schutt,219,154,65
+Hardin,Hardin/Ellis/Jackson,County Board of Supervisors,,DEM,Nick Schutt,240,135,105
+Hardin,Iowa Falls #1,County Board of Supervisors,,DEM,Nick Schutt,383,198,185
+Hardin,Iowa Falls #2,County Board of Supervisors,,DEM,Nick Schutt,422,254,168
+Hardin,Etna/Clay,County Board of Supervisors,,DEM,Nick Schutt,341,181,160
+Hardin,Concord/Sherman/Grant/Tipton,County Board of Supervisors,,DEM,Nick Schutt,299,160,139
+Hardin,Eldora/Pleasant/Providence/Union,County Board of Supervisors,,DEM,Nick Schutt,216,78,138
+Hardin,Eldora City,County Board of Supervisors,,DEM,Nick Schutt,352,175,177
+Hardin,Alden/Buckeye,County Board of Supervisors,,,Write-in,6,5,1
+Hardin,Hardin/Ellis/Jackson,County Board of Supervisors,,,Write-in,2,1,1
+Hardin,Iowa Falls #1,County Board of Supervisors,,,Write-in,3,2,1
+Hardin,Iowa Falls #2,County Board of Supervisors,,,Write-in,17,6,11
+Hardin,Etna/Clay,County Board of Supervisors,,,Write-in,8,5,3
+Hardin,Concord/Sherman/Grant/Tipton,County Board of Supervisors,,,Write-in,9,8,1
+Hardin,Eldora/Pleasant/Providence/Union,County Board of Supervisors,,,Write-in,6,3,3
+Hardin,Eldora City,County Board of Supervisors,,,Write-in,9,8,1
+Hardin,Alden/Buckeye,County Treasurer,,REP,Machel Eichmeier,461,328,133
+Hardin,Hardin/Ellis/Jackson,County Treasurer,,REP,Machel Eichmeier,633,415,218
+Hardin,Iowa Falls #1,County Treasurer,,REP,Machel Eichmeier,655,395,260
+Hardin,Iowa Falls #2,County Treasurer,,REP,Machel Eichmeier,965,626,339
+Hardin,Etna/Clay,County Treasurer,,REP,Machel Eichmeier,918,557,361
+Hardin,Concord/Sherman/Grant/Tipton,County Treasurer,,REP,Machel Eichmeier,1022,620,402
+Hardin,Eldora/Pleasant/Providence/Union,County Treasurer,,REP,Machel Eichmeier,701,292,409
+Hardin,Eldora City,County Treasurer,,REP,Machel Eichmeier,875,433,442
+Hardin,Alden/Buckeye,County Treasurer,,,Write-in,0,0,0
+Hardin,Hardin/Ellis/Jackson,County Treasurer,,,Write-in,8,4,4
+Hardin,Iowa Falls #1,County Treasurer,,,Write-in,5,4,1
+Hardin,Iowa Falls #2,County Treasurer,,,Write-in,14,10,4
+Hardin,Etna/Clay,County Treasurer,,,Write-in,7,4,3
+Hardin,Concord/Sherman/Grant/Tipton,County Treasurer,,,Write-in,8,6,2
+Hardin,Eldora/Pleasant/Providence/Union,County Treasurer,,,Write-in,6,3,3
+Hardin,Eldora City,County Treasurer,,,Write-in,8,4,4
+Hardin,Alden/Buckeye,County Recorder,,REP,Lori S. Kadner,461,333,128
+Hardin,Hardin/Ellis/Jackson,County Recorder,,REP,Lori S. Kadner,621,407,214
+Hardin,Iowa Falls #1,County Recorder,,REP,Lori S. Kadner,645,389,256
+Hardin,Iowa Falls #2,County Recorder,,REP,Lori S. Kadner,949,613,336
+Hardin,Etna/Clay,County Recorder,,REP,Lori S. Kadner,878,531,347
+Hardin,Concord/Sherman/Grant/Tipton,County Recorder,,REP,Lori S. Kadner,1007,611,396
+Hardin,Eldora/Pleasant/Providence/Union,County Recorder,,REP,Lori S. Kadner,697,290,407
+Hardin,Eldora City,County Recorder,,REP,Lori S. Kadner,881,439,442
+Hardin,Alden/Buckeye,County Recorder,,,Write-in,0,0,0
+Hardin,Hardin/Ellis/Jackson,County Recorder,,,Write-in,4,2,2
+Hardin,Iowa Falls #1,County Recorder,,,Write-in,5,3,2
+Hardin,Iowa Falls #2,County Recorder,,,Write-in,12,10,2
+Hardin,Etna/Clay,County Recorder,,,Write-in,5,3,2
+Hardin,Concord/Sherman/Grant/Tipton,County Recorder,,,Write-in,7,5,2
+Hardin,Eldora/Pleasant/Providence/Union,County Recorder,,,Write-in,7,4,3
+Hardin,Eldora City,County Recorder,,,Write-in,6,3,3
+Hardin,Alden/Buckeye,County Attorney,,REP,Darrell G. Meyer,444,315,129
+Hardin,Hardin/Ellis/Jackson,County Attorney,,REP,Darrell G. Meyer,605,402,203
+Hardin,Iowa Falls #1,County Attorney,,REP,Darrell G. Meyer,624,377,247
+Hardin,Iowa Falls #2,County Attorney,,REP,Darrell G. Meyer,935,606,329
+Hardin,Etna/Clay,County Attorney,,REP,Darrell G. Meyer,876,535,341
+Hardin,Concord/Sherman/Grant/Tipton,County Attorney,,REP,Darrell G. Meyer,998,602,396
+Hardin,Eldora/Pleasant/Providence/Union,County Attorney,,REP,Darrell G. Meyer,691,289,402
+Hardin,Eldora City,County Attorney,,REP,Darrell G. Meyer,868,434,434
+Hardin,Alden/Buckeye,County Attorney,,,Write-in,0,0,0
+Hardin,Hardin/Ellis/Jackson,County Attorney,,,Write-in,6,3,3
+Hardin,Iowa Falls #1,County Attorney,,,Write-in,8,4,4
+Hardin,Iowa Falls #2,County Attorney,,,Write-in,16,14,2
+Hardin,Etna/Clay,County Attorney,,,Write-in,5,3,2
+Hardin,Concord/Sherman/Grant/Tipton,County Attorney,,,Write-in,8,6,2
+Hardin,Eldora/Pleasant/Providence/Union,County Attorney,,,Write-in,5,2,3
+Hardin,Eldora City,County Attorney,,,Write-in,5,2,3
+Hardin,Alden/Buckeye,Alden Township Trustees,,,David L. Lancaster,127,94,33
+Hardin,Alden/Buckeye,Alden Township Trustees,,,Write-in,1,0,1
+Hardin,Alden/Buckeye,Alden Township Clerk,,,Barbara Jass,119,89,30
+Hardin,Alden/Buckeye,Alden Township Clerk,,,Write-in,1,1,0
+Hardin,Alden/Buckeye,Buckeye Township Trustees,,,Merlyn Hall,64,32,32
+Hardin,Alden/Buckeye,Buckeye Township Trustees,,,Write-in,0,0,0
+Hardin,Alden/Buckeye,Buckeye Township Clerk,,,Julia Hall,62,31,31
+Hardin,Alden/Buckeye,Buckeye Township Clerk,,,Write-in,0,0,0
+Hardin,Hardin/Ellis/Jackson,Ellis Township Trustees,,,Write-in,14,8,6
+Hardin,Hardin/Ellis/Jackson,Ellis Township Trustees,,,Lynn Lee,0,0,0
+Hardin,Hardin/Ellis/Jackson,Ellis Township Clerk,,,Write-in,11,7,4
+Hardin,Hardin/Ellis/Jackson,Ellis Township Clerk,,,Mike Broer,0,0,0
+Hardin,Hardin/Ellis/Jackson,Ellis Township Clerk,,,Lynn Lee,0,0,0
+Hardin,Hardin/Ellis/Jackson,Ellis Township Trustees-To Fill Vacancy,,,Write-in,10,6,4
+Hardin,Hardin/Ellis/Jackson,Ellis Township Trustees-To Fill Vacancy,,,Lynn Lee,0,0,0
+Hardin,Etna/Clay,Etna Township Trustees,,,Barbara J. Kreimeyer,89,59,30
+Hardin,Etna/Clay,Etna Township Trustees,,,Write-in,2,2,0
+Hardin,Etna/Clay,Etna Township Clerk,,,Delbert C. Kreimeyer,90,61,29
+Hardin,Etna/Clay,Etna Township Clerk,,,Write-in,0,0,0
+Hardin,Etna/Clay,Etna Township Trustees-To Fill Vacancy,,,James Bartling,99,67,32
+Hardin,Etna/Clay,Etna Township Trustees-To Fill Vacancy,,,Write-in,0,0,0
+Hardin,Eldora/Pleasant/Providence/Union,Providence Township Trustees,,,Steven Perry,81,36,45
+Hardin,Eldora/Pleasant/Providence/Union,Providence Township Trustees,,,Write-in,1,0,1
+Hardin,Eldora/Pleasant/Providence/Union,Providence Township Clerk,,,Write-in,5,3,2
+Hardin,Eldora/Pleasant/Providence/Union,Providence Township Clerk,,,Ali Steiner,0,0,0
+Hardin,Eldora/Pleasant/Providence/Union,Union Township Trustees,,,John E. Johnson,128,52,76
+Hardin,Eldora/Pleasant/Providence/Union,Union Township Trustees,,,Write-in,0,0,0
+Hardin,Eldora/Pleasant/Providence/Union,Union Township Clerk,,,Janet Johnson,132,55,77
+Hardin,Eldora/Pleasant/Providence/Union,Union Township Clerk,,,Write-in,0,0,0
+Hardin,Eldora/Pleasant/Providence/Union,Union Township Trustees-To Fill Vacancy,,,Ronald Galloway,137,57,80
+Hardin,Eldora/Pleasant/Providence/Union,Union Township Trustees-To Fill Vacancy,,,Write-in,0,0,0
+Hardin,Alden/Buckeye,Soil and Water Conservation District Commissioners,,,Allen Kadolph,312,207,105
+Hardin,Hardin/Ellis/Jackson,Soil and Water Conservation District Commissioners,,,Allen Kadolph,475,310,165
+Hardin,Iowa Falls #1,Soil and Water Conservation District Commissioners,,,Allen Kadolph,489,280,209
+Hardin,Iowa Falls #2,Soil and Water Conservation District Commissioners,,,Allen Kadolph,719,459,260
+Hardin,Etna/Clay,Soil and Water Conservation District Commissioners,,,Allen Kadolph,650,393,257
+Hardin,Concord/Sherman/Grant/Tipton,Soil and Water Conservation District Commissioners,,,Allen Kadolph,896,534,362
+Hardin,Eldora/Pleasant/Providence/Union,Soil and Water Conservation District Commissioners,,,Allen Kadolph,503,199,304
+Hardin,Eldora City,Soil and Water Conservation District Commissioners,,,Allen Kadolph,645,328,317
+Hardin,Alden/Buckeye,Soil and Water Conservation District Commissioners,,,Rex Lawler,274,186,88
+Hardin,Hardin/Ellis/Jackson,Soil and Water Conservation District Commissioners,,,Rex Lawler,442,288,154
+Hardin,Iowa Falls #1,Soil and Water Conservation District Commissioners,,,Rex Lawler,492,286,206
+Hardin,Iowa Falls #2,Soil and Water Conservation District Commissioners,,,Rex Lawler,694,461,233
+Hardin,Etna/Clay,Soil and Water Conservation District Commissioners,,,Rex Lawler,655,389,266
+Hardin,Concord/Sherman/Grant/Tipton,Soil and Water Conservation District Commissioners,,,Rex Lawler,698,397,301
+Hardin,Eldora/Pleasant/Providence/Union,Soil and Water Conservation District Commissioners,,,Rex Lawler,606,244,362
+Hardin,Eldora City,Soil and Water Conservation District Commissioners,,,Rex Lawler,688,342,346
+Hardin,Alden/Buckeye,Soil and Water Conservation District Commissioners,,,Write-in,4,4,0
+Hardin,Hardin/Ellis/Jackson,Soil and Water Conservation District Commissioners,,,Write-in,2,2,0
+Hardin,Iowa Falls #1,Soil and Water Conservation District Commissioners,,,Write-in,1,1,0
+Hardin,Iowa Falls #2,Soil and Water Conservation District Commissioners,,,Write-in,10,7,3
+Hardin,Etna/Clay,Soil and Water Conservation District Commissioners,,,Write-in,3,3,0
+Hardin,Concord/Sherman/Grant/Tipton,Soil and Water Conservation District Commissioners,,,Write-in,3,3,0
+Hardin,Eldora/Pleasant/Providence/Union,Soil and Water Conservation District Commissioners,,,Write-in,8,4,4
+Hardin,Eldora City,Soil and Water Conservation District Commissioners,,,Write-in,8,7,1
+Hardin,Alden/Buckeye,County Agricultural Extension Council Members,,,Rita Cook,277,182,95
+Hardin,Hardin/Ellis/Jackson,County Agricultural Extension Council Members,,,Rita Cook,432,286,146
+Hardin,Iowa Falls #1,County Agricultural Extension Council Members,,,Rita Cook,448,254,194
+Hardin,Iowa Falls #2,County Agricultural Extension Council Members,,,Rita Cook,672,431,241
+Hardin,Etna/Clay,County Agricultural Extension Council Members,,,Rita Cook,648,396,252
+Hardin,Concord/Sherman/Grant/Tipton,County Agricultural Extension Council Members,,,Rita Cook,892,532,360
+Hardin,Eldora/Pleasant/Providence/Union,County Agricultural Extension Council Members,,,Rita Cook,540,224,316
+Hardin,Eldora City,County Agricultural Extension Council Members,,,Rita Cook,638,323,315
+Hardin,Alden/Buckeye,County Agricultural Extension Council Members,,,Jo Duncan,354,243,111
+Hardin,Hardin/Ellis/Jackson,County Agricultural Extension Council Members,,,Jo Duncan,409,271,138
+Hardin,Iowa Falls #1,County Agricultural Extension Council Members,,,Jo Duncan,433,248,185
+Hardin,Iowa Falls #2,County Agricultural Extension Council Members,,,Jo Duncan,662,418,244
+Hardin,Etna/Clay,County Agricultural Extension Council Members,,,Jo Duncan,577,347,230
+Hardin,Concord/Sherman/Grant/Tipton,County Agricultural Extension Council Members,,,Jo Duncan,688,399,289
+Hardin,Eldora/Pleasant/Providence/Union,County Agricultural Extension Council Members,,,Jo Duncan,447,179,268
+Hardin,Eldora City,County Agricultural Extension Council Members,,,Jo Duncan,567,288,279
+Hardin,Alden/Buckeye,County Agricultural Extension Council Members,,,Dan Quinlin,245,164,81
+Hardin,Hardin/Ellis/Jackson,County Agricultural Extension Council Members,,,Dan Quinlin,398,269,129
+Hardin,Iowa Falls #1,County Agricultural Extension Council Members,,,Dan Quinlin,435,253,182
+Hardin,Iowa Falls #2,County Agricultural Extension Council Members,,,Dan Quinlin,668,430,238
+Hardin,Etna/Clay,County Agricultural Extension Council Members,,,Dan Quinlin,559,346,213
+Hardin,Concord/Sherman/Grant/Tipton,County Agricultural Extension Council Members,,,Dan Quinlin,636,373,263
+Hardin,Eldora/Pleasant/Providence/Union,County Agricultural Extension Council Members,,,Dan Quinlin,442,182,260
+Hardin,Eldora City,County Agricultural Extension Council Members,,,Dan Quinlin,533,272,261
+Hardin,Alden/Buckeye,County Agricultural Extension Council Members,,,Ronn Rickels,280,197,83
+Hardin,Hardin/Ellis/Jackson,County Agricultural Extension Council Members,,,Ronn Rickels,467,300,167
+Hardin,Iowa Falls #1,County Agricultural Extension Council Members,,,Ronn Rickels,526,298,228
+Hardin,Iowa Falls #2,County Agricultural Extension Council Members,,,Ronn Rickels,777,497,280
+Hardin,Etna/Clay,County Agricultural Extension Council Members,,,Ronn Rickels,611,375,236
+Hardin,Concord/Sherman/Grant/Tipton,County Agricultural Extension Council Members,,,Ronn Rickels,643,376,267
+Hardin,Eldora/Pleasant/Providence/Union,County Agricultural Extension Council Members,,,Ronn Rickels,445,182,263
+Hardin,Eldora City,County Agricultural Extension Council Members,,,Ronn Rickels,550,282,268
+Hardin,Alden/Buckeye,County Agricultural Extension Council Members,,,Allen Tibbs,324,223,101
+Hardin,Hardin/Ellis/Jackson,County Agricultural Extension Council Members,,,Allen Tibbs,411,279,132
+Hardin,Iowa Falls #1,County Agricultural Extension Council Members,,,Allen Tibbs,427,244,183
+Hardin,Iowa Falls #2,County Agricultural Extension Council Members,,,Allen Tibbs,665,416,249
+Hardin,Etna/Clay,County Agricultural Extension Council Members,,,Allen Tibbs,577,345,232
+Hardin,Concord/Sherman/Grant/Tipton,County Agricultural Extension Council Members,,,Allen Tibbs,665,392,273
+Hardin,Eldora/Pleasant/Providence/Union,County Agricultural Extension Council Members,,,Allen Tibbs,443,178,265
+Hardin,Eldora City,County Agricultural Extension Council Members,,,Allen Tibbs,539,278,261
+Hardin,Alden/Buckeye,County Agricultural Extension Council Members,,,Write-in,8,8,0
+Hardin,Hardin/Ellis/Jackson,County Agricultural Extension Council Members,,,Write-in,2,1,1
+Hardin,Iowa Falls #1,County Agricultural Extension Council Members,,,Write-in,2,0,2
+Hardin,Iowa Falls #2,County Agricultural Extension Council Members,,,Write-in,14,11,3
+Hardin,Etna/Clay,County Agricultural Extension Council Members,,,Write-in,4,2,2
+Hardin,Concord/Sherman/Grant/Tipton,County Agricultural Extension Council Members,,,Write-in,8,5,3
+Hardin,Eldora/Pleasant/Providence/Union,County Agricultural Extension Council Members,,,Write-in,7,5,2
+Hardin,Eldora City,County Agricultural Extension Council Members,,,Write-in,20,12,8
+Hardin,Alden/Buckeye,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,170,109,61
+Hardin,Hardin/Ellis/Jackson,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,338,229,109
+Hardin,Iowa Falls #1,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,388,245,143
+Hardin,Iowa Falls #2,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,591,391,200
+Hardin,Etna/Clay,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,470,297,173
+Hardin,Concord/Sherman/Grant/Tipton,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,488,306,182
+Hardin,Eldora/Pleasant/Providence/Union,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,301,136,165
+Hardin,Eldora City,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,455,245,210
+Hardin,Alden/Buckeye,Court of Appeals Judge Anuradha Vaitheswaran,,,No,114,86,28
+Hardin,Hardin/Ellis/Jackson,Court of Appeals Judge Anuradha Vaitheswaran,,,No,145,99,46
+Hardin,Iowa Falls #1,Court of Appeals Judge Anuradha Vaitheswaran,,,No,148,89,59
+Hardin,Iowa Falls #2,Court of Appeals Judge Anuradha Vaitheswaran,,,No,232,158,74
+Hardin,Etna/Clay,Court of Appeals Judge Anuradha Vaitheswaran,,,No,227,139,88
+Hardin,Concord/Sherman/Grant/Tipton,Court of Appeals Judge Anuradha Vaitheswaran,,,No,317,200,117
+Hardin,Eldora/Pleasant/Providence/Union,Court of Appeals Judge Anuradha Vaitheswaran,,,No,207,88,119
+Hardin,Eldora City,Court of Appeals Judge Anuradha Vaitheswaran,,,No,238,123,115
+Hardin,Alden/Buckeye,Court of Appeals Judge Michael R. Mullins,,,Yes,192,125,67
+Hardin,Hardin/Ellis/Jackson,Court of Appeals Judge Michael R. Mullins,,,Yes,391,268,123
+Hardin,Iowa Falls #1,Court of Appeals Judge Michael R. Mullins,,,Yes,406,249,157
+Hardin,Iowa Falls #2,Court of Appeals Judge Michael R. Mullins,,,Yes,613,404,209
+Hardin,Etna/Clay,Court of Appeals Judge Michael R. Mullins,,,Yes,514,320,194
+Hardin,Concord/Sherman/Grant/Tipton,Court of Appeals Judge Michael R. Mullins,,,Yes,570,350,220
+Hardin,Eldora/Pleasant/Providence/Union,Court of Appeals Judge Michael R. Mullins,,,Yes,354,157,197
+Hardin,Eldora City,Court of Appeals Judge Michael R. Mullins,,,Yes,507,274,233
+Hardin,Alden/Buckeye,Court of Appeals Judge Michael R. Mullins,,,No,95,71,24
+Hardin,Hardin/Ellis/Jackson,Court of Appeals Judge Michael R. Mullins,,,No,90,64,26
+Hardin,Iowa Falls #1,Court of Appeals Judge Michael R. Mullins,,,No,129,81,48
+Hardin,Iowa Falls #2,Court of Appeals Judge Michael R. Mullins,,,No,192,140,52
+Hardin,Etna/Clay,Court of Appeals Judge Michael R. Mullins,,,No,179,111,68
+Hardin,Concord/Sherman/Grant/Tipton,Court of Appeals Judge Michael R. Mullins,,,No,230,155,75
+Hardin,Eldora/Pleasant/Providence/Union,Court of Appeals Judge Michael R. Mullins,,,No,160,71,89
+Hardin,Eldora City,Court of Appeals Judge Michael R. Mullins,,,No,186,95,91
+Hardin,Alden/Buckeye,Court of Appeals Judge Mary Ellen Tabor,,,Yes,199,130,69
+Hardin,Hardin/Ellis/Jackson,Court of Appeals Judge Mary Ellen Tabor,,,Yes,381,251,130
+Hardin,Iowa Falls #1,Court of Appeals Judge Mary Ellen Tabor,,,Yes,430,269,161
+Hardin,Iowa Falls #2,Court of Appeals Judge Mary Ellen Tabor,,,Yes,631,416,215
+Hardin,Etna/Clay,Court of Appeals Judge Mary Ellen Tabor,,,Yes,525,323,202
+Hardin,Concord/Sherman/Grant/Tipton,Court of Appeals Judge Mary Ellen Tabor,,,Yes,562,346,216
+Hardin,Eldora/Pleasant/Providence/Union,Court of Appeals Judge Mary Ellen Tabor,,,Yes,344,161,183
+Hardin,Eldora City,Court of Appeals Judge Mary Ellen Tabor,,,Yes,506,269,237
+Hardin,Alden/Buckeye,Court of Appeals Judge Mary Ellen Tabor,,,No,90,70,20
+Hardin,Hardin/Ellis/Jackson,Court of Appeals Judge Mary Ellen Tabor,,,No,109,84,25
+Hardin,Iowa Falls #1,Court of Appeals Judge Mary Ellen Tabor,,,No,111,69,42
+Hardin,Iowa Falls #2,Court of Appeals Judge Mary Ellen Tabor,,,No,190,132,58
+Hardin,Etna/Clay,Court of Appeals Judge Mary Ellen Tabor,,,No,175,111,64
+Hardin,Concord/Sherman/Grant/Tipton,Court of Appeals Judge Mary Ellen Tabor,,,No,248,160,88
+Hardin,Eldora/Pleasant/Providence/Union,Court of Appeals Judge Mary Ellen Tabor,,,No,173,70,103
+Hardin,Eldora City,Court of Appeals Judge Mary Ellen Tabor,,,No,194,103,91
+Hardin,Alden/Buckeye,District 2B District Judge Steven J. Oeth,,,Yes,187,119,68
+Hardin,Hardin/Ellis/Jackson,District 2B District Judge Steven J. Oeth,,,Yes,366,252,114
+Hardin,Iowa Falls #1,District 2B District Judge Steven J. Oeth,,,Yes,398,250,148
+Hardin,Iowa Falls #2,District 2B District Judge Steven J. Oeth,,,Yes,608,402,206
+Hardin,Etna/Clay,District 2B District Judge Steven J. Oeth,,,Yes,512,319,193
+Hardin,Concord/Sherman/Grant/Tipton,District 2B District Judge Steven J. Oeth,,,Yes,542,338,204
+Hardin,Eldora/Pleasant/Providence/Union,District 2B District Judge Steven J. Oeth,,,Yes,334,151,183
+Hardin,Eldora City,District 2B District Judge Steven J. Oeth,,,Yes,484,265,219
+Hardin,Alden/Buckeye,District 2B District Judge Steven J. Oeth,,,No,88,67,21
+Hardin,Hardin/Ellis/Jackson,District 2B District Judge Steven J. Oeth,,,No,100,69,31
+Hardin,Iowa Falls #1,District 2B District Judge Steven J. Oeth,,,No,130,80,50
+Hardin,Iowa Falls #2,District 2B District Judge Steven J. Oeth,,,No,193,138,55
+Hardin,Etna/Clay,District 2B District Judge Steven J. Oeth,,,No,179,114,65
+Hardin,Concord/Sherman/Grant/Tipton,District 2B District Judge Steven J. Oeth,,,No,250,161,89
+Hardin,Eldora/Pleasant/Providence/Union,District 2B District Judge Steven J. Oeth,,,No,173,75,98
+Hardin,Eldora City,District 2B District Judge Steven J. Oeth,,,No,198,100,98
+Hardin,Alden/Buckeye,District 2B District Judge Kurt John Stoebe,,,Yes,181,116,65
+Hardin,Hardin/Ellis/Jackson,District 2B District Judge Kurt John Stoebe,,,Yes,364,248,116
+Hardin,Iowa Falls #1,District 2B District Judge Kurt John Stoebe,,,Yes,394,246,148
+Hardin,Iowa Falls #2,District 2B District Judge Kurt John Stoebe,,,Yes,590,396,194
+Hardin,Etna/Clay,District 2B District Judge Kurt John Stoebe,,,Yes,492,303,189
+Hardin,Concord/Sherman/Grant/Tipton,District 2B District Judge Kurt John Stoebe,,,Yes,525,329,196
+Hardin,Eldora/Pleasant/Providence/Union,District 2B District Judge Kurt John Stoebe,,,Yes,336,149,187
+Hardin,Eldora City,District 2B District Judge Kurt John Stoebe,,,Yes,469,258,211
+Hardin,Alden/Buckeye,District 2B District Judge Kurt John Stoebe,,,No,97,72,25
+Hardin,Hardin/Ellis/Jackson,District 2B District Judge Kurt John Stoebe,,,No,102,73,29
+Hardin,Iowa Falls #1,District 2B District Judge Kurt John Stoebe,,,No,129,81,48
+Hardin,Iowa Falls #2,District 2B District Judge Kurt John Stoebe,,,No,203,139,64
+Hardin,Etna/Clay,District 2B District Judge Kurt John Stoebe,,,No,179,118,61
+Hardin,Concord/Sherman/Grant/Tipton,District 2B District Judge Kurt John Stoebe,,,No,254,162,92
+Hardin,Eldora/Pleasant/Providence/Union,District 2B District Judge Kurt John Stoebe,,,No,170,75,95
+Hardin,Eldora City,District 2B District Judge Kurt John Stoebe,,,No,204,104,100
+Hardin,Alden/Buckeye,District 2B District Judge Kurt L. Wilke,,,Yes,213,140,73
+Hardin,Hardin/Ellis/Jackson,District 2B District Judge Kurt L. Wilke,,,Yes,367,251,116
+Hardin,Iowa Falls #1,District 2B District Judge Kurt L. Wilke,,,Yes,399,246,153
+Hardin,Iowa Falls #2,District 2B District Judge Kurt L. Wilke,,,Yes,611,404,207
+Hardin,Etna/Clay,District 2B District Judge Kurt L. Wilke,,,Yes,508,317,191
+Hardin,Concord/Sherman/Grant/Tipton,District 2B District Judge Kurt L. Wilke,,,Yes,554,342,212
+Hardin,Eldora/Pleasant/Providence/Union,District 2B District Judge Kurt L. Wilke,,,Yes,339,151,188
+Hardin,Eldora City,District 2B District Judge Kurt L. Wilke,,,Yes,486,265,221
+Hardin,Alden/Buckeye,District 2B District Judge Kurt L. Wilke,,,No,82,62,20
+Hardin,Hardin/Ellis/Jackson,District 2B District Judge Kurt L. Wilke,,,No,100,69,31
+Hardin,Iowa Falls #1,District 2B District Judge Kurt L. Wilke,,,No,129,82,47
+Hardin,Iowa Falls #2,District 2B District Judge Kurt L. Wilke,,,No,186,133,53
+Hardin,Etna/Clay,District 2B District Judge Kurt L. Wilke,,,No,178,114,64
+Hardin,Concord/Sherman/Grant/Tipton,District 2B District Judge Kurt L. Wilke,,,No,233,155,78
+Hardin,Eldora/Pleasant/Providence/Union,District 2B District Judge Kurt L. Wilke,,,No,169,74,95
+Hardin,Eldora City,District 2B District Judge Kurt L. Wilke,,,No,195,100,95
+Hardin,Alden/Buckeye,District 2B District Judge Adria Kester,,,Yes,184,121,63
+Hardin,Hardin/Ellis/Jackson,District 2B District Judge Adria Kester,,,Yes,367,250,117
+Hardin,Iowa Falls #1,District 2B District Judge Adria Kester,,,Yes,395,245,150
+Hardin,Iowa Falls #2,District 2B District Judge Adria Kester,,,Yes,608,403,205
+Hardin,Etna/Clay,District 2B District Judge Adria Kester,,,Yes,497,300,197
+Hardin,Concord/Sherman/Grant/Tipton,District 2B District Judge Adria Kester,,,Yes,547,340,207
+Hardin,Eldora/Pleasant/Providence/Union,District 2B District Judge Adria Kester,,,Yes,337,151,186
+Hardin,Eldora City,District 2B District Judge Adria Kester,,,Yes,486,259,227
+Hardin,Alden/Buckeye,District 2B District Judge Adria Kester,,,No,86,63,23
+Hardin,Hardin/Ellis/Jackson,District 2B District Judge Adria Kester,,,No,102,71,31
+Hardin,Iowa Falls #1,District 2B District Judge Adria Kester,,,No,131,84,47
+Hardin,Iowa Falls #2,District 2B District Judge Adria Kester,,,No,188,129,59
+Hardin,Etna/Clay,District 2B District Judge Adria Kester,,,No,185,124,61
+Hardin,Concord/Sherman/Grant/Tipton,District 2B District Judge Adria Kester,,,No,235,154,81
+Hardin,Eldora/Pleasant/Providence/Union,District 2B District Judge Adria Kester,,,No,166,73,93
+Hardin,Eldora City,District 2B District Judge Adria Kester,,,No,186,99,87
+Hardin,Alden/Buckeye,District 2B District Associate Judge Paul B. Ahlers,,,Yes,185,114,71
+Hardin,Hardin/Ellis/Jackson,District 2B District Associate Judge Paul B. Ahlers,,,Yes,369,251,118
+Hardin,Iowa Falls #1,District 2B District Associate Judge Paul B. Ahlers,,,Yes,398,248,150
+Hardin,Iowa Falls #2,District 2B District Associate Judge Paul B. Ahlers,,,Yes,590,386,204
+Hardin,Etna/Clay,District 2B District Associate Judge Paul B. Ahlers,,,Yes,518,324,194
+Hardin,Concord/Sherman/Grant/Tipton,District 2B District Associate Judge Paul B. Ahlers,,,Yes,545,342,203
+Hardin,Eldora/Pleasant/Providence/Union,District 2B District Associate Judge Paul B. Ahlers,,,Yes,330,146,184
+Hardin,Eldora City,District 2B District Associate Judge Paul B. Ahlers,,,Yes,484,265,219
+Hardin,Alden/Buckeye,District 2B District Associate Judge Paul B. Ahlers,,,No,87,69,18
+Hardin,Hardin/Ellis/Jackson,District 2B District Associate Judge Paul B. Ahlers,,,No,104,71,33
+Hardin,Iowa Falls #1,District 2B District Associate Judge Paul B. Ahlers,,,No,138,84,54
+Hardin,Iowa Falls #2,District 2B District Associate Judge Paul B. Ahlers,,,No,208,152,56
+Hardin,Etna/Clay,District 2B District Associate Judge Paul B. Ahlers,,,No,172,107,65
+Hardin,Concord/Sherman/Grant/Tipton,District 2B District Associate Judge Paul B. Ahlers,,,No,243,157,86
+Hardin,Eldora/Pleasant/Providence/Union,District 2B District Associate Judge Paul B. Ahlers,,,No,182,81,101
+Hardin,Eldora City,District 2B District Associate Judge Paul B. Ahlers,,,No,191,97,94
+Hardin,Alden/Buckeye,District 2B District Associate Judge Paul G. Crawford,,,Yes,179,113,66
+Hardin,Hardin/Ellis/Jackson,District 2B District Associate Judge Paul G. Crawford,,,Yes,366,249,117
+Hardin,Iowa Falls #1,District 2B District Associate Judge Paul G. Crawford,,,Yes,400,247,153
+Hardin,Iowa Falls #2,District 2B District Associate Judge Paul G. Crawford,,,Yes,591,394,197
+Hardin,Etna/Clay,District 2B District Associate Judge Paul G. Crawford,,,Yes,508,318,190
+Hardin,Concord/Sherman/Grant/Tipton,District 2B District Associate Judge Paul G. Crawford,,,Yes,542,335,207
+Hardin,Eldora/Pleasant/Providence/Union,District 2B District Associate Judge Paul G. Crawford,,,Yes,337,152,185
+Hardin,Eldora City,District 2B District Associate Judge Paul G. Crawford,,,Yes,481,265,216
+Hardin,Alden/Buckeye,District 2B District Associate Judge Paul G. Crawford,,,No,88,67,21
+Hardin,Hardin/Ellis/Jackson,District 2B District Associate Judge Paul G. Crawford,,,No,103,73,30
+Hardin,Iowa Falls #1,District 2B District Associate Judge Paul G. Crawford,,,No,122,80,42
+Hardin,Iowa Falls #2,District 2B District Associate Judge Paul G. Crawford,,,No,189,132,57
+Hardin,Etna/Clay,District 2B District Associate Judge Paul G. Crawford,,,No,176,111,65
+Hardin,Concord/Sherman/Grant/Tipton,District 2B District Associate Judge Paul G. Crawford,,,No,235,151,84
+Hardin,Eldora/Pleasant/Providence/Union,District 2B District Associate Judge Paul G. Crawford,,,No,164,72,92
+Hardin,Eldora City,District 2B District Associate Judge Paul G. Crawford,,,No,182,88,94
+Hardin,Alden/Buckeye,District 2B District Associate Judge Angela L. Doyle,,,Yes,189,119,70
+Hardin,Hardin/Ellis/Jackson,District 2B District Associate Judge Angela L. Doyle,,,Yes,378,261,117
+Hardin,Iowa Falls #1,District 2B District Associate Judge Angela L. Doyle,,,Yes,423,262,161
+Hardin,Iowa Falls #2,District 2B District Associate Judge Angela L. Doyle,,,Yes,618,407,211
+Hardin,Etna/Clay,District 2B District Associate Judge Angela L. Doyle,,,Yes,521,324,197
+Hardin,Concord/Sherman/Grant/Tipton,District 2B District Associate Judge Angela L. Doyle,,,Yes,564,346,218
+Hardin,Eldora/Pleasant/Providence/Union,District 2B District Associate Judge Angela L. Doyle,,,Yes,345,159,186
+Hardin,Eldora City,District 2B District Associate Judge Angela L. Doyle,,,Yes,497,262,235
+Hardin,Alden/Buckeye,District 2B District Associate Judge Angela L. Doyle,,,No,81,64,17
+Hardin,Hardin/Ellis/Jackson,District 2B District Associate Judge Angela L. Doyle,,,No,98,67,31
+Hardin,Iowa Falls #1,District 2B District Associate Judge Angela L. Doyle,,,No,114,69,45
+Hardin,Iowa Falls #2,District 2B District Associate Judge Angela L. Doyle,,,No,176,125,51
+Hardin,Etna/Clay,District 2B District Associate Judge Angela L. Doyle,,,No,170,109,61
+Hardin,Concord/Sherman/Grant/Tipton,District 2B District Associate Judge Angela L. Doyle,,,No,224,148,76
+Hardin,Eldora/Pleasant/Providence/Union,District 2B District Associate Judge Angela L. Doyle,,,No,162,67,95
+Hardin,Eldora City,District 2B District Associate Judge Angela L. Doyle,,,No,179,96,83
+Hardin,Alden/Buckeye,District 2B District Associate Judge Joseph B. McCarville,,,Yes,173,110,63
+Hardin,Hardin/Ellis/Jackson,District 2B District Associate Judge Joseph B. McCarville,,,Yes,342,230,112
+Hardin,Iowa Falls #1,District 2B District Associate Judge Joseph B. McCarville,,,Yes,376,231,145
+Hardin,Iowa Falls #2,District 2B District Associate Judge Joseph B. McCarville,,,Yes,564,366,198
+Hardin,Etna/Clay,District 2B District Associate Judge Joseph B. McCarville,,,Yes,488,299,189
+Hardin,Concord/Sherman/Grant/Tipton,District 2B District Associate Judge Joseph B. McCarville,,,Yes,525,321,204
+Hardin,Eldora/Pleasant/Providence/Union,District 2B District Associate Judge Joseph B. McCarville,,,Yes,332,150,182
+Hardin,Eldora City,District 2B District Associate Judge Joseph B. McCarville,,,Yes,468,252,216
+Hardin,Alden/Buckeye,District 2B District Associate Judge Joseph B. McCarville,,,No,90,68,22
+Hardin,Hardin/Ellis/Jackson,District 2B District Associate Judge Joseph B. McCarville,,,No,120,87,33
+Hardin,Iowa Falls #1,District 2B District Associate Judge Joseph B. McCarville,,,No,146,95,51
+Hardin,Iowa Falls #2,District 2B District Associate Judge Joseph B. McCarville,,,No,222,163,59
+Hardin,Etna/Clay,District 2B District Associate Judge Joseph B. McCarville,,,No,192,127,65
+Hardin,Concord/Sherman/Grant/Tipton,District 2B District Associate Judge Joseph B. McCarville,,,No,254,171,83
+Hardin,Eldora/Pleasant/Providence/Union,District 2B District Associate Judge Joseph B. McCarville,,,No,171,73,98
+Hardin,Eldora City,District 2B District Associate Judge Joseph B. McCarville,,,No,197,102,95
+Hardin,Alden/Buckeye,District 2B District Associate Judge Kim M. Riley,,,Yes,204,129,75
+Hardin,Hardin/Ellis/Jackson,District 2B District Associate Judge Kim M. Riley,,,Yes,384,260,124
+Hardin,Iowa Falls #1,District 2B District Associate Judge Kim M. Riley,,,Yes,442,279,163
+Hardin,Iowa Falls #2,District 2B District Associate Judge Kim M. Riley,,,Yes,644,425,219
+Hardin,Etna/Clay,District 2B District Associate Judge Kim M. Riley,,,Yes,527,326,201
+Hardin,Concord/Sherman/Grant/Tipton,District 2B District Associate Judge Kim M. Riley,,,Yes,579,362,217
+Hardin,Eldora/Pleasant/Providence/Union,District 2B District Associate Judge Kim M. Riley,,,Yes,354,162,192
+Hardin,Eldora City,District 2B District Associate Judge Kim M. Riley,,,Yes,512,275,237
+Hardin,Alden/Buckeye,District 2B District Associate Judge Kim M. Riley,,,No,76,61,15
+Hardin,Hardin/Ellis/Jackson,District 2B District Associate Judge Kim M. Riley,,,No,99,68,31
+Hardin,Iowa Falls #1,District 2B District Associate Judge Kim M. Riley,,,No,100,60,40
+Hardin,Iowa Falls #2,District 2B District Associate Judge Kim M. Riley,,,No,167,118,49
+Hardin,Etna/Clay,District 2B District Associate Judge Kim M. Riley,,,No,164,104,60
+Hardin,Concord/Sherman/Grant/Tipton,District 2B District Associate Judge Kim M. Riley,,,No,216,136,80
+Hardin,Eldora/Pleasant/Providence/Union,District 2B District Associate Judge Kim M. Riley,,,No,152,66,86
+Hardin,Eldora City,District 2B District Associate Judge Kim M. Riley,,,No,173,89,84
+Hardin,Alden/Buckeye,Public Measure A,,,Yes,66,48,18
+Hardin,Alden/Buckeye,Public Measure A,,,No,52,35,17
+Hardin,Alden/Buckeye,Public Measure B,,,Yes,22,12,10
+Hardin,Alden/Buckeye,Public Measure B,,,No,38,19,19
+Hardin,Hardin/Ellis/Jackson,Public Measure C,,,Yes,57,43,14
+Hardin,Hardin/Ellis/Jackson,Public Measure C,,,No,38,30,8
+Hardin,Etna/Clay,Public Measure D,,,Yes,58,45,13
+Hardin,Etna/Clay,Public Measure D,,,No,43,22,21
+Hardin,Eldora/Pleasant/Providence/Union,Public Measure E,,,Yes,53,28,25
+Hardin,Eldora/Pleasant/Providence/Union,Public Measure E,,,No,31,9,22
+Hardin,Eldora/Pleasant/Providence/Union,Public Measure F,,,Yes,71,32,39
+Hardin,Eldora/Pleasant/Providence/Union,Public Measure F,,,No,63,24,39
+Hardin,Alden/Buckeye,Public Measure G,,,Yes,134,90,44
+Hardin,Hardin/Ellis/Jackson,Public Measure G,,,Yes,457,306,151
+Hardin,Etna/Clay,Public Measure G,,,Yes,170,79,91
+Hardin,Concord/Sherman/Grant/Tipton,Public Measure G,,,Yes,382,226,156
+Hardin,Eldora/Pleasant/Providence/Union,Public Measure G,,,Yes,355,136,219
+Hardin,Alden/Buckeye,Public Measure G,,,No,48,27,21
+Hardin,Hardin/Ellis/Jackson,Public Measure G,,,No,162,98,64
+Hardin,Etna/Clay,Public Measure G,,,No,59,28,31
+Hardin,Concord/Sherman/Grant/Tipton,Public Measure G,,,No,94,58,36
+Hardin,Eldora/Pleasant/Providence/Union,Public Measure G,,,No,121,49,72

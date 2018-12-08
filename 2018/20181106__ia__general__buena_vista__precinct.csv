@@ -1,0 +1,874 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Buena Vista,ACFC,United States Representative District 4,,REP,Steve King,286,210,76
+Buena Vista,ALNE,United States Representative District 4,,REP,Steve King,508,386,122
+Buena Vista,LKHM,United States Representative District 4,,REP,Steve King,326,198,128
+Buena Vista,NENP,United States Representative District 4,,REP,Steve King,368,257,111
+Buena Vista,SMLR,United States Representative District 4,,REP,Steve King,607,389,218
+Buena Vista,SL01,United States Representative District 4,,REP,Steve King,203,128,75
+Buena Vista,SL02,United States Representative District 4,,REP,Steve King,93,55,38
+Buena Vista,SL03,United States Representative District 4,,REP,Steve King,384,227,157
+Buena Vista,SL04,United States Representative District 4,,REP,Steve King,223,133,90
+Buena Vista,TRWG,United States Representative District 4,,REP,Steve King,230,153,77
+Buena Vista,ACFC,United States Representative District 4,,DEM,J.D. Scholten,170,127,43
+Buena Vista,ALNE,United States Representative District 4,,DEM,J.D. Scholten,409,315,94
+Buena Vista,LKHM,United States Representative District 4,,DEM,J.D. Scholten,277,160,117
+Buena Vista,NENP,United States Representative District 4,,DEM,J.D. Scholten,190,138,52
+Buena Vista,SMLR,United States Representative District 4,,DEM,J.D. Scholten,362,250,112
+Buena Vista,SL01,United States Representative District 4,,DEM,J.D. Scholten,413,235,178
+Buena Vista,SL02,United States Representative District 4,,DEM,J.D. Scholten,241,138,103
+Buena Vista,SL03,United States Representative District 4,,DEM,J.D. Scholten,479,280,199
+Buena Vista,SL04,United States Representative District 4,,DEM,J.D. Scholten,464,263,201
+Buena Vista,TRWG,United States Representative District 4,,DEM,J.D. Scholten,173,86,87
+Buena Vista,ACFC,United States Representative District 4,,LIB,Charles Aldrich,13,12,1
+Buena Vista,ALNE,United States Representative District 4,,LIB,Charles Aldrich,22,15,7
+Buena Vista,LKHM,United States Representative District 4,,LIB,Charles Aldrich,7,4,3
+Buena Vista,NENP,United States Representative District 4,,LIB,Charles Aldrich,9,5,4
+Buena Vista,SMLR,United States Representative District 4,,LIB,Charles Aldrich,19,13,6
+Buena Vista,SL01,United States Representative District 4,,LIB,Charles Aldrich,6,3,3
+Buena Vista,SL02,United States Representative District 4,,LIB,Charles Aldrich,9,7,2
+Buena Vista,SL03,United States Representative District 4,,LIB,Charles Aldrich,10,5,5
+Buena Vista,SL04,United States Representative District 4,,LIB,Charles Aldrich,15,12,3
+Buena Vista,TRWG,United States Representative District 4,,LIB,Charles Aldrich,6,5,1
+Buena Vista,ACFC,United States Representative District 4,,,Edward Peterson,2,2,0
+Buena Vista,ALNE,United States Representative District 4,,,Edward Peterson,8,7,1
+Buena Vista,LKHM,United States Representative District 4,,,Edward Peterson,3,3,0
+Buena Vista,NENP,United States Representative District 4,,,Edward Peterson,5,5,0
+Buena Vista,SMLR,United States Representative District 4,,,Edward Peterson,7,5,2
+Buena Vista,SL01,United States Representative District 4,,,Edward Peterson,3,1,2
+Buena Vista,SL02,United States Representative District 4,,,Edward Peterson,7,5,2
+Buena Vista,SL03,United States Representative District 4,,,Edward Peterson,4,1,3
+Buena Vista,SL04,United States Representative District 4,,,Edward Peterson,2,1,1
+Buena Vista,TRWG,United States Representative District 4,,,Edward Peterson,2,1,1
+Buena Vista,ACFC,United States Representative District 4,,,Write-in,0,0,0
+Buena Vista,ALNE,United States Representative District 4,,,Write-in,3,3,0
+Buena Vista,LKHM,United States Representative District 4,,,Write-in,0,0,0
+Buena Vista,NENP,United States Representative District 4,,,Write-in,0,0,0
+Buena Vista,SMLR,United States Representative District 4,,,Write-in,0,0,0
+Buena Vista,SL01,United States Representative District 4,,,Write-in,0,0,0
+Buena Vista,SL02,United States Representative District 4,,,Write-in,0,0,0
+Buena Vista,SL03,United States Representative District 4,,,Write-in,0,0,0
+Buena Vista,SL04,United States Representative District 4,,,Write-in,0,0,0
+Buena Vista,TRWG,United States Representative District 4,,,Write-in,0,0,0
+Buena Vista,ACFC,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,326,244,82
+Buena Vista,ALNE,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,598,467,131
+Buena Vista,LKHM,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,392,241,151
+Buena Vista,NENP,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,415,300,115
+Buena Vista,SMLR,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,682,446,236
+Buena Vista,SL01,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,249,162,87
+Buena Vista,SL02,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,112,71,41
+Buena Vista,SL03,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,462,279,183
+Buena Vista,SL04,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,253,156,97
+Buena Vista,TRWG,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,282,186,96
+Buena Vista,ACFC,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,138,102,36
+Buena Vista,ALNE,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,331,245,86
+Buena Vista,LKHM,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,217,120,97
+Buena Vista,NENP,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,148,97,51
+Buena Vista,SMLR,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,287,189,98
+Buena Vista,SL01,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,353,191,162
+Buena Vista,SL02,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,221,124,97
+Buena Vista,SL03,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,401,225,176
+Buena Vista,SL04,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,424,235,189
+Buena Vista,TRWG,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,129,59,70
+Buena Vista,ACFC,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,9,7,2
+Buena Vista,ALNE,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,20,12,8
+Buena Vista,LKHM,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,1,1,0
+Buena Vista,NENP,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,8,7,1
+Buena Vista,SMLR,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,19,17,2
+Buena Vista,SL01,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,9,7,2
+Buena Vista,SL02,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,7,4,3
+Buena Vista,SL03,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,9,5,4
+Buena Vista,SL04,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,17,16,1
+Buena Vista,TRWG,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,2,1,1
+Buena Vista,ACFC,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,0,0,0
+Buena Vista,ALNE,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,6,6,0
+Buena Vista,LKHM,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,1,0,1
+Buena Vista,NENP,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,2,2,0
+Buena Vista,SMLR,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,8,7,1
+Buena Vista,SL01,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,6,4,2
+Buena Vista,SL02,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,8,4,4
+Buena Vista,SL03,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,6,2,4
+Buena Vista,SL04,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,6,2,4
+Buena Vista,TRWG,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,0,0,0
+Buena Vista,ACFC,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Buena Vista,ALNE,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Buena Vista,LKHM,Governor/Lieutenant Governor,,,Write-in,1,0,1
+Buena Vista,NENP,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Buena Vista,SMLR,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Buena Vista,SL01,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Buena Vista,SL02,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Buena Vista,SL03,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Buena Vista,SL04,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Buena Vista,TRWG,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Buena Vista,ACFC,Secretary of State,,REP,Paul D. Pate,334,254,80
+Buena Vista,ALNE,Secretary of State,,REP,Paul D. Pate,619,473,146
+Buena Vista,LKHM,Secretary of State,,REP,Paul D. Pate,425,253,172
+Buena Vista,NENP,Secretary of State,,REP,Paul D. Pate,429,306,123
+Buena Vista,SMLR,Secretary of State,,REP,Paul D. Pate,706,460,246
+Buena Vista,SL01,Secretary of State,,REP,Paul D. Pate,263,177,86
+Buena Vista,SL02,Secretary of State,,REP,Paul D. Pate,117,68,49
+Buena Vista,SL03,Secretary of State,,REP,Paul D. Pate,511,317,194
+Buena Vista,SL04,Secretary of State,,REP,Paul D. Pate,279,173,106
+Buena Vista,TRWG,Secretary of State,,REP,Paul D. Pate,280,179,101
+Buena Vista,ACFC,Secretary of State,,DEM,Deidre DeJear,105,73,32
+Buena Vista,ALNE,Secretary of State,,DEM,Deidre DeJear,284,214,70
+Buena Vista,LKHM,Secretary of State,,DEM,Deidre DeJear,159,91,68
+Buena Vista,NENP,Secretary of State,,DEM,Deidre DeJear,108,75,33
+Buena Vista,SMLR,Secretary of State,,DEM,Deidre DeJear,236,154,82
+Buena Vista,SL01,Secretary of State,,DEM,Deidre DeJear,327,168,159
+Buena Vista,SL02,Secretary of State,,DEM,Deidre DeJear,203,117,86
+Buena Vista,SL03,Secretary of State,,DEM,Deidre DeJear,315,166,149
+Buena Vista,SL04,Secretary of State,,DEM,Deidre DeJear,375,201,174
+Buena Vista,TRWG,Secretary of State,,DEM,Deidre DeJear,109,53,56
+Buena Vista,ACFC,Secretary of State,,LIB,Jules Ofenbakh,14,11,3
+Buena Vista,ALNE,Secretary of State,,LIB,Jules Ofenbakh,18,15,3
+Buena Vista,LKHM,Secretary of State,,LIB,Jules Ofenbakh,6,5,1
+Buena Vista,NENP,Secretary of State,,LIB,Jules Ofenbakh,12,9,3
+Buena Vista,SMLR,Secretary of State,,LIB,Jules Ofenbakh,21,18,3
+Buena Vista,SL01,Secretary of State,,LIB,Jules Ofenbakh,15,9,6
+Buena Vista,SL02,Secretary of State,,LIB,Jules Ofenbakh,7,5,2
+Buena Vista,SL03,Secretary of State,,LIB,Jules Ofenbakh,21,11,10
+Buena Vista,SL04,Secretary of State,,LIB,Jules Ofenbakh,22,19,3
+Buena Vista,TRWG,Secretary of State,,LIB,Jules Ofenbakh,5,4,1
+Buena Vista,ACFC,Secretary of State,,,Write-in,0,0,0
+Buena Vista,ALNE,Secretary of State,,,Write-in,0,0,0
+Buena Vista,LKHM,Secretary of State,,,Write-in,0,0,0
+Buena Vista,NENP,Secretary of State,,,Write-in,1,1,0
+Buena Vista,SMLR,Secretary of State,,,Write-in,1,1,0
+Buena Vista,SL01,Secretary of State,,,Write-in,0,0,0
+Buena Vista,SL02,Secretary of State,,,Write-in,0,0,0
+Buena Vista,SL03,Secretary of State,,,Write-in,0,0,0
+Buena Vista,SL04,Secretary of State,,,Write-in,1,1,0
+Buena Vista,TRWG,Secretary of State,,,Write-in,0,0,0
+Buena Vista,ACFC,Auditor of State,,REP,Mary Mosiman,272,201,71
+Buena Vista,ALNE,Auditor of State,,REP,Mary Mosiman,475,365,110
+Buena Vista,LKHM,Auditor of State,,REP,Mary Mosiman,308,192,116
+Buena Vista,NENP,Auditor of State,,REP,Mary Mosiman,361,259,102
+Buena Vista,SMLR,Auditor of State,,REP,Mary Mosiman,583,386,197
+Buena Vista,SL01,Auditor of State,,REP,Mary Mosiman,203,137,66
+Buena Vista,SL02,Auditor of State,,REP,Mary Mosiman,97,62,35
+Buena Vista,SL03,Auditor of State,,REP,Mary Mosiman,420,264,156
+Buena Vista,SL04,Auditor of State,,REP,Mary Mosiman,241,152,89
+Buena Vista,TRWG,Auditor of State,,REP,Mary Mosiman,236,159,77
+Buena Vista,ACFC,Auditor of State,,DEM,Rob Sand,174,132,42
+Buena Vista,ALNE,Auditor of State,,DEM,Rob Sand,425,318,107
+Buena Vista,LKHM,Auditor of State,,DEM,Rob Sand,268,147,121
+Buena Vista,NENP,Auditor of State,,DEM,Rob Sand,179,122,57
+Buena Vista,SMLR,Auditor of State,,DEM,Rob Sand,360,229,131
+Buena Vista,SL01,Auditor of State,,DEM,Rob Sand,391,209,182
+Buena Vista,SL02,Auditor of State,,DEM,Rob Sand,223,122,101
+Buena Vista,SL03,Auditor of State,,DEM,Rob Sand,412,220,192
+Buena Vista,SL04,Auditor of State,,DEM,Rob Sand,416,222,194
+Buena Vista,TRWG,Auditor of State,,DEM,Rob Sand,152,71,81
+Buena Vista,ACFC,Auditor of State,,LIB,Fred Perryman,9,8,1
+Buena Vista,ALNE,Auditor of State,,LIB,Fred Perryman,20,17,3
+Buena Vista,LKHM,Auditor of State,,LIB,Fred Perryman,10,7,3
+Buena Vista,NENP,Auditor of State,,LIB,Fred Perryman,15,12,3
+Buena Vista,SMLR,Auditor of State,,LIB,Fred Perryman,15,11,4
+Buena Vista,SL01,Auditor of State,,LIB,Fred Perryman,12,7,5
+Buena Vista,SL02,Auditor of State,,LIB,Fred Perryman,10,6,4
+Buena Vista,SL03,Auditor of State,,LIB,Fred Perryman,21,13,8
+Buena Vista,SL04,Auditor of State,,LIB,Fred Perryman,20,19,1
+Buena Vista,TRWG,Auditor of State,,LIB,Fred Perryman,8,7,1
+Buena Vista,ACFC,Auditor of State,,,Write-in,0,0,0
+Buena Vista,ALNE,Auditor of State,,,Write-in,0,0,0
+Buena Vista,LKHM,Auditor of State,,,Write-in,0,0,0
+Buena Vista,NENP,Auditor of State,,,Write-in,1,1,0
+Buena Vista,SMLR,Auditor of State,,,Write-in,0,0,0
+Buena Vista,SL01,Auditor of State,,,Write-in,0,0,0
+Buena Vista,SL02,Auditor of State,,,Write-in,0,0,0
+Buena Vista,SL03,Auditor of State,,,Write-in,0,0,0
+Buena Vista,SL04,Auditor of State,,,Write-in,0,0,0
+Buena Vista,TRWG,Auditor of State,,,Write-in,0,0,0
+Buena Vista,ACFC,Treasurer of State,,REP,Jeremy N. Davis,264,200,64
+Buena Vista,ALNE,Treasurer of State,,REP,Jeremy N. Davis,487,377,110
+Buena Vista,LKHM,Treasurer of State,,REP,Jeremy N. Davis,296,173,123
+Buena Vista,NENP,Treasurer of State,,REP,Jeremy N. Davis,328,233,95
+Buena Vista,SMLR,Treasurer of State,,REP,Jeremy N. Davis,557,368,189
+Buena Vista,SL01,Treasurer of State,,REP,Jeremy N. Davis,197,131,66
+Buena Vista,SL02,Treasurer of State,,REP,Jeremy N. Davis,94,57,37
+Buena Vista,SL03,Treasurer of State,,REP,Jeremy N. Davis,373,235,138
+Buena Vista,SL04,Treasurer of State,,REP,Jeremy N. Davis,219,131,88
+Buena Vista,TRWG,Treasurer of State,,REP,Jeremy N. Davis,218,150,68
+Buena Vista,ACFC,Treasurer of State,,DEM,Michael L. Fitzgerald,178,131,47
+Buena Vista,ALNE,Treasurer of State,,DEM,Michael L. Fitzgerald,398,296,102
+Buena Vista,LKHM,Treasurer of State,,DEM,Michael L. Fitzgerald,276,164,112
+Buena Vista,NENP,Treasurer of State,,DEM,Michael L. Fitzgerald,208,147,61
+Buena Vista,SMLR,Treasurer of State,,DEM,Michael L. Fitzgerald,376,242,134
+Buena Vista,SL01,Treasurer of State,,DEM,Michael L. Fitzgerald,395,215,180
+Buena Vista,SL02,Treasurer of State,,DEM,Michael L. Fitzgerald,226,126,100
+Buena Vista,SL03,Treasurer of State,,DEM,Michael L. Fitzgerald,473,258,215
+Buena Vista,SL04,Treasurer of State,,DEM,Michael L. Fitzgerald,436,249,187
+Buena Vista,TRWG,Treasurer of State,,DEM,Michael L. Fitzgerald,174,80,94
+Buena Vista,ACFC,Treasurer of State,,LIB,Timothy Hird,15,11,4
+Buena Vista,ALNE,Treasurer of State,,LIB,Timothy Hird,23,17,6
+Buena Vista,LKHM,Treasurer of State,,LIB,Timothy Hird,13,11,2
+Buena Vista,NENP,Treasurer of State,,LIB,Timothy Hird,16,15,1
+Buena Vista,SMLR,Treasurer of State,,LIB,Timothy Hird,24,20,4
+Buena Vista,SL01,Treasurer of State,,LIB,Timothy Hird,14,10,4
+Buena Vista,SL02,Treasurer of State,,LIB,Timothy Hird,9,6,3
+Buena Vista,SL03,Treasurer of State,,LIB,Timothy Hird,12,6,6
+Buena Vista,SL04,Treasurer of State,,LIB,Timothy Hird,21,14,7
+Buena Vista,TRWG,Treasurer of State,,LIB,Timothy Hird,7,6,1
+Buena Vista,ACFC,Treasurer of State,,,Write-in,0,0,0
+Buena Vista,ALNE,Treasurer of State,,,Write-in,0,0,0
+Buena Vista,LKHM,Treasurer of State,,,Write-in,0,0,0
+Buena Vista,NENP,Treasurer of State,,,Write-in,0,0,0
+Buena Vista,SMLR,Treasurer of State,,,Write-in,1,1,0
+Buena Vista,SL01,Treasurer of State,,,Write-in,0,0,0
+Buena Vista,SL02,Treasurer of State,,,Write-in,0,0,0
+Buena Vista,SL03,Treasurer of State,,,Write-in,0,0,0
+Buena Vista,SL04,Treasurer of State,,,Write-in,0,0,0
+Buena Vista,TRWG,Treasurer of State,,,Write-in,0,0,0
+Buena Vista,ACFC,Secretary of Agriculture,,REP,Mike Naig,334,254,80
+Buena Vista,ALNE,Secretary of Agriculture,,REP,Mike Naig,618,481,137
+Buena Vista,LKHM,Secretary of Agriculture,,REP,Mike Naig,429,265,164
+Buena Vista,NENP,Secretary of Agriculture,,REP,Mike Naig,429,308,121
+Buena Vista,SMLR,Secretary of Agriculture,,REP,Mike Naig,726,475,251
+Buena Vista,SL01,Secretary of Agriculture,,REP,Mike Naig,253,174,79
+Buena Vista,SL02,Secretary of Agriculture,,REP,Mike Naig,119,77,42
+Buena Vista,SL03,Secretary of Agriculture,,REP,Mike Naig,532,326,206
+Buena Vista,SL04,Secretary of Agriculture,,REP,Mike Naig,286,169,117
+Buena Vista,TRWG,Secretary of Agriculture,,REP,Mike Naig,291,188,103
+Buena Vista,ACFC,Secretary of Agriculture,,DEM,Tim Gannon,105,71,34
+Buena Vista,ALNE,Secretary of Agriculture,,DEM,Tim Gannon,267,196,71
+Buena Vista,LKHM,Secretary of Agriculture,,DEM,Tim Gannon,159,86,73
+Buena Vista,NENP,Secretary of Agriculture,,DEM,Tim Gannon,111,77,34
+Buena Vista,SMLR,Secretary of Agriculture,,DEM,Tim Gannon,231,150,81
+Buena Vista,SL01,Secretary of Agriculture,,DEM,Tim Gannon,331,174,157
+Buena Vista,SL02,Secretary of Agriculture,,DEM,Tim Gannon,196,105,91
+Buena Vista,SL03,Secretary of Agriculture,,DEM,Tim Gannon,314,170,144
+Buena Vista,SL04,Secretary of Agriculture,,DEM,Tim Gannon,359,201,158
+Buena Vista,TRWG,Secretary of Agriculture,,DEM,Tim Gannon,107,48,59
+Buena Vista,ACFC,Secretary of Agriculture,,LIB,Rick Stewart,21,17,4
+Buena Vista,ALNE,Secretary of Agriculture,,LIB,Rick Stewart,31,24,7
+Buena Vista,LKHM,Secretary of Agriculture,,LIB,Rick Stewart,10,7,3
+Buena Vista,NENP,Secretary of Agriculture,,LIB,Rick Stewart,15,12,3
+Buena Vista,SMLR,Secretary of Agriculture,,LIB,Rick Stewart,18,17,1
+Buena Vista,SL01,Secretary of Agriculture,,LIB,Rick Stewart,11,6,5
+Buena Vista,SL02,Secretary of Agriculture,,LIB,Rick Stewart,12,8,4
+Buena Vista,SL03,Secretary of Agriculture,,LIB,Rick Stewart,14,5,9
+Buena Vista,SL04,Secretary of Agriculture,,LIB,Rick Stewart,28,22,6
+Buena Vista,TRWG,Secretary of Agriculture,,LIB,Rick Stewart,7,6,1
+Buena Vista,ACFC,Secretary of Agriculture,,,Write-in,0,0,0
+Buena Vista,ALNE,Secretary of Agriculture,,,Write-in,0,0,0
+Buena Vista,LKHM,Secretary of Agriculture,,,Write-in,0,0,0
+Buena Vista,NENP,Secretary of Agriculture,,,Write-in,0,0,0
+Buena Vista,SMLR,Secretary of Agriculture,,,Write-in,0,0,0
+Buena Vista,SL01,Secretary of Agriculture,,,Write-in,0,0,0
+Buena Vista,SL02,Secretary of Agriculture,,,Write-in,0,0,0
+Buena Vista,SL03,Secretary of Agriculture,,,Write-in,0,0,0
+Buena Vista,SL04,Secretary of Agriculture,,,Write-in,0,0,0
+Buena Vista,TRWG,Secretary of Agriculture,,,Write-in,0,0,0
+Buena Vista,ACFC,Attorney General,,DEM,Tom Miller,289,217,72
+Buena Vista,ALNE,Attorney General,,DEM,Tom Miller,600,446,154
+Buena Vista,LKHM,Attorney General,,DEM,Tom Miller,393,234,159
+Buena Vista,NENP,Attorney General,,DEM,Tom Miller,333,242,91
+Buena Vista,SMLR,Attorney General,,DEM,Tom Miller,599,392,207
+Buena Vista,SL01,Attorney General,,DEM,Tom Miller,490,284,206
+Buena Vista,SL02,Attorney General,,DEM,Tom Miller,264,149,115
+Buena Vista,SL03,Attorney General,,DEM,Tom Miller,636,372,264
+Buena Vista,SL04,Attorney General,,DEM,Tom Miller,520,303,217
+Buena Vista,TRWG,Attorney General,,DEM,Tom Miller,265,135,130
+Buena Vista,ACFC,Attorney General,,LIB,Marco Battaglia,80,62,18
+Buena Vista,ALNE,Attorney General,,LIB,Marco Battaglia,135,105,30
+Buena Vista,LKHM,Attorney General,,LIB,Marco Battaglia,86,56,30
+Buena Vista,NENP,Attorney General,,LIB,Marco Battaglia,99,72,27
+Buena Vista,SMLR,Attorney General,,LIB,Marco Battaglia,148,108,40
+Buena Vista,SL01,Attorney General,,LIB,Marco Battaglia,72,45,27
+Buena Vista,SL02,Attorney General,,LIB,Marco Battaglia,36,26,10
+Buena Vista,SL03,Attorney General,,LIB,Marco Battaglia,104,64,40
+Buena Vista,SL04,Attorney General,,LIB,Marco Battaglia,81,49,32
+Buena Vista,TRWG,Attorney General,,LIB,Marco Battaglia,57,43,14
+Buena Vista,ACFC,Attorney General,,,Write-in,6,5,1
+Buena Vista,ALNE,Attorney General,,,Write-in,4,4,0
+Buena Vista,LKHM,Attorney General,,,Write-in,0,0,0
+Buena Vista,NENP,Attorney General,,,Write-in,4,3,1
+Buena Vista,SMLR,Attorney General,,,Write-in,3,3,0
+Buena Vista,SL01,Attorney General,,,Write-in,1,1,0
+Buena Vista,SL02,Attorney General,,,Write-in,3,1,2
+Buena Vista,SL03,Attorney General,,,Write-in,1,0,1
+Buena Vista,SL04,Attorney General,,,Write-in,2,1,1
+Buena Vista,TRWG,Attorney General,,,Write-in,0,0,0
+Buena Vista,ACFC,State Representative District 11,,REP,Gary Worthan,386,294,92
+Buena Vista,ALNE,State Representative District 11,,REP,Gary Worthan,740,571,169
+Buena Vista,LKHM,State Representative District 11,,REP,Gary Worthan,470,293,177
+Buena Vista,NENP,State Representative District 11,,REP,Gary Worthan,496,353,143
+Buena Vista,SMLR,State Representative District 11,,REP,Gary Worthan,825,554,271
+Buena Vista,SL01,State Representative District 11,,REP,Gary Worthan,372,249,123
+Buena Vista,SL02,State Representative District 11,,REP,Gary Worthan,195,126,69
+Buena Vista,SL03,State Representative District 11,,REP,Gary Worthan,652,408,244
+Buena Vista,SL04,State Representative District 11,,REP,Gary Worthan,437,272,165
+Buena Vista,TRWG,State Representative District 11,,REP,Gary Worthan,326,208,118
+Buena Vista,ACFC,State Representative District 11,,,Write-in,7,5,2
+Buena Vista,ALNE,State Representative District 11,,,Write-in,19,17,2
+Buena Vista,LKHM,State Representative District 11,,,Write-in,16,10,6
+Buena Vista,NENP,State Representative District 11,,,Write-in,5,3,2
+Buena Vista,SMLR,State Representative District 11,,,Write-in,16,9,7
+Buena Vista,SL01,State Representative District 11,,,Write-in,13,7,6
+Buena Vista,SL02,State Representative District 11,,,Write-in,10,2,8
+Buena Vista,SL03,State Representative District 11,,,Write-in,16,9,7
+Buena Vista,SL04,State Representative District 11,,,Write-in,22,12,10
+Buena Vista,TRWG,State Representative District 11,,,Write-in,10,5,5
+Buena Vista,ACFC,County Supervisor Dist 1,,REP,Tom Huseman,373,279,94
+Buena Vista,ALNE,County Supervisor Dist 1,,REP,Tom Huseman,797,613,184
+Buena Vista,LKHM,County Supervisor Dist 1,,REP,Tom Huseman,487,304,183
+Buena Vista,NENP,County Supervisor Dist 1,,REP,Tom Huseman,472,334,138
+Buena Vista,SMLR,County Supervisor Dist 1,,REP,Tom Huseman,817,539,278
+Buena Vista,SL01,County Supervisor Dist 1,,REP,Tom Huseman,374,242,132
+Buena Vista,SL02,County Supervisor Dist 1,,REP,Tom Huseman,198,126,72
+Buena Vista,SL03,County Supervisor Dist 1,,REP,Tom Huseman,673,405,268
+Buena Vista,SL04,County Supervisor Dist 1,,REP,Tom Huseman,449,277,172
+Buena Vista,TRWG,County Supervisor Dist 1,,REP,Tom Huseman,345,213,132
+Buena Vista,ACFC,County Supervisor Dist 1,,,Write-in,5,4,1
+Buena Vista,ALNE,County Supervisor Dist 1,,,Write-in,14,12,2
+Buena Vista,LKHM,County Supervisor Dist 1,,,Write-in,4,2,2
+Buena Vista,NENP,County Supervisor Dist 1,,,Write-in,2,0,2
+Buena Vista,SMLR,County Supervisor Dist 1,,,Write-in,9,8,1
+Buena Vista,SL01,County Supervisor Dist 1,,,Write-in,10,8,2
+Buena Vista,SL02,County Supervisor Dist 1,,,Write-in,10,4,6
+Buena Vista,SL03,County Supervisor Dist 1,,,Write-in,11,7,4
+Buena Vista,SL04,County Supervisor Dist 1,,,Write-in,8,4,4
+Buena Vista,TRWG,County Supervisor Dist 1,,,Write-in,5,4,1
+Buena Vista,ACFC,County Supervisor Dist 2,,REP,Kelly Snyder,340,270,70
+Buena Vista,ALNE,County Supervisor Dist 2,,REP,Kelly Snyder,505,394,111
+Buena Vista,LKHM,County Supervisor Dist 2,,REP,Kelly Snyder,342,210,132
+Buena Vista,NENP,County Supervisor Dist 2,,REP,Kelly Snyder,279,200,79
+Buena Vista,SMLR,County Supervisor Dist 2,,REP,Kelly Snyder,730,488,242
+Buena Vista,SL01,County Supervisor Dist 2,,REP,Kelly Snyder,209,137,72
+Buena Vista,SL02,County Supervisor Dist 2,,REP,Kelly Snyder,97,59,38
+Buena Vista,SL03,County Supervisor Dist 2,,REP,Kelly Snyder,425,256,169
+Buena Vista,SL04,County Supervisor Dist 2,,REP,Kelly Snyder,228,147,81
+Buena Vista,TRWG,County Supervisor Dist 2,,REP,Kelly Snyder,241,163,78
+Buena Vista,ACFC,County Supervisor Dist 2,,DEM,Steven J. O'Bannon,65,39,26
+Buena Vista,ALNE,County Supervisor Dist 2,,DEM,Steven J. O'Bannon,303,220,83
+Buena Vista,LKHM,County Supervisor Dist 2,,DEM,Steven J. O'Bannon,161,91,70
+Buena Vista,NENP,County Supervisor Dist 2,,DEM,Steven J. O'Bannon,95,66,29
+Buena Vista,SMLR,County Supervisor Dist 2,,DEM,Steven J. O'Bannon,180,115,65
+Buena Vista,SL01,County Supervisor Dist 2,,DEM,Steven J. O'Bannon,349,187,162
+Buena Vista,SL02,County Supervisor Dist 2,,DEM,Steven J. O'Bannon,212,117,95
+Buena Vista,SL03,County Supervisor Dist 2,,DEM,Steven J. O'Bannon,334,179,155
+Buena Vista,SL04,County Supervisor Dist 2,,DEM,Steven J. O'Bannon,393,211,182
+Buena Vista,TRWG,County Supervisor Dist 2,,DEM,Steven J. O'Bannon,102,44,58
+Buena Vista,ACFC,County Supervisor Dist 2,,,Dale R. Arends,56,40,16
+Buena Vista,ALNE,County Supervisor Dist 2,,,Dale R. Arends,109,87,22
+Buena Vista,LKHM,County Supervisor Dist 2,,,Dale R. Arends,92,55,37
+Buena Vista,NENP,County Supervisor Dist 2,,,Dale R. Arends,186,131,55
+Buena Vista,SMLR,County Supervisor Dist 2,,,Dale R. Arends,62,38,24
+Buena Vista,SL01,County Supervisor Dist 2,,,Dale R. Arends,38,29,9
+Buena Vista,SL02,County Supervisor Dist 2,,,Dale R. Arends,14,7,7
+Buena Vista,SL03,County Supervisor Dist 2,,,Dale R. Arends,84,49,35
+Buena Vista,SL04,County Supervisor Dist 2,,,Dale R. Arends,45,29,16
+Buena Vista,TRWG,County Supervisor Dist 2,,,Dale R. Arends,51,32,19
+Buena Vista,ACFC,County Supervisor Dist 2,,,Write-in,0,0,0
+Buena Vista,ALNE,County Supervisor Dist 2,,,Write-in,2,0,2
+Buena Vista,LKHM,County Supervisor Dist 2,,,Write-in,0,0,0
+Buena Vista,NENP,County Supervisor Dist 2,,,Write-in,1,1,0
+Buena Vista,SMLR,County Supervisor Dist 2,,,Write-in,0,0,0
+Buena Vista,SL01,County Supervisor Dist 2,,,Write-in,0,0,0
+Buena Vista,SL02,County Supervisor Dist 2,,,Write-in,0,0,0
+Buena Vista,SL03,County Supervisor Dist 2,,,Write-in,0,0,0
+Buena Vista,SL04,County Supervisor Dist 2,,,Write-in,0,0,0
+Buena Vista,TRWG,County Supervisor Dist 2,,,Write-in,0,0,0
+Buena Vista,ACFC,County Supervisor Dist 3,,DEM,Paul Merten,319,237,82
+Buena Vista,ALNE,County Supervisor Dist 3,,DEM,Paul Merten,652,496,156
+Buena Vista,LKHM,County Supervisor Dist 3,,DEM,Paul Merten,448,282,166
+Buena Vista,NENP,County Supervisor Dist 3,,DEM,Paul Merten,397,276,121
+Buena Vista,SMLR,County Supervisor Dist 3,,DEM,Paul Merten,611,393,218
+Buena Vista,SL01,County Supervisor Dist 3,,DEM,Paul Merten,487,285,202
+Buena Vista,SL02,County Supervisor Dist 3,,DEM,Paul Merten,268,155,113
+Buena Vista,SL03,County Supervisor Dist 3,,DEM,Paul Merten,654,375,279
+Buena Vista,SL04,County Supervisor Dist 3,,DEM,Paul Merten,534,314,220
+Buena Vista,TRWG,County Supervisor Dist 3,,DEM,Paul Merten,312,178,134
+Buena Vista,ACFC,County Supervisor Dist 3,,,Write-in,5,4,1
+Buena Vista,ALNE,County Supervisor Dist 3,,,Write-in,9,6,3
+Buena Vista,LKHM,County Supervisor Dist 3,,,Write-in,2,2,0
+Buena Vista,NENP,County Supervisor Dist 3,,,Write-in,3,2,1
+Buena Vista,SMLR,County Supervisor Dist 3,,,Write-in,13,10,3
+Buena Vista,SL01,County Supervisor Dist 3,,,Write-in,2,1,1
+Buena Vista,SL02,County Supervisor Dist 3,,,Write-in,4,1,3
+Buena Vista,SL03,County Supervisor Dist 3,,,Write-in,9,5,4
+Buena Vista,SL04,County Supervisor Dist 3,,,Write-in,5,3,2
+Buena Vista,TRWG,County Supervisor Dist 3,,,Write-in,3,3,0
+Buena Vista,ACFC,County Treasurer,,REP,Sherie Elbert,402,306,96
+Buena Vista,ALNE,County Treasurer,,REP,Sherie Elbert,741,574,167
+Buena Vista,LKHM,County Treasurer,,REP,Sherie Elbert,490,304,186
+Buena Vista,NENP,County Treasurer,,REP,Sherie Elbert,483,344,139
+Buena Vista,SMLR,County Treasurer,,REP,Sherie Elbert,850,564,286
+Buena Vista,SL01,County Treasurer,,REP,Sherie Elbert,383,247,136
+Buena Vista,SL02,County Treasurer,,REP,Sherie Elbert,191,122,69
+Buena Vista,SL03,County Treasurer,,REP,Sherie Elbert,667,399,268
+Buena Vista,SL04,County Treasurer,,REP,Sherie Elbert,450,281,169
+Buena Vista,TRWG,County Treasurer,,REP,Sherie Elbert,336,211,125
+Buena Vista,ACFC,County Treasurer,,,Write-in,2,2,0
+Buena Vista,ALNE,County Treasurer,,,Write-in,6,4,2
+Buena Vista,LKHM,County Treasurer,,,Write-in,3,2,1
+Buena Vista,NENP,County Treasurer,,,Write-in,2,1,1
+Buena Vista,SMLR,County Treasurer,,,Write-in,6,6,0
+Buena Vista,SL01,County Treasurer,,,Write-in,8,7,1
+Buena Vista,SL02,County Treasurer,,,Write-in,7,3,4
+Buena Vista,SL03,County Treasurer,,,Write-in,7,3,4
+Buena Vista,SL04,County Treasurer,,,Write-in,12,7,5
+Buena Vista,TRWG,County Treasurer,,,Write-in,4,2,2
+Buena Vista,ACFC,County Recorder,,DEM,Shari L. O'Bannon,328,249,79
+Buena Vista,ALNE,County Recorder,,DEM,Shari L. O'Bannon,676,522,154
+Buena Vista,LKHM,County Recorder,,DEM,Shari L. O'Bannon,459,281,178
+Buena Vista,NENP,County Recorder,,DEM,Shari L. O'Bannon,377,273,104
+Buena Vista,SMLR,County Recorder,,DEM,Shari L. O'Bannon,686,451,235
+Buena Vista,SL01,County Recorder,,DEM,Shari L. O'Bannon,513,303,210
+Buena Vista,SL02,County Recorder,,DEM,Shari L. O'Bannon,272,159,113
+Buena Vista,SL03,County Recorder,,DEM,Shari L. O'Bannon,688,392,296
+Buena Vista,SL04,County Recorder,,DEM,Shari L. O'Bannon,559,326,233
+Buena Vista,TRWG,County Recorder,,DEM,Shari L. O'Bannon,305,171,134
+Buena Vista,ACFC,County Recorder,,,Write-in,5,3,2
+Buena Vista,ALNE,County Recorder,,,Write-in,4,3,1
+Buena Vista,LKHM,County Recorder,,,Write-in,2,2,0
+Buena Vista,NENP,County Recorder,,,Write-in,7,6,1
+Buena Vista,SMLR,County Recorder,,,Write-in,7,6,1
+Buena Vista,SL01,County Recorder,,,Write-in,1,0,1
+Buena Vista,SL02,County Recorder,,,Write-in,1,0,1
+Buena Vista,SL03,County Recorder,,,Write-in,3,3,0
+Buena Vista,SL04,County Recorder,,,Write-in,3,3,0
+Buena Vista,TRWG,County Recorder,,,Write-in,2,2,0
+Buena Vista,ACFC,County Attorney,,REP,Paul Allen,378,285,93
+Buena Vista,ALNE,County Attorney,,REP,Paul Allen,718,551,167
+Buena Vista,LKHM,County Attorney,,REP,Paul Allen,466,287,179
+Buena Vista,NENP,County Attorney,,REP,Paul Allen,448,317,131
+Buena Vista,SMLR,County Attorney,,REP,Paul Allen,790,525,265
+Buena Vista,SL01,County Attorney,,REP,Paul Allen,377,243,134
+Buena Vista,SL02,County Attorney,,REP,Paul Allen,187,119,68
+Buena Vista,SL03,County Attorney,,REP,Paul Allen,637,390,247
+Buena Vista,SL04,County Attorney,,REP,Paul Allen,455,280,175
+Buena Vista,TRWG,County Attorney,,REP,Paul Allen,316,192,124
+Buena Vista,ACFC,County Attorney,,,Write-in,2,1,1
+Buena Vista,ALNE,County Attorney,,,Write-in,7,5,2
+Buena Vista,LKHM,County Attorney,,,Write-in,5,4,1
+Buena Vista,NENP,County Attorney,,,Write-in,0,0,0
+Buena Vista,SMLR,County Attorney,,,Write-in,5,4,1
+Buena Vista,SL01,County Attorney,,,Write-in,6,5,1
+Buena Vista,SL02,County Attorney,,,Write-in,6,2,4
+Buena Vista,SL03,County Attorney,,,Write-in,8,4,4
+Buena Vista,SL04,County Attorney,,,Write-in,11,7,4
+Buena Vista,TRWG,County Attorney,,,Write-in,3,2,1
+Buena Vista,SMLR,Barnes Township Trustee,,,Ralph Warkentin,83,54,29
+Buena Vista,SMLR,Barnes Township Trustee,,,Write-in,0,0,0
+Buena Vista,SMLR,Barnes Township Clerk,,,Bernard Nelson,9,7,2
+Buena Vista,SMLR,Barnes Township Clerk,,,Write-in,0,0,0
+Buena Vista,SMLR,Brooke Township Trustee,,,Bernard Nelson,1,0,1
+Buena Vista,SMLR,Brooke Township Trustee,,,Karl Laursen,3,3,0
+Buena Vista,SMLR,Brooke Township Trustee,,,Gary Brees,2,1,1
+Buena Vista,SMLR,Brooke Township Trustee,,,Sallie Fitzpatrick,1,1,0
+Buena Vista,SMLR,Brooke Township Trustee,,,Shelly Rock,1,1,0
+Buena Vista,SMLR,Brooke Township Trustee,,,Write-in,0,0,0
+Buena Vista,SMLR,Brooke Township Clerk,,,Jason Fastenow,3,3,0
+Buena Vista,SMLR,Brooke Township Clerk,,,John Fitzpatrick,1,1,0
+Buena Vista,SMLR,Brooke Township Clerk,,,"Robert Donahoo, Jr.",2,1,1
+Buena Vista,SMLR,Brooke Township Clerk,,,Shelly Rock,1,1,0
+Buena Vista,SMLR,Brooke Township Clerk,,,Write-in,0,0,0
+Buena Vista,ACFC,Coon Township Trustee,,,Matthew McCarthy,81,60,21
+Buena Vista,ACFC,Coon Township Trustee,,,Trent Sievers,0,0,0
+Buena Vista,ACFC,Coon Township Trustee,,,Write-in,2,2,0
+Buena Vista,ACFC,Coon Township Clerk,,,Randall Richter,81,60,21
+Buena Vista,ACFC,Coon Township Clerk,,,Write-in,1,1,0
+Buena Vista,ALNE,Elk Township Trustee,,,Kel Anderson,84,60,24
+Buena Vista,ALNE,Elk Township Trustee,,,Write-in,0,0,0
+Buena Vista,ALNE,Elk Township Clerk,,,Linda Mattson,75,55,20
+Buena Vista,ALNE,Elk Township Clerk,,,Write-in,0,0,0
+Buena Vista,ACFC,Fairfield Township Trustee,,,David Balder,1,0,1
+Buena Vista,ACFC,Fairfield Township Trustee,,,James Roberts,2,2,0
+Buena Vista,ACFC,Fairfield Township Trustee,,,Kevin Buse,1,0,1
+Buena Vista,ACFC,Fairfield Township Trustee,,,Lloyd Danielson,2,2,0
+Buena Vista,ACFC,Fairfield Township Trustee,,,Shane Carway,1,1,0
+Buena Vista,ACFC,Fairfield Township Trustee,,,Write-in,0,0,0
+Buena Vista,ACFC,Fairfield Township Clerk,,,James Roberts,3,3,0
+Buena Vista,ACFC,Fairfield Township Clerk,,,Paula Balder,1,0,1
+Buena Vista,ACFC,Fairfield Township Clerk,,,Write-in,0,0,0
+Buena Vista,TRWG,Grant Township Trustee,,,Larry Lucht,95,65,30
+Buena Vista,TRWG,Grant Township Trustee,,,Blank,0,0,0
+Buena Vista,TRWG,Grant Township Trustee,,,Dave Demers,0,0,0
+Buena Vista,TRWG,Grant Township Trustee,,,Wade Nehring,0,0,0
+Buena Vista,TRWG,Grant Township Trustee,,,Write-in,4,0,4
+Buena Vista,TRWG,Grant Township Clerk,,,Jean Miller,107,68,39
+Buena Vista,TRWG,Grant Township Clerk,,,Write-in,0,0,0
+Buena Vista,LKHM,Hayes Township Trustee,,,Doug Imming,199,108,91
+Buena Vista,SL01,Hayes Township Trustee,,,Doug Imming,23,6,17
+Buena Vista,SL03,Hayes Township Trustee,,,Doug Imming,21,16,5
+Buena Vista,TRWG,Hayes Township Trustee,,,Doug Imming,2,0,2
+Buena Vista,LKHM,Hayes Township Trustee,,,Blank,0,0,0
+Buena Vista,SL01,Hayes Township Trustee,,,Blank,0,0,0
+Buena Vista,SL03,Hayes Township Trustee,,,Blank,0,0,0
+Buena Vista,TRWG,Hayes Township Trustee,,,Blank,0,0,0
+Buena Vista,LKHM,Hayes Township Trustee,,,Write-in,0,0,0
+Buena Vista,SL01,Hayes Township Trustee,,,Write-in,0,0,0
+Buena Vista,SL03,Hayes Township Trustee,,,Write-in,1,1,0
+Buena Vista,TRWG,Hayes Township Trustee,,,Write-in,0,0,0
+Buena Vista,LKHM,Hayes Township Clerk,,,Richard Rice,180,102,78
+Buena Vista,SL01,Hayes Township Clerk,,,Richard Rice,18,5,13
+Buena Vista,SL03,Hayes Township Clerk,,,Richard Rice,18,13,5
+Buena Vista,TRWG,Hayes Township Clerk,,,Richard Rice,2,0,2
+Buena Vista,LKHM,Hayes Township Clerk,,,Write-in,0,0,0
+Buena Vista,SL01,Hayes Township Clerk,,,Write-in,0,0,0
+Buena Vista,SL03,Hayes Township Clerk,,,Write-in,0,0,0
+Buena Vista,TRWG,Hayes Township Clerk,,,Write-in,0,0,0
+Buena Vista,SMLR,Lee Township Trustee,,,Arden Kuene,1,1,0
+Buena Vista,SMLR,Lee Township Trustee,,,Ben Holleson,1,1,0
+Buena Vista,SMLR,Lee Township Trustee,,,Blank,2,2,0
+Buena Vista,SMLR,Lee Township Trustee,,,Brad Hermstad,1,1,0
+Buena Vista,SMLR,Lee Township Trustee,,,Brian Ahrendsen,1,0,1
+Buena Vista,SMLR,Lee Township Trustee,,,Chris Hoffman,2,0,2
+Buena Vista,SMLR,Lee Township Trustee,,,Doyle Anderson,1,1,0
+Buena Vista,SMLR,Lee Township Trustee,,,Kale Glover,2,2,0
+Buena Vista,SMLR,Lee Township Trustee,,,Ken Bertness,1,1,0
+Buena Vista,SMLR,Lee Township Trustee,,,Kerby Todd,1,1,0
+Buena Vista,SMLR,Lee Township Trustee,,,Rich Madsen,1,1,0
+Buena Vista,SMLR,Lee Township Trustee,,,Write-in,0,0,0
+Buena Vista,SMLR,Lee Township Clerk,,,Ben Hollesen,1,1,0
+Buena Vista,SMLR,Lee Township Clerk,,,Duane Lansink,4,1,3
+Buena Vista,SMLR,Lee Township Clerk,,,Kale Glover,1,1,0
+Buena Vista,SMLR,Lee Township Clerk,,,Laura Todd,1,1,0
+Buena Vista,SMLR,Lee Township Clerk,,,Mary Sundblad,1,1,0
+Buena Vista,SMLR,Lee Township Clerk,,,Melanie Anderson,1,1,0
+Buena Vista,SMLR,Lee Township Clerk,,,Ryan Sassman,1,1,0
+Buena Vista,SMLR,Lee Township Clerk,,,Wendy Sundblad,1,1,0
+Buena Vista,SMLR,Lee Township Clerk,,,Blank,2,2,0
+Buena Vista,SMLR,Lee Township Clerk,,,Write-in,0,0,0
+Buena Vista,SMLR,Lincoln Township Trustee,,,Connor Lindquist,2,2,0
+Buena Vista,SMLR,Lincoln Township Trustee,,,Dale Boettcher,1,0,1
+Buena Vista,SMLR,Lincoln Township Trustee,,,Dennis Hogrefe,1,1,0
+Buena Vista,SMLR,Lincoln Township Trustee,,,Edwin Madsen,1,1,0
+Buena Vista,SMLR,Lincoln Township Trustee,,,Jake Heuton,1,1,0
+Buena Vista,SMLR,Lincoln Township Trustee,,,Kevin Lindquist,1,1,0
+Buena Vista,SMLR,Lincoln Township Trustee,,,Mike Rebhuhn,4,4,0
+Buena Vista,SMLR,Lincoln Township Trustee,,,Robert Skog,1,0,1
+Buena Vista,SMLR,Lincoln Township Trustee,,,Write-in,0,0,0
+Buena Vista,SMLR,Lincoln Township Clerk,,,Brian Rebhuhn,1,1,0
+Buena Vista,SMLR,Lincoln Township Clerk,,,Connor Lindquist,1,1,0
+Buena Vista,SMLR,Lincoln Township Clerk,,,Dennis Hogrefe,1,1,0
+Buena Vista,SMLR,Lincoln Township Clerk,,,Jeff Anderson,1,1,0
+Buena Vista,SMLR,Lincoln Township Clerk,,,Kenny Lindquist,1,1,0
+Buena Vista,SMLR,Lincoln Township Clerk,,,Tom Cavanaugh,1,1,0
+Buena Vista,SMLR,Lincoln Township Clerk,,,Write-in,0,0,0
+Buena Vista,LKHM,Maple Valley Township Trustee,,,Bernard Arnts,1,0,1
+Buena Vista,LKHM,Maple Valley Township Trustee,,,Blank,1,1,0
+Buena Vista,LKHM,Maple Valley Township Trustee,,,Corey Hinkeldey,1,1,0
+Buena Vista,LKHM,Maple Valley Township Trustee,,,David Arnts,9,9,0
+Buena Vista,LKHM,Maple Valley Township Trustee,,,Glen Baret,1,0,1
+Buena Vista,LKHM,Maple Valley Township Trustee,,,Ryan Schmidt,1,1,0
+Buena Vista,LKHM,Maple Valley Township Trustee,,,Write-in,0,0,0
+Buena Vista,LKHM,Maple Valley Township Clerk,,,Dave Schmitz,84,69,15
+Buena Vista,LKHM,Maple Valley Township Clerk,,,Write-in,0,0,0
+Buena Vista,NENP,Newell Township Trustee,,,Ryan Demey,88,64,24
+Buena Vista,NENP,Newell Township Trustee,,,Write-in,2,2,0
+Buena Vista,NENP,Newell Township Clerk,,,Brad Mahler,92,67,25
+Buena Vista,NENP,Newell Township Clerk,,,Write-in,2,2,0
+Buena Vista,ALNE,Nokomis Township Trustee,,,Blank,1,1,0
+Buena Vista,ALNE,Nokomis Township Trustee,,,Bruce Baier,4,4,0
+Buena Vista,ALNE,Nokomis Township Trustee,,,Kevin Kies,1,1,0
+Buena Vista,ALNE,Nokomis Township Trustee,,,Lonn Peterson,1,1,0
+Buena Vista,ALNE,Nokomis Township Trustee,,,Robert Nielsen,1,1,0
+Buena Vista,ALNE,Nokomis Township Trustee,,,Write-in,0,0,0
+Buena Vista,ALNE,Nokomis Township Clerk,,,Bruce Baier,1,1,0
+Buena Vista,ALNE,Nokomis Township Clerk,,,Janet Lietz,1,1,0
+Buena Vista,ALNE,Nokomis Township Clerk,,,Jim Black,4,4,0
+Buena Vista,ALNE,Nokomis Township Clerk,,,Randy Erickson,1,1,0
+Buena Vista,ALNE,Nokomis Township Clerk,,,Blank,1,1,0
+Buena Vista,ALNE,Nokomis Township Clerk,,,Write-in,0,0,0
+Buena Vista,SMLR,Poland Township Trustee,,,Bruce L. Stone,79,50,29
+Buena Vista,SMLR,Poland Township Trustee,,,Write-in,0,0,0
+Buena Vista,SMLR,Poland Township Clerk,,,Joan Olney,19,12,7
+Buena Vista,SMLR,Poland Township Clerk,,,Julie Schultze,55,37,18
+Buena Vista,SMLR,Poland Township Clerk,,,Write-in,0,0,0
+Buena Vista,NENP,Providence Township Trustee,,,Blank,2,2,0
+Buena Vista,NENP,Providence Township Trustee,,,Gary Pickhinke,1,1,0
+Buena Vista,NENP,Providence Township Trustee,,,Larry Lucht,1,1,0
+Buena Vista,NENP,Providence Township Trustee,,,Nathan Lichter,3,2,1
+Buena Vista,NENP,Providence Township Trustee,,,Ted Smith,2,1,1
+Buena Vista,NENP,Providence Township Trustee,,,Write-in,0,0,0
+Buena Vista,NENP,Providence Township Trustee To Fill Vacancy,,,Blank,2,2,0
+Buena Vista,NENP,Providence Township Trustee To Fill Vacancy,,,Heather Banuelos,1,1,0
+Buena Vista,NENP,Providence Township Trustee To Fill Vacancy,,,Randall Sennert,1,0,1
+Buena Vista,NENP,Providence Township Trustee To Fill Vacancy,,,Steve White,1,0,1
+Buena Vista,NENP,Providence Township Trustee To Fill Vacancy,,,Tom Sievers,1,0,1
+Buena Vista,NENP,Providence Township Trustee To Fill Vacancy,,,Write-in,0,0,0
+Buena Vista,NENP,Providence Township Clerk,,,Stan Peters,86,52,34
+Buena Vista,NENP,Providence Township Clerk,,,Write-in,1,1,0
+Buena Vista,SMLR,Scott Township Trustee,,,Anna Mae Robbins,1,1,0
+Buena Vista,SMLR,Scott Township Trustee,,,Blank,1,0,1
+Buena Vista,SMLR,Scott Township Trustee,,,Ervin Brake,4,2,2
+Buena Vista,SMLR,Scott Township Trustee,,,Erik Morrow,1,1,0
+Buena Vista,SMLR,Scott Township Trustee,,,Kenny Edwards,1,1,0
+Buena Vista,SMLR,Scott Township Trustee,,,Nathan Bral,1,0,1
+Buena Vista,SMLR,Scott Township Trustee,,,Randy Ripke,1,1,0
+Buena Vista,SMLR,Scott Township Trustee,,,Ronald Pedersen,1,1,0
+Buena Vista,SMLR,Scott Township Trustee,,,Tom Struve,2,2,0
+Buena Vista,SMLR,Scott Township Trustee,,,Trent Hatlen,1,0,1
+Buena Vista,SMLR,Scott Township Trustee,,,Write-in,0,0,0
+Buena Vista,SMLR,Scott Township Clerk,,,Anna Mae Robbins,4,2,2
+Buena Vista,SMLR,Scott Township Clerk,,,Cory Anderson,1,1,0
+Buena Vista,SMLR,Scott Township Clerk,,,Glenda Struve,2,2,0
+Buena Vista,SMLR,Scott Township Clerk,,,Kelly Pedersen,1,1,0
+Buena Vista,SMLR,Scott Township Clerk,,,Randy Ripke,1,1,0
+Buena Vista,SMLR,Scott Township Clerk,,,Ronald Pedersen,1,1,0
+Buena Vista,SMLR,Scott Township Clerk,,,Blank,1,0,1
+Buena Vista,SMLR,Scott Township Clerk,,,Write-in,0,0,0
+Buena Vista,SL02,Washington Township Trustee,,,Blannk,0,0,0
+Buena Vista,TRWG,Washington Township Trustee,,,Blannk,0,0,0
+Buena Vista,SL02,Washington Township Trustee,,,Blank,0,0,0
+Buena Vista,TRWG,Washington Township Trustee,,,Blank,1,0,1
+Buena Vista,SL02,Washington Township Trustee,,,Doug Miller,0,0,0
+Buena Vista,TRWG,Washington Township Trustee,,,Doug Miller,2,2,0
+Buena Vista,SL02,Washington Township Trustee,,,Jeff Stark,0,0,0
+Buena Vista,TRWG,Washington Township Trustee,,,Jeff Stark,1,0,1
+Buena Vista,SL02,Washington Township Trustee,,,John Foster,0,0,0
+Buena Vista,TRWG,Washington Township Trustee,,,John Foster,1,1,0
+Buena Vista,SL02,Washington Township Trustee,,,Juanita Hamilton,0,0,0
+Buena Vista,TRWG,Washington Township Trustee,,,Juanita Hamilton,1,1,0
+Buena Vista,SL02,Washington Township Trustee,,,Michael Todd,0,0,0
+Buena Vista,TRWG,Washington Township Trustee,,,Michael Todd,1,1,0
+Buena Vista,SL02,Washington Township Trustee,,,Steve Tate,0,0,0
+Buena Vista,TRWG,Washington Township Trustee,,,Steve Tate,1,1,0
+Buena Vista,SL02,Washington Township Trustee,,,Wesley Holmes,0,0,0
+Buena Vista,TRWG,Washington Township Trustee,,,Wesley Holmes,1,0,1
+Buena Vista,SL02,Washington Township Trustee,,,Willis Hamilton,0,0,0
+Buena Vista,TRWG,Washington Township Trustee,,,Willis Hamilton,1,1,0
+Buena Vista,SL02,Washington Township Trustee,,,Write-in,0,0,0
+Buena Vista,TRWG,Washington Township Trustee,,,Write-in,0,0,0
+Buena Vista,SL02,Washington Township Clerk,,,Dean Assmann,0,0,0
+Buena Vista,TRWG,Washington Township Clerk,,,Dean Assmann,3,3,0
+Buena Vista,SL02,Washington Township Clerk,,,Doug Miller,0,0,0
+Buena Vista,TRWG,Washington Township Clerk,,,Doug Miller,1,1,0
+Buena Vista,SL02,Washington Township Clerk,,,John Foster,0,0,0
+Buena Vista,TRWG,Washington Township Clerk,,,John Foster,1,1,0
+Buena Vista,SL02,Washington Township Clerk,,,Juanita Hamilton,0,0,0
+Buena Vista,TRWG,Washington Township Clerk,,,Juanita Hamilton,1,1,0
+Buena Vista,SL02,Washington Township Clerk,,,Write-in,0,0,0
+Buena Vista,TRWG,Washington Township Clerk,,,Write-in,0,0,0
+Buena Vista,ACFC,County Public Hospital Trustee,,,Tara Hach,240,176,64
+Buena Vista,ALNE,County Public Hospital Trustee,,,Tara Hach,501,389,112
+Buena Vista,LKHM,County Public Hospital Trustee,,,Tara Hach,312,196,116
+Buena Vista,NENP,County Public Hospital Trustee,,,Tara Hach,299,212,87
+Buena Vista,SMLR,County Public Hospital Trustee,,,Tara Hach,461,292,169
+Buena Vista,SL01,County Public Hospital Trustee,,,Tara Hach,302,182,120
+Buena Vista,SL02,County Public Hospital Trustee,,,Tara Hach,146,87,59
+Buena Vista,SL03,County Public Hospital Trustee,,,Tara Hach,468,275,193
+Buena Vista,SL04,County Public Hospital Trustee,,,Tara Hach,352,212,140
+Buena Vista,TRWG,County Public Hospital Trustee,,,Tara Hach,199,122,77
+Buena Vista,ACFC,County Public Hospital Trustee,,,Randall Bobolz,381,287,94
+Buena Vista,ALNE,County Public Hospital Trustee,,,Randall Bobolz,397,295,102
+Buena Vista,LKHM,County Public Hospital Trustee,,,Randall Bobolz,270,170,100
+Buena Vista,NENP,County Public Hospital Trustee,,,Randall Bobolz,264,191,73
+Buena Vista,SMLR,County Public Hospital Trustee,,,Randall Bobolz,451,280,171
+Buena Vista,SL01,County Public Hospital Trustee,,,Randall Bobolz,241,146,95
+Buena Vista,SL02,County Public Hospital Trustee,,,Randall Bobolz,109,60,49
+Buena Vista,SL03,County Public Hospital Trustee,,,Randall Bobolz,415,244,171
+Buena Vista,SL04,County Public Hospital Trustee,,,Randall Bobolz,273,162,111
+Buena Vista,TRWG,County Public Hospital Trustee,,,Randall Bobolz,204,119,85
+Buena Vista,ACFC,County Public Hospital Trustee,,,Brenda Halverson,261,194,67
+Buena Vista,ALNE,County Public Hospital Trustee,,,Brenda Halverson,622,469,153
+Buena Vista,LKHM,County Public Hospital Trustee,,,Brenda Halverson,357,225,132
+Buena Vista,NENP,County Public Hospital Trustee,,,Brenda Halverson,318,222,96
+Buena Vista,SMLR,County Public Hospital Trustee,,,Brenda Halverson,613,396,217
+Buena Vista,SL01,County Public Hospital Trustee,,,Brenda Halverson,336,205,131
+Buena Vista,SL02,County Public Hospital Trustee,,,Brenda Halverson,152,88,64
+Buena Vista,SL03,County Public Hospital Trustee,,,Brenda Halverson,493,293,200
+Buena Vista,SL04,County Public Hospital Trustee,,,Brenda Halverson,351,213,138
+Buena Vista,TRWG,County Public Hospital Trustee,,,Brenda Halverson,227,138,89
+Buena Vista,ACFC,County Public Hospital Trustee,,,Write-in,2,1,1
+Buena Vista,ALNE,County Public Hospital Trustee,,,Write-in,8,7,1
+Buena Vista,LKHM,County Public Hospital Trustee,,,Write-in,0,0,0
+Buena Vista,NENP,County Public Hospital Trustee,,,Write-in,1,1,0
+Buena Vista,SMLR,County Public Hospital Trustee,,,Write-in,7,3,4
+Buena Vista,SL01,County Public Hospital Trustee,,,Write-in,3,2,1
+Buena Vista,SL02,County Public Hospital Trustee,,,Write-in,1,0,1
+Buena Vista,SL03,County Public Hospital Trustee,,,Write-in,3,3,0
+Buena Vista,SL04,County Public Hospital Trustee,,,Write-in,3,3,0
+Buena Vista,TRWG,County Public Hospital Trustee,,,Write-in,4,2,2
+Buena Vista,ACFC,Soil & Water Conservation District Commissioner,,,Ronald E. Sennert,290,214,76
+Buena Vista,ALNE,Soil & Water Conservation District Commissioner,,,Ronald E. Sennert,498,369,129
+Buena Vista,LKHM,Soil & Water Conservation District Commissioner,,,Ronald E. Sennert,338,208,130
+Buena Vista,NENP,Soil & Water Conservation District Commissioner,,,Ronald E. Sennert,312,219,93
+Buena Vista,SMLR,Soil & Water Conservation District Commissioner,,,Ronald E. Sennert,653,425,228
+Buena Vista,SL01,Soil & Water Conservation District Commissioner,,,Ronald E. Sennert,289,177,112
+Buena Vista,SL02,Soil & Water Conservation District Commissioner,,,Ronald E. Sennert,145,89,56
+Buena Vista,SL03,Soil & Water Conservation District Commissioner,,,Ronald E. Sennert,488,287,201
+Buena Vista,SL04,Soil & Water Conservation District Commissioner,,,Ronald E. Sennert,326,199,127
+Buena Vista,TRWG,Soil & Water Conservation District Commissioner,,,Ronald E. Sennert,223,132,91
+Buena Vista,ACFC,Soil & Water Conservation District Commissioner,,,Jim Hinkeldey,295,219,76
+Buena Vista,ALNE,Soil & Water Conservation District Commissioner,,,Jim Hinkeldey,721,564,157
+Buena Vista,LKHM,Soil & Water Conservation District Commissioner,,,Jim Hinkeldey,393,251,142
+Buena Vista,NENP,Soil & Water Conservation District Commissioner,,,Jim Hinkeldey,336,234,102
+Buena Vista,SMLR,Soil & Water Conservation District Commissioner,,,Jim Hinkeldey,536,350,186
+Buena Vista,SL01,Soil & Water Conservation District Commissioner,,,Jim Hinkeldey,354,214,140
+Buena Vista,SL02,Soil & Water Conservation District Commissioner,,,Jim Hinkeldey,165,96,69
+Buena Vista,SL03,Soil & Water Conservation District Commissioner,,,Jim Hinkeldey,550,314,236
+Buena Vista,SL04,Soil & Water Conservation District Commissioner,,,Jim Hinkeldey,377,221,156
+Buena Vista,TRWG,Soil & Water Conservation District Commissioner,,,Jim Hinkeldey,259,152,107
+Buena Vista,ACFC,Soil & Water Conservation District Commissioner,,,Write-in,1,0,1
+Buena Vista,ALNE,Soil & Water Conservation District Commissioner,,,Write-in,2,2,0
+Buena Vista,LKHM,Soil & Water Conservation District Commissioner,,,Write-in,1,1,0
+Buena Vista,NENP,Soil & Water Conservation District Commissioner,,,Write-in,1,1,0
+Buena Vista,SMLR,Soil & Water Conservation District Commissioner,,,Write-in,4,4,0
+Buena Vista,SL01,Soil & Water Conservation District Commissioner,,,Write-in,5,3,2
+Buena Vista,SL02,Soil & Water Conservation District Commissioner,,,Write-in,1,0,1
+Buena Vista,SL03,Soil & Water Conservation District Commissioner,,,Write-in,1,1,0
+Buena Vista,SL04,Soil & Water Conservation District Commissioner,,,Write-in,6,2,4
+Buena Vista,TRWG,Soil & Water Conservation District Commissioner,,,Write-in,3,3,0
+Buena Vista,ACFC,County Agricultural Extension Council Member,,,Jan Worthan,316,240,76
+Buena Vista,ALNE,County Agricultural Extension Council Member,,,Jan Worthan,561,433,128
+Buena Vista,LKHM,County Agricultural Extension Council Member,,,Jan Worthan,364,227,137
+Buena Vista,NENP,County Agricultural Extension Council Member,,,Jan Worthan,385,274,111
+Buena Vista,SMLR,County Agricultural Extension Council Member,,,Jan Worthan,599,386,213
+Buena Vista,SL01,County Agricultural Extension Council Member,,,Jan Worthan,325,198,127
+Buena Vista,SL02,County Agricultural Extension Council Member,,,Jan Worthan,134,80,54
+Buena Vista,SL03,County Agricultural Extension Council Member,,,Jan Worthan,523,300,223
+Buena Vista,SL04,County Agricultural Extension Council Member,,,Jan Worthan,355,220,135
+Buena Vista,TRWG,County Agricultural Extension Council Member,,,Jan Worthan,256,155,101
+Buena Vista,ACFC,County Agricultural Extension Council Member,,,Salli Nichols,229,165,64
+Buena Vista,ALNE,County Agricultural Extension Council Member,,,Salli Nichols,459,344,115
+Buena Vista,LKHM,County Agricultural Extension Council Member,,,Salli Nichols,318,198,120
+Buena Vista,NENP,County Agricultural Extension Council Member,,,Salli Nichols,269,185,84
+Buena Vista,SMLR,County Agricultural Extension Council Member,,,Salli Nichols,429,263,166
+Buena Vista,SL01,County Agricultural Extension Council Member,,,Salli Nichols,303,181,122
+Buena Vista,SL02,County Agricultural Extension Council Member,,,Salli Nichols,132,75,57
+Buena Vista,SL03,County Agricultural Extension Council Member,,,Salli Nichols,478,274,204
+Buena Vista,SL04,County Agricultural Extension Council Member,,,Salli Nichols,331,202,129
+Buena Vista,TRWG,County Agricultural Extension Council Member,,,Salli Nichols,230,132,98
+Buena Vista,ACFC,County Agricultural Extension Council Member,,,Roman De La Torre,215,159,56
+Buena Vista,ALNE,County Agricultural Extension Council Member,,,Roman De La Torre,317,233,84
+Buena Vista,LKHM,County Agricultural Extension Council Member,,,Roman De La Torre,233,149,84
+Buena Vista,NENP,County Agricultural Extension Council Member,,,Roman De La Torre,197,141,56
+Buena Vista,SMLR,County Agricultural Extension Council Member,,,Roman De La Torre,343,202,141
+Buena Vista,SL01,County Agricultural Extension Council Member,,,Roman De La Torre,232,137,95
+Buena Vista,SL02,County Agricultural Extension Council Member,,,Roman De La Torre,115,56,59
+Buena Vista,SL03,County Agricultural Extension Council Member,,,Roman De La Torre,366,211,155
+Buena Vista,SL04,County Agricultural Extension Council Member,,,Roman De La Torre,272,168,104
+Buena Vista,TRWG,County Agricultural Extension Council Member,,,Roman De La Torre,146,85,61
+Buena Vista,ACFC,County Agricultural Extension Council Member,,,Miguel Negrete,185,139,46
+Buena Vista,ALNE,County Agricultural Extension Council Member,,,Miguel Negrete,319,236,83
+Buena Vista,LKHM,County Agricultural Extension Council Member,,,Miguel Negrete,248,160,88
+Buena Vista,NENP,County Agricultural Extension Council Member,,,Miguel Negrete,203,146,57
+Buena Vista,SMLR,County Agricultural Extension Council Member,,,Miguel Negrete,338,196,142
+Buena Vista,SL01,County Agricultural Extension Council Member,,,Miguel Negrete,254,148,106
+Buena Vista,SL02,County Agricultural Extension Council Member,,,Miguel Negrete,141,76,65
+Buena Vista,SL03,County Agricultural Extension Council Member,,,Miguel Negrete,383,229,154
+Buena Vista,SL04,County Agricultural Extension Council Member,,,Miguel Negrete,301,181,120
+Buena Vista,TRWG,County Agricultural Extension Council Member,,,Miguel Negrete,150,92,58
+Buena Vista,ACFC,County Agricultural Extension Council Member,,,Craig Bean,6,5,1
+Buena Vista,ALNE,County Agricultural Extension Council Member,,,Craig Bean,0,0,0
+Buena Vista,LKHM,County Agricultural Extension Council Member,,,Craig Bean,8,5,3
+Buena Vista,NENP,County Agricultural Extension Council Member,,,Craig Bean,1,1,0
+Buena Vista,SMLR,County Agricultural Extension Council Member,,,Craig Bean,9,9,0
+Buena Vista,SL01,County Agricultural Extension Council Member,,,Craig Bean,0,0,0
+Buena Vista,SL02,County Agricultural Extension Council Member,,,Craig Bean,0,0,0
+Buena Vista,SL03,County Agricultural Extension Council Member,,,Craig Bean,3,1,2
+Buena Vista,SL04,County Agricultural Extension Council Member,,,Craig Bean,0,0,0
+Buena Vista,TRWG,County Agricultural Extension Council Member,,,Craig Bean,1,1,0
+Buena Vista,ACFC,County Agricultural Extension Council Member,,,Write-in,4,3,1
+Buena Vista,ALNE,County Agricultural Extension Council Member,,,Write-in,14,10,4
+Buena Vista,LKHM,County Agricultural Extension Council Member,,,Write-in,10,7,3
+Buena Vista,NENP,County Agricultural Extension Council Member,,,Write-in,14,7,7
+Buena Vista,SMLR,County Agricultural Extension Council Member,,,Write-in,26,14,12
+Buena Vista,SL01,County Agricultural Extension Council Member,,,Write-in,3,2,1
+Buena Vista,SL02,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Buena Vista,SL03,County Agricultural Extension Council Member,,,Write-in,7,6,1
+Buena Vista,SL04,County Agricultural Extension Council Member,,,Write-in,12,6,6
+Buena Vista,TRWG,County Agricultural Extension Council Member,,,Write-in,8,4,4
+Buena Vista,ACFC,Court of Appeals Judge Mary Ellen Tabor,,,Yes,259,198,61
+Buena Vista,ALNE,Court of Appeals Judge Mary Ellen Tabor,,,Yes,496,367,129
+Buena Vista,LKHM,Court of Appeals Judge Mary Ellen Tabor,,,Yes,314,188,126
+Buena Vista,NENP,Court of Appeals Judge Mary Ellen Tabor,,,Yes,252,181,71
+Buena Vista,SMLR,Court of Appeals Judge Mary Ellen Tabor,,,Yes,506,338,168
+Buena Vista,SL01,Court of Appeals Judge Mary Ellen Tabor,,,Yes,346,215,131
+Buena Vista,SL02,Court of Appeals Judge Mary Ellen Tabor,,,Yes,190,108,82
+Buena Vista,SL03,Court of Appeals Judge Mary Ellen Tabor,,,Yes,499,277,222
+Buena Vista,SL04,Court of Appeals Judge Mary Ellen Tabor,,,Yes,398,234,164
+Buena Vista,TRWG,Court of Appeals Judge Mary Ellen Tabor,,,Yes,208,116,92
+Buena Vista,ACFC,Court of Appeals Judge Mary Ellen Tabor,,,No,58,45,13
+Buena Vista,ALNE,Court of Appeals Judge Mary Ellen Tabor,,,No,120,99,21
+Buena Vista,LKHM,Court of Appeals Judge Mary Ellen Tabor,,,No,79,46,33
+Buena Vista,NENP,Court of Appeals Judge Mary Ellen Tabor,,,No,130,90,40
+Buena Vista,SMLR,Court of Appeals Judge Mary Ellen Tabor,,,No,149,98,51
+Buena Vista,SL01,Court of Appeals Judge Mary Ellen Tabor,,,No,63,32,31
+Buena Vista,SL02,Court of Appeals Judge Mary Ellen Tabor,,,No,35,24,11
+Buena Vista,SL03,Court of Appeals Judge Mary Ellen Tabor,,,No,86,52,34
+Buena Vista,SL04,Court of Appeals Judge Mary Ellen Tabor,,,No,66,39,27
+Buena Vista,TRWG,Court of Appeals Judge Mary Ellen Tabor,,,No,52,33,19
+Buena Vista,ACFC,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,209,158,51
+Buena Vista,ALNE,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,373,276,97
+Buena Vista,LKHM,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,248,147,101
+Buena Vista,NENP,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,206,144,62
+Buena Vista,SMLR,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,390,254,136
+Buena Vista,SL01,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,272,160,112
+Buena Vista,SL02,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,150,84,66
+Buena Vista,SL03,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,434,247,187
+Buena Vista,SL04,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,355,212,143
+Buena Vista,TRWG,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,178,96,82
+Buena Vista,ACFC,Court of Appeals Judge Anuradha Vaitheswaran,,,No,88,67,21
+Buena Vista,ALNE,Court of Appeals Judge Anuradha Vaitheswaran,,,No,183,148,35
+Buena Vista,LKHM,Court of Appeals Judge Anuradha Vaitheswaran,,,No,107,65,42
+Buena Vista,NENP,Court of Appeals Judge Anuradha Vaitheswaran,,,No,156,110,46
+Buena Vista,SMLR,Court of Appeals Judge Anuradha Vaitheswaran,,,No,226,155,71
+Buena Vista,SL01,Court of Appeals Judge Anuradha Vaitheswaran,,,No,100,59,41
+Buena Vista,SL02,Court of Appeals Judge Anuradha Vaitheswaran,,,No,56,32,24
+Buena Vista,SL03,Court of Appeals Judge Anuradha Vaitheswaran,,,No,109,64,45
+Buena Vista,SL04,Court of Appeals Judge Anuradha Vaitheswaran,,,No,83,47,36
+Buena Vista,TRWG,Court of Appeals Judge Anuradha Vaitheswaran,,,No,69,47,22
+Buena Vista,ACFC,Court of Appeals Judge Michael R. Mullins,,,Yes,251,188,63
+Buena Vista,ALNE,Court of Appeals Judge Michael R. Mullins,,,Yes,446,328,118
+Buena Vista,LKHM,Court of Appeals Judge Michael R. Mullins,,,Yes,300,181,119
+Buena Vista,NENP,Court of Appeals Judge Michael R. Mullins,,,Yes,256,183,73
+Buena Vista,SMLR,Court of Appeals Judge Michael R. Mullins,,,Yes,484,311,173
+Buena Vista,SL01,Court of Appeals Judge Michael R. Mullins,,,Yes,314,190,124
+Buena Vista,SL02,Court of Appeals Judge Michael R. Mullins,,,Yes,163,94,69
+Buena Vista,SL03,Court of Appeals Judge Michael R. Mullins,,,Yes,473,265,208
+Buena Vista,SL04,Court of Appeals Judge Michael R. Mullins,,,Yes,358,213,145
+Buena Vista,TRWG,Court of Appeals Judge Michael R. Mullins,,,Yes,204,115,89
+Buena Vista,ACFC,Court of Appeals Judge Michael R. Mullins,,,No,54,44,10
+Buena Vista,ALNE,Court of Appeals Judge Michael R. Mullins,,,No,125,100,25
+Buena Vista,LKHM,Court of Appeals Judge Michael R. Mullins,,,No,76,47,29
+Buena Vista,NENP,Court of Appeals Judge Michael R. Mullins,,,No,112,77,35
+Buena Vista,SMLR,Court of Appeals Judge Michael R. Mullins,,,No,148,102,46
+Buena Vista,SL01,Court of Appeals Judge Michael R. Mullins,,,No,72,39,33
+Buena Vista,SL02,Court of Appeals Judge Michael R. Mullins,,,No,47,29,18
+Buena Vista,SL03,Court of Appeals Judge Michael R. Mullins,,,No,85,50,35
+Buena Vista,SL04,Court of Appeals Judge Michael R. Mullins,,,No,79,47,32
+Buena Vista,TRWG,Court of Appeals Judge Michael R. Mullins,,,No,51,33,18
+Buena Vista,ACFC,District 3A District Judge David A. Lester,,,Yes,247,187,60
+Buena Vista,ALNE,District 3A District Judge David A. Lester,,,Yes,460,336,124
+Buena Vista,LKHM,District 3A District Judge David A. Lester,,,Yes,302,184,118
+Buena Vista,NENP,District 3A District Judge David A. Lester,,,Yes,269,189,80
+Buena Vista,SMLR,District 3A District Judge David A. Lester,,,Yes,504,326,178
+Buena Vista,SL01,District 3A District Judge David A. Lester,,,Yes,323,201,122
+Buena Vista,SL02,District 3A District Judge David A. Lester,,,Yes,173,100,73
+Buena Vista,SL03,District 3A District Judge David A. Lester,,,Yes,487,278,209
+Buena Vista,SL04,District 3A District Judge David A. Lester,,,Yes,360,213,147
+Buena Vista,TRWG,District 3A District Judge David A. Lester,,,Yes,203,111,92
+Buena Vista,ACFC,District 3A District Judge David A. Lester,,,No,57,47,10
+Buena Vista,ALNE,District 3A District Judge David A. Lester,,,No,130,107,23
+Buena Vista,LKHM,District 3A District Judge David A. Lester,,,No,89,53,36
+Buena Vista,NENP,District 3A District Judge David A. Lester,,,No,113,79,34
+Buena Vista,SMLR,District 3A District Judge David A. Lester,,,No,143,103,40
+Buena Vista,SL01,District 3A District Judge David A. Lester,,,No,72,38,34
+Buena Vista,SL02,District 3A District Judge David A. Lester,,,No,44,27,17
+Buena Vista,SL03,District 3A District Judge David A. Lester,,,No,82,45,37
+Buena Vista,SL04,District 3A District Judge David A. Lester,,,No,80,50,30
+Buena Vista,TRWG,District 3A District Judge David A. Lester,,,No,53,36,17
+Buena Vista,ACFC,District 3A District Judge Nancy L. Whittenburg,,,Yes,242,180,62
+Buena Vista,ALNE,District 3A District Judge Nancy L. Whittenburg,,,Yes,476,344,132
+Buena Vista,LKHM,District 3A District Judge Nancy L. Whittenburg,,,Yes,304,187,117
+Buena Vista,NENP,District 3A District Judge Nancy L. Whittenburg,,,Yes,251,177,74
+Buena Vista,SMLR,District 3A District Judge Nancy L. Whittenburg,,,Yes,526,347,179
+Buena Vista,SL01,District 3A District Judge Nancy L. Whittenburg,,,Yes,343,207,136
+Buena Vista,SL02,District 3A District Judge Nancy L. Whittenburg,,,Yes,184,106,78
+Buena Vista,SL03,District 3A District Judge Nancy L. Whittenburg,,,Yes,497,279,218
+Buena Vista,SL04,District 3A District Judge Nancy L. Whittenburg,,,Yes,383,228,155
+Buena Vista,TRWG,District 3A District Judge Nancy L. Whittenburg,,,Yes,197,111,86
+Buena Vista,ACFC,District 3A District Judge Nancy L. Whittenburg,,,No,69,56,13
+Buena Vista,ALNE,District 3A District Judge Nancy L. Whittenburg,,,No,127,108,19
+Buena Vista,LKHM,District 3A District Judge Nancy L. Whittenburg,,,No,89,50,39
+Buena Vista,NENP,District 3A District Judge Nancy L. Whittenburg,,,No,121,87,34
+Buena Vista,SMLR,District 3A District Judge Nancy L. Whittenburg,,,No,154,102,52
+Buena Vista,SL01,District 3A District Judge Nancy L. Whittenburg,,,No,62,38,24
+Buena Vista,SL02,District 3A District Judge Nancy L. Whittenburg,,,No,30,17,13
+Buena Vista,SL03,District 3A District Judge Nancy L. Whittenburg,,,No,81,47,34
+Buena Vista,SL04,District 3A District Judge Nancy L. Whittenburg,,,No,71,43,28
+Buena Vista,TRWG,District 3A District Judge Nancy L. Whittenburg,,,No,60,39,21

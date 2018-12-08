@@ -1,0 +1,912 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Plymouth,Akron Public Library,United States Representative District 4,,REP,Steve King,419,326,93
+Plymouth,American Bank,United States Representative District 4,,REP,Steve King,245,113,132
+Plymouth,Courthouse Annex,United States Representative District 4,,REP,Steve King,280,173,107
+Plymouth,Brunsville Legion,United States Representative District 4,,REP,Steve King,412,246,166
+Plymouth,Remsen Library,United States Representative District 4,,REP,Steve King,630,351,279
+Plymouth,Westfield Community Center,United States Representative District 4,,REP,Steve King,218,149,69
+Plymouth,Kissinger Community Center,United States Representative District 4,,REP,Steve King,445,301,144
+Plymouth,Perry Township Hall,United States Representative District 4,,REP,Steve King,555,317,238
+Plymouth,Hinton Community Center,United States Representative District 4,,REP,Steve King,638,420,218
+Plymouth,Kingsley Community Center,United States Representative District 4,,REP,Steve King,494,352,142
+Plymouth,Le Mars Convention Center 11,United States Representative District 4,,REP,Steve King,768,371,397
+Plymouth,Le Mars Convention Center 12,United States Representative District 4,,REP,Steve King,911,455,456
+Plymouth,Le Mars Convention Center 13,United States Representative District 4,,REP,Steve King,488,238,250
+Plymouth,Akron Public Library,United States Representative District 4,,DEM,J.D. Scholten,272,198,74
+Plymouth,American Bank,United States Representative District 4,,DEM,J.D. Scholten,105,54,51
+Plymouth,Courthouse Annex,United States Representative District 4,,DEM,J.D. Scholten,141,78,63
+Plymouth,Brunsville Legion,United States Representative District 4,,DEM,J.D. Scholten,220,151,69
+Plymouth,Remsen Library,United States Representative District 4,,DEM,J.D. Scholten,358,207,151
+Plymouth,Westfield Community Center,United States Representative District 4,,DEM,J.D. Scholten,126,95,31
+Plymouth,Kissinger Community Center,United States Representative District 4,,DEM,J.D. Scholten,288,191,97
+Plymouth,Perry Township Hall,United States Representative District 4,,DEM,J.D. Scholten,280,160,120
+Plymouth,Hinton Community Center,United States Representative District 4,,DEM,J.D. Scholten,364,238,126
+Plymouth,Kingsley Community Center,United States Representative District 4,,DEM,J.D. Scholten,306,208,98
+Plymouth,Le Mars Convention Center 11,United States Representative District 4,,DEM,J.D. Scholten,583,301,282
+Plymouth,Le Mars Convention Center 12,United States Representative District 4,,DEM,J.D. Scholten,639,341,298
+Plymouth,Le Mars Convention Center 13,United States Representative District 4,,DEM,J.D. Scholten,402,249,153
+Plymouth,Akron Public Library,United States Representative District 4,,LIB,Charles Aldrich,14,13,1
+Plymouth,American Bank,United States Representative District 4,,LIB,Charles Aldrich,2,1,1
+Plymouth,Courthouse Annex,United States Representative District 4,,LIB,Charles Aldrich,6,6,0
+Plymouth,Brunsville Legion,United States Representative District 4,,LIB,Charles Aldrich,6,5,1
+Plymouth,Remsen Library,United States Representative District 4,,LIB,Charles Aldrich,11,5,6
+Plymouth,Westfield Community Center,United States Representative District 4,,LIB,Charles Aldrich,3,0,3
+Plymouth,Kissinger Community Center,United States Representative District 4,,LIB,Charles Aldrich,10,10,0
+Plymouth,Perry Township Hall,United States Representative District 4,,LIB,Charles Aldrich,9,2,7
+Plymouth,Hinton Community Center,United States Representative District 4,,LIB,Charles Aldrich,11,7,4
+Plymouth,Kingsley Community Center,United States Representative District 4,,LIB,Charles Aldrich,12,10,2
+Plymouth,Le Mars Convention Center 11,United States Representative District 4,,LIB,Charles Aldrich,35,20,15
+Plymouth,Le Mars Convention Center 12,United States Representative District 4,,LIB,Charles Aldrich,20,17,3
+Plymouth,Le Mars Convention Center 13,United States Representative District 4,,LIB,Charles Aldrich,19,14,5
+Plymouth,Akron Public Library,United States Representative District 4,,,Edward Peterson,3,2,1
+Plymouth,American Bank,United States Representative District 4,,,Edward Peterson,0,0,0
+Plymouth,Courthouse Annex,United States Representative District 4,,,Edward Peterson,4,1,3
+Plymouth,Brunsville Legion,United States Representative District 4,,,Edward Peterson,5,3,2
+Plymouth,Remsen Library,United States Representative District 4,,,Edward Peterson,2,2,0
+Plymouth,Westfield Community Center,United States Representative District 4,,,Edward Peterson,1,1,0
+Plymouth,Kissinger Community Center,United States Representative District 4,,,Edward Peterson,2,2,0
+Plymouth,Perry Township Hall,United States Representative District 4,,,Edward Peterson,3,2,1
+Plymouth,Hinton Community Center,United States Representative District 4,,,Edward Peterson,2,0,2
+Plymouth,Kingsley Community Center,United States Representative District 4,,,Edward Peterson,5,4,1
+Plymouth,Le Mars Convention Center 11,United States Representative District 4,,,Edward Peterson,3,1,2
+Plymouth,Le Mars Convention Center 12,United States Representative District 4,,,Edward Peterson,1,1,0
+Plymouth,Le Mars Convention Center 13,United States Representative District 4,,,Edward Peterson,4,4,0
+Plymouth,Akron Public Library,United States Representative District 4,,,Write-in,0,0,0
+Plymouth,American Bank,United States Representative District 4,,,Write-in,0,0,0
+Plymouth,Courthouse Annex,United States Representative District 4,,,Write-in,0,0,0
+Plymouth,Brunsville Legion,United States Representative District 4,,,Write-in,0,0,0
+Plymouth,Remsen Library,United States Representative District 4,,,Write-in,0,0,0
+Plymouth,Westfield Community Center,United States Representative District 4,,,Write-in,0,0,0
+Plymouth,Kissinger Community Center,United States Representative District 4,,,Write-in,0,0,0
+Plymouth,Perry Township Hall,United States Representative District 4,,,Write-in,0,0,0
+Plymouth,Hinton Community Center,United States Representative District 4,,,Write-in,0,0,0
+Plymouth,Kingsley Community Center,United States Representative District 4,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 11,United States Representative District 4,,,Write-in,2,0,2
+Plymouth,Le Mars Convention Center 12,United States Representative District 4,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 13,United States Representative District 4,,,Write-in,2,1,1
+Plymouth,Akron Public Library,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,506,395,111
+Plymouth,American Bank,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,278,129,149
+Plymouth,Courthouse Annex,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,350,219,131
+Plymouth,Brunsville Legion,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,520,329,191
+Plymouth,Remsen Library,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,779,443,336
+Plymouth,Westfield Community Center,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,245,175,70
+Plymouth,Kissinger Community Center,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,543,381,162
+Plymouth,Perry Township Hall,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,627,372,255
+Plymouth,Hinton Community Center,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,742,499,243
+Plymouth,Kingsley Community Center,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,634,456,178
+Plymouth,Le Mars Convention Center 11,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,974,501,473
+Plymouth,Le Mars Convention Center 12,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,1133,602,531
+Plymouth,Le Mars Convention Center 13,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,610,332,278
+Plymouth,Akron Public Library,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,191,135,56
+Plymouth,American Bank,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,71,36,35
+Plymouth,Courthouse Annex,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,77,38,39
+Plymouth,Brunsville Legion,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,119,72,47
+Plymouth,Remsen Library,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,212,117,95
+Plymouth,Westfield Community Center,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,94,65,29
+Plymouth,Kissinger Community Center,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,192,116,76
+Plymouth,Perry Township Hall,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,214,107,107
+Plymouth,Hinton Community Center,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,255,158,97
+Plymouth,Kingsley Community Center,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,174,114,60
+Plymouth,Le Mars Convention Center 11,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,403,183,220
+Plymouth,Le Mars Convention Center 12,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,434,204,230
+Plymouth,Le Mars Convention Center 13,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,281,158,123
+Plymouth,Akron Public Library,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,10,7,3
+Plymouth,American Bank,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,2,1,1
+Plymouth,Courthouse Annex,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,4,0,4
+Plymouth,Brunsville Legion,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,6,5,1
+Plymouth,Remsen Library,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,7,3,4
+Plymouth,Westfield Community Center,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,6,3,3
+Plymouth,Kissinger Community Center,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,8,7,1
+Plymouth,Perry Township Hall,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,6,2,4
+Plymouth,Hinton Community Center,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,12,6,6
+Plymouth,Kingsley Community Center,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,7,3,4
+Plymouth,Le Mars Convention Center 11,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,14,8,6
+Plymouth,Le Mars Convention Center 12,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,21,16,5
+Plymouth,Le Mars Convention Center 13,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,20,16,4
+Plymouth,Akron Public Library,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,3,0
+Plymouth,American Bank,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,2,1
+Plymouth,Courthouse Annex,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,1,1,0
+Plymouth,Brunsville Legion,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,1,1,0
+Plymouth,Remsen Library,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,2,1
+Plymouth,Westfield Community Center,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,1,2
+Plymouth,Kissinger Community Center,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,4,3,1
+Plymouth,Perry Township Hall,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,1,1,0
+Plymouth,Hinton Community Center,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,7,4,3
+Plymouth,Kingsley Community Center,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,4,3,1
+Plymouth,Le Mars Convention Center 11,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,5,3,2
+Plymouth,Le Mars Convention Center 12,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,2,1,1
+Plymouth,Le Mars Convention Center 13,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,7,3,4
+Plymouth,Akron Public Library,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Plymouth,American Bank,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Plymouth,Courthouse Annex,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Plymouth,Brunsville Legion,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Plymouth,Remsen Library,Governor/Lieutenant Governor,,,Write-in,1,1,0
+Plymouth,Westfield Community Center,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Plymouth,Kissinger Community Center,Governor/Lieutenant Governor,,,Write-in,1,1,0
+Plymouth,Perry Township Hall,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Plymouth,Hinton Community Center,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Plymouth,Kingsley Community Center,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 11,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 12,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 13,Governor/Lieutenant Governor,,,Write-in,2,1,1
+Plymouth,Akron Public Library,Secretary of State,,REP,Paul D. Pate,477,374,103
+Plymouth,American Bank,Secretary of State,,REP,Paul D. Pate,271,128,143
+Plymouth,Courthouse Annex,Secretary of State,,REP,Paul D. Pate,332,210,122
+Plymouth,Brunsville Legion,Secretary of State,,REP,Paul D. Pate,505,313,192
+Plymouth,Remsen Library,Secretary of State,,REP,Paul D. Pate,729,417,312
+Plymouth,Westfield Community Center,Secretary of State,,REP,Paul D. Pate,234,163,71
+Plymouth,Kissinger Community Center,Secretary of State,,REP,Paul D. Pate,533,366,167
+Plymouth,Perry Township Hall,Secretary of State,,REP,Paul D. Pate,602,349,253
+Plymouth,Hinton Community Center,Secretary of State,,REP,Paul D. Pate,755,505,250
+Plymouth,Kingsley Community Center,Secretary of State,,REP,Paul D. Pate,600,425,175
+Plymouth,Le Mars Convention Center 11,Secretary of State,,REP,Paul D. Pate,948,477,471
+Plymouth,Le Mars Convention Center 12,Secretary of State,,REP,Paul D. Pate,1140,606,534
+Plymouth,Le Mars Convention Center 13,Secretary of State,,REP,Paul D. Pate,600,327,273
+Plymouth,Akron Public Library,Secretary of State,,DEM,Deidre DeJear,201,138,63
+Plymouth,American Bank,Secretary of State,,DEM,Deidre DeJear,64,31,33
+Plymouth,Courthouse Annex,Secretary of State,,DEM,Deidre DeJear,73,38,35
+Plymouth,Brunsville Legion,Secretary of State,,DEM,Deidre DeJear,115,75,40
+Plymouth,Remsen Library,Secretary of State,,DEM,Deidre DeJear,230,129,101
+Plymouth,Westfield Community Center,Secretary of State,,DEM,Deidre DeJear,99,70,29
+Plymouth,Kissinger Community Center,Secretary of State,,DEM,Deidre DeJear,183,114,69
+Plymouth,Perry Township Hall,Secretary of State,,DEM,Deidre DeJear,213,113,100
+Plymouth,Hinton Community Center,Secretary of State,,DEM,Deidre DeJear,233,143,90
+Plymouth,Kingsley Community Center,Secretary of State,,DEM,Deidre DeJear,186,127,59
+Plymouth,Le Mars Convention Center 11,Secretary of State,,DEM,Deidre DeJear,371,184,187
+Plymouth,Le Mars Convention Center 12,Secretary of State,,DEM,Deidre DeJear,394,186,208
+Plymouth,Le Mars Convention Center 13,Secretary of State,,DEM,Deidre DeJear,262,146,116
+Plymouth,Akron Public Library,Secretary of State,,LIB,Jules Ofenbakh,13,11,2
+Plymouth,American Bank,Secretary of State,,LIB,Jules Ofenbakh,5,3,2
+Plymouth,Courthouse Annex,Secretary of State,,LIB,Jules Ofenbakh,5,3,2
+Plymouth,Brunsville Legion,Secretary of State,,LIB,Jules Ofenbakh,12,10,2
+Plymouth,Remsen Library,Secretary of State,,LIB,Jules Ofenbakh,15,10,5
+Plymouth,Westfield Community Center,Secretary of State,,LIB,Jules Ofenbakh,5,2,3
+Plymouth,Kissinger Community Center,Secretary of State,,LIB,Jules Ofenbakh,10,7,3
+Plymouth,Perry Township Hall,Secretary of State,,LIB,Jules Ofenbakh,9,6,3
+Plymouth,Hinton Community Center,Secretary of State,,LIB,Jules Ofenbakh,11,6,5
+Plymouth,Kingsley Community Center,Secretary of State,,LIB,Jules Ofenbakh,11,9,2
+Plymouth,Le Mars Convention Center 11,Secretary of State,,LIB,Jules Ofenbakh,21,13,8
+Plymouth,Le Mars Convention Center 12,Secretary of State,,LIB,Jules Ofenbakh,17,16,1
+Plymouth,Le Mars Convention Center 13,Secretary of State,,LIB,Jules Ofenbakh,26,20,6
+Plymouth,Akron Public Library,Secretary of State,,,Write-in,0,0,0
+Plymouth,American Bank,Secretary of State,,,Write-in,0,0,0
+Plymouth,Courthouse Annex,Secretary of State,,,Write-in,0,0,0
+Plymouth,Brunsville Legion,Secretary of State,,,Write-in,0,0,0
+Plymouth,Remsen Library,Secretary of State,,,Write-in,0,0,0
+Plymouth,Westfield Community Center,Secretary of State,,,Write-in,0,0,0
+Plymouth,Kissinger Community Center,Secretary of State,,,Write-in,0,0,0
+Plymouth,Perry Township Hall,Secretary of State,,,Write-in,0,0,0
+Plymouth,Hinton Community Center,Secretary of State,,,Write-in,0,0,0
+Plymouth,Kingsley Community Center,Secretary of State,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 11,Secretary of State,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 12,Secretary of State,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 13,Secretary of State,,,Write-in,2,1,1
+Plymouth,Akron Public Library,Auditor of State,,REP,Mary Mosiman,431,336,95
+Plymouth,American Bank,Auditor of State,,REP,Mary Mosiman,229,105,124
+Plymouth,Courthouse Annex,Auditor of State,,REP,Mary Mosiman,296,188,108
+Plymouth,Brunsville Legion,Auditor of State,,REP,Mary Mosiman,438,277,161
+Plymouth,Remsen Library,Auditor of State,,REP,Mary Mosiman,615,363,252
+Plymouth,Westfield Community Center,Auditor of State,,REP,Mary Mosiman,213,146,67
+Plymouth,Kissinger Community Center,Auditor of State,,REP,Mary Mosiman,454,321,133
+Plymouth,Perry Township Hall,Auditor of State,,REP,Mary Mosiman,535,313,222
+Plymouth,Hinton Community Center,Auditor of State,,REP,Mary Mosiman,649,428,221
+Plymouth,Kingsley Community Center,Auditor of State,,REP,Mary Mosiman,503,356,147
+Plymouth,Le Mars Convention Center 11,Auditor of State,,REP,Mary Mosiman,820,415,405
+Plymouth,Le Mars Convention Center 12,Auditor of State,,REP,Mary Mosiman,968,516,452
+Plymouth,Le Mars Convention Center 13,Auditor of State,,REP,Mary Mosiman,504,279,225
+Plymouth,Akron Public Library,Auditor of State,,DEM,Rob Sand,243,172,71
+Plymouth,American Bank,Auditor of State,,DEM,Rob Sand,107,54,53
+Plymouth,Courthouse Annex,Auditor of State,,DEM,Rob Sand,114,60,54
+Plymouth,Brunsville Legion,Auditor of State,,DEM,Rob Sand,186,116,70
+Plymouth,Remsen Library,Auditor of State,,DEM,Rob Sand,351,182,169
+Plymouth,Westfield Community Center,Auditor of State,,DEM,Rob Sand,116,84,32
+Plymouth,Kissinger Community Center,Auditor of State,,DEM,Rob Sand,265,163,102
+Plymouth,Perry Township Hall,Auditor of State,,DEM,Rob Sand,288,150,138
+Plymouth,Hinton Community Center,Auditor of State,,DEM,Rob Sand,328,210,118
+Plymouth,Kingsley Community Center,Auditor of State,,DEM,Rob Sand,277,196,81
+Plymouth,Le Mars Convention Center 11,Auditor of State,,DEM,Rob Sand,515,244,271
+Plymouth,Le Mars Convention Center 12,Auditor of State,,DEM,Rob Sand,552,271,281
+Plymouth,Le Mars Convention Center 13,Auditor of State,,DEM,Rob Sand,346,190,156
+Plymouth,Akron Public Library,Auditor of State,,LIB,Fred Perryman,14,13,1
+Plymouth,American Bank,Auditor of State,,LIB,Fred Perryman,5,4,1
+Plymouth,Courthouse Annex,Auditor of State,,LIB,Fred Perryman,7,5,2
+Plymouth,Brunsville Legion,Auditor of State,,LIB,Fred Perryman,9,8,1
+Plymouth,Remsen Library,Auditor of State,,LIB,Fred Perryman,10,7,3
+Plymouth,Westfield Community Center,Auditor of State,,LIB,Fred Perryman,8,4,4
+Plymouth,Kissinger Community Center,Auditor of State,,LIB,Fred Perryman,14,11,3
+Plymouth,Perry Township Hall,Auditor of State,,LIB,Fred Perryman,8,7,1
+Plymouth,Hinton Community Center,Auditor of State,,LIB,Fred Perryman,17,12,5
+Plymouth,Kingsley Community Center,Auditor of State,,LIB,Fred Perryman,15,11,4
+Plymouth,Le Mars Convention Center 11,Auditor of State,,LIB,Fred Perryman,21,17,4
+Plymouth,Le Mars Convention Center 12,Auditor of State,,LIB,Fred Perryman,15,13,2
+Plymouth,Le Mars Convention Center 13,Auditor of State,,LIB,Fred Perryman,32,25,7
+Plymouth,Akron Public Library,Auditor of State,,,Write-in,0,0,0
+Plymouth,American Bank,Auditor of State,,,Write-in,0,0,0
+Plymouth,Courthouse Annex,Auditor of State,,,Write-in,0,0,0
+Plymouth,Brunsville Legion,Auditor of State,,,Write-in,0,0,0
+Plymouth,Remsen Library,Auditor of State,,,Write-in,0,0,0
+Plymouth,Westfield Community Center,Auditor of State,,,Write-in,0,0,0
+Plymouth,Kissinger Community Center,Auditor of State,,,Write-in,0,0,0
+Plymouth,Perry Township Hall,Auditor of State,,,Write-in,0,0,0
+Plymouth,Hinton Community Center,Auditor of State,,,Write-in,0,0,0
+Plymouth,Kingsley Community Center,Auditor of State,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 11,Auditor of State,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 12,Auditor of State,,,Write-in,1,0,1
+Plymouth,Le Mars Convention Center 13,Auditor of State,,,Write-in,2,1,1
+Plymouth,Akron Public Library,Treasurer of State,,REP,Jeremy N. Davis,449,353,96
+Plymouth,American Bank,Treasurer of State,,REP,Jeremy N. Davis,236,112,124
+Plymouth,Courthouse Annex,Treasurer of State,,REP,Jeremy N. Davis,298,193,105
+Plymouth,Brunsville Legion,Treasurer of State,,REP,Jeremy N. Davis,447,283,164
+Plymouth,Remsen Library,Treasurer of State,,REP,Jeremy N. Davis,621,365,256
+Plymouth,Westfield Community Center,Treasurer of State,,REP,Jeremy N. Davis,218,155,63
+Plymouth,Kissinger Community Center,Treasurer of State,,REP,Jeremy N. Davis,467,337,130
+Plymouth,Perry Township Hall,Treasurer of State,,REP,Jeremy N. Davis,570,334,236
+Plymouth,Hinton Community Center,Treasurer of State,,REP,Jeremy N. Davis,680,455,225
+Plymouth,Kingsley Community Center,Treasurer of State,,REP,Jeremy N. Davis,536,393,143
+Plymouth,Le Mars Convention Center 11,Treasurer of State,,REP,Jeremy N. Davis,820,418,402
+Plymouth,Le Mars Convention Center 12,Treasurer of State,,REP,Jeremy N. Davis,989,531,458
+Plymouth,Le Mars Convention Center 13,Treasurer of State,,REP,Jeremy N. Davis,528,292,236
+Plymouth,Akron Public Library,Treasurer of State,,DEM,Michael L. Fitzgerald,218,151,67
+Plymouth,American Bank,Treasurer of State,,DEM,Michael L. Fitzgerald,98,46,52
+Plymouth,Courthouse Annex,Treasurer of State,,DEM,Michael L. Fitzgerald,108,53,55
+Plymouth,Brunsville Legion,Treasurer of State,,DEM,Michael L. Fitzgerald,178,110,68
+Plymouth,Remsen Library,Treasurer of State,,DEM,Michael L. Fitzgerald,335,180,155
+Plymouth,Westfield Community Center,Treasurer of State,,DEM,Michael L. Fitzgerald,107,72,35
+Plymouth,Kissinger Community Center,Treasurer of State,,DEM,Michael L. Fitzgerald,239,139,100
+Plymouth,Perry Township Hall,Treasurer of State,,DEM,Michael L. Fitzgerald,241,126,115
+Plymouth,Hinton Community Center,Treasurer of State,,DEM,Michael L. Fitzgerald,296,185,111
+Plymouth,Kingsley Community Center,Treasurer of State,,DEM,Michael L. Fitzgerald,244,159,85
+Plymouth,Le Mars Convention Center 11,Treasurer of State,,DEM,Michael L. Fitzgerald,488,234,254
+Plymouth,Le Mars Convention Center 12,Treasurer of State,,DEM,Michael L. Fitzgerald,526,250,276
+Plymouth,Le Mars Convention Center 13,Treasurer of State,,DEM,Michael L. Fitzgerald,332,181,151
+Plymouth,Akron Public Library,Treasurer of State,,LIB,Timothy Hird,13,13,0
+Plymouth,American Bank,Treasurer of State,,LIB,Timothy Hird,5,3,2
+Plymouth,Courthouse Annex,Treasurer of State,,LIB,Timothy Hird,4,3,1
+Plymouth,Brunsville Legion,Treasurer of State,,LIB,Timothy Hird,5,5,0
+Plymouth,Remsen Library,Treasurer of State,,LIB,Timothy Hird,14,8,6
+Plymouth,Westfield Community Center,Treasurer of State,,LIB,Timothy Hird,6,3,3
+Plymouth,Kissinger Community Center,Treasurer of State,,LIB,Timothy Hird,16,11,5
+Plymouth,Perry Township Hall,Treasurer of State,,LIB,Timothy Hird,9,7,2
+Plymouth,Hinton Community Center,Treasurer of State,,LIB,Timothy Hird,15,8,7
+Plymouth,Kingsley Community Center,Treasurer of State,,LIB,Timothy Hird,12,7,5
+Plymouth,Le Mars Convention Center 11,Treasurer of State,,LIB,Timothy Hird,31,22,9
+Plymouth,Le Mars Convention Center 12,Treasurer of State,,LIB,Timothy Hird,16,15,1
+Plymouth,Le Mars Convention Center 13,Treasurer of State,,LIB,Timothy Hird,25,16,9
+Plymouth,Akron Public Library,Treasurer of State,,,Write-in,0,0,0
+Plymouth,American Bank,Treasurer of State,,,Write-in,0,0,0
+Plymouth,Courthouse Annex,Treasurer of State,,,Write-in,1,1,0
+Plymouth,Brunsville Legion,Treasurer of State,,,Write-in,0,0,0
+Plymouth,Remsen Library,Treasurer of State,,,Write-in,0,0,0
+Plymouth,Westfield Community Center,Treasurer of State,,,Write-in,0,0,0
+Plymouth,Kissinger Community Center,Treasurer of State,,,Write-in,0,0,0
+Plymouth,Perry Township Hall,Treasurer of State,,,Write-in,0,0,0
+Plymouth,Hinton Community Center,Treasurer of State,,,Write-in,0,0,0
+Plymouth,Kingsley Community Center,Treasurer of State,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 11,Treasurer of State,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 12,Treasurer of State,,,Write-in,1,0,1
+Plymouth,Le Mars Convention Center 13,Treasurer of State,,,Write-in,2,1,1
+Plymouth,Akron Public Library,Secretary of Agriculture,,REP,Mike Naig,472,366,106
+Plymouth,American Bank,Secretary of Agriculture,,REP,Mike Naig,273,128,145
+Plymouth,Courthouse Annex,Secretary of Agriculture,,REP,Mike Naig,340,211,129
+Plymouth,Brunsville Legion,Secretary of Agriculture,,REP,Mike Naig,508,312,196
+Plymouth,Remsen Library,Secretary of Agriculture,,REP,Mike Naig,723,404,319
+Plymouth,Westfield Community Center,Secretary of Agriculture,,REP,Mike Naig,229,158,71
+Plymouth,Kissinger Community Center,Secretary of Agriculture,,REP,Mike Naig,514,359,155
+Plymouth,Perry Township Hall,Secretary of Agriculture,,REP,Mike Naig,606,353,253
+Plymouth,Hinton Community Center,Secretary of Agriculture,,REP,Mike Naig,730,490,240
+Plymouth,Kingsley Community Center,Secretary of Agriculture,,REP,Mike Naig,614,434,180
+Plymouth,Le Mars Convention Center 11,Secretary of Agriculture,,REP,Mike Naig,943,476,467
+Plymouth,Le Mars Convention Center 12,Secretary of Agriculture,,REP,Mike Naig,1129,597,532
+Plymouth,Le Mars Convention Center 13,Secretary of Agriculture,,REP,Mike Naig,577,314,263
+Plymouth,Akron Public Library,Secretary of Agriculture,,DEM,Tim Gannon,191,133,58
+Plymouth,American Bank,Secretary of Agriculture,,DEM,Tim Gannon,69,31,38
+Plymouth,Courthouse Annex,Secretary of Agriculture,,DEM,Tim Gannon,70,39,31
+Plymouth,Brunsville Legion,Secretary of Agriculture,,DEM,Tim Gannon,118,82,36
+Plymouth,Remsen Library,Secretary of Agriculture,,DEM,Tim Gannon,234,138,96
+Plymouth,Westfield Community Center,Secretary of Agriculture,,DEM,Tim Gannon,101,73,28
+Plymouth,Kissinger Community Center,Secretary of Agriculture,,DEM,Tim Gannon,207,130,77
+Plymouth,Perry Township Hall,Secretary of Agriculture,,DEM,Tim Gannon,208,110,98
+Plymouth,Hinton Community Center,Secretary of Agriculture,,DEM,Tim Gannon,246,151,95
+Plymouth,Kingsley Community Center,Secretary of Agriculture,,DEM,Tim Gannon,167,115,52
+Plymouth,Le Mars Convention Center 11,Secretary of Agriculture,,DEM,Tim Gannon,360,181,179
+Plymouth,Le Mars Convention Center 12,Secretary of Agriculture,,DEM,Tim Gannon,400,194,206
+Plymouth,Le Mars Convention Center 13,Secretary of Agriculture,,DEM,Tim Gannon,278,157,121
+Plymouth,Akron Public Library,Secretary of Agriculture,,LIB,Rick Stewart,19,16,3
+Plymouth,American Bank,Secretary of Agriculture,,LIB,Rick Stewart,2,2,0
+Plymouth,Courthouse Annex,Secretary of Agriculture,,LIB,Rick Stewart,8,1,7
+Plymouth,Brunsville Legion,Secretary of Agriculture,,LIB,Rick Stewart,11,6,5
+Plymouth,Remsen Library,Secretary of Agriculture,,LIB,Rick Stewart,18,11,7
+Plymouth,Westfield Community Center,Secretary of Agriculture,,LIB,Rick Stewart,8,4,4
+Plymouth,Kissinger Community Center,Secretary of Agriculture,,LIB,Rick Stewart,11,6,5
+Plymouth,Perry Township Hall,Secretary of Agriculture,,LIB,Rick Stewart,9,7,2
+Plymouth,Hinton Community Center,Secretary of Agriculture,,LIB,Rick Stewart,19,12,7
+Plymouth,Kingsley Community Center,Secretary of Agriculture,,LIB,Rick Stewart,19,14,5
+Plymouth,Le Mars Convention Center 11,Secretary of Agriculture,,LIB,Rick Stewart,33,19,14
+Plymouth,Le Mars Convention Center 12,Secretary of Agriculture,,LIB,Rick Stewart,22,17,5
+Plymouth,Le Mars Convention Center 13,Secretary of Agriculture,,LIB,Rick Stewart,38,24,14
+Plymouth,Akron Public Library,Secretary of Agriculture,,,Write-in,0,0,0
+Plymouth,American Bank,Secretary of Agriculture,,,Write-in,0,0,0
+Plymouth,Courthouse Annex,Secretary of Agriculture,,,Write-in,0,0,0
+Plymouth,Brunsville Legion,Secretary of Agriculture,,,Write-in,0,0,0
+Plymouth,Remsen Library,Secretary of Agriculture,,,Write-in,0,0,0
+Plymouth,Westfield Community Center,Secretary of Agriculture,,,Write-in,0,0,0
+Plymouth,Kissinger Community Center,Secretary of Agriculture,,,Write-in,0,0,0
+Plymouth,Perry Township Hall,Secretary of Agriculture,,,Write-in,0,0,0
+Plymouth,Hinton Community Center,Secretary of Agriculture,,,Write-in,0,0,0
+Plymouth,Kingsley Community Center,Secretary of Agriculture,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 11,Secretary of Agriculture,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 12,Secretary of Agriculture,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 13,Secretary of Agriculture,,,Write-in,2,1,1
+Plymouth,Akron Public Library,Attorney General,,DEM,Tom Miller,397,291,106
+Plymouth,American Bank,Attorney General,,DEM,Tom Miller,189,91,98
+Plymouth,Courthouse Annex,Attorney General,,DEM,Tom Miller,232,137,95
+Plymouth,Brunsville Legion,Attorney General,,DEM,Tom Miller,358,221,137
+Plymouth,Remsen Library,Attorney General,,DEM,Tom Miller,593,332,261
+Plymouth,Westfield Community Center,Attorney General,,DEM,Tom Miller,177,117,60
+Plymouth,Kissinger Community Center,Attorney General,,DEM,Tom Miller,387,259,128
+Plymouth,Perry Township Hall,Attorney General,,DEM,Tom Miller,421,234,187
+Plymouth,Hinton Community Center,Attorney General,,DEM,Tom Miller,536,350,186
+Plymouth,Kingsley Community Center,Attorney General,,DEM,Tom Miller,463,323,140
+Plymouth,Le Mars Convention Center 11,Attorney General,,DEM,Tom Miller,807,406,401
+Plymouth,Le Mars Convention Center 12,Attorney General,,DEM,Tom Miller,897,462,435
+Plymouth,Le Mars Convention Center 13,Attorney General,,DEM,Tom Miller,531,296,235
+Plymouth,Akron Public Library,Attorney General,,LIB,Marco Battaglia,152,122,30
+Plymouth,American Bank,Attorney General,,LIB,Marco Battaglia,67,34,33
+Plymouth,Courthouse Annex,Attorney General,,LIB,Marco Battaglia,72,50,22
+Plymouth,Brunsville Legion,Attorney General,,LIB,Marco Battaglia,140,105,35
+Plymouth,Remsen Library,Attorney General,,LIB,Marco Battaglia,161,105,56
+Plymouth,Westfield Community Center,Attorney General,,LIB,Marco Battaglia,62,49,13
+Plymouth,Kissinger Community Center,Attorney General,,LIB,Marco Battaglia,152,112,40
+Plymouth,Perry Township Hall,Attorney General,,LIB,Marco Battaglia,205,131,74
+Plymouth,Hinton Community Center,Attorney General,,LIB,Marco Battaglia,239,159,80
+Plymouth,Kingsley Community Center,Attorney General,,LIB,Marco Battaglia,165,122,43
+Plymouth,Le Mars Convention Center 11,Attorney General,,LIB,Marco Battaglia,260,160,100
+Plymouth,Le Mars Convention Center 12,Attorney General,,LIB,Marco Battaglia,277,181,96
+Plymouth,Le Mars Convention Center 13,Attorney General,,LIB,Marco Battaglia,191,123,68
+Plymouth,Akron Public Library,Attorney General,,,Write-in,4,4,0
+Plymouth,American Bank,Attorney General,,,Write-in,1,1,0
+Plymouth,Courthouse Annex,Attorney General,,,Write-in,1,1,0
+Plymouth,Brunsville Legion,Attorney General,,,Write-in,4,2,2
+Plymouth,Remsen Library,Attorney General,,,Write-in,8,7,1
+Plymouth,Westfield Community Center,Attorney General,,,Write-in,3,2,1
+Plymouth,Kissinger Community Center,Attorney General,,,Write-in,8,5,3
+Plymouth,Perry Township Hall,Attorney General,,,Write-in,7,5,2
+Plymouth,Hinton Community Center,Attorney General,,,Write-in,10,7,3
+Plymouth,Kingsley Community Center,Attorney General,,,Write-in,3,2,1
+Plymouth,Le Mars Convention Center 11,Attorney General,,,Write-in,7,5,2
+Plymouth,Le Mars Convention Center 12,Attorney General,,,Write-in,8,4,4
+Plymouth,Le Mars Convention Center 13,Attorney General,,,Write-in,8,5,3
+Plymouth,Akron Public Library,State Senator District 3,,REP,Jim Carlin,481,378,103
+Plymouth,Courthouse Annex,State Senator District 3,,REP,Jim Carlin,343,216,127
+Plymouth,Brunsville Legion,State Senator District 3,,REP,Jim Carlin,492,309,183
+Plymouth,Remsen Library,State Senator District 3,,REP,Jim Carlin,739,440,299
+Plymouth,Westfield Community Center,State Senator District 3,,REP,Jim Carlin,233,164,69
+Plymouth,Kissinger Community Center,State Senator District 3,,REP,Jim Carlin,526,372,154
+Plymouth,Perry Township Hall,State Senator District 3,,REP,Jim Carlin,601,353,248
+Plymouth,Hinton Community Center,State Senator District 3,,REP,Jim Carlin,730,488,242
+Plymouth,Kingsley Community Center,State Senator District 3,,REP,Jim Carlin,581,416,165
+Plymouth,Le Mars Convention Center 11,State Senator District 3,,REP,Jim Carlin,939,487,452
+Plymouth,Le Mars Convention Center 12,State Senator District 3,,REP,Jim Carlin,1096,576,520
+Plymouth,Le Mars Convention Center 13,State Senator District 3,,REP,Jim Carlin,601,334,267
+Plymouth,Akron Public Library,State Senator District 3,,DEM,Dave Dawson,198,139,59
+Plymouth,Courthouse Annex,State Senator District 3,,DEM,Dave Dawson,79,38,41
+Plymouth,Brunsville Legion,State Senator District 3,,DEM,Dave Dawson,136,86,50
+Plymouth,Remsen Library,State Senator District 3,,DEM,Dave Dawson,230,116,114
+Plymouth,Westfield Community Center,State Senator District 3,,DEM,Dave Dawson,101,69,32
+Plymouth,Kissinger Community Center,State Senator District 3,,DEM,Dave Dawson,203,123,80
+Plymouth,Perry Township Hall,State Senator District 3,,DEM,Dave Dawson,225,115,110
+Plymouth,Hinton Community Center,State Senator District 3,,DEM,Dave Dawson,265,164,101
+Plymouth,Kingsley Community Center,State Senator District 3,,DEM,Dave Dawson,215,145,70
+Plymouth,Le Mars Convention Center 11,State Senator District 3,,DEM,Dave Dawson,414,195,219
+Plymouth,Le Mars Convention Center 12,State Senator District 3,,DEM,Dave Dawson,454,227,227
+Plymouth,Le Mars Convention Center 13,State Senator District 3,,DEM,Dave Dawson,285,155,130
+Plymouth,Akron Public Library,State Senator District 3,,,Write-in,2,2,0
+Plymouth,Courthouse Annex,State Senator District 3,,,Write-in,0,0,0
+Plymouth,Brunsville Legion,State Senator District 3,,,Write-in,1,1,0
+Plymouth,Remsen Library,State Senator District 3,,,Write-in,0,0,0
+Plymouth,Westfield Community Center,State Senator District 3,,,Write-in,0,0,0
+Plymouth,Kissinger Community Center,State Senator District 3,,,Write-in,0,0,0
+Plymouth,Perry Township Hall,State Senator District 3,,,Write-in,0,0,0
+Plymouth,Hinton Community Center,State Senator District 3,,,Write-in,0,0,0
+Plymouth,Kingsley Community Center,State Senator District 3,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 11,State Senator District 3,,,Write-in,2,0,2
+Plymouth,Le Mars Convention Center 12,State Senator District 3,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 13,State Senator District 3,,,Write-in,2,2,0
+Plymouth,American Bank,State Representative District 3,,REP,Dan Huseman,302,142,160
+Plymouth,American Bank,State Representative District 3,,,Write-in,1,1,0
+Plymouth,Akron Public Library,State Representative District 5,,REP,Thomas Jeneary,500,396,104
+Plymouth,Courthouse Annex,State Representative District 5,,REP,Thomas Jeneary,367,231,136
+Plymouth,Brunsville Legion,State Representative District 5,,REP,Thomas Jeneary,544,348,196
+Plymouth,Remsen Library,State Representative District 5,,REP,Thomas Jeneary,801,470,331
+Plymouth,Westfield Community Center,State Representative District 5,,REP,Thomas Jeneary,244,171,73
+Plymouth,Kissinger Community Center,State Representative District 5,,REP,Thomas Jeneary,568,404,164
+Plymouth,Perry Township Hall,State Representative District 5,,REP,Thomas Jeneary,604,355,249
+Plymouth,Hinton Community Center,State Representative District 5,,REP,Thomas Jeneary,749,506,243
+Plymouth,Kingsley Community Center,State Representative District 5,,REP,Thomas Jeneary,617,446,171
+Plymouth,Le Mars Convention Center 11,State Representative District 5,,REP,Thomas Jeneary,1057,551,506
+Plymouth,Le Mars Convention Center 12,State Representative District 5,,REP,Thomas Jeneary,1258,682,576
+Plymouth,Le Mars Convention Center 13,State Representative District 5,,REP,Thomas Jeneary,676,379,297
+Plymouth,Akron Public Library,State Representative District 5,,DEM,Andrew Emanuel,177,119,58
+Plymouth,Courthouse Annex,State Representative District 5,,DEM,Andrew Emanuel,57,26,31
+Plymouth,Brunsville Legion,State Representative District 5,,DEM,Andrew Emanuel,91,53,38
+Plymouth,Remsen Library,State Representative District 5,,DEM,Andrew Emanuel,177,87,90
+Plymouth,Westfield Community Center,State Representative District 5,,DEM,Andrew Emanuel,91,63,28
+Plymouth,Kissinger Community Center,State Representative District 5,,DEM,Andrew Emanuel,157,86,71
+Plymouth,Perry Township Hall,State Representative District 5,,DEM,Andrew Emanuel,207,106,101
+Plymouth,Hinton Community Center,State Representative District 5,,DEM,Andrew Emanuel,231,138,93
+Plymouth,Kingsley Community Center,State Representative District 5,,DEM,Andrew Emanuel,166,105,61
+Plymouth,Le Mars Convention Center 11,State Representative District 5,,DEM,Andrew Emanuel,301,131,170
+Plymouth,Le Mars Convention Center 12,State Representative District 5,,DEM,Andrew Emanuel,314,135,179
+Plymouth,Le Mars Convention Center 13,State Representative District 5,,DEM,Andrew Emanuel,225,119,106
+Plymouth,Akron Public Library,State Representative District 5,,,Write-in,1,1,0
+Plymouth,Courthouse Annex,State Representative District 5,,,Write-in,0,0,0
+Plymouth,Brunsville Legion,State Representative District 5,,,Write-in,1,1,0
+Plymouth,Remsen Library,State Representative District 5,,,Write-in,0,0,0
+Plymouth,Westfield Community Center,State Representative District 5,,,Write-in,0,0,0
+Plymouth,Kissinger Community Center,State Representative District 5,,,Write-in,1,1,0
+Plymouth,Perry Township Hall,State Representative District 5,,,Write-in,0,0,0
+Plymouth,Hinton Community Center,State Representative District 5,,,Write-in,0,0,0
+Plymouth,Kingsley Community Center,State Representative District 5,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 11,State Representative District 5,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 12,State Representative District 5,,,Write-in,1,0,1
+Plymouth,Le Mars Convention Center 13,State Representative District 5,,,Write-in,4,2,2
+Plymouth,Akron Public Library,County Supervisor Dist. 1,,REP,John R. Meis,578,452,126
+Plymouth,American Bank,County Supervisor Dist. 1,,REP,John R. Meis,298,142,156
+Plymouth,Courthouse Annex,County Supervisor Dist. 1,,REP,John R. Meis,373,236,137
+Plymouth,Brunsville Legion,County Supervisor Dist. 1,,REP,John R. Meis,568,365,203
+Plymouth,Remsen Library,County Supervisor Dist. 1,,REP,John R. Meis,841,501,340
+Plymouth,Westfield Community Center,County Supervisor Dist. 1,,REP,John R. Meis,276,196,80
+Plymouth,Kissinger Community Center,County Supervisor Dist. 1,,REP,John R. Meis,597,423,174
+Plymouth,Perry Township Hall,County Supervisor Dist. 1,,REP,John R. Meis,683,397,286
+Plymouth,Hinton Community Center,County Supervisor Dist. 1,,REP,John R. Meis,820,552,268
+Plymouth,Kingsley Community Center,County Supervisor Dist. 1,,REP,John R. Meis,687,492,195
+Plymouth,Le Mars Convention Center 11,County Supervisor Dist. 1,,REP,John R. Meis,1153,609,544
+Plymouth,Le Mars Convention Center 12,County Supervisor Dist. 1,,REP,John R. Meis,1332,708,624
+Plymouth,Le Mars Convention Center 13,County Supervisor Dist. 1,,REP,John R. Meis,752,435,317
+Plymouth,Akron Public Library,County Supervisor Dist. 1,,,Write-in,8,7,1
+Plymouth,American Bank,County Supervisor Dist. 1,,,Write-in,1,1,0
+Plymouth,Courthouse Annex,County Supervisor Dist. 1,,,Write-in,0,0,0
+Plymouth,Brunsville Legion,County Supervisor Dist. 1,,,Write-in,7,5,2
+Plymouth,Remsen Library,County Supervisor Dist. 1,,,Write-in,6,3,3
+Plymouth,Westfield Community Center,County Supervisor Dist. 1,,,Write-in,2,2,0
+Plymouth,Kissinger Community Center,County Supervisor Dist. 1,,,Write-in,4,3,1
+Plymouth,Perry Township Hall,County Supervisor Dist. 1,,,Write-in,9,7,2
+Plymouth,Hinton Community Center,County Supervisor Dist. 1,,,Write-in,12,11,1
+Plymouth,Kingsley Community Center,County Supervisor Dist. 1,,,Write-in,4,4,0
+Plymouth,Le Mars Convention Center 11,County Supervisor Dist. 1,,,Write-in,10,9,1
+Plymouth,Le Mars Convention Center 12,County Supervisor Dist. 1,,,Write-in,13,6,7
+Plymouth,Le Mars Convention Center 13,County Supervisor Dist. 1,,,Write-in,19,11,8
+Plymouth,Akron Public Library,County Supervisor Dist. 3,,REP,Don Kass,539,420,119
+Plymouth,American Bank,County Supervisor Dist. 3,,REP,Don Kass,300,140,160
+Plymouth,Courthouse Annex,County Supervisor Dist. 3,,REP,Don Kass,361,229,132
+Plymouth,Brunsville Legion,County Supervisor Dist. 3,,REP,Don Kass,561,364,197
+Plymouth,Remsen Library,County Supervisor Dist. 3,,REP,Don Kass,832,494,338
+Plymouth,Westfield Community Center,County Supervisor Dist. 3,,REP,Don Kass,266,190,76
+Plymouth,Kissinger Community Center,County Supervisor Dist. 3,,REP,Don Kass,583,414,169
+Plymouth,Perry Township Hall,County Supervisor Dist. 3,,REP,Don Kass,660,390,270
+Plymouth,Hinton Community Center,County Supervisor Dist. 3,,REP,Don Kass,770,519,251
+Plymouth,Kingsley Community Center,County Supervisor Dist. 3,,REP,Don Kass,667,483,184
+Plymouth,Le Mars Convention Center 11,County Supervisor Dist. 3,,REP,Don Kass,1090,593,497
+Plymouth,Le Mars Convention Center 12,County Supervisor Dist. 3,,REP,Don Kass,1255,685,570
+Plymouth,Le Mars Convention Center 13,County Supervisor Dist. 3,,REP,Don Kass,702,408,294
+Plymouth,Akron Public Library,County Supervisor Dist. 3,,,Write-in,3,3,0
+Plymouth,American Bank,County Supervisor Dist. 3,,,Write-in,2,2,0
+Plymouth,Courthouse Annex,County Supervisor Dist. 3,,,Write-in,0,0,0
+Plymouth,Brunsville Legion,County Supervisor Dist. 3,,,Write-in,6,5,1
+Plymouth,Remsen Library,County Supervisor Dist. 3,,,Write-in,15,4,11
+Plymouth,Westfield Community Center,County Supervisor Dist. 3,,,Write-in,1,0,1
+Plymouth,Kissinger Community Center,County Supervisor Dist. 3,,,Write-in,5,3,2
+Plymouth,Perry Township Hall,County Supervisor Dist. 3,,,Write-in,7,5,2
+Plymouth,Hinton Community Center,County Supervisor Dist. 3,,,Write-in,7,7,0
+Plymouth,Kingsley Community Center,County Supervisor Dist. 3,,,Write-in,2,2,0
+Plymouth,Le Mars Convention Center 11,County Supervisor Dist. 3,,,Write-in,13,11,2
+Plymouth,Le Mars Convention Center 12,County Supervisor Dist. 3,,,Write-in,15,6,9
+Plymouth,Le Mars Convention Center 13,County Supervisor Dist. 3,,,Write-in,14,8,6
+Plymouth,Akron Public Library,County Supervisor Dist. 4,,REP,Craig A. Anderson,529,411,118
+Plymouth,American Bank,County Supervisor Dist. 4,,REP,Craig A. Anderson,287,138,149
+Plymouth,Courthouse Annex,County Supervisor Dist. 4,,REP,Craig A. Anderson,358,227,131
+Plymouth,Brunsville Legion,County Supervisor Dist. 4,,REP,Craig A. Anderson,541,350,191
+Plymouth,Remsen Library,County Supervisor Dist. 4,,REP,Craig A. Anderson,787,467,320
+Plymouth,Westfield Community Center,County Supervisor Dist. 4,,REP,Craig A. Anderson,262,187,75
+Plymouth,Kissinger Community Center,County Supervisor Dist. 4,,REP,Craig A. Anderson,583,415,168
+Plymouth,Perry Township Hall,County Supervisor Dist. 4,,REP,Craig A. Anderson,649,385,264
+Plymouth,Hinton Community Center,County Supervisor Dist. 4,,REP,Craig A. Anderson,761,515,246
+Plymouth,Kingsley Community Center,County Supervisor Dist. 4,,REP,Craig A. Anderson,658,475,183
+Plymouth,Le Mars Convention Center 11,County Supervisor Dist. 4,,REP,Craig A. Anderson,1086,587,499
+Plymouth,Le Mars Convention Center 12,County Supervisor Dist. 4,,REP,Craig A. Anderson,1234,671,563
+Plymouth,Le Mars Convention Center 13,County Supervisor Dist. 4,,REP,Craig A. Anderson,687,406,281
+Plymouth,Akron Public Library,County Supervisor Dist. 4,,,Write-in,2,2,0
+Plymouth,American Bank,County Supervisor Dist. 4,,,Write-in,1,1,0
+Plymouth,Courthouse Annex,County Supervisor Dist. 4,,,Write-in,0,0,0
+Plymouth,Brunsville Legion,County Supervisor Dist. 4,,,Write-in,11,9,2
+Plymouth,Remsen Library,County Supervisor Dist. 4,,,Write-in,7,5,2
+Plymouth,Westfield Community Center,County Supervisor Dist. 4,,,Write-in,0,0,0
+Plymouth,Kissinger Community Center,County Supervisor Dist. 4,,,Write-in,10,6,4
+Plymouth,Perry Township Hall,County Supervisor Dist. 4,,,Write-in,10,8,2
+Plymouth,Hinton Community Center,County Supervisor Dist. 4,,,Write-in,12,10,2
+Plymouth,Kingsley Community Center,County Supervisor Dist. 4,,,Write-in,3,3,0
+Plymouth,Le Mars Convention Center 11,County Supervisor Dist. 4,,,Write-in,14,12,2
+Plymouth,Le Mars Convention Center 12,County Supervisor Dist. 4,,,Write-in,13,5,8
+Plymouth,Le Mars Convention Center 13,County Supervisor Dist. 4,,,Write-in,13,8,5
+Plymouth,Akron Public Library,County Treasurer,,REP,Shelly Sitzmann,565,432,133
+Plymouth,American Bank,County Treasurer,,REP,Shelly Sitzmann,295,142,153
+Plymouth,Courthouse Annex,County Treasurer,,REP,Shelly Sitzmann,372,233,139
+Plymouth,Brunsville Legion,County Treasurer,,REP,Shelly Sitzmann,562,363,199
+Plymouth,Remsen Library,County Treasurer,,REP,Shelly Sitzmann,834,492,342
+Plymouth,Westfield Community Center,County Treasurer,,REP,Shelly Sitzmann,273,192,81
+Plymouth,Kissinger Community Center,County Treasurer,,REP,Shelly Sitzmann,596,424,172
+Plymouth,Perry Township Hall,County Treasurer,,REP,Shelly Sitzmann,668,393,275
+Plymouth,Hinton Community Center,County Treasurer,,REP,Shelly Sitzmann,797,533,264
+Plymouth,Kingsley Community Center,County Treasurer,,REP,Shelly Sitzmann,693,501,192
+Plymouth,Le Mars Convention Center 11,County Treasurer,,REP,Shelly Sitzmann,1168,614,554
+Plymouth,Le Mars Convention Center 12,County Treasurer,,REP,Shelly Sitzmann,1322,713,609
+Plymouth,Le Mars Convention Center 13,County Treasurer,,REP,Shelly Sitzmann,739,423,316
+Plymouth,Akron Public Library,County Treasurer,,,Write-in,3,3,0
+Plymouth,American Bank,County Treasurer,,,Write-in,1,1,0
+Plymouth,Courthouse Annex,County Treasurer,,,Write-in,0,0,0
+Plymouth,Brunsville Legion,County Treasurer,,,Write-in,4,3,1
+Plymouth,Remsen Library,County Treasurer,,,Write-in,3,1,2
+Plymouth,Westfield Community Center,County Treasurer,,,Write-in,0,0,0
+Plymouth,Kissinger Community Center,County Treasurer,,,Write-in,2,1,1
+Plymouth,Perry Township Hall,County Treasurer,,,Write-in,6,4,2
+Plymouth,Hinton Community Center,County Treasurer,,,Write-in,7,6,1
+Plymouth,Kingsley Community Center,County Treasurer,,,Write-in,2,2,0
+Plymouth,Le Mars Convention Center 11,County Treasurer,,,Write-in,9,6,3
+Plymouth,Le Mars Convention Center 12,County Treasurer,,,Write-in,10,4,6
+Plymouth,Le Mars Convention Center 13,County Treasurer,,,Write-in,7,4,3
+Plymouth,Akron Public Library,County Recorder,,REP,Jolynn Goodchild,545,422,123
+Plymouth,American Bank,County Recorder,,REP,Jolynn Goodchild,286,135,151
+Plymouth,Courthouse Annex,County Recorder,,REP,Jolynn Goodchild,366,233,133
+Plymouth,Brunsville Legion,County Recorder,,REP,Jolynn Goodchild,562,361,201
+Plymouth,Remsen Library,County Recorder,,REP,Jolynn Goodchild,814,479,335
+Plymouth,Westfield Community Center,County Recorder,,REP,Jolynn Goodchild,270,189,81
+Plymouth,Kissinger Community Center,County Recorder,,REP,Jolynn Goodchild,585,416,169
+Plymouth,Perry Township Hall,County Recorder,,REP,Jolynn Goodchild,659,388,271
+Plymouth,Hinton Community Center,County Recorder,,REP,Jolynn Goodchild,783,526,257
+Plymouth,Kingsley Community Center,County Recorder,,REP,Jolynn Goodchild,666,483,183
+Plymouth,Le Mars Convention Center 11,County Recorder,,REP,Jolynn Goodchild,1154,611,543
+Plymouth,Le Mars Convention Center 12,County Recorder,,REP,Jolynn Goodchild,1305,702,603
+Plymouth,Le Mars Convention Center 13,County Recorder,,REP,Jolynn Goodchild,733,416,317
+Plymouth,Akron Public Library,County Recorder,,,Write-in,3,3,0
+Plymouth,American Bank,County Recorder,,,Write-in,1,1,0
+Plymouth,Courthouse Annex,County Recorder,,,Write-in,3,0,3
+Plymouth,Brunsville Legion,County Recorder,,,Write-in,5,3,2
+Plymouth,Remsen Library,County Recorder,,,Write-in,4,2,2
+Plymouth,Westfield Community Center,County Recorder,,,Write-in,0,0,0
+Plymouth,Kissinger Community Center,County Recorder,,,Write-in,4,1,3
+Plymouth,Perry Township Hall,County Recorder,,,Write-in,5,4,1
+Plymouth,Hinton Community Center,County Recorder,,,Write-in,7,7,0
+Plymouth,Kingsley Community Center,County Recorder,,,Write-in,1,1,0
+Plymouth,Le Mars Convention Center 11,County Recorder,,,Write-in,8,6,2
+Plymouth,Le Mars Convention Center 12,County Recorder,,,Write-in,8,3,5
+Plymouth,Le Mars Convention Center 13,County Recorder,,,Write-in,10,7,3
+Plymouth,Akron Public Library,County Attorney,,REP,Darin J. Raymond,545,422,123
+Plymouth,American Bank,County Attorney,,REP,Darin J. Raymond,277,134,143
+Plymouth,Courthouse Annex,County Attorney,,REP,Darin J. Raymond,344,217,127
+Plymouth,Brunsville Legion,County Attorney,,REP,Darin J. Raymond,519,333,186
+Plymouth,Remsen Library,County Attorney,,REP,Darin J. Raymond,770,462,308
+Plymouth,Westfield Community Center,County Attorney,,REP,Darin J. Raymond,256,179,77
+Plymouth,Kissinger Community Center,County Attorney,,REP,Darin J. Raymond,568,404,164
+Plymouth,Perry Township Hall,County Attorney,,REP,Darin J. Raymond,641,380,261
+Plymouth,Hinton Community Center,County Attorney,,REP,Darin J. Raymond,763,512,251
+Plymouth,Kingsley Community Center,County Attorney,,REP,Darin J. Raymond,652,470,182
+Plymouth,Le Mars Convention Center 11,County Attorney,,REP,Darin J. Raymond,1074,583,491
+Plymouth,Le Mars Convention Center 12,County Attorney,,REP,Darin J. Raymond,1222,669,553
+Plymouth,Le Mars Convention Center 13,County Attorney,,REP,Darin J. Raymond,685,397,288
+Plymouth,Akron Public Library,County Attorney,,,Write-in,5,4,1
+Plymouth,American Bank,County Attorney,,,Write-in,2,2,0
+Plymouth,Courthouse Annex,County Attorney,,,Write-in,3,2,1
+Plymouth,Brunsville Legion,County Attorney,,,Write-in,11,8,3
+Plymouth,Remsen Library,County Attorney,,,Write-in,13,7,6
+Plymouth,Westfield Community Center,County Attorney,,,Write-in,1,1,0
+Plymouth,Kissinger Community Center,County Attorney,,,Write-in,5,3,2
+Plymouth,Perry Township Hall,County Attorney,,,Write-in,8,4,4
+Plymouth,Hinton Community Center,County Attorney,,,Write-in,6,6,0
+Plymouth,Kingsley Community Center,County Attorney,,,Write-in,6,6,0
+Plymouth,Le Mars Convention Center 11,County Attorney,,,Write-in,20,13,7
+Plymouth,Le Mars Convention Center 12,County Attorney,,,Write-in,22,7,15
+Plymouth,Le Mars Convention Center 13,County Attorney,,,Write-in,20,11,9
+Plymouth,Remsen Library,Fredonia Township Trustee,,,Mike Schnepf,86,42,44
+Plymouth,Remsen Library,Fredonia Township Trustee,,,Mike Detloff,91,46,45
+Plymouth,Remsen Library,Fredonia Township Trustee,,,Write-in,0,0,0
+Plymouth,Remsen Library,Fredonia Township Clerk,,,Wayne T. Pick,102,52,50
+Plymouth,Remsen Library,Fredonia Township Clerk,,,Write-in,1,0,1
+Plymouth,Akron Public Library,Soil & Water Conservation District Commissioner,,,Jeff Petersen,409,319,90
+Plymouth,American Bank,Soil & Water Conservation District Commissioner,,,Jeff Petersen,228,114,114
+Plymouth,Courthouse Annex,Soil & Water Conservation District Commissioner,,,Jeff Petersen,284,173,111
+Plymouth,Brunsville Legion,Soil & Water Conservation District Commissioner,,,Jeff Petersen,492,311,181
+Plymouth,Remsen Library,Soil & Water Conservation District Commissioner,,,Jeff Petersen,627,374,253
+Plymouth,Westfield Community Center,Soil & Water Conservation District Commissioner,,,Jeff Petersen,210,147,63
+Plymouth,Kissinger Community Center,Soil & Water Conservation District Commissioner,,,Jeff Petersen,491,340,151
+Plymouth,Perry Township Hall,Soil & Water Conservation District Commissioner,,,Jeff Petersen,511,286,225
+Plymouth,Hinton Community Center,Soil & Water Conservation District Commissioner,,,Jeff Petersen,613,413,200
+Plymouth,Kingsley Community Center,Soil & Water Conservation District Commissioner,,,Jeff Petersen,534,387,147
+Plymouth,Le Mars Convention Center 11,Soil & Water Conservation District Commissioner,,,Jeff Petersen,929,504,425
+Plymouth,Le Mars Convention Center 12,Soil & Water Conservation District Commissioner,,,Jeff Petersen,1035,569,466
+Plymouth,Le Mars Convention Center 13,Soil & Water Conservation District Commissioner,,,Jeff Petersen,554,335,219
+Plymouth,Akron Public Library,Soil & Water Conservation District Commissioner,,,Pat Winter,343,258,85
+Plymouth,American Bank,Soil & Water Conservation District Commissioner,,,Pat Winter,191,93,98
+Plymouth,Courthouse Annex,Soil & Water Conservation District Commissioner,,,Pat Winter,237,148,89
+Plymouth,Brunsville Legion,Soil & Water Conservation District Commissioner,,,Pat Winter,375,247,128
+Plymouth,Remsen Library,Soil & Water Conservation District Commissioner,,,Pat Winter,516,311,205
+Plymouth,Westfield Community Center,Soil & Water Conservation District Commissioner,,,Pat Winter,150,105,45
+Plymouth,Kissinger Community Center,Soil & Water Conservation District Commissioner,,,Pat Winter,388,259,129
+Plymouth,Perry Township Hall,Soil & Water Conservation District Commissioner,,,Pat Winter,427,238,189
+Plymouth,Hinton Community Center,Soil & Water Conservation District Commissioner,,,Pat Winter,493,310,183
+Plymouth,Kingsley Community Center,Soil & Water Conservation District Commissioner,,,Pat Winter,455,324,131
+Plymouth,Le Mars Convention Center 11,Soil & Water Conservation District Commissioner,,,Pat Winter,800,439,361
+Plymouth,Le Mars Convention Center 12,Soil & Water Conservation District Commissioner,,,Pat Winter,879,471,408
+Plymouth,Le Mars Convention Center 13,Soil & Water Conservation District Commissioner,,,Pat Winter,475,277,198
+Plymouth,Akron Public Library,Soil & Water Conservation District Commissioner,,,Write-in,1,0,1
+Plymouth,American Bank,Soil & Water Conservation District Commissioner,,,Write-in,2,1,1
+Plymouth,Courthouse Annex,Soil & Water Conservation District Commissioner,,,Write-in,4,3,1
+Plymouth,Brunsville Legion,Soil & Water Conservation District Commissioner,,,Write-in,2,2,0
+Plymouth,Remsen Library,Soil & Water Conservation District Commissioner,,,Write-in,5,2,3
+Plymouth,Westfield Community Center,Soil & Water Conservation District Commissioner,,,Write-in,0,0,0
+Plymouth,Kissinger Community Center,Soil & Water Conservation District Commissioner,,,Write-in,5,3,2
+Plymouth,Perry Township Hall,Soil & Water Conservation District Commissioner,,,Write-in,2,2,0
+Plymouth,Hinton Community Center,Soil & Water Conservation District Commissioner,,,Write-in,3,2,1
+Plymouth,Kingsley Community Center,Soil & Water Conservation District Commissioner,,,Write-in,3,3,0
+Plymouth,Le Mars Convention Center 11,Soil & Water Conservation District Commissioner,,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 12,Soil & Water Conservation District Commissioner,,,Write-in,8,1,7
+Plymouth,Le Mars Convention Center 13,Soil & Water Conservation District Commissioner,,,Write-in,6,2,4
+Plymouth,Akron Public Library,County Agricultural Extension Council Members,,,Steve Tonsfeldt,327,255,72
+Plymouth,American Bank,County Agricultural Extension Council Members,,,Steve Tonsfeldt,239,113,126
+Plymouth,Courthouse Annex,County Agricultural Extension Council Members,,,Steve Tonsfeldt,271,168,103
+Plymouth,Brunsville Legion,County Agricultural Extension Council Members,,,Steve Tonsfeldt,429,282,147
+Plymouth,Remsen Library,County Agricultural Extension Council Members,,,Steve Tonsfeldt,663,396,267
+Plymouth,Westfield Community Center,County Agricultural Extension Council Members,,,Steve Tonsfeldt,166,114,52
+Plymouth,Kissinger Community Center,County Agricultural Extension Council Members,,,Steve Tonsfeldt,419,282,137
+Plymouth,Perry Township Hall,County Agricultural Extension Council Members,,,Steve Tonsfeldt,457,261,196
+Plymouth,Hinton Community Center,County Agricultural Extension Council Members,,,Steve Tonsfeldt,541,371,170
+Plymouth,Kingsley Community Center,County Agricultural Extension Council Members,,,Steve Tonsfeldt,451,324,127
+Plymouth,Le Mars Convention Center 11,County Agricultural Extension Council Members,,,Steve Tonsfeldt,855,478,377
+Plymouth,Le Mars Convention Center 12,County Agricultural Extension Council Members,,,Steve Tonsfeldt,974,539,435
+Plymouth,Le Mars Convention Center 13,County Agricultural Extension Council Members,,,Steve Tonsfeldt,506,309,197
+Plymouth,Akron Public Library,County Agricultural Extension Council Members,,,Karen B. Harrington,307,236,71
+Plymouth,American Bank,County Agricultural Extension Council Members,,,Karen B. Harrington,182,87,95
+Plymouth,Courthouse Annex,County Agricultural Extension Council Members,,,Karen B. Harrington,245,151,94
+Plymouth,Brunsville Legion,County Agricultural Extension Council Members,,,Karen B. Harrington,408,274,134
+Plymouth,Remsen Library,County Agricultural Extension Council Members,,,Karen B. Harrington,499,305,194
+Plymouth,Westfield Community Center,County Agricultural Extension Council Members,,,Karen B. Harrington,147,103,44
+Plymouth,Kissinger Community Center,County Agricultural Extension Council Members,,,Karen B. Harrington,402,265,137
+Plymouth,Perry Township Hall,County Agricultural Extension Council Members,,,Karen B. Harrington,431,245,186
+Plymouth,Hinton Community Center,County Agricultural Extension Council Members,,,Karen B. Harrington,484,325,159
+Plymouth,Kingsley Community Center,County Agricultural Extension Council Members,,,Karen B. Harrington,421,305,116
+Plymouth,Le Mars Convention Center 11,County Agricultural Extension Council Members,,,Karen B. Harrington,778,436,342
+Plymouth,Le Mars Convention Center 12,County Agricultural Extension Council Members,,,Karen B. Harrington,912,492,420
+Plymouth,Le Mars Convention Center 13,County Agricultural Extension Council Members,,,Karen B. Harrington,440,264,176
+Plymouth,Akron Public Library,County Agricultural Extension Council Members,,,Cynthia K. Wolff,382,290,92
+Plymouth,American Bank,County Agricultural Extension Council Members,,,Cynthia K. Wolff,184,85,99
+Plymouth,Courthouse Annex,County Agricultural Extension Council Members,,,Cynthia K. Wolff,227,139,88
+Plymouth,Brunsville Legion,County Agricultural Extension Council Members,,,Cynthia K. Wolff,407,270,137
+Plymouth,Remsen Library,County Agricultural Extension Council Members,,,Cynthia K. Wolff,516,323,193
+Plymouth,Westfield Community Center,County Agricultural Extension Council Members,,,Cynthia K. Wolff,181,124,57
+Plymouth,Kissinger Community Center,County Agricultural Extension Council Members,,,Cynthia K. Wolff,393,257,136
+Plymouth,Perry Township Hall,County Agricultural Extension Council Members,,,Cynthia K. Wolff,451,253,198
+Plymouth,Hinton Community Center,County Agricultural Extension Council Members,,,Cynthia K. Wolff,491,325,166
+Plymouth,Kingsley Community Center,County Agricultural Extension Council Members,,,Cynthia K. Wolff,420,302,118
+Plymouth,Le Mars Convention Center 11,County Agricultural Extension Council Members,,,Cynthia K. Wolff,768,433,335
+Plymouth,Le Mars Convention Center 12,County Agricultural Extension Council Members,,,Cynthia K. Wolff,904,493,411
+Plymouth,Le Mars Convention Center 13,County Agricultural Extension Council Members,,,Cynthia K. Wolff,439,270,169
+Plymouth,Akron Public Library,County Agricultural Extension Council Members,,,Tanya Riemenschneider,291,223,68
+Plymouth,American Bank,County Agricultural Extension Council Members,,,Tanya Riemenschneider,204,101,103
+Plymouth,Courthouse Annex,County Agricultural Extension Council Members,,,Tanya Riemenschneider,225,143,82
+Plymouth,Brunsville Legion,County Agricultural Extension Council Members,,,Tanya Riemenschneider,368,254,114
+Plymouth,Remsen Library,County Agricultural Extension Council Members,,,Tanya Riemenschneider,524,317,207
+Plymouth,Westfield Community Center,County Agricultural Extension Council Members,,,Tanya Riemenschneider,151,104,47
+Plymouth,Kissinger Community Center,County Agricultural Extension Council Members,,,Tanya Riemenschneider,373,248,125
+Plymouth,Perry Township Hall,County Agricultural Extension Council Members,,,Tanya Riemenschneider,430,245,185
+Plymouth,Hinton Community Center,County Agricultural Extension Council Members,,,Tanya Riemenschneider,500,336,164
+Plymouth,Kingsley Community Center,County Agricultural Extension Council Members,,,Tanya Riemenschneider,566,415,151
+Plymouth,Le Mars Convention Center 11,County Agricultural Extension Council Members,,,Tanya Riemenschneider,736,417,319
+Plymouth,Le Mars Convention Center 12,County Agricultural Extension Council Members,,,Tanya Riemenschneider,861,473,388
+Plymouth,Le Mars Convention Center 13,County Agricultural Extension Council Members,,,Tanya Riemenschneider,419,254,165
+Plymouth,Akron Public Library,County Agricultural Extension Council Members,,,Julie Madden,405,305,100
+Plymouth,American Bank,County Agricultural Extension Council Members,,,Julie Madden,181,87,94
+Plymouth,Courthouse Annex,County Agricultural Extension Council Members,,,Julie Madden,228,140,88
+Plymouth,Brunsville Legion,County Agricultural Extension Council Members,,,Julie Madden,401,264,137
+Plymouth,Remsen Library,County Agricultural Extension Council Members,,,Julie Madden,496,304,192
+Plymouth,Westfield Community Center,County Agricultural Extension Council Members,,,Julie Madden,190,136,54
+Plymouth,Kissinger Community Center,County Agricultural Extension Council Members,,,Julie Madden,396,267,129
+Plymouth,Perry Township Hall,County Agricultural Extension Council Members,,,Julie Madden,444,256,188
+Plymouth,Hinton Community Center,County Agricultural Extension Council Members,,,Julie Madden,488,326,162
+Plymouth,Kingsley Community Center,County Agricultural Extension Council Members,,,Julie Madden,426,307,119
+Plymouth,Le Mars Convention Center 11,County Agricultural Extension Council Members,,,Julie Madden,747,419,328
+Plymouth,Le Mars Convention Center 12,County Agricultural Extension Council Members,,,Julie Madden,866,476,390
+Plymouth,Le Mars Convention Center 13,County Agricultural Extension Council Members,,,Julie Madden,432,256,176
+Plymouth,Akron Public Library,County Agricultural Extension Council Members,,,Write-in,1,1,0
+Plymouth,American Bank,County Agricultural Extension Council Members,,,Write-in,0,0,0
+Plymouth,Courthouse Annex,County Agricultural Extension Council Members,,,Write-in,0,0,0
+Plymouth,Brunsville Legion,County Agricultural Extension Council Members,,,Write-in,17,17,0
+Plymouth,Remsen Library,County Agricultural Extension Council Members,,,Write-in,3,3,0
+Plymouth,Westfield Community Center,County Agricultural Extension Council Members,,,Write-in,5,2,3
+Plymouth,Kissinger Community Center,County Agricultural Extension Council Members,,,Write-in,9,2,7
+Plymouth,Perry Township Hall,County Agricultural Extension Council Members,,,Write-in,0,0,0
+Plymouth,Hinton Community Center,County Agricultural Extension Council Members,,,Write-in,7,7,0
+Plymouth,Kingsley Community Center,County Agricultural Extension Council Members,,,Write-in,4,4,0
+Plymouth,Le Mars Convention Center 11,County Agricultural Extension Council Members,,,Write-in,6,0,6
+Plymouth,Le Mars Convention Center 12,County Agricultural Extension Council Members,,,Write-in,20,3,17
+Plymouth,Le Mars Convention Center 13,County Agricultural Extension Council Members,,,Write-in,4,1,3
+Plymouth,Akron Public Library,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,339,259,80
+Plymouth,American Bank,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,158,78,80
+Plymouth,Courthouse Annex,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,210,140,70
+Plymouth,Brunsville Legion,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,336,227,109
+Plymouth,Remsen Library,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,468,302,166
+Plymouth,Westfield Community Center,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,148,109,39
+Plymouth,Kissinger Community Center,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,345,234,111
+Plymouth,Perry Township Hall,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,407,221,186
+Plymouth,Hinton Community Center,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,483,342,141
+Plymouth,Kingsley Community Center,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,419,315,104
+Plymouth,Le Mars Convention Center 11,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,759,425,334
+Plymouth,Le Mars Convention Center 12,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,808,463,345
+Plymouth,Le Mars Convention Center 13,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,471,292,179
+Plymouth,Akron Public Library,Court of Appeals Judge Anuradha Vaitheswaran,,,No,114,91,23
+Plymouth,American Bank,Court of Appeals Judge Anuradha Vaitheswaran,,,No,63,36,27
+Plymouth,Courthouse Annex,Court of Appeals Judge Anuradha Vaitheswaran,,,No,69,39,30
+Plymouth,Brunsville Legion,Court of Appeals Judge Anuradha Vaitheswaran,,,No,128,80,48
+Plymouth,Remsen Library,Court of Appeals Judge Anuradha Vaitheswaran,,,No,168,96,72
+Plymouth,Westfield Community Center,Court of Appeals Judge Anuradha Vaitheswaran,,,No,67,44,23
+Plymouth,Kissinger Community Center,Court of Appeals Judge Anuradha Vaitheswaran,,,No,140,92,48
+Plymouth,Perry Township Hall,Court of Appeals Judge Anuradha Vaitheswaran,,,No,169,111,58
+Plymouth,Hinton Community Center,Court of Appeals Judge Anuradha Vaitheswaran,,,No,200,125,75
+Plymouth,Kingsley Community Center,Court of Appeals Judge Anuradha Vaitheswaran,,,No,150,107,43
+Plymouth,Le Mars Convention Center 11,Court of Appeals Judge Anuradha Vaitheswaran,,,No,174,104,70
+Plymouth,Le Mars Convention Center 12,Court of Appeals Judge Anuradha Vaitheswaran,,,No,249,141,108
+Plymouth,Le Mars Convention Center 13,Court of Appeals Judge Anuradha Vaitheswaran,,,No,151,82,69
+Plymouth,Akron Public Library,Court of Appeals Judge Michael R. Mullins,,,Yes,364,281,83
+Plymouth,American Bank,Court of Appeals Judge Michael R. Mullins,,,Yes,167,80,87
+Plymouth,Courthouse Annex,Court of Appeals Judge Michael R. Mullins,,,Yes,225,144,81
+Plymouth,Brunsville Legion,Court of Appeals Judge Michael R. Mullins,,,Yes,380,252,128
+Plymouth,Remsen Library,Court of Appeals Judge Michael R. Mullins,,,Yes,519,329,190
+Plymouth,Westfield Community Center,Court of Appeals Judge Michael R. Mullins,,,Yes,176,124,52
+Plymouth,Kissinger Community Center,Court of Appeals Judge Michael R. Mullins,,,Yes,397,261,136
+Plymouth,Perry Township Hall,Court of Appeals Judge Michael R. Mullins,,,Yes,466,264,202
+Plymouth,Hinton Community Center,Court of Appeals Judge Michael R. Mullins,,,Yes,561,388,173
+Plymouth,Kingsley Community Center,Court of Appeals Judge Michael R. Mullins,,,Yes,469,351,118
+Plymouth,Le Mars Convention Center 11,Court of Appeals Judge Michael R. Mullins,,,Yes,799,452,347
+Plymouth,Le Mars Convention Center 12,Court of Appeals Judge Michael R. Mullins,,,Yes,868,502,366
+Plymouth,Le Mars Convention Center 13,Court of Appeals Judge Michael R. Mullins,,,Yes,504,299,205
+Plymouth,Akron Public Library,Court of Appeals Judge Michael R. Mullins,,,No,90,70,20
+Plymouth,American Bank,Court of Appeals Judge Michael R. Mullins,,,No,47,30,17
+Plymouth,Courthouse Annex,Court of Appeals Judge Michael R. Mullins,,,No,54,33,21
+Plymouth,Brunsville Legion,Court of Appeals Judge Michael R. Mullins,,,No,82,56,26
+Plymouth,Remsen Library,Court of Appeals Judge Michael R. Mullins,,,No,116,69,47
+Plymouth,Westfield Community Center,Court of Appeals Judge Michael R. Mullins,,,No,41,32,9
+Plymouth,Kissinger Community Center,Court of Appeals Judge Michael R. Mullins,,,No,88,64,24
+Plymouth,Perry Township Hall,Court of Appeals Judge Michael R. Mullins,,,No,108,71,37
+Plymouth,Hinton Community Center,Court of Appeals Judge Michael R. Mullins,,,No,120,77,43
+Plymouth,Kingsley Community Center,Court of Appeals Judge Michael R. Mullins,,,No,97,70,27
+Plymouth,Le Mars Convention Center 11,Court of Appeals Judge Michael R. Mullins,,,No,132,75,57
+Plymouth,Le Mars Convention Center 12,Court of Appeals Judge Michael R. Mullins,,,No,175,92,83
+Plymouth,Le Mars Convention Center 13,Court of Appeals Judge Michael R. Mullins,,,No,114,72,42
+Plymouth,Akron Public Library,Court of Appeals Judge Mary Ellen Tabor,,,Yes,354,273,81
+Plymouth,American Bank,Court of Appeals Judge Mary Ellen Tabor,,,Yes,171,85,86
+Plymouth,Courthouse Annex,Court of Appeals Judge Mary Ellen Tabor,,,Yes,220,142,78
+Plymouth,Brunsville Legion,Court of Appeals Judge Mary Ellen Tabor,,,Yes,367,244,123
+Plymouth,Remsen Library,Court of Appeals Judge Mary Ellen Tabor,,,Yes,504,319,185
+Plymouth,Westfield Community Center,Court of Appeals Judge Mary Ellen Tabor,,,Yes,167,119,48
+Plymouth,Kissinger Community Center,Court of Appeals Judge Mary Ellen Tabor,,,Yes,374,249,125
+Plymouth,Perry Township Hall,Court of Appeals Judge Mary Ellen Tabor,,,Yes,443,249,194
+Plymouth,Hinton Community Center,Court of Appeals Judge Mary Ellen Tabor,,,Yes,517,367,150
+Plymouth,Kingsley Community Center,Court of Appeals Judge Mary Ellen Tabor,,,Yes,452,337,115
+Plymouth,Le Mars Convention Center 11,Court of Appeals Judge Mary Ellen Tabor,,,Yes,770,439,331
+Plymouth,Le Mars Convention Center 12,Court of Appeals Judge Mary Ellen Tabor,,,Yes,868,499,369
+Plymouth,Le Mars Convention Center 13,Court of Appeals Judge Mary Ellen Tabor,,,Yes,493,300,193
+Plymouth,Akron Public Library,Court of Appeals Judge Mary Ellen Tabor,,,No,92,71,21
+Plymouth,American Bank,Court of Appeals Judge Mary Ellen Tabor,,,No,48,29,19
+Plymouth,Courthouse Annex,Court of Appeals Judge Mary Ellen Tabor,,,No,56,34,22
+Plymouth,Brunsville Legion,Court of Appeals Judge Mary Ellen Tabor,,,No,91,61,30
+Plymouth,Remsen Library,Court of Appeals Judge Mary Ellen Tabor,,,No,121,69,52
+Plymouth,Westfield Community Center,Court of Appeals Judge Mary Ellen Tabor,,,No,44,32,12
+Plymouth,Kissinger Community Center,Court of Appeals Judge Mary Ellen Tabor,,,No,108,75,33
+Plymouth,Perry Township Hall,Court of Appeals Judge Mary Ellen Tabor,,,No,119,76,43
+Plymouth,Hinton Community Center,Court of Appeals Judge Mary Ellen Tabor,,,No,149,89,60
+Plymouth,Kingsley Community Center,Court of Appeals Judge Mary Ellen Tabor,,,No,114,83,31
+Plymouth,Le Mars Convention Center 11,Court of Appeals Judge Mary Ellen Tabor,,,No,143,77,66
+Plymouth,Le Mars Convention Center 12,Court of Appeals Judge Mary Ellen Tabor,,,No,175,96,79
+Plymouth,Le Mars Convention Center 13,Court of Appeals Judge Mary Ellen Tabor,,,No,119,70,49
+Plymouth,Akron Public Library,District 3B District Judge Julie Ann Schumacher,,,Yes,360,275,85
+Plymouth,American Bank,District 3B District Judge Julie Ann Schumacher,,,Yes,180,91,89
+Plymouth,Courthouse Annex,District 3B District Judge Julie Ann Schumacher,,,Yes,224,148,76
+Plymouth,Brunsville Legion,District 3B District Judge Julie Ann Schumacher,,,Yes,389,259,130
+Plymouth,Remsen Library,District 3B District Judge Julie Ann Schumacher,,,Yes,531,337,194
+Plymouth,Westfield Community Center,District 3B District Judge Julie Ann Schumacher,,,Yes,167,117,50
+Plymouth,Kissinger Community Center,District 3B District Judge Julie Ann Schumacher,,,Yes,395,258,137
+Plymouth,Perry Township Hall,District 3B District Judge Julie Ann Schumacher,,,Yes,487,276,211
+Plymouth,Hinton Community Center,District 3B District Judge Julie Ann Schumacher,,,Yes,554,385,169
+Plymouth,Kingsley Community Center,District 3B District Judge Julie Ann Schumacher,,,Yes,469,351,118
+Plymouth,Le Mars Convention Center 11,District 3B District Judge Julie Ann Schumacher,,,Yes,815,462,353
+Plymouth,Le Mars Convention Center 12,District 3B District Judge Julie Ann Schumacher,,,Yes,917,525,392
+Plymouth,Le Mars Convention Center 13,District 3B District Judge Julie Ann Schumacher,,,Yes,522,307,215
+Plymouth,Akron Public Library,District 3B District Judge Julie Ann Schumacher,,,No,94,75,19
+Plymouth,American Bank,District 3B District Judge Julie Ann Schumacher,,,No,44,27,17
+Plymouth,Courthouse Annex,District 3B District Judge Julie Ann Schumacher,,,No,54,29,25
+Plymouth,Brunsville Legion,District 3B District Judge Julie Ann Schumacher,,,No,79,53,26
+Plymouth,Remsen Library,District 3B District Judge Julie Ann Schumacher,,,No,111,65,46
+Plymouth,Westfield Community Center,District 3B District Judge Julie Ann Schumacher,,,No,45,37,8
+Plymouth,Kissinger Community Center,District 3B District Judge Julie Ann Schumacher,,,No,96,69,27
+Plymouth,Perry Township Hall,District 3B District Judge Julie Ann Schumacher,,,No,94,62,32
+Plymouth,Hinton Community Center,District 3B District Judge Julie Ann Schumacher,,,No,125,80,45
+Plymouth,Kingsley Community Center,District 3B District Judge Julie Ann Schumacher,,,No,104,72,32
+Plymouth,Le Mars Convention Center 11,District 3B District Judge Julie Ann Schumacher,,,No,129,73,56
+Plymouth,Le Mars Convention Center 12,District 3B District Judge Julie Ann Schumacher,,,No,135,73,62
+Plymouth,Le Mars Convention Center 13,District 3B District Judge Julie Ann Schumacher,,,No,102,68,34
+Plymouth,Akron Public Library,District 3B District Judge Jeffrey L. Poulson,,,Yes,358,278,80
+Plymouth,American Bank,District 3B District Judge Jeffrey L. Poulson,,,Yes,174,88,86
+Plymouth,Courthouse Annex,District 3B District Judge Jeffrey L. Poulson,,,Yes,230,147,83
+Plymouth,Brunsville Legion,District 3B District Judge Jeffrey L. Poulson,,,Yes,384,257,127
+Plymouth,Remsen Library,District 3B District Judge Jeffrey L. Poulson,,,Yes,513,320,193
+Plymouth,Westfield Community Center,District 3B District Judge Jeffrey L. Poulson,,,Yes,166,118,48
+Plymouth,Kissinger Community Center,District 3B District Judge Jeffrey L. Poulson,,,Yes,417,275,142
+Plymouth,Perry Township Hall,District 3B District Judge Jeffrey L. Poulson,,,Yes,525,299,226
+Plymouth,Hinton Community Center,District 3B District Judge Jeffrey L. Poulson,,,Yes,606,426,180
+Plymouth,Kingsley Community Center,District 3B District Judge Jeffrey L. Poulson,,,Yes,480,362,118
+Plymouth,Le Mars Convention Center 11,District 3B District Judge Jeffrey L. Poulson,,,Yes,817,458,359
+Plymouth,Le Mars Convention Center 12,District 3B District Judge Jeffrey L. Poulson,,,Yes,901,519,382
+Plymouth,Le Mars Convention Center 13,District 3B District Judge Jeffrey L. Poulson,,,Yes,496,305,191
+Plymouth,Akron Public Library,District 3B District Judge Jeffrey L. Poulson,,,No,92,71,21
+Plymouth,American Bank,District 3B District Judge Jeffrey L. Poulson,,,No,47,27,20
+Plymouth,Courthouse Annex,District 3B District Judge Jeffrey L. Poulson,,,No,56,31,25
+Plymouth,Brunsville Legion,District 3B District Judge Jeffrey L. Poulson,,,No,82,53,29
+Plymouth,Remsen Library,District 3B District Judge Jeffrey L. Poulson,,,No,123,76,47
+Plymouth,Westfield Community Center,District 3B District Judge Jeffrey L. Poulson,,,No,50,40,10
+Plymouth,Kissinger Community Center,District 3B District Judge Jeffrey L. Poulson,,,No,93,65,28
+Plymouth,Perry Township Hall,District 3B District Judge Jeffrey L. Poulson,,,No,110,69,41
+Plymouth,Hinton Community Center,District 3B District Judge Jeffrey L. Poulson,,,No,130,80,50
+Plymouth,Kingsley Community Center,District 3B District Judge Jeffrey L. Poulson,,,No,99,68,31
+Plymouth,Le Mars Convention Center 11,District 3B District Judge Jeffrey L. Poulson,,,No,129,77,52
+Plymouth,Le Mars Convention Center 12,District 3B District Judge Jeffrey L. Poulson,,,No,156,85,71
+Plymouth,Le Mars Convention Center 13,District 3B District Judge Jeffrey L. Poulson,,,No,115,62,53
+Plymouth,Akron Public Library,District 3B District Associate Judge Todd A. Hensley,,,Yes,363,283,80
+Plymouth,American Bank,District 3B District Associate Judge Todd A. Hensley,,,Yes,171,84,87
+Plymouth,Courthouse Annex,District 3B District Associate Judge Todd A. Hensley,,,Yes,220,140,80
+Plymouth,Brunsville Legion,District 3B District Associate Judge Todd A. Hensley,,,Yes,381,257,124
+Plymouth,Remsen Library,District 3B District Associate Judge Todd A. Hensley,,,Yes,505,320,185
+Plymouth,Westfield Community Center,District 3B District Associate Judge Todd A. Hensley,,,Yes,165,118,47
+Plymouth,Kissinger Community Center,District 3B District Associate Judge Todd A. Hensley,,,Yes,384,255,129
+Plymouth,Perry Township Hall,District 3B District Associate Judge Todd A. Hensley,,,Yes,480,275,205
+Plymouth,Hinton Community Center,District 3B District Associate Judge Todd A. Hensley,,,Yes,553,395,158
+Plymouth,Kingsley Community Center,District 3B District Associate Judge Todd A. Hensley,,,Yes,469,351,118
+Plymouth,Le Mars Convention Center 11,District 3B District Associate Judge Todd A. Hensley,,,Yes,807,456,351
+Plymouth,Le Mars Convention Center 12,District 3B District Associate Judge Todd A. Hensley,,,Yes,868,501,367
+Plymouth,Le Mars Convention Center 13,District 3B District Associate Judge Todd A. Hensley,,,Yes,503,306,197
+Plymouth,Akron Public Library,District 3B District Associate Judge Todd A. Hensley,,,No,90,69,21
+Plymouth,American Bank,District 3B District Associate Judge Todd A. Hensley,,,No,48,31,17
+Plymouth,Courthouse Annex,District 3B District Associate Judge Todd A. Hensley,,,No,55,34,21
+Plymouth,Brunsville Legion,District 3B District Associate Judge Todd A. Hensley,,,No,82,54,28
+Plymouth,Remsen Library,District 3B District Associate Judge Todd A. Hensley,,,No,127,74,53
+Plymouth,Westfield Community Center,District 3B District Associate Judge Todd A. Hensley,,,No,46,38,8
+Plymouth,Kissinger Community Center,District 3B District Associate Judge Todd A. Hensley,,,No,100,70,30
+Plymouth,Perry Township Hall,District 3B District Associate Judge Todd A. Hensley,,,No,108,69,39
+Plymouth,Hinton Community Center,District 3B District Associate Judge Todd A. Hensley,,,No,129,76,53
+Plymouth,Kingsley Community Center,District 3B District Associate Judge Todd A. Hensley,,,No,101,70,31
+Plymouth,Le Mars Convention Center 11,District 3B District Associate Judge Todd A. Hensley,,,No,124,74,50
+Plymouth,Le Mars Convention Center 12,District 3B District Associate Judge Todd A. Hensley,,,No,169,95,74
+Plymouth,Le Mars Convention Center 13,District 3B District Associate Judge Todd A. Hensley,,,No,112,67,45
+Plymouth,Akron Public Library,District 3B District Associate Judge Stephanie Forker Parry,,,Yes,364,278,86
+Plymouth,American Bank,District 3B District Associate Judge Stephanie Forker Parry,,,Yes,169,83,86
+Plymouth,Courthouse Annex,District 3B District Associate Judge Stephanie Forker Parry,,,Yes,214,139,75
+Plymouth,Brunsville Legion,District 3B District Associate Judge Stephanie Forker Parry,,,Yes,375,248,127
+Plymouth,Remsen Library,District 3B District Associate Judge Stephanie Forker Parry,,,Yes,490,309,181
+Plymouth,Westfield Community Center,District 3B District Associate Judge Stephanie Forker Parry,,,Yes,161,118,43
+Plymouth,Kissinger Community Center,District 3B District Associate Judge Stephanie Forker Parry,,,Yes,365,241,124
+Plymouth,Perry Township Hall,District 3B District Associate Judge Stephanie Forker Parry,,,Yes,464,259,205
+Plymouth,Hinton Community Center,District 3B District Associate Judge Stephanie Forker Parry,,,Yes,543,384,159
+Plymouth,Kingsley Community Center,District 3B District Associate Judge Stephanie Forker Parry,,,Yes,464,345,119
+Plymouth,Le Mars Convention Center 11,District 3B District Associate Judge Stephanie Forker Parry,,,Yes,791,450,341
+Plymouth,Le Mars Convention Center 12,District 3B District Associate Judge Stephanie Forker Parry,,,Yes,873,499,374
+Plymouth,Le Mars Convention Center 13,District 3B District Associate Judge Stephanie Forker Parry,,,Yes,500,303,197
+Plymouth,Akron Public Library,District 3B District Associate Judge Stephanie Forker Parry,,,No,86,70,16
+Plymouth,American Bank,District 3B District Associate Judge Stephanie Forker Parry,,,No,48,30,18
+Plymouth,Courthouse Annex,District 3B District Associate Judge Stephanie Forker Parry,,,No,61,36,25
+Plymouth,Brunsville Legion,District 3B District Associate Judge Stephanie Forker Parry,,,No,86,59,27
+Plymouth,Remsen Library,District 3B District Associate Judge Stephanie Forker Parry,,,No,136,81,55
+Plymouth,Westfield Community Center,District 3B District Associate Judge Stephanie Forker Parry,,,No,49,36,13
+Plymouth,Kissinger Community Center,District 3B District Associate Judge Stephanie Forker Parry,,,No,117,81,36
+Plymouth,Perry Township Hall,District 3B District Associate Judge Stephanie Forker Parry,,,No,119,80,39
+Plymouth,Hinton Community Center,District 3B District Associate Judge Stephanie Forker Parry,,,No,140,85,55
+Plymouth,Kingsley Community Center,District 3B District Associate Judge Stephanie Forker Parry,,,No,107,78,29
+Plymouth,Le Mars Convention Center 11,District 3B District Associate Judge Stephanie Forker Parry,,,No,135,74,61
+Plymouth,Le Mars Convention Center 12,District 3B District Associate Judge Stephanie Forker Parry,,,No,168,95,73
+Plymouth,Le Mars Convention Center 13,District 3B District Associate Judge Stephanie Forker Parry,,,No,112,70,42

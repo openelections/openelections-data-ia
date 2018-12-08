@@ -1,0 +1,869 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Winneshiek,PCT 1 - HE/HI/PL,United States Representative District 1,,REP,Rod Blum,290,143,147
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,United States Representative District 1,,REP,Rod Blum,707,305,402
+Winneshiek,PCT 3 - DEW1/DETSUP2,United States Representative District 1,,REP,Rod Blum,590,246,344
+Winneshiek,PCT 4 - DEW2,United States Representative District 1,,REP,Rod Blum,251,117,134
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,United States Representative District 1,,REP,Rod Blum,378,162,216
+Winneshiek,PCT - 6 DEW5,United States Representative District 1,,REP,Rod Blum,211,93,118
+Winneshiek,PCT 7 - CA/SP,United States Representative District 1,,REP,Rod Blum,519,304,215
+Winneshiek,PCT 8 - MI/BLM,United States Representative District 1,,REP,Rod Blum,448,326,122
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,United States Representative District 1,,REP,Rod Blum,583,329,254
+Winneshiek,PCT 10 - JA/SU/WA,United States Representative District 1,,REP,Rod Blum,357,245,112
+Winneshiek,PCT 11 - DETSUP5,United States Representative District 1,,REP,Rod Blum,30,14,16
+Winneshiek,PCT 1 - HE/HI/PL,United States Representative District 1,,DEM,Abby Finkenauer,266,86,180
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,United States Representative District 1,,DEM,Abby Finkenauer,885,252,633
+Winneshiek,PCT 3 - DEW1/DETSUP2,United States Representative District 1,,DEM,Abby Finkenauer,749,223,526
+Winneshiek,PCT 4 - DEW2,United States Representative District 1,,DEM,Abby Finkenauer,652,181,471
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,United States Representative District 1,,DEM,Abby Finkenauer,651,229,422
+Winneshiek,PCT - 6 DEW5,United States Representative District 1,,DEM,Abby Finkenauer,486,149,337
+Winneshiek,PCT 7 - CA/SP,United States Representative District 1,,DEM,Abby Finkenauer,422,214,208
+Winneshiek,PCT 8 - MI/BLM,United States Representative District 1,,DEM,Abby Finkenauer,284,173,111
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,United States Representative District 1,,DEM,Abby Finkenauer,407,199,208
+Winneshiek,PCT 10 - JA/SU/WA,United States Representative District 1,,DEM,Abby Finkenauer,255,140,115
+Winneshiek,PCT 11 - DETSUP5,United States Representative District 1,,DEM,Abby Finkenauer,45,7,38
+Winneshiek,PCT 1 - HE/HI/PL,United States Representative District 1,,LIB,Troy Hageman,15,7,8
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,United States Representative District 1,,LIB,Troy Hageman,51,19,32
+Winneshiek,PCT 3 - DEW1/DETSUP2,United States Representative District 1,,LIB,Troy Hageman,47,22,25
+Winneshiek,PCT 4 - DEW2,United States Representative District 1,,LIB,Troy Hageman,32,12,20
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,United States Representative District 1,,LIB,Troy Hageman,22,12,10
+Winneshiek,PCT - 6 DEW5,United States Representative District 1,,LIB,Troy Hageman,13,7,6
+Winneshiek,PCT 7 - CA/SP,United States Representative District 1,,LIB,Troy Hageman,68,52,16
+Winneshiek,PCT 8 - MI/BLM,United States Representative District 1,,LIB,Troy Hageman,62,47,15
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,United States Representative District 1,,LIB,Troy Hageman,41,22,19
+Winneshiek,PCT 10 - JA/SU/WA,United States Representative District 1,,LIB,Troy Hageman,39,21,18
+Winneshiek,PCT 11 - DETSUP5,United States Representative District 1,,LIB,Troy Hageman,1,0,1
+Winneshiek,PCT 1 - HE/HI/PL,United States Representative District 1,,,Write-in,1,0,1
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,United States Representative District 1,,,Write-in,0,0,0
+Winneshiek,PCT 3 - DEW1/DETSUP2,United States Representative District 1,,,Write-in,0,0,0
+Winneshiek,PCT 4 - DEW2,United States Representative District 1,,,Write-in,0,0,0
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,United States Representative District 1,,,Write-in,0,0,0
+Winneshiek,PCT - 6 DEW5,United States Representative District 1,,,Write-in,0,0,0
+Winneshiek,PCT 7 - CA/SP,United States Representative District 1,,,Write-in,0,0,0
+Winneshiek,PCT 8 - MI/BLM,United States Representative District 1,,,Write-in,0,0,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,United States Representative District 1,,,Write-in,0,0,0
+Winneshiek,PCT 10 - JA/SU/WA,United States Representative District 1,,,Write-in,0,0,0
+Winneshiek,PCT 11 - DETSUP5,United States Representative District 1,,,Write-in,0,0,0
+Winneshiek,PCT 1 - HE/HI/PL,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,318,164,154
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,754,317,437
+Winneshiek,PCT 3 - DEW1/DETSUP2,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,639,261,378
+Winneshiek,PCT 4 - DEW2,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,272,122,150
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,408,177,231
+Winneshiek,PCT - 6 DEW5,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,212,91,121
+Winneshiek,PCT 7 - CA/SP,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,596,346,250
+Winneshiek,PCT 8 - MI/BLM,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,537,383,154
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,644,354,290
+Winneshiek,PCT 10 - JA/SU/WA,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,424,286,138
+Winneshiek,PCT 11 - DETSUP5,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,37,17,20
+Winneshiek,PCT 1 - HE/HI/PL,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,246,67,179
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,858,249,609
+Winneshiek,PCT 3 - DEW1/DETSUP2,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,709,214,495
+Winneshiek,PCT 4 - DEW2,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,625,172,453
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,616,210,406
+Winneshiek,PCT - 6 DEW5,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,486,152,334
+Winneshiek,PCT 7 - CA/SP,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,393,209,184
+Winneshiek,PCT 8 - MI/BLM,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,235,146,89
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,357,179,178
+Winneshiek,PCT 10 - JA/SU/WA,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,221,117,104
+Winneshiek,PCT 11 - DETSUP5,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,39,3,36
+Winneshiek,PCT 1 - HE/HI/PL,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,6,3,3
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,17,7,10
+Winneshiek,PCT 3 - DEW1/DETSUP2,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,20,11,9
+Winneshiek,PCT 4 - DEW2,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,16,8,8
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,12,6,6
+Winneshiek,PCT - 6 DEW5,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,5,3,2
+Winneshiek,PCT 7 - CA/SP,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,14,12,2
+Winneshiek,PCT 8 - MI/BLM,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,11,7,4
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,10,8,2
+Winneshiek,PCT 10 - JA/SU/WA,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,4,0,4
+Winneshiek,PCT 11 - DETSUP5,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,1,1,0
+Winneshiek,PCT 1 - HE/HI/PL,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,1,2
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,14,4,10
+Winneshiek,PCT 3 - DEW1/DETSUP2,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,19,8,11
+Winneshiek,PCT 4 - DEW2,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,20,6,14
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,17,10,7
+Winneshiek,PCT - 6 DEW5,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,8,3,5
+Winneshiek,PCT 7 - CA/SP,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,10,6,4
+Winneshiek,PCT 8 - MI/BLM,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,12,11,1
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,24,9,15
+Winneshiek,PCT 10 - JA/SU/WA,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,4,3,1
+Winneshiek,PCT 11 - DETSUP5,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,0,0,0
+Winneshiek,PCT 1 - HE/HI/PL,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Winneshiek,PCT 3 - DEW1/DETSUP2,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Winneshiek,PCT 4 - DEW2,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Winneshiek,PCT - 6 DEW5,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Winneshiek,PCT 7 - CA/SP,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Winneshiek,PCT 8 - MI/BLM,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Winneshiek,PCT 10 - JA/SU/WA,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Winneshiek,PCT 11 - DETSUP5,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Winneshiek,PCT 1 - HE/HI/PL,Secretary of State,,REP,Paul D. Pate,310,153,157
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Secretary of State,,REP,Paul D. Pate,785,327,458
+Winneshiek,PCT 3 - DEW1/DETSUP2,Secretary of State,,REP,Paul D. Pate,678,269,409
+Winneshiek,PCT 4 - DEW2,Secretary of State,,REP,Paul D. Pate,285,123,162
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Secretary of State,,REP,Paul D. Pate,406,171,235
+Winneshiek,PCT - 6 DEW5,Secretary of State,,REP,Paul D. Pate,240,108,132
+Winneshiek,PCT 7 - CA/SP,Secretary of State,,REP,Paul D. Pate,606,365,241
+Winneshiek,PCT 8 - MI/BLM,Secretary of State,,REP,Paul D. Pate,525,374,151
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Secretary of State,,REP,Paul D. Pate,654,364,290
+Winneshiek,PCT 10 - JA/SU/WA,Secretary of State,,REP,Paul D. Pate,399,271,128
+Winneshiek,PCT 11 - DETSUP5,Secretary of State,,REP,Paul D. Pate,41,19,22
+Winneshiek,PCT 1 - HE/HI/PL,Secretary of State,,DEM,Deidre DeJear,247,73,174
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Secretary of State,,DEM,Deidre DeJear,790,237,553
+Winneshiek,PCT 3 - DEW1/DETSUP2,Secretary of State,,DEM,Deidre DeJear,648,202,446
+Winneshiek,PCT 4 - DEW2,Secretary of State,,DEM,Deidre DeJear,615,169,446
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Secretary of State,,DEM,Deidre DeJear,617,219,398
+Winneshiek,PCT - 6 DEW5,Secretary of State,,DEM,Deidre DeJear,457,134,323
+Winneshiek,PCT 7 - CA/SP,Secretary of State,,DEM,Deidre DeJear,364,182,182
+Winneshiek,PCT 8 - MI/BLM,Secretary of State,,DEM,Deidre DeJear,242,156,86
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Secretary of State,,DEM,Deidre DeJear,354,171,183
+Winneshiek,PCT 10 - JA/SU/WA,Secretary of State,,DEM,Deidre DeJear,221,119,102
+Winneshiek,PCT 11 - DETSUP5,Secretary of State,,DEM,Deidre DeJear,32,1,31
+Winneshiek,PCT 1 - HE/HI/PL,Secretary of State,,LIB,Jules Ofenbakh,6,5,1
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Secretary of State,,LIB,Jules Ofenbakh,26,6,20
+Winneshiek,PCT 3 - DEW1/DETSUP2,Secretary of State,,LIB,Jules Ofenbakh,27,9,18
+Winneshiek,PCT 4 - DEW2,Secretary of State,,LIB,Jules Ofenbakh,19,9,10
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Secretary of State,,LIB,Jules Ofenbakh,17,8,9
+Winneshiek,PCT - 6 DEW5,Secretary of State,,LIB,Jules Ofenbakh,7,4,3
+Winneshiek,PCT 7 - CA/SP,Secretary of State,,LIB,Jules Ofenbakh,25,13,12
+Winneshiek,PCT 8 - MI/BLM,Secretary of State,,LIB,Jules Ofenbakh,15,10,5
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Secretary of State,,LIB,Jules Ofenbakh,17,11,6
+Winneshiek,PCT 10 - JA/SU/WA,Secretary of State,,LIB,Jules Ofenbakh,14,6,8
+Winneshiek,PCT 11 - DETSUP5,Secretary of State,,LIB,Jules Ofenbakh,1,0,1
+Winneshiek,PCT 1 - HE/HI/PL,Secretary of State,,,Write-in,0,0,0
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Secretary of State,,,Write-in,0,0,0
+Winneshiek,PCT 3 - DEW1/DETSUP2,Secretary of State,,,Write-in,1,1,0
+Winneshiek,PCT 4 - DEW2,Secretary of State,,,Write-in,0,0,0
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Secretary of State,,,Write-in,0,0,0
+Winneshiek,PCT - 6 DEW5,Secretary of State,,,Write-in,0,0,0
+Winneshiek,PCT 7 - CA/SP,Secretary of State,,,Write-in,0,0,0
+Winneshiek,PCT 8 - MI/BLM,Secretary of State,,,Write-in,0,0,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Secretary of State,,,Write-in,0,0,0
+Winneshiek,PCT 10 - JA/SU/WA,Secretary of State,,,Write-in,0,0,0
+Winneshiek,PCT 11 - DETSUP5,Secretary of State,,,Write-in,0,0,0
+Winneshiek,PCT 1 - HE/HI/PL,Auditor of State,,REP,Mary Mosiman,237,118,119
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Auditor of State,,REP,Mary Mosiman,543,230,313
+Winneshiek,PCT 3 - DEW1/DETSUP2,Auditor of State,,REP,Mary Mosiman,491,214,277
+Winneshiek,PCT 4 - DEW2,Auditor of State,,REP,Mary Mosiman,214,105,109
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Auditor of State,,REP,Mary Mosiman,311,146,165
+Winneshiek,PCT - 6 DEW5,Auditor of State,,REP,Mary Mosiman,160,70,90
+Winneshiek,PCT 7 - CA/SP,Auditor of State,,REP,Mary Mosiman,464,264,200
+Winneshiek,PCT 8 - MI/BLM,Auditor of State,,REP,Mary Mosiman,393,286,107
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Auditor of State,,REP,Mary Mosiman,521,299,222
+Winneshiek,PCT 10 - JA/SU/WA,Auditor of State,,REP,Mary Mosiman,309,214,95
+Winneshiek,PCT 11 - DETSUP5,Auditor of State,,REP,Mary Mosiman,20,9,11
+Winneshiek,PCT 1 - HE/HI/PL,Auditor of State,,DEM,Rob Sand,328,112,216
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Auditor of State,,DEM,Rob Sand,1071,339,732
+Winneshiek,PCT 3 - DEW1/DETSUP2,Auditor of State,,DEM,Rob Sand,875,274,601
+Winneshiek,PCT 4 - DEW2,Auditor of State,,DEM,Rob Sand,709,198,511
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Auditor of State,,DEM,Rob Sand,711,244,467
+Winneshiek,PCT - 6 DEW5,Auditor of State,,DEM,Rob Sand,538,174,364
+Winneshiek,PCT 7 - CA/SP,Auditor of State,,DEM,Rob Sand,511,281,230
+Winneshiek,PCT 8 - MI/BLM,Auditor of State,,DEM,Rob Sand,379,245,134
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Auditor of State,,DEM,Rob Sand,484,232,252
+Winneshiek,PCT 10 - JA/SU/WA,Auditor of State,,DEM,Rob Sand,325,176,149
+Winneshiek,PCT 11 - DETSUP5,Auditor of State,,DEM,Rob Sand,55,11,44
+Winneshiek,PCT 1 - HE/HI/PL,Auditor of State,,LIB,Fred Perryman,6,4,2
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Auditor of State,,LIB,Fred Perryman,12,6,6
+Winneshiek,PCT 3 - DEW1/DETSUP2,Auditor of State,,LIB,Fred Perryman,18,4,14
+Winneshiek,PCT 4 - DEW2,Auditor of State,,LIB,Fred Perryman,8,5,3
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Auditor of State,,LIB,Fred Perryman,14,8,6
+Winneshiek,PCT - 6 DEW5,Auditor of State,,LIB,Fred Perryman,11,6,5
+Winneshiek,PCT 7 - CA/SP,Auditor of State,,LIB,Fred Perryman,24,18,6
+Winneshiek,PCT 8 - MI/BLM,Auditor of State,,LIB,Fred Perryman,15,14,1
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Auditor of State,,LIB,Fred Perryman,12,8,4
+Winneshiek,PCT 10 - JA/SU/WA,Auditor of State,,LIB,Fred Perryman,10,8,2
+Winneshiek,PCT 11 - DETSUP5,Auditor of State,,LIB,Fred Perryman,1,1,0
+Winneshiek,PCT 1 - HE/HI/PL,Auditor of State,,,Write-in,0,0,0
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Auditor of State,,,Write-in,0,0,0
+Winneshiek,PCT 3 - DEW1/DETSUP2,Auditor of State,,,Write-in,0,0,0
+Winneshiek,PCT 4 - DEW2,Auditor of State,,,Write-in,0,0,0
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Auditor of State,,,Write-in,0,0,0
+Winneshiek,PCT - 6 DEW5,Auditor of State,,,Write-in,0,0,0
+Winneshiek,PCT 7 - CA/SP,Auditor of State,,,Write-in,0,0,0
+Winneshiek,PCT 8 - MI/BLM,Auditor of State,,,Write-in,0,0,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Auditor of State,,,Write-in,0,0,0
+Winneshiek,PCT 10 - JA/SU/WA,Auditor of State,,,Write-in,0,0,0
+Winneshiek,PCT 11 - DETSUP5,Auditor of State,,,Write-in,0,0,0
+Winneshiek,PCT 1 - HE/HI/PL,Treasurer of State,,REP,Jeremy N. Davis,256,122,134
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Treasurer of State,,REP,Jeremy N. Davis,598,258,340
+Winneshiek,PCT 3 - DEW1/DETSUP2,Treasurer of State,,REP,Jeremy N. Davis,511,210,301
+Winneshiek,PCT 4 - DEW2,Treasurer of State,,REP,Jeremy N. Davis,216,100,116
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Treasurer of State,,REP,Jeremy N. Davis,332,151,181
+Winneshiek,PCT - 6 DEW5,Treasurer of State,,REP,Jeremy N. Davis,181,82,99
+Winneshiek,PCT 7 - CA/SP,Treasurer of State,,REP,Jeremy N. Davis,446,255,191
+Winneshiek,PCT 8 - MI/BLM,Treasurer of State,,REP,Jeremy N. Davis,393,282,111
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Treasurer of State,,REP,Jeremy N. Davis,516,287,229
+Winneshiek,PCT 10 - JA/SU/WA,Treasurer of State,,REP,Jeremy N. Davis,269,183,86
+Winneshiek,PCT 11 - DETSUP5,Treasurer of State,,REP,Jeremy N. Davis,25,12,13
+Winneshiek,PCT 1 - HE/HI/PL,Treasurer of State,,DEM,Michael L. Fitzgerald,299,105,194
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Treasurer of State,,DEM,Michael L. Fitzgerald,983,299,684
+Winneshiek,PCT 3 - DEW1/DETSUP2,Treasurer of State,,DEM,Michael L. Fitzgerald,815,256,559
+Winneshiek,PCT 4 - DEW2,Treasurer of State,,DEM,Michael L. Fitzgerald,688,192,496
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Treasurer of State,,DEM,Michael L. Fitzgerald,673,231,442
+Winneshiek,PCT - 6 DEW5,Treasurer of State,,DEM,Michael L. Fitzgerald,512,158,354
+Winneshiek,PCT 7 - CA/SP,Treasurer of State,,DEM,Michael L. Fitzgerald,516,279,237
+Winneshiek,PCT 8 - MI/BLM,Treasurer of State,,DEM,Michael L. Fitzgerald,368,240,128
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Treasurer of State,,DEM,Michael L. Fitzgerald,480,243,237
+Winneshiek,PCT 10 - JA/SU/WA,Treasurer of State,,DEM,Michael L. Fitzgerald,352,201,151
+Winneshiek,PCT 11 - DETSUP5,Treasurer of State,,DEM,Michael L. Fitzgerald,48,9,39
+Winneshiek,PCT 1 - HE/HI/PL,Treasurer of State,,LIB,Timothy Hird,8,4,4
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Treasurer of State,,LIB,Timothy Hird,22,11,11
+Winneshiek,PCT 3 - DEW1/DETSUP2,Treasurer of State,,LIB,Timothy Hird,25,12,13
+Winneshiek,PCT 4 - DEW2,Treasurer of State,,LIB,Timothy Hird,15,11,4
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Treasurer of State,,LIB,Timothy Hird,23,11,12
+Winneshiek,PCT - 6 DEW5,Treasurer of State,,LIB,Timothy Hird,8,5,3
+Winneshiek,PCT 7 - CA/SP,Treasurer of State,,LIB,Timothy Hird,24,17,7
+Winneshiek,PCT 8 - MI/BLM,Treasurer of State,,LIB,Timothy Hird,17,15,2
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Treasurer of State,,LIB,Timothy Hird,16,10,6
+Winneshiek,PCT 10 - JA/SU/WA,Treasurer of State,,LIB,Timothy Hird,10,7,3
+Winneshiek,PCT 11 - DETSUP5,Treasurer of State,,LIB,Timothy Hird,1,0,1
+Winneshiek,PCT 1 - HE/HI/PL,Treasurer of State,,,Write-in,0,0,0
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Treasurer of State,,,Write-in,0,0,0
+Winneshiek,PCT 3 - DEW1/DETSUP2,Treasurer of State,,,Write-in,0,0,0
+Winneshiek,PCT 4 - DEW2,Treasurer of State,,,Write-in,0,0,0
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Treasurer of State,,,Write-in,0,0,0
+Winneshiek,PCT - 6 DEW5,Treasurer of State,,,Write-in,0,0,0
+Winneshiek,PCT 7 - CA/SP,Treasurer of State,,,Write-in,0,0,0
+Winneshiek,PCT 8 - MI/BLM,Treasurer of State,,,Write-in,0,0,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Treasurer of State,,,Write-in,0,0,0
+Winneshiek,PCT 10 - JA/SU/WA,Treasurer of State,,,Write-in,0,0,0
+Winneshiek,PCT 11 - DETSUP5,Treasurer of State,,,Write-in,0,0,0
+Winneshiek,PCT 1 - HE/HI/PL,Secretary of Agriculture,,REP,Mike Naig,303,149,154
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Secretary of Agriculture,,REP,Mike Naig,721,314,407
+Winneshiek,PCT 3 - DEW1/DETSUP2,Secretary of Agriculture,,REP,Mike Naig,623,247,376
+Winneshiek,PCT 4 - DEW2,Secretary of Agriculture,,REP,Mike Naig,253,103,150
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Secretary of Agriculture,,REP,Mike Naig,389,171,218
+Winneshiek,PCT - 6 DEW5,Secretary of Agriculture,,REP,Mike Naig,227,98,129
+Winneshiek,PCT 7 - CA/SP,Secretary of Agriculture,,REP,Mike Naig,538,312,226
+Winneshiek,PCT 8 - MI/BLM,Secretary of Agriculture,,REP,Mike Naig,478,347,131
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Secretary of Agriculture,,REP,Mike Naig,590,324,266
+Winneshiek,PCT 10 - JA/SU/WA,Secretary of Agriculture,,REP,Mike Naig,369,250,119
+Winneshiek,PCT 11 - DETSUP5,Secretary of Agriculture,,REP,Mike Naig,37,14,23
+Winneshiek,PCT 1 - HE/HI/PL,Secretary of Agriculture,,DEM,Tim Gannon,252,78,174
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Secretary of Agriculture,,DEM,Tim Gannon,839,243,596
+Winneshiek,PCT 3 - DEW1/DETSUP2,Secretary of Agriculture,,DEM,Tim Gannon,689,212,477
+Winneshiek,PCT 4 - DEW2,Secretary of Agriculture,,DEM,Tim Gannon,620,180,440
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Secretary of Agriculture,,DEM,Tim Gannon,593,204,389
+Winneshiek,PCT - 6 DEW5,Secretary of Agriculture,,DEM,Tim Gannon,454,133,321
+Winneshiek,PCT 7 - CA/SP,Secretary of Agriculture,,DEM,Tim Gannon,417,227,190
+Winneshiek,PCT 8 - MI/BLM,Secretary of Agriculture,,DEM,Tim Gannon,267,170,97
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Secretary of Agriculture,,DEM,Tim Gannon,394,203,191
+Winneshiek,PCT 10 - JA/SU/WA,Secretary of Agriculture,,DEM,Tim Gannon,258,140,118
+Winneshiek,PCT 11 - DETSUP5,Secretary of Agriculture,,DEM,Tim Gannon,35,6,29
+Winneshiek,PCT 1 - HE/HI/PL,Secretary of Agriculture,,LIB,Rick Stewart,9,4,5
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Secretary of Agriculture,,LIB,Rick Stewart,35,12,23
+Winneshiek,PCT 3 - DEW1/DETSUP2,Secretary of Agriculture,,LIB,Rick Stewart,38,17,21
+Winneshiek,PCT 4 - DEW2,Secretary of Agriculture,,LIB,Rick Stewart,40,19,21
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Secretary of Agriculture,,LIB,Rick Stewart,35,16,19
+Winneshiek,PCT - 6 DEW5,Secretary of Agriculture,,LIB,Rick Stewart,14,10,4
+Winneshiek,PCT 7 - CA/SP,Secretary of Agriculture,,LIB,Rick Stewart,30,15,15
+Winneshiek,PCT 8 - MI/BLM,Secretary of Agriculture,,LIB,Rick Stewart,31,19,12
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Secretary of Agriculture,,LIB,Rick Stewart,31,13,18
+Winneshiek,PCT 10 - JA/SU/WA,Secretary of Agriculture,,LIB,Rick Stewart,11,5,6
+Winneshiek,PCT 11 - DETSUP5,Secretary of Agriculture,,LIB,Rick Stewart,2,0,2
+Winneshiek,PCT 1 - HE/HI/PL,Secretary of Agriculture,,,Write-in,0,0,0
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Secretary of Agriculture,,,Write-in,1,0,1
+Winneshiek,PCT 3 - DEW1/DETSUP2,Secretary of Agriculture,,,Write-in,0,0,0
+Winneshiek,PCT 4 - DEW2,Secretary of Agriculture,,,Write-in,0,0,0
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Secretary of Agriculture,,,Write-in,0,0,0
+Winneshiek,PCT - 6 DEW5,Secretary of Agriculture,,,Write-in,0,0,0
+Winneshiek,PCT 7 - CA/SP,Secretary of Agriculture,,,Write-in,1,1,0
+Winneshiek,PCT 8 - MI/BLM,Secretary of Agriculture,,,Write-in,0,0,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Secretary of Agriculture,,,Write-in,0,0,0
+Winneshiek,PCT 10 - JA/SU/WA,Secretary of Agriculture,,,Write-in,0,0,0
+Winneshiek,PCT 11 - DETSUP5,Secretary of Agriculture,,,Write-in,0,0,0
+Winneshiek,PCT 1 - HE/HI/PL,Attorney General,,DEM,Tom Miller,394,149,245
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Attorney General,,DEM,Tom Miller,1223,414,809
+Winneshiek,PCT 3 - DEW1/DETSUP2,Attorney General,,DEM,Tom Miller,1036,351,685
+Winneshiek,PCT 4 - DEW2,Attorney General,,DEM,Tom Miller,756,232,524
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Attorney General,,DEM,Tom Miller,785,278,507
+Winneshiek,PCT - 6 DEW5,Attorney General,,DEM,Tom Miller,572,185,387
+Winneshiek,PCT 7 - CA/SP,Attorney General,,DEM,Tom Miller,712,401,311
+Winneshiek,PCT 8 - MI/BLM,Attorney General,,DEM,Tom Miller,539,366,173
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Attorney General,,DEM,Tom Miller,694,367,327
+Winneshiek,PCT 10 - JA/SU/WA,Attorney General,,DEM,Tom Miller,452,268,184
+Winneshiek,PCT 11 - DETSUP5,Attorney General,,DEM,Tom Miller,56,12,44
+Winneshiek,PCT 1 - HE/HI/PL,Attorney General,,LIB,Marco Battaglia,98,50,48
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Attorney General,,LIB,Marco Battaglia,237,111,126
+Winneshiek,PCT 3 - DEW1/DETSUP2,Attorney General,,LIB,Marco Battaglia,195,79,116
+Winneshiek,PCT 4 - DEW2,Attorney General,,LIB,Marco Battaglia,120,58,62
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Attorney General,,LIB,Marco Battaglia,153,80,73
+Winneshiek,PCT - 6 DEW5,Attorney General,,LIB,Marco Battaglia,92,41,51
+Winneshiek,PCT 7 - CA/SP,Attorney General,,LIB,Marco Battaglia,188,118,70
+Winneshiek,PCT 8 - MI/BLM,Attorney General,,LIB,Marco Battaglia,161,118,43
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Attorney General,,LIB,Marco Battaglia,224,131,93
+Winneshiek,PCT 10 - JA/SU/WA,Attorney General,,LIB,Marco Battaglia,131,87,44
+Winneshiek,PCT 11 - DETSUP5,Attorney General,,LIB,Marco Battaglia,10,2,8
+Winneshiek,PCT 1 - HE/HI/PL,Attorney General,,,Write-in,0,0,0
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Attorney General,,,Write-in,9,5,4
+Winneshiek,PCT 3 - DEW1/DETSUP2,Attorney General,,,Write-in,6,2,4
+Winneshiek,PCT 4 - DEW2,Attorney General,,,Write-in,1,1,0
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Attorney General,,,Write-in,7,6,1
+Winneshiek,PCT - 6 DEW5,Attorney General,,,Write-in,3,1,2
+Winneshiek,PCT 7 - CA/SP,Attorney General,,,Write-in,2,1,1
+Winneshiek,PCT 8 - MI/BLM,Attorney General,,,Write-in,4,1,3
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Attorney General,,,Write-in,4,1,3
+Winneshiek,PCT 10 - JA/SU/WA,Attorney General,,,Write-in,2,2,0
+Winneshiek,PCT 11 - DETSUP5,Attorney General,,,Write-in,0,0,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,State Representative District 51,,REP,Jane Bloomingdale,618,336,282
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,State Representative District 51,,DEM,Tim Knutson,396,204,192
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,State Representative District 51,,,Write-in,0,0,0
+Winneshiek,PCT 1 - HE/HI/PL,State Representative District 55,,REP,Michael Bergan,291,140,151
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,State Representative District 55,,REP,Michael Bergan,745,303,442
+Winneshiek,PCT 3 - DEW1/DETSUP2,State Representative District 55,,REP,Michael Bergan,670,268,402
+Winneshiek,PCT 4 - DEW2,State Representative District 55,,REP,Michael Bergan,265,111,154
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,State Representative District 55,,REP,Michael Bergan,406,173,233
+Winneshiek,PCT - 6 DEW5,State Representative District 55,,REP,Michael Bergan,229,103,126
+Winneshiek,PCT 7 - CA/SP,State Representative District 55,,REP,Michael Bergan,571,331,240
+Winneshiek,PCT 8 - MI/BLM,State Representative District 55,,REP,Michael Bergan,510,362,148
+Winneshiek,PCT 10 - JA/SU/WA,State Representative District 55,,REP,Michael Bergan,386,255,131
+Winneshiek,PCT 11 - DETSUP5,State Representative District 55,,REP,Michael Bergan,34,13,21
+Winneshiek,PCT 1 - HE/HI/PL,State Representative District 55,,DEM,Kayla Koether,286,97,189
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,State Representative District 55,,DEM,Kayla Koether,893,273,620
+Winneshiek,PCT 3 - DEW1/DETSUP2,State Representative District 55,,DEM,Kayla Koether,725,230,495
+Winneshiek,PCT 4 - DEW2,State Representative District 55,,DEM,Kayla Koether,665,193,472
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,State Representative District 55,,DEM,Kayla Koether,634,225,409
+Winneshiek,PCT - 6 DEW5,State Representative District 55,,DEM,Kayla Koether,482,147,335
+Winneshiek,PCT 7 - CA/SP,State Representative District 55,,DEM,Kayla Koether,435,238,197
+Winneshiek,PCT 8 - MI/BLM,State Representative District 55,,DEM,Kayla Koether,280,182,98
+Winneshiek,PCT 10 - JA/SU/WA,State Representative District 55,,DEM,Kayla Koether,255,142,113
+Winneshiek,PCT 11 - DETSUP5,State Representative District 55,,DEM,Kayla Koether,41,7,34
+Winneshiek,PCT 1 - HE/HI/PL,State Representative District 55,,,Write-in,0,0,0
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,State Representative District 55,,,Write-in,0,0,0
+Winneshiek,PCT 3 - DEW1/DETSUP2,State Representative District 55,,,Write-in,2,1,1
+Winneshiek,PCT 4 - DEW2,State Representative District 55,,,Write-in,1,1,0
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,State Representative District 55,,,Write-in,0,0,0
+Winneshiek,PCT - 6 DEW5,State Representative District 55,,,Write-in,0,0,0
+Winneshiek,PCT 7 - CA/SP,State Representative District 55,,,Write-in,2,0,2
+Winneshiek,PCT 8 - MI/BLM,State Representative District 55,,,Write-in,0,0,0
+Winneshiek,PCT 10 - JA/SU/WA,State Representative District 55,,,Write-in,0,0,0
+Winneshiek,PCT 11 - DETSUP5,State Representative District 55,,,Write-in,0,0,0
+Winneshiek,PCT 1 - HE/HI/PL,County Board of Supervisors District 1,,DEM,John W Beard,424,171,253
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,County Board of Supervisors District 1,,DEM,John W Beard,1311,460,851
+Winneshiek,PCT 1 - HE/HI/PL,County Board of Supervisors District 1,,,Write-in,30,11,19
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,County Board of Supervisors District 1,,,Write-in,43,20,23
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Board of Supervisors District 2,,REP,Floyd W Ashbacher,811,316,495
+Winneshiek,PCT 4 - DEW2,County Board of Supervisors District 2,,REP,Floyd W Ashbacher,369,149,220
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Board of Supervisors District 2,,DEM,Melissa O'Rourke,564,170,394
+Winneshiek,PCT 4 - DEW2,County Board of Supervisors District 2,,DEM,Melissa O'Rourke,550,154,396
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Board of Supervisors District 2,,,Write-in,0,0,0
+Winneshiek,PCT 4 - DEW2,County Board of Supervisors District 2,,,Write-in,1,0,1
+Winneshiek,PCT 1 - HE/HI/PL,County Treasurer,,REP,Wayne Walter,475,211,264
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,County Treasurer,,REP,Wayne Walter,1334,502,832
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Treasurer,,REP,Wayne Walter,1148,415,733
+Winneshiek,PCT 4 - DEW2,County Treasurer,,REP,Wayne Walter,626,231,395
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,County Treasurer,,REP,Wayne Walter,824,339,485
+Winneshiek,PCT - 6 DEW5,County Treasurer,,REP,Wayne Walter,522,184,338
+Winneshiek,PCT 7 - CA/SP,County Treasurer,,REP,Wayne Walter,882,516,366
+Winneshiek,PCT 8 - MI/BLM,County Treasurer,,REP,Wayne Walter,730,512,218
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,County Treasurer,,REP,Wayne Walter,891,486,405
+Winneshiek,PCT 10 - JA/SU/WA,County Treasurer,,REP,Wayne Walter,588,375,213
+Winneshiek,PCT 11 - DETSUP5,County Treasurer,,REP,Wayne Walter,64,18,46
+Winneshiek,PCT 1 - HE/HI/PL,County Treasurer,,,Write-in,6,2,4
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,County Treasurer,,,Write-in,25,12,13
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Treasurer,,,Write-in,10,2,8
+Winneshiek,PCT 4 - DEW2,County Treasurer,,,Write-in,33,9,24
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,County Treasurer,,,Write-in,15,7,8
+Winneshiek,PCT - 6 DEW5,County Treasurer,,,Write-in,21,5,16
+Winneshiek,PCT 7 - CA/SP,County Treasurer,,,Write-in,12,7,5
+Winneshiek,PCT 8 - MI/BLM,County Treasurer,,,Write-in,3,3,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,County Treasurer,,,Write-in,14,10,4
+Winneshiek,PCT 10 - JA/SU/WA,County Treasurer,,,Write-in,9,3,6
+Winneshiek,PCT 11 - DETSUP5,County Treasurer,,,Write-in,2,1,1
+Winneshiek,PCT 1 - HE/HI/PL,County Recorder,,REP,Connie Askelson-Kuennen,286,139,147
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,County Recorder,,REP,Connie Askelson-Kuennen,771,303,468
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Recorder,,REP,Connie Askelson-Kuennen,666,257,409
+Winneshiek,PCT 4 - DEW2,County Recorder,,REP,Connie Askelson-Kuennen,321,127,194
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,County Recorder,,REP,Connie Askelson-Kuennen,461,197,264
+Winneshiek,PCT - 6 DEW5,County Recorder,,REP,Connie Askelson-Kuennen,268,94,174
+Winneshiek,PCT 7 - CA/SP,County Recorder,,REP,Connie Askelson-Kuennen,476,281,195
+Winneshiek,PCT 8 - MI/BLM,County Recorder,,REP,Connie Askelson-Kuennen,366,247,119
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,County Recorder,,REP,Connie Askelson-Kuennen,564,301,263
+Winneshiek,PCT 10 - JA/SU/WA,County Recorder,,REP,Connie Askelson-Kuennen,384,245,139
+Winneshiek,PCT 11 - DETSUP5,County Recorder,,REP,Connie Askelson-Kuennen,37,14,23
+Winneshiek,PCT 1 - HE/HI/PL,County Recorder,,,Jayne Schultz,249,82,167
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,County Recorder,,,Jayne Schultz,795,256,539
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Recorder,,,Jayne Schultz,654,208,446
+Winneshiek,PCT 4 - DEW2,County Recorder,,,Jayne Schultz,537,163,374
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,County Recorder,,,Jayne Schultz,495,176,319
+Winneshiek,PCT - 6 DEW5,County Recorder,,,Jayne Schultz,369,123,246
+Winneshiek,PCT 7 - CA/SP,County Recorder,,,Jayne Schultz,495,266,229
+Winneshiek,PCT 8 - MI/BLM,County Recorder,,,Jayne Schultz,394,282,112
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,County Recorder,,,Jayne Schultz,425,224,201
+Winneshiek,PCT 10 - JA/SU/WA,County Recorder,,,Jayne Schultz,242,146,96
+Winneshiek,PCT 11 - DETSUP5,County Recorder,,,Jayne Schultz,36,6,30
+Winneshiek,PCT 1 - HE/HI/PL,County Recorder,,,Write-in,0,0,0
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,County Recorder,,,Write-in,1,0,1
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Recorder,,,Write-in,0,0,0
+Winneshiek,PCT 4 - DEW2,County Recorder,,,Write-in,1,0,1
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,County Recorder,,,Write-in,1,1,0
+Winneshiek,PCT - 6 DEW5,County Recorder,,,Write-in,3,0,3
+Winneshiek,PCT 7 - CA/SP,County Recorder,,,Write-in,2,1,1
+Winneshiek,PCT 8 - MI/BLM,County Recorder,,,Write-in,0,0,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,County Recorder,,,Write-in,2,1,1
+Winneshiek,PCT 10 - JA/SU/WA,County Recorder,,,Write-in,0,0,0
+Winneshiek,PCT 11 - DETSUP5,County Recorder,,,Write-in,1,0,1
+Winneshiek,PCT 1 - HE/HI/PL,County Attorney,,REP,Andrew F Van Der Maaten,443,200,243
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,County Attorney,,REP,Andrew F Van Der Maaten,1292,483,809
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Attorney,,REP,Andrew F Van Der Maaten,1101,405,696
+Winneshiek,PCT 4 - DEW2,County Attorney,,REP,Andrew F Van Der Maaten,614,218,396
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,County Attorney,,REP,Andrew F Van Der Maaten,780,319,461
+Winneshiek,PCT - 6 DEW5,County Attorney,,REP,Andrew F Van Der Maaten,505,179,326
+Winneshiek,PCT 7 - CA/SP,County Attorney,,REP,Andrew F Van Der Maaten,813,478,335
+Winneshiek,PCT 8 - MI/BLM,County Attorney,,REP,Andrew F Van Der Maaten,691,492,199
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,County Attorney,,REP,Andrew F Van Der Maaten,843,460,383
+Winneshiek,PCT 10 - JA/SU/WA,County Attorney,,REP,Andrew F Van Der Maaten,538,350,188
+Winneshiek,PCT 11 - DETSUP5,County Attorney,,REP,Andrew F Van Der Maaten,59,17,42
+Winneshiek,PCT 1 - HE/HI/PL,County Attorney,,,Write-in,10,3,7
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,County Attorney,,,Write-in,23,8,15
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Attorney,,,Write-in,12,4,8
+Winneshiek,PCT 4 - DEW2,County Attorney,,,Write-in,31,7,24
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,County Attorney,,,Write-in,22,11,11
+Winneshiek,PCT - 6 DEW5,County Attorney,,,Write-in,18,2,16
+Winneshiek,PCT 7 - CA/SP,County Attorney,,,Write-in,8,5,3
+Winneshiek,PCT 8 - MI/BLM,County Attorney,,,Write-in,6,4,2
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,County Attorney,,,Write-in,11,6,5
+Winneshiek,PCT 10 - JA/SU/WA,County Attorney,,,Write-in,13,4,9
+Winneshiek,PCT 11 - DETSUP5,County Attorney,,,Write-in,2,0,2
+Winneshiek,PCT 8 - MI/BLM,Bloomfield Township Trustee,,,Roger Monroe,4,4,0
+Winneshiek,PCT 8 - MI/BLM,Bloomfield Township Trustee,,,James Palmer,6,6,0
+Winneshiek,PCT 8 - MI/BLM,Bloomfield Township Trustee,,,Write-in,21,13,8
+Winneshiek,PCT 8 - MI/BLM,Bloomfield Township Clerk,,,Kenneth F Meyer,132,95,37
+Winneshiek,PCT 8 - MI/BLM,Bloomfield Township Clerk,,,Write-in,0,0,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Bluffton Township Trustee,,,Randy Logsdon,171,78,93
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Bluffton Township Trustee,,,Blaine Christopher,2,0,2
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Bluffton Township Trustee,,,Tim Lecander,2,0,2
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Bluffton Township Trustee,,,David Bergan,2,2,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Bluffton Township Trustee,,,zach Fromm,2,1,1
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Bluffton Township Trustee,,,John Rilling,2,1,1
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Bluffton Township Trustee,,,Write-in,15,6,9
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Bluffton Township Clerk,,,Davis Lange,172,78,94
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Bluffton Township Clerk,,,Write-in,2,1,1
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Burr Oak Township Trustee,,,Sharon Borcherding,118,43,75
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Burr Oak Township Trustee,,,Myron Rediske,119,40,79
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Burr Oak Township Trustee,,,Write-in,4,1,3
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Burr Oak Township Clerk,,,James Olson,131,46,85
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Burr Oak Township Clerk,,,Write-in,3,1,2
+Winneshiek,PCT 7 - CA/SP,Calmar Township Trustee,,,Doug Groux,215,120,95
+Winneshiek,PCT 7 - CA/SP,Calmar Township Trustee,,,Ray Kalec,195,112,83
+Winneshiek,PCT 7 - CA/SP,Calmar Township Trustee,,,Write-in,1,1,0
+Winneshiek,PCT 7 - CA/SP,Calmar Township Clerk,,,Tony Phillips,237,136,101
+Winneshiek,PCT 7 - CA/SP,Calmar Township Clerk,,,Write-in,0,0,0
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Canoe Township Trustee,,,Birgitta Meade,197,66,131
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Canoe Township Trustee,,,J Wayne Wicks,192,62,130
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Canoe Township Trustee,,,Write-in,10,1,9
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Canoe Township Clerk,,,Don Stromseth,8,3,5
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Canoe Township Clerk,,,Kathryn Erickson,2,0,2
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Canoe Township Clerk,,,Clair Askelson,2,0,2
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Canoe Township Clerk,,,Dan Voss,2,0,2
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Canoe Township Clerk,,,Daryl Bosma,2,1,1
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Canoe Township Clerk,,,Write-in,16,3,13
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Decorah Township Trustee,,,Karen Lee,161,49,112
+Winneshiek,PCT 3 - DEW1/DETSUP2,Decorah Township Trustee,,,Karen Lee,340,124,216
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Decorah Township Trustee,,,Karen Lee,178,69,109
+Winneshiek,PCT 11 - DETSUP5,Decorah Township Trustee,,,Karen Lee,51,12,39
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Decorah Township Trustee,,,Tony Meyer,145,43,102
+Winneshiek,PCT 3 - DEW1/DETSUP2,Decorah Township Trustee,,,Tony Meyer,337,114,223
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Decorah Township Trustee,,,Tony Meyer,178,71,107
+Winneshiek,PCT 11 - DETSUP5,Decorah Township Trustee,,,Tony Meyer,52,15,37
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Decorah Township Trustee,,,Write-in,0,0,0
+Winneshiek,PCT 3 - DEW1/DETSUP2,Decorah Township Trustee,,,Write-in,1,0,1
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Decorah Township Trustee,,,Write-in,3,3,0
+Winneshiek,PCT 11 - DETSUP5,Decorah Township Trustee,,,Write-in,1,0,1
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Decorah Township Clerk,,,Diann Marten,162,49,113
+Winneshiek,PCT 3 - DEW1/DETSUP2,Decorah Township Clerk,,,Diann Marten,350,123,227
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Decorah Township Clerk,,,Diann Marten,189,72,117
+Winneshiek,PCT 11 - DETSUP5,Decorah Township Clerk,,,Diann Marten,55,14,41
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Decorah Township Clerk,,,Write-in,0,0,0
+Winneshiek,PCT 3 - DEW1/DETSUP2,Decorah Township Clerk,,,Write-in,1,0,1
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Decorah Township Clerk,,,Write-in,1,1,0
+Winneshiek,PCT 11 - DETSUP5,Decorah Township Clerk,,,Write-in,0,0,0
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Frankville Township Trustee,,,Douglas A Koenig,147,68,79
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Frankville Township Trustee,,,Byron Kent Schultz,126,55,71
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Frankville Township Trustee,,,Write-in,8,4,4
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Frankville Township Clerk,,,Teresa Berg,150,70,80
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Frankville Township Clerk,,,Write-in,5,2,3
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Fremont Township Trustee,,,Kendall J Curtis,86,43,43
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Fremont Township Trustee,,,Chuck Daskam,1,1,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Fremont Township Trustee,,,Leland Hovey,1,1,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Fremont Township Trustee,,,Leroy Webb,1,1,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Fremont Township Trustee,,,Gary Hanson,1,1,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Fremont Township Trustee,,,Write-in,0,0,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Fremont Township Clerk,,,David Lewis,84,41,43
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Fremont Township Clerk,,,Write-in,0,0,0
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Glenwood Township Trustee,,,Roger Espe,221,77,144
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Glenwood Township Trustee,,,Gary Smorstad,239,88,151
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Glenwood Township Trustee,,,Write-in,3,3,0
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Glenwood Township Clerk,,,Danny Leidahl,249,91,158
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Glenwood Township Clerk,,,Write-in,2,0,2
+Winneshiek,PCT 1 - HE/HI/PL,Hesper Township Trustee,,,Paul E Korsness,158,102,56
+Winneshiek,PCT 1 - HE/HI/PL,Hesper Township Trustee,,,Jeff Ode,2,2,0
+Winneshiek,PCT 1 - HE/HI/PL,Hesper Township Trustee,,,Donald Blegan,2,0,2
+Winneshiek,PCT 1 - HE/HI/PL,Hesper Township Trustee,,,Write-in,8,4,4
+Winneshiek,PCT 1 - HE/HI/PL,Hesper Township Clerk,,,Davis Hanson,156,101,55
+Winneshiek,PCT 1 - HE/HI/PL,Hesper Township Clerk,,,Write-in,0,0,0
+Winneshiek,PCT 1 - HE/HI/PL,Hesper Township Trustee To Fill A Vacancy,,,Mike Paulson,152,97,55
+Winneshiek,PCT 1 - HE/HI/PL,Hesper Township Trustee To Fill A Vacancy,,,Write-in,4,4,0
+Winneshiek,PCT 1 - HE/HI/PL,Highland Township Trustee,,,Thomas Hansen,89,42,47
+Winneshiek,PCT 1 - HE/HI/PL,Highland Township Trustee,,,Rick Monson,115,52,63
+Winneshiek,PCT 1 - HE/HI/PL,Highland Township Trustee,,,Write-in,14,4,10
+Winneshiek,PCT 1 - HE/HI/PL,Highland Township Clerk,,,Gary Stortz,133,59,74
+Winneshiek,PCT 1 - HE/HI/PL,Highland Township Clerk,,,Write-in,1,0,1
+Winneshiek,PCT 10 - JA/SU/WA,Jackson Township Trustee,,,Carol Pinter,86,49,37
+Winneshiek,PCT 10 - JA/SU/WA,Jackson Township Trustee,,,Bruce Adams,4,2,2
+Winneshiek,PCT 10 - JA/SU/WA,Jackson Township Trustee,,,Matt Herold,2,1,1
+Winneshiek,PCT 10 - JA/SU/WA,Jackson Township Trustee,,,Write-in,8,6,2
+Winneshiek,PCT 10 - JA/SU/WA,Jackson Township Clerk,,,Jean Wiemann,87,51,36
+Winneshiek,PCT 10 - JA/SU/WA,Jackson Township Clerk,,,Write-in,0,0,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Lincoln Township Trustee,,,Kelvin Rue,128,89,39
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Lincoln Township Trustee,,,John Wiedeman,116,75,41
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Lincoln Township Trustee,,,Write-in,1,1,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Lincoln Township Clerk,,,Jed Becker,135,91,44
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Lincoln Township Clerk,,,Write-in,1,1,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Madison Township Trustee,,,Dale K Johnson,172,81,91
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Madison Township Trustee,,,John F Lubke,169,79,90
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Madison Township Trustee,,,Write-in,0,0,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Madison Township Clerk,,,Carleton Haugen,174,86,88
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Madison Township Clerk,,,Write-in,0,0,0
+Winneshiek,PCT 8 - MI/BLM,Military Township Trustee,,,Gary Lansing,169,115,54
+Winneshiek,PCT 8 - MI/BLM,Military Township Trustee,,,Kevin Quass,2,2,0
+Winneshiek,PCT 8 - MI/BLM,Military Township Trustee,,,Write-in,8,7,1
+Winneshiek,PCT 8 - MI/BLM,Military Township Clerk,,,Melvin Elsbernd,168,113,55
+Winneshiek,PCT 8 - MI/BLM,Military Township Clerk,,,Write-in,0,0,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Orleans Township Trustee,,,Larry Iverson,91,66,25
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Orleans Township Trustee,,,Jason Ryan,4,4,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Orleans Township Trustee,,,Wally Johnson,4,4,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Orleans Township Trustee,,,Write-in,14,13,1
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Orleans Township Clerk,,,Jeff Ryan,6,6,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Orleans Township Clerk,,,Write-in,3,3,0
+Winneshiek,PCT 1 - HE/HI/PL,Pleasant Township Trustee,,,Kenneth Nordheim,212,54,158
+Winneshiek,PCT 1 - HE/HI/PL,Pleasant Township Trustee,,,Daniel Beard,10,4,6
+Winneshiek,PCT 1 - HE/HI/PL,Pleasant Township Trustee,,,Roger Nelson,5,0,5
+Winneshiek,PCT 1 - HE/HI/PL,Pleasant Township Trustee,,,Write-in,13,2,11
+Winneshiek,PCT 1 - HE/HI/PL,Pleasant Township Clerk,,,Thomas Otteson,209,53,156
+Winneshiek,PCT 1 - HE/HI/PL,Pleasant Township Clerk,,,Write-in,0,0,0
+Winneshiek,PCT 7 - CA/SP,Springfield Township Trustee,,,David Lensch,152,62,90
+Winneshiek,PCT 7 - CA/SP,Springfield Township Trustee,,,Randy Numedahl,155,63,92
+Winneshiek,PCT 7 - CA/SP,Springfield Township Trustee,,,Write-in,2,2,0
+Winneshiek,PCT 7 - CA/SP,Springfield Township Clerk,,,James Ludeking,164,72,92
+Winneshiek,PCT 7 - CA/SP,Springfield Township Clerk,,,Write-in,1,0,1
+Winneshiek,PCT 10 - JA/SU/WA,Sumner Township Trustee,,,Stacy Klimesh,94,41,53
+Winneshiek,PCT 10 - JA/SU/WA,Sumner Township Trustee,,,Gerry Shileny,88,41,47
+Winneshiek,PCT 10 - JA/SU/WA,Sumner Township Trustee,,,Write-in,0,0,0
+Winneshiek,PCT 10 - JA/SU/WA,Sumner Township Clerk,,,David Ondrashek,94,46,48
+Winneshiek,PCT 10 - JA/SU/WA,Sumner Township Clerk,,,Write-in,4,0,4
+Winneshiek,PCT 10 - JA/SU/WA,Washington Township Trustee,,,Carl Schmitt,229,155,74
+Winneshiek,PCT 10 - JA/SU/WA,Washington Township Trustee,,,Mark Schmitt,202,135,67
+Winneshiek,PCT 10 - JA/SU/WA,Washington Township Trustee,,,Write-in,3,2,1
+Winneshiek,PCT 10 - JA/SU/WA,Washington Township Clerk,,,Dave Nienhaus,205,140,65
+Winneshiek,PCT 10 - JA/SU/WA,Washington Township Clerk,,,Write-in,5,2,3
+Winneshiek,PCT 1 - HE/HI/PL,County Hospital Trustee,,,Steve Hildebrand,381,165,216
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,County Hospital Trustee,,,Steve Hildebrand,1169,442,727
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Hospital Trustee,,,Steve Hildebrand,974,349,625
+Winneshiek,PCT 4 - DEW2,County Hospital Trustee,,,Steve Hildebrand,589,197,392
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,County Hospital Trustee,,,Steve Hildebrand,701,275,426
+Winneshiek,PCT - 6 DEW5,County Hospital Trustee,,,Steve Hildebrand,484,156,328
+Winneshiek,PCT 7 - CA/SP,County Hospital Trustee,,,Steve Hildebrand,703,400,303
+Winneshiek,PCT 8 - MI/BLM,County Hospital Trustee,,,Steve Hildebrand,550,398,152
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,County Hospital Trustee,,,Steve Hildebrand,726,396,330
+Winneshiek,PCT 10 - JA/SU/WA,County Hospital Trustee,,,Steve Hildebrand,459,298,161
+Winneshiek,PCT 11 - DETSUP5,County Hospital Trustee,,,Steve Hildebrand,51,11,40
+Winneshiek,PCT 1 - HE/HI/PL,County Hospital Trustee,,,Karl T Jacobsen,364,157,207
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,County Hospital Trustee,,,Karl T Jacobsen,1083,404,679
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Hospital Trustee,,,Karl T Jacobsen,906,334,572
+Winneshiek,PCT 4 - DEW2,County Hospital Trustee,,,Karl T Jacobsen,553,188,365
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,County Hospital Trustee,,,Karl T Jacobsen,665,263,402
+Winneshiek,PCT - 6 DEW5,County Hospital Trustee,,,Karl T Jacobsen,447,151,296
+Winneshiek,PCT 7 - CA/SP,County Hospital Trustee,,,Karl T Jacobsen,670,384,286
+Winneshiek,PCT 8 - MI/BLM,County Hospital Trustee,,,Karl T Jacobsen,544,387,157
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,County Hospital Trustee,,,Karl T Jacobsen,682,378,304
+Winneshiek,PCT 10 - JA/SU/WA,County Hospital Trustee,,,Karl T Jacobsen,438,281,157
+Winneshiek,PCT 11 - DETSUP5,County Hospital Trustee,,,Karl T Jacobsen,48,12,36
+Winneshiek,PCT 1 - HE/HI/PL,County Hospital Trustee,,,Susan McKone Burks,21,2,19
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,County Hospital Trustee,,,Susan McKone Burks,75,8,67
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Hospital Trustee,,,Susan McKone Burks,74,13,61
+Winneshiek,PCT 4 - DEW2,County Hospital Trustee,,,Susan McKone Burks,51,5,46
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,County Hospital Trustee,,,Susan McKone Burks,47,9,38
+Winneshiek,PCT - 6 DEW5,County Hospital Trustee,,,Susan McKone Burks,17,3,14
+Winneshiek,PCT 7 - CA/SP,County Hospital Trustee,,,Susan McKone Burks,14,5,9
+Winneshiek,PCT 8 - MI/BLM,County Hospital Trustee,,,Susan McKone Burks,3,1,2
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,County Hospital Trustee,,,Susan McKone Burks,9,0,9
+Winneshiek,PCT 10 - JA/SU/WA,County Hospital Trustee,,,Susan McKone Burks,4,1,3
+Winneshiek,PCT 11 - DETSUP5,County Hospital Trustee,,,Susan McKone Burks,1,0,1
+Winneshiek,PCT 1 - HE/HI/PL,County Hospital Trustee,,,Write-in,21,6,15
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,County Hospital Trustee,,,Write-in,68,28,40
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Hospital Trustee,,,Write-in,43,16,27
+Winneshiek,PCT 4 - DEW2,County Hospital Trustee,,,Write-in,31,13,18
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,County Hospital Trustee,,,Write-in,47,21,26
+Winneshiek,PCT - 6 DEW5,County Hospital Trustee,,,Write-in,30,7,23
+Winneshiek,PCT 7 - CA/SP,County Hospital Trustee,,,Write-in,43,27,16
+Winneshiek,PCT 8 - MI/BLM,County Hospital Trustee,,,Write-in,37,23,14
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,County Hospital Trustee,,,Write-in,43,24,19
+Winneshiek,PCT 10 - JA/SU/WA,County Hospital Trustee,,,Write-in,29,15,14
+Winneshiek,PCT 11 - DETSUP5,County Hospital Trustee,,,Write-in,0,0,0
+Winneshiek,PCT 1 - HE/HI/PL,Soil & Water Conservation District Commissioner,,,Dennis Blumhagen,278,123,155
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Soil & Water Conservation District Commissioner,,,Dennis Blumhagen,746,287,459
+Winneshiek,PCT 3 - DEW1/DETSUP2,Soil & Water Conservation District Commissioner,,,Dennis Blumhagen,610,229,381
+Winneshiek,PCT 4 - DEW2,Soil & Water Conservation District Commissioner,,,Dennis Blumhagen,318,106,212
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Soil & Water Conservation District Commissioner,,,Dennis Blumhagen,427,176,251
+Winneshiek,PCT - 6 DEW5,Soil & Water Conservation District Commissioner,,,Dennis Blumhagen,281,97,184
+Winneshiek,PCT 7 - CA/SP,Soil & Water Conservation District Commissioner,,,Dennis Blumhagen,662,389,273
+Winneshiek,PCT 8 - MI/BLM,Soil & Water Conservation District Commissioner,,,Dennis Blumhagen,588,431,157
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Soil & Water Conservation District Commissioner,,,Dennis Blumhagen,558,319,239
+Winneshiek,PCT 10 - JA/SU/WA,Soil & Water Conservation District Commissioner,,,Dennis Blumhagen,410,264,146
+Winneshiek,PCT 11 - DETSUP5,Soil & Water Conservation District Commissioner,,,Dennis Blumhagen,30,5,25
+Winneshiek,PCT 1 - HE/HI/PL,Soil & Water Conservation District Commissioner,,,Ross Evelsizer,252,92,160
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Soil & Water Conservation District Commissioner,,,Ross Evelsizer,814,310,504
+Winneshiek,PCT 3 - DEW1/DETSUP2,Soil & Water Conservation District Commissioner,,,Ross Evelsizer,713,238,475
+Winneshiek,PCT 4 - DEW2,Soil & Water Conservation District Commissioner,,,Ross Evelsizer,431,151,280
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Soil & Water Conservation District Commissioner,,,Ross Evelsizer,505,178,327
+Winneshiek,PCT - 6 DEW5,Soil & Water Conservation District Commissioner,,,Ross Evelsizer,356,108,248
+Winneshiek,PCT 7 - CA/SP,Soil & Water Conservation District Commissioner,,,Ross Evelsizer,327,176,151
+Winneshiek,PCT 8 - MI/BLM,Soil & Water Conservation District Commissioner,,,Ross Evelsizer,225,144,81
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Soil & Water Conservation District Commissioner,,,Ross Evelsizer,375,190,185
+Winneshiek,PCT 10 - JA/SU/WA,Soil & Water Conservation District Commissioner,,,Ross Evelsizer,159,96,63
+Winneshiek,PCT 11 - DETSUP5,Soil & Water Conservation District Commissioner,,,Ross Evelsizer,36,12,24
+Winneshiek,PCT 1 - HE/HI/PL,Soil & Water Conservation District Commissioner,,,Mark R Jensen,273,117,156
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Soil & Water Conservation District Commissioner,,,Mark R Jensen,733,276,457
+Winneshiek,PCT 3 - DEW1/DETSUP2,Soil & Water Conservation District Commissioner,,,Mark R Jensen,597,232,365
+Winneshiek,PCT 4 - DEW2,Soil & Water Conservation District Commissioner,,,Mark R Jensen,405,130,275
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Soil & Water Conservation District Commissioner,,,Mark R Jensen,449,195,254
+Winneshiek,PCT - 6 DEW5,Soil & Water Conservation District Commissioner,,,Mark R Jensen,306,97,209
+Winneshiek,PCT 7 - CA/SP,Soil & Water Conservation District Commissioner,,,Mark R Jensen,496,283,213
+Winneshiek,PCT 8 - MI/BLM,Soil & Water Conservation District Commissioner,,,Mark R Jensen,417,292,125
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Soil & Water Conservation District Commissioner,,,Mark R Jensen,598,338,260
+Winneshiek,PCT 10 - JA/SU/WA,Soil & Water Conservation District Commissioner,,,Mark R Jensen,368,224,144
+Winneshiek,PCT 11 - DETSUP5,Soil & Water Conservation District Commissioner,,,Mark R Jensen,40,12,28
+Winneshiek,PCT 1 - HE/HI/PL,Soil & Water Conservation District Commissioner,,,Write-in,2,0,2
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Soil & Water Conservation District Commissioner,,,Write-in,5,4,1
+Winneshiek,PCT 3 - DEW1/DETSUP2,Soil & Water Conservation District Commissioner,,,Write-in,9,1,8
+Winneshiek,PCT 4 - DEW2,Soil & Water Conservation District Commissioner,,,Write-in,4,1,3
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Soil & Water Conservation District Commissioner,,,Write-in,10,4,6
+Winneshiek,PCT - 6 DEW5,Soil & Water Conservation District Commissioner,,,Write-in,6,2,4
+Winneshiek,PCT 7 - CA/SP,Soil & Water Conservation District Commissioner,,,Write-in,5,4,1
+Winneshiek,PCT 8 - MI/BLM,Soil & Water Conservation District Commissioner,,,Write-in,4,4,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Soil & Water Conservation District Commissioner,,,Write-in,5,2,3
+Winneshiek,PCT 10 - JA/SU/WA,Soil & Water Conservation District Commissioner,,,Write-in,4,1,3
+Winneshiek,PCT 11 - DETSUP5,Soil & Water Conservation District Commissioner,,,Write-in,1,0,1
+Winneshiek,PCT 1 - HE/HI/PL,County Agricultural Extension Council,,,Cody Carolan,377,160,217
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,County Agricultural Extension Council,,,Cody Carolan,1011,395,616
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Agricultural Extension Council,,,Cody Carolan,857,313,544
+Winneshiek,PCT 4 - DEW2,County Agricultural Extension Council,,,Cody Carolan,524,178,346
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,County Agricultural Extension Council,,,Cody Carolan,624,249,375
+Winneshiek,PCT - 6 DEW5,County Agricultural Extension Council,,,Cody Carolan,419,136,283
+Winneshiek,PCT 7 - CA/SP,County Agricultural Extension Council,,,Cody Carolan,636,372,264
+Winneshiek,PCT 8 - MI/BLM,County Agricultural Extension Council,,,Cody Carolan,516,373,143
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,County Agricultural Extension Council,,,Cody Carolan,729,411,318
+Winneshiek,PCT 10 - JA/SU/WA,County Agricultural Extension Council,,,Cody Carolan,439,283,156
+Winneshiek,PCT 11 - DETSUP5,County Agricultural Extension Council,,,Cody Carolan,43,11,32
+Winneshiek,PCT 1 - HE/HI/PL,County Agricultural Extension Council,,,Norbert Lovstuen,386,170,216
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,County Agricultural Extension Council,,,Norbert Lovstuen,1042,393,649
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Agricultural Extension Council,,,Norbert Lovstuen,878,326,552
+Winneshiek,PCT 4 - DEW2,County Agricultural Extension Council,,,Norbert Lovstuen,523,171,352
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,County Agricultural Extension Council,,,Norbert Lovstuen,620,240,380
+Winneshiek,PCT - 6 DEW5,County Agricultural Extension Council,,,Norbert Lovstuen,432,137,295
+Winneshiek,PCT 7 - CA/SP,County Agricultural Extension Council,,,Norbert Lovstuen,640,373,267
+Winneshiek,PCT 8 - MI/BLM,County Agricultural Extension Council,,,Norbert Lovstuen,506,364,142
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,County Agricultural Extension Council,,,Norbert Lovstuen,682,378,304
+Winneshiek,PCT 10 - JA/SU/WA,County Agricultural Extension Council,,,Norbert Lovstuen,411,263,148
+Winneshiek,PCT 11 - DETSUP5,County Agricultural Extension Council,,,Norbert Lovstuen,46,11,35
+Winneshiek,PCT 1 - HE/HI/PL,County Agricultural Extension Council,,,Delbert Smith,377,170,207
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,County Agricultural Extension Council,,,Delbert Smith,1013,385,628
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Agricultural Extension Council,,,Delbert Smith,863,315,548
+Winneshiek,PCT 4 - DEW2,County Agricultural Extension Council,,,Delbert Smith,504,164,340
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,County Agricultural Extension Council,,,Delbert Smith,615,240,375
+Winneshiek,PCT - 6 DEW5,County Agricultural Extension Council,,,Delbert Smith,409,131,278
+Winneshiek,PCT 7 - CA/SP,County Agricultural Extension Council,,,Delbert Smith,652,372,280
+Winneshiek,PCT 8 - MI/BLM,County Agricultural Extension Council,,,Delbert Smith,523,377,146
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,County Agricultural Extension Council,,,Delbert Smith,685,381,304
+Winneshiek,PCT 10 - JA/SU/WA,County Agricultural Extension Council,,,Delbert Smith,417,273,144
+Winneshiek,PCT 11 - DETSUP5,County Agricultural Extension Council,,,Delbert Smith,46,9,37
+Winneshiek,PCT 1 - HE/HI/PL,County Agricultural Extension Council,,,Stacy Bushman,12,3,9
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,County Agricultural Extension Council,,,Stacy Bushman,31,1,30
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Agricultural Extension Council,,,Stacy Bushman,24,4,20
+Winneshiek,PCT 4 - DEW2,County Agricultural Extension Council,,,Stacy Bushman,21,2,19
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,County Agricultural Extension Council,,,Stacy Bushman,9,2,7
+Winneshiek,PCT - 6 DEW5,County Agricultural Extension Council,,,Stacy Bushman,7,1,6
+Winneshiek,PCT 7 - CA/SP,County Agricultural Extension Council,,,Stacy Bushman,11,6,5
+Winneshiek,PCT 8 - MI/BLM,County Agricultural Extension Council,,,Stacy Bushman,11,8,3
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,County Agricultural Extension Council,,,Stacy Bushman,7,2,5
+Winneshiek,PCT 10 - JA/SU/WA,County Agricultural Extension Council,,,Stacy Bushman,2,1,1
+Winneshiek,PCT 11 - DETSUP5,County Agricultural Extension Council,,,Stacy Bushman,1,0,1
+Winneshiek,PCT 1 - HE/HI/PL,County Agricultural Extension Council,,,Ruth Sutton,14,4,10
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,County Agricultural Extension Council,,,Ruth Sutton,34,2,32
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Agricultural Extension Council,,,Ruth Sutton,24,3,21
+Winneshiek,PCT 4 - DEW2,County Agricultural Extension Council,,,Ruth Sutton,20,2,18
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,County Agricultural Extension Council,,,Ruth Sutton,18,7,11
+Winneshiek,PCT - 6 DEW5,County Agricultural Extension Council,,,Ruth Sutton,7,1,6
+Winneshiek,PCT 7 - CA/SP,County Agricultural Extension Council,,,Ruth Sutton,7,2,5
+Winneshiek,PCT 8 - MI/BLM,County Agricultural Extension Council,,,Ruth Sutton,2,1,1
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,County Agricultural Extension Council,,,Ruth Sutton,11,5,6
+Winneshiek,PCT 10 - JA/SU/WA,County Agricultural Extension Council,,,Ruth Sutton,2,0,2
+Winneshiek,PCT 11 - DETSUP5,County Agricultural Extension Council,,,Ruth Sutton,1,0,1
+Winneshiek,PCT 1 - HE/HI/PL,County Agricultural Extension Council,,,Write-in,46,12,34
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,County Agricultural Extension Council,,,Write-in,85,35,50
+Winneshiek,PCT 3 - DEW1/DETSUP2,County Agricultural Extension Council,,,Write-in,67,17,50
+Winneshiek,PCT 4 - DEW2,County Agricultural Extension Council,,,Write-in,46,11,35
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,County Agricultural Extension Council,,,Write-in,72,40,32
+Winneshiek,PCT - 6 DEW5,County Agricultural Extension Council,,,Write-in,43,7,36
+Winneshiek,PCT 7 - CA/SP,County Agricultural Extension Council,,,Write-in,70,34,36
+Winneshiek,PCT 8 - MI/BLM,County Agricultural Extension Council,,,Write-in,53,34,19
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,County Agricultural Extension Council,,,Write-in,74,48,26
+Winneshiek,PCT 10 - JA/SU/WA,County Agricultural Extension Council,,,Write-in,46,19,27
+Winneshiek,PCT 11 - DETSUP5,County Agricultural Extension Council,,,Write-in,0,0,0
+Winneshiek,PCT 1 - HE/HI/PL,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,292,106,186
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,961,329,632
+Winneshiek,PCT 3 - DEW1/DETSUP2,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,777,274,503
+Winneshiek,PCT 4 - DEW2,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,540,171,369
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,578,214,364
+Winneshiek,PCT - 6 DEW5,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,437,133,304
+Winneshiek,PCT 7 - CA/SP,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,507,293,214
+Winneshiek,PCT 8 - MI/BLM,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,371,267,104
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,501,267,234
+Winneshiek,PCT 10 - JA/SU/WA,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,304,199,105
+Winneshiek,PCT 11 - DETSUP5,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,42,12,30
+Winneshiek,PCT 1 - HE/HI/PL,Court of Appeals Judge Anuradha Vaitheswaran,,,No,124,67,57
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Court of Appeals Judge Anuradha Vaitheswaran,,,No,275,124,151
+Winneshiek,PCT 3 - DEW1/DETSUP2,Court of Appeals Judge Anuradha Vaitheswaran,,,No,204,97,107
+Winneshiek,PCT 4 - DEW2,Court of Appeals Judge Anuradha Vaitheswaran,,,No,128,53,75
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Court of Appeals Judge Anuradha Vaitheswaran,,,No,152,70,82
+Winneshiek,PCT - 6 DEW5,Court of Appeals Judge Anuradha Vaitheswaran,,,No,70,22,48
+Winneshiek,PCT 7 - CA/SP,Court of Appeals Judge Anuradha Vaitheswaran,,,No,246,143,103
+Winneshiek,PCT 8 - MI/BLM,Court of Appeals Judge Anuradha Vaitheswaran,,,No,205,158,47
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Court of Appeals Judge Anuradha Vaitheswaran,,,No,293,178,115
+Winneshiek,PCT 10 - JA/SU/WA,Court of Appeals Judge Anuradha Vaitheswaran,,,No,171,111,60
+Winneshiek,PCT 11 - DETSUP5,Court of Appeals Judge Anuradha Vaitheswaran,,,No,9,2,7
+Winneshiek,PCT 1 - HE/HI/PL,Court of Appeals Judge Michael R. Mullins,,,Yes,308,123,185
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Court of Appeals Judge Michael R. Mullins,,,Yes,983,348,635
+Winneshiek,PCT 3 - DEW1/DETSUP2,Court of Appeals Judge Michael R. Mullins,,,Yes,769,277,492
+Winneshiek,PCT 4 - DEW2,Court of Appeals Judge Michael R. Mullins,,,Yes,512,167,345
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Court of Appeals Judge Michael R. Mullins,,,Yes,550,215,335
+Winneshiek,PCT - 6 DEW5,Court of Appeals Judge Michael R. Mullins,,,Yes,410,127,283
+Winneshiek,PCT 7 - CA/SP,Court of Appeals Judge Michael R. Mullins,,,Yes,532,305,227
+Winneshiek,PCT 8 - MI/BLM,Court of Appeals Judge Michael R. Mullins,,,Yes,406,287,119
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Court of Appeals Judge Michael R. Mullins,,,Yes,549,287,262
+Winneshiek,PCT 10 - JA/SU/WA,Court of Appeals Judge Michael R. Mullins,,,Yes,338,217,121
+Winneshiek,PCT 11 - DETSUP5,Court of Appeals Judge Michael R. Mullins,,,Yes,36,12,24
+Winneshiek,PCT 1 - HE/HI/PL,Court of Appeals Judge Michael R. Mullins,,,No,97,47,50
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Court of Appeals Judge Michael R. Mullins,,,No,235,97,138
+Winneshiek,PCT 3 - DEW1/DETSUP2,Court of Appeals Judge Michael R. Mullins,,,No,199,88,111
+Winneshiek,PCT 4 - DEW2,Court of Appeals Judge Michael R. Mullins,,,No,139,53,86
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Court of Appeals Judge Michael R. Mullins,,,No,153,66,87
+Winneshiek,PCT - 6 DEW5,Court of Appeals Judge Michael R. Mullins,,,No,76,22,54
+Winneshiek,PCT 7 - CA/SP,Court of Appeals Judge Michael R. Mullins,,,No,216,127,89
+Winneshiek,PCT 8 - MI/BLM,Court of Appeals Judge Michael R. Mullins,,,No,164,130,34
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Court of Appeals Judge Michael R. Mullins,,,No,228,145,83
+Winneshiek,PCT 10 - JA/SU/WA,Court of Appeals Judge Michael R. Mullins,,,No,133,89,44
+Winneshiek,PCT 11 - DETSUP5,Court of Appeals Judge Michael R. Mullins,,,No,14,1,13
+Winneshiek,PCT 1 - HE/HI/PL,Court of Appeals Judge Mary Ellen Tabor,,,Yes,307,109,198
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Court of Appeals Judge Mary Ellen Tabor,,,Yes,973,340,633
+Winneshiek,PCT 3 - DEW1/DETSUP2,Court of Appeals Judge Mary Ellen Tabor,,,Yes,783,276,507
+Winneshiek,PCT 4 - DEW2,Court of Appeals Judge Mary Ellen Tabor,,,Yes,550,172,378
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Court of Appeals Judge Mary Ellen Tabor,,,Yes,585,218,367
+Winneshiek,PCT - 6 DEW5,Court of Appeals Judge Mary Ellen Tabor,,,Yes,433,132,301
+Winneshiek,PCT 7 - CA/SP,Court of Appeals Judge Mary Ellen Tabor,,,Yes,533,295,238
+Winneshiek,PCT 8 - MI/BLM,Court of Appeals Judge Mary Ellen Tabor,,,Yes,392,277,115
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Court of Appeals Judge Mary Ellen Tabor,,,Yes,548,289,259
+Winneshiek,PCT 10 - JA/SU/WA,Court of Appeals Judge Mary Ellen Tabor,,,Yes,330,207,123
+Winneshiek,PCT 11 - DETSUP5,Court of Appeals Judge Mary Ellen Tabor,,,Yes,39,11,28
+Winneshiek,PCT 1 - HE/HI/PL,Court of Appeals Judge Mary Ellen Tabor,,,No,95,57,38
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Court of Appeals Judge Mary Ellen Tabor,,,No,224,101,123
+Winneshiek,PCT 3 - DEW1/DETSUP2,Court of Appeals Judge Mary Ellen Tabor,,,No,181,80,101
+Winneshiek,PCT 4 - DEW2,Court of Appeals Judge Mary Ellen Tabor,,,No,105,48,57
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,Court of Appeals Judge Mary Ellen Tabor,,,No,133,63,70
+Winneshiek,PCT - 6 DEW5,Court of Appeals Judge Mary Ellen Tabor,,,No,55,19,36
+Winneshiek,PCT 7 - CA/SP,Court of Appeals Judge Mary Ellen Tabor,,,No,207,131,76
+Winneshiek,PCT 8 - MI/BLM,Court of Appeals Judge Mary Ellen Tabor,,,No,175,138,37
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,Court of Appeals Judge Mary Ellen Tabor,,,No,227,142,85
+Winneshiek,PCT 10 - JA/SU/WA,Court of Appeals Judge Mary Ellen Tabor,,,No,132,91,41
+Winneshiek,PCT 11 - DETSUP5,Court of Appeals Judge Mary Ellen Tabor,,,No,8,1,7
+Winneshiek,PCT 1 - HE/HI/PL,District 1A District Judge Thomas Bitter,,,Yes,312,129,183
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,District 1A District Judge Thomas Bitter,,,Yes,972,351,621
+Winneshiek,PCT 3 - DEW1/DETSUP2,District 1A District Judge Thomas Bitter,,,Yes,779,292,487
+Winneshiek,PCT 4 - DEW2,District 1A District Judge Thomas Bitter,,,Yes,516,163,353
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,District 1A District Judge Thomas Bitter,,,Yes,553,216,337
+Winneshiek,PCT - 6 DEW5,District 1A District Judge Thomas Bitter,,,Yes,420,124,296
+Winneshiek,PCT 7 - CA/SP,District 1A District Judge Thomas Bitter,,,Yes,534,302,232
+Winneshiek,PCT 8 - MI/BLM,District 1A District Judge Thomas Bitter,,,Yes,402,289,113
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,District 1A District Judge Thomas Bitter,,,Yes,547,289,258
+Winneshiek,PCT 10 - JA/SU/WA,District 1A District Judge Thomas Bitter,,,Yes,330,213,117
+Winneshiek,PCT 11 - DETSUP5,District 1A District Judge Thomas Bitter,,,Yes,39,12,27
+Winneshiek,PCT 1 - HE/HI/PL,District 1A District Judge Thomas Bitter,,,No,94,42,52
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,District 1A District Judge Thomas Bitter,,,No,235,97,138
+Winneshiek,PCT 3 - DEW1/DETSUP2,District 1A District Judge Thomas Bitter,,,No,175,73,102
+Winneshiek,PCT 4 - DEW2,District 1A District Judge Thomas Bitter,,,No,128,54,74
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,District 1A District Judge Thomas Bitter,,,No,145,62,83
+Winneshiek,PCT - 6 DEW5,District 1A District Judge Thomas Bitter,,,No,62,24,38
+Winneshiek,PCT 7 - CA/SP,District 1A District Judge Thomas Bitter,,,No,206,125,81
+Winneshiek,PCT 8 - MI/BLM,District 1A District Judge Thomas Bitter,,,No,172,131,41
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,District 1A District Judge Thomas Bitter,,,No,238,151,87
+Winneshiek,PCT 10 - JA/SU/WA,District 1A District Judge Thomas Bitter,,,No,140,97,43
+Winneshiek,PCT 11 - DETSUP5,District 1A District Judge Thomas Bitter,,,No,10,1,9
+Winneshiek,PCT 1 - HE/HI/PL,District 1A District Judge Monica Wittig,,,Yes,298,116,182
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,District 1A District Judge Monica Wittig,,,Yes,953,348,605
+Winneshiek,PCT 3 - DEW1/DETSUP2,District 1A District Judge Monica Wittig,,,Yes,763,282,481
+Winneshiek,PCT 4 - DEW2,District 1A District Judge Monica Wittig,,,Yes,520,168,352
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,District 1A District Judge Monica Wittig,,,Yes,568,222,346
+Winneshiek,PCT - 6 DEW5,District 1A District Judge Monica Wittig,,,Yes,426,123,303
+Winneshiek,PCT 7 - CA/SP,District 1A District Judge Monica Wittig,,,Yes,527,302,225
+Winneshiek,PCT 8 - MI/BLM,District 1A District Judge Monica Wittig,,,Yes,388,277,111
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,District 1A District Judge Monica Wittig,,,Yes,531,288,243
+Winneshiek,PCT 10 - JA/SU/WA,District 1A District Judge Monica Wittig,,,Yes,327,207,120
+Winneshiek,PCT 11 - DETSUP5,District 1A District Judge Monica Wittig,,,Yes,37,12,25
+Winneshiek,PCT 1 - HE/HI/PL,District 1A District Judge Monica Wittig,,,No,111,58,53
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,District 1A District Judge Monica Wittig,,,No,263,104,159
+Winneshiek,PCT 3 - DEW1/DETSUP2,District 1A District Judge Monica Wittig,,,No,189,82,107
+Winneshiek,PCT 4 - DEW2,District 1A District Judge Monica Wittig,,,No,130,50,80
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,District 1A District Judge Monica Wittig,,,No,142,60,82
+Winneshiek,PCT - 6 DEW5,District 1A District Judge Monica Wittig,,,No,65,27,38
+Winneshiek,PCT 7 - CA/SP,District 1A District Judge Monica Wittig,,,No,217,127,90
+Winneshiek,PCT 8 - MI/BLM,District 1A District Judge Monica Wittig,,,No,178,136,42
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,District 1A District Judge Monica Wittig,,,No,250,148,102
+Winneshiek,PCT 10 - JA/SU/WA,District 1A District Judge Monica Wittig,,,No,141,98,43
+Winneshiek,PCT 11 - DETSUP5,District 1A District Judge Monica Wittig,,,No,10,1,9
+Winneshiek,PCT 1 - HE/HI/PL,District 1A District Judge John J. Bauercamper,,,Yes,323,133,190
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,District 1A District Judge John J. Bauercamper,,,Yes,1025,367,658
+Winneshiek,PCT 3 - DEW1/DETSUP2,District 1A District Judge John J. Bauercamper,,,Yes,814,301,513
+Winneshiek,PCT 4 - DEW2,District 1A District Judge John J. Bauercamper,,,Yes,538,173,365
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,District 1A District Judge John J. Bauercamper,,,Yes,571,220,351
+Winneshiek,PCT - 6 DEW5,District 1A District Judge John J. Bauercamper,,,Yes,419,127,292
+Winneshiek,PCT 7 - CA/SP,District 1A District Judge John J. Bauercamper,,,Yes,556,317,239
+Winneshiek,PCT 8 - MI/BLM,District 1A District Judge John J. Bauercamper,,,Yes,428,302,126
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,District 1A District Judge John J. Bauercamper,,,Yes,607,317,290
+Winneshiek,PCT 10 - JA/SU/WA,District 1A District Judge John J. Bauercamper,,,Yes,351,217,134
+Winneshiek,PCT 11 - DETSUP5,District 1A District Judge John J. Bauercamper,,,Yes,40,11,29
+Winneshiek,PCT 1 - HE/HI/PL,District 1A District Judge John J. Bauercamper,,,No,91,43,48
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,District 1A District Judge John J. Bauercamper,,,No,206,88,118
+Winneshiek,PCT 3 - DEW1/DETSUP2,District 1A District Judge John J. Bauercamper,,,No,181,66,115
+Winneshiek,PCT 4 - DEW2,District 1A District Judge John J. Bauercamper,,,No,112,46,66
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,District 1A District Judge John J. Bauercamper,,,No,136,62,74
+Winneshiek,PCT - 6 DEW5,District 1A District Judge John J. Bauercamper,,,No,67,23,44
+Winneshiek,PCT 7 - CA/SP,District 1A District Judge John J. Bauercamper,,,No,212,124,88
+Winneshiek,PCT 8 - MI/BLM,District 1A District Judge John J. Bauercamper,,,No,163,128,35
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,District 1A District Judge John J. Bauercamper,,,No,193,118,75
+Winneshiek,PCT 10 - JA/SU/WA,District 1A District Judge John J. Bauercamper,,,No,128,90,38
+Winneshiek,PCT 11 - DETSUP5,District 1A District Judge John J. Bauercamper,,,No,8,2,6
+Winneshiek,PCT 1 - HE/HI/PL,District 1A District Associate Judge Robert J. Richter,,,Yes,330,139,191
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,District 1A District Associate Judge Robert J. Richter,,,Yes,1013,367,646
+Winneshiek,PCT 3 - DEW1/DETSUP2,District 1A District Associate Judge Robert J. Richter,,,Yes,806,304,502
+Winneshiek,PCT 4 - DEW2,District 1A District Associate Judge Robert J. Richter,,,Yes,535,173,362
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,District 1A District Associate Judge Robert J. Richter,,,Yes,572,226,346
+Winneshiek,PCT - 6 DEW5,District 1A District Associate Judge Robert J. Richter,,,Yes,431,130,301
+Winneshiek,PCT 7 - CA/SP,District 1A District Associate Judge Robert J. Richter,,,Yes,552,320,232
+Winneshiek,PCT 8 - MI/BLM,District 1A District Associate Judge Robert J. Richter,,,Yes,428,303,125
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,District 1A District Associate Judge Robert J. Richter,,,Yes,586,323,263
+Winneshiek,PCT 10 - JA/SU/WA,District 1A District Associate Judge Robert J. Richter,,,Yes,352,222,130
+Winneshiek,PCT 11 - DETSUP5,District 1A District Associate Judge Robert J. Richter,,,Yes,39,11,28
+Winneshiek,PCT 1 - HE/HI/PL,District 1A District Associate Judge Robert J. Richter,,,No,84,39,45
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,District 1A District Associate Judge Robert J. Richter,,,No,204,83,121
+Winneshiek,PCT 3 - DEW1/DETSUP2,District 1A District Associate Judge Robert J. Richter,,,No,165,70,95
+Winneshiek,PCT 4 - DEW2,District 1A District Associate Judge Robert J. Richter,,,No,113,49,64
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,District 1A District Associate Judge Robert J. Richter,,,No,135,60,75
+Winneshiek,PCT - 6 DEW5,District 1A District Associate Judge Robert J. Richter,,,No,59,22,37
+Winneshiek,PCT 7 - CA/SP,District 1A District Associate Judge Robert J. Richter,,,No,189,111,78
+Winneshiek,PCT 8 - MI/BLM,District 1A District Associate Judge Robert J. Richter,,,No,154,122,32
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,District 1A District Associate Judge Robert J. Richter,,,No,208,123,85
+Winneshiek,PCT 10 - JA/SU/WA,District 1A District Associate Judge Robert J. Richter,,,No,126,87,39
+Winneshiek,PCT 11 - DETSUP5,District 1A District Associate Judge Robert J. Richter,,,No,11,2,9

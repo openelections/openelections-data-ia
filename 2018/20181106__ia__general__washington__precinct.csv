@@ -1,0 +1,726 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Washington,Ainsworth Precinct,United States Representative District 2,,REP,Christopher Peters,494,325,169
+Washington,Brighton/Marion/Crawford Precinct,United States Representative District 2,,REP,Christopher Peters,537,285,252
+Washington,Kalona Precinct,United States Representative District 2,,REP,Christopher Peters,651,454,197
+Washington,Riverside Precinct,United States Representative District 2,,REP,Christopher Peters,226,166,60
+Washington,Ward One Precinct,United States Representative District 2,,REP,Christopher Peters,280,174,106
+Washington,Ward Two Precinct,United States Representative District 2,,REP,Christopher Peters,418,233,185
+Washington,Ward Three Precinct,United States Representative District 2,,REP,Christopher Peters,413,229,184
+Washington,Ward Four Precinct,United States Representative District 2,,REP,Christopher Peters,500,283,217
+Washington,Wellman Precinct,United States Representative District 2,,REP,Christopher Peters,701,488,213
+Washington,West Chester Precinct,United States Representative District 2,,REP,Christopher Peters,375,232,143
+Washington,Ainsworth Precinct,United States Representative District 2,,DEM,Dave Loebsack,498,257,241
+Washington,Brighton/Marion/Crawford Precinct,United States Representative District 2,,DEM,Dave Loebsack,317,155,162
+Washington,Kalona Precinct,United States Representative District 2,,DEM,Dave Loebsack,597,382,215
+Washington,Riverside Precinct,United States Representative District 2,,DEM,Dave Loebsack,421,307,114
+Washington,Ward One Precinct,United States Representative District 2,,DEM,Dave Loebsack,354,162,192
+Washington,Ward Two Precinct,United States Representative District 2,,DEM,Dave Loebsack,438,192,246
+Washington,Ward Three Precinct,United States Representative District 2,,DEM,Dave Loebsack,472,206,266
+Washington,Ward Four Precinct,United States Representative District 2,,DEM,Dave Loebsack,482,220,262
+Washington,Wellman Precinct,United States Representative District 2,,DEM,Dave Loebsack,502,318,184
+Washington,West Chester Precinct,United States Representative District 2,,DEM,Dave Loebsack,191,97,94
+Washington,Ainsworth Precinct,United States Representative District 2,,LIB,Mark David Strauss,29,20,9
+Washington,Brighton/Marion/Crawford Precinct,United States Representative District 2,,LIB,Mark David Strauss,10,7,3
+Washington,Kalona Precinct,United States Representative District 2,,LIB,Mark David Strauss,20,16,4
+Washington,Riverside Precinct,United States Representative District 2,,LIB,Mark David Strauss,21,19,2
+Washington,Ward One Precinct,United States Representative District 2,,LIB,Mark David Strauss,26,16,10
+Washington,Ward Two Precinct,United States Representative District 2,,LIB,Mark David Strauss,14,6,8
+Washington,Ward Three Precinct,United States Representative District 2,,LIB,Mark David Strauss,16,12,4
+Washington,Ward Four Precinct,United States Representative District 2,,LIB,Mark David Strauss,13,10,3
+Washington,Wellman Precinct,United States Representative District 2,,LIB,Mark David Strauss,28,17,11
+Washington,West Chester Precinct,United States Representative District 2,,LIB,Mark David Strauss,10,6,4
+Washington,Ainsworth Precinct,United States Representative District 2,,,Daniel Clark,6,3,3
+Washington,Brighton/Marion/Crawford Precinct,United States Representative District 2,,,Daniel Clark,6,4,2
+Washington,Kalona Precinct,United States Representative District 2,,,Daniel Clark,5,4,1
+Washington,Riverside Precinct,United States Representative District 2,,,Daniel Clark,4,4,0
+Washington,Ward One Precinct,United States Representative District 2,,,Daniel Clark,3,2,1
+Washington,Ward Two Precinct,United States Representative District 2,,,Daniel Clark,4,3,1
+Washington,Ward Three Precinct,United States Representative District 2,,,Daniel Clark,4,1,3
+Washington,Ward Four Precinct,United States Representative District 2,,,Daniel Clark,3,1,2
+Washington,Wellman Precinct,United States Representative District 2,,,Daniel Clark,3,1,2
+Washington,West Chester Precinct,United States Representative District 2,,,Daniel Clark,2,1,1
+Washington,Ainsworth Precinct,United States Representative District 2,,,Write-in,1,0,1
+Washington,Brighton/Marion/Crawford Precinct,United States Representative District 2,,,Write-in,1,1,0
+Washington,Kalona Precinct,United States Representative District 2,,,Write-in,0,0,0
+Washington,Riverside Precinct,United States Representative District 2,,,Write-in,0,0,0
+Washington,Ward One Precinct,United States Representative District 2,,,Write-in,0,0,0
+Washington,Ward Two Precinct,United States Representative District 2,,,Write-in,0,0,0
+Washington,Ward Three Precinct,United States Representative District 2,,,Write-in,1,0,1
+Washington,Ward Four Precinct,United States Representative District 2,,,Write-in,0,0,0
+Washington,Wellman Precinct,United States Representative District 2,,,Write-in,0,0,0
+Washington,West Chester Precinct,United States Representative District 2,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,572,366,206
+Washington,Brighton/Marion/Crawford Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,605,324,281
+Washington,Kalona Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,708,504,204
+Washington,Riverside Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,271,200,71
+Washington,Ward One Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,320,191,129
+Washington,Ward Two Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,498,278,220
+Washington,Ward Three Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,497,270,227
+Washington,Ward Four Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,570,319,251
+Washington,Wellman Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,719,493,226
+Washington,West Chester Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,429,264,165
+Washington,Ainsworth Precinct,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,430,221,209
+Washington,Brighton/Marion/Crawford Precinct,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,255,119,136
+Washington,Kalona Precinct,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,541,334,207
+Washington,Riverside Precinct,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,396,287,109
+Washington,Ward One Precinct,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,319,149,170
+Washington,Ward Two Precinct,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,365,154,211
+Washington,Ward Three Precinct,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,405,177,228
+Washington,Ward Four Precinct,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,413,185,228
+Washington,Wellman Precinct,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,483,311,172
+Washington,West Chester Precinct,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,139,67,72
+Washington,Ainsworth Precinct,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,27,22,5
+Washington,Brighton/Marion/Crawford Precinct,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,15,9,6
+Washington,Kalona Precinct,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,25,19,6
+Washington,Riverside Precinct,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,10,10,0
+Washington,Ward One Precinct,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,20,13,7
+Washington,Ward Two Precinct,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,13,4,9
+Washington,Ward Three Precinct,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,19,9,10
+Washington,Ward Four Precinct,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,18,12,6
+Washington,Wellman Precinct,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,28,16,12
+Washington,West Chester Precinct,Governor/Lieutenant Governor,,LIB,Jake Porter/Lynne Gentry,12,8,4
+Washington,Ainsworth Precinct,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,7,3,4
+Washington,Brighton/Marion/Crawford Precinct,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,6,4,2
+Washington,Kalona Precinct,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,2,1,1
+Washington,Riverside Precinct,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,1,1,0
+Washington,Ward One Precinct,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,3,1,2
+Washington,Ward Two Precinct,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,5,3,2
+Washington,Ward Three Precinct,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,2,1,1
+Washington,Ward Four Precinct,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,2,2,0
+Washington,Wellman Precinct,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,10,7,3
+Washington,West Chester Precinct,Governor/Lieutenant Governor,,CWP,Gary Siegwarth/Natalia Blaskovich,0,0,0
+Washington,Ainsworth Precinct,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Washington,Kalona Precinct,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Washington,Riverside Precinct,Governor/Lieutenant Governor,,,Write-in,1,1,0
+Washington,Ward One Precinct,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Washington,Ward Two Precinct,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Washington,Ward Three Precinct,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Washington,Ward Four Precinct,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Washington,Wellman Precinct,Governor/Lieutenant Governor,,,Write-in,1,1,0
+Washington,West Chester Precinct,Governor/Lieutenant Governor,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,Secretary of State,,REP,Paul D. Pate,626,404,222
+Washington,Brighton/Marion/Crawford Precinct,Secretary of State,,REP,Paul D. Pate,644,336,308
+Washington,Kalona Precinct,Secretary of State,,REP,Paul D. Pate,749,532,217
+Washington,Riverside Precinct,Secretary of State,,REP,Paul D. Pate,289,217,72
+Washington,Ward One Precinct,Secretary of State,,REP,Paul D. Pate,344,206,138
+Washington,Ward Two Precinct,Secretary of State,,REP,Paul D. Pate,526,287,239
+Washington,Ward Three Precinct,Secretary of State,,REP,Paul D. Pate,553,293,260
+Washington,Ward Four Precinct,Secretary of State,,REP,Paul D. Pate,631,348,283
+Washington,Wellman Precinct,Secretary of State,,REP,Paul D. Pate,778,533,245
+Washington,West Chester Precinct,Secretary of State,,REP,Paul D. Pate,446,273,173
+Washington,Ainsworth Precinct,Secretary of State,,DEM,Deidre DeJear,366,178,188
+Washington,Brighton/Marion/Crawford Precinct,Secretary of State,,DEM,Deidre DeJear,203,100,103
+Washington,Kalona Precinct,Secretary of State,,DEM,Deidre DeJear,472,287,185
+Washington,Riverside Precinct,Secretary of State,,DEM,Deidre DeJear,346,248,98
+Washington,Ward One Precinct,Secretary of State,,DEM,Deidre DeJear,287,127,160
+Washington,Ward Two Precinct,Secretary of State,,DEM,Deidre DeJear,317,130,187
+Washington,Ward Three Precinct,Secretary of State,,DEM,Deidre DeJear,341,146,195
+Washington,Ward Four Precinct,Secretary of State,,DEM,Deidre DeJear,332,139,193
+Washington,Wellman Precinct,Secretary of State,,DEM,Deidre DeJear,421,268,153
+Washington,West Chester Precinct,Secretary of State,,DEM,Deidre DeJear,119,58,61
+Washington,Ainsworth Precinct,Secretary of State,,LIB,Jules Ofenbakh,31,23,8
+Washington,Brighton/Marion/Crawford Precinct,Secretary of State,,LIB,Jules Ofenbakh,20,13,7
+Washington,Kalona Precinct,Secretary of State,,LIB,Jules Ofenbakh,32,23,9
+Washington,Riverside Precinct,Secretary of State,,LIB,Jules Ofenbakh,25,21,4
+Washington,Ward One Precinct,Secretary of State,,LIB,Jules Ofenbakh,22,13,9
+Washington,Ward Two Precinct,Secretary of State,,LIB,Jules Ofenbakh,20,9,11
+Washington,Ward Three Precinct,Secretary of State,,LIB,Jules Ofenbakh,13,9,4
+Washington,Ward Four Precinct,Secretary of State,,LIB,Jules Ofenbakh,21,17,4
+Washington,Wellman Precinct,Secretary of State,,LIB,Jules Ofenbakh,25,16,9
+Washington,West Chester Precinct,Secretary of State,,LIB,Jules Ofenbakh,7,4,3
+Washington,Ainsworth Precinct,Secretary of State,,,Write-in,1,0,1
+Washington,Brighton/Marion/Crawford Precinct,Secretary of State,,,Write-in,0,0,0
+Washington,Kalona Precinct,Secretary of State,,,Write-in,1,1,0
+Washington,Riverside Precinct,Secretary of State,,,Write-in,1,1,0
+Washington,Ward One Precinct,Secretary of State,,,Write-in,0,0,0
+Washington,Ward Two Precinct,Secretary of State,,,Write-in,0,0,0
+Washington,Ward Three Precinct,Secretary of State,,,Write-in,0,0,0
+Washington,Ward Four Precinct,Secretary of State,,,Write-in,0,0,0
+Washington,Wellman Precinct,Secretary of State,,,Write-in,1,1,0
+Washington,West Chester Precinct,Secretary of State,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,Auditor of State,,REP,Mary Mosiman,485,329,156
+Washington,Brighton/Marion/Crawford Precinct,Auditor of State,,REP,Mary Mosiman,571,298,273
+Washington,Kalona Precinct,Auditor of State,,REP,Mary Mosiman,643,464,179
+Washington,Riverside Precinct,Auditor of State,,REP,Mary Mosiman,225,164,61
+Washington,Ward One Precinct,Auditor of State,,REP,Mary Mosiman,302,187,115
+Washington,Ward Two Precinct,Auditor of State,,REP,Mary Mosiman,438,244,194
+Washington,Ward Three Precinct,Auditor of State,,REP,Mary Mosiman,427,230,197
+Washington,Ward Four Precinct,Auditor of State,,REP,Mary Mosiman,515,292,223
+Washington,Wellman Precinct,Auditor of State,,REP,Mary Mosiman,659,456,203
+Washington,West Chester Precinct,Auditor of State,,REP,Mary Mosiman,367,228,139
+Washington,Ainsworth Precinct,Auditor of State,,DEM,Rob Sand,502,251,251
+Washington,Brighton/Marion/Crawford Precinct,Auditor of State,,DEM,Rob Sand,269,131,138
+Washington,Kalona Precinct,Auditor of State,,DEM,Rob Sand,563,344,219
+Washington,Riverside Precinct,Auditor of State,,DEM,Rob Sand,416,299,117
+Washington,Ward One Precinct,Auditor of State,,DEM,Rob Sand,321,142,179
+Washington,Ward Two Precinct,Auditor of State,,DEM,Rob Sand,400,169,231
+Washington,Ward Three Precinct,Auditor of State,,DEM,Rob Sand,451,193,258
+Washington,Ward Four Precinct,Auditor of State,,DEM,Rob Sand,453,197,256
+Washington,Wellman Precinct,Auditor of State,,DEM,Rob Sand,518,333,185
+Washington,West Chester Precinct,Auditor of State,,DEM,Rob Sand,187,96,91
+Washington,Ainsworth Precinct,Auditor of State,,LIB,Fred Perryman,27,18,9
+Washington,Brighton/Marion/Crawford Precinct,Auditor of State,,LIB,Fred Perryman,19,13,6
+Washington,Kalona Precinct,Auditor of State,,LIB,Fred Perryman,32,25,7
+Washington,Riverside Precinct,Auditor of State,,LIB,Fred Perryman,18,18,0
+Washington,Ward One Precinct,Auditor of State,,LIB,Fred Perryman,29,17,12
+Washington,Ward Two Precinct,Auditor of State,,LIB,Fred Perryman,14,6,8
+Washington,Ward Three Precinct,Auditor of State,,LIB,Fred Perryman,27,21,6
+Washington,Ward Four Precinct,Auditor of State,,LIB,Fred Perryman,19,15,4
+Washington,Wellman Precinct,Auditor of State,,LIB,Fred Perryman,37,22,15
+Washington,West Chester Precinct,Auditor of State,,LIB,Fred Perryman,10,5,5
+Washington,Ainsworth Precinct,Auditor of State,,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Auditor of State,,,Write-in,1,1,0
+Washington,Kalona Precinct,Auditor of State,,,Write-in,0,0,0
+Washington,Riverside Precinct,Auditor of State,,,Write-in,0,0,0
+Washington,Ward One Precinct,Auditor of State,,,Write-in,0,0,0
+Washington,Ward Two Precinct,Auditor of State,,,Write-in,0,0,0
+Washington,Ward Three Precinct,Auditor of State,,,Write-in,0,0,0
+Washington,Ward Four Precinct,Auditor of State,,,Write-in,0,0,0
+Washington,Wellman Precinct,Auditor of State,,,Write-in,0,0,0
+Washington,West Chester Precinct,Auditor of State,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,Treasurer of State,,REP,Jeremy N. Davis,494,335,159
+Washington,Brighton/Marion/Crawford Precinct,Treasurer of State,,REP,Jeremy N. Davis,536,286,250
+Washington,Kalona Precinct,Treasurer of State,,REP,Jeremy N. Davis,615,436,179
+Washington,Riverside Precinct,Treasurer of State,,REP,Jeremy N. Davis,225,163,62
+Washington,Ward One Precinct,Treasurer of State,,REP,Jeremy N. Davis,286,174,112
+Washington,Ward Two Precinct,Treasurer of State,,REP,Jeremy N. Davis,420,234,186
+Washington,Ward Three Precinct,Treasurer of State,,REP,Jeremy N. Davis,409,218,191
+Washington,Ward Four Precinct,Treasurer of State,,REP,Jeremy N. Davis,501,288,213
+Washington,Wellman Precinct,Treasurer of State,,REP,Jeremy N. Davis,671,466,205
+Washington,West Chester Precinct,Treasurer of State,,REP,Jeremy N. Davis,356,219,137
+Washington,Ainsworth Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,490,239,251
+Washington,Brighton/Marion/Crawford Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,301,149,152
+Washington,Kalona Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,578,363,215
+Washington,Riverside Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,410,299,111
+Washington,Ward One Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,339,155,184
+Washington,Ward Two Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,413,178,235
+Washington,Ward Three Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,478,212,266
+Washington,Ward Four Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,455,200,255
+Washington,Wellman Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,500,320,180
+Washington,West Chester Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,196,99,97
+Washington,Ainsworth Precinct,Treasurer of State,,LIB,Timothy Hird,29,20,9
+Washington,Brighton/Marion/Crawford Precinct,Treasurer of State,,LIB,Timothy Hird,16,8,8
+Washington,Kalona Precinct,Treasurer of State,,LIB,Timothy Hird,30,26,4
+Washington,Riverside Precinct,Treasurer of State,,LIB,Timothy Hird,21,20,1
+Washington,Ward One Precinct,Treasurer of State,,LIB,Timothy Hird,26,15,11
+Washington,Ward Two Precinct,Treasurer of State,,LIB,Timothy Hird,16,7,9
+Washington,Ward Three Precinct,Treasurer of State,,LIB,Timothy Hird,16,12,4
+Washington,Ward Four Precinct,Treasurer of State,,LIB,Timothy Hird,23,13,10
+Washington,Wellman Precinct,Treasurer of State,,LIB,Timothy Hird,39,25,14
+Washington,West Chester Precinct,Treasurer of State,,LIB,Timothy Hird,6,4,2
+Washington,Ainsworth Precinct,Treasurer of State,,,Write-in,1,0,1
+Washington,Brighton/Marion/Crawford Precinct,Treasurer of State,,,Write-in,0,0,0
+Washington,Kalona Precinct,Treasurer of State,,,Write-in,0,0,0
+Washington,Riverside Precinct,Treasurer of State,,,Write-in,0,0,0
+Washington,Ward One Precinct,Treasurer of State,,,Write-in,0,0,0
+Washington,Ward Two Precinct,Treasurer of State,,,Write-in,0,0,0
+Washington,Ward Three Precinct,Treasurer of State,,,Write-in,0,0,0
+Washington,Ward Four Precinct,Treasurer of State,,,Write-in,0,0,0
+Washington,Wellman Precinct,Treasurer of State,,,Write-in,0,0,0
+Washington,West Chester Precinct,Treasurer of State,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,Secretary of Agriculture,,REP,Mike Naig,562,365,197
+Washington,Brighton/Marion/Crawford Precinct,Secretary of Agriculture,,REP,Mike Naig,614,324,290
+Washington,Kalona Precinct,Secretary of Agriculture,,REP,Mike Naig,705,499,206
+Washington,Riverside Precinct,Secretary of Agriculture,,REP,Mike Naig,267,198,69
+Washington,Ward One Precinct,Secretary of Agriculture,,REP,Mike Naig,344,207,137
+Washington,Ward Two Precinct,Secretary of Agriculture,,REP,Mike Naig,501,277,224
+Washington,Ward Three Precinct,Secretary of Agriculture,,REP,Mike Naig,502,266,236
+Washington,Ward Four Precinct,Secretary of Agriculture,,REP,Mike Naig,589,333,256
+Washington,Wellman Precinct,Secretary of Agriculture,,REP,Mike Naig,708,485,223
+Washington,West Chester Precinct,Secretary of Agriculture,,REP,Mike Naig,437,264,173
+Washington,Ainsworth Precinct,Secretary of Agriculture,,DEM,Tim Gannon,409,202,207
+Washington,Brighton/Marion/Crawford Precinct,Secretary of Agriculture,,DEM,Tim Gannon,226,113,113
+Washington,Kalona Precinct,Secretary of Agriculture,,DEM,Tim Gannon,502,309,193
+Washington,Riverside Precinct,Secretary of Agriculture,,DEM,Tim Gannon,369,262,107
+Washington,Ward One Precinct,Secretary of Agriculture,,DEM,Tim Gannon,280,124,156
+Washington,Ward Two Precinct,Secretary of Agriculture,,DEM,Tim Gannon,330,138,192
+Washington,Ward Three Precinct,Secretary of Agriculture,,DEM,Tim Gannon,386,166,220
+Washington,Ward Four Precinct,Secretary of Agriculture,,DEM,Tim Gannon,373,154,219
+Washington,Wellman Precinct,Secretary of Agriculture,,DEM,Tim Gannon,461,299,162
+Washington,West Chester Precinct,Secretary of Agriculture,,DEM,Tim Gannon,127,65,62
+Washington,Ainsworth Precinct,Secretary of Agriculture,,LIB,Rick Stewart,43,31,12
+Washington,Brighton/Marion/Crawford Precinct,Secretary of Agriculture,,LIB,Rick Stewart,15,7,8
+Washington,Kalona Precinct,Secretary of Agriculture,,LIB,Rick Stewart,29,24,5
+Washington,Riverside Precinct,Secretary of Agriculture,,LIB,Rick Stewart,22,20,2
+Washington,Ward One Precinct,Secretary of Agriculture,,LIB,Rick Stewart,26,14,12
+Washington,Ward Two Precinct,Secretary of Agriculture,,LIB,Rick Stewart,19,6,13
+Washington,Ward Three Precinct,Secretary of Agriculture,,LIB,Rick Stewart,16,11,5
+Washington,Ward Four Precinct,Secretary of Agriculture,,LIB,Rick Stewart,22,15,7
+Washington,Wellman Precinct,Secretary of Agriculture,,LIB,Rick Stewart,44,27,17
+Washington,West Chester Precinct,Secretary of Agriculture,,LIB,Rick Stewart,11,7,4
+Washington,Ainsworth Precinct,Secretary of Agriculture,,,Write-in,1,0,1
+Washington,Brighton/Marion/Crawford Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Washington,Kalona Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Washington,Riverside Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Washington,Ward One Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Washington,Ward Two Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Washington,Ward Three Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Washington,Ward Four Precinct,Secretary of Agriculture,,,Write-in,1,0,1
+Washington,Wellman Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Washington,West Chester Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,Attorney General,,DEM,Tom Miller,672,368,304
+Washington,Brighton/Marion/Crawford Precinct,Attorney General,,DEM,Tom Miller,508,258,250
+Washington,Kalona Precinct,Attorney General,,DEM,Tom Miller,820,522,298
+Washington,Riverside Precinct,Attorney General,,DEM,Tom Miller,494,365,129
+Washington,Ward One Precinct,Attorney General,,DEM,Tom Miller,451,218,233
+Washington,Ward Two Precinct,Attorney General,,DEM,Tom Miller,579,270,309
+Washington,Ward Three Precinct,Attorney General,,DEM,Tom Miller,641,306,335
+Washington,Ward Four Precinct,Attorney General,,DEM,Tom Miller,660,311,349
+Washington,Wellman Precinct,Attorney General,,DEM,Tom Miller,724,474,250
+Washington,West Chester Precinct,Attorney General,,DEM,Tom Miller,333,177,156
+Washington,Ainsworth Precinct,Attorney General,,LIB,Marco Battaglia,232,156,76
+Washington,Brighton/Marion/Crawford Precinct,Attorney General,,LIB,Marco Battaglia,206,123,83
+Washington,Kalona Precinct,Attorney General,,LIB,Marco Battaglia,261,207,54
+Washington,Riverside Precinct,Attorney General,,LIB,Marco Battaglia,120,91,29
+Washington,Ward One Precinct,Attorney General,,LIB,Marco Battaglia,142,94,48
+Washington,Ward Two Precinct,Attorney General,,LIB,Marco Battaglia,162,98,64
+Washington,Ward Three Precinct,Attorney General,,LIB,Marco Battaglia,148,82,66
+Washington,Ward Four Precinct,Attorney General,,LIB,Marco Battaglia,182,115,67
+Washington,Wellman Precinct,Attorney General,,LIB,Marco Battaglia,278,202,76
+Washington,West Chester Precinct,Attorney General,,LIB,Marco Battaglia,127,83,44
+Washington,Ainsworth Precinct,Attorney General,,,Write-in,6,3,3
+Washington,Brighton/Marion/Crawford Precinct,Attorney General,,,Write-in,8,3,5
+Washington,Kalona Precinct,Attorney General,,,Write-in,8,8,0
+Washington,Riverside Precinct,Attorney General,,,Write-in,2,2,0
+Washington,Ward One Precinct,Attorney General,,,Write-in,5,2,3
+Washington,Ward Two Precinct,Attorney General,,,Write-in,6,4,2
+Washington,Ward Three Precinct,Attorney General,,,Write-in,3,3,0
+Washington,Ward Four Precinct,Attorney General,,,Write-in,4,4,0
+Washington,Wellman Precinct,Attorney General,,,Write-in,9,8,1
+Washington,West Chester Precinct,Attorney General,,,Write-in,5,4,1
+Washington,Ainsworth Precinct,State Senator District 39,,REP,Heather Hora,586,384,202
+Washington,Kalona Precinct,State Senator District 39,,REP,Heather Hora,673,469,204
+Washington,Riverside Precinct,State Senator District 39,,REP,Heather Hora,261,194,67
+Washington,Ward One Precinct,State Senator District 39,,REP,Heather Hora,332,199,133
+Washington,Ward Two Precinct,State Senator District 39,,REP,Heather Hora,494,272,222
+Washington,Ward Three Precinct,State Senator District 39,,REP,Heather Hora,524,288,236
+Washington,Ward Four Precinct,State Senator District 39,,REP,Heather Hora,584,336,248
+Washington,Wellman Precinct,State Senator District 39,,REP,Heather Hora,704,482,222
+Washington,West Chester Precinct,State Senator District 39,,REP,Heather Hora,392,236,156
+Washington,Ainsworth Precinct,State Senator District 39,,DEM,Kevin Kinney,441,219,222
+Washington,Kalona Precinct,State Senator District 39,,DEM,Kevin Kinney,594,382,212
+Washington,Riverside Precinct,State Senator District 39,,DEM,Kevin Kinney,419,306,113
+Washington,Ward One Precinct,State Senator District 39,,DEM,Kevin Kinney,325,151,174
+Washington,Ward Two Precinct,State Senator District 39,,DEM,Kevin Kinney,370,160,210
+Washington,Ward Three Precinct,State Senator District 39,,DEM,Kevin Kinney,390,162,228
+Washington,Ward Four Precinct,State Senator District 39,,DEM,Kevin Kinney,412,172,240
+Washington,Wellman Precinct,State Senator District 39,,DEM,Kevin Kinney,521,331,190
+Washington,West Chester Precinct,State Senator District 39,,DEM,Kevin Kinney,184,100,84
+Washington,Ainsworth Precinct,State Senator District 39,,,Write-in,1,0,1
+Washington,Kalona Precinct,State Senator District 39,,,Write-in,0,0,0
+Washington,Riverside Precinct,State Senator District 39,,,Write-in,1,1,0
+Washington,Ward One Precinct,State Senator District 39,,,Write-in,1,1,0
+Washington,Ward Two Precinct,State Senator District 39,,,Write-in,1,0,1
+Washington,Ward Three Precinct,State Senator District 39,,,Write-in,1,1,0
+Washington,Ward Four Precinct,State Senator District 39,,,Write-in,0,0,0
+Washington,Wellman Precinct,State Senator District 39,,,Write-in,0,0,0
+Washington,West Chester Precinct,State Senator District 39,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,State Representative District 78,,REP,Jarad Klein,636,411,225
+Washington,Kalona Precinct,State Representative District 78,,REP,Jarad Klein,751,542,209
+Washington,Riverside Precinct,State Representative District 78,,REP,Jarad Klein,297,226,71
+Washington,Ward One Precinct,State Representative District 78,,REP,Jarad Klein,351,211,140
+Washington,Ward Two Precinct,State Representative District 78,,REP,Jarad Klein,510,283,227
+Washington,Ward Three Precinct,State Representative District 78,,REP,Jarad Klein,545,298,247
+Washington,Ward Four Precinct,State Representative District 78,,REP,Jarad Klein,629,360,269
+Washington,Wellman Precinct,State Representative District 78,,REP,Jarad Klein,781,540,241
+Washington,West Chester Precinct,State Representative District 78,,REP,Jarad Klein,454,273,181
+Washington,Ainsworth Precinct,State Representative District 78,,DEM,Kimberly K. Davis,383,187,196
+Washington,Kalona Precinct,State Representative District 78,,DEM,Kimberly K. Davis,501,300,201
+Washington,Riverside Precinct,State Representative District 78,,DEM,Kimberly K. Davis,373,266,107
+Washington,Ward One Precinct,State Representative District 78,,DEM,Kimberly K. Davis,305,137,168
+Washington,Ward Two Precinct,State Representative District 78,,DEM,Kimberly K. Davis,353,144,209
+Washington,Ward Three Precinct,State Representative District 78,,DEM,Kimberly K. Davis,369,151,218
+Washington,Ward Four Precinct,State Representative District 78,,DEM,Kimberly K. Davis,368,148,220
+Washington,Wellman Precinct,State Representative District 78,,DEM,Kimberly K. Davis,440,274,166
+Washington,West Chester Precinct,State Representative District 78,,DEM,Kimberly K. Davis,122,61,61
+Washington,Ainsworth Precinct,State Representative District 78,,,Write-in,1,0,1
+Washington,Kalona Precinct,State Representative District 78,,,Write-in,0,0,0
+Washington,Riverside Precinct,State Representative District 78,,,Write-in,2,2,0
+Washington,Ward One Precinct,State Representative District 78,,,Write-in,1,1,0
+Washington,Ward Two Precinct,State Representative District 78,,,Write-in,1,0,1
+Washington,Ward Three Precinct,State Representative District 78,,,Write-in,1,1,0
+Washington,Ward Four Precinct,State Representative District 78,,,Write-in,1,1,0
+Washington,Wellman Precinct,State Representative District 78,,,Write-in,1,1,0
+Washington,West Chester Precinct,State Representative District 78,,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,State Representative District 84,,REP,Joe Mitchell,640,341,299
+Washington,Brighton/Marion/Crawford Precinct,State Representative District 84,,DEM,Jason Moats,222,105,117
+Washington,Brighton/Marion/Crawford Precinct,State Representative District 84,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,Board of Supervisors, Dist. 3,REP,Abe Miller,490,331,159
+Washington,Brighton/Marion/Crawford Precinct,Board of Supervisors, Dist. 3,REP,Abe Miller,689,373,316
+Washington,Ainsworth Precinct,Board of Supervisors, Dist. 3,,Jeff Thomann,499,251,248
+Washington,Brighton/Marion/Crawford Precinct,Board of Supervisors, Dist. 3,,Jeff Thomann,158,73,85
+Washington,Ainsworth Precinct,Board of Supervisors, Dist. 3,,Write-in,4,3,1
+Washington,Brighton/Marion/Crawford Precinct,Board of Supervisors, Dist. 3,,Write-in,2,0,2
+Washington,Ward Two Precinct,Board of Supervisors, Dist. 5,REP,Richard Young,657,348,309
+Washington,Ward Three Precinct,Board of Supervisors, Dist. 5,REP,Richard Young,719,383,336
+Washington,Ward Two Precinct,Board of Supervisors, Dist. 5,,Write-in,14,5,9
+Washington,Ward Three Precinct,Board of Supervisors, Dist. 5,,Write-in,14,6,8
+Washington,Ainsworth Precinct,County Treasurer,,REP,Jeffrey A. Garrett,845,531,314
+Washington,Brighton/Marion/Crawford Precinct,County Treasurer,,REP,Jeffrey A. Garrett,792,419,373
+Washington,Kalona Precinct,County Treasurer,,REP,Jeffrey A. Garrett,1007,706,301
+Washington,Riverside Precinct,County Treasurer,,REP,Jeffrey A. Garrett,502,377,125
+Washington,Ward One Precinct,County Treasurer,,REP,Jeffrey A. Garrett,557,313,244
+Washington,Ward Two Precinct,County Treasurer,,REP,Jeffrey A. Garrett,706,365,341
+Washington,Ward Three Precinct,County Treasurer,,REP,Jeffrey A. Garrett,768,401,367
+Washington,Ward Four Precinct,County Treasurer,,REP,Jeffrey A. Garrett,838,448,390
+Washington,Wellman Precinct,County Treasurer,,REP,Jeffrey A. Garrett,1009,692,317
+Washington,West Chester Precinct,County Treasurer,,REP,Jeffrey A. Garrett,526,310,216
+Washington,Ainsworth Precinct,County Treasurer,,,Write-in,17,9,8
+Washington,Brighton/Marion/Crawford Precinct,County Treasurer,,,Write-in,9,3,6
+Washington,Kalona Precinct,County Treasurer,,,Write-in,12,5,7
+Washington,Riverside Precinct,County Treasurer,,,Write-in,11,6,5
+Washington,Ward One Precinct,County Treasurer,,,Write-in,7,4,3
+Washington,Ward Two Precinct,County Treasurer,,,Write-in,14,4,10
+Washington,Ward Three Precinct,County Treasurer,,,Write-in,6,3,3
+Washington,Ward Four Precinct,County Treasurer,,,Write-in,14,7,7
+Washington,Wellman Precinct,County Treasurer,,,Write-in,21,16,5
+Washington,West Chester Precinct,County Treasurer,,,Write-in,1,1,0
+Washington,Ainsworth Precinct,County Recorder,,REP,Jo Ellen Greiner,822,515,307
+Washington,Brighton/Marion/Crawford Precinct,County Recorder,,REP,Jo Ellen Greiner,754,398,356
+Washington,Kalona Precinct,County Recorder,,REP,Jo Ellen Greiner,938,661,277
+Washington,Riverside Precinct,County Recorder,,REP,Jo Ellen Greiner,462,343,119
+Washington,Ward One Precinct,County Recorder,,REP,Jo Ellen Greiner,515,293,222
+Washington,Ward Two Precinct,County Recorder,,REP,Jo Ellen Greiner,707,367,340
+Washington,Ward Three Precinct,County Recorder,,REP,Jo Ellen Greiner,767,402,365
+Washington,Ward Four Precinct,County Recorder,,REP,Jo Ellen Greiner,795,413,382
+Washington,Wellman Precinct,County Recorder,,REP,Jo Ellen Greiner,939,635,304
+Washington,West Chester Precinct,County Recorder,,REP,Jo Ellen Greiner,506,302,204
+Washington,Ainsworth Precinct,County Recorder,,,Write-in,19,10,9
+Washington,Brighton/Marion/Crawford Precinct,County Recorder,,,Write-in,5,2,3
+Washington,Kalona Precinct,County Recorder,,,Write-in,10,4,6
+Washington,Riverside Precinct,County Recorder,,,Write-in,10,5,5
+Washington,Ward One Precinct,County Recorder,,,Write-in,7,4,3
+Washington,Ward Two Precinct,County Recorder,,,Write-in,10,4,6
+Washington,Ward Three Precinct,County Recorder,,,Write-in,4,2,2
+Washington,Ward Four Precinct,County Recorder,,,Write-in,9,3,6
+Washington,Wellman Precinct,County Recorder,,,Write-in,18,11,7
+Washington,West Chester Precinct,County Recorder,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,County Attorney,,REP,John Gish,795,498,297
+Washington,Brighton/Marion/Crawford Precinct,County Attorney,,REP,John Gish,722,384,338
+Washington,Kalona Precinct,County Attorney,,REP,John Gish,922,650,272
+Washington,Riverside Precinct,County Attorney,,REP,John Gish,445,330,115
+Washington,Ward One Precinct,County Attorney,,REP,John Gish,502,288,214
+Washington,Ward Two Precinct,County Attorney,,REP,John Gish,668,345,323
+Washington,Ward Three Precinct,County Attorney,,REP,John Gish,742,391,351
+Washington,Ward Four Precinct,County Attorney,,REP,John Gish,760,400,360
+Washington,Wellman Precinct,County Attorney,,REP,John Gish,926,635,291
+Washington,West Chester Precinct,County Attorney,,REP,John Gish,483,288,195
+Washington,Ainsworth Precinct,County Attorney,,,Write-in,18,9,9
+Washington,Brighton/Marion/Crawford Precinct,County Attorney,,,Write-in,8,3,5
+Washington,Kalona Precinct,County Attorney,,,Write-in,10,5,5
+Washington,Riverside Precinct,County Attorney,,,Write-in,11,5,6
+Washington,Ward One Precinct,County Attorney,,,Write-in,10,5,5
+Washington,Ward Two Precinct,County Attorney,,,Write-in,10,5,5
+Washington,Ward Three Precinct,County Attorney,,,Write-in,6,4,2
+Washington,Ward Four Precinct,County Attorney,,,Write-in,10,4,6
+Washington,Wellman Precinct,County Attorney,,,Write-in,18,12,6
+Washington,West Chester Precinct,County Attorney,,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Brighton Township Trustee,,,Gordon Shelangoski,69,53,16
+Washington,Brighton/Marion/Crawford Precinct,Brighton Township Trustee,,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Brighton Township Clerk,,,Julie Johnson,67,52,15
+Washington,Brighton/Marion/Crawford Precinct,Brighton Township Clerk,,,Write-in,0,0,0
+Washington,West Chester Precinct,Clay Township Trustee,,,Jerry Harbison,3,3,0
+Washington,West Chester Precinct,Clay Township Trustee,,,Write-in,17,9,8
+Washington,West Chester Precinct,Clay Township Clerk,,,Peg Roberts,73,35,38
+Washington,West Chester Precinct,Clay Township Clerk,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,County Hospital Trustee,,,Susan M. Basten,596,352,244
+Washington,Brighton/Marion/Crawford Precinct,County Hospital Trustee,,,Susan M. Basten,524,272,252
+Washington,Kalona Precinct,County Hospital Trustee,,,Susan M. Basten,666,468,198
+Washington,Riverside Precinct,County Hospital Trustee,,,Susan M. Basten,361,261,100
+Washington,Ward One Precinct,County Hospital Trustee,,,Susan M. Basten,409,218,191
+Washington,Ward Two Precinct,County Hospital Trustee,,,Susan M. Basten,539,253,286
+Washington,Ward Three Precinct,County Hospital Trustee,,,Susan M. Basten,631,306,325
+Washington,Ward Four Precinct,County Hospital Trustee,,,Susan M. Basten,599,285,314
+Washington,Wellman Precinct,County Hospital Trustee,,,Susan M. Basten,640,452,188
+Washington,West Chester Precinct,County Hospital Trustee,,,Susan M. Basten,339,202,137
+Washington,Ainsworth Precinct,County Hospital Trustee,,,Ann C. Williams,679,408,271
+Washington,Brighton/Marion/Crawford Precinct,County Hospital Trustee,,,Ann C. Williams,605,328,277
+Washington,Kalona Precinct,County Hospital Trustee,,,Ann C. Williams,706,497,209
+Washington,Riverside Precinct,County Hospital Trustee,,,Ann C. Williams,389,284,105
+Washington,Ward One Precinct,County Hospital Trustee,,,Ann C. Williams,473,256,217
+Washington,Ward Two Precinct,County Hospital Trustee,,,Ann C. Williams,608,306,302
+Washington,Ward Three Precinct,County Hospital Trustee,,,Ann C. Williams,695,350,345
+Washington,Ward Four Precinct,County Hospital Trustee,,,Ann C. Williams,690,335,355
+Washington,Wellman Precinct,County Hospital Trustee,,,Ann C. Williams,671,463,208
+Washington,West Chester Precinct,County Hospital Trustee,,,Ann C. Williams,405,232,173
+Washington,Ainsworth Precinct,County Hospital Trustee,,,Write-in,9,9,0
+Washington,Brighton/Marion/Crawford Precinct,County Hospital Trustee,,,Write-in,8,0,8
+Washington,Kalona Precinct,County Hospital Trustee,,,Write-in,9,3,6
+Washington,Riverside Precinct,County Hospital Trustee,,,Write-in,1,1,0
+Washington,Ward One Precinct,County Hospital Trustee,,,Write-in,1,1,0
+Washington,Ward Two Precinct,County Hospital Trustee,,,Write-in,7,6,1
+Washington,Ward Three Precinct,County Hospital Trustee,,,Write-in,3,2,1
+Washington,Ward Four Precinct,County Hospital Trustee,,,Write-in,3,1,2
+Washington,Wellman Precinct,County Hospital Trustee,,,Write-in,4,3,1
+Washington,West Chester Precinct,County Hospital Trustee,,,Write-in,4,4,0
+Washington,Ainsworth Precinct,Soil & Water Conservation District Commissioner,,,Darrell Steele,701,434,267
+Washington,Brighton/Marion/Crawford Precinct,Soil & Water Conservation District Commissioner,,,Darrell Steele,579,306,273
+Washington,Kalona Precinct,Soil & Water Conservation District Commissioner,,,Darrell Steele,714,505,209
+Washington,Riverside Precinct,Soil & Water Conservation District Commissioner,,,Darrell Steele,418,302,116
+Washington,Ward One Precinct,Soil & Water Conservation District Commissioner,,,Darrell Steele,428,240,188
+Washington,Ward Two Precinct,Soil & Water Conservation District Commissioner,,,Darrell Steele,549,276,273
+Washington,Ward Three Precinct,Soil & Water Conservation District Commissioner,,,Darrell Steele,618,315,303
+Washington,Ward Four Precinct,Soil & Water Conservation District Commissioner,,,Darrell Steele,612,293,319
+Washington,Wellman Precinct,Soil & Water Conservation District Commissioner,,,Darrell Steele,684,475,209
+Washington,West Chester Precinct,Soil & Water Conservation District Commissioner,,,Darrell Steele,371,224,147
+Washington,Ainsworth Precinct,Soil & Water Conservation District Commissioner,,,David J. Birney,603,347,256
+Washington,Brighton/Marion/Crawford Precinct,Soil & Water Conservation District Commissioner,,,David J. Birney,511,259,252
+Washington,Kalona Precinct,Soil & Water Conservation District Commissioner,,,David J. Birney,650,456,194
+Washington,Riverside Precinct,Soil & Water Conservation District Commissioner,,,David J. Birney,362,263,99
+Washington,Ward One Precinct,Soil & Water Conservation District Commissioner,,,David J. Birney,403,216,187
+Washington,Ward Two Precinct,Soil & Water Conservation District Commissioner,,,David J. Birney,544,267,277
+Washington,Ward Three Precinct,Soil & Water Conservation District Commissioner,,,David J. Birney,628,305,323
+Washington,Ward Four Precinct,Soil & Water Conservation District Commissioner,,,David J. Birney,590,278,312
+Washington,Wellman Precinct,Soil & Water Conservation District Commissioner,,,David J. Birney,625,419,206
+Washington,West Chester Precinct,Soil & Water Conservation District Commissioner,,,David J. Birney,383,229,154
+Washington,Ainsworth Precinct,Soil & Water Conservation District Commissioner,,,Write-in,10,7,3
+Washington,Brighton/Marion/Crawford Precinct,Soil & Water Conservation District Commissioner,,,Write-in,5,0,5
+Washington,Kalona Precinct,Soil & Water Conservation District Commissioner,,,Write-in,6,3,3
+Washington,Riverside Precinct,Soil & Water Conservation District Commissioner,,,Write-in,2,2,0
+Washington,Ward One Precinct,Soil & Water Conservation District Commissioner,,,Write-in,1,1,0
+Washington,Ward Two Precinct,Soil & Water Conservation District Commissioner,,,Write-in,7,2,5
+Washington,Ward Three Precinct,Soil & Water Conservation District Commissioner,,,Write-in,3,3,0
+Washington,Ward Four Precinct,Soil & Water Conservation District Commissioner,,,Write-in,5,1,4
+Washington,Wellman Precinct,Soil & Water Conservation District Commissioner,,,Write-in,7,6,1
+Washington,West Chester Precinct,Soil & Water Conservation District Commissioner,,,Write-in,2,2,0
+Washington,Ainsworth Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Corey Malichky,766,474,292
+Washington,Brighton/Marion/Crawford Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Corey Malichky,609,332,277
+Washington,Kalona Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Corey Malichky,790,564,226
+Washington,Riverside Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Corey Malichky,463,339,124
+Washington,Ward One Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Corey Malichky,482,269,213
+Washington,Ward Two Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Corey Malichky,600,316,284
+Washington,Ward Three Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Corey Malichky,664,348,316
+Washington,Ward Four Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Corey Malichky,651,310,341
+Washington,Wellman Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Corey Malichky,806,550,256
+Washington,West Chester Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Corey Malichky,419,244,175
+Washington,Ainsworth Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Write-in,5,3,2
+Washington,Brighton/Marion/Crawford Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Write-in,1,0,1
+Washington,Kalona Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Write-in,5,4,1
+Washington,Riverside Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Write-in,2,1,1
+Washington,Ward One Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Write-in,2,2,0
+Washington,Ward Two Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Write-in,8,4,4
+Washington,Ward Three Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Write-in,1,0,1
+Washington,Ward Four Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Write-in,2,1,1
+Washington,Wellman Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Write-in,7,6,1
+Washington,West Chester Precinct,Soil & Water Conservation Dist. Commissioner, To Fill a Vacancy,,Write-in,1,1,0
+Washington,Ainsworth Precinct,County Agricultural Extension Council,,,Rhonda Clough,534,317,217
+Washington,Brighton/Marion/Crawford Precinct,County Agricultural Extension Council,,,Rhonda Clough,458,239,219
+Washington,Kalona Precinct,County Agricultural Extension Council,,,Rhonda Clough,578,403,175
+Washington,Riverside Precinct,County Agricultural Extension Council,,,Rhonda Clough,317,239,78
+Washington,Ward One Precinct,County Agricultural Extension Council,,,Rhonda Clough,345,194,151
+Washington,Ward Two Precinct,County Agricultural Extension Council,,,Rhonda Clough,432,218,214
+Washington,Ward Three Precinct,County Agricultural Extension Council,,,Rhonda Clough,509,255,254
+Washington,Ward Four Precinct,County Agricultural Extension Council,,,Rhonda Clough,470,220,250
+Washington,Wellman Precinct,County Agricultural Extension Council,,,Rhonda Clough,564,390,174
+Washington,West Chester Precinct,County Agricultural Extension Council,,,Rhonda Clough,307,182,125
+Washington,Ainsworth Precinct,County Agricultural Extension Council,,,Margaret Brinning,572,336,236
+Washington,Brighton/Marion/Crawford Precinct,County Agricultural Extension Council,,,Margaret Brinning,502,267,235
+Washington,Kalona Precinct,County Agricultural Extension Council,,,Margaret Brinning,631,438,193
+Washington,Riverside Precinct,County Agricultural Extension Council,,,Margaret Brinning,338,248,90
+Washington,Ward One Precinct,County Agricultural Extension Council,,,Margaret Brinning,375,211,164
+Washington,Ward Two Precinct,County Agricultural Extension Council,,,Margaret Brinning,482,238,244
+Washington,Ward Three Precinct,County Agricultural Extension Council,,,Margaret Brinning,556,267,289
+Washington,Ward Four Precinct,County Agricultural Extension Council,,,Margaret Brinning,538,255,283
+Washington,Wellman Precinct,County Agricultural Extension Council,,,Margaret Brinning,645,442,203
+Washington,West Chester Precinct,County Agricultural Extension Council,,,Margaret Brinning,360,210,150
+Washington,Ainsworth Precinct,County Agricultural Extension Council,,,Ann Williams,583,350,233
+Washington,Brighton/Marion/Crawford Precinct,County Agricultural Extension Council,,,Ann Williams,552,289,263
+Washington,Kalona Precinct,County Agricultural Extension Council,,,Ann Williams,622,437,185
+Washington,Riverside Precinct,County Agricultural Extension Council,,,Ann Williams,341,254,87
+Washington,Ward One Precinct,County Agricultural Extension Council,,,Ann Williams,432,233,199
+Washington,Ward Two Precinct,County Agricultural Extension Council,,,Ann Williams,554,273,281
+Washington,Ward Three Precinct,County Agricultural Extension Council,,,Ann Williams,635,322,313
+Washington,Ward Four Precinct,County Agricultural Extension Council,,,Ann Williams,595,286,309
+Washington,Wellman Precinct,County Agricultural Extension Council,,,Ann Williams,598,407,191
+Washington,West Chester Precinct,County Agricultural Extension Council,,,Ann Williams,365,209,156
+Washington,Ainsworth Precinct,County Agricultural Extension Council,,,Dennis Lampe,609,377,232
+Washington,Brighton/Marion/Crawford Precinct,County Agricultural Extension Council,,,Dennis Lampe,493,263,230
+Washington,Kalona Precinct,County Agricultural Extension Council,,,Dennis Lampe,691,476,215
+Washington,Riverside Precinct,County Agricultural Extension Council,,,Dennis Lampe,412,311,101
+Washington,Ward One Precinct,County Agricultural Extension Council,,,Dennis Lampe,367,208,159
+Washington,Ward Two Precinct,County Agricultural Extension Council,,,Dennis Lampe,471,239,232
+Washington,Ward Three Precinct,County Agricultural Extension Council,,,Dennis Lampe,540,265,275
+Washington,Ward Four Precinct,County Agricultural Extension Council,,,Dennis Lampe,503,239,264
+Washington,Wellman Precinct,County Agricultural Extension Council,,,Dennis Lampe,658,455,203
+Washington,West Chester Precinct,County Agricultural Extension Council,,,Dennis Lampe,339,203,136
+Washington,Ainsworth Precinct,County Agricultural Extension Council,,,Donna Palmer,520,311,209
+Washington,Brighton/Marion/Crawford Precinct,County Agricultural Extension Council,,,Donna Palmer,445,227,218
+Washington,Kalona Precinct,County Agricultural Extension Council,,,Donna Palmer,612,426,186
+Washington,Riverside Precinct,County Agricultural Extension Council,,,Donna Palmer,331,245,86
+Washington,Ward One Precinct,County Agricultural Extension Council,,,Donna Palmer,343,192,151
+Washington,Ward Two Precinct,County Agricultural Extension Council,,,Donna Palmer,445,215,230
+Washington,Ward Three Precinct,County Agricultural Extension Council,,,Donna Palmer,503,247,256
+Washington,Ward Four Precinct,County Agricultural Extension Council,,,Donna Palmer,482,228,254
+Washington,Wellman Precinct,County Agricultural Extension Council,,,Donna Palmer,673,455,218
+Washington,West Chester Precinct,County Agricultural Extension Council,,,Donna Palmer,308,183,125
+Washington,Ainsworth Precinct,County Agricultural Extension Council,,,Write-in,14,10,4
+Washington,Brighton/Marion/Crawford Precinct,County Agricultural Extension Council,,,Write-in,3,0,3
+Washington,Kalona Precinct,County Agricultural Extension Council,,,Write-in,11,5,6
+Washington,Riverside Precinct,County Agricultural Extension Council,,,Write-in,12,10,2
+Washington,Ward One Precinct,County Agricultural Extension Council,,,Write-in,4,3,1
+Washington,Ward Two Precinct,County Agricultural Extension Council,,,Write-in,10,0,10
+Washington,Ward Three Precinct,County Agricultural Extension Council,,,Write-in,3,2,1
+Washington,Ward Four Precinct,County Agricultural Extension Council,,,Write-in,16,4,12
+Washington,Wellman Precinct,County Agricultural Extension Council,,,Write-in,11,8,3
+Washington,West Chester Precinct,County Agricultural Extension Council,,,Write-in,6,6,0
+Washington,Ainsworth Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,604,360,244
+Washington,Brighton/Marion/Crawford Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,467,269,198
+Washington,Kalona Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,671,466,205
+Washington,Riverside Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,374,269,105
+Washington,Ward One Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,400,211,189
+Washington,Ward Two Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,494,234,260
+Washington,Ward Three Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,563,297,266
+Washington,Ward Four Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,511,234,277
+Washington,Wellman Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,601,401,200
+Washington,West Chester Precinct,Court of Appeals Judge Mary Ellen Tabor,,,Yes,280,167,113
+Washington,Ainsworth Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,163,111,52
+Washington,Brighton/Marion/Crawford Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,141,65,76
+Washington,Kalona Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,160,113,47
+Washington,Riverside Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,92,70,22
+Washington,Ward One Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,85,54,31
+Washington,Ward Two Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,113,68,45
+Washington,Ward Three Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,113,59,54
+Washington,Ward Four Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,136,74,62
+Washington,Wellman Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,182,129,53
+Washington,West Chester Precinct,Court of Appeals Judge Mary Ellen Tabor,,,No,123,73,50
+Washington,Ainsworth Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,527,305,222
+Washington,Brighton/Marion/Crawford Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,392,217,175
+Washington,Kalona Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,585,408,177
+Washington,Riverside Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,323,227,96
+Washington,Ward One Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,353,184,169
+Washington,Ward Two Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,429,202,227
+Washington,Ward Three Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,485,255,230
+Washington,Ward Four Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,434,197,237
+Washington,Wellman Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,514,347,167
+Washington,West Chester Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,245,145,100
+Washington,Ainsworth Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,216,146,70
+Washington,Brighton/Marion/Crawford Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,196,102,94
+Washington,Kalona Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,218,152,66
+Washington,Riverside Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,127,99,28
+Washington,Ward One Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,118,75,43
+Washington,Ward Two Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,149,80,69
+Washington,Ward Three Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,160,83,77
+Washington,Ward Four Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,179,96,83
+Washington,Wellman Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,242,162,80
+Washington,West Chester Precinct,Court of Appeals Judge Anuradha Vaitheswaran,,,No,147,88,59
+Washington,Ainsworth Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,612,367,245
+Washington,Brighton/Marion/Crawford Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,545,292,253
+Washington,Kalona Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,665,460,205
+Washington,Riverside Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,348,248,100
+Washington,Ward One Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,443,233,210
+Washington,Ward Two Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,580,284,296
+Washington,Ward Three Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,670,334,336
+Washington,Ward Four Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,655,307,348
+Washington,Wellman Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,619,414,205
+Washington,West Chester Precinct,Court of Appeals Judge Michael R. Mullins,,,Yes,342,197,145
+Washington,Ainsworth Precinct,Court of Appeals Judge Michael R. Mullins,,,No,152,94,58
+Washington,Brighton/Marion/Crawford Precinct,Court of Appeals Judge Michael R. Mullins,,,No,103,52,51
+Washington,Kalona Precinct,Court of Appeals Judge Michael R. Mullins,,,No,147,104,43
+Washington,Riverside Precinct,Court of Appeals Judge Michael R. Mullins,,,No,99,72,27
+Washington,Ward One Precinct,Court of Appeals Judge Michael R. Mullins,,,No,90,49,41
+Washington,Ward Two Precinct,Court of Appeals Judge Michael R. Mullins,,,No,100,47,53
+Washington,Ward Three Precinct,Court of Appeals Judge Michael R. Mullins,,,No,102,56,46
+Washington,Ward Four Precinct,Court of Appeals Judge Michael R. Mullins,,,No,102,63,39
+Washington,Wellman Precinct,Court of Appeals Judge Michael R. Mullins,,,No,166,112,54
+Washington,West Chester Precinct,Court of Appeals Judge Michael R. Mullins,,,No,94,56,38
+Washington,Ainsworth Precinct,District 8A District Judge Lucy J. Gamon,,,Yes,611,358,253
+Washington,Brighton/Marion/Crawford Precinct,District 8A District Judge Lucy J. Gamon,,,Yes,492,268,224
+Washington,Kalona Precinct,District 8A District Judge Lucy J. Gamon,,,Yes,665,455,210
+Washington,Riverside Precinct,District 8A District Judge Lucy J. Gamon,,,Yes,364,263,101
+Washington,Ward One Precinct,District 8A District Judge Lucy J. Gamon,,,Yes,443,231,212
+Washington,Ward Two Precinct,District 8A District Judge Lucy J. Gamon,,,Yes,557,268,289
+Washington,Ward Three Precinct,District 8A District Judge Lucy J. Gamon,,,Yes,639,324,315
+Washington,Ward Four Precinct,District 8A District Judge Lucy J. Gamon,,,Yes,598,279,319
+Washington,Wellman Precinct,District 8A District Judge Lucy J. Gamon,,,Yes,624,419,205
+Washington,West Chester Precinct,District 8A District Judge Lucy J. Gamon,,,Yes,312,177,135
+Washington,Ainsworth Precinct,District 8A District Judge Lucy J. Gamon,,,No,152,104,48
+Washington,Brighton/Marion/Crawford Precinct,District 8A District Judge Lucy J. Gamon,,,No,135,68,67
+Washington,Kalona Precinct,District 8A District Judge Lucy J. Gamon,,,No,146,109,37
+Washington,Riverside Precinct,District 8A District Judge Lucy J. Gamon,,,No,90,66,24
+Washington,Ward One Precinct,District 8A District Judge Lucy J. Gamon,,,No,78,48,30
+Washington,Ward Two Precinct,District 8A District Judge Lucy J. Gamon,,,No,95,54,41
+Washington,Ward Three Precinct,District 8A District Judge Lucy J. Gamon,,,No,101,55,46
+Washington,Ward Four Precinct,District 8A District Judge Lucy J. Gamon,,,No,115,62,53
+Washington,Wellman Precinct,District 8A District Judge Lucy J. Gamon,,,No,174,113,61
+Washington,West Chester Precinct,District 8A District Judge Lucy J. Gamon,,,No,108,67,41
+Washington,Ainsworth Precinct,District 8A District Judge Myron Gookin,,,Yes,569,331,238
+Washington,Brighton/Marion/Crawford Precinct,District 8A District Judge Myron Gookin,,,Yes,436,243,193
+Washington,Kalona Precinct,District 8A District Judge Myron Gookin,,,Yes,628,439,189
+Washington,Riverside Precinct,District 8A District Judge Myron Gookin,,,Yes,330,241,89
+Washington,Ward One Precinct,District 8A District Judge Myron Gookin,,,Yes,369,203,166
+Washington,Ward Two Precinct,District 8A District Judge Myron Gookin,,,Yes,479,232,247
+Washington,Ward Three Precinct,District 8A District Judge Myron Gookin,,,Yes,513,268,245
+Washington,Ward Four Precinct,District 8A District Judge Myron Gookin,,,Yes,463,213,250
+Washington,Wellman Precinct,District 8A District Judge Myron Gookin,,,Yes,554,381,173
+Washington,West Chester Precinct,District 8A District Judge Myron Gookin,,,Yes,280,165,115
+Washington,Ainsworth Precinct,District 8A District Judge Myron Gookin,,,No,171,116,55
+Washington,Brighton/Marion/Crawford Precinct,District 8A District Judge Myron Gookin,,,No,148,71,77
+Washington,Kalona Precinct,District 8A District Judge Myron Gookin,,,No,164,115,49
+Washington,Riverside Precinct,District 8A District Judge Myron Gookin,,,No,109,79,30
+Washington,Ward One Precinct,District 8A District Judge Myron Gookin,,,No,104,62,42
+Washington,Ward Two Precinct,District 8A District Judge Myron Gookin,,,No,111,55,56
+Washington,Ward Three Precinct,District 8A District Judge Myron Gookin,,,No,138,79,59
+Washington,Ward Four Precinct,District 8A District Judge Myron Gookin,,,No,152,82,70
+Washington,Wellman Precinct,District 8A District Judge Myron Gookin,,,No,196,128,68
+Washington,West Chester Precinct,District 8A District Judge Myron Gookin,,,No,123,70,53
+Washington,Ainsworth Precinct,District 8A District Judge Shawn R. Showers,,,Yes,605,357,248
+Washington,Brighton/Marion/Crawford Precinct,District 8A District Judge Shawn R. Showers,,,Yes,496,267,229
+Washington,Kalona Precinct,District 8A District Judge Shawn R. Showers,,,Yes,638,448,190
+Washington,Riverside Precinct,District 8A District Judge Shawn R. Showers,,,Yes,349,254,95
+Washington,Ward One Precinct,District 8A District Judge Shawn R. Showers,,,Yes,417,227,190
+Washington,Ward Two Precinct,District 8A District Judge Shawn R. Showers,,,Yes,541,268,273
+Washington,Ward Three Precinct,District 8A District Judge Shawn R. Showers,,,Yes,619,319,300
+Washington,Ward Four Precinct,District 8A District Judge Shawn R. Showers,,,Yes,594,282,312
+Washington,Wellman Precinct,District 8A District Judge Shawn R. Showers,,,Yes,613,409,204
+Washington,West Chester Precinct,District 8A District Judge Shawn R. Showers,,,Yes,315,183,132
+Washington,Ainsworth Precinct,District 8A District Judge Shawn R. Showers,,,No,155,103,52
+Washington,Brighton/Marion/Crawford Precinct,District 8A District Judge Shawn R. Showers,,,No,122,60,62
+Washington,Kalona Precinct,District 8A District Judge Shawn R. Showers,,,No,169,118,51
+Washington,Riverside Precinct,District 8A District Judge Shawn R. Showers,,,No,104,73,31
+Washington,Ward One Precinct,District 8A District Judge Shawn R. Showers,,,No,98,52,46
+Washington,Ward Two Precinct,District 8A District Judge Shawn R. Showers,,,No,106,52,54
+Washington,Ward Three Precinct,District 8A District Judge Shawn R. Showers,,,No,105,59,46
+Washington,Ward Four Precinct,District 8A District Judge Shawn R. Showers,,,No,117,65,52
+Washington,Wellman Precinct,District 8A District Judge Shawn R. Showers,,,No,174,117,57
+Washington,West Chester Precinct,District 8A District Judge Shawn R. Showers,,,No,98,59,39
+Washington,Ainsworth Precinct,District 8A District Judge Crystal S. Cronk,,,Yes,571,335,236
+Washington,Brighton/Marion/Crawford Precinct,District 8A District Judge Crystal S. Cronk,,,Yes,439,244,195
+Washington,Kalona Precinct,District 8A District Judge Crystal S. Cronk,,,Yes,628,442,186
+Washington,Riverside Precinct,District 8A District Judge Crystal S. Cronk,,,Yes,353,251,102
+Washington,Ward One Precinct,District 8A District Judge Crystal S. Cronk,,,Yes,377,202,175
+Washington,Ward Two Precinct,District 8A District Judge Crystal S. Cronk,,,Yes,479,232,247
+Washington,Ward Three Precinct,District 8A District Judge Crystal S. Cronk,,,Yes,534,280,254
+Washington,Ward Four Precinct,District 8A District Judge Crystal S. Cronk,,,Yes,489,228,261
+Washington,Wellman Precinct,District 8A District Judge Crystal S. Cronk,,,Yes,587,396,191
+Washington,West Chester Precinct,District 8A District Judge Crystal S. Cronk,,,Yes,281,166,115
+Washington,Ainsworth Precinct,District 8A District Judge Crystal S. Cronk,,,No,167,114,53
+Washington,Brighton/Marion/Crawford Precinct,District 8A District Judge Crystal S. Cronk,,,No,148,72,76
+Washington,Kalona Precinct,District 8A District Judge Crystal S. Cronk,,,No,167,117,50
+Washington,Riverside Precinct,District 8A District Judge Crystal S. Cronk,,,No,93,69,24
+Washington,Ward One Precinct,District 8A District Judge Crystal S. Cronk,,,No,99,59,40
+Washington,Ward Two Precinct,District 8A District Judge Crystal S. Cronk,,,No,115,57,58
+Washington,Ward Three Precinct,District 8A District Judge Crystal S. Cronk,,,No,128,67,61
+Washington,Ward Four Precinct,District 8A District Judge Crystal S. Cronk,,,No,135,73,62
+Washington,Wellman Precinct,District 8A District Judge Crystal S. Cronk,,,No,177,120,57
+Washington,West Chester Precinct,District 8A District Judge Crystal S. Cronk,,,No,119,70,49
+Washington,Ainsworth Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,Yes,642,377,265
+Washington,Brighton/Marion/Crawford Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,Yes,544,299,245
+Washington,Kalona Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,Yes,675,476,199
+Washington,Riverside Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,Yes,364,263,101
+Washington,Ward One Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,Yes,474,254,220
+Washington,Ward Two Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,Yes,605,284,321
+Washington,Ward Three Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,Yes,671,342,329
+Washington,Ward Four Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,Yes,670,306,364
+Washington,Wellman Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,Yes,675,449,226
+Washington,West Chester Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,Yes,332,197,135
+Washington,Ainsworth Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,No,156,103,53
+Washington,Brighton/Marion/Crawford Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,No,119,53,66
+Washington,Kalona Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,No,151,101,50
+Washington,Riverside Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,No,99,70,29
+Washington,Ward One Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,No,84,45,39
+Washington,Ward Two Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,No,92,55,37
+Washington,Ward Three Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,No,99,53,46
+Washington,Ward Four Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,No,105,71,34
+Washington,Wellman Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,No,162,112,50
+Washington,West Chester Precinct,District 8A District Associate Judge Daniel P. Kitchen,,,No,101,56,45
