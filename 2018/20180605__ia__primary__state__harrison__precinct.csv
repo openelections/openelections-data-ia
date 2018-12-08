@@ -1,0 +1,699 @@
+county,precinct,office,district,party,candidate,votes,absentee,polling
+Harrison,#1 Little Sioux,United States Representative District 4,,REP,Cyndi Hanson,8,0,8
+Harrison,"#2 Allen, Jackson, Pisgah",United States Representative District 4,,REP,Cyndi Hanson,18,1,17
+Harrison,"#3 Harrison, Douglas, Dunlap",United States Representative District 4,,REP,Cyndi Hanson,12,1,11
+Harrison,"#4 Morgan, Raglan, Mondamin",United States Representative District 4,,REP,Cyndi Hanson,9,2,7
+Harrison,"#5 Magnolia, Calhoun",United States Representative District 4,,REP,Cyndi Hanson,12,3,9
+Harrison,"#6 Boyer, Lincoln",United States Representative District 4,,REP,Cyndi Hanson,4,1,3
+Harrison,#7 Woodbine,United States Representative District 4,,REP,Cyndi Hanson,14,0,14
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",United States Representative District 4,,REP,Cyndi Hanson,19,0,19
+Harrison,"#9 Jefferson, LaGrange",United States Representative District 4,,REP,Cyndi Hanson,8,0,8
+Harrison,#10 Logan,United States Representative District 4,,REP,Cyndi Hanson,12,1,11
+Harrison,#11 St John,United States Representative District 4,,REP,Cyndi Hanson,18,1,17
+Harrison,#12 Missouri Valley,United States Representative District 4,,REP,Cyndi Hanson,31,2,29
+Harrison,"#13 Cass, Union, Washington, Persia",United States Representative District 4,,REP,Cyndi Hanson,12,3,9
+Harrison,#1 Little Sioux,United States Representative District 4,,REP,Steve King,19,1,18
+Harrison,"#2 Allen, Jackson, Pisgah",United States Representative District 4,,REP,Steve King,31,2,29
+Harrison,"#3 Harrison, Douglas, Dunlap",United States Representative District 4,,REP,Steve King,37,3,34
+Harrison,"#4 Morgan, Raglan, Mondamin",United States Representative District 4,,REP,Steve King,48,5,43
+Harrison,"#5 Magnolia, Calhoun",United States Representative District 4,,REP,Steve King,61,8,53
+Harrison,"#6 Boyer, Lincoln",United States Representative District 4,,REP,Steve King,28,4,24
+Harrison,#7 Woodbine,United States Representative District 4,,REP,Steve King,84,4,80
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",United States Representative District 4,,REP,Steve King,54,6,48
+Harrison,"#9 Jefferson, LaGrange",United States Representative District 4,,REP,Steve King,39,4,35
+Harrison,#10 Logan,United States Representative District 4,,REP,Steve King,48,5,43
+Harrison,#11 St John,United States Representative District 4,,REP,Steve King,66,4,62
+Harrison,#12 Missouri Valley,United States Representative District 4,,REP,Steve King,74,5,69
+Harrison,"#13 Cass, Union, Washington, Persia",United States Representative District 4,,REP,Steve King,59,2,57
+Harrison,#1 Little Sioux,United States Representative District 4,,,Write-in,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah",United States Representative District 4,,,Write-in,0,0,0
+Harrison,"#3 Harrison, Douglas, Dunlap",United States Representative District 4,,,Write-in,0,0,0
+Harrison,"#4 Morgan, Raglan, Mondamin",United States Representative District 4,,,Write-in,0,0,0
+Harrison,"#5 Magnolia, Calhoun",United States Representative District 4,,,Write-in,0,0,0
+Harrison,"#6 Boyer, Lincoln",United States Representative District 4,,,Write-in,0,0,0
+Harrison,#7 Woodbine,United States Representative District 4,,,Write-in,0,0,0
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",United States Representative District 4,,,Write-in,0,0,0
+Harrison,"#9 Jefferson, LaGrange",United States Representative District 4,,,Write-in,0,0,0
+Harrison,#10 Logan,United States Representative District 4,,,Write-in,0,0,0
+Harrison,#11 St John,United States Representative District 4,,,Write-in,0,0,0
+Harrison,#12 Missouri Valley,United States Representative District 4,,,Write-in,0,0,0
+Harrison,"#13 Cass, Union, Washington, Persia",United States Representative District 4,,,Write-in,0,0,0
+Harrison,#1 Little Sioux,Governor,,REP,Kim Reynolds,27,2,25
+Harrison,"#2 Allen, Jackson, Pisgah",Governor,,REP,Kim Reynolds,48,3,45
+Harrison,"#3 Harrison, Douglas, Dunlap",Governor,,REP,Kim Reynolds,45,3,42
+Harrison,"#4 Morgan, Raglan, Mondamin",Governor,,REP,Kim Reynolds,56,6,50
+Harrison,"#5 Magnolia, Calhoun",Governor,,REP,Kim Reynolds,69,10,59
+Harrison,"#6 Boyer, Lincoln",Governor,,REP,Kim Reynolds,30,4,26
+Harrison,#7 Woodbine,Governor,,REP,Kim Reynolds,94,4,90
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Governor,,REP,Kim Reynolds,63,6,57
+Harrison,"#9 Jefferson, LaGrange",Governor,,REP,Kim Reynolds,41,3,38
+Harrison,#10 Logan,Governor,,REP,Kim Reynolds,56,7,49
+Harrison,#11 St John,Governor,,REP,Kim Reynolds,76,5,71
+Harrison,#12 Missouri Valley,Governor,,REP,Kim Reynolds,100,6,94
+Harrison,"#13 Cass, Union, Washington, Persia",Governor,,REP,Kim Reynolds,67,4,63
+Harrison,#1 Little Sioux,Governor,,,Write-in,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah",Governor,,,Write-in,0,0,0
+Harrison,"#3 Harrison, Douglas, Dunlap",Governor,,,Write-in,0,0,0
+Harrison,"#4 Morgan, Raglan, Mondamin",Governor,,,Write-in,0,0,0
+Harrison,"#5 Magnolia, Calhoun",Governor,,,Write-in,0,0,0
+Harrison,"#6 Boyer, Lincoln",Governor,,,Write-in,0,0,0
+Harrison,#7 Woodbine,Governor,,,Write-in,0,0,0
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Governor,,,Write-in,0,0,0
+Harrison,"#9 Jefferson, LaGrange",Governor,,,Write-in,0,0,0
+Harrison,#10 Logan,Governor,,,Write-in,0,0,0
+Harrison,#11 St John,Governor,,,Write-in,0,0,0
+Harrison,#12 Missouri Valley,Governor,,,Write-in,0,0,0
+Harrison,"#13 Cass, Union, Washington, Persia",Governor,,,Write-in,0,0,0
+Harrison,#1 Little Sioux,Secretary of State,,REP,Paul D. Pate,26,2,24
+Harrison,"#2 Allen, Jackson, Pisgah",Secretary of State,,REP,Paul D. Pate,42,1,41
+Harrison,"#3 Harrison, Douglas, Dunlap",Secretary of State,,REP,Paul D. Pate,45,3,42
+Harrison,"#4 Morgan, Raglan, Mondamin",Secretary of State,,REP,Paul D. Pate,49,6,43
+Harrison,"#5 Magnolia, Calhoun",Secretary of State,,REP,Paul D. Pate,62,9,53
+Harrison,"#6 Boyer, Lincoln",Secretary of State,,REP,Paul D. Pate,21,3,18
+Harrison,#7 Woodbine,Secretary of State,,REP,Paul D. Pate,84,3,81
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Secretary of State,,REP,Paul D. Pate,58,5,53
+Harrison,"#9 Jefferson, LaGrange",Secretary of State,,REP,Paul D. Pate,33,3,30
+Harrison,#10 Logan,Secretary of State,,REP,Paul D. Pate,51,6,45
+Harrison,#11 St John,Secretary of State,,REP,Paul D. Pate,75,5,70
+Harrison,#12 Missouri Valley,Secretary of State,,REP,Paul D. Pate,90,6,84
+Harrison,"#13 Cass, Union, Washington, Persia",Secretary of State,,REP,Paul D. Pate,63,5,58
+Harrison,#1 Little Sioux,Secretary of State,,,Write-in,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah",Secretary of State,,,Write-in,0,0,0
+Harrison,"#3 Harrison, Douglas, Dunlap",Secretary of State,,,Write-in,0,0,0
+Harrison,"#4 Morgan, Raglan, Mondamin",Secretary of State,,,Write-in,0,0,0
+Harrison,"#5 Magnolia, Calhoun",Secretary of State,,,Write-in,0,0,0
+Harrison,"#6 Boyer, Lincoln",Secretary of State,,,Write-in,0,0,0
+Harrison,#7 Woodbine,Secretary of State,,,Write-in,0,0,0
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Secretary of State,,,Write-in,0,0,0
+Harrison,"#9 Jefferson, LaGrange",Secretary of State,,,Write-in,0,0,0
+Harrison,#10 Logan,Secretary of State,,,Write-in,0,0,0
+Harrison,#11 St John,Secretary of State,,,Write-in,0,0,0
+Harrison,#12 Missouri Valley,Secretary of State,,,Write-in,0,0,0
+Harrison,"#13 Cass, Union, Washington, Persia",Secretary of State,,,Write-in,0,0,0
+Harrison,#1 Little Sioux,Auditor of State,,REP,Mary Mosiman,25,2,23
+Harrison,"#2 Allen, Jackson, Pisgah",Auditor of State,,REP,Mary Mosiman,42,1,41
+Harrison,"#3 Harrison, Douglas, Dunlap",Auditor of State,,REP,Mary Mosiman,38,3,35
+Harrison,"#4 Morgan, Raglan, Mondamin",Auditor of State,,REP,Mary Mosiman,48,6,42
+Harrison,"#5 Magnolia, Calhoun",Auditor of State,,REP,Mary Mosiman,57,9,48
+Harrison,"#6 Boyer, Lincoln",Auditor of State,,REP,Mary Mosiman,21,3,18
+Harrison,#7 Woodbine,Auditor of State,,REP,Mary Mosiman,84,4,80
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Auditor of State,,REP,Mary Mosiman,56,5,51
+Harrison,"#9 Jefferson, LaGrange",Auditor of State,,REP,Mary Mosiman,31,3,28
+Harrison,#10 Logan,Auditor of State,,REP,Mary Mosiman,48,6,42
+Harrison,#11 St John,Auditor of State,,REP,Mary Mosiman,74,5,69
+Harrison,#12 Missouri Valley,Auditor of State,,REP,Mary Mosiman,85,6,79
+Harrison,"#13 Cass, Union, Washington, Persia",Auditor of State,,REP,Mary Mosiman,62,5,57
+Harrison,#1 Little Sioux,Auditor of State,,,Write-in,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah",Auditor of State,,,Write-in,0,0,0
+Harrison,"#3 Harrison, Douglas, Dunlap",Auditor of State,,,Write-in,0,0,0
+Harrison,"#4 Morgan, Raglan, Mondamin",Auditor of State,,,Write-in,0,0,0
+Harrison,"#5 Magnolia, Calhoun",Auditor of State,,,Write-in,0,0,0
+Harrison,"#6 Boyer, Lincoln",Auditor of State,,,Write-in,0,0,0
+Harrison,#7 Woodbine,Auditor of State,,,Write-in,0,0,0
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Auditor of State,,,Write-in,0,0,0
+Harrison,"#9 Jefferson, LaGrange",Auditor of State,,,Write-in,0,0,0
+Harrison,#10 Logan,Auditor of State,,,Write-in,0,0,0
+Harrison,#11 St John,Auditor of State,,,Write-in,0,0,0
+Harrison,#12 Missouri Valley,Auditor of State,,,Write-in,0,0,0
+Harrison,"#13 Cass, Union, Washington, Persia",Auditor of State,,,Write-in,0,0,0
+Harrison,#1 Little Sioux,Treasurer of State,,,Write-in,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah",Treasurer of State,,,Write-in,0,0,0
+Harrison,"#3 Harrison, Douglas, Dunlap",Treasurer of State,,,Write-in,0,0,0
+Harrison,"#4 Morgan, Raglan, Mondamin",Treasurer of State,,,Write-in,0,0,0
+Harrison,"#5 Magnolia, Calhoun",Treasurer of State,,,Write-in,0,0,0
+Harrison,"#6 Boyer, Lincoln",Treasurer of State,,,Write-in,0,0,0
+Harrison,#7 Woodbine,Treasurer of State,,,Write-in,0,0,0
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Treasurer of State,,,Write-in,0,0,0
+Harrison,"#9 Jefferson, LaGrange",Treasurer of State,,,Write-in,0,0,0
+Harrison,#10 Logan,Treasurer of State,,,Write-in,0,0,0
+Harrison,#11 St John,Treasurer of State,,,Write-in,0,0,0
+Harrison,#12 Missouri Valley,Treasurer of State,,,Write-in,0,0,0
+Harrison,"#13 Cass, Union, Washington, Persia",Treasurer of State,,,Write-in,0,0,0
+Harrison,#1 Little Sioux,Secretary of Agriculture,,REP,Ray Gaesser,10,0,10
+Harrison,"#2 Allen, Jackson, Pisgah",Secretary of Agriculture,,REP,Ray Gaesser,8,0,8
+Harrison,"#3 Harrison, Douglas, Dunlap",Secretary of Agriculture,,REP,Ray Gaesser,11,0,11
+Harrison,"#4 Morgan, Raglan, Mondamin",Secretary of Agriculture,,REP,Ray Gaesser,11,0,11
+Harrison,"#5 Magnolia, Calhoun",Secretary of Agriculture,,REP,Ray Gaesser,11,1,10
+Harrison,"#6 Boyer, Lincoln",Secretary of Agriculture,,REP,Ray Gaesser,8,0,8
+Harrison,#7 Woodbine,Secretary of Agriculture,,REP,Ray Gaesser,25,0,25
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Secretary of Agriculture,,REP,Ray Gaesser,12,0,12
+Harrison,"#9 Jefferson, LaGrange",Secretary of Agriculture,,REP,Ray Gaesser,8,2,6
+Harrison,#10 Logan,Secretary of Agriculture,,REP,Ray Gaesser,12,0,12
+Harrison,#11 St John,Secretary of Agriculture,,REP,Ray Gaesser,18,0,18
+Harrison,#12 Missouri Valley,Secretary of Agriculture,,REP,Ray Gaesser,21,0,21
+Harrison,"#13 Cass, Union, Washington, Persia",Secretary of Agriculture,,REP,Ray Gaesser,20,0,20
+Harrison,#1 Little Sioux,Secretary of Agriculture,,REP,Chad Ingels,5,1,4
+Harrison,"#2 Allen, Jackson, Pisgah",Secretary of Agriculture,,REP,Chad Ingels,6,0,6
+Harrison,"#3 Harrison, Douglas, Dunlap",Secretary of Agriculture,,REP,Chad Ingels,5,0,5
+Harrison,"#4 Morgan, Raglan, Mondamin",Secretary of Agriculture,,REP,Chad Ingels,5,0,5
+Harrison,"#5 Magnolia, Calhoun",Secretary of Agriculture,,REP,Chad Ingels,4,0,4
+Harrison,"#6 Boyer, Lincoln",Secretary of Agriculture,,REP,Chad Ingels,3,2,1
+Harrison,#7 Woodbine,Secretary of Agriculture,,REP,Chad Ingels,14,0,14
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Secretary of Agriculture,,REP,Chad Ingels,9,0,9
+Harrison,"#9 Jefferson, LaGrange",Secretary of Agriculture,,REP,Chad Ingels,6,0,6
+Harrison,#10 Logan,Secretary of Agriculture,,REP,Chad Ingels,6,1,5
+Harrison,#11 St John,Secretary of Agriculture,,REP,Chad Ingels,9,2,7
+Harrison,#12 Missouri Valley,Secretary of Agriculture,,REP,Chad Ingels,16,1,15
+Harrison,"#13 Cass, Union, Washington, Persia",Secretary of Agriculture,,REP,Chad Ingels,11,4,7
+Harrison,#1 Little Sioux,Secretary of Agriculture,,REP,Craig Lang,3,1,2
+Harrison,"#2 Allen, Jackson, Pisgah",Secretary of Agriculture,,REP,Craig Lang,13,1,12
+Harrison,"#3 Harrison, Douglas, Dunlap",Secretary of Agriculture,,REP,Craig Lang,9,1,8
+Harrison,"#4 Morgan, Raglan, Mondamin",Secretary of Agriculture,,REP,Craig Lang,5,1,4
+Harrison,"#5 Magnolia, Calhoun",Secretary of Agriculture,,REP,Craig Lang,12,1,11
+Harrison,"#6 Boyer, Lincoln",Secretary of Agriculture,,REP,Craig Lang,3,2,1
+Harrison,#7 Woodbine,Secretary of Agriculture,,REP,Craig Lang,17,0,17
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Secretary of Agriculture,,REP,Craig Lang,11,0,11
+Harrison,"#9 Jefferson, LaGrange",Secretary of Agriculture,,REP,Craig Lang,0,0,0
+Harrison,#10 Logan,Secretary of Agriculture,,REP,Craig Lang,7,0,7
+Harrison,#11 St John,Secretary of Agriculture,,REP,Craig Lang,19,1,18
+Harrison,#12 Missouri Valley,Secretary of Agriculture,,REP,Craig Lang,11,0,11
+Harrison,"#13 Cass, Union, Washington, Persia",Secretary of Agriculture,,REP,Craig Lang,10,0,10
+Harrison,#1 Little Sioux,Secretary of Agriculture,,REP,Mike Naig,3,0,3
+Harrison,"#2 Allen, Jackson, Pisgah",Secretary of Agriculture,,REP,Mike Naig,6,0,6
+Harrison,"#3 Harrison, Douglas, Dunlap",Secretary of Agriculture,,REP,Mike Naig,12,3,9
+Harrison,"#4 Morgan, Raglan, Mondamin",Secretary of Agriculture,,REP,Mike Naig,15,3,12
+Harrison,"#5 Magnolia, Calhoun",Secretary of Agriculture,,REP,Mike Naig,19,5,14
+Harrison,"#6 Boyer, Lincoln",Secretary of Agriculture,,REP,Mike Naig,9,0,9
+Harrison,#7 Woodbine,Secretary of Agriculture,,REP,Mike Naig,6,1,5
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Secretary of Agriculture,,REP,Mike Naig,11,3,8
+Harrison,"#9 Jefferson, LaGrange",Secretary of Agriculture,,REP,Mike Naig,15,1,14
+Harrison,#10 Logan,Secretary of Agriculture,,REP,Mike Naig,8,4,4
+Harrison,#11 St John,Secretary of Agriculture,,REP,Mike Naig,4,0,4
+Harrison,#12 Missouri Valley,Secretary of Agriculture,,REP,Mike Naig,16,2,14
+Harrison,"#13 Cass, Union, Washington, Persia",Secretary of Agriculture,,REP,Mike Naig,7,0,7
+Harrison,#1 Little Sioux,Secretary of Agriculture,,REP,Dan Zumbach,2,0,2
+Harrison,"#2 Allen, Jackson, Pisgah",Secretary of Agriculture,,REP,Dan Zumbach,6,0,6
+Harrison,"#3 Harrison, Douglas, Dunlap",Secretary of Agriculture,,REP,Dan Zumbach,8,0,8
+Harrison,"#4 Morgan, Raglan, Mondamin",Secretary of Agriculture,,REP,Dan Zumbach,9,0,9
+Harrison,"#5 Magnolia, Calhoun",Secretary of Agriculture,,REP,Dan Zumbach,10,2,8
+Harrison,"#6 Boyer, Lincoln",Secretary of Agriculture,,REP,Dan Zumbach,1,0,1
+Harrison,#7 Woodbine,Secretary of Agriculture,,REP,Dan Zumbach,9,0,9
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Secretary of Agriculture,,REP,Dan Zumbach,8,0,8
+Harrison,"#9 Jefferson, LaGrange",Secretary of Agriculture,,REP,Dan Zumbach,5,0,5
+Harrison,#10 Logan,Secretary of Agriculture,,REP,Dan Zumbach,12,0,12
+Harrison,#11 St John,Secretary of Agriculture,,REP,Dan Zumbach,13,0,13
+Harrison,#12 Missouri Valley,Secretary of Agriculture,,REP,Dan Zumbach,20,0,20
+Harrison,"#13 Cass, Union, Washington, Persia",Secretary of Agriculture,,REP,Dan Zumbach,19,1,18
+Harrison,#1 Little Sioux,Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah",Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,"#3 Harrison, Douglas, Dunlap",Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,"#4 Morgan, Raglan, Mondamin",Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,"#5 Magnolia, Calhoun",Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,"#6 Boyer, Lincoln",Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,#7 Woodbine,Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,"#9 Jefferson, LaGrange",Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,#10 Logan,Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,#11 St John,Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,#12 Missouri Valley,Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,"#13 Cass, Union, Washington, Persia",Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,#1 Little Sioux,Attorney General,,,Write-in,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah",Attorney General,,,Write-in,0,0,0
+Harrison,"#3 Harrison, Douglas, Dunlap",Attorney General,,,Write-in,0,0,0
+Harrison,"#4 Morgan, Raglan, Mondamin",Attorney General,,,Write-in,0,0,0
+Harrison,"#5 Magnolia, Calhoun",Attorney General,,,Write-in,0,0,0
+Harrison,"#6 Boyer, Lincoln",Attorney General,,,Write-in,0,0,0
+Harrison,#7 Woodbine,Attorney General,,,Write-in,0,0,0
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Attorney General,,,Write-in,0,0,0
+Harrison,"#9 Jefferson, LaGrange",Attorney General,,,Write-in,0,0,0
+Harrison,#10 Logan,Attorney General,,,Write-in,1,1,0
+Harrison,#11 St John,Attorney General,,,Write-in,0,0,0
+Harrison,#12 Missouri Valley,Attorney General,,,Write-in,0,0,0
+Harrison,"#13 Cass, Union, Washington, Persia",Attorney General,,,Write-in,0,0,0
+Harrison,#1 Little Sioux,State Senator District 9,,REP,Jason Schultz,25,2,23
+Harrison,"#2 Allen, Jackson, Pisgah",State Senator District 9,,REP,Jason Schultz,43,3,40
+Harrison,"#3 Harrison, Douglas, Dunlap",State Senator District 9,,REP,Jason Schultz,45,4,41
+Harrison,"#4 Morgan, Raglan, Mondamin",State Senator District 9,,REP,Jason Schultz,49,6,43
+Harrison,"#5 Magnolia, Calhoun",State Senator District 9,,REP,Jason Schultz,60,8,52
+Harrison,"#6 Boyer, Lincoln",State Senator District 9,,REP,Jason Schultz,21,2,19
+Harrison,#7 Woodbine,State Senator District 9,,REP,Jason Schultz,88,4,84
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",State Senator District 9,,REP,Jason Schultz,58,5,53
+Harrison,"#9 Jefferson, LaGrange",State Senator District 9,,REP,Jason Schultz,35,3,32
+Harrison,#10 Logan,State Senator District 9,,REP,Jason Schultz,51,6,45
+Harrison,#11 St John,State Senator District 9,,REP,Jason Schultz,69,3,66
+Harrison,#12 Missouri Valley,State Senator District 9,,REP,Jason Schultz,90,5,85
+Harrison,"#13 Cass, Union, Washington, Persia",State Senator District 9,,REP,Jason Schultz,65,4,61
+Harrison,#1 Little Sioux,State Senator District 9,,,Write-in,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah",State Senator District 9,,,Write-in,0,0,0
+Harrison,"#3 Harrison, Douglas, Dunlap",State Senator District 9,,,Write-in,0,0,0
+Harrison,"#4 Morgan, Raglan, Mondamin",State Senator District 9,,,Write-in,0,0,0
+Harrison,"#5 Magnolia, Calhoun",State Senator District 9,,,Write-in,0,0,0
+Harrison,"#6 Boyer, Lincoln",State Senator District 9,,,Write-in,0,0,0
+Harrison,#7 Woodbine,State Senator District 9,,,Write-in,0,0,0
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",State Senator District 9,,,Write-in,0,0,0
+Harrison,"#9 Jefferson, LaGrange",State Senator District 9,,,Write-in,0,0,0
+Harrison,#10 Logan,State Senator District 9,,,Write-in,0,0,0
+Harrison,#11 St John,State Senator District 9,,,Write-in,0,0,0
+Harrison,#12 Missouri Valley,State Senator District 9,,,Write-in,0,0,0
+Harrison,"#13 Cass, Union, Washington, Persia",State Senator District 9,,,Write-in,0,0,0
+Harrison,#1 Little Sioux,State Representative District  17,,REP,Matt. W. Windschitl,28,2,26
+Harrison,"#2 Allen, Jackson, Pisgah",State Representative District  17,,REP,Matt. W. Windschitl,43,3,40
+Harrison,"#4 Morgan, Raglan, Mondamin",State Representative District  17,,REP,Matt. W. Windschitl,53,6,47
+Harrison,"#5 Magnolia, Calhoun",State Representative District  17,,REP,Matt. W. Windschitl,66,10,56
+Harrison,"#6 Boyer, Lincoln",State Representative District  17,,REP,Matt. W. Windschitl,27,4,23
+Harrison,#7 Woodbine,State Representative District  17,,REP,Matt. W. Windschitl,92,3,89
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",State Representative District  17,,REP,Matt. W. Windschitl,63,6,57
+Harrison,#11 St John,State Representative District  17,,REP,Matt. W. Windschitl,73,5,68
+Harrison,#12 Missouri Valley,State Representative District  17,,REP,Matt. W. Windschitl,92,5,87
+Harrison,#1 Little Sioux,State Representative District  17,,,Write-in,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah",State Representative District  17,,,Write-in,0,0,0
+Harrison,"#4 Morgan, Raglan, Mondamin",State Representative District  17,,,Write-in,0,0,0
+Harrison,"#5 Magnolia, Calhoun",State Representative District  17,,,Write-in,0,0,0
+Harrison,"#6 Boyer, Lincoln",State Representative District  17,,,Write-in,0,0,0
+Harrison,#7 Woodbine,State Representative District  17,,,Write-in,0,0,0
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",State Representative District  17,,,Write-in,0,0,0
+Harrison,#11 St John,State Representative District  17,,,Write-in,0,0,0
+Harrison,#12 Missouri Valley,State Representative District  17,,,Write-in,0,0,0
+Harrison,"#3 Harrison, Douglas, Dunlap",State Representative District  18,,REP,Steven Holt,43,4,39
+Harrison,"#9 Jefferson, LaGrange",State Representative District  18,,REP,Steven Holt,38,4,34
+Harrison,#10 Logan,State Representative District  18,,REP,Steven Holt,52,6,46
+Harrison,"#13 Cass, Union, Washington, Persia",State Representative District  18,,REP,Steven Holt,63,4,59
+Harrison,"#3 Harrison, Douglas, Dunlap",State Representative District  18,,,Write-in,0,0,0
+Harrison,"#9 Jefferson, LaGrange",State Representative District  18,,,Write-in,0,0,0
+Harrison,#10 Logan,State Representative District  18,,,Write-in,0,0,0
+Harrison,"#13 Cass, Union, Washington, Persia",State Representative District  18,,,Write-in,0,0,0
+Harrison,#1 Little Sioux,County Board of Supervisors,,REP,Kevin Petersen,6,0,6
+Harrison,"#2 Allen, Jackson, Pisgah",County Board of Supervisors,,REP,Kevin Petersen,14,1,13
+Harrison,"#3 Harrison, Douglas, Dunlap",County Board of Supervisors,,REP,Kevin Petersen,22,0,22
+Harrison,"#4 Morgan, Raglan, Mondamin",County Board of Supervisors,,REP,Kevin Petersen,13,1,12
+Harrison,"#5 Magnolia, Calhoun",County Board of Supervisors,,REP,Kevin Petersen,21,0,21
+Harrison,"#6 Boyer, Lincoln",County Board of Supervisors,,REP,Kevin Petersen,4,0,4
+Harrison,#7 Woodbine,County Board of Supervisors,,REP,Kevin Petersen,22,1,21
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",County Board of Supervisors,,REP,Kevin Petersen,20,0,20
+Harrison,"#9 Jefferson, LaGrange",County Board of Supervisors,,REP,Kevin Petersen,16,1,15
+Harrison,#10 Logan,County Board of Supervisors,,REP,Kevin Petersen,12,1,11
+Harrison,#11 St John,County Board of Supervisors,,REP,Kevin Petersen,28,0,28
+Harrison,#12 Missouri Valley,County Board of Supervisors,,REP,Kevin Petersen,34,1,33
+Harrison,"#13 Cass, Union, Washington, Persia",County Board of Supervisors,,REP,Kevin Petersen,33,2,31
+Harrison,#1 Little Sioux,County Board of Supervisors,,REP,Walter A Utman,22,2,20
+Harrison,"#2 Allen, Jackson, Pisgah",County Board of Supervisors,,REP,Walter A Utman,35,2,33
+Harrison,"#3 Harrison, Douglas, Dunlap",County Board of Supervisors,,REP,Walter A Utman,27,4,23
+Harrison,"#4 Morgan, Raglan, Mondamin",County Board of Supervisors,,REP,Walter A Utman,45,6,39
+Harrison,"#5 Magnolia, Calhoun",County Board of Supervisors,,REP,Walter A Utman,56,12,44
+Harrison,"#6 Boyer, Lincoln",County Board of Supervisors,,REP,Walter A Utman,31,5,26
+Harrison,#7 Woodbine,County Board of Supervisors,,REP,Walter A Utman,78,4,74
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",County Board of Supervisors,,REP,Walter A Utman,53,6,47
+Harrison,"#9 Jefferson, LaGrange",County Board of Supervisors,,REP,Walter A Utman,32,3,29
+Harrison,#10 Logan,County Board of Supervisors,,REP,Walter A Utman,49,6,43
+Harrison,#11 St John,County Board of Supervisors,,REP,Walter A Utman,55,5,50
+Harrison,#12 Missouri Valley,County Board of Supervisors,,REP,Walter A Utman,76,6,70
+Harrison,"#13 Cass, Union, Washington, Persia",County Board of Supervisors,,REP,Walter A Utman,33,3,30
+Harrison,#1 Little Sioux,County Board of Supervisors,,,Write-in,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah",County Board of Supervisors,,,Write-in,0,0,0
+Harrison,"#3 Harrison, Douglas, Dunlap",County Board of Supervisors,,,Write-in,0,0,0
+Harrison,"#4 Morgan, Raglan, Mondamin",County Board of Supervisors,,,Write-in,0,0,0
+Harrison,"#5 Magnolia, Calhoun",County Board of Supervisors,,,Write-in,0,0,0
+Harrison,"#6 Boyer, Lincoln",County Board of Supervisors,,,Write-in,0,0,0
+Harrison,#7 Woodbine,County Board of Supervisors,,,Write-in,0,0,0
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",County Board of Supervisors,,,Write-in,0,0,0
+Harrison,"#9 Jefferson, LaGrange",County Board of Supervisors,,,Write-in,0,0,0
+Harrison,#10 Logan,County Board of Supervisors,,,Write-in,0,0,0
+Harrison,#11 St John,County Board of Supervisors,,,Write-in,0,0,0
+Harrison,#12 Missouri Valley,County Board of Supervisors,,,Write-in,1,0,1
+Harrison,"#13 Cass, Union, Washington, Persia",County Board of Supervisors,,,Write-in,0,0,0
+Harrison,#1 Little Sioux,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,REP,Tony Smith,23,1,22
+Harrison,"#2 Allen, Jackson, Pisgah","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,REP,Tony Smith,44,3,41
+Harrison,"#3 Harrison, Douglas, Dunlap","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,REP,Tony Smith,46,4,42
+Harrison,"#4 Morgan, Raglan, Mondamin","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,REP,Tony Smith,46,5,41
+Harrison,"#5 Magnolia, Calhoun","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,REP,Tony Smith,61,9,52
+Harrison,"#6 Boyer, Lincoln","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,REP,Tony Smith,32,5,27
+Harrison,#7 Woodbine,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,REP,Tony Smith,96,5,91
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,REP,Tony Smith,56,4,52
+Harrison,"#9 Jefferson, LaGrange","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,REP,Tony Smith,38,4,34
+Harrison,#10 Logan,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,REP,Tony Smith,50,6,44
+Harrison,#11 St John,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,REP,Tony Smith,64,3,61
+Harrison,#12 Missouri Valley,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,REP,Tony Smith,83,5,78
+Harrison,"#13 Cass, Union, Washington, Persia","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,REP,Tony Smith,59,5,54
+Harrison,#1 Little Sioux,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,,Write-in,1,1,0
+Harrison,"#2 Allen, Jackson, Pisgah","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,,Write-in,2,0,2
+Harrison,"#3 Harrison, Douglas, Dunlap","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,,Write-in,0,0,0
+Harrison,"#4 Morgan, Raglan, Mondamin","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,,Write-in,2,0,2
+Harrison,"#5 Magnolia, Calhoun","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,,Write-in,1,0,1
+Harrison,"#6 Boyer, Lincoln","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,,Write-in,0,0,0
+Harrison,#7 Woodbine,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,,Write-in,0,0,0
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,,Write-in,4,0,4
+Harrison,"#9 Jefferson, LaGrange","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,,Write-in,1,0,1
+Harrison,#10 Logan,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,,Write-in,0,0,0
+Harrison,#11 St John,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,,Write-in,5,2,3
+Harrison,#12 Missouri Valley,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,,Write-in,1,0,1
+Harrison,"#13 Cass, Union, Washington, Persia","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - REP,,Write-in,0,0,0
+Harrison,#1 Little Sioux,County Treasurer,,REP,Shelia K Phillips,26,2,24
+Harrison,"#2 Allen, Jackson, Pisgah",County Treasurer,,REP,Shelia K Phillips,48,3,45
+Harrison,"#3 Harrison, Douglas, Dunlap",County Treasurer,,REP,Shelia K Phillips,46,4,42
+Harrison,"#4 Morgan, Raglan, Mondamin",County Treasurer,,REP,Shelia K Phillips,53,6,47
+Harrison,"#5 Magnolia, Calhoun",County Treasurer,,REP,Shelia K Phillips,70,11,59
+Harrison,"#6 Boyer, Lincoln",County Treasurer,,REP,Shelia K Phillips,32,5,27
+Harrison,#7 Woodbine,County Treasurer,,REP,Shelia K Phillips,95,5,90
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",County Treasurer,,REP,Shelia K Phillips,65,5,60
+Harrison,"#9 Jefferson, LaGrange",County Treasurer,,REP,Shelia K Phillips,39,4,35
+Harrison,#10 Logan,County Treasurer,,REP,Shelia K Phillips,56,7,49
+Harrison,#11 St John,County Treasurer,,REP,Shelia K Phillips,78,5,73
+Harrison,#12 Missouri Valley,County Treasurer,,REP,Shelia K Phillips,102,7,95
+Harrison,"#13 Cass, Union, Washington, Persia",County Treasurer,,REP,Shelia K Phillips,64,5,59
+Harrison,#1 Little Sioux,County Treasurer,,,Write-in,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah",County Treasurer,,,Write-in,0,0,0
+Harrison,"#3 Harrison, Douglas, Dunlap",County Treasurer,,,Write-in,0,0,0
+Harrison,"#4 Morgan, Raglan, Mondamin",County Treasurer,,,Write-in,0,0,0
+Harrison,"#5 Magnolia, Calhoun",County Treasurer,,,Write-in,0,0,0
+Harrison,"#6 Boyer, Lincoln",County Treasurer,,,Write-in,0,0,0
+Harrison,#7 Woodbine,County Treasurer,,,Write-in,0,0,0
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",County Treasurer,,,Write-in,0,0,0
+Harrison,"#9 Jefferson, LaGrange",County Treasurer,,,Write-in,0,0,0
+Harrison,#10 Logan,County Treasurer,,,Write-in,0,0,0
+Harrison,#11 St John,County Treasurer,,,Write-in,0,0,0
+Harrison,#12 Missouri Valley,County Treasurer,,,Write-in,0,0,0
+Harrison,"#13 Cass, Union, Washington, Persia",County Treasurer,,,Write-in,0,0,0
+Harrison,#1 Little Sioux,County Recorder,,REP,Lorie A Thompson,28,2,26
+Harrison,"#2 Allen, Jackson, Pisgah",County Recorder,,REP,Lorie A Thompson,48,3,45
+Harrison,"#3 Harrison, Douglas, Dunlap",County Recorder,,REP,Lorie A Thompson,48,4,44
+Harrison,"#4 Morgan, Raglan, Mondamin",County Recorder,,REP,Lorie A Thompson,56,6,50
+Harrison,"#5 Magnolia, Calhoun",County Recorder,,REP,Lorie A Thompson,72,12,60
+Harrison,"#6 Boyer, Lincoln",County Recorder,,REP,Lorie A Thompson,34,5,29
+Harrison,#7 Woodbine,County Recorder,,REP,Lorie A Thompson,100,5,95
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",County Recorder,,REP,Lorie A Thompson,65,5,60
+Harrison,"#9 Jefferson, LaGrange",County Recorder,,REP,Lorie A Thompson,41,4,37
+Harrison,#10 Logan,County Recorder,,REP,Lorie A Thompson,58,7,51
+Harrison,#11 St John,County Recorder,,REP,Lorie A Thompson,75,5,70
+Harrison,#12 Missouri Valley,County Recorder,,REP,Lorie A Thompson,100,7,93
+Harrison,"#13 Cass, Union, Washington, Persia",County Recorder,,REP,Lorie A Thompson,66,5,61
+Harrison,#1 Little Sioux,County Recorder,,,Write-in,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah",County Recorder,,,Write-in,0,0,0
+Harrison,"#3 Harrison, Douglas, Dunlap",County Recorder,,,Write-in,0,0,0
+Harrison,"#4 Morgan, Raglan, Mondamin",County Recorder,,,Write-in,0,0,0
+Harrison,"#5 Magnolia, Calhoun",County Recorder,,,Write-in,0,0,0
+Harrison,"#6 Boyer, Lincoln",County Recorder,,,Write-in,0,0,0
+Harrison,#7 Woodbine,County Recorder,,,Write-in,1,0,1
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",County Recorder,,,Write-in,0,0,0
+Harrison,"#9 Jefferson, LaGrange",County Recorder,,,Write-in,0,0,0
+Harrison,#10 Logan,County Recorder,,,Write-in,0,0,0
+Harrison,#11 St John,County Recorder,,,Write-in,0,0,0
+Harrison,#12 Missouri Valley,County Recorder,,,Write-in,0,0,0
+Harrison,"#13 Cass, Union, Washington, Persia",County Recorder,,,Write-in,0,0,0
+Harrison,#1 Little Sioux,County Attorney,,,Write-in,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah",County Attorney,,,Write-in,0,0,0
+Harrison,"#3 Harrison, Douglas, Dunlap",County Attorney,,,Write-in,0,0,0
+Harrison,"#4 Morgan, Raglan, Mondamin",County Attorney,,,Write-in,0,0,0
+Harrison,"#5 Magnolia, Calhoun",County Attorney,,,Write-in,0,0,0
+Harrison,"#6 Boyer, Lincoln",County Attorney,,,Write-in,0,0,0
+Harrison,#7 Woodbine,County Attorney,,,Write-in,1,0,1
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",County Attorney,,,Write-in,0,0,0
+Harrison,"#9 Jefferson, LaGrange",County Attorney,,,Write-in,0,0,0
+Harrison,#10 Logan,County Attorney,,,Write-in,0,0,0
+Harrison,#11 St John,County Attorney,,,Write-in,0,0,0
+Harrison,#12 Missouri Valley,County Attorney,,,Write-in,0,0,0
+Harrison,"#13 Cass, Union, Washington, Persia",County Attorney,,,Write-in,0,0,0
+Harrison,#1 Little Sioux,United States Representative District 4,,DEM,Leann Jacobsen,3,0,3
+Harrison,"#2 Allen, Jackson, Pisgah",United States Representative District 4,,DEM,Leann Jacobsen,8,0,8
+Harrison,"#3 Harrison, Douglas, Dunlap",United States Representative District 4,,DEM,Leann Jacobsen,28,1,27
+Harrison,"#4 Morgan, Raglan, Mondamin",United States Representative District 4,,DEM,Leann Jacobsen,9,0,9
+Harrison,"#5 Magnolia, Calhoun",United States Representative District 4,,DEM,Leann Jacobsen,12,5,7
+Harrison,"#6 Boyer, Lincoln",United States Representative District 4,,DEM,Leann Jacobsen,2,0,2
+Harrison,#7 Woodbine,United States Representative District 4,,DEM,Leann Jacobsen,21,2,19
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",United States Representative District 4,,DEM,Leann Jacobsen,11,0,11
+Harrison,"#9 Jefferson, LaGrange",United States Representative District 4,,DEM,Leann Jacobsen,6,0,6
+Harrison,#10 Logan,United States Representative District 4,,DEM,Leann Jacobsen,18,1,17
+Harrison,#11 St John,United States Representative District 4,,DEM,Leann Jacobsen,18,0,18
+Harrison,#12 Missouri Valley,United States Representative District 4,,DEM,Leann Jacobsen,30,3,27
+Harrison,"#13 Cass, Union, Washington, Persia",United States Representative District 4,,DEM,Leann Jacobsen,19,2,17
+Harrison,#1 Little Sioux,United States Representative District 4,,DEM,John Paschen,1,0,1
+Harrison,"#2 Allen, Jackson, Pisgah",United States Representative District 4,,DEM,John Paschen,4,0,4
+Harrison,"#3 Harrison, Douglas, Dunlap",United States Representative District 4,,DEM,John Paschen,9,0,9
+Harrison,"#4 Morgan, Raglan, Mondamin",United States Representative District 4,,DEM,John Paschen,4,0,4
+Harrison,"#5 Magnolia, Calhoun",United States Representative District 4,,DEM,John Paschen,3,0,3
+Harrison,"#6 Boyer, Lincoln",United States Representative District 4,,DEM,John Paschen,0,0,0
+Harrison,#7 Woodbine,United States Representative District 4,,DEM,John Paschen,2,0,2
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",United States Representative District 4,,DEM,John Paschen,2,0,2
+Harrison,"#9 Jefferson, LaGrange",United States Representative District 4,,DEM,John Paschen,2,0,2
+Harrison,#10 Logan,United States Representative District 4,,DEM,John Paschen,2,0,2
+Harrison,#11 St John,United States Representative District 4,,DEM,John Paschen,6,1,5
+Harrison,#12 Missouri Valley,United States Representative District 4,,DEM,John Paschen,4,0,4
+Harrison,"#13 Cass, Union, Washington, Persia",United States Representative District 4,,DEM,John Paschen,1,1,0
+Harrison,#1 Little Sioux,United States Representative District 4,,DEM,J. D. Scholten,1,0,1
+Harrison,"#2 Allen, Jackson, Pisgah",United States Representative District 4,,DEM,J. D. Scholten,6,0,6
+Harrison,"#3 Harrison, Douglas, Dunlap",United States Representative District 4,,DEM,J. D. Scholten,21,1,20
+Harrison,"#4 Morgan, Raglan, Mondamin",United States Representative District 4,,DEM,J. D. Scholten,5,0,5
+Harrison,"#5 Magnolia, Calhoun",United States Representative District 4,,DEM,J. D. Scholten,6,2,4
+Harrison,"#6 Boyer, Lincoln",United States Representative District 4,,DEM,J. D. Scholten,5,2,3
+Harrison,#7 Woodbine,United States Representative District 4,,DEM,J. D. Scholten,22,0,22
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",United States Representative District 4,,DEM,J. D. Scholten,7,0,7
+Harrison,"#9 Jefferson, LaGrange",United States Representative District 4,,DEM,J. D. Scholten,11,2,9
+Harrison,#10 Logan,United States Representative District 4,,DEM,J. D. Scholten,18,4,14
+Harrison,#11 St John,United States Representative District 4,,DEM,J. D. Scholten,6,1,5
+Harrison,#12 Missouri Valley,United States Representative District 4,,DEM,J. D. Scholten,21,1,20
+Harrison,"#13 Cass, Union, Washington, Persia",United States Representative District 4,,DEM,J. D. Scholten,5,1,4
+Harrison,#1 Little Sioux,Governor,,DEM,Nate Boulton,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah",Governor,,DEM,Nate Boulton,1,0,1
+Harrison,"#3 Harrison, Douglas, Dunlap",Governor,,DEM,Nate Boulton,2,0,2
+Harrison,"#4 Morgan, Raglan, Mondamin",Governor,,DEM,Nate Boulton,0,0,0
+Harrison,"#5 Magnolia, Calhoun",Governor,,DEM,Nate Boulton,1,0,1
+Harrison,"#6 Boyer, Lincoln",Governor,,DEM,Nate Boulton,0,0,0
+Harrison,#7 Woodbine,Governor,,DEM,Nate Boulton,8,0,8
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Governor,,DEM,Nate Boulton,0,0,0
+Harrison,"#9 Jefferson, LaGrange",Governor,,DEM,Nate Boulton,0,0,0
+Harrison,#10 Logan,Governor,,DEM,Nate Boulton,1,0,1
+Harrison,#11 St John,Governor,,DEM,Nate Boulton,3,0,3
+Harrison,#12 Missouri Valley,Governor,,DEM,Nate Boulton,5,1,4
+Harrison,"#13 Cass, Union, Washington, Persia",Governor,,DEM,Nate Boulton,1,0,1
+Harrison,#1 Little Sioux,Governor,,DEM,Cathy Glasson,1,0,1
+Harrison,"#2 Allen, Jackson, Pisgah",Governor,,DEM,Cathy Glasson,7,0,7
+Harrison,"#3 Harrison, Douglas, Dunlap",Governor,,DEM,Cathy Glasson,13,0,13
+Harrison,"#4 Morgan, Raglan, Mondamin",Governor,,DEM,Cathy Glasson,6,0,6
+Harrison,"#5 Magnolia, Calhoun",Governor,,DEM,Cathy Glasson,9,4,5
+Harrison,"#6 Boyer, Lincoln",Governor,,DEM,Cathy Glasson,2,1,1
+Harrison,#7 Woodbine,Governor,,DEM,Cathy Glasson,8,0,8
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Governor,,DEM,Cathy Glasson,8,0,8
+Harrison,"#9 Jefferson, LaGrange",Governor,,DEM,Cathy Glasson,6,2,4
+Harrison,#10 Logan,Governor,,DEM,Cathy Glasson,9,2,7
+Harrison,#11 St John,Governor,,DEM,Cathy Glasson,10,0,10
+Harrison,#12 Missouri Valley,Governor,,DEM,Cathy Glasson,14,1,13
+Harrison,"#13 Cass, Union, Washington, Persia",Governor,,DEM,Cathy Glasson,8,0,8
+Harrison,#1 Little Sioux,Governor,,DEM,Fred Hubbell,1,0,1
+Harrison,"#2 Allen, Jackson, Pisgah",Governor,,DEM,Fred Hubbell,3,0,3
+Harrison,"#3 Harrison, Douglas, Dunlap",Governor,,DEM,Fred Hubbell,29,2,27
+Harrison,"#4 Morgan, Raglan, Mondamin",Governor,,DEM,Fred Hubbell,4,0,4
+Harrison,"#5 Magnolia, Calhoun",Governor,,DEM,Fred Hubbell,10,4,6
+Harrison,"#6 Boyer, Lincoln",Governor,,DEM,Fred Hubbell,4,0,4
+Harrison,#7 Woodbine,Governor,,DEM,Fred Hubbell,19,2,17
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Governor,,DEM,Fred Hubbell,7,0,7
+Harrison,"#9 Jefferson, LaGrange",Governor,,DEM,Fred Hubbell,4,0,4
+Harrison,#10 Logan,Governor,,DEM,Fred Hubbell,14,2,12
+Harrison,#11 St John,Governor,,DEM,Fred Hubbell,11,0,11
+Harrison,#12 Missouri Valley,Governor,,DEM,Fred Hubbell,16,1,15
+Harrison,"#13 Cass, Union, Washington, Persia",Governor,,DEM,Fred Hubbell,13,3,10
+Harrison,#1 Little Sioux,Governor,,DEM,Andrea Andy McGuire,2,0,2
+Harrison,"#2 Allen, Jackson, Pisgah",Governor,,DEM,Andrea Andy McGuire,5,0,5
+Harrison,"#3 Harrison, Douglas, Dunlap",Governor,,DEM,Andrea Andy McGuire,7,0,7
+Harrison,"#4 Morgan, Raglan, Mondamin",Governor,,DEM,Andrea Andy McGuire,4,0,4
+Harrison,"#5 Magnolia, Calhoun",Governor,,DEM,Andrea Andy McGuire,0,0,0
+Harrison,"#6 Boyer, Lincoln",Governor,,DEM,Andrea Andy McGuire,0,0,0
+Harrison,#7 Woodbine,Governor,,DEM,Andrea Andy McGuire,4,0,4
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Governor,,DEM,Andrea Andy McGuire,3,0,3
+Harrison,"#9 Jefferson, LaGrange",Governor,,DEM,Andrea Andy McGuire,3,0,3
+Harrison,#10 Logan,Governor,,DEM,Andrea Andy McGuire,8,1,7
+Harrison,#11 St John,Governor,,DEM,Andrea Andy McGuire,3,0,3
+Harrison,#12 Missouri Valley,Governor,,DEM,Andrea Andy McGuire,6,2,4
+Harrison,"#13 Cass, Union, Washington, Persia",Governor,,DEM,Andrea Andy McGuire,2,1,1
+Harrison,#1 Little Sioux,Governor,,DEM,John Norris,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah",Governor,,DEM,John Norris,3,0,3
+Harrison,"#3 Harrison, Douglas, Dunlap",Governor,,DEM,John Norris,7,0,7
+Harrison,"#4 Morgan, Raglan, Mondamin",Governor,,DEM,John Norris,1,0,1
+Harrison,"#5 Magnolia, Calhoun",Governor,,DEM,John Norris,2,0,2
+Harrison,"#6 Boyer, Lincoln",Governor,,DEM,John Norris,1,1,0
+Harrison,#7 Woodbine,Governor,,DEM,John Norris,3,0,3
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Governor,,DEM,John Norris,0,0,0
+Harrison,"#9 Jefferson, LaGrange",Governor,,DEM,John Norris,5,0,5
+Harrison,#10 Logan,Governor,,DEM,John Norris,5,0,5
+Harrison,#11 St John,Governor,,DEM,John Norris,3,1,2
+Harrison,#12 Missouri Valley,Governor,,DEM,John Norris,8,0,8
+Harrison,"#13 Cass, Union, Washington, Persia",Governor,,DEM,John Norris,1,0,1
+Harrison,#1 Little Sioux,Governor,,DEM,Ross Wilburn,1,0,1
+Harrison,"#2 Allen, Jackson, Pisgah",Governor,,DEM,Ross Wilburn,1,0,1
+Harrison,"#3 Harrison, Douglas, Dunlap",Governor,,DEM,Ross Wilburn,1,0,1
+Harrison,"#4 Morgan, Raglan, Mondamin",Governor,,DEM,Ross Wilburn,1,0,1
+Harrison,"#5 Magnolia, Calhoun",Governor,,DEM,Ross Wilburn,0,0,0
+Harrison,"#6 Boyer, Lincoln",Governor,,DEM,Ross Wilburn,0,0,0
+Harrison,#7 Woodbine,Governor,,DEM,Ross Wilburn,1,0,1
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Governor,,DEM,Ross Wilburn,3,0,3
+Harrison,"#9 Jefferson, LaGrange",Governor,,DEM,Ross Wilburn,0,0,0
+Harrison,#10 Logan,Governor,,DEM,Ross Wilburn,1,0,1
+Harrison,#11 St John,Governor,,DEM,Ross Wilburn,1,1,0
+Harrison,#12 Missouri Valley,Governor,,DEM,Ross Wilburn,7,0,7
+Harrison,"#13 Cass, Union, Washington, Persia",Governor,,DEM,Ross Wilburn,1,0,1
+Harrison,#1 Little Sioux,Secretary of State,,DEM,Deidre DeJear,2,0,2
+Harrison,"#2 Allen, Jackson, Pisgah",Secretary of State,,DEM,Deidre DeJear,10,0,10
+Harrison,"#3 Harrison, Douglas, Dunlap",Secretary of State,,DEM,Deidre DeJear,28,0,28
+Harrison,"#4 Morgan, Raglan, Mondamin",Secretary of State,,DEM,Deidre DeJear,6,0,6
+Harrison,"#5 Magnolia, Calhoun",Secretary of State,,DEM,Deidre DeJear,10,5,5
+Harrison,"#6 Boyer, Lincoln",Secretary of State,,DEM,Deidre DeJear,5,2,3
+Harrison,#7 Woodbine,Secretary of State,,DEM,Deidre DeJear,23,1,22
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Secretary of State,,DEM,Deidre DeJear,11,0,11
+Harrison,"#9 Jefferson, LaGrange",Secretary of State,,DEM,Deidre DeJear,13,2,11
+Harrison,#10 Logan,Secretary of State,,DEM,Deidre DeJear,24,2,22
+Harrison,#11 St John,Secretary of State,,DEM,Deidre DeJear,22,2,20
+Harrison,#12 Missouri Valley,Secretary of State,,DEM,Deidre DeJear,31,4,27
+Harrison,"#13 Cass, Union, Washington, Persia",Secretary of State,,DEM,Deidre DeJear,12,2,10
+Harrison,#1 Little Sioux,Secretary of State,,DEM,Jim Mowrer,3,0,3
+Harrison,"#2 Allen, Jackson, Pisgah",Secretary of State,,DEM,Jim Mowrer,8,0,8
+Harrison,"#3 Harrison, Douglas, Dunlap",Secretary of State,,DEM,Jim Mowrer,28,2,26
+Harrison,"#4 Morgan, Raglan, Mondamin",Secretary of State,,DEM,Jim Mowrer,9,0,9
+Harrison,"#5 Magnolia, Calhoun",Secretary of State,,DEM,Jim Mowrer,11,3,8
+Harrison,"#6 Boyer, Lincoln",Secretary of State,,DEM,Jim Mowrer,2,0,2
+Harrison,#7 Woodbine,Secretary of State,,DEM,Jim Mowrer,20,1,19
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Secretary of State,,DEM,Jim Mowrer,7,0,7
+Harrison,"#9 Jefferson, LaGrange",Secretary of State,,DEM,Jim Mowrer,5,0,5
+Harrison,#10 Logan,Secretary of State,,DEM,Jim Mowrer,13,3,10
+Harrison,#11 St John,Secretary of State,,DEM,Jim Mowrer,8,0,8
+Harrison,#12 Missouri Valley,Secretary of State,,DEM,Jim Mowrer,24,1,23
+Harrison,"#13 Cass, Union, Washington, Persia",Secretary of State,,DEM,Jim Mowrer,13,2,11
+Harrison,#1 Little Sioux,Auditor of State,,DEM,Rob Sand,5,0,5
+Harrison,"#2 Allen, Jackson, Pisgah",Auditor of State,,DEM,Rob Sand,18,0,18
+Harrison,"#3 Harrison, Douglas, Dunlap",Auditor of State,,DEM,Rob Sand,53,2,51
+Harrison,"#4 Morgan, Raglan, Mondamin",Auditor of State,,DEM,Rob Sand,16,0,16
+Harrison,"#5 Magnolia, Calhoun",Auditor of State,,DEM,Rob Sand,20,8,12
+Harrison,"#6 Boyer, Lincoln",Auditor of State,,DEM,Rob Sand,8,2,6
+Harrison,#7 Woodbine,Auditor of State,,DEM,Rob Sand,39,2,37
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Auditor of State,,DEM,Rob Sand,16,0,16
+Harrison,"#9 Jefferson, LaGrange",Auditor of State,,DEM,Rob Sand,17,2,15
+Harrison,#10 Logan,Auditor of State,,DEM,Rob Sand,37,5,32
+Harrison,#11 St John,Auditor of State,,DEM,Rob Sand,27,2,25
+Harrison,#12 Missouri Valley,Auditor of State,,DEM,Rob Sand,52,4,48
+Harrison,"#13 Cass, Union, Washington, Persia",Auditor of State,,DEM,Rob Sand,24,4,20
+Harrison,#1 Little Sioux,Treasurer of State,,DEM,Michael L. Fitzgerald,5,0,5
+Harrison,"#2 Allen, Jackson, Pisgah",Treasurer of State,,DEM,Michael L. Fitzgerald,18,0,18
+Harrison,"#3 Harrison, Douglas, Dunlap",Treasurer of State,,DEM,Michael L. Fitzgerald,57,2,55
+Harrison,"#4 Morgan, Raglan, Mondamin",Treasurer of State,,DEM,Michael L. Fitzgerald,16,0,16
+Harrison,"#5 Magnolia, Calhoun",Treasurer of State,,DEM,Michael L. Fitzgerald,20,8,12
+Harrison,"#6 Boyer, Lincoln",Treasurer of State,,DEM,Michael L. Fitzgerald,8,2,6
+Harrison,#7 Woodbine,Treasurer of State,,DEM,Michael L. Fitzgerald,42,2,40
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Treasurer of State,,DEM,Michael L. Fitzgerald,16,0,16
+Harrison,"#9 Jefferson, LaGrange",Treasurer of State,,DEM,Michael L. Fitzgerald,16,2,14
+Harrison,#10 Logan,Treasurer of State,,DEM,Michael L. Fitzgerald,36,5,31
+Harrison,#11 St John,Treasurer of State,,DEM,Michael L. Fitzgerald,29,2,27
+Harrison,#12 Missouri Valley,Treasurer of State,,DEM,Michael L. Fitzgerald,52,4,48
+Harrison,"#13 Cass, Union, Washington, Persia",Treasurer of State,,DEM,Michael L. Fitzgerald,25,4,21
+Harrison,#1 Little Sioux,Secretary of Agriculture,,DEM,Tim Gannon,3,0,3
+Harrison,"#2 Allen, Jackson, Pisgah",Secretary of Agriculture,,DEM,Tim Gannon,18,0,18
+Harrison,"#3 Harrison, Douglas, Dunlap",Secretary of Agriculture,,DEM,Tim Gannon,55,2,53
+Harrison,"#4 Morgan, Raglan, Mondamin",Secretary of Agriculture,,DEM,Tim Gannon,16,0,16
+Harrison,"#5 Magnolia, Calhoun",Secretary of Agriculture,,DEM,Tim Gannon,20,8,12
+Harrison,"#6 Boyer, Lincoln",Secretary of Agriculture,,DEM,Tim Gannon,7,2,5
+Harrison,#7 Woodbine,Secretary of Agriculture,,DEM,Tim Gannon,41,2,39
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Secretary of Agriculture,,DEM,Tim Gannon,17,0,17
+Harrison,"#9 Jefferson, LaGrange",Secretary of Agriculture,,DEM,Tim Gannon,16,2,14
+Harrison,#10 Logan,Secretary of Agriculture,,DEM,Tim Gannon,36,5,31
+Harrison,#11 St John,Secretary of Agriculture,,DEM,Tim Gannon,27,2,25
+Harrison,#12 Missouri Valley,Secretary of Agriculture,,DEM,Tim Gannon,48,4,44
+Harrison,"#13 Cass, Union, Washington, Persia",Secretary of Agriculture,,DEM,Tim Gannon,24,4,20
+Harrison,#1 Little Sioux,Attorney General,,DEM,Tom Miller,5,0,5
+Harrison,"#2 Allen, Jackson, Pisgah",Attorney General,,DEM,Tom Miller,18,0,18
+Harrison,"#3 Harrison, Douglas, Dunlap",Attorney General,,DEM,Tom Miller,58,2,56
+Harrison,"#4 Morgan, Raglan, Mondamin",Attorney General,,DEM,Tom Miller,16,0,16
+Harrison,"#5 Magnolia, Calhoun",Attorney General,,DEM,Tom Miller,21,8,13
+Harrison,"#6 Boyer, Lincoln",Attorney General,,DEM,Tom Miller,7,1,6
+Harrison,#7 Woodbine,Attorney General,,DEM,Tom Miller,42,2,40
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Attorney General,,DEM,Tom Miller,16,0,16
+Harrison,"#9 Jefferson, LaGrange",Attorney General,,DEM,Tom Miller,17,2,15
+Harrison,#10 Logan,Attorney General,,DEM,Tom Miller,37,5,32
+Harrison,#11 St John,Attorney General,,DEM,Tom Miller,28,2,26
+Harrison,#12 Missouri Valley,Attorney General,,DEM,Tom Miller,50,4,46
+Harrison,"#13 Cass, Union, Washington, Persia",Attorney General,,DEM,Tom Miller,25,4,21
+Harrison,#1 Little Sioux,State Representative District  17,,DEM,Jan Creasman,3,0,3
+Harrison,"#2 Allen, Jackson, Pisgah",State Representative District  17,,DEM,Jan Creasman,19,0,19
+Harrison,"#4 Morgan, Raglan, Mondamin",State Representative District  17,,DEM,Jan Creasman,15,0,15
+Harrison,"#5 Magnolia, Calhoun",State Representative District  17,,DEM,Jan Creasman,21,8,13
+Harrison,"#6 Boyer, Lincoln",State Representative District  17,,DEM,Jan Creasman,8,2,6
+Harrison,#7 Woodbine,State Representative District  17,,DEM,Jan Creasman,39,2,37
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",State Representative District  17,,DEM,Jan Creasman,16,0,16
+Harrison,#11 St John,State Representative District  17,,DEM,Jan Creasman,30,1,29
+Harrison,#12 Missouri Valley,State Representative District  17,,DEM,Jan Creasman,51,5,46
+Harrison,#1 Little Sioux,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,DEM,Georgia A Johnson,4,0,4
+Harrison,"#2 Allen, Jackson, Pisgah","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,DEM,Georgia A Johnson,17,0,17
+Harrison,"#3 Harrison, Douglas, Dunlap","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,DEM,Georgia A Johnson,51,2,49
+Harrison,"#4 Morgan, Raglan, Mondamin","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,DEM,Georgia A Johnson,16,0,16
+Harrison,"#5 Magnolia, Calhoun","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,DEM,Georgia A Johnson,20,7,13
+Harrison,"#6 Boyer, Lincoln","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,DEM,Georgia A Johnson,7,2,5
+Harrison,#7 Woodbine,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,DEM,Georgia A Johnson,36,2,34
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,DEM,Georgia A Johnson,20,0,20
+Harrison,"#9 Jefferson, LaGrange","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,DEM,Georgia A Johnson,15,2,13
+Harrison,#10 Logan,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,DEM,Georgia A Johnson,36,5,31
+Harrison,#11 St John,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,DEM,Georgia A Johnson,29,2,27
+Harrison,#12 Missouri Valley,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,DEM,Georgia A Johnson,54,3,51
+Harrison,"#13 Cass, Union, Washington, Persia","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,DEM,Georgia A Johnson,24,4,20
+Harrison,#1 Little Sioux,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,,Write-in,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,,Write-in,0,0,0
+Harrison,"#3 Harrison, Douglas, Dunlap","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,,Write-in,0,0,0
+Harrison,"#4 Morgan, Raglan, Mondamin","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,,Write-in,0,0,0
+Harrison,"#5 Magnolia, Calhoun","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,,Write-in,0,0,0
+Harrison,"#6 Boyer, Lincoln","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,,Write-in,0,0,0
+Harrison,#7 Woodbine,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,,Write-in,0,0,0
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,,Write-in,0,0,0
+Harrison,"#9 Jefferson, LaGrange","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,,Write-in,0,0,0
+Harrison,#10 Logan,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,,Write-in,0,0,0
+Harrison,#11 St John,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,,Write-in,0,0,0
+Harrison,#12 Missouri Valley,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,,Write-in,0,0,0
+Harrison,"#13 Cass, Union, Washington, Persia","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - DEM,,Write-in,0,0,0
+Harrison,#1 Little Sioux,County Attorney,,DEM,Jennifer V Mumm,4,0,4
+Harrison,"#2 Allen, Jackson, Pisgah",County Attorney,,DEM,Jennifer V Mumm,20,0,20
+Harrison,"#3 Harrison, Douglas, Dunlap",County Attorney,,DEM,Jennifer V Mumm,51,2,49
+Harrison,"#4 Morgan, Raglan, Mondamin",County Attorney,,DEM,Jennifer V Mumm,16,0,16
+Harrison,"#5 Magnolia, Calhoun",County Attorney,,DEM,Jennifer V Mumm,20,6,14
+Harrison,"#6 Boyer, Lincoln",County Attorney,,DEM,Jennifer V Mumm,7,2,5
+Harrison,#7 Woodbine,County Attorney,,DEM,Jennifer V Mumm,40,2,38
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",County Attorney,,DEM,Jennifer V Mumm,20,0,20
+Harrison,"#9 Jefferson, LaGrange",County Attorney,,DEM,Jennifer V Mumm,16,2,14
+Harrison,#10 Logan,County Attorney,,DEM,Jennifer V Mumm,34,5,29
+Harrison,#11 St John,County Attorney,,DEM,Jennifer V Mumm,27,2,25
+Harrison,#12 Missouri Valley,County Attorney,,DEM,Jennifer V Mumm,54,5,49
+Harrison,"#13 Cass, Union, Washington, Persia",County Attorney,,DEM,Jennifer V Mumm,25,4,21
+Harrison,#1 Little Sioux,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah",United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Harrison,"#3 Harrison, Douglas, Dunlap",United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Harrison,"#4 Morgan, Raglan, Mondamin",United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Harrison,"#5 Magnolia, Calhoun",United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Harrison,"#6 Boyer, Lincoln",United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Harrison,#7 Woodbine,United States Representative District 4,,LIB,Charles Aldrich,2,0,2
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",United States Representative District 4,,LIB,Charles Aldrich,2,0,2
+Harrison,"#9 Jefferson, LaGrange",United States Representative District 4,,LIB,Charles Aldrich,1,0,1
+Harrison,#10 Logan,United States Representative District 4,,LIB,Charles Aldrich,2,2,0
+Harrison,#11 St John,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Harrison,#12 Missouri Valley,United States Representative District 4,,LIB,Charles Aldrich,3,1,2
+Harrison,"#13 Cass, Union, Washington, Persia",United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Harrison,#1 Little Sioux,Governor,,LIB,Marco Battaglia,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah",Governor,,LIB,Marco Battaglia,0,0,0
+Harrison,"#3 Harrison, Douglas, Dunlap",Governor,,LIB,Marco Battaglia,0,0,0
+Harrison,"#4 Morgan, Raglan, Mondamin",Governor,,LIB,Marco Battaglia,0,0,0
+Harrison,"#5 Magnolia, Calhoun",Governor,,LIB,Marco Battaglia,0,0,0
+Harrison,"#6 Boyer, Lincoln",Governor,,LIB,Marco Battaglia,0,0,0
+Harrison,#7 Woodbine,Governor,,LIB,Marco Battaglia,1,0,1
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Governor,,LIB,Marco Battaglia,1,0,1
+Harrison,"#9 Jefferson, LaGrange",Governor,,LIB,Marco Battaglia,0,0,0
+Harrison,#10 Logan,Governor,,LIB,Marco Battaglia,0,0,0
+Harrison,#11 St John,Governor,,LIB,Marco Battaglia,0,0,0
+Harrison,#12 Missouri Valley,Governor,,LIB,Marco Battaglia,1,1,0
+Harrison,"#13 Cass, Union, Washington, Persia",Governor,,LIB,Marco Battaglia,0,0,0
+Harrison,#1 Little Sioux,Governor,,LIB,Jake Porter,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah",Governor,,LIB,Jake Porter,0,0,0
+Harrison,"#3 Harrison, Douglas, Dunlap",Governor,,LIB,Jake Porter,0,0,0
+Harrison,"#4 Morgan, Raglan, Mondamin",Governor,,LIB,Jake Porter,0,0,0
+Harrison,"#5 Magnolia, Calhoun",Governor,,LIB,Jake Porter,0,0,0
+Harrison,"#6 Boyer, Lincoln",Governor,,LIB,Jake Porter,0,0,0
+Harrison,#7 Woodbine,Governor,,LIB,Jake Porter,1,0,1
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale",Governor,,LIB,Jake Porter,3,0,3
+Harrison,"#9 Jefferson, LaGrange",Governor,,LIB,Jake Porter,1,0,1
+Harrison,#10 Logan,Governor,,LIB,Jake Porter,3,3,0
+Harrison,#11 St John,Governor,,LIB,Jake Porter,0,0,0
+Harrison,#12 Missouri Valley,Governor,,LIB,Jake Porter,2,0,2
+Harrison,"#13 Cass, Union, Washington, Persia",Governor,,LIB,Jake Porter,0,0,0
+Harrison,#1 Little Sioux,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - LIB,,Write-in,0,0,0
+Harrison,"#2 Allen, Jackson, Pisgah","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - LIB,,Write-in,0,0,0
+Harrison,"#3 Harrison, Douglas, Dunlap","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - LIB,,Write-in,0,0,0
+Harrison,"#4 Morgan, Raglan, Mondamin","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - LIB,,Write-in,0,0,0
+Harrison,"#5 Magnolia, Calhoun","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - LIB,,Write-in,0,0,0
+Harrison,"#6 Boyer, Lincoln","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - LIB,,Write-in,0,0,0
+Harrison,#7 Woodbine,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - LIB,,Write-in,0,0,0
+Harrison,"#8 Cincinnati, Clay, Taylor, Modale","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - LIB,,Write-in,0,0,0
+Harrison,"#9 Jefferson, LaGrange","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - LIB,,Write-in,0,0,0
+Harrison,#10 Logan,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - LIB,,Write-in,0,0,0
+Harrison,#11 St John,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - LIB,,Write-in,0,0,0
+Harrison,#12 Missouri Valley,"County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - LIB,,Write-in,0,0,0
+Harrison,"#13 Cass, Union, Washington, Persia","County Board of Supervisors, To Fill a Vacancy", To Fill a Vacancy - LIB,,Write-in,0,0,0

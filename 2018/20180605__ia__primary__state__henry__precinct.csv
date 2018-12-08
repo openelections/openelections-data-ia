@@ -1,0 +1,433 @@
+county,precinct,office,district,party,candidate,votes,absentee,polling
+Henry,Northwest Precinct,United States Representative District 2,,REP,Christopher Peters,104,14,90
+Henry,Northeast Precinct,United States Representative District 2,,REP,Christopher Peters,89,12,77
+Henry,Southeast Precinct,United States Representative District 2,,REP,Christopher Peters,118,14,104
+Henry,Southwest Precinct,United States Representative District 2,,REP,Christopher Peters,89,11,78
+Henry,Mt Pleasant Ward 1,United States Representative District 2,,REP,Christopher Peters,95,26,69
+Henry,Mt Pleasant Ward 2,United States Representative District 2,,REP,Christopher Peters,72,10,62
+Henry,Mt Pleasant Ward 3,United States Representative District 2,,REP,Christopher Peters,86,25,61
+Henry,Mt Pleasant Ward 4,United States Representative District 2,,REP,Christopher Peters,99,27,72
+Henry,Central Precinct,United States Representative District 2,,REP,Christopher Peters,147,38,109
+Henry,Northwest Precinct,United States Representative District 2,,REP,Ginny Caligiuri,35,0,35
+Henry,Northeast Precinct,United States Representative District 2,,REP,Ginny Caligiuri,4,0,4
+Henry,Southeast Precinct,United States Representative District 2,,REP,Ginny Caligiuri,7,0,7
+Henry,Southwest Precinct,United States Representative District 2,,REP,Ginny Caligiuri,3,0,3
+Henry,Mt Pleasant Ward 1,United States Representative District 2,,REP,Ginny Caligiuri,15,0,15
+Henry,Mt Pleasant Ward 2,United States Representative District 2,,REP,Ginny Caligiuri,8,0,8
+Henry,Mt Pleasant Ward 3,United States Representative District 2,,REP,Ginny Caligiuri,9,0,9
+Henry,Mt Pleasant Ward 4,United States Representative District 2,,REP,Ginny Caligiuri,11,0,11
+Henry,Central Precinct,United States Representative District 2,,REP,Ginny Caligiuri,16,0,16
+Henry,Northwest Precinct,United States Representative District 2,,,Write-in,0,0,0
+Henry,Northeast Precinct,United States Representative District 2,,,Write-in,0,0,0
+Henry,Southeast Precinct,United States Representative District 2,,,Write-in,0,0,0
+Henry,Southwest Precinct,United States Representative District 2,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 1,United States Representative District 2,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 2,United States Representative District 2,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 3,United States Representative District 2,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 4,United States Representative District 2,,,Write-in,0,0,0
+Henry,Central Precinct,United States Representative District 2,,,Write-in,0,0,0
+Henry,Northwest Precinct,Governor,,REP,Kim Reynolds,159,20,139
+Henry,Northeast Precinct,Governor,,REP,Kim Reynolds,100,15,85
+Henry,Southeast Precinct,Governor,,REP,Kim Reynolds,131,18,113
+Henry,Southwest Precinct,Governor,,REP,Kim Reynolds,96,14,82
+Henry,Mt Pleasant Ward 1,Governor,,REP,Kim Reynolds,112,28,84
+Henry,Mt Pleasant Ward 2,Governor,,REP,Kim Reynolds,86,10,76
+Henry,Mt Pleasant Ward 3,Governor,,REP,Kim Reynolds,106,29,77
+Henry,Mt Pleasant Ward 4,Governor,,REP,Kim Reynolds,124,35,89
+Henry,Central Precinct,Governor,,REP,Kim Reynolds,184,49,135
+Henry,Northwest Precinct,Governor,,,Write-in,0,0,0
+Henry,Northeast Precinct,Governor,,,Write-in,0,0,0
+Henry,Southeast Precinct,Governor,,,Write-in,0,0,0
+Henry,Southwest Precinct,Governor,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 1,Governor,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 2,Governor,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 3,Governor,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 4,Governor,,,Write-in,0,0,0
+Henry,Central Precinct,Governor,,,Write-in,0,0,0
+Henry,Northwest Precinct,Secretary of State,,REP,Paul D. Pate,149,18,131
+Henry,Northeast Precinct,Secretary of State,,REP,Paul D. Pate,99,16,83
+Henry,Southeast Precinct,Secretary of State,,REP,Paul D. Pate,129,17,112
+Henry,Southwest Precinct,Secretary of State,,REP,Paul D. Pate,90,12,78
+Henry,Mt Pleasant Ward 1,Secretary of State,,REP,Paul D. Pate,113,29,84
+Henry,Mt Pleasant Ward 2,Secretary of State,,REP,Paul D. Pate,87,12,75
+Henry,Mt Pleasant Ward 3,Secretary of State,,REP,Paul D. Pate,102,27,75
+Henry,Mt Pleasant Ward 4,Secretary of State,,REP,Paul D. Pate,119,33,86
+Henry,Central Precinct,Secretary of State,,REP,Paul D. Pate,170,42,128
+Henry,Northwest Precinct,Secretary of State,,,Write-in,0,0,0
+Henry,Northeast Precinct,Secretary of State,,,Write-in,0,0,0
+Henry,Southeast Precinct,Secretary of State,,,Write-in,0,0,0
+Henry,Southwest Precinct,Secretary of State,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 1,Secretary of State,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 2,Secretary of State,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 3,Secretary of State,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 4,Secretary of State,,,Write-in,0,0,0
+Henry,Central Precinct,Secretary of State,,,Write-in,0,0,0
+Henry,Northwest Precinct,Auditor of State,,REP,Mary Mosiman,141,18,123
+Henry,Northeast Precinct,Auditor of State,,REP,Mary Mosiman,95,13,82
+Henry,Southeast Precinct,Auditor of State,,REP,Mary Mosiman,119,12,107
+Henry,Southwest Precinct,Auditor of State,,REP,Mary Mosiman,91,13,78
+Henry,Mt Pleasant Ward 1,Auditor of State,,REP,Mary Mosiman,114,30,84
+Henry,Mt Pleasant Ward 2,Auditor of State,,REP,Mary Mosiman,82,11,71
+Henry,Mt Pleasant Ward 3,Auditor of State,,REP,Mary Mosiman,100,27,73
+Henry,Mt Pleasant Ward 4,Auditor of State,,REP,Mary Mosiman,114,29,85
+Henry,Central Precinct,Auditor of State,,REP,Mary Mosiman,158,40,118
+Henry,Northwest Precinct,Auditor of State,,,Write-in,0,0,0
+Henry,Northeast Precinct,Auditor of State,,,Write-in,0,0,0
+Henry,Southeast Precinct,Auditor of State,,,Write-in,0,0,0
+Henry,Southwest Precinct,Auditor of State,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 1,Auditor of State,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 2,Auditor of State,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 3,Auditor of State,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 4,Auditor of State,,,Write-in,0,0,0
+Henry,Central Precinct,Auditor of State,,,Write-in,0,0,0
+Henry,Northwest Precinct,Treasurer of State,,,Write-in,0,0,0
+Henry,Northeast Precinct,Treasurer of State,,,Write-in,0,0,0
+Henry,Southeast Precinct,Treasurer of State,,,Write-in,0,0,0
+Henry,Southwest Precinct,Treasurer of State,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 1,Treasurer of State,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 2,Treasurer of State,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 3,Treasurer of State,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 4,Treasurer of State,,,Write-in,0,0,0
+Henry,Central Precinct,Treasurer of State,,,Write-in,0,0,0
+Henry,Northwest Precinct,Secretary of Agriculture,,REP,Ray Gaesser,14,1,13
+Henry,Northeast Precinct,Secretary of Agriculture,,REP,Ray Gaesser,12,2,10
+Henry,Southeast Precinct,Secretary of Agriculture,,REP,Ray Gaesser,19,0,19
+Henry,Southwest Precinct,Secretary of Agriculture,,REP,Ray Gaesser,18,3,15
+Henry,Mt Pleasant Ward 1,Secretary of Agriculture,,REP,Ray Gaesser,10,2,8
+Henry,Mt Pleasant Ward 2,Secretary of Agriculture,,REP,Ray Gaesser,9,1,8
+Henry,Mt Pleasant Ward 3,Secretary of Agriculture,,REP,Ray Gaesser,11,2,9
+Henry,Mt Pleasant Ward 4,Secretary of Agriculture,,REP,Ray Gaesser,14,3,11
+Henry,Central Precinct,Secretary of Agriculture,,REP,Ray Gaesser,17,5,12
+Henry,Northwest Precinct,Secretary of Agriculture,,REP,Chad Ingels,11,0,11
+Henry,Northeast Precinct,Secretary of Agriculture,,REP,Chad Ingels,10,2,8
+Henry,Southeast Precinct,Secretary of Agriculture,,REP,Chad Ingels,16,2,14
+Henry,Southwest Precinct,Secretary of Agriculture,,REP,Chad Ingels,10,2,8
+Henry,Mt Pleasant Ward 1,Secretary of Agriculture,,REP,Chad Ingels,13,6,7
+Henry,Mt Pleasant Ward 2,Secretary of Agriculture,,REP,Chad Ingels,14,0,14
+Henry,Mt Pleasant Ward 3,Secretary of Agriculture,,REP,Chad Ingels,18,8,10
+Henry,Mt Pleasant Ward 4,Secretary of Agriculture,,REP,Chad Ingels,16,6,10
+Henry,Central Precinct,Secretary of Agriculture,,REP,Chad Ingels,19,5,14
+Henry,Northwest Precinct,Secretary of Agriculture,,REP,Craig Lang,27,6,21
+Henry,Northeast Precinct,Secretary of Agriculture,,REP,Craig Lang,12,5,7
+Henry,Southeast Precinct,Secretary of Agriculture,,REP,Craig Lang,30,3,27
+Henry,Southwest Precinct,Secretary of Agriculture,,REP,Craig Lang,9,0,9
+Henry,Mt Pleasant Ward 1,Secretary of Agriculture,,REP,Craig Lang,14,5,9
+Henry,Mt Pleasant Ward 2,Secretary of Agriculture,,REP,Craig Lang,19,2,17
+Henry,Mt Pleasant Ward 3,Secretary of Agriculture,,REP,Craig Lang,14,3,11
+Henry,Mt Pleasant Ward 4,Secretary of Agriculture,,REP,Craig Lang,18,4,14
+Henry,Central Precinct,Secretary of Agriculture,,REP,Craig Lang,20,9,11
+Henry,Northwest Precinct,Secretary of Agriculture,,REP,Mike Naig,70,8,62
+Henry,Northeast Precinct,Secretary of Agriculture,,REP,Mike Naig,48,5,43
+Henry,Southeast Precinct,Secretary of Agriculture,,REP,Mike Naig,24,3,21
+Henry,Southwest Precinct,Secretary of Agriculture,,REP,Mike Naig,37,7,30
+Henry,Mt Pleasant Ward 1,Secretary of Agriculture,,REP,Mike Naig,32,4,28
+Henry,Mt Pleasant Ward 2,Secretary of Agriculture,,REP,Mike Naig,26,3,23
+Henry,Mt Pleasant Ward 3,Secretary of Agriculture,,REP,Mike Naig,34,7,27
+Henry,Mt Pleasant Ward 4,Secretary of Agriculture,,REP,Mike Naig,29,7,22
+Henry,Central Precinct,Secretary of Agriculture,,REP,Mike Naig,64,11,53
+Henry,Northwest Precinct,Secretary of Agriculture,,REP,Dan Zumbach,23,3,20
+Henry,Northeast Precinct,Secretary of Agriculture,,REP,Dan Zumbach,18,3,15
+Henry,Southeast Precinct,Secretary of Agriculture,,REP,Dan Zumbach,32,5,27
+Henry,Southwest Precinct,Secretary of Agriculture,,REP,Dan Zumbach,22,2,20
+Henry,Mt Pleasant Ward 1,Secretary of Agriculture,,REP,Dan Zumbach,36,7,29
+Henry,Mt Pleasant Ward 2,Secretary of Agriculture,,REP,Dan Zumbach,21,5,16
+Henry,Mt Pleasant Ward 3,Secretary of Agriculture,,REP,Dan Zumbach,21,5,16
+Henry,Mt Pleasant Ward 4,Secretary of Agriculture,,REP,Dan Zumbach,33,8,25
+Henry,Central Precinct,Secretary of Agriculture,,REP,Dan Zumbach,44,9,35
+Henry,Northwest Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Northeast Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Southeast Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Southwest Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 1,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 2,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 3,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 4,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Central Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Northwest Precinct,Attorney General,,,Write-in,0,0,0
+Henry,Northeast Precinct,Attorney General,,,Write-in,0,0,0
+Henry,Southeast Precinct,Attorney General,,,Write-in,0,0,0
+Henry,Southwest Precinct,Attorney General,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 1,Attorney General,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 2,Attorney General,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 3,Attorney General,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 4,Attorney General,,,Write-in,0,0,0
+Henry,Central Precinct,Attorney General,,,Write-in,0,0,0
+Henry,Northwest Precinct,State Representative District  84,,REP,Martin Amos,6,0,6
+Henry,Northeast Precinct,State Representative District  84,,REP,Martin Amos,18,1,17
+Henry,Southeast Precinct,State Representative District  84,,REP,Martin Amos,19,2,17
+Henry,Southwest Precinct,State Representative District  84,,REP,Martin Amos,26,7,19
+Henry,Mt Pleasant Ward 1,State Representative District  84,,REP,Martin Amos,42,12,30
+Henry,Mt Pleasant Ward 2,State Representative District  84,,REP,Martin Amos,36,4,32
+Henry,Mt Pleasant Ward 3,State Representative District  84,,REP,Martin Amos,31,5,26
+Henry,Mt Pleasant Ward 4,State Representative District  84,,REP,Martin Amos,29,5,24
+Henry,Central Precinct,State Representative District  84,,REP,Martin Amos,45,12,33
+Henry,Northwest Precinct,State Representative District  84,,REP,Trevor Lynn,59,2,57
+Henry,Northeast Precinct,State Representative District  84,,REP,Trevor Lynn,4,2,2
+Henry,Southeast Precinct,State Representative District  84,,REP,Trevor Lynn,6,0,6
+Henry,Southwest Precinct,State Representative District  84,,REP,Trevor Lynn,7,1,6
+Henry,Mt Pleasant Ward 1,State Representative District  84,,REP,Trevor Lynn,2,0,2
+Henry,Mt Pleasant Ward 2,State Representative District  84,,REP,Trevor Lynn,4,1,3
+Henry,Mt Pleasant Ward 3,State Representative District  84,,REP,Trevor Lynn,3,2,1
+Henry,Mt Pleasant Ward 4,State Representative District  84,,REP,Trevor Lynn,9,4,5
+Henry,Central Precinct,State Representative District  84,,REP,Trevor Lynn,10,2,8
+Henry,Northwest Precinct,State Representative District  84,,REP,Sheila Matheney,17,5,12
+Henry,Northeast Precinct,State Representative District  84,,REP,Sheila Matheney,45,9,36
+Henry,Southeast Precinct,State Representative District  84,,REP,Sheila Matheney,41,5,36
+Henry,Southwest Precinct,State Representative District  84,,REP,Sheila Matheney,39,3,36
+Henry,Mt Pleasant Ward 1,State Representative District  84,,REP,Sheila Matheney,43,13,30
+Henry,Mt Pleasant Ward 2,State Representative District  84,,REP,Sheila Matheney,38,6,32
+Henry,Mt Pleasant Ward 3,State Representative District  84,,REP,Sheila Matheney,46,16,30
+Henry,Mt Pleasant Ward 4,State Representative District  84,,REP,Sheila Matheney,50,17,33
+Henry,Central Precinct,State Representative District  84,,REP,Sheila Matheney,91,31,60
+Henry,Northwest Precinct,State Representative District  84,,REP,Joe Mitchell,97,15,82
+Henry,Northeast Precinct,State Representative District  84,,REP,Joe Mitchell,46,5,41
+Henry,Southeast Precinct,State Representative District  84,,REP,Joe Mitchell,77,10,67
+Henry,Southwest Precinct,State Representative District  84,,REP,Joe Mitchell,32,6,26
+Henry,Mt Pleasant Ward 1,State Representative District  84,,REP,Joe Mitchell,46,6,40
+Henry,Mt Pleasant Ward 2,State Representative District  84,,REP,Joe Mitchell,25,4,21
+Henry,Mt Pleasant Ward 3,State Representative District  84,,REP,Joe Mitchell,37,10,27
+Henry,Mt Pleasant Ward 4,State Representative District  84,,REP,Joe Mitchell,48,15,33
+Henry,Central Precinct,State Representative District  84,,REP,Joe Mitchell,59,12,47
+Henry,Northwest Precinct,State Representative District  84,,,Write-in,0,0,0
+Henry,Northeast Precinct,State Representative District  84,,,Write-in,0,0,0
+Henry,Southeast Precinct,State Representative District  84,,,Write-in,0,0,0
+Henry,Southwest Precinct,State Representative District  84,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 1,State Representative District  84,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 2,State Representative District  84,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 3,State Representative District  84,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 4,State Representative District  84,,,Write-in,0,0,0
+Henry,Central Precinct,State Representative District  84,,,Write-in,0,0,0
+Henry,Northwest Precinct,County Board of Supervisors,,REP,Marc Lindeen,153,19,134
+Henry,Northeast Precinct,County Board of Supervisors,,REP,Marc Lindeen,100,17,83
+Henry,Southeast Precinct,County Board of Supervisors,,REP,Marc Lindeen,123,18,105
+Henry,Southwest Precinct,County Board of Supervisors,,REP,Marc Lindeen,91,13,78
+Henry,Mt Pleasant Ward 1,County Board of Supervisors,,REP,Marc Lindeen,116,29,87
+Henry,Mt Pleasant Ward 2,County Board of Supervisors,,REP,Marc Lindeen,93,10,83
+Henry,Mt Pleasant Ward 3,County Board of Supervisors,,REP,Marc Lindeen,106,28,78
+Henry,Mt Pleasant Ward 4,County Board of Supervisors,,REP,Marc Lindeen,121,39,82
+Henry,Central Precinct,County Board of Supervisors,,REP,Marc Lindeen,177,49,128
+Henry,Northwest Precinct,County Board of Supervisors,,,Write-in,0,0,0
+Henry,Northeast Precinct,County Board of Supervisors,,,Write-in,0,0,0
+Henry,Southeast Precinct,County Board of Supervisors,,,Write-in,0,0,0
+Henry,Southwest Precinct,County Board of Supervisors,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 1,County Board of Supervisors,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 2,County Board of Supervisors,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 3,County Board of Supervisors,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 4,County Board of Supervisors,,,Write-in,0,0,0
+Henry,Central Precinct,County Board of Supervisors,,,Write-in,0,0,0
+Henry,Northwest Precinct,County Treasurer,,REP,Ana Lair,160,21,139
+Henry,Northeast Precinct,County Treasurer,,REP,Ana Lair,107,17,90
+Henry,Southeast Precinct,County Treasurer,,REP,Ana Lair,136,19,117
+Henry,Southwest Precinct,County Treasurer,,REP,Ana Lair,93,14,79
+Henry,Mt Pleasant Ward 1,County Treasurer,,REP,Ana Lair,114,27,87
+Henry,Mt Pleasant Ward 2,County Treasurer,,REP,Ana Lair,90,12,78
+Henry,Mt Pleasant Ward 3,County Treasurer,,REP,Ana Lair,112,31,81
+Henry,Mt Pleasant Ward 4,County Treasurer,,REP,Ana Lair,125,38,87
+Henry,Central Precinct,County Treasurer,,REP,Ana Lair,184,51,133
+Henry,Northwest Precinct,County Treasurer,,,Write-in,0,0,0
+Henry,Northeast Precinct,County Treasurer,,,Write-in,0,0,0
+Henry,Southeast Precinct,County Treasurer,,,Write-in,0,0,0
+Henry,Southwest Precinct,County Treasurer,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 1,County Treasurer,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 2,County Treasurer,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 3,County Treasurer,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 4,County Treasurer,,,Write-in,0,0,0
+Henry,Central Precinct,County Treasurer,,,Write-in,0,0,0
+Henry,Northwest Precinct,County Recorder,,,Write-in,0,0,0
+Henry,Northeast Precinct,County Recorder,,,Write-in,0,0,0
+Henry,Southeast Precinct,County Recorder,,,Write-in,0,0,0
+Henry,Southwest Precinct,County Recorder,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 1,County Recorder,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 2,County Recorder,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 3,County Recorder,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 4,County Recorder,,,Write-in,0,0,0
+Henry,Central Precinct,County Recorder,,,Write-in,0,0,0
+Henry,Northwest Precinct,County Attorney,,REP,Darin R Stater,138,17,121
+Henry,Northeast Precinct,County Attorney,,REP,Darin R Stater,98,18,80
+Henry,Southeast Precinct,County Attorney,,REP,Darin R Stater,124,17,107
+Henry,Southwest Precinct,County Attorney,,REP,Darin R Stater,91,15,76
+Henry,Mt Pleasant Ward 1,County Attorney,,REP,Darin R Stater,106,28,78
+Henry,Mt Pleasant Ward 2,County Attorney,,REP,Darin R Stater,82,11,71
+Henry,Mt Pleasant Ward 3,County Attorney,,REP,Darin R Stater,104,30,74
+Henry,Mt Pleasant Ward 4,County Attorney,,REP,Darin R Stater,123,38,85
+Henry,Central Precinct,County Attorney,,REP,Darin R Stater,165,49,116
+Henry,Northwest Precinct,County Attorney,,,Write-in,0,0,0
+Henry,Northeast Precinct,County Attorney,,,Write-in,0,0,0
+Henry,Southeast Precinct,County Attorney,,,Write-in,0,0,0
+Henry,Southwest Precinct,County Attorney,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 1,County Attorney,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 2,County Attorney,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 3,County Attorney,,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 4,County Attorney,,,Write-in,0,0,0
+Henry,Central Precinct,County Attorney,,,Write-in,0,0,0
+Henry,Northwest Precinct,United States Representative District 2,,DEM,Dave Loebsack,62,12,50
+Henry,Northeast Precinct,United States Representative District 2,,DEM,Dave Loebsack,57,15,42
+Henry,Southeast Precinct,United States Representative District 2,,DEM,Dave Loebsack,118,22,96
+Henry,Southwest Precinct,United States Representative District 2,,DEM,Dave Loebsack,42,6,36
+Henry,Mt Pleasant Ward 1,United States Representative District 2,,DEM,Dave Loebsack,63,27,36
+Henry,Mt Pleasant Ward 2,United States Representative District 2,,DEM,Dave Loebsack,62,19,43
+Henry,Mt Pleasant Ward 3,United States Representative District 2,,DEM,Dave Loebsack,73,27,46
+Henry,Mt Pleasant Ward 4,United States Representative District 2,,DEM,Dave Loebsack,67,16,51
+Henry,Central Precinct,United States Representative District 2,,DEM,Dave Loebsack,98,37,61
+Henry,Northwest Precinct,Governor,,DEM,Nate Boulton,5,3,2
+Henry,Northeast Precinct,Governor,,DEM,Nate Boulton,9,4,5
+Henry,Southeast Precinct,Governor,,DEM,Nate Boulton,10,4,6
+Henry,Southwest Precinct,Governor,,DEM,Nate Boulton,4,3,1
+Henry,Mt Pleasant Ward 1,Governor,,DEM,Nate Boulton,9,9,0
+Henry,Mt Pleasant Ward 2,Governor,,DEM,Nate Boulton,6,5,1
+Henry,Mt Pleasant Ward 3,Governor,,DEM,Nate Boulton,10,9,1
+Henry,Mt Pleasant Ward 4,Governor,,DEM,Nate Boulton,5,4,1
+Henry,Central Precinct,Governor,,DEM,Nate Boulton,22,17,5
+Henry,Northwest Precinct,Governor,,DEM,Cathy Glasson,13,2,11
+Henry,Northeast Precinct,Governor,,DEM,Cathy Glasson,15,1,14
+Henry,Southeast Precinct,Governor,,DEM,Cathy Glasson,27,4,23
+Henry,Southwest Precinct,Governor,,DEM,Cathy Glasson,9,3,6
+Henry,Mt Pleasant Ward 1,Governor,,DEM,Cathy Glasson,15,2,13
+Henry,Mt Pleasant Ward 2,Governor,,DEM,Cathy Glasson,10,5,5
+Henry,Mt Pleasant Ward 3,Governor,,DEM,Cathy Glasson,25,4,21
+Henry,Mt Pleasant Ward 4,Governor,,DEM,Cathy Glasson,13,5,8
+Henry,Central Precinct,Governor,,DEM,Cathy Glasson,16,8,8
+Henry,Northwest Precinct,Governor,,DEM,Fred Hubbell,37,4,33
+Henry,Northeast Precinct,Governor,,DEM,Fred Hubbell,30,9,21
+Henry,Southeast Precinct,Governor,,DEM,Fred Hubbell,74,10,64
+Henry,Southwest Precinct,Governor,,DEM,Fred Hubbell,28,3,25
+Henry,Mt Pleasant Ward 1,Governor,,DEM,Fred Hubbell,28,11,17
+Henry,Mt Pleasant Ward 2,Governor,,DEM,Fred Hubbell,42,11,31
+Henry,Mt Pleasant Ward 3,Governor,,DEM,Fred Hubbell,32,12,20
+Henry,Mt Pleasant Ward 4,Governor,,DEM,Fred Hubbell,44,9,35
+Henry,Central Precinct,Governor,,DEM,Fred Hubbell,48,13,35
+Henry,Northwest Precinct,Governor,,DEM,Andrea Andy McGuire,1,0,1
+Henry,Northeast Precinct,Governor,,DEM,Andrea Andy McGuire,2,1,1
+Henry,Southeast Precinct,Governor,,DEM,Andrea Andy McGuire,4,2,2
+Henry,Southwest Precinct,Governor,,DEM,Andrea Andy McGuire,6,0,6
+Henry,Mt Pleasant Ward 1,Governor,,DEM,Andrea Andy McGuire,3,2,1
+Henry,Mt Pleasant Ward 2,Governor,,DEM,Andrea Andy McGuire,5,1,4
+Henry,Mt Pleasant Ward 3,Governor,,DEM,Andrea Andy McGuire,1,0,1
+Henry,Mt Pleasant Ward 4,Governor,,DEM,Andrea Andy McGuire,1,0,1
+Henry,Central Precinct,Governor,,DEM,Andrea Andy McGuire,6,1,5
+Henry,Northwest Precinct,Governor,,DEM,John Norris,9,2,7
+Henry,Northeast Precinct,Governor,,DEM,John Norris,2,0,2
+Henry,Southeast Precinct,Governor,,DEM,John Norris,8,2,6
+Henry,Southwest Precinct,Governor,,DEM,John Norris,2,0,2
+Henry,Mt Pleasant Ward 1,Governor,,DEM,John Norris,8,1,7
+Henry,Mt Pleasant Ward 2,Governor,,DEM,John Norris,4,1,3
+Henry,Mt Pleasant Ward 3,Governor,,DEM,John Norris,8,2,6
+Henry,Mt Pleasant Ward 4,Governor,,DEM,John Norris,7,0,7
+Henry,Central Precinct,Governor,,DEM,John Norris,8,0,8
+Henry,Northwest Precinct,Governor,,DEM,Ross Wilburn,0,0,0
+Henry,Northeast Precinct,Governor,,DEM,Ross Wilburn,2,0,2
+Henry,Southeast Precinct,Governor,,DEM,Ross Wilburn,0,0,0
+Henry,Southwest Precinct,Governor,,DEM,Ross Wilburn,0,0,0
+Henry,Mt Pleasant Ward 1,Governor,,DEM,Ross Wilburn,1,0,1
+Henry,Mt Pleasant Ward 2,Governor,,DEM,Ross Wilburn,2,0,2
+Henry,Mt Pleasant Ward 3,Governor,,DEM,Ross Wilburn,2,2,0
+Henry,Mt Pleasant Ward 4,Governor,,DEM,Ross Wilburn,0,0,0
+Henry,Central Precinct,Governor,,DEM,Ross Wilburn,1,0,1
+Henry,Northwest Precinct,Secretary of State,,DEM,Deidre DeJear,29,5,24
+Henry,Northeast Precinct,Secretary of State,,DEM,Deidre DeJear,27,8,19
+Henry,Southeast Precinct,Secretary of State,,DEM,Deidre DeJear,67,14,53
+Henry,Southwest Precinct,Secretary of State,,DEM,Deidre DeJear,23,5,18
+Henry,Mt Pleasant Ward 1,Secretary of State,,DEM,Deidre DeJear,37,13,24
+Henry,Mt Pleasant Ward 2,Secretary of State,,DEM,Deidre DeJear,37,12,25
+Henry,Mt Pleasant Ward 3,Secretary of State,,DEM,Deidre DeJear,41,9,32
+Henry,Mt Pleasant Ward 4,Secretary of State,,DEM,Deidre DeJear,24,6,18
+Henry,Central Precinct,Secretary of State,,DEM,Deidre DeJear,54,21,33
+Henry,Northwest Precinct,Secretary of State,,DEM,Jim Mowrer,28,5,23
+Henry,Northeast Precinct,Secretary of State,,DEM,Jim Mowrer,29,6,23
+Henry,Southeast Precinct,Secretary of State,,DEM,Jim Mowrer,47,8,39
+Henry,Southwest Precinct,Secretary of State,,DEM,Jim Mowrer,22,2,20
+Henry,Mt Pleasant Ward 1,Secretary of State,,DEM,Jim Mowrer,22,11,11
+Henry,Mt Pleasant Ward 2,Secretary of State,,DEM,Jim Mowrer,27,8,19
+Henry,Mt Pleasant Ward 3,Secretary of State,,DEM,Jim Mowrer,30,16,14
+Henry,Mt Pleasant Ward 4,Secretary of State,,DEM,Jim Mowrer,43,12,31
+Henry,Central Precinct,Secretary of State,,DEM,Jim Mowrer,38,16,22
+Henry,Northwest Precinct,Auditor of State,,DEM,Rob Sand,54,10,44
+Henry,Northeast Precinct,Auditor of State,,DEM,Rob Sand,51,14,37
+Henry,Southeast Precinct,Auditor of State,,DEM,Rob Sand,107,20,87
+Henry,Southwest Precinct,Auditor of State,,DEM,Rob Sand,42,7,35
+Henry,Mt Pleasant Ward 1,Auditor of State,,DEM,Rob Sand,55,23,32
+Henry,Mt Pleasant Ward 2,Auditor of State,,DEM,Rob Sand,59,16,43
+Henry,Mt Pleasant Ward 3,Auditor of State,,DEM,Rob Sand,67,23,44
+Henry,Mt Pleasant Ward 4,Auditor of State,,DEM,Rob Sand,65,16,49
+Henry,Central Precinct,Auditor of State,,DEM,Rob Sand,92,35,57
+Henry,Northwest Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,56,10,46
+Henry,Northeast Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,52,14,38
+Henry,Southeast Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,107,19,88
+Henry,Southwest Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,43,7,36
+Henry,Mt Pleasant Ward 1,Treasurer of State,,DEM,Michael L. Fitzgerald,57,24,33
+Henry,Mt Pleasant Ward 2,Treasurer of State,,DEM,Michael L. Fitzgerald,61,17,44
+Henry,Mt Pleasant Ward 3,Treasurer of State,,DEM,Michael L. Fitzgerald,67,25,42
+Henry,Mt Pleasant Ward 4,Treasurer of State,,DEM,Michael L. Fitzgerald,68,15,53
+Henry,Central Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,95,37,58
+Henry,Northwest Precinct,Secretary of Agriculture,,DEM,Tim Gannon,53,9,44
+Henry,Northeast Precinct,Secretary of Agriculture,,DEM,Tim Gannon,51,14,37
+Henry,Southeast Precinct,Secretary of Agriculture,,DEM,Tim Gannon,103,18,85
+Henry,Southwest Precinct,Secretary of Agriculture,,DEM,Tim Gannon,42,7,35
+Henry,Mt Pleasant Ward 1,Secretary of Agriculture,,DEM,Tim Gannon,55,24,31
+Henry,Mt Pleasant Ward 2,Secretary of Agriculture,,DEM,Tim Gannon,58,16,42
+Henry,Mt Pleasant Ward 3,Secretary of Agriculture,,DEM,Tim Gannon,64,22,42
+Henry,Mt Pleasant Ward 4,Secretary of Agriculture,,DEM,Tim Gannon,61,13,48
+Henry,Central Precinct,Secretary of Agriculture,,DEM,Tim Gannon,93,36,57
+Henry,Northwest Precinct,Attorney General,,DEM,Tom Miller,56,10,46
+Henry,Northeast Precinct,Attorney General,,DEM,Tom Miller,54,14,40
+Henry,Southeast Precinct,Attorney General,,DEM,Tom Miller,112,20,92
+Henry,Southwest Precinct,Attorney General,,DEM,Tom Miller,44,7,37
+Henry,Mt Pleasant Ward 1,Attorney General,,DEM,Tom Miller,56,24,32
+Henry,Mt Pleasant Ward 2,Attorney General,,DEM,Tom Miller,62,18,44
+Henry,Mt Pleasant Ward 3,Attorney General,,DEM,Tom Miller,69,25,44
+Henry,Mt Pleasant Ward 4,Attorney General,,DEM,Tom Miller,67,16,51
+Henry,Central Precinct,Attorney General,,DEM,Tom Miller,93,34,59
+Henry,Northwest Precinct,State Representative District  84,,DEM,Jason Moats,51,9,42
+Henry,Northeast Precinct,State Representative District  84,,DEM,Jason Moats,52,14,38
+Henry,Southeast Precinct,State Representative District  84,,DEM,Jason Moats,104,18,86
+Henry,Southwest Precinct,State Representative District  84,,DEM,Jason Moats,43,8,35
+Henry,Mt Pleasant Ward 1,State Representative District  84,,DEM,Jason Moats,58,24,34
+Henry,Mt Pleasant Ward 2,State Representative District  84,,DEM,Jason Moats,58,18,40
+Henry,Mt Pleasant Ward 3,State Representative District  84,,DEM,Jason Moats,69,25,44
+Henry,Mt Pleasant Ward 4,State Representative District  84,,DEM,Jason Moats,62,15,47
+Henry,Central Precinct,State Representative District  84,,DEM,Jason Moats,94,37,57
+Henry,Northwest Precinct,County Recorder,,DEM,Mindy Fitzgibbon,42,9,33
+Henry,Northeast Precinct,County Recorder,,DEM,Mindy Fitzgibbon,50,14,36
+Henry,Southeast Precinct,County Recorder,,DEM,Mindy Fitzgibbon,96,18,78
+Henry,Southwest Precinct,County Recorder,,DEM,Mindy Fitzgibbon,40,6,34
+Henry,Mt Pleasant Ward 1,County Recorder,,DEM,Mindy Fitzgibbon,53,22,31
+Henry,Mt Pleasant Ward 2,County Recorder,,DEM,Mindy Fitzgibbon,58,16,42
+Henry,Mt Pleasant Ward 3,County Recorder,,DEM,Mindy Fitzgibbon,62,22,40
+Henry,Mt Pleasant Ward 4,County Recorder,,DEM,Mindy Fitzgibbon,62,14,48
+Henry,Central Precinct,County Recorder,,DEM,Mindy Fitzgibbon,89,35,54
+Henry,Northwest Precinct,United States Representative District 2,,LIB,Joe Mitchell,0,0,0
+Henry,Northeast Precinct,United States Representative District 2,,LIB,Joe Mitchell,0,0,0
+Henry,Southeast Precinct,United States Representative District 2,,LIB,Joe Mitchell,1,0,1
+Henry,Southwest Precinct,United States Representative District 2,,LIB,Joe Mitchell,0,0,0
+Henry,Mt Pleasant Ward 1,United States Representative District 2,,LIB,Joe Mitchell,0,0,0
+Henry,Mt Pleasant Ward 2,United States Representative District 2,,LIB,Joe Mitchell,0,0,0
+Henry,Mt Pleasant Ward 3,United States Representative District 2,,LIB,Joe Mitchell,0,0,0
+Henry,Mt Pleasant Ward 4,United States Representative District 2,,LIB,Joe Mitchell,0,0,0
+Henry,Central Precinct,United States Representative District 2,,LIB,Joe Mitchell,0,0,0
+Henry,Northwest Precinct,Governor,,LIB,Marco Battaglia,0,0,0
+Henry,Northeast Precinct,Governor,,LIB,Marco Battaglia,0,0,0
+Henry,Southeast Precinct,Governor,,LIB,Marco Battaglia,2,0,2
+Henry,Southwest Precinct,Governor,,LIB,Marco Battaglia,0,0,0
+Henry,Mt Pleasant Ward 1,Governor,,LIB,Marco Battaglia,1,0,1
+Henry,Mt Pleasant Ward 2,Governor,,LIB,Marco Battaglia,0,0,0
+Henry,Mt Pleasant Ward 3,Governor,,LIB,Marco Battaglia,0,0,0
+Henry,Mt Pleasant Ward 4,Governor,,LIB,Marco Battaglia,0,0,0
+Henry,Central Precinct,Governor,,LIB,Marco Battaglia,0,0,0
+Henry,Northwest Precinct,Governor,,LIB,Jake Porter,0,0,0
+Henry,Northeast Precinct,Governor,,LIB,Jake Porter,0,0,0
+Henry,Southeast Precinct,Governor,,LIB,Jake Porter,1,0,1
+Henry,Southwest Precinct,Governor,,LIB,Jake Porter,3,0,3
+Henry,Mt Pleasant Ward 1,Governor,,LIB,Jake Porter,1,0,1
+Henry,Mt Pleasant Ward 2,Governor,,LIB,Jake Porter,1,0,1
+Henry,Mt Pleasant Ward 3,Governor,,LIB,Jake Porter,0,0,0
+Henry,Mt Pleasant Ward 4,Governor,,LIB,Jake Porter,0,0,0
+Henry,Central Precinct,Governor,,LIB,Jake Porter,0,0,0
+Henry,Northwest Precinct,State Representative District  84,,LIB,Joe Mitchell,0,0,0
+Henry,Northeast Precinct,State Representative District  84,,LIB,Joe Mitchell,0,0,0
+Henry,Southeast Precinct,State Representative District  84,,LIB,Joe Mitchell,1,0,1
+Henry,Southwest Precinct,State Representative District  84,,LIB,Joe Mitchell,1,0,1
+Henry,Mt Pleasant Ward 1,State Representative District  84,,LIB,Joe Mitchell,0,0,0
+Henry,Mt Pleasant Ward 2,State Representative District  84,,LIB,Joe Mitchell,0,0,0
+Henry,Mt Pleasant Ward 3,State Representative District  84,,LIB,Joe Mitchell,0,0,0
+Henry,Mt Pleasant Ward 4,State Representative District  84,,LIB,Joe Mitchell,0,0,0
+Henry,Central Precinct,State Representative District  84,,LIB,Joe Mitchell,0,0,0

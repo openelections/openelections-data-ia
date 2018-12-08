@@ -1,0 +1,561 @@
+county,precinct,office,district,party,candidate,votes,absentee,polling
+Davis,BF1,United States Representative District 2,,REP,Christopher Peters,39,7,32
+Davis,BF2,United States Representative District 2,,REP,Christopher Peters,33,7,26
+Davis,BF3,United States Representative District 2,,REP,Christopher Peters,22,2,20
+Davis,CENTRAL,United States Representative District 2,,REP,Christopher Peters,39,9,30
+Davis,NORTHEAST,United States Representative District 2,,REP,Christopher Peters,36,1,35
+Davis,NORTHWEST,United States Representative District 2,,REP,Christopher Peters,39,2,37
+Davis,SOUTHEAST,United States Representative District 2,,REP,Christopher Peters,44,3,41
+Davis,SOUTHWEST,United States Representative District 2,,REP,Christopher Peters,15,1,14
+Davis,BF1,United States Representative District 2,,,Write-in,0,0,0
+Davis,BF2,United States Representative District 2,,,Write-in,0,0,0
+Davis,BF3,United States Representative District 2,,,Write-in,0,0,0
+Davis,CENTRAL,United States Representative District 2,,,Write-in,0,0,0
+Davis,NORTHEAST,United States Representative District 2,,,Write-in,0,0,0
+Davis,NORTHWEST,United States Representative District 2,,,Write-in,0,0,0
+Davis,SOUTHEAST,United States Representative District 2,,,Write-in,0,0,0
+Davis,SOUTHWEST,United States Representative District 2,,,Write-in,0,0,0
+Davis,BF1,Governor,,REP,Kim Reynolds,42,6,36
+Davis,BF2,Governor,,REP,Kim Reynolds,37,8,29
+Davis,BF3,Governor,,REP,Kim Reynolds,27,5,22
+Davis,CENTRAL,Governor,,REP,Kim Reynolds,43,9,34
+Davis,NORTHEAST,Governor,,REP,Kim Reynolds,43,1,42
+Davis,NORTHWEST,Governor,,REP,Kim Reynolds,42,2,40
+Davis,SOUTHEAST,Governor,,REP,Kim Reynolds,50,4,46
+Davis,SOUTHWEST,Governor,,REP,Kim Reynolds,19,1,18
+Davis,BF1,Governor,,,Write-in,0,0,0
+Davis,BF2,Governor,,,Write-in,0,0,0
+Davis,BF3,Governor,,,Write-in,0,0,0
+Davis,CENTRAL,Governor,,,Write-in,0,0,0
+Davis,NORTHEAST,Governor,,,Write-in,0,0,0
+Davis,NORTHWEST,Governor,,,Write-in,0,0,0
+Davis,SOUTHEAST,Governor,,,Write-in,0,0,0
+Davis,SOUTHWEST,Governor,,,Write-in,0,0,0
+Davis,BF1,Secretary of State,,REP,Paul D. Pate,42,7,35
+Davis,BF2,Secretary of State,,REP,Paul D. Pate,34,7,27
+Davis,BF3,Secretary of State,,REP,Paul D. Pate,25,3,22
+Davis,CENTRAL,Secretary of State,,REP,Paul D. Pate,40,9,31
+Davis,NORTHEAST,Secretary of State,,REP,Paul D. Pate,37,1,36
+Davis,NORTHWEST,Secretary of State,,REP,Paul D. Pate,33,2,31
+Davis,SOUTHEAST,Secretary of State,,REP,Paul D. Pate,50,4,46
+Davis,SOUTHWEST,Secretary of State,,REP,Paul D. Pate,18,1,17
+Davis,BF1,Secretary of State,,,Write-in,0,0,0
+Davis,BF2,Secretary of State,,,Write-in,0,0,0
+Davis,BF3,Secretary of State,,,Write-in,0,0,0
+Davis,CENTRAL,Secretary of State,,,Write-in,0,0,0
+Davis,NORTHEAST,Secretary of State,,,Write-in,0,0,0
+Davis,NORTHWEST,Secretary of State,,,Write-in,0,0,0
+Davis,SOUTHEAST,Secretary of State,,,Write-in,0,0,0
+Davis,SOUTHWEST,Secretary of State,,,Write-in,0,0,0
+Davis,BF1,Auditor of State,,REP,Mary Mosiman,39,6,33
+Davis,BF2,Auditor of State,,REP,Mary Mosiman,32,6,26
+Davis,BF3,Auditor of State,,REP,Mary Mosiman,26,4,22
+Davis,CENTRAL,Auditor of State,,REP,Mary Mosiman,40,9,31
+Davis,NORTHEAST,Auditor of State,,REP,Mary Mosiman,37,1,36
+Davis,NORTHWEST,Auditor of State,,REP,Mary Mosiman,35,2,33
+Davis,SOUTHEAST,Auditor of State,,REP,Mary Mosiman,47,4,43
+Davis,SOUTHWEST,Auditor of State,,REP,Mary Mosiman,17,1,16
+Davis,BF1,Auditor of State,,,Write-in,0,0,0
+Davis,BF2,Auditor of State,,,Write-in,0,0,0
+Davis,BF3,Auditor of State,,,Write-in,0,0,0
+Davis,CENTRAL,Auditor of State,,,Write-in,0,0,0
+Davis,NORTHEAST,Auditor of State,,,Write-in,0,0,0
+Davis,NORTHWEST,Auditor of State,,,Write-in,0,0,0
+Davis,SOUTHEAST,Auditor of State,,,Write-in,0,0,0
+Davis,SOUTHWEST,Auditor of State,,,Write-in,0,0,0
+Davis,BF1,Treasurer of State,,REP,Rich Evans,1,0,1
+Davis,BF2,Treasurer of State,,REP,Rich Evans,0,0,0
+Davis,BF3,Treasurer of State,,REP,Rich Evans,0,0,0
+Davis,CENTRAL,Treasurer of State,,REP,Rich Evans,0,0,0
+Davis,NORTHEAST,Treasurer of State,,REP,Rich Evans,0,0,0
+Davis,NORTHWEST,Treasurer of State,,REP,Rich Evans,0,0,0
+Davis,SOUTHEAST,Treasurer of State,,REP,Rich Evans,0,0,0
+Davis,SOUTHWEST,Treasurer of State,,REP,Rich Evans,0,0,0
+Davis,BF1,Treasurer of State,,REP,Steve Austin,1,0,1
+Davis,BF2,Treasurer of State,,REP,Steve Austin,0,0,0
+Davis,BF3,Treasurer of State,,REP,Steve Austin,0,0,0
+Davis,CENTRAL,Treasurer of State,,REP,Steve Austin,0,0,0
+Davis,NORTHEAST,Treasurer of State,,REP,Steve Austin,0,0,0
+Davis,NORTHWEST,Treasurer of State,,REP,Steve Austin,0,0,0
+Davis,SOUTHEAST,Treasurer of State,,REP,Steve Austin,0,0,0
+Davis,SOUTHWEST,Treasurer of State,,REP,Steve Austin,0,0,0
+Davis,BF1,Treasurer of State,,REP,B Franks,0,0,0
+Davis,BF2,Treasurer of State,,REP,B Franks,0,0,0
+Davis,BF3,Treasurer of State,,REP,B Franks,0,0,0
+Davis,CENTRAL,Treasurer of State,,REP,B Franks,0,0,0
+Davis,NORTHEAST,Treasurer of State,,REP,B Franks,0,0,0
+Davis,NORTHWEST,Treasurer of State,,REP,B Franks,0,0,0
+Davis,SOUTHEAST,Treasurer of State,,REP,B Franks,1,0,1
+Davis,SOUTHWEST,Treasurer of State,,REP,B Franks,0,0,0
+Davis,BF1,Treasurer of State,,,Write-in,0,0,0
+Davis,BF2,Treasurer of State,,,Write-in,0,0,0
+Davis,BF3,Treasurer of State,,,Write-in,0,0,0
+Davis,CENTRAL,Treasurer of State,,,Write-in,0,0,0
+Davis,NORTHEAST,Treasurer of State,,,Write-in,0,0,0
+Davis,NORTHWEST,Treasurer of State,,,Write-in,0,0,0
+Davis,SOUTHEAST,Treasurer of State,,,Write-in,0,0,0
+Davis,SOUTHWEST,Treasurer of State,,,Write-in,0,0,0
+Davis,BF1,Secretary of Agriculture,,REP,Ray Gaesser,5,1,4
+Davis,BF2,Secretary of Agriculture,,REP,Ray Gaesser,3,2,1
+Davis,BF3,Secretary of Agriculture,,REP,Ray Gaesser,7,0,7
+Davis,CENTRAL,Secretary of Agriculture,,REP,Ray Gaesser,7,1,6
+Davis,NORTHEAST,Secretary of Agriculture,,REP,Ray Gaesser,9,0,9
+Davis,NORTHWEST,Secretary of Agriculture,,REP,Ray Gaesser,7,0,7
+Davis,SOUTHEAST,Secretary of Agriculture,,REP,Ray Gaesser,6,2,4
+Davis,SOUTHWEST,Secretary of Agriculture,,REP,Ray Gaesser,2,0,2
+Davis,BF1,Secretary of Agriculture,,REP,Chad Ingels,2,0,2
+Davis,BF2,Secretary of Agriculture,,REP,Chad Ingels,11,2,9
+Davis,BF3,Secretary of Agriculture,,REP,Chad Ingels,6,2,4
+Davis,CENTRAL,Secretary of Agriculture,,REP,Chad Ingels,8,2,6
+Davis,NORTHEAST,Secretary of Agriculture,,REP,Chad Ingels,5,0,5
+Davis,NORTHWEST,Secretary of Agriculture,,REP,Chad Ingels,7,1,6
+Davis,SOUTHEAST,Secretary of Agriculture,,REP,Chad Ingels,6,0,6
+Davis,SOUTHWEST,Secretary of Agriculture,,REP,Chad Ingels,3,0,3
+Davis,BF1,Secretary of Agriculture,,REP,Craig Lang,14,2,12
+Davis,BF2,Secretary of Agriculture,,REP,Craig Lang,5,0,5
+Davis,BF3,Secretary of Agriculture,,REP,Craig Lang,7,2,5
+Davis,CENTRAL,Secretary of Agriculture,,REP,Craig Lang,7,1,6
+Davis,NORTHEAST,Secretary of Agriculture,,REP,Craig Lang,3,0,3
+Davis,NORTHWEST,Secretary of Agriculture,,REP,Craig Lang,12,0,12
+Davis,SOUTHEAST,Secretary of Agriculture,,REP,Craig Lang,20,2,18
+Davis,SOUTHWEST,Secretary of Agriculture,,REP,Craig Lang,5,1,4
+Davis,BF1,Secretary of Agriculture,,REP,Mike Naig,11,2,9
+Davis,BF2,Secretary of Agriculture,,REP,Mike Naig,10,2,8
+Davis,BF3,Secretary of Agriculture,,REP,Mike Naig,5,0,5
+Davis,CENTRAL,Secretary of Agriculture,,REP,Mike Naig,13,2,11
+Davis,NORTHEAST,Secretary of Agriculture,,REP,Mike Naig,15,1,14
+Davis,NORTHWEST,Secretary of Agriculture,,REP,Mike Naig,12,0,12
+Davis,SOUTHEAST,Secretary of Agriculture,,REP,Mike Naig,8,0,8
+Davis,SOUTHWEST,Secretary of Agriculture,,REP,Mike Naig,5,0,5
+Davis,BF1,Secretary of Agriculture,,REP,Dan Zumbach,8,2,6
+Davis,BF2,Secretary of Agriculture,,REP,Dan Zumbach,3,0,3
+Davis,BF3,Secretary of Agriculture,,REP,Dan Zumbach,1,0,1
+Davis,CENTRAL,Secretary of Agriculture,,REP,Dan Zumbach,2,0,2
+Davis,NORTHEAST,Secretary of Agriculture,,REP,Dan Zumbach,1,0,1
+Davis,NORTHWEST,Secretary of Agriculture,,REP,Dan Zumbach,3,0,3
+Davis,SOUTHEAST,Secretary of Agriculture,,REP,Dan Zumbach,7,0,7
+Davis,SOUTHWEST,Secretary of Agriculture,,REP,Dan Zumbach,2,0,2
+Davis,BF1,Secretary of Agriculture,,,Write-in,0,0,0
+Davis,BF2,Secretary of Agriculture,,,Write-in,0,0,0
+Davis,BF3,Secretary of Agriculture,,,Write-in,0,0,0
+Davis,CENTRAL,Secretary of Agriculture,,,Write-in,0,0,0
+Davis,NORTHEAST,Secretary of Agriculture,,,Write-in,0,0,0
+Davis,NORTHWEST,Secretary of Agriculture,,,Write-in,0,0,0
+Davis,SOUTHEAST,Secretary of Agriculture,,,Write-in,0,0,0
+Davis,SOUTHWEST,Secretary of Agriculture,,,Write-in,1,0,1
+Davis,BF1,Attorney General,,REP,Clint Eastwood,1,0,1
+Davis,BF2,Attorney General,,REP,Clint Eastwood,0,0,0
+Davis,BF3,Attorney General,,REP,Clint Eastwood,0,0,0
+Davis,CENTRAL,Attorney General,,REP,Clint Eastwood,0,0,0
+Davis,NORTHEAST,Attorney General,,REP,Clint Eastwood,0,0,0
+Davis,NORTHWEST,Attorney General,,REP,Clint Eastwood,0,0,0
+Davis,SOUTHEAST,Attorney General,,REP,Clint Eastwood,0,0,0
+Davis,SOUTHWEST,Attorney General,,REP,Clint Eastwood,0,0,0
+Davis,BF1,Attorney General,,REP,C Aisks,0,0,0
+Davis,BF2,Attorney General,,REP,C Aisks,0,0,0
+Davis,BF3,Attorney General,,REP,C Aisks,0,0,0
+Davis,CENTRAL,Attorney General,,REP,C Aisks,0,0,0
+Davis,NORTHEAST,Attorney General,,REP,C Aisks,0,0,0
+Davis,NORTHWEST,Attorney General,,REP,C Aisks,0,0,0
+Davis,SOUTHEAST,Attorney General,,REP,C Aisks,1,0,1
+Davis,SOUTHWEST,Attorney General,,REP,C Aisks,0,0,0
+Davis,BF1,Attorney General,,REP,Jim Russ Lightfoot,0,0,0
+Davis,BF2,Attorney General,,REP,Jim Russ Lightfoot,0,0,0
+Davis,BF3,Attorney General,,REP,Jim Russ Lightfoot,0,0,0
+Davis,CENTRAL,Attorney General,,REP,Jim Russ Lightfoot,0,0,0
+Davis,NORTHEAST,Attorney General,,REP,Jim Russ Lightfoot,0,0,0
+Davis,NORTHWEST,Attorney General,,REP,Jim Russ Lightfoot,1,0,1
+Davis,SOUTHEAST,Attorney General,,REP,Jim Russ Lightfoot,0,0,0
+Davis,SOUTHWEST,Attorney General,,REP,Jim Russ Lightfoot,0,0,0
+Davis,BF1,Attorney General,,,Write-in,0,0,0
+Davis,BF2,Attorney General,,,Write-in,0,0,0
+Davis,BF3,Attorney General,,,Write-in,0,0,0
+Davis,CENTRAL,Attorney General,,,Write-in,0,0,0
+Davis,NORTHEAST,Attorney General,,,Write-in,0,0,0
+Davis,NORTHWEST,Attorney General,,,Write-in,0,0,0
+Davis,SOUTHEAST,Attorney General,,,Write-in,0,0,0
+Davis,SOUTHWEST,Attorney General,,,Write-in,0,0,0
+Davis,BF1,State Senator District 41,,REP,Daniel Cesar,7,0,7
+Davis,BF2,State Senator District 41,,REP,Daniel Cesar,4,2,2
+Davis,BF3,State Senator District 41,,REP,Daniel Cesar,5,0,5
+Davis,CENTRAL,State Senator District 41,,REP,Daniel Cesar,9,1,8
+Davis,NORTHEAST,State Senator District 41,,REP,Daniel Cesar,7,0,7
+Davis,NORTHWEST,State Senator District 41,,REP,Daniel Cesar,8,0,8
+Davis,SOUTHEAST,State Senator District 41,,REP,Daniel Cesar,11,1,10
+Davis,SOUTHWEST,State Senator District 41,,REP,Daniel Cesar,4,0,4
+Davis,BF1,State Senator District 41,,REP,Mariannette Miller-Meeks,38,8,30
+Davis,BF2,State Senator District 41,,REP,Mariannette Miller-Meeks,31,5,26
+Davis,BF3,State Senator District 41,,REP,Mariannette Miller-Meeks,22,4,18
+Davis,CENTRAL,State Senator District 41,,REP,Mariannette Miller-Meeks,32,6,26
+Davis,NORTHEAST,State Senator District 41,,REP,Mariannette Miller-Meeks,35,1,34
+Davis,NORTHWEST,State Senator District 41,,REP,Mariannette Miller-Meeks,34,2,32
+Davis,SOUTHEAST,State Senator District 41,,REP,Mariannette Miller-Meeks,40,3,37
+Davis,SOUTHWEST,State Senator District 41,,REP,Mariannette Miller-Meeks,14,1,13
+Davis,BF1,State Senator District 41,,,Write-in,0,0,0
+Davis,BF2,State Senator District 41,,,Write-in,0,0,0
+Davis,BF3,State Senator District 41,,,Write-in,0,0,0
+Davis,CENTRAL,State Senator District 41,,,Write-in,0,0,0
+Davis,NORTHEAST,State Senator District 41,,,Write-in,0,0,0
+Davis,NORTHWEST,State Senator District 41,,,Write-in,0,0,0
+Davis,SOUTHEAST,State Senator District 41,,,Write-in,0,0,0
+Davis,SOUTHWEST,State Senator District 41,,,Write-in,0,0,0
+Davis,BF1,State Representative District  82,,REP,Dan Maeder,1,0,1
+Davis,BF2,State Representative District  82,,REP,Dan Maeder,0,0,0
+Davis,BF3,State Representative District  82,,REP,Dan Maeder,0,0,0
+Davis,CENTRAL,State Representative District  82,,REP,Dan Maeder,0,0,0
+Davis,NORTHEAST,State Representative District  82,,REP,Dan Maeder,0,0,0
+Davis,NORTHWEST,State Representative District  82,,REP,Dan Maeder,0,0,0
+Davis,SOUTHEAST,State Representative District  82,,REP,Dan Maeder,0,0,0
+Davis,SOUTHWEST,State Representative District  82,,REP,Dan Maeder,0,0,0
+Davis,BF1,State Representative District  82,,,Write-in,0,0,0
+Davis,BF2,State Representative District  82,,,Write-in,0,0,0
+Davis,BF3,State Representative District  82,,,Write-in,0,0,0
+Davis,CENTRAL,State Representative District  82,,,Write-in,0,0,0
+Davis,NORTHEAST,State Representative District  82,,,Write-in,0,0,0
+Davis,NORTHWEST,State Representative District  82,,,Write-in,0,0,0
+Davis,SOUTHEAST,State Representative District  82,,,Write-in,0,0,0
+Davis,SOUTHWEST,State Representative District  82,,,Write-in,0,0,0
+Davis,BF1,County Board of Supervisors,,REP,Ron Bride,42,7,35
+Davis,BF2,County Board of Supervisors,,REP,Ron Bride,38,9,29
+Davis,BF3,County Board of Supervisors,,REP,Ron Bride,26,5,21
+Davis,CENTRAL,County Board of Supervisors,,REP,Ron Bride,37,7,30
+Davis,NORTHEAST,County Board of Supervisors,,REP,Ron Bride,38,1,37
+Davis,NORTHWEST,County Board of Supervisors,,REP,Ron Bride,35,2,33
+Davis,SOUTHEAST,County Board of Supervisors,,REP,Ron Bride,48,4,44
+Davis,SOUTHWEST,County Board of Supervisors,,REP,Ron Bride,15,1,14
+Davis,BF1,County Board of Supervisors,,,Write-in,0,0,0
+Davis,BF2,County Board of Supervisors,,,Write-in,0,0,0
+Davis,BF3,County Board of Supervisors,,,Write-in,0,0,0
+Davis,CENTRAL,County Board of Supervisors,,,Write-in,0,0,0
+Davis,NORTHEAST,County Board of Supervisors,,,Write-in,0,0,0
+Davis,NORTHWEST,County Board of Supervisors,,,Write-in,0,0,0
+Davis,SOUTHEAST,County Board of Supervisors,,,Write-in,0,0,0
+Davis,SOUTHWEST,County Board of Supervisors,,,Write-in,1,0,1
+Davis,BF1,County Treasurer,,REP,Mike Johnson,44,7,37
+Davis,BF2,County Treasurer,,REP,Mike Johnson,36,8,28
+Davis,BF3,County Treasurer,,REP,Mike Johnson,29,5,24
+Davis,CENTRAL,County Treasurer,,REP,Mike Johnson,41,8,33
+Davis,NORTHEAST,County Treasurer,,REP,Mike Johnson,43,1,42
+Davis,NORTHWEST,County Treasurer,,REP,Mike Johnson,39,2,37
+Davis,SOUTHEAST,County Treasurer,,REP,Mike Johnson,53,4,49
+Davis,SOUTHWEST,County Treasurer,,REP,Mike Johnson,19,1,18
+Davis,BF1,County Treasurer,,,Write-in,0,0,0
+Davis,BF2,County Treasurer,,,Write-in,0,0,0
+Davis,BF3,County Treasurer,,,Write-in,0,0,0
+Davis,CENTRAL,County Treasurer,,,Write-in,0,0,0
+Davis,NORTHEAST,County Treasurer,,,Write-in,0,0,0
+Davis,NORTHWEST,County Treasurer,,,Write-in,0,0,0
+Davis,SOUTHEAST,County Treasurer,,,Write-in,0,0,0
+Davis,SOUTHWEST,County Treasurer,,,Write-in,1,0,1
+Davis,BF1,County Recorder,,REP,Megan Clyman,1,0,1
+Davis,BF2,County Recorder,,REP,Megan Clyman,2,0,2
+Davis,BF3,County Recorder,,REP,Megan Clyman,0,0,0
+Davis,CENTRAL,County Recorder,,REP,Megan Clyman,2,1,1
+Davis,NORTHEAST,County Recorder,,REP,Megan Clyman,1,0,1
+Davis,NORTHWEST,County Recorder,,REP,Megan Clyman,0,0,0
+Davis,SOUTHEAST,County Recorder,,REP,Megan Clyman,3,0,3
+Davis,SOUTHWEST,County Recorder,,REP,Megan Clyman,0,0,0
+Davis,BF1,County Recorder,,REP,Linda Humphrey,1,1,0
+Davis,BF2,County Recorder,,REP,Linda Humphrey,0,0,0
+Davis,BF3,County Recorder,,REP,Linda Humphrey,0,0,0
+Davis,CENTRAL,County Recorder,,REP,Linda Humphrey,0,0,0
+Davis,NORTHEAST,County Recorder,,REP,Linda Humphrey,0,0,0
+Davis,NORTHWEST,County Recorder,,REP,Linda Humphrey,0,0,0
+Davis,SOUTHEAST,County Recorder,,REP,Linda Humphrey,0,0,0
+Davis,SOUTHWEST,County Recorder,,REP,Linda Humphrey,0,0,0
+Davis,BF1,County Recorder,,REP,Ken Turner,0,0,0
+Davis,BF2,County Recorder,,REP,Ken Turner,0,0,0
+Davis,BF3,County Recorder,,REP,Ken Turner,0,0,0
+Davis,CENTRAL,County Recorder,,REP,Ken Turner,1,0,1
+Davis,NORTHEAST,County Recorder,,REP,Ken Turner,0,0,0
+Davis,NORTHWEST,County Recorder,,REP,Ken Turner,0,0,0
+Davis,SOUTHEAST,County Recorder,,REP,Ken Turner,0,0,0
+Davis,SOUTHWEST,County Recorder,,REP,Ken Turner,0,0,0
+Davis,BF1,County Recorder,,REP,Michael More,0,0,0
+Davis,BF2,County Recorder,,REP,Michael More,0,0,0
+Davis,BF3,County Recorder,,REP,Michael More,0,0,0
+Davis,CENTRAL,County Recorder,,REP,Michael More,0,0,0
+Davis,NORTHEAST,County Recorder,,REP,Michael More,0,0,0
+Davis,NORTHWEST,County Recorder,,REP,Michael More,1,0,1
+Davis,SOUTHEAST,County Recorder,,REP,Michael More,0,0,0
+Davis,SOUTHWEST,County Recorder,,REP,Michael More,0,0,0
+Davis,BF1,County Recorder,,REP,Brian Skaggs,1,0,1
+Davis,BF2,County Recorder,,REP,Brian Skaggs,0,0,0
+Davis,BF3,County Recorder,,REP,Brian Skaggs,0,0,0
+Davis,CENTRAL,County Recorder,,REP,Brian Skaggs,0,0,0
+Davis,NORTHEAST,County Recorder,,REP,Brian Skaggs,0,0,0
+Davis,NORTHWEST,County Recorder,,REP,Brian Skaggs,0,0,0
+Davis,SOUTHEAST,County Recorder,,REP,Brian Skaggs,0,0,0
+Davis,SOUTHWEST,County Recorder,,REP,Brian Skaggs,0,0,0
+Davis,BF1,County Recorder,,REP,Masen Closser,0,0,0
+Davis,BF2,County Recorder,,REP,Masen Closser,0,0,0
+Davis,BF3,County Recorder,,REP,Masen Closser,0,0,0
+Davis,CENTRAL,County Recorder,,REP,Masen Closser,0,0,0
+Davis,NORTHEAST,County Recorder,,REP,Masen Closser,0,0,0
+Davis,NORTHWEST,County Recorder,,REP,Masen Closser,0,0,0
+Davis,SOUTHEAST,County Recorder,,REP,Masen Closser,1,0,1
+Davis,SOUTHWEST,County Recorder,,REP,Masen Closser,0,0,0
+Davis,BF1,County Recorder,,,Write-in,0,0,0
+Davis,BF2,County Recorder,,,Write-in,0,0,0
+Davis,BF3,County Recorder,,,Write-in,0,0,0
+Davis,CENTRAL,County Recorder,,,Write-in,0,0,0
+Davis,NORTHEAST,County Recorder,,,Write-in,0,0,0
+Davis,NORTHWEST,County Recorder,,,Write-in,0,0,0
+Davis,SOUTHEAST,County Recorder,,,Write-in,0,0,0
+Davis,SOUTHWEST,County Recorder,,,Write-in,0,0,0
+Davis,BF1,County Attorney,,REP,Rick Lynch,2,0,2
+Davis,BF2,County Attorney,,REP,Rick Lynch,2,0,2
+Davis,BF3,County Attorney,,REP,Rick Lynch,0,0,0
+Davis,CENTRAL,County Attorney,,REP,Rick Lynch,1,0,1
+Davis,NORTHEAST,County Attorney,,REP,Rick Lynch,1,0,1
+Davis,NORTHWEST,County Attorney,,REP,Rick Lynch,1,0,1
+Davis,SOUTHEAST,County Attorney,,REP,Rick Lynch,1,0,1
+Davis,SOUTHWEST,County Attorney,,REP,Rick Lynch,0,0,0
+Davis,BF1,County Attorney,,,Write-in,0,0,0
+Davis,BF2,County Attorney,,,Write-in,0,0,0
+Davis,BF3,County Attorney,,,Write-in,0,0,0
+Davis,CENTRAL,County Attorney,,,Write-in,0,0,0
+Davis,NORTHEAST,County Attorney,,,Write-in,0,0,0
+Davis,NORTHWEST,County Attorney,,,Write-in,0,0,0
+Davis,SOUTHEAST,County Attorney,,,Write-in,0,0,0
+Davis,SOUTHWEST,County Attorney,,,Write-in,1,0,1
+Davis,BF1,United States Representative District 2,,DEM,Dave Loebsack,90,23,67
+Davis,BF2,United States Representative District 2,,DEM,Dave Loebsack,101,34,67
+Davis,BF3,United States Representative District 2,,DEM,Dave Loebsack,55,16,39
+Davis,CENTRAL,United States Representative District 2,,DEM,Dave Loebsack,97,34,63
+Davis,NORTHEAST,United States Representative District 2,,DEM,Dave Loebsack,77,20,57
+Davis,NORTHWEST,United States Representative District 2,,DEM,Dave Loebsack,64,7,57
+Davis,SOUTHEAST,United States Representative District 2,,DEM,Dave Loebsack,54,9,45
+Davis,SOUTHWEST,United States Representative District 2,,DEM,Dave Loebsack,43,15,28
+Davis,BF1,Governor,,DEM,Nate Boulton,13,4,9
+Davis,BF2,Governor,,DEM,Nate Boulton,6,4,2
+Davis,BF3,Governor,,DEM,Nate Boulton,1,0,1
+Davis,CENTRAL,Governor,,DEM,Nate Boulton,9,4,5
+Davis,NORTHEAST,Governor,,DEM,Nate Boulton,7,0,7
+Davis,NORTHWEST,Governor,,DEM,Nate Boulton,3,1,2
+Davis,SOUTHEAST,Governor,,DEM,Nate Boulton,1,0,1
+Davis,SOUTHWEST,Governor,,DEM,Nate Boulton,2,0,2
+Davis,BF1,Governor,,DEM,Cathy Glasson,10,2,8
+Davis,BF2,Governor,,DEM,Cathy Glasson,13,1,12
+Davis,BF3,Governor,,DEM,Cathy Glasson,11,3,8
+Davis,CENTRAL,Governor,,DEM,Cathy Glasson,11,3,8
+Davis,NORTHEAST,Governor,,DEM,Cathy Glasson,7,0,7
+Davis,NORTHWEST,Governor,,DEM,Cathy Glasson,12,1,11
+Davis,SOUTHEAST,Governor,,DEM,Cathy Glasson,11,2,9
+Davis,SOUTHWEST,Governor,,DEM,Cathy Glasson,13,5,8
+Davis,BF1,Governor,,DEM,Fred Hubbell,57,15,42
+Davis,BF2,Governor,,DEM,Fred Hubbell,61,18,43
+Davis,BF3,Governor,,DEM,Fred Hubbell,33,10,23
+Davis,CENTRAL,Governor,,DEM,Fred Hubbell,55,22,33
+Davis,NORTHEAST,Governor,,DEM,Fred Hubbell,37,16,21
+Davis,NORTHWEST,Governor,,DEM,Fred Hubbell,30,5,25
+Davis,SOUTHEAST,Governor,,DEM,Fred Hubbell,25,5,20
+Davis,SOUTHWEST,Governor,,DEM,Fred Hubbell,17,7,10
+Davis,BF1,Governor,,DEM,Andrea Andy McGuire,4,1,3
+Davis,BF2,Governor,,DEM,Andrea Andy McGuire,7,5,2
+Davis,BF3,Governor,,DEM,Andrea Andy McGuire,7,1,6
+Davis,CENTRAL,Governor,,DEM,Andrea Andy McGuire,4,3,1
+Davis,NORTHEAST,Governor,,DEM,Andrea Andy McGuire,5,1,4
+Davis,NORTHWEST,Governor,,DEM,Andrea Andy McGuire,8,1,7
+Davis,SOUTHEAST,Governor,,DEM,Andrea Andy McGuire,6,1,5
+Davis,SOUTHWEST,Governor,,DEM,Andrea Andy McGuire,4,3,1
+Davis,BF1,Governor,,DEM,John Norris,10,2,8
+Davis,BF2,Governor,,DEM,John Norris,7,3,4
+Davis,BF3,Governor,,DEM,John Norris,7,2,5
+Davis,CENTRAL,Governor,,DEM,John Norris,26,9,17
+Davis,NORTHEAST,Governor,,DEM,John Norris,16,3,13
+Davis,NORTHWEST,Governor,,DEM,John Norris,9,0,9
+Davis,SOUTHEAST,Governor,,DEM,John Norris,7,1,6
+Davis,SOUTHWEST,Governor,,DEM,John Norris,7,0,7
+Davis,BF1,Governor,,DEM,Ross Wilburn,1,0,1
+Davis,BF2,Governor,,DEM,Ross Wilburn,4,0,4
+Davis,BF3,Governor,,DEM,Ross Wilburn,2,0,2
+Davis,CENTRAL,Governor,,DEM,Ross Wilburn,1,0,1
+Davis,NORTHEAST,Governor,,DEM,Ross Wilburn,6,1,5
+Davis,NORTHWEST,Governor,,DEM,Ross Wilburn,2,0,2
+Davis,SOUTHEAST,Governor,,DEM,Ross Wilburn,1,0,1
+Davis,SOUTHWEST,Governor,,DEM,Ross Wilburn,1,1,0
+Davis,BF1,Secretary of State,,DEM,Deidre DeJear,34,8,26
+Davis,BF2,Secretary of State,,DEM,Deidre DeJear,28,9,19
+Davis,BF3,Secretary of State,,DEM,Deidre DeJear,27,4,23
+Davis,CENTRAL,Secretary of State,,DEM,Deidre DeJear,33,15,18
+Davis,NORTHEAST,Secretary of State,,DEM,Deidre DeJear,34,12,22
+Davis,NORTHWEST,Secretary of State,,DEM,Deidre DeJear,15,4,11
+Davis,SOUTHEAST,Secretary of State,,DEM,Deidre DeJear,24,5,19
+Davis,SOUTHWEST,Secretary of State,,DEM,Deidre DeJear,14,2,12
+Davis,BF1,Secretary of State,,DEM,Jim Mowrer,53,14,39
+Davis,BF2,Secretary of State,,DEM,Jim Mowrer,64,21,43
+Davis,BF3,Secretary of State,,DEM,Jim Mowrer,31,11,20
+Davis,CENTRAL,Secretary of State,,DEM,Jim Mowrer,63,20,43
+Davis,NORTHEAST,Secretary of State,,DEM,Jim Mowrer,43,9,34
+Davis,NORTHWEST,Secretary of State,,DEM,Jim Mowrer,45,4,41
+Davis,SOUTHEAST,Secretary of State,,DEM,Jim Mowrer,26,4,22
+Davis,SOUTHWEST,Secretary of State,,DEM,Jim Mowrer,27,13,14
+Davis,BF1,Auditor of State,,DEM,Rob Sand,79,22,57
+Davis,BF2,Auditor of State,,DEM,Rob Sand,86,27,59
+Davis,BF3,Auditor of State,,DEM,Rob Sand,50,14,36
+Davis,CENTRAL,Auditor of State,,DEM,Rob Sand,91,32,59
+Davis,NORTHEAST,Auditor of State,,DEM,Rob Sand,74,22,52
+Davis,NORTHWEST,Auditor of State,,DEM,Rob Sand,59,8,51
+Davis,SOUTHEAST,Auditor of State,,DEM,Rob Sand,48,9,39
+Davis,SOUTHWEST,Auditor of State,,DEM,Rob Sand,38,14,24
+Davis,BF1,Treasurer of State,,DEM,Michael L. Fitzgerald,93,25,68
+Davis,BF2,Treasurer of State,,DEM,Michael L. Fitzgerald,97,32,65
+Davis,BF3,Treasurer of State,,DEM,Michael L. Fitzgerald,59,16,43
+Davis,CENTRAL,Treasurer of State,,DEM,Michael L. Fitzgerald,103,38,65
+Davis,NORTHEAST,Treasurer of State,,DEM,Michael L. Fitzgerald,79,22,57
+Davis,NORTHWEST,Treasurer of State,,DEM,Michael L. Fitzgerald,66,7,59
+Davis,SOUTHEAST,Treasurer of State,,DEM,Michael L. Fitzgerald,49,8,41
+Davis,SOUTHWEST,Treasurer of State,,DEM,Michael L. Fitzgerald,43,15,28
+Davis,BF1,Secretary of Agriculture,,DEM,Tim Gannon,77,20,57
+Davis,BF2,Secretary of Agriculture,,DEM,Tim Gannon,85,26,59
+Davis,BF3,Secretary of Agriculture,,DEM,Tim Gannon,53,16,37
+Davis,CENTRAL,Secretary of Agriculture,,DEM,Tim Gannon,92,33,59
+Davis,NORTHEAST,Secretary of Agriculture,,DEM,Tim Gannon,76,22,54
+Davis,NORTHWEST,Secretary of Agriculture,,DEM,Tim Gannon,59,8,51
+Davis,SOUTHEAST,Secretary of Agriculture,,DEM,Tim Gannon,44,8,36
+Davis,SOUTHWEST,Secretary of Agriculture,,DEM,Tim Gannon,39,14,25
+Davis,BF1,Attorney General,,DEM,Tom Miller,87,24,63
+Davis,BF2,Attorney General,,DEM,Tom Miller,95,32,63
+Davis,BF3,Attorney General,,DEM,Tom Miller,55,16,39
+Davis,CENTRAL,Attorney General,,DEM,Tom Miller,97,35,62
+Davis,NORTHEAST,Attorney General,,DEM,Tom Miller,76,21,55
+Davis,NORTHWEST,Attorney General,,DEM,Tom Miller,62,7,55
+Davis,SOUTHEAST,Attorney General,,DEM,Tom Miller,50,9,41
+Davis,SOUTHWEST,Attorney General,,DEM,Tom Miller,41,14,27
+Davis,BF1,State Senator District 41,,DEM,Ed Malloy,16,2,14
+Davis,BF2,State Senator District 41,,DEM,Ed Malloy,17,4,13
+Davis,BF3,State Senator District 41,,DEM,Ed Malloy,10,1,9
+Davis,CENTRAL,State Senator District 41,,DEM,Ed Malloy,13,5,8
+Davis,NORTHEAST,State Senator District 41,,DEM,Ed Malloy,30,5,25
+Davis,NORTHWEST,State Senator District 41,,DEM,Ed Malloy,16,1,15
+Davis,SOUTHEAST,State Senator District 41,,DEM,Ed Malloy,10,4,6
+Davis,SOUTHWEST,State Senator District 41,,DEM,Ed Malloy,8,1,7
+Davis,BF1,State Senator District 41,,DEM,Mary S. Stewart,88,25,63
+Davis,BF2,State Senator District 41,,DEM,Mary S. Stewart,88,30,58
+Davis,BF3,State Senator District 41,,DEM,Mary S. Stewart,49,15,34
+Davis,CENTRAL,State Senator District 41,,DEM,Mary S. Stewart,98,39,59
+Davis,NORTHEAST,State Senator District 41,,DEM,Mary S. Stewart,56,19,37
+Davis,NORTHWEST,State Senator District 41,,DEM,Mary S. Stewart,52,9,43
+Davis,SOUTHEAST,State Senator District 41,,DEM,Mary S. Stewart,49,5,44
+Davis,SOUTHWEST,State Senator District 41,,DEM,Mary S. Stewart,38,15,23
+Davis,BF1,State Representative District  82,,DEM,Phil Miller,86,22,64
+Davis,BF2,State Representative District  82,,DEM,Phil Miller,93,30,63
+Davis,BF3,State Representative District  82,,DEM,Phil Miller,54,16,38
+Davis,CENTRAL,State Representative District  82,,DEM,Phil Miller,96,37,59
+Davis,NORTHEAST,State Representative District  82,,DEM,Phil Miller,77,21,56
+Davis,NORTHWEST,State Representative District  82,,DEM,Phil Miller,62,8,54
+Davis,SOUTHEAST,State Representative District  82,,DEM,Phil Miller,48,9,39
+Davis,SOUTHWEST,State Representative District  82,,DEM,Phil Miller,39,14,25
+Davis,BF1,County Board of Supervisors,,DEM,Alan Bodkins,32,11,21
+Davis,BF2,County Board of Supervisors,,DEM,Alan Bodkins,21,8,13
+Davis,BF3,County Board of Supervisors,,DEM,Alan Bodkins,17,6,11
+Davis,CENTRAL,County Board of Supervisors,,DEM,Alan Bodkins,43,12,31
+Davis,NORTHEAST,County Board of Supervisors,,DEM,Alan Bodkins,29,8,21
+Davis,NORTHWEST,County Board of Supervisors,,DEM,Alan Bodkins,27,3,24
+Davis,SOUTHEAST,County Board of Supervisors,,DEM,Alan Bodkins,29,6,23
+Davis,SOUTHWEST,County Board of Supervisors,,DEM,Alan Bodkins,25,6,19
+Davis,BF1,County Board of Supervisors,,DEM,Matt Greiner,47,15,32
+Davis,BF2,County Board of Supervisors,,DEM,Matt Greiner,51,16,35
+Davis,BF3,County Board of Supervisors,,DEM,Matt Greiner,27,6,21
+Davis,CENTRAL,County Board of Supervisors,,DEM,Matt Greiner,64,30,34
+Davis,NORTHEAST,County Board of Supervisors,,DEM,Matt Greiner,70,19,51
+Davis,NORTHWEST,County Board of Supervisors,,DEM,Matt Greiner,38,8,30
+Davis,SOUTHEAST,County Board of Supervisors,,DEM,Matt Greiner,35,7,28
+Davis,SOUTHWEST,County Board of Supervisors,,DEM,Matt Greiner,25,9,16
+Davis,BF1,County Board of Supervisors,,DEM,Stewart Nebel,49,15,34
+Davis,BF2,County Board of Supervisors,,DEM,Stewart Nebel,26,6,20
+Davis,BF3,County Board of Supervisors,,DEM,Stewart Nebel,30,8,22
+Davis,CENTRAL,County Board of Supervisors,,DEM,Stewart Nebel,38,13,25
+Davis,NORTHEAST,County Board of Supervisors,,DEM,Stewart Nebel,27,8,19
+Davis,NORTHWEST,County Board of Supervisors,,DEM,Stewart Nebel,19,1,18
+Davis,SOUTHEAST,County Board of Supervisors,,DEM,Stewart Nebel,34,2,32
+Davis,SOUTHWEST,County Board of Supervisors,,DEM,Stewart Nebel,17,8,9
+Davis,BF1,County Board of Supervisors,,DEM,Tony Spargur,62,16,46
+Davis,BF2,County Board of Supervisors,,DEM,Tony Spargur,77,20,57
+Davis,BF3,County Board of Supervisors,,DEM,Tony Spargur,25,5,20
+Davis,CENTRAL,County Board of Supervisors,,DEM,Tony Spargur,60,26,34
+Davis,NORTHEAST,County Board of Supervisors,,DEM,Tony Spargur,21,6,15
+Davis,NORTHWEST,County Board of Supervisors,,DEM,Tony Spargur,34,3,31
+Davis,SOUTHEAST,County Board of Supervisors,,DEM,Tony Spargur,20,1,19
+Davis,SOUTHWEST,County Board of Supervisors,,DEM,Tony Spargur,18,3,15
+Davis,BF1,County Treasurer,,DEM,Kim Fleming,0,0,0
+Davis,BF2,County Treasurer,,DEM,Kim Fleming,0,0,0
+Davis,BF3,County Treasurer,,DEM,Kim Fleming,0,0,0
+Davis,CENTRAL,County Treasurer,,DEM,Kim Fleming,2,2,0
+Davis,NORTHEAST,County Treasurer,,DEM,Kim Fleming,0,0,0
+Davis,NORTHWEST,County Treasurer,,DEM,Kim Fleming,0,0,0
+Davis,SOUTHEAST,County Treasurer,,DEM,Kim Fleming,0,0,0
+Davis,SOUTHWEST,County Treasurer,,DEM,Kim Fleming,0,0,0
+Davis,BF1,County Treasurer,,DEM,Mike Johnson,4,4,0
+Davis,BF2,County Treasurer,,DEM,Mike Johnson,2,0,2
+Davis,BF3,County Treasurer,,DEM,Mike Johnson,0,0,0
+Davis,CENTRAL,County Treasurer,,DEM,Mike Johnson,0,0,0
+Davis,NORTHEAST,County Treasurer,,DEM,Mike Johnson,3,0,3
+Davis,NORTHWEST,County Treasurer,,DEM,Mike Johnson,2,1,1
+Davis,SOUTHEAST,County Treasurer,,DEM,Mike Johnson,3,1,2
+Davis,SOUTHWEST,County Treasurer,,DEM,Mike Johnson,0,0,0
+Davis,BF1,County Treasurer,,DEM,Jeffrey Horn,0,0,0
+Davis,BF2,County Treasurer,,DEM,Jeffrey Horn,0,0,0
+Davis,BF3,County Treasurer,,DEM,Jeffrey Horn,1,0,1
+Davis,CENTRAL,County Treasurer,,DEM,Jeffrey Horn,0,0,0
+Davis,NORTHEAST,County Treasurer,,DEM,Jeffrey Horn,0,0,0
+Davis,NORTHWEST,County Treasurer,,DEM,Jeffrey Horn,1,0,1
+Davis,SOUTHEAST,County Treasurer,,DEM,Jeffrey Horn,0,0,0
+Davis,SOUTHWEST,County Treasurer,,DEM,Jeffrey Horn,0,0,0
+Davis,BF1,County Recorder,,DEM,Megan Clyman,102,29,73
+Davis,BF2,County Recorder,,DEM,Megan Clyman,103,32,71
+Davis,BF3,County Recorder,,DEM,Megan Clyman,58,16,42
+Davis,CENTRAL,County Recorder,,DEM,Megan Clyman,113,44,69
+Davis,NORTHEAST,County Recorder,,DEM,Megan Clyman,87,24,63
+Davis,NORTHWEST,County Recorder,,DEM,Megan Clyman,67,9,58
+Davis,SOUTHEAST,County Recorder,,DEM,Megan Clyman,61,9,52
+Davis,SOUTHWEST,County Recorder,,DEM,Megan Clyman,47,16,31
+Davis,BF1,County Attorney,,DEM,Rick L. Lynch,97,29,68
+Davis,BF2,County Attorney,,DEM,Rick L. Lynch,102,32,70
+Davis,BF3,County Attorney,,DEM,Rick L. Lynch,54,16,38
+Davis,CENTRAL,County Attorney,,DEM,Rick L. Lynch,108,42,66
+Davis,NORTHEAST,County Attorney,,DEM,Rick L. Lynch,75,19,56
+Davis,NORTHWEST,County Attorney,,DEM,Rick L. Lynch,68,8,60
+Davis,SOUTHEAST,County Attorney,,DEM,Rick L. Lynch,59,9,50
+Davis,SOUTHWEST,County Attorney,,DEM,Rick L. Lynch,43,15,28
+Davis,BF1,Governor,,LIB,Marco Battaglia,0,0,0
+Davis,BF2,Governor,,LIB,Marco Battaglia,0,0,0
+Davis,BF3,Governor,,LIB,Marco Battaglia,1,1,0
+Davis,CENTRAL,Governor,,LIB,Marco Battaglia,0,0,0
+Davis,NORTHEAST,Governor,,LIB,Marco Battaglia,0,0,0
+Davis,NORTHWEST,Governor,,LIB,Marco Battaglia,1,0,1
+Davis,SOUTHEAST,Governor,,LIB,Marco Battaglia,0,0,0
+Davis,SOUTHWEST,Governor,,LIB,Marco Battaglia,0,0,0
+Davis,BF1,Governor,,LIB,Jake Porter,0,0,0
+Davis,BF2,Governor,,LIB,Jake Porter,0,0,0
+Davis,BF3,Governor,,LIB,Jake Porter,0,0,0
+Davis,CENTRAL,Governor,,LIB,Jake Porter,0,0,0
+Davis,NORTHEAST,Governor,,LIB,Jake Porter,0,0,0
+Davis,NORTHWEST,Governor,,LIB,Jake Porter,0,0,0
+Davis,SOUTHEAST,Governor,,LIB,Jake Porter,0,0,0
+Davis,SOUTHWEST,Governor,,LIB,Jake Porter,1,0,1
+Davis,BF1,County Treasurer,,LIB,Mike Johnson,0,0,0
+Davis,BF2,County Treasurer,,LIB,Mike Johnson,0,0,0
+Davis,BF3,County Treasurer,,LIB,Mike Johnson,1,0,1
+Davis,CENTRAL,County Treasurer,,LIB,Mike Johnson,0,0,0
+Davis,NORTHEAST,County Treasurer,,LIB,Mike Johnson,0,0,0
+Davis,NORTHWEST,County Treasurer,,LIB,Mike Johnson,0,0,0
+Davis,SOUTHEAST,County Treasurer,,LIB,Mike Johnson,0,0,0
+Davis,SOUTHWEST,County Treasurer,,LIB,Mike Johnson,0,0,0
+Davis,BF1,County Recorder,,LIB,Megan Clyman,0,0,0
+Davis,BF2,County Recorder,,LIB,Megan Clyman,0,0,0
+Davis,BF3,County Recorder,,LIB,Megan Clyman,1,0,1
+Davis,CENTRAL,County Recorder,,LIB,Megan Clyman,0,0,0
+Davis,NORTHEAST,County Recorder,,LIB,Megan Clyman,0,0,0
+Davis,NORTHWEST,County Recorder,,LIB,Megan Clyman,0,0,0
+Davis,SOUTHEAST,County Recorder,,LIB,Megan Clyman,0,0,0
+Davis,SOUTHWEST,County Recorder,,LIB,Megan Clyman,0,0,0
+Davis,BF1,County Attorney,,LIB,Rick Lynch,0,0,0
+Davis,BF2,County Attorney,,LIB,Rick Lynch,0,0,0
+Davis,BF3,County Attorney,,LIB,Rick Lynch,1,0,1
+Davis,CENTRAL,County Attorney,,LIB,Rick Lynch,0,0,0
+Davis,NORTHEAST,County Attorney,,LIB,Rick Lynch,0,0,0
+Davis,NORTHWEST,County Attorney,,LIB,Rick Lynch,0,0,0
+Davis,SOUTHEAST,County Attorney,,LIB,Rick Lynch,0,0,0
+Davis,SOUTHWEST,County Attorney,,LIB,Rick Lynch,0,0,0

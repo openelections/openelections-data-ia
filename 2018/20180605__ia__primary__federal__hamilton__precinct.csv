@@ -1,0 +1,596 @@
+county,precinct,office,district,party,candidate,votes,absentee,polling
+Hamilton,PRECINCT 1 CA-FD-FM-IN,United States Representative District 4,,REP,Cyndi Hanson,14,3,11
+Hamilton,PRECINCT 2 BL-LB-WM,United States Representative District 4,,REP,Cyndi Hanson,13,2,11
+Hamilton,PRECINCT 3 CL-HA-MN-WB,United States Representative District 4,,REP,Cyndi Hanson,40,6,34
+Hamilton,PRECINCT 4 LY-EL,United States Representative District 4,,REP,Cyndi Hanson,21,1,20
+Hamilton,PRECINCT 5 LC-RG-SC,United States Representative District 4,,REP,Cyndi Hanson,15,2,13
+Hamilton,WEBSTER CITY 1,United States Representative District 4,,REP,Cyndi Hanson,34,8,26
+Hamilton,WEBSTER CITY 2,United States Representative District 4,,REP,Cyndi Hanson,68,18,50
+Hamilton,WEBSTER CITY 3,United States Representative District 4,,REP,Cyndi Hanson,36,10,26
+Hamilton,PRECINCT 1 CA-FD-FM-IN,United States Representative District 4,,REP,Steve King,57,6,51
+Hamilton,PRECINCT 2 BL-LB-WM,United States Representative District 4,,REP,Steve King,66,11,55
+Hamilton,PRECINCT 3 CL-HA-MN-WB,United States Representative District 4,,REP,Steve King,114,11,103
+Hamilton,PRECINCT 4 LY-EL,United States Representative District 4,,REP,Steve King,60,3,57
+Hamilton,PRECINCT 5 LC-RG-SC,United States Representative District 4,,REP,Steve King,59,7,52
+Hamilton,WEBSTER CITY 1,United States Representative District 4,,REP,Steve King,103,24,79
+Hamilton,WEBSTER CITY 2,United States Representative District 4,,REP,Steve King,129,32,97
+Hamilton,WEBSTER CITY 3,United States Representative District 4,,REP,Steve King,47,7,40
+Hamilton,PRECINCT 1 CA-FD-FM-IN,United States Representative District 4,,,Write-in,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,United States Representative District 4,,,Write-in,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,United States Representative District 4,,,Write-in,0,0,0
+Hamilton,PRECINCT 4 LY-EL,United States Representative District 4,,,Write-in,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,United States Representative District 4,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,United States Representative District 4,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,United States Representative District 4,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 3,United States Representative District 4,,,Write-in,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Governor,,REP,Kim Reynolds,57,6,51
+Hamilton,PRECINCT 2 BL-LB-WM,Governor,,REP,Kim Reynolds,73,10,63
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Governor,,REP,Kim Reynolds,142,16,126
+Hamilton,PRECINCT 4 LY-EL,Governor,,REP,Kim Reynolds,77,4,73
+Hamilton,PRECINCT 5 LC-RG-SC,Governor,,REP,Kim Reynolds,65,8,57
+Hamilton,WEBSTER CITY 1,Governor,,REP,Kim Reynolds,113,27,86
+Hamilton,WEBSTER CITY 2,Governor,,REP,Kim Reynolds,164,38,126
+Hamilton,WEBSTER CITY 3,Governor,,REP,Kim Reynolds,62,9,53
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Governor,,,Write-in,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Governor,,,Write-in,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Governor,,,Write-in,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Governor,,,Write-in,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Governor,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,Governor,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,Governor,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 3,Governor,,,Write-in,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Secretary of State,,REP,Paul D. Pate,53,6,47
+Hamilton,PRECINCT 2 BL-LB-WM,Secretary of State,,REP,Paul D. Pate,67,10,57
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Secretary of State,,REP,Paul D. Pate,137,18,119
+Hamilton,PRECINCT 4 LY-EL,Secretary of State,,REP,Paul D. Pate,73,4,69
+Hamilton,PRECINCT 5 LC-RG-SC,Secretary of State,,REP,Paul D. Pate,67,9,58
+Hamilton,WEBSTER CITY 1,Secretary of State,,REP,Paul D. Pate,109,24,85
+Hamilton,WEBSTER CITY 2,Secretary of State,,REP,Paul D. Pate,155,35,120
+Hamilton,WEBSTER CITY 3,Secretary of State,,REP,Paul D. Pate,60,7,53
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Secretary of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Secretary of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Secretary of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Secretary of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Secretary of State,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,Secretary of State,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,Secretary of State,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 3,Secretary of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Auditor of State,,REP,Mary Mosiman,49,6,43
+Hamilton,PRECINCT 2 BL-LB-WM,Auditor of State,,REP,Mary Mosiman,64,9,55
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Auditor of State,,REP,Mary Mosiman,135,16,119
+Hamilton,PRECINCT 4 LY-EL,Auditor of State,,REP,Mary Mosiman,70,3,67
+Hamilton,PRECINCT 5 LC-RG-SC,Auditor of State,,REP,Mary Mosiman,68,9,59
+Hamilton,WEBSTER CITY 1,Auditor of State,,REP,Mary Mosiman,106,24,82
+Hamilton,WEBSTER CITY 2,Auditor of State,,REP,Mary Mosiman,151,34,117
+Hamilton,WEBSTER CITY 3,Auditor of State,,REP,Mary Mosiman,57,6,51
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Auditor of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Auditor of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Auditor of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Auditor of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Auditor of State,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,Auditor of State,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,Auditor of State,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 3,Auditor of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Treasurer of State,,REP,Coleen,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Treasurer of State,,REP,Coleen,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Treasurer of State,,REP,Coleen,1,0,1
+Hamilton,PRECINCT 4 LY-EL,Treasurer of State,,REP,Coleen,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Treasurer of State,,REP,Coleen,0,0,0
+Hamilton,WEBSTER CITY 1,Treasurer of State,,REP,Coleen,0,0,0
+Hamilton,WEBSTER CITY 2,Treasurer of State,,REP,Coleen,0,0,0
+Hamilton,WEBSTER CITY 3,Treasurer of State,,REP,Coleen,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Treasurer of State,,REP,Michael Fitzgerald,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Treasurer of State,,REP,Michael Fitzgerald,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Treasurer of State,,REP,Michael Fitzgerald,1,0,1
+Hamilton,PRECINCT 4 LY-EL,Treasurer of State,,REP,Michael Fitzgerald,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Treasurer of State,,REP,Michael Fitzgerald,0,0,0
+Hamilton,WEBSTER CITY 1,Treasurer of State,,REP,Michael Fitzgerald,0,0,0
+Hamilton,WEBSTER CITY 2,Treasurer of State,,REP,Michael Fitzgerald,0,0,0
+Hamilton,WEBSTER CITY 3,Treasurer of State,,REP,Michael Fitzgerald,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Treasurer of State,,REP,Aaron Boor,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Treasurer of State,,REP,Aaron Boor,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Treasurer of State,,REP,Aaron Boor,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Treasurer of State,,REP,Aaron Boor,1,0,1
+Hamilton,PRECINCT 5 LC-RG-SC,Treasurer of State,,REP,Aaron Boor,0,0,0
+Hamilton,WEBSTER CITY 1,Treasurer of State,,REP,Aaron Boor,0,0,0
+Hamilton,WEBSTER CITY 2,Treasurer of State,,REP,Aaron Boor,0,0,0
+Hamilton,WEBSTER CITY 3,Treasurer of State,,REP,Aaron Boor,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Treasurer of State,,REP,Judy Warwick,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Treasurer of State,,REP,Judy Warwick,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Treasurer of State,,REP,Judy Warwick,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Treasurer of State,,REP,Judy Warwick,1,0,1
+Hamilton,PRECINCT 5 LC-RG-SC,Treasurer of State,,REP,Judy Warwick,0,0,0
+Hamilton,WEBSTER CITY 1,Treasurer of State,,REP,Judy Warwick,0,0,0
+Hamilton,WEBSTER CITY 2,Treasurer of State,,REP,Judy Warwick,0,0,0
+Hamilton,WEBSTER CITY 3,Treasurer of State,,REP,Judy Warwick,1,0,1
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Treasurer of State,,REP,Lynette Fisher,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Treasurer of State,,REP,Lynette Fisher,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Treasurer of State,,REP,Lynette Fisher,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Treasurer of State,,REP,Lynette Fisher,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Treasurer of State,,REP,Lynette Fisher,1,0,1
+Hamilton,WEBSTER CITY 1,Treasurer of State,,REP,Lynette Fisher,0,0,0
+Hamilton,WEBSTER CITY 2,Treasurer of State,,REP,Lynette Fisher,0,0,0
+Hamilton,WEBSTER CITY 3,Treasurer of State,,REP,Lynette Fisher,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Treasurer of State,,REP,Randall Olson,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Treasurer of State,,REP,Randall Olson,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Treasurer of State,,REP,Randall Olson,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Treasurer of State,,REP,Randall Olson,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Treasurer of State,,REP,Randall Olson,1,0,1
+Hamilton,WEBSTER CITY 1,Treasurer of State,,REP,Randall Olson,0,0,0
+Hamilton,WEBSTER CITY 2,Treasurer of State,,REP,Randall Olson,0,0,0
+Hamilton,WEBSTER CITY 3,Treasurer of State,,REP,Randall Olson,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Treasurer of State,,REP,James McGlynn,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Treasurer of State,,REP,James McGlynn,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Treasurer of State,,REP,James McGlynn,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Treasurer of State,,REP,James McGlynn,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Treasurer of State,,REP,James McGlynn,0,0,0
+Hamilton,WEBSTER CITY 1,Treasurer of State,,REP,James McGlynn,1,0,1
+Hamilton,WEBSTER CITY 2,Treasurer of State,,REP,James McGlynn,0,0,0
+Hamilton,WEBSTER CITY 3,Treasurer of State,,REP,James McGlynn,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Treasurer of State,,REP,Michelle Zahn,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Treasurer of State,,REP,Michelle Zahn,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Treasurer of State,,REP,Michelle Zahn,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Treasurer of State,,REP,Michelle Zahn,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Treasurer of State,,REP,Michelle Zahn,0,0,0
+Hamilton,WEBSTER CITY 1,Treasurer of State,,REP,Michelle Zahn,0,0,0
+Hamilton,WEBSTER CITY 2,Treasurer of State,,REP,Michelle Zahn,1,0,1
+Hamilton,WEBSTER CITY 3,Treasurer of State,,REP,Michelle Zahn,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Treasurer of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Treasurer of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Treasurer of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Treasurer of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Treasurer of State,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,Treasurer of State,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,Treasurer of State,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 3,Treasurer of State,,,Write-in,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Secretary of Agriculture,,REP,Ray Gaesser,15,5,10
+Hamilton,PRECINCT 2 BL-LB-WM,Secretary of Agriculture,,REP,Ray Gaesser,11,0,11
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Secretary of Agriculture,,REP,Ray Gaesser,10,1,9
+Hamilton,PRECINCT 4 LY-EL,Secretary of Agriculture,,REP,Ray Gaesser,6,0,6
+Hamilton,PRECINCT 5 LC-RG-SC,Secretary of Agriculture,,REP,Ray Gaesser,5,1,4
+Hamilton,WEBSTER CITY 1,Secretary of Agriculture,,REP,Ray Gaesser,18,5,13
+Hamilton,WEBSTER CITY 2,Secretary of Agriculture,,REP,Ray Gaesser,25,5,20
+Hamilton,WEBSTER CITY 3,Secretary of Agriculture,,REP,Ray Gaesser,4,0,4
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Secretary of Agriculture,,REP,Chad Ingels,5,0,5
+Hamilton,PRECINCT 2 BL-LB-WM,Secretary of Agriculture,,REP,Chad Ingels,7,0,7
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Secretary of Agriculture,,REP,Chad Ingels,7,2,5
+Hamilton,PRECINCT 4 LY-EL,Secretary of Agriculture,,REP,Chad Ingels,4,0,4
+Hamilton,PRECINCT 5 LC-RG-SC,Secretary of Agriculture,,REP,Chad Ingels,5,1,4
+Hamilton,WEBSTER CITY 1,Secretary of Agriculture,,REP,Chad Ingels,11,4,7
+Hamilton,WEBSTER CITY 2,Secretary of Agriculture,,REP,Chad Ingels,20,2,18
+Hamilton,WEBSTER CITY 3,Secretary of Agriculture,,REP,Chad Ingels,6,2,4
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Secretary of Agriculture,,REP,Craig Lang,6,1,5
+Hamilton,PRECINCT 2 BL-LB-WM,Secretary of Agriculture,,REP,Craig Lang,15,4,11
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Secretary of Agriculture,,REP,Craig Lang,35,3,32
+Hamilton,PRECINCT 4 LY-EL,Secretary of Agriculture,,REP,Craig Lang,10,1,9
+Hamilton,PRECINCT 5 LC-RG-SC,Secretary of Agriculture,,REP,Craig Lang,11,1,10
+Hamilton,WEBSTER CITY 1,Secretary of Agriculture,,REP,Craig Lang,12,1,11
+Hamilton,WEBSTER CITY 2,Secretary of Agriculture,,REP,Craig Lang,13,5,8
+Hamilton,WEBSTER CITY 3,Secretary of Agriculture,,REP,Craig Lang,7,2,5
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Secretary of Agriculture,,REP,Mike Naig,29,2,27
+Hamilton,PRECINCT 2 BL-LB-WM,Secretary of Agriculture,,REP,Mike Naig,22,3,19
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Secretary of Agriculture,,REP,Mike Naig,72,10,62
+Hamilton,PRECINCT 4 LY-EL,Secretary of Agriculture,,REP,Mike Naig,37,1,36
+Hamilton,PRECINCT 5 LC-RG-SC,Secretary of Agriculture,,REP,Mike Naig,40,6,34
+Hamilton,WEBSTER CITY 1,Secretary of Agriculture,,REP,Mike Naig,37,9,28
+Hamilton,WEBSTER CITY 2,Secretary of Agriculture,,REP,Mike Naig,65,19,46
+Hamilton,WEBSTER CITY 3,Secretary of Agriculture,,REP,Mike Naig,33,5,28
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Secretary of Agriculture,,REP,Dan Zumbach,10,1,9
+Hamilton,PRECINCT 2 BL-LB-WM,Secretary of Agriculture,,REP,Dan Zumbach,17,4,13
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Secretary of Agriculture,,REP,Dan Zumbach,18,0,18
+Hamilton,PRECINCT 4 LY-EL,Secretary of Agriculture,,REP,Dan Zumbach,17,0,17
+Hamilton,PRECINCT 5 LC-RG-SC,Secretary of Agriculture,,REP,Dan Zumbach,14,0,14
+Hamilton,WEBSTER CITY 1,Secretary of Agriculture,,REP,Dan Zumbach,29,6,23
+Hamilton,WEBSTER CITY 2,Secretary of Agriculture,,REP,Dan Zumbach,37,5,32
+Hamilton,WEBSTER CITY 3,Secretary of Agriculture,,REP,Dan Zumbach,21,3,18
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Secretary of Agriculture,,,Write-in,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Secretary of Agriculture,,,Write-in,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Secretary of Agriculture,,,Write-in,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Secretary of Agriculture,,,Write-in,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Secretary of Agriculture,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,Secretary of Agriculture,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,Secretary of Agriculture,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 3,Secretary of Agriculture,,,Write-in,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Attorney General,,REP,Tom Miller,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Attorney General,,REP,Tom Miller,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Attorney General,,REP,Tom Miller,2,0,2
+Hamilton,PRECINCT 4 LY-EL,Attorney General,,REP,Tom Miller,1,0,1
+Hamilton,PRECINCT 5 LC-RG-SC,Attorney General,,REP,Tom Miller,0,0,0
+Hamilton,WEBSTER CITY 1,Attorney General,,REP,Tom Miller,0,0,0
+Hamilton,WEBSTER CITY 2,Attorney General,,REP,Tom Miller,0,0,0
+Hamilton,WEBSTER CITY 3,Attorney General,,REP,Tom Miller,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Attorney General,,REP,Gary Groves,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Attorney General,,REP,Gary Groves,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Attorney General,,REP,Gary Groves,1,0,1
+Hamilton,PRECINCT 4 LY-EL,Attorney General,,REP,Gary Groves,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Attorney General,,REP,Gary Groves,0,0,0
+Hamilton,WEBSTER CITY 1,Attorney General,,REP,Gary Groves,0,0,0
+Hamilton,WEBSTER CITY 2,Attorney General,,REP,Gary Groves,0,0,0
+Hamilton,WEBSTER CITY 3,Attorney General,,REP,Gary Groves,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Attorney General,,REP,Aaron Boor,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Attorney General,,REP,Aaron Boor,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Attorney General,,REP,Aaron Boor,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Attorney General,,REP,Aaron Boor,1,0,1
+Hamilton,PRECINCT 5 LC-RG-SC,Attorney General,,REP,Aaron Boor,0,0,0
+Hamilton,WEBSTER CITY 1,Attorney General,,REP,Aaron Boor,0,0,0
+Hamilton,WEBSTER CITY 2,Attorney General,,REP,Aaron Boor,0,0,0
+Hamilton,WEBSTER CITY 3,Attorney General,,REP,Aaron Boor,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Attorney General,,REP,Mark Teigland,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Attorney General,,REP,Mark Teigland,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Attorney General,,REP,Mark Teigland,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Attorney General,,REP,Mark Teigland,1,0,1
+Hamilton,PRECINCT 5 LC-RG-SC,Attorney General,,REP,Mark Teigland,0,0,0
+Hamilton,WEBSTER CITY 1,Attorney General,,REP,Mark Teigland,0,0,0
+Hamilton,WEBSTER CITY 2,Attorney General,,REP,Mark Teigland,0,0,0
+Hamilton,WEBSTER CITY 3,Attorney General,,REP,Mark Teigland,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Attorney General,,REP,John Fisher,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Attorney General,,REP,John Fisher,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Attorney General,,REP,John Fisher,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Attorney General,,REP,John Fisher,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Attorney General,,REP,John Fisher,1,0,1
+Hamilton,WEBSTER CITY 1,Attorney General,,REP,John Fisher,0,0,0
+Hamilton,WEBSTER CITY 2,Attorney General,,REP,John Fisher,0,0,0
+Hamilton,WEBSTER CITY 3,Attorney General,,REP,John Fisher,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Attorney General,,REP,Gary Dickey,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Attorney General,,REP,Gary Dickey,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Attorney General,,REP,Gary Dickey,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Attorney General,,REP,Gary Dickey,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Attorney General,,REP,Gary Dickey,1,0,1
+Hamilton,WEBSTER CITY 1,Attorney General,,REP,Gary Dickey,0,0,0
+Hamilton,WEBSTER CITY 2,Attorney General,,REP,Gary Dickey,0,0,0
+Hamilton,WEBSTER CITY 3,Attorney General,,REP,Gary Dickey,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Attorney General,,REP,Ernest Kersten,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Attorney General,,REP,Ernest Kersten,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Attorney General,,REP,Ernest Kersten,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Attorney General,,REP,Ernest Kersten,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Attorney General,,REP,Ernest Kersten,0,0,0
+Hamilton,WEBSTER CITY 1,Attorney General,,REP,Ernest Kersten,1,0,1
+Hamilton,WEBSTER CITY 2,Attorney General,,REP,Ernest Kersten,0,0,0
+Hamilton,WEBSTER CITY 3,Attorney General,,REP,Ernest Kersten,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Attorney General,,REP,Lloyd Martin,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Attorney General,,REP,Lloyd Martin,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Attorney General,,REP,Lloyd Martin,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Attorney General,,REP,Lloyd Martin,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Attorney General,,REP,Lloyd Martin,0,0,0
+Hamilton,WEBSTER CITY 1,Attorney General,,REP,Lloyd Martin,0,0,0
+Hamilton,WEBSTER CITY 2,Attorney General,,REP,Lloyd Martin,1,0,1
+Hamilton,WEBSTER CITY 3,Attorney General,,REP,Lloyd Martin,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Attorney General,,,Write-in,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Attorney General,,,Write-in,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Attorney General,,,Write-in,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Attorney General,,,Write-in,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Attorney General,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,Attorney General,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,Attorney General,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 3,Attorney General,,,Write-in,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,State Representative District  48,,REP,Robert P. Bacon,53,5,48
+Hamilton,PRECINCT 2 BL-LB-WM,State Representative District  48,,REP,Robert P. Bacon,62,10,52
+Hamilton,PRECINCT 3 CL-HA-MN-WB,State Representative District  48,,REP,Robert P. Bacon,134,15,119
+Hamilton,PRECINCT 4 LY-EL,State Representative District  48,,REP,Robert P. Bacon,72,4,68
+Hamilton,PRECINCT 5 LC-RG-SC,State Representative District  48,,REP,Robert P. Bacon,65,6,59
+Hamilton,WEBSTER CITY 1,State Representative District  48,,REP,Robert P. Bacon,103,24,79
+Hamilton,WEBSTER CITY 2,State Representative District  48,,REP,Robert P. Bacon,148,33,115
+Hamilton,WEBSTER CITY 3,State Representative District  48,,REP,Robert P. Bacon,58,7,51
+Hamilton,PRECINCT 1 CA-FD-FM-IN,State Representative District  48,,,Write-in,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,State Representative District  48,,,Write-in,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,State Representative District  48,,,Write-in,0,0,0
+Hamilton,PRECINCT 4 LY-EL,State Representative District  48,,,Write-in,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,State Representative District  48,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,State Representative District  48,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,State Representative District  48,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 3,State Representative District  48,,,Write-in,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Board of Supervisors District 3,,REP,Rick Young,139,16,123
+Hamilton,PRECINCT 4 LY-EL,County Board of Supervisors District 3,,REP,Rick Young,76,3,73
+Hamilton,PRECINCT 5 LC-RG-SC,County Board of Supervisors District 3,,REP,Rick Young,68,9,59
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Board of Supervisors District 3,,,Write-in,0,0,0
+Hamilton,PRECINCT 4 LY-EL,County Board of Supervisors District 3,,,Write-in,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,County Board of Supervisors District 3,,,Write-in,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,County Treasurer,,REP,Judy Warwick,42,4,38
+Hamilton,PRECINCT 2 BL-LB-WM,County Treasurer,,REP,Judy Warwick,42,5,37
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Treasurer,,REP,Judy Warwick,68,8,60
+Hamilton,PRECINCT 4 LY-EL,County Treasurer,,REP,Judy Warwick,40,2,38
+Hamilton,PRECINCT 5 LC-RG-SC,County Treasurer,,REP,Judy Warwick,33,6,27
+Hamilton,WEBSTER CITY 1,County Treasurer,,REP,Judy Warwick,86,21,65
+Hamilton,WEBSTER CITY 2,County Treasurer,,REP,Judy Warwick,143,36,107
+Hamilton,WEBSTER CITY 3,County Treasurer,,REP,Judy Warwick,61,14,47
+Hamilton,PRECINCT 1 CA-FD-FM-IN,County Treasurer,,REP,Cheryl Westrum,33,5,28
+Hamilton,PRECINCT 2 BL-LB-WM,County Treasurer,,REP,Cheryl Westrum,35,7,28
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Treasurer,,REP,Cheryl Westrum,88,9,79
+Hamilton,PRECINCT 4 LY-EL,County Treasurer,,REP,Cheryl Westrum,41,1,40
+Hamilton,PRECINCT 5 LC-RG-SC,County Treasurer,,REP,Cheryl Westrum,39,3,36
+Hamilton,WEBSTER CITY 1,County Treasurer,,REP,Cheryl Westrum,54,11,43
+Hamilton,WEBSTER CITY 2,County Treasurer,,REP,Cheryl Westrum,58,14,44
+Hamilton,WEBSTER CITY 3,County Treasurer,,REP,Cheryl Westrum,26,5,21
+Hamilton,PRECINCT 1 CA-FD-FM-IN,County Treasurer,,,Write-in,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,County Treasurer,,,Write-in,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Treasurer,,,Write-in,0,0,0
+Hamilton,PRECINCT 4 LY-EL,County Treasurer,,,Write-in,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,County Treasurer,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,County Treasurer,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,County Treasurer,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 3,County Treasurer,,,Write-in,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,County Recorder,,REP,Kim Anderson,69,8,61
+Hamilton,PRECINCT 2 BL-LB-WM,County Recorder,,REP,Kim Anderson,77,12,65
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Recorder,,REP,Kim Anderson,143,17,126
+Hamilton,PRECINCT 4 LY-EL,County Recorder,,REP,Kim Anderson,77,4,73
+Hamilton,PRECINCT 5 LC-RG-SC,County Recorder,,REP,Kim Anderson,68,9,59
+Hamilton,WEBSTER CITY 1,County Recorder,,REP,Kim Anderson,123,31,92
+Hamilton,WEBSTER CITY 2,County Recorder,,REP,Kim Anderson,180,44,136
+Hamilton,WEBSTER CITY 3,County Recorder,,REP,Kim Anderson,67,12,55
+Hamilton,PRECINCT 1 CA-FD-FM-IN,County Recorder,,,Write-in,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,County Recorder,,,Write-in,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Recorder,,,Write-in,0,0,0
+Hamilton,PRECINCT 4 LY-EL,County Recorder,,,Write-in,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,County Recorder,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,County Recorder,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,County Recorder,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 3,County Recorder,,,Write-in,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,County Attorney,,REP,Pat Chambers,2,2,0
+Hamilton,PRECINCT 2 BL-LB-WM,County Attorney,,REP,Pat Chambers,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Attorney,,REP,Pat Chambers,1,0,1
+Hamilton,PRECINCT 4 LY-EL,County Attorney,,REP,Pat Chambers,1,0,1
+Hamilton,PRECINCT 5 LC-RG-SC,County Attorney,,REP,Pat Chambers,0,0,0
+Hamilton,WEBSTER CITY 1,County Attorney,,REP,Pat Chambers,1,0,1
+Hamilton,WEBSTER CITY 2,County Attorney,,REP,Pat Chambers,1,0,1
+Hamilton,WEBSTER CITY 3,County Attorney,,REP,Pat Chambers,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,County Attorney,,REP,Gary Groves,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,County Attorney,,REP,Gary Groves,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Attorney,,REP,Gary Groves,1,0,1
+Hamilton,PRECINCT 4 LY-EL,County Attorney,,REP,Gary Groves,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,County Attorney,,REP,Gary Groves,0,0,0
+Hamilton,WEBSTER CITY 1,County Attorney,,REP,Gary Groves,1,0,1
+Hamilton,WEBSTER CITY 2,County Attorney,,REP,Gary Groves,0,0,0
+Hamilton,WEBSTER CITY 3,County Attorney,,REP,Gary Groves,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,County Attorney,,,Write-in,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,County Attorney,,,Write-in,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Attorney,,,Write-in,0,0,0
+Hamilton,PRECINCT 4 LY-EL,County Attorney,,,Write-in,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,County Attorney,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,County Attorney,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,County Attorney,,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 3,County Attorney,,,Write-in,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,United States Representative District 4,,DEM,Leann Jacobsen,16,4,12
+Hamilton,PRECINCT 2 BL-LB-WM,United States Representative District 4,,DEM,Leann Jacobsen,13,5,8
+Hamilton,PRECINCT 3 CL-HA-MN-WB,United States Representative District 4,,DEM,Leann Jacobsen,22,11,11
+Hamilton,PRECINCT 4 LY-EL,United States Representative District 4,,DEM,Leann Jacobsen,18,2,16
+Hamilton,PRECINCT 5 LC-RG-SC,United States Representative District 4,,DEM,Leann Jacobsen,8,4,4
+Hamilton,WEBSTER CITY 1,United States Representative District 4,,DEM,Leann Jacobsen,44,21,23
+Hamilton,WEBSTER CITY 2,United States Representative District 4,,DEM,Leann Jacobsen,59,23,36
+Hamilton,WEBSTER CITY 3,United States Representative District 4,,DEM,Leann Jacobsen,31,7,24
+Hamilton,PRECINCT 1 CA-FD-FM-IN,United States Representative District 4,,DEM,John Paschen,10,1,9
+Hamilton,PRECINCT 2 BL-LB-WM,United States Representative District 4,,DEM,John Paschen,11,4,7
+Hamilton,PRECINCT 3 CL-HA-MN-WB,United States Representative District 4,,DEM,John Paschen,13,2,11
+Hamilton,PRECINCT 4 LY-EL,United States Representative District 4,,DEM,John Paschen,15,0,15
+Hamilton,PRECINCT 5 LC-RG-SC,United States Representative District 4,,DEM,John Paschen,19,2,17
+Hamilton,WEBSTER CITY 1,United States Representative District 4,,DEM,John Paschen,22,7,15
+Hamilton,WEBSTER CITY 2,United States Representative District 4,,DEM,John Paschen,15,3,12
+Hamilton,WEBSTER CITY 3,United States Representative District 4,,DEM,John Paschen,13,2,11
+Hamilton,PRECINCT 1 CA-FD-FM-IN,United States Representative District 4,,DEM,J.D. Scholten,23,3,20
+Hamilton,PRECINCT 2 BL-LB-WM,United States Representative District 4,,DEM,J.D. Scholten,12,1,11
+Hamilton,PRECINCT 3 CL-HA-MN-WB,United States Representative District 4,,DEM,J.D. Scholten,47,10,37
+Hamilton,PRECINCT 4 LY-EL,United States Representative District 4,,DEM,J.D. Scholten,39,4,35
+Hamilton,PRECINCT 5 LC-RG-SC,United States Representative District 4,,DEM,J.D. Scholten,11,2,9
+Hamilton,WEBSTER CITY 1,United States Representative District 4,,DEM,J.D. Scholten,66,17,49
+Hamilton,WEBSTER CITY 2,United States Representative District 4,,DEM,J.D. Scholten,79,20,59
+Hamilton,WEBSTER CITY 3,United States Representative District 4,,DEM,J.D. Scholten,38,8,30
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Governor,,DEM,Nate Boulton,1,0,1
+Hamilton,PRECINCT 2 BL-LB-WM,Governor,,DEM,Nate Boulton,1,0,1
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Governor,,DEM,Nate Boulton,8,3,5
+Hamilton,PRECINCT 4 LY-EL,Governor,,DEM,Nate Boulton,4,1,3
+Hamilton,PRECINCT 5 LC-RG-SC,Governor,,DEM,Nate Boulton,1,0,1
+Hamilton,WEBSTER CITY 1,Governor,,DEM,Nate Boulton,6,3,3
+Hamilton,WEBSTER CITY 2,Governor,,DEM,Nate Boulton,6,3,3
+Hamilton,WEBSTER CITY 3,Governor,,DEM,Nate Boulton,4,2,2
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Governor,,DEM,Cathy Glasson,4,1,3
+Hamilton,PRECINCT 2 BL-LB-WM,Governor,,DEM,Cathy Glasson,10,2,8
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Governor,,DEM,Cathy Glasson,10,0,10
+Hamilton,PRECINCT 4 LY-EL,Governor,,DEM,Cathy Glasson,15,2,13
+Hamilton,PRECINCT 5 LC-RG-SC,Governor,,DEM,Cathy Glasson,6,1,5
+Hamilton,WEBSTER CITY 1,Governor,,DEM,Cathy Glasson,22,7,15
+Hamilton,WEBSTER CITY 2,Governor,,DEM,Cathy Glasson,11,2,9
+Hamilton,WEBSTER CITY 3,Governor,,DEM,Cathy Glasson,12,0,12
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Governor,,DEM,Fred Hubbell,32,5,27
+Hamilton,PRECINCT 2 BL-LB-WM,Governor,,DEM,Fred Hubbell,25,4,21
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Governor,,DEM,Fred Hubbell,60,21,39
+Hamilton,PRECINCT 4 LY-EL,Governor,,DEM,Fred Hubbell,46,3,43
+Hamilton,PRECINCT 5 LC-RG-SC,Governor,,DEM,Fred Hubbell,21,3,18
+Hamilton,WEBSTER CITY 1,Governor,,DEM,Fred Hubbell,101,32,69
+Hamilton,WEBSTER CITY 2,Governor,,DEM,Fred Hubbell,113,36,77
+Hamilton,WEBSTER CITY 3,Governor,,DEM,Fred Hubbell,60,13,47
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Governor,,DEM,Andrea Andy McGuire,3,0,3
+Hamilton,PRECINCT 2 BL-LB-WM,Governor,,DEM,Andrea Andy McGuire,5,3,2
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Governor,,DEM,Andrea Andy McGuire,4,1,3
+Hamilton,PRECINCT 4 LY-EL,Governor,,DEM,Andrea Andy McGuire,7,1,6
+Hamilton,PRECINCT 5 LC-RG-SC,Governor,,DEM,Andrea Andy McGuire,6,1,5
+Hamilton,WEBSTER CITY 1,Governor,,DEM,Andrea Andy McGuire,4,1,3
+Hamilton,WEBSTER CITY 2,Governor,,DEM,Andrea Andy McGuire,9,5,4
+Hamilton,WEBSTER CITY 3,Governor,,DEM,Andrea Andy McGuire,1,0,1
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Governor,,DEM,John Norris,12,2,10
+Hamilton,PRECINCT 2 BL-LB-WM,Governor,,DEM,John Norris,2,1,1
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Governor,,DEM,John Norris,5,1,4
+Hamilton,PRECINCT 4 LY-EL,Governor,,DEM,John Norris,3,0,3
+Hamilton,PRECINCT 5 LC-RG-SC,Governor,,DEM,John Norris,6,3,3
+Hamilton,WEBSTER CITY 1,Governor,,DEM,John Norris,5,2,3
+Hamilton,WEBSTER CITY 2,Governor,,DEM,John Norris,22,2,20
+Hamilton,WEBSTER CITY 3,Governor,,DEM,John Norris,6,2,4
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Governor,,DEM,Ross Wilburn,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Governor,,DEM,Ross Wilburn,1,0,1
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Governor,,DEM,Ross Wilburn,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Governor,,DEM,Ross Wilburn,1,0,1
+Hamilton,PRECINCT 5 LC-RG-SC,Governor,,DEM,Ross Wilburn,0,0,0
+Hamilton,WEBSTER CITY 1,Governor,,DEM,Ross Wilburn,4,1,3
+Hamilton,WEBSTER CITY 2,Governor,,DEM,Ross Wilburn,2,0,2
+Hamilton,WEBSTER CITY 3,Governor,,DEM,Ross Wilburn,1,0,1
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Secretary of State,,DEM,Deidre DeJear,24,5,19
+Hamilton,PRECINCT 2 BL-LB-WM,Secretary of State,,DEM,Deidre DeJear,18,4,14
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Secretary of State,,DEM,Deidre DeJear,34,7,27
+Hamilton,PRECINCT 4 LY-EL,Secretary of State,,DEM,Deidre DeJear,29,1,28
+Hamilton,PRECINCT 5 LC-RG-SC,Secretary of State,,DEM,Deidre DeJear,12,4,8
+Hamilton,WEBSTER CITY 1,Secretary of State,,DEM,Deidre DeJear,43,15,28
+Hamilton,WEBSTER CITY 2,Secretary of State,,DEM,Deidre DeJear,40,11,29
+Hamilton,WEBSTER CITY 3,Secretary of State,,DEM,Deidre DeJear,29,10,19
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Secretary of State,,DEM,Jim Mowrer,25,3,22
+Hamilton,PRECINCT 2 BL-LB-WM,Secretary of State,,DEM,Jim Mowrer,19,4,15
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Secretary of State,,DEM,Jim Mowrer,48,19,29
+Hamilton,PRECINCT 4 LY-EL,Secretary of State,,DEM,Jim Mowrer,43,6,37
+Hamilton,PRECINCT 5 LC-RG-SC,Secretary of State,,DEM,Jim Mowrer,26,4,22
+Hamilton,WEBSTER CITY 1,Secretary of State,,DEM,Jim Mowrer,91,31,60
+Hamilton,WEBSTER CITY 2,Secretary of State,,DEM,Jim Mowrer,113,34,79
+Hamilton,WEBSTER CITY 3,Secretary of State,,DEM,Jim Mowrer,52,7,45
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Auditor of State,,DEM,Rob Sand,45,8,37
+Hamilton,PRECINCT 2 BL-LB-WM,Auditor of State,,DEM,Rob Sand,31,8,23
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Auditor of State,,DEM,Rob Sand,71,24,47
+Hamilton,PRECINCT 4 LY-EL,Auditor of State,,DEM,Rob Sand,65,6,59
+Hamilton,PRECINCT 5 LC-RG-SC,Auditor of State,,DEM,Rob Sand,35,7,28
+Hamilton,WEBSTER CITY 1,Auditor of State,,DEM,Rob Sand,114,39,75
+Hamilton,WEBSTER CITY 2,Auditor of State,,DEM,Rob Sand,138,43,95
+Hamilton,WEBSTER CITY 3,Auditor of State,,DEM,Rob Sand,75,16,59
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Treasurer of State,,DEM,Michael L. Fitzgerald,49,8,41
+Hamilton,PRECINCT 2 BL-LB-WM,Treasurer of State,,DEM,Michael L. Fitzgerald,35,8,27
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Treasurer of State,,DEM,Michael L. Fitzgerald,80,26,54
+Hamilton,PRECINCT 4 LY-EL,Treasurer of State,,DEM,Michael L. Fitzgerald,70,7,63
+Hamilton,PRECINCT 5 LC-RG-SC,Treasurer of State,,DEM,Michael L. Fitzgerald,38,8,30
+Hamilton,WEBSTER CITY 1,Treasurer of State,,DEM,Michael L. Fitzgerald,118,40,78
+Hamilton,WEBSTER CITY 2,Treasurer of State,,DEM,Michael L. Fitzgerald,143,44,99
+Hamilton,WEBSTER CITY 3,Treasurer of State,,DEM,Michael L. Fitzgerald,77,16,61
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Secretary of Agriculture,,DEM,Tim Gannon,49,8,41
+Hamilton,PRECINCT 2 BL-LB-WM,Secretary of Agriculture,,DEM,Tim Gannon,30,8,22
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Secretary of Agriculture,,DEM,Tim Gannon,71,23,48
+Hamilton,PRECINCT 4 LY-EL,Secretary of Agriculture,,DEM,Tim Gannon,63,6,57
+Hamilton,PRECINCT 5 LC-RG-SC,Secretary of Agriculture,,DEM,Tim Gannon,33,7,26
+Hamilton,WEBSTER CITY 1,Secretary of Agriculture,,DEM,Tim Gannon,110,39,71
+Hamilton,WEBSTER CITY 2,Secretary of Agriculture,,DEM,Tim Gannon,139,43,96
+Hamilton,WEBSTER CITY 3,Secretary of Agriculture,,DEM,Tim Gannon,74,16,58
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Attorney General,,DEM,Tom Miller,51,8,43
+Hamilton,PRECINCT 2 BL-LB-WM,Attorney General,,DEM,Tom Miller,37,8,29
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Attorney General,,DEM,Tom Miller,78,25,53
+Hamilton,PRECINCT 4 LY-EL,Attorney General,,DEM,Tom Miller,69,7,62
+Hamilton,PRECINCT 5 LC-RG-SC,Attorney General,,DEM,Tom Miller,37,8,29
+Hamilton,WEBSTER CITY 1,Attorney General,,DEM,Tom Miller,122,40,82
+Hamilton,WEBSTER CITY 2,Attorney General,,DEM,Tom Miller,145,45,100
+Hamilton,WEBSTER CITY 3,Attorney General,,DEM,Tom Miller,79,16,63
+Hamilton,PRECINCT 1 CA-FD-FM-IN,State Representative District  48,,DEM,Tim Winter,48,8,40
+Hamilton,PRECINCT 2 BL-LB-WM,State Representative District  48,,DEM,Tim Winter,30,8,22
+Hamilton,PRECINCT 3 CL-HA-MN-WB,State Representative District  48,,DEM,Tim Winter,69,23,46
+Hamilton,PRECINCT 4 LY-EL,State Representative District  48,,DEM,Tim Winter,63,6,57
+Hamilton,PRECINCT 5 LC-RG-SC,State Representative District  48,,DEM,Tim Winter,32,7,25
+Hamilton,WEBSTER CITY 1,State Representative District  48,,DEM,Tim Winter,114,41,73
+Hamilton,WEBSTER CITY 2,State Representative District  48,,DEM,Tim Winter,140,42,98
+Hamilton,WEBSTER CITY 3,State Representative District  48,,DEM,Tim Winter,73,16,57
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Board of Supervisors District 3,,DEM,Paul Sealine,1,0,1
+Hamilton,PRECINCT 4 LY-EL,County Board of Supervisors District 3,,DEM,Paul Sealine,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,County Board of Supervisors District 3,,DEM,Paul Sealine,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Board of Supervisors District 3,,DEM,Rick Young,1,0,1
+Hamilton,PRECINCT 4 LY-EL,County Board of Supervisors District 3,,DEM,Rick Young,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,County Board of Supervisors District 3,,DEM,Rick Young,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Board of Supervisors District 3,,DEM,Marvin Ness,1,0,1
+Hamilton,PRECINCT 4 LY-EL,County Board of Supervisors District 3,,DEM,Marvin Ness,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,County Board of Supervisors District 3,,DEM,Marvin Ness,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Board of Supervisors District 3,,DEM,Lon Crosby,1,0,1
+Hamilton,PRECINCT 4 LY-EL,County Board of Supervisors District 3,,DEM,Lon Crosby,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,County Board of Supervisors District 3,,DEM,Lon Crosby,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Board of Supervisors District 3,,DEM,Brian Scott,1,0,1
+Hamilton,PRECINCT 4 LY-EL,County Board of Supervisors District 3,,DEM,Brian Scott,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,County Board of Supervisors District 3,,DEM,Brian Scott,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Board of Supervisors District 3,,DEM,Gordon Stull,0,0,0
+Hamilton,PRECINCT 4 LY-EL,County Board of Supervisors District 3,,DEM,Gordon Stull,2,0,2
+Hamilton,PRECINCT 5 LC-RG-SC,County Board of Supervisors District 3,,DEM,Gordon Stull,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Board of Supervisors District 3,,DEM,Lyle Evans,1,1,0
+Hamilton,PRECINCT 4 LY-EL,County Board of Supervisors District 3,,DEM,Lyle Evans,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,County Board of Supervisors District 3,,DEM,Lyle Evans,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,County Treasurer,,DEM,Colleen Hansen,47,8,39
+Hamilton,PRECINCT 2 BL-LB-WM,County Treasurer,,DEM,Colleen Hansen,34,7,27
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Treasurer,,DEM,Colleen Hansen,76,25,51
+Hamilton,PRECINCT 4 LY-EL,County Treasurer,,DEM,Colleen Hansen,65,7,58
+Hamilton,PRECINCT 5 LC-RG-SC,County Treasurer,,DEM,Colleen Hansen,31,6,25
+Hamilton,WEBSTER CITY 1,County Treasurer,,DEM,Colleen Hansen,104,32,72
+Hamilton,WEBSTER CITY 2,County Treasurer,,DEM,Colleen Hansen,149,43,106
+Hamilton,WEBSTER CITY 3,County Treasurer,,DEM,Colleen Hansen,65,13,52
+Hamilton,PRECINCT 1 CA-FD-FM-IN,County Recorder,,DEM,Kim Anderson,1,0,1
+Hamilton,PRECINCT 2 BL-LB-WM,County Recorder,,DEM,Kim Anderson,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Recorder,,DEM,Kim Anderson,1,0,1
+Hamilton,PRECINCT 4 LY-EL,County Recorder,,DEM,Kim Anderson,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,County Recorder,,DEM,Kim Anderson,0,0,0
+Hamilton,WEBSTER CITY 1,County Recorder,,DEM,Kim Anderson,1,1,0
+Hamilton,WEBSTER CITY 2,County Recorder,,DEM,Kim Anderson,0,0,0
+Hamilton,WEBSTER CITY 3,County Recorder,,DEM,Kim Anderson,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,County Recorder,,DEM,Cindy Stull,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,County Recorder,,DEM,Cindy Stull,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Recorder,,DEM,Cindy Stull,0,0,0
+Hamilton,PRECINCT 4 LY-EL,County Recorder,,DEM,Cindy Stull,2,0,2
+Hamilton,PRECINCT 5 LC-RG-SC,County Recorder,,DEM,Cindy Stull,0,0,0
+Hamilton,WEBSTER CITY 1,County Recorder,,DEM,Cindy Stull,0,0,0
+Hamilton,WEBSTER CITY 2,County Recorder,,DEM,Cindy Stull,0,0,0
+Hamilton,WEBSTER CITY 3,County Recorder,,DEM,Cindy Stull,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,County Attorney,,DEM,Patrick B. Chambers,43,7,36
+Hamilton,PRECINCT 2 BL-LB-WM,County Attorney,,DEM,Patrick B. Chambers,33,8,25
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Attorney,,DEM,Patrick B. Chambers,67,24,43
+Hamilton,PRECINCT 4 LY-EL,County Attorney,,DEM,Patrick B. Chambers,66,6,60
+Hamilton,PRECINCT 5 LC-RG-SC,County Attorney,,DEM,Patrick B. Chambers,34,7,27
+Hamilton,WEBSTER CITY 1,County Attorney,,DEM,Patrick B. Chambers,114,40,74
+Hamilton,WEBSTER CITY 2,County Attorney,,DEM,Patrick B. Chambers,145,45,100
+Hamilton,WEBSTER CITY 3,County Attorney,,DEM,Patrick B. Chambers,73,16,57
+Hamilton,PRECINCT 1 CA-FD-FM-IN,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Hamilton,PRECINCT 4 LY-EL,United States Representative District 4,,LIB,Charles Aldrich,2,1,1
+Hamilton,PRECINCT 5 LC-RG-SC,United States Representative District 4,,LIB,Charles Aldrich,2,0,2
+Hamilton,WEBSTER CITY 1,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
+Hamilton,WEBSTER CITY 2,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Hamilton,WEBSTER CITY 3,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Governor,,LIB,Marco Battaglia,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Governor,,LIB,Marco Battaglia,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Governor,,LIB,Marco Battaglia,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Governor,,LIB,Marco Battaglia,1,0,1
+Hamilton,PRECINCT 5 LC-RG-SC,Governor,,LIB,Marco Battaglia,1,0,1
+Hamilton,WEBSTER CITY 1,Governor,,LIB,Marco Battaglia,0,0,0
+Hamilton,WEBSTER CITY 2,Governor,,LIB,Marco Battaglia,0,0,0
+Hamilton,WEBSTER CITY 3,Governor,,LIB,Marco Battaglia,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Governor,,LIB,Jake Porter,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Governor,,LIB,Jake Porter,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Governor,,LIB,Jake Porter,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Governor,,LIB,Jake Porter,1,1,0
+Hamilton,PRECINCT 5 LC-RG-SC,Governor,,LIB,Jake Porter,1,0,1
+Hamilton,WEBSTER CITY 1,Governor,,LIB,Jake Porter,0,0,0
+Hamilton,WEBSTER CITY 2,Governor,,LIB,Jake Porter,0,0,0
+Hamilton,WEBSTER CITY 3,Governor,,LIB,Jake Porter,1,0,1
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Secretary of State,,LIB,Paul Pate,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Secretary of State,,LIB,Paul Pate,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Secretary of State,,LIB,Paul Pate,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Secretary of State,,LIB,Paul Pate,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Secretary of State,,LIB,Paul Pate,1,0,1
+Hamilton,WEBSTER CITY 1,Secretary of State,,LIB,Paul Pate,0,0,0
+Hamilton,WEBSTER CITY 2,Secretary of State,,LIB,Paul Pate,0,0,0
+Hamilton,WEBSTER CITY 3,Secretary of State,,LIB,Paul Pate,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Secretary of Agriculture,,LIB,Chad Ingels,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Secretary of Agriculture,,LIB,Chad Ingels,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Secretary of Agriculture,,LIB,Chad Ingels,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Secretary of Agriculture,,LIB,Chad Ingels,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Secretary of Agriculture,,LIB,Chad Ingels,1,0,1
+Hamilton,WEBSTER CITY 1,Secretary of Agriculture,,LIB,Chad Ingels,0,0,0
+Hamilton,WEBSTER CITY 2,Secretary of Agriculture,,LIB,Chad Ingels,0,0,0
+Hamilton,WEBSTER CITY 3,Secretary of Agriculture,,LIB,Chad Ingels,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,Secretary of Agriculture,,LIB,Robert P. Bacon,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,Secretary of Agriculture,,LIB,Robert P. Bacon,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,Secretary of Agriculture,,LIB,Robert P. Bacon,0,0,0
+Hamilton,PRECINCT 4 LY-EL,Secretary of Agriculture,,LIB,Robert P. Bacon,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,Secretary of Agriculture,,LIB,Robert P. Bacon,0,0,0
+Hamilton,WEBSTER CITY 1,Secretary of Agriculture,,LIB,Robert P. Bacon,0,0,0
+Hamilton,WEBSTER CITY 2,Secretary of Agriculture,,LIB,Robert P. Bacon,0,0,0
+Hamilton,WEBSTER CITY 3,Secretary of Agriculture,,LIB,Robert P. Bacon,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,State Representative District  48,,LIB,Robert P. Bacon,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,State Representative District  48,,LIB,Robert P. Bacon,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,State Representative District  48,,LIB,Robert P. Bacon,0,0,0
+Hamilton,PRECINCT 4 LY-EL,State Representative District  48,,LIB,Robert P. Bacon,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,State Representative District  48,,LIB,Robert P. Bacon,1,0,1
+Hamilton,WEBSTER CITY 1,State Representative District  48,,LIB,Robert P. Bacon,0,0,0
+Hamilton,WEBSTER CITY 2,State Representative District  48,,LIB,Robert P. Bacon,0,0,0
+Hamilton,WEBSTER CITY 3,State Representative District  48,,LIB,Robert P. Bacon,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,County Treasurer,,LIB,Judy Warwick,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,County Treasurer,,LIB,Judy Warwick,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,County Treasurer,,LIB,Judy Warwick,0,0,0
+Hamilton,PRECINCT 4 LY-EL,County Treasurer,,LIB,Judy Warwick,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,County Treasurer,,LIB,Judy Warwick,0,0,0
+Hamilton,WEBSTER CITY 1,County Treasurer,,LIB,Judy Warwick,1,0,1
+Hamilton,WEBSTER CITY 2,County Treasurer,,LIB,Judy Warwick,0,0,0
+Hamilton,WEBSTER CITY 3,County Treasurer,,LIB,Judy Warwick,0,0,0

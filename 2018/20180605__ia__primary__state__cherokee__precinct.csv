@@ -1,0 +1,638 @@
+county,precinct,office,district,party,candidate,votes,absentee,polling
+Cherokee,#1 Aurelia,United States Representative District 4,,REP,Cyndi Hanson,36,12,24
+Cherokee,#2 Cleghorn,United States Representative District 4,,REP,Cyndi Hanson,44,13,31
+Cherokee,#3 Quimby,United States Representative District 4,,REP,Cyndi Hanson,21,9,12
+Cherokee,#4 Cherokee,United States Representative District 4,,REP,Cyndi Hanson,38,9,29
+Cherokee,#5 Cherokee Ward 1,United States Representative District 4,,REP,Cyndi Hanson,93,30,63
+Cherokee,#6 Cherokee Ward 2,United States Representative District 4,,REP,Cyndi Hanson,49,18,31
+Cherokee,#7 Cherokee Ward 3,United States Representative District 4,,REP,Cyndi Hanson,49,14,35
+Cherokee,#1 Aurelia,United States Representative District 4,,REP,Steve King,105,20,85
+Cherokee,#2 Cleghorn,United States Representative District 4,,REP,Steve King,124,33,91
+Cherokee,#3 Quimby,United States Representative District 4,,REP,Steve King,56,19,37
+Cherokee,#4 Cherokee,United States Representative District 4,,REP,Steve King,113,33,80
+Cherokee,#5 Cherokee Ward 1,United States Representative District 4,,REP,Steve King,163,57,106
+Cherokee,#6 Cherokee Ward 2,United States Representative District 4,,REP,Steve King,60,13,47
+Cherokee,#7 Cherokee Ward 3,United States Representative District 4,,REP,Steve King,102,40,62
+Cherokee,#1 Aurelia,United States Representative District 4,,,Write-in,0,0,0
+Cherokee,#2 Cleghorn,United States Representative District 4,,,Write-in,0,0,0
+Cherokee,#3 Quimby,United States Representative District 4,,,Write-in,0,0,0
+Cherokee,#4 Cherokee,United States Representative District 4,,,Write-in,0,0,0
+Cherokee,#5 Cherokee Ward 1,United States Representative District 4,,,Write-in,0,0,0
+Cherokee,#6 Cherokee Ward 2,United States Representative District 4,,,Write-in,0,0,0
+Cherokee,#7 Cherokee Ward 3,United States Representative District 4,,,Write-in,0,0,0
+Cherokee,#1 Aurelia,Governor,,REP,Kim Reynolds,123,24,99
+Cherokee,#2 Cleghorn,Governor,,REP,Kim Reynolds,158,42,116
+Cherokee,#3 Quimby,Governor,,REP,Kim Reynolds,68,23,45
+Cherokee,#4 Cherokee,Governor,,REP,Kim Reynolds,140,41,99
+Cherokee,#5 Cherokee Ward 1,Governor,,REP,Kim Reynolds,214,74,140
+Cherokee,#6 Cherokee Ward 2,Governor,,REP,Kim Reynolds,85,23,62
+Cherokee,#7 Cherokee Ward 3,Governor,,REP,Kim Reynolds,134,46,88
+Cherokee,#1 Aurelia,Governor,,,Write-in,0,0,0
+Cherokee,#2 Cleghorn,Governor,,,Write-in,0,0,0
+Cherokee,#3 Quimby,Governor,,,Write-in,0,0,0
+Cherokee,#4 Cherokee,Governor,,,Write-in,0,0,0
+Cherokee,#5 Cherokee Ward 1,Governor,,,Write-in,0,0,0
+Cherokee,#6 Cherokee Ward 2,Governor,,,Write-in,0,0,0
+Cherokee,#7 Cherokee Ward 3,Governor,,,Write-in,0,0,0
+Cherokee,#1 Aurelia,Secretary of State,,REP,Paul D. Pate,113,24,89
+Cherokee,#2 Cleghorn,Secretary of State,,REP,Paul D. Pate,133,39,94
+Cherokee,#3 Quimby,Secretary of State,,REP,Paul D. Pate,66,20,46
+Cherokee,#4 Cherokee,Secretary of State,,REP,Paul D. Pate,126,36,90
+Cherokee,#5 Cherokee Ward 1,Secretary of State,,REP,Paul D. Pate,192,64,128
+Cherokee,#6 Cherokee Ward 2,Secretary of State,,REP,Paul D. Pate,77,22,55
+Cherokee,#7 Cherokee Ward 3,Secretary of State,,REP,Paul D. Pate,111,36,75
+Cherokee,#1 Aurelia,Secretary of State,,,Write-in,0,0,0
+Cherokee,#2 Cleghorn,Secretary of State,,,Write-in,0,0,0
+Cherokee,#3 Quimby,Secretary of State,,,Write-in,0,0,0
+Cherokee,#4 Cherokee,Secretary of State,,,Write-in,0,0,0
+Cherokee,#5 Cherokee Ward 1,Secretary of State,,,Write-in,1,0,1
+Cherokee,#6 Cherokee Ward 2,Secretary of State,,,Write-in,0,0,0
+Cherokee,#7 Cherokee Ward 3,Secretary of State,,,Write-in,0,0,0
+Cherokee,#1 Aurelia,Auditor of State,,REP,Mary Mosiman,106,22,84
+Cherokee,#2 Cleghorn,Auditor of State,,REP,Mary Mosiman,124,37,87
+Cherokee,#3 Quimby,Auditor of State,,REP,Mary Mosiman,65,20,45
+Cherokee,#4 Cherokee,Auditor of State,,REP,Mary Mosiman,121,35,86
+Cherokee,#5 Cherokee Ward 1,Auditor of State,,REP,Mary Mosiman,178,57,121
+Cherokee,#6 Cherokee Ward 2,Auditor of State,,REP,Mary Mosiman,72,19,53
+Cherokee,#7 Cherokee Ward 3,Auditor of State,,REP,Mary Mosiman,109,35,74
+Cherokee,#1 Aurelia,Auditor of State,,,Write-in,0,0,0
+Cherokee,#2 Cleghorn,Auditor of State,,,Write-in,0,0,0
+Cherokee,#3 Quimby,Auditor of State,,,Write-in,0,0,0
+Cherokee,#4 Cherokee,Auditor of State,,,Write-in,0,0,0
+Cherokee,#5 Cherokee Ward 1,Auditor of State,,,Write-in,1,0,1
+Cherokee,#6 Cherokee Ward 2,Auditor of State,,,Write-in,0,0,0
+Cherokee,#7 Cherokee Ward 3,Auditor of State,,,Write-in,0,0,0
+Cherokee,#1 Aurelia,Treasurer of State,,REP,Eric Wester,0,0,0
+Cherokee,#2 Cleghorn,Treasurer of State,,REP,Eric Wester,2,0,2
+Cherokee,#3 Quimby,Treasurer of State,,REP,Eric Wester,0,0,0
+Cherokee,#4 Cherokee,Treasurer of State,,REP,Eric Wester,0,0,0
+Cherokee,#5 Cherokee Ward 1,Treasurer of State,,REP,Eric Wester,0,0,0
+Cherokee,#6 Cherokee Ward 2,Treasurer of State,,REP,Eric Wester,0,0,0
+Cherokee,#7 Cherokee Ward 3,Treasurer of State,,REP,Eric Wester,0,0,0
+Cherokee,#1 Aurelia,Treasurer of State,,,Write-in,0,0,0
+Cherokee,#2 Cleghorn,Treasurer of State,,,Write-in,0,0,0
+Cherokee,#3 Quimby,Treasurer of State,,,Write-in,0,0,0
+Cherokee,#4 Cherokee,Treasurer of State,,,Write-in,0,0,0
+Cherokee,#5 Cherokee Ward 1,Treasurer of State,,,Write-in,1,0,1
+Cherokee,#6 Cherokee Ward 2,Treasurer of State,,,Write-in,0,0,0
+Cherokee,#7 Cherokee Ward 3,Treasurer of State,,,Write-in,0,0,0
+Cherokee,#1 Aurelia,Secretary of Agriculture,,REP,Ray Gaesser,11,0,11
+Cherokee,#2 Cleghorn,Secretary of Agriculture,,REP,Ray Gaesser,16,5,11
+Cherokee,#3 Quimby,Secretary of Agriculture,,REP,Ray Gaesser,7,1,6
+Cherokee,#4 Cherokee,Secretary of Agriculture,,REP,Ray Gaesser,10,1,9
+Cherokee,#5 Cherokee Ward 1,Secretary of Agriculture,,REP,Ray Gaesser,11,3,8
+Cherokee,#6 Cherokee Ward 2,Secretary of Agriculture,,REP,Ray Gaesser,8,1,7
+Cherokee,#7 Cherokee Ward 3,Secretary of Agriculture,,REP,Ray Gaesser,9,2,7
+Cherokee,#1 Aurelia,Secretary of Agriculture,,REP,Chad Ingels,8,4,4
+Cherokee,#2 Cleghorn,Secretary of Agriculture,,REP,Chad Ingels,3,1,2
+Cherokee,#3 Quimby,Secretary of Agriculture,,REP,Chad Ingels,8,3,5
+Cherokee,#4 Cherokee,Secretary of Agriculture,,REP,Chad Ingels,5,3,2
+Cherokee,#5 Cherokee Ward 1,Secretary of Agriculture,,REP,Chad Ingels,9,5,4
+Cherokee,#6 Cherokee Ward 2,Secretary of Agriculture,,REP,Chad Ingels,7,4,3
+Cherokee,#7 Cherokee Ward 3,Secretary of Agriculture,,REP,Chad Ingels,9,4,5
+Cherokee,#1 Aurelia,Secretary of Agriculture,,REP,Craig Lang,32,9,23
+Cherokee,#2 Cleghorn,Secretary of Agriculture,,REP,Craig Lang,24,5,19
+Cherokee,#3 Quimby,Secretary of Agriculture,,REP,Craig Lang,20,10,10
+Cherokee,#4 Cherokee,Secretary of Agriculture,,REP,Craig Lang,23,11,12
+Cherokee,#5 Cherokee Ward 1,Secretary of Agriculture,,REP,Craig Lang,41,18,23
+Cherokee,#6 Cherokee Ward 2,Secretary of Agriculture,,REP,Craig Lang,16,6,10
+Cherokee,#7 Cherokee Ward 3,Secretary of Agriculture,,REP,Craig Lang,33,9,24
+Cherokee,#1 Aurelia,Secretary of Agriculture,,REP,Mike Naig,62,6,56
+Cherokee,#2 Cleghorn,Secretary of Agriculture,,REP,Mike Naig,90,22,68
+Cherokee,#3 Quimby,Secretary of Agriculture,,REP,Mike Naig,31,8,23
+Cherokee,#4 Cherokee,Secretary of Agriculture,,REP,Mike Naig,87,20,67
+Cherokee,#5 Cherokee Ward 1,Secretary of Agriculture,,REP,Mike Naig,118,33,85
+Cherokee,#6 Cherokee Ward 2,Secretary of Agriculture,,REP,Mike Naig,43,7,36
+Cherokee,#7 Cherokee Ward 3,Secretary of Agriculture,,REP,Mike Naig,63,19,44
+Cherokee,#1 Aurelia,Secretary of Agriculture,,REP,Dan Zumbach,4,2,2
+Cherokee,#2 Cleghorn,Secretary of Agriculture,,REP,Dan Zumbach,10,2,8
+Cherokee,#3 Quimby,Secretary of Agriculture,,REP,Dan Zumbach,2,1,1
+Cherokee,#4 Cherokee,Secretary of Agriculture,,REP,Dan Zumbach,9,4,5
+Cherokee,#5 Cherokee Ward 1,Secretary of Agriculture,,REP,Dan Zumbach,20,3,17
+Cherokee,#6 Cherokee Ward 2,Secretary of Agriculture,,REP,Dan Zumbach,12,2,10
+Cherokee,#7 Cherokee Ward 3,Secretary of Agriculture,,REP,Dan Zumbach,7,3,4
+Cherokee,#1 Aurelia,Secretary of Agriculture,,,Write-in,0,0,0
+Cherokee,#2 Cleghorn,Secretary of Agriculture,,,Write-in,0,0,0
+Cherokee,#3 Quimby,Secretary of Agriculture,,,Write-in,0,0,0
+Cherokee,#4 Cherokee,Secretary of Agriculture,,,Write-in,0,0,0
+Cherokee,#5 Cherokee Ward 1,Secretary of Agriculture,,,Write-in,0,0,0
+Cherokee,#6 Cherokee Ward 2,Secretary of Agriculture,,,Write-in,0,0,0
+Cherokee,#7 Cherokee Ward 3,Secretary of Agriculture,,,Write-in,0,0,0
+Cherokee,#1 Aurelia,Attorney General,,REP,Gregg Adam,0,0,0
+Cherokee,#2 Cleghorn,Attorney General,,REP,Gregg Adam,1,1,0
+Cherokee,#3 Quimby,Attorney General,,REP,Gregg Adam,0,0,0
+Cherokee,#4 Cherokee,Attorney General,,REP,Gregg Adam,0,0,0
+Cherokee,#5 Cherokee Ward 1,Attorney General,,REP,Gregg Adam,0,0,0
+Cherokee,#6 Cherokee Ward 2,Attorney General,,REP,Gregg Adam,0,0,0
+Cherokee,#7 Cherokee Ward 3,Attorney General,,REP,Gregg Adam,0,0,0
+Cherokee,#1 Aurelia,Attorney General,,REP,Dan Bringle,0,0,0
+Cherokee,#2 Cleghorn,Attorney General,,REP,Dan Bringle,0,0,0
+Cherokee,#3 Quimby,Attorney General,,REP,Dan Bringle,0,0,0
+Cherokee,#4 Cherokee,Attorney General,,REP,Dan Bringle,0,0,0
+Cherokee,#5 Cherokee Ward 1,Attorney General,,REP,Dan Bringle,0,0,0
+Cherokee,#6 Cherokee Ward 2,Attorney General,,REP,Dan Bringle,0,0,0
+Cherokee,#7 Cherokee Ward 3,Attorney General,,REP,Dan Bringle,1,0,1
+Cherokee,#1 Aurelia,Attorney General,,REP,John Brown,0,0,0
+Cherokee,#2 Cleghorn,Attorney General,,REP,John Brown,0,0,0
+Cherokee,#3 Quimby,Attorney General,,REP,John Brown,1,0,1
+Cherokee,#4 Cherokee,Attorney General,,REP,John Brown,0,0,0
+Cherokee,#5 Cherokee Ward 1,Attorney General,,REP,John Brown,0,0,0
+Cherokee,#6 Cherokee Ward 2,Attorney General,,REP,John Brown,0,0,0
+Cherokee,#7 Cherokee Ward 3,Attorney General,,REP,John Brown,0,0,0
+Cherokee,#1 Aurelia,Attorney General,,REP,Aiden Comstock,0,0,0
+Cherokee,#2 Cleghorn,Attorney General,,REP,Aiden Comstock,0,0,0
+Cherokee,#3 Quimby,Attorney General,,REP,Aiden Comstock,0,0,0
+Cherokee,#4 Cherokee,Attorney General,,REP,Aiden Comstock,0,0,0
+Cherokee,#5 Cherokee Ward 1,Attorney General,,REP,Aiden Comstock,1,0,1
+Cherokee,#6 Cherokee Ward 2,Attorney General,,REP,Aiden Comstock,0,0,0
+Cherokee,#7 Cherokee Ward 3,Attorney General,,REP,Aiden Comstock,0,0,0
+Cherokee,#1 Aurelia,Attorney General,,REP,Brenna Findley,0,0,0
+Cherokee,#2 Cleghorn,Attorney General,,REP,Brenna Findley,0,0,0
+Cherokee,#3 Quimby,Attorney General,,REP,Brenna Findley,0,0,0
+Cherokee,#4 Cherokee,Attorney General,,REP,Brenna Findley,0,0,0
+Cherokee,#5 Cherokee Ward 1,Attorney General,,REP,Brenna Findley,1,1,0
+Cherokee,#6 Cherokee Ward 2,Attorney General,,REP,Brenna Findley,0,0,0
+Cherokee,#7 Cherokee Ward 3,Attorney General,,REP,Brenna Findley,0,0,0
+Cherokee,#1 Aurelia,Attorney General,,REP,Bruce French,0,0,0
+Cherokee,#2 Cleghorn,Attorney General,,REP,Bruce French,2,0,2
+Cherokee,#3 Quimby,Attorney General,,REP,Bruce French,0,0,0
+Cherokee,#4 Cherokee,Attorney General,,REP,Bruce French,0,0,0
+Cherokee,#5 Cherokee Ward 1,Attorney General,,REP,Bruce French,0,0,0
+Cherokee,#6 Cherokee Ward 2,Attorney General,,REP,Bruce French,0,0,0
+Cherokee,#7 Cherokee Ward 3,Attorney General,,REP,Bruce French,0,0,0
+Cherokee,#1 Aurelia,Attorney General,,REP,Mary Hamilton,0,0,0
+Cherokee,#2 Cleghorn,Attorney General,,REP,Mary Hamilton,0,0,0
+Cherokee,#3 Quimby,Attorney General,,REP,Mary Hamilton,0,0,0
+Cherokee,#4 Cherokee,Attorney General,,REP,Mary Hamilton,0,0,0
+Cherokee,#5 Cherokee Ward 1,Attorney General,,REP,Mary Hamilton,0,0,0
+Cherokee,#6 Cherokee Ward 2,Attorney General,,REP,Mary Hamilton,1,0,1
+Cherokee,#7 Cherokee Ward 3,Attorney General,,REP,Mary Hamilton,0,0,0
+Cherokee,#1 Aurelia,Attorney General,,REP,Joe Happe,0,0,0
+Cherokee,#2 Cleghorn,Attorney General,,REP,Joe Happe,1,1,0
+Cherokee,#3 Quimby,Attorney General,,REP,Joe Happe,0,0,0
+Cherokee,#4 Cherokee,Attorney General,,REP,Joe Happe,0,0,0
+Cherokee,#5 Cherokee Ward 1,Attorney General,,REP,Joe Happe,0,0,0
+Cherokee,#6 Cherokee Ward 2,Attorney General,,REP,Joe Happe,0,0,0
+Cherokee,#7 Cherokee Ward 3,Attorney General,,REP,Joe Happe,0,0,0
+Cherokee,#1 Aurelia,Attorney General,,REP,Wilbur Hohbach,0,0,0
+Cherokee,#2 Cleghorn,Attorney General,,REP,Wilbur Hohbach,1,1,0
+Cherokee,#3 Quimby,Attorney General,,REP,Wilbur Hohbach,0,0,0
+Cherokee,#4 Cherokee,Attorney General,,REP,Wilbur Hohbach,0,0,0
+Cherokee,#5 Cherokee Ward 1,Attorney General,,REP,Wilbur Hohbach,0,0,0
+Cherokee,#6 Cherokee Ward 2,Attorney General,,REP,Wilbur Hohbach,0,0,0
+Cherokee,#7 Cherokee Ward 3,Attorney General,,REP,Wilbur Hohbach,0,0,0
+Cherokee,#1 Aurelia,Attorney General,,REP,Wally Miller,0,0,0
+Cherokee,#2 Cleghorn,Attorney General,,REP,Wally Miller,0,0,0
+Cherokee,#3 Quimby,Attorney General,,REP,Wally Miller,0,0,0
+Cherokee,#4 Cherokee,Attorney General,,REP,Wally Miller,0,0,0
+Cherokee,#5 Cherokee Ward 1,Attorney General,,REP,Wally Miller,1,1,0
+Cherokee,#6 Cherokee Ward 2,Attorney General,,REP,Wally Miller,0,0,0
+Cherokee,#7 Cherokee Ward 3,Attorney General,,REP,Wally Miller,0,0,0
+Cherokee,#1 Aurelia,Attorney General,,REP,Charles Nielsen,0,0,0
+Cherokee,#2 Cleghorn,Attorney General,,REP,Charles Nielsen,1,0,1
+Cherokee,#3 Quimby,Attorney General,,REP,Charles Nielsen,0,0,0
+Cherokee,#4 Cherokee,Attorney General,,REP,Charles Nielsen,0,0,0
+Cherokee,#5 Cherokee Ward 1,Attorney General,,REP,Charles Nielsen,0,0,0
+Cherokee,#6 Cherokee Ward 2,Attorney General,,REP,Charles Nielsen,0,0,0
+Cherokee,#7 Cherokee Ward 3,Attorney General,,REP,Charles Nielsen,0,0,0
+Cherokee,#1 Aurelia,Attorney General,,REP,Mark Roeder,0,0,0
+Cherokee,#2 Cleghorn,Attorney General,,REP,Mark Roeder,0,0,0
+Cherokee,#3 Quimby,Attorney General,,REP,Mark Roeder,0,0,0
+Cherokee,#4 Cherokee,Attorney General,,REP,Mark Roeder,0,0,0
+Cherokee,#5 Cherokee Ward 1,Attorney General,,REP,Mark Roeder,1,0,1
+Cherokee,#6 Cherokee Ward 2,Attorney General,,REP,Mark Roeder,0,0,0
+Cherokee,#7 Cherokee Ward 3,Attorney General,,REP,Mark Roeder,0,0,0
+Cherokee,#1 Aurelia,Attorney General,,,Write-in,0,0,0
+Cherokee,#2 Cleghorn,Attorney General,,,Write-in,0,0,0
+Cherokee,#3 Quimby,Attorney General,,,Write-in,0,0,0
+Cherokee,#4 Cherokee,Attorney General,,,Write-in,0,0,0
+Cherokee,#5 Cherokee Ward 1,Attorney General,,,Write-in,0,0,0
+Cherokee,#6 Cherokee Ward 2,Attorney General,,,Write-in,0,0,0
+Cherokee,#7 Cherokee Ward 3,Attorney General,,,Write-in,0,0,0
+Cherokee,#1 Aurelia,State Representative District  3,,REP,Dan Huseman,126,25,101
+Cherokee,#2 Cleghorn,State Representative District  3,,REP,Dan Huseman,142,39,103
+Cherokee,#3 Quimby,State Representative District  3,,REP,Dan Huseman,69,23,46
+Cherokee,#4 Cherokee,State Representative District  3,,REP,Dan Huseman,131,38,93
+Cherokee,#5 Cherokee Ward 1,State Representative District  3,,REP,Dan Huseman,210,74,136
+Cherokee,#6 Cherokee Ward 2,State Representative District  3,,REP,Dan Huseman,90,27,63
+Cherokee,#7 Cherokee Ward 3,State Representative District  3,,REP,Dan Huseman,130,43,87
+Cherokee,#1 Aurelia,State Representative District  3,,,Write-in,0,0,0
+Cherokee,#2 Cleghorn,State Representative District  3,,,Write-in,0,0,0
+Cherokee,#3 Quimby,State Representative District  3,,,Write-in,0,0,0
+Cherokee,#4 Cherokee,State Representative District  3,,,Write-in,0,0,0
+Cherokee,#5 Cherokee Ward 1,State Representative District  3,,,Write-in,0,0,0
+Cherokee,#6 Cherokee Ward 2,State Representative District  3,,,Write-in,0,0,0
+Cherokee,#7 Cherokee Ward 3,State Representative District  3,,,Write-in,0,0,0
+Cherokee,#1 Aurelia,County Board of Supervisors District 3,,REP,Wane A. Miller,106,25,81
+Cherokee,#2 Cleghorn,County Board of Supervisors District 3,,REP,Wane A. Miller,119,36,83
+Cherokee,#3 Quimby,County Board of Supervisors District 3,,REP,Wane A. Miller,60,18,42
+Cherokee,#4 Cherokee,County Board of Supervisors District 3,,REP,Wane A. Miller,117,32,85
+Cherokee,#5 Cherokee Ward 1,County Board of Supervisors District 3,,REP,Wane A. Miller,176,53,123
+Cherokee,#6 Cherokee Ward 2,County Board of Supervisors District 3,,REP,Wane A. Miller,82,22,60
+Cherokee,#7 Cherokee Ward 3,County Board of Supervisors District 3,,REP,Wane A. Miller,112,35,77
+Cherokee,#1 Aurelia,County Board of Supervisors District 3,,,Write-in,0,0,0
+Cherokee,#2 Cleghorn,County Board of Supervisors District 3,,,Write-in,0,0,0
+Cherokee,#3 Quimby,County Board of Supervisors District 3,,,Write-in,0,0,0
+Cherokee,#4 Cherokee,County Board of Supervisors District 3,,,Write-in,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Board of Supervisors District 3,,,Write-in,0,0,0
+Cherokee,#6 Cherokee Ward 2,County Board of Supervisors District 3,,,Write-in,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Board of Supervisors District 3,,,Write-in,0,0,0
+Cherokee,#1 Aurelia,County Board of Supervisors District 4,,REP,Gary Lundquist,114,24,90
+Cherokee,#2 Cleghorn,County Board of Supervisors District 4,,REP,Gary Lundquist,130,40,90
+Cherokee,#3 Quimby,County Board of Supervisors District 4,,REP,Gary Lundquist,63,20,43
+Cherokee,#4 Cherokee,County Board of Supervisors District 4,,REP,Gary Lundquist,130,42,88
+Cherokee,#5 Cherokee Ward 1,County Board of Supervisors District 4,,REP,Gary Lundquist,196,65,131
+Cherokee,#6 Cherokee Ward 2,County Board of Supervisors District 4,,REP,Gary Lundquist,90,25,65
+Cherokee,#7 Cherokee Ward 3,County Board of Supervisors District 4,,REP,Gary Lundquist,125,44,81
+Cherokee,#1 Aurelia,County Board of Supervisors District 4,,,Write-in,0,0,0
+Cherokee,#2 Cleghorn,County Board of Supervisors District 4,,,Write-in,0,0,0
+Cherokee,#3 Quimby,County Board of Supervisors District 4,,,Write-in,0,0,0
+Cherokee,#4 Cherokee,County Board of Supervisors District 4,,,Write-in,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Board of Supervisors District 4,,,Write-in,0,0,0
+Cherokee,#6 Cherokee Ward 2,County Board of Supervisors District 4,,,Write-in,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Board of Supervisors District 4,,,Write-in,0,0,0
+Cherokee,#1 Aurelia,County Treasurer,,REP,Hedgie Roswitha Brandt,114,25,89
+Cherokee,#2 Cleghorn,County Treasurer,,REP,Hedgie Roswitha Brandt,143,45,98
+Cherokee,#3 Quimby,County Treasurer,,REP,Hedgie Roswitha Brandt,68,22,46
+Cherokee,#4 Cherokee,County Treasurer,,REP,Hedgie Roswitha Brandt,133,41,92
+Cherokee,#5 Cherokee Ward 1,County Treasurer,,REP,Hedgie Roswitha Brandt,209,71,138
+Cherokee,#6 Cherokee Ward 2,County Treasurer,,REP,Hedgie Roswitha Brandt,97,30,67
+Cherokee,#7 Cherokee Ward 3,County Treasurer,,REP,Hedgie Roswitha Brandt,130,47,83
+Cherokee,#1 Aurelia,County Treasurer,,,Write-in,0,0,0
+Cherokee,#2 Cleghorn,County Treasurer,,,Write-in,0,0,0
+Cherokee,#3 Quimby,County Treasurer,,,Write-in,0,0,0
+Cherokee,#4 Cherokee,County Treasurer,,,Write-in,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Treasurer,,,Write-in,0,0,0
+Cherokee,#6 Cherokee Ward 2,County Treasurer,,,Write-in,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Treasurer,,,Write-in,0,0,0
+Cherokee,#1 Aurelia,County Recorder,,REP,Dawn Miller,31,10,21
+Cherokee,#2 Cleghorn,County Recorder,,REP,Dawn Miller,61,21,40
+Cherokee,#3 Quimby,County Recorder,,REP,Dawn Miller,34,12,22
+Cherokee,#4 Cherokee,County Recorder,,REP,Dawn Miller,28,12,16
+Cherokee,#5 Cherokee Ward 1,County Recorder,,REP,Dawn Miller,68,22,46
+Cherokee,#6 Cherokee Ward 2,County Recorder,,REP,Dawn Miller,37,14,23
+Cherokee,#7 Cherokee Ward 3,County Recorder,,REP,Dawn Miller,42,14,28
+Cherokee,#1 Aurelia,County Recorder,,REP,Mark Murphy,106,21,85
+Cherokee,#2 Cleghorn,County Recorder,,REP,Mark Murphy,104,25,79
+Cherokee,#3 Quimby,County Recorder,,REP,Mark Murphy,37,14,23
+Cherokee,#4 Cherokee,County Recorder,,REP,Mark Murphy,125,33,92
+Cherokee,#5 Cherokee Ward 1,County Recorder,,REP,Mark Murphy,190,66,124
+Cherokee,#6 Cherokee Ward 2,County Recorder,,REP,Mark Murphy,78,21,57
+Cherokee,#7 Cherokee Ward 3,County Recorder,,REP,Mark Murphy,111,39,72
+Cherokee,#1 Aurelia,County Recorder,,,Write-in,0,0,0
+Cherokee,#2 Cleghorn,County Recorder,,,Write-in,0,0,0
+Cherokee,#3 Quimby,County Recorder,,,Write-in,0,0,0
+Cherokee,#4 Cherokee,County Recorder,,,Write-in,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Recorder,,,Write-in,0,0,0
+Cherokee,#6 Cherokee Ward 2,County Recorder,,,Write-in,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Recorder,,,Write-in,0,0,0
+Cherokee,#1 Aurelia,County Attorney,,REP,Ryan R. Kolpin,113,23,90
+Cherokee,#2 Cleghorn,County Attorney,,REP,Ryan R. Kolpin,124,35,89
+Cherokee,#3 Quimby,County Attorney,,REP,Ryan R. Kolpin,65,19,46
+Cherokee,#4 Cherokee,County Attorney,,REP,Ryan R. Kolpin,128,37,91
+Cherokee,#5 Cherokee Ward 1,County Attorney,,REP,Ryan R. Kolpin,198,66,132
+Cherokee,#6 Cherokee Ward 2,County Attorney,,REP,Ryan R. Kolpin,81,25,56
+Cherokee,#7 Cherokee Ward 3,County Attorney,,REP,Ryan R. Kolpin,126,45,81
+Cherokee,#1 Aurelia,County Attorney,,,Write-in,0,0,0
+Cherokee,#2 Cleghorn,County Attorney,,,Write-in,0,0,0
+Cherokee,#3 Quimby,County Attorney,,,Write-in,0,0,0
+Cherokee,#4 Cherokee,County Attorney,,,Write-in,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Attorney,,,Write-in,0,0,0
+Cherokee,#6 Cherokee Ward 2,County Attorney,,,Write-in,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Attorney,,,Write-in,0,0,0
+Cherokee,#1 Aurelia,United States Representative District 4,,DEM,Leann Jacobsen,12,2,10
+Cherokee,#2 Cleghorn,United States Representative District 4,,DEM,Leann Jacobsen,15,5,10
+Cherokee,#3 Quimby,United States Representative District 4,,DEM,Leann Jacobsen,16,4,12
+Cherokee,#4 Cherokee,United States Representative District 4,,DEM,Leann Jacobsen,3,1,2
+Cherokee,#5 Cherokee Ward 1,United States Representative District 4,,DEM,Leann Jacobsen,20,5,15
+Cherokee,#6 Cherokee Ward 2,United States Representative District 4,,DEM,Leann Jacobsen,8,4,4
+Cherokee,#7 Cherokee Ward 3,United States Representative District 4,,DEM,Leann Jacobsen,22,11,11
+Cherokee,#1 Aurelia,United States Representative District 4,,DEM,John Paschen,5,3,2
+Cherokee,#2 Cleghorn,United States Representative District 4,,DEM,John Paschen,4,2,2
+Cherokee,#3 Quimby,United States Representative District 4,,DEM,John Paschen,3,0,3
+Cherokee,#4 Cherokee,United States Representative District 4,,DEM,John Paschen,0,0,0
+Cherokee,#5 Cherokee Ward 1,United States Representative District 4,,DEM,John Paschen,3,1,2
+Cherokee,#6 Cherokee Ward 2,United States Representative District 4,,DEM,John Paschen,4,2,2
+Cherokee,#7 Cherokee Ward 3,United States Representative District 4,,DEM,John Paschen,7,5,2
+Cherokee,#1 Aurelia,United States Representative District 4,,DEM,J.D. Scholten,30,4,26
+Cherokee,#2 Cleghorn,United States Representative District 4,,DEM,J.D. Scholten,29,8,21
+Cherokee,#3 Quimby,United States Representative District 4,,DEM,J.D. Scholten,21,3,18
+Cherokee,#4 Cherokee,United States Representative District 4,,DEM,J.D. Scholten,24,10,14
+Cherokee,#5 Cherokee Ward 1,United States Representative District 4,,DEM,J.D. Scholten,32,8,24
+Cherokee,#6 Cherokee Ward 2,United States Representative District 4,,DEM,J.D. Scholten,16,4,12
+Cherokee,#7 Cherokee Ward 3,United States Representative District 4,,DEM,J.D. Scholten,35,11,24
+Cherokee,#1 Aurelia,Governor,,DEM,Nate Boulton,3,1,2
+Cherokee,#2 Cleghorn,Governor,,DEM,Nate Boulton,5,1,4
+Cherokee,#3 Quimby,Governor,,DEM,Nate Boulton,2,0,2
+Cherokee,#4 Cherokee,Governor,,DEM,Nate Boulton,0,0,0
+Cherokee,#5 Cherokee Ward 1,Governor,,DEM,Nate Boulton,3,0,3
+Cherokee,#6 Cherokee Ward 2,Governor,,DEM,Nate Boulton,2,0,2
+Cherokee,#7 Cherokee Ward 3,Governor,,DEM,Nate Boulton,7,2,5
+Cherokee,#1 Aurelia,Governor,,DEM,Cathy Glasson,3,1,2
+Cherokee,#2 Cleghorn,Governor,,DEM,Cathy Glasson,6,3,3
+Cherokee,#3 Quimby,Governor,,DEM,Cathy Glasson,3,0,3
+Cherokee,#4 Cherokee,Governor,,DEM,Cathy Glasson,4,2,2
+Cherokee,#5 Cherokee Ward 1,Governor,,DEM,Cathy Glasson,3,0,3
+Cherokee,#6 Cherokee Ward 2,Governor,,DEM,Cathy Glasson,2,1,1
+Cherokee,#7 Cherokee Ward 3,Governor,,DEM,Cathy Glasson,6,3,3
+Cherokee,#1 Aurelia,Governor,,DEM,Fred Hubbell,31,6,25
+Cherokee,#2 Cleghorn,Governor,,DEM,Fred Hubbell,38,13,25
+Cherokee,#3 Quimby,Governor,,DEM,Fred Hubbell,26,3,23
+Cherokee,#4 Cherokee,Governor,,DEM,Fred Hubbell,19,10,9
+Cherokee,#5 Cherokee Ward 1,Governor,,DEM,Fred Hubbell,39,13,26
+Cherokee,#6 Cherokee Ward 2,Governor,,DEM,Fred Hubbell,19,9,10
+Cherokee,#7 Cherokee Ward 3,Governor,,DEM,Fred Hubbell,46,18,28
+Cherokee,#1 Aurelia,Governor,,DEM,Andrea Andy McGuire,1,0,1
+Cherokee,#2 Cleghorn,Governor,,DEM,Andrea Andy McGuire,3,1,2
+Cherokee,#3 Quimby,Governor,,DEM,Andrea Andy McGuire,4,3,1
+Cherokee,#4 Cherokee,Governor,,DEM,Andrea Andy McGuire,1,0,1
+Cherokee,#5 Cherokee Ward 1,Governor,,DEM,Andrea Andy McGuire,4,1,3
+Cherokee,#6 Cherokee Ward 2,Governor,,DEM,Andrea Andy McGuire,1,0,1
+Cherokee,#7 Cherokee Ward 3,Governor,,DEM,Andrea Andy McGuire,12,7,5
+Cherokee,#1 Aurelia,Governor,,DEM,John Norris,10,2,8
+Cherokee,#2 Cleghorn,Governor,,DEM,John Norris,2,0,2
+Cherokee,#3 Quimby,Governor,,DEM,John Norris,4,0,4
+Cherokee,#4 Cherokee,Governor,,DEM,John Norris,5,1,4
+Cherokee,#5 Cherokee Ward 1,Governor,,DEM,John Norris,9,2,7
+Cherokee,#6 Cherokee Ward 2,Governor,,DEM,John Norris,3,0,3
+Cherokee,#7 Cherokee Ward 3,Governor,,DEM,John Norris,3,2,1
+Cherokee,#1 Aurelia,Governor,,DEM,Ross Wilburn,2,0,2
+Cherokee,#2 Cleghorn,Governor,,DEM,Ross Wilburn,0,0,0
+Cherokee,#3 Quimby,Governor,,DEM,Ross Wilburn,0,0,0
+Cherokee,#4 Cherokee,Governor,,DEM,Ross Wilburn,0,0,0
+Cherokee,#5 Cherokee Ward 1,Governor,,DEM,Ross Wilburn,1,0,1
+Cherokee,#6 Cherokee Ward 2,Governor,,DEM,Ross Wilburn,1,0,1
+Cherokee,#7 Cherokee Ward 3,Governor,,DEM,Ross Wilburn,1,1,0
+Cherokee,#1 Aurelia,Secretary of State,,DEM,Deidre DeJear,18,2,16
+Cherokee,#2 Cleghorn,Secretary of State,,DEM,Deidre DeJear,10,4,6
+Cherokee,#3 Quimby,Secretary of State,,DEM,Deidre DeJear,14,3,11
+Cherokee,#4 Cherokee,Secretary of State,,DEM,Deidre DeJear,13,4,9
+Cherokee,#5 Cherokee Ward 1,Secretary of State,,DEM,Deidre DeJear,24,7,17
+Cherokee,#6 Cherokee Ward 2,Secretary of State,,DEM,Deidre DeJear,9,4,5
+Cherokee,#7 Cherokee Ward 3,Secretary of State,,DEM,Deidre DeJear,25,10,15
+Cherokee,#1 Aurelia,Secretary of State,,DEM,Jim Mowrer,25,6,19
+Cherokee,#2 Cleghorn,Secretary of State,,DEM,Jim Mowrer,39,12,27
+Cherokee,#3 Quimby,Secretary of State,,DEM,Jim Mowrer,24,3,21
+Cherokee,#4 Cherokee,Secretary of State,,DEM,Jim Mowrer,14,7,7
+Cherokee,#5 Cherokee Ward 1,Secretary of State,,DEM,Jim Mowrer,29,7,22
+Cherokee,#6 Cherokee Ward 2,Secretary of State,,DEM,Jim Mowrer,18,6,12
+Cherokee,#7 Cherokee Ward 3,Secretary of State,,DEM,Jim Mowrer,37,16,21
+Cherokee,#1 Aurelia,Auditor of State,,DEM,Rob Sand,35,6,29
+Cherokee,#2 Cleghorn,Auditor of State,,DEM,Rob Sand,45,15,30
+Cherokee,#3 Quimby,Auditor of State,,DEM,Rob Sand,35,6,29
+Cherokee,#4 Cherokee,Auditor of State,,DEM,Rob Sand,21,6,15
+Cherokee,#5 Cherokee Ward 1,Auditor of State,,DEM,Rob Sand,47,12,35
+Cherokee,#6 Cherokee Ward 2,Auditor of State,,DEM,Rob Sand,23,9,14
+Cherokee,#7 Cherokee Ward 3,Auditor of State,,DEM,Rob Sand,56,23,33
+Cherokee,#1 Aurelia,Treasurer of State,,DEM,Michael L. Fitzgerald,37,7,30
+Cherokee,#2 Cleghorn,Treasurer of State,,DEM,Michael L. Fitzgerald,50,16,34
+Cherokee,#3 Quimby,Treasurer of State,,DEM,Michael L. Fitzgerald,37,6,31
+Cherokee,#4 Cherokee,Treasurer of State,,DEM,Michael L. Fitzgerald,22,7,15
+Cherokee,#5 Cherokee Ward 1,Treasurer of State,,DEM,Michael L. Fitzgerald,50,14,36
+Cherokee,#6 Cherokee Ward 2,Treasurer of State,,DEM,Michael L. Fitzgerald,23,9,14
+Cherokee,#7 Cherokee Ward 3,Treasurer of State,,DEM,Michael L. Fitzgerald,60,22,38
+Cherokee,#1 Aurelia,Secretary of Agriculture,,DEM,Tim Gannon,36,7,29
+Cherokee,#2 Cleghorn,Secretary of Agriculture,,DEM,Tim Gannon,47,16,31
+Cherokee,#3 Quimby,Secretary of Agriculture,,DEM,Tim Gannon,35,5,30
+Cherokee,#4 Cherokee,Secretary of Agriculture,,DEM,Tim Gannon,21,6,15
+Cherokee,#5 Cherokee Ward 1,Secretary of Agriculture,,DEM,Tim Gannon,47,12,35
+Cherokee,#6 Cherokee Ward 2,Secretary of Agriculture,,DEM,Tim Gannon,24,9,15
+Cherokee,#7 Cherokee Ward 3,Secretary of Agriculture,,DEM,Tim Gannon,57,24,33
+Cherokee,#1 Aurelia,Attorney General,,DEM,Tom Miller,38,8,30
+Cherokee,#2 Cleghorn,Attorney General,,DEM,Tom Miller,50,17,33
+Cherokee,#3 Quimby,Attorney General,,DEM,Tom Miller,35,6,29
+Cherokee,#4 Cherokee,Attorney General,,DEM,Tom Miller,22,7,15
+Cherokee,#5 Cherokee Ward 1,Attorney General,,DEM,Tom Miller,48,14,34
+Cherokee,#6 Cherokee Ward 2,Attorney General,,DEM,Tom Miller,24,9,15
+Cherokee,#7 Cherokee Ward 3,Attorney General,,DEM,Tom Miller,64,27,37
+Cherokee,#1 Aurelia,State Representative District  3,,DEM,Pete Alessandro,0,0,0
+Cherokee,#2 Cleghorn,State Representative District  3,,DEM,Pete Alessandro,0,0,0
+Cherokee,#3 Quimby,State Representative District  3,,DEM,Pete Alessandro,0,0,0
+Cherokee,#4 Cherokee,State Representative District  3,,DEM,Pete Alessandro,0,0,0
+Cherokee,#5 Cherokee Ward 1,State Representative District  3,,DEM,Pete Alessandro,0,0,0
+Cherokee,#6 Cherokee Ward 2,State Representative District  3,,DEM,Pete Alessandro,1,0,1
+Cherokee,#7 Cherokee Ward 3,State Representative District  3,,DEM,Pete Alessandro,0,0,0
+Cherokee,#1 Aurelia,State Representative District  3,,DEM,Chuck Clark,0,0,0
+Cherokee,#2 Cleghorn,State Representative District  3,,DEM,Chuck Clark,0,0,0
+Cherokee,#3 Quimby,State Representative District  3,,DEM,Chuck Clark,0,0,0
+Cherokee,#4 Cherokee,State Representative District  3,,DEM,Chuck Clark,0,0,0
+Cherokee,#5 Cherokee Ward 1,State Representative District  3,,DEM,Chuck Clark,0,0,0
+Cherokee,#6 Cherokee Ward 2,State Representative District  3,,DEM,Chuck Clark,0,0,0
+Cherokee,#7 Cherokee Ward 3,State Representative District  3,,DEM,Chuck Clark,1,1,0
+Cherokee,#1 Aurelia,State Representative District  3,,DEM,Matthew G.,0,0,0
+Cherokee,#2 Cleghorn,State Representative District  3,,DEM,Matthew G.,0,0,0
+Cherokee,#3 Quimby,State Representative District  3,,DEM,Matthew G.,0,0,0
+Cherokee,#4 Cherokee,State Representative District  3,,DEM,Matthew G.,0,0,0
+Cherokee,#5 Cherokee Ward 1,State Representative District  3,,DEM,Matthew G.,1,1,0
+Cherokee,#6 Cherokee Ward 2,State Representative District  3,,DEM,Matthew G.,0,0,0
+Cherokee,#7 Cherokee Ward 3,State Representative District  3,,DEM,Matthew G.,0,0,0
+Cherokee,#1 Aurelia,State Representative District  3,,DEM,David Hickman,1,0,1
+Cherokee,#2 Cleghorn,State Representative District  3,,DEM,David Hickman,0,0,0
+Cherokee,#3 Quimby,State Representative District  3,,DEM,David Hickman,0,0,0
+Cherokee,#4 Cherokee,State Representative District  3,,DEM,David Hickman,0,0,0
+Cherokee,#5 Cherokee Ward 1,State Representative District  3,,DEM,David Hickman,0,0,0
+Cherokee,#6 Cherokee Ward 2,State Representative District  3,,DEM,David Hickman,0,0,0
+Cherokee,#7 Cherokee Ward 3,State Representative District  3,,DEM,David Hickman,0,0,0
+Cherokee,#1 Aurelia,State Representative District  3,,DEM,Mason McCoy,0,0,0
+Cherokee,#2 Cleghorn,State Representative District  3,,DEM,Mason McCoy,0,0,0
+Cherokee,#3 Quimby,State Representative District  3,,DEM,Mason McCoy,0,0,0
+Cherokee,#4 Cherokee,State Representative District  3,,DEM,Mason McCoy,0,0,0
+Cherokee,#5 Cherokee Ward 1,State Representative District  3,,DEM,Mason McCoy,0,0,0
+Cherokee,#6 Cherokee Ward 2,State Representative District  3,,DEM,Mason McCoy,0,0,0
+Cherokee,#7 Cherokee Ward 3,State Representative District  3,,DEM,Mason McCoy,1,0,1
+Cherokee,#1 Aurelia,State Representative District  3,,DEM,Mike Nixon,0,0,0
+Cherokee,#2 Cleghorn,State Representative District  3,,DEM,Mike Nixon,0,0,0
+Cherokee,#3 Quimby,State Representative District  3,,DEM,Mike Nixon,0,0,0
+Cherokee,#4 Cherokee,State Representative District  3,,DEM,Mike Nixon,0,0,0
+Cherokee,#5 Cherokee Ward 1,State Representative District  3,,DEM,Mike Nixon,0,0,0
+Cherokee,#6 Cherokee Ward 2,State Representative District  3,,DEM,Mike Nixon,0,0,0
+Cherokee,#7 Cherokee Ward 3,State Representative District  3,,DEM,Mike Nixon,1,0,1
+Cherokee,#1 Aurelia,State Representative District  3,,DEM,Audrey Page,0,0,0
+Cherokee,#2 Cleghorn,State Representative District  3,,DEM,Audrey Page,0,0,0
+Cherokee,#3 Quimby,State Representative District  3,,DEM,Audrey Page,0,0,0
+Cherokee,#4 Cherokee,State Representative District  3,,DEM,Audrey Page,0,0,0
+Cherokee,#5 Cherokee Ward 1,State Representative District  3,,DEM,Audrey Page,0,0,0
+Cherokee,#6 Cherokee Ward 2,State Representative District  3,,DEM,Audrey Page,0,0,0
+Cherokee,#7 Cherokee Ward 3,State Representative District  3,,DEM,Audrey Page,1,1,0
+Cherokee,#1 Aurelia,State Representative District  3,,DEM,Lori Thomas,0,0,0
+Cherokee,#2 Cleghorn,State Representative District  3,,DEM,Lori Thomas,0,0,0
+Cherokee,#3 Quimby,State Representative District  3,,DEM,Lori Thomas,0,0,0
+Cherokee,#4 Cherokee,State Representative District  3,,DEM,Lori Thomas,0,0,0
+Cherokee,#5 Cherokee Ward 1,State Representative District  3,,DEM,Lori Thomas,1,1,0
+Cherokee,#6 Cherokee Ward 2,State Representative District  3,,DEM,Lori Thomas,0,0,0
+Cherokee,#7 Cherokee Ward 3,State Representative District  3,,DEM,Lori Thomas,0,0,0
+Cherokee,#1 Aurelia,County Board of Supervisors District 3,,DEM,Steve McQueen,0,0,0
+Cherokee,#2 Cleghorn,County Board of Supervisors District 3,,DEM,Steve McQueen,0,0,0
+Cherokee,#3 Quimby,County Board of Supervisors District 3,,DEM,Steve McQueen,0,0,0
+Cherokee,#4 Cherokee,County Board of Supervisors District 3,,DEM,Steve McQueen,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Board of Supervisors District 3,,DEM,Steve McQueen,0,0,0
+Cherokee,#6 Cherokee Ward 2,County Board of Supervisors District 3,,DEM,Steve McQueen,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Board of Supervisors District 3,,DEM,Steve McQueen,3,0,3
+Cherokee,#1 Aurelia,County Board of Supervisors District 3,,DEM,Timothy Perrin,0,0,0
+Cherokee,#2 Cleghorn,County Board of Supervisors District 3,,DEM,Timothy Perrin,0,0,0
+Cherokee,#3 Quimby,County Board of Supervisors District 3,,DEM,Timothy Perrin,0,0,0
+Cherokee,#4 Cherokee,County Board of Supervisors District 3,,DEM,Timothy Perrin,1,0,1
+Cherokee,#5 Cherokee Ward 1,County Board of Supervisors District 3,,DEM,Timothy Perrin,0,0,0
+Cherokee,#6 Cherokee Ward 2,County Board of Supervisors District 3,,DEM,Timothy Perrin,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Board of Supervisors District 3,,DEM,Timothy Perrin,0,0,0
+Cherokee,#1 Aurelia,County Board of Supervisors District 3,,DEM,Dawn Saucy,0,0,0
+Cherokee,#2 Cleghorn,County Board of Supervisors District 3,,DEM,Dawn Saucy,0,0,0
+Cherokee,#3 Quimby,County Board of Supervisors District 3,,DEM,Dawn Saucy,0,0,0
+Cherokee,#4 Cherokee,County Board of Supervisors District 3,,DEM,Dawn Saucy,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Board of Supervisors District 3,,DEM,Dawn Saucy,1,1,0
+Cherokee,#6 Cherokee Ward 2,County Board of Supervisors District 3,,DEM,Dawn Saucy,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Board of Supervisors District 3,,DEM,Dawn Saucy,0,0,0
+Cherokee,#1 Aurelia,County Board of Supervisors District 4,,DEM,Mike Nixon,0,0,0
+Cherokee,#2 Cleghorn,County Board of Supervisors District 4,,DEM,Mike Nixon,0,0,0
+Cherokee,#3 Quimby,County Board of Supervisors District 4,,DEM,Mike Nixon,0,0,0
+Cherokee,#4 Cherokee,County Board of Supervisors District 4,,DEM,Mike Nixon,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Board of Supervisors District 4,,DEM,Mike Nixon,0,0,0
+Cherokee,#6 Cherokee Ward 2,County Board of Supervisors District 4,,DEM,Mike Nixon,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Board of Supervisors District 4,,DEM,Mike Nixon,1,0,1
+Cherokee,#1 Aurelia,County Board of Supervisors District 4,,DEM,Beth Will,0,0,0
+Cherokee,#2 Cleghorn,County Board of Supervisors District 4,,DEM,Beth Will,0,0,0
+Cherokee,#3 Quimby,County Board of Supervisors District 4,,DEM,Beth Will,0,0,0
+Cherokee,#4 Cherokee,County Board of Supervisors District 4,,DEM,Beth Will,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Board of Supervisors District 4,,DEM,Beth Will,1,1,0
+Cherokee,#6 Cherokee Ward 2,County Board of Supervisors District 4,,DEM,Beth Will,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Board of Supervisors District 4,,DEM,Beth Will,0,0,0
+Cherokee,#1 Aurelia,County Treasurer,,DEM,Dawn Ge,0,0,0
+Cherokee,#2 Cleghorn,County Treasurer,,DEM,Dawn Ge,0,0,0
+Cherokee,#3 Quimby,County Treasurer,,DEM,Dawn Ge,0,0,0
+Cherokee,#4 Cherokee,County Treasurer,,DEM,Dawn Ge,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Treasurer,,DEM,Dawn Ge,1,1,0
+Cherokee,#6 Cherokee Ward 2,County Treasurer,,DEM,Dawn Ge,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Treasurer,,DEM,Dawn Ge,0,0,0
+Cherokee,#1 Aurelia,County Treasurer,,DEM,Mark Murphy,0,0,0
+Cherokee,#2 Cleghorn,County Treasurer,,DEM,Mark Murphy,1,0,1
+Cherokee,#3 Quimby,County Treasurer,,DEM,Mark Murphy,0,0,0
+Cherokee,#4 Cherokee,County Treasurer,,DEM,Mark Murphy,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Treasurer,,DEM,Mark Murphy,0,0,0
+Cherokee,#6 Cherokee Ward 2,County Treasurer,,DEM,Mark Murphy,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Treasurer,,DEM,Mark Murphy,0,0,0
+Cherokee,#1 Aurelia,County Recorder,,DEM,Mark Martin,0,0,0
+Cherokee,#2 Cleghorn,County Recorder,,DEM,Mark Martin,0,0,0
+Cherokee,#3 Quimby,County Recorder,,DEM,Mark Martin,0,0,0
+Cherokee,#4 Cherokee,County Recorder,,DEM,Mark Martin,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Recorder,,DEM,Mark Martin,0,0,0
+Cherokee,#6 Cherokee Ward 2,County Recorder,,DEM,Mark Martin,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Recorder,,DEM,Mark Martin,1,1,0
+Cherokee,#1 Aurelia,County Recorder,,DEM,Dawn Miller,0,0,0
+Cherokee,#2 Cleghorn,County Recorder,,DEM,Dawn Miller,1,0,1
+Cherokee,#3 Quimby,County Recorder,,DEM,Dawn Miller,1,0,1
+Cherokee,#4 Cherokee,County Recorder,,DEM,Dawn Miller,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Recorder,,DEM,Dawn Miller,1,0,1
+Cherokee,#6 Cherokee Ward 2,County Recorder,,DEM,Dawn Miller,4,0,4
+Cherokee,#7 Cherokee Ward 3,County Recorder,,DEM,Dawn Miller,2,2,0
+Cherokee,#1 Aurelia,County Recorder,,DEM,Mark Miller,0,0,0
+Cherokee,#2 Cleghorn,County Recorder,,DEM,Mark Miller,0,0,0
+Cherokee,#3 Quimby,County Recorder,,DEM,Mark Miller,0,0,0
+Cherokee,#4 Cherokee,County Recorder,,DEM,Mark Miller,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Recorder,,DEM,Mark Miller,1,0,1
+Cherokee,#6 Cherokee Ward 2,County Recorder,,DEM,Mark Miller,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Recorder,,DEM,Mark Miller,0,0,0
+Cherokee,#1 Aurelia,County Recorder,,DEM,Mark Murphy,1,0,1
+Cherokee,#2 Cleghorn,County Recorder,,DEM,Mark Murphy,1,0,1
+Cherokee,#3 Quimby,County Recorder,,DEM,Mark Murphy,0,0,0
+Cherokee,#4 Cherokee,County Recorder,,DEM,Mark Murphy,1,1,0
+Cherokee,#5 Cherokee Ward 1,County Recorder,,DEM,Mark Murphy,3,1,2
+Cherokee,#6 Cherokee Ward 2,County Recorder,,DEM,Mark Murphy,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Recorder,,DEM,Mark Murphy,1,0,1
+Cherokee,#1 Aurelia,County Recorder,,DEM,Brett Roof,0,0,0
+Cherokee,#2 Cleghorn,County Recorder,,DEM,Brett Roof,0,0,0
+Cherokee,#3 Quimby,County Recorder,,DEM,Brett Roof,0,0,0
+Cherokee,#4 Cherokee,County Recorder,,DEM,Brett Roof,1,0,1
+Cherokee,#5 Cherokee Ward 1,County Recorder,,DEM,Brett Roof,0,0,0
+Cherokee,#6 Cherokee Ward 2,County Recorder,,DEM,Brett Roof,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Recorder,,DEM,Brett Roof,0,0,0
+Cherokee,#1 Aurelia,County Recorder,,DEM,Don Miller,0,0,0
+Cherokee,#2 Cleghorn,County Recorder,,DEM,Don Miller,0,0,0
+Cherokee,#3 Quimby,County Recorder,,DEM,Don Miller,0,0,0
+Cherokee,#4 Cherokee,County Recorder,,DEM,Don Miller,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Recorder,,DEM,Don Miller,0,0,0
+Cherokee,#6 Cherokee Ward 2,County Recorder,,DEM,Don Miller,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Recorder,,DEM,Don Miller,0,0,0
+Cherokee,#1 Aurelia,County Attorney,,DEM,Cook,0,0,0
+Cherokee,#2 Cleghorn,County Attorney,,DEM,Cook,0,0,0
+Cherokee,#3 Quimby,County Attorney,,DEM,Cook,0,0,0
+Cherokee,#4 Cherokee,County Attorney,,DEM,Cook,1,1,0
+Cherokee,#5 Cherokee Ward 1,County Attorney,,DEM,Cook,0,0,0
+Cherokee,#6 Cherokee Ward 2,County Attorney,,DEM,Cook,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Attorney,,DEM,Cook,0,0,0
+Cherokee,#1 Aurelia,County Attorney,,DEM,Attorney Cook,0,0,0
+Cherokee,#2 Cleghorn,County Attorney,,DEM,Attorney Cook,0,0,0
+Cherokee,#3 Quimby,County Attorney,,DEM,Attorney Cook,0,0,0
+Cherokee,#4 Cherokee,County Attorney,,DEM,Attorney Cook,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Attorney,,DEM,Attorney Cook,1,1,0
+Cherokee,#6 Cherokee Ward 2,County Attorney,,DEM,Attorney Cook,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Attorney,,DEM,Attorney Cook,0,0,0
+Cherokee,#1 Aurelia,County Attorney,,DEM,Patrick Greenwood,0,0,0
+Cherokee,#2 Cleghorn,County Attorney,,DEM,Patrick Greenwood,0,0,0
+Cherokee,#3 Quimby,County Attorney,,DEM,Patrick Greenwood,0,0,0
+Cherokee,#4 Cherokee,County Attorney,,DEM,Patrick Greenwood,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Attorney,,DEM,Patrick Greenwood,1,0,1
+Cherokee,#6 Cherokee Ward 2,County Attorney,,DEM,Patrick Greenwood,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Attorney,,DEM,Patrick Greenwood,0,0,0
+Cherokee,#1 Aurelia,County Attorney,,DEM,Ryan Kolpin,2,0,2
+Cherokee,#2 Cleghorn,County Attorney,,DEM,Ryan Kolpin,0,0,0
+Cherokee,#3 Quimby,County Attorney,,DEM,Ryan Kolpin,0,0,0
+Cherokee,#4 Cherokee,County Attorney,,DEM,Ryan Kolpin,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Attorney,,DEM,Ryan Kolpin,0,0,0
+Cherokee,#6 Cherokee Ward 2,County Attorney,,DEM,Ryan Kolpin,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Attorney,,DEM,Ryan Kolpin,0,0,0
+Cherokee,#1 Aurelia,County Attorney,,DEM,Andrew Miller,0,0,0
+Cherokee,#2 Cleghorn,County Attorney,,DEM,Andrew Miller,0,0,0
+Cherokee,#3 Quimby,County Attorney,,DEM,Andrew Miller,0,0,0
+Cherokee,#4 Cherokee,County Attorney,,DEM,Andrew Miller,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Attorney,,DEM,Andrew Miller,0,0,0
+Cherokee,#6 Cherokee Ward 2,County Attorney,,DEM,Andrew Miller,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Attorney,,DEM,Andrew Miller,1,0,1
+Cherokee,#1 Aurelia,County Attorney,,DEM,Mark Murphy,0,0,0
+Cherokee,#2 Cleghorn,County Attorney,,DEM,Mark Murphy,0,0,0
+Cherokee,#3 Quimby,County Attorney,,DEM,Mark Murphy,0,0,0
+Cherokee,#4 Cherokee,County Attorney,,DEM,Mark Murphy,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Attorney,,DEM,Mark Murphy,1,1,0
+Cherokee,#6 Cherokee Ward 2,County Attorney,,DEM,Mark Murphy,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Attorney,,DEM,Mark Murphy,0,0,0
+Cherokee,#1 Aurelia,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Cherokee,#2 Cleghorn,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Cherokee,#3 Quimby,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Cherokee,#4 Cherokee,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Cherokee,#5 Cherokee Ward 1,United States Representative District 4,,LIB,Charles Aldrich,4,1,3
+Cherokee,#6 Cherokee Ward 2,United States Representative District 4,,LIB,Charles Aldrich,3,1,2
+Cherokee,#7 Cherokee Ward 3,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Cherokee,#1 Aurelia,Governor,,LIB,Marco Battaglia,0,0,0
+Cherokee,#2 Cleghorn,Governor,,LIB,Marco Battaglia,0,0,0
+Cherokee,#3 Quimby,Governor,,LIB,Marco Battaglia,0,0,0
+Cherokee,#4 Cherokee,Governor,,LIB,Marco Battaglia,0,0,0
+Cherokee,#5 Cherokee Ward 1,Governor,,LIB,Marco Battaglia,1,0,1
+Cherokee,#6 Cherokee Ward 2,Governor,,LIB,Marco Battaglia,1,0,1
+Cherokee,#7 Cherokee Ward 3,Governor,,LIB,Marco Battaglia,0,0,0
+Cherokee,#1 Aurelia,Governor,,LIB,Jake Porter,0,0,0
+Cherokee,#2 Cleghorn,Governor,,LIB,Jake Porter,0,0,0
+Cherokee,#3 Quimby,Governor,,LIB,Jake Porter,0,0,0
+Cherokee,#4 Cherokee,Governor,,LIB,Jake Porter,0,0,0
+Cherokee,#5 Cherokee Ward 1,Governor,,LIB,Jake Porter,3,1,2
+Cherokee,#6 Cherokee Ward 2,Governor,,LIB,Jake Porter,2,1,1
+Cherokee,#7 Cherokee Ward 3,Governor,,LIB,Jake Porter,0,0,0
+Cherokee,#1 Aurelia,Governor,,LIB,Kim Reynolds,0,0,0
+Cherokee,#2 Cleghorn,Governor,,LIB,Kim Reynolds,0,0,0
+Cherokee,#3 Quimby,Governor,,LIB,Kim Reynolds,0,0,0
+Cherokee,#4 Cherokee,Governor,,LIB,Kim Reynolds,1,0,1
+Cherokee,#5 Cherokee Ward 1,Governor,,LIB,Kim Reynolds,0,0,0
+Cherokee,#6 Cherokee Ward 2,Governor,,LIB,Kim Reynolds,0,0,0
+Cherokee,#7 Cherokee Ward 3,Governor,,LIB,Kim Reynolds,0,0,0
+Cherokee,#1 Aurelia,County Board of Supervisors District 3,,LIB,Dawn Miller,0,0,0
+Cherokee,#2 Cleghorn,County Board of Supervisors District 3,,LIB,Dawn Miller,0,0,0
+Cherokee,#3 Quimby,County Board of Supervisors District 3,,LIB,Dawn Miller,0,0,0
+Cherokee,#4 Cherokee,County Board of Supervisors District 3,,LIB,Dawn Miller,0,0,0
+Cherokee,#5 Cherokee Ward 1,County Board of Supervisors District 3,,LIB,Dawn Miller,1,0,1
+Cherokee,#6 Cherokee Ward 2,County Board of Supervisors District 3,,LIB,Dawn Miller,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Board of Supervisors District 3,,LIB,Dawn Miller,0,0,0
+Cherokee,#1 Aurelia,County Recorder,,LIB,Mark Murphy,0,0,0
+Cherokee,#2 Cleghorn,County Recorder,,LIB,Mark Murphy,0,0,0
+Cherokee,#3 Quimby,County Recorder,,LIB,Mark Murphy,0,0,0
+Cherokee,#4 Cherokee,County Recorder,,LIB,Mark Murphy,1,0,1
+Cherokee,#5 Cherokee Ward 1,County Recorder,,LIB,Mark Murphy,0,0,0
+Cherokee,#6 Cherokee Ward 2,County Recorder,,LIB,Mark Murphy,0,0,0
+Cherokee,#7 Cherokee Ward 3,County Recorder,,LIB,Mark Murphy,0,0,0

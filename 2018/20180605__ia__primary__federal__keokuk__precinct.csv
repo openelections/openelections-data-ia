@@ -1,0 +1,946 @@
+county,precinct,office,district,party,candidate,votes,absentee,polling
+Keokuk,ADAMS,United States Representative District 2,,REP,Christopher Peters,10,0,10
+Keokuk,BENTON / STEADY RUN,United States Representative District 2,,REP,Christopher Peters,34,0,34
+Keokuk,ENGLISH RIVER / LIBERTY,United States Representative District 2,,REP,Christopher Peters,15,1,14
+Keokuk,JACKSON,United States Representative District 2,,REP,Christopher Peters,20,0,20
+Keokuk,LAFAYETTE / CLEAR CREEK,United States Representative District 2,,REP,Christopher Peters,31,5,26
+Keokuk,EAST / WEST LANCASTER,United States Representative District 2,,REP,Christopher Peters,14,1,13
+Keokuk,PRAIRIE,United States Representative District 2,,REP,Christopher Peters,9,0,9
+Keokuk,RICHLAND,United States Representative District 2,,REP,Christopher Peters,27,2,25
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,United States Representative District 2,,REP,Christopher Peters,28,0,28
+Keokuk,SIGOURNEY 1ST WARD,United States Representative District 2,,REP,Christopher Peters,18,1,17
+Keokuk,SIGOURNEY 2ND WARD,United States Representative District 2,,REP,Christopher Peters,15,2,13
+Keokuk,SIGOURNEY 3RD WARD,United States Representative District 2,,REP,Christopher Peters,16,2,14
+Keokuk,SIGOURNEY 4TH WARD,United States Representative District 2,,REP,Christopher Peters,14,1,13
+Keokuk,WARREN,United States Representative District 2,,REP,Christopher Peters,9,2,7
+Keokuk,WHAT CHEER / WASHINGTON,United States Representative District 2,,REP,Christopher Peters,26,4,22
+Keokuk,ADAMS,United States Representative District 2,,REP,Ginny Caligiuri,0,0,0
+Keokuk,BENTON / STEADY RUN,United States Representative District 2,,REP,Ginny Caligiuri,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,United States Representative District 2,,REP,Ginny Caligiuri,4,0,4
+Keokuk,JACKSON,United States Representative District 2,,REP,Ginny Caligiuri,2,2,0
+Keokuk,LAFAYETTE / CLEAR CREEK,United States Representative District 2,,REP,Ginny Caligiuri,0,0,0
+Keokuk,EAST / WEST LANCASTER,United States Representative District 2,,REP,Ginny Caligiuri,0,0,0
+Keokuk,PRAIRIE,United States Representative District 2,,REP,Ginny Caligiuri,1,0,1
+Keokuk,RICHLAND,United States Representative District 2,,REP,Ginny Caligiuri,1,0,1
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,United States Representative District 2,,REP,Ginny Caligiuri,5,0,5
+Keokuk,SIGOURNEY 1ST WARD,United States Representative District 2,,REP,Ginny Caligiuri,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,United States Representative District 2,,REP,Ginny Caligiuri,2,2,0
+Keokuk,SIGOURNEY 3RD WARD,United States Representative District 2,,REP,Ginny Caligiuri,1,1,0
+Keokuk,SIGOURNEY 4TH WARD,United States Representative District 2,,REP,Ginny Caligiuri,0,0,0
+Keokuk,WARREN,United States Representative District 2,,REP,Ginny Caligiuri,2,1,1
+Keokuk,WHAT CHEER / WASHINGTON,United States Representative District 2,,REP,Ginny Caligiuri,2,0,2
+Keokuk,ADAMS,United States Representative District 2,,,Write-in,0,0,0
+Keokuk,BENTON / STEADY RUN,United States Representative District 2,,,Write-in,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,United States Representative District 2,,,Write-in,0,0,0
+Keokuk,JACKSON,United States Representative District 2,,,Write-in,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,United States Representative District 2,,,Write-in,0,0,0
+Keokuk,EAST / WEST LANCASTER,United States Representative District 2,,,Write-in,0,0,0
+Keokuk,PRAIRIE,United States Representative District 2,,,Write-in,0,0,0
+Keokuk,RICHLAND,United States Representative District 2,,,Write-in,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,United States Representative District 2,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,United States Representative District 2,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,United States Representative District 2,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,United States Representative District 2,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,United States Representative District 2,,,Write-in,0,0,0
+Keokuk,WARREN,United States Representative District 2,,,Write-in,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,United States Representative District 2,,,Write-in,0,0,0
+Keokuk,ADAMS,Governor,,REP,Kim Reynolds,12,0,12
+Keokuk,BENTON / STEADY RUN,Governor,,REP,Kim Reynolds,37,0,37
+Keokuk,ENGLISH RIVER / LIBERTY,Governor,,REP,Kim Reynolds,17,1,16
+Keokuk,JACKSON,Governor,,REP,Kim Reynolds,25,2,23
+Keokuk,LAFAYETTE / CLEAR CREEK,Governor,,REP,Kim Reynolds,35,6,29
+Keokuk,EAST / WEST LANCASTER,Governor,,REP,Kim Reynolds,16,2,14
+Keokuk,PRAIRIE,Governor,,REP,Kim Reynolds,13,0,13
+Keokuk,RICHLAND,Governor,,REP,Kim Reynolds,32,2,30
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Governor,,REP,Kim Reynolds,28,0,28
+Keokuk,SIGOURNEY 1ST WARD,Governor,,REP,Kim Reynolds,17,0,17
+Keokuk,SIGOURNEY 2ND WARD,Governor,,REP,Kim Reynolds,18,4,14
+Keokuk,SIGOURNEY 3RD WARD,Governor,,REP,Kim Reynolds,19,4,15
+Keokuk,SIGOURNEY 4TH WARD,Governor,,REP,Kim Reynolds,17,4,13
+Keokuk,WARREN,Governor,,REP,Kim Reynolds,12,3,9
+Keokuk,WHAT CHEER / WASHINGTON,Governor,,REP,Kim Reynolds,28,4,24
+Keokuk,ADAMS,Governor,,,Write-in,0,0,0
+Keokuk,BENTON / STEADY RUN,Governor,,,Write-in,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,Governor,,,Write-in,0,0,0
+Keokuk,JACKSON,Governor,,,Write-in,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,Governor,,,Write-in,0,0,0
+Keokuk,EAST / WEST LANCASTER,Governor,,,Write-in,0,0,0
+Keokuk,PRAIRIE,Governor,,,Write-in,0,0,0
+Keokuk,RICHLAND,Governor,,,Write-in,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Governor,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,Governor,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,Governor,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,Governor,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,Governor,,,Write-in,0,0,0
+Keokuk,WARREN,Governor,,,Write-in,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,Governor,,,Write-in,0,0,0
+Keokuk,ADAMS,Secretary of State,,REP,Paul D. Pate,9,0,9
+Keokuk,BENTON / STEADY RUN,Secretary of State,,REP,Paul D. Pate,36,0,36
+Keokuk,ENGLISH RIVER / LIBERTY,Secretary of State,,REP,Paul D. Pate,15,1,14
+Keokuk,JACKSON,Secretary of State,,REP,Paul D. Pate,21,2,19
+Keokuk,LAFAYETTE / CLEAR CREEK,Secretary of State,,REP,Paul D. Pate,33,6,27
+Keokuk,EAST / WEST LANCASTER,Secretary of State,,REP,Paul D. Pate,13,1,12
+Keokuk,PRAIRIE,Secretary of State,,REP,Paul D. Pate,7,0,7
+Keokuk,RICHLAND,Secretary of State,,REP,Paul D. Pate,30,2,28
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Secretary of State,,REP,Paul D. Pate,33,0,33
+Keokuk,SIGOURNEY 1ST WARD,Secretary of State,,REP,Paul D. Pate,16,1,15
+Keokuk,SIGOURNEY 2ND WARD,Secretary of State,,REP,Paul D. Pate,19,5,14
+Keokuk,SIGOURNEY 3RD WARD,Secretary of State,,REP,Paul D. Pate,18,4,14
+Keokuk,SIGOURNEY 4TH WARD,Secretary of State,,REP,Paul D. Pate,18,4,14
+Keokuk,WARREN,Secretary of State,,REP,Paul D. Pate,11,3,8
+Keokuk,WHAT CHEER / WASHINGTON,Secretary of State,,REP,Paul D. Pate,27,4,23
+Keokuk,ADAMS,Secretary of State,,,Write-in,0,0,0
+Keokuk,BENTON / STEADY RUN,Secretary of State,,,Write-in,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,Secretary of State,,,Write-in,0,0,0
+Keokuk,JACKSON,Secretary of State,,,Write-in,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,Secretary of State,,,Write-in,0,0,0
+Keokuk,EAST / WEST LANCASTER,Secretary of State,,,Write-in,0,0,0
+Keokuk,PRAIRIE,Secretary of State,,,Write-in,0,0,0
+Keokuk,RICHLAND,Secretary of State,,,Write-in,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Secretary of State,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,Secretary of State,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,Secretary of State,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,Secretary of State,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,Secretary of State,,,Write-in,0,0,0
+Keokuk,WARREN,Secretary of State,,,Write-in,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,Secretary of State,,,Write-in,0,0,0
+Keokuk,ADAMS,Auditor of State,,REP,Mary Mosiman,7,0,7
+Keokuk,BENTON / STEADY RUN,Auditor of State,,REP,Mary Mosiman,35,0,35
+Keokuk,ENGLISH RIVER / LIBERTY,Auditor of State,,REP,Mary Mosiman,16,1,15
+Keokuk,JACKSON,Auditor of State,,REP,Mary Mosiman,22,2,20
+Keokuk,LAFAYETTE / CLEAR CREEK,Auditor of State,,REP,Mary Mosiman,29,5,24
+Keokuk,EAST / WEST LANCASTER,Auditor of State,,REP,Mary Mosiman,14,1,13
+Keokuk,PRAIRIE,Auditor of State,,REP,Mary Mosiman,8,0,8
+Keokuk,RICHLAND,Auditor of State,,REP,Mary Mosiman,29,2,27
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Auditor of State,,REP,Mary Mosiman,31,0,31
+Keokuk,SIGOURNEY 1ST WARD,Auditor of State,,REP,Mary Mosiman,15,1,14
+Keokuk,SIGOURNEY 2ND WARD,Auditor of State,,REP,Mary Mosiman,17,4,13
+Keokuk,SIGOURNEY 3RD WARD,Auditor of State,,REP,Mary Mosiman,18,4,14
+Keokuk,SIGOURNEY 4TH WARD,Auditor of State,,REP,Mary Mosiman,18,4,14
+Keokuk,WARREN,Auditor of State,,REP,Mary Mosiman,12,3,9
+Keokuk,WHAT CHEER / WASHINGTON,Auditor of State,,REP,Mary Mosiman,27,4,23
+Keokuk,ADAMS,Auditor of State,,,Write-in,0,0,0
+Keokuk,BENTON / STEADY RUN,Auditor of State,,,Write-in,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,Auditor of State,,,Write-in,0,0,0
+Keokuk,JACKSON,Auditor of State,,,Write-in,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,Auditor of State,,,Write-in,0,0,0
+Keokuk,EAST / WEST LANCASTER,Auditor of State,,,Write-in,0,0,0
+Keokuk,PRAIRIE,Auditor of State,,,Write-in,0,0,0
+Keokuk,RICHLAND,Auditor of State,,,Write-in,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Auditor of State,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,Auditor of State,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,Auditor of State,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,Auditor of State,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,Auditor of State,,,Write-in,0,0,0
+Keokuk,WARREN,Auditor of State,,,Write-in,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,Auditor of State,,,Write-in,0,0,0
+Keokuk,ADAMS,Treasurer of State,,REP,Blank,0,0,0
+Keokuk,BENTON / STEADY RUN,Treasurer of State,,REP,Blank,2,0,2
+Keokuk,ENGLISH RIVER / LIBERTY,Treasurer of State,,REP,Blank,0,0,0
+Keokuk,JACKSON,Treasurer of State,,REP,Blank,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,Treasurer of State,,REP,Blank,0,0,0
+Keokuk,EAST / WEST LANCASTER,Treasurer of State,,REP,Blank,0,0,0
+Keokuk,PRAIRIE,Treasurer of State,,REP,Blank,0,0,0
+Keokuk,RICHLAND,Treasurer of State,,REP,Blank,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Treasurer of State,,REP,Blank,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,Treasurer of State,,REP,Blank,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,Treasurer of State,,REP,Blank,1,1,0
+Keokuk,SIGOURNEY 3RD WARD,Treasurer of State,,REP,Blank,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,Treasurer of State,,REP,Blank,0,0,0
+Keokuk,WARREN,Treasurer of State,,REP,Blank,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,Treasurer of State,,REP,Blank,1,0,1
+Keokuk,ADAMS,Treasurer of State,,REP,Steve Cope,0,0,0
+Keokuk,BENTON / STEADY RUN,Treasurer of State,,REP,Steve Cope,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,Treasurer of State,,REP,Steve Cope,0,0,0
+Keokuk,JACKSON,Treasurer of State,,REP,Steve Cope,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,Treasurer of State,,REP,Steve Cope,0,0,0
+Keokuk,EAST / WEST LANCASTER,Treasurer of State,,REP,Steve Cope,0,0,0
+Keokuk,PRAIRIE,Treasurer of State,,REP,Steve Cope,0,0,0
+Keokuk,RICHLAND,Treasurer of State,,REP,Steve Cope,1,0,1
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Treasurer of State,,REP,Steve Cope,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,Treasurer of State,,REP,Steve Cope,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,Treasurer of State,,REP,Steve Cope,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,Treasurer of State,,REP,Steve Cope,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,Treasurer of State,,REP,Steve Cope,0,0,0
+Keokuk,WARREN,Treasurer of State,,REP,Steve Cope,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,Treasurer of State,,REP,Steve Cope,0,0,0
+Keokuk,ADAMS,Treasurer of State,,REP,Dick Coffman,0,0,0
+Keokuk,BENTON / STEADY RUN,Treasurer of State,,REP,Dick Coffman,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,Treasurer of State,,REP,Dick Coffman,0,0,0
+Keokuk,JACKSON,Treasurer of State,,REP,Dick Coffman,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,Treasurer of State,,REP,Dick Coffman,0,0,0
+Keokuk,EAST / WEST LANCASTER,Treasurer of State,,REP,Dick Coffman,0,0,0
+Keokuk,PRAIRIE,Treasurer of State,,REP,Dick Coffman,0,0,0
+Keokuk,RICHLAND,Treasurer of State,,REP,Dick Coffman,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Treasurer of State,,REP,Dick Coffman,1,0,1
+Keokuk,SIGOURNEY 1ST WARD,Treasurer of State,,REP,Dick Coffman,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,Treasurer of State,,REP,Dick Coffman,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,Treasurer of State,,REP,Dick Coffman,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,Treasurer of State,,REP,Dick Coffman,0,0,0
+Keokuk,WARREN,Treasurer of State,,REP,Dick Coffman,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,Treasurer of State,,REP,Dick Coffman,0,0,0
+Keokuk,ADAMS,Treasurer of State,,REP,Tanya Webster,0,0,0
+Keokuk,BENTON / STEADY RUN,Treasurer of State,,REP,Tanya Webster,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,Treasurer of State,,REP,Tanya Webster,0,0,0
+Keokuk,JACKSON,Treasurer of State,,REP,Tanya Webster,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,Treasurer of State,,REP,Tanya Webster,0,0,0
+Keokuk,EAST / WEST LANCASTER,Treasurer of State,,REP,Tanya Webster,1,1,0
+Keokuk,PRAIRIE,Treasurer of State,,REP,Tanya Webster,0,0,0
+Keokuk,RICHLAND,Treasurer of State,,REP,Tanya Webster,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Treasurer of State,,REP,Tanya Webster,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,Treasurer of State,,REP,Tanya Webster,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,Treasurer of State,,REP,Tanya Webster,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,Treasurer of State,,REP,Tanya Webster,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,Treasurer of State,,REP,Tanya Webster,0,0,0
+Keokuk,WARREN,Treasurer of State,,REP,Tanya Webster,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,Treasurer of State,,REP,Tanya Webster,0,0,0
+Keokuk,ADAMS,Treasurer of State,,,Write-in,0,0,0
+Keokuk,BENTON / STEADY RUN,Treasurer of State,,,Write-in,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,Treasurer of State,,,Write-in,0,0,0
+Keokuk,JACKSON,Treasurer of State,,,Write-in,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,Treasurer of State,,,Write-in,0,0,0
+Keokuk,EAST / WEST LANCASTER,Treasurer of State,,,Write-in,0,0,0
+Keokuk,PRAIRIE,Treasurer of State,,,Write-in,0,0,0
+Keokuk,RICHLAND,Treasurer of State,,,Write-in,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Treasurer of State,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,Treasurer of State,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,Treasurer of State,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,Treasurer of State,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,Treasurer of State,,,Write-in,0,0,0
+Keokuk,WARREN,Treasurer of State,,,Write-in,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,Treasurer of State,,,Write-in,0,0,0
+Keokuk,ADAMS,Secretary of Agriculture,,REP,Ray Gaesser,0,0,0
+Keokuk,BENTON / STEADY RUN,Secretary of Agriculture,,REP,Ray Gaesser,5,0,5
+Keokuk,ENGLISH RIVER / LIBERTY,Secretary of Agriculture,,REP,Ray Gaesser,1,0,1
+Keokuk,JACKSON,Secretary of Agriculture,,REP,Ray Gaesser,6,2,4
+Keokuk,LAFAYETTE / CLEAR CREEK,Secretary of Agriculture,,REP,Ray Gaesser,12,3,9
+Keokuk,EAST / WEST LANCASTER,Secretary of Agriculture,,REP,Ray Gaesser,1,0,1
+Keokuk,PRAIRIE,Secretary of Agriculture,,REP,Ray Gaesser,1,0,1
+Keokuk,RICHLAND,Secretary of Agriculture,,REP,Ray Gaesser,8,1,7
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Secretary of Agriculture,,REP,Ray Gaesser,8,0,8
+Keokuk,SIGOURNEY 1ST WARD,Secretary of Agriculture,,REP,Ray Gaesser,8,0,8
+Keokuk,SIGOURNEY 2ND WARD,Secretary of Agriculture,,REP,Ray Gaesser,2,0,2
+Keokuk,SIGOURNEY 3RD WARD,Secretary of Agriculture,,REP,Ray Gaesser,3,0,3
+Keokuk,SIGOURNEY 4TH WARD,Secretary of Agriculture,,REP,Ray Gaesser,2,0,2
+Keokuk,WARREN,Secretary of Agriculture,,REP,Ray Gaesser,2,1,1
+Keokuk,WHAT CHEER / WASHINGTON,Secretary of Agriculture,,REP,Ray Gaesser,2,0,2
+Keokuk,ADAMS,Secretary of Agriculture,,REP,Chad Ingels,1,0,1
+Keokuk,BENTON / STEADY RUN,Secretary of Agriculture,,REP,Chad Ingels,3,0,3
+Keokuk,ENGLISH RIVER / LIBERTY,Secretary of Agriculture,,REP,Chad Ingels,1,0,1
+Keokuk,JACKSON,Secretary of Agriculture,,REP,Chad Ingels,2,0,2
+Keokuk,LAFAYETTE / CLEAR CREEK,Secretary of Agriculture,,REP,Chad Ingels,2,0,2
+Keokuk,EAST / WEST LANCASTER,Secretary of Agriculture,,REP,Chad Ingels,2,0,2
+Keokuk,PRAIRIE,Secretary of Agriculture,,REP,Chad Ingels,0,0,0
+Keokuk,RICHLAND,Secretary of Agriculture,,REP,Chad Ingels,3,0,3
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Secretary of Agriculture,,REP,Chad Ingels,1,0,1
+Keokuk,SIGOURNEY 1ST WARD,Secretary of Agriculture,,REP,Chad Ingels,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,Secretary of Agriculture,,REP,Chad Ingels,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,Secretary of Agriculture,,REP,Chad Ingels,2,1,1
+Keokuk,SIGOURNEY 4TH WARD,Secretary of Agriculture,,REP,Chad Ingels,1,0,1
+Keokuk,WARREN,Secretary of Agriculture,,REP,Chad Ingels,1,0,1
+Keokuk,WHAT CHEER / WASHINGTON,Secretary of Agriculture,,REP,Chad Ingels,0,0,0
+Keokuk,ADAMS,Secretary of Agriculture,,REP,Craig Lang,6,0,6
+Keokuk,BENTON / STEADY RUN,Secretary of Agriculture,,REP,Craig Lang,3,0,3
+Keokuk,ENGLISH RIVER / LIBERTY,Secretary of Agriculture,,REP,Craig Lang,12,1,11
+Keokuk,JACKSON,Secretary of Agriculture,,REP,Craig Lang,7,0,7
+Keokuk,LAFAYETTE / CLEAR CREEK,Secretary of Agriculture,,REP,Craig Lang,6,1,5
+Keokuk,EAST / WEST LANCASTER,Secretary of Agriculture,,REP,Craig Lang,2,0,2
+Keokuk,PRAIRIE,Secretary of Agriculture,,REP,Craig Lang,4,0,4
+Keokuk,RICHLAND,Secretary of Agriculture,,REP,Craig Lang,4,1,3
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Secretary of Agriculture,,REP,Craig Lang,6,0,6
+Keokuk,SIGOURNEY 1ST WARD,Secretary of Agriculture,,REP,Craig Lang,2,1,1
+Keokuk,SIGOURNEY 2ND WARD,Secretary of Agriculture,,REP,Craig Lang,3,1,2
+Keokuk,SIGOURNEY 3RD WARD,Secretary of Agriculture,,REP,Craig Lang,7,1,6
+Keokuk,SIGOURNEY 4TH WARD,Secretary of Agriculture,,REP,Craig Lang,3,2,1
+Keokuk,WARREN,Secretary of Agriculture,,REP,Craig Lang,1,0,1
+Keokuk,WHAT CHEER / WASHINGTON,Secretary of Agriculture,,REP,Craig Lang,4,0,4
+Keokuk,ADAMS,Secretary of Agriculture,,REP,Mike Naig,5,0,5
+Keokuk,BENTON / STEADY RUN,Secretary of Agriculture,,REP,Mike Naig,18,0,18
+Keokuk,ENGLISH RIVER / LIBERTY,Secretary of Agriculture,,REP,Mike Naig,5,0,5
+Keokuk,JACKSON,Secretary of Agriculture,,REP,Mike Naig,7,0,7
+Keokuk,LAFAYETTE / CLEAR CREEK,Secretary of Agriculture,,REP,Mike Naig,12,2,10
+Keokuk,EAST / WEST LANCASTER,Secretary of Agriculture,,REP,Mike Naig,8,0,8
+Keokuk,PRAIRIE,Secretary of Agriculture,,REP,Mike Naig,5,0,5
+Keokuk,RICHLAND,Secretary of Agriculture,,REP,Mike Naig,11,0,11
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Secretary of Agriculture,,REP,Mike Naig,13,0,13
+Keokuk,SIGOURNEY 1ST WARD,Secretary of Agriculture,,REP,Mike Naig,4,0,4
+Keokuk,SIGOURNEY 2ND WARD,Secretary of Agriculture,,REP,Mike Naig,8,3,5
+Keokuk,SIGOURNEY 3RD WARD,Secretary of Agriculture,,REP,Mike Naig,3,1,2
+Keokuk,SIGOURNEY 4TH WARD,Secretary of Agriculture,,REP,Mike Naig,7,0,7
+Keokuk,WARREN,Secretary of Agriculture,,REP,Mike Naig,5,2,3
+Keokuk,WHAT CHEER / WASHINGTON,Secretary of Agriculture,,REP,Mike Naig,14,0,14
+Keokuk,ADAMS,Secretary of Agriculture,,REP,Dan Zumbach,2,0,2
+Keokuk,BENTON / STEADY RUN,Secretary of Agriculture,,REP,Dan Zumbach,8,0,8
+Keokuk,ENGLISH RIVER / LIBERTY,Secretary of Agriculture,,REP,Dan Zumbach,3,0,3
+Keokuk,JACKSON,Secretary of Agriculture,,REP,Dan Zumbach,3,0,3
+Keokuk,LAFAYETTE / CLEAR CREEK,Secretary of Agriculture,,REP,Dan Zumbach,7,1,6
+Keokuk,EAST / WEST LANCASTER,Secretary of Agriculture,,REP,Dan Zumbach,2,1,1
+Keokuk,PRAIRIE,Secretary of Agriculture,,REP,Dan Zumbach,1,0,1
+Keokuk,RICHLAND,Secretary of Agriculture,,REP,Dan Zumbach,6,0,6
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Secretary of Agriculture,,REP,Dan Zumbach,1,0,1
+Keokuk,SIGOURNEY 1ST WARD,Secretary of Agriculture,,REP,Dan Zumbach,2,0,2
+Keokuk,SIGOURNEY 2ND WARD,Secretary of Agriculture,,REP,Dan Zumbach,4,0,4
+Keokuk,SIGOURNEY 3RD WARD,Secretary of Agriculture,,REP,Dan Zumbach,4,0,4
+Keokuk,SIGOURNEY 4TH WARD,Secretary of Agriculture,,REP,Dan Zumbach,3,2,1
+Keokuk,WARREN,Secretary of Agriculture,,REP,Dan Zumbach,2,0,2
+Keokuk,WHAT CHEER / WASHINGTON,Secretary of Agriculture,,REP,Dan Zumbach,5,1,4
+Keokuk,ADAMS,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,BENTON / STEADY RUN,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,JACKSON,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,EAST / WEST LANCASTER,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,PRAIRIE,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,RICHLAND,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,WARREN,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,ADAMS,Attorney General,,REP,Jim Morlan,0,0,0
+Keokuk,BENTON / STEADY RUN,Attorney General,,REP,Jim Morlan,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,Attorney General,,REP,Jim Morlan,0,0,0
+Keokuk,JACKSON,Attorney General,,REP,Jim Morlan,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,Attorney General,,REP,Jim Morlan,0,0,0
+Keokuk,EAST / WEST LANCASTER,Attorney General,,REP,Jim Morlan,1,1,0
+Keokuk,PRAIRIE,Attorney General,,REP,Jim Morlan,0,0,0
+Keokuk,RICHLAND,Attorney General,,REP,Jim Morlan,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Attorney General,,REP,Jim Morlan,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,Attorney General,,REP,Jim Morlan,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,Attorney General,,REP,Jim Morlan,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,Attorney General,,REP,Jim Morlan,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,Attorney General,,REP,Jim Morlan,0,0,0
+Keokuk,WARREN,Attorney General,,REP,Jim Morlan,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,Attorney General,,REP,Jim Morlan,0,0,0
+Keokuk,ADAMS,Attorney General,,REP,Blank,0,0,0
+Keokuk,BENTON / STEADY RUN,Attorney General,,REP,Blank,1,0,1
+Keokuk,ENGLISH RIVER / LIBERTY,Attorney General,,REP,Blank,1,0,1
+Keokuk,JACKSON,Attorney General,,REP,Blank,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,Attorney General,,REP,Blank,1,0,1
+Keokuk,EAST / WEST LANCASTER,Attorney General,,REP,Blank,0,0,0
+Keokuk,PRAIRIE,Attorney General,,REP,Blank,0,0,0
+Keokuk,RICHLAND,Attorney General,,REP,Blank,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Attorney General,,REP,Blank,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,Attorney General,,REP,Blank,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,Attorney General,,REP,Blank,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,Attorney General,,REP,Blank,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,Attorney General,,REP,Blank,0,0,0
+Keokuk,WARREN,Attorney General,,REP,Blank,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,Attorney General,,REP,Blank,1,0,1
+Keokuk,ADAMS,Attorney General,,REP,Tom Miller,0,0,0
+Keokuk,BENTON / STEADY RUN,Attorney General,,REP,Tom Miller,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,Attorney General,,REP,Tom Miller,0,0,0
+Keokuk,JACKSON,Attorney General,,REP,Tom Miller,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,Attorney General,,REP,Tom Miller,1,0,1
+Keokuk,EAST / WEST LANCASTER,Attorney General,,REP,Tom Miller,0,0,0
+Keokuk,PRAIRIE,Attorney General,,REP,Tom Miller,0,0,0
+Keokuk,RICHLAND,Attorney General,,REP,Tom Miller,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Attorney General,,REP,Tom Miller,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,Attorney General,,REP,Tom Miller,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,Attorney General,,REP,Tom Miller,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,Attorney General,,REP,Tom Miller,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,Attorney General,,REP,Tom Miller,0,0,0
+Keokuk,WARREN,Attorney General,,REP,Tom Miller,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,Attorney General,,REP,Tom Miller,0,0,0
+Keokuk,ADAMS,Attorney General,,REP,Mickey Mouse,0,0,0
+Keokuk,BENTON / STEADY RUN,Attorney General,,REP,Mickey Mouse,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,Attorney General,,REP,Mickey Mouse,0,0,0
+Keokuk,JACKSON,Attorney General,,REP,Mickey Mouse,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,Attorney General,,REP,Mickey Mouse,0,0,0
+Keokuk,EAST / WEST LANCASTER,Attorney General,,REP,Mickey Mouse,1,0,1
+Keokuk,PRAIRIE,Attorney General,,REP,Mickey Mouse,0,0,0
+Keokuk,RICHLAND,Attorney General,,REP,Mickey Mouse,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Attorney General,,REP,Mickey Mouse,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,Attorney General,,REP,Mickey Mouse,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,Attorney General,,REP,Mickey Mouse,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,Attorney General,,REP,Mickey Mouse,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,Attorney General,,REP,Mickey Mouse,0,0,0
+Keokuk,WARREN,Attorney General,,REP,Mickey Mouse,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,Attorney General,,REP,Mickey Mouse,0,0,0
+Keokuk,ADAMS,Attorney General,,,Write-in,0,0,0
+Keokuk,BENTON / STEADY RUN,Attorney General,,,Write-in,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,Attorney General,,,Write-in,0,0,0
+Keokuk,JACKSON,Attorney General,,,Write-in,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,Attorney General,,,Write-in,0,0,0
+Keokuk,EAST / WEST LANCASTER,Attorney General,,,Write-in,0,0,0
+Keokuk,PRAIRIE,Attorney General,,,Write-in,0,0,0
+Keokuk,RICHLAND,Attorney General,,,Write-in,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Attorney General,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,Attorney General,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,Attorney General,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,Attorney General,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,Attorney General,,,Write-in,0,0,0
+Keokuk,WARREN,Attorney General,,,Write-in,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,Attorney General,,,Write-in,0,0,0
+Keokuk,ADAMS,State Senator District 39,,REP,Heather Hora,6,0,6
+Keokuk,BENTON / STEADY RUN,State Senator District 39,,REP,Heather Hora,33,0,33
+Keokuk,ENGLISH RIVER / LIBERTY,State Senator District 39,,REP,Heather Hora,14,1,13
+Keokuk,JACKSON,State Senator District 39,,REP,Heather Hora,19,0,19
+Keokuk,LAFAYETTE / CLEAR CREEK,State Senator District 39,,REP,Heather Hora,27,6,21
+Keokuk,EAST / WEST LANCASTER,State Senator District 39,,REP,Heather Hora,12,1,11
+Keokuk,PRAIRIE,State Senator District 39,,REP,Heather Hora,8,0,8
+Keokuk,RICHLAND,State Senator District 39,,REP,Heather Hora,29,1,28
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,State Senator District 39,,REP,Heather Hora,26,0,26
+Keokuk,SIGOURNEY 1ST WARD,State Senator District 39,,REP,Heather Hora,16,1,15
+Keokuk,SIGOURNEY 2ND WARD,State Senator District 39,,REP,Heather Hora,18,4,14
+Keokuk,SIGOURNEY 3RD WARD,State Senator District 39,,REP,Heather Hora,14,4,10
+Keokuk,SIGOURNEY 4TH WARD,State Senator District 39,,REP,Heather Hora,13,3,10
+Keokuk,WARREN,State Senator District 39,,REP,Heather Hora,10,3,7
+Keokuk,WHAT CHEER / WASHINGTON,State Senator District 39,,REP,Heather Hora,25,3,22
+Keokuk,ADAMS,State Senator District 39,,,Write-in,0,0,0
+Keokuk,BENTON / STEADY RUN,State Senator District 39,,,Write-in,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,State Senator District 39,,,Write-in,0,0,0
+Keokuk,JACKSON,State Senator District 39,,,Write-in,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,State Senator District 39,,,Write-in,0,0,0
+Keokuk,EAST / WEST LANCASTER,State Senator District 39,,,Write-in,0,0,0
+Keokuk,PRAIRIE,State Senator District 39,,,Write-in,0,0,0
+Keokuk,RICHLAND,State Senator District 39,,,Write-in,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,State Senator District 39,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,State Senator District 39,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,State Senator District 39,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,State Senator District 39,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,State Senator District 39,,,Write-in,0,0,0
+Keokuk,WARREN,State Senator District 39,,,Write-in,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,State Senator District 39,,,Write-in,0,0,0
+Keokuk,ADAMS,State Representative District  78,,REP,Jarad Klein,9,0,9
+Keokuk,BENTON / STEADY RUN,State Representative District  78,,REP,Jarad Klein,34,0,34
+Keokuk,ENGLISH RIVER / LIBERTY,State Representative District  78,,REP,Jarad Klein,18,1,17
+Keokuk,JACKSON,State Representative District  78,,REP,Jarad Klein,21,0,21
+Keokuk,LAFAYETTE / CLEAR CREEK,State Representative District  78,,REP,Jarad Klein,35,6,29
+Keokuk,EAST / WEST LANCASTER,State Representative District  78,,REP,Jarad Klein,15,1,14
+Keokuk,PRAIRIE,State Representative District  78,,REP,Jarad Klein,12,0,12
+Keokuk,RICHLAND,State Representative District  78,,REP,Jarad Klein,34,2,32
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,State Representative District  78,,REP,Jarad Klein,31,0,31
+Keokuk,SIGOURNEY 1ST WARD,State Representative District  78,,REP,Jarad Klein,18,1,17
+Keokuk,SIGOURNEY 2ND WARD,State Representative District  78,,REP,Jarad Klein,17,4,13
+Keokuk,SIGOURNEY 3RD WARD,State Representative District  78,,REP,Jarad Klein,15,4,11
+Keokuk,SIGOURNEY 4TH WARD,State Representative District  78,,REP,Jarad Klein,13,3,10
+Keokuk,WARREN,State Representative District  78,,REP,Jarad Klein,10,3,7
+Keokuk,WHAT CHEER / WASHINGTON,State Representative District  78,,REP,Jarad Klein,30,4,26
+Keokuk,ADAMS,State Representative District  78,,,Write-in,0,0,0
+Keokuk,BENTON / STEADY RUN,State Representative District  78,,,Write-in,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,State Representative District  78,,,Write-in,0,0,0
+Keokuk,JACKSON,State Representative District  78,,,Write-in,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,State Representative District  78,,,Write-in,0,0,0
+Keokuk,EAST / WEST LANCASTER,State Representative District  78,,,Write-in,0,0,0
+Keokuk,PRAIRIE,State Representative District  78,,,Write-in,0,0,0
+Keokuk,RICHLAND,State Representative District  78,,,Write-in,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,State Representative District  78,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,State Representative District  78,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,State Representative District  78,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,State Representative District  78,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,State Representative District  78,,,Write-in,0,0,0
+Keokuk,WARREN,State Representative District  78,,,Write-in,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,State Representative District  78,,,Write-in,0,0,0
+Keokuk,ADAMS,County Board of Supervisors,,REP,Michael C. Hadley,8,0,8
+Keokuk,BENTON / STEADY RUN,County Board of Supervisors,,REP,Michael C. Hadley,33,0,33
+Keokuk,ENGLISH RIVER / LIBERTY,County Board of Supervisors,,REP,Michael C. Hadley,17,1,16
+Keokuk,JACKSON,County Board of Supervisors,,REP,Michael C. Hadley,21,0,21
+Keokuk,LAFAYETTE / CLEAR CREEK,County Board of Supervisors,,REP,Michael C. Hadley,30,7,23
+Keokuk,EAST / WEST LANCASTER,County Board of Supervisors,,REP,Michael C. Hadley,14,1,13
+Keokuk,PRAIRIE,County Board of Supervisors,,REP,Michael C. Hadley,5,0,5
+Keokuk,RICHLAND,County Board of Supervisors,,REP,Michael C. Hadley,34,2,32
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,County Board of Supervisors,,REP,Michael C. Hadley,25,0,25
+Keokuk,SIGOURNEY 1ST WARD,County Board of Supervisors,,REP,Michael C. Hadley,16,0,16
+Keokuk,SIGOURNEY 2ND WARD,County Board of Supervisors,,REP,Michael C. Hadley,16,4,12
+Keokuk,SIGOURNEY 3RD WARD,County Board of Supervisors,,REP,Michael C. Hadley,14,3,11
+Keokuk,SIGOURNEY 4TH WARD,County Board of Supervisors,,REP,Michael C. Hadley,17,4,13
+Keokuk,WARREN,County Board of Supervisors,,REP,Michael C. Hadley,10,3,7
+Keokuk,WHAT CHEER / WASHINGTON,County Board of Supervisors,,REP,Michael C. Hadley,27,7,20
+Keokuk,ADAMS,County Board of Supervisors,,REP,Daryl Wood,12,0,12
+Keokuk,BENTON / STEADY RUN,County Board of Supervisors,,REP,Daryl Wood,25,0,25
+Keokuk,ENGLISH RIVER / LIBERTY,County Board of Supervisors,,REP,Daryl Wood,12,0,12
+Keokuk,JACKSON,County Board of Supervisors,,REP,Daryl Wood,20,0,20
+Keokuk,LAFAYETTE / CLEAR CREEK,County Board of Supervisors,,REP,Daryl Wood,28,6,22
+Keokuk,EAST / WEST LANCASTER,County Board of Supervisors,,REP,Daryl Wood,15,1,14
+Keokuk,PRAIRIE,County Board of Supervisors,,REP,Daryl Wood,11,0,11
+Keokuk,RICHLAND,County Board of Supervisors,,REP,Daryl Wood,17,0,17
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,County Board of Supervisors,,REP,Daryl Wood,30,0,30
+Keokuk,SIGOURNEY 1ST WARD,County Board of Supervisors,,REP,Daryl Wood,13,1,12
+Keokuk,SIGOURNEY 2ND WARD,County Board of Supervisors,,REP,Daryl Wood,16,4,12
+Keokuk,SIGOURNEY 3RD WARD,County Board of Supervisors,,REP,Daryl Wood,17,4,13
+Keokuk,SIGOURNEY 4TH WARD,County Board of Supervisors,,REP,Daryl Wood,16,4,12
+Keokuk,WARREN,County Board of Supervisors,,REP,Daryl Wood,10,3,7
+Keokuk,WHAT CHEER / WASHINGTON,County Board of Supervisors,,REP,Daryl Wood,31,7,24
+Keokuk,ADAMS,County Board of Supervisors,,,Write-in,0,0,0
+Keokuk,BENTON / STEADY RUN,County Board of Supervisors,,,Write-in,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,County Board of Supervisors,,,Write-in,0,0,0
+Keokuk,JACKSON,County Board of Supervisors,,,Write-in,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,County Board of Supervisors,,,Write-in,0,0,0
+Keokuk,EAST / WEST LANCASTER,County Board of Supervisors,,,Write-in,0,0,0
+Keokuk,PRAIRIE,County Board of Supervisors,,,Write-in,0,0,0
+Keokuk,RICHLAND,County Board of Supervisors,,,Write-in,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,County Board of Supervisors,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,County Board of Supervisors,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,County Board of Supervisors,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,County Board of Supervisors,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,County Board of Supervisors,,,Write-in,0,0,0
+Keokuk,WARREN,County Board of Supervisors,,,Write-in,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,County Board of Supervisors,,,Write-in,0,0,0
+Keokuk,ADAMS,County Treasurer,,REP,Christine Edmundson,14,0,14
+Keokuk,BENTON / STEADY RUN,County Treasurer,,REP,Christine Edmundson,37,0,37
+Keokuk,ENGLISH RIVER / LIBERTY,County Treasurer,,REP,Christine Edmundson,17,1,16
+Keokuk,JACKSON,County Treasurer,,REP,Christine Edmundson,22,0,22
+Keokuk,LAFAYETTE / CLEAR CREEK,County Treasurer,,REP,Christine Edmundson,34,6,28
+Keokuk,EAST / WEST LANCASTER,County Treasurer,,REP,Christine Edmundson,19,1,18
+Keokuk,PRAIRIE,County Treasurer,,REP,Christine Edmundson,13,0,13
+Keokuk,RICHLAND,County Treasurer,,REP,Christine Edmundson,31,2,29
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,County Treasurer,,REP,Christine Edmundson,33,0,33
+Keokuk,SIGOURNEY 1ST WARD,County Treasurer,,REP,Christine Edmundson,16,1,15
+Keokuk,SIGOURNEY 2ND WARD,County Treasurer,,REP,Christine Edmundson,19,5,14
+Keokuk,SIGOURNEY 3RD WARD,County Treasurer,,REP,Christine Edmundson,17,4,13
+Keokuk,SIGOURNEY 4TH WARD,County Treasurer,,REP,Christine Edmundson,17,4,13
+Keokuk,WARREN,County Treasurer,,REP,Christine Edmundson,13,3,10
+Keokuk,WHAT CHEER / WASHINGTON,County Treasurer,,REP,Christine Edmundson,30,4,26
+Keokuk,ADAMS,County Treasurer,,,Write-in,0,0,0
+Keokuk,BENTON / STEADY RUN,County Treasurer,,,Write-in,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,County Treasurer,,,Write-in,0,0,0
+Keokuk,JACKSON,County Treasurer,,,Write-in,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,County Treasurer,,,Write-in,0,0,0
+Keokuk,EAST / WEST LANCASTER,County Treasurer,,,Write-in,0,0,0
+Keokuk,PRAIRIE,County Treasurer,,,Write-in,0,0,0
+Keokuk,RICHLAND,County Treasurer,,,Write-in,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,County Treasurer,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,County Treasurer,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,County Treasurer,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,County Treasurer,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,County Treasurer,,,Write-in,0,0,0
+Keokuk,WARREN,County Treasurer,,,Write-in,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,County Treasurer,,,Write-in,0,0,0
+Keokuk,ADAMS,County Recorder,,REP,Dawn T. Goldman,11,0,11
+Keokuk,BENTON / STEADY RUN,County Recorder,,REP,Dawn T. Goldman,37,0,37
+Keokuk,ENGLISH RIVER / LIBERTY,County Recorder,,REP,Dawn T. Goldman,16,1,15
+Keokuk,JACKSON,County Recorder,,REP,Dawn T. Goldman,21,0,21
+Keokuk,LAFAYETTE / CLEAR CREEK,County Recorder,,REP,Dawn T. Goldman,33,6,27
+Keokuk,EAST / WEST LANCASTER,County Recorder,,REP,Dawn T. Goldman,18,2,16
+Keokuk,PRAIRIE,County Recorder,,REP,Dawn T. Goldman,10,0,10
+Keokuk,RICHLAND,County Recorder,,REP,Dawn T. Goldman,29,2,27
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,County Recorder,,REP,Dawn T. Goldman,34,0,34
+Keokuk,SIGOURNEY 1ST WARD,County Recorder,,REP,Dawn T. Goldman,15,1,14
+Keokuk,SIGOURNEY 2ND WARD,County Recorder,,REP,Dawn T. Goldman,19,5,14
+Keokuk,SIGOURNEY 3RD WARD,County Recorder,,REP,Dawn T. Goldman,17,4,13
+Keokuk,SIGOURNEY 4TH WARD,County Recorder,,REP,Dawn T. Goldman,18,4,14
+Keokuk,WARREN,County Recorder,,REP,Dawn T. Goldman,13,3,10
+Keokuk,WHAT CHEER / WASHINGTON,County Recorder,,REP,Dawn T. Goldman,28,3,25
+Keokuk,ADAMS,County Recorder,,,Write-in,0,0,0
+Keokuk,BENTON / STEADY RUN,County Recorder,,,Write-in,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,County Recorder,,,Write-in,0,0,0
+Keokuk,JACKSON,County Recorder,,,Write-in,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,County Recorder,,,Write-in,0,0,0
+Keokuk,EAST / WEST LANCASTER,County Recorder,,,Write-in,0,0,0
+Keokuk,PRAIRIE,County Recorder,,,Write-in,0,0,0
+Keokuk,RICHLAND,County Recorder,,,Write-in,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,County Recorder,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,County Recorder,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,County Recorder,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,County Recorder,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,County Recorder,,,Write-in,0,0,0
+Keokuk,WARREN,County Recorder,,,Write-in,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,County Recorder,,,Write-in,0,0,0
+Keokuk,ADAMS,County Attorney,,REP,Amber L. Thompson,12,0,12
+Keokuk,BENTON / STEADY RUN,County Attorney,,REP,Amber L. Thompson,36,0,36
+Keokuk,ENGLISH RIVER / LIBERTY,County Attorney,,REP,Amber L. Thompson,16,0,16
+Keokuk,JACKSON,County Attorney,,REP,Amber L. Thompson,22,0,22
+Keokuk,LAFAYETTE / CLEAR CREEK,County Attorney,,REP,Amber L. Thompson,31,5,26
+Keokuk,EAST / WEST LANCASTER,County Attorney,,REP,Amber L. Thompson,20,2,18
+Keokuk,PRAIRIE,County Attorney,,REP,Amber L. Thompson,11,0,11
+Keokuk,RICHLAND,County Attorney,,REP,Amber L. Thompson,30,2,28
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,County Attorney,,REP,Amber L. Thompson,34,0,34
+Keokuk,SIGOURNEY 1ST WARD,County Attorney,,REP,Amber L. Thompson,20,1,19
+Keokuk,SIGOURNEY 2ND WARD,County Attorney,,REP,Amber L. Thompson,19,5,14
+Keokuk,SIGOURNEY 3RD WARD,County Attorney,,REP,Amber L. Thompson,19,4,15
+Keokuk,SIGOURNEY 4TH WARD,County Attorney,,REP,Amber L. Thompson,19,4,15
+Keokuk,WARREN,County Attorney,,REP,Amber L. Thompson,11,3,8
+Keokuk,WHAT CHEER / WASHINGTON,County Attorney,,REP,Amber L. Thompson,30,7,23
+Keokuk,ADAMS,County Attorney,,,Write-in,0,0,0
+Keokuk,BENTON / STEADY RUN,County Attorney,,,Write-in,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,County Attorney,,,Write-in,0,0,0
+Keokuk,JACKSON,County Attorney,,,Write-in,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,County Attorney,,,Write-in,0,0,0
+Keokuk,EAST / WEST LANCASTER,County Attorney,,,Write-in,0,0,0
+Keokuk,PRAIRIE,County Attorney,,,Write-in,0,0,0
+Keokuk,RICHLAND,County Attorney,,,Write-in,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,County Attorney,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,County Attorney,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,County Attorney,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,County Attorney,,,Write-in,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,County Attorney,,,Write-in,0,0,0
+Keokuk,WARREN,County Attorney,,,Write-in,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,County Attorney,,,Write-in,0,0,0
+Keokuk,ADAMS,United States Representative District 2,,DEM,Dave Loebsack,20,3,17
+Keokuk,BENTON / STEADY RUN,United States Representative District 2,,DEM,Dave Loebsack,31,2,29
+Keokuk,ENGLISH RIVER / LIBERTY,United States Representative District 2,,DEM,Dave Loebsack,29,6,23
+Keokuk,JACKSON,United States Representative District 2,,DEM,Dave Loebsack,10,0,10
+Keokuk,LAFAYETTE / CLEAR CREEK,United States Representative District 2,,DEM,Dave Loebsack,42,7,35
+Keokuk,EAST / WEST LANCASTER,United States Representative District 2,,DEM,Dave Loebsack,5,1,4
+Keokuk,PRAIRIE,United States Representative District 2,,DEM,Dave Loebsack,7,0,7
+Keokuk,RICHLAND,United States Representative District 2,,DEM,Dave Loebsack,22,0,22
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,United States Representative District 2,,DEM,Dave Loebsack,25,4,21
+Keokuk,SIGOURNEY 1ST WARD,United States Representative District 2,,DEM,Dave Loebsack,18,5,13
+Keokuk,SIGOURNEY 2ND WARD,United States Representative District 2,,DEM,Dave Loebsack,21,2,19
+Keokuk,SIGOURNEY 3RD WARD,United States Representative District 2,,DEM,Dave Loebsack,18,4,14
+Keokuk,SIGOURNEY 4TH WARD,United States Representative District 2,,DEM,Dave Loebsack,24,4,20
+Keokuk,WARREN,United States Representative District 2,,DEM,Dave Loebsack,15,2,13
+Keokuk,WHAT CHEER / WASHINGTON,United States Representative District 2,,DEM,Dave Loebsack,22,7,15
+Keokuk,ADAMS,Governor,,DEM,Nate Boulton,3,1,2
+Keokuk,BENTON / STEADY RUN,Governor,,DEM,Nate Boulton,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,Governor,,DEM,Nate Boulton,0,0,0
+Keokuk,JACKSON,Governor,,DEM,Nate Boulton,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,Governor,,DEM,Nate Boulton,2,0,2
+Keokuk,EAST / WEST LANCASTER,Governor,,DEM,Nate Boulton,1,0,1
+Keokuk,PRAIRIE,Governor,,DEM,Nate Boulton,0,0,0
+Keokuk,RICHLAND,Governor,,DEM,Nate Boulton,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Governor,,DEM,Nate Boulton,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,Governor,,DEM,Nate Boulton,1,1,0
+Keokuk,SIGOURNEY 2ND WARD,Governor,,DEM,Nate Boulton,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,Governor,,DEM,Nate Boulton,4,1,3
+Keokuk,SIGOURNEY 4TH WARD,Governor,,DEM,Nate Boulton,3,2,1
+Keokuk,WARREN,Governor,,DEM,Nate Boulton,1,0,1
+Keokuk,WHAT CHEER / WASHINGTON,Governor,,DEM,Nate Boulton,1,1,0
+Keokuk,ADAMS,Governor,,DEM,Cathy Glasson,2,0,2
+Keokuk,BENTON / STEADY RUN,Governor,,DEM,Cathy Glasson,7,1,6
+Keokuk,ENGLISH RIVER / LIBERTY,Governor,,DEM,Cathy Glasson,8,1,7
+Keokuk,JACKSON,Governor,,DEM,Cathy Glasson,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,Governor,,DEM,Cathy Glasson,7,1,6
+Keokuk,EAST / WEST LANCASTER,Governor,,DEM,Cathy Glasson,0,0,0
+Keokuk,PRAIRIE,Governor,,DEM,Cathy Glasson,2,0,2
+Keokuk,RICHLAND,Governor,,DEM,Cathy Glasson,4,0,4
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Governor,,DEM,Cathy Glasson,5,1,4
+Keokuk,SIGOURNEY 1ST WARD,Governor,,DEM,Cathy Glasson,3,1,2
+Keokuk,SIGOURNEY 2ND WARD,Governor,,DEM,Cathy Glasson,7,0,7
+Keokuk,SIGOURNEY 3RD WARD,Governor,,DEM,Cathy Glasson,3,0,3
+Keokuk,SIGOURNEY 4TH WARD,Governor,,DEM,Cathy Glasson,1,0,1
+Keokuk,WARREN,Governor,,DEM,Cathy Glasson,4,0,4
+Keokuk,WHAT CHEER / WASHINGTON,Governor,,DEM,Cathy Glasson,3,1,2
+Keokuk,ADAMS,Governor,,DEM,Fred Hubbell,16,2,14
+Keokuk,BENTON / STEADY RUN,Governor,,DEM,Fred Hubbell,21,2,19
+Keokuk,ENGLISH RIVER / LIBERTY,Governor,,DEM,Fred Hubbell,19,5,14
+Keokuk,JACKSON,Governor,,DEM,Fred Hubbell,7,0,7
+Keokuk,LAFAYETTE / CLEAR CREEK,Governor,,DEM,Fred Hubbell,24,6,18
+Keokuk,EAST / WEST LANCASTER,Governor,,DEM,Fred Hubbell,2,0,2
+Keokuk,PRAIRIE,Governor,,DEM,Fred Hubbell,6,0,6
+Keokuk,RICHLAND,Governor,,DEM,Fred Hubbell,15,0,15
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Governor,,DEM,Fred Hubbell,14,1,13
+Keokuk,SIGOURNEY 1ST WARD,Governor,,DEM,Fred Hubbell,13,3,10
+Keokuk,SIGOURNEY 2ND WARD,Governor,,DEM,Fred Hubbell,10,0,10
+Keokuk,SIGOURNEY 3RD WARD,Governor,,DEM,Fred Hubbell,17,2,15
+Keokuk,SIGOURNEY 4TH WARD,Governor,,DEM,Fred Hubbell,14,0,14
+Keokuk,WARREN,Governor,,DEM,Fred Hubbell,8,2,6
+Keokuk,WHAT CHEER / WASHINGTON,Governor,,DEM,Fred Hubbell,20,4,16
+Keokuk,ADAMS,Governor,,DEM,Andrea Andy McGuire,0,0,0
+Keokuk,BENTON / STEADY RUN,Governor,,DEM,Andrea Andy McGuire,3,0,3
+Keokuk,ENGLISH RIVER / LIBERTY,Governor,,DEM,Andrea Andy McGuire,2,0,2
+Keokuk,JACKSON,Governor,,DEM,Andrea Andy McGuire,2,0,2
+Keokuk,LAFAYETTE / CLEAR CREEK,Governor,,DEM,Andrea Andy McGuire,7,0,7
+Keokuk,EAST / WEST LANCASTER,Governor,,DEM,Andrea Andy McGuire,3,1,2
+Keokuk,PRAIRIE,Governor,,DEM,Andrea Andy McGuire,0,0,0
+Keokuk,RICHLAND,Governor,,DEM,Andrea Andy McGuire,2,0,2
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Governor,,DEM,Andrea Andy McGuire,2,0,2
+Keokuk,SIGOURNEY 1ST WARD,Governor,,DEM,Andrea Andy McGuire,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,Governor,,DEM,Andrea Andy McGuire,1,1,0
+Keokuk,SIGOURNEY 3RD WARD,Governor,,DEM,Andrea Andy McGuire,1,0,1
+Keokuk,SIGOURNEY 4TH WARD,Governor,,DEM,Andrea Andy McGuire,2,0,2
+Keokuk,WARREN,Governor,,DEM,Andrea Andy McGuire,3,0,3
+Keokuk,WHAT CHEER / WASHINGTON,Governor,,DEM,Andrea Andy McGuire,2,2,0
+Keokuk,ADAMS,Governor,,DEM,John Norris,3,0,3
+Keokuk,BENTON / STEADY RUN,Governor,,DEM,John Norris,3,0,3
+Keokuk,ENGLISH RIVER / LIBERTY,Governor,,DEM,John Norris,4,0,4
+Keokuk,JACKSON,Governor,,DEM,John Norris,2,0,2
+Keokuk,LAFAYETTE / CLEAR CREEK,Governor,,DEM,John Norris,6,0,6
+Keokuk,EAST / WEST LANCASTER,Governor,,DEM,John Norris,0,0,0
+Keokuk,PRAIRIE,Governor,,DEM,John Norris,0,0,0
+Keokuk,RICHLAND,Governor,,DEM,John Norris,3,0,3
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Governor,,DEM,John Norris,3,1,2
+Keokuk,SIGOURNEY 1ST WARD,Governor,,DEM,John Norris,3,0,3
+Keokuk,SIGOURNEY 2ND WARD,Governor,,DEM,John Norris,3,1,2
+Keokuk,SIGOURNEY 3RD WARD,Governor,,DEM,John Norris,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,Governor,,DEM,John Norris,4,1,3
+Keokuk,WARREN,Governor,,DEM,John Norris,1,0,1
+Keokuk,WHAT CHEER / WASHINGTON,Governor,,DEM,John Norris,0,0,0
+Keokuk,ADAMS,Governor,,DEM,Ross Wilburn,0,0,0
+Keokuk,BENTON / STEADY RUN,Governor,,DEM,Ross Wilburn,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,Governor,,DEM,Ross Wilburn,1,0,1
+Keokuk,JACKSON,Governor,,DEM,Ross Wilburn,1,0,1
+Keokuk,LAFAYETTE / CLEAR CREEK,Governor,,DEM,Ross Wilburn,1,0,1
+Keokuk,EAST / WEST LANCASTER,Governor,,DEM,Ross Wilburn,1,0,1
+Keokuk,PRAIRIE,Governor,,DEM,Ross Wilburn,0,0,0
+Keokuk,RICHLAND,Governor,,DEM,Ross Wilburn,1,0,1
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Governor,,DEM,Ross Wilburn,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,Governor,,DEM,Ross Wilburn,1,0,1
+Keokuk,SIGOURNEY 2ND WARD,Governor,,DEM,Ross Wilburn,2,0,2
+Keokuk,SIGOURNEY 3RD WARD,Governor,,DEM,Ross Wilburn,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,Governor,,DEM,Ross Wilburn,0,0,0
+Keokuk,WARREN,Governor,,DEM,Ross Wilburn,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,Governor,,DEM,Ross Wilburn,0,0,0
+Keokuk,ADAMS,Secretary of State,,DEM,Deidre DeJear,11,2,9
+Keokuk,BENTON / STEADY RUN,Secretary of State,,DEM,Deidre DeJear,16,1,15
+Keokuk,ENGLISH RIVER / LIBERTY,Secretary of State,,DEM,Deidre DeJear,16,3,13
+Keokuk,JACKSON,Secretary of State,,DEM,Deidre DeJear,4,0,4
+Keokuk,LAFAYETTE / CLEAR CREEK,Secretary of State,,DEM,Deidre DeJear,21,3,18
+Keokuk,EAST / WEST LANCASTER,Secretary of State,,DEM,Deidre DeJear,3,0,3
+Keokuk,PRAIRIE,Secretary of State,,DEM,Deidre DeJear,6,0,6
+Keokuk,RICHLAND,Secretary of State,,DEM,Deidre DeJear,6,0,6
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Secretary of State,,DEM,Deidre DeJear,13,3,10
+Keokuk,SIGOURNEY 1ST WARD,Secretary of State,,DEM,Deidre DeJear,9,1,8
+Keokuk,SIGOURNEY 2ND WARD,Secretary of State,,DEM,Deidre DeJear,5,0,5
+Keokuk,SIGOURNEY 3RD WARD,Secretary of State,,DEM,Deidre DeJear,7,0,7
+Keokuk,SIGOURNEY 4TH WARD,Secretary of State,,DEM,Deidre DeJear,16,4,12
+Keokuk,WARREN,Secretary of State,,DEM,Deidre DeJear,7,0,7
+Keokuk,WHAT CHEER / WASHINGTON,Secretary of State,,DEM,Deidre DeJear,13,2,11
+Keokuk,ADAMS,Secretary of State,,DEM,Jim Mowrer,9,1,8
+Keokuk,BENTON / STEADY RUN,Secretary of State,,DEM,Jim Mowrer,15,2,13
+Keokuk,ENGLISH RIVER / LIBERTY,Secretary of State,,DEM,Jim Mowrer,15,3,12
+Keokuk,JACKSON,Secretary of State,,DEM,Jim Mowrer,5,0,5
+Keokuk,LAFAYETTE / CLEAR CREEK,Secretary of State,,DEM,Jim Mowrer,21,3,18
+Keokuk,EAST / WEST LANCASTER,Secretary of State,,DEM,Jim Mowrer,0,0,0
+Keokuk,PRAIRIE,Secretary of State,,DEM,Jim Mowrer,2,0,2
+Keokuk,RICHLAND,Secretary of State,,DEM,Jim Mowrer,14,0,14
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Secretary of State,,DEM,Jim Mowrer,8,0,8
+Keokuk,SIGOURNEY 1ST WARD,Secretary of State,,DEM,Jim Mowrer,9,3,6
+Keokuk,SIGOURNEY 2ND WARD,Secretary of State,,DEM,Jim Mowrer,16,2,14
+Keokuk,SIGOURNEY 3RD WARD,Secretary of State,,DEM,Jim Mowrer,13,4,9
+Keokuk,SIGOURNEY 4TH WARD,Secretary of State,,DEM,Jim Mowrer,6,0,6
+Keokuk,WARREN,Secretary of State,,DEM,Jim Mowrer,7,2,5
+Keokuk,WHAT CHEER / WASHINGTON,Secretary of State,,DEM,Jim Mowrer,10,5,5
+Keokuk,ADAMS,Auditor of State,,DEM,Rob Sand,15,3,12
+Keokuk,BENTON / STEADY RUN,Auditor of State,,DEM,Rob Sand,30,2,28
+Keokuk,ENGLISH RIVER / LIBERTY,Auditor of State,,DEM,Rob Sand,22,6,16
+Keokuk,JACKSON,Auditor of State,,DEM,Rob Sand,9,0,9
+Keokuk,LAFAYETTE / CLEAR CREEK,Auditor of State,,DEM,Rob Sand,39,5,34
+Keokuk,EAST / WEST LANCASTER,Auditor of State,,DEM,Rob Sand,3,0,3
+Keokuk,PRAIRIE,Auditor of State,,DEM,Rob Sand,6,0,6
+Keokuk,RICHLAND,Auditor of State,,DEM,Rob Sand,19,0,19
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Auditor of State,,DEM,Rob Sand,18,3,15
+Keokuk,SIGOURNEY 1ST WARD,Auditor of State,,DEM,Rob Sand,17,4,13
+Keokuk,SIGOURNEY 2ND WARD,Auditor of State,,DEM,Rob Sand,20,1,19
+Keokuk,SIGOURNEY 3RD WARD,Auditor of State,,DEM,Rob Sand,19,4,15
+Keokuk,SIGOURNEY 4TH WARD,Auditor of State,,DEM,Rob Sand,21,3,18
+Keokuk,WARREN,Auditor of State,,DEM,Rob Sand,14,2,12
+Keokuk,WHAT CHEER / WASHINGTON,Auditor of State,,DEM,Rob Sand,20,6,14
+Keokuk,ADAMS,Treasurer of State,,DEM,Michael L. Fitzgerald,19,3,16
+Keokuk,BENTON / STEADY RUN,Treasurer of State,,DEM,Michael L. Fitzgerald,30,2,28
+Keokuk,ENGLISH RIVER / LIBERTY,Treasurer of State,,DEM,Michael L. Fitzgerald,28,6,22
+Keokuk,JACKSON,Treasurer of State,,DEM,Michael L. Fitzgerald,10,0,10
+Keokuk,LAFAYETTE / CLEAR CREEK,Treasurer of State,,DEM,Michael L. Fitzgerald,40,5,35
+Keokuk,EAST / WEST LANCASTER,Treasurer of State,,DEM,Michael L. Fitzgerald,4,1,3
+Keokuk,PRAIRIE,Treasurer of State,,DEM,Michael L. Fitzgerald,6,0,6
+Keokuk,RICHLAND,Treasurer of State,,DEM,Michael L. Fitzgerald,20,0,20
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Treasurer of State,,DEM,Michael L. Fitzgerald,23,4,19
+Keokuk,SIGOURNEY 1ST WARD,Treasurer of State,,DEM,Michael L. Fitzgerald,19,5,14
+Keokuk,SIGOURNEY 2ND WARD,Treasurer of State,,DEM,Michael L. Fitzgerald,21,2,19
+Keokuk,SIGOURNEY 3RD WARD,Treasurer of State,,DEM,Michael L. Fitzgerald,24,4,20
+Keokuk,SIGOURNEY 4TH WARD,Treasurer of State,,DEM,Michael L. Fitzgerald,21,2,19
+Keokuk,WARREN,Treasurer of State,,DEM,Michael L. Fitzgerald,15,2,13
+Keokuk,WHAT CHEER / WASHINGTON,Treasurer of State,,DEM,Michael L. Fitzgerald,23,7,16
+Keokuk,ADAMS,Secretary of Agriculture,,DEM,Tim Gannon,17,3,14
+Keokuk,BENTON / STEADY RUN,Secretary of Agriculture,,DEM,Tim Gannon,30,2,28
+Keokuk,ENGLISH RIVER / LIBERTY,Secretary of Agriculture,,DEM,Tim Gannon,25,6,19
+Keokuk,JACKSON,Secretary of Agriculture,,DEM,Tim Gannon,9,0,9
+Keokuk,LAFAYETTE / CLEAR CREEK,Secretary of Agriculture,,DEM,Tim Gannon,39,6,33
+Keokuk,EAST / WEST LANCASTER,Secretary of Agriculture,,DEM,Tim Gannon,4,0,4
+Keokuk,PRAIRIE,Secretary of Agriculture,,DEM,Tim Gannon,6,0,6
+Keokuk,RICHLAND,Secretary of Agriculture,,DEM,Tim Gannon,19,0,19
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Secretary of Agriculture,,DEM,Tim Gannon,20,2,18
+Keokuk,SIGOURNEY 1ST WARD,Secretary of Agriculture,,DEM,Tim Gannon,17,4,13
+Keokuk,SIGOURNEY 2ND WARD,Secretary of Agriculture,,DEM,Tim Gannon,20,2,18
+Keokuk,SIGOURNEY 3RD WARD,Secretary of Agriculture,,DEM,Tim Gannon,21,4,17
+Keokuk,SIGOURNEY 4TH WARD,Secretary of Agriculture,,DEM,Tim Gannon,20,3,17
+Keokuk,WARREN,Secretary of Agriculture,,DEM,Tim Gannon,15,2,13
+Keokuk,WHAT CHEER / WASHINGTON,Secretary of Agriculture,,DEM,Tim Gannon,20,6,14
+Keokuk,ADAMS,Attorney General,,DEM,Tom Miller,22,3,19
+Keokuk,BENTON / STEADY RUN,Attorney General,,DEM,Tom Miller,32,2,30
+Keokuk,ENGLISH RIVER / LIBERTY,Attorney General,,DEM,Tom Miller,28,6,22
+Keokuk,JACKSON,Attorney General,,DEM,Tom Miller,9,0,9
+Keokuk,LAFAYETTE / CLEAR CREEK,Attorney General,,DEM,Tom Miller,42,5,37
+Keokuk,EAST / WEST LANCASTER,Attorney General,,DEM,Tom Miller,6,1,5
+Keokuk,PRAIRIE,Attorney General,,DEM,Tom Miller,6,0,6
+Keokuk,RICHLAND,Attorney General,,DEM,Tom Miller,19,0,19
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Attorney General,,DEM,Tom Miller,24,4,20
+Keokuk,SIGOURNEY 1ST WARD,Attorney General,,DEM,Tom Miller,17,4,13
+Keokuk,SIGOURNEY 2ND WARD,Attorney General,,DEM,Tom Miller,21,2,19
+Keokuk,SIGOURNEY 3RD WARD,Attorney General,,DEM,Tom Miller,24,4,20
+Keokuk,SIGOURNEY 4TH WARD,Attorney General,,DEM,Tom Miller,22,2,20
+Keokuk,WARREN,Attorney General,,DEM,Tom Miller,15,2,13
+Keokuk,WHAT CHEER / WASHINGTON,Attorney General,,DEM,Tom Miller,24,7,17
+Keokuk,ADAMS,State Senator District 39,,DEM,Kevin Kinney,19,3,16
+Keokuk,BENTON / STEADY RUN,State Senator District 39,,DEM,Kevin Kinney,30,2,28
+Keokuk,ENGLISH RIVER / LIBERTY,State Senator District 39,,DEM,Kevin Kinney,22,6,16
+Keokuk,JACKSON,State Senator District 39,,DEM,Kevin Kinney,7,0,7
+Keokuk,LAFAYETTE / CLEAR CREEK,State Senator District 39,,DEM,Kevin Kinney,41,6,35
+Keokuk,EAST / WEST LANCASTER,State Senator District 39,,DEM,Kevin Kinney,5,1,4
+Keokuk,PRAIRIE,State Senator District 39,,DEM,Kevin Kinney,5,0,5
+Keokuk,RICHLAND,State Senator District 39,,DEM,Kevin Kinney,18,0,18
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,State Senator District 39,,DEM,Kevin Kinney,22,3,19
+Keokuk,SIGOURNEY 1ST WARD,State Senator District 39,,DEM,Kevin Kinney,19,5,14
+Keokuk,SIGOURNEY 2ND WARD,State Senator District 39,,DEM,Kevin Kinney,19,2,17
+Keokuk,SIGOURNEY 3RD WARD,State Senator District 39,,DEM,Kevin Kinney,20,4,16
+Keokuk,SIGOURNEY 4TH WARD,State Senator District 39,,DEM,Kevin Kinney,24,4,20
+Keokuk,WARREN,State Senator District 39,,DEM,Kevin Kinney,15,2,13
+Keokuk,WHAT CHEER / WASHINGTON,State Senator District 39,,DEM,Kevin Kinney,20,7,13
+Keokuk,ADAMS,State Representative District  78,,DEM,Kimberly K. Davis,16,3,13
+Keokuk,BENTON / STEADY RUN,State Representative District  78,,DEM,Kimberly K. Davis,28,2,26
+Keokuk,ENGLISH RIVER / LIBERTY,State Representative District  78,,DEM,Kimberly K. Davis,21,6,15
+Keokuk,JACKSON,State Representative District  78,,DEM,Kimberly K. Davis,7,0,7
+Keokuk,LAFAYETTE / CLEAR CREEK,State Representative District  78,,DEM,Kimberly K. Davis,35,4,31
+Keokuk,EAST / WEST LANCASTER,State Representative District  78,,DEM,Kimberly K. Davis,5,1,4
+Keokuk,PRAIRIE,State Representative District  78,,DEM,Kimberly K. Davis,5,0,5
+Keokuk,RICHLAND,State Representative District  78,,DEM,Kimberly K. Davis,19,0,19
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,State Representative District  78,,DEM,Kimberly K. Davis,19,2,17
+Keokuk,SIGOURNEY 1ST WARD,State Representative District  78,,DEM,Kimberly K. Davis,17,4,13
+Keokuk,SIGOURNEY 2ND WARD,State Representative District  78,,DEM,Kimberly K. Davis,21,2,19
+Keokuk,SIGOURNEY 3RD WARD,State Representative District  78,,DEM,Kimberly K. Davis,19,4,15
+Keokuk,SIGOURNEY 4TH WARD,State Representative District  78,,DEM,Kimberly K. Davis,20,3,17
+Keokuk,WARREN,State Representative District  78,,DEM,Kimberly K. Davis,15,2,13
+Keokuk,WHAT CHEER / WASHINGTON,State Representative District  78,,DEM,Kimberly K. Davis,21,7,14
+Keokuk,ADAMS,County Board of Supervisors,,DEM,Roger Fred Snakenberg,13,2,11
+Keokuk,BENTON / STEADY RUN,County Board of Supervisors,,DEM,Roger Fred Snakenberg,28,2,26
+Keokuk,ENGLISH RIVER / LIBERTY,County Board of Supervisors,,DEM,Roger Fred Snakenberg,27,6,21
+Keokuk,JACKSON,County Board of Supervisors,,DEM,Roger Fred Snakenberg,8,0,8
+Keokuk,LAFAYETTE / CLEAR CREEK,County Board of Supervisors,,DEM,Roger Fred Snakenberg,37,5,32
+Keokuk,EAST / WEST LANCASTER,County Board of Supervisors,,DEM,Roger Fred Snakenberg,6,1,5
+Keokuk,PRAIRIE,County Board of Supervisors,,DEM,Roger Fred Snakenberg,6,0,6
+Keokuk,RICHLAND,County Board of Supervisors,,DEM,Roger Fred Snakenberg,20,0,20
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,County Board of Supervisors,,DEM,Roger Fred Snakenberg,19,3,16
+Keokuk,SIGOURNEY 1ST WARD,County Board of Supervisors,,DEM,Roger Fred Snakenberg,17,4,13
+Keokuk,SIGOURNEY 2ND WARD,County Board of Supervisors,,DEM,Roger Fred Snakenberg,17,2,15
+Keokuk,SIGOURNEY 3RD WARD,County Board of Supervisors,,DEM,Roger Fred Snakenberg,20,3,17
+Keokuk,SIGOURNEY 4TH WARD,County Board of Supervisors,,DEM,Roger Fred Snakenberg,16,2,14
+Keokuk,WARREN,County Board of Supervisors,,DEM,Roger Fred Snakenberg,12,2,10
+Keokuk,WHAT CHEER / WASHINGTON,County Board of Supervisors,,DEM,Roger Fred Snakenberg,21,7,14
+Keokuk,ADAMS,County Treasurer,,DEM,Rita Dill,0,0,0
+Keokuk,BENTON / STEADY RUN,County Treasurer,,DEM,Rita Dill,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,County Treasurer,,DEM,Rita Dill,0,0,0
+Keokuk,JACKSON,County Treasurer,,DEM,Rita Dill,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,County Treasurer,,DEM,Rita Dill,1,0,1
+Keokuk,EAST / WEST LANCASTER,County Treasurer,,DEM,Rita Dill,0,0,0
+Keokuk,PRAIRIE,County Treasurer,,DEM,Rita Dill,0,0,0
+Keokuk,RICHLAND,County Treasurer,,DEM,Rita Dill,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,County Treasurer,,DEM,Rita Dill,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,County Treasurer,,DEM,Rita Dill,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,County Treasurer,,DEM,Rita Dill,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,County Treasurer,,DEM,Rita Dill,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,County Treasurer,,DEM,Rita Dill,0,0,0
+Keokuk,WARREN,County Treasurer,,DEM,Rita Dill,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,County Treasurer,,DEM,Rita Dill,0,0,0
+Keokuk,ADAMS,County Treasurer,,DEM,Blank,0,0,0
+Keokuk,BENTON / STEADY RUN,County Treasurer,,DEM,Blank,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,County Treasurer,,DEM,Blank,0,0,0
+Keokuk,JACKSON,County Treasurer,,DEM,Blank,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,County Treasurer,,DEM,Blank,0,0,0
+Keokuk,EAST / WEST LANCASTER,County Treasurer,,DEM,Blank,0,0,0
+Keokuk,PRAIRIE,County Treasurer,,DEM,Blank,0,0,0
+Keokuk,RICHLAND,County Treasurer,,DEM,Blank,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,County Treasurer,,DEM,Blank,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,County Treasurer,,DEM,Blank,1,0,1
+Keokuk,SIGOURNEY 2ND WARD,County Treasurer,,DEM,Blank,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,County Treasurer,,DEM,Blank,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,County Treasurer,,DEM,Blank,0,0,0
+Keokuk,WARREN,County Treasurer,,DEM,Blank,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,County Treasurer,,DEM,Blank,0,0,0
+Keokuk,ADAMS,County Treasurer,,DEM,Kristine Edmundson,0,0,0
+Keokuk,BENTON / STEADY RUN,County Treasurer,,DEM,Kristine Edmundson,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,County Treasurer,,DEM,Kristine Edmundson,0,0,0
+Keokuk,JACKSON,County Treasurer,,DEM,Kristine Edmundson,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,County Treasurer,,DEM,Kristine Edmundson,0,0,0
+Keokuk,EAST / WEST LANCASTER,County Treasurer,,DEM,Kristine Edmundson,0,0,0
+Keokuk,PRAIRIE,County Treasurer,,DEM,Kristine Edmundson,0,0,0
+Keokuk,RICHLAND,County Treasurer,,DEM,Kristine Edmundson,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,County Treasurer,,DEM,Kristine Edmundson,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,County Treasurer,,DEM,Kristine Edmundson,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,County Treasurer,,DEM,Kristine Edmundson,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,County Treasurer,,DEM,Kristine Edmundson,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,County Treasurer,,DEM,Kristine Edmundson,0,0,0
+Keokuk,WARREN,County Treasurer,,DEM,Kristine Edmundson,1,0,1
+Keokuk,WHAT CHEER / WASHINGTON,County Treasurer,,DEM,Kristine Edmundson,0,0,0
+Keokuk,ADAMS,County Recorder,,DEM,Blank,0,0,0
+Keokuk,BENTON / STEADY RUN,County Recorder,,DEM,Blank,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,County Recorder,,DEM,Blank,0,0,0
+Keokuk,JACKSON,County Recorder,,DEM,Blank,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,County Recorder,,DEM,Blank,0,0,0
+Keokuk,EAST / WEST LANCASTER,County Recorder,,DEM,Blank,0,0,0
+Keokuk,PRAIRIE,County Recorder,,DEM,Blank,0,0,0
+Keokuk,RICHLAND,County Recorder,,DEM,Blank,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,County Recorder,,DEM,Blank,1,1,0
+Keokuk,SIGOURNEY 1ST WARD,County Recorder,,DEM,Blank,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,County Recorder,,DEM,Blank,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,County Recorder,,DEM,Blank,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,County Recorder,,DEM,Blank,1,0,1
+Keokuk,WARREN,County Recorder,,DEM,Blank,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,County Recorder,,DEM,Blank,0,0,0
+Keokuk,ADAMS,County Recorder,,DEM,Dawn Goldman,0,0,0
+Keokuk,BENTON / STEADY RUN,County Recorder,,DEM,Dawn Goldman,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,County Recorder,,DEM,Dawn Goldman,0,0,0
+Keokuk,JACKSON,County Recorder,,DEM,Dawn Goldman,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,County Recorder,,DEM,Dawn Goldman,0,0,0
+Keokuk,EAST / WEST LANCASTER,County Recorder,,DEM,Dawn Goldman,0,0,0
+Keokuk,PRAIRIE,County Recorder,,DEM,Dawn Goldman,0,0,0
+Keokuk,RICHLAND,County Recorder,,DEM,Dawn Goldman,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,County Recorder,,DEM,Dawn Goldman,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,County Recorder,,DEM,Dawn Goldman,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,County Recorder,,DEM,Dawn Goldman,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,County Recorder,,DEM,Dawn Goldman,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,County Recorder,,DEM,Dawn Goldman,0,0,0
+Keokuk,WARREN,County Recorder,,DEM,Dawn Goldman,1,0,1
+Keokuk,WHAT CHEER / WASHINGTON,County Recorder,,DEM,Dawn Goldman,0,0,0
+Keokuk,ADAMS,County Attorney,,DEM,John Wehr,0,0,0
+Keokuk,BENTON / STEADY RUN,County Attorney,,DEM,John Wehr,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,County Attorney,,DEM,John Wehr,0,0,0
+Keokuk,JACKSON,County Attorney,,DEM,John Wehr,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,County Attorney,,DEM,John Wehr,0,0,0
+Keokuk,EAST / WEST LANCASTER,County Attorney,,DEM,John Wehr,0,0,0
+Keokuk,PRAIRIE,County Attorney,,DEM,John Wehr,0,0,0
+Keokuk,RICHLAND,County Attorney,,DEM,John Wehr,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,County Attorney,,DEM,John Wehr,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,County Attorney,,DEM,John Wehr,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,County Attorney,,DEM,John Wehr,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,County Attorney,,DEM,John Wehr,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,County Attorney,,DEM,John Wehr,0,0,0
+Keokuk,WARREN,County Attorney,,DEM,John Wehr,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,County Attorney,,DEM,John Wehr,2,2,0
+Keokuk,ADAMS,County Attorney,,DEM,Scott Flynn,0,0,0
+Keokuk,BENTON / STEADY RUN,County Attorney,,DEM,Scott Flynn,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,County Attorney,,DEM,Scott Flynn,0,0,0
+Keokuk,JACKSON,County Attorney,,DEM,Scott Flynn,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,County Attorney,,DEM,Scott Flynn,1,0,1
+Keokuk,EAST / WEST LANCASTER,County Attorney,,DEM,Scott Flynn,0,0,0
+Keokuk,PRAIRIE,County Attorney,,DEM,Scott Flynn,0,0,0
+Keokuk,RICHLAND,County Attorney,,DEM,Scott Flynn,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,County Attorney,,DEM,Scott Flynn,0,0,0
+Keokuk,SIGOURNEY 1ST WARD,County Attorney,,DEM,Scott Flynn,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,County Attorney,,DEM,Scott Flynn,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,County Attorney,,DEM,Scott Flynn,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,County Attorney,,DEM,Scott Flynn,0,0,0
+Keokuk,WARREN,County Attorney,,DEM,Scott Flynn,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,County Attorney,,DEM,Scott Flynn,0,0,0
+Keokuk,ADAMS,Governor,,LIB,Marco Battaglia,0,0,0
+Keokuk,BENTON / STEADY RUN,Governor,,LIB,Marco Battaglia,0,0,0
+Keokuk,ENGLISH RIVER / LIBERTY,Governor,,LIB,Marco Battaglia,0,0,0
+Keokuk,JACKSON,Governor,,LIB,Marco Battaglia,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,Governor,,LIB,Marco Battaglia,0,0,0
+Keokuk,EAST / WEST LANCASTER,Governor,,LIB,Marco Battaglia,0,0,0
+Keokuk,PRAIRIE,Governor,,LIB,Marco Battaglia,0,0,0
+Keokuk,RICHLAND,Governor,,LIB,Marco Battaglia,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Governor,,LIB,Marco Battaglia,1,0,1
+Keokuk,SIGOURNEY 1ST WARD,Governor,,LIB,Marco Battaglia,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,Governor,,LIB,Marco Battaglia,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,Governor,,LIB,Marco Battaglia,0,0,0
+Keokuk,SIGOURNEY 4TH WARD,Governor,,LIB,Marco Battaglia,0,0,0
+Keokuk,WARREN,Governor,,LIB,Marco Battaglia,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,Governor,,LIB,Marco Battaglia,0,0,0
+Keokuk,ADAMS,Governor,,LIB,Jake Porter,0,0,0
+Keokuk,BENTON / STEADY RUN,Governor,,LIB,Jake Porter,1,0,1
+Keokuk,ENGLISH RIVER / LIBERTY,Governor,,LIB,Jake Porter,0,0,0
+Keokuk,JACKSON,Governor,,LIB,Jake Porter,0,0,0
+Keokuk,LAFAYETTE / CLEAR CREEK,Governor,,LIB,Jake Porter,0,0,0
+Keokuk,EAST / WEST LANCASTER,Governor,,LIB,Jake Porter,0,0,0
+Keokuk,PRAIRIE,Governor,,LIB,Jake Porter,0,0,0
+Keokuk,RICHLAND,Governor,,LIB,Jake Porter,0,0,0
+Keokuk,SIGOURNEY / PLANK / VAN BUREN,Governor,,LIB,Jake Porter,1,0,1
+Keokuk,SIGOURNEY 1ST WARD,Governor,,LIB,Jake Porter,0,0,0
+Keokuk,SIGOURNEY 2ND WARD,Governor,,LIB,Jake Porter,0,0,0
+Keokuk,SIGOURNEY 3RD WARD,Governor,,LIB,Jake Porter,1,1,0
+Keokuk,SIGOURNEY 4TH WARD,Governor,,LIB,Jake Porter,1,0,1
+Keokuk,WARREN,Governor,,LIB,Jake Porter,0,0,0
+Keokuk,WHAT CHEER / WASHINGTON,Governor,,LIB,Jake Porter,0,0,0

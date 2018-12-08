@@ -1,0 +1,477 @@
+county,precinct,office,district,party,candidate,votes,absentee,polling
+Greene,Central Precinct,United States Representative District 4,,REP,Cyndi Hanson,14,4,10
+Greene,East Precinct,United States Representative District 4,,REP,Cyndi Hanson,10,0,10
+Greene,Jefferson 1 Precinct,United States Representative District 4,,REP,Cyndi Hanson,15,2,13
+Greene,Jefferson 2 Precinct,United States Representative District 4,,REP,Cyndi Hanson,14,3,11
+Greene,Jefferson 3 Precinct,United States Representative District 4,,REP,Cyndi Hanson,19,3,16
+Greene,North Precinct,United States Representative District 4,,REP,Cyndi Hanson,9,2,7
+Greene,West Precinct,United States Representative District 4,,REP,Cyndi Hanson,7,0,7
+Greene,Central Precinct,United States Representative District 4,,REP,Steve King,73,16,57
+Greene,East Precinct,United States Representative District 4,,REP,Steve King,53,2,51
+Greene,Jefferson 1 Precinct,United States Representative District 4,,REP,Steve King,45,7,38
+Greene,Jefferson 2 Precinct,United States Representative District 4,,REP,Steve King,48,11,37
+Greene,Jefferson 3 Precinct,United States Representative District 4,,REP,Steve King,61,8,53
+Greene,North Precinct,United States Representative District 4,,REP,Steve King,40,7,33
+Greene,West Precinct,United States Representative District 4,,REP,Steve King,43,1,42
+Greene,Central Precinct,United States Representative District 4,,,Write-in,0,0,0
+Greene,East Precinct,United States Representative District 4,,,Write-in,1,0,1
+Greene,Jefferson 1 Precinct,United States Representative District 4,,,Write-in,0,0,0
+Greene,Jefferson 2 Precinct,United States Representative District 4,,,Write-in,0,0,0
+Greene,Jefferson 3 Precinct,United States Representative District 4,,,Write-in,0,0,0
+Greene,North Precinct,United States Representative District 4,,,Write-in,0,0,0
+Greene,West Precinct,United States Representative District 4,,,Write-in,0,0,0
+Greene,Central Precinct,Governor,,REP,Kim Reynolds,81,20,61
+Greene,East Precinct,Governor,,REP,Kim Reynolds,57,2,55
+Greene,Jefferson 1 Precinct,Governor,,REP,Kim Reynolds,51,8,43
+Greene,Jefferson 2 Precinct,Governor,,REP,Kim Reynolds,58,15,43
+Greene,Jefferson 3 Precinct,Governor,,REP,Kim Reynolds,70,11,59
+Greene,North Precinct,Governor,,REP,Kim Reynolds,47,9,38
+Greene,West Precinct,Governor,,REP,Kim Reynolds,50,2,48
+Greene,Central Precinct,Governor,,,Write-in,1,0,1
+Greene,East Precinct,Governor,,,Write-in,0,0,0
+Greene,Jefferson 1 Precinct,Governor,,,Write-in,0,0,0
+Greene,Jefferson 2 Precinct,Governor,,,Write-in,0,0,0
+Greene,Jefferson 3 Precinct,Governor,,,Write-in,0,0,0
+Greene,North Precinct,Governor,,,Write-in,0,0,0
+Greene,West Precinct,Governor,,,Write-in,0,0,0
+Greene,Central Precinct,Secretary of State,,REP,Paul D. Pate,75,19,56
+Greene,East Precinct,Secretary of State,,REP,Paul D. Pate,49,2,47
+Greene,Jefferson 1 Precinct,Secretary of State,,REP,Paul D. Pate,45,7,38
+Greene,Jefferson 2 Precinct,Secretary of State,,REP,Paul D. Pate,50,14,36
+Greene,Jefferson 3 Precinct,Secretary of State,,REP,Paul D. Pate,67,11,56
+Greene,North Precinct,Secretary of State,,REP,Paul D. Pate,47,9,38
+Greene,West Precinct,Secretary of State,,REP,Paul D. Pate,43,1,42
+Greene,Central Precinct,Secretary of State,,,Write-in,0,0,0
+Greene,East Precinct,Secretary of State,,,Write-in,0,0,0
+Greene,Jefferson 1 Precinct,Secretary of State,,,Write-in,0,0,0
+Greene,Jefferson 2 Precinct,Secretary of State,,,Write-in,0,0,0
+Greene,Jefferson 3 Precinct,Secretary of State,,,Write-in,0,0,0
+Greene,North Precinct,Secretary of State,,,Write-in,0,0,0
+Greene,West Precinct,Secretary of State,,,Write-in,0,0,0
+Greene,Central Precinct,Auditor of State,,REP,Mary Mosiman,77,21,56
+Greene,East Precinct,Auditor of State,,REP,Mary Mosiman,46,2,44
+Greene,Jefferson 1 Precinct,Auditor of State,,REP,Mary Mosiman,42,6,36
+Greene,Jefferson 2 Precinct,Auditor of State,,REP,Mary Mosiman,44,11,33
+Greene,Jefferson 3 Precinct,Auditor of State,,REP,Mary Mosiman,65,11,54
+Greene,North Precinct,Auditor of State,,REP,Mary Mosiman,43,9,34
+Greene,West Precinct,Auditor of State,,REP,Mary Mosiman,41,1,40
+Greene,Central Precinct,Auditor of State,,,Write-in,0,0,0
+Greene,East Precinct,Auditor of State,,,Write-in,0,0,0
+Greene,Jefferson 1 Precinct,Auditor of State,,,Write-in,0,0,0
+Greene,Jefferson 2 Precinct,Auditor of State,,,Write-in,0,0,0
+Greene,Jefferson 3 Precinct,Auditor of State,,,Write-in,0,0,0
+Greene,North Precinct,Auditor of State,,,Write-in,0,0,0
+Greene,West Precinct,Auditor of State,,,Write-in,0,0,0
+Greene,Central Precinct,Treasurer of State,,,Write-in,0,0,0
+Greene,East Precinct,Treasurer of State,,,Write-in,0,0,0
+Greene,Jefferson 1 Precinct,Treasurer of State,,,Write-in,0,0,0
+Greene,Jefferson 2 Precinct,Treasurer of State,,,Write-in,0,0,0
+Greene,Jefferson 3 Precinct,Treasurer of State,,,Write-in,0,0,0
+Greene,North Precinct,Treasurer of State,,,Write-in,0,0,0
+Greene,West Precinct,Treasurer of State,,,Write-in,0,0,0
+Greene,Central Precinct,Secretary of Agriculture,,REP,Ray Gaesser,9,1,8
+Greene,East Precinct,Secretary of Agriculture,,REP,Ray Gaesser,6,0,6
+Greene,Jefferson 1 Precinct,Secretary of Agriculture,,REP,Ray Gaesser,9,1,8
+Greene,Jefferson 2 Precinct,Secretary of Agriculture,,REP,Ray Gaesser,2,1,1
+Greene,Jefferson 3 Precinct,Secretary of Agriculture,,REP,Ray Gaesser,2,0,2
+Greene,North Precinct,Secretary of Agriculture,,REP,Ray Gaesser,3,0,3
+Greene,West Precinct,Secretary of Agriculture,,REP,Ray Gaesser,1,0,1
+Greene,Central Precinct,Secretary of Agriculture,,REP,Chad Ingels,2,2,0
+Greene,East Precinct,Secretary of Agriculture,,REP,Chad Ingels,6,0,6
+Greene,Jefferson 1 Precinct,Secretary of Agriculture,,REP,Chad Ingels,4,1,3
+Greene,Jefferson 2 Precinct,Secretary of Agriculture,,REP,Chad Ingels,5,2,3
+Greene,Jefferson 3 Precinct,Secretary of Agriculture,,REP,Chad Ingels,5,0,5
+Greene,North Precinct,Secretary of Agriculture,,REP,Chad Ingels,1,1,0
+Greene,West Precinct,Secretary of Agriculture,,REP,Chad Ingels,2,0,2
+Greene,Central Precinct,Secretary of Agriculture,,REP,Craig Lang,32,12,20
+Greene,East Precinct,Secretary of Agriculture,,REP,Craig Lang,13,0,13
+Greene,Jefferson 1 Precinct,Secretary of Agriculture,,REP,Craig Lang,16,3,13
+Greene,Jefferson 2 Precinct,Secretary of Agriculture,,REP,Craig Lang,26,5,21
+Greene,Jefferson 3 Precinct,Secretary of Agriculture,,REP,Craig Lang,28,4,24
+Greene,North Precinct,Secretary of Agriculture,,REP,Craig Lang,11,2,9
+Greene,West Precinct,Secretary of Agriculture,,REP,Craig Lang,23,1,22
+Greene,Central Precinct,Secretary of Agriculture,,REP,Mike Naig,30,6,24
+Greene,East Precinct,Secretary of Agriculture,,REP,Mike Naig,24,2,22
+Greene,Jefferson 1 Precinct,Secretary of Agriculture,,REP,Mike Naig,19,1,18
+Greene,Jefferson 2 Precinct,Secretary of Agriculture,,REP,Mike Naig,17,5,12
+Greene,Jefferson 3 Precinct,Secretary of Agriculture,,REP,Mike Naig,26,4,22
+Greene,North Precinct,Secretary of Agriculture,,REP,Mike Naig,20,3,17
+Greene,West Precinct,Secretary of Agriculture,,REP,Mike Naig,13,0,13
+Greene,Central Precinct,Secretary of Agriculture,,REP,Dan Zumbach,8,1,7
+Greene,East Precinct,Secretary of Agriculture,,REP,Dan Zumbach,4,0,4
+Greene,Jefferson 1 Precinct,Secretary of Agriculture,,REP,Dan Zumbach,6,1,5
+Greene,Jefferson 2 Precinct,Secretary of Agriculture,,REP,Dan Zumbach,6,1,5
+Greene,Jefferson 3 Precinct,Secretary of Agriculture,,REP,Dan Zumbach,10,2,8
+Greene,North Precinct,Secretary of Agriculture,,REP,Dan Zumbach,6,1,5
+Greene,West Precinct,Secretary of Agriculture,,REP,Dan Zumbach,8,0,8
+Greene,Central Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Greene,East Precinct,Secretary of Agriculture,,,Write-in,1,0,1
+Greene,Jefferson 1 Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Greene,Jefferson 2 Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Greene,Jefferson 3 Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Greene,North Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Greene,West Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Greene,Central Precinct,Attorney General,,,Write-in,0,0,0
+Greene,East Precinct,Attorney General,,,Write-in,0,0,0
+Greene,Jefferson 1 Precinct,Attorney General,,,Write-in,0,0,0
+Greene,Jefferson 2 Precinct,Attorney General,,,Write-in,0,0,0
+Greene,Jefferson 3 Precinct,Attorney General,,,Write-in,0,0,0
+Greene,North Precinct,Attorney General,,,Write-in,0,0,0
+Greene,West Precinct,Attorney General,,,Write-in,0,0,0
+Greene,Central Precinct,State Representative District  47,,REP,Donald J. Batt,5,0,5
+Greene,East Precinct,State Representative District  47,,REP,Donald J. Batt,8,0,8
+Greene,Jefferson 1 Precinct,State Representative District  47,,REP,Donald J. Batt,5,2,3
+Greene,Jefferson 2 Precinct,State Representative District  47,,REP,Donald J. Batt,3,1,2
+Greene,Jefferson 3 Precinct,State Representative District  47,,REP,Donald J. Batt,7,1,6
+Greene,North Precinct,State Representative District  47,,REP,Donald J. Batt,5,4,1
+Greene,West Precinct,State Representative District  47,,REP,Donald J. Batt,4,0,4
+Greene,Central Precinct,State Representative District  47,,REP,Victoria Sinclair,12,3,9
+Greene,East Precinct,State Representative District  47,,REP,Victoria Sinclair,7,0,7
+Greene,Jefferson 1 Precinct,State Representative District  47,,REP,Victoria Sinclair,7,0,7
+Greene,Jefferson 2 Precinct,State Representative District  47,,REP,Victoria Sinclair,10,2,8
+Greene,Jefferson 3 Precinct,State Representative District  47,,REP,Victoria Sinclair,16,2,14
+Greene,North Precinct,State Representative District  47,,REP,Victoria Sinclair,13,2,11
+Greene,West Precinct,State Representative District  47,,REP,Victoria Sinclair,7,1,6
+Greene,Central Precinct,State Representative District  47,,REP,Phil Thompson,69,19,50
+Greene,East Precinct,State Representative District  47,,REP,Phil Thompson,39,2,37
+Greene,Jefferson 1 Precinct,State Representative District  47,,REP,Phil Thompson,49,7,42
+Greene,Jefferson 2 Precinct,State Representative District  47,,REP,Phil Thompson,45,9,36
+Greene,Jefferson 3 Precinct,State Representative District  47,,REP,Phil Thompson,57,9,48
+Greene,North Precinct,State Representative District  47,,REP,Phil Thompson,26,2,24
+Greene,West Precinct,State Representative District  47,,REP,Phil Thompson,38,0,38
+Greene,Central Precinct,State Representative District  47,,,Write-in,0,0,0
+Greene,East Precinct,State Representative District  47,,,Write-in,0,0,0
+Greene,Jefferson 1 Precinct,State Representative District  47,,,Write-in,0,0,0
+Greene,Jefferson 2 Precinct,State Representative District  47,,,Write-in,0,0,0
+Greene,Jefferson 3 Precinct,State Representative District  47,,,Write-in,0,0,0
+Greene,North Precinct,State Representative District  47,,,Write-in,0,0,0
+Greene,West Precinct,State Representative District  47,,,Write-in,0,0,0
+Greene,Central Precinct,County Board of Supervisors District 2,,REP,Dawn Rudolph,77,19,58
+Greene,East Precinct,County Board of Supervisors District 2,,REP,Dawn Rudolph,46,2,44
+Greene,Jefferson 1 Precinct,County Board of Supervisors District 2,,REP,Dawn Rudolph,46,9,37
+Greene,Jefferson 2 Precinct,County Board of Supervisors District 2,,REP,Dawn Rudolph,48,15,33
+Greene,Jefferson 3 Precinct,County Board of Supervisors District 2,,REP,Dawn Rudolph,68,11,57
+Greene,North Precinct,County Board of Supervisors District 2,,REP,Dawn Rudolph,45,9,36
+Greene,West Precinct,County Board of Supervisors District 2,,REP,Dawn Rudolph,47,1,46
+Greene,Central Precinct,County Board of Supervisors District 2,,,Write-in,0,0,0
+Greene,East Precinct,County Board of Supervisors District 2,,,Write-in,0,0,0
+Greene,Jefferson 1 Precinct,County Board of Supervisors District 2,,,Write-in,0,0,0
+Greene,Jefferson 2 Precinct,County Board of Supervisors District 2,,,Write-in,0,0,0
+Greene,Jefferson 3 Precinct,County Board of Supervisors District 2,,,Write-in,0,0,0
+Greene,North Precinct,County Board of Supervisors District 2,,,Write-in,0,0,0
+Greene,West Precinct,County Board of Supervisors District 2,,,Write-in,0,0,0
+Greene,Central Precinct,County Board of Supervisors District 3,,REP,Tom Contner,70,16,54
+Greene,East Precinct,County Board of Supervisors District 3,,REP,Tom Contner,53,1,52
+Greene,Jefferson 1 Precinct,County Board of Supervisors District 3,,REP,Tom Contner,44,8,36
+Greene,Jefferson 2 Precinct,County Board of Supervisors District 3,,REP,Tom Contner,42,12,30
+Greene,Jefferson 3 Precinct,County Board of Supervisors District 3,,REP,Tom Contner,61,11,50
+Greene,North Precinct,County Board of Supervisors District 3,,REP,Tom Contner,46,9,37
+Greene,West Precinct,County Board of Supervisors District 3,,REP,Tom Contner,45,1,44
+Greene,Central Precinct,County Board of Supervisors District 3,,,Write-in,0,0,0
+Greene,East Precinct,County Board of Supervisors District 3,,,Write-in,0,0,0
+Greene,Jefferson 1 Precinct,County Board of Supervisors District 3,,,Write-in,0,0,0
+Greene,Jefferson 2 Precinct,County Board of Supervisors District 3,,,Write-in,0,0,0
+Greene,Jefferson 3 Precinct,County Board of Supervisors District 3,,,Write-in,0,0,0
+Greene,North Precinct,County Board of Supervisors District 3,,,Write-in,0,0,0
+Greene,West Precinct,County Board of Supervisors District 3,,,Write-in,0,0,0
+Greene,Central Precinct,County Treasurer,,REP,Katlynn Gannon-Mechaelsen,66,17,49
+Greene,East Precinct,County Treasurer,,REP,Katlynn Gannon-Mechaelsen,52,2,50
+Greene,Jefferson 1 Precinct,County Treasurer,,REP,Katlynn Gannon-Mechaelsen,37,6,31
+Greene,Jefferson 2 Precinct,County Treasurer,,REP,Katlynn Gannon-Mechaelsen,41,11,30
+Greene,Jefferson 3 Precinct,County Treasurer,,REP,Katlynn Gannon-Mechaelsen,59,11,48
+Greene,North Precinct,County Treasurer,,REP,Katlynn Gannon-Mechaelsen,38,9,29
+Greene,West Precinct,County Treasurer,,REP,Katlynn Gannon-Mechaelsen,33,1,32
+Greene,Central Precinct,County Treasurer,,,Write-in,0,0,0
+Greene,East Precinct,County Treasurer,,,Write-in,1,0,1
+Greene,Jefferson 1 Precinct,County Treasurer,,,Write-in,0,0,0
+Greene,Jefferson 2 Precinct,County Treasurer,,,Write-in,0,0,0
+Greene,Jefferson 3 Precinct,County Treasurer,,,Write-in,0,0,0
+Greene,North Precinct,County Treasurer,,,Write-in,0,0,0
+Greene,West Precinct,County Treasurer,,,Write-in,0,0,0
+Greene,Central Precinct,County Recorder,,,Write-in,0,0,0
+Greene,East Precinct,County Recorder,,,Write-in,0,0,0
+Greene,Jefferson 1 Precinct,County Recorder,,,Write-in,0,0,0
+Greene,Jefferson 2 Precinct,County Recorder,,,Write-in,0,0,0
+Greene,Jefferson 3 Precinct,County Recorder,,,Write-in,0,0,0
+Greene,North Precinct,County Recorder,,,Write-in,0,0,0
+Greene,West Precinct,County Recorder,,,Write-in,0,0,0
+Greene,Central Precinct,County Attorney,,REP,Thomas Laehn,0,0,0
+Greene,East Precinct,County Attorney,,REP,Thomas Laehn,0,0,0
+Greene,Jefferson 1 Precinct,County Attorney,,REP,Thomas Laehn,0,0,0
+Greene,Jefferson 2 Precinct,County Attorney,,REP,Thomas Laehn,3,0,3
+Greene,Jefferson 3 Precinct,County Attorney,,REP,Thomas Laehn,0,0,0
+Greene,North Precinct,County Attorney,,REP,Thomas Laehn,0,0,0
+Greene,West Precinct,County Attorney,,REP,Thomas Laehn,0,0,0
+Greene,Central Precinct,County Attorney,,REP,Jonathan Law,1,0,1
+Greene,East Precinct,County Attorney,,REP,Jonathan Law,0,0,0
+Greene,Jefferson 1 Precinct,County Attorney,,REP,Jonathan Law,0,0,0
+Greene,Jefferson 2 Precinct,County Attorney,,REP,Jonathan Law,0,0,0
+Greene,Jefferson 3 Precinct,County Attorney,,REP,Jonathan Law,0,0,0
+Greene,North Precinct,County Attorney,,REP,Jonathan Law,0,0,0
+Greene,West Precinct,County Attorney,,REP,Jonathan Law,0,0,0
+Greene,Central Precinct,County Attorney,,REP,Jon Tiffany,0,0,0
+Greene,East Precinct,County Attorney,,REP,Jon Tiffany,0,0,0
+Greene,Jefferson 1 Precinct,County Attorney,,REP,Jon Tiffany,1,0,1
+Greene,Jefferson 2 Precinct,County Attorney,,REP,Jon Tiffany,0,0,0
+Greene,Jefferson 3 Precinct,County Attorney,,REP,Jon Tiffany,0,0,0
+Greene,North Precinct,County Attorney,,REP,Jon Tiffany,0,0,0
+Greene,West Precinct,County Attorney,,REP,Jon Tiffany,0,0,0
+Greene,Central Precinct,County Attorney,,REP,Brett Blanchfield,0,0,0
+Greene,East Precinct,County Attorney,,REP,Brett Blanchfield,0,0,0
+Greene,Jefferson 1 Precinct,County Attorney,,REP,Brett Blanchfield,0,0,0
+Greene,Jefferson 2 Precinct,County Attorney,,REP,Brett Blanchfield,0,0,0
+Greene,Jefferson 3 Precinct,County Attorney,,REP,Brett Blanchfield,0,0,0
+Greene,North Precinct,County Attorney,,REP,Brett Blanchfield,1,0,1
+Greene,West Precinct,County Attorney,,REP,Brett Blanchfield,0,0,0
+Greene,Central Precinct,County Attorney,,REP,Kyle Orris,0,0,0
+Greene,East Precinct,County Attorney,,REP,Kyle Orris,0,0,0
+Greene,Jefferson 1 Precinct,County Attorney,,REP,Kyle Orris,0,0,0
+Greene,Jefferson 2 Precinct,County Attorney,,REP,Kyle Orris,0,0,0
+Greene,Jefferson 3 Precinct,County Attorney,,REP,Kyle Orris,0,0,0
+Greene,North Precinct,County Attorney,,REP,Kyle Orris,0,0,0
+Greene,West Precinct,County Attorney,,REP,Kyle Orris,1,0,1
+Greene,Central Precinct,County Attorney,,REP,Tom Yepsen,0,0,0
+Greene,East Precinct,County Attorney,,REP,Tom Yepsen,0,0,0
+Greene,Jefferson 1 Precinct,County Attorney,,REP,Tom Yepsen,0,0,0
+Greene,Jefferson 2 Precinct,County Attorney,,REP,Tom Yepsen,0,0,0
+Greene,Jefferson 3 Precinct,County Attorney,,REP,Tom Yepsen,0,0,0
+Greene,North Precinct,County Attorney,,REP,Tom Yepsen,0,0,0
+Greene,West Precinct,County Attorney,,REP,Tom Yepsen,1,0,1
+Greene,Central Precinct,County Attorney,,REP,Blank,1,0,1
+Greene,East Precinct,County Attorney,,REP,Blank,0,0,0
+Greene,Jefferson 1 Precinct,County Attorney,,REP,Blank,0,0,0
+Greene,Jefferson 2 Precinct,County Attorney,,REP,Blank,0,0,0
+Greene,Jefferson 3 Precinct,County Attorney,,REP,Blank,0,0,0
+Greene,North Precinct,County Attorney,,REP,Blank,0,0,0
+Greene,West Precinct,County Attorney,,REP,Blank,0,0,0
+Greene,Central Precinct,County Attorney,,,Write-in,0,0,0
+Greene,East Precinct,County Attorney,,,Write-in,0,0,0
+Greene,Jefferson 1 Precinct,County Attorney,,,Write-in,0,0,0
+Greene,Jefferson 2 Precinct,County Attorney,,,Write-in,0,0,0
+Greene,Jefferson 3 Precinct,County Attorney,,,Write-in,0,0,0
+Greene,North Precinct,County Attorney,,,Write-in,0,0,0
+Greene,West Precinct,County Attorney,,,Write-in,0,0,0
+Greene,Central Precinct,United States Representative District 4,,DEM,Leann Jacobsen,9,2,7
+Greene,East Precinct,United States Representative District 4,,DEM,Leann Jacobsen,18,4,14
+Greene,Jefferson 1 Precinct,United States Representative District 4,,DEM,Leann Jacobsen,18,5,13
+Greene,Jefferson 2 Precinct,United States Representative District 4,,DEM,Leann Jacobsen,14,7,7
+Greene,Jefferson 3 Precinct,United States Representative District 4,,DEM,Leann Jacobsen,31,9,22
+Greene,North Precinct,United States Representative District 4,,DEM,Leann Jacobsen,14,3,11
+Greene,West Precinct,United States Representative District 4,,DEM,Leann Jacobsen,13,2,11
+Greene,Central Precinct,United States Representative District 4,,DEM,John Paschen,10,3,7
+Greene,East Precinct,United States Representative District 4,,DEM,John Paschen,16,3,13
+Greene,Jefferson 1 Precinct,United States Representative District 4,,DEM,John Paschen,4,2,2
+Greene,Jefferson 2 Precinct,United States Representative District 4,,DEM,John Paschen,8,3,5
+Greene,Jefferson 3 Precinct,United States Representative District 4,,DEM,John Paschen,20,6,14
+Greene,North Precinct,United States Representative District 4,,DEM,John Paschen,11,2,9
+Greene,West Precinct,United States Representative District 4,,DEM,John Paschen,6,0,6
+Greene,Central Precinct,United States Representative District 4,,DEM,J. D. Scholten,35,8,27
+Greene,East Precinct,United States Representative District 4,,DEM,J. D. Scholten,18,5,13
+Greene,Jefferson 1 Precinct,United States Representative District 4,,DEM,J. D. Scholten,41,12,29
+Greene,Jefferson 2 Precinct,United States Representative District 4,,DEM,J. D. Scholten,27,6,21
+Greene,Jefferson 3 Precinct,United States Representative District 4,,DEM,J. D. Scholten,71,25,46
+Greene,North Precinct,United States Representative District 4,,DEM,J. D. Scholten,26,5,21
+Greene,West Precinct,United States Representative District 4,,DEM,J. D. Scholten,16,3,13
+Greene,Central Precinct,Governor,,DEM,Nate Boulton,1,0,1
+Greene,East Precinct,Governor,,DEM,Nate Boulton,6,2,4
+Greene,Jefferson 1 Precinct,Governor,,DEM,Nate Boulton,3,3,0
+Greene,Jefferson 2 Precinct,Governor,,DEM,Nate Boulton,1,0,1
+Greene,Jefferson 3 Precinct,Governor,,DEM,Nate Boulton,1,0,1
+Greene,North Precinct,Governor,,DEM,Nate Boulton,2,1,1
+Greene,West Precinct,Governor,,DEM,Nate Boulton,1,0,1
+Greene,Central Precinct,Governor,,DEM,Cathy Glasson,11,4,7
+Greene,East Precinct,Governor,,DEM,Cathy Glasson,11,1,10
+Greene,Jefferson 1 Precinct,Governor,,DEM,Cathy Glasson,4,1,3
+Greene,Jefferson 2 Precinct,Governor,,DEM,Cathy Glasson,2,1,1
+Greene,Jefferson 3 Precinct,Governor,,DEM,Cathy Glasson,15,4,11
+Greene,North Precinct,Governor,,DEM,Cathy Glasson,5,1,4
+Greene,West Precinct,Governor,,DEM,Cathy Glasson,6,1,5
+Greene,Central Precinct,Governor,,DEM,Fred Hubbell,39,10,29
+Greene,East Precinct,Governor,,DEM,Fred Hubbell,30,9,21
+Greene,Jefferson 1 Precinct,Governor,,DEM,Fred Hubbell,49,12,37
+Greene,Jefferson 2 Precinct,Governor,,DEM,Fred Hubbell,47,16,31
+Greene,Jefferson 3 Precinct,Governor,,DEM,Fred Hubbell,87,30,57
+Greene,North Precinct,Governor,,DEM,Fred Hubbell,35,8,27
+Greene,West Precinct,Governor,,DEM,Fred Hubbell,23,3,20
+Greene,Central Precinct,Governor,,DEM,Andrea Andy McGuire,2,1,1
+Greene,East Precinct,Governor,,DEM,Andrea Andy McGuire,3,1,2
+Greene,Jefferson 1 Precinct,Governor,,DEM,Andrea Andy McGuire,2,0,2
+Greene,Jefferson 2 Precinct,Governor,,DEM,Andrea Andy McGuire,1,0,1
+Greene,Jefferson 3 Precinct,Governor,,DEM,Andrea Andy McGuire,7,1,6
+Greene,North Precinct,Governor,,DEM,Andrea Andy McGuire,1,0,1
+Greene,West Precinct,Governor,,DEM,Andrea Andy McGuire,4,0,4
+Greene,Central Precinct,Governor,,DEM,John Norris,12,3,9
+Greene,East Precinct,Governor,,DEM,John Norris,5,0,5
+Greene,Jefferson 1 Precinct,Governor,,DEM,John Norris,13,5,8
+Greene,Jefferson 2 Precinct,Governor,,DEM,John Norris,4,2,2
+Greene,Jefferson 3 Precinct,Governor,,DEM,John Norris,22,8,14
+Greene,North Precinct,Governor,,DEM,John Norris,10,0,10
+Greene,West Precinct,Governor,,DEM,John Norris,4,1,3
+Greene,Central Precinct,Governor,,DEM,Ross Wilburn,0,0,0
+Greene,East Precinct,Governor,,DEM,Ross Wilburn,0,0,0
+Greene,Jefferson 1 Precinct,Governor,,DEM,Ross Wilburn,0,0,0
+Greene,Jefferson 2 Precinct,Governor,,DEM,Ross Wilburn,0,0,0
+Greene,Jefferson 3 Precinct,Governor,,DEM,Ross Wilburn,0,0,0
+Greene,North Precinct,Governor,,DEM,Ross Wilburn,0,0,0
+Greene,West Precinct,Governor,,DEM,Ross Wilburn,0,0,0
+Greene,Central Precinct,Secretary of State,,DEM,Deidre DeJear,20,10,10
+Greene,East Precinct,Secretary of State,,DEM,Deidre DeJear,12,2,10
+Greene,Jefferson 1 Precinct,Secretary of State,,DEM,Deidre DeJear,24,9,15
+Greene,Jefferson 2 Precinct,Secretary of State,,DEM,Deidre DeJear,11,2,9
+Greene,Jefferson 3 Precinct,Secretary of State,,DEM,Deidre DeJear,49,16,33
+Greene,North Precinct,Secretary of State,,DEM,Deidre DeJear,7,2,5
+Greene,West Precinct,Secretary of State,,DEM,Deidre DeJear,14,4,10
+Greene,Central Precinct,Secretary of State,,DEM,Jim Mowrer,35,5,30
+Greene,East Precinct,Secretary of State,,DEM,Jim Mowrer,43,11,32
+Greene,Jefferson 1 Precinct,Secretary of State,,DEM,Jim Mowrer,39,10,29
+Greene,Jefferson 2 Precinct,Secretary of State,,DEM,Jim Mowrer,38,17,21
+Greene,Jefferson 3 Precinct,Secretary of State,,DEM,Jim Mowrer,67,20,47
+Greene,North Precinct,Secretary of State,,DEM,Jim Mowrer,42,8,34
+Greene,West Precinct,Secretary of State,,DEM,Jim Mowrer,19,0,19
+Greene,Central Precinct,Auditor of State,,DEM,Rob Sand,46,10,36
+Greene,East Precinct,Auditor of State,,DEM,Rob Sand,43,8,35
+Greene,Jefferson 1 Precinct,Auditor of State,,DEM,Rob Sand,51,14,37
+Greene,Jefferson 2 Precinct,Auditor of State,,DEM,Rob Sand,43,17,26
+Greene,Jefferson 3 Precinct,Auditor of State,,DEM,Rob Sand,99,26,73
+Greene,North Precinct,Auditor of State,,DEM,Rob Sand,41,9,32
+Greene,West Precinct,Auditor of State,,DEM,Rob Sand,28,4,24
+Greene,Central Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,47,11,36
+Greene,East Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,48,11,37
+Greene,Jefferson 1 Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,56,16,40
+Greene,Jefferson 2 Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,49,16,33
+Greene,Jefferson 3 Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,109,30,79
+Greene,North Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,48,9,39
+Greene,West Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,30,4,26
+Greene,Central Precinct,Secretary of Agriculture,,DEM,Tim Gannon,48,11,37
+Greene,East Precinct,Secretary of Agriculture,,DEM,Tim Gannon,48,10,38
+Greene,Jefferson 1 Precinct,Secretary of Agriculture,,DEM,Tim Gannon,52,15,37
+Greene,Jefferson 2 Precinct,Secretary of Agriculture,,DEM,Tim Gannon,43,15,28
+Greene,Jefferson 3 Precinct,Secretary of Agriculture,,DEM,Tim Gannon,94,24,70
+Greene,North Precinct,Secretary of Agriculture,,DEM,Tim Gannon,44,9,35
+Greene,West Precinct,Secretary of Agriculture,,DEM,Tim Gannon,27,4,23
+Greene,Central Precinct,Attorney General,,DEM,Tom Miller,51,11,40
+Greene,East Precinct,Attorney General,,DEM,Tom Miller,49,13,36
+Greene,Jefferson 1 Precinct,Attorney General,,DEM,Tom Miller,60,16,44
+Greene,Jefferson 2 Precinct,Attorney General,,DEM,Tom Miller,48,16,32
+Greene,Jefferson 3 Precinct,Attorney General,,DEM,Tom Miller,107,29,78
+Greene,North Precinct,Attorney General,,DEM,Tom Miller,47,9,38
+Greene,West Precinct,Attorney General,,DEM,Tom Miller,31,5,26
+Greene,Central Precinct,State Representative District  47,,DEM,David Weaver,49,11,38
+Greene,East Precinct,State Representative District  47,,DEM,David Weaver,53,10,43
+Greene,Jefferson 1 Precinct,State Representative District  47,,DEM,David Weaver,51,14,37
+Greene,Jefferson 2 Precinct,State Representative District  47,,DEM,David Weaver,45,15,30
+Greene,Jefferson 3 Precinct,State Representative District  47,,DEM,David Weaver,107,30,77
+Greene,North Precinct,State Representative District  47,,DEM,David Weaver,43,9,34
+Greene,West Precinct,State Representative District  47,,DEM,David Weaver,24,4,20
+Greene,Central Precinct,County Treasurer,,DEM,Donna Lawson,54,15,39
+Greene,East Precinct,County Treasurer,,DEM,Donna Lawson,49,12,37
+Greene,Jefferson 1 Precinct,County Treasurer,,DEM,Donna Lawson,55,16,39
+Greene,Jefferson 2 Precinct,County Treasurer,,DEM,Donna Lawson,46,17,29
+Greene,Jefferson 3 Precinct,County Treasurer,,DEM,Donna Lawson,107,31,76
+Greene,North Precinct,County Treasurer,,DEM,Donna Lawson,46,7,39
+Greene,West Precinct,County Treasurer,,DEM,Donna Lawson,32,5,27
+Greene,Central Precinct,County Recorder,,DEM,Marcia Tasler,53,13,40
+Greene,East Precinct,County Recorder,,DEM,Marcia Tasler,52,12,40
+Greene,Jefferson 1 Precinct,County Recorder,,DEM,Marcia Tasler,57,17,40
+Greene,Jefferson 2 Precinct,County Recorder,,DEM,Marcia Tasler,49,17,32
+Greene,Jefferson 3 Precinct,County Recorder,,DEM,Marcia Tasler,115,35,80
+Greene,North Precinct,County Recorder,,DEM,Marcia Tasler,51,11,40
+Greene,West Precinct,County Recorder,,DEM,Marcia Tasler,31,5,26
+Greene,Central Precinct,County Attorney,,DEM,Thomas Leahn,1,0,1
+Greene,East Precinct,County Attorney,,DEM,Thomas Leahn,0,0,0
+Greene,Jefferson 1 Precinct,County Attorney,,DEM,Thomas Leahn,4,0,4
+Greene,Jefferson 2 Precinct,County Attorney,,DEM,Thomas Leahn,0,0,0
+Greene,Jefferson 3 Precinct,County Attorney,,DEM,Thomas Leahn,5,0,5
+Greene,North Precinct,County Attorney,,DEM,Thomas Leahn,0,0,0
+Greene,West Precinct,County Attorney,,DEM,Thomas Leahn,0,0,0
+Greene,Central Precinct,County Attorney,,DEM,David Morain,0,0,0
+Greene,East Precinct,County Attorney,,DEM,David Morain,0,0,0
+Greene,Jefferson 1 Precinct,County Attorney,,DEM,David Morain,0,0,0
+Greene,Jefferson 2 Precinct,County Attorney,,DEM,David Morain,0,0,0
+Greene,Jefferson 3 Precinct,County Attorney,,DEM,David Morain,1,0,1
+Greene,North Precinct,County Attorney,,DEM,David Morain,1,0,1
+Greene,West Precinct,County Attorney,,DEM,David Morain,0,0,0
+Greene,Central Precinct,County Attorney,,DEM,Mark Rasmussen,0,0,0
+Greene,East Precinct,County Attorney,,DEM,Mark Rasmussen,0,0,0
+Greene,Jefferson 1 Precinct,County Attorney,,DEM,Mark Rasmussen,0,0,0
+Greene,Jefferson 2 Precinct,County Attorney,,DEM,Mark Rasmussen,0,0,0
+Greene,Jefferson 3 Precinct,County Attorney,,DEM,Mark Rasmussen,1,0,1
+Greene,North Precinct,County Attorney,,DEM,Mark Rasmussen,0,0,0
+Greene,West Precinct,County Attorney,,DEM,Mark Rasmussen,0,0,0
+Greene,Central Precinct,County Attorney,,DEM,Keith Pedersen,1,0,1
+Greene,East Precinct,County Attorney,,DEM,Keith Pedersen,0,0,0
+Greene,Jefferson 1 Precinct,County Attorney,,DEM,Keith Pedersen,0,0,0
+Greene,Jefferson 2 Precinct,County Attorney,,DEM,Keith Pedersen,0,0,0
+Greene,Jefferson 3 Precinct,County Attorney,,DEM,Keith Pedersen,0,0,0
+Greene,North Precinct,County Attorney,,DEM,Keith Pedersen,0,0,0
+Greene,West Precinct,County Attorney,,DEM,Keith Pedersen,0,0,0
+Greene,Central Precinct,County Attorney,,DEM,Kyle Orris,0,0,0
+Greene,East Precinct,County Attorney,,DEM,Kyle Orris,0,0,0
+Greene,Jefferson 1 Precinct,County Attorney,,DEM,Kyle Orris,0,0,0
+Greene,Jefferson 2 Precinct,County Attorney,,DEM,Kyle Orris,1,0,1
+Greene,Jefferson 3 Precinct,County Attorney,,DEM,Kyle Orris,0,0,0
+Greene,North Precinct,County Attorney,,DEM,Kyle Orris,0,0,0
+Greene,West Precinct,County Attorney,,DEM,Kyle Orris,0,0,0
+Greene,Central Precinct,County Attorney,,DEM,Martino,0,0,0
+Greene,East Precinct,County Attorney,,DEM,Martino,0,0,0
+Greene,Jefferson 1 Precinct,County Attorney,,DEM,Martino,0,0,0
+Greene,Jefferson 2 Precinct,County Attorney,,DEM,Martino,0,0,0
+Greene,Jefferson 3 Precinct,County Attorney,,DEM,Martino,1,0,1
+Greene,North Precinct,County Attorney,,DEM,Martino,0,0,0
+Greene,West Precinct,County Attorney,,DEM,Martino,0,0,0
+Greene,Central Precinct,County Attorney,,DEM,John Law,0,0,0
+Greene,East Precinct,County Attorney,,DEM,John Law,0,0,0
+Greene,Jefferson 1 Precinct,County Attorney,,DEM,John Law,0,0,0
+Greene,Jefferson 2 Precinct,County Attorney,,DEM,John Law,0,0,0
+Greene,Jefferson 3 Precinct,County Attorney,,DEM,John Law,0,0,0
+Greene,North Precinct,County Attorney,,DEM,John Law,1,0,1
+Greene,West Precinct,County Attorney,,DEM,John Law,0,0,0
+Greene,Central Precinct,County Attorney,,DEM,Joseph P. Vogel,0,0,0
+Greene,East Precinct,County Attorney,,DEM,Joseph P. Vogel,0,0,0
+Greene,Jefferson 1 Precinct,County Attorney,,DEM,Joseph P. Vogel,0,0,0
+Greene,Jefferson 2 Precinct,County Attorney,,DEM,Joseph P. Vogel,0,0,0
+Greene,Jefferson 3 Precinct,County Attorney,,DEM,Joseph P. Vogel,0,0,0
+Greene,North Precinct,County Attorney,,DEM,Joseph P. Vogel,1,0,1
+Greene,West Precinct,County Attorney,,DEM,Joseph P. Vogel,0,0,0
+Greene,Central Precinct,County Attorney,,DEM,Blank,0,0,0
+Greene,East Precinct,County Attorney,,DEM,Blank,0,0,0
+Greene,Jefferson 1 Precinct,County Attorney,,DEM,Blank,0,0,0
+Greene,Jefferson 2 Precinct,County Attorney,,DEM,Blank,0,0,0
+Greene,Jefferson 3 Precinct,County Attorney,,DEM,Blank,1,0,1
+Greene,North Precinct,County Attorney,,DEM,Blank,0,0,0
+Greene,West Precinct,County Attorney,,DEM,Blank,0,0,0
+Greene,Central Precinct,United States Representative District 4,,LIB,Charles Aldrich,2,0,2
+Greene,East Precinct,United States Representative District 4,,LIB,Charles Aldrich,2,0,2
+Greene,Jefferson 1 Precinct,United States Representative District 4,,LIB,Charles Aldrich,2,2,0
+Greene,Jefferson 2 Precinct,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
+Greene,Jefferson 3 Precinct,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Greene,North Precinct,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Greene,West Precinct,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Greene,Central Precinct,Governor,,LIB,Marco Battaglia,0,0,0
+Greene,East Precinct,Governor,,LIB,Marco Battaglia,0,0,0
+Greene,Jefferson 1 Precinct,Governor,,LIB,Marco Battaglia,2,2,0
+Greene,Jefferson 2 Precinct,Governor,,LIB,Marco Battaglia,0,0,0
+Greene,Jefferson 3 Precinct,Governor,,LIB,Marco Battaglia,0,0,0
+Greene,North Precinct,Governor,,LIB,Marco Battaglia,0,0,0
+Greene,West Precinct,Governor,,LIB,Marco Battaglia,0,0,0
+Greene,Central Precinct,Governor,,LIB,Jake Porter,1,0,1
+Greene,East Precinct,Governor,,LIB,Jake Porter,2,0,2
+Greene,Jefferson 1 Precinct,Governor,,LIB,Jake Porter,0,0,0
+Greene,Jefferson 2 Precinct,Governor,,LIB,Jake Porter,1,0,1
+Greene,Jefferson 3 Precinct,Governor,,LIB,Jake Porter,0,0,0
+Greene,North Precinct,Governor,,LIB,Jake Porter,0,0,0
+Greene,West Precinct,Governor,,LIB,Jake Porter,0,0,0
+Greene,Central Precinct,State Representative District  47,,LIB,Patrick A. Shaw,1,0,1
+Greene,East Precinct,State Representative District  47,,LIB,Patrick A. Shaw,2,0,2
+Greene,Jefferson 1 Precinct,State Representative District  47,,LIB,Patrick A. Shaw,2,2,0
+Greene,Jefferson 2 Precinct,State Representative District  47,,LIB,Patrick A. Shaw,1,0,1
+Greene,Jefferson 3 Precinct,State Representative District  47,,LIB,Patrick A. Shaw,0,0,0
+Greene,North Precinct,State Representative District  47,,LIB,Patrick A. Shaw,0,0,0
+Greene,West Precinct,State Representative District  47,,LIB,Patrick A. Shaw,0,0,0
+Greene,Central Precinct,County Attorney,,LIB,Thomas Laehn,2,0,2
+Greene,East Precinct,County Attorney,,LIB,Thomas Laehn,2,0,2
+Greene,Jefferson 1 Precinct,County Attorney,,LIB,Thomas Laehn,4,4,0
+Greene,Jefferson 2 Precinct,County Attorney,,LIB,Thomas Laehn,2,0,2
+Greene,Jefferson 3 Precinct,County Attorney,,LIB,Thomas Laehn,6,3,3
+Greene,North Precinct,County Attorney,,LIB,Thomas Laehn,0,0,0
+Greene,West Precinct,County Attorney,,LIB,Thomas Laehn,0,0,0

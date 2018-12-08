@@ -1,0 +1,505 @@
+county,precinct,office,district,party,candidate,votes,election_day_total_votes
+Mitchell,Precinct #1-Osage Methodist Church,United States Representative District 1,,REP,Rod Blum,15,15
+Mitchell,Precinct #2-New Haven Church,United States Representative District 1,,REP,Rod Blum,13,13
+Mitchell,Precinct #3-Riceville City Hall,United States Representative District 1,,REP,Rod Blum,20,20
+Mitchell,Precinct #4-Mitchell City Hall,United States Representative District 1,,REP,Rod Blum,29,29
+Mitchell,Precinct #5-Our Savior's Church,United States Representative District 1,,REP,Rod Blum,53,53
+Mitchell,Precinct #6-Osage Library,United States Representative District 1,,REP,Rod Blum,34,34
+Mitchell,Precinct #7-Mitchell Co. Courthouse,United States Representative District 1,,REP,Rod Blum,22,22
+Mitchell,Precinct #8-Osage City Hall,United States Representative District 1,,REP,Rod Blum,46,46
+Mitchell,Precinct #9-Carpenter Comm Center,United States Representative District 1,,REP,Rod Blum,20,20
+Mitchell,Precinct #10-South Square,United States Representative District 1,,REP,Rod Blum,45,45
+Mitchell,Precinct #11- Stacyville Library,United States Representative District 1,,REP,Rod Blum,12,12
+Mitchell,Precinct #1-Osage Methodist Church,United States Representative District 1,,,Write-in,0,0
+Mitchell,Precinct #2-New Haven Church,United States Representative District 1,,,Write-in,0,0
+Mitchell,Precinct #3-Riceville City Hall,United States Representative District 1,,,Write-in,0,0
+Mitchell,Precinct #4-Mitchell City Hall,United States Representative District 1,,,Write-in,0,0
+Mitchell,Precinct #5-Our Savior's Church,United States Representative District 1,,,Write-in,0,0
+Mitchell,Precinct #6-Osage Library,United States Representative District 1,,,Write-in,0,0
+Mitchell,Precinct #7-Mitchell Co. Courthouse,United States Representative District 1,,,Write-in,0,0
+Mitchell,Precinct #8-Osage City Hall,United States Representative District 1,,,Write-in,0,0
+Mitchell,Precinct #9-Carpenter Comm Center,United States Representative District 1,,,Write-in,0,0
+Mitchell,Precinct #10-South Square,United States Representative District 1,,,Write-in,0,0
+Mitchell,Precinct #11- Stacyville Library,United States Representative District 1,,,Write-in,0,0
+Mitchell,Precinct #1-Osage Methodist Church,United States Representative District 1,,DEM,Abby Finkenauer,12,12
+Mitchell,Precinct #2-New Haven Church,United States Representative District 1,,DEM,Abby Finkenauer,8,8
+Mitchell,Precinct #3-Riceville City Hall,United States Representative District 1,,DEM,Abby Finkenauer,19,19
+Mitchell,Precinct #4-Mitchell City Hall,United States Representative District 1,,DEM,Abby Finkenauer,26,26
+Mitchell,Precinct #5-Our Savior's Church,United States Representative District 1,,DEM,Abby Finkenauer,22,22
+Mitchell,Precinct #6-Osage Library,United States Representative District 1,,DEM,Abby Finkenauer,20,20
+Mitchell,Precinct #7-Mitchell Co. Courthouse,United States Representative District 1,,DEM,Abby Finkenauer,17,17
+Mitchell,Precinct #8-Osage City Hall,United States Representative District 1,,DEM,Abby Finkenauer,19,19
+Mitchell,Precinct #9-Carpenter Comm Center,United States Representative District 1,,DEM,Abby Finkenauer,8,8
+Mitchell,Precinct #10-South Square,United States Representative District 1,,DEM,Abby Finkenauer,13,13
+Mitchell,Precinct #11- Stacyville Library,United States Representative District 1,,DEM,Abby Finkenauer,4,4
+Mitchell,Precinct #1-Osage Methodist Church,United States Representative District 1,,DEM,Thomas Heckroth,3,3
+Mitchell,Precinct #2-New Haven Church,United States Representative District 1,,DEM,Thomas Heckroth,2,2
+Mitchell,Precinct #3-Riceville City Hall,United States Representative District 1,,DEM,Thomas Heckroth,0,0
+Mitchell,Precinct #4-Mitchell City Hall,United States Representative District 1,,DEM,Thomas Heckroth,2,2
+Mitchell,Precinct #5-Our Savior's Church,United States Representative District 1,,DEM,Thomas Heckroth,0,0
+Mitchell,Precinct #6-Osage Library,United States Representative District 1,,DEM,Thomas Heckroth,9,9
+Mitchell,Precinct #7-Mitchell Co. Courthouse,United States Representative District 1,,DEM,Thomas Heckroth,1,1
+Mitchell,Precinct #8-Osage City Hall,United States Representative District 1,,DEM,Thomas Heckroth,5,5
+Mitchell,Precinct #9-Carpenter Comm Center,United States Representative District 1,,DEM,Thomas Heckroth,2,2
+Mitchell,Precinct #10-South Square,United States Representative District 1,,DEM,Thomas Heckroth,3,3
+Mitchell,Precinct #11- Stacyville Library,United States Representative District 1,,DEM,Thomas Heckroth,0,0
+Mitchell,Precinct #1-Osage Methodist Church,United States Representative District 1,,DEM,George Ramsey,3,3
+Mitchell,Precinct #2-New Haven Church,United States Representative District 1,,DEM,George Ramsey,2,2
+Mitchell,Precinct #3-Riceville City Hall,United States Representative District 1,,DEM,George Ramsey,2,2
+Mitchell,Precinct #4-Mitchell City Hall,United States Representative District 1,,DEM,George Ramsey,3,3
+Mitchell,Precinct #5-Our Savior's Church,United States Representative District 1,,DEM,George Ramsey,3,3
+Mitchell,Precinct #6-Osage Library,United States Representative District 1,,DEM,George Ramsey,4,4
+Mitchell,Precinct #7-Mitchell Co. Courthouse,United States Representative District 1,,DEM,George Ramsey,2,2
+Mitchell,Precinct #8-Osage City Hall,United States Representative District 1,,DEM,George Ramsey,5,5
+Mitchell,Precinct #9-Carpenter Comm Center,United States Representative District 1,,DEM,George Ramsey,1,1
+Mitchell,Precinct #10-South Square,United States Representative District 1,,DEM,George Ramsey,3,3
+Mitchell,Precinct #11- Stacyville Library,United States Representative District 1,,DEM,George Ramsey,2,2
+Mitchell,Precinct #1-Osage Methodist Church,United States Representative District 1,,DEM,Courtney L. Rowe,3,3
+Mitchell,Precinct #2-New Haven Church,United States Representative District 1,,DEM,Courtney L. Rowe,0,0
+Mitchell,Precinct #3-Riceville City Hall,United States Representative District 1,,DEM,Courtney L. Rowe,3,3
+Mitchell,Precinct #4-Mitchell City Hall,United States Representative District 1,,DEM,Courtney L. Rowe,3,3
+Mitchell,Precinct #5-Our Savior's Church,United States Representative District 1,,DEM,Courtney L. Rowe,5,5
+Mitchell,Precinct #6-Osage Library,United States Representative District 1,,DEM,Courtney L. Rowe,6,6
+Mitchell,Precinct #7-Mitchell Co. Courthouse,United States Representative District 1,,DEM,Courtney L. Rowe,3,3
+Mitchell,Precinct #8-Osage City Hall,United States Representative District 1,,DEM,Courtney L. Rowe,10,10
+Mitchell,Precinct #9-Carpenter Comm Center,United States Representative District 1,,DEM,Courtney L. Rowe,4,4
+Mitchell,Precinct #10-South Square,United States Representative District 1,,DEM,Courtney L. Rowe,4,4
+Mitchell,Precinct #11- Stacyville Library,United States Representative District 1,,DEM,Courtney L. Rowe,4,4
+Mitchell,Precinct #1-Osage Methodist Church,Governor,,REP,Kim Reynolds,15,15
+Mitchell,Precinct #2-New Haven Church,Governor,,REP,Kim Reynolds,13,13
+Mitchell,Precinct #3-Riceville City Hall,Governor,,REP,Kim Reynolds,22,22
+Mitchell,Precinct #4-Mitchell City Hall,Governor,,REP,Kim Reynolds,29,29
+Mitchell,Precinct #5-Our Savior's Church,Governor,,REP,Kim Reynolds,55,55
+Mitchell,Precinct #6-Osage Library,Governor,,REP,Kim Reynolds,36,36
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Governor,,REP,Kim Reynolds,21,21
+Mitchell,Precinct #8-Osage City Hall,Governor,,REP,Kim Reynolds,49,49
+Mitchell,Precinct #9-Carpenter Comm Center,Governor,,REP,Kim Reynolds,21,21
+Mitchell,Precinct #10-South Square,Governor,,REP,Kim Reynolds,46,46
+Mitchell,Precinct #11- Stacyville Library,Governor,,REP,Kim Reynolds,13,13
+Mitchell,Precinct #1-Osage Methodist Church,Governor,,,Write-in,0,0
+Mitchell,Precinct #2-New Haven Church,Governor,,,Write-in,0,0
+Mitchell,Precinct #3-Riceville City Hall,Governor,,,Write-in,0,0
+Mitchell,Precinct #4-Mitchell City Hall,Governor,,,Write-in,0,0
+Mitchell,Precinct #5-Our Savior's Church,Governor,,,Write-in,0,0
+Mitchell,Precinct #6-Osage Library,Governor,,,Write-in,0,0
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Governor,,,Write-in,0,0
+Mitchell,Precinct #8-Osage City Hall,Governor,,,Write-in,0,0
+Mitchell,Precinct #9-Carpenter Comm Center,Governor,,,Write-in,0,0
+Mitchell,Precinct #10-South Square,Governor,,,Write-in,0,0
+Mitchell,Precinct #11- Stacyville Library,Governor,,,Write-in,0,0
+Mitchell,Precinct #1-Osage Methodist Church,Governor,,DEM,Nate Boulton,0,0
+Mitchell,Precinct #2-New Haven Church,Governor,,DEM,Nate Boulton,0,0
+Mitchell,Precinct #3-Riceville City Hall,Governor,,DEM,Nate Boulton,4,4
+Mitchell,Precinct #4-Mitchell City Hall,Governor,,DEM,Nate Boulton,1,1
+Mitchell,Precinct #5-Our Savior's Church,Governor,,DEM,Nate Boulton,1,1
+Mitchell,Precinct #6-Osage Library,Governor,,DEM,Nate Boulton,3,3
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Governor,,DEM,Nate Boulton,0,0
+Mitchell,Precinct #8-Osage City Hall,Governor,,DEM,Nate Boulton,2,2
+Mitchell,Precinct #9-Carpenter Comm Center,Governor,,DEM,Nate Boulton,0,0
+Mitchell,Precinct #10-South Square,Governor,,DEM,Nate Boulton,0,0
+Mitchell,Precinct #11- Stacyville Library,Governor,,DEM,Nate Boulton,0,0
+Mitchell,Precinct #1-Osage Methodist Church,Governor,,DEM,Cathy Glasson,2,2
+Mitchell,Precinct #2-New Haven Church,Governor,,DEM,Cathy Glasson,1,1
+Mitchell,Precinct #3-Riceville City Hall,Governor,,DEM,Cathy Glasson,1,1
+Mitchell,Precinct #4-Mitchell City Hall,Governor,,DEM,Cathy Glasson,6,6
+Mitchell,Precinct #5-Our Savior's Church,Governor,,DEM,Cathy Glasson,5,5
+Mitchell,Precinct #6-Osage Library,Governor,,DEM,Cathy Glasson,9,9
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Governor,,DEM,Cathy Glasson,9,9
+Mitchell,Precinct #8-Osage City Hall,Governor,,DEM,Cathy Glasson,9,9
+Mitchell,Precinct #9-Carpenter Comm Center,Governor,,DEM,Cathy Glasson,4,4
+Mitchell,Precinct #10-South Square,Governor,,DEM,Cathy Glasson,4,4
+Mitchell,Precinct #11- Stacyville Library,Governor,,DEM,Cathy Glasson,3,3
+Mitchell,Precinct #1-Osage Methodist Church,Governor,,DEM,Fred Hubbell,13,13
+Mitchell,Precinct #2-New Haven Church,Governor,,DEM,Fred Hubbell,9,9
+Mitchell,Precinct #3-Riceville City Hall,Governor,,DEM,Fred Hubbell,13,13
+Mitchell,Precinct #4-Mitchell City Hall,Governor,,DEM,Fred Hubbell,18,18
+Mitchell,Precinct #5-Our Savior's Church,Governor,,DEM,Fred Hubbell,17,17
+Mitchell,Precinct #6-Osage Library,Governor,,DEM,Fred Hubbell,16,16
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Governor,,DEM,Fred Hubbell,9,9
+Mitchell,Precinct #8-Osage City Hall,Governor,,DEM,Fred Hubbell,17,17
+Mitchell,Precinct #9-Carpenter Comm Center,Governor,,DEM,Fred Hubbell,9,9
+Mitchell,Precinct #10-South Square,Governor,,DEM,Fred Hubbell,14,14
+Mitchell,Precinct #11- Stacyville Library,Governor,,DEM,Fred Hubbell,3,3
+Mitchell,Precinct #1-Osage Methodist Church,Governor,,DEM,Andrea Andy McGuire,0,0
+Mitchell,Precinct #2-New Haven Church,Governor,,DEM,Andrea Andy McGuire,1,1
+Mitchell,Precinct #3-Riceville City Hall,Governor,,DEM,Andrea Andy McGuire,2,2
+Mitchell,Precinct #4-Mitchell City Hall,Governor,,DEM,Andrea Andy McGuire,2,2
+Mitchell,Precinct #5-Our Savior's Church,Governor,,DEM,Andrea Andy McGuire,5,5
+Mitchell,Precinct #6-Osage Library,Governor,,DEM,Andrea Andy McGuire,3,3
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Governor,,DEM,Andrea Andy McGuire,1,1
+Mitchell,Precinct #8-Osage City Hall,Governor,,DEM,Andrea Andy McGuire,5,5
+Mitchell,Precinct #9-Carpenter Comm Center,Governor,,DEM,Andrea Andy McGuire,2,2
+Mitchell,Precinct #10-South Square,Governor,,DEM,Andrea Andy McGuire,0,0
+Mitchell,Precinct #11- Stacyville Library,Governor,,DEM,Andrea Andy McGuire,1,1
+Mitchell,Precinct #1-Osage Methodist Church,Governor,,DEM,John Norris,5,5
+Mitchell,Precinct #2-New Haven Church,Governor,,DEM,John Norris,1,1
+Mitchell,Precinct #3-Riceville City Hall,Governor,,DEM,John Norris,6,6
+Mitchell,Precinct #4-Mitchell City Hall,Governor,,DEM,John Norris,7,7
+Mitchell,Precinct #5-Our Savior's Church,Governor,,DEM,John Norris,2,2
+Mitchell,Precinct #6-Osage Library,Governor,,DEM,John Norris,8,8
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Governor,,DEM,John Norris,4,4
+Mitchell,Precinct #8-Osage City Hall,Governor,,DEM,John Norris,7,7
+Mitchell,Precinct #9-Carpenter Comm Center,Governor,,DEM,John Norris,0,0
+Mitchell,Precinct #10-South Square,Governor,,DEM,John Norris,4,4
+Mitchell,Precinct #11- Stacyville Library,Governor,,DEM,John Norris,3,3
+Mitchell,Precinct #1-Osage Methodist Church,Governor,,DEM,Ross Wilburn,0,0
+Mitchell,Precinct #2-New Haven Church,Governor,,DEM,Ross Wilburn,0,0
+Mitchell,Precinct #3-Riceville City Hall,Governor,,DEM,Ross Wilburn,0,0
+Mitchell,Precinct #4-Mitchell City Hall,Governor,,DEM,Ross Wilburn,1,1
+Mitchell,Precinct #5-Our Savior's Church,Governor,,DEM,Ross Wilburn,0,0
+Mitchell,Precinct #6-Osage Library,Governor,,DEM,Ross Wilburn,0,0
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Governor,,DEM,Ross Wilburn,1,1
+Mitchell,Precinct #8-Osage City Hall,Governor,,DEM,Ross Wilburn,0,0
+Mitchell,Precinct #9-Carpenter Comm Center,Governor,,DEM,Ross Wilburn,0,0
+Mitchell,Precinct #10-South Square,Governor,,DEM,Ross Wilburn,0,0
+Mitchell,Precinct #11- Stacyville Library,Governor,,DEM,Ross Wilburn,2,2
+Mitchell,Precinct #1-Osage Methodist Church,Governor,,LIB,Marco Battaglia,0,0
+Mitchell,Precinct #2-New Haven Church,Governor,,LIB,Marco Battaglia,0,0
+Mitchell,Precinct #3-Riceville City Hall,Governor,,LIB,Marco Battaglia,0,0
+Mitchell,Precinct #4-Mitchell City Hall,Governor,,LIB,Marco Battaglia,0,0
+Mitchell,Precinct #5-Our Savior's Church,Governor,,LIB,Marco Battaglia,0,0
+Mitchell,Precinct #6-Osage Library,Governor,,LIB,Marco Battaglia,1,1
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Governor,,LIB,Marco Battaglia,0,0
+Mitchell,Precinct #8-Osage City Hall,Governor,,LIB,Marco Battaglia,0,0
+Mitchell,Precinct #9-Carpenter Comm Center,Governor,,LIB,Marco Battaglia,0,0
+Mitchell,Precinct #10-South Square,Governor,,LIB,Marco Battaglia,0,0
+Mitchell,Precinct #11- Stacyville Library,Governor,,LIB,Marco Battaglia,1,1
+Mitchell,Precinct #1-Osage Methodist Church,Governor,,LIB,Jake Porter,0,0
+Mitchell,Precinct #2-New Haven Church,Governor,,LIB,Jake Porter,0,0
+Mitchell,Precinct #3-Riceville City Hall,Governor,,LIB,Jake Porter,0,0
+Mitchell,Precinct #4-Mitchell City Hall,Governor,,LIB,Jake Porter,0,0
+Mitchell,Precinct #5-Our Savior's Church,Governor,,LIB,Jake Porter,0,0
+Mitchell,Precinct #6-Osage Library,Governor,,LIB,Jake Porter,0,0
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Governor,,LIB,Jake Porter,0,0
+Mitchell,Precinct #8-Osage City Hall,Governor,,LIB,Jake Porter,0,0
+Mitchell,Precinct #9-Carpenter Comm Center,Governor,,LIB,Jake Porter,0,0
+Mitchell,Precinct #10-South Square,Governor,,LIB,Jake Porter,0,0
+Mitchell,Precinct #11- Stacyville Library,Governor,,LIB,Jake Porter,0,0
+Mitchell,Precinct #1-Osage Methodist Church,Secretary of State,,REP,Paul D. Pate,14,14
+Mitchell,Precinct #2-New Haven Church,Secretary of State,,REP,Paul D. Pate,13,13
+Mitchell,Precinct #3-Riceville City Hall,Secretary of State,,REP,Paul D. Pate,19,19
+Mitchell,Precinct #4-Mitchell City Hall,Secretary of State,,REP,Paul D. Pate,29,29
+Mitchell,Precinct #5-Our Savior's Church,Secretary of State,,REP,Paul D. Pate,53,53
+Mitchell,Precinct #6-Osage Library,Secretary of State,,REP,Paul D. Pate,31,31
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Secretary of State,,REP,Paul D. Pate,21,21
+Mitchell,Precinct #8-Osage City Hall,Secretary of State,,REP,Paul D. Pate,48,48
+Mitchell,Precinct #9-Carpenter Comm Center,Secretary of State,,REP,Paul D. Pate,20,20
+Mitchell,Precinct #10-South Square,Secretary of State,,REP,Paul D. Pate,43,43
+Mitchell,Precinct #11- Stacyville Library,Secretary of State,,REP,Paul D. Pate,11,11
+Mitchell,Precinct #1-Osage Methodist Church,Secretary of State,,,Write-in,0,0
+Mitchell,Precinct #2-New Haven Church,Secretary of State,,,Write-in,0,0
+Mitchell,Precinct #3-Riceville City Hall,Secretary of State,,,Write-in,0,0
+Mitchell,Precinct #4-Mitchell City Hall,Secretary of State,,,Write-in,0,0
+Mitchell,Precinct #5-Our Savior's Church,Secretary of State,,,Write-in,0,0
+Mitchell,Precinct #6-Osage Library,Secretary of State,,,Write-in,0,0
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Secretary of State,,,Write-in,0,0
+Mitchell,Precinct #8-Osage City Hall,Secretary of State,,,Write-in,0,0
+Mitchell,Precinct #9-Carpenter Comm Center,Secretary of State,,,Write-in,0,0
+Mitchell,Precinct #10-South Square,Secretary of State,,,Write-in,0,0
+Mitchell,Precinct #11- Stacyville Library,Secretary of State,,,Write-in,0,0
+Mitchell,Precinct #1-Osage Methodist Church,Secretary of State,,DEM,Deidre DeJear,11,11
+Mitchell,Precinct #2-New Haven Church,Secretary of State,,DEM,Deidre DeJear,8,8
+Mitchell,Precinct #3-Riceville City Hall,Secretary of State,,DEM,Deidre DeJear,10,10
+Mitchell,Precinct #4-Mitchell City Hall,Secretary of State,,DEM,Deidre DeJear,16,16
+Mitchell,Precinct #5-Our Savior's Church,Secretary of State,,DEM,Deidre DeJear,13,13
+Mitchell,Precinct #6-Osage Library,Secretary of State,,DEM,Deidre DeJear,20,20
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Secretary of State,,DEM,Deidre DeJear,12,12
+Mitchell,Precinct #8-Osage City Hall,Secretary of State,,DEM,Deidre DeJear,17,17
+Mitchell,Precinct #9-Carpenter Comm Center,Secretary of State,,DEM,Deidre DeJear,9,9
+Mitchell,Precinct #10-South Square,Secretary of State,,DEM,Deidre DeJear,10,10
+Mitchell,Precinct #11- Stacyville Library,Secretary of State,,DEM,Deidre DeJear,5,5
+Mitchell,Precinct #1-Osage Methodist Church,Secretary of State,,DEM,Jim Mowrer,8,8
+Mitchell,Precinct #2-New Haven Church,Secretary of State,,DEM,Jim Mowrer,4,4
+Mitchell,Precinct #3-Riceville City Hall,Secretary of State,,DEM,Jim Mowrer,11,11
+Mitchell,Precinct #4-Mitchell City Hall,Secretary of State,,DEM,Jim Mowrer,15,15
+Mitchell,Precinct #5-Our Savior's Church,Secretary of State,,DEM,Jim Mowrer,16,16
+Mitchell,Precinct #6-Osage Library,Secretary of State,,DEM,Jim Mowrer,16,16
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Secretary of State,,DEM,Jim Mowrer,11,11
+Mitchell,Precinct #8-Osage City Hall,Secretary of State,,DEM,Jim Mowrer,21,21
+Mitchell,Precinct #9-Carpenter Comm Center,Secretary of State,,DEM,Jim Mowrer,5,5
+Mitchell,Precinct #10-South Square,Secretary of State,,DEM,Jim Mowrer,11,11
+Mitchell,Precinct #11- Stacyville Library,Secretary of State,,DEM,Jim Mowrer,4,4
+Mitchell,Precinct #1-Osage Methodist Church,Auditor of State,,REP,Mary Mosiman,11,11
+Mitchell,Precinct #2-New Haven Church,Auditor of State,,REP,Mary Mosiman,14,14
+Mitchell,Precinct #3-Riceville City Hall,Auditor of State,,REP,Mary Mosiman,19,19
+Mitchell,Precinct #4-Mitchell City Hall,Auditor of State,,REP,Mary Mosiman,30,30
+Mitchell,Precinct #5-Our Savior's Church,Auditor of State,,REP,Mary Mosiman,53,53
+Mitchell,Precinct #6-Osage Library,Auditor of State,,REP,Mary Mosiman,31,31
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Auditor of State,,REP,Mary Mosiman,19,19
+Mitchell,Precinct #8-Osage City Hall,Auditor of State,,REP,Mary Mosiman,48,48
+Mitchell,Precinct #9-Carpenter Comm Center,Auditor of State,,REP,Mary Mosiman,19,19
+Mitchell,Precinct #10-South Square,Auditor of State,,REP,Mary Mosiman,43,43
+Mitchell,Precinct #11- Stacyville Library,Auditor of State,,REP,Mary Mosiman,11,11
+Mitchell,Precinct #1-Osage Methodist Church,Auditor of State,,,Write-in,0,0
+Mitchell,Precinct #2-New Haven Church,Auditor of State,,,Write-in,0,0
+Mitchell,Precinct #3-Riceville City Hall,Auditor of State,,,Write-in,0,0
+Mitchell,Precinct #4-Mitchell City Hall,Auditor of State,,,Write-in,0,0
+Mitchell,Precinct #5-Our Savior's Church,Auditor of State,,,Write-in,0,0
+Mitchell,Precinct #6-Osage Library,Auditor of State,,,Write-in,0,0
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Auditor of State,,,Write-in,0,0
+Mitchell,Precinct #8-Osage City Hall,Auditor of State,,,Write-in,0,0
+Mitchell,Precinct #9-Carpenter Comm Center,Auditor of State,,,Write-in,0,0
+Mitchell,Precinct #10-South Square,Auditor of State,,,Write-in,0,0
+Mitchell,Precinct #11- Stacyville Library,Auditor of State,,,Write-in,0,0
+Mitchell,Precinct #1-Osage Methodist Church,Auditor of State,,DEM,Rob Sand,19,19
+Mitchell,Precinct #2-New Haven Church,Auditor of State,,DEM,Rob Sand,10,10
+Mitchell,Precinct #3-Riceville City Hall,Auditor of State,,DEM,Rob Sand,21,21
+Mitchell,Precinct #4-Mitchell City Hall,Auditor of State,,DEM,Rob Sand,35,35
+Mitchell,Precinct #5-Our Savior's Church,Auditor of State,,DEM,Rob Sand,29,29
+Mitchell,Precinct #6-Osage Library,Auditor of State,,DEM,Rob Sand,34,34
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Auditor of State,,DEM,Rob Sand,20,20
+Mitchell,Precinct #8-Osage City Hall,Auditor of State,,DEM,Rob Sand,36,36
+Mitchell,Precinct #9-Carpenter Comm Center,Auditor of State,,DEM,Rob Sand,10,10
+Mitchell,Precinct #10-South Square,Auditor of State,,DEM,Rob Sand,21,21
+Mitchell,Precinct #11- Stacyville Library,Auditor of State,,DEM,Rob Sand,8,8
+Mitchell,Precinct #1-Osage Methodist Church,Treasurer of State,,,Write-in,0,0
+Mitchell,Precinct #2-New Haven Church,Treasurer of State,,,Write-in,0,0
+Mitchell,Precinct #3-Riceville City Hall,Treasurer of State,,,Write-in,0,0
+Mitchell,Precinct #4-Mitchell City Hall,Treasurer of State,,,Write-in,0,0
+Mitchell,Precinct #5-Our Savior's Church,Treasurer of State,,,Write-in,0,0
+Mitchell,Precinct #6-Osage Library,Treasurer of State,,,Write-in,0,0
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Treasurer of State,,,Write-in,0,0
+Mitchell,Precinct #8-Osage City Hall,Treasurer of State,,,Write-in,0,0
+Mitchell,Precinct #9-Carpenter Comm Center,Treasurer of State,,,Write-in,0,0
+Mitchell,Precinct #10-South Square,Treasurer of State,,,Write-in,0,0
+Mitchell,Precinct #11- Stacyville Library,Treasurer of State,,,Write-in,0,0
+Mitchell,Precinct #1-Osage Methodist Church,Treasurer of State,,DEM,Michael L. Fitzgerald,20,20
+Mitchell,Precinct #2-New Haven Church,Treasurer of State,,DEM,Michael L. Fitzgerald,12,12
+Mitchell,Precinct #3-Riceville City Hall,Treasurer of State,,DEM,Michael L. Fitzgerald,24,24
+Mitchell,Precinct #4-Mitchell City Hall,Treasurer of State,,DEM,Michael L. Fitzgerald,36,36
+Mitchell,Precinct #5-Our Savior's Church,Treasurer of State,,DEM,Michael L. Fitzgerald,30,30
+Mitchell,Precinct #6-Osage Library,Treasurer of State,,DEM,Michael L. Fitzgerald,34,34
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Treasurer of State,,DEM,Michael L. Fitzgerald,23,23
+Mitchell,Precinct #8-Osage City Hall,Treasurer of State,,DEM,Michael L. Fitzgerald,36,36
+Mitchell,Precinct #9-Carpenter Comm Center,Treasurer of State,,DEM,Michael L. Fitzgerald,12,12
+Mitchell,Precinct #10-South Square,Treasurer of State,,DEM,Michael L. Fitzgerald,20,20
+Mitchell,Precinct #11- Stacyville Library,Treasurer of State,,DEM,Michael L. Fitzgerald,10,10
+Mitchell,Precinct #1-Osage Methodist Church,Secretary of Agriculture,,REP,Ray Gaesser,5,5
+Mitchell,Precinct #2-New Haven Church,Secretary of Agriculture,,REP,Ray Gaesser,2,2
+Mitchell,Precinct #3-Riceville City Hall,Secretary of Agriculture,,REP,Ray Gaesser,3,3
+Mitchell,Precinct #4-Mitchell City Hall,Secretary of Agriculture,,REP,Ray Gaesser,10,10
+Mitchell,Precinct #5-Our Savior's Church,Secretary of Agriculture,,REP,Ray Gaesser,26,26
+Mitchell,Precinct #6-Osage Library,Secretary of Agriculture,,REP,Ray Gaesser,12,12
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Secretary of Agriculture,,REP,Ray Gaesser,9,9
+Mitchell,Precinct #8-Osage City Hall,Secretary of Agriculture,,REP,Ray Gaesser,20,20
+Mitchell,Precinct #9-Carpenter Comm Center,Secretary of Agriculture,,REP,Ray Gaesser,2,2
+Mitchell,Precinct #10-South Square,Secretary of Agriculture,,REP,Ray Gaesser,7,7
+Mitchell,Precinct #11- Stacyville Library,Secretary of Agriculture,,REP,Ray Gaesser,2,2
+Mitchell,Precinct #1-Osage Methodist Church,Secretary of Agriculture,,REP,Chad Ingels,1,1
+Mitchell,Precinct #2-New Haven Church,Secretary of Agriculture,,REP,Chad Ingels,1,1
+Mitchell,Precinct #3-Riceville City Hall,Secretary of Agriculture,,REP,Chad Ingels,1,1
+Mitchell,Precinct #4-Mitchell City Hall,Secretary of Agriculture,,REP,Chad Ingels,1,1
+Mitchell,Precinct #5-Our Savior's Church,Secretary of Agriculture,,REP,Chad Ingels,4,4
+Mitchell,Precinct #6-Osage Library,Secretary of Agriculture,,REP,Chad Ingels,2,2
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Secretary of Agriculture,,REP,Chad Ingels,4,4
+Mitchell,Precinct #8-Osage City Hall,Secretary of Agriculture,,REP,Chad Ingels,2,2
+Mitchell,Precinct #9-Carpenter Comm Center,Secretary of Agriculture,,REP,Chad Ingels,2,2
+Mitchell,Precinct #10-South Square,Secretary of Agriculture,,REP,Chad Ingels,2,2
+Mitchell,Precinct #11- Stacyville Library,Secretary of Agriculture,,REP,Chad Ingels,1,1
+Mitchell,Precinct #1-Osage Methodist Church,Secretary of Agriculture,,REP,Craig Lang,2,2
+Mitchell,Precinct #2-New Haven Church,Secretary of Agriculture,,REP,Craig Lang,2,2
+Mitchell,Precinct #3-Riceville City Hall,Secretary of Agriculture,,REP,Craig Lang,7,7
+Mitchell,Precinct #4-Mitchell City Hall,Secretary of Agriculture,,REP,Craig Lang,4,4
+Mitchell,Precinct #5-Our Savior's Church,Secretary of Agriculture,,REP,Craig Lang,3,3
+Mitchell,Precinct #6-Osage Library,Secretary of Agriculture,,REP,Craig Lang,2,2
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Secretary of Agriculture,,REP,Craig Lang,3,3
+Mitchell,Precinct #8-Osage City Hall,Secretary of Agriculture,,REP,Craig Lang,9,9
+Mitchell,Precinct #9-Carpenter Comm Center,Secretary of Agriculture,,REP,Craig Lang,1,1
+Mitchell,Precinct #10-South Square,Secretary of Agriculture,,REP,Craig Lang,5,5
+Mitchell,Precinct #11- Stacyville Library,Secretary of Agriculture,,REP,Craig Lang,2,2
+Mitchell,Precinct #1-Osage Methodist Church,Secretary of Agriculture,,REP,Mike Naig,4,4
+Mitchell,Precinct #2-New Haven Church,Secretary of Agriculture,,REP,Mike Naig,5,5
+Mitchell,Precinct #3-Riceville City Hall,Secretary of Agriculture,,REP,Mike Naig,3,3
+Mitchell,Precinct #4-Mitchell City Hall,Secretary of Agriculture,,REP,Mike Naig,8,8
+Mitchell,Precinct #5-Our Savior's Church,Secretary of Agriculture,,REP,Mike Naig,8,8
+Mitchell,Precinct #6-Osage Library,Secretary of Agriculture,,REP,Mike Naig,11,11
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Secretary of Agriculture,,REP,Mike Naig,1,1
+Mitchell,Precinct #8-Osage City Hall,Secretary of Agriculture,,REP,Mike Naig,11,11
+Mitchell,Precinct #9-Carpenter Comm Center,Secretary of Agriculture,,REP,Mike Naig,2,2
+Mitchell,Precinct #10-South Square,Secretary of Agriculture,,REP,Mike Naig,8,8
+Mitchell,Precinct #11- Stacyville Library,Secretary of Agriculture,,REP,Mike Naig,2,2
+Mitchell,Precinct #1-Osage Methodist Church,Secretary of Agriculture,,REP,Dan Zumbach,1,1
+Mitchell,Precinct #2-New Haven Church,Secretary of Agriculture,,REP,Dan Zumbach,3,3
+Mitchell,Precinct #3-Riceville City Hall,Secretary of Agriculture,,REP,Dan Zumbach,4,4
+Mitchell,Precinct #4-Mitchell City Hall,Secretary of Agriculture,,REP,Dan Zumbach,5,5
+Mitchell,Precinct #5-Our Savior's Church,Secretary of Agriculture,,REP,Dan Zumbach,14,14
+Mitchell,Precinct #6-Osage Library,Secretary of Agriculture,,REP,Dan Zumbach,8,8
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Secretary of Agriculture,,REP,Dan Zumbach,4,4
+Mitchell,Precinct #8-Osage City Hall,Secretary of Agriculture,,REP,Dan Zumbach,6,6
+Mitchell,Precinct #9-Carpenter Comm Center,Secretary of Agriculture,,REP,Dan Zumbach,13,13
+Mitchell,Precinct #10-South Square,Secretary of Agriculture,,REP,Dan Zumbach,20,20
+Mitchell,Precinct #11- Stacyville Library,Secretary of Agriculture,,REP,Dan Zumbach,4,4
+Mitchell,Precinct #1-Osage Methodist Church,Secretary of Agriculture,,,Write-in,0,0
+Mitchell,Precinct #2-New Haven Church,Secretary of Agriculture,,,Write-in,0,0
+Mitchell,Precinct #3-Riceville City Hall,Secretary of Agriculture,,,Write-in,0,0
+Mitchell,Precinct #4-Mitchell City Hall,Secretary of Agriculture,,,Write-in,0,0
+Mitchell,Precinct #5-Our Savior's Church,Secretary of Agriculture,,,Write-in,0,0
+Mitchell,Precinct #6-Osage Library,Secretary of Agriculture,,,Write-in,0,0
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Secretary of Agriculture,,,Write-in,0,0
+Mitchell,Precinct #8-Osage City Hall,Secretary of Agriculture,,,Write-in,0,0
+Mitchell,Precinct #9-Carpenter Comm Center,Secretary of Agriculture,,,Write-in,0,0
+Mitchell,Precinct #10-South Square,Secretary of Agriculture,,,Write-in,0,0
+Mitchell,Precinct #11- Stacyville Library,Secretary of Agriculture,,,Write-in,0,0
+Mitchell,Precinct #1-Osage Methodist Church,Secretary of Agriculture,,DEM,Tim Gannon,17,17
+Mitchell,Precinct #2-New Haven Church,Secretary of Agriculture,,DEM,Tim Gannon,11,11
+Mitchell,Precinct #3-Riceville City Hall,Secretary of Agriculture,,DEM,Tim Gannon,22,22
+Mitchell,Precinct #4-Mitchell City Hall,Secretary of Agriculture,,DEM,Tim Gannon,36,36
+Mitchell,Precinct #5-Our Savior's Church,Secretary of Agriculture,,DEM,Tim Gannon,28,28
+Mitchell,Precinct #6-Osage Library,Secretary of Agriculture,,DEM,Tim Gannon,34,34
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Secretary of Agriculture,,DEM,Tim Gannon,22,22
+Mitchell,Precinct #8-Osage City Hall,Secretary of Agriculture,,DEM,Tim Gannon,37,37
+Mitchell,Precinct #9-Carpenter Comm Center,Secretary of Agriculture,,DEM,Tim Gannon,10,10
+Mitchell,Precinct #10-South Square,Secretary of Agriculture,,DEM,Tim Gannon,21,21
+Mitchell,Precinct #11- Stacyville Library,Secretary of Agriculture,,DEM,Tim Gannon,10,10
+Mitchell,Precinct #1-Osage Methodist Church,Attorney General,,,Write-in,0,0
+Mitchell,Precinct #2-New Haven Church,Attorney General,,,Write-in,0,0
+Mitchell,Precinct #3-Riceville City Hall,Attorney General,,,Write-in,0,0
+Mitchell,Precinct #4-Mitchell City Hall,Attorney General,,,Write-in,0,0
+Mitchell,Precinct #5-Our Savior's Church,Attorney General,,,Write-in,0,0
+Mitchell,Precinct #6-Osage Library,Attorney General,,,Write-in,0,0
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Attorney General,,,Write-in,0,0
+Mitchell,Precinct #8-Osage City Hall,Attorney General,,,Write-in,0,0
+Mitchell,Precinct #9-Carpenter Comm Center,Attorney General,,,Write-in,0,0
+Mitchell,Precinct #10-South Square,Attorney General,,,Write-in,0,0
+Mitchell,Precinct #11- Stacyville Library,Attorney General,,,Write-in,0,0
+Mitchell,Precinct #1-Osage Methodist Church,Attorney General,,DEM,Tom Miller,20,20
+Mitchell,Precinct #2-New Haven Church,Attorney General,,DEM,Tom Miller,12,12
+Mitchell,Precinct #3-Riceville City Hall,Attorney General,,DEM,Tom Miller,24,24
+Mitchell,Precinct #4-Mitchell City Hall,Attorney General,,DEM,Tom Miller,37,37
+Mitchell,Precinct #5-Our Savior's Church,Attorney General,,DEM,Tom Miller,28,28
+Mitchell,Precinct #6-Osage Library,Attorney General,,DEM,Tom Miller,36,36
+Mitchell,Precinct #7-Mitchell Co. Courthouse,Attorney General,,DEM,Tom Miller,22,22
+Mitchell,Precinct #8-Osage City Hall,Attorney General,,DEM,Tom Miller,39,39
+Mitchell,Precinct #9-Carpenter Comm Center,Attorney General,,DEM,Tom Miller,12,12
+Mitchell,Precinct #10-South Square,Attorney General,,DEM,Tom Miller,21,21
+Mitchell,Precinct #11- Stacyville Library,Attorney General,,DEM,Tom Miller,9,9
+Mitchell,Precinct #1-Osage Methodist Church,State Representative District  51,,REP,Jane Bloomingdale,15,15
+Mitchell,Precinct #2-New Haven Church,State Representative District  51,,REP,Jane Bloomingdale,14,14
+Mitchell,Precinct #3-Riceville City Hall,State Representative District  51,,REP,Jane Bloomingdale,21,21
+Mitchell,Precinct #4-Mitchell City Hall,State Representative District  51,,REP,Jane Bloomingdale,31,31
+Mitchell,Precinct #5-Our Savior's Church,State Representative District  51,,REP,Jane Bloomingdale,58,58
+Mitchell,Precinct #6-Osage Library,State Representative District  51,,REP,Jane Bloomingdale,32,32
+Mitchell,Precinct #7-Mitchell Co. Courthouse,State Representative District  51,,REP,Jane Bloomingdale,21,21
+Mitchell,Precinct #8-Osage City Hall,State Representative District  51,,REP,Jane Bloomingdale,43,43
+Mitchell,Precinct #9-Carpenter Comm Center,State Representative District  51,,REP,Jane Bloomingdale,19,19
+Mitchell,Precinct #10-South Square,State Representative District  51,,REP,Jane Bloomingdale,43,43
+Mitchell,Precinct #11- Stacyville Library,State Representative District  51,,REP,Jane Bloomingdale,10,10
+Mitchell,Precinct #1-Osage Methodist Church,State Representative District  51,,,Write-in,0,0
+Mitchell,Precinct #2-New Haven Church,State Representative District  51,,,Write-in,0,0
+Mitchell,Precinct #3-Riceville City Hall,State Representative District  51,,,Write-in,0,0
+Mitchell,Precinct #4-Mitchell City Hall,State Representative District  51,,,Write-in,0,0
+Mitchell,Precinct #5-Our Savior's Church,State Representative District  51,,,Write-in,0,0
+Mitchell,Precinct #6-Osage Library,State Representative District  51,,,Write-in,0,0
+Mitchell,Precinct #7-Mitchell Co. Courthouse,State Representative District  51,,,Write-in,0,0
+Mitchell,Precinct #8-Osage City Hall,State Representative District  51,,,Write-in,0,0
+Mitchell,Precinct #9-Carpenter Comm Center,State Representative District  51,,,Write-in,0,0
+Mitchell,Precinct #10-South Square,State Representative District  51,,,Write-in,0,0
+Mitchell,Precinct #11- Stacyville Library,State Representative District  51,,,Write-in,0,0
+Mitchell,Precinct #1-Osage Methodist Church,State Representative District  51,,DEM,Tim Knutson,18,18
+Mitchell,Precinct #2-New Haven Church,State Representative District  51,,DEM,Tim Knutson,12,12
+Mitchell,Precinct #3-Riceville City Hall,State Representative District  51,,DEM,Tim Knutson,20,20
+Mitchell,Precinct #4-Mitchell City Hall,State Representative District  51,,DEM,Tim Knutson,36,36
+Mitchell,Precinct #5-Our Savior's Church,State Representative District  51,,DEM,Tim Knutson,30,30
+Mitchell,Precinct #6-Osage Library,State Representative District  51,,DEM,Tim Knutson,34,34
+Mitchell,Precinct #7-Mitchell Co. Courthouse,State Representative District  51,,DEM,Tim Knutson,22,22
+Mitchell,Precinct #8-Osage City Hall,State Representative District  51,,DEM,Tim Knutson,39,39
+Mitchell,Precinct #9-Carpenter Comm Center,State Representative District  51,,DEM,Tim Knutson,10,10
+Mitchell,Precinct #10-South Square,State Representative District  51,,DEM,Tim Knutson,21,21
+Mitchell,Precinct #11- Stacyville Library,State Representative District  51,,DEM,Tim Knutson,9,9
+Mitchell,Precinct #5-Our Savior's Church,County Board of Supervisors District 1,,REP,Joel Voaklander,22,22
+Mitchell,Precinct #6-Osage Library,County Board of Supervisors District 1,,REP,Joel Voaklander,18,18
+Mitchell,Precinct #7-Mitchell Co. Courthouse,County Board of Supervisors District 1,,REP,Joel Voaklander,8,8
+Mitchell,Precinct #8-Osage City Hall,County Board of Supervisors District 1,,REP,Joel Voaklander,29,29
+Mitchell,Precinct #5-Our Savior's Church,County Board of Supervisors District 1,,REP,Al Winters,43,43
+Mitchell,Precinct #6-Osage Library,County Board of Supervisors District 1,,REP,Al Winters,26,26
+Mitchell,Precinct #7-Mitchell Co. Courthouse,County Board of Supervisors District 1,,REP,Al Winters,18,18
+Mitchell,Precinct #8-Osage City Hall,County Board of Supervisors District 1,,REP,Al Winters,26,26
+Mitchell,Precinct #5-Our Savior's Church,County Board of Supervisors District 1,,,Write-in,0,0
+Mitchell,Precinct #6-Osage Library,County Board of Supervisors District 1,,,Write-in,0,0
+Mitchell,Precinct #7-Mitchell Co. Courthouse,County Board of Supervisors District 1,,,Write-in,0,0
+Mitchell,Precinct #8-Osage City Hall,County Board of Supervisors District 1,,,Write-in,0,0
+Mitchell,Precinct #1-Osage Methodist Church,County Board of Supervisors District 3,,REP,Steven A Smolik,13,13
+Mitchell,Precinct #2-New Haven Church,County Board of Supervisors District 3,,REP,Steven A Smolik,14,14
+Mitchell,Precinct #3-Riceville City Hall,County Board of Supervisors District 3,,REP,Steven A Smolik,20,20
+Mitchell,Precinct #11- Stacyville Library,County Board of Supervisors District 3,,REP,Steven A Smolik,11,11
+Mitchell,Precinct #1-Osage Methodist Church,County Board of Supervisors District 3,,,Write-in,0,0
+Mitchell,Precinct #2-New Haven Church,County Board of Supervisors District 3,,,Write-in,0,0
+Mitchell,Precinct #3-Riceville City Hall,County Board of Supervisors District 3,,,Write-in,0,0
+Mitchell,Precinct #11- Stacyville Library,County Board of Supervisors District 3,,,Write-in,0,0
+Mitchell,Precinct #1-Osage Methodist Church,County Treasurer,,REP,Susan Ellison,12,12
+Mitchell,Precinct #2-New Haven Church,County Treasurer,,REP,Susan Ellison,12,12
+Mitchell,Precinct #3-Riceville City Hall,County Treasurer,,REP,Susan Ellison,19,19
+Mitchell,Precinct #4-Mitchell City Hall,County Treasurer,,REP,Susan Ellison,28,28
+Mitchell,Precinct #5-Our Savior's Church,County Treasurer,,REP,Susan Ellison,55,55
+Mitchell,Precinct #6-Osage Library,County Treasurer,,REP,Susan Ellison,29,29
+Mitchell,Precinct #7-Mitchell Co. Courthouse,County Treasurer,,REP,Susan Ellison,19,19
+Mitchell,Precinct #8-Osage City Hall,County Treasurer,,REP,Susan Ellison,48,48
+Mitchell,Precinct #9-Carpenter Comm Center,County Treasurer,,REP,Susan Ellison,18,18
+Mitchell,Precinct #10-South Square,County Treasurer,,REP,Susan Ellison,40,40
+Mitchell,Precinct #11- Stacyville Library,County Treasurer,,REP,Susan Ellison,12,12
+Mitchell,Precinct #1-Osage Methodist Church,County Treasurer,,,Write-in,0,0
+Mitchell,Precinct #2-New Haven Church,County Treasurer,,,Write-in,0,0
+Mitchell,Precinct #3-Riceville City Hall,County Treasurer,,,Write-in,0,0
+Mitchell,Precinct #4-Mitchell City Hall,County Treasurer,,,Write-in,0,0
+Mitchell,Precinct #5-Our Savior's Church,County Treasurer,,,Write-in,0,0
+Mitchell,Precinct #6-Osage Library,County Treasurer,,,Write-in,0,0
+Mitchell,Precinct #7-Mitchell Co. Courthouse,County Treasurer,,,Write-in,0,0
+Mitchell,Precinct #8-Osage City Hall,County Treasurer,,,Write-in,0,0
+Mitchell,Precinct #9-Carpenter Comm Center,County Treasurer,,,Write-in,0,0
+Mitchell,Precinct #10-South Square,County Treasurer,,,Write-in,0,0
+Mitchell,Precinct #11- Stacyville Library,County Treasurer,,,Write-in,0,0
+Mitchell,Precinct #1-Osage Methodist Church,County Treasurer,,DEM,Shannon Dee Paulus,21,21
+Mitchell,Precinct #2-New Haven Church,County Treasurer,,DEM,Shannon Dee Paulus,12,12
+Mitchell,Precinct #3-Riceville City Hall,County Treasurer,,DEM,Shannon Dee Paulus,24,24
+Mitchell,Precinct #4-Mitchell City Hall,County Treasurer,,DEM,Shannon Dee Paulus,36,36
+Mitchell,Precinct #5-Our Savior's Church,County Treasurer,,DEM,Shannon Dee Paulus,29,29
+Mitchell,Precinct #6-Osage Library,County Treasurer,,DEM,Shannon Dee Paulus,35,35
+Mitchell,Precinct #7-Mitchell Co. Courthouse,County Treasurer,,DEM,Shannon Dee Paulus,24,24
+Mitchell,Precinct #8-Osage City Hall,County Treasurer,,DEM,Shannon Dee Paulus,40,40
+Mitchell,Precinct #9-Carpenter Comm Center,County Treasurer,,DEM,Shannon Dee Paulus,11,11
+Mitchell,Precinct #10-South Square,County Treasurer,,DEM,Shannon Dee Paulus,19,19
+Mitchell,Precinct #11- Stacyville Library,County Treasurer,,DEM,Shannon Dee Paulus,10,10
+Mitchell,Precinct #1-Osage Methodist Church,County Recorder,,,Write-in,0,0
+Mitchell,Precinct #2-New Haven Church,County Recorder,,,Write-in,0,0
+Mitchell,Precinct #3-Riceville City Hall,County Recorder,,,Write-in,0,0
+Mitchell,Precinct #4-Mitchell City Hall,County Recorder,,,Write-in,0,0
+Mitchell,Precinct #5-Our Savior's Church,County Recorder,,,Write-in,0,0
+Mitchell,Precinct #6-Osage Library,County Recorder,,,Write-in,0,0
+Mitchell,Precinct #7-Mitchell Co. Courthouse,County Recorder,,,Write-in,0,0
+Mitchell,Precinct #8-Osage City Hall,County Recorder,,,Write-in,0,0
+Mitchell,Precinct #9-Carpenter Comm Center,County Recorder,,,Write-in,0,0
+Mitchell,Precinct #10-South Square,County Recorder,,,Write-in,0,0
+Mitchell,Precinct #11- Stacyville Library,County Recorder,,,Write-in,0,0
+Mitchell,Precinct #1-Osage Methodist Church,County Recorder,,DEM,Pat Skuster,19,19
+Mitchell,Precinct #2-New Haven Church,County Recorder,,DEM,Pat Skuster,13,13
+Mitchell,Precinct #3-Riceville City Hall,County Recorder,,DEM,Pat Skuster,23,23
+Mitchell,Precinct #4-Mitchell City Hall,County Recorder,,DEM,Pat Skuster,36,36
+Mitchell,Precinct #5-Our Savior's Church,County Recorder,,DEM,Pat Skuster,30,30
+Mitchell,Precinct #6-Osage Library,County Recorder,,DEM,Pat Skuster,36,36
+Mitchell,Precinct #7-Mitchell Co. Courthouse,County Recorder,,DEM,Pat Skuster,24,24
+Mitchell,Precinct #8-Osage City Hall,County Recorder,,DEM,Pat Skuster,41,41
+Mitchell,Precinct #9-Carpenter Comm Center,County Recorder,,DEM,Pat Skuster,12,12
+Mitchell,Precinct #10-South Square,County Recorder,,DEM,Pat Skuster,19,19
+Mitchell,Precinct #11- Stacyville Library,County Recorder,,DEM,Pat Skuster,10,10
+Mitchell,Precinct #1-Osage Methodist Church,County Attorney,,REP,Mark L. Walk,13,13
+Mitchell,Precinct #2-New Haven Church,County Attorney,,REP,Mark L. Walk,13,13
+Mitchell,Precinct #3-Riceville City Hall,County Attorney,,REP,Mark L. Walk,20,20
+Mitchell,Precinct #4-Mitchell City Hall,County Attorney,,REP,Mark L. Walk,25,25
+Mitchell,Precinct #5-Our Savior's Church,County Attorney,,REP,Mark L. Walk,48,48
+Mitchell,Precinct #6-Osage Library,County Attorney,,REP,Mark L. Walk,30,30
+Mitchell,Precinct #7-Mitchell Co. Courthouse,County Attorney,,REP,Mark L. Walk,18,18
+Mitchell,Precinct #8-Osage City Hall,County Attorney,,REP,Mark L. Walk,45,45
+Mitchell,Precinct #9-Carpenter Comm Center,County Attorney,,REP,Mark L. Walk,17,17
+Mitchell,Precinct #10-South Square,County Attorney,,REP,Mark L. Walk,39,39
+Mitchell,Precinct #11- Stacyville Library,County Attorney,,REP,Mark L. Walk,13,13
+Mitchell,Precinct #1-Osage Methodist Church,County Attorney,,,Write-in,0,0
+Mitchell,Precinct #2-New Haven Church,County Attorney,,,Write-in,0,0
+Mitchell,Precinct #3-Riceville City Hall,County Attorney,,,Write-in,0,0
+Mitchell,Precinct #4-Mitchell City Hall,County Attorney,,,Write-in,0,0
+Mitchell,Precinct #5-Our Savior's Church,County Attorney,,,Write-in,0,0
+Mitchell,Precinct #6-Osage Library,County Attorney,,,Write-in,0,0
+Mitchell,Precinct #7-Mitchell Co. Courthouse,County Attorney,,,Write-in,0,0
+Mitchell,Precinct #8-Osage City Hall,County Attorney,,,Write-in,0,0
+Mitchell,Precinct #9-Carpenter Comm Center,County Attorney,,,Write-in,0,0
+Mitchell,Precinct #10-South Square,County Attorney,,,Write-in,0,0
+Mitchell,Precinct #11- Stacyville Library,County Attorney,,,Write-in,0,0

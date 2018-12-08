@@ -1,0 +1,969 @@
+county,precinct,office,district,party,candidate,votes,absentee,polling
+Washington,Ainsworth Precinct,United States Representative District 2,,REP,Christopher Peters,24,2,22
+Washington,Brighton/Marion/Crawford Precinct,United States Representative District 2,,REP,Christopher Peters,92,20,72
+Washington,Kalona Precinct,United States Representative District 2,,REP,Christopher Peters,38,3,35
+Washington,Riverside Precinct,United States Representative District 2,,REP,Christopher Peters,18,0,18
+Washington,Ward One Precinct,United States Representative District 2,,REP,Christopher Peters,37,5,32
+Washington,Ward Two Precinct,United States Representative District 2,,REP,Christopher Peters,39,4,35
+Washington,Ward Three Precinct,United States Representative District 2,,REP,Christopher Peters,70,8,62
+Washington,Ward Four Precinct,United States Representative District 2,,REP,Christopher Peters,55,16,39
+Washington,Wellman Precinct,United States Representative District 2,,REP,Christopher Peters,55,1,54
+Washington,West Chester Precinct,United States Representative District 2,,REP,Christopher Peters,31,5,26
+Washington,Ainsworth Precinct,United States Representative District 2,,REP,Ginny Caligiuri,5,0,5
+Washington,Brighton/Marion/Crawford Precinct,United States Representative District 2,,REP,Ginny Caligiuri,14,10,4
+Washington,Kalona Precinct,United States Representative District 2,,REP,Ginny Caligiuri,59,4,55
+Washington,Riverside Precinct,United States Representative District 2,,REP,Ginny Caligiuri,5,0,5
+Washington,Ward One Precinct,United States Representative District 2,,REP,Ginny Caligiuri,0,0,0
+Washington,Ward Two Precinct,United States Representative District 2,,REP,Ginny Caligiuri,2,2,0
+Washington,Ward Three Precinct,United States Representative District 2,,REP,Ginny Caligiuri,5,0,5
+Washington,Ward Four Precinct,United States Representative District 2,,REP,Ginny Caligiuri,4,1,3
+Washington,Wellman Precinct,United States Representative District 2,,REP,Ginny Caligiuri,32,0,32
+Washington,West Chester Precinct,United States Representative District 2,,REP,Ginny Caligiuri,6,0,6
+Washington,Ainsworth Precinct,United States Representative District 2,,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,United States Representative District 2,,,Write-in,0,0,0
+Washington,Kalona Precinct,United States Representative District 2,,,Write-in,0,0,0
+Washington,Riverside Precinct,United States Representative District 2,,,Write-in,0,0,0
+Washington,Ward One Precinct,United States Representative District 2,,,Write-in,0,0,0
+Washington,Ward Two Precinct,United States Representative District 2,,,Write-in,0,0,0
+Washington,Ward Three Precinct,United States Representative District 2,,,Write-in,0,0,0
+Washington,Ward Four Precinct,United States Representative District 2,,,Write-in,0,0,0
+Washington,Wellman Precinct,United States Representative District 2,,,Write-in,0,0,0
+Washington,West Chester Precinct,United States Representative District 2,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,Governor,,REP,Kim Reynolds,31,2,29
+Washington,Brighton/Marion/Crawford Precinct,Governor,,REP,Kim Reynolds,130,38,92
+Washington,Kalona Precinct,Governor,,REP,Kim Reynolds,92,9,83
+Washington,Riverside Precinct,Governor,,REP,Kim Reynolds,26,0,26
+Washington,Ward One Precinct,Governor,,REP,Kim Reynolds,41,5,36
+Washington,Ward Two Precinct,Governor,,REP,Kim Reynolds,46,6,40
+Washington,Ward Three Precinct,Governor,,REP,Kim Reynolds,77,10,67
+Washington,Ward Four Precinct,Governor,,REP,Kim Reynolds,70,17,53
+Washington,Wellman Precinct,Governor,,REP,Kim Reynolds,88,1,87
+Washington,West Chester Precinct,Governor,,REP,Kim Reynolds,36,5,31
+Washington,Ainsworth Precinct,Governor,,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Governor,,,Write-in,0,0,0
+Washington,Kalona Precinct,Governor,,,Write-in,0,0,0
+Washington,Riverside Precinct,Governor,,,Write-in,0,0,0
+Washington,Ward One Precinct,Governor,,,Write-in,0,0,0
+Washington,Ward Two Precinct,Governor,,,Write-in,1,0,1
+Washington,Ward Three Precinct,Governor,,,Write-in,0,0,0
+Washington,Ward Four Precinct,Governor,,,Write-in,0,0,0
+Washington,Wellman Precinct,Governor,,,Write-in,0,0,0
+Washington,West Chester Precinct,Governor,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,Secretary of State,,REP,Paul D. Pate,31,2,29
+Washington,Brighton/Marion/Crawford Precinct,Secretary of State,,REP,Paul D. Pate,118,34,84
+Washington,Kalona Precinct,Secretary of State,,REP,Paul D. Pate,81,6,75
+Washington,Riverside Precinct,Secretary of State,,REP,Paul D. Pate,24,0,24
+Washington,Ward One Precinct,Secretary of State,,REP,Paul D. Pate,40,5,35
+Washington,Ward Two Precinct,Secretary of State,,REP,Paul D. Pate,42,5,37
+Washington,Ward Three Precinct,Secretary of State,,REP,Paul D. Pate,82,9,73
+Washington,Ward Four Precinct,Secretary of State,,REP,Paul D. Pate,66,19,47
+Washington,Wellman Precinct,Secretary of State,,REP,Paul D. Pate,80,1,79
+Washington,West Chester Precinct,Secretary of State,,REP,Paul D. Pate,34,5,29
+Washington,Ainsworth Precinct,Secretary of State,,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Secretary of State,,,Write-in,0,0,0
+Washington,Kalona Precinct,Secretary of State,,,Write-in,0,0,0
+Washington,Riverside Precinct,Secretary of State,,,Write-in,0,0,0
+Washington,Ward One Precinct,Secretary of State,,,Write-in,0,0,0
+Washington,Ward Two Precinct,Secretary of State,,,Write-in,0,0,0
+Washington,Ward Three Precinct,Secretary of State,,,Write-in,0,0,0
+Washington,Ward Four Precinct,Secretary of State,,,Write-in,0,0,0
+Washington,Wellman Precinct,Secretary of State,,,Write-in,0,0,0
+Washington,West Chester Precinct,Secretary of State,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,Auditor of State,,REP,Mary Mosiman,29,2,27
+Washington,Brighton/Marion/Crawford Precinct,Auditor of State,,REP,Mary Mosiman,112,32,80
+Washington,Kalona Precinct,Auditor of State,,REP,Mary Mosiman,73,6,67
+Washington,Riverside Precinct,Auditor of State,,REP,Mary Mosiman,24,0,24
+Washington,Ward One Precinct,Auditor of State,,REP,Mary Mosiman,39,5,34
+Washington,Ward Two Precinct,Auditor of State,,REP,Mary Mosiman,36,5,31
+Washington,Ward Three Precinct,Auditor of State,,REP,Mary Mosiman,79,8,71
+Washington,Ward Four Precinct,Auditor of State,,REP,Mary Mosiman,65,19,46
+Washington,Wellman Precinct,Auditor of State,,REP,Mary Mosiman,76,1,75
+Washington,West Chester Precinct,Auditor of State,,REP,Mary Mosiman,34,5,29
+Washington,Ainsworth Precinct,Auditor of State,,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Auditor of State,,,Write-in,0,0,0
+Washington,Kalona Precinct,Auditor of State,,,Write-in,0,0,0
+Washington,Riverside Precinct,Auditor of State,,,Write-in,0,0,0
+Washington,Ward One Precinct,Auditor of State,,,Write-in,0,0,0
+Washington,Ward Two Precinct,Auditor of State,,,Write-in,0,0,0
+Washington,Ward Three Precinct,Auditor of State,,,Write-in,0,0,0
+Washington,Ward Four Precinct,Auditor of State,,,Write-in,0,0,0
+Washington,Wellman Precinct,Auditor of State,,,Write-in,0,0,0
+Washington,West Chester Precinct,Auditor of State,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,Treasurer of State,,REP,Blank,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Treasurer of State,,REP,Blank,2,1,1
+Washington,Kalona Precinct,Treasurer of State,,REP,Blank,1,0,1
+Washington,Riverside Precinct,Treasurer of State,,REP,Blank,0,0,0
+Washington,Ward One Precinct,Treasurer of State,,REP,Blank,0,0,0
+Washington,Ward Two Precinct,Treasurer of State,,REP,Blank,0,0,0
+Washington,Ward Three Precinct,Treasurer of State,,REP,Blank,0,0,0
+Washington,Ward Four Precinct,Treasurer of State,,REP,Blank,1,1,0
+Washington,Wellman Precinct,Treasurer of State,,REP,Blank,0,0,0
+Washington,West Chester Precinct,Treasurer of State,,REP,Blank,0,0,0
+Washington,Ainsworth Precinct,Treasurer of State,,REP,Chris Davies,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Treasurer of State,,REP,Chris Davies,2,0,2
+Washington,Kalona Precinct,Treasurer of State,,REP,Chris Davies,0,0,0
+Washington,Riverside Precinct,Treasurer of State,,REP,Chris Davies,0,0,0
+Washington,Ward One Precinct,Treasurer of State,,REP,Chris Davies,0,0,0
+Washington,Ward Two Precinct,Treasurer of State,,REP,Chris Davies,0,0,0
+Washington,Ward Three Precinct,Treasurer of State,,REP,Chris Davies,0,0,0
+Washington,Ward Four Precinct,Treasurer of State,,REP,Chris Davies,0,0,0
+Washington,Wellman Precinct,Treasurer of State,,REP,Chris Davies,0,0,0
+Washington,West Chester Precinct,Treasurer of State,,REP,Chris Davies,0,0,0
+Washington,Ainsworth Precinct,Treasurer of State,,REP,Stephen Fersia,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Treasurer of State,,REP,Stephen Fersia,1,0,1
+Washington,Kalona Precinct,Treasurer of State,,REP,Stephen Fersia,0,0,0
+Washington,Riverside Precinct,Treasurer of State,,REP,Stephen Fersia,0,0,0
+Washington,Ward One Precinct,Treasurer of State,,REP,Stephen Fersia,0,0,0
+Washington,Ward Two Precinct,Treasurer of State,,REP,Stephen Fersia,0,0,0
+Washington,Ward Three Precinct,Treasurer of State,,REP,Stephen Fersia,0,0,0
+Washington,Ward Four Precinct,Treasurer of State,,REP,Stephen Fersia,0,0,0
+Washington,Wellman Precinct,Treasurer of State,,REP,Stephen Fersia,0,0,0
+Washington,West Chester Precinct,Treasurer of State,,REP,Stephen Fersia,0,0,0
+Washington,Ainsworth Precinct,Treasurer of State,,REP,Allen Leichty,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Treasurer of State,,REP,Allen Leichty,0,0,0
+Washington,Kalona Precinct,Treasurer of State,,REP,Allen Leichty,0,0,0
+Washington,Riverside Precinct,Treasurer of State,,REP,Allen Leichty,0,0,0
+Washington,Ward One Precinct,Treasurer of State,,REP,Allen Leichty,0,0,0
+Washington,Ward Two Precinct,Treasurer of State,,REP,Allen Leichty,0,0,0
+Washington,Ward Three Precinct,Treasurer of State,,REP,Allen Leichty,0,0,0
+Washington,Ward Four Precinct,Treasurer of State,,REP,Allen Leichty,0,0,0
+Washington,Wellman Precinct,Treasurer of State,,REP,Allen Leichty,1,0,1
+Washington,West Chester Precinct,Treasurer of State,,REP,Allen Leichty,0,0,0
+Washington,Ainsworth Precinct,Treasurer of State,,REP,"Tom Lucas, Jr.",0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Treasurer of State,,REP,"Tom Lucas, Jr.",0,0,0
+Washington,Kalona Precinct,Treasurer of State,,REP,"Tom Lucas, Jr.",0,0,0
+Washington,Riverside Precinct,Treasurer of State,,REP,"Tom Lucas, Jr.",0,0,0
+Washington,Ward One Precinct,Treasurer of State,,REP,"Tom Lucas, Jr.",0,0,0
+Washington,Ward Two Precinct,Treasurer of State,,REP,"Tom Lucas, Jr.",0,0,0
+Washington,Ward Three Precinct,Treasurer of State,,REP,"Tom Lucas, Jr.",0,0,0
+Washington,Ward Four Precinct,Treasurer of State,,REP,"Tom Lucas, Jr.",0,0,0
+Washington,Wellman Precinct,Treasurer of State,,REP,"Tom Lucas, Jr.",1,0,1
+Washington,West Chester Precinct,Treasurer of State,,REP,"Tom Lucas, Jr.",0,0,0
+Washington,Ainsworth Precinct,Treasurer of State,,REP,Nina McGee,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Treasurer of State,,REP,Nina McGee,0,0,0
+Washington,Kalona Precinct,Treasurer of State,,REP,Nina McGee,0,0,0
+Washington,Riverside Precinct,Treasurer of State,,REP,Nina McGee,0,0,0
+Washington,Ward One Precinct,Treasurer of State,,REP,Nina McGee,0,0,0
+Washington,Ward Two Precinct,Treasurer of State,,REP,Nina McGee,0,0,0
+Washington,Ward Three Precinct,Treasurer of State,,REP,Nina McGee,1,0,1
+Washington,Ward Four Precinct,Treasurer of State,,REP,Nina McGee,0,0,0
+Washington,Wellman Precinct,Treasurer of State,,REP,Nina McGee,0,0,0
+Washington,West Chester Precinct,Treasurer of State,,REP,Nina McGee,0,0,0
+Washington,Ainsworth Precinct,Treasurer of State,,REP,Clyde J. Mittler,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Treasurer of State,,REP,Clyde J. Mittler,0,0,0
+Washington,Kalona Precinct,Treasurer of State,,REP,Clyde J. Mittler,0,0,0
+Washington,Riverside Precinct,Treasurer of State,,REP,Clyde J. Mittler,0,0,0
+Washington,Ward One Precinct,Treasurer of State,,REP,Clyde J. Mittler,1,0,1
+Washington,Ward Two Precinct,Treasurer of State,,REP,Clyde J. Mittler,1,0,1
+Washington,Ward Three Precinct,Treasurer of State,,REP,Clyde J. Mittler,0,0,0
+Washington,Ward Four Precinct,Treasurer of State,,REP,Clyde J. Mittler,0,0,0
+Washington,Wellman Precinct,Treasurer of State,,REP,Clyde J. Mittler,0,0,0
+Washington,West Chester Precinct,Treasurer of State,,REP,Clyde J. Mittler,0,0,0
+Washington,Ainsworth Precinct,Treasurer of State,,REP,Myself,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Treasurer of State,,REP,Myself,0,0,0
+Washington,Kalona Precinct,Treasurer of State,,REP,Myself,0,0,0
+Washington,Riverside Precinct,Treasurer of State,,REP,Myself,0,0,0
+Washington,Ward One Precinct,Treasurer of State,,REP,Myself,0,0,0
+Washington,Ward Two Precinct,Treasurer of State,,REP,Myself,0,0,0
+Washington,Ward Three Precinct,Treasurer of State,,REP,Myself,1,0,1
+Washington,Ward Four Precinct,Treasurer of State,,REP,Myself,0,0,0
+Washington,Wellman Precinct,Treasurer of State,,REP,Myself,0,0,0
+Washington,West Chester Precinct,Treasurer of State,,REP,Myself,0,0,0
+Washington,Ainsworth Precinct,Treasurer of State,,REP,Phyllis J. Scheeler,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Treasurer of State,,REP,Phyllis J. Scheeler,0,0,0
+Washington,Kalona Precinct,Treasurer of State,,REP,Phyllis J. Scheeler,0,0,0
+Washington,Riverside Precinct,Treasurer of State,,REP,Phyllis J. Scheeler,0,0,0
+Washington,Ward One Precinct,Treasurer of State,,REP,Phyllis J. Scheeler,0,0,0
+Washington,Ward Two Precinct,Treasurer of State,,REP,Phyllis J. Scheeler,0,0,0
+Washington,Ward Three Precinct,Treasurer of State,,REP,Phyllis J. Scheeler,0,0,0
+Washington,Ward Four Precinct,Treasurer of State,,REP,Phyllis J. Scheeler,0,0,0
+Washington,Wellman Precinct,Treasurer of State,,REP,Phyllis J. Scheeler,0,0,0
+Washington,West Chester Precinct,Treasurer of State,,REP,Phyllis J. Scheeler,1,0,1
+Washington,Ainsworth Precinct,Treasurer of State,,REP,James J. Sharkey II,1,0,1
+Washington,Brighton/Marion/Crawford Precinct,Treasurer of State,,REP,James J. Sharkey II,0,0,0
+Washington,Kalona Precinct,Treasurer of State,,REP,James J. Sharkey II,0,0,0
+Washington,Riverside Precinct,Treasurer of State,,REP,James J. Sharkey II,0,0,0
+Washington,Ward One Precinct,Treasurer of State,,REP,James J. Sharkey II,0,0,0
+Washington,Ward Two Precinct,Treasurer of State,,REP,James J. Sharkey II,0,0,0
+Washington,Ward Three Precinct,Treasurer of State,,REP,James J. Sharkey II,0,0,0
+Washington,Ward Four Precinct,Treasurer of State,,REP,James J. Sharkey II,0,0,0
+Washington,Wellman Precinct,Treasurer of State,,REP,James J. Sharkey II,0,0,0
+Washington,West Chester Precinct,Treasurer of State,,REP,James J. Sharkey II,0,0,0
+Washington,Ainsworth Precinct,Treasurer of State,,REP,John Thompson,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Treasurer of State,,REP,John Thompson,0,0,0
+Washington,Kalona Precinct,Treasurer of State,,REP,John Thompson,1,1,0
+Washington,Riverside Precinct,Treasurer of State,,REP,John Thompson,0,0,0
+Washington,Ward One Precinct,Treasurer of State,,REP,John Thompson,0,0,0
+Washington,Ward Two Precinct,Treasurer of State,,REP,John Thompson,0,0,0
+Washington,Ward Three Precinct,Treasurer of State,,REP,John Thompson,0,0,0
+Washington,Ward Four Precinct,Treasurer of State,,REP,John Thompson,0,0,0
+Washington,Wellman Precinct,Treasurer of State,,REP,John Thompson,0,0,0
+Washington,West Chester Precinct,Treasurer of State,,REP,John Thompson,1,1,0
+Washington,Ainsworth Precinct,Treasurer of State,,REP,Mike Van Osdol,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Treasurer of State,,REP,Mike Van Osdol,0,0,0
+Washington,Kalona Precinct,Treasurer of State,,REP,Mike Van Osdol,0,0,0
+Washington,Riverside Precinct,Treasurer of State,,REP,Mike Van Osdol,0,0,0
+Washington,Ward One Precinct,Treasurer of State,,REP,Mike Van Osdol,0,0,0
+Washington,Ward Two Precinct,Treasurer of State,,REP,Mike Van Osdol,0,0,0
+Washington,Ward Three Precinct,Treasurer of State,,REP,Mike Van Osdol,0,0,0
+Washington,Ward Four Precinct,Treasurer of State,,REP,Mike Van Osdol,1,0,1
+Washington,Wellman Precinct,Treasurer of State,,REP,Mike Van Osdol,0,0,0
+Washington,West Chester Precinct,Treasurer of State,,REP,Mike Van Osdol,0,0,0
+Washington,Ainsworth Precinct,Treasurer of State,,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Treasurer of State,,,Write-in,0,0,0
+Washington,Kalona Precinct,Treasurer of State,,,Write-in,0,0,0
+Washington,Riverside Precinct,Treasurer of State,,,Write-in,0,0,0
+Washington,Ward One Precinct,Treasurer of State,,,Write-in,0,0,0
+Washington,Ward Two Precinct,Treasurer of State,,,Write-in,0,0,0
+Washington,Ward Three Precinct,Treasurer of State,,,Write-in,0,0,0
+Washington,Ward Four Precinct,Treasurer of State,,,Write-in,0,0,0
+Washington,Wellman Precinct,Treasurer of State,,,Write-in,0,0,0
+Washington,West Chester Precinct,Treasurer of State,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,Secretary of Agriculture,,REP,Ray Gaesser,10,1,9
+Washington,Brighton/Marion/Crawford Precinct,Secretary of Agriculture,,REP,Ray Gaesser,17,1,16
+Washington,Kalona Precinct,Secretary of Agriculture,,REP,Ray Gaesser,5,0,5
+Washington,Riverside Precinct,Secretary of Agriculture,,REP,Ray Gaesser,2,0,2
+Washington,Ward One Precinct,Secretary of Agriculture,,REP,Ray Gaesser,6,1,5
+Washington,Ward Two Precinct,Secretary of Agriculture,,REP,Ray Gaesser,8,1,7
+Washington,Ward Three Precinct,Secretary of Agriculture,,REP,Ray Gaesser,10,0,10
+Washington,Ward Four Precinct,Secretary of Agriculture,,REP,Ray Gaesser,4,1,3
+Washington,Wellman Precinct,Secretary of Agriculture,,REP,Ray Gaesser,12,0,12
+Washington,West Chester Precinct,Secretary of Agriculture,,REP,Ray Gaesser,7,0,7
+Washington,Ainsworth Precinct,Secretary of Agriculture,,REP,Chad Ingels,4,0,4
+Washington,Brighton/Marion/Crawford Precinct,Secretary of Agriculture,,REP,Chad Ingels,14,1,13
+Washington,Kalona Precinct,Secretary of Agriculture,,REP,Chad Ingels,3,0,3
+Washington,Riverside Precinct,Secretary of Agriculture,,REP,Chad Ingels,1,0,1
+Washington,Ward One Precinct,Secretary of Agriculture,,REP,Chad Ingels,7,0,7
+Washington,Ward Two Precinct,Secretary of Agriculture,,REP,Chad Ingels,6,0,6
+Washington,Ward Three Precinct,Secretary of Agriculture,,REP,Chad Ingels,7,2,5
+Washington,Ward Four Precinct,Secretary of Agriculture,,REP,Chad Ingels,3,1,2
+Washington,Wellman Precinct,Secretary of Agriculture,,REP,Chad Ingels,7,0,7
+Washington,West Chester Precinct,Secretary of Agriculture,,REP,Chad Ingels,1,0,1
+Washington,Ainsworth Precinct,Secretary of Agriculture,,REP,Craig Lang,5,1,4
+Washington,Brighton/Marion/Crawford Precinct,Secretary of Agriculture,,REP,Craig Lang,28,11,17
+Washington,Kalona Precinct,Secretary of Agriculture,,REP,Craig Lang,19,1,18
+Washington,Riverside Precinct,Secretary of Agriculture,,REP,Craig Lang,3,0,3
+Washington,Ward One Precinct,Secretary of Agriculture,,REP,Craig Lang,6,1,5
+Washington,Ward Two Precinct,Secretary of Agriculture,,REP,Craig Lang,9,0,9
+Washington,Ward Three Precinct,Secretary of Agriculture,,REP,Craig Lang,23,2,21
+Washington,Ward Four Precinct,Secretary of Agriculture,,REP,Craig Lang,20,7,13
+Washington,Wellman Precinct,Secretary of Agriculture,,REP,Craig Lang,18,0,18
+Washington,West Chester Precinct,Secretary of Agriculture,,REP,Craig Lang,8,2,6
+Washington,Ainsworth Precinct,Secretary of Agriculture,,REP,Mike Naig,9,0,9
+Washington,Brighton/Marion/Crawford Precinct,Secretary of Agriculture,,REP,Mike Naig,44,16,28
+Washington,Kalona Precinct,Secretary of Agriculture,,REP,Mike Naig,28,4,24
+Washington,Riverside Precinct,Secretary of Agriculture,,REP,Mike Naig,17,0,17
+Washington,Ward One Precinct,Secretary of Agriculture,,REP,Mike Naig,6,1,5
+Washington,Ward Two Precinct,Secretary of Agriculture,,REP,Mike Naig,23,5,18
+Washington,Ward Three Precinct,Secretary of Agriculture,,REP,Mike Naig,25,3,22
+Washington,Ward Four Precinct,Secretary of Agriculture,,REP,Mike Naig,28,5,23
+Washington,Wellman Precinct,Secretary of Agriculture,,REP,Mike Naig,23,1,22
+Washington,West Chester Precinct,Secretary of Agriculture,,REP,Mike Naig,18,3,15
+Washington,Ainsworth Precinct,Secretary of Agriculture,,REP,Dan Zumbach,2,0,2
+Washington,Brighton/Marion/Crawford Precinct,Secretary of Agriculture,,REP,Dan Zumbach,13,5,8
+Washington,Kalona Precinct,Secretary of Agriculture,,REP,Dan Zumbach,17,1,16
+Washington,Riverside Precinct,Secretary of Agriculture,,REP,Dan Zumbach,2,0,2
+Washington,Ward One Precinct,Secretary of Agriculture,,REP,Dan Zumbach,10,2,8
+Washington,Ward Two Precinct,Secretary of Agriculture,,REP,Dan Zumbach,4,0,4
+Washington,Ward Three Precinct,Secretary of Agriculture,,REP,Dan Zumbach,10,0,10
+Washington,Ward Four Precinct,Secretary of Agriculture,,REP,Dan Zumbach,11,2,9
+Washington,Wellman Precinct,Secretary of Agriculture,,REP,Dan Zumbach,21,0,21
+Washington,West Chester Precinct,Secretary of Agriculture,,REP,Dan Zumbach,4,0,4
+Washington,Ainsworth Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Washington,Kalona Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Washington,Riverside Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Washington,Ward One Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Washington,Ward Two Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Washington,Ward Three Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Washington,Ward Four Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Washington,Wellman Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Washington,West Chester Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,Attorney General,,REP,Michael J. Allred,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Attorney General,,REP,Michael J. Allred,0,0,0
+Washington,Kalona Precinct,Attorney General,,REP,Michael J. Allred,0,0,0
+Washington,Riverside Precinct,Attorney General,,REP,Michael J. Allred,0,0,0
+Washington,Ward One Precinct,Attorney General,,REP,Michael J. Allred,0,0,0
+Washington,Ward Two Precinct,Attorney General,,REP,Michael J. Allred,0,0,0
+Washington,Ward Three Precinct,Attorney General,,REP,Michael J. Allred,0,0,0
+Washington,Ward Four Precinct,Attorney General,,REP,Michael J. Allred,0,0,0
+Washington,Wellman Precinct,Attorney General,,REP,Michael J. Allred,0,0,0
+Washington,West Chester Precinct,Attorney General,,REP,Michael J. Allred,1,0,1
+Washington,Ainsworth Precinct,Attorney General,,REP,Blank,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Attorney General,,REP,Blank,0,0,0
+Washington,Kalona Precinct,Attorney General,,REP,Blank,0,0,0
+Washington,Riverside Precinct,Attorney General,,REP,Blank,0,0,0
+Washington,Ward One Precinct,Attorney General,,REP,Blank,0,0,0
+Washington,Ward Two Precinct,Attorney General,,REP,Blank,0,0,0
+Washington,Ward Three Precinct,Attorney General,,REP,Blank,0,0,0
+Washington,Ward Four Precinct,Attorney General,,REP,Blank,1,1,0
+Washington,Wellman Precinct,Attorney General,,REP,Blank,1,0,1
+Washington,West Chester Precinct,Attorney General,,REP,Blank,0,0,0
+Washington,Ainsworth Precinct,Attorney General,,REP,Sam Clovis,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Attorney General,,REP,Sam Clovis,1,0,1
+Washington,Kalona Precinct,Attorney General,,REP,Sam Clovis,0,0,0
+Washington,Riverside Precinct,Attorney General,,REP,Sam Clovis,0,0,0
+Washington,Ward One Precinct,Attorney General,,REP,Sam Clovis,0,0,0
+Washington,Ward Two Precinct,Attorney General,,REP,Sam Clovis,0,0,0
+Washington,Ward Three Precinct,Attorney General,,REP,Sam Clovis,0,0,0
+Washington,Ward Four Precinct,Attorney General,,REP,Sam Clovis,0,0,0
+Washington,Wellman Precinct,Attorney General,,REP,Sam Clovis,0,0,0
+Washington,West Chester Precinct,Attorney General,,REP,Sam Clovis,0,0,0
+Washington,Ainsworth Precinct,Attorney General,,REP,Stephen Fersia,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Attorney General,,REP,Stephen Fersia,1,0,1
+Washington,Kalona Precinct,Attorney General,,REP,Stephen Fersia,0,0,0
+Washington,Riverside Precinct,Attorney General,,REP,Stephen Fersia,0,0,0
+Washington,Ward One Precinct,Attorney General,,REP,Stephen Fersia,0,0,0
+Washington,Ward Two Precinct,Attorney General,,REP,Stephen Fersia,0,0,0
+Washington,Ward Three Precinct,Attorney General,,REP,Stephen Fersia,0,0,0
+Washington,Ward Four Precinct,Attorney General,,REP,Stephen Fersia,0,0,0
+Washington,Wellman Precinct,Attorney General,,REP,Stephen Fersia,0,0,0
+Washington,West Chester Precinct,Attorney General,,REP,Stephen Fersia,0,0,0
+Washington,Ainsworth Precinct,Attorney General,,REP,Adam Greg,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Attorney General,,REP,Adam Greg,0,0,0
+Washington,Kalona Precinct,Attorney General,,REP,Adam Greg,0,0,0
+Washington,Riverside Precinct,Attorney General,,REP,Adam Greg,0,0,0
+Washington,Ward One Precinct,Attorney General,,REP,Adam Greg,0,0,0
+Washington,Ward Two Precinct,Attorney General,,REP,Adam Greg,0,0,0
+Washington,Ward Three Precinct,Attorney General,,REP,Adam Greg,0,0,0
+Washington,Ward Four Precinct,Attorney General,,REP,Adam Greg,0,0,0
+Washington,Wellman Precinct,Attorney General,,REP,Adam Greg,1,0,1
+Washington,West Chester Precinct,Attorney General,,REP,Adam Greg,0,0,0
+Washington,Ainsworth Precinct,Attorney General,,REP,Moe Howard,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Attorney General,,REP,Moe Howard,0,0,0
+Washington,Kalona Precinct,Attorney General,,REP,Moe Howard,0,0,0
+Washington,Riverside Precinct,Attorney General,,REP,Moe Howard,0,0,0
+Washington,Ward One Precinct,Attorney General,,REP,Moe Howard,0,0,0
+Washington,Ward Two Precinct,Attorney General,,REP,Moe Howard,0,0,0
+Washington,Ward Three Precinct,Attorney General,,REP,Moe Howard,1,0,1
+Washington,Ward Four Precinct,Attorney General,,REP,Moe Howard,0,0,0
+Washington,Wellman Precinct,Attorney General,,REP,Moe Howard,0,0,0
+Washington,West Chester Precinct,Attorney General,,REP,Moe Howard,0,0,0
+Washington,Ainsworth Precinct,Attorney General,,REP,Dan Kitchen,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Attorney General,,REP,Dan Kitchen,0,0,0
+Washington,Kalona Precinct,Attorney General,,REP,Dan Kitchen,0,0,0
+Washington,Riverside Precinct,Attorney General,,REP,Dan Kitchen,0,0,0
+Washington,Ward One Precinct,Attorney General,,REP,Dan Kitchen,0,0,0
+Washington,Ward Two Precinct,Attorney General,,REP,Dan Kitchen,0,0,0
+Washington,Ward Three Precinct,Attorney General,,REP,Dan Kitchen,1,0,1
+Washington,Ward Four Precinct,Attorney General,,REP,Dan Kitchen,0,0,0
+Washington,Wellman Precinct,Attorney General,,REP,Dan Kitchen,0,0,0
+Washington,West Chester Precinct,Attorney General,,REP,Dan Kitchen,0,0,0
+Washington,Ainsworth Precinct,Attorney General,,REP,Don Lowe,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Attorney General,,REP,Don Lowe,1,0,1
+Washington,Kalona Precinct,Attorney General,,REP,Don Lowe,0,0,0
+Washington,Riverside Precinct,Attorney General,,REP,Don Lowe,0,0,0
+Washington,Ward One Precinct,Attorney General,,REP,Don Lowe,0,0,0
+Washington,Ward Two Precinct,Attorney General,,REP,Don Lowe,0,0,0
+Washington,Ward Three Precinct,Attorney General,,REP,Don Lowe,0,0,0
+Washington,Ward Four Precinct,Attorney General,,REP,Don Lowe,0,0,0
+Washington,Wellman Precinct,Attorney General,,REP,Don Lowe,0,0,0
+Washington,West Chester Precinct,Attorney General,,REP,Don Lowe,0,0,0
+Washington,Ainsworth Precinct,Attorney General,,REP,"Tom Lucas, Jr.",0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Attorney General,,REP,"Tom Lucas, Jr.",0,0,0
+Washington,Kalona Precinct,Attorney General,,REP,"Tom Lucas, Jr.",0,0,0
+Washington,Riverside Precinct,Attorney General,,REP,"Tom Lucas, Jr.",0,0,0
+Washington,Ward One Precinct,Attorney General,,REP,"Tom Lucas, Jr.",0,0,0
+Washington,Ward Two Precinct,Attorney General,,REP,"Tom Lucas, Jr.",0,0,0
+Washington,Ward Three Precinct,Attorney General,,REP,"Tom Lucas, Jr.",0,0,0
+Washington,Ward Four Precinct,Attorney General,,REP,"Tom Lucas, Jr.",0,0,0
+Washington,Wellman Precinct,Attorney General,,REP,"Tom Lucas, Jr.",1,0,1
+Washington,West Chester Precinct,Attorney General,,REP,"Tom Lucas, Jr.",0,0,0
+Washington,Ainsworth Precinct,Attorney General,,REP,Rick Marlar,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Attorney General,,REP,Rick Marlar,0,0,0
+Washington,Kalona Precinct,Attorney General,,REP,Rick Marlar,0,0,0
+Washington,Riverside Precinct,Attorney General,,REP,Rick Marlar,0,0,0
+Washington,Ward One Precinct,Attorney General,,REP,Rick Marlar,0,0,0
+Washington,Ward Two Precinct,Attorney General,,REP,Rick Marlar,0,0,0
+Washington,Ward Three Precinct,Attorney General,,REP,Rick Marlar,1,0,1
+Washington,Ward Four Precinct,Attorney General,,REP,Rick Marlar,0,0,0
+Washington,Wellman Precinct,Attorney General,,REP,Rick Marlar,0,0,0
+Washington,West Chester Precinct,Attorney General,,REP,Rick Marlar,0,0,0
+Washington,Ainsworth Precinct,Attorney General,,REP,Dr. Miller-Meeks,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Attorney General,,REP,Dr. Miller-Meeks,0,0,0
+Washington,Kalona Precinct,Attorney General,,REP,Dr. Miller-Meeks,0,0,0
+Washington,Riverside Precinct,Attorney General,,REP,Dr. Miller-Meeks,0,0,0
+Washington,Ward One Precinct,Attorney General,,REP,Dr. Miller-Meeks,0,0,0
+Washington,Ward Two Precinct,Attorney General,,REP,Dr. Miller-Meeks,0,0,0
+Washington,Ward Three Precinct,Attorney General,,REP,Dr. Miller-Meeks,0,0,0
+Washington,Ward Four Precinct,Attorney General,,REP,Dr. Miller-Meeks,0,0,0
+Washington,Wellman Precinct,Attorney General,,REP,Dr. Miller-Meeks,1,0,1
+Washington,West Chester Precinct,Attorney General,,REP,Dr. Miller-Meeks,0,0,0
+Washington,Ainsworth Precinct,Attorney General,,REP,Dr. Dave Nacos,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Attorney General,,REP,Dr. Dave Nacos,0,0,0
+Washington,Kalona Precinct,Attorney General,,REP,Dr. Dave Nacos,0,0,0
+Washington,Riverside Precinct,Attorney General,,REP,Dr. Dave Nacos,0,0,0
+Washington,Ward One Precinct,Attorney General,,REP,Dr. Dave Nacos,0,0,0
+Washington,Ward Two Precinct,Attorney General,,REP,Dr. Dave Nacos,0,0,0
+Washington,Ward Three Precinct,Attorney General,,REP,Dr. Dave Nacos,0,0,0
+Washington,Ward Four Precinct,Attorney General,,REP,Dr. Dave Nacos,1,0,1
+Washington,Wellman Precinct,Attorney General,,REP,Dr. Dave Nacos,0,0,0
+Washington,West Chester Precinct,Attorney General,,REP,Dr. Dave Nacos,0,0,0
+Washington,Ainsworth Precinct,Attorney General,,REP,Shawn Showers,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Attorney General,,REP,Shawn Showers,0,0,0
+Washington,Kalona Precinct,Attorney General,,REP,Shawn Showers,1,0,1
+Washington,Riverside Precinct,Attorney General,,REP,Shawn Showers,0,0,0
+Washington,Ward One Precinct,Attorney General,,REP,Shawn Showers,0,0,0
+Washington,Ward Two Precinct,Attorney General,,REP,Shawn Showers,0,0,0
+Washington,Ward Three Precinct,Attorney General,,REP,Shawn Showers,0,0,0
+Washington,Ward Four Precinct,Attorney General,,REP,Shawn Showers,0,0,0
+Washington,Wellman Precinct,Attorney General,,REP,Shawn Showers,0,0,0
+Washington,West Chester Precinct,Attorney General,,REP,Shawn Showers,0,0,0
+Washington,Ainsworth Precinct,Attorney General,,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Attorney General,,,Write-in,0,0,0
+Washington,Kalona Precinct,Attorney General,,,Write-in,0,0,0
+Washington,Riverside Precinct,Attorney General,,,Write-in,0,0,0
+Washington,Ward One Precinct,Attorney General,,,Write-in,0,0,0
+Washington,Ward Two Precinct,Attorney General,,,Write-in,0,0,0
+Washington,Ward Three Precinct,Attorney General,,,Write-in,0,0,0
+Washington,Ward Four Precinct,Attorney General,,,Write-in,0,0,0
+Washington,Wellman Precinct,Attorney General,,,Write-in,0,0,0
+Washington,West Chester Precinct,Attorney General,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,State Senator District 39,,REP,Heather Hora,28,2,26
+Washington,Kalona Precinct,State Senator District 39,,REP,Heather Hora,78,8,70
+Washington,Riverside Precinct,State Senator District 39,,REP,Heather Hora,22,0,22
+Washington,Ward One Precinct,State Senator District 39,,REP,Heather Hora,41,5,36
+Washington,Ward Two Precinct,State Senator District 39,,REP,Heather Hora,42,6,36
+Washington,Ward Three Precinct,State Senator District 39,,REP,Heather Hora,80,8,72
+Washington,Ward Four Precinct,State Senator District 39,,REP,Heather Hora,61,15,46
+Washington,Wellman Precinct,State Senator District 39,,REP,Heather Hora,76,1,75
+Washington,West Chester Precinct,State Senator District 39,,REP,Heather Hora,32,5,27
+Washington,Ainsworth Precinct,State Senator District 39,,,Write-in,0,0,0
+Washington,Kalona Precinct,State Senator District 39,,,Write-in,0,0,0
+Washington,Riverside Precinct,State Senator District 39,,,Write-in,0,0,0
+Washington,Ward One Precinct,State Senator District 39,,,Write-in,0,0,0
+Washington,Ward Two Precinct,State Senator District 39,,,Write-in,0,0,0
+Washington,Ward Three Precinct,State Senator District 39,,,Write-in,0,0,0
+Washington,Ward Four Precinct,State Senator District 39,,,Write-in,0,0,0
+Washington,Wellman Precinct,State Senator District 39,,,Write-in,0,0,0
+Washington,West Chester Precinct,State Senator District 39,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,State Representative District  78,,REP,Jarad Klein,33,2,31
+Washington,Kalona Precinct,State Representative District  78,,REP,Jarad Klein,82,8,74
+Washington,Riverside Precinct,State Representative District  78,,REP,Jarad Klein,23,0,23
+Washington,Ward One Precinct,State Representative District  78,,REP,Jarad Klein,38,5,33
+Washington,Ward Two Precinct,State Representative District  78,,REP,Jarad Klein,44,5,39
+Washington,Ward Three Precinct,State Representative District  78,,REP,Jarad Klein,82,9,73
+Washington,Ward Four Precinct,State Representative District  78,,REP,Jarad Klein,66,19,47
+Washington,Wellman Precinct,State Representative District  78,,REP,Jarad Klein,85,1,84
+Washington,West Chester Precinct,State Representative District  78,,REP,Jarad Klein,35,5,30
+Washington,Ainsworth Precinct,State Representative District  78,,,Write-in,0,0,0
+Washington,Kalona Precinct,State Representative District  78,,,Write-in,0,0,0
+Washington,Riverside Precinct,State Representative District  78,,,Write-in,0,0,0
+Washington,Ward One Precinct,State Representative District  78,,,Write-in,0,0,0
+Washington,Ward Two Precinct,State Representative District  78,,,Write-in,0,0,0
+Washington,Ward Three Precinct,State Representative District  78,,,Write-in,0,0,0
+Washington,Ward Four Precinct,State Representative District  78,,,Write-in,0,0,0
+Washington,Wellman Precinct,State Representative District  78,,,Write-in,0,0,0
+Washington,West Chester Precinct,State Representative District  78,,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,State Representative District  84,,REP,Martin Amos,8,5,3
+Washington,Brighton/Marion/Crawford Precinct,State Representative District  84,,REP,Trevor Lynn,57,7,50
+Washington,Brighton/Marion/Crawford Precinct,State Representative District  84,,REP,Sheila Matheney,7,2,5
+Washington,Brighton/Marion/Crawford Precinct,State Representative District  84,,REP,Joe Mitchell,69,24,45
+Washington,Brighton/Marion/Crawford Precinct,State Representative District  84,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,County Board of Supervisors District 3,,REP,Abe Miller,32,2,30
+Washington,Brighton/Marion/Crawford Precinct,County Board of Supervisors District 3,,REP,Abe Miller,128,33,95
+Washington,Ainsworth Precinct,County Board of Supervisors District 3,,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Board of Supervisors District 3,,,Write-in,0,0,0
+Washington,Ward Two Precinct,County Board of Supervisors District 5,,REP,Richard Young,41,5,36
+Washington,Ward Three Precinct,County Board of Supervisors District 5,,REP,Richard Young,85,10,75
+Washington,Ward Two Precinct,County Board of Supervisors District 5,,,Write-in,0,0,0
+Washington,Ward Three Precinct,County Board of Supervisors District 5,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,County Treasurer,,REP,Jeffrey A. Garrett,33,2,31
+Washington,Brighton/Marion/Crawford Precinct,County Treasurer,,REP,Jeffrey A. Garrett,124,35,89
+Washington,Kalona Precinct,County Treasurer,,REP,Jeffrey A. Garrett,82,5,77
+Washington,Riverside Precinct,County Treasurer,,REP,Jeffrey A. Garrett,25,0,25
+Washington,Ward One Precinct,County Treasurer,,REP,Jeffrey A. Garrett,41,5,36
+Washington,Ward Two Precinct,County Treasurer,,REP,Jeffrey A. Garrett,49,7,42
+Washington,Ward Three Precinct,County Treasurer,,REP,Jeffrey A. Garrett,87,10,77
+Washington,Ward Four Precinct,County Treasurer,,REP,Jeffrey A. Garrett,71,19,52
+Washington,Wellman Precinct,County Treasurer,,REP,Jeffrey A. Garrett,79,1,78
+Washington,West Chester Precinct,County Treasurer,,REP,Jeffrey A. Garrett,33,5,28
+Washington,Ainsworth Precinct,County Treasurer,,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Treasurer,,,Write-in,0,0,0
+Washington,Kalona Precinct,County Treasurer,,,Write-in,0,0,0
+Washington,Riverside Precinct,County Treasurer,,,Write-in,0,0,0
+Washington,Ward One Precinct,County Treasurer,,,Write-in,0,0,0
+Washington,Ward Two Precinct,County Treasurer,,,Write-in,0,0,0
+Washington,Ward Three Precinct,County Treasurer,,,Write-in,0,0,0
+Washington,Ward Four Precinct,County Treasurer,,,Write-in,0,0,0
+Washington,Wellman Precinct,County Treasurer,,,Write-in,0,0,0
+Washington,West Chester Precinct,County Treasurer,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,County Recorder,,REP,Jo Ellen Greiner,34,2,32
+Washington,Brighton/Marion/Crawford Precinct,County Recorder,,REP,Jo Ellen Greiner,122,33,89
+Washington,Kalona Precinct,County Recorder,,REP,Jo Ellen Greiner,76,5,71
+Washington,Riverside Precinct,County Recorder,,REP,Jo Ellen Greiner,25,0,25
+Washington,Ward One Precinct,County Recorder,,REP,Jo Ellen Greiner,39,5,34
+Washington,Ward Two Precinct,County Recorder,,REP,Jo Ellen Greiner,48,7,41
+Washington,Ward Three Precinct,County Recorder,,REP,Jo Ellen Greiner,87,9,78
+Washington,Ward Four Precinct,County Recorder,,REP,Jo Ellen Greiner,67,19,48
+Washington,Wellman Precinct,County Recorder,,REP,Jo Ellen Greiner,77,1,76
+Washington,West Chester Precinct,County Recorder,,REP,Jo Ellen Greiner,35,5,30
+Washington,Ainsworth Precinct,County Recorder,,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Recorder,,,Write-in,0,0,0
+Washington,Kalona Precinct,County Recorder,,,Write-in,0,0,0
+Washington,Riverside Precinct,County Recorder,,,Write-in,0,0,0
+Washington,Ward One Precinct,County Recorder,,,Write-in,0,0,0
+Washington,Ward Two Precinct,County Recorder,,,Write-in,0,0,0
+Washington,Ward Three Precinct,County Recorder,,,Write-in,0,0,0
+Washington,Ward Four Precinct,County Recorder,,,Write-in,0,0,0
+Washington,Wellman Precinct,County Recorder,,,Write-in,0,0,0
+Washington,West Chester Precinct,County Recorder,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,County Attorney,,REP,John Gish,32,2,30
+Washington,Brighton/Marion/Crawford Precinct,County Attorney,,REP,John Gish,115,32,83
+Washington,Kalona Precinct,County Attorney,,REP,John Gish,71,6,65
+Washington,Riverside Precinct,County Attorney,,REP,John Gish,22,0,22
+Washington,Ward One Precinct,County Attorney,,REP,John Gish,40,5,35
+Washington,Ward Two Precinct,County Attorney,,REP,John Gish,41,4,37
+Washington,Ward Three Precinct,County Attorney,,REP,John Gish,86,10,76
+Washington,Ward Four Precinct,County Attorney,,REP,John Gish,65,18,47
+Washington,Wellman Precinct,County Attorney,,REP,John Gish,76,1,75
+Washington,West Chester Precinct,County Attorney,,REP,John Gish,34,5,29
+Washington,Ainsworth Precinct,County Attorney,,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Attorney,,,Write-in,0,0,0
+Washington,Kalona Precinct,County Attorney,,,Write-in,0,0,0
+Washington,Riverside Precinct,County Attorney,,,Write-in,0,0,0
+Washington,Ward One Precinct,County Attorney,,,Write-in,0,0,0
+Washington,Ward Two Precinct,County Attorney,,,Write-in,0,0,0
+Washington,Ward Three Precinct,County Attorney,,,Write-in,0,0,0
+Washington,Ward Four Precinct,County Attorney,,,Write-in,0,0,0
+Washington,Wellman Precinct,County Attorney,,,Write-in,0,0,0
+Washington,West Chester Precinct,County Attorney,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,United States Representative District 2,,DEM,Dave Loebsack,55,10,45
+Washington,Brighton/Marion/Crawford Precinct,United States Representative District 2,,DEM,Dave Loebsack,53,10,43
+Washington,Kalona Precinct,United States Representative District 2,,DEM,Dave Loebsack,109,19,90
+Washington,Riverside Precinct,United States Representative District 2,,DEM,Dave Loebsack,88,10,78
+Washington,Ward One Precinct,United States Representative District 2,,DEM,Dave Loebsack,77,12,65
+Washington,Ward Two Precinct,United States Representative District 2,,DEM,Dave Loebsack,57,12,45
+Washington,Ward Three Precinct,United States Representative District 2,,DEM,Dave Loebsack,92,22,70
+Washington,Ward Four Precinct,United States Representative District 2,,DEM,Dave Loebsack,95,36,59
+Washington,Wellman Precinct,United States Representative District 2,,DEM,Dave Loebsack,107,11,96
+Washington,West Chester Precinct,United States Representative District 2,,DEM,Dave Loebsack,33,5,28
+Washington,Ainsworth Precinct,Governor,,DEM,Nate Boulton,3,2,1
+Washington,Brighton/Marion/Crawford Precinct,Governor,,DEM,Nate Boulton,2,0,2
+Washington,Kalona Precinct,Governor,,DEM,Nate Boulton,5,4,1
+Washington,Riverside Precinct,Governor,,DEM,Nate Boulton,7,3,4
+Washington,Ward One Precinct,Governor,,DEM,Nate Boulton,4,2,2
+Washington,Ward Two Precinct,Governor,,DEM,Nate Boulton,4,2,2
+Washington,Ward Three Precinct,Governor,,DEM,Nate Boulton,5,3,2
+Washington,Ward Four Precinct,Governor,,DEM,Nate Boulton,4,4,0
+Washington,Wellman Precinct,Governor,,DEM,Nate Boulton,2,2,0
+Washington,West Chester Precinct,Governor,,DEM,Nate Boulton,3,0,3
+Washington,Ainsworth Precinct,Governor,,DEM,Cathy Glasson,10,3,7
+Washington,Brighton/Marion/Crawford Precinct,Governor,,DEM,Cathy Glasson,14,3,11
+Washington,Kalona Precinct,Governor,,DEM,Cathy Glasson,36,3,33
+Washington,Riverside Precinct,Governor,,DEM,Cathy Glasson,24,3,21
+Washington,Ward One Precinct,Governor,,DEM,Cathy Glasson,24,0,24
+Washington,Ward Two Precinct,Governor,,DEM,Cathy Glasson,14,2,12
+Washington,Ward Three Precinct,Governor,,DEM,Cathy Glasson,13,3,10
+Washington,Ward Four Precinct,Governor,,DEM,Cathy Glasson,22,3,19
+Washington,Wellman Precinct,Governor,,DEM,Cathy Glasson,31,4,27
+Washington,West Chester Precinct,Governor,,DEM,Cathy Glasson,11,2,9
+Washington,Ainsworth Precinct,Governor,,DEM,Fred Hubbell,41,5,36
+Washington,Brighton/Marion/Crawford Precinct,Governor,,DEM,Fred Hubbell,31,7,24
+Washington,Kalona Precinct,Governor,,DEM,Fred Hubbell,74,15,59
+Washington,Riverside Precinct,Governor,,DEM,Fred Hubbell,56,4,52
+Washington,Ward One Precinct,Governor,,DEM,Fred Hubbell,49,11,38
+Washington,Ward Two Precinct,Governor,,DEM,Fred Hubbell,32,7,25
+Washington,Ward Three Precinct,Governor,,DEM,Fred Hubbell,65,11,54
+Washington,Ward Four Precinct,Governor,,DEM,Fred Hubbell,66,28,38
+Washington,Wellman Precinct,Governor,,DEM,Fred Hubbell,62,5,57
+Washington,West Chester Precinct,Governor,,DEM,Fred Hubbell,16,1,15
+Washington,Ainsworth Precinct,Governor,,DEM,Andrea Andy McGuire,2,0,2
+Washington,Brighton/Marion/Crawford Precinct,Governor,,DEM,Andrea Andy McGuire,2,0,2
+Washington,Kalona Precinct,Governor,,DEM,Andrea Andy McGuire,3,1,2
+Washington,Riverside Precinct,Governor,,DEM,Andrea Andy McGuire,3,0,3
+Washington,Ward One Precinct,Governor,,DEM,Andrea Andy McGuire,4,1,3
+Washington,Ward Two Precinct,Governor,,DEM,Andrea Andy McGuire,3,0,3
+Washington,Ward Three Precinct,Governor,,DEM,Andrea Andy McGuire,6,1,5
+Washington,Ward Four Precinct,Governor,,DEM,Andrea Andy McGuire,3,0,3
+Washington,Wellman Precinct,Governor,,DEM,Andrea Andy McGuire,2,0,2
+Washington,West Chester Precinct,Governor,,DEM,Andrea Andy McGuire,0,0,0
+Washington,Ainsworth Precinct,Governor,,DEM,John Norris,5,0,5
+Washington,Brighton/Marion/Crawford Precinct,Governor,,DEM,John Norris,5,0,5
+Washington,Kalona Precinct,Governor,,DEM,John Norris,9,0,9
+Washington,Riverside Precinct,Governor,,DEM,John Norris,7,0,7
+Washington,Ward One Precinct,Governor,,DEM,John Norris,5,0,5
+Washington,Ward Two Precinct,Governor,,DEM,John Norris,7,2,5
+Washington,Ward Three Precinct,Governor,,DEM,John Norris,7,3,4
+Washington,Ward Four Precinct,Governor,,DEM,John Norris,10,2,8
+Washington,Wellman Precinct,Governor,,DEM,John Norris,12,0,12
+Washington,West Chester Precinct,Governor,,DEM,John Norris,5,2,3
+Washington,Ainsworth Precinct,Governor,,DEM,Ross Wilburn,2,1,1
+Washington,Brighton/Marion/Crawford Precinct,Governor,,DEM,Ross Wilburn,0,0,0
+Washington,Kalona Precinct,Governor,,DEM,Ross Wilburn,2,0,2
+Washington,Riverside Precinct,Governor,,DEM,Ross Wilburn,3,1,2
+Washington,Ward One Precinct,Governor,,DEM,Ross Wilburn,1,0,1
+Washington,Ward Two Precinct,Governor,,DEM,Ross Wilburn,1,0,1
+Washington,Ward Three Precinct,Governor,,DEM,Ross Wilburn,1,0,1
+Washington,Ward Four Precinct,Governor,,DEM,Ross Wilburn,1,0,1
+Washington,Wellman Precinct,Governor,,DEM,Ross Wilburn,4,0,4
+Washington,West Chester Precinct,Governor,,DEM,Ross Wilburn,0,0,0
+Washington,Ainsworth Precinct,Secretary of State,,DEM,Deidre DeJear,32,6,26
+Washington,Brighton/Marion/Crawford Precinct,Secretary of State,,DEM,Deidre DeJear,20,2,18
+Washington,Kalona Precinct,Secretary of State,,DEM,Deidre DeJear,64,11,53
+Washington,Riverside Precinct,Secretary of State,,DEM,Deidre DeJear,39,4,35
+Washington,Ward One Precinct,Secretary of State,,DEM,Deidre DeJear,52,6,46
+Washington,Ward Two Precinct,Secretary of State,,DEM,Deidre DeJear,30,5,25
+Washington,Ward Three Precinct,Secretary of State,,DEM,Deidre DeJear,48,8,40
+Washington,Ward Four Precinct,Secretary of State,,DEM,Deidre DeJear,44,16,28
+Washington,Wellman Precinct,Secretary of State,,DEM,Deidre DeJear,71,7,64
+Washington,West Chester Precinct,Secretary of State,,DEM,Deidre DeJear,23,2,21
+Washington,Ainsworth Precinct,Secretary of State,,DEM,Jim Mowrer,23,5,18
+Washington,Brighton/Marion/Crawford Precinct,Secretary of State,,DEM,Jim Mowrer,23,4,19
+Washington,Kalona Precinct,Secretary of State,,DEM,Jim Mowrer,41,5,36
+Washington,Riverside Precinct,Secretary of State,,DEM,Jim Mowrer,45,5,40
+Washington,Ward One Precinct,Secretary of State,,DEM,Jim Mowrer,21,4,17
+Washington,Ward Two Precinct,Secretary of State,,DEM,Jim Mowrer,23,5,18
+Washington,Ward Three Precinct,Secretary of State,,DEM,Jim Mowrer,25,8,17
+Washington,Ward Four Precinct,Secretary of State,,DEM,Jim Mowrer,44,12,32
+Washington,Wellman Precinct,Secretary of State,,DEM,Jim Mowrer,28,3,25
+Washington,West Chester Precinct,Secretary of State,,DEM,Jim Mowrer,7,3,4
+Washington,Ainsworth Precinct,Auditor of State,,DEM,Rob Sand,49,9,40
+Washington,Brighton/Marion/Crawford Precinct,Auditor of State,,DEM,Rob Sand,40,7,33
+Washington,Kalona Precinct,Auditor of State,,DEM,Rob Sand,98,18,80
+Washington,Riverside Precinct,Auditor of State,,DEM,Rob Sand,74,10,64
+Washington,Ward One Precinct,Auditor of State,,DEM,Rob Sand,66,11,55
+Washington,Ward Two Precinct,Auditor of State,,DEM,Rob Sand,54,10,44
+Washington,Ward Three Precinct,Auditor of State,,DEM,Rob Sand,78,17,61
+Washington,Ward Four Precinct,Auditor of State,,DEM,Rob Sand,79,30,49
+Washington,Wellman Precinct,Auditor of State,,DEM,Rob Sand,85,8,77
+Washington,West Chester Precinct,Auditor of State,,DEM,Rob Sand,27,4,23
+Washington,Ainsworth Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,55,11,44
+Washington,Brighton/Marion/Crawford Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,44,7,37
+Washington,Kalona Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,107,18,89
+Washington,Riverside Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,81,8,73
+Washington,Ward One Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,70,12,58
+Washington,Ward Two Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,56,10,46
+Washington,Ward Three Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,86,20,66
+Washington,Ward Four Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,85,32,53
+Washington,Wellman Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,89,8,81
+Washington,West Chester Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,32,5,27
+Washington,Ainsworth Precinct,Secretary of Agriculture,,DEM,Tim Gannon,51,10,41
+Washington,Brighton/Marion/Crawford Precinct,Secretary of Agriculture,,DEM,Tim Gannon,39,7,32
+Washington,Kalona Precinct,Secretary of Agriculture,,DEM,Tim Gannon,97,18,79
+Washington,Riverside Precinct,Secretary of Agriculture,,DEM,Tim Gannon,79,10,69
+Washington,Ward One Precinct,Secretary of Agriculture,,DEM,Tim Gannon,66,11,55
+Washington,Ward Two Precinct,Secretary of Agriculture,,DEM,Tim Gannon,51,9,42
+Washington,Ward Three Precinct,Secretary of Agriculture,,DEM,Tim Gannon,77,16,61
+Washington,Ward Four Precinct,Secretary of Agriculture,,DEM,Tim Gannon,79,29,50
+Washington,Wellman Precinct,Secretary of Agriculture,,DEM,Tim Gannon,88,8,80
+Washington,West Chester Precinct,Secretary of Agriculture,,DEM,Tim Gannon,30,4,26
+Washington,Ainsworth Precinct,Attorney General,,DEM,Tom Miller,56,11,45
+Washington,Brighton/Marion/Crawford Precinct,Attorney General,,DEM,Tom Miller,43,7,36
+Washington,Kalona Precinct,Attorney General,,DEM,Tom Miller,108,19,89
+Washington,Riverside Precinct,Attorney General,,DEM,Tom Miller,84,10,74
+Washington,Ward One Precinct,Attorney General,,DEM,Tom Miller,67,12,55
+Washington,Ward Two Precinct,Attorney General,,DEM,Tom Miller,55,11,44
+Washington,Ward Three Precinct,Attorney General,,DEM,Tom Miller,89,20,69
+Washington,Ward Four Precinct,Attorney General,,DEM,Tom Miller,86,31,55
+Washington,Wellman Precinct,Attorney General,,DEM,Tom Miller,94,9,85
+Washington,West Chester Precinct,Attorney General,,DEM,Tom Miller,31,5,26
+Washington,Ainsworth Precinct,State Senator District 39,,DEM,Kevin Kinney,56,11,45
+Washington,Kalona Precinct,State Senator District 39,,DEM,Kevin Kinney,101,19,82
+Washington,Riverside Precinct,State Senator District 39,,DEM,Kevin Kinney,88,10,78
+Washington,Ward One Precinct,State Senator District 39,,DEM,Kevin Kinney,66,12,54
+Washington,Ward Two Precinct,State Senator District 39,,DEM,Kevin Kinney,56,12,44
+Washington,Ward Three Precinct,State Senator District 39,,DEM,Kevin Kinney,83,21,62
+Washington,Ward Four Precinct,State Senator District 39,,DEM,Kevin Kinney,82,29,53
+Washington,Wellman Precinct,State Senator District 39,,DEM,Kevin Kinney,101,9,92
+Washington,West Chester Precinct,State Senator District 39,,DEM,Kevin Kinney,31,5,26
+Washington,Ainsworth Precinct,State Representative District  78,,DEM,Kimberly K. Davis,54,11,43
+Washington,Kalona Precinct,State Representative District  78,,DEM,Kimberly K. Davis,100,18,82
+Washington,Riverside Precinct,State Representative District  78,,DEM,Kimberly K. Davis,73,10,63
+Washington,Ward One Precinct,State Representative District  78,,DEM,Kimberly K. Davis,70,11,59
+Washington,Ward Two Precinct,State Representative District  78,,DEM,Kimberly K. Davis,52,9,43
+Washington,Ward Three Precinct,State Representative District  78,,DEM,Kimberly K. Davis,78,22,56
+Washington,Ward Four Precinct,State Representative District  78,,DEM,Kimberly K. Davis,76,28,48
+Washington,Wellman Precinct,State Representative District  78,,DEM,Kimberly K. Davis,88,9,79
+Washington,West Chester Precinct,State Representative District  78,,DEM,Kimberly K. Davis,31,4,27
+Washington,Brighton/Marion/Crawford Precinct,State Representative District  84,,DEM,Jason Moats,39,6,33
+Washington,Ainsworth Precinct,County Board of Supervisors District 3,,DEM,Blank,3,0,3
+Washington,Brighton/Marion/Crawford Precinct,County Board of Supervisors District 3,,DEM,Blank,1,0,1
+Washington,Ainsworth Precinct,County Board of Supervisors District 3,,DEM,Bret Campion,1,0,1
+Washington,Brighton/Marion/Crawford Precinct,County Board of Supervisors District 3,,DEM,Bret Campion,0,0,0
+Washington,Ainsworth Precinct,County Board of Supervisors District 3,,DEM,Doug Kleopfer,1,1,0
+Washington,Brighton/Marion/Crawford Precinct,County Board of Supervisors District 3,,DEM,Doug Kleopfer,0,0,0
+Washington,Ainsworth Precinct,County Board of Supervisors District 3,,DEM,Abe Miller,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Board of Supervisors District 3,,DEM,Abe Miller,3,0,3
+Washington,Ainsworth Precinct,County Board of Supervisors District 3,,DEM,John Norris,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Board of Supervisors District 3,,DEM,John Norris,1,1,0
+Washington,Ward Two Precinct,County Board of Supervisors District 5,,DEM,Larry Bartlett,0,0,0
+Washington,Ward Three Precinct,County Board of Supervisors District 5,,DEM,Larry Bartlett,1,0,1
+Washington,Ward Two Precinct,County Board of Supervisors District 5,,DEM,Blank,0,0,0
+Washington,Ward Three Precinct,County Board of Supervisors District 5,,DEM,Blank,3,0,3
+Washington,Ward Two Precinct,County Board of Supervisors District 5,,DEM,Amy Langr,1,0,1
+Washington,Ward Three Precinct,County Board of Supervisors District 5,,DEM,Amy Langr,0,0,0
+Washington,Ward Two Precinct,County Board of Supervisors District 5,,DEM,Bill Reha,1,0,1
+Washington,Ward Three Precinct,County Board of Supervisors District 5,,DEM,Bill Reha,0,0,0
+Washington,Ainsworth Precinct,County Treasurer,,DEM,Jub Biller,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Treasurer,,DEM,Jub Biller,0,0,0
+Washington,Kalona Precinct,County Treasurer,,DEM,Jub Biller,0,0,0
+Washington,Riverside Precinct,County Treasurer,,DEM,Jub Biller,0,0,0
+Washington,Ward One Precinct,County Treasurer,,DEM,Jub Biller,0,0,0
+Washington,Ward Two Precinct,County Treasurer,,DEM,Jub Biller,0,0,0
+Washington,Ward Three Precinct,County Treasurer,,DEM,Jub Biller,0,0,0
+Washington,Ward Four Precinct,County Treasurer,,DEM,Jub Biller,0,0,0
+Washington,Wellman Precinct,County Treasurer,,DEM,Jub Biller,1,0,1
+Washington,West Chester Precinct,County Treasurer,,DEM,Jub Biller,0,0,0
+Washington,Ainsworth Precinct,County Treasurer,,DEM,Blank,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Treasurer,,DEM,Blank,1,0,1
+Washington,Kalona Precinct,County Treasurer,,DEM,Blank,1,0,1
+Washington,Riverside Precinct,County Treasurer,,DEM,Blank,0,0,0
+Washington,Ward One Precinct,County Treasurer,,DEM,Blank,1,0,1
+Washington,Ward Two Precinct,County Treasurer,,DEM,Blank,0,0,0
+Washington,Ward Three Precinct,County Treasurer,,DEM,Blank,1,0,1
+Washington,Ward Four Precinct,County Treasurer,,DEM,Blank,2,0,2
+Washington,Wellman Precinct,County Treasurer,,DEM,Blank,1,0,1
+Washington,West Chester Precinct,County Treasurer,,DEM,Blank,0,0,0
+Washington,Ainsworth Precinct,County Treasurer,,DEM,Hillary Clinton,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Treasurer,,DEM,Hillary Clinton,0,0,0
+Washington,Kalona Precinct,County Treasurer,,DEM,Hillary Clinton,0,0,0
+Washington,Riverside Precinct,County Treasurer,,DEM,Hillary Clinton,0,0,0
+Washington,Ward One Precinct,County Treasurer,,DEM,Hillary Clinton,1,0,1
+Washington,Ward Two Precinct,County Treasurer,,DEM,Hillary Clinton,0,0,0
+Washington,Ward Three Precinct,County Treasurer,,DEM,Hillary Clinton,0,0,0
+Washington,Ward Four Precinct,County Treasurer,,DEM,Hillary Clinton,0,0,0
+Washington,Wellman Precinct,County Treasurer,,DEM,Hillary Clinton,0,0,0
+Washington,West Chester Precinct,County Treasurer,,DEM,Hillary Clinton,0,0,0
+Washington,Ainsworth Precinct,County Treasurer,,DEM,Jess Colburn,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Treasurer,,DEM,Jess Colburn,1,1,0
+Washington,Kalona Precinct,County Treasurer,,DEM,Jess Colburn,0,0,0
+Washington,Riverside Precinct,County Treasurer,,DEM,Jess Colburn,0,0,0
+Washington,Ward One Precinct,County Treasurer,,DEM,Jess Colburn,0,0,0
+Washington,Ward Two Precinct,County Treasurer,,DEM,Jess Colburn,0,0,0
+Washington,Ward Three Precinct,County Treasurer,,DEM,Jess Colburn,0,0,0
+Washington,Ward Four Precinct,County Treasurer,,DEM,Jess Colburn,0,0,0
+Washington,Wellman Precinct,County Treasurer,,DEM,Jess Colburn,0,0,0
+Washington,West Chester Precinct,County Treasurer,,DEM,Jess Colburn,0,0,0
+Washington,Ainsworth Precinct,County Treasurer,,DEM,D.R. Draheim,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Treasurer,,DEM,D.R. Draheim,0,0,0
+Washington,Kalona Precinct,County Treasurer,,DEM,D.R. Draheim,0,0,0
+Washington,Riverside Precinct,County Treasurer,,DEM,D.R. Draheim,0,0,0
+Washington,Ward One Precinct,County Treasurer,,DEM,D.R. Draheim,0,0,0
+Washington,Ward Two Precinct,County Treasurer,,DEM,D.R. Draheim,0,0,0
+Washington,Ward Three Precinct,County Treasurer,,DEM,D.R. Draheim,1,0,1
+Washington,Ward Four Precinct,County Treasurer,,DEM,D.R. Draheim,0,0,0
+Washington,Wellman Precinct,County Treasurer,,DEM,D.R. Draheim,0,0,0
+Washington,West Chester Precinct,County Treasurer,,DEM,D.R. Draheim,0,0,0
+Washington,Ainsworth Precinct,County Treasurer,,DEM,Jeff Garrett,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Treasurer,,DEM,Jeff Garrett,0,0,0
+Washington,Kalona Precinct,County Treasurer,,DEM,Jeff Garrett,0,0,0
+Washington,Riverside Precinct,County Treasurer,,DEM,Jeff Garrett,0,0,0
+Washington,Ward One Precinct,County Treasurer,,DEM,Jeff Garrett,0,0,0
+Washington,Ward Two Precinct,County Treasurer,,DEM,Jeff Garrett,0,0,0
+Washington,Ward Three Precinct,County Treasurer,,DEM,Jeff Garrett,1,1,0
+Washington,Ward Four Precinct,County Treasurer,,DEM,Jeff Garrett,1,1,0
+Washington,Wellman Precinct,County Treasurer,,DEM,Jeff Garrett,0,0,0
+Washington,West Chester Precinct,County Treasurer,,DEM,Jeff Garrett,2,1,1
+Washington,Ainsworth Precinct,County Treasurer,,DEM,Bill Reha,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Treasurer,,DEM,Bill Reha,0,0,0
+Washington,Kalona Precinct,County Treasurer,,DEM,Bill Reha,0,0,0
+Washington,Riverside Precinct,County Treasurer,,DEM,Bill Reha,0,0,0
+Washington,Ward One Precinct,County Treasurer,,DEM,Bill Reha,0,0,0
+Washington,Ward Two Precinct,County Treasurer,,DEM,Bill Reha,1,0,1
+Washington,Ward Three Precinct,County Treasurer,,DEM,Bill Reha,0,0,0
+Washington,Ward Four Precinct,County Treasurer,,DEM,Bill Reha,0,0,0
+Washington,Wellman Precinct,County Treasurer,,DEM,Bill Reha,0,0,0
+Washington,West Chester Precinct,County Treasurer,,DEM,Bill Reha,0,0,0
+Washington,Ainsworth Precinct,County Recorder,,DEM,Blank,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Recorder,,DEM,Blank,1,0,1
+Washington,Kalona Precinct,County Recorder,,DEM,Blank,0,0,0
+Washington,Riverside Precinct,County Recorder,,DEM,Blank,0,0,0
+Washington,Ward One Precinct,County Recorder,,DEM,Blank,1,1,0
+Washington,Ward Two Precinct,County Recorder,,DEM,Blank,0,0,0
+Washington,Ward Three Precinct,County Recorder,,DEM,Blank,1,0,1
+Washington,Ward Four Precinct,County Recorder,,DEM,Blank,0,0,0
+Washington,Wellman Precinct,County Recorder,,DEM,Blank,0,0,0
+Washington,West Chester Precinct,County Recorder,,DEM,Blank,0,0,0
+Washington,Ainsworth Precinct,County Recorder,,DEM,Nate Bolton,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Recorder,,DEM,Nate Bolton,1,1,0
+Washington,Kalona Precinct,County Recorder,,DEM,Nate Bolton,0,0,0
+Washington,Riverside Precinct,County Recorder,,DEM,Nate Bolton,0,0,0
+Washington,Ward One Precinct,County Recorder,,DEM,Nate Bolton,0,0,0
+Washington,Ward Two Precinct,County Recorder,,DEM,Nate Bolton,0,0,0
+Washington,Ward Three Precinct,County Recorder,,DEM,Nate Bolton,0,0,0
+Washington,Ward Four Precinct,County Recorder,,DEM,Nate Bolton,0,0,0
+Washington,Wellman Precinct,County Recorder,,DEM,Nate Bolton,0,0,0
+Washington,West Chester Precinct,County Recorder,,DEM,Nate Bolton,0,0,0
+Washington,Ainsworth Precinct,County Recorder,,DEM,Linda Boston,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Recorder,,DEM,Linda Boston,0,0,0
+Washington,Kalona Precinct,County Recorder,,DEM,Linda Boston,0,0,0
+Washington,Riverside Precinct,County Recorder,,DEM,Linda Boston,0,0,0
+Washington,Ward One Precinct,County Recorder,,DEM,Linda Boston,0,0,0
+Washington,Ward Two Precinct,County Recorder,,DEM,Linda Boston,0,0,0
+Washington,Ward Three Precinct,County Recorder,,DEM,Linda Boston,1,0,1
+Washington,Ward Four Precinct,County Recorder,,DEM,Linda Boston,0,0,0
+Washington,Wellman Precinct,County Recorder,,DEM,Linda Boston,0,0,0
+Washington,West Chester Precinct,County Recorder,,DEM,Linda Boston,0,0,0
+Washington,Ainsworth Precinct,County Recorder,,DEM,Hillary Clinton,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Recorder,,DEM,Hillary Clinton,0,0,0
+Washington,Kalona Precinct,County Recorder,,DEM,Hillary Clinton,0,0,0
+Washington,Riverside Precinct,County Recorder,,DEM,Hillary Clinton,0,0,0
+Washington,Ward One Precinct,County Recorder,,DEM,Hillary Clinton,1,0,1
+Washington,Ward Two Precinct,County Recorder,,DEM,Hillary Clinton,0,0,0
+Washington,Ward Three Precinct,County Recorder,,DEM,Hillary Clinton,0,0,0
+Washington,Ward Four Precinct,County Recorder,,DEM,Hillary Clinton,0,0,0
+Washington,Wellman Precinct,County Recorder,,DEM,Hillary Clinton,0,0,0
+Washington,West Chester Precinct,County Recorder,,DEM,Hillary Clinton,0,0,0
+Washington,Ainsworth Precinct,County Recorder,,DEM,Jo Greiner,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Recorder,,DEM,Jo Greiner,0,0,0
+Washington,Kalona Precinct,County Recorder,,DEM,Jo Greiner,0,0,0
+Washington,Riverside Precinct,County Recorder,,DEM,Jo Greiner,0,0,0
+Washington,Ward One Precinct,County Recorder,,DEM,Jo Greiner,0,0,0
+Washington,Ward Two Precinct,County Recorder,,DEM,Jo Greiner,0,0,0
+Washington,Ward Three Precinct,County Recorder,,DEM,Jo Greiner,1,1,0
+Washington,Ward Four Precinct,County Recorder,,DEM,Jo Greiner,0,0,0
+Washington,Wellman Precinct,County Recorder,,DEM,Jo Greiner,0,0,0
+Washington,West Chester Precinct,County Recorder,,DEM,Jo Greiner,2,1,1
+Washington,Ainsworth Precinct,County Recorder,,DEM,Lisa Nida,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Recorder,,DEM,Lisa Nida,0,0,0
+Washington,Kalona Precinct,County Recorder,,DEM,Lisa Nida,1,1,0
+Washington,Riverside Precinct,County Recorder,,DEM,Lisa Nida,0,0,0
+Washington,Ward One Precinct,County Recorder,,DEM,Lisa Nida,0,0,0
+Washington,Ward Two Precinct,County Recorder,,DEM,Lisa Nida,0,0,0
+Washington,Ward Three Precinct,County Recorder,,DEM,Lisa Nida,0,0,0
+Washington,Ward Four Precinct,County Recorder,,DEM,Lisa Nida,0,0,0
+Washington,Wellman Precinct,County Recorder,,DEM,Lisa Nida,0,0,0
+Washington,West Chester Precinct,County Recorder,,DEM,Lisa Nida,0,0,0
+Washington,Ainsworth Precinct,County Recorder,,DEM,Bill Reha,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Recorder,,DEM,Bill Reha,0,0,0
+Washington,Kalona Precinct,County Recorder,,DEM,Bill Reha,0,0,0
+Washington,Riverside Precinct,County Recorder,,DEM,Bill Reha,0,0,0
+Washington,Ward One Precinct,County Recorder,,DEM,Bill Reha,0,0,0
+Washington,Ward Two Precinct,County Recorder,,DEM,Bill Reha,1,0,1
+Washington,Ward Three Precinct,County Recorder,,DEM,Bill Reha,0,0,0
+Washington,Ward Four Precinct,County Recorder,,DEM,Bill Reha,0,0,0
+Washington,Wellman Precinct,County Recorder,,DEM,Bill Reha,0,0,0
+Washington,West Chester Precinct,County Recorder,,DEM,Bill Reha,0,0,0
+Washington,Ainsworth Precinct,County Attorney,,DEM,Tracy Anderson,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Attorney,,DEM,Tracy Anderson,0,0,0
+Washington,Kalona Precinct,County Attorney,,DEM,Tracy Anderson,3,0,3
+Washington,Riverside Precinct,County Attorney,,DEM,Tracy Anderson,0,0,0
+Washington,Ward One Precinct,County Attorney,,DEM,Tracy Anderson,0,0,0
+Washington,Ward Two Precinct,County Attorney,,DEM,Tracy Anderson,0,0,0
+Washington,Ward Three Precinct,County Attorney,,DEM,Tracy Anderson,0,0,0
+Washington,Ward Four Precinct,County Attorney,,DEM,Tracy Anderson,0,0,0
+Washington,Wellman Precinct,County Attorney,,DEM,Tracy Anderson,0,0,0
+Washington,West Chester Precinct,County Attorney,,DEM,Tracy Anderson,0,0,0
+Washington,Ainsworth Precinct,County Attorney,,DEM,Blank,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Attorney,,DEM,Blank,1,0,1
+Washington,Kalona Precinct,County Attorney,,DEM,Blank,0,0,0
+Washington,Riverside Precinct,County Attorney,,DEM,Blank,0,0,0
+Washington,Ward One Precinct,County Attorney,,DEM,Blank,1,1,0
+Washington,Ward Two Precinct,County Attorney,,DEM,Blank,0,0,0
+Washington,Ward Three Precinct,County Attorney,,DEM,Blank,1,0,1
+Washington,Ward Four Precinct,County Attorney,,DEM,Blank,0,0,0
+Washington,Wellman Precinct,County Attorney,,DEM,Blank,0,0,0
+Washington,West Chester Precinct,County Attorney,,DEM,Blank,0,0,0
+Washington,Ainsworth Precinct,County Attorney,,DEM,Hillary Clinton,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Attorney,,DEM,Hillary Clinton,0,0,0
+Washington,Kalona Precinct,County Attorney,,DEM,Hillary Clinton,0,0,0
+Washington,Riverside Precinct,County Attorney,,DEM,Hillary Clinton,0,0,0
+Washington,Ward One Precinct,County Attorney,,DEM,Hillary Clinton,1,0,1
+Washington,Ward Two Precinct,County Attorney,,DEM,Hillary Clinton,0,0,0
+Washington,Ward Three Precinct,County Attorney,,DEM,Hillary Clinton,0,0,0
+Washington,Ward Four Precinct,County Attorney,,DEM,Hillary Clinton,0,0,0
+Washington,Wellman Precinct,County Attorney,,DEM,Hillary Clinton,0,0,0
+Washington,West Chester Precinct,County Attorney,,DEM,Hillary Clinton,0,0,0
+Washington,Ainsworth Precinct,County Attorney,,DEM,Barb Edmondson,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Attorney,,DEM,Barb Edmondson,0,0,0
+Washington,Kalona Precinct,County Attorney,,DEM,Barb Edmondson,0,0,0
+Washington,Riverside Precinct,County Attorney,,DEM,Barb Edmondson,0,0,0
+Washington,Ward One Precinct,County Attorney,,DEM,Barb Edmondson,1,1,0
+Washington,Ward Two Precinct,County Attorney,,DEM,Barb Edmondson,1,0,1
+Washington,Ward Three Precinct,County Attorney,,DEM,Barb Edmondson,0,0,0
+Washington,Ward Four Precinct,County Attorney,,DEM,Barb Edmondson,0,0,0
+Washington,Wellman Precinct,County Attorney,,DEM,Barb Edmondson,1,1,0
+Washington,West Chester Precinct,County Attorney,,DEM,Barb Edmondson,0,0,0
+Washington,Ainsworth Precinct,County Attorney,,DEM,John Gish,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Attorney,,DEM,John Gish,0,0,0
+Washington,Kalona Precinct,County Attorney,,DEM,John Gish,0,0,0
+Washington,Riverside Precinct,County Attorney,,DEM,John Gish,0,0,0
+Washington,Ward One Precinct,County Attorney,,DEM,John Gish,0,0,0
+Washington,Ward Two Precinct,County Attorney,,DEM,John Gish,0,0,0
+Washington,Ward Three Precinct,County Attorney,,DEM,John Gish,1,1,0
+Washington,Ward Four Precinct,County Attorney,,DEM,John Gish,0,0,0
+Washington,Wellman Precinct,County Attorney,,DEM,John Gish,0,0,0
+Washington,West Chester Precinct,County Attorney,,DEM,John Gish,0,0,0
+Washington,Ainsworth Precinct,County Attorney,,DEM,Fred Hubbell,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Attorney,,DEM,Fred Hubbell,1,1,0
+Washington,Kalona Precinct,County Attorney,,DEM,Fred Hubbell,0,0,0
+Washington,Riverside Precinct,County Attorney,,DEM,Fred Hubbell,0,0,0
+Washington,Ward One Precinct,County Attorney,,DEM,Fred Hubbell,0,0,0
+Washington,Ward Two Precinct,County Attorney,,DEM,Fred Hubbell,0,0,0
+Washington,Ward Three Precinct,County Attorney,,DEM,Fred Hubbell,0,0,0
+Washington,Ward Four Precinct,County Attorney,,DEM,Fred Hubbell,0,0,0
+Washington,Wellman Precinct,County Attorney,,DEM,Fred Hubbell,0,0,0
+Washington,West Chester Precinct,County Attorney,,DEM,Fred Hubbell,0,0,0
+Washington,Ainsworth Precinct,County Attorney,,DEM,Kathy Salazar,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Attorney,,DEM,Kathy Salazar,0,0,0
+Washington,Kalona Precinct,County Attorney,,DEM,Kathy Salazar,0,0,0
+Washington,Riverside Precinct,County Attorney,,DEM,Kathy Salazar,0,0,0
+Washington,Ward One Precinct,County Attorney,,DEM,Kathy Salazar,1,0,1
+Washington,Ward Two Precinct,County Attorney,,DEM,Kathy Salazar,0,0,0
+Washington,Ward Three Precinct,County Attorney,,DEM,Kathy Salazar,0,0,0
+Washington,Ward Four Precinct,County Attorney,,DEM,Kathy Salazar,0,0,0
+Washington,Wellman Precinct,County Attorney,,DEM,Kathy Salazar,0,0,0
+Washington,West Chester Precinct,County Attorney,,DEM,Kathy Salazar,0,0,0
+Washington,Ainsworth Precinct,Governor,,LIB,Marco Battaglia,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,Governor,,LIB,Marco Battaglia,2,0,2
+Washington,Kalona Precinct,Governor,,LIB,Marco Battaglia,1,0,1
+Washington,Riverside Precinct,Governor,,LIB,Marco Battaglia,0,0,0
+Washington,Ward One Precinct,Governor,,LIB,Marco Battaglia,1,0,1
+Washington,Ward Two Precinct,Governor,,LIB,Marco Battaglia,0,0,0
+Washington,Ward Three Precinct,Governor,,LIB,Marco Battaglia,1,0,1
+Washington,Ward Four Precinct,Governor,,LIB,Marco Battaglia,0,0,0
+Washington,Wellman Precinct,Governor,,LIB,Marco Battaglia,0,0,0
+Washington,West Chester Precinct,Governor,,LIB,Marco Battaglia,0,0,0
+Washington,Ainsworth Precinct,Governor,,LIB,Jake Porter,1,0,1
+Washington,Brighton/Marion/Crawford Precinct,Governor,,LIB,Jake Porter,0,0,0
+Washington,Kalona Precinct,Governor,,LIB,Jake Porter,0,0,0
+Washington,Riverside Precinct,Governor,,LIB,Jake Porter,1,0,1
+Washington,Ward One Precinct,Governor,,LIB,Jake Porter,0,0,0
+Washington,Ward Two Precinct,Governor,,LIB,Jake Porter,5,0,5
+Washington,Ward Three Precinct,Governor,,LIB,Jake Porter,0,0,0
+Washington,Ward Four Precinct,Governor,,LIB,Jake Porter,1,0,1
+Washington,Wellman Precinct,Governor,,LIB,Jake Porter,0,0,0
+Washington,West Chester Precinct,Governor,,LIB,Jake Porter,0,0,0
+Washington,Ward Two Precinct,County Board of Supervisors District 5,,LIB,Blank,1,0,1
+Washington,Ward Three Precinct,County Board of Supervisors District 5,,LIB,Blank,0,0,0
+Washington,Ainsworth Precinct,County Treasurer,,LIB,Blank,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Treasurer,,LIB,Blank,0,0,0
+Washington,Kalona Precinct,County Treasurer,,LIB,Blank,0,0,0
+Washington,Riverside Precinct,County Treasurer,,LIB,Blank,0,0,0
+Washington,Ward One Precinct,County Treasurer,,LIB,Blank,0,0,0
+Washington,Ward Two Precinct,County Treasurer,,LIB,Blank,1,0,1
+Washington,Ward Three Precinct,County Treasurer,,LIB,Blank,0,0,0
+Washington,Ward Four Precinct,County Treasurer,,LIB,Blank,0,0,0
+Washington,Wellman Precinct,County Treasurer,,LIB,Blank,0,0,0
+Washington,West Chester Precinct,County Treasurer,,LIB,Blank,0,0,0
+Washington,Ainsworth Precinct,County Recorder,,LIB,Blank,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Recorder,,LIB,Blank,0,0,0
+Washington,Kalona Precinct,County Recorder,,LIB,Blank,0,0,0
+Washington,Riverside Precinct,County Recorder,,LIB,Blank,0,0,0
+Washington,Ward One Precinct,County Recorder,,LIB,Blank,0,0,0
+Washington,Ward Two Precinct,County Recorder,,LIB,Blank,1,0,1
+Washington,Ward Three Precinct,County Recorder,,LIB,Blank,0,0,0
+Washington,Ward Four Precinct,County Recorder,,LIB,Blank,0,0,0
+Washington,Wellman Precinct,County Recorder,,LIB,Blank,0,0,0
+Washington,West Chester Precinct,County Recorder,,LIB,Blank,0,0,0
+Washington,Ainsworth Precinct,County Attorney,,LIB,Blank,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Attorney,,LIB,Blank,0,0,0
+Washington,Kalona Precinct,County Attorney,,LIB,Blank,0,0,0
+Washington,Riverside Precinct,County Attorney,,LIB,Blank,0,0,0
+Washington,Ward One Precinct,County Attorney,,LIB,Blank,0,0,0
+Washington,Ward Two Precinct,County Attorney,,LIB,Blank,1,0,1
+Washington,Ward Three Precinct,County Attorney,,LIB,Blank,0,0,0
+Washington,Ward Four Precinct,County Attorney,,LIB,Blank,0,0,0
+Washington,Wellman Precinct,County Attorney,,LIB,Blank,0,0,0
+Washington,West Chester Precinct,County Attorney,,LIB,Blank,0,0,0
+Washington,Ainsworth Precinct,County Attorney,,LIB,John Gish,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,County Attorney,,LIB,John Gish,0,0,0
+Washington,Kalona Precinct,County Attorney,,LIB,John Gish,0,0,0
+Washington,Riverside Precinct,County Attorney,,LIB,John Gish,0,0,0
+Washington,Ward One Precinct,County Attorney,,LIB,John Gish,1,0,1
+Washington,Ward Two Precinct,County Attorney,,LIB,John Gish,0,0,0
+Washington,Ward Three Precinct,County Attorney,,LIB,John Gish,0,0,0
+Washington,Ward Four Precinct,County Attorney,,LIB,John Gish,0,0,0
+Washington,Wellman Precinct,County Attorney,,LIB,John Gish,0,0,0
+Washington,West Chester Precinct,County Attorney,,LIB,John Gish,0,0,0

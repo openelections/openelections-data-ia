@@ -1,0 +1,753 @@
+county,precinct,office,district,party,candidate,votes,absentee,polling
+Butler,1-GR,United States Representative District 4,,REP,Cyndi Hanson,52,1,51
+Butler,2-CL,United States Representative District 4,,REP,Cyndi Hanson,21,6,15
+Butler,3-DU,United States Representative District 4,,REP,Cyndi Hanson,11,2,9
+Butler,4-AL,United States Representative District 4,,REP,Cyndi Hanson,22,2,20
+Butler,5-AP,United States Representative District 4,,REP,Cyndi Hanson,60,7,53
+Butler,6-SR,United States Representative District 4,,REP,Cyndi Hanson,20,1,19
+Butler,7-PB,United States Representative District 4,,REP,Cyndi Hanson,93,0,93
+Butler,8-NH,United States Representative District 4,,REP,Cyndi Hanson,10,1,9
+Butler,1-GR,United States Representative District 4,,REP,Steve King,87,6,81
+Butler,2-CL,United States Representative District 4,,REP,Steve King,53,2,51
+Butler,3-DU,United States Representative District 4,,REP,Steve King,48,5,43
+Butler,4-AL,United States Representative District 4,,REP,Steve King,73,9,64
+Butler,5-AP,United States Representative District 4,,REP,Steve King,169,16,153
+Butler,6-SR,United States Representative District 4,,REP,Steve King,59,1,58
+Butler,7-PB,United States Representative District 4,,REP,Steve King,211,9,202
+Butler,8-NH,United States Representative District 4,,REP,Steve King,28,5,23
+Butler,1-GR,United States Representative District 4,,,Write-in,0,0,0
+Butler,2-CL,United States Representative District 4,,,Write-in,0,0,0
+Butler,3-DU,United States Representative District 4,,,Write-in,0,0,0
+Butler,4-AL,United States Representative District 4,,,Write-in,0,0,0
+Butler,5-AP,United States Representative District 4,,,Write-in,0,0,0
+Butler,6-SR,United States Representative District 4,,,Write-in,0,0,0
+Butler,7-PB,United States Representative District 4,,,Write-in,0,0,0
+Butler,8-NH,United States Representative District 4,,,Write-in,0,0,0
+Butler,1-GR,Governor,,REP,Kim Reynolds,123,8,115
+Butler,2-CL,Governor,,REP,Kim Reynolds,72,8,64
+Butler,3-DU,Governor,,REP,Kim Reynolds,54,5,49
+Butler,4-AL,Governor,,REP,Kim Reynolds,93,13,80
+Butler,5-AP,Governor,,REP,Kim Reynolds,227,23,204
+Butler,6-SR,Governor,,REP,Kim Reynolds,73,2,71
+Butler,7-PB,Governor,,REP,Kim Reynolds,285,10,275
+Butler,8-NH,Governor,,REP,Kim Reynolds,40,6,34
+Butler,1-GR,Governor,,,Write-in,0,0,0
+Butler,2-CL,Governor,,,Write-in,0,0,0
+Butler,3-DU,Governor,,,Write-in,0,0,0
+Butler,4-AL,Governor,,,Write-in,0,0,0
+Butler,5-AP,Governor,,,Write-in,0,0,0
+Butler,6-SR,Governor,,,Write-in,0,0,0
+Butler,7-PB,Governor,,,Write-in,0,0,0
+Butler,8-NH,Governor,,,Write-in,0,0,0
+Butler,1-GR,Secretary of State,,REP,Paul D. Pate,111,5,106
+Butler,2-CL,Secretary of State,,REP,Paul D. Pate,65,8,57
+Butler,3-DU,Secretary of State,,REP,Paul D. Pate,54,8,46
+Butler,4-AL,Secretary of State,,REP,Paul D. Pate,83,12,71
+Butler,5-AP,Secretary of State,,REP,Paul D. Pate,206,20,186
+Butler,6-SR,Secretary of State,,REP,Paul D. Pate,66,2,64
+Butler,7-PB,Secretary of State,,REP,Paul D. Pate,273,8,265
+Butler,8-NH,Secretary of State,,REP,Paul D. Pate,38,6,32
+Butler,1-GR,Secretary of State,,,Write-in,0,0,0
+Butler,2-CL,Secretary of State,,,Write-in,0,0,0
+Butler,3-DU,Secretary of State,,,Write-in,0,0,0
+Butler,4-AL,Secretary of State,,,Write-in,0,0,0
+Butler,5-AP,Secretary of State,,,Write-in,0,0,0
+Butler,6-SR,Secretary of State,,,Write-in,0,0,0
+Butler,7-PB,Secretary of State,,,Write-in,0,0,0
+Butler,8-NH,Secretary of State,,,Write-in,0,0,0
+Butler,1-GR,Auditor of State,,REP,Mary Mosiman,103,6,97
+Butler,2-CL,Auditor of State,,REP,Mary Mosiman,64,8,56
+Butler,3-DU,Auditor of State,,REP,Mary Mosiman,51,7,44
+Butler,4-AL,Auditor of State,,REP,Mary Mosiman,79,12,67
+Butler,5-AP,Auditor of State,,REP,Mary Mosiman,201,20,181
+Butler,6-SR,Auditor of State,,REP,Mary Mosiman,64,2,62
+Butler,7-PB,Auditor of State,,REP,Mary Mosiman,266,9,257
+Butler,8-NH,Auditor of State,,REP,Mary Mosiman,35,4,31
+Butler,1-GR,Auditor of State,,,Write-in,0,0,0
+Butler,2-CL,Auditor of State,,,Write-in,0,0,0
+Butler,3-DU,Auditor of State,,,Write-in,0,0,0
+Butler,4-AL,Auditor of State,,,Write-in,0,0,0
+Butler,5-AP,Auditor of State,,,Write-in,0,0,0
+Butler,6-SR,Auditor of State,,,Write-in,0,0,0
+Butler,7-PB,Auditor of State,,,Write-in,0,0,0
+Butler,8-NH,Auditor of State,,,Write-in,0,0,0
+Butler,1-GR,Treasurer of State,,REP,Blank,2,0,2
+Butler,2-CL,Treasurer of State,,REP,Blank,0,0,0
+Butler,3-DU,Treasurer of State,,REP,Blank,0,0,0
+Butler,4-AL,Treasurer of State,,REP,Blank,1,0,1
+Butler,5-AP,Treasurer of State,,REP,Blank,0,0,0
+Butler,6-SR,Treasurer of State,,REP,Blank,1,0,1
+Butler,7-PB,Treasurer of State,,REP,Blank,5,0,5
+Butler,8-NH,Treasurer of State,,REP,Blank,1,0,1
+Butler,1-GR,Treasurer of State,,REP,Cory Troyna,0,0,0
+Butler,2-CL,Treasurer of State,,REP,Cory Troyna,0,0,0
+Butler,3-DU,Treasurer of State,,REP,Cory Troyna,0,0,0
+Butler,4-AL,Treasurer of State,,REP,Cory Troyna,0,0,0
+Butler,5-AP,Treasurer of State,,REP,Cory Troyna,1,0,1
+Butler,6-SR,Treasurer of State,,REP,Cory Troyna,0,0,0
+Butler,7-PB,Treasurer of State,,REP,Cory Troyna,0,0,0
+Butler,8-NH,Treasurer of State,,REP,Cory Troyna,0,0,0
+Butler,1-GR,Treasurer of State,,REP,Roxey Nickols,0,0,0
+Butler,2-CL,Treasurer of State,,REP,Roxey Nickols,0,0,0
+Butler,3-DU,Treasurer of State,,REP,Roxey Nickols,0,0,0
+Butler,4-AL,Treasurer of State,,REP,Roxey Nickols,0,0,0
+Butler,5-AP,Treasurer of State,,REP,Roxey Nickols,0,0,0
+Butler,6-SR,Treasurer of State,,REP,Roxey Nickols,0,0,0
+Butler,7-PB,Treasurer of State,,REP,Roxey Nickols,1,0,1
+Butler,8-NH,Treasurer of State,,REP,Roxey Nickols,0,0,0
+Butler,1-GR,Treasurer of State,,REP,Emily Klinkenborge,0,0,0
+Butler,2-CL,Treasurer of State,,REP,Emily Klinkenborge,0,0,0
+Butler,3-DU,Treasurer of State,,REP,Emily Klinkenborge,0,0,0
+Butler,4-AL,Treasurer of State,,REP,Emily Klinkenborge,0,0,0
+Butler,5-AP,Treasurer of State,,REP,Emily Klinkenborge,0,0,0
+Butler,6-SR,Treasurer of State,,REP,Emily Klinkenborge,0,0,0
+Butler,7-PB,Treasurer of State,,REP,Emily Klinkenborge,1,0,1
+Butler,8-NH,Treasurer of State,,REP,Emily Klinkenborge,0,0,0
+Butler,1-GR,Treasurer of State,,REP,Mikael Timmer,0,0,0
+Butler,2-CL,Treasurer of State,,REP,Mikael Timmer,0,0,0
+Butler,3-DU,Treasurer of State,,REP,Mikael Timmer,0,0,0
+Butler,4-AL,Treasurer of State,,REP,Mikael Timmer,0,0,0
+Butler,5-AP,Treasurer of State,,REP,Mikael Timmer,0,0,0
+Butler,6-SR,Treasurer of State,,REP,Mikael Timmer,0,0,0
+Butler,7-PB,Treasurer of State,,REP,Mikael Timmer,1,0,1
+Butler,8-NH,Treasurer of State,,REP,Mikael Timmer,0,0,0
+Butler,1-GR,Treasurer of State,,REP,Emily Russel,0,0,0
+Butler,2-CL,Treasurer of State,,REP,Emily Russel,0,0,0
+Butler,3-DU,Treasurer of State,,REP,Emily Russel,0,0,0
+Butler,4-AL,Treasurer of State,,REP,Emily Russel,0,0,0
+Butler,5-AP,Treasurer of State,,REP,Emily Russel,0,0,0
+Butler,6-SR,Treasurer of State,,REP,Emily Russel,0,0,0
+Butler,7-PB,Treasurer of State,,REP,Emily Russel,2,0,2
+Butler,8-NH,Treasurer of State,,REP,Emily Russel,0,0,0
+Butler,1-GR,Treasurer of State,,REP,Mike Fitzgerald,0,0,0
+Butler,2-CL,Treasurer of State,,REP,Mike Fitzgerald,0,0,0
+Butler,3-DU,Treasurer of State,,REP,Mike Fitzgerald,1,1,0
+Butler,4-AL,Treasurer of State,,REP,Mike Fitzgerald,0,0,0
+Butler,5-AP,Treasurer of State,,REP,Mike Fitzgerald,0,0,0
+Butler,6-SR,Treasurer of State,,REP,Mike Fitzgerald,0,0,0
+Butler,7-PB,Treasurer of State,,REP,Mike Fitzgerald,0,0,0
+Butler,8-NH,Treasurer of State,,REP,Mike Fitzgerald,0,0,0
+Butler,1-GR,Treasurer of State,,,Write-in,0,0,0
+Butler,2-CL,Treasurer of State,,,Write-in,0,0,0
+Butler,3-DU,Treasurer of State,,,Write-in,0,0,0
+Butler,4-AL,Treasurer of State,,,Write-in,0,0,0
+Butler,5-AP,Treasurer of State,,,Write-in,0,0,0
+Butler,6-SR,Treasurer of State,,,Write-in,0,0,0
+Butler,7-PB,Treasurer of State,,,Write-in,0,0,0
+Butler,8-NH,Treasurer of State,,,Write-in,0,0,0
+Butler,1-GR,Secretary of Agriculture,,REP,Ray Gaesser,32,1,31
+Butler,2-CL,Secretary of Agriculture,,REP,Ray Gaesser,15,2,13
+Butler,3-DU,Secretary of Agriculture,,REP,Ray Gaesser,7,0,7
+Butler,4-AL,Secretary of Agriculture,,REP,Ray Gaesser,4,0,4
+Butler,5-AP,Secretary of Agriculture,,REP,Ray Gaesser,27,0,27
+Butler,6-SR,Secretary of Agriculture,,REP,Ray Gaesser,20,1,19
+Butler,7-PB,Secretary of Agriculture,,REP,Ray Gaesser,52,1,51
+Butler,8-NH,Secretary of Agriculture,,REP,Ray Gaesser,3,0,3
+Butler,1-GR,Secretary of Agriculture,,REP,Chad Ingels,18,0,18
+Butler,2-CL,Secretary of Agriculture,,REP,Chad Ingels,8,1,7
+Butler,3-DU,Secretary of Agriculture,,REP,Chad Ingels,2,0,2
+Butler,4-AL,Secretary of Agriculture,,REP,Chad Ingels,9,1,8
+Butler,5-AP,Secretary of Agriculture,,REP,Chad Ingels,21,3,18
+Butler,6-SR,Secretary of Agriculture,,REP,Chad Ingels,7,0,7
+Butler,7-PB,Secretary of Agriculture,,REP,Chad Ingels,65,3,62
+Butler,8-NH,Secretary of Agriculture,,REP,Chad Ingels,1,0,1
+Butler,1-GR,Secretary of Agriculture,,REP,Craig Lang,22,2,20
+Butler,2-CL,Secretary of Agriculture,,REP,Craig Lang,23,2,21
+Butler,3-DU,Secretary of Agriculture,,REP,Craig Lang,18,4,14
+Butler,4-AL,Secretary of Agriculture,,REP,Craig Lang,24,6,18
+Butler,5-AP,Secretary of Agriculture,,REP,Craig Lang,44,3,41
+Butler,6-SR,Secretary of Agriculture,,REP,Craig Lang,12,1,11
+Butler,7-PB,Secretary of Agriculture,,REP,Craig Lang,50,1,49
+Butler,8-NH,Secretary of Agriculture,,REP,Craig Lang,10,2,8
+Butler,1-GR,Secretary of Agriculture,,REP,Mike Naig,28,1,27
+Butler,2-CL,Secretary of Agriculture,,REP,Mike Naig,13,0,13
+Butler,3-DU,Secretary of Agriculture,,REP,Mike Naig,16,1,15
+Butler,4-AL,Secretary of Agriculture,,REP,Mike Naig,28,1,27
+Butler,5-AP,Secretary of Agriculture,,REP,Mike Naig,56,9,47
+Butler,6-SR,Secretary of Agriculture,,REP,Mike Naig,10,0,10
+Butler,7-PB,Secretary of Agriculture,,REP,Mike Naig,48,3,45
+Butler,8-NH,Secretary of Agriculture,,REP,Mike Naig,13,3,10
+Butler,1-GR,Secretary of Agriculture,,REP,Dan Zumbach,19,0,19
+Butler,2-CL,Secretary of Agriculture,,REP,Dan Zumbach,9,0,9
+Butler,3-DU,Secretary of Agriculture,,REP,Dan Zumbach,9,0,9
+Butler,4-AL,Secretary of Agriculture,,REP,Dan Zumbach,10,0,10
+Butler,5-AP,Secretary of Agriculture,,REP,Dan Zumbach,42,4,38
+Butler,6-SR,Secretary of Agriculture,,REP,Dan Zumbach,15,0,15
+Butler,7-PB,Secretary of Agriculture,,REP,Dan Zumbach,45,1,44
+Butler,8-NH,Secretary of Agriculture,,REP,Dan Zumbach,10,1,9
+Butler,1-GR,Secretary of Agriculture,,,Write-in,0,0,0
+Butler,2-CL,Secretary of Agriculture,,,Write-in,0,0,0
+Butler,3-DU,Secretary of Agriculture,,,Write-in,0,0,0
+Butler,4-AL,Secretary of Agriculture,,,Write-in,0,0,0
+Butler,5-AP,Secretary of Agriculture,,,Write-in,0,0,0
+Butler,6-SR,Secretary of Agriculture,,,Write-in,0,0,0
+Butler,7-PB,Secretary of Agriculture,,,Write-in,0,0,0
+Butler,8-NH,Secretary of Agriculture,,,Write-in,0,0,0
+Butler,1-GR,Attorney General,,REP,Blank,1,0,1
+Butler,2-CL,Attorney General,,REP,Blank,0,0,0
+Butler,3-DU,Attorney General,,REP,Blank,0,0,0
+Butler,4-AL,Attorney General,,REP,Blank,1,0,1
+Butler,5-AP,Attorney General,,REP,Blank,0,0,0
+Butler,6-SR,Attorney General,,REP,Blank,1,0,1
+Butler,7-PB,Attorney General,,REP,Blank,4,0,4
+Butler,8-NH,Attorney General,,REP,Blank,1,0,1
+Butler,1-GR,Attorney General,,REP,Tom Miller,0,0,0
+Butler,2-CL,Attorney General,,REP,Tom Miller,0,0,0
+Butler,3-DU,Attorney General,,REP,Tom Miller,1,1,0
+Butler,4-AL,Attorney General,,REP,Tom Miller,0,0,0
+Butler,5-AP,Attorney General,,REP,Tom Miller,0,0,0
+Butler,6-SR,Attorney General,,REP,Tom Miller,0,0,0
+Butler,7-PB,Attorney General,,REP,Tom Miller,0,0,0
+Butler,8-NH,Attorney General,,REP,Tom Miller,0,0,0
+Butler,1-GR,Attorney General,,REP,Greg Lievens,0,0,0
+Butler,2-CL,Attorney General,,REP,Greg Lievens,0,0,0
+Butler,3-DU,Attorney General,,REP,Greg Lievens,0,0,0
+Butler,4-AL,Attorney General,,REP,Greg Lievens,0,0,0
+Butler,5-AP,Attorney General,,REP,Greg Lievens,0,0,0
+Butler,6-SR,Attorney General,,REP,Greg Lievens,0,0,0
+Butler,7-PB,Attorney General,,REP,Greg Lievens,1,0,1
+Butler,8-NH,Attorney General,,REP,Greg Lievens,0,0,0
+Butler,1-GR,Attorney General,,REP,Marty Petersen,0,0,0
+Butler,2-CL,Attorney General,,REP,Marty Petersen,0,0,0
+Butler,3-DU,Attorney General,,REP,Marty Petersen,0,0,0
+Butler,4-AL,Attorney General,,REP,Marty Petersen,0,0,0
+Butler,5-AP,Attorney General,,REP,Marty Petersen,0,0,0
+Butler,6-SR,Attorney General,,REP,Marty Petersen,0,0,0
+Butler,7-PB,Attorney General,,REP,Marty Petersen,1,0,1
+Butler,8-NH,Attorney General,,REP,Marty Petersen,0,0,0
+Butler,1-GR,Attorney General,,REP,Cam Shultz,0,0,0
+Butler,2-CL,Attorney General,,REP,Cam Shultz,0,0,0
+Butler,3-DU,Attorney General,,REP,Cam Shultz,0,0,0
+Butler,4-AL,Attorney General,,REP,Cam Shultz,0,0,0
+Butler,5-AP,Attorney General,,REP,Cam Shultz,0,0,0
+Butler,6-SR,Attorney General,,REP,Cam Shultz,0,0,0
+Butler,7-PB,Attorney General,,REP,Cam Shultz,1,0,1
+Butler,8-NH,Attorney General,,REP,Cam Shultz,0,0,0
+Butler,1-GR,Attorney General,,REP,Emily Russell,0,0,0
+Butler,2-CL,Attorney General,,REP,Emily Russell,0,0,0
+Butler,3-DU,Attorney General,,REP,Emily Russell,0,0,0
+Butler,4-AL,Attorney General,,REP,Emily Russell,0,0,0
+Butler,5-AP,Attorney General,,REP,Emily Russell,0,0,0
+Butler,6-SR,Attorney General,,REP,Emily Russell,0,0,0
+Butler,7-PB,Attorney General,,REP,Emily Russell,1,0,1
+Butler,8-NH,Attorney General,,REP,Emily Russell,0,0,0
+Butler,1-GR,Attorney General,,REP,Ben Bashenville,0,0,0
+Butler,2-CL,Attorney General,,REP,Ben Bashenville,0,0,0
+Butler,3-DU,Attorney General,,REP,Ben Bashenville,0,0,0
+Butler,4-AL,Attorney General,,REP,Ben Bashenville,0,0,0
+Butler,5-AP,Attorney General,,REP,Ben Bashenville,1,0,1
+Butler,6-SR,Attorney General,,REP,Ben Bashenville,0,0,0
+Butler,7-PB,Attorney General,,REP,Ben Bashenville,0,0,0
+Butler,8-NH,Attorney General,,REP,Ben Bashenville,0,0,0
+Butler,1-GR,Attorney General,,,Write-in,0,0,0
+Butler,2-CL,Attorney General,,,Write-in,0,0,0
+Butler,3-DU,Attorney General,,,Write-in,0,0,0
+Butler,4-AL,Attorney General,,,Write-in,0,0,0
+Butler,5-AP,Attorney General,,,Write-in,0,0,0
+Butler,6-SR,Attorney General,,,Write-in,0,0,0
+Butler,7-PB,Attorney General,,,Write-in,0,0,0
+Butler,8-NH,Attorney General,,,Write-in,0,0,0
+Butler,5-AP,State Senator District 25,,REP,Chad J. Buss,81,9,72
+Butler,6-SR,State Senator District 25,,REP,Chad J. Buss,15,1,14
+Butler,7-PB,State Senator District 25,,REP,Chad J. Buss,110,2,108
+Butler,8-NH,State Senator District 25,,REP,Chad J. Buss,7,0,7
+Butler,5-AP,State Senator District 25,,REP,Annette Sweeney,152,12,140
+Butler,6-SR,State Senator District 25,,REP,Annette Sweeney,56,1,55
+Butler,7-PB,State Senator District 25,,REP,Annette Sweeney,213,7,206
+Butler,8-NH,State Senator District 25,,REP,Annette Sweeney,32,6,26
+Butler,5-AP,State Senator District 25,,,Write-in,0,0,0
+Butler,6-SR,State Senator District 25,,,Write-in,0,0,0
+Butler,7-PB,State Senator District 25,,,Write-in,0,0,0
+Butler,8-NH,State Senator District 25,,,Write-in,0,0,0
+Butler,1-GR,State Senator District 27,,REP,Shannon Latham,122,7,115
+Butler,2-CL,State Senator District 27,,REP,Shannon Latham,64,7,57
+Butler,3-DU,State Senator District 27,,REP,Shannon Latham,52,6,46
+Butler,4-AL,State Senator District 27,,REP,Shannon Latham,78,12,66
+Butler,1-GR,State Senator District 27,,,Write-in,0,0,0
+Butler,2-CL,State Senator District 27,,,Write-in,0,0,0
+Butler,3-DU,State Senator District 27,,,Write-in,0,0,0
+Butler,4-AL,State Senator District 27,,,Write-in,0,0,0
+Butler,5-AP,State Representative District  50,,REP,Pat Grassley,220,22,198
+Butler,6-SR,State Representative District  50,,REP,Pat Grassley,72,2,70
+Butler,7-PB,State Representative District  50,,REP,Pat Grassley,285,9,276
+Butler,8-NH,State Representative District  50,,REP,Pat Grassley,39,6,33
+Butler,5-AP,State Representative District  50,,,Write-in,0,0,0
+Butler,6-SR,State Representative District  50,,,Write-in,0,0,0
+Butler,7-PB,State Representative District  50,,,Write-in,0,0,0
+Butler,8-NH,State Representative District  50,,,Write-in,0,0,0
+Butler,1-GR,State Representative District  54,,REP,Linda Upmeyer,125,7,118
+Butler,2-CL,State Representative District  54,,REP,Linda Upmeyer,71,8,63
+Butler,3-DU,State Representative District  54,,REP,Linda Upmeyer,59,7,52
+Butler,4-AL,State Representative District  54,,REP,Linda Upmeyer,89,11,78
+Butler,1-GR,State Representative District  54,,,Write-in,0,0,0
+Butler,2-CL,State Representative District  54,,,Write-in,0,0,0
+Butler,3-DU,State Representative District  54,,,Write-in,0,0,0
+Butler,4-AL,State Representative District  54,,,Write-in,0,0,0
+Butler,1-GR,County Board of Supervisors District 2,,REP,Tom Heidenwirth,107,6,101
+Butler,3-DU,County Board of Supervisors District 2,,REP,Tom Heidenwirth,23,3,20
+Butler,4-AL,County Board of Supervisors District 2,,REP,Tom Heidenwirth,51,6,45
+Butler,1-GR,County Board of Supervisors District 2,,REP,Timothy Junker,44,4,40
+Butler,3-DU,County Board of Supervisors District 2,,REP,Timothy Junker,42,6,36
+Butler,4-AL,County Board of Supervisors District 2,,REP,Timothy Junker,62,8,54
+Butler,1-GR,County Board of Supervisors District 2,,,Write-in,0,0,0
+Butler,3-DU,County Board of Supervisors District 2,,,Write-in,0,0,0
+Butler,4-AL,County Board of Supervisors District 2,,,Write-in,0,0,0
+Butler,5-AP,County Board of Supervisors District 3,,REP,Rusty Eddy,78,7,71
+Butler,7-PB,County Board of Supervisors District 3,,REP,Rusty Eddy,275,7,268
+Butler,8-NH,County Board of Supervisors District 3,,REP,Rusty Eddy,23,2,21
+Butler,5-AP,County Board of Supervisors District 3,,REP,Bill Groen Butch,5,1,4
+Butler,7-PB,County Board of Supervisors District 3,,REP,Bill Groen Butch,1,0,1
+Butler,8-NH,County Board of Supervisors District 3,,REP,Bill Groen Butch,0,0,0
+Butler,5-AP,County Board of Supervisors District 3,,REP,Derek Harken,170,18,152
+Butler,7-PB,County Board of Supervisors District 3,,REP,Derek Harken,73,3,70
+Butler,8-NH,County Board of Supervisors District 3,,REP,Derek Harken,18,4,14
+Butler,5-AP,County Board of Supervisors District 3,,,Write-in,0,0,0
+Butler,7-PB,County Board of Supervisors District 3,,,Write-in,0,0,0
+Butler,8-NH,County Board of Supervisors District 3,,,Write-in,0,0,0
+Butler,1-GR,County Treasurer,,REP,Vicki Schoneman,137,9,128
+Butler,2-CL,County Treasurer,,REP,Vicki Schoneman,71,9,62
+Butler,3-DU,County Treasurer,,REP,Vicki Schoneman,60,9,51
+Butler,4-AL,County Treasurer,,REP,Vicki Schoneman,100,14,86
+Butler,5-AP,County Treasurer,,REP,Vicki Schoneman,226,22,204
+Butler,6-SR,County Treasurer,,REP,Vicki Schoneman,70,2,68
+Butler,7-PB,County Treasurer,,REP,Vicki Schoneman,308,9,299
+Butler,8-NH,County Treasurer,,REP,Vicki Schoneman,39,6,33
+Butler,1-GR,County Treasurer,,,Write-in,0,0,0
+Butler,2-CL,County Treasurer,,,Write-in,0,0,0
+Butler,3-DU,County Treasurer,,,Write-in,0,0,0
+Butler,4-AL,County Treasurer,,,Write-in,0,0,0
+Butler,5-AP,County Treasurer,,,Write-in,0,0,0
+Butler,6-SR,County Treasurer,,,Write-in,0,0,0
+Butler,7-PB,County Treasurer,,,Write-in,0,0,0
+Butler,8-NH,County Treasurer,,,Write-in,0,0,0
+Butler,1-GR,County Recorder,,REP,Janice Jacobs,129,7,122
+Butler,2-CL,County Recorder,,REP,Janice Jacobs,68,7,61
+Butler,3-DU,County Recorder,,REP,Janice Jacobs,59,9,50
+Butler,4-AL,County Recorder,,REP,Janice Jacobs,103,14,89
+Butler,5-AP,County Recorder,,REP,Janice Jacobs,235,22,213
+Butler,6-SR,County Recorder,,REP,Janice Jacobs,70,2,68
+Butler,7-PB,County Recorder,,REP,Janice Jacobs,307,10,297
+Butler,8-NH,County Recorder,,REP,Janice Jacobs,38,5,33
+Butler,1-GR,County Recorder,,,Write-in,0,0,0
+Butler,2-CL,County Recorder,,,Write-in,0,0,0
+Butler,3-DU,County Recorder,,,Write-in,0,0,0
+Butler,4-AL,County Recorder,,,Write-in,0,0,0
+Butler,5-AP,County Recorder,,,Write-in,0,0,0
+Butler,6-SR,County Recorder,,,Write-in,0,0,0
+Butler,7-PB,County Recorder,,,Write-in,0,0,0
+Butler,8-NH,County Recorder,,,Write-in,0,0,0
+Butler,1-GR,County Attorney,,REP,Greg Lievens,111,8,103
+Butler,2-CL,County Attorney,,REP,Greg Lievens,64,7,57
+Butler,3-DU,County Attorney,,REP,Greg Lievens,58,9,49
+Butler,4-AL,County Attorney,,REP,Greg Lievens,86,13,73
+Butler,5-AP,County Attorney,,REP,Greg Lievens,219,22,197
+Butler,6-SR,County Attorney,,REP,Greg Lievens,62,2,60
+Butler,7-PB,County Attorney,,REP,Greg Lievens,292,10,282
+Butler,8-NH,County Attorney,,REP,Greg Lievens,38,5,33
+Butler,1-GR,County Attorney,,,Write-in,0,0,0
+Butler,2-CL,County Attorney,,,Write-in,0,0,0
+Butler,3-DU,County Attorney,,,Write-in,0,0,0
+Butler,4-AL,County Attorney,,,Write-in,0,0,0
+Butler,5-AP,County Attorney,,,Write-in,0,0,0
+Butler,6-SR,County Attorney,,,Write-in,0,0,0
+Butler,7-PB,County Attorney,,,Write-in,0,0,0
+Butler,8-NH,County Attorney,,,Write-in,0,0,0
+Butler,1-GR,United States Representative District 4,,DEM,Leann Jacobsen,45,4,41
+Butler,2-CL,United States Representative District 4,,DEM,Leann Jacobsen,21,4,17
+Butler,3-DU,United States Representative District 4,,DEM,Leann Jacobsen,13,1,12
+Butler,4-AL,United States Representative District 4,,DEM,Leann Jacobsen,17,3,14
+Butler,5-AP,United States Representative District 4,,DEM,Leann Jacobsen,16,3,13
+Butler,6-SR,United States Representative District 4,,DEM,Leann Jacobsen,37,8,29
+Butler,7-PB,United States Representative District 4,,DEM,Leann Jacobsen,48,2,46
+Butler,8-NH,United States Representative District 4,,DEM,Leann Jacobsen,19,0,19
+Butler,1-GR,United States Representative District 4,,DEM,John Paschen,7,0,7
+Butler,2-CL,United States Representative District 4,,DEM,John Paschen,11,0,11
+Butler,3-DU,United States Representative District 4,,DEM,John Paschen,3,0,3
+Butler,4-AL,United States Representative District 4,,DEM,John Paschen,1,0,1
+Butler,5-AP,United States Representative District 4,,DEM,John Paschen,4,0,4
+Butler,6-SR,United States Representative District 4,,DEM,John Paschen,9,0,9
+Butler,7-PB,United States Representative District 4,,DEM,John Paschen,13,0,13
+Butler,8-NH,United States Representative District 4,,DEM,John Paschen,5,0,5
+Butler,1-GR,United States Representative District 4,,DEM,J.D. Scholten,30,2,28
+Butler,2-CL,United States Representative District 4,,DEM,J.D. Scholten,29,4,25
+Butler,3-DU,United States Representative District 4,,DEM,J.D. Scholten,9,2,7
+Butler,4-AL,United States Representative District 4,,DEM,J.D. Scholten,9,3,6
+Butler,5-AP,United States Representative District 4,,DEM,J.D. Scholten,9,1,8
+Butler,6-SR,United States Representative District 4,,DEM,J.D. Scholten,35,3,32
+Butler,7-PB,United States Representative District 4,,DEM,J.D. Scholten,25,2,23
+Butler,8-NH,United States Representative District 4,,DEM,J.D. Scholten,13,4,9
+Butler,1-GR,Governor,,DEM,Nate Boulton,5,0,5
+Butler,2-CL,Governor,,DEM,Nate Boulton,1,1,0
+Butler,3-DU,Governor,,DEM,Nate Boulton,1,0,1
+Butler,4-AL,Governor,,DEM,Nate Boulton,2,1,1
+Butler,5-AP,Governor,,DEM,Nate Boulton,1,0,1
+Butler,6-SR,Governor,,DEM,Nate Boulton,5,4,1
+Butler,7-PB,Governor,,DEM,Nate Boulton,5,0,5
+Butler,8-NH,Governor,,DEM,Nate Boulton,2,1,1
+Butler,1-GR,Governor,,DEM,Cathy Glasson,20,1,19
+Butler,2-CL,Governor,,DEM,Cathy Glasson,15,3,12
+Butler,3-DU,Governor,,DEM,Cathy Glasson,4,1,3
+Butler,4-AL,Governor,,DEM,Cathy Glasson,7,2,5
+Butler,5-AP,Governor,,DEM,Cathy Glasson,10,0,10
+Butler,6-SR,Governor,,DEM,Cathy Glasson,20,1,19
+Butler,7-PB,Governor,,DEM,Cathy Glasson,13,0,13
+Butler,8-NH,Governor,,DEM,Cathy Glasson,7,1,6
+Butler,1-GR,Governor,,DEM,Fred Hubbell,47,4,43
+Butler,2-CL,Governor,,DEM,Fred Hubbell,45,6,39
+Butler,3-DU,Governor,,DEM,Fred Hubbell,17,2,15
+Butler,4-AL,Governor,,DEM,Fred Hubbell,14,1,13
+Butler,5-AP,Governor,,DEM,Fred Hubbell,16,4,12
+Butler,6-SR,Governor,,DEM,Fred Hubbell,51,5,46
+Butler,7-PB,Governor,,DEM,Fred Hubbell,63,3,60
+Butler,8-NH,Governor,,DEM,Fred Hubbell,32,3,29
+Butler,1-GR,Governor,,DEM,Andrea Andy McGuire,6,0,6
+Butler,2-CL,Governor,,DEM,Andrea Andy McGuire,2,0,2
+Butler,3-DU,Governor,,DEM,Andrea Andy McGuire,4,0,4
+Butler,4-AL,Governor,,DEM,Andrea Andy McGuire,3,1,2
+Butler,5-AP,Governor,,DEM,Andrea Andy McGuire,2,0,2
+Butler,6-SR,Governor,,DEM,Andrea Andy McGuire,2,1,1
+Butler,7-PB,Governor,,DEM,Andrea Andy McGuire,4,1,3
+Butler,8-NH,Governor,,DEM,Andrea Andy McGuire,0,0,0
+Butler,1-GR,Governor,,DEM,John Norris,8,1,7
+Butler,2-CL,Governor,,DEM,John Norris,5,1,4
+Butler,3-DU,Governor,,DEM,John Norris,1,0,1
+Butler,4-AL,Governor,,DEM,John Norris,1,0,1
+Butler,5-AP,Governor,,DEM,John Norris,2,0,2
+Butler,6-SR,Governor,,DEM,John Norris,9,0,9
+Butler,7-PB,Governor,,DEM,John Norris,8,0,8
+Butler,8-NH,Governor,,DEM,John Norris,4,0,4
+Butler,1-GR,Governor,,DEM,Ross Wilburn,1,0,1
+Butler,2-CL,Governor,,DEM,Ross Wilburn,1,0,1
+Butler,3-DU,Governor,,DEM,Ross Wilburn,0,0,0
+Butler,4-AL,Governor,,DEM,Ross Wilburn,0,0,0
+Butler,5-AP,Governor,,DEM,Ross Wilburn,3,1,2
+Butler,6-SR,Governor,,DEM,Ross Wilburn,0,0,0
+Butler,7-PB,Governor,,DEM,Ross Wilburn,2,0,2
+Butler,8-NH,Governor,,DEM,Ross Wilburn,0,0,0
+Butler,1-GR,Secretary of State,,DEM,Deidre DeJear,46,3,43
+Butler,2-CL,Secretary of State,,DEM,Deidre DeJear,25,6,19
+Butler,3-DU,Secretary of State,,DEM,Deidre DeJear,9,0,9
+Butler,4-AL,Secretary of State,,DEM,Deidre DeJear,14,3,11
+Butler,5-AP,Secretary of State,,DEM,Deidre DeJear,12,1,11
+Butler,6-SR,Secretary of State,,DEM,Deidre DeJear,38,5,33
+Butler,7-PB,Secretary of State,,DEM,Deidre DeJear,37,2,35
+Butler,8-NH,Secretary of State,,DEM,Deidre DeJear,21,2,19
+Butler,1-GR,Secretary of State,,DEM,Jim Mowrer,34,1,33
+Butler,2-CL,Secretary of State,,DEM,Jim Mowrer,29,2,27
+Butler,3-DU,Secretary of State,,DEM,Jim Mowrer,17,3,14
+Butler,4-AL,Secretary of State,,DEM,Jim Mowrer,12,3,9
+Butler,5-AP,Secretary of State,,DEM,Jim Mowrer,15,2,13
+Butler,6-SR,Secretary of State,,DEM,Jim Mowrer,41,6,35
+Butler,7-PB,Secretary of State,,DEM,Jim Mowrer,48,2,46
+Butler,8-NH,Secretary of State,,DEM,Jim Mowrer,16,3,13
+Butler,1-GR,Auditor of State,,DEM,Rob Sand,70,3,67
+Butler,2-CL,Auditor of State,,DEM,Rob Sand,59,11,48
+Butler,3-DU,Auditor of State,,DEM,Rob Sand,23,3,20
+Butler,4-AL,Auditor of State,,DEM,Rob Sand,26,6,20
+Butler,5-AP,Auditor of State,,DEM,Rob Sand,28,3,25
+Butler,6-SR,Auditor of State,,DEM,Rob Sand,72,10,62
+Butler,7-PB,Auditor of State,,DEM,Rob Sand,80,4,76
+Butler,8-NH,Auditor of State,,DEM,Rob Sand,38,5,33
+Butler,1-GR,Treasurer of State,,DEM,Michael L. Fitzgerald,74,4,70
+Butler,2-CL,Treasurer of State,,DEM,Michael L. Fitzgerald,65,11,54
+Butler,3-DU,Treasurer of State,,DEM,Michael L. Fitzgerald,25,3,22
+Butler,4-AL,Treasurer of State,,DEM,Michael L. Fitzgerald,26,6,20
+Butler,5-AP,Treasurer of State,,DEM,Michael L. Fitzgerald,28,3,25
+Butler,6-SR,Treasurer of State,,DEM,Michael L. Fitzgerald,75,11,64
+Butler,7-PB,Treasurer of State,,DEM,Michael L. Fitzgerald,84,4,80
+Butler,8-NH,Treasurer of State,,DEM,Michael L. Fitzgerald,40,5,35
+Butler,1-GR,Secretary of Agriculture,,DEM,Tim Gannon,70,3,67
+Butler,2-CL,Secretary of Agriculture,,DEM,Tim Gannon,56,9,47
+Butler,3-DU,Secretary of Agriculture,,DEM,Tim Gannon,23,3,20
+Butler,4-AL,Secretary of Agriculture,,DEM,Tim Gannon,25,6,19
+Butler,5-AP,Secretary of Agriculture,,DEM,Tim Gannon,27,3,24
+Butler,6-SR,Secretary of Agriculture,,DEM,Tim Gannon,72,9,63
+Butler,7-PB,Secretary of Agriculture,,DEM,Tim Gannon,78,4,74
+Butler,8-NH,Secretary of Agriculture,,DEM,Tim Gannon,37,5,32
+Butler,1-GR,Attorney General,,DEM,Tom Miller,72,4,68
+Butler,2-CL,Attorney General,,DEM,Tom Miller,66,11,55
+Butler,3-DU,Attorney General,,DEM,Tom Miller,25,3,22
+Butler,4-AL,Attorney General,,DEM,Tom Miller,26,6,20
+Butler,5-AP,Attorney General,,DEM,Tom Miller,30,4,26
+Butler,6-SR,Attorney General,,DEM,Tom Miller,76,11,65
+Butler,7-PB,Attorney General,,DEM,Tom Miller,83,4,79
+Butler,8-NH,Attorney General,,DEM,Tom Miller,41,5,36
+Butler,5-AP,State Senator District 25,,DEM,Tracy Freese,30,4,26
+Butler,6-SR,State Senator District 25,,DEM,Tracy Freese,73,9,64
+Butler,7-PB,State Senator District 25,,DEM,Tracy Freese,81,4,77
+Butler,8-NH,State Senator District 25,,DEM,Tracy Freese,41,5,36
+Butler,1-GR,State Senator District 27,,DEM,Amanda Ragan,78,4,74
+Butler,2-CL,State Senator District 27,,DEM,Amanda Ragan,60,10,50
+Butler,3-DU,State Senator District 27,,DEM,Amanda Ragan,24,3,21
+Butler,4-AL,State Senator District 27,,DEM,Amanda Ragan,28,6,22
+Butler,5-AP,State Representative District  50,,DEM,Dennis Evans,26,2,24
+Butler,6-SR,State Representative District  50,,DEM,Dennis Evans,72,9,63
+Butler,7-PB,State Representative District  50,,DEM,Dennis Evans,77,4,73
+Butler,8-NH,State Representative District  50,,DEM,Dennis Evans,38,4,34
+Butler,1-GR,State Representative District  54,,DEM,Kai Brost,0,0,0
+Butler,2-CL,State Representative District  54,,DEM,Kai Brost,4,1,3
+Butler,3-DU,State Representative District  54,,DEM,Kai Brost,0,0,0
+Butler,4-AL,State Representative District  54,,DEM,Kai Brost,0,0,0
+Butler,1-GR,State Representative District  54,,DEM,Blank,0,0,0
+Butler,2-CL,State Representative District  54,,DEM,Blank,2,0,2
+Butler,3-DU,State Representative District  54,,DEM,Blank,0,0,0
+Butler,4-AL,State Representative District  54,,DEM,Blank,1,1,0
+Butler,1-GR,State Representative District  54,,DEM,Jock Bolles,1,0,1
+Butler,2-CL,State Representative District  54,,DEM,Jock Bolles,0,0,0
+Butler,3-DU,State Representative District  54,,DEM,Jock Bolles,0,0,0
+Butler,4-AL,State Representative District  54,,DEM,Jock Bolles,0,0,0
+Butler,1-GR,State Representative District  54,,DEM,Kathy Glusson,1,0,1
+Butler,2-CL,State Representative District  54,,DEM,Kathy Glusson,0,0,0
+Butler,3-DU,State Representative District  54,,DEM,Kathy Glusson,0,0,0
+Butler,4-AL,State Representative District  54,,DEM,Kathy Glusson,0,0,0
+Butler,1-GR,State Representative District  54,,DEM,Paul Jepsen Jr.,1,0,1
+Butler,2-CL,State Representative District  54,,DEM,Paul Jepsen Jr.,0,0,0
+Butler,3-DU,State Representative District  54,,DEM,Paul Jepsen Jr.,0,0,0
+Butler,4-AL,State Representative District  54,,DEM,Paul Jepsen Jr.,0,0,0
+Butler,1-GR,State Representative District  54,,DEM,Bryon Golay,0,0,0
+Butler,2-CL,State Representative District  54,,DEM,Bryon Golay,1,0,1
+Butler,3-DU,State Representative District  54,,DEM,Bryon Golay,0,0,0
+Butler,4-AL,State Representative District  54,,DEM,Bryon Golay,0,0,0
+Butler,1-GR,County Board of Supervisors District 2,,DEM,Rusty Eddy,0,0,0
+Butler,3-DU,County Board of Supervisors District 2,,DEM,Rusty Eddy,0,0,0
+Butler,4-AL,County Board of Supervisors District 2,,DEM,Rusty Eddy,0,0,0
+Butler,1-GR,County Board of Supervisors District 2,,DEM,Tom Heidenwirth,3,0,3
+Butler,3-DU,County Board of Supervisors District 2,,DEM,Tom Heidenwirth,0,0,0
+Butler,4-AL,County Board of Supervisors District 2,,DEM,Tom Heidenwirth,0,0,0
+Butler,1-GR,County Board of Supervisors District 2,,DEM,Derek Harken,0,0,0
+Butler,3-DU,County Board of Supervisors District 2,,DEM,Derek Harken,0,0,0
+Butler,4-AL,County Board of Supervisors District 2,,DEM,Derek Harken,0,0,0
+Butler,1-GR,County Board of Supervisors District 2,,DEM,Tim Junker,0,0,0
+Butler,3-DU,County Board of Supervisors District 2,,DEM,Tim Junker,2,0,2
+Butler,4-AL,County Board of Supervisors District 2,,DEM,Tim Junker,1,0,1
+Butler,1-GR,County Board of Supervisors District 2,,DEM,Blank,0,0,0
+Butler,3-DU,County Board of Supervisors District 2,,DEM,Blank,0,0,0
+Butler,4-AL,County Board of Supervisors District 2,,DEM,Blank,1,1,0
+Butler,1-GR,County Board of Supervisors District 2,,DEM,Hildebrand,0,0,0
+Butler,3-DU,County Board of Supervisors District 2,,DEM,Hildebrand,0,0,0
+Butler,4-AL,County Board of Supervisors District 2,,DEM,Hildebrand,1,0,1
+Butler,5-AP,County Board of Supervisors District 3,,DEM,Rusty Eddy,4,0,4
+Butler,7-PB,County Board of Supervisors District 3,,DEM,Rusty Eddy,11,1,10
+Butler,8-NH,County Board of Supervisors District 3,,DEM,Rusty Eddy,1,0,1
+Butler,5-AP,County Board of Supervisors District 3,,DEM,Derek Harken,2,0,2
+Butler,7-PB,County Board of Supervisors District 3,,DEM,Derek Harken,2,0,2
+Butler,8-NH,County Board of Supervisors District 3,,DEM,Derek Harken,0,0,0
+Butler,5-AP,County Board of Supervisors District 3,,DEM,Blank,0,0,0
+Butler,7-PB,County Board of Supervisors District 3,,DEM,Blank,2,0,2
+Butler,8-NH,County Board of Supervisors District 3,,DEM,Blank,1,0,1
+Butler,1-GR,County Treasurer,,DEM,Isaac Almelien,1,1,0
+Butler,2-CL,County Treasurer,,DEM,Isaac Almelien,0,0,0
+Butler,3-DU,County Treasurer,,DEM,Isaac Almelien,0,0,0
+Butler,4-AL,County Treasurer,,DEM,Isaac Almelien,0,0,0
+Butler,5-AP,County Treasurer,,DEM,Isaac Almelien,0,0,0
+Butler,6-SR,County Treasurer,,DEM,Isaac Almelien,0,0,0
+Butler,7-PB,County Treasurer,,DEM,Isaac Almelien,0,0,0
+Butler,8-NH,County Treasurer,,DEM,Isaac Almelien,0,0,0
+Butler,1-GR,County Treasurer,,DEM,Vicki Schoneman,1,0,1
+Butler,2-CL,County Treasurer,,DEM,Vicki Schoneman,1,0,1
+Butler,3-DU,County Treasurer,,DEM,Vicki Schoneman,0,0,0
+Butler,4-AL,County Treasurer,,DEM,Vicki Schoneman,0,0,0
+Butler,5-AP,County Treasurer,,DEM,Vicki Schoneman,0,0,0
+Butler,6-SR,County Treasurer,,DEM,Vicki Schoneman,0,0,0
+Butler,7-PB,County Treasurer,,DEM,Vicki Schoneman,1,0,1
+Butler,8-NH,County Treasurer,,DEM,Vicki Schoneman,0,0,0
+Butler,1-GR,County Treasurer,,DEM,Blank,1,0,1
+Butler,2-CL,County Treasurer,,DEM,Blank,2,1,1
+Butler,3-DU,County Treasurer,,DEM,Blank,0,0,0
+Butler,4-AL,County Treasurer,,DEM,Blank,1,1,0
+Butler,5-AP,County Treasurer,,DEM,Blank,0,0,0
+Butler,6-SR,County Treasurer,,DEM,Blank,4,1,3
+Butler,7-PB,County Treasurer,,DEM,Blank,3,0,3
+Butler,8-NH,County Treasurer,,DEM,Blank,0,0,0
+Butler,1-GR,County Treasurer,,DEM,Rick Wehern,0,0,0
+Butler,2-CL,County Treasurer,,DEM,Rick Wehern,0,0,0
+Butler,3-DU,County Treasurer,,DEM,Rick Wehern,0,0,0
+Butler,4-AL,County Treasurer,,DEM,Rick Wehern,0,0,0
+Butler,5-AP,County Treasurer,,DEM,Rick Wehern,0,0,0
+Butler,6-SR,County Treasurer,,DEM,Rick Wehern,1,0,1
+Butler,7-PB,County Treasurer,,DEM,Rick Wehern,0,0,0
+Butler,8-NH,County Treasurer,,DEM,Rick Wehern,0,0,0
+Butler,1-GR,County Treasurer,,DEM,Ron Arenholz,0,0,0
+Butler,2-CL,County Treasurer,,DEM,Ron Arenholz,0,0,0
+Butler,3-DU,County Treasurer,,DEM,Ron Arenholz,0,0,0
+Butler,4-AL,County Treasurer,,DEM,Ron Arenholz,0,0,0
+Butler,5-AP,County Treasurer,,DEM,Ron Arenholz,0,0,0
+Butler,6-SR,County Treasurer,,DEM,Ron Arenholz,1,0,1
+Butler,7-PB,County Treasurer,,DEM,Ron Arenholz,0,0,0
+Butler,8-NH,County Treasurer,,DEM,Ron Arenholz,0,0,0
+Butler,1-GR,County Treasurer,,DEM,Minert Koop,0,0,0
+Butler,2-CL,County Treasurer,,DEM,Minert Koop,0,0,0
+Butler,3-DU,County Treasurer,,DEM,Minert Koop,0,0,0
+Butler,4-AL,County Treasurer,,DEM,Minert Koop,0,0,0
+Butler,5-AP,County Treasurer,,DEM,Minert Koop,0,0,0
+Butler,6-SR,County Treasurer,,DEM,Minert Koop,1,0,1
+Butler,7-PB,County Treasurer,,DEM,Minert Koop,0,0,0
+Butler,8-NH,County Treasurer,,DEM,Minert Koop,0,0,0
+Butler,1-GR,County Treasurer,,DEM,Billy Williamson,0,0,0
+Butler,2-CL,County Treasurer,,DEM,Billy Williamson,0,0,0
+Butler,3-DU,County Treasurer,,DEM,Billy Williamson,0,0,0
+Butler,4-AL,County Treasurer,,DEM,Billy Williamson,0,0,0
+Butler,5-AP,County Treasurer,,DEM,Billy Williamson,0,0,0
+Butler,6-SR,County Treasurer,,DEM,Billy Williamson,0,0,0
+Butler,7-PB,County Treasurer,,DEM,Billy Williamson,1,0,1
+Butler,8-NH,County Treasurer,,DEM,Billy Williamson,0,0,0
+Butler,1-GR,County Treasurer,,DEM,Mary Uhlenhopp,0,0,0
+Butler,2-CL,County Treasurer,,DEM,Mary Uhlenhopp,0,0,0
+Butler,3-DU,County Treasurer,,DEM,Mary Uhlenhopp,1,1,0
+Butler,4-AL,County Treasurer,,DEM,Mary Uhlenhopp,0,0,0
+Butler,5-AP,County Treasurer,,DEM,Mary Uhlenhopp,0,0,0
+Butler,6-SR,County Treasurer,,DEM,Mary Uhlenhopp,0,0,0
+Butler,7-PB,County Treasurer,,DEM,Mary Uhlenhopp,0,0,0
+Butler,8-NH,County Treasurer,,DEM,Mary Uhlenhopp,0,0,0
+Butler,1-GR,County Recorder,,DEM,Blank,1,0,1
+Butler,2-CL,County Recorder,,DEM,Blank,1,0,1
+Butler,3-DU,County Recorder,,DEM,Blank,0,0,0
+Butler,4-AL,County Recorder,,DEM,Blank,1,1,0
+Butler,5-AP,County Recorder,,DEM,Blank,0,0,0
+Butler,6-SR,County Recorder,,DEM,Blank,2,0,2
+Butler,7-PB,County Recorder,,DEM,Blank,4,0,4
+Butler,8-NH,County Recorder,,DEM,Blank,0,0,0
+Butler,1-GR,County Recorder,,DEM,Brenda Arenholz,0,0,0
+Butler,2-CL,County Recorder,,DEM,Brenda Arenholz,0,0,0
+Butler,3-DU,County Recorder,,DEM,Brenda Arenholz,0,0,0
+Butler,4-AL,County Recorder,,DEM,Brenda Arenholz,0,0,0
+Butler,5-AP,County Recorder,,DEM,Brenda Arenholz,0,0,0
+Butler,6-SR,County Recorder,,DEM,Brenda Arenholz,1,0,1
+Butler,7-PB,County Recorder,,DEM,Brenda Arenholz,0,0,0
+Butler,8-NH,County Recorder,,DEM,Brenda Arenholz,0,0,0
+Butler,1-GR,County Recorder,,DEM,Marilyn Hardy,0,0,0
+Butler,2-CL,County Recorder,,DEM,Marilyn Hardy,0,0,0
+Butler,3-DU,County Recorder,,DEM,Marilyn Hardy,0,0,0
+Butler,4-AL,County Recorder,,DEM,Marilyn Hardy,0,0,0
+Butler,5-AP,County Recorder,,DEM,Marilyn Hardy,0,0,0
+Butler,6-SR,County Recorder,,DEM,Marilyn Hardy,1,0,1
+Butler,7-PB,County Recorder,,DEM,Marilyn Hardy,0,0,0
+Butler,8-NH,County Recorder,,DEM,Marilyn Hardy,0,0,0
+Butler,1-GR,County Recorder,,DEM,Ronald Arenholz,0,0,0
+Butler,2-CL,County Recorder,,DEM,Ronald Arenholz,0,0,0
+Butler,3-DU,County Recorder,,DEM,Ronald Arenholz,0,0,0
+Butler,4-AL,County Recorder,,DEM,Ronald Arenholz,0,0,0
+Butler,5-AP,County Recorder,,DEM,Ronald Arenholz,0,0,0
+Butler,6-SR,County Recorder,,DEM,Ronald Arenholz,1,0,1
+Butler,7-PB,County Recorder,,DEM,Ronald Arenholz,0,0,0
+Butler,8-NH,County Recorder,,DEM,Ronald Arenholz,0,0,0
+Butler,1-GR,County Recorder,,DEM,Karl Nelson,0,0,0
+Butler,2-CL,County Recorder,,DEM,Karl Nelson,0,0,0
+Butler,3-DU,County Recorder,,DEM,Karl Nelson,0,0,0
+Butler,4-AL,County Recorder,,DEM,Karl Nelson,0,0,0
+Butler,5-AP,County Recorder,,DEM,Karl Nelson,0,0,0
+Butler,6-SR,County Recorder,,DEM,Karl Nelson,1,0,1
+Butler,7-PB,County Recorder,,DEM,Karl Nelson,0,0,0
+Butler,8-NH,County Recorder,,DEM,Karl Nelson,0,0,0
+Butler,1-GR,County Recorder,,DEM,Janice Jacobs,0,0,0
+Butler,2-CL,County Recorder,,DEM,Janice Jacobs,0,0,0
+Butler,3-DU,County Recorder,,DEM,Janice Jacobs,0,0,0
+Butler,4-AL,County Recorder,,DEM,Janice Jacobs,0,0,0
+Butler,5-AP,County Recorder,,DEM,Janice Jacobs,0,0,0
+Butler,6-SR,County Recorder,,DEM,Janice Jacobs,0,0,0
+Butler,7-PB,County Recorder,,DEM,Janice Jacobs,1,0,1
+Butler,8-NH,County Recorder,,DEM,Janice Jacobs,0,0,0
+Butler,1-GR,County Recorder,,DEM,William Jason Downs,0,0,0
+Butler,2-CL,County Recorder,,DEM,William Jason Downs,0,0,0
+Butler,3-DU,County Recorder,,DEM,William Jason Downs,0,0,0
+Butler,4-AL,County Recorder,,DEM,William Jason Downs,0,0,0
+Butler,5-AP,County Recorder,,DEM,William Jason Downs,0,0,0
+Butler,6-SR,County Recorder,,DEM,William Jason Downs,0,0,0
+Butler,7-PB,County Recorder,,DEM,William Jason Downs,1,0,1
+Butler,8-NH,County Recorder,,DEM,William Jason Downs,0,0,0
+Butler,1-GR,County Recorder,,DEM,Leslie Groen,0,0,0
+Butler,2-CL,County Recorder,,DEM,Leslie Groen,1,1,0
+Butler,3-DU,County Recorder,,DEM,Leslie Groen,0,0,0
+Butler,4-AL,County Recorder,,DEM,Leslie Groen,0,0,0
+Butler,5-AP,County Recorder,,DEM,Leslie Groen,0,0,0
+Butler,6-SR,County Recorder,,DEM,Leslie Groen,0,0,0
+Butler,7-PB,County Recorder,,DEM,Leslie Groen,0,0,0
+Butler,8-NH,County Recorder,,DEM,Leslie Groen,0,0,0
+Butler,1-GR,County Attorney,,DEM,Karl Nelson,0,0,0
+Butler,2-CL,County Attorney,,DEM,Karl Nelson,1,1,0
+Butler,3-DU,County Attorney,,DEM,Karl Nelson,0,0,0
+Butler,4-AL,County Attorney,,DEM,Karl Nelson,0,0,0
+Butler,5-AP,County Attorney,,DEM,Karl Nelson,0,0,0
+Butler,6-SR,County Attorney,,DEM,Karl Nelson,1,0,1
+Butler,7-PB,County Attorney,,DEM,Karl Nelson,0,0,0
+Butler,8-NH,County Attorney,,DEM,Karl Nelson,0,0,0
+Butler,1-GR,County Attorney,,DEM,Ronald Arenhholz,0,0,0
+Butler,2-CL,County Attorney,,DEM,Ronald Arenhholz,0,0,0
+Butler,3-DU,County Attorney,,DEM,Ronald Arenhholz,0,0,0
+Butler,4-AL,County Attorney,,DEM,Ronald Arenhholz,0,0,0
+Butler,5-AP,County Attorney,,DEM,Ronald Arenhholz,0,0,0
+Butler,6-SR,County Attorney,,DEM,Ronald Arenhholz,2,0,2
+Butler,7-PB,County Attorney,,DEM,Ronald Arenhholz,0,0,0
+Butler,8-NH,County Attorney,,DEM,Ronald Arenhholz,0,0,0
+Butler,1-GR,County Attorney,,DEM,Blank,1,0,1
+Butler,2-CL,County Attorney,,DEM,Blank,1,0,1
+Butler,3-DU,County Attorney,,DEM,Blank,0,0,0
+Butler,4-AL,County Attorney,,DEM,Blank,0,0,0
+Butler,5-AP,County Attorney,,DEM,Blank,0,0,0
+Butler,6-SR,County Attorney,,DEM,Blank,1,0,1
+Butler,7-PB,County Attorney,,DEM,Blank,3,0,3
+Butler,8-NH,County Attorney,,DEM,Blank,0,0,0
+Butler,1-GR,County Attorney,,DEM,Pat Vickers,1,0,1
+Butler,2-CL,County Attorney,,DEM,Pat Vickers,0,0,0
+Butler,3-DU,County Attorney,,DEM,Pat Vickers,0,0,0
+Butler,4-AL,County Attorney,,DEM,Pat Vickers,0,0,0
+Butler,5-AP,County Attorney,,DEM,Pat Vickers,0,0,0
+Butler,6-SR,County Attorney,,DEM,Pat Vickers,0,0,0
+Butler,7-PB,County Attorney,,DEM,Pat Vickers,0,0,0
+Butler,8-NH,County Attorney,,DEM,Pat Vickers,0,0,0
+Butler,1-GR,County Attorney,,DEM,Hildebrand,0,0,0
+Butler,2-CL,County Attorney,,DEM,Hildebrand,0,0,0
+Butler,3-DU,County Attorney,,DEM,Hildebrand,0,0,0
+Butler,4-AL,County Attorney,,DEM,Hildebrand,0,0,0
+Butler,5-AP,County Attorney,,DEM,Hildebrand,0,0,0
+Butler,6-SR,County Attorney,,DEM,Hildebrand,0,0,0
+Butler,7-PB,County Attorney,,DEM,Hildebrand,0,0,0
+Butler,8-NH,County Attorney,,DEM,Hildebrand,0,0,0
+Butler,1-GR,County Attorney,,DEM,Greg Lievens,0,0,0
+Butler,2-CL,County Attorney,,DEM,Greg Lievens,0,0,0
+Butler,3-DU,County Attorney,,DEM,Greg Lievens,0,0,0
+Butler,4-AL,County Attorney,,DEM,Greg Lievens,0,0,0
+Butler,5-AP,County Attorney,,DEM,Greg Lievens,0,0,0
+Butler,6-SR,County Attorney,,DEM,Greg Lievens,0,0,0
+Butler,7-PB,County Attorney,,DEM,Greg Lievens,1,0,1
+Butler,8-NH,County Attorney,,DEM,Greg Lievens,0,0,0
+Butler,1-GR,County Attorney,,DEM,William Jason Downs,0,0,0
+Butler,2-CL,County Attorney,,DEM,William Jason Downs,0,0,0
+Butler,3-DU,County Attorney,,DEM,William Jason Downs,0,0,0
+Butler,4-AL,County Attorney,,DEM,William Jason Downs,0,0,0
+Butler,5-AP,County Attorney,,DEM,William Jason Downs,0,0,0
+Butler,6-SR,County Attorney,,DEM,William Jason Downs,0,0,0
+Butler,7-PB,County Attorney,,DEM,William Jason Downs,1,0,1
+Butler,8-NH,County Attorney,,DEM,William Jason Downs,0,0,0
+Butler,1-GR,County Attorney,,DEM,Marty Peterson,0,0,0
+Butler,2-CL,County Attorney,,DEM,Marty Peterson,1,1,0
+Butler,3-DU,County Attorney,,DEM,Marty Peterson,0,0,0
+Butler,4-AL,County Attorney,,DEM,Marty Peterson,0,0,0
+Butler,5-AP,County Attorney,,DEM,Marty Peterson,0,0,0
+Butler,6-SR,County Attorney,,DEM,Marty Peterson,0,0,0
+Butler,7-PB,County Attorney,,DEM,Marty Peterson,0,0,0
+Butler,8-NH,County Attorney,,DEM,Marty Peterson,0,0,0
+Butler,1-GR,United States Representative District 4,,LIB,Charles Aldrich,2,0,2
+Butler,2-CL,United States Representative District 4,,LIB,Charles Aldrich,2,0,2
+Butler,3-DU,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
+Butler,4-AL,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
+Butler,5-AP,United States Representative District 4,,LIB,Charles Aldrich,1,1,0
+Butler,6-SR,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
+Butler,7-PB,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Butler,8-NH,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Butler,1-GR,Governor,,LIB,Marco Battaglia,3,0,3
+Butler,2-CL,Governor,,LIB,Marco Battaglia,0,0,0
+Butler,3-DU,Governor,,LIB,Marco Battaglia,0,0,0
+Butler,4-AL,Governor,,LIB,Marco Battaglia,0,0,0
+Butler,5-AP,Governor,,LIB,Marco Battaglia,1,1,0
+Butler,6-SR,Governor,,LIB,Marco Battaglia,0,0,0
+Butler,7-PB,Governor,,LIB,Marco Battaglia,0,0,0
+Butler,8-NH,Governor,,LIB,Marco Battaglia,0,0,0
+Butler,1-GR,Governor,,LIB,Jake Porter,0,0,0
+Butler,2-CL,Governor,,LIB,Jake Porter,2,0,2
+Butler,3-DU,Governor,,LIB,Jake Porter,1,0,1
+Butler,4-AL,Governor,,LIB,Jake Porter,0,0,0
+Butler,5-AP,Governor,,LIB,Jake Porter,0,0,0
+Butler,6-SR,Governor,,LIB,Jake Porter,1,0,1
+Butler,7-PB,Governor,,LIB,Jake Porter,0,0,0
+Butler,8-NH,Governor,,LIB,Jake Porter,0,0,0
