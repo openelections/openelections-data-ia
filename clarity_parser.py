@@ -9,8 +9,8 @@ except ImportError:
     from io import StringIO, BytesIO
 
 def statewide_results(url):
-    j = clarify.Jurisdiction(url=url, level="state")
-    r = requests.get("http://results.enr.clarityelections.com/WV/74487/207685/reports/detailxml.zip", stream=True)
+#    j = clarify.Jurisdiction(url=url, level="state")
+    r = requests.get("https://electionresults.iowa.gov//IA//106279/271639/reports/detailxml.zip", stream=True)
     z = zipfile.ZipFile(BytesIO(r.content))
     z.extractall()
     p = clarify.Parser()
@@ -43,12 +43,12 @@ def statewide_results(url):
         else:
             results.append({ 'county': county, 'office': office, 'district': district, 'party': party, 'candidate': candidate, result.vote_type: result.votes})
 
-    with open("20180508__wv__general.csv", "wt") as csvfile:
+    with open("20201103__ia__general__county.csv", "wt") as csvfile:
         w = csv.writer(csvfile)
-        w.writerow(['county', 'office', 'district', 'party', 'candidate', 'votes'])
+        w.writerow(['county', 'office', 'district', 'party', 'candidate', 'votes', 'election_day', 'absentee'])
         for row in results:
-            total_votes = row['Election Day']# + row['Absentee by Mail'] + row['Advance in Person'] + row['Provisional']
-            w.writerow([row['county'], row['office'], row['district'], row['party'], row['candidate'], total_votes])
+            total_votes = row['Election Day'] + row['Absentee']# + row['Advance in Person'] + row['Provisional']
+            w.writerow([row['county'], row['office'], row['district'], row['party'], row['candidate'], total_votes, row['Election Day'], row['Absentee']])
 
 def download_county_files(url, filename):
     no_xml = []
@@ -108,6 +108,8 @@ def precinct_results(county_name, filename):
         vote_types.remove('overVotes')
     if 'underVotes' in vote_types:
         vote_types.remove('underVotes')
+    if 'regVotersCounty' in vote_types:
+        vote_types.remove('regVotersCounty')
     with open(f, "wt") as csvfile:
         w = csv.writer(csvfile)
         headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']+ [x.replace(' ','_').lower() for x in vote_types]
