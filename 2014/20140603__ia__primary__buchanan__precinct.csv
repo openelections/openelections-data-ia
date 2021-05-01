@@ -665,10 +665,10 @@ Buchanan,Independence 3rd Ward,State Rep.,64,Rep,Craig Johnson,18.0,83.0,101.0
 Buchanan,Independence 4th Ward,State Rep.,64,Rep,Craig Johnson,2.0,35.0,37.0
 Buchanan,Independence 5th Ward,State Rep.,64,Rep,Craig Johnson,6.0,34.0,40.0
 Buchanan,Jesup,State Rep.,64,Rep,Craig Johnson,2.0,58.0,60.0
-Buchanan,Middlefield-Newton,State Rep.,64,Rep,Craig Johnson, , , 
+Buchanan,Middlefield-Newton,State Rep.,64,Rep,Craig Johnson,,,
 Buchanan,Perry-Westburg,State Rep.,64,Rep,Craig Johnson,3.0,37.0,40.0
 Buchanan,Quasqueton,State Rep.,64,Rep,Craig Johnson,4.0,53.0,57.0
-Buchanan,Rowley,State Rep.,64,Rep,Craig Johnson, , , 
+Buchanan,Rowley,State Rep.,64,Rep,Craig Johnson,,,
 Buchanan,Winthrop,State Rep.,64,Rep,Craig Johnson,7.0,43.0,50.0
 Buchanan,,State Rep.,64,Rep,Craig Johnson,,,680.0
 Buchanan,Aurora,State Rep.,64,Rep,Write-in,0.0,0.0,0.0
@@ -681,10 +681,10 @@ Buchanan,Independence 3rd Ward,State Rep.,64,Rep,Write-in,0.0,1.0,1.0
 Buchanan,Independence 4th Ward,State Rep.,64,Rep,Write-in,0.0,0.0,0.0
 Buchanan,Independence 5th Ward,State Rep.,64,Rep,Write-in,0.0,0.0,0.0
 Buchanan,Jesup,State Rep.,64,Rep,Write-in,0.0,0.0,0.0
-Buchanan,Middlefield-Newton,State Rep.,64,Rep,Write-in, , , 
+Buchanan,Middlefield-Newton,State Rep.,64,Rep,Write-in,,,
 Buchanan,Perry-Westburg,State Rep.,64,Rep,Write-in,0.0,0.0,0.0
 Buchanan,Quasqueton,State Rep.,64,Rep,Write-in,0.0,0.0,0.0
-Buchanan,Rowley,State Rep.,64,Rep,Write-in, , , 
+Buchanan,Rowley,State Rep.,64,Rep,Write-in,,,
 Buchanan,Winthrop,State Rep.,64,Rep,Write-in,0.0,0.0,0.0
 Buchanan,,State Rep.,64,Rep,Write-in,,,1.0
 Buchanan,Aurora,State Rep.,64,Dem,Bruce Bearinger,5.0,41.0,46.0
@@ -697,10 +697,10 @@ Buchanan,Independence 3rd Ward,State Rep.,64,Dem,Bruce Bearinger,22.0,43.0,65.0
 Buchanan,Independence 4th Ward,State Rep.,64,Dem,Bruce Bearinger,8.0,68.0,76.0
 Buchanan,Independence 5th Ward,State Rep.,64,Dem,Bruce Bearinger,14.0,45.0,59.0
 Buchanan,Jesup,State Rep.,64,Dem,Bruce Bearinger,8.0,60.0,68.0
-Buchanan,Middlefield-Newton,State Rep.,64,Dem,Bruce Bearinger, , , 
+Buchanan,Middlefield-Newton,State Rep.,64,Dem,Bruce Bearinger,,,
 Buchanan,Perry-Westburg,State Rep.,64,Dem,Bruce Bearinger,6.0,47.0,53.0
 Buchanan,Quasqueton,State Rep.,64,Dem,Bruce Bearinger,11.0,34.0,45.0
-Buchanan,Rowley,State Rep.,64,Dem,Bruce Bearinger, , , 
+Buchanan,Rowley,State Rep.,64,Dem,Bruce Bearinger,,,
 Buchanan,Winthrop,State Rep.,64,Dem,Bruce Bearinger,4.0,35.0,39.0
 Buchanan,,State Rep.,64,Dem,Bruce Bearinger,,,703.0
 Buchanan,Aurora,State Rep.,64,Dem,Write-in,0.0,0.0,0.0
@@ -713,73 +713,73 @@ Buchanan,Independence 3rd Ward,State Rep.,64,Dem,Write-in,0.0,1.0,1.0
 Buchanan,Independence 4th Ward,State Rep.,64,Dem,Write-in,0.0,0.0,0.0
 Buchanan,Independence 5th Ward,State Rep.,64,Dem,Write-in,0.0,0.0,0.0
 Buchanan,Jesup,State Rep.,64,Dem,Write-in,0.0,0.0,0.0
-Buchanan,Middlefield-Newton,State Rep.,64,Dem,Write-in, , , 
+Buchanan,Middlefield-Newton,State Rep.,64,Dem,Write-in,,,
 Buchanan,Perry-Westburg,State Rep.,64,Dem,Write-in,0.0,0.0,0.0
 Buchanan,Quasqueton,State Rep.,64,Dem,Write-in,0.0,0.0,0.0
-Buchanan,Rowley,State Rep.,64,Dem,Write-in, , , 
+Buchanan,Rowley,State Rep.,64,Dem,Write-in,,,
 Buchanan,Winthrop,State Rep.,64,Dem,Write-in,0.0,0.0,0.0
 Buchanan,,State Rep.,64,Dem,Write-in,,,2.0
-Buchanan,Aurora,State Rep.,95,Rep,Quentin Stanerson, , , 
-Buchanan,Brandon,State Rep.,95,Rep,Quentin Stanerson, , , 
-Buchanan,Fairbank,State Rep.,95,Rep,Quentin Stanerson, , , 
-Buchanan,Hazleton,State Rep.,95,Rep,Quentin Stanerson, , , 
-Buchanan,Independence 1st Ward,State Rep.,95,Rep,Quentin Stanerson, , , 
-Buchanan,Independence 2nd Ward,State Rep.,95,Rep,Quentin Stanerson, , , 
-Buchanan,Independence 3rd Ward,State Rep.,95,Rep,Quentin Stanerson, , , 
-Buchanan,Independence 4th Ward,State Rep.,95,Rep,Quentin Stanerson, , , 
-Buchanan,Independence 5th Ward,State Rep.,95,Rep,Quentin Stanerson, , , 
-Buchanan,Jesup,State Rep.,95,Rep,Quentin Stanerson, , , 
+Buchanan,Aurora,State Rep.,95,Rep,Quentin Stanerson,,,
+Buchanan,Brandon,State Rep.,95,Rep,Quentin Stanerson,,,
+Buchanan,Fairbank,State Rep.,95,Rep,Quentin Stanerson,,,
+Buchanan,Hazleton,State Rep.,95,Rep,Quentin Stanerson,,,
+Buchanan,Independence 1st Ward,State Rep.,95,Rep,Quentin Stanerson,,,
+Buchanan,Independence 2nd Ward,State Rep.,95,Rep,Quentin Stanerson,,,
+Buchanan,Independence 3rd Ward,State Rep.,95,Rep,Quentin Stanerson,,,
+Buchanan,Independence 4th Ward,State Rep.,95,Rep,Quentin Stanerson,,,
+Buchanan,Independence 5th Ward,State Rep.,95,Rep,Quentin Stanerson,,,
+Buchanan,Jesup,State Rep.,95,Rep,Quentin Stanerson,,,
 Buchanan,Middlefield-Newton,State Rep.,95,Rep,Quentin Stanerson,0.0,20.0,20.0
-Buchanan,Perry-Westburg,State Rep.,95,Rep,Quentin Stanerson, , , 
-Buchanan,Quasqueton,State Rep.,95,Rep,Quentin Stanerson, , , 
+Buchanan,Perry-Westburg,State Rep.,95,Rep,Quentin Stanerson,,,
+Buchanan,Quasqueton,State Rep.,95,Rep,Quentin Stanerson,,,
 Buchanan,Rowley,State Rep.,95,Rep,Quentin Stanerson,3.0,47.0,50.0
-Buchanan,Winthrop,State Rep.,95,Rep,Quentin Stanerson, , , 
+Buchanan,Winthrop,State Rep.,95,Rep,Quentin Stanerson,,,
 Buchanan,,State Rep.,95,Rep,Quentin Stanerson,,,70.0
-Buchanan,Aurora,State Rep.,95,Rep,Write-in, , , 
-Buchanan,Brandon,State Rep.,95,Rep,Write-in, , , 
-Buchanan,Fairbank,State Rep.,95,Rep,Write-in, , , 
-Buchanan,Hazleton,State Rep.,95,Rep,Write-in, , , 
-Buchanan,Independence 1st Ward,State Rep.,95,Rep,Write-in, , , 
-Buchanan,Independence 2nd Ward,State Rep.,95,Rep,Write-in, , , 
-Buchanan,Independence 3rd Ward,State Rep.,95,Rep,Write-in, , , 
-Buchanan,Independence 4th Ward,State Rep.,95,Rep,Write-in, , , 
-Buchanan,Independence 5th Ward,State Rep.,95,Rep,Write-in, , , 
-Buchanan,Jesup,State Rep.,95,Rep,Write-in, , , 
+Buchanan,Aurora,State Rep.,95,Rep,Write-in,,,
+Buchanan,Brandon,State Rep.,95,Rep,Write-in,,,
+Buchanan,Fairbank,State Rep.,95,Rep,Write-in,,,
+Buchanan,Hazleton,State Rep.,95,Rep,Write-in,,,
+Buchanan,Independence 1st Ward,State Rep.,95,Rep,Write-in,,,
+Buchanan,Independence 2nd Ward,State Rep.,95,Rep,Write-in,,,
+Buchanan,Independence 3rd Ward,State Rep.,95,Rep,Write-in,,,
+Buchanan,Independence 4th Ward,State Rep.,95,Rep,Write-in,,,
+Buchanan,Independence 5th Ward,State Rep.,95,Rep,Write-in,,,
+Buchanan,Jesup,State Rep.,95,Rep,Write-in,,,
 Buchanan,Middlefield-Newton,State Rep.,95,Rep,Write-in,0.0,0.0,0.0
-Buchanan,Perry-Westburg,State Rep.,95,Rep,Write-in, , , 
-Buchanan,Quasqueton,State Rep.,95,Rep,Write-in, , , 
+Buchanan,Perry-Westburg,State Rep.,95,Rep,Write-in,,,
+Buchanan,Quasqueton,State Rep.,95,Rep,Write-in,,,
 Buchanan,Rowley,State Rep.,95,Rep,Write-in,0.0,0.0,0.0
-Buchanan,Winthrop,State Rep.,95,Rep,Write-in, , , 
+Buchanan,Winthrop,State Rep.,95,Rep,Write-in,,,
 Buchanan,,State Rep.,95,Rep,Write-in,,,0.0
-Buchanan,Aurora,State Rep.,95,Dem,Kristi Keast, , , 
-Buchanan,Brandon,State Rep.,95,Dem,Kristi Keast, , , 
-Buchanan,Fairbank,State Rep.,95,Dem,Kristi Keast, , , 
-Buchanan,Hazleton,State Rep.,95,Dem,Kristi Keast, , , 
-Buchanan,Independence 1st Ward,State Rep.,95,Dem,Kristi Keast, , , 
-Buchanan,Independence 2nd Ward,State Rep.,95,Dem,Kristi Keast, , , 
-Buchanan,Independence 3rd Ward,State Rep.,95,Dem,Kristi Keast, , , 
-Buchanan,Independence 4th Ward,State Rep.,95,Dem,Kristi Keast, , , 
-Buchanan,Independence 5th Ward,State Rep.,95,Dem,Kristi Keast, , , 
-Buchanan,Jesup,State Rep.,95,Dem,Kristi Keast, , , 
+Buchanan,Aurora,State Rep.,95,Dem,Kristi Keast,,,
+Buchanan,Brandon,State Rep.,95,Dem,Kristi Keast,,,
+Buchanan,Fairbank,State Rep.,95,Dem,Kristi Keast,,,
+Buchanan,Hazleton,State Rep.,95,Dem,Kristi Keast,,,
+Buchanan,Independence 1st Ward,State Rep.,95,Dem,Kristi Keast,,,
+Buchanan,Independence 2nd Ward,State Rep.,95,Dem,Kristi Keast,,,
+Buchanan,Independence 3rd Ward,State Rep.,95,Dem,Kristi Keast,,,
+Buchanan,Independence 4th Ward,State Rep.,95,Dem,Kristi Keast,,,
+Buchanan,Independence 5th Ward,State Rep.,95,Dem,Kristi Keast,,,
+Buchanan,Jesup,State Rep.,95,Dem,Kristi Keast,,,
 Buchanan,Middlefield-Newton,State Rep.,95,Dem,Kristi Keast,4.0,17.0,21.0
-Buchanan,Perry-Westburg,State Rep.,95,Dem,Kristi Keast, , , 
-Buchanan,Quasqueton,State Rep.,95,Dem,Kristi Keast, , , 
+Buchanan,Perry-Westburg,State Rep.,95,Dem,Kristi Keast,,,
+Buchanan,Quasqueton,State Rep.,95,Dem,Kristi Keast,,,
 Buchanan,Rowley,State Rep.,95,Dem,Kristi Keast,4.0,40.0,44.0
-Buchanan,Winthrop,State Rep.,95,Dem,Kristi Keast, , , 
+Buchanan,Winthrop,State Rep.,95,Dem,Kristi Keast,,,
 Buchanan,,State Rep.,95,Dem,Kristi Keast,,,65.0
-Buchanan,Aurora,State Rep.,95,Dem,Write-in, , , 
-Buchanan,Brandon,State Rep.,95,Dem,Write-in, , , 
-Buchanan,Fairbank,State Rep.,95,Dem,Write-in, , , 
-Buchanan,Hazleton,State Rep.,95,Dem,Write-in, , , 
-Buchanan,Independence 1st Ward,State Rep.,95,Dem,Write-in, , , 
-Buchanan,Independence 2nd Ward,State Rep.,95,Dem,Write-in, , , 
-Buchanan,Independence 3rd Ward,State Rep.,95,Dem,Write-in, , , 
-Buchanan,Independence 4th Ward,State Rep.,95,Dem,Write-in, , , 
-Buchanan,Independence 5th Ward,State Rep.,95,Dem,Write-in, , , 
-Buchanan,Jesup,State Rep.,95,Dem,Write-in, , , 
+Buchanan,Aurora,State Rep.,95,Dem,Write-in,,,
+Buchanan,Brandon,State Rep.,95,Dem,Write-in,,,
+Buchanan,Fairbank,State Rep.,95,Dem,Write-in,,,
+Buchanan,Hazleton,State Rep.,95,Dem,Write-in,,,
+Buchanan,Independence 1st Ward,State Rep.,95,Dem,Write-in,,,
+Buchanan,Independence 2nd Ward,State Rep.,95,Dem,Write-in,,,
+Buchanan,Independence 3rd Ward,State Rep.,95,Dem,Write-in,,,
+Buchanan,Independence 4th Ward,State Rep.,95,Dem,Write-in,,,
+Buchanan,Independence 5th Ward,State Rep.,95,Dem,Write-in,,,
+Buchanan,Jesup,State Rep.,95,Dem,Write-in,,,
 Buchanan,Middlefield-Newton,State Rep.,95,Dem,Write-in,0.0,0.0,0.0
-Buchanan,Perry-Westburg,State Rep.,95,Dem,Write-in, , , 
-Buchanan,Quasqueton,State Rep.,95,Dem,Write-in, , , 
+Buchanan,Perry-Westburg,State Rep.,95,Dem,Write-in,,,
+Buchanan,Quasqueton,State Rep.,95,Dem,Write-in,,,
 Buchanan,Rowley,State Rep.,95,Dem,Write-in,0.0,0.0,0.0
-Buchanan,Winthrop,State Rep.,95,Dem,Write-in, , , 
+Buchanan,Winthrop,State Rep.,95,Dem,Write-in,,,
 Buchanan,,State Rep.,95,Dem,Write-in,,,0.0
