@@ -707,8 +707,8 @@ Marion,Clay,Clay Township Clerk,,,Marcia Boyd,277,186,91
 Marion,Clay,Clay Township Clerk,,,Write-in,3,2,1
 Marion,Dallas,Dallas Township Trustee,,,Curtis Seddon,140,107,33
 Marion,Dallas,Dallas Township Trustee,,,Write-in,8,7,1
-Marion,Dallas,Dallas Township Trustee, To Fill a Vacancy,,William Bauer,153,121,32
-Marion,Dallas,Dallas Township Trustee, To Fill a Vacancy,,Write-in,1,0,1
+Marion,Dallas,Dallas Township Trustee,To Fill a Vacancy,,William Bauer,153,121,32
+Marion,Dallas,Dallas Township Trustee,To Fill a Vacancy,,Write-in,1,0,1
 Marion,Dallas,Dallas Township Clerk,,,Barbara Quick,157,120,37
 Marion,Dallas,Dallas Township Clerk,,,Write-in,1,0,1
 Marion,Pleasantville,Franklin Township Trustee,,,Bill Wallace,2,2,0
@@ -743,8 +743,8 @@ Marion,Liberty,Liberty Township Clerk,,,Tish Deaver,120,76,44
 Marion,Liberty,Liberty Township Clerk,,,Write-in,2,0,2
 Marion,Pleasantville,Pleasant Grove Township Trustee,,,Dennis McNerny,403,271,132
 Marion,Pleasantville,Pleasant Grove Township Trustee,,,Write-in,4,3,1
-Marion,Pleasantville,Pleasant Grove Township Trustee, To Fill a Vacancy,,Frank M. De Joode,383,260,123
-Marion,Pleasantville,Pleasant Grove Township Trustee, To Fill a Vacancy,,Write-in,4,3,1
+Marion,Pleasantville,Pleasant Grove Township Trustee,To Fill a Vacancy,,Frank M. De Joode,383,260,123
+Marion,Pleasantville,Pleasant Grove Township Trustee,To Fill a Vacancy,,Write-in,4,3,1
 Marion,Pleasantville,Pleasant Grove Township Clerk,,,Phillip H. Myers,400,265,135
 Marion,Pleasantville,Pleasant Grove Township Clerk,,,Write-in,3,2,1
 Marion,Otley,Red Rock Township Trustee,,,Leonard Gosselink,220,100,120
@@ -918,40 +918,40 @@ Marion,Pella Three,Agricultural Extension Council Member,,,Write-in,6,5,1
 Marion,Pella Four,Agricultural Extension Council Member,,,Write-in,4,4,0
 Marion,Pleasantville,Agricultural Extension Council Member,,,Write-in,15,3,12
 Marion,Washington Township,Agricultural Extension Council Member,,,Write-in,3,3,0
-Marion,Clay,Agricultural Extension Council Member, To Fill a Vacancy,,Dan Wichhart,323,224,99
-Marion,Dallas,Agricultural Extension Council Member, To Fill a Vacancy,,Dan Wichhart,399,327,72
-Marion,Indiana Township,Agricultural Extension Council Member, To Fill a Vacancy,,Dan Wichhart,225,140,85
-Marion,Knoxville One,Agricultural Extension Council Member, To Fill a Vacancy,,Dan Wichhart,456,259,197
-Marion,Knoxville Two,Agricultural Extension Council Member, To Fill a Vacancy,,Dan Wichhart,447,226,221
-Marion,Knoxville Three,Agricultural Extension Council Member, To Fill a Vacancy,,Dan Wichhart,594,333,261
-Marion,Knoxville Four,Agricultural Extension Council Member, To Fill a Vacancy,,Dan Wichhart,386,221,165
-Marion,Knoxville Township,Agricultural Extension Council Member, To Fill a Vacancy,,Dan Wichhart,940,450,490
-Marion,Liberty,Agricultural Extension Council Member, To Fill a Vacancy,,Dan Wichhart,228,173,55
-Marion,Lake Prairie Township,Agricultural Extension Council Member, To Fill a Vacancy,,Dan Wichhart,973,579,394
-Marion,Otley,Agricultural Extension Council Member, To Fill a Vacancy,,Dan Wichhart,784,464,320
-Marion,Pella One,Agricultural Extension Council Member, To Fill a Vacancy,,Dan Wichhart,906,562,344
-Marion,Pella Two,Agricultural Extension Council Member, To Fill a Vacancy,,Dan Wichhart,963,574,389
-Marion,Pella Three,Agricultural Extension Council Member, To Fill a Vacancy,,Dan Wichhart,1052,636,416
-Marion,Pella Four,Agricultural Extension Council Member, To Fill a Vacancy,,Dan Wichhart,592,392,200
-Marion,Pleasantville,Agricultural Extension Council Member, To Fill a Vacancy,,Dan Wichhart,1027,683,344
-Marion,Washington Township,Agricultural Extension Council Member, To Fill a Vacancy,,Dan Wichhart,171,114,57
-Marion,Clay,Agricultural Extension Council Member, To Fill a Vacancy,,Write-in,1,0,1
-Marion,Dallas,Agricultural Extension Council Member, To Fill a Vacancy,,Write-in,8,4,4
-Marion,Indiana Township,Agricultural Extension Council Member, To Fill a Vacancy,,Write-in,3,3,0
-Marion,Knoxville One,Agricultural Extension Council Member, To Fill a Vacancy,,Write-in,1,1,0
-Marion,Knoxville Two,Agricultural Extension Council Member, To Fill a Vacancy,,Write-in,3,3,0
-Marion,Knoxville Three,Agricultural Extension Council Member, To Fill a Vacancy,,Write-in,5,3,2
-Marion,Knoxville Four,Agricultural Extension Council Member, To Fill a Vacancy,,Write-in,3,1,2
-Marion,Knoxville Township,Agricultural Extension Council Member, To Fill a Vacancy,,Write-in,9,3,6
-Marion,Liberty,Agricultural Extension Council Member, To Fill a Vacancy,,Write-in,2,1,1
-Marion,Lake Prairie Township,Agricultural Extension Council Member, To Fill a Vacancy,,Write-in,5,1,4
-Marion,Otley,Agricultural Extension Council Member, To Fill a Vacancy,,Write-in,3,2,1
-Marion,Pella One,Agricultural Extension Council Member, To Fill a Vacancy,,Write-in,0,0,0
-Marion,Pella Two,Agricultural Extension Council Member, To Fill a Vacancy,,Write-in,4,4,0
-Marion,Pella Three,Agricultural Extension Council Member, To Fill a Vacancy,,Write-in,2,2,0
-Marion,Pella Four,Agricultural Extension Council Member, To Fill a Vacancy,,Write-in,1,1,0
-Marion,Pleasantville,Agricultural Extension Council Member, To Fill a Vacancy,,Write-in,12,4,8
-Marion,Washington Township,Agricultural Extension Council Member, To Fill a Vacancy,,Write-in,2,2,0
+Marion,Clay,Agricultural Extension Council Member,To Fill a Vacancy,,Dan Wichhart,323,224,99
+Marion,Dallas,Agricultural Extension Council Member,To Fill a Vacancy,,Dan Wichhart,399,327,72
+Marion,Indiana Township,Agricultural Extension Council Member,To Fill a Vacancy,,Dan Wichhart,225,140,85
+Marion,Knoxville One,Agricultural Extension Council Member,To Fill a Vacancy,,Dan Wichhart,456,259,197
+Marion,Knoxville Two,Agricultural Extension Council Member,To Fill a Vacancy,,Dan Wichhart,447,226,221
+Marion,Knoxville Three,Agricultural Extension Council Member,To Fill a Vacancy,,Dan Wichhart,594,333,261
+Marion,Knoxville Four,Agricultural Extension Council Member,To Fill a Vacancy,,Dan Wichhart,386,221,165
+Marion,Knoxville Township,Agricultural Extension Council Member,To Fill a Vacancy,,Dan Wichhart,940,450,490
+Marion,Liberty,Agricultural Extension Council Member,To Fill a Vacancy,,Dan Wichhart,228,173,55
+Marion,Lake Prairie Township,Agricultural Extension Council Member,To Fill a Vacancy,,Dan Wichhart,973,579,394
+Marion,Otley,Agricultural Extension Council Member,To Fill a Vacancy,,Dan Wichhart,784,464,320
+Marion,Pella One,Agricultural Extension Council Member,To Fill a Vacancy,,Dan Wichhart,906,562,344
+Marion,Pella Two,Agricultural Extension Council Member,To Fill a Vacancy,,Dan Wichhart,963,574,389
+Marion,Pella Three,Agricultural Extension Council Member,To Fill a Vacancy,,Dan Wichhart,1052,636,416
+Marion,Pella Four,Agricultural Extension Council Member,To Fill a Vacancy,,Dan Wichhart,592,392,200
+Marion,Pleasantville,Agricultural Extension Council Member,To Fill a Vacancy,,Dan Wichhart,1027,683,344
+Marion,Washington Township,Agricultural Extension Council Member,To Fill a Vacancy,,Dan Wichhart,171,114,57
+Marion,Clay,Agricultural Extension Council Member,To Fill a Vacancy,,Write-in,1,0,1
+Marion,Dallas,Agricultural Extension Council Member,To Fill a Vacancy,,Write-in,8,4,4
+Marion,Indiana Township,Agricultural Extension Council Member,To Fill a Vacancy,,Write-in,3,3,0
+Marion,Knoxville One,Agricultural Extension Council Member,To Fill a Vacancy,,Write-in,1,1,0
+Marion,Knoxville Two,Agricultural Extension Council Member,To Fill a Vacancy,,Write-in,3,3,0
+Marion,Knoxville Three,Agricultural Extension Council Member,To Fill a Vacancy,,Write-in,5,3,2
+Marion,Knoxville Four,Agricultural Extension Council Member,To Fill a Vacancy,,Write-in,3,1,2
+Marion,Knoxville Township,Agricultural Extension Council Member,To Fill a Vacancy,,Write-in,9,3,6
+Marion,Liberty,Agricultural Extension Council Member,To Fill a Vacancy,,Write-in,2,1,1
+Marion,Lake Prairie Township,Agricultural Extension Council Member,To Fill a Vacancy,,Write-in,5,1,4
+Marion,Otley,Agricultural Extension Council Member,To Fill a Vacancy,,Write-in,3,2,1
+Marion,Pella One,Agricultural Extension Council Member,To Fill a Vacancy,,Write-in,0,0,0
+Marion,Pella Two,Agricultural Extension Council Member,To Fill a Vacancy,,Write-in,4,4,0
+Marion,Pella Three,Agricultural Extension Council Member,To Fill a Vacancy,,Write-in,2,2,0
+Marion,Pella Four,Agricultural Extension Council Member,To Fill a Vacancy,,Write-in,1,1,0
+Marion,Pleasantville,Agricultural Extension Council Member,To Fill a Vacancy,,Write-in,12,4,8
+Marion,Washington Township,Agricultural Extension Council Member,To Fill a Vacancy,,Write-in,2,2,0
 Marion,Clay,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,181,129,52
 Marion,Dallas,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,262,202,60
 Marion,Indiana Township,Court of Appeals Judge Anuradha Vaitheswaran,,,Yes,134,75,59

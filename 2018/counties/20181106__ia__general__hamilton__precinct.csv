@@ -255,12 +255,12 @@ Hamilton,PRECINCT 5,State Representative District 48,,,Write-in,0,0,0
 Hamilton,WEBSTER CITY 1,State Representative District 48,,,Write-in,0,0,0
 Hamilton,WEBSTER CITY 2,State Representative District 48,,,Write-in,0,0,0
 Hamilton,WEBSTER CITY 3,State Representative District 48,,,Write-in,0,0,0
-Hamilton,PRECINCT 3,Board of Supervisors, Dist. 3,REP,Rick Young,788,551,237
-Hamilton,PRECINCT 4,Board of Supervisors, Dist. 3,REP,Rick Young,737,507,230
-Hamilton,PRECINCT 5,Board of Supervisors, Dist. 3,REP,Rick Young,453,337,116
-Hamilton,PRECINCT 3,Board of Supervisors, Dist. 3,,Write-in,22,12,10
-Hamilton,PRECINCT 4,Board of Supervisors, Dist. 3,,Write-in,18,13,5
-Hamilton,PRECINCT 5,Board of Supervisors, Dist. 3,,Write-in,6,3,3
+Hamilton,PRECINCT 3,Board of Supervisors,Dist. 3,REP,Rick Young,788,551,237
+Hamilton,PRECINCT 4,Board of Supervisors,Dist. 3,REP,Rick Young,737,507,230
+Hamilton,PRECINCT 5,Board of Supervisors,Dist. 3,REP,Rick Young,453,337,116
+Hamilton,PRECINCT 3,Board of Supervisors,Dist. 3,,Write-in,22,12,10
+Hamilton,PRECINCT 4,Board of Supervisors,Dist. 3,,Write-in,18,13,5
+Hamilton,PRECINCT 5,Board of Supervisors,Dist. 3,,Write-in,6,3,3
 Hamilton,PRECINCT 1,County Treasurer,,REP,Judy Warwick,417,240,177
 Hamilton,PRECINCT 2,County Treasurer,,REP,Judy Warwick,331,207,124
 Hamilton,PRECINCT 3,County Treasurer,,REP,Judy Warwick,607,431,176
@@ -332,8 +332,8 @@ Hamilton,PRECINCT 1,Cass Township Clerk,,,Write-in,1,0,1
 Hamilton,WEBSTER CITY 3,Cass Township Clerk,,,Write-in,0,0,0
 Hamilton,PRECINCT 3,Clear Lake Township Trustee,,,Marvin Ness,128,91,37
 Hamilton,PRECINCT 3,Clear Lake Township Trustee,,,Write-in,1,0,1
-Hamilton,PRECINCT 3,Clear Lake Township Trustee, To Fill a Vacancy,,Carlton Ness,124,89,35
-Hamilton,PRECINCT 3,Clear Lake Township Trustee, To Fill a Vacancy,,Write-in,1,0,1
+Hamilton,PRECINCT 3,Clear Lake Township Trustee,To Fill a Vacancy,,Carlton Ness,124,89,35
+Hamilton,PRECINCT 3,Clear Lake Township Trustee,To Fill a Vacancy,,Write-in,1,0,1
 Hamilton,PRECINCT 3,Clear Lake Township Clerk,,,Staci Olthoff,130,91,39
 Hamilton,PRECINCT 3,Clear Lake Township Clerk,,,Write-in,0,0,0
 Hamilton,PRECINCT 4,Ellsworth Township Trustee,,,Lynn Beyer,2,1,1
@@ -349,13 +349,13 @@ Hamilton,PRECINCT 4,Ellsworth Township Clerk,,,Lynn Knutson,153,93,60
 Hamilton,PRECINCT 4,Ellsworth Township Clerk,,,Write-in,0,0,0
 Hamilton,PRECINCT 1,Freedom Township Trustee,,,David G. Hansen,120,66,54
 Hamilton,PRECINCT 1,Freedom Township Trustee,,,Write-in,1,1,0
-Hamilton,PRECINCT 1,Freedom Township Trustee, To Fill a Vacancy,,John Christopher Moline,1,1,0
-Hamilton,PRECINCT 1,Freedom Township Trustee, To Fill a Vacancy,,Fred Hopkins,1,0,1
-Hamilton,PRECINCT 1,Freedom Township Trustee, To Fill a Vacancy,,Nathan Hay,1,0,1
-Hamilton,PRECINCT 1,Freedom Township Trustee, To Fill a Vacancy,,Josie Greenley,1,0,1
-Hamilton,PRECINCT 1,Freedom Township Trustee, To Fill a Vacancy,,Bryan Gilbert,1,0,1
-Hamilton,PRECINCT 1,Freedom Township Trustee, To Fill a Vacancy,,Karen Mason,1,0,1
-Hamilton,PRECINCT 1,Freedom Township Trustee, To Fill a Vacancy,,Write-in,3,0,3
+Hamilton,PRECINCT 1,Freedom Township Trustee,To Fill a Vacancy,,John Christopher Moline,1,1,0
+Hamilton,PRECINCT 1,Freedom Township Trustee,To Fill a Vacancy,,Fred Hopkins,1,0,1
+Hamilton,PRECINCT 1,Freedom Township Trustee,To Fill a Vacancy,,Nathan Hay,1,0,1
+Hamilton,PRECINCT 1,Freedom Township Trustee,To Fill a Vacancy,,Josie Greenley,1,0,1
+Hamilton,PRECINCT 1,Freedom Township Trustee,To Fill a Vacancy,,Bryan Gilbert,1,0,1
+Hamilton,PRECINCT 1,Freedom Township Trustee,To Fill a Vacancy,,Karen Mason,1,0,1
+Hamilton,PRECINCT 1,Freedom Township Trustee,To Fill a Vacancy,,Write-in,3,0,3
 Hamilton,PRECINCT 1,Freedom Township Clerk,,,Edie Hansen,109,58,51
 Hamilton,PRECINCT 1,Freedom Township Clerk,,,Write-in,1,1,0
 Hamilton,PRECINCT 1,Fremont Township Trustee,,,Tyler Patten,2,0,2
@@ -477,22 +477,22 @@ Hamilton,PRECINCT 5,Soil & Water Conservation District Commissioners,,,Write-in,
 Hamilton,WEBSTER CITY 1,Soil & Water Conservation District Commissioners,,,Write-in,5,3,2
 Hamilton,WEBSTER CITY 2,Soil & Water Conservation District Commissioners,,,Write-in,2,1,1
 Hamilton,WEBSTER CITY 3,Soil & Water Conservation District Commissioners,,,Write-in,1,1,0
-Hamilton,PRECINCT 1,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Lynn Knutson,475,285,190
-Hamilton,PRECINCT 2,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Lynn Knutson,403,256,147
-Hamilton,PRECINCT 3,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Lynn Knutson,752,530,222
-Hamilton,PRECINCT 4,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Lynn Knutson,676,467,209
-Hamilton,PRECINCT 5,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Lynn Knutson,394,295,99
-Hamilton,WEBSTER CITY 1,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Lynn Knutson,754,400,354
-Hamilton,WEBSTER CITY 2,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Lynn Knutson,914,481,433
-Hamilton,WEBSTER CITY 3,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Lynn Knutson,480,282,198
-Hamilton,PRECINCT 1,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Write-in,4,2,2
-Hamilton,PRECINCT 2,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Write-in,2,2,0
-Hamilton,PRECINCT 3,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Write-in,8,4,4
-Hamilton,PRECINCT 4,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Write-in,4,2,2
-Hamilton,PRECINCT 5,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Write-in,6,4,2
-Hamilton,WEBSTER CITY 1,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Write-in,2,2,0
-Hamilton,WEBSTER CITY 2,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Write-in,2,0,2
-Hamilton,WEBSTER CITY 3,Soil & Water Conservation District Commissioners, To Fill a Vacancy,,Write-in,1,0,1
+Hamilton,PRECINCT 1,Soil & Water Conservation District Commissioners,To Fill a Vacancy,,Lynn Knutson,475,285,190
+Hamilton,PRECINCT 2,Soil & Water Conservation District Commissioners,To Fill a Vacancy,,Lynn Knutson,403,256,147
+Hamilton,PRECINCT 3,Soil & Water Conservation District Commissioners,To Fill a Vacancy,,Lynn Knutson,752,530,222
+Hamilton,PRECINCT 4,Soil & Water Conservation District Commissioners,To Fill a Vacancy,,Lynn Knutson,676,467,209
+Hamilton,PRECINCT 5,Soil & Water Conservation District Commissioners,To Fill a Vacancy,,Lynn Knutson,394,295,99
+Hamilton,WEBSTER CITY 1,Soil & Water Conservation District Commissioners,To Fill a Vacancy,,Lynn Knutson,754,400,354
+Hamilton,WEBSTER CITY 2,Soil & Water Conservation District Commissioners,To Fill a Vacancy,,Lynn Knutson,914,481,433
+Hamilton,WEBSTER CITY 3,Soil & Water Conservation District Commissioners,To Fill a Vacancy,,Lynn Knutson,480,282,198
+Hamilton,PRECINCT 1,Soil & Water Conservation District Commissioners,To Fill a Vacancy,,Write-in,4,2,2
+Hamilton,PRECINCT 2,Soil & Water Conservation District Commissioners,To Fill a Vacancy,,Write-in,2,2,0
+Hamilton,PRECINCT 3,Soil & Water Conservation District Commissioners,To Fill a Vacancy,,Write-in,8,4,4
+Hamilton,PRECINCT 4,Soil & Water Conservation District Commissioners,To Fill a Vacancy,,Write-in,4,2,2
+Hamilton,PRECINCT 5,Soil & Water Conservation District Commissioners,To Fill a Vacancy,,Write-in,6,4,2
+Hamilton,WEBSTER CITY 1,Soil & Water Conservation District Commissioners,To Fill a Vacancy,,Write-in,2,2,0
+Hamilton,WEBSTER CITY 2,Soil & Water Conservation District Commissioners,To Fill a Vacancy,,Write-in,2,0,2
+Hamilton,WEBSTER CITY 3,Soil & Water Conservation District Commissioners,To Fill a Vacancy,,Write-in,1,0,1
 Hamilton,PRECINCT 1,Agricultural Extension Council Members,,,Tyler Burton,313,189,124
 Hamilton,PRECINCT 2,Agricultural Extension Council Members,,,Tyler Burton,354,221,133
 Hamilton,PRECINCT 3,Agricultural Extension Council Members,,,Tyler Burton,465,326,139
