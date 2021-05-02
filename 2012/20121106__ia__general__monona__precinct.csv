@@ -109,28 +109,28 @@ Monona,SH010,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Li
 Monona,SH010,President/Vice President,,,Write-In,0.0,2.0,2.0
 Monona,SH010,President/Vice President,,,Under Votes,2.0,0.0,2.0
 Monona,SH010,President/Vice President,,,Over Votes,1.0,0.0,1.0
-Monona,STC11,Mitt RomneyPaul RyanRepublican,,Republican,Mitt Romney Paul Ryan,40.0,116.0,156.0
-Monona,STC11,Mitt RomneyPaul RyanRepublican,,Democratic,Barack Obama Joe Biden,30.0,95.0,125.0
-Monona,STC11,Mitt RomneyPaul RyanRepublican,,Constitution,Virgil Goode James Clymer,0.0,0.0,0.0
-Monona,STC11,Mitt RomneyPaul RyanRepublican,,Iowa Green Party,Jill Stein Cheri Honkala,1.0,1.0,2.0
-Monona,STC11,Mitt RomneyPaul RyanRepublican,,Libertarian,Gary Johnson James P. Gray,0.0,1.0,1.0
-Monona,STC11,Mitt RomneyPaul RyanRepublican,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,0.0,0.0
-Monona,STC11,Mitt RomneyPaul RyanRepublican,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,0.0,0.0
-Monona,STC11,Mitt RomneyPaul RyanRepublican,,Nominated by Petition,Jerry Litzel Jim Litzel,0.0,0.0,0.0
-Monona,STC11,Mitt RomneyPaul RyanRepublican,,,Write-In,0.0,1.0,1.0
-Monona,STC11,Mitt RomneyPaul RyanRepublican,,,Under Votes,0.0,1.0,1.0
-Monona,STC11,Mitt RomneyPaul RyanRepublican,,,Over Votes,0.0,0.0,0.0
-Monona,,Mitt RomneyPaul RyanRepublican,,Republican,Mitt Romney Paul Ryan,768.0,1789.0,2557.0
-Monona,,Mitt RomneyPaul RyanRepublican,,Democratic,Barack Obama Joe Biden,779.0,1322.0,2101.0
-Monona,,Mitt RomneyPaul RyanRepublican,,Constitution,Virgil Goode James Clymer,2.0,7.0,9.0
-Monona,,Mitt RomneyPaul RyanRepublican,,Iowa Green Party,Jill Stein Cheri Honkala,3.0,7.0,10.0
-Monona,,Mitt RomneyPaul RyanRepublican,,Libertarian,Gary Johnson James P. Gray,9.0,20.0,29.0
-Monona,,Mitt RomneyPaul RyanRepublican,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,3.0,3.0
-Monona,,Mitt RomneyPaul RyanRepublican,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,1.0,1.0
-Monona,,Mitt RomneyPaul RyanRepublican,,Nominated by Petition,Jerry Litzel Jim Litzel,1.0,2.0,3.0
-Monona,,Mitt RomneyPaul RyanRepublican,,,Write-In,10.0,19.0,29.0
-Monona,,Mitt RomneyPaul RyanRepublican,,,Under Votes,16.0,20.0,36.0
-Monona,,Mitt RomneyPaul RyanRepublican,,,Over Votes,1.0,0.0,1.0
+Monona,STC11,President/Vice President,,Republican,Mitt Romney Paul Ryan,40.0,116.0,156.0
+Monona,STC11,President/Vice President,,Democratic,Barack Obama Joe Biden,30.0,95.0,125.0
+Monona,STC11,President/Vice President,,Constitution,Virgil Goode James Clymer,0.0,0.0,0.0
+Monona,STC11,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,1.0,1.0,2.0
+Monona,STC11,President/Vice President,,Libertarian,Gary Johnson James P. Gray,0.0,1.0,1.0
+Monona,STC11,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,0.0,0.0
+Monona,STC11,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,0.0,0.0
+Monona,STC11,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,0.0,0.0,0.0
+Monona,STC11,President/Vice President,,,Write-In,0.0,1.0,1.0
+Monona,STC11,President/Vice President,,,Under Votes,0.0,1.0,1.0
+Monona,STC11,President/Vice President,,,Over Votes,0.0,0.0,0.0
+Monona,,President/Vice President,,Republican,Mitt Romney Paul Ryan,768.0,1789.0,2557.0
+Monona,,President/Vice President,,Democratic,Barack Obama Joe Biden,779.0,1322.0,2101.0
+Monona,,President/Vice President,,Constitution,Virgil Goode James Clymer,2.0,7.0,9.0
+Monona,,President/Vice President,,Iowa Green Party,Jill Stein Cheri Honkala,3.0,7.0,10.0
+Monona,,President/Vice President,,Libertarian,Gary Johnson James P. Gray,9.0,20.0,29.0
+Monona,,President/Vice President,,Party for Socialism and Liberation,Gloria LaRiva Stefanie Beacham,0.0,3.0,3.0
+Monona,,President/Vice President,,Socialist Workers Party,James Harris Alyson Kennedy,0.0,1.0,1.0
+Monona,,President/Vice President,,Nominated by Petition,Jerry Litzel Jim Litzel,1.0,2.0,3.0
+Monona,,President/Vice President,,,Write-In,10.0,19.0,29.0
+Monona,,President/Vice President,,,Under Votes,16.0,20.0,36.0
+Monona,,President/Vice President,,,Over Votes,1.0,0.0,1.0
 Monona,AS001,U.S. House of Representatives,4,Republican,Steve King,88.0,183.0,271.0
 Monona,AS001,U.S. House of Representatives,4,Democratic,Christie Vilsack,79.0,71.0,150.0
 Monona,AS001,U.S. House of Representatives,4,Nominated by Petition,Martin James Monroe,4.0,3.0,7.0
@@ -191,18 +191,18 @@ Monona,SH010,U.S. House of Representatives,4,Nominated by Petition,Martin James 
 Monona,SH010,U.S. House of Representatives,4,,Write-In,0.0,0.0,0.0
 Monona,SH010,U.S. House of Representatives,4,,Under Votes,1.0,2.0,3.0
 Monona,SH010,U.S. House of Representatives,4,,Over Votes,0.0,0.0,0.0
-Monona,STC11,Steve KingRepublican,,Republican,Steve King,38.0,121.0,159.0
-Monona,STC11,Steve KingRepublican,,Democratic,Christie Vilsack,32.0,79.0,111.0
-Monona,STC11,Steve KingRepublican,,Nominated by Petition,Martin James Monroe,1.0,10.0,11.0
-Monona,STC11,Steve KingRepublican,,,Write-In,0.0,0.0,0.0
-Monona,STC11,Steve KingRepublican,,,Under Votes,0.0,5.0,5.0
-Monona,STC11,Steve KingRepublican,,,Over Votes,0.0,0.0,0.0
-Monona,,Steve KingRepublican,,Republican,Steve King,788.0,1910.0,2698.0
-Monona,,Steve KingRepublican,,Democratic,Christie Vilsack,727.0,1149.0,1876.0
-Monona,,Steve KingRepublican,,Nominated by Petition,Martin James Monroe,31.0,77.0,108.0
-Monona,,Steve KingRepublican,,,Write-In,2.0,4.0,6.0
-Monona,,Steve KingRepublican,,,Under Votes,41.0,50.0,91.0
-Monona,,Steve KingRepublican,,,Over Votes,0.0,0.0,0.0
+Monona,STC11,U.S. House of Representatives,,Republican,Steve King,38.0,121.0,159.0
+Monona,STC11,U.S. House of Representatives,,Democratic,Christie Vilsack,32.0,79.0,111.0
+Monona,STC11,U.S. House of Representatives,,Nominated by Petition,Martin James Monroe,1.0,10.0,11.0
+Monona,STC11,U.S. House of Representatives,,,Write-In,0.0,0.0,0.0
+Monona,STC11,U.S. House of Representatives,,,Under Votes,0.0,5.0,5.0
+Monona,STC11,U.S. House of Representatives,,,Over Votes,0.0,0.0,0.0
+Monona,,U.S. House of Representatives,,Republican,Steve King,788.0,1910.0,2698.0
+Monona,,U.S. House of Representatives,,Democratic,Christie Vilsack,727.0,1149.0,1876.0
+Monona,,U.S. House of Representatives,,Nominated by Petition,Martin James Monroe,31.0,77.0,108.0
+Monona,,U.S. House of Representatives,,,Write-In,2.0,4.0,6.0
+Monona,,U.S. House of Representatives,,,Under Votes,41.0,50.0,91.0
+Monona,,U.S. House of Representatives,,,Over Votes,0.0,0.0,0.0
 Monona,AS001,State Representative,17,Republican,Matt W. Windschitl,109.0,203.0,312.0
 Monona,AS001,State Representative,17,,Write-In,1.0,4.0,5.0
 Monona,AS001,State Representative,17,,Under Votes,67.0,52.0,119.0
@@ -243,14 +243,14 @@ Monona,SH010,State Representative,17,Republican,Matt W. Windschitl,59.0,161.0,22
 Monona,SH010,State Representative,17,,Write-In,0.0,0.0,0.0
 Monona,SH010,State Representative,17,,Under Votes,30.0,50.0,80.0
 Monona,SH010,State Representative,17,,Over Votes,0.0,0.0,0.0
-Monona,STC11,Matt W. WindschitlRepublican,,Republican,Matt W. Windschitl,41.0,157.0,198.0
-Monona,STC11,Matt W. WindschitlRepublican,,,Write-In,0.0,1.0,1.0
-Monona,STC11,Matt W. WindschitlRepublican,,,Under Votes,30.0,57.0,87.0
-Monona,STC11,Matt W. WindschitlRepublican,,,Over Votes,0.0,0.0,0.0
-Monona,,Matt W. WindschitlRepublican,,Republican,Matt W. Windschitl,1028.0,2428.0,3456.0
-Monona,,Matt W. WindschitlRepublican,,,Write-In,17.0,23.0,40.0
-Monona,,Matt W. WindschitlRepublican,,,Under Votes,543.0,738.0,1281.0
-Monona,,Matt W. WindschitlRepublican,,,Over Votes,1.0,1.0,2.0
+Monona,STC11,State Representative,,Republican,Matt W. Windschitl,41.0,157.0,198.0
+Monona,STC11,State Representative,,,Write-In,0.0,1.0,1.0
+Monona,STC11,State Representative,,,Under Votes,30.0,57.0,87.0
+Monona,STC11,State Representative,,,Over Votes,0.0,0.0,0.0
+Monona,,State Representative,,Republican,Matt W. Windschitl,1028.0,2428.0,3456.0
+Monona,,State Representative,,,Write-In,17.0,23.0,40.0
+Monona,,State Representative,,,Under Votes,543.0,738.0,1281.0
+Monona,,State Representative,,,Over Votes,1.0,1.0,2.0
 Monona,AS001,Co. Supervisor Dist 1,,Republican,Brady Hanson,83.0,140.0,223.0
 Monona,AS001,Co. Supervisor Dist 1,,Democratic,Dave Poole,85.0,111.0,196.0
 Monona,AS001,Co. Supervisor Dist 1,,,Write-In,1.0,1.0,2.0
@@ -331,16 +331,16 @@ Monona,SH010,County Auditor,,Democratic,Brooke Kuhlmann,71.0,146.0,217.0
 Monona,SH010,County Auditor,,,Write-In,0.0,0.0,0.0
 Monona,SH010,County Auditor,,,Under Votes,1.0,3.0,4.0
 Monona,SH010,County Auditor,,,Over Votes,0.0,0.0,0.0
-Monona,STC11,Jeff GeeRepublican,,Republican,Jeff Gee,18.0,81.0,99.0
-Monona,STC11,Jeff GeeRepublican,,Democratic,Brooke Kuhlmann,53.0,128.0,181.0
-Monona,STC11,Jeff GeeRepublican,,,Write-In,0.0,0.0,0.0
-Monona,STC11,Jeff GeeRepublican,,,Under Votes,0.0,6.0,6.0
-Monona,STC11,Jeff GeeRepublican,,,Over Votes,0.0,0.0,0.0
-Monona,,Jeff GeeRepublican,,Republican,Jeff Gee,468.0,1240.0,1708.0
-Monona,,Jeff GeeRepublican,,Democratic,Brooke Kuhlmann,1081.0,1869.0,2950.0
-Monona,,Jeff GeeRepublican,,,Write-In,0.0,6.0,6.0
-Monona,,Jeff GeeRepublican,,,Under Votes,39.0,75.0,114.0
-Monona,,Jeff GeeRepublican,,,Over Votes,1.0,0.0,1.0
+Monona,STC11,County Auditor,,Republican,Jeff Gee,18.0,81.0,99.0
+Monona,STC11,County Auditor,,Democratic,Brooke Kuhlmann,53.0,128.0,181.0
+Monona,STC11,County Auditor,,,Write-In,0.0,0.0,0.0
+Monona,STC11,County Auditor,,,Under Votes,0.0,6.0,6.0
+Monona,STC11,County Auditor,,,Over Votes,0.0,0.0,0.0
+Monona,,County Auditor,,Republican,Jeff Gee,468.0,1240.0,1708.0
+Monona,,County Auditor,,Democratic,Brooke Kuhlmann,1081.0,1869.0,2950.0
+Monona,,County Auditor,,,Write-In,0.0,6.0,6.0
+Monona,,County Auditor,,,Under Votes,39.0,75.0,114.0
+Monona,,County Auditor,,,Over Votes,1.0,0.0,1.0
 Monona,AS001,County Sheriff,,Democratic,Jeffrey R. Pratt,136.0,203.0,339.0
 Monona,AS001,County Sheriff,,,Write-In,5.0,11.0,16.0
 Monona,AS001,County Sheriff,,,Under Votes,37.0,45.0,82.0
@@ -381,14 +381,14 @@ Monona,SH010,County Sheriff,,Democratic,Jeffrey R. Pratt,72.0,181.0,253.0
 Monona,SH010,County Sheriff,,,Write-In,3.0,6.0,9.0
 Monona,SH010,County Sheriff,,,Under Votes,14.0,24.0,38.0
 Monona,SH010,County Sheriff,,,Over Votes,0.0,0.0,0.0
-Monona,STC11,Jeffrey R. PrattDemocratic,,Democratic,Jeffrey R. Pratt,56.0,175.0,231.0
-Monona,STC11,Jeffrey R. PrattDemocratic,,,Write-In,0.0,2.0,2.0
-Monona,STC11,Jeffrey R. PrattDemocratic,,,Under Votes,15.0,38.0,53.0
-Monona,STC11,Jeffrey R. PrattDemocratic,,,Over Votes,0.0,0.0,0.0
-Monona,,Jeffrey R. PrattDemocratic,,Democratic,Jeffrey R. Pratt,1233.0,2555.0,3788.0
-Monona,,Jeffrey R. PrattDemocratic,,,Write-In,40.0,85.0,125.0
-Monona,,Jeffrey R. PrattDemocratic,,,Under Votes,316.0,550.0,866.0
-Monona,,Jeffrey R. PrattDemocratic,,,Over Votes,0.0,0.0,0.0
+Monona,STC11,County Sheriff,,Democratic,Jeffrey R. Pratt,56.0,175.0,231.0
+Monona,STC11,County Sheriff,,,Write-In,0.0,2.0,2.0
+Monona,STC11,County Sheriff,,,Under Votes,15.0,38.0,53.0
+Monona,STC11,County Sheriff,,,Over Votes,0.0,0.0,0.0
+Monona,,County Sheriff,,Democratic,Jeffrey R. Pratt,1233.0,2555.0,3788.0
+Monona,,County Sheriff,,,Write-In,40.0,85.0,125.0
+Monona,,County Sheriff,,,Under Votes,316.0,550.0,866.0
+Monona,,County Sheriff,,,Over Votes,0.0,0.0,0.0
 Monona,CN002,Center Twp Trustee,,,Russell Melby,26.0,42.0,68.0
 Monona,CN002,Center Twp Trustee,,,Write-In,0.0,0.0,0.0
 Monona,CN002,Center Twp Trustee,,,Under Votes,10.0,12.0,22.0
@@ -471,16 +471,16 @@ Monona,SH010,Soil & Water Dist Comm,,,Steve Smith,41.0,112.0,153.0
 Monona,SH010,Soil & Water Dist Comm,,,Write-In,4.0,6.0,10.0
 Monona,SH010,Soil & Water Dist Comm,,,Under Votes,164.0,379.0,543.0
 Monona,SH010,Soil & Water Dist Comm,,,Over Votes,0.0,0.0,0.0
-Monona,STC11,James Alexander,,,James Alexander,37.0,101.0,138.0
-Monona,STC11,James Alexander,,,Steve Smith,36.0,96.0,132.0
-Monona,STC11,James Alexander,,,Write-In,2.0,1.0,3.0
-Monona,STC11,James Alexander,,,Under Votes,138.0,447.0,585.0
-Monona,STC11,James Alexander,,,Over Votes,0.0,0.0,0.0
-Monona,,James Alexander,,,James Alexander,902.0,1835.0,2737.0
-Monona,,James Alexander,,,Steve Smith,772.0,1704.0,2476.0
-Monona,,James Alexander,,,Write-In,42.0,55.0,97.0
-Monona,,James Alexander,,,Under Votes,3051.0,5976.0,9027.0
-Monona,,James Alexander,,,Over Votes,0.0,0.0,0.0
+Monona,STC11,Soil & Water Dist Comm,,,James Alexander,37.0,101.0,138.0
+Monona,STC11,Soil & Water Dist Comm,,,Steve Smith,36.0,96.0,132.0
+Monona,STC11,Soil & Water Dist Comm,,,Write-In,2.0,1.0,3.0
+Monona,STC11,Soil & Water Dist Comm,,,Under Votes,138.0,447.0,585.0
+Monona,STC11,Soil & Water Dist Comm,,,Over Votes,0.0,0.0,0.0
+Monona,,Soil & Water Dist Comm,,,James Alexander,902.0,1835.0,2737.0
+Monona,,Soil & Water Dist Comm,,,Steve Smith,772.0,1704.0,2476.0
+Monona,,Soil & Water Dist Comm,,,Write-In,42.0,55.0,97.0
+Monona,,Soil & Water Dist Comm,,,Under Votes,3051.0,5976.0,9027.0
+Monona,,Soil & Water Dist Comm,,,Over Votes,0.0,0.0,0.0
 Monona,AS001,Co. Agri Extension Council,,,Lisa Bruning,106.0,158.0,264.0
 Monona,AS001,Co. Agri Extension Council,,,Norman Parker,86.0,126.0,212.0
 Monona,AS001,Co. Agri Extension Council,,,Laura J. Neldeberg,96.0,162.0,258.0
@@ -551,20 +551,20 @@ Monona,SH010,Co. Agri Extension Council,,,Robert Haack,47.0,112.0,159.0
 Monona,SH010,Co. Agri Extension Council,,,Write-In,0.0,2.0,2.0
 Monona,SH010,Co. Agri Extension Council,,,Under Votes,160.0,354.0,514.0
 Monona,SH010,Co. Agri Extension Council,,,Over Votes,0.0,0.0,0.0
-Monona,STC11,Lisa Bruning,,,Lisa Bruning,39.0,114.0,153.0
-Monona,STC11,Lisa Bruning,,,Norman Parker,35.0,95.0,130.0
-Monona,STC11,Lisa Bruning,,,Laura J. Neldeberg,35.0,78.0,113.0
-Monona,STC11,Lisa Bruning,,,Robert Haack,36.0,85.0,121.0
-Monona,STC11,Lisa Bruning,,,Write-In,0.0,0.0,0.0
-Monona,STC11,Lisa Bruning,,,Under Votes,139.0,488.0,627.0
-Monona,STC11,Lisa Bruning,,,Over Votes,0.0,0.0,0.0
-Monona,,Lisa Bruning,,,Lisa Bruning,879.0,1872.0,2751.0
-Monona,,Lisa Bruning,,,Norman Parker,797.0,1664.0,2461.0
-Monona,,Lisa Bruning,,,Laura J. Neldeberg,874.0,1793.0,2667.0
-Monona,,Lisa Bruning,,,Robert Haack,788.0,1618.0,2406.0
-Monona,,Lisa Bruning,,,Write-In,9.0,21.0,30.0
-Monona,,Lisa Bruning,,,Under Votes,3009.0,5792.0,8801.0
-Monona,,Lisa Bruning,,,Over Votes,0.0,0.0,0.0
+Monona,STC11,Co. Agri Extension Council,,,Lisa Bruning,39.0,114.0,153.0
+Monona,STC11,Co. Agri Extension Council,,,Norman Parker,35.0,95.0,130.0
+Monona,STC11,Co. Agri Extension Council,,,Laura J. Neldeberg,35.0,78.0,113.0
+Monona,STC11,Co. Agri Extension Council,,,Robert Haack,36.0,85.0,121.0
+Monona,STC11,Co. Agri Extension Council,,,Write-In,0.0,0.0,0.0
+Monona,STC11,Co. Agri Extension Council,,,Under Votes,139.0,488.0,627.0
+Monona,STC11,Co. Agri Extension Council,,,Over Votes,0.0,0.0,0.0
+Monona,,Co. Agri Extension Council,,,Lisa Bruning,879.0,1872.0,2751.0
+Monona,,Co. Agri Extension Council,,,Norman Parker,797.0,1664.0,2461.0
+Monona,,Co. Agri Extension Council,,,Laura J. Neldeberg,874.0,1793.0,2667.0
+Monona,,Co. Agri Extension Council,,,Robert Haack,788.0,1618.0,2406.0
+Monona,,Co. Agri Extension Council,,,Write-In,9.0,21.0,30.0
+Monona,,Co. Agri Extension Council,,,Under Votes,3009.0,5792.0,8801.0
+Monona,,Co. Agri Extension Council,,,Over Votes,0.0,0.0,0.0
 Monona,AS001,Co. Agri Extension Council Vacancy,,,Cheryl Warner,124.0,181.0,305.0
 Monona,AS001,Co. Agri Extension Council Vacancy,,,Write-In,2.0,2.0,4.0
 Monona,AS001,Co. Agri Extension Council Vacancy,,,Under Votes,52.0,76.0,128.0
@@ -605,14 +605,14 @@ Monona,SH010,Co. Agri Extension Council Vacancy,,,Cheryl Warner,59.0,151.0,210.0
 Monona,SH010,Co. Agri Extension Council Vacancy,,,Write-In,0.0,3.0,3.0
 Monona,SH010,Co. Agri Extension Council Vacancy,,,Under Votes,30.0,57.0,87.0
 Monona,SH010,Co. Agri Extension Council Vacancy,,,Over Votes,0.0,0.0,0.0
-Monona,STC11,Cheryl Warner,,,Cheryl Warner,42.0,124.0,166.0
-Monona,STC11,Cheryl Warner,,,Write-In,2.0,0.0,2.0
-Monona,STC11,Cheryl Warner,,,Under Votes,27.0,91.0,118.0
-Monona,STC11,Cheryl Warner,,,Over Votes,0.0,0.0,0.0
-Monona,,Cheryl Warner,,,Cheryl Warner,1016.0,2213.0,3229.0
-Monona,,Cheryl Warner,,,Write-In,10.0,16.0,26.0
-Monona,,Cheryl Warner,,,Under Votes,563.0,961.0,1524.0
-Monona,,Cheryl Warner,,,Over Votes,0.0,0.0,0.0
+Monona,STC11,Co. Agri Extension Council Vacancy,,,Cheryl Warner,42.0,124.0,166.0
+Monona,STC11,Co. Agri Extension Council Vacancy,,,Write-In,2.0,0.0,2.0
+Monona,STC11,Co. Agri Extension Council Vacancy,,,Under Votes,27.0,91.0,118.0
+Monona,STC11,Co. Agri Extension Council Vacancy,,,Over Votes,0.0,0.0,0.0
+Monona,,Co. Agri Extension Council Vacancy,,,Cheryl Warner,1016.0,2213.0,3229.0
+Monona,,Co. Agri Extension Council Vacancy,,,Write-In,10.0,16.0,26.0
+Monona,,Co. Agri Extension Council Vacancy,,,Under Votes,563.0,961.0,1524.0
+Monona,,Co. Agri Extension Council Vacancy,,,Over Votes,0.0,0.0,0.0
 Monona,CP003,Mapleton Council Vacancy,,,Jerry R. Bumstead,68.0,149.0,217.0
 Monona,CP003,Mapleton Council Vacancy,,,Andy Hatler,54.0,195.0,249.0
 Monona,CP003,Mapleton Council Vacancy,,,Taylor E. Olson,24.0,57.0,81.0
