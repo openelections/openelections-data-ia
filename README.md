@@ -1,4 +1,4 @@
-# openelections-data-ia
+# openelections-data-ia [![Build Status](https://github.com/openelections/openelections-data-ia/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-ia/actions)
 
 Election results for Iowa.
 
