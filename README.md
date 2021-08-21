@@ -1,4 +1,7 @@
-# openelections-data-ia [![Build Status](https://github.com/openelections/openelections-data-ia/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-ia/actions)
+[![Build Status](https://github.com/openelections/openelections-data-ia/actions/workflows/data_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-ia/actions)
+[![Build Status](https://github.com/openelections/openelections-data-ia/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-ia/actions)
+
+# openelections-data-ia
 
 Election results for Iowa.
 
