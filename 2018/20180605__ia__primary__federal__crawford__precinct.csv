@@ -135,34 +135,34 @@ Crawford,Denison 3rd Ward - Goodrich TWP,Attorney General,,,Write-in,0,0,0
 Crawford,Northeast,Attorney General,,,Write-in,0,0,0
 Crawford,Southeast,Attorney General,,,Write-in,0,0,0
 Crawford,SRK,Attorney General,,,Write-in,0,0,0
-Crawford,Charter Oak,State Senator District 9,,REP,Jason Schultz,72,9,63
-Crawford,DCAB,State Senator District 9,,REP,Jason Schultz,41,3,38
-Crawford,Denison 1st Ward,State Senator District 9,,REP,Jason Schultz,61,3,58
-Crawford,Denison 2nd Ward - Denison TWP,State Senator District 9,,REP,Jason Schultz,48,8,40
-Crawford,Denison 3rd Ward - Goodrich TWP,State Senator District 9,,REP,Jason Schultz,106,25,81
-Crawford,SRK,State Senator District 9,,REP,Jason Schultz,62,8,54
-Crawford,Charter Oak,State Senator District 9,,,Write-in,0,0,0
-Crawford,DCAB,State Senator District 9,,,Write-in,0,0,0
-Crawford,Denison 1st Ward,State Senator District 9,,,Write-in,0,0,0
-Crawford,Denison 2nd Ward - Denison TWP,State Senator District 9,,,Write-in,0,0,0
-Crawford,Denison 3rd Ward - Goodrich TWP,State Senator District 9,,,Write-in,0,0,0
-Crawford,SRK,State Senator District 9,,,Write-in,0,0,0
-Crawford,Northeast,State Representative District 12,,REP,Brian Best,50,6,44
-Crawford,Southeast,State Representative District 12,,REP,Brian Best,46,9,37
-Crawford,Northeast,State Representative District 12,,,Write-in,0,0,0
-Crawford,Southeast,State Representative District 12,,,Write-in,0,0,0
-Crawford,Charter Oak,State Representative District 18,,REP,Steven Holt,63,9,54
-Crawford,DCAB,State Representative District 18,,REP,Steven Holt,41,3,38
-Crawford,Denison 1st Ward,State Representative District 18,,REP,Steven Holt,59,3,56
-Crawford,Denison 2nd Ward - Denison TWP,State Representative District 18,,REP,Steven Holt,47,8,39
-Crawford,Denison 3rd Ward - Goodrich TWP,State Representative District 18,,REP,Steven Holt,103,26,77
-Crawford,SRK,State Representative District 18,,REP,Steven Holt,59,7,52
-Crawford,Charter Oak,State Representative District 18,,,Write-in,0,0,0
-Crawford,DCAB,State Representative District 18,,,Write-in,0,0,0
-Crawford,Denison 1st Ward,State Representative District 18,,,Write-in,0,0,0
-Crawford,Denison 2nd Ward - Denison TWP,State Representative District 18,,,Write-in,0,0,0
-Crawford,Denison 3rd Ward - Goodrich TWP,State Representative District 18,,,Write-in,0,0,0
-Crawford,SRK,State Representative District 18,,,Write-in,0,0,0
+Crawford,Charter Oak,State Senate,9,REP,Jason Schultz,72,9,63
+Crawford,DCAB,State Senate,9,REP,Jason Schultz,41,3,38
+Crawford,Denison 1st Ward,State Senate,9,REP,Jason Schultz,61,3,58
+Crawford,Denison 2nd Ward - Denison TWP,State Senate,9,REP,Jason Schultz,48,8,40
+Crawford,Denison 3rd Ward - Goodrich TWP,State Senate,9,REP,Jason Schultz,106,25,81
+Crawford,SRK,State Senate,9,REP,Jason Schultz,62,8,54
+Crawford,Charter Oak,State Senate,9,,Write-in,0,0,0
+Crawford,DCAB,State Senate,9,,Write-in,0,0,0
+Crawford,Denison 1st Ward,State Senate,9,,Write-in,0,0,0
+Crawford,Denison 2nd Ward - Denison TWP,State Senate,9,,Write-in,0,0,0
+Crawford,Denison 3rd Ward - Goodrich TWP,State Senate,9,,Write-in,0,0,0
+Crawford,SRK,State Senate,9,,Write-in,0,0,0
+Crawford,Northeast,State House,12,REP,Brian Best,50,6,44
+Crawford,Southeast,State House,12,REP,Brian Best,46,9,37
+Crawford,Northeast,State House,12,,Write-in,0,0,0
+Crawford,Southeast,State House,12,,Write-in,0,0,0
+Crawford,Charter Oak,State House,18,REP,Steven Holt,63,9,54
+Crawford,DCAB,State House,18,REP,Steven Holt,41,3,38
+Crawford,Denison 1st Ward,State House,18,REP,Steven Holt,59,3,56
+Crawford,Denison 2nd Ward - Denison TWP,State House,18,REP,Steven Holt,47,8,39
+Crawford,Denison 3rd Ward - Goodrich TWP,State House,18,REP,Steven Holt,103,26,77
+Crawford,SRK,State House,18,REP,Steven Holt,59,7,52
+Crawford,Charter Oak,State House,18,,Write-in,0,0,0
+Crawford,DCAB,State House,18,,Write-in,0,0,0
+Crawford,Denison 1st Ward,State House,18,,Write-in,0,0,0
+Crawford,Denison 2nd Ward - Denison TWP,State House,18,,Write-in,0,0,0
+Crawford,Denison 3rd Ward - Goodrich TWP,State House,18,,Write-in,0,0,0
+Crawford,SRK,State House,18,,Write-in,0,0,0
 Crawford,Charter Oak,County Board of Supervisors District 3,,REP,Kyle R. Schultz,79,13,66
 Crawford,DCAB,County Board of Supervisors District 3,,REP,Kyle R. Schultz,43,2,41
 Crawford,Denison 1st Ward,County Board of Supervisors District 3,,REP,Kyle R. Schultz,60,3,57
@@ -371,8 +371,8 @@ Crawford,Denison 3rd Ward - Goodrich TWP,Attorney General,,DEM,Tom Miller,64,24,
 Crawford,Northeast,Attorney General,,DEM,Tom Miller,32,5,27
 Crawford,Southeast,Attorney General,,DEM,Tom Miller,39,9,30
 Crawford,SRK,Attorney General,,DEM,Tom Miller,25,5,20
-Crawford,Northeast,State Representative District 12,,DEM,Peter Leo,27,5,22
-Crawford,Southeast,State Representative District 12,,DEM,Peter Leo,37,7,30
+Crawford,Northeast,State House,12,DEM,Peter Leo,27,5,22
+Crawford,Southeast,State House,12,DEM,Peter Leo,37,7,30
 Crawford,Charter Oak,County Board of Supervisors District 3,,DEM,Jeri Vogt,25,2,23
 Crawford,DCAB,County Board of Supervisors District 3,,DEM,Jeri Vogt,73,7,66
 Crawford,Denison 1st Ward,County Board of Supervisors District 3,,DEM,Jeri Vogt,42,11,31

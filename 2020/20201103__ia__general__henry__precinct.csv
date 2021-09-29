@@ -107,42 +107,42 @@ Henry,Northeast Precinct,U.S. House,2,,Write-in,4,3,1
 Henry,Northwest Precinct,U.S. House,2,,Write-in,0,0,0
 Henry,Southeast Precinct,U.S. House,2,,Write-in,5,4,1
 Henry,Southwest Precinct,U.S. House,2,,Write-in,2,1,1
-Henry,Central Precinct,State Senator District 42,,DEM,Rich Taylor,600,96,504
-Henry,Venterans Hall Precinct,State Senator District 42,,DEM,Rich Taylor,1579,309,1270
-Henry,Northeast Precinct,State Senator District 42,,DEM,Rich Taylor,360,123,237
-Henry,Northwest Precinct,State Senator District 42,,DEM,Rich Taylor,309,107,202
-Henry,Southeast Precinct,State Senator District 42,,DEM,Rich Taylor,657,201,456
-Henry,Southwest Precinct,State Senator District 42,,DEM,Rich Taylor,264,104,160
-Henry,Central Precinct,State Senator District 42,,REP,Jeff Reichman,977,280,697
-Henry,Venterans Hall Precinct,State Senator District 42,,REP,Jeff Reichman,1923,647,1276
-Henry,Northeast Precinct,State Senator District 42,,REP,Jeff Reichman,594,331,263
-Henry,Northwest Precinct,State Senator District 42,,REP,Jeff Reichman,656,385,271
-Henry,Southeast Precinct,State Senator District 42,,REP,Jeff Reichman,1095,513,582
-Henry,Southwest Precinct,State Senator District 42,,REP,Jeff Reichman,539,331,208
-Henry,Central Precinct,State Senator District 42,,,Write-in,1,0,1
-Henry,Venterans Hall Precinct,State Senator District 42,,,Write-in,7,3,4
-Henry,Northeast Precinct,State Senator District 42,,,Write-in,1,1,0
-Henry,Northwest Precinct,State Senator District 42,,,Write-in,0,0,0
-Henry,Southeast Precinct,State Senator District 42,,,Write-in,5,4,1
-Henry,Southwest Precinct,State Senator District 42,,,Write-in,0,0,0
-Henry,Central Precinct,State Representative District 84,,DEM,Jeff Fager,399,47,352
-Henry,Venterans Hall Precinct,State Representative District 84,,DEM,Jeff Fager,1220,234,986
-Henry,Northeast Precinct,State Representative District 84,,DEM,Jeff Fager,249,72,177
-Henry,Northwest Precinct,State Representative District 84,,DEM,Jeff Fager,186,54,132
-Henry,Southeast Precinct,State Representative District 84,,DEM,Jeff Fager,550,150,400
-Henry,Southwest Precinct,State Representative District 84,,DEM,Jeff Fager,174,58,116
-Henry,Central Precinct,State Representative District 84,,REP,Joe Mitchell,1138,319,819
-Henry,Venterans Hall Precinct,State Representative District 84,,REP,Joe Mitchell,2243,705,1538
-Henry,Northeast Precinct,State Representative District 84,,REP,Joe Mitchell,697,373,324
-Henry,Northwest Precinct,State Representative District 84,,REP,Joe Mitchell,791,445,346
-Henry,Southeast Precinct,State Representative District 84,,REP,Joe Mitchell,1181,554,627
-Henry,Southwest Precinct,State Representative District 84,,REP,Joe Mitchell,605,359,246
-Henry,Central Precinct,State Representative District 84,,,Write-in,2,2,0
-Henry,Venterans Hall Precinct,State Representative District 84,,,Write-in,5,3,2
-Henry,Northeast Precinct,State Representative District 84,,,Write-in,1,1,0
-Henry,Northwest Precinct,State Representative District 84,,,Write-in,2,1,1
-Henry,Southeast Precinct,State Representative District 84,,,Write-in,5,3,2
-Henry,Southwest Precinct,State Representative District 84,,,Write-in,2,1,1
+Henry,Central Precinct,State Senate,42,DEM,Rich Taylor,600,96,504
+Henry,Venterans Hall Precinct,State Senate,42,DEM,Rich Taylor,1579,309,1270
+Henry,Northeast Precinct,State Senate,42,DEM,Rich Taylor,360,123,237
+Henry,Northwest Precinct,State Senate,42,DEM,Rich Taylor,309,107,202
+Henry,Southeast Precinct,State Senate,42,DEM,Rich Taylor,657,201,456
+Henry,Southwest Precinct,State Senate,42,DEM,Rich Taylor,264,104,160
+Henry,Central Precinct,State Senate,42,REP,Jeff Reichman,977,280,697
+Henry,Venterans Hall Precinct,State Senate,42,REP,Jeff Reichman,1923,647,1276
+Henry,Northeast Precinct,State Senate,42,REP,Jeff Reichman,594,331,263
+Henry,Northwest Precinct,State Senate,42,REP,Jeff Reichman,656,385,271
+Henry,Southeast Precinct,State Senate,42,REP,Jeff Reichman,1095,513,582
+Henry,Southwest Precinct,State Senate,42,REP,Jeff Reichman,539,331,208
+Henry,Central Precinct,State Senate,42,,Write-in,1,0,1
+Henry,Venterans Hall Precinct,State Senate,42,,Write-in,7,3,4
+Henry,Northeast Precinct,State Senate,42,,Write-in,1,1,0
+Henry,Northwest Precinct,State Senate,42,,Write-in,0,0,0
+Henry,Southeast Precinct,State Senate,42,,Write-in,5,4,1
+Henry,Southwest Precinct,State Senate,42,,Write-in,0,0,0
+Henry,Central Precinct,State House,84,DEM,Jeff Fager,399,47,352
+Henry,Venterans Hall Precinct,State House,84,DEM,Jeff Fager,1220,234,986
+Henry,Northeast Precinct,State House,84,DEM,Jeff Fager,249,72,177
+Henry,Northwest Precinct,State House,84,DEM,Jeff Fager,186,54,132
+Henry,Southeast Precinct,State House,84,DEM,Jeff Fager,550,150,400
+Henry,Southwest Precinct,State House,84,DEM,Jeff Fager,174,58,116
+Henry,Central Precinct,State House,84,REP,Joe Mitchell,1138,319,819
+Henry,Venterans Hall Precinct,State House,84,REP,Joe Mitchell,2243,705,1538
+Henry,Northeast Precinct,State House,84,REP,Joe Mitchell,697,373,324
+Henry,Northwest Precinct,State House,84,REP,Joe Mitchell,791,445,346
+Henry,Southeast Precinct,State House,84,REP,Joe Mitchell,1181,554,627
+Henry,Southwest Precinct,State House,84,REP,Joe Mitchell,605,359,246
+Henry,Central Precinct,State House,84,,Write-in,2,2,0
+Henry,Venterans Hall Precinct,State House,84,,Write-in,5,3,2
+Henry,Northeast Precinct,State House,84,,Write-in,1,1,0
+Henry,Northwest Precinct,State House,84,,Write-in,2,1,1
+Henry,Southeast Precinct,State House,84,,Write-in,5,3,2
+Henry,Southwest Precinct,State House,84,,Write-in,2,1,1
 Henry,Central Precinct,Board of Supervisors,,DEM,David Beaber,614,120,494
 Henry,Venterans Hall Precinct,Board of Supervisors,,DEM,David Beaber,1379,314,1065
 Henry,Northeast Precinct,Board of Supervisors,,DEM,David Beaber,275,99,176

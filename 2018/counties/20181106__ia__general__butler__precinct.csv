@@ -231,50 +231,50 @@ Butler,5-AP,Attorney General,,,Write-in,4,4,0
 Butler,6-SR,Attorney General,,,Write-in,5,4,1
 Butler,7-PB,Attorney General,,,Write-in,8,7,1
 Butler,8-NH,Attorney General,,,Write-in,4,2,2
-Butler,5-AP,State Senator District 25,,DEM,Tracy Freese,178,125,53
-Butler,6-SR,State Senator District 25,,DEM,Tracy Freese,396,239,157
-Butler,7-PB,State Senator District 25,,DEM,Tracy Freese,343,244,99
-Butler,8-NH,State Senator District 25,,DEM,Tracy Freese,205,159,46
-Butler,5-AP,State Senator District 25,,REP,Annette Sweeney,553,386,167
-Butler,6-SR,State Senator District 25,,REP,Annette Sweeney,598,418,180
-Butler,7-PB,State Senator District 25,,REP,Annette Sweeney,653,440,213
-Butler,8-NH,State Senator District 25,,REP,Annette Sweeney,225,160,65
-Butler,5-AP,State Senator District 25,,,Write-in,0,0,0
-Butler,6-SR,State Senator District 25,,,Write-in,0,0,0
-Butler,7-PB,State Senator District 25,,,Write-in,1,1,0
-Butler,8-NH,State Senator District 25,,,Write-in,0,0,0
-Butler,1-GR,State Senator District 27,,DEM,Amanda Ragan,362,252,110
-Butler,2-CL,State Senator District 27,,DEM,Amanda Ragan,388,267,121
-Butler,3-DU,State Senator District 27,,DEM,Amanda Ragan,133,85,48
-Butler,4-AL,State Senator District 27,,DEM,Amanda Ragan,171,100,71
-Butler,1-GR,State Senator District 27,,REP,Shannon Latham,501,343,158
-Butler,2-CL,State Senator District 27,,REP,Shannon Latham,563,392,171
-Butler,3-DU,State Senator District 27,,REP,Shannon Latham,403,257,146
-Butler,4-AL,State Senator District 27,,REP,Shannon Latham,395,231,164
-Butler,1-GR,State Senator District 27,,,Write-in,0,0,0
-Butler,2-CL,State Senator District 27,,,Write-in,2,1,1
-Butler,3-DU,State Senator District 27,,,Write-in,0,0,0
-Butler,4-AL,State Senator District 27,,,Write-in,1,0,1
-Butler,5-AP,State Representative District 50,,DEM,Dennis Evans,170,114,56
-Butler,6-SR,State Representative District 50,,DEM,Dennis Evans,384,233,151
-Butler,7-PB,State Representative District 50,,DEM,Dennis Evans,319,221,98
-Butler,8-NH,State Representative District 50,,DEM,Dennis Evans,172,132,40
-Butler,5-AP,State Representative District 50,,REP,Pat Grassley,568,403,165
-Butler,6-SR,State Representative District 50,,REP,Pat Grassley,621,430,191
-Butler,7-PB,State Representative District 50,,REP,Pat Grassley,673,464,209
-Butler,8-NH,State Representative District 50,,REP,Pat Grassley,262,192,70
-Butler,5-AP,State Representative District 50,,,Write-in,0,0,0
-Butler,6-SR,State Representative District 50,,,Write-in,0,0,0
-Butler,7-PB,State Representative District 50,,,Write-in,0,0,0
-Butler,8-NH,State Representative District 50,,,Write-in,1,1,0
-Butler,1-GR,State Representative District 54,,REP,Linda Upmeyer,685,478,207
-Butler,2-CL,State Representative District 54,,REP,Linda Upmeyer,712,490,222
-Butler,3-DU,State Representative District 54,,REP,Linda Upmeyer,486,313,173
-Butler,4-AL,State Representative District 54,,REP,Linda Upmeyer,492,290,202
-Butler,1-GR,State Representative District 54,,,Write-in,24,15,9
-Butler,2-CL,State Representative District 54,,,Write-in,24,18,6
-Butler,3-DU,State Representative District 54,,,Write-in,4,2,2
-Butler,4-AL,State Representative District 54,,,Write-in,4,4,0
+Butler,5-AP,State Senate,25,DEM,Tracy Freese,178,125,53
+Butler,6-SR,State Senate,25,DEM,Tracy Freese,396,239,157
+Butler,7-PB,State Senate,25,DEM,Tracy Freese,343,244,99
+Butler,8-NH,State Senate,25,DEM,Tracy Freese,205,159,46
+Butler,5-AP,State Senate,25,REP,Annette Sweeney,553,386,167
+Butler,6-SR,State Senate,25,REP,Annette Sweeney,598,418,180
+Butler,7-PB,State Senate,25,REP,Annette Sweeney,653,440,213
+Butler,8-NH,State Senate,25,REP,Annette Sweeney,225,160,65
+Butler,5-AP,State Senate,25,,Write-in,0,0,0
+Butler,6-SR,State Senate,25,,Write-in,0,0,0
+Butler,7-PB,State Senate,25,,Write-in,1,1,0
+Butler,8-NH,State Senate,25,,Write-in,0,0,0
+Butler,1-GR,State Senate,27,DEM,Amanda Ragan,362,252,110
+Butler,2-CL,State Senate,27,DEM,Amanda Ragan,388,267,121
+Butler,3-DU,State Senate,27,DEM,Amanda Ragan,133,85,48
+Butler,4-AL,State Senate,27,DEM,Amanda Ragan,171,100,71
+Butler,1-GR,State Senate,27,REP,Shannon Latham,501,343,158
+Butler,2-CL,State Senate,27,REP,Shannon Latham,563,392,171
+Butler,3-DU,State Senate,27,REP,Shannon Latham,403,257,146
+Butler,4-AL,State Senate,27,REP,Shannon Latham,395,231,164
+Butler,1-GR,State Senate,27,,Write-in,0,0,0
+Butler,2-CL,State Senate,27,,Write-in,2,1,1
+Butler,3-DU,State Senate,27,,Write-in,0,0,0
+Butler,4-AL,State Senate,27,,Write-in,1,0,1
+Butler,5-AP,State House,50,DEM,Dennis Evans,170,114,56
+Butler,6-SR,State House,50,DEM,Dennis Evans,384,233,151
+Butler,7-PB,State House,50,DEM,Dennis Evans,319,221,98
+Butler,8-NH,State House,50,DEM,Dennis Evans,172,132,40
+Butler,5-AP,State House,50,REP,Pat Grassley,568,403,165
+Butler,6-SR,State House,50,REP,Pat Grassley,621,430,191
+Butler,7-PB,State House,50,REP,Pat Grassley,673,464,209
+Butler,8-NH,State House,50,REP,Pat Grassley,262,192,70
+Butler,5-AP,State House,50,,Write-in,0,0,0
+Butler,6-SR,State House,50,,Write-in,0,0,0
+Butler,7-PB,State House,50,,Write-in,0,0,0
+Butler,8-NH,State House,50,,Write-in,1,1,0
+Butler,1-GR,State House,54,REP,Linda Upmeyer,685,478,207
+Butler,2-CL,State House,54,REP,Linda Upmeyer,712,490,222
+Butler,3-DU,State House,54,REP,Linda Upmeyer,486,313,173
+Butler,4-AL,State House,54,REP,Linda Upmeyer,492,290,202
+Butler,1-GR,State House,54,,Write-in,24,15,9
+Butler,2-CL,State House,54,,Write-in,24,18,6
+Butler,3-DU,State House,54,,Write-in,4,2,2
+Butler,4-AL,State House,54,,Write-in,4,4,0
 Butler,1-GR,Supervisor Dist 2,,REP,Tom Heidenwirth,723,508,215
 Butler,3-DU,Supervisor Dist 2,,REP,Tom Heidenwirth,470,302,168
 Butler,4-AL,Supervisor Dist 2,,REP,Tom Heidenwirth,489,291,198

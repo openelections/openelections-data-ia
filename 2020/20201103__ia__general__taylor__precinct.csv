@@ -132,48 +132,48 @@ Taylor,New Market,U.S. House,3,,Write-in,0,0,0
 Taylor,Lenox,U.S. House,3,,Write-in,0,0,0
 Taylor,Bedford City,U.S. House,3,,Write-in,0,0,0
 Taylor,Township District 3,U.S. House,3,,Write-in,1,1,0
-Taylor,Blockton,State Senator District 12,,REP,Mark Costello,141,104,37
-Taylor,Clearfield,State Senator District 12,,REP,Mark Costello,153,113,40
-Taylor,Gravity,State Senator District 12,,REP,Mark Costello,150,103,47
-Taylor,New Market,State Senator District 12,,REP,Mark Costello,304,196,108
-Taylor,Lenox,State Senator District 12,,REP,Mark Costello,583,396,187
-Taylor,Bedford City,State Senator District 12,,REP,Mark Costello,548,295,253
-Taylor,Township District 3,State Senator District 12,,REP,Mark Costello,323,180,143
-Taylor,Blockton,State Senator District 12,,DEM,Joseph Norris,32,20,12
-Taylor,Clearfield,State Senator District 12,,DEM,Joseph Norris,56,26,30
-Taylor,Gravity,State Senator District 12,,DEM,Joseph Norris,62,29,33
-Taylor,New Market,State Senator District 12,,DEM,Joseph Norris,104,55,49
-Taylor,Lenox,State Senator District 12,,DEM,Joseph Norris,326,136,190
-Taylor,Bedford City,State Senator District 12,,DEM,Joseph Norris,149,57,92
-Taylor,Township District 3,State Senator District 12,,DEM,Joseph Norris,77,27,50
-Taylor,Blockton,State Senator District 12,,,Write-in,0,0,0
-Taylor,Clearfield,State Senator District 12,,,Write-in,0,0,0
-Taylor,Gravity,State Senator District 12,,,Write-in,0,0,0
-Taylor,New Market,State Senator District 12,,,Write-in,0,0,0
-Taylor,Lenox,State Senator District 12,,,Write-in,3,2,1
-Taylor,Bedford City,State Senator District 12,,,Write-in,0,0,0
-Taylor,Township District 3,State Senator District 12,,,Write-in,0,0,0
-Taylor,Blockton,State Representative District 24,,REP,Cecil Dolecheck,154,112,42
-Taylor,Clearfield,State Representative District 24,,REP,Cecil Dolecheck,180,124,56
-Taylor,Gravity,State Representative District 24,,REP,Cecil Dolecheck,169,115,54
-Taylor,New Market,State Representative District 24,,REP,Cecil Dolecheck,318,204,114
-Taylor,Lenox,State Representative District 24,,REP,Cecil Dolecheck,701,456,245
-Taylor,Bedford City,State Representative District 24,,REP,Cecil Dolecheck,594,312,282
-Taylor,Township District 3,State Representative District 24,,REP,Cecil Dolecheck,339,178,161
-Taylor,Blockton,State Representative District 24,,DEM,Chris Adcock,23,16,7
-Taylor,Clearfield,State Representative District 24,,DEM,Chris Adcock,31,15,16
-Taylor,Gravity,State Representative District 24,,DEM,Chris Adcock,47,21,26
-Taylor,New Market,State Representative District 24,,DEM,Chris Adcock,89,44,45
-Taylor,Lenox,State Representative District 24,,DEM,Chris Adcock,234,88,146
-Taylor,Bedford City,State Representative District 24,,DEM,Chris Adcock,122,45,77
-Taylor,Township District 3,State Representative District 24,,DEM,Chris Adcock,68,30,38
-Taylor,Blockton,State Representative District 24,,,Write-in,0,0,0
-Taylor,Clearfield,State Representative District 24,,,Write-in,0,0,0
-Taylor,Gravity,State Representative District 24,,,Write-in,0,0,0
-Taylor,New Market,State Representative District 24,,,Write-in,0,0,0
-Taylor,Lenox,State Representative District 24,,,Write-in,1,1,0
-Taylor,Bedford City,State Representative District 24,,,Write-in,0,0,0
-Taylor,Township District 3,State Representative District 24,,,Write-in,0,0,0
+Taylor,Blockton,State Senate,12,REP,Mark Costello,141,104,37
+Taylor,Clearfield,State Senate,12,REP,Mark Costello,153,113,40
+Taylor,Gravity,State Senate,12,REP,Mark Costello,150,103,47
+Taylor,New Market,State Senate,12,REP,Mark Costello,304,196,108
+Taylor,Lenox,State Senate,12,REP,Mark Costello,583,396,187
+Taylor,Bedford City,State Senate,12,REP,Mark Costello,548,295,253
+Taylor,Township District 3,State Senate,12,REP,Mark Costello,323,180,143
+Taylor,Blockton,State Senate,12,DEM,Joseph Norris,32,20,12
+Taylor,Clearfield,State Senate,12,DEM,Joseph Norris,56,26,30
+Taylor,Gravity,State Senate,12,DEM,Joseph Norris,62,29,33
+Taylor,New Market,State Senate,12,DEM,Joseph Norris,104,55,49
+Taylor,Lenox,State Senate,12,DEM,Joseph Norris,326,136,190
+Taylor,Bedford City,State Senate,12,DEM,Joseph Norris,149,57,92
+Taylor,Township District 3,State Senate,12,DEM,Joseph Norris,77,27,50
+Taylor,Blockton,State Senate,12,,Write-in,0,0,0
+Taylor,Clearfield,State Senate,12,,Write-in,0,0,0
+Taylor,Gravity,State Senate,12,,Write-in,0,0,0
+Taylor,New Market,State Senate,12,,Write-in,0,0,0
+Taylor,Lenox,State Senate,12,,Write-in,3,2,1
+Taylor,Bedford City,State Senate,12,,Write-in,0,0,0
+Taylor,Township District 3,State Senate,12,,Write-in,0,0,0
+Taylor,Blockton,State House,24,REP,Cecil Dolecheck,154,112,42
+Taylor,Clearfield,State House,24,REP,Cecil Dolecheck,180,124,56
+Taylor,Gravity,State House,24,REP,Cecil Dolecheck,169,115,54
+Taylor,New Market,State House,24,REP,Cecil Dolecheck,318,204,114
+Taylor,Lenox,State House,24,REP,Cecil Dolecheck,701,456,245
+Taylor,Bedford City,State House,24,REP,Cecil Dolecheck,594,312,282
+Taylor,Township District 3,State House,24,REP,Cecil Dolecheck,339,178,161
+Taylor,Blockton,State House,24,DEM,Chris Adcock,23,16,7
+Taylor,Clearfield,State House,24,DEM,Chris Adcock,31,15,16
+Taylor,Gravity,State House,24,DEM,Chris Adcock,47,21,26
+Taylor,New Market,State House,24,DEM,Chris Adcock,89,44,45
+Taylor,Lenox,State House,24,DEM,Chris Adcock,234,88,146
+Taylor,Bedford City,State House,24,DEM,Chris Adcock,122,45,77
+Taylor,Township District 3,State House,24,DEM,Chris Adcock,68,30,38
+Taylor,Blockton,State House,24,,Write-in,0,0,0
+Taylor,Clearfield,State House,24,,Write-in,0,0,0
+Taylor,Gravity,State House,24,,Write-in,0,0,0
+Taylor,New Market,State House,24,,Write-in,0,0,0
+Taylor,Lenox,State House,24,,Write-in,1,1,0
+Taylor,Bedford City,State House,24,,Write-in,0,0,0
+Taylor,Township District 3,State House,24,,Write-in,0,0,0
 Taylor,Blockton,County Supervisor Dist. 1,,REP,Ronald Fitzgerald,167,123,44
 Taylor,Clearfield,County Supervisor Dist. 1,,REP,Ronald Fitzgerald,197,131,66
 Taylor,Gravity,County Supervisor Dist. 1,,REP,Ronald Fitzgerald,195,130,65

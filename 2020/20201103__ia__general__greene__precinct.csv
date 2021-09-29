@@ -125,48 +125,48 @@ Greene,Jefferson 2 Precinct,U.S. House,4,,Write-in,0,0,0
 Greene,Jefferson 3 Precinct,U.S. House,4,,Write-in,0,0,0
 Greene,North Precinct,U.S. House,4,,Write-in,1,0,1
 Greene,West Precinct,U.S. House,4,,Write-in,3,2,1
-Greene,Central Precinct,State Senator District 24,,REP,Jesse Green,491,204,287
-Greene,East Precinct,State Senator District 24,,REP,Jesse Green,493,288,205
-Greene,Jefferson 1 Precinct,State Senator District 24,,REP,Jesse Green,453,158,295
-Greene,Jefferson 2 Precinct,State Senator District 24,,REP,Jesse Green,452,170,282
-Greene,Jefferson 3 Precinct,State Senator District 24,,REP,Jesse Green,524,175,349
-Greene,North Precinct,State Senator District 24,,REP,Jesse Green,471,239,232
-Greene,West Precinct,State Senator District 24,,REP,Jesse Green,427,266,161
-Greene,Central Precinct,State Senator District 24,,DEM,Cynthia Oppedal Paschen,157,29,128
-Greene,East Precinct,State Senator District 24,,DEM,Cynthia Oppedal Paschen,203,69,134
-Greene,Jefferson 1 Precinct,State Senator District 24,,DEM,Cynthia Oppedal Paschen,212,34,178
-Greene,Jefferson 2 Precinct,State Senator District 24,,DEM,Cynthia Oppedal Paschen,237,29,208
-Greene,Jefferson 3 Precinct,State Senator District 24,,DEM,Cynthia Oppedal Paschen,295,48,247
-Greene,North Precinct,State Senator District 24,,DEM,Cynthia Oppedal Paschen,150,43,107
-Greene,West Precinct,State Senator District 24,,DEM,Cynthia Oppedal Paschen,121,32,89
-Greene,Central Precinct,State Senator District 24,,,Write-in,0,0,0
-Greene,East Precinct,State Senator District 24,,,Write-in,0,0,0
-Greene,Jefferson 1 Precinct,State Senator District 24,,,Write-in,0,0,0
-Greene,Jefferson 2 Precinct,State Senator District 24,,,Write-in,0,0,0
-Greene,Jefferson 3 Precinct,State Senator District 24,,,Write-in,1,0,1
-Greene,North Precinct,State Senator District 24,,,Write-in,0,0,0
-Greene,West Precinct,State Senator District 24,,,Write-in,1,1,0
-Greene,Central Precinct,State Representative District 47,,REP,Phil Thompson,506,208,298
-Greene,East Precinct,State Representative District 47,,REP,Phil Thompson,497,290,207
-Greene,Jefferson 1 Precinct,State Representative District 47,,REP,Phil Thompson,463,164,299
-Greene,Jefferson 2 Precinct,State Representative District 47,,REP,Phil Thompson,460,168,292
-Greene,Jefferson 3 Precinct,State Representative District 47,,REP,Phil Thompson,546,190,356
-Greene,North Precinct,State Representative District 47,,REP,Phil Thompson,443,225,218
-Greene,West Precinct,State Representative District 47,,REP,Phil Thompson,414,251,163
-Greene,Central Precinct,State Representative District 47,,DEM,Shelly L. Stotts,171,34,137
-Greene,East Precinct,State Representative District 47,,DEM,Shelly L. Stotts,209,70,139
-Greene,Jefferson 1 Precinct,State Representative District 47,,DEM,Shelly L. Stotts,222,35,187
-Greene,Jefferson 2 Precinct,State Representative District 47,,DEM,Shelly L. Stotts,251,35,216
-Greene,Jefferson 3 Precinct,State Representative District 47,,DEM,Shelly L. Stotts,307,42,265
-Greene,North Precinct,State Representative District 47,,DEM,Shelly L. Stotts,172,53,119
-Greene,West Precinct,State Representative District 47,,DEM,Shelly L. Stotts,139,48,91
-Greene,Central Precinct,State Representative District 47,,,Write-in,0,0,0
-Greene,East Precinct,State Representative District 47,,,Write-in,1,1,0
-Greene,Jefferson 1 Precinct,State Representative District 47,,,Write-in,1,1,0
-Greene,Jefferson 2 Precinct,State Representative District 47,,,Write-in,0,0,0
-Greene,Jefferson 3 Precinct,State Representative District 47,,,Write-in,0,0,0
-Greene,North Precinct,State Representative District 47,,,Write-in,0,0,0
-Greene,West Precinct,State Representative District 47,,,Write-in,2,1,1
+Greene,Central Precinct,State Senate,24,REP,Jesse Green,491,204,287
+Greene,East Precinct,State Senate,24,REP,Jesse Green,493,288,205
+Greene,Jefferson 1 Precinct,State Senate,24,REP,Jesse Green,453,158,295
+Greene,Jefferson 2 Precinct,State Senate,24,REP,Jesse Green,452,170,282
+Greene,Jefferson 3 Precinct,State Senate,24,REP,Jesse Green,524,175,349
+Greene,North Precinct,State Senate,24,REP,Jesse Green,471,239,232
+Greene,West Precinct,State Senate,24,REP,Jesse Green,427,266,161
+Greene,Central Precinct,State Senate,24,DEM,Cynthia Oppedal Paschen,157,29,128
+Greene,East Precinct,State Senate,24,DEM,Cynthia Oppedal Paschen,203,69,134
+Greene,Jefferson 1 Precinct,State Senate,24,DEM,Cynthia Oppedal Paschen,212,34,178
+Greene,Jefferson 2 Precinct,State Senate,24,DEM,Cynthia Oppedal Paschen,237,29,208
+Greene,Jefferson 3 Precinct,State Senate,24,DEM,Cynthia Oppedal Paschen,295,48,247
+Greene,North Precinct,State Senate,24,DEM,Cynthia Oppedal Paschen,150,43,107
+Greene,West Precinct,State Senate,24,DEM,Cynthia Oppedal Paschen,121,32,89
+Greene,Central Precinct,State Senate,24,,Write-in,0,0,0
+Greene,East Precinct,State Senate,24,,Write-in,0,0,0
+Greene,Jefferson 1 Precinct,State Senate,24,,Write-in,0,0,0
+Greene,Jefferson 2 Precinct,State Senate,24,,Write-in,0,0,0
+Greene,Jefferson 3 Precinct,State Senate,24,,Write-in,1,0,1
+Greene,North Precinct,State Senate,24,,Write-in,0,0,0
+Greene,West Precinct,State Senate,24,,Write-in,1,1,0
+Greene,Central Precinct,State House,47,REP,Phil Thompson,506,208,298
+Greene,East Precinct,State House,47,REP,Phil Thompson,497,290,207
+Greene,Jefferson 1 Precinct,State House,47,REP,Phil Thompson,463,164,299
+Greene,Jefferson 2 Precinct,State House,47,REP,Phil Thompson,460,168,292
+Greene,Jefferson 3 Precinct,State House,47,REP,Phil Thompson,546,190,356
+Greene,North Precinct,State House,47,REP,Phil Thompson,443,225,218
+Greene,West Precinct,State House,47,REP,Phil Thompson,414,251,163
+Greene,Central Precinct,State House,47,DEM,Shelly L. Stotts,171,34,137
+Greene,East Precinct,State House,47,DEM,Shelly L. Stotts,209,70,139
+Greene,Jefferson 1 Precinct,State House,47,DEM,Shelly L. Stotts,222,35,187
+Greene,Jefferson 2 Precinct,State House,47,DEM,Shelly L. Stotts,251,35,216
+Greene,Jefferson 3 Precinct,State House,47,DEM,Shelly L. Stotts,307,42,265
+Greene,North Precinct,State House,47,DEM,Shelly L. Stotts,172,53,119
+Greene,West Precinct,State House,47,DEM,Shelly L. Stotts,139,48,91
+Greene,Central Precinct,State House,47,,Write-in,0,0,0
+Greene,East Precinct,State House,47,,Write-in,1,1,0
+Greene,Jefferson 1 Precinct,State House,47,,Write-in,1,1,0
+Greene,Jefferson 2 Precinct,State House,47,,Write-in,0,0,0
+Greene,Jefferson 3 Precinct,State House,47,,Write-in,0,0,0
+Greene,North Precinct,State House,47,,Write-in,0,0,0
+Greene,West Precinct,State House,47,,Write-in,2,1,1
 Greene,Central Precinct,County Supervisor Dist. 1,,REP,Mick Burkett,517,204,313
 Greene,East Precinct,County Supervisor Dist. 1,,REP,Mick Burkett,530,289,241
 Greene,Jefferson 1 Precinct,County Supervisor Dist. 1,,REP,Mick Burkett,456,155,301
