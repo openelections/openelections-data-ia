@@ -1,20 +1,20 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Union,Afton Methodist Church,United States Representative District 3,,REP,David Young,101,12,89
-Union,Arispe Methodist Church,United States Representative District 3,,REP,David Young,44,9,35
-Union,Salem Lutheran Church,United States Representative District 3,,REP,David Young,35,10,25
-Union,SWCC,United States Representative District 3,,REP,David Young,153,28,125
-Union,Trinity Lutheran Church,United States Representative District 3,,REP,David Young,39,5,34
-Union,Supertel,United States Representative District 3,,REP,David Young,44,7,37
-Union,Crest Baptist Church,United States Representative District 3,,REP,David Young,114,20,94
-Union,Lorimor City Hall,United States Representative District 3,,REP,David Young,66,9,57
-Union,Afton Methodist Church,United States Representative District 3,,,Write-in,0,0,0
-Union,Arispe Methodist Church,United States Representative District 3,,,Write-in,0,0,0
-Union,Salem Lutheran Church,United States Representative District 3,,,Write-in,0,0,0
-Union,SWCC,United States Representative District 3,,,Write-in,0,0,0
-Union,Trinity Lutheran Church,United States Representative District 3,,,Write-in,0,0,0
-Union,Supertel,United States Representative District 3,,,Write-in,0,0,0
-Union,Crest Baptist Church,United States Representative District 3,,,Write-in,0,0,0
-Union,Lorimor City Hall,United States Representative District 3,,,Write-in,0,1,-1
+Union,Afton Methodist Church,U.S. House,3,REP,David Young,101,12,89
+Union,Arispe Methodist Church,U.S. House,3,REP,David Young,44,9,35
+Union,Salem Lutheran Church,U.S. House,3,REP,David Young,35,10,25
+Union,SWCC,U.S. House,3,REP,David Young,153,28,125
+Union,Trinity Lutheran Church,U.S. House,3,REP,David Young,39,5,34
+Union,Supertel,U.S. House,3,REP,David Young,44,7,37
+Union,Crest Baptist Church,U.S. House,3,REP,David Young,114,20,94
+Union,Lorimor City Hall,U.S. House,3,REP,David Young,66,9,57
+Union,Afton Methodist Church,U.S. House,3,,Write-in,0,0,0
+Union,Arispe Methodist Church,U.S. House,3,,Write-in,0,0,0
+Union,Salem Lutheran Church,U.S. House,3,,Write-in,0,0,0
+Union,SWCC,U.S. House,3,,Write-in,0,0,0
+Union,Trinity Lutheran Church,U.S. House,3,,Write-in,0,0,0
+Union,Supertel,U.S. House,3,,Write-in,0,0,0
+Union,Crest Baptist Church,U.S. House,3,,Write-in,0,0,0
+Union,Lorimor City Hall,U.S. House,3,,Write-in,0,1,-1
 Union,Afton Methodist Church,Governor,,REP,Kim Reynolds,108,11,97
 Union,Arispe Methodist Church,Governor,,REP,Kim Reynolds,46,8,38
 Union,Salem Lutheran Church,Governor,,REP,Kim Reynolds,35,9,26
@@ -327,30 +327,30 @@ Union,Trinity Lutheran Church,County Attorney,,,Write-in,0,0,0
 Union,Supertel,County Attorney,,,Write-in,0,0,0
 Union,Crest Baptist Church,County Attorney,,,Write-in,0,0,0
 Union,Lorimor City Hall,County Attorney,,,Write-in,0,0,0
-Union,Afton Methodist Church,United States Representative District 3,,DEM,Cindy Axne,27,4,23
-Union,Arispe Methodist Church,United States Representative District 3,,DEM,Cindy Axne,13,1,12
-Union,Salem Lutheran Church,United States Representative District 3,,DEM,Cindy Axne,30,9,21
-Union,SWCC,United States Representative District 3,,DEM,Cindy Axne,58,19,39
-Union,Trinity Lutheran Church,United States Representative District 3,,DEM,Cindy Axne,40,8,32
-Union,Supertel,United States Representative District 3,,DEM,Cindy Axne,12,6,6
-Union,Crest Baptist Church,United States Representative District 3,,DEM,Cindy Axne,54,9,45
-Union,Lorimor City Hall,United States Representative District 3,,DEM,Cindy Axne,15,2,13
-Union,Afton Methodist Church,United States Representative District 3,,DEM,Pete D'Alessandro,9,2,7
-Union,Arispe Methodist Church,United States Representative District 3,,DEM,Pete D'Alessandro,3,0,3
-Union,Salem Lutheran Church,United States Representative District 3,,DEM,Pete D'Alessandro,6,1,5
-Union,SWCC,United States Representative District 3,,DEM,Pete D'Alessandro,24,13,11
-Union,Trinity Lutheran Church,United States Representative District 3,,DEM,Pete D'Alessandro,12,1,11
-Union,Supertel,United States Representative District 3,,DEM,Pete D'Alessandro,10,2,8
-Union,Crest Baptist Church,United States Representative District 3,,DEM,Pete D'Alessandro,16,4,12
-Union,Lorimor City Hall,United States Representative District 3,,DEM,Pete D'Alessandro,3,1,2
-Union,Afton Methodist Church,United States Representative District 3,,DEM,Eddie J. Mauro,9,0,9
-Union,Arispe Methodist Church,United States Representative District 3,,DEM,Eddie J. Mauro,4,0,4
-Union,Salem Lutheran Church,United States Representative District 3,,DEM,Eddie J. Mauro,27,7,20
-Union,SWCC,United States Representative District 3,,DEM,Eddie J. Mauro,32,10,22
-Union,Trinity Lutheran Church,United States Representative District 3,,DEM,Eddie J. Mauro,24,8,16
-Union,Supertel,United States Representative District 3,,DEM,Eddie J. Mauro,25,11,14
-Union,Crest Baptist Church,United States Representative District 3,,DEM,Eddie J. Mauro,34,13,21
-Union,Lorimor City Hall,United States Representative District 3,,DEM,Eddie J. Mauro,0,0,0
+Union,Afton Methodist Church,U.S. House,3,DEM,Cindy Axne,27,4,23
+Union,Arispe Methodist Church,U.S. House,3,DEM,Cindy Axne,13,1,12
+Union,Salem Lutheran Church,U.S. House,3,DEM,Cindy Axne,30,9,21
+Union,SWCC,U.S. House,3,DEM,Cindy Axne,58,19,39
+Union,Trinity Lutheran Church,U.S. House,3,DEM,Cindy Axne,40,8,32
+Union,Supertel,U.S. House,3,DEM,Cindy Axne,12,6,6
+Union,Crest Baptist Church,U.S. House,3,DEM,Cindy Axne,54,9,45
+Union,Lorimor City Hall,U.S. House,3,DEM,Cindy Axne,15,2,13
+Union,Afton Methodist Church,U.S. House,3,DEM,Pete D'Alessandro,9,2,7
+Union,Arispe Methodist Church,U.S. House,3,DEM,Pete D'Alessandro,3,0,3
+Union,Salem Lutheran Church,U.S. House,3,DEM,Pete D'Alessandro,6,1,5
+Union,SWCC,U.S. House,3,DEM,Pete D'Alessandro,24,13,11
+Union,Trinity Lutheran Church,U.S. House,3,DEM,Pete D'Alessandro,12,1,11
+Union,Supertel,U.S. House,3,DEM,Pete D'Alessandro,10,2,8
+Union,Crest Baptist Church,U.S. House,3,DEM,Pete D'Alessandro,16,4,12
+Union,Lorimor City Hall,U.S. House,3,DEM,Pete D'Alessandro,3,1,2
+Union,Afton Methodist Church,U.S. House,3,DEM,Eddie J. Mauro,9,0,9
+Union,Arispe Methodist Church,U.S. House,3,DEM,Eddie J. Mauro,4,0,4
+Union,Salem Lutheran Church,U.S. House,3,DEM,Eddie J. Mauro,27,7,20
+Union,SWCC,U.S. House,3,DEM,Eddie J. Mauro,32,10,22
+Union,Trinity Lutheran Church,U.S. House,3,DEM,Eddie J. Mauro,24,8,16
+Union,Supertel,U.S. House,3,DEM,Eddie J. Mauro,25,11,14
+Union,Crest Baptist Church,U.S. House,3,DEM,Eddie J. Mauro,34,13,21
+Union,Lorimor City Hall,U.S. House,3,DEM,Eddie J. Mauro,0,0,0
 Union,Afton Methodist Church,Governor,,DEM,Nate Boulton,3,0,3
 Union,Arispe Methodist Church,Governor,,DEM,Nate Boulton,0,0,0
 Union,Salem Lutheran Church,Governor,,DEM,Nate Boulton,3,1,2
@@ -687,22 +687,22 @@ Union,Trinity Lutheran Church,County Attorney,,DEM,Blank,0,0,0
 Union,Supertel,County Attorney,,DEM,Blank,0,0,0
 Union,Crest Baptist Church,County Attorney,,DEM,Blank,0,0,0
 Union,Lorimor City Hall,County Attorney,,DEM,Blank,1,0,1
-Union,Afton Methodist Church,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Union,Arispe Methodist Church,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Union,Salem Lutheran Church,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Union,SWCC,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Union,Trinity Lutheran Church,United States Representative District 3,,LIB,Bryan Jack Holder,1,0,1
-Union,Supertel,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Union,Crest Baptist Church,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Union,Lorimor City Hall,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Union,Afton Methodist Church,United States Representative District 3,,LIB,David Young,0,0,0
-Union,Arispe Methodist Church,United States Representative District 3,,LIB,David Young,0,0,0
-Union,Salem Lutheran Church,United States Representative District 3,,LIB,David Young,0,0,0
-Union,SWCC,United States Representative District 3,,LIB,David Young,0,0,0
-Union,Trinity Lutheran Church,United States Representative District 3,,LIB,David Young,0,0,0
-Union,Supertel,United States Representative District 3,,LIB,David Young,0,0,0
-Union,Crest Baptist Church,United States Representative District 3,,LIB,David Young,0,0,0
-Union,Lorimor City Hall,United States Representative District 3,,LIB,David Young,1,0,1
+Union,Afton Methodist Church,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Union,Arispe Methodist Church,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Union,Salem Lutheran Church,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Union,SWCC,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Union,Trinity Lutheran Church,U.S. House,3,LIB,Bryan Jack Holder,1,0,1
+Union,Supertel,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Union,Crest Baptist Church,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Union,Lorimor City Hall,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Union,Afton Methodist Church,U.S. House,3,LIB,David Young,0,0,0
+Union,Arispe Methodist Church,U.S. House,3,LIB,David Young,0,0,0
+Union,Salem Lutheran Church,U.S. House,3,LIB,David Young,0,0,0
+Union,SWCC,U.S. House,3,LIB,David Young,0,0,0
+Union,Trinity Lutheran Church,U.S. House,3,LIB,David Young,0,0,0
+Union,Supertel,U.S. House,3,LIB,David Young,0,0,0
+Union,Crest Baptist Church,U.S. House,3,LIB,David Young,0,0,0
+Union,Lorimor City Hall,U.S. House,3,LIB,David Young,1,0,1
 Union,Afton Methodist Church,Governor,,LIB,Marco Battaglia,0,0,0
 Union,Arispe Methodist Church,Governor,,LIB,Marco Battaglia,0,0,0
 Union,Salem Lutheran Church,Governor,,LIB,Marco Battaglia,0,0,0

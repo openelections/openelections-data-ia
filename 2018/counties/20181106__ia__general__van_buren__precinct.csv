@@ -1,44 +1,44 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Van Buren,Birmingham,United States Representative District 2,,REP,Christopher Peters,283,208,75
-Van Buren,Bonaparte,United States Representative District 2,,REP,Christopher Peters,232,183,49
-Van Buren,Cantril,United States Representative District 2,,REP,Christopher Peters,75,60,15
-Van Buren,Douds,United States Representative District 2,,REP,Christopher Peters,211,162,49
-Van Buren,Farmington,United States Representative District 2,,REP,Christopher Peters,195,166,29
-Van Buren,Keosauqua,United States Representative District 2,,REP,Christopher Peters,424,280,144
-Van Buren,Milton,United States Representative District 2,,REP,Christopher Peters,127,96,31
-Van Buren,Stockport,United States Representative District 2,,REP,Christopher Peters,87,72,15
-Van Buren,Birmingham,United States Representative District 2,,DEM,Dave Loebsack,164,113,51
-Van Buren,Bonaparte,United States Representative District 2,,DEM,Dave Loebsack,167,120,47
-Van Buren,Cantril,United States Representative District 2,,DEM,Dave Loebsack,81,52,29
-Van Buren,Douds,United States Representative District 2,,DEM,Dave Loebsack,119,89,30
-Van Buren,Farmington,United States Representative District 2,,DEM,Dave Loebsack,146,107,39
-Van Buren,Keosauqua,United States Representative District 2,,DEM,Dave Loebsack,382,233,149
-Van Buren,Milton,United States Representative District 2,,DEM,Dave Loebsack,78,66,12
-Van Buren,Stockport,United States Representative District 2,,DEM,Dave Loebsack,60,46,14
-Van Buren,Birmingham,United States Representative District 2,,LIB,Mark David Strauss,8,6,2
-Van Buren,Bonaparte,United States Representative District 2,,LIB,Mark David Strauss,8,7,1
-Van Buren,Cantril,United States Representative District 2,,LIB,Mark David Strauss,2,2,0
-Van Buren,Douds,United States Representative District 2,,LIB,Mark David Strauss,8,6,2
-Van Buren,Farmington,United States Representative District 2,,LIB,Mark David Strauss,4,4,0
-Van Buren,Keosauqua,United States Representative District 2,,LIB,Mark David Strauss,10,5,5
-Van Buren,Milton,United States Representative District 2,,LIB,Mark David Strauss,2,2,0
-Van Buren,Stockport,United States Representative District 2,,LIB,Mark David Strauss,2,2,0
-Van Buren,Birmingham,United States Representative District 2,,,Daniel Clark,2,2,0
-Van Buren,Bonaparte,United States Representative District 2,,,Daniel Clark,2,2,0
-Van Buren,Cantril,United States Representative District 2,,,Daniel Clark,3,2,1
-Van Buren,Douds,United States Representative District 2,,,Daniel Clark,3,2,1
-Van Buren,Farmington,United States Representative District 2,,,Daniel Clark,5,2,3
-Van Buren,Keosauqua,United States Representative District 2,,,Daniel Clark,5,3,2
-Van Buren,Milton,United States Representative District 2,,,Daniel Clark,1,1,0
-Van Buren,Stockport,United States Representative District 2,,,Daniel Clark,2,2,0
-Van Buren,Birmingham,United States Representative District 2,,,Write-in,0,0,0
-Van Buren,Bonaparte,United States Representative District 2,,,Write-in,0,0,0
-Van Buren,Cantril,United States Representative District 2,,,Write-in,0,0,0
-Van Buren,Douds,United States Representative District 2,,,Write-in,0,0,0
-Van Buren,Farmington,United States Representative District 2,,,Write-in,0,0,0
-Van Buren,Keosauqua,United States Representative District 2,,,Write-in,0,0,0
-Van Buren,Milton,United States Representative District 2,,,Write-in,0,0,0
-Van Buren,Stockport,United States Representative District 2,,,Write-in,1,0,1
+Van Buren,Birmingham,U.S. House,2,REP,Christopher Peters,283,208,75
+Van Buren,Bonaparte,U.S. House,2,REP,Christopher Peters,232,183,49
+Van Buren,Cantril,U.S. House,2,REP,Christopher Peters,75,60,15
+Van Buren,Douds,U.S. House,2,REP,Christopher Peters,211,162,49
+Van Buren,Farmington,U.S. House,2,REP,Christopher Peters,195,166,29
+Van Buren,Keosauqua,U.S. House,2,REP,Christopher Peters,424,280,144
+Van Buren,Milton,U.S. House,2,REP,Christopher Peters,127,96,31
+Van Buren,Stockport,U.S. House,2,REP,Christopher Peters,87,72,15
+Van Buren,Birmingham,U.S. House,2,DEM,Dave Loebsack,164,113,51
+Van Buren,Bonaparte,U.S. House,2,DEM,Dave Loebsack,167,120,47
+Van Buren,Cantril,U.S. House,2,DEM,Dave Loebsack,81,52,29
+Van Buren,Douds,U.S. House,2,DEM,Dave Loebsack,119,89,30
+Van Buren,Farmington,U.S. House,2,DEM,Dave Loebsack,146,107,39
+Van Buren,Keosauqua,U.S. House,2,DEM,Dave Loebsack,382,233,149
+Van Buren,Milton,U.S. House,2,DEM,Dave Loebsack,78,66,12
+Van Buren,Stockport,U.S. House,2,DEM,Dave Loebsack,60,46,14
+Van Buren,Birmingham,U.S. House,2,LIB,Mark David Strauss,8,6,2
+Van Buren,Bonaparte,U.S. House,2,LIB,Mark David Strauss,8,7,1
+Van Buren,Cantril,U.S. House,2,LIB,Mark David Strauss,2,2,0
+Van Buren,Douds,U.S. House,2,LIB,Mark David Strauss,8,6,2
+Van Buren,Farmington,U.S. House,2,LIB,Mark David Strauss,4,4,0
+Van Buren,Keosauqua,U.S. House,2,LIB,Mark David Strauss,10,5,5
+Van Buren,Milton,U.S. House,2,LIB,Mark David Strauss,2,2,0
+Van Buren,Stockport,U.S. House,2,LIB,Mark David Strauss,2,2,0
+Van Buren,Birmingham,U.S. House,2,,Daniel Clark,2,2,0
+Van Buren,Bonaparte,U.S. House,2,,Daniel Clark,2,2,0
+Van Buren,Cantril,U.S. House,2,,Daniel Clark,3,2,1
+Van Buren,Douds,U.S. House,2,,Daniel Clark,3,2,1
+Van Buren,Farmington,U.S. House,2,,Daniel Clark,5,2,3
+Van Buren,Keosauqua,U.S. House,2,,Daniel Clark,5,3,2
+Van Buren,Milton,U.S. House,2,,Daniel Clark,1,1,0
+Van Buren,Stockport,U.S. House,2,,Daniel Clark,2,2,0
+Van Buren,Birmingham,U.S. House,2,,Write-in,0,0,0
+Van Buren,Bonaparte,U.S. House,2,,Write-in,0,0,0
+Van Buren,Cantril,U.S. House,2,,Write-in,0,0,0
+Van Buren,Douds,U.S. House,2,,Write-in,0,0,0
+Van Buren,Farmington,U.S. House,2,,Write-in,0,0,0
+Van Buren,Keosauqua,U.S. House,2,,Write-in,0,0,0
+Van Buren,Milton,U.S. House,2,,Write-in,0,0,0
+Van Buren,Stockport,U.S. House,2,,Write-in,1,0,1
 Van Buren,Birmingham,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,339,240,99
 Van Buren,Bonaparte,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,285,225,60
 Van Buren,Cantril,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,114,86,28

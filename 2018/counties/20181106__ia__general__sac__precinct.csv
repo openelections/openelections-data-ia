@@ -1,49 +1,49 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Sac,Schaller,United States Representative District 4,,REP,Steve King,290,202,88
-Sac,Nemaha,United States Representative District 4,,REP,Steve King,90,58,32
-Sac,Early,United States Representative District 4,,REP,Steve King,187,143,44
-Sac,Sac City,United States Representative District 4,,REP,Steve King,493,290,203
-Sac,Lytton,United States Representative District 4,,REP,Steve King,127,103,24
-Sac,Odebolt,United States Representative District 4,,REP,Steve King,420,300,120
-Sac,Lake View,United States Representative District 4,,REP,Steve King,502,358,144
-Sac,Auburn,United States Representative District 4,,REP,Steve King,112,95,17
-Sac,Wall Lake,United States Representative District 4,,REP,Steve King,328,261,67
-Sac,Schaller,United States Representative District 4,,DEM,J.D. Scholten,221,177,44
-Sac,Nemaha,United States Representative District 4,,DEM,J.D. Scholten,78,57,21
-Sac,Early,United States Representative District 4,,DEM,J.D. Scholten,135,115,20
-Sac,Sac City,United States Representative District 4,,DEM,J.D. Scholten,470,312,158
-Sac,Lytton,United States Representative District 4,,DEM,J.D. Scholten,100,74,26
-Sac,Odebolt,United States Representative District 4,,DEM,J.D. Scholten,162,126,36
-Sac,Lake View,United States Representative District 4,,DEM,J.D. Scholten,304,227,77
-Sac,Auburn,United States Representative District 4,,DEM,J.D. Scholten,77,63,14
-Sac,Wall Lake,United States Representative District 4,,DEM,J.D. Scholten,139,113,26
-Sac,Schaller,United States Representative District 4,,LIB,Charles Aldrich,7,6,1
-Sac,Nemaha,United States Representative District 4,,LIB,Charles Aldrich,1,1,0
-Sac,Early,United States Representative District 4,,LIB,Charles Aldrich,5,3,2
-Sac,Sac City,United States Representative District 4,,LIB,Charles Aldrich,21,18,3
-Sac,Lytton,United States Representative District 4,,LIB,Charles Aldrich,4,4,0
-Sac,Odebolt,United States Representative District 4,,LIB,Charles Aldrich,5,3,2
-Sac,Lake View,United States Representative District 4,,LIB,Charles Aldrich,7,6,1
-Sac,Auburn,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Sac,Wall Lake,United States Representative District 4,,LIB,Charles Aldrich,5,3,2
-Sac,Schaller,United States Representative District 4,,,Edward Peterson,6,5,1
-Sac,Nemaha,United States Representative District 4,,,Edward Peterson,1,1,0
-Sac,Early,United States Representative District 4,,,Edward Peterson,2,2,0
-Sac,Sac City,United States Representative District 4,,,Edward Peterson,5,3,2
-Sac,Lytton,United States Representative District 4,,,Edward Peterson,2,0,2
-Sac,Odebolt,United States Representative District 4,,,Edward Peterson,2,1,1
-Sac,Lake View,United States Representative District 4,,,Edward Peterson,4,3,1
-Sac,Auburn,United States Representative District 4,,,Edward Peterson,1,1,0
-Sac,Wall Lake,United States Representative District 4,,,Edward Peterson,1,0,1
-Sac,Schaller,United States Representative District 4,,,Write-in,0,0,0
-Sac,Nemaha,United States Representative District 4,,,Write-in,0,0,0
-Sac,Early,United States Representative District 4,,,Write-in,0,0,0
-Sac,Sac City,United States Representative District 4,,,Write-in,0,0,0
-Sac,Lytton,United States Representative District 4,,,Write-in,0,0,0
-Sac,Odebolt,United States Representative District 4,,,Write-in,1,0,1
-Sac,Lake View,United States Representative District 4,,,Write-in,0,0,0
-Sac,Auburn,United States Representative District 4,,,Write-in,0,0,0
-Sac,Wall Lake,United States Representative District 4,,,Write-in,0,0,0
+Sac,Schaller,U.S. House,4,REP,Steve King,290,202,88
+Sac,Nemaha,U.S. House,4,REP,Steve King,90,58,32
+Sac,Early,U.S. House,4,REP,Steve King,187,143,44
+Sac,Sac City,U.S. House,4,REP,Steve King,493,290,203
+Sac,Lytton,U.S. House,4,REP,Steve King,127,103,24
+Sac,Odebolt,U.S. House,4,REP,Steve King,420,300,120
+Sac,Lake View,U.S. House,4,REP,Steve King,502,358,144
+Sac,Auburn,U.S. House,4,REP,Steve King,112,95,17
+Sac,Wall Lake,U.S. House,4,REP,Steve King,328,261,67
+Sac,Schaller,U.S. House,4,DEM,J.D. Scholten,221,177,44
+Sac,Nemaha,U.S. House,4,DEM,J.D. Scholten,78,57,21
+Sac,Early,U.S. House,4,DEM,J.D. Scholten,135,115,20
+Sac,Sac City,U.S. House,4,DEM,J.D. Scholten,470,312,158
+Sac,Lytton,U.S. House,4,DEM,J.D. Scholten,100,74,26
+Sac,Odebolt,U.S. House,4,DEM,J.D. Scholten,162,126,36
+Sac,Lake View,U.S. House,4,DEM,J.D. Scholten,304,227,77
+Sac,Auburn,U.S. House,4,DEM,J.D. Scholten,77,63,14
+Sac,Wall Lake,U.S. House,4,DEM,J.D. Scholten,139,113,26
+Sac,Schaller,U.S. House,4,LIB,Charles Aldrich,7,6,1
+Sac,Nemaha,U.S. House,4,LIB,Charles Aldrich,1,1,0
+Sac,Early,U.S. House,4,LIB,Charles Aldrich,5,3,2
+Sac,Sac City,U.S. House,4,LIB,Charles Aldrich,21,18,3
+Sac,Lytton,U.S. House,4,LIB,Charles Aldrich,4,4,0
+Sac,Odebolt,U.S. House,4,LIB,Charles Aldrich,5,3,2
+Sac,Lake View,U.S. House,4,LIB,Charles Aldrich,7,6,1
+Sac,Auburn,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Sac,Wall Lake,U.S. House,4,LIB,Charles Aldrich,5,3,2
+Sac,Schaller,U.S. House,4,,Edward Peterson,6,5,1
+Sac,Nemaha,U.S. House,4,,Edward Peterson,1,1,0
+Sac,Early,U.S. House,4,,Edward Peterson,2,2,0
+Sac,Sac City,U.S. House,4,,Edward Peterson,5,3,2
+Sac,Lytton,U.S. House,4,,Edward Peterson,2,0,2
+Sac,Odebolt,U.S. House,4,,Edward Peterson,2,1,1
+Sac,Lake View,U.S. House,4,,Edward Peterson,4,3,1
+Sac,Auburn,U.S. House,4,,Edward Peterson,1,1,0
+Sac,Wall Lake,U.S. House,4,,Edward Peterson,1,0,1
+Sac,Schaller,U.S. House,4,,Write-in,0,0,0
+Sac,Nemaha,U.S. House,4,,Write-in,0,0,0
+Sac,Early,U.S. House,4,,Write-in,0,0,0
+Sac,Sac City,U.S. House,4,,Write-in,0,0,0
+Sac,Lytton,U.S. House,4,,Write-in,0,0,0
+Sac,Odebolt,U.S. House,4,,Write-in,1,0,1
+Sac,Lake View,U.S. House,4,,Write-in,0,0,0
+Sac,Auburn,U.S. House,4,,Write-in,0,0,0
+Sac,Wall Lake,U.S. House,4,,Write-in,0,0,0
 Sac,Schaller,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,381,281,100
 Sac,Nemaha,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,115,79,36
 Sac,Early,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,222,174,48

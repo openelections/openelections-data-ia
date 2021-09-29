@@ -1,31 +1,31 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Shelby,Cass-Center-Jackson-Lincoln,United States Representative District 4,,REP,Cyndi Hanson,14,4,10
-Shelby,Clay-Monroe-EH Hall,United States Representative District 4,,REP,Cyndi Hanson,10,2,8
-Shelby,Douglas-Greeley-Jefferson-Polk,United States Representative District 4,,REP,Cyndi Hanson,9,3,6
-Shelby,Fairview-Shelby,United States Representative District 4,,REP,Cyndi Hanson,4,0,4
-Shelby,Grove-Union-Washington-Westphalia,United States Representative District 4,,REP,Cyndi Hanson,8,1,7
-Shelby,Harlan Ward 1,United States Representative District 4,,REP,Cyndi Hanson,14,0,14
-Shelby,Harlan Ward 2,United States Representative District 4,,REP,Cyndi Hanson,16,4,12
-Shelby,Harlan Ward 3,United States Representative District 4,,REP,Cyndi Hanson,8,2,6
-Shelby,Harlan Ward 4,United States Representative District 4,,REP,Cyndi Hanson,10,3,7
-Shelby,Cass-Center-Jackson-Lincoln,United States Representative District 4,,REP,Steve King,46,7,39
-Shelby,Clay-Monroe-EH Hall,United States Representative District 4,,REP,Steve King,45,8,37
-Shelby,Douglas-Greeley-Jefferson-Polk,United States Representative District 4,,REP,Steve King,46,6,40
-Shelby,Fairview-Shelby,United States Representative District 4,,REP,Steve King,47,1,46
-Shelby,Grove-Union-Washington-Westphalia,United States Representative District 4,,REP,Steve King,41,14,27
-Shelby,Harlan Ward 1,United States Representative District 4,,REP,Steve King,30,5,25
-Shelby,Harlan Ward 2,United States Representative District 4,,REP,Steve King,44,5,39
-Shelby,Harlan Ward 3,United States Representative District 4,,REP,Steve King,37,6,31
-Shelby,Harlan Ward 4,United States Representative District 4,,REP,Steve King,31,10,21
-Shelby,Cass-Center-Jackson-Lincoln,United States Representative District 4,,,Write-in,0,0,0
-Shelby,Clay-Monroe-EH Hall,United States Representative District 4,,,Write-in,0,0,0
-Shelby,Douglas-Greeley-Jefferson-Polk,United States Representative District 4,,,Write-in,0,0,0
-Shelby,Fairview-Shelby,United States Representative District 4,,,Write-in,0,0,0
-Shelby,Grove-Union-Washington-Westphalia,United States Representative District 4,,,Write-in,0,0,0
-Shelby,Harlan Ward 1,United States Representative District 4,,,Write-in,0,0,0
-Shelby,Harlan Ward 2,United States Representative District 4,,,Write-in,0,0,0
-Shelby,Harlan Ward 3,United States Representative District 4,,,Write-in,0,0,0
-Shelby,Harlan Ward 4,United States Representative District 4,,,Write-in,0,0,0
+Shelby,Cass-Center-Jackson-Lincoln,U.S. House,4,REP,Cyndi Hanson,14,4,10
+Shelby,Clay-Monroe-EH Hall,U.S. House,4,REP,Cyndi Hanson,10,2,8
+Shelby,Douglas-Greeley-Jefferson-Polk,U.S. House,4,REP,Cyndi Hanson,9,3,6
+Shelby,Fairview-Shelby,U.S. House,4,REP,Cyndi Hanson,4,0,4
+Shelby,Grove-Union-Washington-Westphalia,U.S. House,4,REP,Cyndi Hanson,8,1,7
+Shelby,Harlan Ward 1,U.S. House,4,REP,Cyndi Hanson,14,0,14
+Shelby,Harlan Ward 2,U.S. House,4,REP,Cyndi Hanson,16,4,12
+Shelby,Harlan Ward 3,U.S. House,4,REP,Cyndi Hanson,8,2,6
+Shelby,Harlan Ward 4,U.S. House,4,REP,Cyndi Hanson,10,3,7
+Shelby,Cass-Center-Jackson-Lincoln,U.S. House,4,REP,Steve King,46,7,39
+Shelby,Clay-Monroe-EH Hall,U.S. House,4,REP,Steve King,45,8,37
+Shelby,Douglas-Greeley-Jefferson-Polk,U.S. House,4,REP,Steve King,46,6,40
+Shelby,Fairview-Shelby,U.S. House,4,REP,Steve King,47,1,46
+Shelby,Grove-Union-Washington-Westphalia,U.S. House,4,REP,Steve King,41,14,27
+Shelby,Harlan Ward 1,U.S. House,4,REP,Steve King,30,5,25
+Shelby,Harlan Ward 2,U.S. House,4,REP,Steve King,44,5,39
+Shelby,Harlan Ward 3,U.S. House,4,REP,Steve King,37,6,31
+Shelby,Harlan Ward 4,U.S. House,4,REP,Steve King,31,10,21
+Shelby,Cass-Center-Jackson-Lincoln,U.S. House,4,,Write-in,0,0,0
+Shelby,Clay-Monroe-EH Hall,U.S. House,4,,Write-in,0,0,0
+Shelby,Douglas-Greeley-Jefferson-Polk,U.S. House,4,,Write-in,0,0,0
+Shelby,Fairview-Shelby,U.S. House,4,,Write-in,0,0,0
+Shelby,Grove-Union-Washington-Westphalia,U.S. House,4,,Write-in,0,0,0
+Shelby,Harlan Ward 1,U.S. House,4,,Write-in,0,0,0
+Shelby,Harlan Ward 2,U.S. House,4,,Write-in,0,0,0
+Shelby,Harlan Ward 3,U.S. House,4,,Write-in,0,0,0
+Shelby,Harlan Ward 4,U.S. House,4,,Write-in,0,0,0
 Shelby,Cass-Center-Jackson-Lincoln,Governor,,REP,Kim Reynolds,55,10,45
 Shelby,Clay-Monroe-EH Hall,Governor,,REP,Kim Reynolds,52,8,44
 Shelby,Douglas-Greeley-Jefferson-Polk,Governor,,REP,Kim Reynolds,54,10,44
@@ -422,33 +422,33 @@ Shelby,Harlan Ward 1,County Attorney,,,Write-in,0,0,0
 Shelby,Harlan Ward 2,County Attorney,,,Write-in,0,0,0
 Shelby,Harlan Ward 3,County Attorney,,,Write-in,0,0,0
 Shelby,Harlan Ward 4,County Attorney,,,Write-in,0,0,0
-Shelby,Cass-Center-Jackson-Lincoln,United States Representative District 4,,DEM,Leann Jacobsen,14,8,6
-Shelby,Clay-Monroe-EH Hall,United States Representative District 4,,DEM,Leann Jacobsen,17,3,14
-Shelby,Douglas-Greeley-Jefferson-Polk,United States Representative District 4,,DEM,Leann Jacobsen,7,1,6
-Shelby,Fairview-Shelby,United States Representative District 4,,DEM,Leann Jacobsen,20,4,16
-Shelby,Grove-Union-Washington-Westphalia,United States Representative District 4,,DEM,Leann Jacobsen,16,6,10
-Shelby,Harlan Ward 1,United States Representative District 4,,DEM,Leann Jacobsen,10,5,5
-Shelby,Harlan Ward 2,United States Representative District 4,,DEM,Leann Jacobsen,14,2,12
-Shelby,Harlan Ward 3,United States Representative District 4,,DEM,Leann Jacobsen,14,2,12
-Shelby,Harlan Ward 4,United States Representative District 4,,DEM,Leann Jacobsen,19,4,15
-Shelby,Cass-Center-Jackson-Lincoln,United States Representative District 4,,DEM,John Paschen,2,1,1
-Shelby,Clay-Monroe-EH Hall,United States Representative District 4,,DEM,John Paschen,3,0,3
-Shelby,Douglas-Greeley-Jefferson-Polk,United States Representative District 4,,DEM,John Paschen,2,0,2
-Shelby,Fairview-Shelby,United States Representative District 4,,DEM,John Paschen,4,0,4
-Shelby,Grove-Union-Washington-Westphalia,United States Representative District 4,,DEM,John Paschen,6,2,4
-Shelby,Harlan Ward 1,United States Representative District 4,,DEM,John Paschen,3,0,3
-Shelby,Harlan Ward 2,United States Representative District 4,,DEM,John Paschen,2,0,2
-Shelby,Harlan Ward 3,United States Representative District 4,,DEM,John Paschen,2,0,2
-Shelby,Harlan Ward 4,United States Representative District 4,,DEM,John Paschen,1,0,1
-Shelby,Cass-Center-Jackson-Lincoln,United States Representative District 4,,DEM,J.D. Scholten,13,4,9
-Shelby,Clay-Monroe-EH Hall,United States Representative District 4,,DEM,J.D. Scholten,16,4,12
-Shelby,Douglas-Greeley-Jefferson-Polk,United States Representative District 4,,DEM,J.D. Scholten,14,5,9
-Shelby,Fairview-Shelby,United States Representative District 4,,DEM,J.D. Scholten,8,2,6
-Shelby,Grove-Union-Washington-Westphalia,United States Representative District 4,,DEM,J.D. Scholten,14,4,10
-Shelby,Harlan Ward 1,United States Representative District 4,,DEM,J.D. Scholten,15,1,14
-Shelby,Harlan Ward 2,United States Representative District 4,,DEM,J.D. Scholten,24,3,21
-Shelby,Harlan Ward 3,United States Representative District 4,,DEM,J.D. Scholten,24,11,13
-Shelby,Harlan Ward 4,United States Representative District 4,,DEM,J.D. Scholten,9,1,8
+Shelby,Cass-Center-Jackson-Lincoln,U.S. House,4,DEM,Leann Jacobsen,14,8,6
+Shelby,Clay-Monroe-EH Hall,U.S. House,4,DEM,Leann Jacobsen,17,3,14
+Shelby,Douglas-Greeley-Jefferson-Polk,U.S. House,4,DEM,Leann Jacobsen,7,1,6
+Shelby,Fairview-Shelby,U.S. House,4,DEM,Leann Jacobsen,20,4,16
+Shelby,Grove-Union-Washington-Westphalia,U.S. House,4,DEM,Leann Jacobsen,16,6,10
+Shelby,Harlan Ward 1,U.S. House,4,DEM,Leann Jacobsen,10,5,5
+Shelby,Harlan Ward 2,U.S. House,4,DEM,Leann Jacobsen,14,2,12
+Shelby,Harlan Ward 3,U.S. House,4,DEM,Leann Jacobsen,14,2,12
+Shelby,Harlan Ward 4,U.S. House,4,DEM,Leann Jacobsen,19,4,15
+Shelby,Cass-Center-Jackson-Lincoln,U.S. House,4,DEM,John Paschen,2,1,1
+Shelby,Clay-Monroe-EH Hall,U.S. House,4,DEM,John Paschen,3,0,3
+Shelby,Douglas-Greeley-Jefferson-Polk,U.S. House,4,DEM,John Paschen,2,0,2
+Shelby,Fairview-Shelby,U.S. House,4,DEM,John Paschen,4,0,4
+Shelby,Grove-Union-Washington-Westphalia,U.S. House,4,DEM,John Paschen,6,2,4
+Shelby,Harlan Ward 1,U.S. House,4,DEM,John Paschen,3,0,3
+Shelby,Harlan Ward 2,U.S. House,4,DEM,John Paschen,2,0,2
+Shelby,Harlan Ward 3,U.S. House,4,DEM,John Paschen,2,0,2
+Shelby,Harlan Ward 4,U.S. House,4,DEM,John Paschen,1,0,1
+Shelby,Cass-Center-Jackson-Lincoln,U.S. House,4,DEM,J.D. Scholten,13,4,9
+Shelby,Clay-Monroe-EH Hall,U.S. House,4,DEM,J.D. Scholten,16,4,12
+Shelby,Douglas-Greeley-Jefferson-Polk,U.S. House,4,DEM,J.D. Scholten,14,5,9
+Shelby,Fairview-Shelby,U.S. House,4,DEM,J.D. Scholten,8,2,6
+Shelby,Grove-Union-Washington-Westphalia,U.S. House,4,DEM,J.D. Scholten,14,4,10
+Shelby,Harlan Ward 1,U.S. House,4,DEM,J.D. Scholten,15,1,14
+Shelby,Harlan Ward 2,U.S. House,4,DEM,J.D. Scholten,24,3,21
+Shelby,Harlan Ward 3,U.S. House,4,DEM,J.D. Scholten,24,11,13
+Shelby,Harlan Ward 4,U.S. House,4,DEM,J.D. Scholten,9,1,8
 Shelby,Cass-Center-Jackson-Lincoln,Governor,,DEM,Nate Boulton,2,2,0
 Shelby,Clay-Monroe-EH Hall,Governor,,DEM,Nate Boulton,4,1,3
 Shelby,Douglas-Greeley-Jefferson-Polk,Governor,,DEM,Nate Boulton,2,1,1
@@ -854,15 +854,15 @@ Shelby,Harlan Ward 1,County Attorney,,DEM,Marcus Gross Jr.,24,6,18
 Shelby,Harlan Ward 2,County Attorney,,DEM,Marcus Gross Jr.,35,5,30
 Shelby,Harlan Ward 3,County Attorney,,DEM,Marcus Gross Jr.,40,12,28
 Shelby,Harlan Ward 4,County Attorney,,DEM,Marcus Gross Jr.,29,6,23
-Shelby,Cass-Center-Jackson-Lincoln,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
-Shelby,Clay-Monroe-EH Hall,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Shelby,Douglas-Greeley-Jefferson-Polk,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Shelby,Fairview-Shelby,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Shelby,Grove-Union-Washington-Westphalia,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Shelby,Harlan Ward 1,United States Representative District 4,,LIB,Charles Aldrich,1,1,0
-Shelby,Harlan Ward 2,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
-Shelby,Harlan Ward 3,United States Representative District 4,,LIB,Charles Aldrich,1,1,0
-Shelby,Harlan Ward 4,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Shelby,Cass-Center-Jackson-Lincoln,U.S. House,4,LIB,Charles Aldrich,1,0,1
+Shelby,Clay-Monroe-EH Hall,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Shelby,Douglas-Greeley-Jefferson-Polk,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Shelby,Fairview-Shelby,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Shelby,Grove-Union-Washington-Westphalia,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Shelby,Harlan Ward 1,U.S. House,4,LIB,Charles Aldrich,1,1,0
+Shelby,Harlan Ward 2,U.S. House,4,LIB,Charles Aldrich,1,0,1
+Shelby,Harlan Ward 3,U.S. House,4,LIB,Charles Aldrich,1,1,0
+Shelby,Harlan Ward 4,U.S. House,4,LIB,Charles Aldrich,0,0,0
 Shelby,Cass-Center-Jackson-Lincoln,Governor,,LIB,Marco Battaglia,0,0,0
 Shelby,Clay-Monroe-EH Hall,Governor,,LIB,Marco Battaglia,0,0,0
 Shelby,Douglas-Greeley-Jefferson-Polk,Governor,,LIB,Marco Battaglia,0,0,0

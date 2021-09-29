@@ -1,54 +1,54 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Buena Vista,ACFC,United States Representative District 4,,REP,Steve King,286,210,76
-Buena Vista,ALNE,United States Representative District 4,,REP,Steve King,508,386,122
-Buena Vista,LKHM,United States Representative District 4,,REP,Steve King,326,198,128
-Buena Vista,NENP,United States Representative District 4,,REP,Steve King,368,257,111
-Buena Vista,SMLR,United States Representative District 4,,REP,Steve King,607,389,218
-Buena Vista,SL01,United States Representative District 4,,REP,Steve King,203,128,75
-Buena Vista,SL02,United States Representative District 4,,REP,Steve King,93,55,38
-Buena Vista,SL03,United States Representative District 4,,REP,Steve King,384,227,157
-Buena Vista,SL04,United States Representative District 4,,REP,Steve King,223,133,90
-Buena Vista,TRWG,United States Representative District 4,,REP,Steve King,230,153,77
-Buena Vista,ACFC,United States Representative District 4,,DEM,J.D. Scholten,170,127,43
-Buena Vista,ALNE,United States Representative District 4,,DEM,J.D. Scholten,409,315,94
-Buena Vista,LKHM,United States Representative District 4,,DEM,J.D. Scholten,277,160,117
-Buena Vista,NENP,United States Representative District 4,,DEM,J.D. Scholten,190,138,52
-Buena Vista,SMLR,United States Representative District 4,,DEM,J.D. Scholten,362,250,112
-Buena Vista,SL01,United States Representative District 4,,DEM,J.D. Scholten,413,235,178
-Buena Vista,SL02,United States Representative District 4,,DEM,J.D. Scholten,241,138,103
-Buena Vista,SL03,United States Representative District 4,,DEM,J.D. Scholten,479,280,199
-Buena Vista,SL04,United States Representative District 4,,DEM,J.D. Scholten,464,263,201
-Buena Vista,TRWG,United States Representative District 4,,DEM,J.D. Scholten,173,86,87
-Buena Vista,ACFC,United States Representative District 4,,LIB,Charles Aldrich,13,12,1
-Buena Vista,ALNE,United States Representative District 4,,LIB,Charles Aldrich,22,15,7
-Buena Vista,LKHM,United States Representative District 4,,LIB,Charles Aldrich,7,4,3
-Buena Vista,NENP,United States Representative District 4,,LIB,Charles Aldrich,9,5,4
-Buena Vista,SMLR,United States Representative District 4,,LIB,Charles Aldrich,19,13,6
-Buena Vista,SL01,United States Representative District 4,,LIB,Charles Aldrich,6,3,3
-Buena Vista,SL02,United States Representative District 4,,LIB,Charles Aldrich,9,7,2
-Buena Vista,SL03,United States Representative District 4,,LIB,Charles Aldrich,10,5,5
-Buena Vista,SL04,United States Representative District 4,,LIB,Charles Aldrich,15,12,3
-Buena Vista,TRWG,United States Representative District 4,,LIB,Charles Aldrich,6,5,1
-Buena Vista,ACFC,United States Representative District 4,,,Edward Peterson,2,2,0
-Buena Vista,ALNE,United States Representative District 4,,,Edward Peterson,8,7,1
-Buena Vista,LKHM,United States Representative District 4,,,Edward Peterson,3,3,0
-Buena Vista,NENP,United States Representative District 4,,,Edward Peterson,5,5,0
-Buena Vista,SMLR,United States Representative District 4,,,Edward Peterson,7,5,2
-Buena Vista,SL01,United States Representative District 4,,,Edward Peterson,3,1,2
-Buena Vista,SL02,United States Representative District 4,,,Edward Peterson,7,5,2
-Buena Vista,SL03,United States Representative District 4,,,Edward Peterson,4,1,3
-Buena Vista,SL04,United States Representative District 4,,,Edward Peterson,2,1,1
-Buena Vista,TRWG,United States Representative District 4,,,Edward Peterson,2,1,1
-Buena Vista,ACFC,United States Representative District 4,,,Write-in,0,0,0
-Buena Vista,ALNE,United States Representative District 4,,,Write-in,3,3,0
-Buena Vista,LKHM,United States Representative District 4,,,Write-in,0,0,0
-Buena Vista,NENP,United States Representative District 4,,,Write-in,0,0,0
-Buena Vista,SMLR,United States Representative District 4,,,Write-in,0,0,0
-Buena Vista,SL01,United States Representative District 4,,,Write-in,0,0,0
-Buena Vista,SL02,United States Representative District 4,,,Write-in,0,0,0
-Buena Vista,SL03,United States Representative District 4,,,Write-in,0,0,0
-Buena Vista,SL04,United States Representative District 4,,,Write-in,0,0,0
-Buena Vista,TRWG,United States Representative District 4,,,Write-in,0,0,0
+Buena Vista,ACFC,U.S. House,4,REP,Steve King,286,210,76
+Buena Vista,ALNE,U.S. House,4,REP,Steve King,508,386,122
+Buena Vista,LKHM,U.S. House,4,REP,Steve King,326,198,128
+Buena Vista,NENP,U.S. House,4,REP,Steve King,368,257,111
+Buena Vista,SMLR,U.S. House,4,REP,Steve King,607,389,218
+Buena Vista,SL01,U.S. House,4,REP,Steve King,203,128,75
+Buena Vista,SL02,U.S. House,4,REP,Steve King,93,55,38
+Buena Vista,SL03,U.S. House,4,REP,Steve King,384,227,157
+Buena Vista,SL04,U.S. House,4,REP,Steve King,223,133,90
+Buena Vista,TRWG,U.S. House,4,REP,Steve King,230,153,77
+Buena Vista,ACFC,U.S. House,4,DEM,J.D. Scholten,170,127,43
+Buena Vista,ALNE,U.S. House,4,DEM,J.D. Scholten,409,315,94
+Buena Vista,LKHM,U.S. House,4,DEM,J.D. Scholten,277,160,117
+Buena Vista,NENP,U.S. House,4,DEM,J.D. Scholten,190,138,52
+Buena Vista,SMLR,U.S. House,4,DEM,J.D. Scholten,362,250,112
+Buena Vista,SL01,U.S. House,4,DEM,J.D. Scholten,413,235,178
+Buena Vista,SL02,U.S. House,4,DEM,J.D. Scholten,241,138,103
+Buena Vista,SL03,U.S. House,4,DEM,J.D. Scholten,479,280,199
+Buena Vista,SL04,U.S. House,4,DEM,J.D. Scholten,464,263,201
+Buena Vista,TRWG,U.S. House,4,DEM,J.D. Scholten,173,86,87
+Buena Vista,ACFC,U.S. House,4,LIB,Charles Aldrich,13,12,1
+Buena Vista,ALNE,U.S. House,4,LIB,Charles Aldrich,22,15,7
+Buena Vista,LKHM,U.S. House,4,LIB,Charles Aldrich,7,4,3
+Buena Vista,NENP,U.S. House,4,LIB,Charles Aldrich,9,5,4
+Buena Vista,SMLR,U.S. House,4,LIB,Charles Aldrich,19,13,6
+Buena Vista,SL01,U.S. House,4,LIB,Charles Aldrich,6,3,3
+Buena Vista,SL02,U.S. House,4,LIB,Charles Aldrich,9,7,2
+Buena Vista,SL03,U.S. House,4,LIB,Charles Aldrich,10,5,5
+Buena Vista,SL04,U.S. House,4,LIB,Charles Aldrich,15,12,3
+Buena Vista,TRWG,U.S. House,4,LIB,Charles Aldrich,6,5,1
+Buena Vista,ACFC,U.S. House,4,,Edward Peterson,2,2,0
+Buena Vista,ALNE,U.S. House,4,,Edward Peterson,8,7,1
+Buena Vista,LKHM,U.S. House,4,,Edward Peterson,3,3,0
+Buena Vista,NENP,U.S. House,4,,Edward Peterson,5,5,0
+Buena Vista,SMLR,U.S. House,4,,Edward Peterson,7,5,2
+Buena Vista,SL01,U.S. House,4,,Edward Peterson,3,1,2
+Buena Vista,SL02,U.S. House,4,,Edward Peterson,7,5,2
+Buena Vista,SL03,U.S. House,4,,Edward Peterson,4,1,3
+Buena Vista,SL04,U.S. House,4,,Edward Peterson,2,1,1
+Buena Vista,TRWG,U.S. House,4,,Edward Peterson,2,1,1
+Buena Vista,ACFC,U.S. House,4,,Write-in,0,0,0
+Buena Vista,ALNE,U.S. House,4,,Write-in,3,3,0
+Buena Vista,LKHM,U.S. House,4,,Write-in,0,0,0
+Buena Vista,NENP,U.S. House,4,,Write-in,0,0,0
+Buena Vista,SMLR,U.S. House,4,,Write-in,0,0,0
+Buena Vista,SL01,U.S. House,4,,Write-in,0,0,0
+Buena Vista,SL02,U.S. House,4,,Write-in,0,0,0
+Buena Vista,SL03,U.S. House,4,,Write-in,0,0,0
+Buena Vista,SL04,U.S. House,4,,Write-in,0,0,0
+Buena Vista,TRWG,U.S. House,4,,Write-in,0,0,0
 Buena Vista,ACFC,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,326,244,82
 Buena Vista,ALNE,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,598,467,131
 Buena Vista,LKHM,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,392,241,151

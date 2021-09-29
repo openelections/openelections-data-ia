@@ -1,25 +1,25 @@
 county,precinct,office,district,party,candidate,votes,election_day_total_votes
-Lucas,Chariton City Hall,United States Representative District 2,,REP,Christopher Peters,71,71
-Lucas,Chariton Community Center,United States Representative District 2,,REP,Christopher Peters,75,75
-Lucas,L.C. Extension Office,United States Representative District 2,,REP,Christopher Peters,30,30
-Lucas,Lucas,United States Representative District 2,,REP,Christopher Peters,32,32
-Lucas,Pin Oak Marsh,United States Representative District 2,,REP,Christopher Peters,45,45
-Lucas,Russell,United States Representative District 2,,REP,Christopher Peters,55,55
-Lucas,Williamson,United States Representative District 2,,REP,Christopher Peters,35,35
-Lucas,Chariton City Hall,United States Representative District 2,,,Write-in,0,0
-Lucas,Chariton Community Center,United States Representative District 2,,,Write-in,0,0
-Lucas,L.C. Extension Office,United States Representative District 2,,,Write-in,0,0
-Lucas,Lucas,United States Representative District 2,,,Write-in,0,0
-Lucas,Pin Oak Marsh,United States Representative District 2,,,Write-in,0,0
-Lucas,Russell,United States Representative District 2,,,Write-in,0,0
-Lucas,Williamson,United States Representative District 2,,,Write-in,1,1
-Lucas,Chariton City Hall,United States Representative District 2,,DEM,Dave Loebsack,71,71
-Lucas,Chariton Community Center,United States Representative District 2,,DEM,Dave Loebsack,65,65
-Lucas,L.C. Extension Office,United States Representative District 2,,DEM,Dave Loebsack,28,28
-Lucas,Lucas,United States Representative District 2,,DEM,Dave Loebsack,30,30
-Lucas,Pin Oak Marsh,United States Representative District 2,,DEM,Dave Loebsack,29,29
-Lucas,Russell,United States Representative District 2,,DEM,Dave Loebsack,29,29
-Lucas,Williamson,United States Representative District 2,,DEM,Dave Loebsack,30,30
+Lucas,Chariton City Hall,U.S. House,2,REP,Christopher Peters,71,71
+Lucas,Chariton Community Center,U.S. House,2,REP,Christopher Peters,75,75
+Lucas,L.C. Extension Office,U.S. House,2,REP,Christopher Peters,30,30
+Lucas,Lucas,U.S. House,2,REP,Christopher Peters,32,32
+Lucas,Pin Oak Marsh,U.S. House,2,REP,Christopher Peters,45,45
+Lucas,Russell,U.S. House,2,REP,Christopher Peters,55,55
+Lucas,Williamson,U.S. House,2,REP,Christopher Peters,35,35
+Lucas,Chariton City Hall,U.S. House,2,,Write-in,0,0
+Lucas,Chariton Community Center,U.S. House,2,,Write-in,0,0
+Lucas,L.C. Extension Office,U.S. House,2,,Write-in,0,0
+Lucas,Lucas,U.S. House,2,,Write-in,0,0
+Lucas,Pin Oak Marsh,U.S. House,2,,Write-in,0,0
+Lucas,Russell,U.S. House,2,,Write-in,0,0
+Lucas,Williamson,U.S. House,2,,Write-in,1,1
+Lucas,Chariton City Hall,U.S. House,2,DEM,Dave Loebsack,71,71
+Lucas,Chariton Community Center,U.S. House,2,DEM,Dave Loebsack,65,65
+Lucas,L.C. Extension Office,U.S. House,2,DEM,Dave Loebsack,28,28
+Lucas,Lucas,U.S. House,2,DEM,Dave Loebsack,30,30
+Lucas,Pin Oak Marsh,U.S. House,2,DEM,Dave Loebsack,29,29
+Lucas,Russell,U.S. House,2,DEM,Dave Loebsack,29,29
+Lucas,Williamson,U.S. House,2,DEM,Dave Loebsack,30,30
 Lucas,Chariton City Hall,Governor,,REP,Kim Reynolds,77,77
 Lucas,Chariton Community Center,Governor,,REP,Kim Reynolds,84,84
 Lucas,L.C. Extension Office,Governor,,REP,Kim Reynolds,37,37

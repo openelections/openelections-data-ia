@@ -1,53 +1,53 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Ringgold,ATHENS,United States Representative District 3,,REP,David Young,169,116,53
-Ringgold,CLINTON,United States Representative District 3,,REP,David Young,92,65,27
-Ringgold,MOUNT AYR 1,United States Representative District 3,,REP,David Young,342,216,126
-Ringgold,MOUNT AYR 2,United States Representative District 3,,REP,David Young,361,231,130
-Ringgold,TINGLEY,United States Representative District 3,,REP,David Young,113,84,29
-Ringgold,UNION,United States Representative District 3,,REP,David Young,137,92,45
-Ringgold,WASHINGTON,United States Representative District 3,,REP,David Young,279,212,67
-Ringgold,ATHENS,United States Representative District 3,,DEM,Cindy Axne,76,45,31
-Ringgold,CLINTON,United States Representative District 3,,DEM,Cindy Axne,56,26,30
-Ringgold,MOUNT AYR 1,United States Representative District 3,,DEM,Cindy Axne,190,74,116
-Ringgold,MOUNT AYR 2,United States Representative District 3,,DEM,Cindy Axne,195,90,105
-Ringgold,TINGLEY,United States Representative District 3,,DEM,Cindy Axne,35,19,16
-Ringgold,UNION,United States Representative District 3,,DEM,Cindy Axne,77,54,23
-Ringgold,WASHINGTON,United States Representative District 3,,DEM,Cindy Axne,87,68,19
-Ringgold,ATHENS,United States Representative District 3,,LIB,Bryan Jack Holder,5,5,0
-Ringgold,CLINTON,United States Representative District 3,,LIB,Bryan Jack Holder,3,2,1
-Ringgold,MOUNT AYR 1,United States Representative District 3,,LIB,Bryan Jack Holder,7,3,4
-Ringgold,MOUNT AYR 2,United States Representative District 3,,LIB,Bryan Jack Holder,5,4,1
-Ringgold,TINGLEY,United States Representative District 3,,LIB,Bryan Jack Holder,1,1,0
-Ringgold,UNION,United States Representative District 3,,LIB,Bryan Jack Holder,6,4,2
-Ringgold,WASHINGTON,United States Representative District 3,,LIB,Bryan Jack Holder,8,7,1
-Ringgold,ATHENS,United States Representative District 3,,GRN,Paul Knupp,2,2,0
-Ringgold,CLINTON,United States Representative District 3,,GRN,Paul Knupp,1,0,1
-Ringgold,MOUNT AYR 1,United States Representative District 3,,GRN,Paul Knupp,3,1,2
-Ringgold,MOUNT AYR 2,United States Representative District 3,,GRN,Paul Knupp,4,2,2
-Ringgold,TINGLEY,United States Representative District 3,,GRN,Paul Knupp,1,1,0
-Ringgold,UNION,United States Representative District 3,,GRN,Paul Knupp,0,0,0
-Ringgold,WASHINGTON,United States Representative District 3,,GRN,Paul Knupp,2,2,0
-Ringgold,ATHENS,United States Representative District 3,,LMN,Mark Elworth Jr.,2,0,2
-Ringgold,CLINTON,United States Representative District 3,,LMN,Mark Elworth Jr.,0,0,0
-Ringgold,MOUNT AYR 1,United States Representative District 3,,LMN,Mark Elworth Jr.,3,2,1
-Ringgold,MOUNT AYR 2,United States Representative District 3,,LMN,Mark Elworth Jr.,2,1,1
-Ringgold,TINGLEY,United States Representative District 3,,LMN,Mark Elworth Jr.,1,1,0
-Ringgold,UNION,United States Representative District 3,,LMN,Mark Elworth Jr.,0,0,0
-Ringgold,WASHINGTON,United States Representative District 3,,LMN,Mark Elworth Jr.,3,3,0
-Ringgold,ATHENS,United States Representative District 3,,,Joe Grandanette,0,0,0
-Ringgold,CLINTON,United States Representative District 3,,,Joe Grandanette,0,0,0
-Ringgold,MOUNT AYR 1,United States Representative District 3,,,Joe Grandanette,1,0,1
-Ringgold,MOUNT AYR 2,United States Representative District 3,,,Joe Grandanette,1,1,0
-Ringgold,TINGLEY,United States Representative District 3,,,Joe Grandanette,1,1,0
-Ringgold,UNION,United States Representative District 3,,,Joe Grandanette,0,0,0
-Ringgold,WASHINGTON,United States Representative District 3,,,Joe Grandanette,3,3,0
-Ringgold,ATHENS,United States Representative District 3,,,Write-in,0,0,0
-Ringgold,CLINTON,United States Representative District 3,,,Write-in,0,0,0
-Ringgold,MOUNT AYR 1,United States Representative District 3,,,Write-in,0,0,0
-Ringgold,MOUNT AYR 2,United States Representative District 3,,,Write-in,0,0,0
-Ringgold,TINGLEY,United States Representative District 3,,,Write-in,0,0,0
-Ringgold,UNION,United States Representative District 3,,,Write-in,0,0,0
-Ringgold,WASHINGTON,United States Representative District 3,,,Write-in,0,0,0
+Ringgold,ATHENS,U.S. House,3,REP,David Young,169,116,53
+Ringgold,CLINTON,U.S. House,3,REP,David Young,92,65,27
+Ringgold,MOUNT AYR 1,U.S. House,3,REP,David Young,342,216,126
+Ringgold,MOUNT AYR 2,U.S. House,3,REP,David Young,361,231,130
+Ringgold,TINGLEY,U.S. House,3,REP,David Young,113,84,29
+Ringgold,UNION,U.S. House,3,REP,David Young,137,92,45
+Ringgold,WASHINGTON,U.S. House,3,REP,David Young,279,212,67
+Ringgold,ATHENS,U.S. House,3,DEM,Cindy Axne,76,45,31
+Ringgold,CLINTON,U.S. House,3,DEM,Cindy Axne,56,26,30
+Ringgold,MOUNT AYR 1,U.S. House,3,DEM,Cindy Axne,190,74,116
+Ringgold,MOUNT AYR 2,U.S. House,3,DEM,Cindy Axne,195,90,105
+Ringgold,TINGLEY,U.S. House,3,DEM,Cindy Axne,35,19,16
+Ringgold,UNION,U.S. House,3,DEM,Cindy Axne,77,54,23
+Ringgold,WASHINGTON,U.S. House,3,DEM,Cindy Axne,87,68,19
+Ringgold,ATHENS,U.S. House,3,LIB,Bryan Jack Holder,5,5,0
+Ringgold,CLINTON,U.S. House,3,LIB,Bryan Jack Holder,3,2,1
+Ringgold,MOUNT AYR 1,U.S. House,3,LIB,Bryan Jack Holder,7,3,4
+Ringgold,MOUNT AYR 2,U.S. House,3,LIB,Bryan Jack Holder,5,4,1
+Ringgold,TINGLEY,U.S. House,3,LIB,Bryan Jack Holder,1,1,0
+Ringgold,UNION,U.S. House,3,LIB,Bryan Jack Holder,6,4,2
+Ringgold,WASHINGTON,U.S. House,3,LIB,Bryan Jack Holder,8,7,1
+Ringgold,ATHENS,U.S. House,3,GRN,Paul Knupp,2,2,0
+Ringgold,CLINTON,U.S. House,3,GRN,Paul Knupp,1,0,1
+Ringgold,MOUNT AYR 1,U.S. House,3,GRN,Paul Knupp,3,1,2
+Ringgold,MOUNT AYR 2,U.S. House,3,GRN,Paul Knupp,4,2,2
+Ringgold,TINGLEY,U.S. House,3,GRN,Paul Knupp,1,1,0
+Ringgold,UNION,U.S. House,3,GRN,Paul Knupp,0,0,0
+Ringgold,WASHINGTON,U.S. House,3,GRN,Paul Knupp,2,2,0
+Ringgold,ATHENS,U.S. House,3,LMN,Mark Elworth Jr.,2,0,2
+Ringgold,CLINTON,U.S. House,3,LMN,Mark Elworth Jr.,0,0,0
+Ringgold,MOUNT AYR 1,U.S. House,3,LMN,Mark Elworth Jr.,3,2,1
+Ringgold,MOUNT AYR 2,U.S. House,3,LMN,Mark Elworth Jr.,2,1,1
+Ringgold,TINGLEY,U.S. House,3,LMN,Mark Elworth Jr.,1,1,0
+Ringgold,UNION,U.S. House,3,LMN,Mark Elworth Jr.,0,0,0
+Ringgold,WASHINGTON,U.S. House,3,LMN,Mark Elworth Jr.,3,3,0
+Ringgold,ATHENS,U.S. House,3,,Joe Grandanette,0,0,0
+Ringgold,CLINTON,U.S. House,3,,Joe Grandanette,0,0,0
+Ringgold,MOUNT AYR 1,U.S. House,3,,Joe Grandanette,1,0,1
+Ringgold,MOUNT AYR 2,U.S. House,3,,Joe Grandanette,1,1,0
+Ringgold,TINGLEY,U.S. House,3,,Joe Grandanette,1,1,0
+Ringgold,UNION,U.S. House,3,,Joe Grandanette,0,0,0
+Ringgold,WASHINGTON,U.S. House,3,,Joe Grandanette,3,3,0
+Ringgold,ATHENS,U.S. House,3,,Write-in,0,0,0
+Ringgold,CLINTON,U.S. House,3,,Write-in,0,0,0
+Ringgold,MOUNT AYR 1,U.S. House,3,,Write-in,0,0,0
+Ringgold,MOUNT AYR 2,U.S. House,3,,Write-in,0,0,0
+Ringgold,TINGLEY,U.S. House,3,,Write-in,0,0,0
+Ringgold,UNION,U.S. House,3,,Write-in,0,0,0
+Ringgold,WASHINGTON,U.S. House,3,,Write-in,0,0,0
 Ringgold,ATHENS,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,163,116,47
 Ringgold,CLINTON,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,97,67,30
 Ringgold,MOUNT AYR 1,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,336,205,131

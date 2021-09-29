@@ -1,39 +1,39 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Cherokee,#1 Aurelia,United States Representative District 4,,REP,Steve King,418,290,128
-Cherokee,#2 Cleghorn,United States Representative District 4,,REP,Steve King,579,370,209
-Cherokee,#3 Quimby,United States Representative District 4,,REP,Steve King,389,240,149
-Cherokee,#4 Cherokee,United States Representative District 4,,REP,Steve King,376,205,171
-Cherokee,#5 Cherokee Ward 1,United States Representative District 4,,REP,Steve King,392,189,203
-Cherokee,#6 Cherokee Ward 2,United States Representative District 4,,REP,Steve King,238,143,95
-Cherokee,#7 Cherokee Ward 3,United States Representative District 4,,REP,Steve King,310,128,182
-Cherokee,#1 Aurelia,United States Representative District 4,,DEM,J.D. Scholten,377,268,109
-Cherokee,#2 Cleghorn,United States Representative District 4,,DEM,J.D. Scholten,462,277,185
-Cherokee,#3 Quimby,United States Representative District 4,,DEM,J.D. Scholten,254,144,110
-Cherokee,#4 Cherokee,United States Representative District 4,,DEM,J.D. Scholten,225,110,115
-Cherokee,#5 Cherokee Ward 1,United States Representative District 4,,DEM,J.D. Scholten,374,183,191
-Cherokee,#6 Cherokee Ward 2,United States Representative District 4,,DEM,J.D. Scholten,289,167,122
-Cherokee,#7 Cherokee Ward 3,United States Representative District 4,,DEM,J.D. Scholten,378,170,208
-Cherokee,#1 Aurelia,United States Representative District 4,,LIB,Charles Aldrich,6,3,3
-Cherokee,#2 Cleghorn,United States Representative District 4,,LIB,Charles Aldrich,13,11,2
-Cherokee,#3 Quimby,United States Representative District 4,,LIB,Charles Aldrich,9,7,2
-Cherokee,#4 Cherokee,United States Representative District 4,,LIB,Charles Aldrich,3,2,1
-Cherokee,#5 Cherokee Ward 1,United States Representative District 4,,LIB,Charles Aldrich,11,7,4
-Cherokee,#6 Cherokee Ward 2,United States Representative District 4,,LIB,Charles Aldrich,7,3,4
-Cherokee,#7 Cherokee Ward 3,United States Representative District 4,,LIB,Charles Aldrich,11,7,4
-Cherokee,#1 Aurelia,United States Representative District 4,,,Edward Peterson,4,2,2
-Cherokee,#2 Cleghorn,United States Representative District 4,,,Edward Peterson,6,6,0
-Cherokee,#3 Quimby,United States Representative District 4,,,Edward Peterson,3,2,1
-Cherokee,#4 Cherokee,United States Representative District 4,,,Edward Peterson,4,4,0
-Cherokee,#5 Cherokee Ward 1,United States Representative District 4,,,Edward Peterson,4,1,3
-Cherokee,#6 Cherokee Ward 2,United States Representative District 4,,,Edward Peterson,3,2,1
-Cherokee,#7 Cherokee Ward 3,United States Representative District 4,,,Edward Peterson,3,1,2
-Cherokee,#1 Aurelia,United States Representative District 4,,,Write-in,0,0,0
-Cherokee,#2 Cleghorn,United States Representative District 4,,,Write-in,0,0,0
-Cherokee,#3 Quimby,United States Representative District 4,,,Write-in,0,0,0
-Cherokee,#4 Cherokee,United States Representative District 4,,,Write-in,1,0,1
-Cherokee,#5 Cherokee Ward 1,United States Representative District 4,,,Write-in,0,0,0
-Cherokee,#6 Cherokee Ward 2,United States Representative District 4,,,Write-in,0,0,0
-Cherokee,#7 Cherokee Ward 3,United States Representative District 4,,,Write-in,0,0,0
+Cherokee,#1 Aurelia,U.S. House,4,REP,Steve King,418,290,128
+Cherokee,#2 Cleghorn,U.S. House,4,REP,Steve King,579,370,209
+Cherokee,#3 Quimby,U.S. House,4,REP,Steve King,389,240,149
+Cherokee,#4 Cherokee,U.S. House,4,REP,Steve King,376,205,171
+Cherokee,#5 Cherokee Ward 1,U.S. House,4,REP,Steve King,392,189,203
+Cherokee,#6 Cherokee Ward 2,U.S. House,4,REP,Steve King,238,143,95
+Cherokee,#7 Cherokee Ward 3,U.S. House,4,REP,Steve King,310,128,182
+Cherokee,#1 Aurelia,U.S. House,4,DEM,J.D. Scholten,377,268,109
+Cherokee,#2 Cleghorn,U.S. House,4,DEM,J.D. Scholten,462,277,185
+Cherokee,#3 Quimby,U.S. House,4,DEM,J.D. Scholten,254,144,110
+Cherokee,#4 Cherokee,U.S. House,4,DEM,J.D. Scholten,225,110,115
+Cherokee,#5 Cherokee Ward 1,U.S. House,4,DEM,J.D. Scholten,374,183,191
+Cherokee,#6 Cherokee Ward 2,U.S. House,4,DEM,J.D. Scholten,289,167,122
+Cherokee,#7 Cherokee Ward 3,U.S. House,4,DEM,J.D. Scholten,378,170,208
+Cherokee,#1 Aurelia,U.S. House,4,LIB,Charles Aldrich,6,3,3
+Cherokee,#2 Cleghorn,U.S. House,4,LIB,Charles Aldrich,13,11,2
+Cherokee,#3 Quimby,U.S. House,4,LIB,Charles Aldrich,9,7,2
+Cherokee,#4 Cherokee,U.S. House,4,LIB,Charles Aldrich,3,2,1
+Cherokee,#5 Cherokee Ward 1,U.S. House,4,LIB,Charles Aldrich,11,7,4
+Cherokee,#6 Cherokee Ward 2,U.S. House,4,LIB,Charles Aldrich,7,3,4
+Cherokee,#7 Cherokee Ward 3,U.S. House,4,LIB,Charles Aldrich,11,7,4
+Cherokee,#1 Aurelia,U.S. House,4,,Edward Peterson,4,2,2
+Cherokee,#2 Cleghorn,U.S. House,4,,Edward Peterson,6,6,0
+Cherokee,#3 Quimby,U.S. House,4,,Edward Peterson,3,2,1
+Cherokee,#4 Cherokee,U.S. House,4,,Edward Peterson,4,4,0
+Cherokee,#5 Cherokee Ward 1,U.S. House,4,,Edward Peterson,4,1,3
+Cherokee,#6 Cherokee Ward 2,U.S. House,4,,Edward Peterson,3,2,1
+Cherokee,#7 Cherokee Ward 3,U.S. House,4,,Edward Peterson,3,1,2
+Cherokee,#1 Aurelia,U.S. House,4,,Write-in,0,0,0
+Cherokee,#2 Cleghorn,U.S. House,4,,Write-in,0,0,0
+Cherokee,#3 Quimby,U.S. House,4,,Write-in,0,0,0
+Cherokee,#4 Cherokee,U.S. House,4,,Write-in,1,0,1
+Cherokee,#5 Cherokee Ward 1,U.S. House,4,,Write-in,0,0,0
+Cherokee,#6 Cherokee Ward 2,U.S. House,4,,Write-in,0,0,0
+Cherokee,#7 Cherokee Ward 3,U.S. House,4,,Write-in,0,0,0
 Cherokee,#1 Aurelia,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,513,366,147
 Cherokee,#2 Cleghorn,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,765,514,251
 Cherokee,#3 Quimby,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,478,298,180

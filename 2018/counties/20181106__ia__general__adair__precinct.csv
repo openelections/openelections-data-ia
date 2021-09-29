@@ -1,39 +1,39 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Adair,1 NW,United States Representative District 3,,REP,David Young,491,337,154
-Adair,2 NE,United States Representative District 3,,REP,David Young,425,265,160
-Adair,3 SW,United States Representative District 3,,REP,David Young,458,272,186
-Adair,4 SE,United States Representative District 3,,REP,David Young,408,240,168
-Adair,5 GF,United States Representative District 3,,REP,David Young,423,260,163
-Adair,1 NW,United States Representative District 3,,DEM,Cindy Axne,169,102,67
-Adair,2 NE,United States Representative District 3,,DEM,Cindy Axne,228,121,107
-Adair,3 SW,United States Representative District 3,,DEM,Cindy Axne,176,109,67
-Adair,4 SE,United States Representative District 3,,DEM,Cindy Axne,204,99,105
-Adair,5 GF,United States Representative District 3,,DEM,Cindy Axne,290,145,145
-Adair,1 NW,United States Representative District 3,,LIB,Bryan Jack Holder,17,11,6
-Adair,2 NE,United States Representative District 3,,LIB,Bryan Jack Holder,19,17,2
-Adair,3 SW,United States Representative District 3,,LIB,Bryan Jack Holder,17,12,5
-Adair,4 SE,United States Representative District 3,,LIB,Bryan Jack Holder,16,9,7
-Adair,5 GF,United States Representative District 3,,LIB,Bryan Jack Holder,9,5,4
-Adair,1 NW,United States Representative District 3,,GRN,Paul Knupp,1,0,1
-Adair,2 NE,United States Representative District 3,,GRN,Paul Knupp,5,2,3
-Adair,3 SW,United States Representative District 3,,GRN,Paul Knupp,2,1,1
-Adair,4 SE,United States Representative District 3,,GRN,Paul Knupp,0,0,0
-Adair,5 GF,United States Representative District 3,,GRN,Paul Knupp,6,4,2
-Adair,1 NW,United States Representative District 3,,LMN,Mark Elworth Jr.,2,1,1
-Adair,2 NE,United States Representative District 3,,LMN,Mark Elworth Jr.,7,7,0
-Adair,3 SW,United States Representative District 3,,LMN,Mark Elworth Jr.,2,1,1
-Adair,4 SE,United States Representative District 3,,LMN,Mark Elworth Jr.,6,2,4
-Adair,5 GF,United States Representative District 3,,LMN,Mark Elworth Jr.,4,2,2
-Adair,1 NW,United States Representative District 3,,,Joe Grandanette,1,0,1
-Adair,2 NE,United States Representative District 3,,,Joe Grandanette,1,1,0
-Adair,3 SW,United States Representative District 3,,,Joe Grandanette,3,3,0
-Adair,4 SE,United States Representative District 3,,,Joe Grandanette,5,3,2
-Adair,5 GF,United States Representative District 3,,,Joe Grandanette,1,1,0
-Adair,1 NW,United States Representative District 3,,,Write-in,0,0,0
-Adair,2 NE,United States Representative District 3,,,Write-in,1,1,0
-Adair,3 SW,United States Representative District 3,,,Write-in,0,0,0
-Adair,4 SE,United States Representative District 3,,,Write-in,0,0,0
-Adair,5 GF,United States Representative District 3,,,Write-in,0,0,0
+Adair,1 NW,U.S. House,3,REP,David Young,491,337,154
+Adair,2 NE,U.S. House,3,REP,David Young,425,265,160
+Adair,3 SW,U.S. House,3,REP,David Young,458,272,186
+Adair,4 SE,U.S. House,3,REP,David Young,408,240,168
+Adair,5 GF,U.S. House,3,REP,David Young,423,260,163
+Adair,1 NW,U.S. House,3,DEM,Cindy Axne,169,102,67
+Adair,2 NE,U.S. House,3,DEM,Cindy Axne,228,121,107
+Adair,3 SW,U.S. House,3,DEM,Cindy Axne,176,109,67
+Adair,4 SE,U.S. House,3,DEM,Cindy Axne,204,99,105
+Adair,5 GF,U.S. House,3,DEM,Cindy Axne,290,145,145
+Adair,1 NW,U.S. House,3,LIB,Bryan Jack Holder,17,11,6
+Adair,2 NE,U.S. House,3,LIB,Bryan Jack Holder,19,17,2
+Adair,3 SW,U.S. House,3,LIB,Bryan Jack Holder,17,12,5
+Adair,4 SE,U.S. House,3,LIB,Bryan Jack Holder,16,9,7
+Adair,5 GF,U.S. House,3,LIB,Bryan Jack Holder,9,5,4
+Adair,1 NW,U.S. House,3,GRN,Paul Knupp,1,0,1
+Adair,2 NE,U.S. House,3,GRN,Paul Knupp,5,2,3
+Adair,3 SW,U.S. House,3,GRN,Paul Knupp,2,1,1
+Adair,4 SE,U.S. House,3,GRN,Paul Knupp,0,0,0
+Adair,5 GF,U.S. House,3,GRN,Paul Knupp,6,4,2
+Adair,1 NW,U.S. House,3,LMN,Mark Elworth Jr.,2,1,1
+Adair,2 NE,U.S. House,3,LMN,Mark Elworth Jr.,7,7,0
+Adair,3 SW,U.S. House,3,LMN,Mark Elworth Jr.,2,1,1
+Adair,4 SE,U.S. House,3,LMN,Mark Elworth Jr.,6,2,4
+Adair,5 GF,U.S. House,3,LMN,Mark Elworth Jr.,4,2,2
+Adair,1 NW,U.S. House,3,,Joe Grandanette,1,0,1
+Adair,2 NE,U.S. House,3,,Joe Grandanette,1,1,0
+Adair,3 SW,U.S. House,3,,Joe Grandanette,3,3,0
+Adair,4 SE,U.S. House,3,,Joe Grandanette,5,3,2
+Adair,5 GF,U.S. House,3,,Joe Grandanette,1,1,0
+Adair,1 NW,U.S. House,3,,Write-in,0,0,0
+Adair,2 NE,U.S. House,3,,Write-in,1,1,0
+Adair,3 SW,U.S. House,3,,Write-in,0,0,0
+Adair,4 SE,U.S. House,3,,Write-in,0,0,0
+Adair,5 GF,U.S. House,3,,Write-in,0,0,0
 Adair,1 NW,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,506,349,157
 Adair,2 NE,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,426,258,168
 Adair,3 SW,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,457,284,173

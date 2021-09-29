@@ -1,64 +1,64 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Appanoose,Centerville W1,United States Representative District 2,,REP,Christopher Peters,356,205,151
-Appanoose,Centerville W2,United States Representative District 2,,REP,Christopher Peters,312,208,104
-Appanoose,Centerville W3,United States Representative District 2,,REP,Christopher Peters,278,169,109
-Appanoose,Franklin-Pleasant,United States Representative District 2,,REP,Christopher Peters,192,132,60
-Appanoose,Caldwell,United States Representative District 2,,REP,Christopher Peters,114,90,24
-Appanoose,Taylor-Chariton,United States Representative District 2,,REP,Christopher Peters,294,203,91
-Appanoose,Washington-Wells,United States Representative District 2,,REP,Christopher Peters,237,183,54
-Appanoose,Walnut,United States Representative District 2,,REP,Christopher Peters,200,132,68
-Appanoose,Bellair-Lincoln,United States Representative District 2,,REP,Christopher Peters,168,117,51
-Appanoose,Johns-Independence,United States Representative District 2,,REP,Christopher Peters,161,107,54
-Appanoose,Union-Udell,United States Representative District 2,,REP,Christopher Peters,174,132,42
-Appanoose,Vermillion-Douglas-Sharon,United States Representative District 2,,REP,Christopher Peters,284,150,134
-Appanoose,Centerville W1,United States Representative District 2,,DEM,Dave Loebsack,340,135,205
-Appanoose,Centerville W2,United States Representative District 2,,DEM,Dave Loebsack,290,128,162
-Appanoose,Centerville W3,United States Representative District 2,,DEM,Dave Loebsack,257,151,106
-Appanoose,Franklin-Pleasant,United States Representative District 2,,DEM,Dave Loebsack,133,69,64
-Appanoose,Caldwell,United States Representative District 2,,DEM,Dave Loebsack,68,53,15
-Appanoose,Taylor-Chariton,United States Representative District 2,,DEM,Dave Loebsack,197,123,74
-Appanoose,Washington-Wells,United States Representative District 2,,DEM,Dave Loebsack,116,90,26
-Appanoose,Walnut,United States Representative District 2,,DEM,Dave Loebsack,140,81,59
-Appanoose,Bellair-Lincoln,United States Representative District 2,,DEM,Dave Loebsack,111,63,48
-Appanoose,Johns-Independence,United States Representative District 2,,DEM,Dave Loebsack,111,68,43
-Appanoose,Union-Udell,United States Representative District 2,,DEM,Dave Loebsack,105,74,31
-Appanoose,Vermillion-Douglas-Sharon,United States Representative District 2,,DEM,Dave Loebsack,187,80,107
-Appanoose,Centerville W1,United States Representative District 2,,LIB,Mark David Strauss,13,11,2
-Appanoose,Centerville W2,United States Representative District 2,,LIB,Mark David Strauss,18,14,4
-Appanoose,Centerville W3,United States Representative District 2,,LIB,Mark David Strauss,14,10,4
-Appanoose,Franklin-Pleasant,United States Representative District 2,,LIB,Mark David Strauss,7,6,1
-Appanoose,Caldwell,United States Representative District 2,,LIB,Mark David Strauss,2,2,0
-Appanoose,Taylor-Chariton,United States Representative District 2,,LIB,Mark David Strauss,5,3,2
-Appanoose,Washington-Wells,United States Representative District 2,,LIB,Mark David Strauss,6,5,1
-Appanoose,Walnut,United States Representative District 2,,LIB,Mark David Strauss,7,5,2
-Appanoose,Bellair-Lincoln,United States Representative District 2,,LIB,Mark David Strauss,5,3,2
-Appanoose,Johns-Independence,United States Representative District 2,,LIB,Mark David Strauss,5,4,1
-Appanoose,Union-Udell,United States Representative District 2,,LIB,Mark David Strauss,3,3,0
-Appanoose,Vermillion-Douglas-Sharon,United States Representative District 2,,LIB,Mark David Strauss,6,1,5
-Appanoose,Centerville W1,United States Representative District 2,,,Daniel Clark,6,3,3
-Appanoose,Centerville W2,United States Representative District 2,,,Daniel Clark,5,4,1
-Appanoose,Centerville W3,United States Representative District 2,,,Daniel Clark,2,0,2
-Appanoose,Franklin-Pleasant,United States Representative District 2,,,Daniel Clark,1,1,0
-Appanoose,Caldwell,United States Representative District 2,,,Daniel Clark,0,0,0
-Appanoose,Taylor-Chariton,United States Representative District 2,,,Daniel Clark,3,3,0
-Appanoose,Washington-Wells,United States Representative District 2,,,Daniel Clark,1,1,0
-Appanoose,Walnut,United States Representative District 2,,,Daniel Clark,5,4,1
-Appanoose,Bellair-Lincoln,United States Representative District 2,,,Daniel Clark,1,1,0
-Appanoose,Johns-Independence,United States Representative District 2,,,Daniel Clark,4,2,2
-Appanoose,Union-Udell,United States Representative District 2,,,Daniel Clark,4,3,1
-Appanoose,Vermillion-Douglas-Sharon,United States Representative District 2,,,Daniel Clark,3,2,1
-Appanoose,Centerville W1,United States Representative District 2,,,Write-in,0,0,0
-Appanoose,Centerville W2,United States Representative District 2,,,Write-in,2,0,2
-Appanoose,Centerville W3,United States Representative District 2,,,Write-in,1,1,0
-Appanoose,Franklin-Pleasant,United States Representative District 2,,,Write-in,1,1,0
-Appanoose,Caldwell,United States Representative District 2,,,Write-in,1,1,0
-Appanoose,Taylor-Chariton,United States Representative District 2,,,Write-in,0,0,0
-Appanoose,Washington-Wells,United States Representative District 2,,,Write-in,1,1,0
-Appanoose,Walnut,United States Representative District 2,,,Write-in,0,0,0
-Appanoose,Bellair-Lincoln,United States Representative District 2,,,Write-in,0,0,0
-Appanoose,Johns-Independence,United States Representative District 2,,,Write-in,0,0,0
-Appanoose,Union-Udell,United States Representative District 2,,,Write-in,0,0,0
-Appanoose,Vermillion-Douglas-Sharon,United States Representative District 2,,,Write-in,0,0,0
+Appanoose,Centerville W1,U.S. House,2,REP,Christopher Peters,356,205,151
+Appanoose,Centerville W2,U.S. House,2,REP,Christopher Peters,312,208,104
+Appanoose,Centerville W3,U.S. House,2,REP,Christopher Peters,278,169,109
+Appanoose,Franklin-Pleasant,U.S. House,2,REP,Christopher Peters,192,132,60
+Appanoose,Caldwell,U.S. House,2,REP,Christopher Peters,114,90,24
+Appanoose,Taylor-Chariton,U.S. House,2,REP,Christopher Peters,294,203,91
+Appanoose,Washington-Wells,U.S. House,2,REP,Christopher Peters,237,183,54
+Appanoose,Walnut,U.S. House,2,REP,Christopher Peters,200,132,68
+Appanoose,Bellair-Lincoln,U.S. House,2,REP,Christopher Peters,168,117,51
+Appanoose,Johns-Independence,U.S. House,2,REP,Christopher Peters,161,107,54
+Appanoose,Union-Udell,U.S. House,2,REP,Christopher Peters,174,132,42
+Appanoose,Vermillion-Douglas-Sharon,U.S. House,2,REP,Christopher Peters,284,150,134
+Appanoose,Centerville W1,U.S. House,2,DEM,Dave Loebsack,340,135,205
+Appanoose,Centerville W2,U.S. House,2,DEM,Dave Loebsack,290,128,162
+Appanoose,Centerville W3,U.S. House,2,DEM,Dave Loebsack,257,151,106
+Appanoose,Franklin-Pleasant,U.S. House,2,DEM,Dave Loebsack,133,69,64
+Appanoose,Caldwell,U.S. House,2,DEM,Dave Loebsack,68,53,15
+Appanoose,Taylor-Chariton,U.S. House,2,DEM,Dave Loebsack,197,123,74
+Appanoose,Washington-Wells,U.S. House,2,DEM,Dave Loebsack,116,90,26
+Appanoose,Walnut,U.S. House,2,DEM,Dave Loebsack,140,81,59
+Appanoose,Bellair-Lincoln,U.S. House,2,DEM,Dave Loebsack,111,63,48
+Appanoose,Johns-Independence,U.S. House,2,DEM,Dave Loebsack,111,68,43
+Appanoose,Union-Udell,U.S. House,2,DEM,Dave Loebsack,105,74,31
+Appanoose,Vermillion-Douglas-Sharon,U.S. House,2,DEM,Dave Loebsack,187,80,107
+Appanoose,Centerville W1,U.S. House,2,LIB,Mark David Strauss,13,11,2
+Appanoose,Centerville W2,U.S. House,2,LIB,Mark David Strauss,18,14,4
+Appanoose,Centerville W3,U.S. House,2,LIB,Mark David Strauss,14,10,4
+Appanoose,Franklin-Pleasant,U.S. House,2,LIB,Mark David Strauss,7,6,1
+Appanoose,Caldwell,U.S. House,2,LIB,Mark David Strauss,2,2,0
+Appanoose,Taylor-Chariton,U.S. House,2,LIB,Mark David Strauss,5,3,2
+Appanoose,Washington-Wells,U.S. House,2,LIB,Mark David Strauss,6,5,1
+Appanoose,Walnut,U.S. House,2,LIB,Mark David Strauss,7,5,2
+Appanoose,Bellair-Lincoln,U.S. House,2,LIB,Mark David Strauss,5,3,2
+Appanoose,Johns-Independence,U.S. House,2,LIB,Mark David Strauss,5,4,1
+Appanoose,Union-Udell,U.S. House,2,LIB,Mark David Strauss,3,3,0
+Appanoose,Vermillion-Douglas-Sharon,U.S. House,2,LIB,Mark David Strauss,6,1,5
+Appanoose,Centerville W1,U.S. House,2,,Daniel Clark,6,3,3
+Appanoose,Centerville W2,U.S. House,2,,Daniel Clark,5,4,1
+Appanoose,Centerville W3,U.S. House,2,,Daniel Clark,2,0,2
+Appanoose,Franklin-Pleasant,U.S. House,2,,Daniel Clark,1,1,0
+Appanoose,Caldwell,U.S. House,2,,Daniel Clark,0,0,0
+Appanoose,Taylor-Chariton,U.S. House,2,,Daniel Clark,3,3,0
+Appanoose,Washington-Wells,U.S. House,2,,Daniel Clark,1,1,0
+Appanoose,Walnut,U.S. House,2,,Daniel Clark,5,4,1
+Appanoose,Bellair-Lincoln,U.S. House,2,,Daniel Clark,1,1,0
+Appanoose,Johns-Independence,U.S. House,2,,Daniel Clark,4,2,2
+Appanoose,Union-Udell,U.S. House,2,,Daniel Clark,4,3,1
+Appanoose,Vermillion-Douglas-Sharon,U.S. House,2,,Daniel Clark,3,2,1
+Appanoose,Centerville W1,U.S. House,2,,Write-in,0,0,0
+Appanoose,Centerville W2,U.S. House,2,,Write-in,2,0,2
+Appanoose,Centerville W3,U.S. House,2,,Write-in,1,1,0
+Appanoose,Franklin-Pleasant,U.S. House,2,,Write-in,1,1,0
+Appanoose,Caldwell,U.S. House,2,,Write-in,1,1,0
+Appanoose,Taylor-Chariton,U.S. House,2,,Write-in,0,0,0
+Appanoose,Washington-Wells,U.S. House,2,,Write-in,1,1,0
+Appanoose,Walnut,U.S. House,2,,Write-in,0,0,0
+Appanoose,Bellair-Lincoln,U.S. House,2,,Write-in,0,0,0
+Appanoose,Johns-Independence,U.S. House,2,,Write-in,0,0,0
+Appanoose,Union-Udell,U.S. House,2,,Write-in,0,0,0
+Appanoose,Vermillion-Douglas-Sharon,U.S. House,2,,Write-in,0,0,0
 Appanoose,Centerville W1,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,397,230,167
 Appanoose,Centerville W2,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,358,232,126
 Appanoose,Centerville W3,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,306,187,119

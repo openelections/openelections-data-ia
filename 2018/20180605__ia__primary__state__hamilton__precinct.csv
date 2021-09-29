@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Hamilton,PRECINCT 1 CA-FD-FM-IN,United States Representative District 4,,REP,Cyndi Hanson,14,3,11
-Hamilton,PRECINCT 2 BL-LB-WM,United States Representative District 4,,REP,Cyndi Hanson,13,2,11
-Hamilton,PRECINCT 3 CL-HA-MN-WB,United States Representative District 4,,REP,Cyndi Hanson,40,6,34
-Hamilton,PRECINCT 4 LY-EL,United States Representative District 4,,REP,Cyndi Hanson,21,1,20
-Hamilton,PRECINCT 5 LC-RG-SC,United States Representative District 4,,REP,Cyndi Hanson,15,2,13
-Hamilton,WEBSTER CITY 1,United States Representative District 4,,REP,Cyndi Hanson,34,8,26
-Hamilton,WEBSTER CITY 2,United States Representative District 4,,REP,Cyndi Hanson,68,18,50
-Hamilton,WEBSTER CITY 3,United States Representative District 4,,REP,Cyndi Hanson,36,10,26
-Hamilton,PRECINCT 1 CA-FD-FM-IN,United States Representative District 4,,REP,Steve King,57,6,51
-Hamilton,PRECINCT 2 BL-LB-WM,United States Representative District 4,,REP,Steve King,66,11,55
-Hamilton,PRECINCT 3 CL-HA-MN-WB,United States Representative District 4,,REP,Steve King,114,11,103
-Hamilton,PRECINCT 4 LY-EL,United States Representative District 4,,REP,Steve King,60,3,57
-Hamilton,PRECINCT 5 LC-RG-SC,United States Representative District 4,,REP,Steve King,59,7,52
-Hamilton,WEBSTER CITY 1,United States Representative District 4,,REP,Steve King,103,24,79
-Hamilton,WEBSTER CITY 2,United States Representative District 4,,REP,Steve King,129,32,97
-Hamilton,WEBSTER CITY 3,United States Representative District 4,,REP,Steve King,47,7,40
-Hamilton,PRECINCT 1 CA-FD-FM-IN,United States Representative District 4,,,Write-in,0,0,0
-Hamilton,PRECINCT 2 BL-LB-WM,United States Representative District 4,,,Write-in,0,0,0
-Hamilton,PRECINCT 3 CL-HA-MN-WB,United States Representative District 4,,,Write-in,0,0,0
-Hamilton,PRECINCT 4 LY-EL,United States Representative District 4,,,Write-in,0,0,0
-Hamilton,PRECINCT 5 LC-RG-SC,United States Representative District 4,,,Write-in,0,0,0
-Hamilton,WEBSTER CITY 1,United States Representative District 4,,,Write-in,0,0,0
-Hamilton,WEBSTER CITY 2,United States Representative District 4,,,Write-in,0,0,0
-Hamilton,WEBSTER CITY 3,United States Representative District 4,,,Write-in,0,0,0
+Hamilton,PRECINCT 1 CA-FD-FM-IN,U.S. House,4,REP,Cyndi Hanson,14,3,11
+Hamilton,PRECINCT 2 BL-LB-WM,U.S. House,4,REP,Cyndi Hanson,13,2,11
+Hamilton,PRECINCT 3 CL-HA-MN-WB,U.S. House,4,REP,Cyndi Hanson,40,6,34
+Hamilton,PRECINCT 4 LY-EL,U.S. House,4,REP,Cyndi Hanson,21,1,20
+Hamilton,PRECINCT 5 LC-RG-SC,U.S. House,4,REP,Cyndi Hanson,15,2,13
+Hamilton,WEBSTER CITY 1,U.S. House,4,REP,Cyndi Hanson,34,8,26
+Hamilton,WEBSTER CITY 2,U.S. House,4,REP,Cyndi Hanson,68,18,50
+Hamilton,WEBSTER CITY 3,U.S. House,4,REP,Cyndi Hanson,36,10,26
+Hamilton,PRECINCT 1 CA-FD-FM-IN,U.S. House,4,REP,Steve King,57,6,51
+Hamilton,PRECINCT 2 BL-LB-WM,U.S. House,4,REP,Steve King,66,11,55
+Hamilton,PRECINCT 3 CL-HA-MN-WB,U.S. House,4,REP,Steve King,114,11,103
+Hamilton,PRECINCT 4 LY-EL,U.S. House,4,REP,Steve King,60,3,57
+Hamilton,PRECINCT 5 LC-RG-SC,U.S. House,4,REP,Steve King,59,7,52
+Hamilton,WEBSTER CITY 1,U.S. House,4,REP,Steve King,103,24,79
+Hamilton,WEBSTER CITY 2,U.S. House,4,REP,Steve King,129,32,97
+Hamilton,WEBSTER CITY 3,U.S. House,4,REP,Steve King,47,7,40
+Hamilton,PRECINCT 1 CA-FD-FM-IN,U.S. House,4,,Write-in,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,U.S. House,4,,Write-in,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,U.S. House,4,,Write-in,0,0,0
+Hamilton,PRECINCT 4 LY-EL,U.S. House,4,,Write-in,0,0,0
+Hamilton,PRECINCT 5 LC-RG-SC,U.S. House,4,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 1,U.S. House,4,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,U.S. House,4,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 3,U.S. House,4,,Write-in,0,0,0
 Hamilton,PRECINCT 1 CA-FD-FM-IN,Governor,,REP,Kim Reynolds,57,6,51
 Hamilton,PRECINCT 2 BL-LB-WM,Governor,,REP,Kim Reynolds,73,10,63
 Hamilton,PRECINCT 3 CL-HA-MN-WB,Governor,,REP,Kim Reynolds,142,16,126
@@ -349,30 +349,30 @@ Hamilton,PRECINCT 5 LC-RG-SC,County Attorney,,,Write-in,0,0,0
 Hamilton,WEBSTER CITY 1,County Attorney,,,Write-in,0,0,0
 Hamilton,WEBSTER CITY 2,County Attorney,,,Write-in,0,0,0
 Hamilton,WEBSTER CITY 3,County Attorney,,,Write-in,0,0,0
-Hamilton,PRECINCT 1 CA-FD-FM-IN,United States Representative District 4,,DEM,Leann Jacobsen,16,4,12
-Hamilton,PRECINCT 2 BL-LB-WM,United States Representative District 4,,DEM,Leann Jacobsen,13,5,8
-Hamilton,PRECINCT 3 CL-HA-MN-WB,United States Representative District 4,,DEM,Leann Jacobsen,22,11,11
-Hamilton,PRECINCT 4 LY-EL,United States Representative District 4,,DEM,Leann Jacobsen,18,2,16
-Hamilton,PRECINCT 5 LC-RG-SC,United States Representative District 4,,DEM,Leann Jacobsen,8,4,4
-Hamilton,WEBSTER CITY 1,United States Representative District 4,,DEM,Leann Jacobsen,44,21,23
-Hamilton,WEBSTER CITY 2,United States Representative District 4,,DEM,Leann Jacobsen,59,23,36
-Hamilton,WEBSTER CITY 3,United States Representative District 4,,DEM,Leann Jacobsen,31,7,24
-Hamilton,PRECINCT 1 CA-FD-FM-IN,United States Representative District 4,,DEM,John Paschen,10,1,9
-Hamilton,PRECINCT 2 BL-LB-WM,United States Representative District 4,,DEM,John Paschen,11,4,7
-Hamilton,PRECINCT 3 CL-HA-MN-WB,United States Representative District 4,,DEM,John Paschen,13,2,11
-Hamilton,PRECINCT 4 LY-EL,United States Representative District 4,,DEM,John Paschen,15,0,15
-Hamilton,PRECINCT 5 LC-RG-SC,United States Representative District 4,,DEM,John Paschen,19,2,17
-Hamilton,WEBSTER CITY 1,United States Representative District 4,,DEM,John Paschen,22,7,15
-Hamilton,WEBSTER CITY 2,United States Representative District 4,,DEM,John Paschen,15,3,12
-Hamilton,WEBSTER CITY 3,United States Representative District 4,,DEM,John Paschen,13,2,11
-Hamilton,PRECINCT 1 CA-FD-FM-IN,United States Representative District 4,,DEM,J.D. Scholten,23,3,20
-Hamilton,PRECINCT 2 BL-LB-WM,United States Representative District 4,,DEM,J.D. Scholten,12,1,11
-Hamilton,PRECINCT 3 CL-HA-MN-WB,United States Representative District 4,,DEM,J.D. Scholten,47,10,37
-Hamilton,PRECINCT 4 LY-EL,United States Representative District 4,,DEM,J.D. Scholten,39,4,35
-Hamilton,PRECINCT 5 LC-RG-SC,United States Representative District 4,,DEM,J.D. Scholten,11,2,9
-Hamilton,WEBSTER CITY 1,United States Representative District 4,,DEM,J.D. Scholten,66,17,49
-Hamilton,WEBSTER CITY 2,United States Representative District 4,,DEM,J.D. Scholten,79,20,59
-Hamilton,WEBSTER CITY 3,United States Representative District 4,,DEM,J.D. Scholten,38,8,30
+Hamilton,PRECINCT 1 CA-FD-FM-IN,U.S. House,4,DEM,Leann Jacobsen,16,4,12
+Hamilton,PRECINCT 2 BL-LB-WM,U.S. House,4,DEM,Leann Jacobsen,13,5,8
+Hamilton,PRECINCT 3 CL-HA-MN-WB,U.S. House,4,DEM,Leann Jacobsen,22,11,11
+Hamilton,PRECINCT 4 LY-EL,U.S. House,4,DEM,Leann Jacobsen,18,2,16
+Hamilton,PRECINCT 5 LC-RG-SC,U.S. House,4,DEM,Leann Jacobsen,8,4,4
+Hamilton,WEBSTER CITY 1,U.S. House,4,DEM,Leann Jacobsen,44,21,23
+Hamilton,WEBSTER CITY 2,U.S. House,4,DEM,Leann Jacobsen,59,23,36
+Hamilton,WEBSTER CITY 3,U.S. House,4,DEM,Leann Jacobsen,31,7,24
+Hamilton,PRECINCT 1 CA-FD-FM-IN,U.S. House,4,DEM,John Paschen,10,1,9
+Hamilton,PRECINCT 2 BL-LB-WM,U.S. House,4,DEM,John Paschen,11,4,7
+Hamilton,PRECINCT 3 CL-HA-MN-WB,U.S. House,4,DEM,John Paschen,13,2,11
+Hamilton,PRECINCT 4 LY-EL,U.S. House,4,DEM,John Paschen,15,0,15
+Hamilton,PRECINCT 5 LC-RG-SC,U.S. House,4,DEM,John Paschen,19,2,17
+Hamilton,WEBSTER CITY 1,U.S. House,4,DEM,John Paschen,22,7,15
+Hamilton,WEBSTER CITY 2,U.S. House,4,DEM,John Paschen,15,3,12
+Hamilton,WEBSTER CITY 3,U.S. House,4,DEM,John Paschen,13,2,11
+Hamilton,PRECINCT 1 CA-FD-FM-IN,U.S. House,4,DEM,J.D. Scholten,23,3,20
+Hamilton,PRECINCT 2 BL-LB-WM,U.S. House,4,DEM,J.D. Scholten,12,1,11
+Hamilton,PRECINCT 3 CL-HA-MN-WB,U.S. House,4,DEM,J.D. Scholten,47,10,37
+Hamilton,PRECINCT 4 LY-EL,U.S. House,4,DEM,J.D. Scholten,39,4,35
+Hamilton,PRECINCT 5 LC-RG-SC,U.S. House,4,DEM,J.D. Scholten,11,2,9
+Hamilton,WEBSTER CITY 1,U.S. House,4,DEM,J.D. Scholten,66,17,49
+Hamilton,WEBSTER CITY 2,U.S. House,4,DEM,J.D. Scholten,79,20,59
+Hamilton,WEBSTER CITY 3,U.S. House,4,DEM,J.D. Scholten,38,8,30
 Hamilton,PRECINCT 1 CA-FD-FM-IN,Governor,,DEM,Nate Boulton,1,0,1
 Hamilton,PRECINCT 2 BL-LB-WM,Governor,,DEM,Nate Boulton,1,0,1
 Hamilton,PRECINCT 3 CL-HA-MN-WB,Governor,,DEM,Nate Boulton,8,3,5
@@ -530,14 +530,14 @@ Hamilton,PRECINCT 5 LC-RG-SC,County Attorney,,DEM,Patrick B. Chambers,34,7,27
 Hamilton,WEBSTER CITY 1,County Attorney,,DEM,Patrick B. Chambers,114,40,74
 Hamilton,WEBSTER CITY 2,County Attorney,,DEM,Patrick B. Chambers,145,45,100
 Hamilton,WEBSTER CITY 3,County Attorney,,DEM,Patrick B. Chambers,73,16,57
-Hamilton,PRECINCT 1 CA-FD-FM-IN,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Hamilton,PRECINCT 2 BL-LB-WM,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Hamilton,PRECINCT 3 CL-HA-MN-WB,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Hamilton,PRECINCT 4 LY-EL,United States Representative District 4,,LIB,Charles Aldrich,2,1,1
-Hamilton,PRECINCT 5 LC-RG-SC,United States Representative District 4,,LIB,Charles Aldrich,2,0,2
-Hamilton,WEBSTER CITY 1,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
-Hamilton,WEBSTER CITY 2,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Hamilton,WEBSTER CITY 3,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
+Hamilton,PRECINCT 1 CA-FD-FM-IN,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Hamilton,PRECINCT 2 BL-LB-WM,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Hamilton,PRECINCT 3 CL-HA-MN-WB,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Hamilton,PRECINCT 4 LY-EL,U.S. House,4,LIB,Charles Aldrich,2,1,1
+Hamilton,PRECINCT 5 LC-RG-SC,U.S. House,4,LIB,Charles Aldrich,2,0,2
+Hamilton,WEBSTER CITY 1,U.S. House,4,LIB,Charles Aldrich,1,0,1
+Hamilton,WEBSTER CITY 2,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Hamilton,WEBSTER CITY 3,U.S. House,4,LIB,Charles Aldrich,1,0,1
 Hamilton,PRECINCT 1 CA-FD-FM-IN,Governor,,LIB,Marco Battaglia,0,0,0
 Hamilton,PRECINCT 2 BL-LB-WM,Governor,,LIB,Marco Battaglia,0,0,0
 Hamilton,PRECINCT 3 CL-HA-MN-WB,Governor,,LIB,Marco Battaglia,0,0,0

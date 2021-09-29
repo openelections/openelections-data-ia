@@ -1,20 +1,20 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Davis,BF1,United States Representative District 2,,REP,Christopher Peters,39,7,32
-Davis,BF2,United States Representative District 2,,REP,Christopher Peters,33,7,26
-Davis,BF3,United States Representative District 2,,REP,Christopher Peters,22,2,20
-Davis,CENTRAL,United States Representative District 2,,REP,Christopher Peters,39,9,30
-Davis,NORTHEAST,United States Representative District 2,,REP,Christopher Peters,36,1,35
-Davis,NORTHWEST,United States Representative District 2,,REP,Christopher Peters,39,2,37
-Davis,SOUTHEAST,United States Representative District 2,,REP,Christopher Peters,44,3,41
-Davis,SOUTHWEST,United States Representative District 2,,REP,Christopher Peters,15,1,14
-Davis,BF1,United States Representative District 2,,,Write-in,0,0,0
-Davis,BF2,United States Representative District 2,,,Write-in,0,0,0
-Davis,BF3,United States Representative District 2,,,Write-in,0,0,0
-Davis,CENTRAL,United States Representative District 2,,,Write-in,0,0,0
-Davis,NORTHEAST,United States Representative District 2,,,Write-in,0,0,0
-Davis,NORTHWEST,United States Representative District 2,,,Write-in,0,0,0
-Davis,SOUTHEAST,United States Representative District 2,,,Write-in,0,0,0
-Davis,SOUTHWEST,United States Representative District 2,,,Write-in,0,0,0
+Davis,BF1,U.S. House,2,REP,Christopher Peters,39,7,32
+Davis,BF2,U.S. House,2,REP,Christopher Peters,33,7,26
+Davis,BF3,U.S. House,2,REP,Christopher Peters,22,2,20
+Davis,CENTRAL,U.S. House,2,REP,Christopher Peters,39,9,30
+Davis,NORTHEAST,U.S. House,2,REP,Christopher Peters,36,1,35
+Davis,NORTHWEST,U.S. House,2,REP,Christopher Peters,39,2,37
+Davis,SOUTHEAST,U.S. House,2,REP,Christopher Peters,44,3,41
+Davis,SOUTHWEST,U.S. House,2,REP,Christopher Peters,15,1,14
+Davis,BF1,U.S. House,2,,Write-in,0,0,0
+Davis,BF2,U.S. House,2,,Write-in,0,0,0
+Davis,BF3,U.S. House,2,,Write-in,0,0,0
+Davis,CENTRAL,U.S. House,2,,Write-in,0,0,0
+Davis,NORTHEAST,U.S. House,2,,Write-in,0,0,0
+Davis,NORTHWEST,U.S. House,2,,Write-in,0,0,0
+Davis,SOUTHEAST,U.S. House,2,,Write-in,0,0,0
+Davis,SOUTHWEST,U.S. House,2,,Write-in,0,0,0
 Davis,BF1,Governor,,REP,Kim Reynolds,42,6,36
 Davis,BF2,Governor,,REP,Kim Reynolds,37,8,29
 Davis,BF3,Governor,,REP,Kim Reynolds,27,5,22
@@ -319,14 +319,14 @@ Davis,NORTHEAST,County Attorney,,,Write-in,0,0,0
 Davis,NORTHWEST,County Attorney,,,Write-in,0,0,0
 Davis,SOUTHEAST,County Attorney,,,Write-in,0,0,0
 Davis,SOUTHWEST,County Attorney,,,Write-in,1,0,1
-Davis,BF1,United States Representative District 2,,DEM,Dave Loebsack,90,23,67
-Davis,BF2,United States Representative District 2,,DEM,Dave Loebsack,101,34,67
-Davis,BF3,United States Representative District 2,,DEM,Dave Loebsack,55,16,39
-Davis,CENTRAL,United States Representative District 2,,DEM,Dave Loebsack,97,34,63
-Davis,NORTHEAST,United States Representative District 2,,DEM,Dave Loebsack,77,20,57
-Davis,NORTHWEST,United States Representative District 2,,DEM,Dave Loebsack,64,7,57
-Davis,SOUTHEAST,United States Representative District 2,,DEM,Dave Loebsack,54,9,45
-Davis,SOUTHWEST,United States Representative District 2,,DEM,Dave Loebsack,43,15,28
+Davis,BF1,U.S. House,2,DEM,Dave Loebsack,90,23,67
+Davis,BF2,U.S. House,2,DEM,Dave Loebsack,101,34,67
+Davis,BF3,U.S. House,2,DEM,Dave Loebsack,55,16,39
+Davis,CENTRAL,U.S. House,2,DEM,Dave Loebsack,97,34,63
+Davis,NORTHEAST,U.S. House,2,DEM,Dave Loebsack,77,20,57
+Davis,NORTHWEST,U.S. House,2,DEM,Dave Loebsack,64,7,57
+Davis,SOUTHEAST,U.S. House,2,DEM,Dave Loebsack,54,9,45
+Davis,SOUTHWEST,U.S. House,2,DEM,Dave Loebsack,43,15,28
 Davis,BF1,Governor,,DEM,Nate Boulton,13,4,9
 Davis,BF2,Governor,,DEM,Nate Boulton,6,4,2
 Davis,BF3,Governor,,DEM,Nate Boulton,1,0,1

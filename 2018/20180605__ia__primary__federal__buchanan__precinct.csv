@@ -1,34 +1,34 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Buchanan,AURORA,United States Representative District 1,,REP,Rod Blum,24,4,20
-Buchanan,BRANDON,United States Representative District 1,,REP,Rod Blum,9,0,9
-Buchanan,FAIRBANK,United States Representative District 1,,REP,Rod Blum,9,0,9
-Buchanan,HAZLETON,United States Representative District 1,,REP,Rod Blum,20,0,20
-Buchanan,INDEPENDENCE 1ST WARD,United States Representative District 1,,REP,Rod Blum,47,9,38
-Buchanan,INDEPENDENCE 2ND WARD,United States Representative District 1,,REP,Rod Blum,21,4,17
-Buchanan,INDEPENDENCE 3RD WARD,United States Representative District 1,,REP,Rod Blum,23,2,21
-Buchanan,INDEPENDENCE 4TH WARD,United States Representative District 1,,REP,Rod Blum,13,1,12
-Buchanan,INDEPENDENCE 5TH WARD,United States Representative District 1,,REP,Rod Blum,15,1,14
-Buchanan,JESUP,United States Representative District 1,,REP,Rod Blum,39,4,35
-Buchanan,MIDDLEFIELD-NEWTON,United States Representative District 1,,REP,Rod Blum,21,2,19
-Buchanan,PERRY-WESTBURG,United States Representative District 1,,REP,Rod Blum,15,2,13
-Buchanan,QUASQUETON,United States Representative District 1,,REP,Rod Blum,32,2,30
-Buchanan,ROWLEY,United States Representative District 1,,REP,Rod Blum,26,0,26
-Buchanan,WINTHROP,United States Representative District 1,,REP,Rod Blum,34,6,28
-Buchanan,AURORA,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,BRANDON,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,FAIRBANK,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,HAZLETON,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,INDEPENDENCE 1ST WARD,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,INDEPENDENCE 2ND WARD,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,INDEPENDENCE 3RD WARD,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,INDEPENDENCE 4TH WARD,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,INDEPENDENCE 5TH WARD,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,JESUP,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,MIDDLEFIELD-NEWTON,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,PERRY-WESTBURG,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,QUASQUETON,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,ROWLEY,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,WINTHROP,United States Representative District 1,,,Write-in,0,0,0
+Buchanan,AURORA,U.S. House,1,REP,Rod Blum,24,4,20
+Buchanan,BRANDON,U.S. House,1,REP,Rod Blum,9,0,9
+Buchanan,FAIRBANK,U.S. House,1,REP,Rod Blum,9,0,9
+Buchanan,HAZLETON,U.S. House,1,REP,Rod Blum,20,0,20
+Buchanan,INDEPENDENCE 1ST WARD,U.S. House,1,REP,Rod Blum,47,9,38
+Buchanan,INDEPENDENCE 2ND WARD,U.S. House,1,REP,Rod Blum,21,4,17
+Buchanan,INDEPENDENCE 3RD WARD,U.S. House,1,REP,Rod Blum,23,2,21
+Buchanan,INDEPENDENCE 4TH WARD,U.S. House,1,REP,Rod Blum,13,1,12
+Buchanan,INDEPENDENCE 5TH WARD,U.S. House,1,REP,Rod Blum,15,1,14
+Buchanan,JESUP,U.S. House,1,REP,Rod Blum,39,4,35
+Buchanan,MIDDLEFIELD-NEWTON,U.S. House,1,REP,Rod Blum,21,2,19
+Buchanan,PERRY-WESTBURG,U.S. House,1,REP,Rod Blum,15,2,13
+Buchanan,QUASQUETON,U.S. House,1,REP,Rod Blum,32,2,30
+Buchanan,ROWLEY,U.S. House,1,REP,Rod Blum,26,0,26
+Buchanan,WINTHROP,U.S. House,1,REP,Rod Blum,34,6,28
+Buchanan,AURORA,U.S. House,1,,Write-in,0,0,0
+Buchanan,BRANDON,U.S. House,1,,Write-in,0,0,0
+Buchanan,FAIRBANK,U.S. House,1,,Write-in,0,0,0
+Buchanan,HAZLETON,U.S. House,1,,Write-in,0,0,0
+Buchanan,INDEPENDENCE 1ST WARD,U.S. House,1,,Write-in,0,0,0
+Buchanan,INDEPENDENCE 2ND WARD,U.S. House,1,,Write-in,0,0,0
+Buchanan,INDEPENDENCE 3RD WARD,U.S. House,1,,Write-in,0,0,0
+Buchanan,INDEPENDENCE 4TH WARD,U.S. House,1,,Write-in,0,0,0
+Buchanan,INDEPENDENCE 5TH WARD,U.S. House,1,,Write-in,0,0,0
+Buchanan,JESUP,U.S. House,1,,Write-in,0,0,0
+Buchanan,MIDDLEFIELD-NEWTON,U.S. House,1,,Write-in,0,0,0
+Buchanan,PERRY-WESTBURG,U.S. House,1,,Write-in,0,0,0
+Buchanan,QUASQUETON,U.S. House,1,,Write-in,0,0,0
+Buchanan,ROWLEY,U.S. House,1,,Write-in,0,0,0
+Buchanan,WINTHROP,U.S. House,1,,Write-in,0,0,0
 Buchanan,AURORA,Governor,,REP,Kim Reynolds,22,4,18
 Buchanan,BRANDON,Governor,,REP,Kim Reynolds,9,0,9
 Buchanan,FAIRBANK,Governor,,REP,Kim Reynolds,10,0,10
@@ -741,66 +741,66 @@ Buchanan,PERRY-WESTBURG,County Attorney,,,Write-in,0,0,0
 Buchanan,QUASQUETON,County Attorney,,,Write-in,0,0,0
 Buchanan,ROWLEY,County Attorney,,,Write-in,0,0,0
 Buchanan,WINTHROP,County Attorney,,,Write-in,0,0,0
-Buchanan,AURORA,United States Representative District 1,,DEM,Abby Finkenauer,37,2,35
-Buchanan,BRANDON,United States Representative District 1,,DEM,Abby Finkenauer,17,0,17
-Buchanan,FAIRBANK,United States Representative District 1,,DEM,Abby Finkenauer,29,1,28
-Buchanan,HAZLETON,United States Representative District 1,,DEM,Abby Finkenauer,14,0,14
-Buchanan,INDEPENDENCE 1ST WARD,United States Representative District 1,,DEM,Abby Finkenauer,81,13,68
-Buchanan,INDEPENDENCE 2ND WARD,United States Representative District 1,,DEM,Abby Finkenauer,52,8,44
-Buchanan,INDEPENDENCE 3RD WARD,United States Representative District 1,,DEM,Abby Finkenauer,45,11,34
-Buchanan,INDEPENDENCE 4TH WARD,United States Representative District 1,,DEM,Abby Finkenauer,42,3,39
-Buchanan,INDEPENDENCE 5TH WARD,United States Representative District 1,,DEM,Abby Finkenauer,41,9,32
-Buchanan,JESUP,United States Representative District 1,,DEM,Abby Finkenauer,65,1,64
-Buchanan,MIDDLEFIELD-NEWTON,United States Representative District 1,,DEM,Abby Finkenauer,16,6,10
-Buchanan,PERRY-WESTBURG,United States Representative District 1,,DEM,Abby Finkenauer,27,5,22
-Buchanan,QUASQUETON,United States Representative District 1,,DEM,Abby Finkenauer,38,5,33
-Buchanan,ROWLEY,United States Representative District 1,,DEM,Abby Finkenauer,43,8,35
-Buchanan,WINTHROP,United States Representative District 1,,DEM,Abby Finkenauer,46,6,40
-Buchanan,AURORA,United States Representative District 1,,DEM,Thomas Heckroth,17,5,12
-Buchanan,BRANDON,United States Representative District 1,,DEM,Thomas Heckroth,10,0,10
-Buchanan,FAIRBANK,United States Representative District 1,,DEM,Thomas Heckroth,13,1,12
-Buchanan,HAZLETON,United States Representative District 1,,DEM,Thomas Heckroth,15,4,11
-Buchanan,INDEPENDENCE 1ST WARD,United States Representative District 1,,DEM,Thomas Heckroth,47,11,36
-Buchanan,INDEPENDENCE 2ND WARD,United States Representative District 1,,DEM,Thomas Heckroth,16,3,13
-Buchanan,INDEPENDENCE 3RD WARD,United States Representative District 1,,DEM,Thomas Heckroth,26,7,19
-Buchanan,INDEPENDENCE 4TH WARD,United States Representative District 1,,DEM,Thomas Heckroth,18,1,17
-Buchanan,INDEPENDENCE 5TH WARD,United States Representative District 1,,DEM,Thomas Heckroth,17,5,12
-Buchanan,JESUP,United States Representative District 1,,DEM,Thomas Heckroth,36,5,31
-Buchanan,MIDDLEFIELD-NEWTON,United States Representative District 1,,DEM,Thomas Heckroth,4,2,2
-Buchanan,PERRY-WESTBURG,United States Representative District 1,,DEM,Thomas Heckroth,10,3,7
-Buchanan,QUASQUETON,United States Representative District 1,,DEM,Thomas Heckroth,17,6,11
-Buchanan,ROWLEY,United States Representative District 1,,DEM,Thomas Heckroth,11,2,9
-Buchanan,WINTHROP,United States Representative District 1,,DEM,Thomas Heckroth,23,4,19
-Buchanan,AURORA,United States Representative District 1,,DEM,George Ramsey,0,0,0
-Buchanan,BRANDON,United States Representative District 1,,DEM,George Ramsey,3,1,2
-Buchanan,FAIRBANK,United States Representative District 1,,DEM,George Ramsey,2,0,2
-Buchanan,HAZLETON,United States Representative District 1,,DEM,George Ramsey,0,0,0
-Buchanan,INDEPENDENCE 1ST WARD,United States Representative District 1,,DEM,George Ramsey,11,1,10
-Buchanan,INDEPENDENCE 2ND WARD,United States Representative District 1,,DEM,George Ramsey,1,1,0
-Buchanan,INDEPENDENCE 3RD WARD,United States Representative District 1,,DEM,George Ramsey,4,1,3
-Buchanan,INDEPENDENCE 4TH WARD,United States Representative District 1,,DEM,George Ramsey,2,0,2
-Buchanan,INDEPENDENCE 5TH WARD,United States Representative District 1,,DEM,George Ramsey,0,0,0
-Buchanan,JESUP,United States Representative District 1,,DEM,George Ramsey,4,0,4
-Buchanan,MIDDLEFIELD-NEWTON,United States Representative District 1,,DEM,George Ramsey,2,0,2
-Buchanan,PERRY-WESTBURG,United States Representative District 1,,DEM,George Ramsey,5,0,5
-Buchanan,QUASQUETON,United States Representative District 1,,DEM,George Ramsey,1,0,1
-Buchanan,ROWLEY,United States Representative District 1,,DEM,George Ramsey,1,0,1
-Buchanan,WINTHROP,United States Representative District 1,,DEM,George Ramsey,3,0,3
-Buchanan,AURORA,United States Representative District 1,,DEM,Courtney L. Rowe,0,0,0
-Buchanan,BRANDON,United States Representative District 1,,DEM,Courtney L. Rowe,2,0,2
-Buchanan,FAIRBANK,United States Representative District 1,,DEM,Courtney L. Rowe,5,0,5
-Buchanan,HAZLETON,United States Representative District 1,,DEM,Courtney L. Rowe,3,0,3
-Buchanan,INDEPENDENCE 1ST WARD,United States Representative District 1,,DEM,Courtney L. Rowe,2,0,2
-Buchanan,INDEPENDENCE 2ND WARD,United States Representative District 1,,DEM,Courtney L. Rowe,3,1,2
-Buchanan,INDEPENDENCE 3RD WARD,United States Representative District 1,,DEM,Courtney L. Rowe,1,0,1
-Buchanan,INDEPENDENCE 4TH WARD,United States Representative District 1,,DEM,Courtney L. Rowe,5,1,4
-Buchanan,INDEPENDENCE 5TH WARD,United States Representative District 1,,DEM,Courtney L. Rowe,3,1,2
-Buchanan,JESUP,United States Representative District 1,,DEM,Courtney L. Rowe,8,0,8
-Buchanan,MIDDLEFIELD-NEWTON,United States Representative District 1,,DEM,Courtney L. Rowe,1,1,0
-Buchanan,PERRY-WESTBURG,United States Representative District 1,,DEM,Courtney L. Rowe,3,0,3
-Buchanan,QUASQUETON,United States Representative District 1,,DEM,Courtney L. Rowe,4,2,2
-Buchanan,ROWLEY,United States Representative District 1,,DEM,Courtney L. Rowe,1,0,1
-Buchanan,WINTHROP,United States Representative District 1,,DEM,Courtney L. Rowe,6,0,6
+Buchanan,AURORA,U.S. House,1,DEM,Abby Finkenauer,37,2,35
+Buchanan,BRANDON,U.S. House,1,DEM,Abby Finkenauer,17,0,17
+Buchanan,FAIRBANK,U.S. House,1,DEM,Abby Finkenauer,29,1,28
+Buchanan,HAZLETON,U.S. House,1,DEM,Abby Finkenauer,14,0,14
+Buchanan,INDEPENDENCE 1ST WARD,U.S. House,1,DEM,Abby Finkenauer,81,13,68
+Buchanan,INDEPENDENCE 2ND WARD,U.S. House,1,DEM,Abby Finkenauer,52,8,44
+Buchanan,INDEPENDENCE 3RD WARD,U.S. House,1,DEM,Abby Finkenauer,45,11,34
+Buchanan,INDEPENDENCE 4TH WARD,U.S. House,1,DEM,Abby Finkenauer,42,3,39
+Buchanan,INDEPENDENCE 5TH WARD,U.S. House,1,DEM,Abby Finkenauer,41,9,32
+Buchanan,JESUP,U.S. House,1,DEM,Abby Finkenauer,65,1,64
+Buchanan,MIDDLEFIELD-NEWTON,U.S. House,1,DEM,Abby Finkenauer,16,6,10
+Buchanan,PERRY-WESTBURG,U.S. House,1,DEM,Abby Finkenauer,27,5,22
+Buchanan,QUASQUETON,U.S. House,1,DEM,Abby Finkenauer,38,5,33
+Buchanan,ROWLEY,U.S. House,1,DEM,Abby Finkenauer,43,8,35
+Buchanan,WINTHROP,U.S. House,1,DEM,Abby Finkenauer,46,6,40
+Buchanan,AURORA,U.S. House,1,DEM,Thomas Heckroth,17,5,12
+Buchanan,BRANDON,U.S. House,1,DEM,Thomas Heckroth,10,0,10
+Buchanan,FAIRBANK,U.S. House,1,DEM,Thomas Heckroth,13,1,12
+Buchanan,HAZLETON,U.S. House,1,DEM,Thomas Heckroth,15,4,11
+Buchanan,INDEPENDENCE 1ST WARD,U.S. House,1,DEM,Thomas Heckroth,47,11,36
+Buchanan,INDEPENDENCE 2ND WARD,U.S. House,1,DEM,Thomas Heckroth,16,3,13
+Buchanan,INDEPENDENCE 3RD WARD,U.S. House,1,DEM,Thomas Heckroth,26,7,19
+Buchanan,INDEPENDENCE 4TH WARD,U.S. House,1,DEM,Thomas Heckroth,18,1,17
+Buchanan,INDEPENDENCE 5TH WARD,U.S. House,1,DEM,Thomas Heckroth,17,5,12
+Buchanan,JESUP,U.S. House,1,DEM,Thomas Heckroth,36,5,31
+Buchanan,MIDDLEFIELD-NEWTON,U.S. House,1,DEM,Thomas Heckroth,4,2,2
+Buchanan,PERRY-WESTBURG,U.S. House,1,DEM,Thomas Heckroth,10,3,7
+Buchanan,QUASQUETON,U.S. House,1,DEM,Thomas Heckroth,17,6,11
+Buchanan,ROWLEY,U.S. House,1,DEM,Thomas Heckroth,11,2,9
+Buchanan,WINTHROP,U.S. House,1,DEM,Thomas Heckroth,23,4,19
+Buchanan,AURORA,U.S. House,1,DEM,George Ramsey,0,0,0
+Buchanan,BRANDON,U.S. House,1,DEM,George Ramsey,3,1,2
+Buchanan,FAIRBANK,U.S. House,1,DEM,George Ramsey,2,0,2
+Buchanan,HAZLETON,U.S. House,1,DEM,George Ramsey,0,0,0
+Buchanan,INDEPENDENCE 1ST WARD,U.S. House,1,DEM,George Ramsey,11,1,10
+Buchanan,INDEPENDENCE 2ND WARD,U.S. House,1,DEM,George Ramsey,1,1,0
+Buchanan,INDEPENDENCE 3RD WARD,U.S. House,1,DEM,George Ramsey,4,1,3
+Buchanan,INDEPENDENCE 4TH WARD,U.S. House,1,DEM,George Ramsey,2,0,2
+Buchanan,INDEPENDENCE 5TH WARD,U.S. House,1,DEM,George Ramsey,0,0,0
+Buchanan,JESUP,U.S. House,1,DEM,George Ramsey,4,0,4
+Buchanan,MIDDLEFIELD-NEWTON,U.S. House,1,DEM,George Ramsey,2,0,2
+Buchanan,PERRY-WESTBURG,U.S. House,1,DEM,George Ramsey,5,0,5
+Buchanan,QUASQUETON,U.S. House,1,DEM,George Ramsey,1,0,1
+Buchanan,ROWLEY,U.S. House,1,DEM,George Ramsey,1,0,1
+Buchanan,WINTHROP,U.S. House,1,DEM,George Ramsey,3,0,3
+Buchanan,AURORA,U.S. House,1,DEM,Courtney L. Rowe,0,0,0
+Buchanan,BRANDON,U.S. House,1,DEM,Courtney L. Rowe,2,0,2
+Buchanan,FAIRBANK,U.S. House,1,DEM,Courtney L. Rowe,5,0,5
+Buchanan,HAZLETON,U.S. House,1,DEM,Courtney L. Rowe,3,0,3
+Buchanan,INDEPENDENCE 1ST WARD,U.S. House,1,DEM,Courtney L. Rowe,2,0,2
+Buchanan,INDEPENDENCE 2ND WARD,U.S. House,1,DEM,Courtney L. Rowe,3,1,2
+Buchanan,INDEPENDENCE 3RD WARD,U.S. House,1,DEM,Courtney L. Rowe,1,0,1
+Buchanan,INDEPENDENCE 4TH WARD,U.S. House,1,DEM,Courtney L. Rowe,5,1,4
+Buchanan,INDEPENDENCE 5TH WARD,U.S. House,1,DEM,Courtney L. Rowe,3,1,2
+Buchanan,JESUP,U.S. House,1,DEM,Courtney L. Rowe,8,0,8
+Buchanan,MIDDLEFIELD-NEWTON,U.S. House,1,DEM,Courtney L. Rowe,1,1,0
+Buchanan,PERRY-WESTBURG,U.S. House,1,DEM,Courtney L. Rowe,3,0,3
+Buchanan,QUASQUETON,U.S. House,1,DEM,Courtney L. Rowe,4,2,2
+Buchanan,ROWLEY,U.S. House,1,DEM,Courtney L. Rowe,1,0,1
+Buchanan,WINTHROP,U.S. House,1,DEM,Courtney L. Rowe,6,0,6
 Buchanan,AURORA,Governor,,DEM,Nate Boulton,3,3,0
 Buchanan,BRANDON,Governor,,DEM,Nate Boulton,0,0,0
 Buchanan,FAIRBANK,Governor,,DEM,Nate Boulton,1,0,1
@@ -1071,36 +1071,36 @@ Buchanan,PERRY-WESTBURG,County Attorney,,DEM,Shawn Harden,39,7,32
 Buchanan,QUASQUETON,County Attorney,,DEM,Shawn Harden,48,9,39
 Buchanan,ROWLEY,County Attorney,,DEM,Shawn Harden,49,9,40
 Buchanan,WINTHROP,County Attorney,,DEM,Shawn Harden,69,7,62
-Buchanan,AURORA,United States Representative District 1,,LIB,Wes Knutson,0,0,0
-Buchanan,BRANDON,United States Representative District 1,,LIB,Wes Knutson,0,0,0
-Buchanan,FAIRBANK,United States Representative District 1,,LIB,Wes Knutson,0,0,0
-Buchanan,HAZLETON,United States Representative District 1,,LIB,Wes Knutson,0,0,0
-Buchanan,INDEPENDENCE 1ST WARD,United States Representative District 1,,LIB,Wes Knutson,0,0,0
-Buchanan,INDEPENDENCE 2ND WARD,United States Representative District 1,,LIB,Wes Knutson,0,0,0
-Buchanan,INDEPENDENCE 3RD WARD,United States Representative District 1,,LIB,Wes Knutson,0,0,0
-Buchanan,INDEPENDENCE 4TH WARD,United States Representative District 1,,LIB,Wes Knutson,0,0,0
-Buchanan,INDEPENDENCE 5TH WARD,United States Representative District 1,,LIB,Wes Knutson,0,0,0
-Buchanan,JESUP,United States Representative District 1,,LIB,Wes Knutson,1,0,1
-Buchanan,MIDDLEFIELD-NEWTON,United States Representative District 1,,LIB,Wes Knutson,0,0,0
-Buchanan,PERRY-WESTBURG,United States Representative District 1,,LIB,Wes Knutson,0,0,0
-Buchanan,QUASQUETON,United States Representative District 1,,LIB,Wes Knutson,0,0,0
-Buchanan,ROWLEY,United States Representative District 1,,LIB,Wes Knutson,0,0,0
-Buchanan,WINTHROP,United States Representative District 1,,LIB,Wes Knutson,0,0,0
-Buchanan,AURORA,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Buchanan,BRANDON,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Buchanan,FAIRBANK,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Buchanan,HAZLETON,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Buchanan,INDEPENDENCE 1ST WARD,United States Representative District 1,,LIB,George Ramsey,1,0,1
-Buchanan,INDEPENDENCE 2ND WARD,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Buchanan,INDEPENDENCE 3RD WARD,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Buchanan,INDEPENDENCE 4TH WARD,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Buchanan,INDEPENDENCE 5TH WARD,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Buchanan,JESUP,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Buchanan,MIDDLEFIELD-NEWTON,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Buchanan,PERRY-WESTBURG,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Buchanan,QUASQUETON,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Buchanan,ROWLEY,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Buchanan,WINTHROP,United States Representative District 1,,LIB,George Ramsey,0,0,0
+Buchanan,AURORA,U.S. House,1,LIB,Wes Knutson,0,0,0
+Buchanan,BRANDON,U.S. House,1,LIB,Wes Knutson,0,0,0
+Buchanan,FAIRBANK,U.S. House,1,LIB,Wes Knutson,0,0,0
+Buchanan,HAZLETON,U.S. House,1,LIB,Wes Knutson,0,0,0
+Buchanan,INDEPENDENCE 1ST WARD,U.S. House,1,LIB,Wes Knutson,0,0,0
+Buchanan,INDEPENDENCE 2ND WARD,U.S. House,1,LIB,Wes Knutson,0,0,0
+Buchanan,INDEPENDENCE 3RD WARD,U.S. House,1,LIB,Wes Knutson,0,0,0
+Buchanan,INDEPENDENCE 4TH WARD,U.S. House,1,LIB,Wes Knutson,0,0,0
+Buchanan,INDEPENDENCE 5TH WARD,U.S. House,1,LIB,Wes Knutson,0,0,0
+Buchanan,JESUP,U.S. House,1,LIB,Wes Knutson,1,0,1
+Buchanan,MIDDLEFIELD-NEWTON,U.S. House,1,LIB,Wes Knutson,0,0,0
+Buchanan,PERRY-WESTBURG,U.S. House,1,LIB,Wes Knutson,0,0,0
+Buchanan,QUASQUETON,U.S. House,1,LIB,Wes Knutson,0,0,0
+Buchanan,ROWLEY,U.S. House,1,LIB,Wes Knutson,0,0,0
+Buchanan,WINTHROP,U.S. House,1,LIB,Wes Knutson,0,0,0
+Buchanan,AURORA,U.S. House,1,LIB,George Ramsey,0,0,0
+Buchanan,BRANDON,U.S. House,1,LIB,George Ramsey,0,0,0
+Buchanan,FAIRBANK,U.S. House,1,LIB,George Ramsey,0,0,0
+Buchanan,HAZLETON,U.S. House,1,LIB,George Ramsey,0,0,0
+Buchanan,INDEPENDENCE 1ST WARD,U.S. House,1,LIB,George Ramsey,1,0,1
+Buchanan,INDEPENDENCE 2ND WARD,U.S. House,1,LIB,George Ramsey,0,0,0
+Buchanan,INDEPENDENCE 3RD WARD,U.S. House,1,LIB,George Ramsey,0,0,0
+Buchanan,INDEPENDENCE 4TH WARD,U.S. House,1,LIB,George Ramsey,0,0,0
+Buchanan,INDEPENDENCE 5TH WARD,U.S. House,1,LIB,George Ramsey,0,0,0
+Buchanan,JESUP,U.S. House,1,LIB,George Ramsey,0,0,0
+Buchanan,MIDDLEFIELD-NEWTON,U.S. House,1,LIB,George Ramsey,0,0,0
+Buchanan,PERRY-WESTBURG,U.S. House,1,LIB,George Ramsey,0,0,0
+Buchanan,QUASQUETON,U.S. House,1,LIB,George Ramsey,0,0,0
+Buchanan,ROWLEY,U.S. House,1,LIB,George Ramsey,0,0,0
+Buchanan,WINTHROP,U.S. House,1,LIB,George Ramsey,0,0,0
 Buchanan,AURORA,Governor,,LIB,Marco Battaglia,0,0,0
 Buchanan,BRANDON,Governor,,LIB,Marco Battaglia,0,0,0
 Buchanan,FAIRBANK,Governor,,LIB,Marco Battaglia,0,0,0

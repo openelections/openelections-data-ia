@@ -1,25 +1,25 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Decatur,BL/FA/Lamoni,United States Representative District 2,,REP,Christopher Peters,72,3,69
-Decatur,BU/HA/MO/NB/Davis City/Pleasanton,United States Representative District 2,,REP,Christopher Peters,21,4,17
-Decatur,CE/ED/Leon,United States Representative District 2,,REP,Christopher Peters,66,14,52
-Decatur,DE/Decatur City,United States Representative District 2,,REP,Christopher Peters,18,2,16
-Decatur,GG/HP/WO/Garden Grove/LeRoy,United States Representative District 2,,REP,Christopher Peters,16,4,12
-Decatur,GR/RL/Grand River,United States Representative District 2,,REP,Christopher Peters,17,3,14
-Decatur,FR/LC/Van Wert/Weldon,United States Representative District 2,,REP,Christopher Peters,29,4,25
-Decatur,BL/FA/Lamoni,United States Representative District 2,,REP,Ginny Caligiuri,16,0,16
-Decatur,BU/HA/MO/NB/Davis City/Pleasanton,United States Representative District 2,,REP,Ginny Caligiuri,6,0,6
-Decatur,CE/ED/Leon,United States Representative District 2,,REP,Ginny Caligiuri,9,0,9
-Decatur,DE/Decatur City,United States Representative District 2,,REP,Ginny Caligiuri,0,0,0
-Decatur,GG/HP/WO/Garden Grove/LeRoy,United States Representative District 2,,REP,Ginny Caligiuri,10,3,7
-Decatur,GR/RL/Grand River,United States Representative District 2,,REP,Ginny Caligiuri,1,0,1
-Decatur,FR/LC/Van Wert/Weldon,United States Representative District 2,,REP,Ginny Caligiuri,2,0,2
-Decatur,BL/FA/Lamoni,United States Representative District 2,,,Write-in,0,0,0
-Decatur,BU/HA/MO/NB/Davis City/Pleasanton,United States Representative District 2,,,Write-in,0,0,0
-Decatur,CE/ED/Leon,United States Representative District 2,,,Write-in,0,0,0
-Decatur,DE/Decatur City,United States Representative District 2,,,Write-in,0,0,0
-Decatur,GG/HP/WO/Garden Grove/LeRoy,United States Representative District 2,,,Write-in,0,0,0
-Decatur,GR/RL/Grand River,United States Representative District 2,,,Write-in,0,0,0
-Decatur,FR/LC/Van Wert/Weldon,United States Representative District 2,,,Write-in,0,0,0
+Decatur,BL/FA/Lamoni,U.S. House,2,REP,Christopher Peters,72,3,69
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,U.S. House,2,REP,Christopher Peters,21,4,17
+Decatur,CE/ED/Leon,U.S. House,2,REP,Christopher Peters,66,14,52
+Decatur,DE/Decatur City,U.S. House,2,REP,Christopher Peters,18,2,16
+Decatur,GG/HP/WO/Garden Grove/LeRoy,U.S. House,2,REP,Christopher Peters,16,4,12
+Decatur,GR/RL/Grand River,U.S. House,2,REP,Christopher Peters,17,3,14
+Decatur,FR/LC/Van Wert/Weldon,U.S. House,2,REP,Christopher Peters,29,4,25
+Decatur,BL/FA/Lamoni,U.S. House,2,REP,Ginny Caligiuri,16,0,16
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,U.S. House,2,REP,Ginny Caligiuri,6,0,6
+Decatur,CE/ED/Leon,U.S. House,2,REP,Ginny Caligiuri,9,0,9
+Decatur,DE/Decatur City,U.S. House,2,REP,Ginny Caligiuri,0,0,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,U.S. House,2,REP,Ginny Caligiuri,10,3,7
+Decatur,GR/RL/Grand River,U.S. House,2,REP,Ginny Caligiuri,1,0,1
+Decatur,FR/LC/Van Wert/Weldon,U.S. House,2,REP,Ginny Caligiuri,2,0,2
+Decatur,BL/FA/Lamoni,U.S. House,2,,Write-in,0,0,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,U.S. House,2,,Write-in,0,0,0
+Decatur,CE/ED/Leon,U.S. House,2,,Write-in,0,0,0
+Decatur,DE/Decatur City,U.S. House,2,,Write-in,0,0,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,U.S. House,2,,Write-in,0,0,0
+Decatur,GR/RL/Grand River,U.S. House,2,,Write-in,0,0,0
+Decatur,FR/LC/Van Wert/Weldon,U.S. House,2,,Write-in,0,0,0
 Decatur,BL/FA/Lamoni,Governor,,REP,Kim Reynolds,94,3,91
 Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Governor,,REP,Kim Reynolds,32,6,26
 Decatur,CE/ED/Leon,Governor,,REP,Kim Reynolds,81,17,64
@@ -356,13 +356,13 @@ Decatur,DE/Decatur City,County Attorney,,,Write-in,0,0,0
 Decatur,GG/HP/WO/Garden Grove/LeRoy,County Attorney,,,Write-in,0,0,0
 Decatur,GR/RL/Grand River,County Attorney,,,Write-in,0,0,0
 Decatur,FR/LC/Van Wert/Weldon,County Attorney,,,Write-in,0,0,0
-Decatur,BL/FA/Lamoni,United States Representative District 2,,DEM,Dave Loebsack,125,11,114
-Decatur,BU/HA/MO/NB/Davis City/Pleasanton,United States Representative District 2,,DEM,Dave Loebsack,20,7,13
-Decatur,CE/ED/Leon,United States Representative District 2,,DEM,Dave Loebsack,77,12,65
-Decatur,DE/Decatur City,United States Representative District 2,,DEM,Dave Loebsack,10,0,10
-Decatur,GG/HP/WO/Garden Grove/LeRoy,United States Representative District 2,,DEM,Dave Loebsack,20,6,14
-Decatur,GR/RL/Grand River,United States Representative District 2,,DEM,Dave Loebsack,17,2,15
-Decatur,FR/LC/Van Wert/Weldon,United States Representative District 2,,DEM,Dave Loebsack,25,3,22
+Decatur,BL/FA/Lamoni,U.S. House,2,DEM,Dave Loebsack,125,11,114
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,U.S. House,2,DEM,Dave Loebsack,20,7,13
+Decatur,CE/ED/Leon,U.S. House,2,DEM,Dave Loebsack,77,12,65
+Decatur,DE/Decatur City,U.S. House,2,DEM,Dave Loebsack,10,0,10
+Decatur,GG/HP/WO/Garden Grove/LeRoy,U.S. House,2,DEM,Dave Loebsack,20,6,14
+Decatur,GR/RL/Grand River,U.S. House,2,DEM,Dave Loebsack,17,2,15
+Decatur,FR/LC/Van Wert/Weldon,U.S. House,2,DEM,Dave Loebsack,25,3,22
 Decatur,BL/FA/Lamoni,Governor,,DEM,Nate Boulton,3,0,3
 Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Governor,,DEM,Nate Boulton,0,0,0
 Decatur,CE/ED/Leon,Governor,,DEM,Nate Boulton,3,1,2
@@ -538,20 +538,20 @@ Decatur,DE/Decatur City,County Attorney,,DEM,Angie Hill,0,0,0
 Decatur,GG/HP/WO/Garden Grove/LeRoy,County Attorney,,DEM,Angie Hill,0,0,0
 Decatur,GR/RL/Grand River,County Attorney,,DEM,Angie Hill,0,0,0
 Decatur,FR/LC/Van Wert/Weldon,County Attorney,,DEM,Angie Hill,0,0,0
-Decatur,BL/FA/Lamoni,United States Representative District 2,,LIB,Jules Offenbach,0,0,0
-Decatur,BU/HA/MO/NB/Davis City/Pleasanton,United States Representative District 2,,LIB,Jules Offenbach,0,0,0
-Decatur,CE/ED/Leon,United States Representative District 2,,LIB,Jules Offenbach,0,0,0
-Decatur,DE/Decatur City,United States Representative District 2,,LIB,Jules Offenbach,1,0,1
-Decatur,GG/HP/WO/Garden Grove/LeRoy,United States Representative District 2,,LIB,Jules Offenbach,0,0,0
-Decatur,GR/RL/Grand River,United States Representative District 2,,LIB,Jules Offenbach,0,0,0
-Decatur,FR/LC/Van Wert/Weldon,United States Representative District 2,,LIB,Jules Offenbach,0,0,0
-Decatur,BL/FA/Lamoni,United States Representative District 2,,LIB,Miles Lee Latham,0,0,0
-Decatur,BU/HA/MO/NB/Davis City/Pleasanton,United States Representative District 2,,LIB,Miles Lee Latham,0,0,0
-Decatur,CE/ED/Leon,United States Representative District 2,,LIB,Miles Lee Latham,0,0,0
-Decatur,DE/Decatur City,United States Representative District 2,,LIB,Miles Lee Latham,1,0,1
-Decatur,GG/HP/WO/Garden Grove/LeRoy,United States Representative District 2,,LIB,Miles Lee Latham,0,0,0
-Decatur,GR/RL/Grand River,United States Representative District 2,,LIB,Miles Lee Latham,0,0,0
-Decatur,FR/LC/Van Wert/Weldon,United States Representative District 2,,LIB,Miles Lee Latham,0,0,0
+Decatur,BL/FA/Lamoni,U.S. House,2,LIB,Jules Offenbach,0,0,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,U.S. House,2,LIB,Jules Offenbach,0,0,0
+Decatur,CE/ED/Leon,U.S. House,2,LIB,Jules Offenbach,0,0,0
+Decatur,DE/Decatur City,U.S. House,2,LIB,Jules Offenbach,1,0,1
+Decatur,GG/HP/WO/Garden Grove/LeRoy,U.S. House,2,LIB,Jules Offenbach,0,0,0
+Decatur,GR/RL/Grand River,U.S. House,2,LIB,Jules Offenbach,0,0,0
+Decatur,FR/LC/Van Wert/Weldon,U.S. House,2,LIB,Jules Offenbach,0,0,0
+Decatur,BL/FA/Lamoni,U.S. House,2,LIB,Miles Lee Latham,0,0,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,U.S. House,2,LIB,Miles Lee Latham,0,0,0
+Decatur,CE/ED/Leon,U.S. House,2,LIB,Miles Lee Latham,0,0,0
+Decatur,DE/Decatur City,U.S. House,2,LIB,Miles Lee Latham,1,0,1
+Decatur,GG/HP/WO/Garden Grove/LeRoy,U.S. House,2,LIB,Miles Lee Latham,0,0,0
+Decatur,GR/RL/Grand River,U.S. House,2,LIB,Miles Lee Latham,0,0,0
+Decatur,FR/LC/Van Wert/Weldon,U.S. House,2,LIB,Miles Lee Latham,0,0,0
 Decatur,BL/FA/Lamoni,Governor,,LIB,Marco Battaglia,2,0,2
 Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Governor,,LIB,Marco Battaglia,0,0,0
 Decatur,CE/ED/Leon,Governor,,LIB,Marco Battaglia,0,0,0

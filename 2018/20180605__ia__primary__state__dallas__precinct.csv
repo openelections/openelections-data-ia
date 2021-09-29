@@ -1,72 +1,72 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Dallas,Adams,United States Representative District 3,,REP,David Young,70,7,63
-Dallas,Adel 1,United States Representative District 3,,REP,David Young,46,5,41
-Dallas,Adel 2,United States Representative District 3,,REP,David Young,79,12,67
-Dallas,Beaver/Des Moines,United States Representative District 3,,REP,David Young,36,0,36
-Dallas,Clive 5,United States Representative District 3,,REP,David Young,100,10,90
-Dallas,Clive 6,United States Representative District 3,,REP,David Young,75,10,65
-Dallas,Colfax/Adel,United States Representative District 3,,REP,David Young,52,9,43
-Dallas,De Soto,United States Representative District 3,,REP,David Young,18,2,16
-Dallas,Lincoln/Washington/Linn,United States Representative District 3,,REP,David Young,56,6,50
-Dallas,Perry 1,United States Representative District 3,,REP,David Young,43,7,36
-Dallas,Perry 2,United States Representative District 3,,REP,David Young,30,3,27
-Dallas,Perry 3,United States Representative District 3,,REP,David Young,23,0,23
-Dallas,Spring Valley/Dallas,United States Representative District 3,,REP,David Young,20,2,18
-Dallas,Sugar Grove/Dallas Center,United States Representative District 3,,REP,David Young,94,6,88
-Dallas,Union,United States Representative District 3,,REP,David Young,78,4,74
-Dallas,Urbandale 13,United States Representative District 3,,REP,David Young,68,4,64
-Dallas,Urbandale 14,United States Representative District 3,,REP,David Young,71,4,67
-Dallas,Urbandale 15,United States Representative District 3,,REP,David Young,29,3,26
-Dallas,Van Meter,United States Representative District 3,,REP,David Young,94,9,85
-Dallas,Walnut/Grimes/Grant,United States Representative District 3,,REP,David Young,38,1,37
-Dallas,Waukee 1,United States Representative District 3,,REP,David Young,83,6,77
-Dallas,Waukee 2,United States Representative District 3,,REP,David Young,63,4,59
-Dallas,Waukee 3,United States Representative District 3,,REP,David Young,75,7,68
-Dallas,Waukee 4,United States Representative District 3,,REP,David Young,111,7,104
-Dallas,Waukee 5,United States Representative District 3,,REP,David Young,72,2,70
-Dallas,Waukee 6 HD44,United States Representative District 3,,REP,David Young,53,5,48
-Dallas,West Des Moines 221,United States Representative District 3,,REP,David Young,76,15,61
-Dallas,West Des Moines 222,United States Representative District 3,,REP,David Young,53,4,49
-Dallas,West Des Moines 223,United States Representative District 3,,REP,David Young,52,2,50
-Dallas,West Des Moines 224,United States Representative District 3,,REP,David Young,15,3,12
-Dallas,West Des Moines 225,United States Representative District 3,,REP,David Young,58,6,52
-Dallas,West Des Moines 226,United States Representative District 3,,REP,David Young,31,3,28
-Dallas,West Des Moines 321,United States Representative District 3,,REP,David Young,99,3,96
-Dallas,West Des Moines 322,United States Representative District 3,,REP,David Young,38,5,33
-Dallas,Adams,United States Representative District 3,,,Write-in,1,0,1
-Dallas,Adel 1,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Adel 2,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Beaver/Des Moines,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Clive 5,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Clive 6,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Colfax/Adel,United States Representative District 3,,,Write-in,0,0,0
-Dallas,De Soto,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Lincoln/Washington/Linn,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Perry 1,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Perry 2,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Perry 3,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Spring Valley/Dallas,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Sugar Grove/Dallas Center,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Union,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Urbandale 13,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Urbandale 14,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Urbandale 15,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Van Meter,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Walnut/Grimes/Grant,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Waukee 1,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Waukee 2,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Waukee 3,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Waukee 4,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Waukee 5,United States Representative District 3,,,Write-in,0,0,0
-Dallas,Waukee 6 HD44,United States Representative District 3,,,Write-in,0,0,0
-Dallas,West Des Moines 221,United States Representative District 3,,,Write-in,0,0,0
-Dallas,West Des Moines 222,United States Representative District 3,,,Write-in,1,0,1
-Dallas,West Des Moines 223,United States Representative District 3,,,Write-in,0,0,0
-Dallas,West Des Moines 224,United States Representative District 3,,,Write-in,0,0,0
-Dallas,West Des Moines 225,United States Representative District 3,,,Write-in,0,0,0
-Dallas,West Des Moines 226,United States Representative District 3,,,Write-in,0,0,0
-Dallas,West Des Moines 321,United States Representative District 3,,,Write-in,0,0,0
-Dallas,West Des Moines 322,United States Representative District 3,,,Write-in,0,0,0
+Dallas,Adams,U.S. House,3,REP,David Young,70,7,63
+Dallas,Adel 1,U.S. House,3,REP,David Young,46,5,41
+Dallas,Adel 2,U.S. House,3,REP,David Young,79,12,67
+Dallas,Beaver/Des Moines,U.S. House,3,REP,David Young,36,0,36
+Dallas,Clive 5,U.S. House,3,REP,David Young,100,10,90
+Dallas,Clive 6,U.S. House,3,REP,David Young,75,10,65
+Dallas,Colfax/Adel,U.S. House,3,REP,David Young,52,9,43
+Dallas,De Soto,U.S. House,3,REP,David Young,18,2,16
+Dallas,Lincoln/Washington/Linn,U.S. House,3,REP,David Young,56,6,50
+Dallas,Perry 1,U.S. House,3,REP,David Young,43,7,36
+Dallas,Perry 2,U.S. House,3,REP,David Young,30,3,27
+Dallas,Perry 3,U.S. House,3,REP,David Young,23,0,23
+Dallas,Spring Valley/Dallas,U.S. House,3,REP,David Young,20,2,18
+Dallas,Sugar Grove/Dallas Center,U.S. House,3,REP,David Young,94,6,88
+Dallas,Union,U.S. House,3,REP,David Young,78,4,74
+Dallas,Urbandale 13,U.S. House,3,REP,David Young,68,4,64
+Dallas,Urbandale 14,U.S. House,3,REP,David Young,71,4,67
+Dallas,Urbandale 15,U.S. House,3,REP,David Young,29,3,26
+Dallas,Van Meter,U.S. House,3,REP,David Young,94,9,85
+Dallas,Walnut/Grimes/Grant,U.S. House,3,REP,David Young,38,1,37
+Dallas,Waukee 1,U.S. House,3,REP,David Young,83,6,77
+Dallas,Waukee 2,U.S. House,3,REP,David Young,63,4,59
+Dallas,Waukee 3,U.S. House,3,REP,David Young,75,7,68
+Dallas,Waukee 4,U.S. House,3,REP,David Young,111,7,104
+Dallas,Waukee 5,U.S. House,3,REP,David Young,72,2,70
+Dallas,Waukee 6 HD44,U.S. House,3,REP,David Young,53,5,48
+Dallas,West Des Moines 221,U.S. House,3,REP,David Young,76,15,61
+Dallas,West Des Moines 222,U.S. House,3,REP,David Young,53,4,49
+Dallas,West Des Moines 223,U.S. House,3,REP,David Young,52,2,50
+Dallas,West Des Moines 224,U.S. House,3,REP,David Young,15,3,12
+Dallas,West Des Moines 225,U.S. House,3,REP,David Young,58,6,52
+Dallas,West Des Moines 226,U.S. House,3,REP,David Young,31,3,28
+Dallas,West Des Moines 321,U.S. House,3,REP,David Young,99,3,96
+Dallas,West Des Moines 322,U.S. House,3,REP,David Young,38,5,33
+Dallas,Adams,U.S. House,3,,Write-in,1,0,1
+Dallas,Adel 1,U.S. House,3,,Write-in,0,0,0
+Dallas,Adel 2,U.S. House,3,,Write-in,0,0,0
+Dallas,Beaver/Des Moines,U.S. House,3,,Write-in,0,0,0
+Dallas,Clive 5,U.S. House,3,,Write-in,0,0,0
+Dallas,Clive 6,U.S. House,3,,Write-in,0,0,0
+Dallas,Colfax/Adel,U.S. House,3,,Write-in,0,0,0
+Dallas,De Soto,U.S. House,3,,Write-in,0,0,0
+Dallas,Lincoln/Washington/Linn,U.S. House,3,,Write-in,0,0,0
+Dallas,Perry 1,U.S. House,3,,Write-in,0,0,0
+Dallas,Perry 2,U.S. House,3,,Write-in,0,0,0
+Dallas,Perry 3,U.S. House,3,,Write-in,0,0,0
+Dallas,Spring Valley/Dallas,U.S. House,3,,Write-in,0,0,0
+Dallas,Sugar Grove/Dallas Center,U.S. House,3,,Write-in,0,0,0
+Dallas,Union,U.S. House,3,,Write-in,0,0,0
+Dallas,Urbandale 13,U.S. House,3,,Write-in,0,0,0
+Dallas,Urbandale 14,U.S. House,3,,Write-in,0,0,0
+Dallas,Urbandale 15,U.S. House,3,,Write-in,0,0,0
+Dallas,Van Meter,U.S. House,3,,Write-in,0,0,0
+Dallas,Walnut/Grimes/Grant,U.S. House,3,,Write-in,0,0,0
+Dallas,Waukee 1,U.S. House,3,,Write-in,0,0,0
+Dallas,Waukee 2,U.S. House,3,,Write-in,0,0,0
+Dallas,Waukee 3,U.S. House,3,,Write-in,0,0,0
+Dallas,Waukee 4,U.S. House,3,,Write-in,0,0,0
+Dallas,Waukee 5,U.S. House,3,,Write-in,0,0,0
+Dallas,Waukee 6 HD44,U.S. House,3,,Write-in,0,0,0
+Dallas,West Des Moines 221,U.S. House,3,,Write-in,0,0,0
+Dallas,West Des Moines 222,U.S. House,3,,Write-in,1,0,1
+Dallas,West Des Moines 223,U.S. House,3,,Write-in,0,0,0
+Dallas,West Des Moines 224,U.S. House,3,,Write-in,0,0,0
+Dallas,West Des Moines 225,U.S. House,3,,Write-in,0,0,0
+Dallas,West Des Moines 226,U.S. House,3,,Write-in,0,0,0
+Dallas,West Des Moines 321,U.S. House,3,,Write-in,0,0,0
+Dallas,West Des Moines 322,U.S. House,3,,Write-in,0,0,0
 Dallas,Adams,Governor,,REP,Kim Reynolds,76,8,68
 Dallas,Adel 1,Governor,,REP,Kim Reynolds,49,5,44
 Dallas,Adel 2,Governor,,REP,Kim Reynolds,93,15,78
@@ -1042,108 +1042,108 @@ Dallas,West Des Moines 225,County Attorney,,,Write-in,0,0,0
 Dallas,West Des Moines 226,County Attorney,,,Write-in,0,0,0
 Dallas,West Des Moines 321,County Attorney,,,Write-in,0,0,0
 Dallas,West Des Moines 322,County Attorney,,,Write-in,0,0,0
-Dallas,Adams,United States Representative District 3,,DEM,Cindy Axne,44,7,37
-Dallas,Adel 1,United States Representative District 3,,DEM,Cindy Axne,78,27,51
-Dallas,Adel 2,United States Representative District 3,,DEM,Cindy Axne,117,24,93
-Dallas,Beaver/Des Moines,United States Representative District 3,,DEM,Cindy Axne,94,5,89
-Dallas,Clive 5,United States Representative District 3,,DEM,Cindy Axne,125,20,105
-Dallas,Clive 6,United States Representative District 3,,DEM,Cindy Axne,113,15,98
-Dallas,Colfax/Adel,United States Representative District 3,,DEM,Cindy Axne,36,11,25
-Dallas,De Soto,United States Representative District 3,,DEM,Cindy Axne,31,4,27
-Dallas,Lincoln/Washington/Linn,United States Representative District 3,,DEM,Cindy Axne,26,4,22
-Dallas,Perry 1,United States Representative District 3,,DEM,Cindy Axne,54,6,48
-Dallas,Perry 2,United States Representative District 3,,DEM,Cindy Axne,61,13,48
-Dallas,Perry 3,United States Representative District 3,,DEM,Cindy Axne,39,4,35
-Dallas,Spring Valley/Dallas,United States Representative District 3,,DEM,Cindy Axne,41,6,35
-Dallas,Sugar Grove/Dallas Center,United States Representative District 3,,DEM,Cindy Axne,88,15,73
-Dallas,Union,United States Representative District 3,,DEM,Cindy Axne,49,4,45
-Dallas,Urbandale 13,United States Representative District 3,,DEM,Cindy Axne,146,18,128
-Dallas,Urbandale 14,United States Representative District 3,,DEM,Cindy Axne,122,22,100
-Dallas,Urbandale 15,United States Representative District 3,,DEM,Cindy Axne,60,9,51
-Dallas,Van Meter,United States Representative District 3,,DEM,Cindy Axne,91,21,70
-Dallas,Walnut/Grimes/Grant,United States Representative District 3,,DEM,Cindy Axne,78,13,65
-Dallas,Waukee 1,United States Representative District 3,,DEM,Cindy Axne,134,20,114
-Dallas,Waukee 2,United States Representative District 3,,DEM,Cindy Axne,96,11,85
-Dallas,Waukee 3,United States Representative District 3,,DEM,Cindy Axne,153,27,126
-Dallas,Waukee 4,United States Representative District 3,,DEM,Cindy Axne,91,7,84
-Dallas,Waukee 5,United States Representative District 3,,DEM,Cindy Axne,103,9,94
-Dallas,Waukee 6 HD44,United States Representative District 3,,DEM,Cindy Axne,72,14,58
-Dallas,West Des Moines 221,United States Representative District 3,,DEM,Cindy Axne,160,13,147
-Dallas,West Des Moines 222,United States Representative District 3,,DEM,Cindy Axne,130,19,111
-Dallas,West Des Moines 223,United States Representative District 3,,DEM,Cindy Axne,85,5,80
-Dallas,West Des Moines 224,United States Representative District 3,,DEM,Cindy Axne,31,4,27
-Dallas,West Des Moines 225,United States Representative District 3,,DEM,Cindy Axne,107,13,94
-Dallas,West Des Moines 226,United States Representative District 3,,DEM,Cindy Axne,64,5,59
-Dallas,West Des Moines 321,United States Representative District 3,,DEM,Cindy Axne,137,21,116
-Dallas,West Des Moines 322,United States Representative District 3,,DEM,Cindy Axne,62,10,52
-Dallas,Adams,United States Representative District 3,,DEM,Pete D'Alessandro,13,2,11
-Dallas,Adel 1,United States Representative District 3,,DEM,Pete D'Alessandro,20,2,18
-Dallas,Adel 2,United States Representative District 3,,DEM,Pete D'Alessandro,21,5,16
-Dallas,Beaver/Des Moines,United States Representative District 3,,DEM,Pete D'Alessandro,27,5,22
-Dallas,Clive 5,United States Representative District 3,,DEM,Pete D'Alessandro,36,8,28
-Dallas,Clive 6,United States Representative District 3,,DEM,Pete D'Alessandro,20,1,19
-Dallas,Colfax/Adel,United States Representative District 3,,DEM,Pete D'Alessandro,16,1,15
-Dallas,De Soto,United States Representative District 3,,DEM,Pete D'Alessandro,13,2,11
-Dallas,Lincoln/Washington/Linn,United States Representative District 3,,DEM,Pete D'Alessandro,3,0,3
-Dallas,Perry 1,United States Representative District 3,,DEM,Pete D'Alessandro,32,4,28
-Dallas,Perry 2,United States Representative District 3,,DEM,Pete D'Alessandro,16,2,14
-Dallas,Perry 3,United States Representative District 3,,DEM,Pete D'Alessandro,15,3,12
-Dallas,Spring Valley/Dallas,United States Representative District 3,,DEM,Pete D'Alessandro,8,1,7
-Dallas,Sugar Grove/Dallas Center,United States Representative District 3,,DEM,Pete D'Alessandro,26,3,23
-Dallas,Union,United States Representative District 3,,DEM,Pete D'Alessandro,8,0,8
-Dallas,Urbandale 13,United States Representative District 3,,DEM,Pete D'Alessandro,31,4,27
-Dallas,Urbandale 14,United States Representative District 3,,DEM,Pete D'Alessandro,22,4,18
-Dallas,Urbandale 15,United States Representative District 3,,DEM,Pete D'Alessandro,7,0,7
-Dallas,Van Meter,United States Representative District 3,,DEM,Pete D'Alessandro,20,3,17
-Dallas,Walnut/Grimes/Grant,United States Representative District 3,,DEM,Pete D'Alessandro,11,0,11
-Dallas,Waukee 1,United States Representative District 3,,DEM,Pete D'Alessandro,36,8,28
-Dallas,Waukee 2,United States Representative District 3,,DEM,Pete D'Alessandro,29,1,28
-Dallas,Waukee 3,United States Representative District 3,,DEM,Pete D'Alessandro,28,3,25
-Dallas,Waukee 4,United States Representative District 3,,DEM,Pete D'Alessandro,20,3,17
-Dallas,Waukee 5,United States Representative District 3,,DEM,Pete D'Alessandro,24,2,22
-Dallas,Waukee 6 HD44,United States Representative District 3,,DEM,Pete D'Alessandro,24,2,22
-Dallas,West Des Moines 221,United States Representative District 3,,DEM,Pete D'Alessandro,48,4,44
-Dallas,West Des Moines 222,United States Representative District 3,,DEM,Pete D'Alessandro,28,1,27
-Dallas,West Des Moines 223,United States Representative District 3,,DEM,Pete D'Alessandro,14,1,13
-Dallas,West Des Moines 224,United States Representative District 3,,DEM,Pete D'Alessandro,2,0,2
-Dallas,West Des Moines 225,United States Representative District 3,,DEM,Pete D'Alessandro,25,5,20
-Dallas,West Des Moines 226,United States Representative District 3,,DEM,Pete D'Alessandro,27,4,23
-Dallas,West Des Moines 321,United States Representative District 3,,DEM,Pete D'Alessandro,30,3,27
-Dallas,West Des Moines 322,United States Representative District 3,,DEM,Pete D'Alessandro,17,2,15
-Dallas,Adams,United States Representative District 3,,DEM,Eddie J. Mauro,17,5,12
-Dallas,Adel 1,United States Representative District 3,,DEM,Eddie J. Mauro,15,5,10
-Dallas,Adel 2,United States Representative District 3,,DEM,Eddie J. Mauro,20,5,15
-Dallas,Beaver/Des Moines,United States Representative District 3,,DEM,Eddie J. Mauro,55,9,46
-Dallas,Clive 5,United States Representative District 3,,DEM,Eddie J. Mauro,34,5,29
-Dallas,Clive 6,United States Representative District 3,,DEM,Eddie J. Mauro,44,4,40
-Dallas,Colfax/Adel,United States Representative District 3,,DEM,Eddie J. Mauro,12,1,11
-Dallas,De Soto,United States Representative District 3,,DEM,Eddie J. Mauro,15,1,14
-Dallas,Lincoln/Washington/Linn,United States Representative District 3,,DEM,Eddie J. Mauro,9,0,9
-Dallas,Perry 1,United States Representative District 3,,DEM,Eddie J. Mauro,44,9,35
-Dallas,Perry 2,United States Representative District 3,,DEM,Eddie J. Mauro,42,10,32
-Dallas,Perry 3,United States Representative District 3,,DEM,Eddie J. Mauro,38,3,35
-Dallas,Spring Valley/Dallas,United States Representative District 3,,DEM,Eddie J. Mauro,17,5,12
-Dallas,Sugar Grove/Dallas Center,United States Representative District 3,,DEM,Eddie J. Mauro,33,6,27
-Dallas,Union,United States Representative District 3,,DEM,Eddie J. Mauro,28,2,26
-Dallas,Urbandale 13,United States Representative District 3,,DEM,Eddie J. Mauro,50,9,41
-Dallas,Urbandale 14,United States Representative District 3,,DEM,Eddie J. Mauro,24,4,20
-Dallas,Urbandale 15,United States Representative District 3,,DEM,Eddie J. Mauro,26,4,22
-Dallas,Van Meter,United States Representative District 3,,DEM,Eddie J. Mauro,34,7,27
-Dallas,Walnut/Grimes/Grant,United States Representative District 3,,DEM,Eddie J. Mauro,46,4,42
-Dallas,Waukee 1,United States Representative District 3,,DEM,Eddie J. Mauro,49,6,43
-Dallas,Waukee 2,United States Representative District 3,,DEM,Eddie J. Mauro,27,7,20
-Dallas,Waukee 3,United States Representative District 3,,DEM,Eddie J. Mauro,58,7,51
-Dallas,Waukee 4,United States Representative District 3,,DEM,Eddie J. Mauro,34,7,27
-Dallas,Waukee 5,United States Representative District 3,,DEM,Eddie J. Mauro,33,6,27
-Dallas,Waukee 6 HD44,United States Representative District 3,,DEM,Eddie J. Mauro,33,3,30
-Dallas,West Des Moines 221,United States Representative District 3,,DEM,Eddie J. Mauro,71,14,57
-Dallas,West Des Moines 222,United States Representative District 3,,DEM,Eddie J. Mauro,39,5,34
-Dallas,West Des Moines 223,United States Representative District 3,,DEM,Eddie J. Mauro,24,3,21
-Dallas,West Des Moines 224,United States Representative District 3,,DEM,Eddie J. Mauro,8,1,7
-Dallas,West Des Moines 225,United States Representative District 3,,DEM,Eddie J. Mauro,49,5,44
-Dallas,West Des Moines 226,United States Representative District 3,,DEM,Eddie J. Mauro,26,2,24
-Dallas,West Des Moines 321,United States Representative District 3,,DEM,Eddie J. Mauro,25,4,21
-Dallas,West Des Moines 322,United States Representative District 3,,DEM,Eddie J. Mauro,17,4,13
+Dallas,Adams,U.S. House,3,DEM,Cindy Axne,44,7,37
+Dallas,Adel 1,U.S. House,3,DEM,Cindy Axne,78,27,51
+Dallas,Adel 2,U.S. House,3,DEM,Cindy Axne,117,24,93
+Dallas,Beaver/Des Moines,U.S. House,3,DEM,Cindy Axne,94,5,89
+Dallas,Clive 5,U.S. House,3,DEM,Cindy Axne,125,20,105
+Dallas,Clive 6,U.S. House,3,DEM,Cindy Axne,113,15,98
+Dallas,Colfax/Adel,U.S. House,3,DEM,Cindy Axne,36,11,25
+Dallas,De Soto,U.S. House,3,DEM,Cindy Axne,31,4,27
+Dallas,Lincoln/Washington/Linn,U.S. House,3,DEM,Cindy Axne,26,4,22
+Dallas,Perry 1,U.S. House,3,DEM,Cindy Axne,54,6,48
+Dallas,Perry 2,U.S. House,3,DEM,Cindy Axne,61,13,48
+Dallas,Perry 3,U.S. House,3,DEM,Cindy Axne,39,4,35
+Dallas,Spring Valley/Dallas,U.S. House,3,DEM,Cindy Axne,41,6,35
+Dallas,Sugar Grove/Dallas Center,U.S. House,3,DEM,Cindy Axne,88,15,73
+Dallas,Union,U.S. House,3,DEM,Cindy Axne,49,4,45
+Dallas,Urbandale 13,U.S. House,3,DEM,Cindy Axne,146,18,128
+Dallas,Urbandale 14,U.S. House,3,DEM,Cindy Axne,122,22,100
+Dallas,Urbandale 15,U.S. House,3,DEM,Cindy Axne,60,9,51
+Dallas,Van Meter,U.S. House,3,DEM,Cindy Axne,91,21,70
+Dallas,Walnut/Grimes/Grant,U.S. House,3,DEM,Cindy Axne,78,13,65
+Dallas,Waukee 1,U.S. House,3,DEM,Cindy Axne,134,20,114
+Dallas,Waukee 2,U.S. House,3,DEM,Cindy Axne,96,11,85
+Dallas,Waukee 3,U.S. House,3,DEM,Cindy Axne,153,27,126
+Dallas,Waukee 4,U.S. House,3,DEM,Cindy Axne,91,7,84
+Dallas,Waukee 5,U.S. House,3,DEM,Cindy Axne,103,9,94
+Dallas,Waukee 6 HD44,U.S. House,3,DEM,Cindy Axne,72,14,58
+Dallas,West Des Moines 221,U.S. House,3,DEM,Cindy Axne,160,13,147
+Dallas,West Des Moines 222,U.S. House,3,DEM,Cindy Axne,130,19,111
+Dallas,West Des Moines 223,U.S. House,3,DEM,Cindy Axne,85,5,80
+Dallas,West Des Moines 224,U.S. House,3,DEM,Cindy Axne,31,4,27
+Dallas,West Des Moines 225,U.S. House,3,DEM,Cindy Axne,107,13,94
+Dallas,West Des Moines 226,U.S. House,3,DEM,Cindy Axne,64,5,59
+Dallas,West Des Moines 321,U.S. House,3,DEM,Cindy Axne,137,21,116
+Dallas,West Des Moines 322,U.S. House,3,DEM,Cindy Axne,62,10,52
+Dallas,Adams,U.S. House,3,DEM,Pete D'Alessandro,13,2,11
+Dallas,Adel 1,U.S. House,3,DEM,Pete D'Alessandro,20,2,18
+Dallas,Adel 2,U.S. House,3,DEM,Pete D'Alessandro,21,5,16
+Dallas,Beaver/Des Moines,U.S. House,3,DEM,Pete D'Alessandro,27,5,22
+Dallas,Clive 5,U.S. House,3,DEM,Pete D'Alessandro,36,8,28
+Dallas,Clive 6,U.S. House,3,DEM,Pete D'Alessandro,20,1,19
+Dallas,Colfax/Adel,U.S. House,3,DEM,Pete D'Alessandro,16,1,15
+Dallas,De Soto,U.S. House,3,DEM,Pete D'Alessandro,13,2,11
+Dallas,Lincoln/Washington/Linn,U.S. House,3,DEM,Pete D'Alessandro,3,0,3
+Dallas,Perry 1,U.S. House,3,DEM,Pete D'Alessandro,32,4,28
+Dallas,Perry 2,U.S. House,3,DEM,Pete D'Alessandro,16,2,14
+Dallas,Perry 3,U.S. House,3,DEM,Pete D'Alessandro,15,3,12
+Dallas,Spring Valley/Dallas,U.S. House,3,DEM,Pete D'Alessandro,8,1,7
+Dallas,Sugar Grove/Dallas Center,U.S. House,3,DEM,Pete D'Alessandro,26,3,23
+Dallas,Union,U.S. House,3,DEM,Pete D'Alessandro,8,0,8
+Dallas,Urbandale 13,U.S. House,3,DEM,Pete D'Alessandro,31,4,27
+Dallas,Urbandale 14,U.S. House,3,DEM,Pete D'Alessandro,22,4,18
+Dallas,Urbandale 15,U.S. House,3,DEM,Pete D'Alessandro,7,0,7
+Dallas,Van Meter,U.S. House,3,DEM,Pete D'Alessandro,20,3,17
+Dallas,Walnut/Grimes/Grant,U.S. House,3,DEM,Pete D'Alessandro,11,0,11
+Dallas,Waukee 1,U.S. House,3,DEM,Pete D'Alessandro,36,8,28
+Dallas,Waukee 2,U.S. House,3,DEM,Pete D'Alessandro,29,1,28
+Dallas,Waukee 3,U.S. House,3,DEM,Pete D'Alessandro,28,3,25
+Dallas,Waukee 4,U.S. House,3,DEM,Pete D'Alessandro,20,3,17
+Dallas,Waukee 5,U.S. House,3,DEM,Pete D'Alessandro,24,2,22
+Dallas,Waukee 6 HD44,U.S. House,3,DEM,Pete D'Alessandro,24,2,22
+Dallas,West Des Moines 221,U.S. House,3,DEM,Pete D'Alessandro,48,4,44
+Dallas,West Des Moines 222,U.S. House,3,DEM,Pete D'Alessandro,28,1,27
+Dallas,West Des Moines 223,U.S. House,3,DEM,Pete D'Alessandro,14,1,13
+Dallas,West Des Moines 224,U.S. House,3,DEM,Pete D'Alessandro,2,0,2
+Dallas,West Des Moines 225,U.S. House,3,DEM,Pete D'Alessandro,25,5,20
+Dallas,West Des Moines 226,U.S. House,3,DEM,Pete D'Alessandro,27,4,23
+Dallas,West Des Moines 321,U.S. House,3,DEM,Pete D'Alessandro,30,3,27
+Dallas,West Des Moines 322,U.S. House,3,DEM,Pete D'Alessandro,17,2,15
+Dallas,Adams,U.S. House,3,DEM,Eddie J. Mauro,17,5,12
+Dallas,Adel 1,U.S. House,3,DEM,Eddie J. Mauro,15,5,10
+Dallas,Adel 2,U.S. House,3,DEM,Eddie J. Mauro,20,5,15
+Dallas,Beaver/Des Moines,U.S. House,3,DEM,Eddie J. Mauro,55,9,46
+Dallas,Clive 5,U.S. House,3,DEM,Eddie J. Mauro,34,5,29
+Dallas,Clive 6,U.S. House,3,DEM,Eddie J. Mauro,44,4,40
+Dallas,Colfax/Adel,U.S. House,3,DEM,Eddie J. Mauro,12,1,11
+Dallas,De Soto,U.S. House,3,DEM,Eddie J. Mauro,15,1,14
+Dallas,Lincoln/Washington/Linn,U.S. House,3,DEM,Eddie J. Mauro,9,0,9
+Dallas,Perry 1,U.S. House,3,DEM,Eddie J. Mauro,44,9,35
+Dallas,Perry 2,U.S. House,3,DEM,Eddie J. Mauro,42,10,32
+Dallas,Perry 3,U.S. House,3,DEM,Eddie J. Mauro,38,3,35
+Dallas,Spring Valley/Dallas,U.S. House,3,DEM,Eddie J. Mauro,17,5,12
+Dallas,Sugar Grove/Dallas Center,U.S. House,3,DEM,Eddie J. Mauro,33,6,27
+Dallas,Union,U.S. House,3,DEM,Eddie J. Mauro,28,2,26
+Dallas,Urbandale 13,U.S. House,3,DEM,Eddie J. Mauro,50,9,41
+Dallas,Urbandale 14,U.S. House,3,DEM,Eddie J. Mauro,24,4,20
+Dallas,Urbandale 15,U.S. House,3,DEM,Eddie J. Mauro,26,4,22
+Dallas,Van Meter,U.S. House,3,DEM,Eddie J. Mauro,34,7,27
+Dallas,Walnut/Grimes/Grant,U.S. House,3,DEM,Eddie J. Mauro,46,4,42
+Dallas,Waukee 1,U.S. House,3,DEM,Eddie J. Mauro,49,6,43
+Dallas,Waukee 2,U.S. House,3,DEM,Eddie J. Mauro,27,7,20
+Dallas,Waukee 3,U.S. House,3,DEM,Eddie J. Mauro,58,7,51
+Dallas,Waukee 4,U.S. House,3,DEM,Eddie J. Mauro,34,7,27
+Dallas,Waukee 5,U.S. House,3,DEM,Eddie J. Mauro,33,6,27
+Dallas,Waukee 6 HD44,U.S. House,3,DEM,Eddie J. Mauro,33,3,30
+Dallas,West Des Moines 221,U.S. House,3,DEM,Eddie J. Mauro,71,14,57
+Dallas,West Des Moines 222,U.S. House,3,DEM,Eddie J. Mauro,39,5,34
+Dallas,West Des Moines 223,U.S. House,3,DEM,Eddie J. Mauro,24,3,21
+Dallas,West Des Moines 224,U.S. House,3,DEM,Eddie J. Mauro,8,1,7
+Dallas,West Des Moines 225,U.S. House,3,DEM,Eddie J. Mauro,49,5,44
+Dallas,West Des Moines 226,U.S. House,3,DEM,Eddie J. Mauro,26,2,24
+Dallas,West Des Moines 321,U.S. House,3,DEM,Eddie J. Mauro,25,4,21
+Dallas,West Des Moines 322,U.S. House,3,DEM,Eddie J. Mauro,17,4,13
 Dallas,Adams,Governor,,DEM,Nate Boulton,1,0,1
 Dallas,Adel 1,Governor,,DEM,Nate Boulton,4,3,1
 Dallas,Adel 2,Governor,,DEM,Nate Boulton,9,2,7
@@ -1690,40 +1690,40 @@ Dallas,West Des Moines 225,County Attorney,,DEM,Wayne M. Reisetter,136,15,121
 Dallas,West Des Moines 226,County Attorney,,DEM,Wayne M. Reisetter,86,10,76
 Dallas,West Des Moines 321,County Attorney,,DEM,Wayne M. Reisetter,138,22,116
 Dallas,West Des Moines 322,County Attorney,,DEM,Wayne M. Reisetter,71,10,61
-Dallas,Adams,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Dallas,Adel 1,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Dallas,Adel 2,United States Representative District 3,,LIB,Bryan Jack Holder,3,0,3
-Dallas,Beaver/Des Moines,United States Representative District 3,,LIB,Bryan Jack Holder,1,1,0
-Dallas,Clive 5,United States Representative District 3,,LIB,Bryan Jack Holder,1,0,1
-Dallas,Clive 6,United States Representative District 3,,LIB,Bryan Jack Holder,1,0,1
-Dallas,Colfax/Adel,United States Representative District 3,,LIB,Bryan Jack Holder,1,0,1
-Dallas,De Soto,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Dallas,Lincoln/Washington/Linn,United States Representative District 3,,LIB,Bryan Jack Holder,1,0,1
-Dallas,Perry 1,United States Representative District 3,,LIB,Bryan Jack Holder,1,0,1
-Dallas,Perry 2,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Dallas,Perry 3,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Dallas,Spring Valley/Dallas,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Dallas,Sugar Grove/Dallas Center,United States Representative District 3,,LIB,Bryan Jack Holder,2,0,2
-Dallas,Union,United States Representative District 3,,LIB,Bryan Jack Holder,2,0,2
-Dallas,Urbandale 13,United States Representative District 3,,LIB,Bryan Jack Holder,2,0,2
-Dallas,Urbandale 14,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Dallas,Urbandale 15,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Dallas,Van Meter,United States Representative District 3,,LIB,Bryan Jack Holder,4,0,4
-Dallas,Walnut/Grimes/Grant,United States Representative District 3,,LIB,Bryan Jack Holder,3,0,3
-Dallas,Waukee 1,United States Representative District 3,,LIB,Bryan Jack Holder,3,0,3
-Dallas,Waukee 2,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Dallas,Waukee 3,United States Representative District 3,,LIB,Bryan Jack Holder,2,0,2
-Dallas,Waukee 4,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Dallas,Waukee 5,United States Representative District 3,,LIB,Bryan Jack Holder,1,0,1
-Dallas,Waukee 6 HD44,United States Representative District 3,,LIB,Bryan Jack Holder,2,0,2
-Dallas,West Des Moines 221,United States Representative District 3,,LIB,Bryan Jack Holder,3,0,3
-Dallas,West Des Moines 222,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Dallas,West Des Moines 223,United States Representative District 3,,LIB,Bryan Jack Holder,4,0,4
-Dallas,West Des Moines 224,United States Representative District 3,,LIB,Bryan Jack Holder,1,0,1
-Dallas,West Des Moines 225,United States Representative District 3,,LIB,Bryan Jack Holder,2,0,2
-Dallas,West Des Moines 226,United States Representative District 3,,LIB,Bryan Jack Holder,2,1,1
-Dallas,West Des Moines 321,United States Representative District 3,,LIB,Bryan Jack Holder,1,0,1
-Dallas,West Des Moines 322,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
+Dallas,Adams,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Dallas,Adel 1,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Dallas,Adel 2,U.S. House,3,LIB,Bryan Jack Holder,3,0,3
+Dallas,Beaver/Des Moines,U.S. House,3,LIB,Bryan Jack Holder,1,1,0
+Dallas,Clive 5,U.S. House,3,LIB,Bryan Jack Holder,1,0,1
+Dallas,Clive 6,U.S. House,3,LIB,Bryan Jack Holder,1,0,1
+Dallas,Colfax/Adel,U.S. House,3,LIB,Bryan Jack Holder,1,0,1
+Dallas,De Soto,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Dallas,Lincoln/Washington/Linn,U.S. House,3,LIB,Bryan Jack Holder,1,0,1
+Dallas,Perry 1,U.S. House,3,LIB,Bryan Jack Holder,1,0,1
+Dallas,Perry 2,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Dallas,Perry 3,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Dallas,Spring Valley/Dallas,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Dallas,Sugar Grove/Dallas Center,U.S. House,3,LIB,Bryan Jack Holder,2,0,2
+Dallas,Union,U.S. House,3,LIB,Bryan Jack Holder,2,0,2
+Dallas,Urbandale 13,U.S. House,3,LIB,Bryan Jack Holder,2,0,2
+Dallas,Urbandale 14,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Dallas,Urbandale 15,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Dallas,Van Meter,U.S. House,3,LIB,Bryan Jack Holder,4,0,4
+Dallas,Walnut/Grimes/Grant,U.S. House,3,LIB,Bryan Jack Holder,3,0,3
+Dallas,Waukee 1,U.S. House,3,LIB,Bryan Jack Holder,3,0,3
+Dallas,Waukee 2,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Dallas,Waukee 3,U.S. House,3,LIB,Bryan Jack Holder,2,0,2
+Dallas,Waukee 4,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Dallas,Waukee 5,U.S. House,3,LIB,Bryan Jack Holder,1,0,1
+Dallas,Waukee 6 HD44,U.S. House,3,LIB,Bryan Jack Holder,2,0,2
+Dallas,West Des Moines 221,U.S. House,3,LIB,Bryan Jack Holder,3,0,3
+Dallas,West Des Moines 222,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Dallas,West Des Moines 223,U.S. House,3,LIB,Bryan Jack Holder,4,0,4
+Dallas,West Des Moines 224,U.S. House,3,LIB,Bryan Jack Holder,1,0,1
+Dallas,West Des Moines 225,U.S. House,3,LIB,Bryan Jack Holder,2,0,2
+Dallas,West Des Moines 226,U.S. House,3,LIB,Bryan Jack Holder,2,1,1
+Dallas,West Des Moines 321,U.S. House,3,LIB,Bryan Jack Holder,1,0,1
+Dallas,West Des Moines 322,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
 Dallas,Adams,Governor,,LIB,Marco Battaglia,0,0,0
 Dallas,Adel 1,Governor,,LIB,Marco Battaglia,0,0,0
 Dallas,Adel 2,Governor,,LIB,Marco Battaglia,1,0,1

@@ -1,39 +1,39 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Greene,Central Precinct,United States Representative District 4,,REP,Steve King,320,179,141
-Greene,East Precinct,United States Representative District 4,,REP,Steve King,288,218,70
-Greene,Jefferson 1 Precinct,United States Representative District 4,,REP,Steve King,228,137,91
-Greene,Jefferson 2 Precinct,United States Representative District 4,,REP,Steve King,285,146,139
-Greene,Jefferson 3 Precinct,United States Representative District 4,,REP,Steve King,328,155,173
-Greene,North Precinct,United States Representative District 4,,REP,Steve King,264,168,96
-Greene,West Precinct,United States Representative District 4,,REP,Steve King,286,197,89
-Greene,Central Precinct,United States Representative District 4,,DEM,J.D. Scholten,239,127,112
-Greene,East Precinct,United States Representative District 4,,DEM,J.D. Scholten,289,174,115
-Greene,Jefferson 1 Precinct,United States Representative District 4,,DEM,J.D. Scholten,299,162,137
-Greene,Jefferson 2 Precinct,United States Representative District 4,,DEM,J.D. Scholten,283,138,145
-Greene,Jefferson 3 Precinct,United States Representative District 4,,DEM,J.D. Scholten,434,201,233
-Greene,North Precinct,United States Representative District 4,,DEM,J.D. Scholten,245,141,104
-Greene,West Precinct,United States Representative District 4,,DEM,J.D. Scholten,156,100,56
-Greene,Central Precinct,United States Representative District 4,,LIB,Charles Aldrich,14,9,5
-Greene,East Precinct,United States Representative District 4,,LIB,Charles Aldrich,19,15,4
-Greene,Jefferson 1 Precinct,United States Representative District 4,,LIB,Charles Aldrich,13,7,6
-Greene,Jefferson 2 Precinct,United States Representative District 4,,LIB,Charles Aldrich,8,4,4
-Greene,Jefferson 3 Precinct,United States Representative District 4,,LIB,Charles Aldrich,12,5,7
-Greene,North Precinct,United States Representative District 4,,LIB,Charles Aldrich,8,3,5
-Greene,West Precinct,United States Representative District 4,,LIB,Charles Aldrich,7,5,2
-Greene,Central Precinct,United States Representative District 4,,,Edward Peterson,3,3,0
-Greene,East Precinct,United States Representative District 4,,,Edward Peterson,2,2,0
-Greene,Jefferson 1 Precinct,United States Representative District 4,,,Edward Peterson,2,2,0
-Greene,Jefferson 2 Precinct,United States Representative District 4,,,Edward Peterson,8,3,5
-Greene,Jefferson 3 Precinct,United States Representative District 4,,,Edward Peterson,3,1,2
-Greene,North Precinct,United States Representative District 4,,,Edward Peterson,1,1,0
-Greene,West Precinct,United States Representative District 4,,,Edward Peterson,2,2,0
-Greene,Central Precinct,United States Representative District 4,,,Write-in,0,0,0
-Greene,East Precinct,United States Representative District 4,,,Write-in,0,0,0
-Greene,Jefferson 1 Precinct,United States Representative District 4,,,Write-in,1,1,0
-Greene,Jefferson 2 Precinct,United States Representative District 4,,,Write-in,1,1,0
-Greene,Jefferson 3 Precinct,United States Representative District 4,,,Write-in,1,1,0
-Greene,North Precinct,United States Representative District 4,,,Write-in,0,0,0
-Greene,West Precinct,United States Representative District 4,,,Write-in,1,1,0
+Greene,Central Precinct,U.S. House,4,REP,Steve King,320,179,141
+Greene,East Precinct,U.S. House,4,REP,Steve King,288,218,70
+Greene,Jefferson 1 Precinct,U.S. House,4,REP,Steve King,228,137,91
+Greene,Jefferson 2 Precinct,U.S. House,4,REP,Steve King,285,146,139
+Greene,Jefferson 3 Precinct,U.S. House,4,REP,Steve King,328,155,173
+Greene,North Precinct,U.S. House,4,REP,Steve King,264,168,96
+Greene,West Precinct,U.S. House,4,REP,Steve King,286,197,89
+Greene,Central Precinct,U.S. House,4,DEM,J.D. Scholten,239,127,112
+Greene,East Precinct,U.S. House,4,DEM,J.D. Scholten,289,174,115
+Greene,Jefferson 1 Precinct,U.S. House,4,DEM,J.D. Scholten,299,162,137
+Greene,Jefferson 2 Precinct,U.S. House,4,DEM,J.D. Scholten,283,138,145
+Greene,Jefferson 3 Precinct,U.S. House,4,DEM,J.D. Scholten,434,201,233
+Greene,North Precinct,U.S. House,4,DEM,J.D. Scholten,245,141,104
+Greene,West Precinct,U.S. House,4,DEM,J.D. Scholten,156,100,56
+Greene,Central Precinct,U.S. House,4,LIB,Charles Aldrich,14,9,5
+Greene,East Precinct,U.S. House,4,LIB,Charles Aldrich,19,15,4
+Greene,Jefferson 1 Precinct,U.S. House,4,LIB,Charles Aldrich,13,7,6
+Greene,Jefferson 2 Precinct,U.S. House,4,LIB,Charles Aldrich,8,4,4
+Greene,Jefferson 3 Precinct,U.S. House,4,LIB,Charles Aldrich,12,5,7
+Greene,North Precinct,U.S. House,4,LIB,Charles Aldrich,8,3,5
+Greene,West Precinct,U.S. House,4,LIB,Charles Aldrich,7,5,2
+Greene,Central Precinct,U.S. House,4,,Edward Peterson,3,3,0
+Greene,East Precinct,U.S. House,4,,Edward Peterson,2,2,0
+Greene,Jefferson 1 Precinct,U.S. House,4,,Edward Peterson,2,2,0
+Greene,Jefferson 2 Precinct,U.S. House,4,,Edward Peterson,8,3,5
+Greene,Jefferson 3 Precinct,U.S. House,4,,Edward Peterson,3,1,2
+Greene,North Precinct,U.S. House,4,,Edward Peterson,1,1,0
+Greene,West Precinct,U.S. House,4,,Edward Peterson,2,2,0
+Greene,Central Precinct,U.S. House,4,,Write-in,0,0,0
+Greene,East Precinct,U.S. House,4,,Write-in,0,0,0
+Greene,Jefferson 1 Precinct,U.S. House,4,,Write-in,1,1,0
+Greene,Jefferson 2 Precinct,U.S. House,4,,Write-in,1,1,0
+Greene,Jefferson 3 Precinct,U.S. House,4,,Write-in,1,1,0
+Greene,North Precinct,U.S. House,4,,Write-in,0,0,0
+Greene,West Precinct,U.S. House,4,,Write-in,1,1,0
 Greene,Central Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,374,216,158
 Greene,East Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,328,251,77
 Greene,Jefferson 1 Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,258,152,106

@@ -1,44 +1,44 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Hamilton,PRECINCT 1,United States Representative District 4,,REP,Steve King,338,191,147
-Hamilton,PRECINCT 2,United States Representative District 4,,REP,Steve King,286,174,112
-Hamilton,PRECINCT 3,United States Representative District 4,,REP,Steve King,548,389,159
-Hamilton,PRECINCT 4,United States Representative District 4,,REP,Steve King,489,334,155
-Hamilton,PRECINCT 5,United States Representative District 4,,REP,Steve King,334,245,89
-Hamilton,WEBSTER CITY 1,United States Representative District 4,,REP,Steve King,442,225,217
-Hamilton,WEBSTER CITY 2,United States Representative District 4,,REP,Steve King,521,293,228
-Hamilton,WEBSTER CITY 3,United States Representative District 4,,REP,Steve King,257,170,87
-Hamilton,PRECINCT 1,United States Representative District 4,,DEM,J.D. Scholten,254,144,110
-Hamilton,PRECINCT 2,United States Representative District 4,,DEM,J.D. Scholten,202,128,74
-Hamilton,PRECINCT 3,United States Representative District 4,,DEM,J.D. Scholten,378,235,143
-Hamilton,PRECINCT 4,United States Representative District 4,,DEM,J.D. Scholten,380,250,130
-Hamilton,PRECINCT 5,United States Representative District 4,,DEM,J.D. Scholten,178,121,57
-Hamilton,WEBSTER CITY 1,United States Representative District 4,,DEM,J.D. Scholten,529,263,266
-Hamilton,WEBSTER CITY 2,United States Representative District 4,,DEM,J.D. Scholten,655,294,361
-Hamilton,WEBSTER CITY 3,United States Representative District 4,,DEM,J.D. Scholten,366,185,181
-Hamilton,PRECINCT 1,United States Representative District 4,,LIB,Charles Aldrich,19,13,6
-Hamilton,PRECINCT 2,United States Representative District 4,,LIB,Charles Aldrich,11,6,5
-Hamilton,PRECINCT 3,United States Representative District 4,,LIB,Charles Aldrich,17,10,7
-Hamilton,PRECINCT 4,United States Representative District 4,,LIB,Charles Aldrich,14,11,3
-Hamilton,PRECINCT 5,United States Representative District 4,,LIB,Charles Aldrich,11,8,3
-Hamilton,WEBSTER CITY 1,United States Representative District 4,,LIB,Charles Aldrich,21,14,7
-Hamilton,WEBSTER CITY 2,United States Representative District 4,,LIB,Charles Aldrich,22,13,9
-Hamilton,WEBSTER CITY 3,United States Representative District 4,,LIB,Charles Aldrich,14,6,8
-Hamilton,PRECINCT 1,United States Representative District 4,,,Edward Peterson,2,0,2
-Hamilton,PRECINCT 2,United States Representative District 4,,,Edward Peterson,2,1,1
-Hamilton,PRECINCT 3,United States Representative District 4,,,Edward Peterson,7,4,3
-Hamilton,PRECINCT 4,United States Representative District 4,,,Edward Peterson,8,7,1
-Hamilton,PRECINCT 5,United States Representative District 4,,,Edward Peterson,4,3,1
-Hamilton,WEBSTER CITY 1,United States Representative District 4,,,Edward Peterson,10,4,6
-Hamilton,WEBSTER CITY 2,United States Representative District 4,,,Edward Peterson,8,4,4
-Hamilton,WEBSTER CITY 3,United States Representative District 4,,,Edward Peterson,5,4,1
-Hamilton,PRECINCT 1,United States Representative District 4,,,Write-in,1,1,0
-Hamilton,PRECINCT 2,United States Representative District 4,,,Write-in,0,0,0
-Hamilton,PRECINCT 3,United States Representative District 4,,,Write-in,2,1,1
-Hamilton,PRECINCT 4,United States Representative District 4,,,Write-in,0,0,0
-Hamilton,PRECINCT 5,United States Representative District 4,,,Write-in,1,0,1
-Hamilton,WEBSTER CITY 1,United States Representative District 4,,,Write-in,0,0,0
-Hamilton,WEBSTER CITY 2,United States Representative District 4,,,Write-in,1,1,0
-Hamilton,WEBSTER CITY 3,United States Representative District 4,,,Write-in,1,0,1
+Hamilton,PRECINCT 1,U.S. House,4,REP,Steve King,338,191,147
+Hamilton,PRECINCT 2,U.S. House,4,REP,Steve King,286,174,112
+Hamilton,PRECINCT 3,U.S. House,4,REP,Steve King,548,389,159
+Hamilton,PRECINCT 4,U.S. House,4,REP,Steve King,489,334,155
+Hamilton,PRECINCT 5,U.S. House,4,REP,Steve King,334,245,89
+Hamilton,WEBSTER CITY 1,U.S. House,4,REP,Steve King,442,225,217
+Hamilton,WEBSTER CITY 2,U.S. House,4,REP,Steve King,521,293,228
+Hamilton,WEBSTER CITY 3,U.S. House,4,REP,Steve King,257,170,87
+Hamilton,PRECINCT 1,U.S. House,4,DEM,J.D. Scholten,254,144,110
+Hamilton,PRECINCT 2,U.S. House,4,DEM,J.D. Scholten,202,128,74
+Hamilton,PRECINCT 3,U.S. House,4,DEM,J.D. Scholten,378,235,143
+Hamilton,PRECINCT 4,U.S. House,4,DEM,J.D. Scholten,380,250,130
+Hamilton,PRECINCT 5,U.S. House,4,DEM,J.D. Scholten,178,121,57
+Hamilton,WEBSTER CITY 1,U.S. House,4,DEM,J.D. Scholten,529,263,266
+Hamilton,WEBSTER CITY 2,U.S. House,4,DEM,J.D. Scholten,655,294,361
+Hamilton,WEBSTER CITY 3,U.S. House,4,DEM,J.D. Scholten,366,185,181
+Hamilton,PRECINCT 1,U.S. House,4,LIB,Charles Aldrich,19,13,6
+Hamilton,PRECINCT 2,U.S. House,4,LIB,Charles Aldrich,11,6,5
+Hamilton,PRECINCT 3,U.S. House,4,LIB,Charles Aldrich,17,10,7
+Hamilton,PRECINCT 4,U.S. House,4,LIB,Charles Aldrich,14,11,3
+Hamilton,PRECINCT 5,U.S. House,4,LIB,Charles Aldrich,11,8,3
+Hamilton,WEBSTER CITY 1,U.S. House,4,LIB,Charles Aldrich,21,14,7
+Hamilton,WEBSTER CITY 2,U.S. House,4,LIB,Charles Aldrich,22,13,9
+Hamilton,WEBSTER CITY 3,U.S. House,4,LIB,Charles Aldrich,14,6,8
+Hamilton,PRECINCT 1,U.S. House,4,,Edward Peterson,2,0,2
+Hamilton,PRECINCT 2,U.S. House,4,,Edward Peterson,2,1,1
+Hamilton,PRECINCT 3,U.S. House,4,,Edward Peterson,7,4,3
+Hamilton,PRECINCT 4,U.S. House,4,,Edward Peterson,8,7,1
+Hamilton,PRECINCT 5,U.S. House,4,,Edward Peterson,4,3,1
+Hamilton,WEBSTER CITY 1,U.S. House,4,,Edward Peterson,10,4,6
+Hamilton,WEBSTER CITY 2,U.S. House,4,,Edward Peterson,8,4,4
+Hamilton,WEBSTER CITY 3,U.S. House,4,,Edward Peterson,5,4,1
+Hamilton,PRECINCT 1,U.S. House,4,,Write-in,1,1,0
+Hamilton,PRECINCT 2,U.S. House,4,,Write-in,0,0,0
+Hamilton,PRECINCT 3,U.S. House,4,,Write-in,2,1,1
+Hamilton,PRECINCT 4,U.S. House,4,,Write-in,0,0,0
+Hamilton,PRECINCT 5,U.S. House,4,,Write-in,1,0,1
+Hamilton,WEBSTER CITY 1,U.S. House,4,,Write-in,0,0,0
+Hamilton,WEBSTER CITY 2,U.S. House,4,,Write-in,1,1,0
+Hamilton,WEBSTER CITY 3,U.S. House,4,,Write-in,1,0,1
 Hamilton,PRECINCT 1,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,401,232,169
 Hamilton,PRECINCT 2,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,332,212,120
 Hamilton,PRECINCT 3,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,613,448,165

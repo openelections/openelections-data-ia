@@ -1,39 +1,39 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Lucas,Chariton City Hall,United States Representative District 2,,REP,Christopher Peters,404,250,154
-Lucas,Chariton Community Center,United States Representative District 2,,REP,Christopher Peters,407,213,194
-Lucas,L.C. Extension,United States Representative District 2,,REP,Christopher Peters,222,133,89
-Lucas,Lucas Community Center,United States Representative District 2,,REP,Christopher Peters,282,186,96
-Lucas,Pin Oak Marsh,United States Representative District 2,,REP,Christopher Peters,268,148,120
-Lucas,"Russell Community Center-Cedar and Washington Townships, City of Russell",United States Representative District 2,,REP,Christopher Peters,238,171,67
-Lucas,Williamson Community Center,United States Representative District 2,,REP,Christopher Peters,285,159,126
-Lucas,Chariton City Hall,United States Representative District 2,,DEM,Dave Loebsack,302,155,147
-Lucas,Chariton Community Center,United States Representative District 2,,DEM,Dave Loebsack,303,148,155
-Lucas,L.C. Extension,United States Representative District 2,,DEM,Dave Loebsack,103,54,49
-Lucas,Lucas Community Center,United States Representative District 2,,DEM,Dave Loebsack,131,88,43
-Lucas,Pin Oak Marsh,United States Representative District 2,,DEM,Dave Loebsack,132,79,53
-Lucas,"Russell Community Center-Cedar and Washington Townships, City of Russell",United States Representative District 2,,DEM,Dave Loebsack,153,113,40
-Lucas,Williamson Community Center,United States Representative District 2,,DEM,Dave Loebsack,171,91,80
-Lucas,Chariton City Hall,United States Representative District 2,,LIB,Mark David Strauss,19,13,6
-Lucas,Chariton Community Center,United States Representative District 2,,LIB,Mark David Strauss,19,12,7
-Lucas,L.C. Extension,United States Representative District 2,,LIB,Mark David Strauss,8,6,2
-Lucas,Lucas Community Center,United States Representative District 2,,LIB,Mark David Strauss,7,5,2
-Lucas,Pin Oak Marsh,United States Representative District 2,,LIB,Mark David Strauss,6,6,0
-Lucas,"Russell Community Center-Cedar and Washington Townships, City of Russell",United States Representative District 2,,LIB,Mark David Strauss,8,3,5
-Lucas,Williamson Community Center,United States Representative District 2,,LIB,Mark David Strauss,11,6,5
-Lucas,Chariton City Hall,United States Representative District 2,,,Daniel Clark,5,2,3
-Lucas,Chariton Community Center,United States Representative District 2,,,Daniel Clark,5,3,2
-Lucas,L.C. Extension,United States Representative District 2,,,Daniel Clark,2,1,1
-Lucas,Lucas Community Center,United States Representative District 2,,,Daniel Clark,6,4,2
-Lucas,Pin Oak Marsh,United States Representative District 2,,,Daniel Clark,2,1,1
-Lucas,"Russell Community Center-Cedar and Washington Townships, City of Russell",United States Representative District 2,,,Daniel Clark,3,2,1
-Lucas,Williamson Community Center,United States Representative District 2,,,Daniel Clark,2,2,0
-Lucas,Chariton City Hall,United States Representative District 2,,,Write-in,0,0,0
-Lucas,Chariton Community Center,United States Representative District 2,,,Write-in,2,2,0
-Lucas,L.C. Extension,United States Representative District 2,,,Write-in,0,0,0
-Lucas,Lucas Community Center,United States Representative District 2,,,Write-in,1,1,0
-Lucas,Pin Oak Marsh,United States Representative District 2,,,Write-in,1,1,0
-Lucas,"Russell Community Center-Cedar and Washington Townships, City of Russell",United States Representative District 2,,,Write-in,0,0,0
-Lucas,Williamson Community Center,United States Representative District 2,,,Write-in,0,0,0
+Lucas,Chariton City Hall,U.S. House,2,REP,Christopher Peters,404,250,154
+Lucas,Chariton Community Center,U.S. House,2,REP,Christopher Peters,407,213,194
+Lucas,L.C. Extension,U.S. House,2,REP,Christopher Peters,222,133,89
+Lucas,Lucas Community Center,U.S. House,2,REP,Christopher Peters,282,186,96
+Lucas,Pin Oak Marsh,U.S. House,2,REP,Christopher Peters,268,148,120
+Lucas,"Russell Community Center-Cedar and Washington Townships, City of Russell",U.S. House,2,REP,Christopher Peters,238,171,67
+Lucas,Williamson Community Center,U.S. House,2,REP,Christopher Peters,285,159,126
+Lucas,Chariton City Hall,U.S. House,2,DEM,Dave Loebsack,302,155,147
+Lucas,Chariton Community Center,U.S. House,2,DEM,Dave Loebsack,303,148,155
+Lucas,L.C. Extension,U.S. House,2,DEM,Dave Loebsack,103,54,49
+Lucas,Lucas Community Center,U.S. House,2,DEM,Dave Loebsack,131,88,43
+Lucas,Pin Oak Marsh,U.S. House,2,DEM,Dave Loebsack,132,79,53
+Lucas,"Russell Community Center-Cedar and Washington Townships, City of Russell",U.S. House,2,DEM,Dave Loebsack,153,113,40
+Lucas,Williamson Community Center,U.S. House,2,DEM,Dave Loebsack,171,91,80
+Lucas,Chariton City Hall,U.S. House,2,LIB,Mark David Strauss,19,13,6
+Lucas,Chariton Community Center,U.S. House,2,LIB,Mark David Strauss,19,12,7
+Lucas,L.C. Extension,U.S. House,2,LIB,Mark David Strauss,8,6,2
+Lucas,Lucas Community Center,U.S. House,2,LIB,Mark David Strauss,7,5,2
+Lucas,Pin Oak Marsh,U.S. House,2,LIB,Mark David Strauss,6,6,0
+Lucas,"Russell Community Center-Cedar and Washington Townships, City of Russell",U.S. House,2,LIB,Mark David Strauss,8,3,5
+Lucas,Williamson Community Center,U.S. House,2,LIB,Mark David Strauss,11,6,5
+Lucas,Chariton City Hall,U.S. House,2,,Daniel Clark,5,2,3
+Lucas,Chariton Community Center,U.S. House,2,,Daniel Clark,5,3,2
+Lucas,L.C. Extension,U.S. House,2,,Daniel Clark,2,1,1
+Lucas,Lucas Community Center,U.S. House,2,,Daniel Clark,6,4,2
+Lucas,Pin Oak Marsh,U.S. House,2,,Daniel Clark,2,1,1
+Lucas,"Russell Community Center-Cedar and Washington Townships, City of Russell",U.S. House,2,,Daniel Clark,3,2,1
+Lucas,Williamson Community Center,U.S. House,2,,Daniel Clark,2,2,0
+Lucas,Chariton City Hall,U.S. House,2,,Write-in,0,0,0
+Lucas,Chariton Community Center,U.S. House,2,,Write-in,2,2,0
+Lucas,L.C. Extension,U.S. House,2,,Write-in,0,0,0
+Lucas,Lucas Community Center,U.S. House,2,,Write-in,1,1,0
+Lucas,Pin Oak Marsh,U.S. House,2,,Write-in,1,1,0
+Lucas,"Russell Community Center-Cedar and Washington Townships, City of Russell",U.S. House,2,,Write-in,0,0,0
+Lucas,Williamson Community Center,U.S. House,2,,Write-in,0,0,0
 Lucas,Chariton City Hall,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,447,272,175
 Lucas,Chariton Community Center,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,465,242,223
 Lucas,L.C. Extension,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,242,146,96

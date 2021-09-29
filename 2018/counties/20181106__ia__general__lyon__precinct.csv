@@ -1,44 +1,44 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Lyon,George Community Center,United States Representative District 4,,REP,Steve King,767,502,265
-Lyon,Doon City Hall,United States Representative District 4,,REP,Steve King,650,452,198
-Lyon,Inwood City Hall,United States Representative District 4,,REP,Steve King,311,225,86
-Lyon,Larchwood City Hall,United States Representative District 4,,REP,Steve King,294,208,86
-Lyon,Lester City Hall,United States Representative District 4,,REP,Steve King,288,209,79
-Lyon,Little Rock Town and Country Bldg,United States Representative District 4,,REP,Steve King,253,192,61
-Lyon,Rock Rapids Forster Bldg N,United States Representative District 4,,REP,Steve King,484,312,172
-Lyon,Rock Rapids Forster Bldg S,United States Representative District 4,,REP,Steve King,669,398,271
-Lyon,George Community Center,United States Representative District 4,,DEM,J.D. Scholten,205,153,52
-Lyon,Doon City Hall,United States Representative District 4,,DEM,J.D. Scholten,76,47,29
-Lyon,Inwood City Hall,United States Representative District 4,,DEM,J.D. Scholten,125,111,14
-Lyon,Larchwood City Hall,United States Representative District 4,,DEM,J.D. Scholten,290,230,60
-Lyon,Lester City Hall,United States Representative District 4,,DEM,J.D. Scholten,120,86,34
-Lyon,Little Rock Town and Country Bldg,United States Representative District 4,,DEM,J.D. Scholten,60,48,12
-Lyon,Rock Rapids Forster Bldg N,United States Representative District 4,,DEM,J.D. Scholten,181,126,55
-Lyon,Rock Rapids Forster Bldg S,United States Representative District 4,,DEM,J.D. Scholten,298,207,91
-Lyon,George Community Center,United States Representative District 4,,LIB,Charles Aldrich,9,8,1
-Lyon,Doon City Hall,United States Representative District 4,,LIB,Charles Aldrich,7,6,1
-Lyon,Inwood City Hall,United States Representative District 4,,LIB,Charles Aldrich,5,5,0
-Lyon,Larchwood City Hall,United States Representative District 4,,LIB,Charles Aldrich,8,6,2
-Lyon,Lester City Hall,United States Representative District 4,,LIB,Charles Aldrich,2,2,0
-Lyon,Little Rock Town and Country Bldg,United States Representative District 4,,LIB,Charles Aldrich,5,3,2
-Lyon,Rock Rapids Forster Bldg N,United States Representative District 4,,LIB,Charles Aldrich,9,6,3
-Lyon,Rock Rapids Forster Bldg S,United States Representative District 4,,LIB,Charles Aldrich,17,10,7
-Lyon,George Community Center,United States Representative District 4,,,Edward Peterson,6,6,0
-Lyon,Doon City Hall,United States Representative District 4,,,Edward Peterson,5,5,0
-Lyon,Inwood City Hall,United States Representative District 4,,,Edward Peterson,2,2,0
-Lyon,Larchwood City Hall,United States Representative District 4,,,Edward Peterson,3,3,0
-Lyon,Lester City Hall,United States Representative District 4,,,Edward Peterson,0,0,0
-Lyon,Little Rock Town and Country Bldg,United States Representative District 4,,,Edward Peterson,5,4,1
-Lyon,Rock Rapids Forster Bldg N,United States Representative District 4,,,Edward Peterson,5,4,1
-Lyon,Rock Rapids Forster Bldg S,United States Representative District 4,,,Edward Peterson,5,1,4
-Lyon,George Community Center,United States Representative District 4,,,Write-in,0,0,0
-Lyon,Doon City Hall,United States Representative District 4,,,Write-in,3,2,1
-Lyon,Inwood City Hall,United States Representative District 4,,,Write-in,0,0,0
-Lyon,Larchwood City Hall,United States Representative District 4,,,Write-in,1,1,0
-Lyon,Lester City Hall,United States Representative District 4,,,Write-in,2,2,0
-Lyon,Little Rock Town and Country Bldg,United States Representative District 4,,,Write-in,0,0,0
-Lyon,Rock Rapids Forster Bldg N,United States Representative District 4,,,Write-in,0,0,0
-Lyon,Rock Rapids Forster Bldg S,United States Representative District 4,,,Write-in,2,1,1
+Lyon,George Community Center,U.S. House,4,REP,Steve King,767,502,265
+Lyon,Doon City Hall,U.S. House,4,REP,Steve King,650,452,198
+Lyon,Inwood City Hall,U.S. House,4,REP,Steve King,311,225,86
+Lyon,Larchwood City Hall,U.S. House,4,REP,Steve King,294,208,86
+Lyon,Lester City Hall,U.S. House,4,REP,Steve King,288,209,79
+Lyon,Little Rock Town and Country Bldg,U.S. House,4,REP,Steve King,253,192,61
+Lyon,Rock Rapids Forster Bldg N,U.S. House,4,REP,Steve King,484,312,172
+Lyon,Rock Rapids Forster Bldg S,U.S. House,4,REP,Steve King,669,398,271
+Lyon,George Community Center,U.S. House,4,DEM,J.D. Scholten,205,153,52
+Lyon,Doon City Hall,U.S. House,4,DEM,J.D. Scholten,76,47,29
+Lyon,Inwood City Hall,U.S. House,4,DEM,J.D. Scholten,125,111,14
+Lyon,Larchwood City Hall,U.S. House,4,DEM,J.D. Scholten,290,230,60
+Lyon,Lester City Hall,U.S. House,4,DEM,J.D. Scholten,120,86,34
+Lyon,Little Rock Town and Country Bldg,U.S. House,4,DEM,J.D. Scholten,60,48,12
+Lyon,Rock Rapids Forster Bldg N,U.S. House,4,DEM,J.D. Scholten,181,126,55
+Lyon,Rock Rapids Forster Bldg S,U.S. House,4,DEM,J.D. Scholten,298,207,91
+Lyon,George Community Center,U.S. House,4,LIB,Charles Aldrich,9,8,1
+Lyon,Doon City Hall,U.S. House,4,LIB,Charles Aldrich,7,6,1
+Lyon,Inwood City Hall,U.S. House,4,LIB,Charles Aldrich,5,5,0
+Lyon,Larchwood City Hall,U.S. House,4,LIB,Charles Aldrich,8,6,2
+Lyon,Lester City Hall,U.S. House,4,LIB,Charles Aldrich,2,2,0
+Lyon,Little Rock Town and Country Bldg,U.S. House,4,LIB,Charles Aldrich,5,3,2
+Lyon,Rock Rapids Forster Bldg N,U.S. House,4,LIB,Charles Aldrich,9,6,3
+Lyon,Rock Rapids Forster Bldg S,U.S. House,4,LIB,Charles Aldrich,17,10,7
+Lyon,George Community Center,U.S. House,4,,Edward Peterson,6,6,0
+Lyon,Doon City Hall,U.S. House,4,,Edward Peterson,5,5,0
+Lyon,Inwood City Hall,U.S. House,4,,Edward Peterson,2,2,0
+Lyon,Larchwood City Hall,U.S. House,4,,Edward Peterson,3,3,0
+Lyon,Lester City Hall,U.S. House,4,,Edward Peterson,0,0,0
+Lyon,Little Rock Town and Country Bldg,U.S. House,4,,Edward Peterson,5,4,1
+Lyon,Rock Rapids Forster Bldg N,U.S. House,4,,Edward Peterson,5,4,1
+Lyon,Rock Rapids Forster Bldg S,U.S. House,4,,Edward Peterson,5,1,4
+Lyon,George Community Center,U.S. House,4,,Write-in,0,0,0
+Lyon,Doon City Hall,U.S. House,4,,Write-in,3,2,1
+Lyon,Inwood City Hall,U.S. House,4,,Write-in,0,0,0
+Lyon,Larchwood City Hall,U.S. House,4,,Write-in,1,1,0
+Lyon,Lester City Hall,U.S. House,4,,Write-in,2,2,0
+Lyon,Little Rock Town and Country Bldg,U.S. House,4,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg N,U.S. House,4,,Write-in,0,0,0
+Lyon,Rock Rapids Forster Bldg S,U.S. House,4,,Write-in,2,1,1
 Lyon,George Community Center,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,861,580,281
 Lyon,Doon City Hall,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,708,489,219
 Lyon,Inwood City Hall,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,356,270,86

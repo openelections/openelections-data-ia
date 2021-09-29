@@ -1,44 +1,44 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Crawford,Charter Oak,United States Representative District 4,,DEM,J.D. Scholten,155,113,42
-Crawford,DCAB Precinct,United States Representative District 4,,DEM,J.D. Scholten,207,150,57
-Crawford,Denison 1st Ward,United States Representative District 4,,DEM,J.D. Scholten,318,181,137
-Crawford,Denison 2nd Ward - Denison Township,United States Representative District 4,,DEM,J.D. Scholten,375,210,165
-Crawford,Denison 3rd Ward - Goodrich Township,United States Representative District 4,,DEM,J.D. Scholten,439,268,171
-Crawford,Northeast Precinct,United States Representative District 4,,DEM,J.D. Scholten,248,151,97
-Crawford,Southeast Precinct,United States Representative District 4,,DEM,J.D. Scholten,298,151,147
-Crawford,SRK Precinct,United States Representative District 4,,DEM,J.D. Scholten,208,140,68
-Crawford,Charter Oak,United States Representative District 4,,REP,Steve King,265,179,86
-Crawford,DCAB Precinct,United States Representative District 4,,REP,Steve King,312,201,111
-Crawford,Denison 1st Ward,United States Representative District 4,,REP,Steve King,327,180,147
-Crawford,Denison 2nd Ward - Denison Township,United States Representative District 4,,REP,Steve King,354,194,160
-Crawford,Denison 3rd Ward - Goodrich Township,United States Representative District 4,,REP,Steve King,522,277,245
-Crawford,Northeast Precinct,United States Representative District 4,,REP,Steve King,403,217,186
-Crawford,Southeast Precinct,United States Representative District 4,,REP,Steve King,445,249,196
-Crawford,SRK Precinct,United States Representative District 4,,REP,Steve King,397,266,131
-Crawford,Charter Oak,United States Representative District 4,,LIB,Charles Aldrich,6,5,1
-Crawford,DCAB Precinct,United States Representative District 4,,LIB,Charles Aldrich,19,17,2
-Crawford,Denison 1st Ward,United States Representative District 4,,LIB,Charles Aldrich,12,6,6
-Crawford,Denison 2nd Ward - Denison Township,United States Representative District 4,,LIB,Charles Aldrich,16,9,7
-Crawford,Denison 3rd Ward - Goodrich Township,United States Representative District 4,,LIB,Charles Aldrich,13,10,3
-Crawford,Northeast Precinct,United States Representative District 4,,LIB,Charles Aldrich,14,9,5
-Crawford,Southeast Precinct,United States Representative District 4,,LIB,Charles Aldrich,13,10,3
-Crawford,SRK Precinct,United States Representative District 4,,LIB,Charles Aldrich,10,6,4
-Crawford,Charter Oak,United States Representative District 4,,,Edward Peterson,2,2,0
-Crawford,DCAB Precinct,United States Representative District 4,,,Edward Peterson,2,2,0
-Crawford,Denison 1st Ward,United States Representative District 4,,,Edward Peterson,5,4,1
-Crawford,Denison 2nd Ward - Denison Township,United States Representative District 4,,,Edward Peterson,5,2,3
-Crawford,Denison 3rd Ward - Goodrich Township,United States Representative District 4,,,Edward Peterson,6,2,4
-Crawford,Northeast Precinct,United States Representative District 4,,,Edward Peterson,5,4,1
-Crawford,Southeast Precinct,United States Representative District 4,,,Edward Peterson,6,4,2
-Crawford,SRK Precinct,United States Representative District 4,,,Edward Peterson,7,4,3
-Crawford,Charter Oak,United States Representative District 4,,,Write-in,0,0,0
-Crawford,DCAB Precinct,United States Representative District 4,,,Write-in,0,0,0
-Crawford,Denison 1st Ward,United States Representative District 4,,,Write-in,1,1,0
-Crawford,Denison 2nd Ward - Denison Township,United States Representative District 4,,,Write-in,0,0,0
-Crawford,Denison 3rd Ward - Goodrich Township,United States Representative District 4,,,Write-in,0,0,0
-Crawford,Northeast Precinct,United States Representative District 4,,,Write-in,0,0,0
-Crawford,Southeast Precinct,United States Representative District 4,,,Write-in,0,0,0
-Crawford,SRK Precinct,United States Representative District 4,,,Write-in,0,0,0
+Crawford,Charter Oak,U.S. House,4,DEM,J.D. Scholten,155,113,42
+Crawford,DCAB Precinct,U.S. House,4,DEM,J.D. Scholten,207,150,57
+Crawford,Denison 1st Ward,U.S. House,4,DEM,J.D. Scholten,318,181,137
+Crawford,Denison 2nd Ward - Denison Township,U.S. House,4,DEM,J.D. Scholten,375,210,165
+Crawford,Denison 3rd Ward - Goodrich Township,U.S. House,4,DEM,J.D. Scholten,439,268,171
+Crawford,Northeast Precinct,U.S. House,4,DEM,J.D. Scholten,248,151,97
+Crawford,Southeast Precinct,U.S. House,4,DEM,J.D. Scholten,298,151,147
+Crawford,SRK Precinct,U.S. House,4,DEM,J.D. Scholten,208,140,68
+Crawford,Charter Oak,U.S. House,4,REP,Steve King,265,179,86
+Crawford,DCAB Precinct,U.S. House,4,REP,Steve King,312,201,111
+Crawford,Denison 1st Ward,U.S. House,4,REP,Steve King,327,180,147
+Crawford,Denison 2nd Ward - Denison Township,U.S. House,4,REP,Steve King,354,194,160
+Crawford,Denison 3rd Ward - Goodrich Township,U.S. House,4,REP,Steve King,522,277,245
+Crawford,Northeast Precinct,U.S. House,4,REP,Steve King,403,217,186
+Crawford,Southeast Precinct,U.S. House,4,REP,Steve King,445,249,196
+Crawford,SRK Precinct,U.S. House,4,REP,Steve King,397,266,131
+Crawford,Charter Oak,U.S. House,4,LIB,Charles Aldrich,6,5,1
+Crawford,DCAB Precinct,U.S. House,4,LIB,Charles Aldrich,19,17,2
+Crawford,Denison 1st Ward,U.S. House,4,LIB,Charles Aldrich,12,6,6
+Crawford,Denison 2nd Ward - Denison Township,U.S. House,4,LIB,Charles Aldrich,16,9,7
+Crawford,Denison 3rd Ward - Goodrich Township,U.S. House,4,LIB,Charles Aldrich,13,10,3
+Crawford,Northeast Precinct,U.S. House,4,LIB,Charles Aldrich,14,9,5
+Crawford,Southeast Precinct,U.S. House,4,LIB,Charles Aldrich,13,10,3
+Crawford,SRK Precinct,U.S. House,4,LIB,Charles Aldrich,10,6,4
+Crawford,Charter Oak,U.S. House,4,,Edward Peterson,2,2,0
+Crawford,DCAB Precinct,U.S. House,4,,Edward Peterson,2,2,0
+Crawford,Denison 1st Ward,U.S. House,4,,Edward Peterson,5,4,1
+Crawford,Denison 2nd Ward - Denison Township,U.S. House,4,,Edward Peterson,5,2,3
+Crawford,Denison 3rd Ward - Goodrich Township,U.S. House,4,,Edward Peterson,6,2,4
+Crawford,Northeast Precinct,U.S. House,4,,Edward Peterson,5,4,1
+Crawford,Southeast Precinct,U.S. House,4,,Edward Peterson,6,4,2
+Crawford,SRK Precinct,U.S. House,4,,Edward Peterson,7,4,3
+Crawford,Charter Oak,U.S. House,4,,Write-in,0,0,0
+Crawford,DCAB Precinct,U.S. House,4,,Write-in,0,0,0
+Crawford,Denison 1st Ward,U.S. House,4,,Write-in,1,1,0
+Crawford,Denison 2nd Ward - Denison Township,U.S. House,4,,Write-in,0,0,0
+Crawford,Denison 3rd Ward - Goodrich Township,U.S. House,4,,Write-in,0,0,0
+Crawford,Northeast Precinct,U.S. House,4,,Write-in,0,0,0
+Crawford,Southeast Precinct,U.S. House,4,,Write-in,0,0,0
+Crawford,SRK Precinct,U.S. House,4,,Write-in,0,0,0
 Crawford,Charter Oak,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,102,76,26
 Crawford,DCAB Precinct,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,157,110,47
 Crawford,Denison 1st Ward,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,276,157,119

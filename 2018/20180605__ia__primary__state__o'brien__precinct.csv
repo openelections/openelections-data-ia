@@ -1,31 +1,31 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-O'Brien,Carroll-Floyd,United States Representative District 4,,REP,Cyndi Hanson,15,4,11
-O'Brien,Franklin,United States Representative District 4,,REP,Cyndi Hanson,32,1,31
-O'Brien,Hartley-Lincoln-Omega,United States Representative District 4,,REP,Cyndi Hanson,29,2,27
-O'Brien,Sheldon 1st Ward,United States Representative District 4,,REP,Cyndi Hanson,40,1,39
-O'Brien,Sheldon 2nd Ward,United States Representative District 4,,REP,Cyndi Hanson,18,0,18
-O'Brien,Sheldon 3rd Ward,United States Representative District 4,,REP,Cyndi Hanson,12,2,10
-O'Brien,Summit-Center-Dale-Highland,United States Representative District 4,,REP,Cyndi Hanson,88,6,82
-O'Brien,Union-Baker-Caledonia,United States Representative District 4,,REP,Cyndi Hanson,26,2,24
-O'Brien,Waterman-Grant-Liberty,United States Representative District 4,,REP,Cyndi Hanson,61,6,55
-O'Brien,Carroll-Floyd,United States Representative District 4,,REP,Steve King,59,13,46
-O'Brien,Franklin,United States Representative District 4,,REP,Steve King,143,10,133
-O'Brien,Hartley-Lincoln-Omega,United States Representative District 4,,REP,Steve King,78,5,73
-O'Brien,Sheldon 1st Ward,United States Representative District 4,,REP,Steve King,149,7,142
-O'Brien,Sheldon 2nd Ward,United States Representative District 4,,REP,Steve King,47,2,45
-O'Brien,Sheldon 3rd Ward,United States Representative District 4,,REP,Steve King,58,2,56
-O'Brien,Summit-Center-Dale-Highland,United States Representative District 4,,REP,Steve King,140,18,122
-O'Brien,Union-Baker-Caledonia,United States Representative District 4,,REP,Steve King,96,7,89
-O'Brien,Waterman-Grant-Liberty,United States Representative District 4,,REP,Steve King,110,5,105
-O'Brien,Carroll-Floyd,United States Representative District 4,,,Write-in,0,0,0
-O'Brien,Franklin,United States Representative District 4,,,Write-in,0,0,0
-O'Brien,Hartley-Lincoln-Omega,United States Representative District 4,,,Write-in,0,0,0
-O'Brien,Sheldon 1st Ward,United States Representative District 4,,,Write-in,0,0,0
-O'Brien,Sheldon 2nd Ward,United States Representative District 4,,,Write-in,0,0,0
-O'Brien,Sheldon 3rd Ward,United States Representative District 4,,,Write-in,0,0,0
-O'Brien,Summit-Center-Dale-Highland,United States Representative District 4,,,Write-in,0,0,0
-O'Brien,Union-Baker-Caledonia,United States Representative District 4,,,Write-in,0,0,0
-O'Brien,Waterman-Grant-Liberty,United States Representative District 4,,,Write-in,0,0,0
+O'Brien,Carroll-Floyd,U.S. House,4,REP,Cyndi Hanson,15,4,11
+O'Brien,Franklin,U.S. House,4,REP,Cyndi Hanson,32,1,31
+O'Brien,Hartley-Lincoln-Omega,U.S. House,4,REP,Cyndi Hanson,29,2,27
+O'Brien,Sheldon 1st Ward,U.S. House,4,REP,Cyndi Hanson,40,1,39
+O'Brien,Sheldon 2nd Ward,U.S. House,4,REP,Cyndi Hanson,18,0,18
+O'Brien,Sheldon 3rd Ward,U.S. House,4,REP,Cyndi Hanson,12,2,10
+O'Brien,Summit-Center-Dale-Highland,U.S. House,4,REP,Cyndi Hanson,88,6,82
+O'Brien,Union-Baker-Caledonia,U.S. House,4,REP,Cyndi Hanson,26,2,24
+O'Brien,Waterman-Grant-Liberty,U.S. House,4,REP,Cyndi Hanson,61,6,55
+O'Brien,Carroll-Floyd,U.S. House,4,REP,Steve King,59,13,46
+O'Brien,Franklin,U.S. House,4,REP,Steve King,143,10,133
+O'Brien,Hartley-Lincoln-Omega,U.S. House,4,REP,Steve King,78,5,73
+O'Brien,Sheldon 1st Ward,U.S. House,4,REP,Steve King,149,7,142
+O'Brien,Sheldon 2nd Ward,U.S. House,4,REP,Steve King,47,2,45
+O'Brien,Sheldon 3rd Ward,U.S. House,4,REP,Steve King,58,2,56
+O'Brien,Summit-Center-Dale-Highland,U.S. House,4,REP,Steve King,140,18,122
+O'Brien,Union-Baker-Caledonia,U.S. House,4,REP,Steve King,96,7,89
+O'Brien,Waterman-Grant-Liberty,U.S. House,4,REP,Steve King,110,5,105
+O'Brien,Carroll-Floyd,U.S. House,4,,Write-in,0,0,0
+O'Brien,Franklin,U.S. House,4,,Write-in,0,0,0
+O'Brien,Hartley-Lincoln-Omega,U.S. House,4,,Write-in,0,0,0
+O'Brien,Sheldon 1st Ward,U.S. House,4,,Write-in,0,0,0
+O'Brien,Sheldon 2nd Ward,U.S. House,4,,Write-in,0,0,0
+O'Brien,Sheldon 3rd Ward,U.S. House,4,,Write-in,0,0,0
+O'Brien,Summit-Center-Dale-Highland,U.S. House,4,,Write-in,0,0,0
+O'Brien,Union-Baker-Caledonia,U.S. House,4,,Write-in,0,0,0
+O'Brien,Waterman-Grant-Liberty,U.S. House,4,,Write-in,0,0,0
 O'Brien,Carroll-Floyd,Governor,,REP,Kim Reynolds,63,12,51
 O'Brien,Franklin,Governor,,REP,Kim Reynolds,160,10,150
 O'Brien,Hartley-Lincoln-Omega,Governor,,REP,Kim Reynolds,101,7,94
@@ -422,33 +422,33 @@ O'Brien,Sheldon 3rd Ward,County Attorney,,,Write-in,0,0,0
 O'Brien,Summit-Center-Dale-Highland,County Attorney,,,Write-in,0,0,0
 O'Brien,Union-Baker-Caledonia,County Attorney,,,Write-in,0,0,0
 O'Brien,Waterman-Grant-Liberty,County Attorney,,,Write-in,0,0,0
-O'Brien,Carroll-Floyd,United States Representative District 4,,DEM,Leann Jacobsen,2,0,2
-O'Brien,Franklin,United States Representative District 4,,DEM,Leann Jacobsen,4,0,4
-O'Brien,Hartley-Lincoln-Omega,United States Representative District 4,,DEM,Leann Jacobsen,11,1,10
-O'Brien,Sheldon 1st Ward,United States Representative District 4,,DEM,Leann Jacobsen,9,6,3
-O'Brien,Sheldon 2nd Ward,United States Representative District 4,,DEM,Leann Jacobsen,5,0,5
-O'Brien,Sheldon 3rd Ward,United States Representative District 4,,DEM,Leann Jacobsen,3,1,2
-O'Brien,Summit-Center-Dale-Highland,United States Representative District 4,,DEM,Leann Jacobsen,12,4,8
-O'Brien,Union-Baker-Caledonia,United States Representative District 4,,DEM,Leann Jacobsen,8,0,8
-O'Brien,Waterman-Grant-Liberty,United States Representative District 4,,DEM,Leann Jacobsen,11,2,9
-O'Brien,Carroll-Floyd,United States Representative District 4,,DEM,John Paschen,0,0,0
-O'Brien,Franklin,United States Representative District 4,,DEM,John Paschen,2,0,2
-O'Brien,Hartley-Lincoln-Omega,United States Representative District 4,,DEM,John Paschen,0,0,0
-O'Brien,Sheldon 1st Ward,United States Representative District 4,,DEM,John Paschen,0,0,0
-O'Brien,Sheldon 2nd Ward,United States Representative District 4,,DEM,John Paschen,2,0,2
-O'Brien,Sheldon 3rd Ward,United States Representative District 4,,DEM,John Paschen,0,0,0
-O'Brien,Summit-Center-Dale-Highland,United States Representative District 4,,DEM,John Paschen,2,1,1
-O'Brien,Union-Baker-Caledonia,United States Representative District 4,,DEM,John Paschen,4,0,4
-O'Brien,Waterman-Grant-Liberty,United States Representative District 4,,DEM,John Paschen,3,1,2
-O'Brien,Carroll-Floyd,United States Representative District 4,,DEM,J.D. Scholten,6,1,5
-O'Brien,Franklin,United States Representative District 4,,DEM,J.D. Scholten,4,0,4
-O'Brien,Hartley-Lincoln-Omega,United States Representative District 4,,DEM,J.D. Scholten,20,3,17
-O'Brien,Sheldon 1st Ward,United States Representative District 4,,DEM,J.D. Scholten,13,0,13
-O'Brien,Sheldon 2nd Ward,United States Representative District 4,,DEM,J.D. Scholten,19,1,18
-O'Brien,Sheldon 3rd Ward,United States Representative District 4,,DEM,J.D. Scholten,17,6,11
-O'Brien,Summit-Center-Dale-Highland,United States Representative District 4,,DEM,J.D. Scholten,24,2,22
-O'Brien,Union-Baker-Caledonia,United States Representative District 4,,DEM,J.D. Scholten,21,2,19
-O'Brien,Waterman-Grant-Liberty,United States Representative District 4,,DEM,J.D. Scholten,16,2,14
+O'Brien,Carroll-Floyd,U.S. House,4,DEM,Leann Jacobsen,2,0,2
+O'Brien,Franklin,U.S. House,4,DEM,Leann Jacobsen,4,0,4
+O'Brien,Hartley-Lincoln-Omega,U.S. House,4,DEM,Leann Jacobsen,11,1,10
+O'Brien,Sheldon 1st Ward,U.S. House,4,DEM,Leann Jacobsen,9,6,3
+O'Brien,Sheldon 2nd Ward,U.S. House,4,DEM,Leann Jacobsen,5,0,5
+O'Brien,Sheldon 3rd Ward,U.S. House,4,DEM,Leann Jacobsen,3,1,2
+O'Brien,Summit-Center-Dale-Highland,U.S. House,4,DEM,Leann Jacobsen,12,4,8
+O'Brien,Union-Baker-Caledonia,U.S. House,4,DEM,Leann Jacobsen,8,0,8
+O'Brien,Waterman-Grant-Liberty,U.S. House,4,DEM,Leann Jacobsen,11,2,9
+O'Brien,Carroll-Floyd,U.S. House,4,DEM,John Paschen,0,0,0
+O'Brien,Franklin,U.S. House,4,DEM,John Paschen,2,0,2
+O'Brien,Hartley-Lincoln-Omega,U.S. House,4,DEM,John Paschen,0,0,0
+O'Brien,Sheldon 1st Ward,U.S. House,4,DEM,John Paschen,0,0,0
+O'Brien,Sheldon 2nd Ward,U.S. House,4,DEM,John Paschen,2,0,2
+O'Brien,Sheldon 3rd Ward,U.S. House,4,DEM,John Paschen,0,0,0
+O'Brien,Summit-Center-Dale-Highland,U.S. House,4,DEM,John Paschen,2,1,1
+O'Brien,Union-Baker-Caledonia,U.S. House,4,DEM,John Paschen,4,0,4
+O'Brien,Waterman-Grant-Liberty,U.S. House,4,DEM,John Paschen,3,1,2
+O'Brien,Carroll-Floyd,U.S. House,4,DEM,J.D. Scholten,6,1,5
+O'Brien,Franklin,U.S. House,4,DEM,J.D. Scholten,4,0,4
+O'Brien,Hartley-Lincoln-Omega,U.S. House,4,DEM,J.D. Scholten,20,3,17
+O'Brien,Sheldon 1st Ward,U.S. House,4,DEM,J.D. Scholten,13,0,13
+O'Brien,Sheldon 2nd Ward,U.S. House,4,DEM,J.D. Scholten,19,1,18
+O'Brien,Sheldon 3rd Ward,U.S. House,4,DEM,J.D. Scholten,17,6,11
+O'Brien,Summit-Center-Dale-Highland,U.S. House,4,DEM,J.D. Scholten,24,2,22
+O'Brien,Union-Baker-Caledonia,U.S. House,4,DEM,J.D. Scholten,21,2,19
+O'Brien,Waterman-Grant-Liberty,U.S. House,4,DEM,J.D. Scholten,16,2,14
 O'Brien,Carroll-Floyd,Governor,,DEM,Nate Boulton,0,0,0
 O'Brien,Franklin,Governor,,DEM,Nate Boulton,1,0,1
 O'Brien,Hartley-Lincoln-Omega,Governor,,DEM,Nate Boulton,0,0,0
@@ -764,15 +764,15 @@ O'Brien,Sheldon 3rd Ward,County Attorney,,DEM,John Baum,0,0,0
 O'Brien,Summit-Center-Dale-Highland,County Attorney,,DEM,John Baum,1,0,1
 O'Brien,Union-Baker-Caledonia,County Attorney,,DEM,John Baum,0,0,0
 O'Brien,Waterman-Grant-Liberty,County Attorney,,DEM,John Baum,0,0,0
-O'Brien,Carroll-Floyd,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-O'Brien,Franklin,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-O'Brien,Hartley-Lincoln-Omega,United States Representative District 4,,LIB,Charles Aldrich,2,0,2
-O'Brien,Sheldon 1st Ward,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-O'Brien,Sheldon 2nd Ward,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
-O'Brien,Sheldon 3rd Ward,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-O'Brien,Summit-Center-Dale-Highland,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-O'Brien,Union-Baker-Caledonia,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-O'Brien,Waterman-Grant-Liberty,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
+O'Brien,Carroll-Floyd,U.S. House,4,LIB,Charles Aldrich,0,0,0
+O'Brien,Franklin,U.S. House,4,LIB,Charles Aldrich,0,0,0
+O'Brien,Hartley-Lincoln-Omega,U.S. House,4,LIB,Charles Aldrich,2,0,2
+O'Brien,Sheldon 1st Ward,U.S. House,4,LIB,Charles Aldrich,0,0,0
+O'Brien,Sheldon 2nd Ward,U.S. House,4,LIB,Charles Aldrich,1,0,1
+O'Brien,Sheldon 3rd Ward,U.S. House,4,LIB,Charles Aldrich,0,0,0
+O'Brien,Summit-Center-Dale-Highland,U.S. House,4,LIB,Charles Aldrich,0,0,0
+O'Brien,Union-Baker-Caledonia,U.S. House,4,LIB,Charles Aldrich,0,0,0
+O'Brien,Waterman-Grant-Liberty,U.S. House,4,LIB,Charles Aldrich,1,0,1
 O'Brien,Carroll-Floyd,Governor,,LIB,Marco Battaglia,0,0,0
 O'Brien,Franklin,Governor,,LIB,Marco Battaglia,0,0,0
 O'Brien,Hartley-Lincoln-Omega,Governor,,LIB,Marco Battaglia,0,0,0

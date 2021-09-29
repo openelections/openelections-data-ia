@@ -1,34 +1,34 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Washington,Ainsworth Precinct,United States Representative District 2,,REP,Christopher Peters,24,2,22
-Washington,Brighton/Marion/Crawford Precinct,United States Representative District 2,,REP,Christopher Peters,92,20,72
-Washington,Kalona Precinct,United States Representative District 2,,REP,Christopher Peters,38,3,35
-Washington,Riverside Precinct,United States Representative District 2,,REP,Christopher Peters,18,0,18
-Washington,Ward One Precinct,United States Representative District 2,,REP,Christopher Peters,37,5,32
-Washington,Ward Two Precinct,United States Representative District 2,,REP,Christopher Peters,39,4,35
-Washington,Ward Three Precinct,United States Representative District 2,,REP,Christopher Peters,70,8,62
-Washington,Ward Four Precinct,United States Representative District 2,,REP,Christopher Peters,55,16,39
-Washington,Wellman Precinct,United States Representative District 2,,REP,Christopher Peters,55,1,54
-Washington,West Chester Precinct,United States Representative District 2,,REP,Christopher Peters,31,5,26
-Washington,Ainsworth Precinct,United States Representative District 2,,REP,Ginny Caligiuri,5,0,5
-Washington,Brighton/Marion/Crawford Precinct,United States Representative District 2,,REP,Ginny Caligiuri,14,10,4
-Washington,Kalona Precinct,United States Representative District 2,,REP,Ginny Caligiuri,59,4,55
-Washington,Riverside Precinct,United States Representative District 2,,REP,Ginny Caligiuri,5,0,5
-Washington,Ward One Precinct,United States Representative District 2,,REP,Ginny Caligiuri,0,0,0
-Washington,Ward Two Precinct,United States Representative District 2,,REP,Ginny Caligiuri,2,2,0
-Washington,Ward Three Precinct,United States Representative District 2,,REP,Ginny Caligiuri,5,0,5
-Washington,Ward Four Precinct,United States Representative District 2,,REP,Ginny Caligiuri,4,1,3
-Washington,Wellman Precinct,United States Representative District 2,,REP,Ginny Caligiuri,32,0,32
-Washington,West Chester Precinct,United States Representative District 2,,REP,Ginny Caligiuri,6,0,6
-Washington,Ainsworth Precinct,United States Representative District 2,,,Write-in,0,0,0
-Washington,Brighton/Marion/Crawford Precinct,United States Representative District 2,,,Write-in,0,0,0
-Washington,Kalona Precinct,United States Representative District 2,,,Write-in,0,0,0
-Washington,Riverside Precinct,United States Representative District 2,,,Write-in,0,0,0
-Washington,Ward One Precinct,United States Representative District 2,,,Write-in,0,0,0
-Washington,Ward Two Precinct,United States Representative District 2,,,Write-in,0,0,0
-Washington,Ward Three Precinct,United States Representative District 2,,,Write-in,0,0,0
-Washington,Ward Four Precinct,United States Representative District 2,,,Write-in,0,0,0
-Washington,Wellman Precinct,United States Representative District 2,,,Write-in,0,0,0
-Washington,West Chester Precinct,United States Representative District 2,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,U.S. House,2,REP,Christopher Peters,24,2,22
+Washington,Brighton/Marion/Crawford Precinct,U.S. House,2,REP,Christopher Peters,92,20,72
+Washington,Kalona Precinct,U.S. House,2,REP,Christopher Peters,38,3,35
+Washington,Riverside Precinct,U.S. House,2,REP,Christopher Peters,18,0,18
+Washington,Ward One Precinct,U.S. House,2,REP,Christopher Peters,37,5,32
+Washington,Ward Two Precinct,U.S. House,2,REP,Christopher Peters,39,4,35
+Washington,Ward Three Precinct,U.S. House,2,REP,Christopher Peters,70,8,62
+Washington,Ward Four Precinct,U.S. House,2,REP,Christopher Peters,55,16,39
+Washington,Wellman Precinct,U.S. House,2,REP,Christopher Peters,55,1,54
+Washington,West Chester Precinct,U.S. House,2,REP,Christopher Peters,31,5,26
+Washington,Ainsworth Precinct,U.S. House,2,REP,Ginny Caligiuri,5,0,5
+Washington,Brighton/Marion/Crawford Precinct,U.S. House,2,REP,Ginny Caligiuri,14,10,4
+Washington,Kalona Precinct,U.S. House,2,REP,Ginny Caligiuri,59,4,55
+Washington,Riverside Precinct,U.S. House,2,REP,Ginny Caligiuri,5,0,5
+Washington,Ward One Precinct,U.S. House,2,REP,Ginny Caligiuri,0,0,0
+Washington,Ward Two Precinct,U.S. House,2,REP,Ginny Caligiuri,2,2,0
+Washington,Ward Three Precinct,U.S. House,2,REP,Ginny Caligiuri,5,0,5
+Washington,Ward Four Precinct,U.S. House,2,REP,Ginny Caligiuri,4,1,3
+Washington,Wellman Precinct,U.S. House,2,REP,Ginny Caligiuri,32,0,32
+Washington,West Chester Precinct,U.S. House,2,REP,Ginny Caligiuri,6,0,6
+Washington,Ainsworth Precinct,U.S. House,2,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford Precinct,U.S. House,2,,Write-in,0,0,0
+Washington,Kalona Precinct,U.S. House,2,,Write-in,0,0,0
+Washington,Riverside Precinct,U.S. House,2,,Write-in,0,0,0
+Washington,Ward One Precinct,U.S. House,2,,Write-in,0,0,0
+Washington,Ward Two Precinct,U.S. House,2,,Write-in,0,0,0
+Washington,Ward Three Precinct,U.S. House,2,,Write-in,0,0,0
+Washington,Ward Four Precinct,U.S. House,2,,Write-in,0,0,0
+Washington,Wellman Precinct,U.S. House,2,,Write-in,0,0,0
+Washington,West Chester Precinct,U.S. House,2,,Write-in,0,0,0
 Washington,Ainsworth Precinct,Governor,,REP,Kim Reynolds,31,2,29
 Washington,Brighton/Marion/Crawford Precinct,Governor,,REP,Kim Reynolds,130,38,92
 Washington,Kalona Precinct,Governor,,REP,Kim Reynolds,92,9,83
@@ -528,16 +528,16 @@ Washington,Ward Three Precinct,County Attorney,,,Write-in,0,0,0
 Washington,Ward Four Precinct,County Attorney,,,Write-in,0,0,0
 Washington,Wellman Precinct,County Attorney,,,Write-in,0,0,0
 Washington,West Chester Precinct,County Attorney,,,Write-in,0,0,0
-Washington,Ainsworth Precinct,United States Representative District 2,,DEM,Dave Loebsack,55,10,45
-Washington,Brighton/Marion/Crawford Precinct,United States Representative District 2,,DEM,Dave Loebsack,53,10,43
-Washington,Kalona Precinct,United States Representative District 2,,DEM,Dave Loebsack,109,19,90
-Washington,Riverside Precinct,United States Representative District 2,,DEM,Dave Loebsack,88,10,78
-Washington,Ward One Precinct,United States Representative District 2,,DEM,Dave Loebsack,77,12,65
-Washington,Ward Two Precinct,United States Representative District 2,,DEM,Dave Loebsack,57,12,45
-Washington,Ward Three Precinct,United States Representative District 2,,DEM,Dave Loebsack,92,22,70
-Washington,Ward Four Precinct,United States Representative District 2,,DEM,Dave Loebsack,95,36,59
-Washington,Wellman Precinct,United States Representative District 2,,DEM,Dave Loebsack,107,11,96
-Washington,West Chester Precinct,United States Representative District 2,,DEM,Dave Loebsack,33,5,28
+Washington,Ainsworth Precinct,U.S. House,2,DEM,Dave Loebsack,55,10,45
+Washington,Brighton/Marion/Crawford Precinct,U.S. House,2,DEM,Dave Loebsack,53,10,43
+Washington,Kalona Precinct,U.S. House,2,DEM,Dave Loebsack,109,19,90
+Washington,Riverside Precinct,U.S. House,2,DEM,Dave Loebsack,88,10,78
+Washington,Ward One Precinct,U.S. House,2,DEM,Dave Loebsack,77,12,65
+Washington,Ward Two Precinct,U.S. House,2,DEM,Dave Loebsack,57,12,45
+Washington,Ward Three Precinct,U.S. House,2,DEM,Dave Loebsack,92,22,70
+Washington,Ward Four Precinct,U.S. House,2,DEM,Dave Loebsack,95,36,59
+Washington,Wellman Precinct,U.S. House,2,DEM,Dave Loebsack,107,11,96
+Washington,West Chester Precinct,U.S. House,2,DEM,Dave Loebsack,33,5,28
 Washington,Ainsworth Precinct,Governor,,DEM,Nate Boulton,3,2,1
 Washington,Brighton/Marion/Crawford Precinct,Governor,,DEM,Nate Boulton,2,0,2
 Washington,Kalona Precinct,Governor,,DEM,Nate Boulton,5,4,1

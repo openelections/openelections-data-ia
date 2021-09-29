@@ -1,18 +1,18 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Ringgold,ATHENS,United States Representative District 3,,REP,David Young,38,0,38
-Ringgold,CLINTON,United States Representative District 3,,REP,David Young,19,0,19
-Ringgold,MOUNT AYR 1,United States Representative District 3,,REP,David Young,95,0,95
-Ringgold,MOUNT AYR 2,United States Representative District 3,,REP,David Young,100,0,100
-Ringgold,TINGLEY,United States Representative District 3,,REP,David Young,36,0,36
-Ringgold,UNION,United States Representative District 3,,REP,David Young,43,0,43
-Ringgold,WASHINGTON,United States Representative District 3,,REP,David Young,65,0,65
-Ringgold,ATHENS,United States Representative District 3,,,Write-in,0,0,0
-Ringgold,CLINTON,United States Representative District 3,,,Write-in,0,0,0
-Ringgold,MOUNT AYR 1,United States Representative District 3,,,Write-in,0,0,0
-Ringgold,MOUNT AYR 2,United States Representative District 3,,,Write-in,0,0,0
-Ringgold,TINGLEY,United States Representative District 3,,,Write-in,0,0,0
-Ringgold,UNION,United States Representative District 3,,,Write-in,0,0,0
-Ringgold,WASHINGTON,United States Representative District 3,,,Write-in,0,0,0
+Ringgold,ATHENS,U.S. House,3,REP,David Young,38,0,38
+Ringgold,CLINTON,U.S. House,3,REP,David Young,19,0,19
+Ringgold,MOUNT AYR 1,U.S. House,3,REP,David Young,95,0,95
+Ringgold,MOUNT AYR 2,U.S. House,3,REP,David Young,100,0,100
+Ringgold,TINGLEY,U.S. House,3,REP,David Young,36,0,36
+Ringgold,UNION,U.S. House,3,REP,David Young,43,0,43
+Ringgold,WASHINGTON,U.S. House,3,REP,David Young,65,0,65
+Ringgold,ATHENS,U.S. House,3,,Write-in,0,0,0
+Ringgold,CLINTON,U.S. House,3,,Write-in,0,0,0
+Ringgold,MOUNT AYR 1,U.S. House,3,,Write-in,0,0,0
+Ringgold,MOUNT AYR 2,U.S. House,3,,Write-in,0,0,0
+Ringgold,TINGLEY,U.S. House,3,,Write-in,0,0,0
+Ringgold,UNION,U.S. House,3,,Write-in,0,0,0
+Ringgold,WASHINGTON,U.S. House,3,,Write-in,0,0,0
 Ringgold,ATHENS,Governor,,REP,Kim Reynolds,39,0,39
 Ringgold,CLINTON,Governor,,REP,Kim Reynolds,19,0,19
 Ringgold,MOUNT AYR 1,Governor,,REP,Kim Reynolds,100,0,100
@@ -181,27 +181,27 @@ Ringgold,MOUNT AYR 2,County Attorney,,,Write-in,0,0,0
 Ringgold,TINGLEY,County Attorney,,,Write-in,0,0,0
 Ringgold,UNION,County Attorney,,,Write-in,0,0,0
 Ringgold,WASHINGTON,County Attorney,,,Write-in,0,0,0
-Ringgold,ATHENS,United States Representative District 3,,DEM,Cindy Axne,23,0,23
-Ringgold,CLINTON,United States Representative District 3,,DEM,Cindy Axne,15,0,15
-Ringgold,MOUNT AYR 1,United States Representative District 3,,DEM,Cindy Axne,39,0,39
-Ringgold,MOUNT AYR 2,United States Representative District 3,,DEM,Cindy Axne,34,0,34
-Ringgold,TINGLEY,United States Representative District 3,,DEM,Cindy Axne,3,0,3
-Ringgold,UNION,United States Representative District 3,,DEM,Cindy Axne,16,0,16
-Ringgold,WASHINGTON,United States Representative District 3,,DEM,Cindy Axne,17,0,17
-Ringgold,ATHENS,United States Representative District 3,,DEM,Pete D'Alessandro,5,0,5
-Ringgold,CLINTON,United States Representative District 3,,DEM,Pete D'Alessandro,4,0,4
-Ringgold,MOUNT AYR 1,United States Representative District 3,,DEM,Pete D'Alessandro,4,0,4
-Ringgold,MOUNT AYR 2,United States Representative District 3,,DEM,Pete D'Alessandro,9,0,9
-Ringgold,TINGLEY,United States Representative District 3,,DEM,Pete D'Alessandro,4,0,4
-Ringgold,UNION,United States Representative District 3,,DEM,Pete D'Alessandro,5,0,5
-Ringgold,WASHINGTON,United States Representative District 3,,DEM,Pete D'Alessandro,3,0,3
-Ringgold,ATHENS,United States Representative District 3,,DEM,Eddie J. Mauro,10,0,10
-Ringgold,CLINTON,United States Representative District 3,,DEM,Eddie J. Mauro,16,0,16
-Ringgold,MOUNT AYR 1,United States Representative District 3,,DEM,Eddie J. Mauro,55,0,55
-Ringgold,MOUNT AYR 2,United States Representative District 3,,DEM,Eddie J. Mauro,27,0,27
-Ringgold,TINGLEY,United States Representative District 3,,DEM,Eddie J. Mauro,7,0,7
-Ringgold,UNION,United States Representative District 3,,DEM,Eddie J. Mauro,14,0,14
-Ringgold,WASHINGTON,United States Representative District 3,,DEM,Eddie J. Mauro,24,0,24
+Ringgold,ATHENS,U.S. House,3,DEM,Cindy Axne,23,0,23
+Ringgold,CLINTON,U.S. House,3,DEM,Cindy Axne,15,0,15
+Ringgold,MOUNT AYR 1,U.S. House,3,DEM,Cindy Axne,39,0,39
+Ringgold,MOUNT AYR 2,U.S. House,3,DEM,Cindy Axne,34,0,34
+Ringgold,TINGLEY,U.S. House,3,DEM,Cindy Axne,3,0,3
+Ringgold,UNION,U.S. House,3,DEM,Cindy Axne,16,0,16
+Ringgold,WASHINGTON,U.S. House,3,DEM,Cindy Axne,17,0,17
+Ringgold,ATHENS,U.S. House,3,DEM,Pete D'Alessandro,5,0,5
+Ringgold,CLINTON,U.S. House,3,DEM,Pete D'Alessandro,4,0,4
+Ringgold,MOUNT AYR 1,U.S. House,3,DEM,Pete D'Alessandro,4,0,4
+Ringgold,MOUNT AYR 2,U.S. House,3,DEM,Pete D'Alessandro,9,0,9
+Ringgold,TINGLEY,U.S. House,3,DEM,Pete D'Alessandro,4,0,4
+Ringgold,UNION,U.S. House,3,DEM,Pete D'Alessandro,5,0,5
+Ringgold,WASHINGTON,U.S. House,3,DEM,Pete D'Alessandro,3,0,3
+Ringgold,ATHENS,U.S. House,3,DEM,Eddie J. Mauro,10,0,10
+Ringgold,CLINTON,U.S. House,3,DEM,Eddie J. Mauro,16,0,16
+Ringgold,MOUNT AYR 1,U.S. House,3,DEM,Eddie J. Mauro,55,0,55
+Ringgold,MOUNT AYR 2,U.S. House,3,DEM,Eddie J. Mauro,27,0,27
+Ringgold,TINGLEY,U.S. House,3,DEM,Eddie J. Mauro,7,0,7
+Ringgold,UNION,U.S. House,3,DEM,Eddie J. Mauro,14,0,14
+Ringgold,WASHINGTON,U.S. House,3,DEM,Eddie J. Mauro,24,0,24
 Ringgold,ATHENS,Governor,,DEM,Nate Boulton,1,0,1
 Ringgold,CLINTON,Governor,,DEM,Nate Boulton,1,0,1
 Ringgold,MOUNT AYR 1,Governor,,DEM,Nate Boulton,7,0,7
@@ -307,13 +307,13 @@ Ringgold,MOUNT AYR 2,County Recorder,,DEM,Kisha Martin,65,0,65
 Ringgold,TINGLEY,County Recorder,,DEM,Kisha Martin,14,0,14
 Ringgold,UNION,County Recorder,,DEM,Kisha Martin,31,0,31
 Ringgold,WASHINGTON,County Recorder,,DEM,Kisha Martin,41,0,41
-Ringgold,ATHENS,United States Representative District 3,,LIB,Bryan Jack Holder,1,0,1
-Ringgold,CLINTON,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Ringgold,MOUNT AYR 1,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Ringgold,MOUNT AYR 2,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Ringgold,TINGLEY,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Ringgold,UNION,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Ringgold,WASHINGTON,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
+Ringgold,ATHENS,U.S. House,3,LIB,Bryan Jack Holder,1,0,1
+Ringgold,CLINTON,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Ringgold,MOUNT AYR 1,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Ringgold,MOUNT AYR 2,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Ringgold,TINGLEY,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Ringgold,UNION,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Ringgold,WASHINGTON,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
 Ringgold,ATHENS,Governor,,LIB,Marco Battaglia,1,0,1
 Ringgold,CLINTON,Governor,,LIB,Marco Battaglia,0,0,0
 Ringgold,MOUNT AYR 1,Governor,,LIB,Marco Battaglia,0,0,0

@@ -1,20 +1,20 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Page,Clarinda Ward 1,United States Representative District 3,,REP,David Young,56,3,53
-Page,Clarinda Ward 2,United States Representative District 3,,REP,David Young,94,12,82
-Page,Essex City Hall,United States Representative District 3,,REP,David Young,50,2,48
-Page,Shenandoah Fire Station,United States Representative District 3,,REP,David Young,42,5,37
-Page,Page County Courthouse,United States Representative District 3,,REP,David Young,106,13,93
-Page,Shenandoah Ward 1,United States Representative District 3,,REP,David Young,16,0,16
-Page,Shenandoah Ward 2,United States Representative District 3,,REP,David Young,61,2,59
-Page,Shenandoah Ward 3,United States Representative District 3,,REP,David Young,78,5,73
-Page,Clarinda Ward 1,United States Representative District 3,,,Write-in,0,0,0
-Page,Clarinda Ward 2,United States Representative District 3,,,Write-in,0,0,0
-Page,Essex City Hall,United States Representative District 3,,,Write-in,0,0,0
-Page,Shenandoah Fire Station,United States Representative District 3,,,Write-in,0,0,0
-Page,Page County Courthouse,United States Representative District 3,,,Write-in,0,0,0
-Page,Shenandoah Ward 1,United States Representative District 3,,,Write-in,0,0,0
-Page,Shenandoah Ward 2,United States Representative District 3,,,Write-in,0,0,0
-Page,Shenandoah Ward 3,United States Representative District 3,,,Write-in,0,0,0
+Page,Clarinda Ward 1,U.S. House,3,REP,David Young,56,3,53
+Page,Clarinda Ward 2,U.S. House,3,REP,David Young,94,12,82
+Page,Essex City Hall,U.S. House,3,REP,David Young,50,2,48
+Page,Shenandoah Fire Station,U.S. House,3,REP,David Young,42,5,37
+Page,Page County Courthouse,U.S. House,3,REP,David Young,106,13,93
+Page,Shenandoah Ward 1,U.S. House,3,REP,David Young,16,0,16
+Page,Shenandoah Ward 2,U.S. House,3,REP,David Young,61,2,59
+Page,Shenandoah Ward 3,U.S. House,3,REP,David Young,78,5,73
+Page,Clarinda Ward 1,U.S. House,3,,Write-in,0,0,0
+Page,Clarinda Ward 2,U.S. House,3,,Write-in,0,0,0
+Page,Essex City Hall,U.S. House,3,,Write-in,0,0,0
+Page,Shenandoah Fire Station,U.S. House,3,,Write-in,0,0,0
+Page,Page County Courthouse,U.S. House,3,,Write-in,0,0,0
+Page,Shenandoah Ward 1,U.S. House,3,,Write-in,0,0,0
+Page,Shenandoah Ward 2,U.S. House,3,,Write-in,0,0,0
+Page,Shenandoah Ward 3,U.S. House,3,,Write-in,0,0,0
 Page,Clarinda Ward 1,Governor,,REP,Kim Reynolds,54,3,51
 Page,Clarinda Ward 2,Governor,,REP,Kim Reynolds,92,13,79
 Page,Essex City Hall,Governor,,REP,Kim Reynolds,50,2,48
@@ -391,30 +391,30 @@ Page,Page County Courthouse,County Attorney,,,Write-in,0,0,0
 Page,Shenandoah Ward 1,County Attorney,,,Write-in,0,0,0
 Page,Shenandoah Ward 2,County Attorney,,,Write-in,0,0,0
 Page,Shenandoah Ward 3,County Attorney,,,Write-in,0,0,0
-Page,Clarinda Ward 1,United States Representative District 3,,DEM,Cindy Axne,22,9,13
-Page,Clarinda Ward 2,United States Representative District 3,,DEM,Cindy Axne,48,8,40
-Page,Essex City Hall,United States Representative District 3,,DEM,Cindy Axne,21,0,21
-Page,Shenandoah Fire Station,United States Representative District 3,,DEM,Cindy Axne,27,7,20
-Page,Page County Courthouse,United States Representative District 3,,DEM,Cindy Axne,23,7,16
-Page,Shenandoah Ward 1,United States Representative District 3,,DEM,Cindy Axne,10,2,8
-Page,Shenandoah Ward 2,United States Representative District 3,,DEM,Cindy Axne,24,2,22
-Page,Shenandoah Ward 3,United States Representative District 3,,DEM,Cindy Axne,37,3,34
-Page,Clarinda Ward 1,United States Representative District 3,,DEM,Pete D'Alessandro,6,0,6
-Page,Clarinda Ward 2,United States Representative District 3,,DEM,Pete D'Alessandro,12,2,10
-Page,Essex City Hall,United States Representative District 3,,DEM,Pete D'Alessandro,4,0,4
-Page,Shenandoah Fire Station,United States Representative District 3,,DEM,Pete D'Alessandro,3,0,3
-Page,Page County Courthouse,United States Representative District 3,,DEM,Pete D'Alessandro,3,0,3
-Page,Shenandoah Ward 1,United States Representative District 3,,DEM,Pete D'Alessandro,5,0,5
-Page,Shenandoah Ward 2,United States Representative District 3,,DEM,Pete D'Alessandro,3,0,3
-Page,Shenandoah Ward 3,United States Representative District 3,,DEM,Pete D'Alessandro,10,0,10
-Page,Clarinda Ward 1,United States Representative District 3,,DEM,Eddie J. Mauro,4,0,4
-Page,Clarinda Ward 2,United States Representative District 3,,DEM,Eddie J. Mauro,13,1,12
-Page,Essex City Hall,United States Representative District 3,,DEM,Eddie J. Mauro,8,3,5
-Page,Shenandoah Fire Station,United States Representative District 3,,DEM,Eddie J. Mauro,14,1,13
-Page,Page County Courthouse,United States Representative District 3,,DEM,Eddie J. Mauro,7,1,6
-Page,Shenandoah Ward 1,United States Representative District 3,,DEM,Eddie J. Mauro,10,0,10
-Page,Shenandoah Ward 2,United States Representative District 3,,DEM,Eddie J. Mauro,11,1,10
-Page,Shenandoah Ward 3,United States Representative District 3,,DEM,Eddie J. Mauro,15,0,15
+Page,Clarinda Ward 1,U.S. House,3,DEM,Cindy Axne,22,9,13
+Page,Clarinda Ward 2,U.S. House,3,DEM,Cindy Axne,48,8,40
+Page,Essex City Hall,U.S. House,3,DEM,Cindy Axne,21,0,21
+Page,Shenandoah Fire Station,U.S. House,3,DEM,Cindy Axne,27,7,20
+Page,Page County Courthouse,U.S. House,3,DEM,Cindy Axne,23,7,16
+Page,Shenandoah Ward 1,U.S. House,3,DEM,Cindy Axne,10,2,8
+Page,Shenandoah Ward 2,U.S. House,3,DEM,Cindy Axne,24,2,22
+Page,Shenandoah Ward 3,U.S. House,3,DEM,Cindy Axne,37,3,34
+Page,Clarinda Ward 1,U.S. House,3,DEM,Pete D'Alessandro,6,0,6
+Page,Clarinda Ward 2,U.S. House,3,DEM,Pete D'Alessandro,12,2,10
+Page,Essex City Hall,U.S. House,3,DEM,Pete D'Alessandro,4,0,4
+Page,Shenandoah Fire Station,U.S. House,3,DEM,Pete D'Alessandro,3,0,3
+Page,Page County Courthouse,U.S. House,3,DEM,Pete D'Alessandro,3,0,3
+Page,Shenandoah Ward 1,U.S. House,3,DEM,Pete D'Alessandro,5,0,5
+Page,Shenandoah Ward 2,U.S. House,3,DEM,Pete D'Alessandro,3,0,3
+Page,Shenandoah Ward 3,U.S. House,3,DEM,Pete D'Alessandro,10,0,10
+Page,Clarinda Ward 1,U.S. House,3,DEM,Eddie J. Mauro,4,0,4
+Page,Clarinda Ward 2,U.S. House,3,DEM,Eddie J. Mauro,13,1,12
+Page,Essex City Hall,U.S. House,3,DEM,Eddie J. Mauro,8,3,5
+Page,Shenandoah Fire Station,U.S. House,3,DEM,Eddie J. Mauro,14,1,13
+Page,Page County Courthouse,U.S. House,3,DEM,Eddie J. Mauro,7,1,6
+Page,Shenandoah Ward 1,U.S. House,3,DEM,Eddie J. Mauro,10,0,10
+Page,Shenandoah Ward 2,U.S. House,3,DEM,Eddie J. Mauro,11,1,10
+Page,Shenandoah Ward 3,U.S. House,3,DEM,Eddie J. Mauro,15,0,15
 Page,Clarinda Ward 1,Governor,,DEM,Nate Boulton,1,1,0
 Page,Clarinda Ward 2,Governor,,DEM,Nate Boulton,3,1,2
 Page,Essex City Hall,Governor,,DEM,Nate Boulton,1,0,1
@@ -711,14 +711,14 @@ Page,Page County Courthouse,County Attorney,,DEM,Gil Gee,0,0,0
 Page,Shenandoah Ward 1,County Attorney,,DEM,Gil Gee,0,0,0
 Page,Shenandoah Ward 2,County Attorney,,DEM,Gil Gee,1,0,1
 Page,Shenandoah Ward 3,County Attorney,,DEM,Gil Gee,0,0,0
-Page,Clarinda Ward 1,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Page,Clarinda Ward 2,United States Representative District 3,,LIB,Bryan Jack Holder,2,1,1
-Page,Essex City Hall,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Page,Shenandoah Fire Station,United States Representative District 3,,LIB,Bryan Jack Holder,1,0,1
-Page,Page County Courthouse,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Page,Shenandoah Ward 1,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Page,Shenandoah Ward 2,United States Representative District 3,,LIB,Bryan Jack Holder,2,0,2
-Page,Shenandoah Ward 3,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
+Page,Clarinda Ward 1,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Page,Clarinda Ward 2,U.S. House,3,LIB,Bryan Jack Holder,2,1,1
+Page,Essex City Hall,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Page,Shenandoah Fire Station,U.S. House,3,LIB,Bryan Jack Holder,1,0,1
+Page,Page County Courthouse,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Page,Shenandoah Ward 1,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Page,Shenandoah Ward 2,U.S. House,3,LIB,Bryan Jack Holder,2,0,2
+Page,Shenandoah Ward 3,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
 Page,Clarinda Ward 1,Governor,,LIB,Marco Battaglia,0,0,0
 Page,Clarinda Ward 2,Governor,,LIB,Marco Battaglia,1,1,0
 Page,Essex City Hall,Governor,,LIB,Marco Battaglia,0,0,0

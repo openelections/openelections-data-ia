@@ -1,25 +1,25 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Clarke,MIDDLE PRECINCT,United States Representative District 2,,REP,Christopher Peters,74,12,62
-Clarke,MURRAY PRECINCT,United States Representative District 2,,REP,Christopher Peters,113,3,110
-Clarke,NORTH EAST PRECINCT,United States Representative District 2,,REP,Christopher Peters,42,2,40
-Clarke,OSCEOLA 1ST WARD PRECINCT,United States Representative District 2,,REP,Christopher Peters,33,4,29
-Clarke,OSCEOLA 2ND WARD PRECINCT,United States Representative District 2,,REP,Christopher Peters,28,6,22
-Clarke,OSCEOLA 3RD WARD PRECINCT,United States Representative District 2,,REP,Christopher Peters,49,6,43
-Clarke,WOODBURN PRECINCT,United States Representative District 2,,REP,Christopher Peters,29,2,27
-Clarke,MIDDLE PRECINCT,United States Representative District 2,,REP,Ginny Caligiuri,31,12,19
-Clarke,MURRAY PRECINCT,United States Representative District 2,,REP,Ginny Caligiuri,16,1,15
-Clarke,NORTH EAST PRECINCT,United States Representative District 2,,REP,Ginny Caligiuri,31,6,25
-Clarke,OSCEOLA 1ST WARD PRECINCT,United States Representative District 2,,REP,Ginny Caligiuri,16,0,16
-Clarke,OSCEOLA 2ND WARD PRECINCT,United States Representative District 2,,REP,Ginny Caligiuri,15,1,14
-Clarke,OSCEOLA 3RD WARD PRECINCT,United States Representative District 2,,REP,Ginny Caligiuri,32,12,20
-Clarke,WOODBURN PRECINCT,United States Representative District 2,,REP,Ginny Caligiuri,2,0,2
-Clarke,MIDDLE PRECINCT,United States Representative District 2,,,Write-in,0,0,0
-Clarke,MURRAY PRECINCT,United States Representative District 2,,,Write-in,0,0,0
-Clarke,NORTH EAST PRECINCT,United States Representative District 2,,,Write-in,0,0,0
-Clarke,OSCEOLA 1ST WARD PRECINCT,United States Representative District 2,,,Write-in,0,0,0
-Clarke,OSCEOLA 2ND WARD PRECINCT,United States Representative District 2,,,Write-in,0,0,0
-Clarke,OSCEOLA 3RD WARD PRECINCT,United States Representative District 2,,,Write-in,0,0,0
-Clarke,WOODBURN PRECINCT,United States Representative District 2,,,Write-in,0,0,0
+Clarke,MIDDLE PRECINCT,U.S. House,2,REP,Christopher Peters,74,12,62
+Clarke,MURRAY PRECINCT,U.S. House,2,REP,Christopher Peters,113,3,110
+Clarke,NORTH EAST PRECINCT,U.S. House,2,REP,Christopher Peters,42,2,40
+Clarke,OSCEOLA 1ST WARD PRECINCT,U.S. House,2,REP,Christopher Peters,33,4,29
+Clarke,OSCEOLA 2ND WARD PRECINCT,U.S. House,2,REP,Christopher Peters,28,6,22
+Clarke,OSCEOLA 3RD WARD PRECINCT,U.S. House,2,REP,Christopher Peters,49,6,43
+Clarke,WOODBURN PRECINCT,U.S. House,2,REP,Christopher Peters,29,2,27
+Clarke,MIDDLE PRECINCT,U.S. House,2,REP,Ginny Caligiuri,31,12,19
+Clarke,MURRAY PRECINCT,U.S. House,2,REP,Ginny Caligiuri,16,1,15
+Clarke,NORTH EAST PRECINCT,U.S. House,2,REP,Ginny Caligiuri,31,6,25
+Clarke,OSCEOLA 1ST WARD PRECINCT,U.S. House,2,REP,Ginny Caligiuri,16,0,16
+Clarke,OSCEOLA 2ND WARD PRECINCT,U.S. House,2,REP,Ginny Caligiuri,15,1,14
+Clarke,OSCEOLA 3RD WARD PRECINCT,U.S. House,2,REP,Ginny Caligiuri,32,12,20
+Clarke,WOODBURN PRECINCT,U.S. House,2,REP,Ginny Caligiuri,2,0,2
+Clarke,MIDDLE PRECINCT,U.S. House,2,,Write-in,0,0,0
+Clarke,MURRAY PRECINCT,U.S. House,2,,Write-in,0,0,0
+Clarke,NORTH EAST PRECINCT,U.S. House,2,,Write-in,0,0,0
+Clarke,OSCEOLA 1ST WARD PRECINCT,U.S. House,2,,Write-in,0,0,0
+Clarke,OSCEOLA 2ND WARD PRECINCT,U.S. House,2,,Write-in,0,0,0
+Clarke,OSCEOLA 3RD WARD PRECINCT,U.S. House,2,,Write-in,0,0,0
+Clarke,WOODBURN PRECINCT,U.S. House,2,,Write-in,0,0,0
 Clarke,MIDDLE PRECINCT,Governor,,REP,Kim Reynolds,128,28,100
 Clarke,MURRAY PRECINCT,Governor,,REP,Kim Reynolds,172,10,162
 Clarke,NORTH EAST PRECINCT,Governor,,REP,Kim Reynolds,86,9,77
@@ -358,13 +358,13 @@ Clarke,OSCEOLA 1ST WARD PRECINCT,County Attorney,,,Write-in,0,0,0
 Clarke,OSCEOLA 2ND WARD PRECINCT,County Attorney,,,Write-in,0,0,0
 Clarke,OSCEOLA 3RD WARD PRECINCT,County Attorney,,,Write-in,0,0,0
 Clarke,WOODBURN PRECINCT,County Attorney,,,Write-in,0,0,0
-Clarke,MIDDLE PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,24,4,20
-Clarke,MURRAY PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,37,4,33
-Clarke,NORTH EAST PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,77,17,60
-Clarke,OSCEOLA 1ST WARD PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,54,5,49
-Clarke,OSCEOLA 2ND WARD PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,43,10,33
-Clarke,OSCEOLA 3RD WARD PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,76,21,55
-Clarke,WOODBURN PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,26,5,21
+Clarke,MIDDLE PRECINCT,U.S. House,2,DEM,Dave Loebsack,24,4,20
+Clarke,MURRAY PRECINCT,U.S. House,2,DEM,Dave Loebsack,37,4,33
+Clarke,NORTH EAST PRECINCT,U.S. House,2,DEM,Dave Loebsack,77,17,60
+Clarke,OSCEOLA 1ST WARD PRECINCT,U.S. House,2,DEM,Dave Loebsack,54,5,49
+Clarke,OSCEOLA 2ND WARD PRECINCT,U.S. House,2,DEM,Dave Loebsack,43,10,33
+Clarke,OSCEOLA 3RD WARD PRECINCT,U.S. House,2,DEM,Dave Loebsack,76,21,55
+Clarke,WOODBURN PRECINCT,U.S. House,2,DEM,Dave Loebsack,26,5,21
 Clarke,MIDDLE PRECINCT,Governor,,DEM,Nate Boulton,1,0,1
 Clarke,MURRAY PRECINCT,Governor,,DEM,Nate Boulton,1,0,1
 Clarke,NORTH EAST PRECINCT,Governor,,DEM,Nate Boulton,4,3,1

@@ -1,44 +1,44 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Poweshiek,BMWJ,United States Representative District 1,,DEM,Abby Finkenauer,465,279,186
-Poweshiek,DRL,United States Representative District 1,,DEM,Abby Finkenauer,65,39,26
-Poweshiek,MS,United States Representative District 1,,DEM,Abby Finkenauer,123,70,53
-Poweshiek,CGWS,United States Representative District 1,,DEM,Abby Finkenauer,234,120,114
-Poweshiek,1st Ward - 06.06GR,United States Representative District 1,,DEM,Abby Finkenauer,947,329,618
-Poweshiek,2nd Ward - 07.07GR,United States Representative District 1,,DEM,Abby Finkenauer,674,265,409
-Poweshiek,3rd Ward - 08.08GR,United States Representative District 1,,DEM,Abby Finkenauer,467,224,243
-Poweshiek,4th Ward - 09.09GR,United States Representative District 1,,DEM,Abby Finkenauer,632,229,403
-Poweshiek,JUPS,United States Representative District 1,,DEM,Abby Finkenauer,211,104,107
-Poweshiek,Montezuma - 11.11MO,United States Representative District 1,,DEM,Abby Finkenauer,148,77,71
-Poweshiek,BMWJ,United States Representative District 1,,REP,Rod Blum,746,535,211
-Poweshiek,DRL,United States Representative District 1,,REP,Rod Blum,217,145,72
-Poweshiek,MS,United States Representative District 1,,REP,Rod Blum,191,128,63
-Poweshiek,CGWS,United States Representative District 1,,REP,Rod Blum,555,299,256
-Poweshiek,1st Ward - 06.06GR,United States Representative District 1,,REP,Rod Blum,202,121,81
-Poweshiek,2nd Ward - 07.07GR,United States Representative District 1,,REP,Rod Blum,511,328,183
-Poweshiek,3rd Ward - 08.08GR,United States Representative District 1,,REP,Rod Blum,313,198,115
-Poweshiek,4th Ward - 09.09GR,United States Representative District 1,,REP,Rod Blum,378,187,191
-Poweshiek,JUPS,United States Representative District 1,,REP,Rod Blum,593,339,254
-Poweshiek,Montezuma - 11.11MO,United States Representative District 1,,REP,Rod Blum,338,236,102
-Poweshiek,BMWJ,United States Representative District 1,,LIB,Troy Hageman,47,35,12
-Poweshiek,DRL,United States Representative District 1,,LIB,Troy Hageman,15,12,3
-Poweshiek,MS,United States Representative District 1,,LIB,Troy Hageman,8,5,3
-Poweshiek,CGWS,United States Representative District 1,,LIB,Troy Hageman,26,14,12
-Poweshiek,1st Ward - 06.06GR,United States Representative District 1,,LIB,Troy Hageman,12,6,6
-Poweshiek,2nd Ward - 07.07GR,United States Representative District 1,,LIB,Troy Hageman,26,18,8
-Poweshiek,3rd Ward - 08.08GR,United States Representative District 1,,LIB,Troy Hageman,29,20,9
-Poweshiek,4th Ward - 09.09GR,United States Representative District 1,,LIB,Troy Hageman,29,20,9
-Poweshiek,JUPS,United States Representative District 1,,LIB,Troy Hageman,18,16,2
-Poweshiek,Montezuma - 11.11MO,United States Representative District 1,,LIB,Troy Hageman,19,15,4
-Poweshiek,BMWJ,United States Representative District 1,,,Write-in,0,0,0
-Poweshiek,DRL,United States Representative District 1,,,Write-in,0,0,0
-Poweshiek,MS,United States Representative District 1,,,Write-in,0,0,0
-Poweshiek,CGWS,United States Representative District 1,,,Write-in,0,0,0
-Poweshiek,1st Ward - 06.06GR,United States Representative District 1,,,Write-in,1,0,1
-Poweshiek,2nd Ward - 07.07GR,United States Representative District 1,,,Write-in,1,1,0
-Poweshiek,3rd Ward - 08.08GR,United States Representative District 1,,,Write-in,0,0,0
-Poweshiek,4th Ward - 09.09GR,United States Representative District 1,,,Write-in,0,0,0
-Poweshiek,JUPS,United States Representative District 1,,,Write-in,1,0,1
-Poweshiek,Montezuma - 11.11MO,United States Representative District 1,,,Write-in,0,0,0
+Poweshiek,BMWJ,U.S. House,1,DEM,Abby Finkenauer,465,279,186
+Poweshiek,DRL,U.S. House,1,DEM,Abby Finkenauer,65,39,26
+Poweshiek,MS,U.S. House,1,DEM,Abby Finkenauer,123,70,53
+Poweshiek,CGWS,U.S. House,1,DEM,Abby Finkenauer,234,120,114
+Poweshiek,1st Ward - 06.06GR,U.S. House,1,DEM,Abby Finkenauer,947,329,618
+Poweshiek,2nd Ward - 07.07GR,U.S. House,1,DEM,Abby Finkenauer,674,265,409
+Poweshiek,3rd Ward - 08.08GR,U.S. House,1,DEM,Abby Finkenauer,467,224,243
+Poweshiek,4th Ward - 09.09GR,U.S. House,1,DEM,Abby Finkenauer,632,229,403
+Poweshiek,JUPS,U.S. House,1,DEM,Abby Finkenauer,211,104,107
+Poweshiek,Montezuma - 11.11MO,U.S. House,1,DEM,Abby Finkenauer,148,77,71
+Poweshiek,BMWJ,U.S. House,1,REP,Rod Blum,746,535,211
+Poweshiek,DRL,U.S. House,1,REP,Rod Blum,217,145,72
+Poweshiek,MS,U.S. House,1,REP,Rod Blum,191,128,63
+Poweshiek,CGWS,U.S. House,1,REP,Rod Blum,555,299,256
+Poweshiek,1st Ward - 06.06GR,U.S. House,1,REP,Rod Blum,202,121,81
+Poweshiek,2nd Ward - 07.07GR,U.S. House,1,REP,Rod Blum,511,328,183
+Poweshiek,3rd Ward - 08.08GR,U.S. House,1,REP,Rod Blum,313,198,115
+Poweshiek,4th Ward - 09.09GR,U.S. House,1,REP,Rod Blum,378,187,191
+Poweshiek,JUPS,U.S. House,1,REP,Rod Blum,593,339,254
+Poweshiek,Montezuma - 11.11MO,U.S. House,1,REP,Rod Blum,338,236,102
+Poweshiek,BMWJ,U.S. House,1,LIB,Troy Hageman,47,35,12
+Poweshiek,DRL,U.S. House,1,LIB,Troy Hageman,15,12,3
+Poweshiek,MS,U.S. House,1,LIB,Troy Hageman,8,5,3
+Poweshiek,CGWS,U.S. House,1,LIB,Troy Hageman,26,14,12
+Poweshiek,1st Ward - 06.06GR,U.S. House,1,LIB,Troy Hageman,12,6,6
+Poweshiek,2nd Ward - 07.07GR,U.S. House,1,LIB,Troy Hageman,26,18,8
+Poweshiek,3rd Ward - 08.08GR,U.S. House,1,LIB,Troy Hageman,29,20,9
+Poweshiek,4th Ward - 09.09GR,U.S. House,1,LIB,Troy Hageman,29,20,9
+Poweshiek,JUPS,U.S. House,1,LIB,Troy Hageman,18,16,2
+Poweshiek,Montezuma - 11.11MO,U.S. House,1,LIB,Troy Hageman,19,15,4
+Poweshiek,BMWJ,U.S. House,1,,Write-in,0,0,0
+Poweshiek,DRL,U.S. House,1,,Write-in,0,0,0
+Poweshiek,MS,U.S. House,1,,Write-in,0,0,0
+Poweshiek,CGWS,U.S. House,1,,Write-in,0,0,0
+Poweshiek,1st Ward - 06.06GR,U.S. House,1,,Write-in,1,0,1
+Poweshiek,2nd Ward - 07.07GR,U.S. House,1,,Write-in,1,1,0
+Poweshiek,3rd Ward - 08.08GR,U.S. House,1,,Write-in,0,0,0
+Poweshiek,4th Ward - 09.09GR,U.S. House,1,,Write-in,0,0,0
+Poweshiek,JUPS,U.S. House,1,,Write-in,1,0,1
+Poweshiek,Montezuma - 11.11MO,U.S. House,1,,Write-in,0,0,0
 Poweshiek,BMWJ,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,442,259,183
 Poweshiek,DRL,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,57,34,23
 Poweshiek,MS,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,129,76,53

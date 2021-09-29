@@ -1,64 +1,64 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Franklin,Geneva / Ingham / East Mott,United States Representative District 4,,REP,Steve King,181,125,56
-Franklin,Grant / Osceola,United States Representative District 4,,REP,Steve King,166,105,61
-Franklin,Hamilton / Lee / Reeve,United States Representative District 4,,REP,Steve King,176,115,61
-Franklin,Hampton 1,United States Representative District 4,,REP,Steve King,122,83,39
-Franklin,Hampton 2,United States Representative District 4,,REP,Steve King,174,108,66
-Franklin,Hampton 3,United States Representative District 4,,REP,Steve King,210,123,87
-Franklin,Hampton 4,United States Representative District 4,,REP,Steve King,145,83,62
-Franklin,Marion,United States Representative District 4,,REP,Steve King,176,128,48
-Franklin,Oakland / Morgan,United States Representative District 4,,REP,Steve King,176,123,53
-Franklin,Richland / Ross / West Fork,United States Representative District 4,,REP,Steve King,439,312,127
-Franklin,West Mott,United States Representative District 4,,REP,Steve King,128,78,50
-Franklin,Wisner / Scott,United States Representative District 4,,REP,Steve King,136,104,32
-Franklin,Geneva / Ingham / East Mott,United States Representative District 4,,DEM,J.D. Scholten,120,92,28
-Franklin,Grant / Osceola,United States Representative District 4,,DEM,J.D. Scholten,82,63,19
-Franklin,Hamilton / Lee / Reeve,United States Representative District 4,,DEM,J.D. Scholten,109,77,32
-Franklin,Hampton 1,United States Representative District 4,,DEM,J.D. Scholten,143,98,45
-Franklin,Hampton 2,United States Representative District 4,,DEM,J.D. Scholten,194,128,66
-Franklin,Hampton 3,United States Representative District 4,,DEM,J.D. Scholten,217,132,85
-Franklin,Hampton 4,United States Representative District 4,,DEM,J.D. Scholten,189,103,86
-Franklin,Marion,United States Representative District 4,,DEM,J.D. Scholten,106,72,34
-Franklin,Oakland / Morgan,United States Representative District 4,,DEM,J.D. Scholten,95,63,32
-Franklin,Richland / Ross / West Fork,United States Representative District 4,,DEM,J.D. Scholten,312,219,93
-Franklin,West Mott,United States Representative District 4,,DEM,J.D. Scholten,83,54,29
-Franklin,Wisner / Scott,United States Representative District 4,,DEM,J.D. Scholten,67,50,17
-Franklin,Geneva / Ingham / East Mott,United States Representative District 4,,LIB,Charles Aldrich,9,6,3
-Franklin,Grant / Osceola,United States Representative District 4,,LIB,Charles Aldrich,5,3,2
-Franklin,Hamilton / Lee / Reeve,United States Representative District 4,,LIB,Charles Aldrich,6,2,4
-Franklin,Hampton 1,United States Representative District 4,,LIB,Charles Aldrich,10,7,3
-Franklin,Hampton 2,United States Representative District 4,,LIB,Charles Aldrich,11,8,3
-Franklin,Hampton 3,United States Representative District 4,,LIB,Charles Aldrich,11,9,2
-Franklin,Hampton 4,United States Representative District 4,,LIB,Charles Aldrich,5,5,0
-Franklin,Marion,United States Representative District 4,,LIB,Charles Aldrich,2,2,0
-Franklin,Oakland / Morgan,United States Representative District 4,,LIB,Charles Aldrich,6,5,1
-Franklin,Richland / Ross / West Fork,United States Representative District 4,,LIB,Charles Aldrich,14,11,3
-Franklin,West Mott,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
-Franklin,Wisner / Scott,United States Representative District 4,,LIB,Charles Aldrich,8,6,2
-Franklin,Geneva / Ingham / East Mott,United States Representative District 4,,,Edward Peterson,4,4,0
-Franklin,Grant / Osceola,United States Representative District 4,,,Edward Peterson,0,0,0
-Franklin,Hamilton / Lee / Reeve,United States Representative District 4,,,Edward Peterson,0,0,0
-Franklin,Hampton 1,United States Representative District 4,,,Edward Peterson,4,2,2
-Franklin,Hampton 2,United States Representative District 4,,,Edward Peterson,4,3,1
-Franklin,Hampton 3,United States Representative District 4,,,Edward Peterson,3,2,1
-Franklin,Hampton 4,United States Representative District 4,,,Edward Peterson,1,1,0
-Franklin,Marion,United States Representative District 4,,,Edward Peterson,3,3,0
-Franklin,Oakland / Morgan,United States Representative District 4,,,Edward Peterson,4,3,1
-Franklin,Richland / Ross / West Fork,United States Representative District 4,,,Edward Peterson,7,6,1
-Franklin,West Mott,United States Representative District 4,,,Edward Peterson,1,1,0
-Franklin,Wisner / Scott,United States Representative District 4,,,Edward Peterson,2,0,2
-Franklin,Geneva / Ingham / East Mott,United States Representative District 4,,,Write-in,0,0,0
-Franklin,Grant / Osceola,United States Representative District 4,,,Write-in,0,0,0
-Franklin,Hamilton / Lee / Reeve,United States Representative District 4,,,Write-in,0,0,0
-Franklin,Hampton 1,United States Representative District 4,,,Write-in,0,0,0
-Franklin,Hampton 2,United States Representative District 4,,,Write-in,0,0,0
-Franklin,Hampton 3,United States Representative District 4,,,Write-in,0,0,0
-Franklin,Hampton 4,United States Representative District 4,,,Write-in,0,0,0
-Franklin,Marion,United States Representative District 4,,,Write-in,0,0,0
-Franklin,Oakland / Morgan,United States Representative District 4,,,Write-in,0,0,0
-Franklin,Richland / Ross / West Fork,United States Representative District 4,,,Write-in,0,0,0
-Franklin,West Mott,United States Representative District 4,,,Write-in,0,0,0
-Franklin,Wisner / Scott,United States Representative District 4,,,Write-in,0,0,0
+Franklin,Geneva / Ingham / East Mott,U.S. House,4,REP,Steve King,181,125,56
+Franklin,Grant / Osceola,U.S. House,4,REP,Steve King,166,105,61
+Franklin,Hamilton / Lee / Reeve,U.S. House,4,REP,Steve King,176,115,61
+Franklin,Hampton 1,U.S. House,4,REP,Steve King,122,83,39
+Franklin,Hampton 2,U.S. House,4,REP,Steve King,174,108,66
+Franklin,Hampton 3,U.S. House,4,REP,Steve King,210,123,87
+Franklin,Hampton 4,U.S. House,4,REP,Steve King,145,83,62
+Franklin,Marion,U.S. House,4,REP,Steve King,176,128,48
+Franklin,Oakland / Morgan,U.S. House,4,REP,Steve King,176,123,53
+Franklin,Richland / Ross / West Fork,U.S. House,4,REP,Steve King,439,312,127
+Franklin,West Mott,U.S. House,4,REP,Steve King,128,78,50
+Franklin,Wisner / Scott,U.S. House,4,REP,Steve King,136,104,32
+Franklin,Geneva / Ingham / East Mott,U.S. House,4,DEM,J.D. Scholten,120,92,28
+Franklin,Grant / Osceola,U.S. House,4,DEM,J.D. Scholten,82,63,19
+Franklin,Hamilton / Lee / Reeve,U.S. House,4,DEM,J.D. Scholten,109,77,32
+Franklin,Hampton 1,U.S. House,4,DEM,J.D. Scholten,143,98,45
+Franklin,Hampton 2,U.S. House,4,DEM,J.D. Scholten,194,128,66
+Franklin,Hampton 3,U.S. House,4,DEM,J.D. Scholten,217,132,85
+Franklin,Hampton 4,U.S. House,4,DEM,J.D. Scholten,189,103,86
+Franklin,Marion,U.S. House,4,DEM,J.D. Scholten,106,72,34
+Franklin,Oakland / Morgan,U.S. House,4,DEM,J.D. Scholten,95,63,32
+Franklin,Richland / Ross / West Fork,U.S. House,4,DEM,J.D. Scholten,312,219,93
+Franklin,West Mott,U.S. House,4,DEM,J.D. Scholten,83,54,29
+Franklin,Wisner / Scott,U.S. House,4,DEM,J.D. Scholten,67,50,17
+Franklin,Geneva / Ingham / East Mott,U.S. House,4,LIB,Charles Aldrich,9,6,3
+Franklin,Grant / Osceola,U.S. House,4,LIB,Charles Aldrich,5,3,2
+Franklin,Hamilton / Lee / Reeve,U.S. House,4,LIB,Charles Aldrich,6,2,4
+Franklin,Hampton 1,U.S. House,4,LIB,Charles Aldrich,10,7,3
+Franklin,Hampton 2,U.S. House,4,LIB,Charles Aldrich,11,8,3
+Franklin,Hampton 3,U.S. House,4,LIB,Charles Aldrich,11,9,2
+Franklin,Hampton 4,U.S. House,4,LIB,Charles Aldrich,5,5,0
+Franklin,Marion,U.S. House,4,LIB,Charles Aldrich,2,2,0
+Franklin,Oakland / Morgan,U.S. House,4,LIB,Charles Aldrich,6,5,1
+Franklin,Richland / Ross / West Fork,U.S. House,4,LIB,Charles Aldrich,14,11,3
+Franklin,West Mott,U.S. House,4,LIB,Charles Aldrich,1,0,1
+Franklin,Wisner / Scott,U.S. House,4,LIB,Charles Aldrich,8,6,2
+Franklin,Geneva / Ingham / East Mott,U.S. House,4,,Edward Peterson,4,4,0
+Franklin,Grant / Osceola,U.S. House,4,,Edward Peterson,0,0,0
+Franklin,Hamilton / Lee / Reeve,U.S. House,4,,Edward Peterson,0,0,0
+Franklin,Hampton 1,U.S. House,4,,Edward Peterson,4,2,2
+Franklin,Hampton 2,U.S. House,4,,Edward Peterson,4,3,1
+Franklin,Hampton 3,U.S. House,4,,Edward Peterson,3,2,1
+Franklin,Hampton 4,U.S. House,4,,Edward Peterson,1,1,0
+Franklin,Marion,U.S. House,4,,Edward Peterson,3,3,0
+Franklin,Oakland / Morgan,U.S. House,4,,Edward Peterson,4,3,1
+Franklin,Richland / Ross / West Fork,U.S. House,4,,Edward Peterson,7,6,1
+Franklin,West Mott,U.S. House,4,,Edward Peterson,1,1,0
+Franklin,Wisner / Scott,U.S. House,4,,Edward Peterson,2,0,2
+Franklin,Geneva / Ingham / East Mott,U.S. House,4,,Write-in,0,0,0
+Franklin,Grant / Osceola,U.S. House,4,,Write-in,0,0,0
+Franklin,Hamilton / Lee / Reeve,U.S. House,4,,Write-in,0,0,0
+Franklin,Hampton 1,U.S. House,4,,Write-in,0,0,0
+Franklin,Hampton 2,U.S. House,4,,Write-in,0,0,0
+Franklin,Hampton 3,U.S. House,4,,Write-in,0,0,0
+Franklin,Hampton 4,U.S. House,4,,Write-in,0,0,0
+Franklin,Marion,U.S. House,4,,Write-in,0,0,0
+Franklin,Oakland / Morgan,U.S. House,4,,Write-in,0,0,0
+Franklin,Richland / Ross / West Fork,U.S. House,4,,Write-in,0,0,0
+Franklin,West Mott,U.S. House,4,,Write-in,0,0,0
+Franklin,Wisner / Scott,U.S. House,4,,Write-in,0,0,0
 Franklin,Geneva / Ingham / East Mott,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,217,156,61
 Franklin,Grant / Osceola,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,186,122,64
 Franklin,Hamilton / Lee / Reeve,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,205,137,68

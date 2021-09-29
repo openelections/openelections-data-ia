@@ -1,18 +1,18 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Montgomery,Precinct One Gold Fair Building,United States Representative District 3,,REP,David Young,195,36,159
-Montgomery,Precinct Two Red Oak Fire Station,United States Representative District 3,,REP,David Young,123,12,111
-Montgomery,Precinct Three First Christian Church,United States Representative District 3,,REP,David Young,183,27,156
-Montgomery,Precinct Four Elliott Community Bldg,United States Representative District 3,,REP,David Young,76,11,65
-Montgomery,Precinct Five Grant Fire Station,United States Representative District 3,,REP,David Young,33,1,32
-Montgomery,Precinct Six Stanton Fire Station,United States Representative District 3,,REP,David Young,100,14,86
-Montgomery,Precinct Seven Villisca Community Bldg,United States Representative District 3,,REP,David Young,82,11,71
-Montgomery,Precinct One Gold Fair Building,United States Representative District 3,,,Write-in,0,0,0
-Montgomery,Precinct Two Red Oak Fire Station,United States Representative District 3,,,Write-in,0,0,0
-Montgomery,Precinct Three First Christian Church,United States Representative District 3,,,Write-in,0,0,0
-Montgomery,Precinct Four Elliott Community Bldg,United States Representative District 3,,,Write-in,0,0,0
-Montgomery,Precinct Five Grant Fire Station,United States Representative District 3,,,Write-in,0,0,0
-Montgomery,Precinct Six Stanton Fire Station,United States Representative District 3,,,Write-in,0,0,0
-Montgomery,Precinct Seven Villisca Community Bldg,United States Representative District 3,,,Write-in,0,0,0
+Montgomery,Precinct One Gold Fair Building,U.S. House,3,REP,David Young,195,36,159
+Montgomery,Precinct Two Red Oak Fire Station,U.S. House,3,REP,David Young,123,12,111
+Montgomery,Precinct Three First Christian Church,U.S. House,3,REP,David Young,183,27,156
+Montgomery,Precinct Four Elliott Community Bldg,U.S. House,3,REP,David Young,76,11,65
+Montgomery,Precinct Five Grant Fire Station,U.S. House,3,REP,David Young,33,1,32
+Montgomery,Precinct Six Stanton Fire Station,U.S. House,3,REP,David Young,100,14,86
+Montgomery,Precinct Seven Villisca Community Bldg,U.S. House,3,REP,David Young,82,11,71
+Montgomery,Precinct One Gold Fair Building,U.S. House,3,,Write-in,0,0,0
+Montgomery,Precinct Two Red Oak Fire Station,U.S. House,3,,Write-in,0,0,0
+Montgomery,Precinct Three First Christian Church,U.S. House,3,,Write-in,0,0,0
+Montgomery,Precinct Four Elliott Community Bldg,U.S. House,3,,Write-in,0,0,0
+Montgomery,Precinct Five Grant Fire Station,U.S. House,3,,Write-in,0,0,0
+Montgomery,Precinct Six Stanton Fire Station,U.S. House,3,,Write-in,0,0,0
+Montgomery,Precinct Seven Villisca Community Bldg,U.S. House,3,,Write-in,0,0,0
 Montgomery,Precinct One Gold Fair Building,Governor,,REP,Kim Reynolds,186,33,153
 Montgomery,Precinct Two Red Oak Fire Station,Governor,,REP,Kim Reynolds,119,12,107
 Montgomery,Precinct Three First Christian Church,Governor,,REP,Kim Reynolds,175,25,150
@@ -272,27 +272,27 @@ Montgomery,Precinct Four Elliott Community Bldg,County Attorney,,,Write-in,0,0,0
 Montgomery,Precinct Five Grant Fire Station,County Attorney,,,Write-in,0,0,0
 Montgomery,Precinct Six Stanton Fire Station,County Attorney,,,Write-in,0,0,0
 Montgomery,Precinct Seven Villisca Community Bldg,County Attorney,,,Write-in,0,0,0
-Montgomery,Precinct One Gold Fair Building,United States Representative District 3,,DEM,Cindy Axne,41,5,36
-Montgomery,Precinct Two Red Oak Fire Station,United States Representative District 3,,DEM,Cindy Axne,36,8,28
-Montgomery,Precinct Three First Christian Church,United States Representative District 3,,DEM,Cindy Axne,58,12,46
-Montgomery,Precinct Four Elliott Community Bldg,United States Representative District 3,,DEM,Cindy Axne,16,6,10
-Montgomery,Precinct Five Grant Fire Station,United States Representative District 3,,DEM,Cindy Axne,10,1,9
-Montgomery,Precinct Six Stanton Fire Station,United States Representative District 3,,DEM,Cindy Axne,32,10,22
-Montgomery,Precinct Seven Villisca Community Bldg,United States Representative District 3,,DEM,Cindy Axne,27,6,21
-Montgomery,Precinct One Gold Fair Building,United States Representative District 3,,DEM,Pete D'Alessandro,14,1,13
-Montgomery,Precinct Two Red Oak Fire Station,United States Representative District 3,,DEM,Pete D'Alessandro,9,1,8
-Montgomery,Precinct Three First Christian Church,United States Representative District 3,,DEM,Pete D'Alessandro,9,2,7
-Montgomery,Precinct Four Elliott Community Bldg,United States Representative District 3,,DEM,Pete D'Alessandro,3,0,3
-Montgomery,Precinct Five Grant Fire Station,United States Representative District 3,,DEM,Pete D'Alessandro,5,1,4
-Montgomery,Precinct Six Stanton Fire Station,United States Representative District 3,,DEM,Pete D'Alessandro,3,0,3
-Montgomery,Precinct Seven Villisca Community Bldg,United States Representative District 3,,DEM,Pete D'Alessandro,2,0,2
-Montgomery,Precinct One Gold Fair Building,United States Representative District 3,,DEM,Eddie J. Mauro,11,0,11
-Montgomery,Precinct Two Red Oak Fire Station,United States Representative District 3,,DEM,Eddie J. Mauro,11,4,7
-Montgomery,Precinct Three First Christian Church,United States Representative District 3,,DEM,Eddie J. Mauro,19,2,17
-Montgomery,Precinct Four Elliott Community Bldg,United States Representative District 3,,DEM,Eddie J. Mauro,2,1,1
-Montgomery,Precinct Five Grant Fire Station,United States Representative District 3,,DEM,Eddie J. Mauro,2,2,0
-Montgomery,Precinct Six Stanton Fire Station,United States Representative District 3,,DEM,Eddie J. Mauro,6,0,6
-Montgomery,Precinct Seven Villisca Community Bldg,United States Representative District 3,,DEM,Eddie J. Mauro,6,2,4
+Montgomery,Precinct One Gold Fair Building,U.S. House,3,DEM,Cindy Axne,41,5,36
+Montgomery,Precinct Two Red Oak Fire Station,U.S. House,3,DEM,Cindy Axne,36,8,28
+Montgomery,Precinct Three First Christian Church,U.S. House,3,DEM,Cindy Axne,58,12,46
+Montgomery,Precinct Four Elliott Community Bldg,U.S. House,3,DEM,Cindy Axne,16,6,10
+Montgomery,Precinct Five Grant Fire Station,U.S. House,3,DEM,Cindy Axne,10,1,9
+Montgomery,Precinct Six Stanton Fire Station,U.S. House,3,DEM,Cindy Axne,32,10,22
+Montgomery,Precinct Seven Villisca Community Bldg,U.S. House,3,DEM,Cindy Axne,27,6,21
+Montgomery,Precinct One Gold Fair Building,U.S. House,3,DEM,Pete D'Alessandro,14,1,13
+Montgomery,Precinct Two Red Oak Fire Station,U.S. House,3,DEM,Pete D'Alessandro,9,1,8
+Montgomery,Precinct Three First Christian Church,U.S. House,3,DEM,Pete D'Alessandro,9,2,7
+Montgomery,Precinct Four Elliott Community Bldg,U.S. House,3,DEM,Pete D'Alessandro,3,0,3
+Montgomery,Precinct Five Grant Fire Station,U.S. House,3,DEM,Pete D'Alessandro,5,1,4
+Montgomery,Precinct Six Stanton Fire Station,U.S. House,3,DEM,Pete D'Alessandro,3,0,3
+Montgomery,Precinct Seven Villisca Community Bldg,U.S. House,3,DEM,Pete D'Alessandro,2,0,2
+Montgomery,Precinct One Gold Fair Building,U.S. House,3,DEM,Eddie J. Mauro,11,0,11
+Montgomery,Precinct Two Red Oak Fire Station,U.S. House,3,DEM,Eddie J. Mauro,11,4,7
+Montgomery,Precinct Three First Christian Church,U.S. House,3,DEM,Eddie J. Mauro,19,2,17
+Montgomery,Precinct Four Elliott Community Bldg,U.S. House,3,DEM,Eddie J. Mauro,2,1,1
+Montgomery,Precinct Five Grant Fire Station,U.S. House,3,DEM,Eddie J. Mauro,2,2,0
+Montgomery,Precinct Six Stanton Fire Station,U.S. House,3,DEM,Eddie J. Mauro,6,0,6
+Montgomery,Precinct Seven Villisca Community Bldg,U.S. House,3,DEM,Eddie J. Mauro,6,2,4
 Montgomery,Precinct One Gold Fair Building,Governor,,DEM,Nate Boulton,2,0,2
 Montgomery,Precinct Two Red Oak Fire Station,Governor,,DEM,Nate Boulton,0,0,0
 Montgomery,Precinct Three First Christian Church,Governor,,DEM,Nate Boulton,0,0,0
@@ -469,13 +469,13 @@ Montgomery,Precinct Four Elliott Community Bldg,County Attorney,,DEM,Jan Black,0
 Montgomery,Precinct Five Grant Fire Station,County Attorney,,DEM,Jan Black,0,0,0
 Montgomery,Precinct Six Stanton Fire Station,County Attorney,,DEM,Jan Black,0,0,0
 Montgomery,Precinct Seven Villisca Community Bldg,County Attorney,,DEM,Jan Black,0,0,0
-Montgomery,Precinct One Gold Fair Building,United States Representative District 3,,LIB,Bryan Jack Holder,1,0,1
-Montgomery,Precinct Two Red Oak Fire Station,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Montgomery,Precinct Three First Christian Church,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Montgomery,Precinct Four Elliott Community Bldg,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Montgomery,Precinct Five Grant Fire Station,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Montgomery,Precinct Six Stanton Fire Station,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Montgomery,Precinct Seven Villisca Community Bldg,United States Representative District 3,,LIB,Bryan Jack Holder,1,1,0
+Montgomery,Precinct One Gold Fair Building,U.S. House,3,LIB,Bryan Jack Holder,1,0,1
+Montgomery,Precinct Two Red Oak Fire Station,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Montgomery,Precinct Three First Christian Church,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Montgomery,Precinct Four Elliott Community Bldg,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Montgomery,Precinct Five Grant Fire Station,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Montgomery,Precinct Six Stanton Fire Station,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Montgomery,Precinct Seven Villisca Community Bldg,U.S. House,3,LIB,Bryan Jack Holder,1,1,0
 Montgomery,Precinct One Gold Fair Building,Governor,,LIB,Marco Battaglia,0,0,0
 Montgomery,Precinct Two Red Oak Fire Station,Governor,,LIB,Marco Battaglia,0,0,0
 Montgomery,Precinct Three First Christian Church,Governor,,LIB,Marco Battaglia,0,0,0

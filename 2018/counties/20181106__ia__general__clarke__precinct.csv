@@ -1,39 +1,39 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Clarke,MIDDLE PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,206,112,94
-Clarke,MURRAY PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,208,155,53
-Clarke,NORTH EAST PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,309,164,145
-Clarke,OSCEOLA 1ST WARD PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,214,113,101
-Clarke,OSCEOLA 2ND WARD PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,209,102,107
-Clarke,OSCEOLA 3RD WARD PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,289,165,124
-Clarke,WOODBURN PRECINCT,United States Representative District 2,,DEM,Dave Loebsack,90,52,38
-Clarke,MIDDLE PRECINCT,United States Representative District 2,,REP,Christopher Peters,318,209,109
-Clarke,MURRAY PRECINCT,United States Representative District 2,,REP,Christopher Peters,312,240,72
-Clarke,NORTH EAST PRECINCT,United States Representative District 2,,REP,Christopher Peters,450,269,181
-Clarke,OSCEOLA 1ST WARD PRECINCT,United States Representative District 2,,REP,Christopher Peters,235,161,74
-Clarke,OSCEOLA 2ND WARD PRECINCT,United States Representative District 2,,REP,Christopher Peters,180,123,57
-Clarke,OSCEOLA 3RD WARD PRECINCT,United States Representative District 2,,REP,Christopher Peters,306,187,119
-Clarke,WOODBURN PRECINCT,United States Representative District 2,,REP,Christopher Peters,138,106,32
-Clarke,MIDDLE PRECINCT,United States Representative District 2,,LIB,Mark David Strauss,13,12,1
-Clarke,MURRAY PRECINCT,United States Representative District 2,,LIB,Mark David Strauss,18,16,2
-Clarke,NORTH EAST PRECINCT,United States Representative District 2,,LIB,Mark David Strauss,23,17,6
-Clarke,OSCEOLA 1ST WARD PRECINCT,United States Representative District 2,,LIB,Mark David Strauss,18,11,7
-Clarke,OSCEOLA 2ND WARD PRECINCT,United States Representative District 2,,LIB,Mark David Strauss,15,11,4
-Clarke,OSCEOLA 3RD WARD PRECINCT,United States Representative District 2,,LIB,Mark David Strauss,21,15,6
-Clarke,WOODBURN PRECINCT,United States Representative District 2,,LIB,Mark David Strauss,7,7,0
-Clarke,MIDDLE PRECINCT,United States Representative District 2,,,Daniel Clark,1,1,0
-Clarke,MURRAY PRECINCT,United States Representative District 2,,,Daniel Clark,9,6,3
-Clarke,NORTH EAST PRECINCT,United States Representative District 2,,,Daniel Clark,6,2,4
-Clarke,OSCEOLA 1ST WARD PRECINCT,United States Representative District 2,,,Daniel Clark,3,2,1
-Clarke,OSCEOLA 2ND WARD PRECINCT,United States Representative District 2,,,Daniel Clark,4,2,2
-Clarke,OSCEOLA 3RD WARD PRECINCT,United States Representative District 2,,,Daniel Clark,7,4,3
-Clarke,WOODBURN PRECINCT,United States Representative District 2,,,Daniel Clark,4,3,1
-Clarke,MIDDLE PRECINCT,United States Representative District 2,,,Write-in,1,1,0
-Clarke,MURRAY PRECINCT,United States Representative District 2,,,Write-in,1,1,0
-Clarke,NORTH EAST PRECINCT,United States Representative District 2,,,Write-in,1,0,1
-Clarke,OSCEOLA 1ST WARD PRECINCT,United States Representative District 2,,,Write-in,0,0,0
-Clarke,OSCEOLA 2ND WARD PRECINCT,United States Representative District 2,,,Write-in,0,0,0
-Clarke,OSCEOLA 3RD WARD PRECINCT,United States Representative District 2,,,Write-in,1,0,1
-Clarke,WOODBURN PRECINCT,United States Representative District 2,,,Write-in,0,0,0
+Clarke,MIDDLE PRECINCT,U.S. House,2,DEM,Dave Loebsack,206,112,94
+Clarke,MURRAY PRECINCT,U.S. House,2,DEM,Dave Loebsack,208,155,53
+Clarke,NORTH EAST PRECINCT,U.S. House,2,DEM,Dave Loebsack,309,164,145
+Clarke,OSCEOLA 1ST WARD PRECINCT,U.S. House,2,DEM,Dave Loebsack,214,113,101
+Clarke,OSCEOLA 2ND WARD PRECINCT,U.S. House,2,DEM,Dave Loebsack,209,102,107
+Clarke,OSCEOLA 3RD WARD PRECINCT,U.S. House,2,DEM,Dave Loebsack,289,165,124
+Clarke,WOODBURN PRECINCT,U.S. House,2,DEM,Dave Loebsack,90,52,38
+Clarke,MIDDLE PRECINCT,U.S. House,2,REP,Christopher Peters,318,209,109
+Clarke,MURRAY PRECINCT,U.S. House,2,REP,Christopher Peters,312,240,72
+Clarke,NORTH EAST PRECINCT,U.S. House,2,REP,Christopher Peters,450,269,181
+Clarke,OSCEOLA 1ST WARD PRECINCT,U.S. House,2,REP,Christopher Peters,235,161,74
+Clarke,OSCEOLA 2ND WARD PRECINCT,U.S. House,2,REP,Christopher Peters,180,123,57
+Clarke,OSCEOLA 3RD WARD PRECINCT,U.S. House,2,REP,Christopher Peters,306,187,119
+Clarke,WOODBURN PRECINCT,U.S. House,2,REP,Christopher Peters,138,106,32
+Clarke,MIDDLE PRECINCT,U.S. House,2,LIB,Mark David Strauss,13,12,1
+Clarke,MURRAY PRECINCT,U.S. House,2,LIB,Mark David Strauss,18,16,2
+Clarke,NORTH EAST PRECINCT,U.S. House,2,LIB,Mark David Strauss,23,17,6
+Clarke,OSCEOLA 1ST WARD PRECINCT,U.S. House,2,LIB,Mark David Strauss,18,11,7
+Clarke,OSCEOLA 2ND WARD PRECINCT,U.S. House,2,LIB,Mark David Strauss,15,11,4
+Clarke,OSCEOLA 3RD WARD PRECINCT,U.S. House,2,LIB,Mark David Strauss,21,15,6
+Clarke,WOODBURN PRECINCT,U.S. House,2,LIB,Mark David Strauss,7,7,0
+Clarke,MIDDLE PRECINCT,U.S. House,2,,Daniel Clark,1,1,0
+Clarke,MURRAY PRECINCT,U.S. House,2,,Daniel Clark,9,6,3
+Clarke,NORTH EAST PRECINCT,U.S. House,2,,Daniel Clark,6,2,4
+Clarke,OSCEOLA 1ST WARD PRECINCT,U.S. House,2,,Daniel Clark,3,2,1
+Clarke,OSCEOLA 2ND WARD PRECINCT,U.S. House,2,,Daniel Clark,4,2,2
+Clarke,OSCEOLA 3RD WARD PRECINCT,U.S. House,2,,Daniel Clark,7,4,3
+Clarke,WOODBURN PRECINCT,U.S. House,2,,Daniel Clark,4,3,1
+Clarke,MIDDLE PRECINCT,U.S. House,2,,Write-in,1,1,0
+Clarke,MURRAY PRECINCT,U.S. House,2,,Write-in,1,1,0
+Clarke,NORTH EAST PRECINCT,U.S. House,2,,Write-in,1,0,1
+Clarke,OSCEOLA 1ST WARD PRECINCT,U.S. House,2,,Write-in,0,0,0
+Clarke,OSCEOLA 2ND WARD PRECINCT,U.S. House,2,,Write-in,0,0,0
+Clarke,OSCEOLA 3RD WARD PRECINCT,U.S. House,2,,Write-in,1,0,1
+Clarke,WOODBURN PRECINCT,U.S. House,2,,Write-in,0,0,0
 Clarke,MIDDLE PRECINCT,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,156,79,77
 Clarke,MURRAY PRECINCT,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,168,123,45
 Clarke,NORTH EAST PRECINCT,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,248,123,125

@@ -1,24 +1,24 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Wayne,A01 - Allerton,United States Representative District 2,,REP,Christopher Peters,332,235,97
-Wayne,C02 - Corydon,United States Representative District 2,,REP,Christopher Peters,444,281,163
-Wayne,H03 - Humeston,United States Representative District 2,,REP,Christopher Peters,298,194,104
-Wayne,S04 - Seymour,United States Representative District 2,,REP,Christopher Peters,332,232,100
-Wayne,A01 - Allerton,United States Representative District 2,,DEM,Dave Loebsack,201,135,66
-Wayne,C02 - Corydon,United States Representative District 2,,DEM,Dave Loebsack,272,145,127
-Wayne,H03 - Humeston,United States Representative District 2,,DEM,Dave Loebsack,211,135,76
-Wayne,S04 - Seymour,United States Representative District 2,,DEM,Dave Loebsack,200,153,47
-Wayne,A01 - Allerton,United States Representative District 2,,LIB,Mark David Strauss,10,9,1
-Wayne,C02 - Corydon,United States Representative District 2,,LIB,Mark David Strauss,11,2,9
-Wayne,H03 - Humeston,United States Representative District 2,,LIB,Mark David Strauss,11,8,3
-Wayne,S04 - Seymour,United States Representative District 2,,LIB,Mark David Strauss,10,7,3
-Wayne,A01 - Allerton,United States Representative District 2,,,Daniel Clark,2,1,1
-Wayne,C02 - Corydon,United States Representative District 2,,,Daniel Clark,4,1,3
-Wayne,H03 - Humeston,United States Representative District 2,,,Daniel Clark,5,2,3
-Wayne,S04 - Seymour,United States Representative District 2,,,Daniel Clark,6,5,1
-Wayne,A01 - Allerton,United States Representative District 2,,,Write-in,0,0,0
-Wayne,C02 - Corydon,United States Representative District 2,,,Write-in,0,0,0
-Wayne,H03 - Humeston,United States Representative District 2,,,Write-in,0,0,0
-Wayne,S04 - Seymour,United States Representative District 2,,,Write-in,0,0,0
+Wayne,A01 - Allerton,U.S. House,2,REP,Christopher Peters,332,235,97
+Wayne,C02 - Corydon,U.S. House,2,REP,Christopher Peters,444,281,163
+Wayne,H03 - Humeston,U.S. House,2,REP,Christopher Peters,298,194,104
+Wayne,S04 - Seymour,U.S. House,2,REP,Christopher Peters,332,232,100
+Wayne,A01 - Allerton,U.S. House,2,DEM,Dave Loebsack,201,135,66
+Wayne,C02 - Corydon,U.S. House,2,DEM,Dave Loebsack,272,145,127
+Wayne,H03 - Humeston,U.S. House,2,DEM,Dave Loebsack,211,135,76
+Wayne,S04 - Seymour,U.S. House,2,DEM,Dave Loebsack,200,153,47
+Wayne,A01 - Allerton,U.S. House,2,LIB,Mark David Strauss,10,9,1
+Wayne,C02 - Corydon,U.S. House,2,LIB,Mark David Strauss,11,2,9
+Wayne,H03 - Humeston,U.S. House,2,LIB,Mark David Strauss,11,8,3
+Wayne,S04 - Seymour,U.S. House,2,LIB,Mark David Strauss,10,7,3
+Wayne,A01 - Allerton,U.S. House,2,,Daniel Clark,2,1,1
+Wayne,C02 - Corydon,U.S. House,2,,Daniel Clark,4,1,3
+Wayne,H03 - Humeston,U.S. House,2,,Daniel Clark,5,2,3
+Wayne,S04 - Seymour,U.S. House,2,,Daniel Clark,6,5,1
+Wayne,A01 - Allerton,U.S. House,2,,Write-in,0,0,0
+Wayne,C02 - Corydon,U.S. House,2,,Write-in,0,0,0
+Wayne,H03 - Humeston,U.S. House,2,,Write-in,0,0,0
+Wayne,S04 - Seymour,U.S. House,2,,Write-in,0,0,0
 Wayne,A01 - Allerton,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,383,271,112
 Wayne,C02 - Corydon,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,492,301,191
 Wayne,H03 - Humeston,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,351,229,122

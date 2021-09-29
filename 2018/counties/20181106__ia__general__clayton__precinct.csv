@@ -1,60 +1,60 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Clayton,BOARDMAN-HIGHLAND,United States Representative District 1,,DEM,Abby Finkenauer,545,284,261
-Clayton,BUENA VISTA,United States Representative District 1,,DEM,Abby Finkenauer,73,59,14
-Clayton,CASS,United States Representative District 1,,DEM,Abby Finkenauer,269,177,92
-Clayton,CLAYTON-GARNAVILLO,United States Representative District 1,,DEM,Abby Finkenauer,205,130,75
-Clayton,COX CREEK-SPERRY,United States Representative District 1,,DEM,Abby Finkenauer,148,81,67
-Clayton,ELK-MALLORY-VOLGA,United States Representative District 1,,DEM,Abby Finkenauer,176,103,73
-Clayton,FARMERSBURG-WAGNER,United States Representative District 1,,DEM,Abby Finkenauer,172,122,50
-Clayton,GIARD-LUANA-MONONA,United States Representative District 1,,DEM,Abby Finkenauer,397,251,146
-Clayton,GRAND MEADOW,United States Representative District 1,,DEM,Abby Finkenauer,80,45,35
-Clayton,JEFFERSON-MILLVILLE,United States Representative District 1,,DEM,Abby Finkenauer,660,415,245
-Clayton,LODOMILLO,United States Representative District 1,,DEM,Abby Finkenauer,79,44,35
-Clayton,MARION,United States Representative District 1,,DEM,Abby Finkenauer,37,20,17
-Clayton,MENDON,United States Representative District 1,,DEM,Abby Finkenauer,415,267,148
-Clayton,READ,United States Representative District 1,,DEM,Abby Finkenauer,55,21,34
-Clayton,BOARDMAN-HIGHLAND,United States Representative District 1,,REP,Rod Blum,444,292,152
-Clayton,BUENA VISTA,United States Representative District 1,,REP,Rod Blum,50,37,13
-Clayton,CASS,United States Representative District 1,,REP,Rod Blum,408,315,93
-Clayton,CLAYTON-GARNAVILLO,United States Representative District 1,,REP,Rod Blum,373,269,104
-Clayton,COX CREEK-SPERRY,United States Representative District 1,,REP,Rod Blum,259,167,92
-Clayton,ELK-MALLORY-VOLGA,United States Representative District 1,,REP,Rod Blum,289,195,94
-Clayton,FARMERSBURG-WAGNER,United States Representative District 1,,REP,Rod Blum,239,152,87
-Clayton,GIARD-LUANA-MONONA,United States Representative District 1,,REP,Rod Blum,627,443,184
-Clayton,GRAND MEADOW,United States Representative District 1,,REP,Rod Blum,111,64,47
-Clayton,JEFFERSON-MILLVILLE,United States Representative District 1,,REP,Rod Blum,778,492,286
-Clayton,LODOMILLO,United States Representative District 1,,REP,Rod Blum,176,119,57
-Clayton,MARION,United States Representative District 1,,REP,Rod Blum,104,65,39
-Clayton,MENDON,United States Representative District 1,,REP,Rod Blum,391,254,137
-Clayton,READ,United States Representative District 1,,REP,Rod Blum,71,34,37
-Clayton,BOARDMAN-HIGHLAND,United States Representative District 1,,LIB,Troy Hageman,29,14,15
-Clayton,BUENA VISTA,United States Representative District 1,,LIB,Troy Hageman,6,3,3
-Clayton,CASS,United States Representative District 1,,LIB,Troy Hageman,24,19,5
-Clayton,CLAYTON-GARNAVILLO,United States Representative District 1,,LIB,Troy Hageman,20,12,8
-Clayton,COX CREEK-SPERRY,United States Representative District 1,,LIB,Troy Hageman,18,14,4
-Clayton,ELK-MALLORY-VOLGA,United States Representative District 1,,LIB,Troy Hageman,12,8,4
-Clayton,FARMERSBURG-WAGNER,United States Representative District 1,,LIB,Troy Hageman,21,16,5
-Clayton,GIARD-LUANA-MONONA,United States Representative District 1,,LIB,Troy Hageman,26,19,7
-Clayton,GRAND MEADOW,United States Representative District 1,,LIB,Troy Hageman,5,3,2
-Clayton,JEFFERSON-MILLVILLE,United States Representative District 1,,LIB,Troy Hageman,54,35,19
-Clayton,LODOMILLO,United States Representative District 1,,LIB,Troy Hageman,7,3,4
-Clayton,MARION,United States Representative District 1,,LIB,Troy Hageman,6,3,3
-Clayton,MENDON,United States Representative District 1,,LIB,Troy Hageman,26,16,10
-Clayton,READ,United States Representative District 1,,LIB,Troy Hageman,2,2,0
-Clayton,BOARDMAN-HIGHLAND,United States Representative District 1,,,Write-in,1,0,1
-Clayton,BUENA VISTA,United States Representative District 1,,,Write-in,0,0,0
-Clayton,CASS,United States Representative District 1,,,Write-in,0,0,0
-Clayton,CLAYTON-GARNAVILLO,United States Representative District 1,,,Write-in,0,0,0
-Clayton,COX CREEK-SPERRY,United States Representative District 1,,,Write-in,0,0,0
-Clayton,ELK-MALLORY-VOLGA,United States Representative District 1,,,Write-in,1,1,0
-Clayton,FARMERSBURG-WAGNER,United States Representative District 1,,,Write-in,0,0,0
-Clayton,GIARD-LUANA-MONONA,United States Representative District 1,,,Write-in,0,0,0
-Clayton,GRAND MEADOW,United States Representative District 1,,,Write-in,0,0,0
-Clayton,JEFFERSON-MILLVILLE,United States Representative District 1,,,Write-in,0,0,0
-Clayton,LODOMILLO,United States Representative District 1,,,Write-in,0,0,0
-Clayton,MARION,United States Representative District 1,,,Write-in,0,0,0
-Clayton,MENDON,United States Representative District 1,,,Write-in,3,2,1
-Clayton,READ,United States Representative District 1,,,Write-in,0,0,0
+Clayton,BOARDMAN-HIGHLAND,U.S. House,1,DEM,Abby Finkenauer,545,284,261
+Clayton,BUENA VISTA,U.S. House,1,DEM,Abby Finkenauer,73,59,14
+Clayton,CASS,U.S. House,1,DEM,Abby Finkenauer,269,177,92
+Clayton,CLAYTON-GARNAVILLO,U.S. House,1,DEM,Abby Finkenauer,205,130,75
+Clayton,COX CREEK-SPERRY,U.S. House,1,DEM,Abby Finkenauer,148,81,67
+Clayton,ELK-MALLORY-VOLGA,U.S. House,1,DEM,Abby Finkenauer,176,103,73
+Clayton,FARMERSBURG-WAGNER,U.S. House,1,DEM,Abby Finkenauer,172,122,50
+Clayton,GIARD-LUANA-MONONA,U.S. House,1,DEM,Abby Finkenauer,397,251,146
+Clayton,GRAND MEADOW,U.S. House,1,DEM,Abby Finkenauer,80,45,35
+Clayton,JEFFERSON-MILLVILLE,U.S. House,1,DEM,Abby Finkenauer,660,415,245
+Clayton,LODOMILLO,U.S. House,1,DEM,Abby Finkenauer,79,44,35
+Clayton,MARION,U.S. House,1,DEM,Abby Finkenauer,37,20,17
+Clayton,MENDON,U.S. House,1,DEM,Abby Finkenauer,415,267,148
+Clayton,READ,U.S. House,1,DEM,Abby Finkenauer,55,21,34
+Clayton,BOARDMAN-HIGHLAND,U.S. House,1,REP,Rod Blum,444,292,152
+Clayton,BUENA VISTA,U.S. House,1,REP,Rod Blum,50,37,13
+Clayton,CASS,U.S. House,1,REP,Rod Blum,408,315,93
+Clayton,CLAYTON-GARNAVILLO,U.S. House,1,REP,Rod Blum,373,269,104
+Clayton,COX CREEK-SPERRY,U.S. House,1,REP,Rod Blum,259,167,92
+Clayton,ELK-MALLORY-VOLGA,U.S. House,1,REP,Rod Blum,289,195,94
+Clayton,FARMERSBURG-WAGNER,U.S. House,1,REP,Rod Blum,239,152,87
+Clayton,GIARD-LUANA-MONONA,U.S. House,1,REP,Rod Blum,627,443,184
+Clayton,GRAND MEADOW,U.S. House,1,REP,Rod Blum,111,64,47
+Clayton,JEFFERSON-MILLVILLE,U.S. House,1,REP,Rod Blum,778,492,286
+Clayton,LODOMILLO,U.S. House,1,REP,Rod Blum,176,119,57
+Clayton,MARION,U.S. House,1,REP,Rod Blum,104,65,39
+Clayton,MENDON,U.S. House,1,REP,Rod Blum,391,254,137
+Clayton,READ,U.S. House,1,REP,Rod Blum,71,34,37
+Clayton,BOARDMAN-HIGHLAND,U.S. House,1,LIB,Troy Hageman,29,14,15
+Clayton,BUENA VISTA,U.S. House,1,LIB,Troy Hageman,6,3,3
+Clayton,CASS,U.S. House,1,LIB,Troy Hageman,24,19,5
+Clayton,CLAYTON-GARNAVILLO,U.S. House,1,LIB,Troy Hageman,20,12,8
+Clayton,COX CREEK-SPERRY,U.S. House,1,LIB,Troy Hageman,18,14,4
+Clayton,ELK-MALLORY-VOLGA,U.S. House,1,LIB,Troy Hageman,12,8,4
+Clayton,FARMERSBURG-WAGNER,U.S. House,1,LIB,Troy Hageman,21,16,5
+Clayton,GIARD-LUANA-MONONA,U.S. House,1,LIB,Troy Hageman,26,19,7
+Clayton,GRAND MEADOW,U.S. House,1,LIB,Troy Hageman,5,3,2
+Clayton,JEFFERSON-MILLVILLE,U.S. House,1,LIB,Troy Hageman,54,35,19
+Clayton,LODOMILLO,U.S. House,1,LIB,Troy Hageman,7,3,4
+Clayton,MARION,U.S. House,1,LIB,Troy Hageman,6,3,3
+Clayton,MENDON,U.S. House,1,LIB,Troy Hageman,26,16,10
+Clayton,READ,U.S. House,1,LIB,Troy Hageman,2,2,0
+Clayton,BOARDMAN-HIGHLAND,U.S. House,1,,Write-in,1,0,1
+Clayton,BUENA VISTA,U.S. House,1,,Write-in,0,0,0
+Clayton,CASS,U.S. House,1,,Write-in,0,0,0
+Clayton,CLAYTON-GARNAVILLO,U.S. House,1,,Write-in,0,0,0
+Clayton,COX CREEK-SPERRY,U.S. House,1,,Write-in,0,0,0
+Clayton,ELK-MALLORY-VOLGA,U.S. House,1,,Write-in,1,1,0
+Clayton,FARMERSBURG-WAGNER,U.S. House,1,,Write-in,0,0,0
+Clayton,GIARD-LUANA-MONONA,U.S. House,1,,Write-in,0,0,0
+Clayton,GRAND MEADOW,U.S. House,1,,Write-in,0,0,0
+Clayton,JEFFERSON-MILLVILLE,U.S. House,1,,Write-in,0,0,0
+Clayton,LODOMILLO,U.S. House,1,,Write-in,0,0,0
+Clayton,MARION,U.S. House,1,,Write-in,0,0,0
+Clayton,MENDON,U.S. House,1,,Write-in,3,2,1
+Clayton,READ,U.S. House,1,,Write-in,0,0,0
 Clayton,BOARDMAN-HIGHLAND,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,472,237,235
 Clayton,BUENA VISTA,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,64,53,11
 Clayton,CASS,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,258,169,89

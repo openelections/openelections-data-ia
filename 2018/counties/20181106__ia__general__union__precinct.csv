@@ -1,60 +1,60 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Union,Afton,United States Representative District 3,,REP,David Young,428,295,133
-Union,AR - Arispe,United States Representative District 3,,REP,David Young,158,104,54
-Union,CS1 - Salem Lutheran Church,United States Representative District 3,,REP,David Young,220,136,84
-Union,CS2 - SWCC,United States Representative District 3,,REP,David Young,825,394,431
-Union,CS3 - Trinity Lutheran Church,United States Representative District 3,,REP,David Young,299,155,144
-Union,CS4 - Supertel,United States Representative District 3,,REP,David Young,284,162,122
-Union,CS5 - Crest Baptist Church,United States Representative District 3,,REP,David Young,505,287,218
-Union,LR - Lorimor,United States Representative District 3,,REP,David Young,211,138,73
-Union,Afton,United States Representative District 3,,DEM,Cindy Axne,209,114,95
-Union,AR - Arispe,United States Representative District 3,,DEM,Cindy Axne,58,38,20
-Union,CS1 - Salem Lutheran Church,United States Representative District 3,,DEM,Cindy Axne,186,91,95
-Union,CS2 - SWCC,United States Representative District 3,,DEM,Cindy Axne,377,170,207
-Union,CS3 - Trinity Lutheran Church,United States Representative District 3,,DEM,Cindy Axne,287,111,176
-Union,CS4 - Supertel,United States Representative District 3,,DEM,Cindy Axne,223,92,131
-Union,CS5 - Crest Baptist Church,United States Representative District 3,,DEM,Cindy Axne,299,140,159
-Union,LR - Lorimor,United States Representative District 3,,DEM,Cindy Axne,78,42,36
-Union,Afton,United States Representative District 3,,LIB,Bryan Jack Holder,18,12,6
-Union,AR - Arispe,United States Representative District 3,,LIB,Bryan Jack Holder,7,1,6
-Union,CS1 - Salem Lutheran Church,United States Representative District 3,,LIB,Bryan Jack Holder,24,14,10
-Union,CS2 - SWCC,United States Representative District 3,,LIB,Bryan Jack Holder,20,10,10
-Union,CS3 - Trinity Lutheran Church,United States Representative District 3,,LIB,Bryan Jack Holder,11,8,3
-Union,CS4 - Supertel,United States Representative District 3,,LIB,Bryan Jack Holder,7,3,4
-Union,CS5 - Crest Baptist Church,United States Representative District 3,,LIB,Bryan Jack Holder,22,12,10
-Union,LR - Lorimor,United States Representative District 3,,LIB,Bryan Jack Holder,5,4,1
-Union,Afton,United States Representative District 3,,GRN,Paul Knupp,12,10,2
-Union,AR - Arispe,United States Representative District 3,,GRN,Paul Knupp,2,1,1
-Union,CS1 - Salem Lutheran Church,United States Representative District 3,,GRN,Paul Knupp,3,2,1
-Union,CS2 - SWCC,United States Representative District 3,,GRN,Paul Knupp,7,5,2
-Union,CS3 - Trinity Lutheran Church,United States Representative District 3,,GRN,Paul Knupp,5,4,1
-Union,CS4 - Supertel,United States Representative District 3,,GRN,Paul Knupp,7,4,3
-Union,CS5 - Crest Baptist Church,United States Representative District 3,,GRN,Paul Knupp,6,4,2
-Union,LR - Lorimor,United States Representative District 3,,GRN,Paul Knupp,2,2,0
-Union,Afton,United States Representative District 3,,LMN,Mark Elworth Jr.,3,3,0
-Union,AR - Arispe,United States Representative District 3,,LMN,Mark Elworth Jr.,1,1,0
-Union,CS1 - Salem Lutheran Church,United States Representative District 3,,LMN,Mark Elworth Jr.,6,3,3
-Union,CS2 - SWCC,United States Representative District 3,,LMN,Mark Elworth Jr.,11,7,4
-Union,CS3 - Trinity Lutheran Church,United States Representative District 3,,LMN,Mark Elworth Jr.,5,2,3
-Union,CS4 - Supertel,United States Representative District 3,,LMN,Mark Elworth Jr.,7,3,4
-Union,CS5 - Crest Baptist Church,United States Representative District 3,,LMN,Mark Elworth Jr.,0,0,0
-Union,LR - Lorimor,United States Representative District 3,,LMN,Mark Elworth Jr.,5,5,0
-Union,Afton,United States Representative District 3,,,Joe Grandanette,4,4,0
-Union,AR - Arispe,United States Representative District 3,,,Joe Grandanette,0,0,0
-Union,CS1 - Salem Lutheran Church,United States Representative District 3,,,Joe Grandanette,1,0,1
-Union,CS2 - SWCC,United States Representative District 3,,,Joe Grandanette,2,1,1
-Union,CS3 - Trinity Lutheran Church,United States Representative District 3,,,Joe Grandanette,3,2,1
-Union,CS4 - Supertel,United States Representative District 3,,,Joe Grandanette,0,0,0
-Union,CS5 - Crest Baptist Church,United States Representative District 3,,,Joe Grandanette,2,1,1
-Union,LR - Lorimor,United States Representative District 3,,,Joe Grandanette,2,2,0
-Union,Afton,United States Representative District 3,,,Write-in,0,0,0
-Union,AR - Arispe,United States Representative District 3,,,Write-in,0,0,0
-Union,CS1 - Salem Lutheran Church,United States Representative District 3,,,Write-in,0,0,0
-Union,CS2 - SWCC,United States Representative District 3,,,Write-in,0,0,0
-Union,CS3 - Trinity Lutheran Church,United States Representative District 3,,,Write-in,0,0,0
-Union,CS4 - Supertel,United States Representative District 3,,,Write-in,0,0,0
-Union,CS5 - Crest Baptist Church,United States Representative District 3,,,Write-in,0,0,0
-Union,LR - Lorimor,United States Representative District 3,,,Write-in,0,0,0
+Union,Afton,U.S. House,3,REP,David Young,428,295,133
+Union,AR - Arispe,U.S. House,3,REP,David Young,158,104,54
+Union,CS1 - Salem Lutheran Church,U.S. House,3,REP,David Young,220,136,84
+Union,CS2 - SWCC,U.S. House,3,REP,David Young,825,394,431
+Union,CS3 - Trinity Lutheran Church,U.S. House,3,REP,David Young,299,155,144
+Union,CS4 - Supertel,U.S. House,3,REP,David Young,284,162,122
+Union,CS5 - Crest Baptist Church,U.S. House,3,REP,David Young,505,287,218
+Union,LR - Lorimor,U.S. House,3,REP,David Young,211,138,73
+Union,Afton,U.S. House,3,DEM,Cindy Axne,209,114,95
+Union,AR - Arispe,U.S. House,3,DEM,Cindy Axne,58,38,20
+Union,CS1 - Salem Lutheran Church,U.S. House,3,DEM,Cindy Axne,186,91,95
+Union,CS2 - SWCC,U.S. House,3,DEM,Cindy Axne,377,170,207
+Union,CS3 - Trinity Lutheran Church,U.S. House,3,DEM,Cindy Axne,287,111,176
+Union,CS4 - Supertel,U.S. House,3,DEM,Cindy Axne,223,92,131
+Union,CS5 - Crest Baptist Church,U.S. House,3,DEM,Cindy Axne,299,140,159
+Union,LR - Lorimor,U.S. House,3,DEM,Cindy Axne,78,42,36
+Union,Afton,U.S. House,3,LIB,Bryan Jack Holder,18,12,6
+Union,AR - Arispe,U.S. House,3,LIB,Bryan Jack Holder,7,1,6
+Union,CS1 - Salem Lutheran Church,U.S. House,3,LIB,Bryan Jack Holder,24,14,10
+Union,CS2 - SWCC,U.S. House,3,LIB,Bryan Jack Holder,20,10,10
+Union,CS3 - Trinity Lutheran Church,U.S. House,3,LIB,Bryan Jack Holder,11,8,3
+Union,CS4 - Supertel,U.S. House,3,LIB,Bryan Jack Holder,7,3,4
+Union,CS5 - Crest Baptist Church,U.S. House,3,LIB,Bryan Jack Holder,22,12,10
+Union,LR - Lorimor,U.S. House,3,LIB,Bryan Jack Holder,5,4,1
+Union,Afton,U.S. House,3,GRN,Paul Knupp,12,10,2
+Union,AR - Arispe,U.S. House,3,GRN,Paul Knupp,2,1,1
+Union,CS1 - Salem Lutheran Church,U.S. House,3,GRN,Paul Knupp,3,2,1
+Union,CS2 - SWCC,U.S. House,3,GRN,Paul Knupp,7,5,2
+Union,CS3 - Trinity Lutheran Church,U.S. House,3,GRN,Paul Knupp,5,4,1
+Union,CS4 - Supertel,U.S. House,3,GRN,Paul Knupp,7,4,3
+Union,CS5 - Crest Baptist Church,U.S. House,3,GRN,Paul Knupp,6,4,2
+Union,LR - Lorimor,U.S. House,3,GRN,Paul Knupp,2,2,0
+Union,Afton,U.S. House,3,LMN,Mark Elworth Jr.,3,3,0
+Union,AR - Arispe,U.S. House,3,LMN,Mark Elworth Jr.,1,1,0
+Union,CS1 - Salem Lutheran Church,U.S. House,3,LMN,Mark Elworth Jr.,6,3,3
+Union,CS2 - SWCC,U.S. House,3,LMN,Mark Elworth Jr.,11,7,4
+Union,CS3 - Trinity Lutheran Church,U.S. House,3,LMN,Mark Elworth Jr.,5,2,3
+Union,CS4 - Supertel,U.S. House,3,LMN,Mark Elworth Jr.,7,3,4
+Union,CS5 - Crest Baptist Church,U.S. House,3,LMN,Mark Elworth Jr.,0,0,0
+Union,LR - Lorimor,U.S. House,3,LMN,Mark Elworth Jr.,5,5,0
+Union,Afton,U.S. House,3,,Joe Grandanette,4,4,0
+Union,AR - Arispe,U.S. House,3,,Joe Grandanette,0,0,0
+Union,CS1 - Salem Lutheran Church,U.S. House,3,,Joe Grandanette,1,0,1
+Union,CS2 - SWCC,U.S. House,3,,Joe Grandanette,2,1,1
+Union,CS3 - Trinity Lutheran Church,U.S. House,3,,Joe Grandanette,3,2,1
+Union,CS4 - Supertel,U.S. House,3,,Joe Grandanette,0,0,0
+Union,CS5 - Crest Baptist Church,U.S. House,3,,Joe Grandanette,2,1,1
+Union,LR - Lorimor,U.S. House,3,,Joe Grandanette,2,2,0
+Union,Afton,U.S. House,3,,Write-in,0,0,0
+Union,AR - Arispe,U.S. House,3,,Write-in,0,0,0
+Union,CS1 - Salem Lutheran Church,U.S. House,3,,Write-in,0,0,0
+Union,CS2 - SWCC,U.S. House,3,,Write-in,0,0,0
+Union,CS3 - Trinity Lutheran Church,U.S. House,3,,Write-in,0,0,0
+Union,CS4 - Supertel,U.S. House,3,,Write-in,0,0,0
+Union,CS5 - Crest Baptist Church,U.S. House,3,,Write-in,0,0,0
+Union,LR - Lorimor,U.S. House,3,,Write-in,0,0,0
 Union,Afton,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,439,296,143
 Union,AR - Arispe,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,164,107,57
 Union,CS1 - Salem Lutheran Church,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,222,135,87

@@ -1,48 +1,48 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Winneshiek,PCT 1 - HE/HI/PL,United States Representative District 1,,REP,Rod Blum,290,143,147
-Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,United States Representative District 1,,REP,Rod Blum,707,305,402
-Winneshiek,PCT 3 - DEW1/DETSUP2,United States Representative District 1,,REP,Rod Blum,590,246,344
-Winneshiek,PCT 4 - DEW2,United States Representative District 1,,REP,Rod Blum,251,117,134
-Winneshiek,PCT 5 - CN/DEW4/DETSUP3,United States Representative District 1,,REP,Rod Blum,378,162,216
-Winneshiek,PCT - 6 DEW5,United States Representative District 1,,REP,Rod Blum,211,93,118
-Winneshiek,PCT 7 - CA/SP,United States Representative District 1,,REP,Rod Blum,519,304,215
-Winneshiek,PCT 8 - MI/BLM,United States Representative District 1,,REP,Rod Blum,448,326,122
-Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,United States Representative District 1,,REP,Rod Blum,583,329,254
-Winneshiek,PCT 10 - JA/SU/WA,United States Representative District 1,,REP,Rod Blum,357,245,112
-Winneshiek,PCT 11 - DETSUP5,United States Representative District 1,,REP,Rod Blum,30,14,16
-Winneshiek,PCT 1 - HE/HI/PL,United States Representative District 1,,DEM,Abby Finkenauer,266,86,180
-Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,United States Representative District 1,,DEM,Abby Finkenauer,885,252,633
-Winneshiek,PCT 3 - DEW1/DETSUP2,United States Representative District 1,,DEM,Abby Finkenauer,749,223,526
-Winneshiek,PCT 4 - DEW2,United States Representative District 1,,DEM,Abby Finkenauer,652,181,471
-Winneshiek,PCT 5 - CN/DEW4/DETSUP3,United States Representative District 1,,DEM,Abby Finkenauer,651,229,422
-Winneshiek,PCT - 6 DEW5,United States Representative District 1,,DEM,Abby Finkenauer,486,149,337
-Winneshiek,PCT 7 - CA/SP,United States Representative District 1,,DEM,Abby Finkenauer,422,214,208
-Winneshiek,PCT 8 - MI/BLM,United States Representative District 1,,DEM,Abby Finkenauer,284,173,111
-Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,United States Representative District 1,,DEM,Abby Finkenauer,407,199,208
-Winneshiek,PCT 10 - JA/SU/WA,United States Representative District 1,,DEM,Abby Finkenauer,255,140,115
-Winneshiek,PCT 11 - DETSUP5,United States Representative District 1,,DEM,Abby Finkenauer,45,7,38
-Winneshiek,PCT 1 - HE/HI/PL,United States Representative District 1,,LIB,Troy Hageman,15,7,8
-Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,United States Representative District 1,,LIB,Troy Hageman,51,19,32
-Winneshiek,PCT 3 - DEW1/DETSUP2,United States Representative District 1,,LIB,Troy Hageman,47,22,25
-Winneshiek,PCT 4 - DEW2,United States Representative District 1,,LIB,Troy Hageman,32,12,20
-Winneshiek,PCT 5 - CN/DEW4/DETSUP3,United States Representative District 1,,LIB,Troy Hageman,22,12,10
-Winneshiek,PCT - 6 DEW5,United States Representative District 1,,LIB,Troy Hageman,13,7,6
-Winneshiek,PCT 7 - CA/SP,United States Representative District 1,,LIB,Troy Hageman,68,52,16
-Winneshiek,PCT 8 - MI/BLM,United States Representative District 1,,LIB,Troy Hageman,62,47,15
-Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,United States Representative District 1,,LIB,Troy Hageman,41,22,19
-Winneshiek,PCT 10 - JA/SU/WA,United States Representative District 1,,LIB,Troy Hageman,39,21,18
-Winneshiek,PCT 11 - DETSUP5,United States Representative District 1,,LIB,Troy Hageman,1,0,1
-Winneshiek,PCT 1 - HE/HI/PL,United States Representative District 1,,,Write-in,1,0,1
-Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,United States Representative District 1,,,Write-in,0,0,0
-Winneshiek,PCT 3 - DEW1/DETSUP2,United States Representative District 1,,,Write-in,0,0,0
-Winneshiek,PCT 4 - DEW2,United States Representative District 1,,,Write-in,0,0,0
-Winneshiek,PCT 5 - CN/DEW4/DETSUP3,United States Representative District 1,,,Write-in,0,0,0
-Winneshiek,PCT - 6 DEW5,United States Representative District 1,,,Write-in,0,0,0
-Winneshiek,PCT 7 - CA/SP,United States Representative District 1,,,Write-in,0,0,0
-Winneshiek,PCT 8 - MI/BLM,United States Representative District 1,,,Write-in,0,0,0
-Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,United States Representative District 1,,,Write-in,0,0,0
-Winneshiek,PCT 10 - JA/SU/WA,United States Representative District 1,,,Write-in,0,0,0
-Winneshiek,PCT 11 - DETSUP5,United States Representative District 1,,,Write-in,0,0,0
+Winneshiek,PCT 1 - HE/HI/PL,U.S. House,1,REP,Rod Blum,290,143,147
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,U.S. House,1,REP,Rod Blum,707,305,402
+Winneshiek,PCT 3 - DEW1/DETSUP2,U.S. House,1,REP,Rod Blum,590,246,344
+Winneshiek,PCT 4 - DEW2,U.S. House,1,REP,Rod Blum,251,117,134
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,U.S. House,1,REP,Rod Blum,378,162,216
+Winneshiek,PCT - 6 DEW5,U.S. House,1,REP,Rod Blum,211,93,118
+Winneshiek,PCT 7 - CA/SP,U.S. House,1,REP,Rod Blum,519,304,215
+Winneshiek,PCT 8 - MI/BLM,U.S. House,1,REP,Rod Blum,448,326,122
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,U.S. House,1,REP,Rod Blum,583,329,254
+Winneshiek,PCT 10 - JA/SU/WA,U.S. House,1,REP,Rod Blum,357,245,112
+Winneshiek,PCT 11 - DETSUP5,U.S. House,1,REP,Rod Blum,30,14,16
+Winneshiek,PCT 1 - HE/HI/PL,U.S. House,1,DEM,Abby Finkenauer,266,86,180
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,U.S. House,1,DEM,Abby Finkenauer,885,252,633
+Winneshiek,PCT 3 - DEW1/DETSUP2,U.S. House,1,DEM,Abby Finkenauer,749,223,526
+Winneshiek,PCT 4 - DEW2,U.S. House,1,DEM,Abby Finkenauer,652,181,471
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,U.S. House,1,DEM,Abby Finkenauer,651,229,422
+Winneshiek,PCT - 6 DEW5,U.S. House,1,DEM,Abby Finkenauer,486,149,337
+Winneshiek,PCT 7 - CA/SP,U.S. House,1,DEM,Abby Finkenauer,422,214,208
+Winneshiek,PCT 8 - MI/BLM,U.S. House,1,DEM,Abby Finkenauer,284,173,111
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,U.S. House,1,DEM,Abby Finkenauer,407,199,208
+Winneshiek,PCT 10 - JA/SU/WA,U.S. House,1,DEM,Abby Finkenauer,255,140,115
+Winneshiek,PCT 11 - DETSUP5,U.S. House,1,DEM,Abby Finkenauer,45,7,38
+Winneshiek,PCT 1 - HE/HI/PL,U.S. House,1,LIB,Troy Hageman,15,7,8
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,U.S. House,1,LIB,Troy Hageman,51,19,32
+Winneshiek,PCT 3 - DEW1/DETSUP2,U.S. House,1,LIB,Troy Hageman,47,22,25
+Winneshiek,PCT 4 - DEW2,U.S. House,1,LIB,Troy Hageman,32,12,20
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,U.S. House,1,LIB,Troy Hageman,22,12,10
+Winneshiek,PCT - 6 DEW5,U.S. House,1,LIB,Troy Hageman,13,7,6
+Winneshiek,PCT 7 - CA/SP,U.S. House,1,LIB,Troy Hageman,68,52,16
+Winneshiek,PCT 8 - MI/BLM,U.S. House,1,LIB,Troy Hageman,62,47,15
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,U.S. House,1,LIB,Troy Hageman,41,22,19
+Winneshiek,PCT 10 - JA/SU/WA,U.S. House,1,LIB,Troy Hageman,39,21,18
+Winneshiek,PCT 11 - DETSUP5,U.S. House,1,LIB,Troy Hageman,1,0,1
+Winneshiek,PCT 1 - HE/HI/PL,U.S. House,1,,Write-in,1,0,1
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,U.S. House,1,,Write-in,0,0,0
+Winneshiek,PCT 3 - DEW1/DETSUP2,U.S. House,1,,Write-in,0,0,0
+Winneshiek,PCT 4 - DEW2,U.S. House,1,,Write-in,0,0,0
+Winneshiek,PCT 5 - CN/DEW4/DETSUP3,U.S. House,1,,Write-in,0,0,0
+Winneshiek,PCT - 6 DEW5,U.S. House,1,,Write-in,0,0,0
+Winneshiek,PCT 7 - CA/SP,U.S. House,1,,Write-in,0,0,0
+Winneshiek,PCT 8 - MI/BLM,U.S. House,1,,Write-in,0,0,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,U.S. House,1,,Write-in,0,0,0
+Winneshiek,PCT 10 - JA/SU/WA,U.S. House,1,,Write-in,0,0,0
+Winneshiek,PCT 11 - DETSUP5,U.S. House,1,,Write-in,0,0,0
 Winneshiek,PCT 1 - HE/HI/PL,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,318,164,154
 Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,754,317,437
 Winneshiek,PCT 3 - DEW1/DETSUP2,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,639,261,378

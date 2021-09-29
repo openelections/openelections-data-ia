@@ -1,44 +1,44 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Butler,1-GR,United States Representative District 4,,DEM,J.D. Scholten,397,292,105
-Butler,2-CL,United States Representative District 4,,DEM,J.D. Scholten,388,270,118
-Butler,3-DU,United States Representative District 4,,DEM,J.D. Scholten,134,86,48
-Butler,4-AL,United States Representative District 4,,DEM,J.D. Scholten,144,93,51
-Butler,5-AP,United States Representative District 4,,DEM,J.D. Scholten,187,133,54
-Butler,6-SR,United States Representative District 4,,DEM,J.D. Scholten,417,260,157
-Butler,7-PB,United States Representative District 4,,DEM,J.D. Scholten,340,247,93
-Butler,8-NH,United States Representative District 4,,DEM,J.D. Scholten,192,152,40
-Butler,1-GR,United States Representative District 4,,REP,Steve King,439,279,160
-Butler,2-CL,United States Representative District 4,,REP,Steve King,531,365,166
-Butler,3-DU,United States Representative District 4,,REP,Steve King,391,244,147
-Butler,4-AL,United States Representative District 4,,REP,Steve King,405,225,180
-Butler,5-AP,United States Representative District 4,,REP,Steve King,521,363,158
-Butler,6-SR,United States Representative District 4,,REP,Steve King,543,372,171
-Butler,7-PB,United States Representative District 4,,REP,Steve King,624,415,209
-Butler,8-NH,United States Representative District 4,,REP,Steve King,221,153,68
-Butler,1-GR,United States Representative District 4,,LIB,Charles Aldrich,19,18,1
-Butler,2-CL,United States Representative District 4,,LIB,Charles Aldrich,22,18,4
-Butler,3-DU,United States Representative District 4,,LIB,Charles Aldrich,9,7,2
-Butler,4-AL,United States Representative District 4,,LIB,Charles Aldrich,14,11,3
-Butler,5-AP,United States Representative District 4,,LIB,Charles Aldrich,20,16,4
-Butler,6-SR,United States Representative District 4,,LIB,Charles Aldrich,32,24,8
-Butler,7-PB,United States Representative District 4,,LIB,Charles Aldrich,22,18,4
-Butler,8-NH,United States Representative District 4,,LIB,Charles Aldrich,12,11,1
-Butler,1-GR,United States Representative District 4,,,Edward Peterson,4,3,1
-Butler,2-CL,United States Representative District 4,,,Edward Peterson,11,8,3
-Butler,3-DU,United States Representative District 4,,,Edward Peterson,2,2,0
-Butler,4-AL,United States Representative District 4,,,Edward Peterson,2,1,1
-Butler,5-AP,United States Representative District 4,,,Edward Peterson,1,0,1
-Butler,6-SR,United States Representative District 4,,,Edward Peterson,10,7,3
-Butler,7-PB,United States Representative District 4,,,Edward Peterson,5,5,0
-Butler,8-NH,United States Representative District 4,,,Edward Peterson,6,5,1
-Butler,1-GR,United States Representative District 4,,,Write-in,3,3,0
-Butler,2-CL,United States Representative District 4,,,Write-in,1,1,0
-Butler,3-DU,United States Representative District 4,,,Write-in,0,0,0
-Butler,4-AL,United States Representative District 4,,,Write-in,0,0,0
-Butler,5-AP,United States Representative District 4,,,Write-in,0,0,0
-Butler,6-SR,United States Representative District 4,,,Write-in,1,1,0
-Butler,7-PB,United States Representative District 4,,,Write-in,0,0,0
-Butler,8-NH,United States Representative District 4,,,Write-in,0,0,0
+Butler,1-GR,U.S. House,4,DEM,J.D. Scholten,397,292,105
+Butler,2-CL,U.S. House,4,DEM,J.D. Scholten,388,270,118
+Butler,3-DU,U.S. House,4,DEM,J.D. Scholten,134,86,48
+Butler,4-AL,U.S. House,4,DEM,J.D. Scholten,144,93,51
+Butler,5-AP,U.S. House,4,DEM,J.D. Scholten,187,133,54
+Butler,6-SR,U.S. House,4,DEM,J.D. Scholten,417,260,157
+Butler,7-PB,U.S. House,4,DEM,J.D. Scholten,340,247,93
+Butler,8-NH,U.S. House,4,DEM,J.D. Scholten,192,152,40
+Butler,1-GR,U.S. House,4,REP,Steve King,439,279,160
+Butler,2-CL,U.S. House,4,REP,Steve King,531,365,166
+Butler,3-DU,U.S. House,4,REP,Steve King,391,244,147
+Butler,4-AL,U.S. House,4,REP,Steve King,405,225,180
+Butler,5-AP,U.S. House,4,REP,Steve King,521,363,158
+Butler,6-SR,U.S. House,4,REP,Steve King,543,372,171
+Butler,7-PB,U.S. House,4,REP,Steve King,624,415,209
+Butler,8-NH,U.S. House,4,REP,Steve King,221,153,68
+Butler,1-GR,U.S. House,4,LIB,Charles Aldrich,19,18,1
+Butler,2-CL,U.S. House,4,LIB,Charles Aldrich,22,18,4
+Butler,3-DU,U.S. House,4,LIB,Charles Aldrich,9,7,2
+Butler,4-AL,U.S. House,4,LIB,Charles Aldrich,14,11,3
+Butler,5-AP,U.S. House,4,LIB,Charles Aldrich,20,16,4
+Butler,6-SR,U.S. House,4,LIB,Charles Aldrich,32,24,8
+Butler,7-PB,U.S. House,4,LIB,Charles Aldrich,22,18,4
+Butler,8-NH,U.S. House,4,LIB,Charles Aldrich,12,11,1
+Butler,1-GR,U.S. House,4,,Edward Peterson,4,3,1
+Butler,2-CL,U.S. House,4,,Edward Peterson,11,8,3
+Butler,3-DU,U.S. House,4,,Edward Peterson,2,2,0
+Butler,4-AL,U.S. House,4,,Edward Peterson,2,1,1
+Butler,5-AP,U.S. House,4,,Edward Peterson,1,0,1
+Butler,6-SR,U.S. House,4,,Edward Peterson,10,7,3
+Butler,7-PB,U.S. House,4,,Edward Peterson,5,5,0
+Butler,8-NH,U.S. House,4,,Edward Peterson,6,5,1
+Butler,1-GR,U.S. House,4,,Write-in,3,3,0
+Butler,2-CL,U.S. House,4,,Write-in,1,1,0
+Butler,3-DU,U.S. House,4,,Write-in,0,0,0
+Butler,4-AL,U.S. House,4,,Write-in,0,0,0
+Butler,5-AP,U.S. House,4,,Write-in,0,0,0
+Butler,6-SR,U.S. House,4,,Write-in,1,1,0
+Butler,7-PB,U.S. House,4,,Write-in,0,0,0
+Butler,8-NH,U.S. House,4,,Write-in,0,0,0
 Butler,1-GR,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,337,244,93
 Butler,2-CL,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,343,235,108
 Butler,3-DU,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,125,74,51

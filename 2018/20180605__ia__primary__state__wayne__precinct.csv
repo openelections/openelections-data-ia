@@ -1,16 +1,16 @@
 county,precinct,office,district,party,candidate,votes,av_counting_board,election_day
-Wayne,A01 - Allerton,United States Representative District 2,,REP,Christopher Peters,61,0,61
-Wayne,C02 - Corydon,United States Representative District 2,,REP,Christopher Peters,63,0,63
-Wayne,H03 - Humeston,United States Representative District 2,,REP,Christopher Peters,42,0,42
-Wayne,S04 - Seymour,United States Representative District 2,,REP,Christopher Peters,67,0,67
-Wayne,A01 - Allerton,United States Representative District 2,,,Write-in,0,0,0
-Wayne,C02 - Corydon,United States Representative District 2,,,Write-in,0,0,0
-Wayne,H03 - Humeston,United States Representative District 2,,,Write-in,0,0,0
-Wayne,S04 - Seymour,United States Representative District 2,,,Write-in,0,0,0
-Wayne,A01 - Allerton,United States Representative District 2,,DEM,Dave Loebsack,46,0,46
-Wayne,C02 - Corydon,United States Representative District 2,,DEM,Dave Loebsack,75,0,75
-Wayne,H03 - Humeston,United States Representative District 2,,DEM,Dave Loebsack,49,0,49
-Wayne,S04 - Seymour,United States Representative District 2,,DEM,Dave Loebsack,66,0,66
+Wayne,A01 - Allerton,U.S. House,2,REP,Christopher Peters,61,0,61
+Wayne,C02 - Corydon,U.S. House,2,REP,Christopher Peters,63,0,63
+Wayne,H03 - Humeston,U.S. House,2,REP,Christopher Peters,42,0,42
+Wayne,S04 - Seymour,U.S. House,2,REP,Christopher Peters,67,0,67
+Wayne,A01 - Allerton,U.S. House,2,,Write-in,0,0,0
+Wayne,C02 - Corydon,U.S. House,2,,Write-in,0,0,0
+Wayne,H03 - Humeston,U.S. House,2,,Write-in,0,0,0
+Wayne,S04 - Seymour,U.S. House,2,,Write-in,0,0,0
+Wayne,A01 - Allerton,U.S. House,2,DEM,Dave Loebsack,46,0,46
+Wayne,C02 - Corydon,U.S. House,2,DEM,Dave Loebsack,75,0,75
+Wayne,H03 - Humeston,U.S. House,2,DEM,Dave Loebsack,49,0,49
+Wayne,S04 - Seymour,U.S. House,2,DEM,Dave Loebsack,66,0,66
 Wayne,A01 - Allerton,Governor,,REP,Kim Reynolds,71,0,71
 Wayne,C02 - Corydon,Governor,,REP,Kim Reynolds,77,0,77
 Wayne,H03 - Humeston,Governor,,REP,Kim Reynolds,47,0,47

@@ -1,34 +1,34 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Hancock,Precinct #1,United States Representative District 4,,REP,Cyndi Hanson,22,2,20
-Hancock,Precinct #2,United States Representative District 4,,REP,Cyndi Hanson,13,0,13
-Hancock,Precinct #3,United States Representative District 4,,REP,Cyndi Hanson,11,0,11
-Hancock,Precinct #4,United States Representative District 4,,REP,Cyndi Hanson,50,4,46
-Hancock,Precinct #5,United States Representative District 4,,REP,Cyndi Hanson,8,0,8
-Hancock,Precinct #6,United States Representative District 4,,REP,Cyndi Hanson,78,10,68
-Hancock,Precinct #7,United States Representative District 4,,REP,Cyndi Hanson,15,3,12
-Hancock,Precinct #8,United States Representative District 4,,REP,Cyndi Hanson,6,0,6
-Hancock,Precinct #9,United States Representative District 4,,REP,Cyndi Hanson,9,2,7
-Hancock,Precinct #10,United States Representative District 4,,REP,Cyndi Hanson,5,0,5
-Hancock,Precinct #1,United States Representative District 4,,REP,Steve King,45,0,45
-Hancock,Precinct #2,United States Representative District 4,,REP,Steve King,24,0,24
-Hancock,Precinct #3,United States Representative District 4,,REP,Steve King,19,0,19
-Hancock,Precinct #4,United States Representative District 4,,REP,Steve King,157,20,137
-Hancock,Precinct #5,United States Representative District 4,,REP,Steve King,18,3,15
-Hancock,Precinct #6,United States Representative District 4,,REP,Steve King,142,23,119
-Hancock,Precinct #7,United States Representative District 4,,REP,Steve King,42,1,41
-Hancock,Precinct #8,United States Representative District 4,,REP,Steve King,17,0,17
-Hancock,Precinct #9,United States Representative District 4,,REP,Steve King,43,6,37
-Hancock,Precinct #10,United States Representative District 4,,REP,Steve King,8,0,8
-Hancock,Precinct #1,United States Representative District 4,,,Write-in,0,0,0
-Hancock,Precinct #2,United States Representative District 4,,,Write-in,0,0,0
-Hancock,Precinct #3,United States Representative District 4,,,Write-in,0,0,0
-Hancock,Precinct #4,United States Representative District 4,,,Write-in,0,0,0
-Hancock,Precinct #5,United States Representative District 4,,,Write-in,0,0,0
-Hancock,Precinct #6,United States Representative District 4,,,Write-in,0,0,0
-Hancock,Precinct #7,United States Representative District 4,,,Write-in,0,0,0
-Hancock,Precinct #8,United States Representative District 4,,,Write-in,0,0,0
-Hancock,Precinct #9,United States Representative District 4,,,Write-in,0,0,0
-Hancock,Precinct #10,United States Representative District 4,,,Write-in,0,0,0
+Hancock,Precinct #1,U.S. House,4,REP,Cyndi Hanson,22,2,20
+Hancock,Precinct #2,U.S. House,4,REP,Cyndi Hanson,13,0,13
+Hancock,Precinct #3,U.S. House,4,REP,Cyndi Hanson,11,0,11
+Hancock,Precinct #4,U.S. House,4,REP,Cyndi Hanson,50,4,46
+Hancock,Precinct #5,U.S. House,4,REP,Cyndi Hanson,8,0,8
+Hancock,Precinct #6,U.S. House,4,REP,Cyndi Hanson,78,10,68
+Hancock,Precinct #7,U.S. House,4,REP,Cyndi Hanson,15,3,12
+Hancock,Precinct #8,U.S. House,4,REP,Cyndi Hanson,6,0,6
+Hancock,Precinct #9,U.S. House,4,REP,Cyndi Hanson,9,2,7
+Hancock,Precinct #10,U.S. House,4,REP,Cyndi Hanson,5,0,5
+Hancock,Precinct #1,U.S. House,4,REP,Steve King,45,0,45
+Hancock,Precinct #2,U.S. House,4,REP,Steve King,24,0,24
+Hancock,Precinct #3,U.S. House,4,REP,Steve King,19,0,19
+Hancock,Precinct #4,U.S. House,4,REP,Steve King,157,20,137
+Hancock,Precinct #5,U.S. House,4,REP,Steve King,18,3,15
+Hancock,Precinct #6,U.S. House,4,REP,Steve King,142,23,119
+Hancock,Precinct #7,U.S. House,4,REP,Steve King,42,1,41
+Hancock,Precinct #8,U.S. House,4,REP,Steve King,17,0,17
+Hancock,Precinct #9,U.S. House,4,REP,Steve King,43,6,37
+Hancock,Precinct #10,U.S. House,4,REP,Steve King,8,0,8
+Hancock,Precinct #1,U.S. House,4,,Write-in,0,0,0
+Hancock,Precinct #2,U.S. House,4,,Write-in,0,0,0
+Hancock,Precinct #3,U.S. House,4,,Write-in,0,0,0
+Hancock,Precinct #4,U.S. House,4,,Write-in,0,0,0
+Hancock,Precinct #5,U.S. House,4,,Write-in,0,0,0
+Hancock,Precinct #6,U.S. House,4,,Write-in,0,0,0
+Hancock,Precinct #7,U.S. House,4,,Write-in,0,0,0
+Hancock,Precinct #8,U.S. House,4,,Write-in,0,0,0
+Hancock,Precinct #9,U.S. House,4,,Write-in,0,0,0
+Hancock,Precinct #10,U.S. House,4,,Write-in,0,0,0
 Hancock,Precinct #1,Governor,,REP,Kim Reynolds,66,3,63
 Hancock,Precinct #2,Governor,,REP,Kim Reynolds,34,0,34
 Hancock,Precinct #3,Governor,,REP,Kim Reynolds,29,0,29
@@ -299,36 +299,36 @@ Hancock,Precinct #7,County Attorney,,,Write-in,0,0,0
 Hancock,Precinct #8,County Attorney,,,Write-in,0,0,0
 Hancock,Precinct #9,County Attorney,,,Write-in,0,0,0
 Hancock,Precinct #10,County Attorney,,,Write-in,0,0,0
-Hancock,Precinct #1,United States Representative District 4,,DEM,Leann Jacobsen,16,3,13
-Hancock,Precinct #2,United States Representative District 4,,DEM,Leann Jacobsen,5,0,5
-Hancock,Precinct #3,United States Representative District 4,,DEM,Leann Jacobsen,6,0,6
-Hancock,Precinct #4,United States Representative District 4,,DEM,Leann Jacobsen,14,2,12
-Hancock,Precinct #5,United States Representative District 4,,DEM,Leann Jacobsen,1,0,1
-Hancock,Precinct #6,United States Representative District 4,,DEM,Leann Jacobsen,30,6,24
-Hancock,Precinct #7,United States Representative District 4,,DEM,Leann Jacobsen,12,1,11
-Hancock,Precinct #8,United States Representative District 4,,DEM,Leann Jacobsen,10,1,9
-Hancock,Precinct #9,United States Representative District 4,,DEM,Leann Jacobsen,11,1,10
-Hancock,Precinct #10,United States Representative District 4,,DEM,Leann Jacobsen,4,0,4
-Hancock,Precinct #1,United States Representative District 4,,DEM,John Paschen,2,1,1
-Hancock,Precinct #2,United States Representative District 4,,DEM,John Paschen,0,0,0
-Hancock,Precinct #3,United States Representative District 4,,DEM,John Paschen,0,0,0
-Hancock,Precinct #4,United States Representative District 4,,DEM,John Paschen,4,0,4
-Hancock,Precinct #5,United States Representative District 4,,DEM,John Paschen,1,0,1
-Hancock,Precinct #6,United States Representative District 4,,DEM,John Paschen,4,0,4
-Hancock,Precinct #7,United States Representative District 4,,DEM,John Paschen,0,0,0
-Hancock,Precinct #8,United States Representative District 4,,DEM,John Paschen,0,0,0
-Hancock,Precinct #9,United States Representative District 4,,DEM,John Paschen,2,0,2
-Hancock,Precinct #10,United States Representative District 4,,DEM,John Paschen,0,0,0
-Hancock,Precinct #1,United States Representative District 4,,DEM,J. D. Scholten,16,0,16
-Hancock,Precinct #2,United States Representative District 4,,DEM,J. D. Scholten,9,0,9
-Hancock,Precinct #3,United States Representative District 4,,DEM,J. D. Scholten,9,0,9
-Hancock,Precinct #4,United States Representative District 4,,DEM,J. D. Scholten,42,5,37
-Hancock,Precinct #5,United States Representative District 4,,DEM,J. D. Scholten,3,0,3
-Hancock,Precinct #6,United States Representative District 4,,DEM,J. D. Scholten,43,8,35
-Hancock,Precinct #7,United States Representative District 4,,DEM,J. D. Scholten,9,1,8
-Hancock,Precinct #8,United States Representative District 4,,DEM,J. D. Scholten,7,0,7
-Hancock,Precinct #9,United States Representative District 4,,DEM,J. D. Scholten,9,0,9
-Hancock,Precinct #10,United States Representative District 4,,DEM,J. D. Scholten,8,1,7
+Hancock,Precinct #1,U.S. House,4,DEM,Leann Jacobsen,16,3,13
+Hancock,Precinct #2,U.S. House,4,DEM,Leann Jacobsen,5,0,5
+Hancock,Precinct #3,U.S. House,4,DEM,Leann Jacobsen,6,0,6
+Hancock,Precinct #4,U.S. House,4,DEM,Leann Jacobsen,14,2,12
+Hancock,Precinct #5,U.S. House,4,DEM,Leann Jacobsen,1,0,1
+Hancock,Precinct #6,U.S. House,4,DEM,Leann Jacobsen,30,6,24
+Hancock,Precinct #7,U.S. House,4,DEM,Leann Jacobsen,12,1,11
+Hancock,Precinct #8,U.S. House,4,DEM,Leann Jacobsen,10,1,9
+Hancock,Precinct #9,U.S. House,4,DEM,Leann Jacobsen,11,1,10
+Hancock,Precinct #10,U.S. House,4,DEM,Leann Jacobsen,4,0,4
+Hancock,Precinct #1,U.S. House,4,DEM,John Paschen,2,1,1
+Hancock,Precinct #2,U.S. House,4,DEM,John Paschen,0,0,0
+Hancock,Precinct #3,U.S. House,4,DEM,John Paschen,0,0,0
+Hancock,Precinct #4,U.S. House,4,DEM,John Paschen,4,0,4
+Hancock,Precinct #5,U.S. House,4,DEM,John Paschen,1,0,1
+Hancock,Precinct #6,U.S. House,4,DEM,John Paschen,4,0,4
+Hancock,Precinct #7,U.S. House,4,DEM,John Paschen,0,0,0
+Hancock,Precinct #8,U.S. House,4,DEM,John Paschen,0,0,0
+Hancock,Precinct #9,U.S. House,4,DEM,John Paschen,2,0,2
+Hancock,Precinct #10,U.S. House,4,DEM,John Paschen,0,0,0
+Hancock,Precinct #1,U.S. House,4,DEM,J. D. Scholten,16,0,16
+Hancock,Precinct #2,U.S. House,4,DEM,J. D. Scholten,9,0,9
+Hancock,Precinct #3,U.S. House,4,DEM,J. D. Scholten,9,0,9
+Hancock,Precinct #4,U.S. House,4,DEM,J. D. Scholten,42,5,37
+Hancock,Precinct #5,U.S. House,4,DEM,J. D. Scholten,3,0,3
+Hancock,Precinct #6,U.S. House,4,DEM,J. D. Scholten,43,8,35
+Hancock,Precinct #7,U.S. House,4,DEM,J. D. Scholten,9,1,8
+Hancock,Precinct #8,U.S. House,4,DEM,J. D. Scholten,7,0,7
+Hancock,Precinct #9,U.S. House,4,DEM,J. D. Scholten,9,0,9
+Hancock,Precinct #10,U.S. House,4,DEM,J. D. Scholten,8,1,7
 Hancock,Precinct #1,Governor,,DEM,Nate Boulton,1,0,1
 Hancock,Precinct #2,Governor,,DEM,Nate Boulton,0,0,0
 Hancock,Precinct #3,Governor,,DEM,Nate Boulton,1,0,1
@@ -579,16 +579,16 @@ Hancock,Precinct #7,County Attorney,,DEM,Ted Hovda,0,0,0
 Hancock,Precinct #8,County Attorney,,DEM,Ted Hovda,0,0,0
 Hancock,Precinct #9,County Attorney,,DEM,Ted Hovda,0,0,0
 Hancock,Precinct #10,County Attorney,,DEM,Ted Hovda,0,0,0
-Hancock,Precinct #1,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Hancock,Precinct #2,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Hancock,Precinct #3,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Hancock,Precinct #4,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Hancock,Precinct #5,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Hancock,Precinct #6,United States Representative District 4,,LIB,Charles Aldrich,2,1,1
-Hancock,Precinct #7,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Hancock,Precinct #8,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
-Hancock,Precinct #9,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Hancock,Precinct #10,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
+Hancock,Precinct #1,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Hancock,Precinct #2,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Hancock,Precinct #3,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Hancock,Precinct #4,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Hancock,Precinct #5,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Hancock,Precinct #6,U.S. House,4,LIB,Charles Aldrich,2,1,1
+Hancock,Precinct #7,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Hancock,Precinct #8,U.S. House,4,LIB,Charles Aldrich,1,0,1
+Hancock,Precinct #9,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Hancock,Precinct #10,U.S. House,4,LIB,Charles Aldrich,1,0,1
 Hancock,Precinct #1,Governor,,LIB,Marco Battaglia,0,0,0
 Hancock,Precinct #2,Governor,,LIB,Marco Battaglia,0,0,0
 Hancock,Precinct #3,Governor,,LIB,Marco Battaglia,0,0,0

@@ -1,19 +1,19 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Louisa,Columbus Junction,United States Representative District 2,,REP,Christopher Peters,43,2,41
-Louisa,Grandview-Port Louisa,United States Representative District 2,,REP,Christopher Peters,51,2,49
-Louisa,Morning Sun-Marshall,United States Representative District 2,,REP,Christopher Peters,44,2,42
-Louisa,Southeast Louisa,United States Representative District 2,,REP,Christopher Peters,119,15,104
-Louisa,West Louisa,United States Representative District 2,,REP,Christopher Peters,72,9,63
-Louisa,Columbus Junction,United States Representative District 2,,REP,Ginny Caligiuri,0,0,0
-Louisa,Grandview-Port Louisa,United States Representative District 2,,REP,Ginny Caligiuri,18,3,15
-Louisa,Morning Sun-Marshall,United States Representative District 2,,REP,Ginny Caligiuri,2,0,2
-Louisa,Southeast Louisa,United States Representative District 2,,REP,Ginny Caligiuri,11,3,8
-Louisa,West Louisa,United States Representative District 2,,REP,Ginny Caligiuri,3,0,3
-Louisa,Columbus Junction,United States Representative District 2,,,Write-in,0,0,0
-Louisa,Grandview-Port Louisa,United States Representative District 2,,,Write-in,0,0,0
-Louisa,Morning Sun-Marshall,United States Representative District 2,,,Write-in,0,0,0
-Louisa,Southeast Louisa,United States Representative District 2,,,Write-in,0,0,0
-Louisa,West Louisa,United States Representative District 2,,,Write-in,0,0,0
+Louisa,Columbus Junction,U.S. House,2,REP,Christopher Peters,43,2,41
+Louisa,Grandview-Port Louisa,U.S. House,2,REP,Christopher Peters,51,2,49
+Louisa,Morning Sun-Marshall,U.S. House,2,REP,Christopher Peters,44,2,42
+Louisa,Southeast Louisa,U.S. House,2,REP,Christopher Peters,119,15,104
+Louisa,West Louisa,U.S. House,2,REP,Christopher Peters,72,9,63
+Louisa,Columbus Junction,U.S. House,2,REP,Ginny Caligiuri,0,0,0
+Louisa,Grandview-Port Louisa,U.S. House,2,REP,Ginny Caligiuri,18,3,15
+Louisa,Morning Sun-Marshall,U.S. House,2,REP,Ginny Caligiuri,2,0,2
+Louisa,Southeast Louisa,U.S. House,2,REP,Ginny Caligiuri,11,3,8
+Louisa,West Louisa,U.S. House,2,REP,Ginny Caligiuri,3,0,3
+Louisa,Columbus Junction,U.S. House,2,,Write-in,0,0,0
+Louisa,Grandview-Port Louisa,U.S. House,2,,Write-in,0,0,0
+Louisa,Morning Sun-Marshall,U.S. House,2,,Write-in,0,0,0
+Louisa,Southeast Louisa,U.S. House,2,,Write-in,0,0,0
+Louisa,West Louisa,U.S. House,2,,Write-in,0,0,0
 Louisa,Columbus Junction,Governor,,REP,Kim Reynolds,44,4,40
 Louisa,Grandview-Port Louisa,Governor,,REP,Kim Reynolds,75,5,70
 Louisa,Morning Sun-Marshall,Governor,,REP,Kim Reynolds,46,2,44
@@ -214,11 +214,11 @@ Louisa,Grandview-Port Louisa,County Attorney,,,Write-in,0,0,0
 Louisa,Morning Sun-Marshall,County Attorney,,,Write-in,0,0,0
 Louisa,Southeast Louisa,County Attorney,,,Write-in,0,0,0
 Louisa,West Louisa,County Attorney,,,Write-in,0,0,0
-Louisa,Columbus Junction,United States Representative District 2,,DEM,Dave Loebsack,57,20,37
-Louisa,Grandview-Port Louisa,United States Representative District 2,,DEM,Dave Loebsack,40,6,34
-Louisa,Morning Sun-Marshall,United States Representative District 2,,DEM,Dave Loebsack,36,5,31
-Louisa,Southeast Louisa,United States Representative District 2,,DEM,Dave Loebsack,99,19,80
-Louisa,West Louisa,United States Representative District 2,,DEM,Dave Loebsack,59,16,43
+Louisa,Columbus Junction,U.S. House,2,DEM,Dave Loebsack,57,20,37
+Louisa,Grandview-Port Louisa,U.S. House,2,DEM,Dave Loebsack,40,6,34
+Louisa,Morning Sun-Marshall,U.S. House,2,DEM,Dave Loebsack,36,5,31
+Louisa,Southeast Louisa,U.S. House,2,DEM,Dave Loebsack,99,19,80
+Louisa,West Louisa,U.S. House,2,DEM,Dave Loebsack,59,16,43
 Louisa,Columbus Junction,Governor,,DEM,Nate Boulton,50,19,31
 Louisa,Grandview-Port Louisa,Governor,,DEM,Nate Boulton,6,2,4
 Louisa,Morning Sun-Marshall,Governor,,DEM,Nate Boulton,9,5,4
@@ -389,11 +389,11 @@ Louisa,Grandview-Port Louisa,County Attorney,,DEM,Roger Huddle,0,0,0
 Louisa,Morning Sun-Marshall,County Attorney,,DEM,Roger Huddle,0,0,0
 Louisa,Southeast Louisa,County Attorney,,DEM,Roger Huddle,1,1,0
 Louisa,West Louisa,County Attorney,,DEM,Roger Huddle,0,0,0
-Louisa,Columbus Junction,United States Representative District 2,,LIB,Lobsack,0,0,0
-Louisa,Grandview-Port Louisa,United States Representative District 2,,LIB,Lobsack,0,0,0
-Louisa,Morning Sun-Marshall,United States Representative District 2,,LIB,Lobsack,0,0,0
-Louisa,Southeast Louisa,United States Representative District 2,,LIB,Lobsack,1,0,1
-Louisa,West Louisa,United States Representative District 2,,LIB,Lobsack,0,0,0
+Louisa,Columbus Junction,U.S. House,2,LIB,Lobsack,0,0,0
+Louisa,Grandview-Port Louisa,U.S. House,2,LIB,Lobsack,0,0,0
+Louisa,Morning Sun-Marshall,U.S. House,2,LIB,Lobsack,0,0,0
+Louisa,Southeast Louisa,U.S. House,2,LIB,Lobsack,1,0,1
+Louisa,West Louisa,U.S. House,2,LIB,Lobsack,0,0,0
 Louisa,Columbus Junction,Governor,,LIB,Marco Battaglia,0,0,0
 Louisa,Grandview-Port Louisa,Governor,,LIB,Marco Battaglia,0,0,0
 Louisa,Morning Sun-Marshall,Governor,,LIB,Marco Battaglia,1,0,1

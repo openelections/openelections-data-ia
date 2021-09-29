@@ -1,44 +1,44 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Osceola,Ashton Precinct,United States Representative District 4,,REP,Steve King,227,170,57
-Osceola,Harris Precinct,United States Representative District 4,,REP,Steve King,99,89,10
-Osceola,May City Precinct,United States Representative District 4,,REP,Steve King,89,65,24
-Osceola,Melvin Precinct,United States Representative District 4,,REP,Steve King,138,99,39
-Osceola,Ocheyedan Precinct,United States Representative District 4,,REP,Steve King,144,109,35
-Osceola,Osceola 1 Precinct,United States Representative District 4,,REP,Steve King,275,175,100
-Osceola,Osceola 2 Precinct,United States Representative District 4,,REP,Steve King,323,225,98
-Osceola,Osceola 3 Precinct,United States Representative District 4,,REP,Steve King,368,262,106
-Osceola,Ashton Precinct,United States Representative District 4,,DEM,J.D. Scholten,74,61,13
-Osceola,Harris Precinct,United States Representative District 4,,DEM,J.D. Scholten,29,28,1
-Osceola,May City Precinct,United States Representative District 4,,DEM,J.D. Scholten,42,32,10
-Osceola,Melvin Precinct,United States Representative District 4,,DEM,J.D. Scholten,63,53,10
-Osceola,Ocheyedan Precinct,United States Representative District 4,,DEM,J.D. Scholten,77,65,12
-Osceola,Osceola 1 Precinct,United States Representative District 4,,DEM,J.D. Scholten,97,54,43
-Osceola,Osceola 2 Precinct,United States Representative District 4,,DEM,J.D. Scholten,161,118,43
-Osceola,Osceola 3 Precinct,United States Representative District 4,,DEM,J.D. Scholten,166,124,42
-Osceola,Ashton Precinct,United States Representative District 4,,LIB,Charles Aldrich,4,1,3
-Osceola,Harris Precinct,United States Representative District 4,,LIB,Charles Aldrich,1,1,0
-Osceola,May City Precinct,United States Representative District 4,,LIB,Charles Aldrich,4,3,1
-Osceola,Melvin Precinct,United States Representative District 4,,LIB,Charles Aldrich,4,4,0
-Osceola,Ocheyedan Precinct,United States Representative District 4,,LIB,Charles Aldrich,5,4,1
-Osceola,Osceola 1 Precinct,United States Representative District 4,,LIB,Charles Aldrich,5,3,2
-Osceola,Osceola 2 Precinct,United States Representative District 4,,LIB,Charles Aldrich,3,1,2
-Osceola,Osceola 3 Precinct,United States Representative District 4,,LIB,Charles Aldrich,4,2,2
-Osceola,Ashton Precinct,United States Representative District 4,,,Edward Peterson,0,0,0
-Osceola,Harris Precinct,United States Representative District 4,,,Edward Peterson,0,0,0
-Osceola,May City Precinct,United States Representative District 4,,,Edward Peterson,3,2,1
-Osceola,Melvin Precinct,United States Representative District 4,,,Edward Peterson,3,3,0
-Osceola,Ocheyedan Precinct,United States Representative District 4,,,Edward Peterson,3,3,0
-Osceola,Osceola 1 Precinct,United States Representative District 4,,,Edward Peterson,0,0,0
-Osceola,Osceola 2 Precinct,United States Representative District 4,,,Edward Peterson,6,3,3
-Osceola,Osceola 3 Precinct,United States Representative District 4,,,Edward Peterson,3,0,3
-Osceola,Ashton Precinct,United States Representative District 4,,,Write-in,1,1,0
-Osceola,Harris Precinct,United States Representative District 4,,,Write-in,0,0,0
-Osceola,May City Precinct,United States Representative District 4,,,Write-in,0,0,0
-Osceola,Melvin Precinct,United States Representative District 4,,,Write-in,1,1,0
-Osceola,Ocheyedan Precinct,United States Representative District 4,,,Write-in,0,0,0
-Osceola,Osceola 1 Precinct,United States Representative District 4,,,Write-in,0,0,0
-Osceola,Osceola 2 Precinct,United States Representative District 4,,,Write-in,0,0,0
-Osceola,Osceola 3 Precinct,United States Representative District 4,,,Write-in,0,0,0
+Osceola,Ashton Precinct,U.S. House,4,REP,Steve King,227,170,57
+Osceola,Harris Precinct,U.S. House,4,REP,Steve King,99,89,10
+Osceola,May City Precinct,U.S. House,4,REP,Steve King,89,65,24
+Osceola,Melvin Precinct,U.S. House,4,REP,Steve King,138,99,39
+Osceola,Ocheyedan Precinct,U.S. House,4,REP,Steve King,144,109,35
+Osceola,Osceola 1 Precinct,U.S. House,4,REP,Steve King,275,175,100
+Osceola,Osceola 2 Precinct,U.S. House,4,REP,Steve King,323,225,98
+Osceola,Osceola 3 Precinct,U.S. House,4,REP,Steve King,368,262,106
+Osceola,Ashton Precinct,U.S. House,4,DEM,J.D. Scholten,74,61,13
+Osceola,Harris Precinct,U.S. House,4,DEM,J.D. Scholten,29,28,1
+Osceola,May City Precinct,U.S. House,4,DEM,J.D. Scholten,42,32,10
+Osceola,Melvin Precinct,U.S. House,4,DEM,J.D. Scholten,63,53,10
+Osceola,Ocheyedan Precinct,U.S. House,4,DEM,J.D. Scholten,77,65,12
+Osceola,Osceola 1 Precinct,U.S. House,4,DEM,J.D. Scholten,97,54,43
+Osceola,Osceola 2 Precinct,U.S. House,4,DEM,J.D. Scholten,161,118,43
+Osceola,Osceola 3 Precinct,U.S. House,4,DEM,J.D. Scholten,166,124,42
+Osceola,Ashton Precinct,U.S. House,4,LIB,Charles Aldrich,4,1,3
+Osceola,Harris Precinct,U.S. House,4,LIB,Charles Aldrich,1,1,0
+Osceola,May City Precinct,U.S. House,4,LIB,Charles Aldrich,4,3,1
+Osceola,Melvin Precinct,U.S. House,4,LIB,Charles Aldrich,4,4,0
+Osceola,Ocheyedan Precinct,U.S. House,4,LIB,Charles Aldrich,5,4,1
+Osceola,Osceola 1 Precinct,U.S. House,4,LIB,Charles Aldrich,5,3,2
+Osceola,Osceola 2 Precinct,U.S. House,4,LIB,Charles Aldrich,3,1,2
+Osceola,Osceola 3 Precinct,U.S. House,4,LIB,Charles Aldrich,4,2,2
+Osceola,Ashton Precinct,U.S. House,4,,Edward Peterson,0,0,0
+Osceola,Harris Precinct,U.S. House,4,,Edward Peterson,0,0,0
+Osceola,May City Precinct,U.S. House,4,,Edward Peterson,3,2,1
+Osceola,Melvin Precinct,U.S. House,4,,Edward Peterson,3,3,0
+Osceola,Ocheyedan Precinct,U.S. House,4,,Edward Peterson,3,3,0
+Osceola,Osceola 1 Precinct,U.S. House,4,,Edward Peterson,0,0,0
+Osceola,Osceola 2 Precinct,U.S. House,4,,Edward Peterson,6,3,3
+Osceola,Osceola 3 Precinct,U.S. House,4,,Edward Peterson,3,0,3
+Osceola,Ashton Precinct,U.S. House,4,,Write-in,1,1,0
+Osceola,Harris Precinct,U.S. House,4,,Write-in,0,0,0
+Osceola,May City Precinct,U.S. House,4,,Write-in,0,0,0
+Osceola,Melvin Precinct,U.S. House,4,,Write-in,1,1,0
+Osceola,Ocheyedan Precinct,U.S. House,4,,Write-in,0,0,0
+Osceola,Osceola 1 Precinct,U.S. House,4,,Write-in,0,0,0
+Osceola,Osceola 2 Precinct,U.S. House,4,,Write-in,0,0,0
+Osceola,Osceola 3 Precinct,U.S. House,4,,Write-in,0,0,0
 Osceola,Ashton Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,252,193,59
 Osceola,Harris Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,108,98,10
 Osceola,May City Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,109,82,27

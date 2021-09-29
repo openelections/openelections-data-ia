@@ -1,59 +1,59 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Emmet,AG-IL-Armstrong,United States Representative District 4,,DEM,J.D. Scholten,194,153,41
-Emmet,CN-SL-Gruver,United States Representative District 4,,DEM,J.D. Scholten,72,56,16
-Emmet,DM-JC-Ringsted,United States Representative District 4,,DEM,J.D. Scholten,105,76,29
-Emmet,EL-LN-Dolliver,United States Representative District 4,,DEM,J.D. Scholten,48,29,19
-Emmet,Emmet-Estherville,United States Representative District 4,,DEM,J.D. Scholten,88,53,35
-Emmet,Estherville Ward 1,United States Representative District 4,,DEM,J.D. Scholten,275,162,113
-Emmet,Estherville Ward 2,United States Representative District 4,,DEM,J.D. Scholten,230,150,80
-Emmet,Estherville Ward 3,United States Representative District 4,,DEM,J.D. Scholten,268,154,114
-Emmet,Estherville Ward 4,United States Representative District 4,,DEM,J.D. Scholten,180,103,77
-Emmet,Estherville Ward 5,United States Representative District 4,,DEM,J.D. Scholten,164,94,70
-Emmet,HL-TM-Wallingford,United States Representative District 4,,DEM,J.D. Scholten,119,91,28
-Emmet,AG-IL-Armstrong,United States Representative District 4,,REP,Steve King,283,215,68
-Emmet,CN-SL-Gruver,United States Representative District 4,,REP,Steve King,117,86,31
-Emmet,DM-JC-Ringsted,United States Representative District 4,,REP,Steve King,130,92,38
-Emmet,EL-LN-Dolliver,United States Representative District 4,,REP,Steve King,90,68,22
-Emmet,Emmet-Estherville,United States Representative District 4,,REP,Steve King,184,120,64
-Emmet,Estherville Ward 1,United States Representative District 4,,REP,Steve King,269,176,93
-Emmet,Estherville Ward 2,United States Representative District 4,,REP,Steve King,202,135,67
-Emmet,Estherville Ward 3,United States Representative District 4,,REP,Steve King,186,109,77
-Emmet,Estherville Ward 4,United States Representative District 4,,REP,Steve King,139,95,44
-Emmet,Estherville Ward 5,United States Representative District 4,,REP,Steve King,126,79,47
-Emmet,HL-TM-Wallingford,United States Representative District 4,,REP,Steve King,153,132,21
-Emmet,AG-IL-Armstrong,United States Representative District 4,,LIB,Charles Aldrich,6,5,1
-Emmet,CN-SL-Gruver,United States Representative District 4,,LIB,Charles Aldrich,4,4,0
-Emmet,DM-JC-Ringsted,United States Representative District 4,,LIB,Charles Aldrich,7,5,2
-Emmet,EL-LN-Dolliver,United States Representative District 4,,LIB,Charles Aldrich,5,3,2
-Emmet,Emmet-Estherville,United States Representative District 4,,LIB,Charles Aldrich,3,2,1
-Emmet,Estherville Ward 1,United States Representative District 4,,LIB,Charles Aldrich,4,4,0
-Emmet,Estherville Ward 2,United States Representative District 4,,LIB,Charles Aldrich,5,1,4
-Emmet,Estherville Ward 3,United States Representative District 4,,LIB,Charles Aldrich,8,7,1
-Emmet,Estherville Ward 4,United States Representative District 4,,LIB,Charles Aldrich,5,3,2
-Emmet,Estherville Ward 5,United States Representative District 4,,LIB,Charles Aldrich,13,10,3
-Emmet,HL-TM-Wallingford,United States Representative District 4,,LIB,Charles Aldrich,3,2,1
-Emmet,AG-IL-Armstrong,United States Representative District 4,,,Edward Peterson,4,4,0
-Emmet,CN-SL-Gruver,United States Representative District 4,,,Edward Peterson,2,2,0
-Emmet,DM-JC-Ringsted,United States Representative District 4,,,Edward Peterson,1,1,0
-Emmet,EL-LN-Dolliver,United States Representative District 4,,,Edward Peterson,2,1,1
-Emmet,Emmet-Estherville,United States Representative District 4,,,Edward Peterson,3,3,0
-Emmet,Estherville Ward 1,United States Representative District 4,,,Edward Peterson,4,3,1
-Emmet,Estherville Ward 2,United States Representative District 4,,,Edward Peterson,6,4,2
-Emmet,Estherville Ward 3,United States Representative District 4,,,Edward Peterson,4,1,3
-Emmet,Estherville Ward 4,United States Representative District 4,,,Edward Peterson,2,1,1
-Emmet,Estherville Ward 5,United States Representative District 4,,,Edward Peterson,5,1,4
-Emmet,HL-TM-Wallingford,United States Representative District 4,,,Edward Peterson,1,0,1
-Emmet,AG-IL-Armstrong,United States Representative District 4,,,Write-in,0,0,0
-Emmet,CN-SL-Gruver,United States Representative District 4,,,Write-in,0,0,0
-Emmet,DM-JC-Ringsted,United States Representative District 4,,,Write-in,0,0,0
-Emmet,EL-LN-Dolliver,United States Representative District 4,,,Write-in,0,0,0
-Emmet,Emmet-Estherville,United States Representative District 4,,,Write-in,0,0,0
-Emmet,Estherville Ward 1,United States Representative District 4,,,Write-in,0,0,0
-Emmet,Estherville Ward 2,United States Representative District 4,,,Write-in,0,0,0
-Emmet,Estherville Ward 3,United States Representative District 4,,,Write-in,0,0,0
-Emmet,Estherville Ward 4,United States Representative District 4,,,Write-in,0,0,0
-Emmet,Estherville Ward 5,United States Representative District 4,,,Write-in,1,1,0
-Emmet,HL-TM-Wallingford,United States Representative District 4,,,Write-in,0,0,0
+Emmet,AG-IL-Armstrong,U.S. House,4,DEM,J.D. Scholten,194,153,41
+Emmet,CN-SL-Gruver,U.S. House,4,DEM,J.D. Scholten,72,56,16
+Emmet,DM-JC-Ringsted,U.S. House,4,DEM,J.D. Scholten,105,76,29
+Emmet,EL-LN-Dolliver,U.S. House,4,DEM,J.D. Scholten,48,29,19
+Emmet,Emmet-Estherville,U.S. House,4,DEM,J.D. Scholten,88,53,35
+Emmet,Estherville Ward 1,U.S. House,4,DEM,J.D. Scholten,275,162,113
+Emmet,Estherville Ward 2,U.S. House,4,DEM,J.D. Scholten,230,150,80
+Emmet,Estherville Ward 3,U.S. House,4,DEM,J.D. Scholten,268,154,114
+Emmet,Estherville Ward 4,U.S. House,4,DEM,J.D. Scholten,180,103,77
+Emmet,Estherville Ward 5,U.S. House,4,DEM,J.D. Scholten,164,94,70
+Emmet,HL-TM-Wallingford,U.S. House,4,DEM,J.D. Scholten,119,91,28
+Emmet,AG-IL-Armstrong,U.S. House,4,REP,Steve King,283,215,68
+Emmet,CN-SL-Gruver,U.S. House,4,REP,Steve King,117,86,31
+Emmet,DM-JC-Ringsted,U.S. House,4,REP,Steve King,130,92,38
+Emmet,EL-LN-Dolliver,U.S. House,4,REP,Steve King,90,68,22
+Emmet,Emmet-Estherville,U.S. House,4,REP,Steve King,184,120,64
+Emmet,Estherville Ward 1,U.S. House,4,REP,Steve King,269,176,93
+Emmet,Estherville Ward 2,U.S. House,4,REP,Steve King,202,135,67
+Emmet,Estherville Ward 3,U.S. House,4,REP,Steve King,186,109,77
+Emmet,Estherville Ward 4,U.S. House,4,REP,Steve King,139,95,44
+Emmet,Estherville Ward 5,U.S. House,4,REP,Steve King,126,79,47
+Emmet,HL-TM-Wallingford,U.S. House,4,REP,Steve King,153,132,21
+Emmet,AG-IL-Armstrong,U.S. House,4,LIB,Charles Aldrich,6,5,1
+Emmet,CN-SL-Gruver,U.S. House,4,LIB,Charles Aldrich,4,4,0
+Emmet,DM-JC-Ringsted,U.S. House,4,LIB,Charles Aldrich,7,5,2
+Emmet,EL-LN-Dolliver,U.S. House,4,LIB,Charles Aldrich,5,3,2
+Emmet,Emmet-Estherville,U.S. House,4,LIB,Charles Aldrich,3,2,1
+Emmet,Estherville Ward 1,U.S. House,4,LIB,Charles Aldrich,4,4,0
+Emmet,Estherville Ward 2,U.S. House,4,LIB,Charles Aldrich,5,1,4
+Emmet,Estherville Ward 3,U.S. House,4,LIB,Charles Aldrich,8,7,1
+Emmet,Estherville Ward 4,U.S. House,4,LIB,Charles Aldrich,5,3,2
+Emmet,Estherville Ward 5,U.S. House,4,LIB,Charles Aldrich,13,10,3
+Emmet,HL-TM-Wallingford,U.S. House,4,LIB,Charles Aldrich,3,2,1
+Emmet,AG-IL-Armstrong,U.S. House,4,,Edward Peterson,4,4,0
+Emmet,CN-SL-Gruver,U.S. House,4,,Edward Peterson,2,2,0
+Emmet,DM-JC-Ringsted,U.S. House,4,,Edward Peterson,1,1,0
+Emmet,EL-LN-Dolliver,U.S. House,4,,Edward Peterson,2,1,1
+Emmet,Emmet-Estherville,U.S. House,4,,Edward Peterson,3,3,0
+Emmet,Estherville Ward 1,U.S. House,4,,Edward Peterson,4,3,1
+Emmet,Estherville Ward 2,U.S. House,4,,Edward Peterson,6,4,2
+Emmet,Estherville Ward 3,U.S. House,4,,Edward Peterson,4,1,3
+Emmet,Estherville Ward 4,U.S. House,4,,Edward Peterson,2,1,1
+Emmet,Estherville Ward 5,U.S. House,4,,Edward Peterson,5,1,4
+Emmet,HL-TM-Wallingford,U.S. House,4,,Edward Peterson,1,0,1
+Emmet,AG-IL-Armstrong,U.S. House,4,,Write-in,0,0,0
+Emmet,CN-SL-Gruver,U.S. House,4,,Write-in,0,0,0
+Emmet,DM-JC-Ringsted,U.S. House,4,,Write-in,0,0,0
+Emmet,EL-LN-Dolliver,U.S. House,4,,Write-in,0,0,0
+Emmet,Emmet-Estherville,U.S. House,4,,Write-in,0,0,0
+Emmet,Estherville Ward 1,U.S. House,4,,Write-in,0,0,0
+Emmet,Estherville Ward 2,U.S. House,4,,Write-in,0,0,0
+Emmet,Estherville Ward 3,U.S. House,4,,Write-in,0,0,0
+Emmet,Estherville Ward 4,U.S. House,4,,Write-in,0,0,0
+Emmet,Estherville Ward 5,U.S. House,4,,Write-in,1,1,0
+Emmet,HL-TM-Wallingford,U.S. House,4,,Write-in,0,0,0
 Emmet,AG-IL-Armstrong,Governor/Lieutenant Governor,,DEM,Fred Hubbell,137,100,37
 Emmet,CN-SL-Gruver,Governor/Lieutenant Governor,,DEM,Fred Hubbell,47,31,16
 Emmet,DM-JC-Ringsted,Governor/Lieutenant Governor,,DEM,Fred Hubbell,73,52,21

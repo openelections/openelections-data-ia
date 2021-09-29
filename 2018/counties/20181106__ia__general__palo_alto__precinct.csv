@@ -1,34 +1,34 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Palo Alto,Emmetsburg Ward 1,United States Representative District 4,,DEM,J.D. Scholten,222,129,93
-Palo Alto,Emmetsburg Ward 2,United States Representative District 4,,DEM,J.D. Scholten,210,126,84
-Palo Alto,EM Ward 3/SL/pt. HL&WL&EM,United States Representative District 4,,DEM,J.D. Scholten,351,186,165
-Palo Alto,EMWard4/FV/FF/FR/IN/VN/ptEM,United States Representative District 4,,DEM,J.D. Scholten,361,214,147
-Palo Alto,GR/RV/LI/pt. HL&WL,United States Representative District 4,,DEM,J.D. Scholten,307,180,127
-Palo Alto,WB/EL/RL/BO/GO/NV,United States Representative District 4,,DEM,J.D. Scholten,250,141,109
-Palo Alto,Emmetsburg Ward 1,United States Representative District 4,,REP,Steve King,177,87,90
-Palo Alto,Emmetsburg Ward 2,United States Representative District 4,,REP,Steve King,155,95,60
-Palo Alto,EM Ward 3/SL/pt. HL&WL&EM,United States Representative District 4,,REP,Steve King,327,166,161
-Palo Alto,EMWard4/FV/FF/FR/IN/VN/ptEM,United States Representative District 4,,REP,Steve King,394,235,159
-Palo Alto,GR/RV/LI/pt. HL&WL,United States Representative District 4,,REP,Steve King,320,177,143
-Palo Alto,WB/EL/RL/BO/GO/NV,United States Representative District 4,,REP,Steve King,552,330,222
-Palo Alto,Emmetsburg Ward 1,United States Representative District 4,,LIB,Charles Aldrich,3,2,1
-Palo Alto,Emmetsburg Ward 2,United States Representative District 4,,LIB,Charles Aldrich,8,4,4
-Palo Alto,EM Ward 3/SL/pt. HL&WL&EM,United States Representative District 4,,LIB,Charles Aldrich,16,9,7
-Palo Alto,EMWard4/FV/FF/FR/IN/VN/ptEM,United States Representative District 4,,LIB,Charles Aldrich,12,6,6
-Palo Alto,GR/RV/LI/pt. HL&WL,United States Representative District 4,,LIB,Charles Aldrich,7,5,2
-Palo Alto,WB/EL/RL/BO/GO/NV,United States Representative District 4,,LIB,Charles Aldrich,12,9,3
-Palo Alto,Emmetsburg Ward 1,United States Representative District 4,,,Edward Peterson,1,1,0
-Palo Alto,Emmetsburg Ward 2,United States Representative District 4,,,Edward Peterson,0,0,0
-Palo Alto,EM Ward 3/SL/pt. HL&WL&EM,United States Representative District 4,,,Edward Peterson,2,2,0
-Palo Alto,EMWard4/FV/FF/FR/IN/VN/ptEM,United States Representative District 4,,,Edward Peterson,1,0,1
-Palo Alto,GR/RV/LI/pt. HL&WL,United States Representative District 4,,,Edward Peterson,3,3,0
-Palo Alto,WB/EL/RL/BO/GO/NV,United States Representative District 4,,,Edward Peterson,4,3,1
-Palo Alto,Emmetsburg Ward 1,United States Representative District 4,,,Write-in,0,0,0
-Palo Alto,Emmetsburg Ward 2,United States Representative District 4,,,Write-in,0,0,0
-Palo Alto,EM Ward 3/SL/pt. HL&WL&EM,United States Representative District 4,,,Write-in,2,2,0
-Palo Alto,EMWard4/FV/FF/FR/IN/VN/ptEM,United States Representative District 4,,,Write-in,2,2,0
-Palo Alto,GR/RV/LI/pt. HL&WL,United States Representative District 4,,,Write-in,1,0,1
-Palo Alto,WB/EL/RL/BO/GO/NV,United States Representative District 4,,,Write-in,0,0,0
+Palo Alto,Emmetsburg Ward 1,U.S. House,4,DEM,J.D. Scholten,222,129,93
+Palo Alto,Emmetsburg Ward 2,U.S. House,4,DEM,J.D. Scholten,210,126,84
+Palo Alto,EM Ward 3/SL/pt. HL&WL&EM,U.S. House,4,DEM,J.D. Scholten,351,186,165
+Palo Alto,EMWard4/FV/FF/FR/IN/VN/ptEM,U.S. House,4,DEM,J.D. Scholten,361,214,147
+Palo Alto,GR/RV/LI/pt. HL&WL,U.S. House,4,DEM,J.D. Scholten,307,180,127
+Palo Alto,WB/EL/RL/BO/GO/NV,U.S. House,4,DEM,J.D. Scholten,250,141,109
+Palo Alto,Emmetsburg Ward 1,U.S. House,4,REP,Steve King,177,87,90
+Palo Alto,Emmetsburg Ward 2,U.S. House,4,REP,Steve King,155,95,60
+Palo Alto,EM Ward 3/SL/pt. HL&WL&EM,U.S. House,4,REP,Steve King,327,166,161
+Palo Alto,EMWard4/FV/FF/FR/IN/VN/ptEM,U.S. House,4,REP,Steve King,394,235,159
+Palo Alto,GR/RV/LI/pt. HL&WL,U.S. House,4,REP,Steve King,320,177,143
+Palo Alto,WB/EL/RL/BO/GO/NV,U.S. House,4,REP,Steve King,552,330,222
+Palo Alto,Emmetsburg Ward 1,U.S. House,4,LIB,Charles Aldrich,3,2,1
+Palo Alto,Emmetsburg Ward 2,U.S. House,4,LIB,Charles Aldrich,8,4,4
+Palo Alto,EM Ward 3/SL/pt. HL&WL&EM,U.S. House,4,LIB,Charles Aldrich,16,9,7
+Palo Alto,EMWard4/FV/FF/FR/IN/VN/ptEM,U.S. House,4,LIB,Charles Aldrich,12,6,6
+Palo Alto,GR/RV/LI/pt. HL&WL,U.S. House,4,LIB,Charles Aldrich,7,5,2
+Palo Alto,WB/EL/RL/BO/GO/NV,U.S. House,4,LIB,Charles Aldrich,12,9,3
+Palo Alto,Emmetsburg Ward 1,U.S. House,4,,Edward Peterson,1,1,0
+Palo Alto,Emmetsburg Ward 2,U.S. House,4,,Edward Peterson,0,0,0
+Palo Alto,EM Ward 3/SL/pt. HL&WL&EM,U.S. House,4,,Edward Peterson,2,2,0
+Palo Alto,EMWard4/FV/FF/FR/IN/VN/ptEM,U.S. House,4,,Edward Peterson,1,0,1
+Palo Alto,GR/RV/LI/pt. HL&WL,U.S. House,4,,Edward Peterson,3,3,0
+Palo Alto,WB/EL/RL/BO/GO/NV,U.S. House,4,,Edward Peterson,4,3,1
+Palo Alto,Emmetsburg Ward 1,U.S. House,4,,Write-in,0,0,0
+Palo Alto,Emmetsburg Ward 2,U.S. House,4,,Write-in,0,0,0
+Palo Alto,EM Ward 3/SL/pt. HL&WL&EM,U.S. House,4,,Write-in,2,2,0
+Palo Alto,EMWard4/FV/FF/FR/IN/VN/ptEM,U.S. House,4,,Write-in,2,2,0
+Palo Alto,GR/RV/LI/pt. HL&WL,U.S. House,4,,Write-in,1,0,1
+Palo Alto,WB/EL/RL/BO/GO/NV,U.S. House,4,,Write-in,0,0,0
 Palo Alto,Emmetsburg Ward 1,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,185,94,91
 Palo Alto,Emmetsburg Ward 2,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,183,101,82
 Palo Alto,EM Ward 3/SL/pt. HL&WL&EM,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,307,153,154

@@ -1,59 +1,59 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Mahaska,AD / MN / PG / UN,United States Representative District 2,,REP,Christopher Peters,346,186,160
-Mahaska,BO / ST,United States Representative District 2,,REP,Christopher Peters,479,281,198
-Mahaska,CE / HA / WO,United States Representative District 2,,REP,Christopher Peters,541,345,196
-Mahaska,E-W DM / JF,United States Representative District 2,,REP,Christopher Peters,206,135,71
-Mahaska,GF / LN / MD,United States Representative District 2,,REP,Christopher Peters,632,358,274
-Mahaska,Oskaloosa 1st Ward,United States Representative District 2,,REP,Christopher Peters,394,240,154
-Mahaska,Oskaloosa 2nd Ward,United States Representative District 2,,REP,Christopher Peters,536,280,256
-Mahaska,OS3 / UP,United States Representative District 2,,REP,Christopher Peters,715,374,341
-Mahaska,OS4 / OS4 LN,United States Representative District 2,,REP,Christopher Peters,573,302,271
-Mahaska,PR / RL,United States Representative District 2,,REP,Christopher Peters,643,382,261
-Mahaska,SP / KE,United States Representative District 2,,REP,Christopher Peters,424,225,199
-Mahaska,AD / MN / PG / UN,United States Representative District 2,,DEM,Dave Loebsack,103,55,48
-Mahaska,BO / ST,United States Representative District 2,,DEM,Dave Loebsack,95,56,39
-Mahaska,CE / HA / WO,United States Representative District 2,,DEM,Dave Loebsack,214,102,112
-Mahaska,E-W DM / JF,United States Representative District 2,,DEM,Dave Loebsack,106,65,41
-Mahaska,GF / LN / MD,United States Representative District 2,,DEM,Dave Loebsack,220,100,120
-Mahaska,Oskaloosa 1st Ward,United States Representative District 2,,DEM,Dave Loebsack,293,156,137
-Mahaska,Oskaloosa 2nd Ward,United States Representative District 2,,DEM,Dave Loebsack,364,167,197
-Mahaska,OS3 / UP,United States Representative District 2,,DEM,Dave Loebsack,449,196,253
-Mahaska,OS4 / OS4 LN,United States Representative District 2,,DEM,Dave Loebsack,453,222,231
-Mahaska,PR / RL,United States Representative District 2,,DEM,Dave Loebsack,240,140,100
-Mahaska,SP / KE,United States Representative District 2,,DEM,Dave Loebsack,175,78,97
-Mahaska,AD / MN / PG / UN,United States Representative District 2,,LIB,Mark David Strauss,9,6,3
-Mahaska,BO / ST,United States Representative District 2,,LIB,Mark David Strauss,11,7,4
-Mahaska,CE / HA / WO,United States Representative District 2,,LIB,Mark David Strauss,23,15,8
-Mahaska,E-W DM / JF,United States Representative District 2,,LIB,Mark David Strauss,2,1,1
-Mahaska,GF / LN / MD,United States Representative District 2,,LIB,Mark David Strauss,19,10,9
-Mahaska,Oskaloosa 1st Ward,United States Representative District 2,,LIB,Mark David Strauss,21,13,8
-Mahaska,Oskaloosa 2nd Ward,United States Representative District 2,,LIB,Mark David Strauss,22,18,4
-Mahaska,OS3 / UP,United States Representative District 2,,LIB,Mark David Strauss,37,23,14
-Mahaska,OS4 / OS4 LN,United States Representative District 2,,LIB,Mark David Strauss,29,16,13
-Mahaska,PR / RL,United States Representative District 2,,LIB,Mark David Strauss,11,11,0
-Mahaska,SP / KE,United States Representative District 2,,LIB,Mark David Strauss,7,3,4
-Mahaska,AD / MN / PG / UN,United States Representative District 2,,,Daniel Clark,3,2,1
-Mahaska,BO / ST,United States Representative District 2,,,Daniel Clark,1,1,0
-Mahaska,CE / HA / WO,United States Representative District 2,,,Daniel Clark,7,5,2
-Mahaska,E-W DM / JF,United States Representative District 2,,,Daniel Clark,1,1,0
-Mahaska,GF / LN / MD,United States Representative District 2,,,Daniel Clark,2,1,1
-Mahaska,Oskaloosa 1st Ward,United States Representative District 2,,,Daniel Clark,5,4,1
-Mahaska,Oskaloosa 2nd Ward,United States Representative District 2,,,Daniel Clark,8,5,3
-Mahaska,OS3 / UP,United States Representative District 2,,,Daniel Clark,6,5,1
-Mahaska,OS4 / OS4 LN,United States Representative District 2,,,Daniel Clark,10,4,6
-Mahaska,PR / RL,United States Representative District 2,,,Daniel Clark,4,2,2
-Mahaska,SP / KE,United States Representative District 2,,,Daniel Clark,4,3,1
-Mahaska,AD / MN / PG / UN,United States Representative District 2,,,Write-in,0,0,0
-Mahaska,BO / ST,United States Representative District 2,,,Write-in,0,0,0
-Mahaska,CE / HA / WO,United States Representative District 2,,,Write-in,0,0,0
-Mahaska,E-W DM / JF,United States Representative District 2,,,Write-in,0,0,0
-Mahaska,GF / LN / MD,United States Representative District 2,,,Write-in,1,1,0
-Mahaska,Oskaloosa 1st Ward,United States Representative District 2,,,Write-in,0,0,0
-Mahaska,Oskaloosa 2nd Ward,United States Representative District 2,,,Write-in,1,0,1
-Mahaska,OS3 / UP,United States Representative District 2,,,Write-in,1,0,1
-Mahaska,OS4 / OS4 LN,United States Representative District 2,,,Write-in,1,1,0
-Mahaska,PR / RL,United States Representative District 2,,,Write-in,1,1,0
-Mahaska,SP / KE,United States Representative District 2,,,Write-in,0,0,0
+Mahaska,AD / MN / PG / UN,U.S. House,2,REP,Christopher Peters,346,186,160
+Mahaska,BO / ST,U.S. House,2,REP,Christopher Peters,479,281,198
+Mahaska,CE / HA / WO,U.S. House,2,REP,Christopher Peters,541,345,196
+Mahaska,E-W DM / JF,U.S. House,2,REP,Christopher Peters,206,135,71
+Mahaska,GF / LN / MD,U.S. House,2,REP,Christopher Peters,632,358,274
+Mahaska,Oskaloosa 1st Ward,U.S. House,2,REP,Christopher Peters,394,240,154
+Mahaska,Oskaloosa 2nd Ward,U.S. House,2,REP,Christopher Peters,536,280,256
+Mahaska,OS3 / UP,U.S. House,2,REP,Christopher Peters,715,374,341
+Mahaska,OS4 / OS4 LN,U.S. House,2,REP,Christopher Peters,573,302,271
+Mahaska,PR / RL,U.S. House,2,REP,Christopher Peters,643,382,261
+Mahaska,SP / KE,U.S. House,2,REP,Christopher Peters,424,225,199
+Mahaska,AD / MN / PG / UN,U.S. House,2,DEM,Dave Loebsack,103,55,48
+Mahaska,BO / ST,U.S. House,2,DEM,Dave Loebsack,95,56,39
+Mahaska,CE / HA / WO,U.S. House,2,DEM,Dave Loebsack,214,102,112
+Mahaska,E-W DM / JF,U.S. House,2,DEM,Dave Loebsack,106,65,41
+Mahaska,GF / LN / MD,U.S. House,2,DEM,Dave Loebsack,220,100,120
+Mahaska,Oskaloosa 1st Ward,U.S. House,2,DEM,Dave Loebsack,293,156,137
+Mahaska,Oskaloosa 2nd Ward,U.S. House,2,DEM,Dave Loebsack,364,167,197
+Mahaska,OS3 / UP,U.S. House,2,DEM,Dave Loebsack,449,196,253
+Mahaska,OS4 / OS4 LN,U.S. House,2,DEM,Dave Loebsack,453,222,231
+Mahaska,PR / RL,U.S. House,2,DEM,Dave Loebsack,240,140,100
+Mahaska,SP / KE,U.S. House,2,DEM,Dave Loebsack,175,78,97
+Mahaska,AD / MN / PG / UN,U.S. House,2,LIB,Mark David Strauss,9,6,3
+Mahaska,BO / ST,U.S. House,2,LIB,Mark David Strauss,11,7,4
+Mahaska,CE / HA / WO,U.S. House,2,LIB,Mark David Strauss,23,15,8
+Mahaska,E-W DM / JF,U.S. House,2,LIB,Mark David Strauss,2,1,1
+Mahaska,GF / LN / MD,U.S. House,2,LIB,Mark David Strauss,19,10,9
+Mahaska,Oskaloosa 1st Ward,U.S. House,2,LIB,Mark David Strauss,21,13,8
+Mahaska,Oskaloosa 2nd Ward,U.S. House,2,LIB,Mark David Strauss,22,18,4
+Mahaska,OS3 / UP,U.S. House,2,LIB,Mark David Strauss,37,23,14
+Mahaska,OS4 / OS4 LN,U.S. House,2,LIB,Mark David Strauss,29,16,13
+Mahaska,PR / RL,U.S. House,2,LIB,Mark David Strauss,11,11,0
+Mahaska,SP / KE,U.S. House,2,LIB,Mark David Strauss,7,3,4
+Mahaska,AD / MN / PG / UN,U.S. House,2,,Daniel Clark,3,2,1
+Mahaska,BO / ST,U.S. House,2,,Daniel Clark,1,1,0
+Mahaska,CE / HA / WO,U.S. House,2,,Daniel Clark,7,5,2
+Mahaska,E-W DM / JF,U.S. House,2,,Daniel Clark,1,1,0
+Mahaska,GF / LN / MD,U.S. House,2,,Daniel Clark,2,1,1
+Mahaska,Oskaloosa 1st Ward,U.S. House,2,,Daniel Clark,5,4,1
+Mahaska,Oskaloosa 2nd Ward,U.S. House,2,,Daniel Clark,8,5,3
+Mahaska,OS3 / UP,U.S. House,2,,Daniel Clark,6,5,1
+Mahaska,OS4 / OS4 LN,U.S. House,2,,Daniel Clark,10,4,6
+Mahaska,PR / RL,U.S. House,2,,Daniel Clark,4,2,2
+Mahaska,SP / KE,U.S. House,2,,Daniel Clark,4,3,1
+Mahaska,AD / MN / PG / UN,U.S. House,2,,Write-in,0,0,0
+Mahaska,BO / ST,U.S. House,2,,Write-in,0,0,0
+Mahaska,CE / HA / WO,U.S. House,2,,Write-in,0,0,0
+Mahaska,E-W DM / JF,U.S. House,2,,Write-in,0,0,0
+Mahaska,GF / LN / MD,U.S. House,2,,Write-in,1,1,0
+Mahaska,Oskaloosa 1st Ward,U.S. House,2,,Write-in,0,0,0
+Mahaska,Oskaloosa 2nd Ward,U.S. House,2,,Write-in,1,0,1
+Mahaska,OS3 / UP,U.S. House,2,,Write-in,1,0,1
+Mahaska,OS4 / OS4 LN,U.S. House,2,,Write-in,1,1,0
+Mahaska,PR / RL,U.S. House,2,,Write-in,1,1,0
+Mahaska,SP / KE,U.S. House,2,,Write-in,0,0,0
 Mahaska,AD / MN / PG / UN,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,391,212,179
 Mahaska,BO / ST,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,518,302,216
 Mahaska,CE / HA / WO,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,583,371,212

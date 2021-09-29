@@ -1,48 +1,48 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Iowa,Dayton / English I,United States Representative District 1,,REP,Rod Blum,176,137,39
-Iowa,English II,United States Representative District 1,,REP,Rod Blum,257,196,61
-Iowa,Fillmore / Greene,United States Representative District 1,,REP,Rod Blum,371,285,86
-Iowa,Hartford I / Sumner,United States Representative District 1,,REP,Rod Blum,194,139,55
-Iowa,Hartford II / Lincoln,United States Representative District 1,,REP,Rod Blum,325,258,67
-Iowa,Hilton / Washington,United States Representative District 1,,REP,Rod Blum,364,257,107
-Iowa,Honey Creek / Marengo Rural,United States Representative District 1,,REP,Rod Blum,206,131,75
-Iowa,Lenox / Iowa,United States Representative District 1,,REP,Rod Blum,674,437,237
-Iowa,Marengo City,United States Representative District 1,,REP,Rod Blum,446,310,136
-Iowa,Pilot / Troy / York,United States Representative District 1,,REP,Rod Blum,432,309,123
-Iowa,Williamsburg,United States Representative District 1,,REP,Rod Blum,758,505,253
-Iowa,Dayton / English I,United States Representative District 1,,DEM,Abby Finkenauer,102,81,21
-Iowa,English II,United States Representative District 1,,DEM,Abby Finkenauer,194,144,50
-Iowa,Fillmore / Greene,United States Representative District 1,,DEM,Abby Finkenauer,249,176,73
-Iowa,Hartford I / Sumner,United States Representative District 1,,DEM,Abby Finkenauer,108,78,30
-Iowa,Hartford II / Lincoln,United States Representative District 1,,DEM,Abby Finkenauer,169,109,60
-Iowa,Hilton / Washington,United States Representative District 1,,DEM,Abby Finkenauer,263,153,110
-Iowa,Honey Creek / Marengo Rural,United States Representative District 1,,DEM,Abby Finkenauer,105,65,40
-Iowa,Lenox / Iowa,United States Representative District 1,,DEM,Abby Finkenauer,621,377,244
-Iowa,Marengo City,United States Representative District 1,,DEM,Abby Finkenauer,423,231,192
-Iowa,Pilot / Troy / York,United States Representative District 1,,DEM,Abby Finkenauer,189,118,71
-Iowa,Williamsburg,United States Representative District 1,,DEM,Abby Finkenauer,676,396,280
-Iowa,Dayton / English I,United States Representative District 1,,LIB,Troy Hageman,12,11,1
-Iowa,English II,United States Representative District 1,,LIB,Troy Hageman,21,17,4
-Iowa,Fillmore / Greene,United States Representative District 1,,LIB,Troy Hageman,20,14,6
-Iowa,Hartford I / Sumner,United States Representative District 1,,LIB,Troy Hageman,18,12,6
-Iowa,Hartford II / Lincoln,United States Representative District 1,,LIB,Troy Hageman,21,18,3
-Iowa,Hilton / Washington,United States Representative District 1,,LIB,Troy Hageman,28,25,3
-Iowa,Honey Creek / Marengo Rural,United States Representative District 1,,LIB,Troy Hageman,8,4,4
-Iowa,Lenox / Iowa,United States Representative District 1,,LIB,Troy Hageman,44,27,17
-Iowa,Marengo City,United States Representative District 1,,LIB,Troy Hageman,37,24,13
-Iowa,Pilot / Troy / York,United States Representative District 1,,LIB,Troy Hageman,21,15,6
-Iowa,Williamsburg,United States Representative District 1,,LIB,Troy Hageman,60,42,18
-Iowa,Dayton / English I,United States Representative District 1,,,Write-in,0,0,0
-Iowa,English II,United States Representative District 1,,,Write-in,1,1,0
-Iowa,Fillmore / Greene,United States Representative District 1,,,Write-in,0,0,0
-Iowa,Hartford I / Sumner,United States Representative District 1,,,Write-in,0,0,0
-Iowa,Hartford II / Lincoln,United States Representative District 1,,,Write-in,1,1,0
-Iowa,Hilton / Washington,United States Representative District 1,,,Write-in,1,1,0
-Iowa,Honey Creek / Marengo Rural,United States Representative District 1,,,Write-in,0,0,0
-Iowa,Lenox / Iowa,United States Representative District 1,,,Write-in,0,0,0
-Iowa,Marengo City,United States Representative District 1,,,Write-in,0,0,0
-Iowa,Pilot / Troy / York,United States Representative District 1,,,Write-in,0,0,0
-Iowa,Williamsburg,United States Representative District 1,,,Write-in,0,0,0
+Iowa,Dayton / English I,U.S. House,1,REP,Rod Blum,176,137,39
+Iowa,English II,U.S. House,1,REP,Rod Blum,257,196,61
+Iowa,Fillmore / Greene,U.S. House,1,REP,Rod Blum,371,285,86
+Iowa,Hartford I / Sumner,U.S. House,1,REP,Rod Blum,194,139,55
+Iowa,Hartford II / Lincoln,U.S. House,1,REP,Rod Blum,325,258,67
+Iowa,Hilton / Washington,U.S. House,1,REP,Rod Blum,364,257,107
+Iowa,Honey Creek / Marengo Rural,U.S. House,1,REP,Rod Blum,206,131,75
+Iowa,Lenox / Iowa,U.S. House,1,REP,Rod Blum,674,437,237
+Iowa,Marengo City,U.S. House,1,REP,Rod Blum,446,310,136
+Iowa,Pilot / Troy / York,U.S. House,1,REP,Rod Blum,432,309,123
+Iowa,Williamsburg,U.S. House,1,REP,Rod Blum,758,505,253
+Iowa,Dayton / English I,U.S. House,1,DEM,Abby Finkenauer,102,81,21
+Iowa,English II,U.S. House,1,DEM,Abby Finkenauer,194,144,50
+Iowa,Fillmore / Greene,U.S. House,1,DEM,Abby Finkenauer,249,176,73
+Iowa,Hartford I / Sumner,U.S. House,1,DEM,Abby Finkenauer,108,78,30
+Iowa,Hartford II / Lincoln,U.S. House,1,DEM,Abby Finkenauer,169,109,60
+Iowa,Hilton / Washington,U.S. House,1,DEM,Abby Finkenauer,263,153,110
+Iowa,Honey Creek / Marengo Rural,U.S. House,1,DEM,Abby Finkenauer,105,65,40
+Iowa,Lenox / Iowa,U.S. House,1,DEM,Abby Finkenauer,621,377,244
+Iowa,Marengo City,U.S. House,1,DEM,Abby Finkenauer,423,231,192
+Iowa,Pilot / Troy / York,U.S. House,1,DEM,Abby Finkenauer,189,118,71
+Iowa,Williamsburg,U.S. House,1,DEM,Abby Finkenauer,676,396,280
+Iowa,Dayton / English I,U.S. House,1,LIB,Troy Hageman,12,11,1
+Iowa,English II,U.S. House,1,LIB,Troy Hageman,21,17,4
+Iowa,Fillmore / Greene,U.S. House,1,LIB,Troy Hageman,20,14,6
+Iowa,Hartford I / Sumner,U.S. House,1,LIB,Troy Hageman,18,12,6
+Iowa,Hartford II / Lincoln,U.S. House,1,LIB,Troy Hageman,21,18,3
+Iowa,Hilton / Washington,U.S. House,1,LIB,Troy Hageman,28,25,3
+Iowa,Honey Creek / Marengo Rural,U.S. House,1,LIB,Troy Hageman,8,4,4
+Iowa,Lenox / Iowa,U.S. House,1,LIB,Troy Hageman,44,27,17
+Iowa,Marengo City,U.S. House,1,LIB,Troy Hageman,37,24,13
+Iowa,Pilot / Troy / York,U.S. House,1,LIB,Troy Hageman,21,15,6
+Iowa,Williamsburg,U.S. House,1,LIB,Troy Hageman,60,42,18
+Iowa,Dayton / English I,U.S. House,1,,Write-in,0,0,0
+Iowa,English II,U.S. House,1,,Write-in,1,1,0
+Iowa,Fillmore / Greene,U.S. House,1,,Write-in,0,0,0
+Iowa,Hartford I / Sumner,U.S. House,1,,Write-in,0,0,0
+Iowa,Hartford II / Lincoln,U.S. House,1,,Write-in,1,1,0
+Iowa,Hilton / Washington,U.S. House,1,,Write-in,1,1,0
+Iowa,Honey Creek / Marengo Rural,U.S. House,1,,Write-in,0,0,0
+Iowa,Lenox / Iowa,U.S. House,1,,Write-in,0,0,0
+Iowa,Marengo City,U.S. House,1,,Write-in,0,0,0
+Iowa,Pilot / Troy / York,U.S. House,1,,Write-in,0,0,0
+Iowa,Williamsburg,U.S. House,1,,Write-in,0,0,0
 Iowa,Dayton / English I,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,192,156,36
 Iowa,English II,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,271,207,64
 Iowa,Fillmore / Greene,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,387,295,92

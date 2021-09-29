@@ -1,22 +1,22 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Madison,Grand River - Monroe - Webster - Macksburg,United States Representative District 3,,REP,David Young,27,5,22
-Madison,Jackson - Douglas - Lincoln,United States Representative District 3,,REP,David Young,57,9,48
-Madison,Jefferson - Lee,United States Representative District 3,,REP,David Young,52,7,45
-Madison,Penn - Madison - Earlham,United States Representative District 3,,REP,David Young,77,10,67
-Madison,South - St. Charles,United States Representative District 3,,REP,David Young,57,5,52
-Madison,Union - Crawford - Scott - Bevington - Patterson,United States Representative District 3,,REP,David Young,45,15,30
-Madison,Walnut - Ohio - East Peru - Truro,United States Representative District 3,,REP,David Young,42,5,37
-Madison,Winterset 1 - North Ward,United States Representative District 3,,REP,David Young,82,15,67
-Madison,Winterset 2 - South Ward,United States Representative District 3,,REP,David Young,83,24,59
-Madison,Grand River - Monroe - Webster - Macksburg,United States Representative District 3,,,Write-in,0,0,0
-Madison,Jackson - Douglas - Lincoln,United States Representative District 3,,,Write-in,0,0,0
-Madison,Jefferson - Lee,United States Representative District 3,,,Write-in,0,0,0
-Madison,Penn - Madison - Earlham,United States Representative District 3,,,Write-in,0,0,0
-Madison,South - St. Charles,United States Representative District 3,,,Write-in,0,0,0
-Madison,Union - Crawford - Scott - Bevington - Patterson,United States Representative District 3,,,Write-in,0,0,0
-Madison,Walnut - Ohio - East Peru - Truro,United States Representative District 3,,,Write-in,0,0,0
-Madison,Winterset 1 - North Ward,United States Representative District 3,,,Write-in,0,0,0
-Madison,Winterset 2 - South Ward,United States Representative District 3,,,Write-in,0,0,0
+Madison,Grand River - Monroe - Webster - Macksburg,U.S. House,3,REP,David Young,27,5,22
+Madison,Jackson - Douglas - Lincoln,U.S. House,3,REP,David Young,57,9,48
+Madison,Jefferson - Lee,U.S. House,3,REP,David Young,52,7,45
+Madison,Penn - Madison - Earlham,U.S. House,3,REP,David Young,77,10,67
+Madison,South - St. Charles,U.S. House,3,REP,David Young,57,5,52
+Madison,Union - Crawford - Scott - Bevington - Patterson,U.S. House,3,REP,David Young,45,15,30
+Madison,Walnut - Ohio - East Peru - Truro,U.S. House,3,REP,David Young,42,5,37
+Madison,Winterset 1 - North Ward,U.S. House,3,REP,David Young,82,15,67
+Madison,Winterset 2 - South Ward,U.S. House,3,REP,David Young,83,24,59
+Madison,Grand River - Monroe - Webster - Macksburg,U.S. House,3,,Write-in,0,0,0
+Madison,Jackson - Douglas - Lincoln,U.S. House,3,,Write-in,0,0,0
+Madison,Jefferson - Lee,U.S. House,3,,Write-in,0,0,0
+Madison,Penn - Madison - Earlham,U.S. House,3,,Write-in,0,0,0
+Madison,South - St. Charles,U.S. House,3,,Write-in,0,0,0
+Madison,Union - Crawford - Scott - Bevington - Patterson,U.S. House,3,,Write-in,0,0,0
+Madison,Walnut - Ohio - East Peru - Truro,U.S. House,3,,Write-in,0,0,0
+Madison,Winterset 1 - North Ward,U.S. House,3,,Write-in,0,0,0
+Madison,Winterset 2 - South Ward,U.S. House,3,,Write-in,0,0,0
 Madison,Grand River - Monroe - Webster - Macksburg,Governor,,REP,Kim Reynolds,28,5,23
 Madison,Jackson - Douglas - Lincoln,Governor,,REP,Kim Reynolds,58,8,50
 Madison,Jefferson - Lee,Governor,,REP,Kim Reynolds,54,7,47
@@ -251,33 +251,33 @@ Madison,Union - Crawford - Scott - Bevington - Patterson,County Attorney,,,Write
 Madison,Walnut - Ohio - East Peru - Truro,County Attorney,,,Write-in,0,0,0
 Madison,Winterset 1 - North Ward,County Attorney,,,Write-in,0,0,0
 Madison,Winterset 2 - South Ward,County Attorney,,,Write-in,0,0,0
-Madison,Grand River - Monroe - Webster - Macksburg,United States Representative District 3,,DEM,Cindy Axne,13,0,13
-Madison,Jackson - Douglas - Lincoln,United States Representative District 3,,DEM,Cindy Axne,39,6,33
-Madison,Jefferson - Lee,United States Representative District 3,,DEM,Cindy Axne,42,10,32
-Madison,Penn - Madison - Earlham,United States Representative District 3,,DEM,Cindy Axne,64,3,61
-Madison,South - St. Charles,United States Representative District 3,,DEM,Cindy Axne,52,5,47
-Madison,Union - Crawford - Scott - Bevington - Patterson,United States Representative District 3,,DEM,Cindy Axne,86,31,55
-Madison,Walnut - Ohio - East Peru - Truro,United States Representative District 3,,DEM,Cindy Axne,24,7,17
-Madison,Winterset 1 - North Ward,United States Representative District 3,,DEM,Cindy Axne,88,19,69
-Madison,Winterset 2 - South Ward,United States Representative District 3,,DEM,Cindy Axne,88,29,59
-Madison,Grand River - Monroe - Webster - Macksburg,United States Representative District 3,,DEM,Pete D'Alessandro,3,0,3
-Madison,Jackson - Douglas - Lincoln,United States Representative District 3,,DEM,Pete D'Alessandro,3,0,3
-Madison,Jefferson - Lee,United States Representative District 3,,DEM,Pete D'Alessandro,15,3,12
-Madison,Penn - Madison - Earlham,United States Representative District 3,,DEM,Pete D'Alessandro,14,2,12
-Madison,South - St. Charles,United States Representative District 3,,DEM,Pete D'Alessandro,22,1,21
-Madison,Union - Crawford - Scott - Bevington - Patterson,United States Representative District 3,,DEM,Pete D'Alessandro,8,1,7
-Madison,Walnut - Ohio - East Peru - Truro,United States Representative District 3,,DEM,Pete D'Alessandro,9,2,7
-Madison,Winterset 1 - North Ward,United States Representative District 3,,DEM,Pete D'Alessandro,16,5,11
-Madison,Winterset 2 - South Ward,United States Representative District 3,,DEM,Pete D'Alessandro,16,6,10
-Madison,Grand River - Monroe - Webster - Macksburg,United States Representative District 3,,DEM,Eddie J. Mauro,4,2,2
-Madison,Jackson - Douglas - Lincoln,United States Representative District 3,,DEM,Eddie J. Mauro,19,7,12
-Madison,Jefferson - Lee,United States Representative District 3,,DEM,Eddie J. Mauro,19,1,18
-Madison,Penn - Madison - Earlham,United States Representative District 3,,DEM,Eddie J. Mauro,22,2,20
-Madison,South - St. Charles,United States Representative District 3,,DEM,Eddie J. Mauro,19,0,19
-Madison,Union - Crawford - Scott - Bevington - Patterson,United States Representative District 3,,DEM,Eddie J. Mauro,17,6,11
-Madison,Walnut - Ohio - East Peru - Truro,United States Representative District 3,,DEM,Eddie J. Mauro,16,2,14
-Madison,Winterset 1 - North Ward,United States Representative District 3,,DEM,Eddie J. Mauro,35,9,26
-Madison,Winterset 2 - South Ward,United States Representative District 3,,DEM,Eddie J. Mauro,35,15,20
+Madison,Grand River - Monroe - Webster - Macksburg,U.S. House,3,DEM,Cindy Axne,13,0,13
+Madison,Jackson - Douglas - Lincoln,U.S. House,3,DEM,Cindy Axne,39,6,33
+Madison,Jefferson - Lee,U.S. House,3,DEM,Cindy Axne,42,10,32
+Madison,Penn - Madison - Earlham,U.S. House,3,DEM,Cindy Axne,64,3,61
+Madison,South - St. Charles,U.S. House,3,DEM,Cindy Axne,52,5,47
+Madison,Union - Crawford - Scott - Bevington - Patterson,U.S. House,3,DEM,Cindy Axne,86,31,55
+Madison,Walnut - Ohio - East Peru - Truro,U.S. House,3,DEM,Cindy Axne,24,7,17
+Madison,Winterset 1 - North Ward,U.S. House,3,DEM,Cindy Axne,88,19,69
+Madison,Winterset 2 - South Ward,U.S. House,3,DEM,Cindy Axne,88,29,59
+Madison,Grand River - Monroe - Webster - Macksburg,U.S. House,3,DEM,Pete D'Alessandro,3,0,3
+Madison,Jackson - Douglas - Lincoln,U.S. House,3,DEM,Pete D'Alessandro,3,0,3
+Madison,Jefferson - Lee,U.S. House,3,DEM,Pete D'Alessandro,15,3,12
+Madison,Penn - Madison - Earlham,U.S. House,3,DEM,Pete D'Alessandro,14,2,12
+Madison,South - St. Charles,U.S. House,3,DEM,Pete D'Alessandro,22,1,21
+Madison,Union - Crawford - Scott - Bevington - Patterson,U.S. House,3,DEM,Pete D'Alessandro,8,1,7
+Madison,Walnut - Ohio - East Peru - Truro,U.S. House,3,DEM,Pete D'Alessandro,9,2,7
+Madison,Winterset 1 - North Ward,U.S. House,3,DEM,Pete D'Alessandro,16,5,11
+Madison,Winterset 2 - South Ward,U.S. House,3,DEM,Pete D'Alessandro,16,6,10
+Madison,Grand River - Monroe - Webster - Macksburg,U.S. House,3,DEM,Eddie J. Mauro,4,2,2
+Madison,Jackson - Douglas - Lincoln,U.S. House,3,DEM,Eddie J. Mauro,19,7,12
+Madison,Jefferson - Lee,U.S. House,3,DEM,Eddie J. Mauro,19,1,18
+Madison,Penn - Madison - Earlham,U.S. House,3,DEM,Eddie J. Mauro,22,2,20
+Madison,South - St. Charles,U.S. House,3,DEM,Eddie J. Mauro,19,0,19
+Madison,Union - Crawford - Scott - Bevington - Patterson,U.S. House,3,DEM,Eddie J. Mauro,17,6,11
+Madison,Walnut - Ohio - East Peru - Truro,U.S. House,3,DEM,Eddie J. Mauro,16,2,14
+Madison,Winterset 1 - North Ward,U.S. House,3,DEM,Eddie J. Mauro,35,9,26
+Madison,Winterset 2 - South Ward,U.S. House,3,DEM,Eddie J. Mauro,35,15,20
 Madison,Grand River - Monroe - Webster - Macksburg,Governor,,DEM,Nate Boulton,1,0,1
 Madison,Jackson - Douglas - Lincoln,Governor,,DEM,Nate Boulton,1,0,1
 Madison,Jefferson - Lee,Governor,,DEM,Nate Boulton,3,2,1
@@ -431,15 +431,15 @@ Madison,Union - Crawford - Scott - Bevington - Patterson,County Treasurer,,DEM,J
 Madison,Walnut - Ohio - East Peru - Truro,County Treasurer,,DEM,Jana S. Corkrean,49,12,37
 Madison,Winterset 1 - North Ward,County Treasurer,,DEM,Jana S. Corkrean,130,31,99
 Madison,Winterset 2 - South Ward,County Treasurer,,DEM,Jana S. Corkrean,136,52,84
-Madison,Grand River - Monroe - Webster - Macksburg,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Madison,Jackson - Douglas - Lincoln,United States Representative District 3,,LIB,Bryan Jack Holder,2,0,2
-Madison,Jefferson - Lee,United States Representative District 3,,LIB,Bryan Jack Holder,1,0,1
-Madison,Penn - Madison - Earlham,United States Representative District 3,,LIB,Bryan Jack Holder,5,0,5
-Madison,South - St. Charles,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Madison,Union - Crawford - Scott - Bevington - Patterson,United States Representative District 3,,LIB,Bryan Jack Holder,1,0,1
-Madison,Walnut - Ohio - East Peru - Truro,United States Representative District 3,,LIB,Bryan Jack Holder,1,0,1
-Madison,Winterset 1 - North Ward,United States Representative District 3,,LIB,Bryan Jack Holder,2,0,2
-Madison,Winterset 2 - South Ward,United States Representative District 3,,LIB,Bryan Jack Holder,1,0,1
+Madison,Grand River - Monroe - Webster - Macksburg,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Madison,Jackson - Douglas - Lincoln,U.S. House,3,LIB,Bryan Jack Holder,2,0,2
+Madison,Jefferson - Lee,U.S. House,3,LIB,Bryan Jack Holder,1,0,1
+Madison,Penn - Madison - Earlham,U.S. House,3,LIB,Bryan Jack Holder,5,0,5
+Madison,South - St. Charles,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Madison,Union - Crawford - Scott - Bevington - Patterson,U.S. House,3,LIB,Bryan Jack Holder,1,0,1
+Madison,Walnut - Ohio - East Peru - Truro,U.S. House,3,LIB,Bryan Jack Holder,1,0,1
+Madison,Winterset 1 - North Ward,U.S. House,3,LIB,Bryan Jack Holder,2,0,2
+Madison,Winterset 2 - South Ward,U.S. House,3,LIB,Bryan Jack Holder,1,0,1
 Madison,Grand River - Monroe - Webster - Macksburg,Governor,,LIB,Marco Battaglia,0,0,0
 Madison,Jackson - Douglas - Lincoln,Governor,,LIB,Marco Battaglia,4,0,4
 Madison,Jefferson - Lee,Governor,,LIB,Marco Battaglia,1,0,1

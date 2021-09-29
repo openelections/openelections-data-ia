@@ -1,32 +1,32 @@
 county,precinct,office,district,party,candidate,votes,group3,group1,group2,group4
-Jones,ANAMOSA NORTH,United States Representative District 1,,REP,Rod Blum,67,0,62,5,0
-Jones,ANAMOSA SOUTH,United States Representative District 1,,REP,Rod Blum,112,0,83,29,0
-Jones,CASTLE GROVE LOVELL WAYNE,United States Representative District 1,,REP,Rod Blum,186,0,143,43,0
-Jones,FAIRVIEW,United States Representative District 1,,REP,Rod Blum,70,0,57,13,0
-Jones,GREENFIELD,United States Representative District 1,,REP,Rod Blum,22,0,18,4,0
-Jones,MONTICELLO 1,United States Representative District 1,,REP,Rod Blum,53,0,43,10,0
-Jones,MONTICELLO 2,United States Representative District 1,,REP,Rod Blum,60,0,55,5,0
-Jones,MONTICELLO 3,United States Representative District 1,,REP,Rod Blum,38,0,35,3,0
-Jones,MONTICELLO 4,United States Representative District 1,,REP,Rod Blum,77,0,64,13,0
-Jones,OXFORD,United States Representative District 1,,REP,Rod Blum,34,0,34,0,0
-Jones,RICHLAND WASHINGTON,United States Representative District 1,,REP,Rod Blum,58,0,39,19,0
-Jones,ROME HALE,United States Representative District 1,,REP,Rod Blum,37,0,29,8,0
-Jones,SCOTCH GROVE MADISON CLAY,United States Representative District 1,,REP,Rod Blum,124,0,87,37,0
-Jones,WYOMING,United States Representative District 1,,REP,Rod Blum,30,0,27,3,0
-Jones,ANAMOSA NORTH,United States Representative District 1,,,Write-in,0,0,0,0,0
-Jones,ANAMOSA SOUTH,United States Representative District 1,,,Write-in,0,0,0,0,0
-Jones,CASTLE GROVE LOVELL WAYNE,United States Representative District 1,,,Write-in,0,0,0,0,0
-Jones,FAIRVIEW,United States Representative District 1,,,Write-in,1,0,1,0,0
-Jones,GREENFIELD,United States Representative District 1,,,Write-in,0,0,0,0,0
-Jones,MONTICELLO 1,United States Representative District 1,,,Write-in,0,0,0,0,0
-Jones,MONTICELLO 2,United States Representative District 1,,,Write-in,0,0,0,0,0
-Jones,MONTICELLO 3,United States Representative District 1,,,Write-in,0,0,0,0,0
-Jones,MONTICELLO 4,United States Representative District 1,,,Write-in,0,0,0,0,0
-Jones,OXFORD,United States Representative District 1,,,Write-in,0,0,0,0,0
-Jones,RICHLAND WASHINGTON,United States Representative District 1,,,Write-in,0,0,0,0,0
-Jones,ROME HALE,United States Representative District 1,,,Write-in,0,0,0,0,0
-Jones,SCOTCH GROVE MADISON CLAY,United States Representative District 1,,,Write-in,0,0,0,0,0
-Jones,WYOMING,United States Representative District 1,,,Write-in,0,0,0,0,0
+Jones,ANAMOSA NORTH,U.S. House,1,REP,Rod Blum,67,0,62,5,0
+Jones,ANAMOSA SOUTH,U.S. House,1,REP,Rod Blum,112,0,83,29,0
+Jones,CASTLE GROVE LOVELL WAYNE,U.S. House,1,REP,Rod Blum,186,0,143,43,0
+Jones,FAIRVIEW,U.S. House,1,REP,Rod Blum,70,0,57,13,0
+Jones,GREENFIELD,U.S. House,1,REP,Rod Blum,22,0,18,4,0
+Jones,MONTICELLO 1,U.S. House,1,REP,Rod Blum,53,0,43,10,0
+Jones,MONTICELLO 2,U.S. House,1,REP,Rod Blum,60,0,55,5,0
+Jones,MONTICELLO 3,U.S. House,1,REP,Rod Blum,38,0,35,3,0
+Jones,MONTICELLO 4,U.S. House,1,REP,Rod Blum,77,0,64,13,0
+Jones,OXFORD,U.S. House,1,REP,Rod Blum,34,0,34,0,0
+Jones,RICHLAND WASHINGTON,U.S. House,1,REP,Rod Blum,58,0,39,19,0
+Jones,ROME HALE,U.S. House,1,REP,Rod Blum,37,0,29,8,0
+Jones,SCOTCH GROVE MADISON CLAY,U.S. House,1,REP,Rod Blum,124,0,87,37,0
+Jones,WYOMING,U.S. House,1,REP,Rod Blum,30,0,27,3,0
+Jones,ANAMOSA NORTH,U.S. House,1,,Write-in,0,0,0,0,0
+Jones,ANAMOSA SOUTH,U.S. House,1,,Write-in,0,0,0,0,0
+Jones,CASTLE GROVE LOVELL WAYNE,U.S. House,1,,Write-in,0,0,0,0,0
+Jones,FAIRVIEW,U.S. House,1,,Write-in,1,0,1,0,0
+Jones,GREENFIELD,U.S. House,1,,Write-in,0,0,0,0,0
+Jones,MONTICELLO 1,U.S. House,1,,Write-in,0,0,0,0,0
+Jones,MONTICELLO 2,U.S. House,1,,Write-in,0,0,0,0,0
+Jones,MONTICELLO 3,U.S. House,1,,Write-in,0,0,0,0,0
+Jones,MONTICELLO 4,U.S. House,1,,Write-in,0,0,0,0,0
+Jones,OXFORD,U.S. House,1,,Write-in,0,0,0,0,0
+Jones,RICHLAND WASHINGTON,U.S. House,1,,Write-in,0,0,0,0,0
+Jones,ROME HALE,U.S. House,1,,Write-in,0,0,0,0,0
+Jones,SCOTCH GROVE MADISON CLAY,U.S. House,1,,Write-in,0,0,0,0,0
+Jones,WYOMING,U.S. House,1,,Write-in,0,0,0,0,0
 Jones,ANAMOSA NORTH,Governor,,REP,Kim Reynolds,74,0,66,8,0
 Jones,ANAMOSA SOUTH,Governor,,REP,Kim Reynolds,113,0,81,32,0
 Jones,CASTLE GROVE LOVELL WAYNE,Governor,,REP,Kim Reynolds,193,0,149,44,0
@@ -405,62 +405,62 @@ Jones,RICHLAND WASHINGTON,County Attorney,,,Write-in,0,0,0,0,0
 Jones,ROME HALE,County Attorney,,,Write-in,0,0,0,0,0
 Jones,SCOTCH GROVE MADISON CLAY,County Attorney,,,Write-in,0,0,0,0,0
 Jones,WYOMING,County Attorney,,,Write-in,0,0,0,0,0
-Jones,ANAMOSA NORTH,United States Representative District 1,,DEM,Abby Finkenauer,86,0,76,10,0
-Jones,ANAMOSA SOUTH,United States Representative District 1,,DEM,Abby Finkenauer,95,0,77,18,0
-Jones,CASTLE GROVE LOVELL WAYNE,United States Representative District 1,,DEM,Abby Finkenauer,52,0,46,6,0
-Jones,FAIRVIEW,United States Representative District 1,,DEM,Abby Finkenauer,54,0,44,10,0
-Jones,GREENFIELD,United States Representative District 1,,DEM,Abby Finkenauer,19,0,19,0,0
-Jones,MONTICELLO 1,United States Representative District 1,,DEM,Abby Finkenauer,21,0,18,3,0
-Jones,MONTICELLO 2,United States Representative District 1,,DEM,Abby Finkenauer,41,0,38,3,0
-Jones,MONTICELLO 3,United States Representative District 1,,DEM,Abby Finkenauer,22,0,22,0,0
-Jones,MONTICELLO 4,United States Representative District 1,,DEM,Abby Finkenauer,33,0,28,5,0
-Jones,OXFORD,United States Representative District 1,,DEM,Abby Finkenauer,11,0,11,0,0
-Jones,RICHLAND WASHINGTON,United States Representative District 1,,DEM,Abby Finkenauer,30,0,23,7,0
-Jones,ROME HALE,United States Representative District 1,,DEM,Abby Finkenauer,31,0,27,4,0
-Jones,SCOTCH GROVE MADISON CLAY,United States Representative District 1,,DEM,Abby Finkenauer,23,0,18,5,0
-Jones,WYOMING,United States Representative District 1,,DEM,Abby Finkenauer,20,0,17,3,0
-Jones,ANAMOSA NORTH,United States Representative District 1,,DEM,Thomas Heckroth,22,0,17,5,0
-Jones,ANAMOSA SOUTH,United States Representative District 1,,DEM,Thomas Heckroth,26,0,19,7,0
-Jones,CASTLE GROVE LOVELL WAYNE,United States Representative District 1,,DEM,Thomas Heckroth,12,0,12,0,0
-Jones,FAIRVIEW,United States Representative District 1,,DEM,Thomas Heckroth,16,0,13,3,0
-Jones,GREENFIELD,United States Representative District 1,,DEM,Thomas Heckroth,5,0,4,1,0
-Jones,MONTICELLO 1,United States Representative District 1,,DEM,Thomas Heckroth,8,0,7,1,0
-Jones,MONTICELLO 2,United States Representative District 1,,DEM,Thomas Heckroth,8,0,8,0,0
-Jones,MONTICELLO 3,United States Representative District 1,,DEM,Thomas Heckroth,8,0,7,1,0
-Jones,MONTICELLO 4,United States Representative District 1,,DEM,Thomas Heckroth,17,0,13,4,0
-Jones,OXFORD,United States Representative District 1,,DEM,Thomas Heckroth,5,0,5,0,0
-Jones,RICHLAND WASHINGTON,United States Representative District 1,,DEM,Thomas Heckroth,10,0,10,0,0
-Jones,ROME HALE,United States Representative District 1,,DEM,Thomas Heckroth,6,0,6,0,0
-Jones,SCOTCH GROVE MADISON CLAY,United States Representative District 1,,DEM,Thomas Heckroth,6,0,5,1,0
-Jones,WYOMING,United States Representative District 1,,DEM,Thomas Heckroth,1,0,1,0,0
-Jones,ANAMOSA NORTH,United States Representative District 1,,DEM,George Ramsey,3,0,2,1,0
-Jones,ANAMOSA SOUTH,United States Representative District 1,,DEM,George Ramsey,9,0,6,3,0
-Jones,CASTLE GROVE LOVELL WAYNE,United States Representative District 1,,DEM,George Ramsey,8,0,7,1,0
-Jones,FAIRVIEW,United States Representative District 1,,DEM,George Ramsey,2,0,2,0,0
-Jones,GREENFIELD,United States Representative District 1,,DEM,George Ramsey,2,0,2,0,0
-Jones,MONTICELLO 1,United States Representative District 1,,DEM,George Ramsey,0,0,0,0,0
-Jones,MONTICELLO 2,United States Representative District 1,,DEM,George Ramsey,1,0,0,1,0
-Jones,MONTICELLO 3,United States Representative District 1,,DEM,George Ramsey,2,0,2,0,0
-Jones,MONTICELLO 4,United States Representative District 1,,DEM,George Ramsey,1,0,1,0,0
-Jones,OXFORD,United States Representative District 1,,DEM,George Ramsey,3,0,3,0,0
-Jones,RICHLAND WASHINGTON,United States Representative District 1,,DEM,George Ramsey,3,0,3,0,0
-Jones,ROME HALE,United States Representative District 1,,DEM,George Ramsey,0,0,0,0,0
-Jones,SCOTCH GROVE MADISON CLAY,United States Representative District 1,,DEM,George Ramsey,2,0,2,0,0
-Jones,WYOMING,United States Representative District 1,,DEM,George Ramsey,2,0,2,0,0
-Jones,ANAMOSA NORTH,United States Representative District 1,,DEM,Courtney L. Rowe,5,0,5,0,0
-Jones,ANAMOSA SOUTH,United States Representative District 1,,DEM,Courtney L. Rowe,8,0,6,2,0
-Jones,CASTLE GROVE LOVELL WAYNE,United States Representative District 1,,DEM,Courtney L. Rowe,4,0,2,2,0
-Jones,FAIRVIEW,United States Representative District 1,,DEM,Courtney L. Rowe,5,0,3,2,0
-Jones,GREENFIELD,United States Representative District 1,,DEM,Courtney L. Rowe,1,0,1,0,0
-Jones,MONTICELLO 1,United States Representative District 1,,DEM,Courtney L. Rowe,4,0,4,0,0
-Jones,MONTICELLO 2,United States Representative District 1,,DEM,Courtney L. Rowe,1,0,1,0,0
-Jones,MONTICELLO 3,United States Representative District 1,,DEM,Courtney L. Rowe,2,0,0,2,0
-Jones,MONTICELLO 4,United States Representative District 1,,DEM,Courtney L. Rowe,3,0,1,2,0
-Jones,OXFORD,United States Representative District 1,,DEM,Courtney L. Rowe,2,0,2,0,0
-Jones,RICHLAND WASHINGTON,United States Representative District 1,,DEM,Courtney L. Rowe,3,0,3,0,0
-Jones,ROME HALE,United States Representative District 1,,DEM,Courtney L. Rowe,1,0,1,0,0
-Jones,SCOTCH GROVE MADISON CLAY,United States Representative District 1,,DEM,Courtney L. Rowe,3,0,2,1,0
-Jones,WYOMING,United States Representative District 1,,DEM,Courtney L. Rowe,2,0,2,0,0
+Jones,ANAMOSA NORTH,U.S. House,1,DEM,Abby Finkenauer,86,0,76,10,0
+Jones,ANAMOSA SOUTH,U.S. House,1,DEM,Abby Finkenauer,95,0,77,18,0
+Jones,CASTLE GROVE LOVELL WAYNE,U.S. House,1,DEM,Abby Finkenauer,52,0,46,6,0
+Jones,FAIRVIEW,U.S. House,1,DEM,Abby Finkenauer,54,0,44,10,0
+Jones,GREENFIELD,U.S. House,1,DEM,Abby Finkenauer,19,0,19,0,0
+Jones,MONTICELLO 1,U.S. House,1,DEM,Abby Finkenauer,21,0,18,3,0
+Jones,MONTICELLO 2,U.S. House,1,DEM,Abby Finkenauer,41,0,38,3,0
+Jones,MONTICELLO 3,U.S. House,1,DEM,Abby Finkenauer,22,0,22,0,0
+Jones,MONTICELLO 4,U.S. House,1,DEM,Abby Finkenauer,33,0,28,5,0
+Jones,OXFORD,U.S. House,1,DEM,Abby Finkenauer,11,0,11,0,0
+Jones,RICHLAND WASHINGTON,U.S. House,1,DEM,Abby Finkenauer,30,0,23,7,0
+Jones,ROME HALE,U.S. House,1,DEM,Abby Finkenauer,31,0,27,4,0
+Jones,SCOTCH GROVE MADISON CLAY,U.S. House,1,DEM,Abby Finkenauer,23,0,18,5,0
+Jones,WYOMING,U.S. House,1,DEM,Abby Finkenauer,20,0,17,3,0
+Jones,ANAMOSA NORTH,U.S. House,1,DEM,Thomas Heckroth,22,0,17,5,0
+Jones,ANAMOSA SOUTH,U.S. House,1,DEM,Thomas Heckroth,26,0,19,7,0
+Jones,CASTLE GROVE LOVELL WAYNE,U.S. House,1,DEM,Thomas Heckroth,12,0,12,0,0
+Jones,FAIRVIEW,U.S. House,1,DEM,Thomas Heckroth,16,0,13,3,0
+Jones,GREENFIELD,U.S. House,1,DEM,Thomas Heckroth,5,0,4,1,0
+Jones,MONTICELLO 1,U.S. House,1,DEM,Thomas Heckroth,8,0,7,1,0
+Jones,MONTICELLO 2,U.S. House,1,DEM,Thomas Heckroth,8,0,8,0,0
+Jones,MONTICELLO 3,U.S. House,1,DEM,Thomas Heckroth,8,0,7,1,0
+Jones,MONTICELLO 4,U.S. House,1,DEM,Thomas Heckroth,17,0,13,4,0
+Jones,OXFORD,U.S. House,1,DEM,Thomas Heckroth,5,0,5,0,0
+Jones,RICHLAND WASHINGTON,U.S. House,1,DEM,Thomas Heckroth,10,0,10,0,0
+Jones,ROME HALE,U.S. House,1,DEM,Thomas Heckroth,6,0,6,0,0
+Jones,SCOTCH GROVE MADISON CLAY,U.S. House,1,DEM,Thomas Heckroth,6,0,5,1,0
+Jones,WYOMING,U.S. House,1,DEM,Thomas Heckroth,1,0,1,0,0
+Jones,ANAMOSA NORTH,U.S. House,1,DEM,George Ramsey,3,0,2,1,0
+Jones,ANAMOSA SOUTH,U.S. House,1,DEM,George Ramsey,9,0,6,3,0
+Jones,CASTLE GROVE LOVELL WAYNE,U.S. House,1,DEM,George Ramsey,8,0,7,1,0
+Jones,FAIRVIEW,U.S. House,1,DEM,George Ramsey,2,0,2,0,0
+Jones,GREENFIELD,U.S. House,1,DEM,George Ramsey,2,0,2,0,0
+Jones,MONTICELLO 1,U.S. House,1,DEM,George Ramsey,0,0,0,0,0
+Jones,MONTICELLO 2,U.S. House,1,DEM,George Ramsey,1,0,0,1,0
+Jones,MONTICELLO 3,U.S. House,1,DEM,George Ramsey,2,0,2,0,0
+Jones,MONTICELLO 4,U.S. House,1,DEM,George Ramsey,1,0,1,0,0
+Jones,OXFORD,U.S. House,1,DEM,George Ramsey,3,0,3,0,0
+Jones,RICHLAND WASHINGTON,U.S. House,1,DEM,George Ramsey,3,0,3,0,0
+Jones,ROME HALE,U.S. House,1,DEM,George Ramsey,0,0,0,0,0
+Jones,SCOTCH GROVE MADISON CLAY,U.S. House,1,DEM,George Ramsey,2,0,2,0,0
+Jones,WYOMING,U.S. House,1,DEM,George Ramsey,2,0,2,0,0
+Jones,ANAMOSA NORTH,U.S. House,1,DEM,Courtney L. Rowe,5,0,5,0,0
+Jones,ANAMOSA SOUTH,U.S. House,1,DEM,Courtney L. Rowe,8,0,6,2,0
+Jones,CASTLE GROVE LOVELL WAYNE,U.S. House,1,DEM,Courtney L. Rowe,4,0,2,2,0
+Jones,FAIRVIEW,U.S. House,1,DEM,Courtney L. Rowe,5,0,3,2,0
+Jones,GREENFIELD,U.S. House,1,DEM,Courtney L. Rowe,1,0,1,0,0
+Jones,MONTICELLO 1,U.S. House,1,DEM,Courtney L. Rowe,4,0,4,0,0
+Jones,MONTICELLO 2,U.S. House,1,DEM,Courtney L. Rowe,1,0,1,0,0
+Jones,MONTICELLO 3,U.S. House,1,DEM,Courtney L. Rowe,2,0,0,2,0
+Jones,MONTICELLO 4,U.S. House,1,DEM,Courtney L. Rowe,3,0,1,2,0
+Jones,OXFORD,U.S. House,1,DEM,Courtney L. Rowe,2,0,2,0,0
+Jones,RICHLAND WASHINGTON,U.S. House,1,DEM,Courtney L. Rowe,3,0,3,0,0
+Jones,ROME HALE,U.S. House,1,DEM,Courtney L. Rowe,1,0,1,0,0
+Jones,SCOTCH GROVE MADISON CLAY,U.S. House,1,DEM,Courtney L. Rowe,3,0,2,1,0
+Jones,WYOMING,U.S. House,1,DEM,Courtney L. Rowe,2,0,2,0,0
 Jones,ANAMOSA NORTH,Governor,,DEM,Nate Boulton,5,0,4,1,0
 Jones,ANAMOSA SOUTH,Governor,,DEM,Nate Boulton,7,0,5,2,0
 Jones,CASTLE GROVE LOVELL WAYNE,Governor,,DEM,Nate Boulton,0,0,0,0,0

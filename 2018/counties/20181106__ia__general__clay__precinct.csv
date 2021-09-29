@@ -1,64 +1,64 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Clay,Douglas/Peterson,United States Representative District 4,,REP,Steve King,196,142,54
-Clay,Garfield/Herdland,United States Representative District 4,,REP,Steve King,110,88,22
-Clay,Lake/Freeman,United States Representative District 4,,REP,Steve King,126,92,34
-Clay,Lincoln/Clay,United States Representative District 4,,REP,Steve King,198,152,46
-Clay,Logan/Gillett Grove,United States Representative District 4,,REP,Steve King,130,88,42
-Clay,Spencer Ward 1,United States Representative District 4,,REP,Steve King,293,150,143
-Clay,Spencer Ward 2,United States Representative District 4,,REP,Steve King,335,195,140
-Clay,Spencer Ward 3,United States Representative District 4,,REP,Steve King,392,203,189
-Clay,Spencer Ward 4,United States Representative District 4,,REP,Steve King,659,294,365
-Clay,Spencer Ward 5,United States Representative District 4,,REP,Steve King,520,221,299
-Clay,Summit/Riverton/Sioux/Meadow,United States Representative District 4,,REP,Steve King,362,207,155
-Clay,Waterford/Lone Tree,United States Representative District 4,,REP,Steve King,234,190,44
-Clay,Douglas/Peterson,United States Representative District 4,,DEM,J.D. Scholten,126,87,39
-Clay,Garfield/Herdland,United States Representative District 4,,DEM,J.D. Scholten,86,69,17
-Clay,Lake/Freeman,United States Representative District 4,,DEM,J.D. Scholten,108,75,33
-Clay,Lincoln/Clay,United States Representative District 4,,DEM,J.D. Scholten,158,116,42
-Clay,Logan/Gillett Grove,United States Representative District 4,,DEM,J.D. Scholten,80,53,27
-Clay,Spencer Ward 1,United States Representative District 4,,DEM,J.D. Scholten,346,157,189
-Clay,Spencer Ward 2,United States Representative District 4,,DEM,J.D. Scholten,410,220,190
-Clay,Spencer Ward 3,United States Representative District 4,,DEM,J.D. Scholten,438,220,218
-Clay,Spencer Ward 4,United States Representative District 4,,DEM,J.D. Scholten,498,228,270
-Clay,Spencer Ward 5,United States Representative District 4,,DEM,J.D. Scholten,459,180,279
-Clay,Summit/Riverton/Sioux/Meadow,United States Representative District 4,,DEM,J.D. Scholten,261,143,118
-Clay,Waterford/Lone Tree,United States Representative District 4,,DEM,J.D. Scholten,155,115,40
-Clay,Douglas/Peterson,United States Representative District 4,,LIB,Charles Aldrich,9,8,1
-Clay,Garfield/Herdland,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Clay,Lake/Freeman,United States Representative District 4,,LIB,Charles Aldrich,2,1,1
-Clay,Lincoln/Clay,United States Representative District 4,,LIB,Charles Aldrich,7,5,2
-Clay,Logan/Gillett Grove,United States Representative District 4,,LIB,Charles Aldrich,3,3,0
-Clay,Spencer Ward 1,United States Representative District 4,,LIB,Charles Aldrich,14,13,1
-Clay,Spencer Ward 2,United States Representative District 4,,LIB,Charles Aldrich,14,7,7
-Clay,Spencer Ward 3,United States Representative District 4,,LIB,Charles Aldrich,21,12,9
-Clay,Spencer Ward 4,United States Representative District 4,,LIB,Charles Aldrich,21,12,9
-Clay,Spencer Ward 5,United States Representative District 4,,LIB,Charles Aldrich,20,11,9
-Clay,Summit/Riverton/Sioux/Meadow,United States Representative District 4,,LIB,Charles Aldrich,6,5,1
-Clay,Waterford/Lone Tree,United States Representative District 4,,LIB,Charles Aldrich,10,9,1
-Clay,Douglas/Peterson,United States Representative District 4,,,Edward Peterson,3,3,0
-Clay,Garfield/Herdland,United States Representative District 4,,,Edward Peterson,2,1,1
-Clay,Lake/Freeman,United States Representative District 4,,,Edward Peterson,1,1,0
-Clay,Lincoln/Clay,United States Representative District 4,,,Edward Peterson,3,2,1
-Clay,Logan/Gillett Grove,United States Representative District 4,,,Edward Peterson,4,4,0
-Clay,Spencer Ward 1,United States Representative District 4,,,Edward Peterson,3,3,0
-Clay,Spencer Ward 2,United States Representative District 4,,,Edward Peterson,3,0,3
-Clay,Spencer Ward 3,United States Representative District 4,,,Edward Peterson,9,5,4
-Clay,Spencer Ward 4,United States Representative District 4,,,Edward Peterson,5,4,1
-Clay,Spencer Ward 5,United States Representative District 4,,,Edward Peterson,8,4,4
-Clay,Summit/Riverton/Sioux/Meadow,United States Representative District 4,,,Edward Peterson,4,2,2
-Clay,Waterford/Lone Tree,United States Representative District 4,,,Edward Peterson,1,1,0
-Clay,Douglas/Peterson,United States Representative District 4,,,Write-in,0,0,0
-Clay,Garfield/Herdland,United States Representative District 4,,,Write-in,1,1,0
-Clay,Lake/Freeman,United States Representative District 4,,,Write-in,0,0,0
-Clay,Lincoln/Clay,United States Representative District 4,,,Write-in,1,0,1
-Clay,Logan/Gillett Grove,United States Representative District 4,,,Write-in,0,0,0
-Clay,Spencer Ward 1,United States Representative District 4,,,Write-in,0,0,0
-Clay,Spencer Ward 2,United States Representative District 4,,,Write-in,1,0,1
-Clay,Spencer Ward 3,United States Representative District 4,,,Write-in,1,1,0
-Clay,Spencer Ward 4,United States Representative District 4,,,Write-in,2,1,1
-Clay,Spencer Ward 5,United States Representative District 4,,,Write-in,0,0,0
-Clay,Summit/Riverton/Sioux/Meadow,United States Representative District 4,,,Write-in,1,0,1
-Clay,Waterford/Lone Tree,United States Representative District 4,,,Write-in,0,0,0
+Clay,Douglas/Peterson,U.S. House,4,REP,Steve King,196,142,54
+Clay,Garfield/Herdland,U.S. House,4,REP,Steve King,110,88,22
+Clay,Lake/Freeman,U.S. House,4,REP,Steve King,126,92,34
+Clay,Lincoln/Clay,U.S. House,4,REP,Steve King,198,152,46
+Clay,Logan/Gillett Grove,U.S. House,4,REP,Steve King,130,88,42
+Clay,Spencer Ward 1,U.S. House,4,REP,Steve King,293,150,143
+Clay,Spencer Ward 2,U.S. House,4,REP,Steve King,335,195,140
+Clay,Spencer Ward 3,U.S. House,4,REP,Steve King,392,203,189
+Clay,Spencer Ward 4,U.S. House,4,REP,Steve King,659,294,365
+Clay,Spencer Ward 5,U.S. House,4,REP,Steve King,520,221,299
+Clay,Summit/Riverton/Sioux/Meadow,U.S. House,4,REP,Steve King,362,207,155
+Clay,Waterford/Lone Tree,U.S. House,4,REP,Steve King,234,190,44
+Clay,Douglas/Peterson,U.S. House,4,DEM,J.D. Scholten,126,87,39
+Clay,Garfield/Herdland,U.S. House,4,DEM,J.D. Scholten,86,69,17
+Clay,Lake/Freeman,U.S. House,4,DEM,J.D. Scholten,108,75,33
+Clay,Lincoln/Clay,U.S. House,4,DEM,J.D. Scholten,158,116,42
+Clay,Logan/Gillett Grove,U.S. House,4,DEM,J.D. Scholten,80,53,27
+Clay,Spencer Ward 1,U.S. House,4,DEM,J.D. Scholten,346,157,189
+Clay,Spencer Ward 2,U.S. House,4,DEM,J.D. Scholten,410,220,190
+Clay,Spencer Ward 3,U.S. House,4,DEM,J.D. Scholten,438,220,218
+Clay,Spencer Ward 4,U.S. House,4,DEM,J.D. Scholten,498,228,270
+Clay,Spencer Ward 5,U.S. House,4,DEM,J.D. Scholten,459,180,279
+Clay,Summit/Riverton/Sioux/Meadow,U.S. House,4,DEM,J.D. Scholten,261,143,118
+Clay,Waterford/Lone Tree,U.S. House,4,DEM,J.D. Scholten,155,115,40
+Clay,Douglas/Peterson,U.S. House,4,LIB,Charles Aldrich,9,8,1
+Clay,Garfield/Herdland,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Clay,Lake/Freeman,U.S. House,4,LIB,Charles Aldrich,2,1,1
+Clay,Lincoln/Clay,U.S. House,4,LIB,Charles Aldrich,7,5,2
+Clay,Logan/Gillett Grove,U.S. House,4,LIB,Charles Aldrich,3,3,0
+Clay,Spencer Ward 1,U.S. House,4,LIB,Charles Aldrich,14,13,1
+Clay,Spencer Ward 2,U.S. House,4,LIB,Charles Aldrich,14,7,7
+Clay,Spencer Ward 3,U.S. House,4,LIB,Charles Aldrich,21,12,9
+Clay,Spencer Ward 4,U.S. House,4,LIB,Charles Aldrich,21,12,9
+Clay,Spencer Ward 5,U.S. House,4,LIB,Charles Aldrich,20,11,9
+Clay,Summit/Riverton/Sioux/Meadow,U.S. House,4,LIB,Charles Aldrich,6,5,1
+Clay,Waterford/Lone Tree,U.S. House,4,LIB,Charles Aldrich,10,9,1
+Clay,Douglas/Peterson,U.S. House,4,,Edward Peterson,3,3,0
+Clay,Garfield/Herdland,U.S. House,4,,Edward Peterson,2,1,1
+Clay,Lake/Freeman,U.S. House,4,,Edward Peterson,1,1,0
+Clay,Lincoln/Clay,U.S. House,4,,Edward Peterson,3,2,1
+Clay,Logan/Gillett Grove,U.S. House,4,,Edward Peterson,4,4,0
+Clay,Spencer Ward 1,U.S. House,4,,Edward Peterson,3,3,0
+Clay,Spencer Ward 2,U.S. House,4,,Edward Peterson,3,0,3
+Clay,Spencer Ward 3,U.S. House,4,,Edward Peterson,9,5,4
+Clay,Spencer Ward 4,U.S. House,4,,Edward Peterson,5,4,1
+Clay,Spencer Ward 5,U.S. House,4,,Edward Peterson,8,4,4
+Clay,Summit/Riverton/Sioux/Meadow,U.S. House,4,,Edward Peterson,4,2,2
+Clay,Waterford/Lone Tree,U.S. House,4,,Edward Peterson,1,1,0
+Clay,Douglas/Peterson,U.S. House,4,,Write-in,0,0,0
+Clay,Garfield/Herdland,U.S. House,4,,Write-in,1,1,0
+Clay,Lake/Freeman,U.S. House,4,,Write-in,0,0,0
+Clay,Lincoln/Clay,U.S. House,4,,Write-in,1,0,1
+Clay,Logan/Gillett Grove,U.S. House,4,,Write-in,0,0,0
+Clay,Spencer Ward 1,U.S. House,4,,Write-in,0,0,0
+Clay,Spencer Ward 2,U.S. House,4,,Write-in,1,0,1
+Clay,Spencer Ward 3,U.S. House,4,,Write-in,1,1,0
+Clay,Spencer Ward 4,U.S. House,4,,Write-in,2,1,1
+Clay,Spencer Ward 5,U.S. House,4,,Write-in,0,0,0
+Clay,Summit/Riverton/Sioux/Meadow,U.S. House,4,,Write-in,1,0,1
+Clay,Waterford/Lone Tree,U.S. House,4,,Write-in,0,0,0
 Clay,Douglas/Peterson,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,237,179,58
 Clay,Garfield/Herdland,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,131,103,28
 Clay,Lake/Freeman,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,152,116,36

@@ -1,49 +1,49 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Henry,Northwest Precinct,United States Representative District 2,,REP,Christopher Peters,445,300,145
-Henry,Northeast Precinct,United States Representative District 2,,REP,Christopher Peters,387,249,138
-Henry,Southeast Precinct,United States Representative District 2,,REP,Christopher Peters,684,418,266
-Henry,Southwest Precinct,United States Representative District 2,,REP,Christopher Peters,362,249,113
-Henry,Mt Pleasant Ward 1,United States Representative District 2,,REP,Christopher Peters,336,156,180
-Henry,Mt Pleasant Ward 2,United States Representative District 2,,REP,Christopher Peters,305,174,131
-Henry,Mt Pleasant Ward 3,United States Representative District 2,,REP,Christopher Peters,348,160,188
-Henry,Mt Pleasant Ward 4,United States Representative District 2,,REP,Christopher Peters,355,164,191
-Henry,Central Precinct,United States Representative District 2,,REP,Christopher Peters,728,340,388
-Henry,Northwest Precinct,United States Representative District 2,,DEM,Dave Loebsack,295,193,102
-Henry,Northeast Precinct,United States Representative District 2,,DEM,Dave Loebsack,295,192,103
-Henry,Southeast Precinct,United States Representative District 2,,DEM,Dave Loebsack,639,424,215
-Henry,Southwest Precinct,United States Representative District 2,,DEM,Dave Loebsack,239,133,106
-Henry,Mt Pleasant Ward 1,United States Representative District 2,,DEM,Dave Loebsack,310,105,205
-Henry,Mt Pleasant Ward 2,United States Representative District 2,,DEM,Dave Loebsack,330,153,177
-Henry,Mt Pleasant Ward 3,United States Representative District 2,,DEM,Dave Loebsack,354,162,192
-Henry,Mt Pleasant Ward 4,United States Representative District 2,,DEM,Dave Loebsack,289,95,194
-Henry,Central Precinct,United States Representative District 2,,DEM,Dave Loebsack,460,156,304
-Henry,Northwest Precinct,United States Representative District 2,,LIB,Mark David Strauss,12,8,4
-Henry,Northeast Precinct,United States Representative District 2,,LIB,Mark David Strauss,9,6,3
-Henry,Southeast Precinct,United States Representative District 2,,LIB,Mark David Strauss,22,16,6
-Henry,Southwest Precinct,United States Representative District 2,,LIB,Mark David Strauss,11,7,4
-Henry,Mt Pleasant Ward 1,United States Representative District 2,,LIB,Mark David Strauss,15,10,5
-Henry,Mt Pleasant Ward 2,United States Representative District 2,,LIB,Mark David Strauss,15,10,5
-Henry,Mt Pleasant Ward 3,United States Representative District 2,,LIB,Mark David Strauss,8,5,3
-Henry,Mt Pleasant Ward 4,United States Representative District 2,,LIB,Mark David Strauss,13,10,3
-Henry,Central Precinct,United States Representative District 2,,LIB,Mark David Strauss,15,8,7
-Henry,Northwest Precinct,United States Representative District 2,,,Daniel Clark,4,3,1
-Henry,Northeast Precinct,United States Representative District 2,,,Daniel Clark,5,2,3
-Henry,Southeast Precinct,United States Representative District 2,,,Daniel Clark,20,14,6
-Henry,Southwest Precinct,United States Representative District 2,,,Daniel Clark,14,9,5
-Henry,Mt Pleasant Ward 1,United States Representative District 2,,,Daniel Clark,22,15,7
-Henry,Mt Pleasant Ward 2,United States Representative District 2,,,Daniel Clark,16,6,10
-Henry,Mt Pleasant Ward 3,United States Representative District 2,,,Daniel Clark,19,9,10
-Henry,Mt Pleasant Ward 4,United States Representative District 2,,,Daniel Clark,13,6,7
-Henry,Central Precinct,United States Representative District 2,,,Daniel Clark,7,3,4
-Henry,Northwest Precinct,United States Representative District 2,,,Write-in,0,0,0
-Henry,Northeast Precinct,United States Representative District 2,,,Write-in,0,0,0
-Henry,Southeast Precinct,United States Representative District 2,,,Write-in,0,0,0
-Henry,Southwest Precinct,United States Representative District 2,,,Write-in,1,1,0
-Henry,Mt Pleasant Ward 1,United States Representative District 2,,,Write-in,0,0,0
-Henry,Mt Pleasant Ward 2,United States Representative District 2,,,Write-in,0,0,0
-Henry,Mt Pleasant Ward 3,United States Representative District 2,,,Write-in,0,0,0
-Henry,Mt Pleasant Ward 4,United States Representative District 2,,,Write-in,0,0,0
-Henry,Central Precinct,United States Representative District 2,,,Write-in,0,0,0
+Henry,Northwest Precinct,U.S. House,2,REP,Christopher Peters,445,300,145
+Henry,Northeast Precinct,U.S. House,2,REP,Christopher Peters,387,249,138
+Henry,Southeast Precinct,U.S. House,2,REP,Christopher Peters,684,418,266
+Henry,Southwest Precinct,U.S. House,2,REP,Christopher Peters,362,249,113
+Henry,Mt Pleasant Ward 1,U.S. House,2,REP,Christopher Peters,336,156,180
+Henry,Mt Pleasant Ward 2,U.S. House,2,REP,Christopher Peters,305,174,131
+Henry,Mt Pleasant Ward 3,U.S. House,2,REP,Christopher Peters,348,160,188
+Henry,Mt Pleasant Ward 4,U.S. House,2,REP,Christopher Peters,355,164,191
+Henry,Central Precinct,U.S. House,2,REP,Christopher Peters,728,340,388
+Henry,Northwest Precinct,U.S. House,2,DEM,Dave Loebsack,295,193,102
+Henry,Northeast Precinct,U.S. House,2,DEM,Dave Loebsack,295,192,103
+Henry,Southeast Precinct,U.S. House,2,DEM,Dave Loebsack,639,424,215
+Henry,Southwest Precinct,U.S. House,2,DEM,Dave Loebsack,239,133,106
+Henry,Mt Pleasant Ward 1,U.S. House,2,DEM,Dave Loebsack,310,105,205
+Henry,Mt Pleasant Ward 2,U.S. House,2,DEM,Dave Loebsack,330,153,177
+Henry,Mt Pleasant Ward 3,U.S. House,2,DEM,Dave Loebsack,354,162,192
+Henry,Mt Pleasant Ward 4,U.S. House,2,DEM,Dave Loebsack,289,95,194
+Henry,Central Precinct,U.S. House,2,DEM,Dave Loebsack,460,156,304
+Henry,Northwest Precinct,U.S. House,2,LIB,Mark David Strauss,12,8,4
+Henry,Northeast Precinct,U.S. House,2,LIB,Mark David Strauss,9,6,3
+Henry,Southeast Precinct,U.S. House,2,LIB,Mark David Strauss,22,16,6
+Henry,Southwest Precinct,U.S. House,2,LIB,Mark David Strauss,11,7,4
+Henry,Mt Pleasant Ward 1,U.S. House,2,LIB,Mark David Strauss,15,10,5
+Henry,Mt Pleasant Ward 2,U.S. House,2,LIB,Mark David Strauss,15,10,5
+Henry,Mt Pleasant Ward 3,U.S. House,2,LIB,Mark David Strauss,8,5,3
+Henry,Mt Pleasant Ward 4,U.S. House,2,LIB,Mark David Strauss,13,10,3
+Henry,Central Precinct,U.S. House,2,LIB,Mark David Strauss,15,8,7
+Henry,Northwest Precinct,U.S. House,2,,Daniel Clark,4,3,1
+Henry,Northeast Precinct,U.S. House,2,,Daniel Clark,5,2,3
+Henry,Southeast Precinct,U.S. House,2,,Daniel Clark,20,14,6
+Henry,Southwest Precinct,U.S. House,2,,Daniel Clark,14,9,5
+Henry,Mt Pleasant Ward 1,U.S. House,2,,Daniel Clark,22,15,7
+Henry,Mt Pleasant Ward 2,U.S. House,2,,Daniel Clark,16,6,10
+Henry,Mt Pleasant Ward 3,U.S. House,2,,Daniel Clark,19,9,10
+Henry,Mt Pleasant Ward 4,U.S. House,2,,Daniel Clark,13,6,7
+Henry,Central Precinct,U.S. House,2,,Daniel Clark,7,3,4
+Henry,Northwest Precinct,U.S. House,2,,Write-in,0,0,0
+Henry,Northeast Precinct,U.S. House,2,,Write-in,0,0,0
+Henry,Southeast Precinct,U.S. House,2,,Write-in,0,0,0
+Henry,Southwest Precinct,U.S. House,2,,Write-in,1,1,0
+Henry,Mt Pleasant Ward 1,U.S. House,2,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 2,U.S. House,2,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 3,U.S. House,2,,Write-in,0,0,0
+Henry,Mt Pleasant Ward 4,U.S. House,2,,Write-in,0,0,0
+Henry,Central Precinct,U.S. House,2,,Write-in,0,0,0
 Henry,Northwest Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,495,330,165
 Henry,Northeast Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,408,261,147
 Henry,Southeast Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,720,453,267

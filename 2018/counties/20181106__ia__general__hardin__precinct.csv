@@ -1,44 +1,44 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Hardin,Alden/Buckeye,United States Representative District 4,,REP,Steve King,302,214,88
-Hardin,Hardin/Ellis/Jackson,United States Representative District 4,,REP,Steve King,399,272,127
-Hardin,Iowa Falls #1,United States Representative District 4,,REP,Steve King,341,199,142
-Hardin,Iowa Falls #2,United States Representative District 4,,REP,Steve King,577,370,207
-Hardin,Etna/Clay,United States Representative District 4,,REP,Steve King,567,333,234
-Hardin,Concord/Sherman/Grant/Tipton,United States Representative District 4,,REP,Steve King,688,416,272
-Hardin,Eldora/Pleasant/Providence/Union,United States Representative District 4,,REP,Steve King,509,211,298
-Hardin,Eldora City,United States Representative District 4,,REP,Steve King,534,247,287
-Hardin,Alden/Buckeye,United States Representative District 4,,DEM,J.D. Scholten,250,182,68
-Hardin,Hardin/Ellis/Jackson,United States Representative District 4,,DEM,J.D. Scholten,300,180,120
-Hardin,Iowa Falls #1,United States Representative District 4,,DEM,J.D. Scholten,446,257,189
-Hardin,Iowa Falls #2,United States Representative District 4,,DEM,J.D. Scholten,544,337,207
-Hardin,Etna/Clay,United States Representative District 4,,DEM,J.D. Scholten,400,239,161
-Hardin,Concord/Sherman/Grant/Tipton,United States Representative District 4,,DEM,J.D. Scholten,406,229,177
-Hardin,Eldora/Pleasant/Providence/Union,United States Representative District 4,,DEM,J.D. Scholten,256,103,153
-Hardin,Eldora City,United States Representative District 4,,DEM,J.D. Scholten,425,225,200
-Hardin,Alden/Buckeye,United States Representative District 4,,LIB,Charles Aldrich,9,6,3
-Hardin,Hardin/Ellis/Jackson,United States Representative District 4,,LIB,Charles Aldrich,12,8,4
-Hardin,Iowa Falls #1,United States Representative District 4,,LIB,Charles Aldrich,19,9,10
-Hardin,Iowa Falls #2,United States Representative District 4,,LIB,Charles Aldrich,15,9,6
-Hardin,Etna/Clay,United States Representative District 4,,LIB,Charles Aldrich,21,14,7
-Hardin,Concord/Sherman/Grant/Tipton,United States Representative District 4,,LIB,Charles Aldrich,30,21,9
-Hardin,Eldora/Pleasant/Providence/Union,United States Representative District 4,,LIB,Charles Aldrich,15,10,5
-Hardin,Eldora City,United States Representative District 4,,LIB,Charles Aldrich,28,21,7
-Hardin,Alden/Buckeye,United States Representative District 4,,,Edward Peterson,2,1,1
-Hardin,Hardin/Ellis/Jackson,United States Representative District 4,,,Edward Peterson,11,6,5
-Hardin,Iowa Falls #1,United States Representative District 4,,,Edward Peterson,10,5,5
-Hardin,Iowa Falls #2,United States Representative District 4,,,Edward Peterson,6,5,1
-Hardin,Etna/Clay,United States Representative District 4,,,Edward Peterson,10,7,3
-Hardin,Concord/Sherman/Grant/Tipton,United States Representative District 4,,,Edward Peterson,7,3,4
-Hardin,Eldora/Pleasant/Providence/Union,United States Representative District 4,,,Edward Peterson,9,3,6
-Hardin,Eldora City,United States Representative District 4,,,Edward Peterson,5,1,4
-Hardin,Alden/Buckeye,United States Representative District 4,,,Write-in,0,0,0
-Hardin,Hardin/Ellis/Jackson,United States Representative District 4,,,Write-in,0,0,0
-Hardin,Iowa Falls #1,United States Representative District 4,,,Write-in,0,0,0
-Hardin,Iowa Falls #2,United States Representative District 4,,,Write-in,0,0,0
-Hardin,Etna/Clay,United States Representative District 4,,,Write-in,0,0,0
-Hardin,Concord/Sherman/Grant/Tipton,United States Representative District 4,,,Write-in,1,1,0
-Hardin,Eldora/Pleasant/Providence/Union,United States Representative District 4,,,Write-in,0,0,0
-Hardin,Eldora City,United States Representative District 4,,,Write-in,1,1,0
+Hardin,Alden/Buckeye,U.S. House,4,REP,Steve King,302,214,88
+Hardin,Hardin/Ellis/Jackson,U.S. House,4,REP,Steve King,399,272,127
+Hardin,Iowa Falls #1,U.S. House,4,REP,Steve King,341,199,142
+Hardin,Iowa Falls #2,U.S. House,4,REP,Steve King,577,370,207
+Hardin,Etna/Clay,U.S. House,4,REP,Steve King,567,333,234
+Hardin,Concord/Sherman/Grant/Tipton,U.S. House,4,REP,Steve King,688,416,272
+Hardin,Eldora/Pleasant/Providence/Union,U.S. House,4,REP,Steve King,509,211,298
+Hardin,Eldora City,U.S. House,4,REP,Steve King,534,247,287
+Hardin,Alden/Buckeye,U.S. House,4,DEM,J.D. Scholten,250,182,68
+Hardin,Hardin/Ellis/Jackson,U.S. House,4,DEM,J.D. Scholten,300,180,120
+Hardin,Iowa Falls #1,U.S. House,4,DEM,J.D. Scholten,446,257,189
+Hardin,Iowa Falls #2,U.S. House,4,DEM,J.D. Scholten,544,337,207
+Hardin,Etna/Clay,U.S. House,4,DEM,J.D. Scholten,400,239,161
+Hardin,Concord/Sherman/Grant/Tipton,U.S. House,4,DEM,J.D. Scholten,406,229,177
+Hardin,Eldora/Pleasant/Providence/Union,U.S. House,4,DEM,J.D. Scholten,256,103,153
+Hardin,Eldora City,U.S. House,4,DEM,J.D. Scholten,425,225,200
+Hardin,Alden/Buckeye,U.S. House,4,LIB,Charles Aldrich,9,6,3
+Hardin,Hardin/Ellis/Jackson,U.S. House,4,LIB,Charles Aldrich,12,8,4
+Hardin,Iowa Falls #1,U.S. House,4,LIB,Charles Aldrich,19,9,10
+Hardin,Iowa Falls #2,U.S. House,4,LIB,Charles Aldrich,15,9,6
+Hardin,Etna/Clay,U.S. House,4,LIB,Charles Aldrich,21,14,7
+Hardin,Concord/Sherman/Grant/Tipton,U.S. House,4,LIB,Charles Aldrich,30,21,9
+Hardin,Eldora/Pleasant/Providence/Union,U.S. House,4,LIB,Charles Aldrich,15,10,5
+Hardin,Eldora City,U.S. House,4,LIB,Charles Aldrich,28,21,7
+Hardin,Alden/Buckeye,U.S. House,4,,Edward Peterson,2,1,1
+Hardin,Hardin/Ellis/Jackson,U.S. House,4,,Edward Peterson,11,6,5
+Hardin,Iowa Falls #1,U.S. House,4,,Edward Peterson,10,5,5
+Hardin,Iowa Falls #2,U.S. House,4,,Edward Peterson,6,5,1
+Hardin,Etna/Clay,U.S. House,4,,Edward Peterson,10,7,3
+Hardin,Concord/Sherman/Grant/Tipton,U.S. House,4,,Edward Peterson,7,3,4
+Hardin,Eldora/Pleasant/Providence/Union,U.S. House,4,,Edward Peterson,9,3,6
+Hardin,Eldora City,U.S. House,4,,Edward Peterson,5,1,4
+Hardin,Alden/Buckeye,U.S. House,4,,Write-in,0,0,0
+Hardin,Hardin/Ellis/Jackson,U.S. House,4,,Write-in,0,0,0
+Hardin,Iowa Falls #1,U.S. House,4,,Write-in,0,0,0
+Hardin,Iowa Falls #2,U.S. House,4,,Write-in,0,0,0
+Hardin,Etna/Clay,U.S. House,4,,Write-in,0,0,0
+Hardin,Concord/Sherman/Grant/Tipton,U.S. House,4,,Write-in,1,1,0
+Hardin,Eldora/Pleasant/Providence/Union,U.S. House,4,,Write-in,0,0,0
+Hardin,Eldora City,U.S. House,4,,Write-in,1,1,0
 Hardin,Alden/Buckeye,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,352,258,94
 Hardin,Hardin/Ellis/Jackson,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,485,334,151
 Hardin,Iowa Falls #1,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,403,244,159

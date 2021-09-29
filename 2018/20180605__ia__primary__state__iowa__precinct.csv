@@ -1,26 +1,26 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Iowa,Dayton / English I,United States Representative District 1,,REP,Rod Blum,36,0,36
-Iowa,English II,United States Representative District 1,,REP,Rod Blum,36,1,35
-Iowa,Fillmore / Greene,United States Representative District 1,,REP,Rod Blum,28,2,26
-Iowa,Hartford I / Sumner,United States Representative District 1,,REP,Rod Blum,38,6,32
-Iowa,Hartford II / Lincoln,United States Representative District 1,,REP,Rod Blum,58,2,56
-Iowa,Hilton / Washington,United States Representative District 1,,REP,Rod Blum,63,5,58
-Iowa,Honey Creek / Marengo Rural,United States Representative District 1,,REP,Rod Blum,36,3,33
-Iowa,Lenox / Iowa,United States Representative District 1,,REP,Rod Blum,104,14,90
-Iowa,Marengo City,United States Representative District 1,,REP,Rod Blum,99,5,94
-Iowa,Pilot / Troy / York,United States Representative District 1,,REP,Rod Blum,99,1,98
-Iowa,Williamsburg,United States Representative District 1,,REP,Rod Blum,124,16,108
-Iowa,Dayton / English I,United States Representative District 1,,,Write-in,0,0,0
-Iowa,English II,United States Representative District 1,,,Write-in,0,0,0
-Iowa,Fillmore / Greene,United States Representative District 1,,,Write-in,0,0,0
-Iowa,Hartford I / Sumner,United States Representative District 1,,,Write-in,0,0,0
-Iowa,Hartford II / Lincoln,United States Representative District 1,,,Write-in,0,0,0
-Iowa,Hilton / Washington,United States Representative District 1,,,Write-in,0,0,0
-Iowa,Honey Creek / Marengo Rural,United States Representative District 1,,,Write-in,0,0,0
-Iowa,Lenox / Iowa,United States Representative District 1,,,Write-in,1,1,0
-Iowa,Marengo City,United States Representative District 1,,,Write-in,1,1,0
-Iowa,Pilot / Troy / York,United States Representative District 1,,,Write-in,0,0,0
-Iowa,Williamsburg,United States Representative District 1,,,Write-in,0,0,0
+Iowa,Dayton / English I,U.S. House,1,REP,Rod Blum,36,0,36
+Iowa,English II,U.S. House,1,REP,Rod Blum,36,1,35
+Iowa,Fillmore / Greene,U.S. House,1,REP,Rod Blum,28,2,26
+Iowa,Hartford I / Sumner,U.S. House,1,REP,Rod Blum,38,6,32
+Iowa,Hartford II / Lincoln,U.S. House,1,REP,Rod Blum,58,2,56
+Iowa,Hilton / Washington,U.S. House,1,REP,Rod Blum,63,5,58
+Iowa,Honey Creek / Marengo Rural,U.S. House,1,REP,Rod Blum,36,3,33
+Iowa,Lenox / Iowa,U.S. House,1,REP,Rod Blum,104,14,90
+Iowa,Marengo City,U.S. House,1,REP,Rod Blum,99,5,94
+Iowa,Pilot / Troy / York,U.S. House,1,REP,Rod Blum,99,1,98
+Iowa,Williamsburg,U.S. House,1,REP,Rod Blum,124,16,108
+Iowa,Dayton / English I,U.S. House,1,,Write-in,0,0,0
+Iowa,English II,U.S. House,1,,Write-in,0,0,0
+Iowa,Fillmore / Greene,U.S. House,1,,Write-in,0,0,0
+Iowa,Hartford I / Sumner,U.S. House,1,,Write-in,0,0,0
+Iowa,Hartford II / Lincoln,U.S. House,1,,Write-in,0,0,0
+Iowa,Hilton / Washington,U.S. House,1,,Write-in,0,0,0
+Iowa,Honey Creek / Marengo Rural,U.S. House,1,,Write-in,0,0,0
+Iowa,Lenox / Iowa,U.S. House,1,,Write-in,1,1,0
+Iowa,Marengo City,U.S. House,1,,Write-in,1,1,0
+Iowa,Pilot / Troy / York,U.S. House,1,,Write-in,0,0,0
+Iowa,Williamsburg,U.S. House,1,,Write-in,0,0,0
 Iowa,Dayton / English I,Governor,,REP,Kim Reynolds,37,1,36
 Iowa,English II,Governor,,REP,Kim Reynolds,39,2,37
 Iowa,Fillmore / Greene,Governor,,REP,Kim Reynolds,29,2,27
@@ -362,50 +362,50 @@ Iowa,Lenox / Iowa,County Attorney,,,Write-in,0,0,0
 Iowa,Marengo City,County Attorney,,,Write-in,0,0,0
 Iowa,Pilot / Troy / York,County Attorney,,,Write-in,0,0,0
 Iowa,Williamsburg,County Attorney,,,Write-in,0,0,0
-Iowa,Dayton / English I,United States Representative District 1,,DEM,Abby Finkenauer,20,2,18
-Iowa,English II,United States Representative District 1,,DEM,Abby Finkenauer,43,3,40
-Iowa,Fillmore / Greene,United States Representative District 1,,DEM,Abby Finkenauer,23,0,23
-Iowa,Hartford I / Sumner,United States Representative District 1,,DEM,Abby Finkenauer,17,1,16
-Iowa,Hartford II / Lincoln,United States Representative District 1,,DEM,Abby Finkenauer,18,2,16
-Iowa,Hilton / Washington,United States Representative District 1,,DEM,Abby Finkenauer,34,3,31
-Iowa,Honey Creek / Marengo Rural,United States Representative District 1,,DEM,Abby Finkenauer,14,0,14
-Iowa,Lenox / Iowa,United States Representative District 1,,DEM,Abby Finkenauer,77,7,70
-Iowa,Marengo City,United States Representative District 1,,DEM,Abby Finkenauer,51,9,42
-Iowa,Pilot / Troy / York,United States Representative District 1,,DEM,Abby Finkenauer,13,5,8
-Iowa,Williamsburg,United States Representative District 1,,DEM,Abby Finkenauer,110,13,97
-Iowa,Dayton / English I,United States Representative District 1,,DEM,Thomas Heckroth,5,0,5
-Iowa,English II,United States Representative District 1,,DEM,Thomas Heckroth,10,2,8
-Iowa,Fillmore / Greene,United States Representative District 1,,DEM,Thomas Heckroth,9,0,9
-Iowa,Hartford I / Sumner,United States Representative District 1,,DEM,Thomas Heckroth,2,0,2
-Iowa,Hartford II / Lincoln,United States Representative District 1,,DEM,Thomas Heckroth,7,2,5
-Iowa,Hilton / Washington,United States Representative District 1,,DEM,Thomas Heckroth,11,5,6
-Iowa,Honey Creek / Marengo Rural,United States Representative District 1,,DEM,Thomas Heckroth,4,0,4
-Iowa,Lenox / Iowa,United States Representative District 1,,DEM,Thomas Heckroth,26,2,24
-Iowa,Marengo City,United States Representative District 1,,DEM,Thomas Heckroth,14,3,11
-Iowa,Pilot / Troy / York,United States Representative District 1,,DEM,Thomas Heckroth,6,1,5
-Iowa,Williamsburg,United States Representative District 1,,DEM,Thomas Heckroth,28,3,25
-Iowa,Dayton / English I,United States Representative District 1,,DEM,George Ramsey,1,0,1
-Iowa,English II,United States Representative District 1,,DEM,George Ramsey,3,0,3
-Iowa,Fillmore / Greene,United States Representative District 1,,DEM,George Ramsey,5,0,5
-Iowa,Hartford I / Sumner,United States Representative District 1,,DEM,George Ramsey,1,0,1
-Iowa,Hartford II / Lincoln,United States Representative District 1,,DEM,George Ramsey,5,1,4
-Iowa,Hilton / Washington,United States Representative District 1,,DEM,George Ramsey,5,0,5
-Iowa,Honey Creek / Marengo Rural,United States Representative District 1,,DEM,George Ramsey,1,0,1
-Iowa,Lenox / Iowa,United States Representative District 1,,DEM,George Ramsey,8,1,7
-Iowa,Marengo City,United States Representative District 1,,DEM,George Ramsey,6,2,4
-Iowa,Pilot / Troy / York,United States Representative District 1,,DEM,George Ramsey,2,0,2
-Iowa,Williamsburg,United States Representative District 1,,DEM,George Ramsey,7,3,4
-Iowa,Dayton / English I,United States Representative District 1,,DEM,Courtney L. Rowe,5,0,5
-Iowa,English II,United States Representative District 1,,DEM,Courtney L. Rowe,1,0,1
-Iowa,Fillmore / Greene,United States Representative District 1,,DEM,Courtney L. Rowe,3,0,3
-Iowa,Hartford I / Sumner,United States Representative District 1,,DEM,Courtney L. Rowe,0,0,0
-Iowa,Hartford II / Lincoln,United States Representative District 1,,DEM,Courtney L. Rowe,1,0,1
-Iowa,Hilton / Washington,United States Representative District 1,,DEM,Courtney L. Rowe,2,1,1
-Iowa,Honey Creek / Marengo Rural,United States Representative District 1,,DEM,Courtney L. Rowe,1,0,1
-Iowa,Lenox / Iowa,United States Representative District 1,,DEM,Courtney L. Rowe,17,1,16
-Iowa,Marengo City,United States Representative District 1,,DEM,Courtney L. Rowe,7,2,5
-Iowa,Pilot / Troy / York,United States Representative District 1,,DEM,Courtney L. Rowe,4,0,4
-Iowa,Williamsburg,United States Representative District 1,,DEM,Courtney L. Rowe,26,0,26
+Iowa,Dayton / English I,U.S. House,1,DEM,Abby Finkenauer,20,2,18
+Iowa,English II,U.S. House,1,DEM,Abby Finkenauer,43,3,40
+Iowa,Fillmore / Greene,U.S. House,1,DEM,Abby Finkenauer,23,0,23
+Iowa,Hartford I / Sumner,U.S. House,1,DEM,Abby Finkenauer,17,1,16
+Iowa,Hartford II / Lincoln,U.S. House,1,DEM,Abby Finkenauer,18,2,16
+Iowa,Hilton / Washington,U.S. House,1,DEM,Abby Finkenauer,34,3,31
+Iowa,Honey Creek / Marengo Rural,U.S. House,1,DEM,Abby Finkenauer,14,0,14
+Iowa,Lenox / Iowa,U.S. House,1,DEM,Abby Finkenauer,77,7,70
+Iowa,Marengo City,U.S. House,1,DEM,Abby Finkenauer,51,9,42
+Iowa,Pilot / Troy / York,U.S. House,1,DEM,Abby Finkenauer,13,5,8
+Iowa,Williamsburg,U.S. House,1,DEM,Abby Finkenauer,110,13,97
+Iowa,Dayton / English I,U.S. House,1,DEM,Thomas Heckroth,5,0,5
+Iowa,English II,U.S. House,1,DEM,Thomas Heckroth,10,2,8
+Iowa,Fillmore / Greene,U.S. House,1,DEM,Thomas Heckroth,9,0,9
+Iowa,Hartford I / Sumner,U.S. House,1,DEM,Thomas Heckroth,2,0,2
+Iowa,Hartford II / Lincoln,U.S. House,1,DEM,Thomas Heckroth,7,2,5
+Iowa,Hilton / Washington,U.S. House,1,DEM,Thomas Heckroth,11,5,6
+Iowa,Honey Creek / Marengo Rural,U.S. House,1,DEM,Thomas Heckroth,4,0,4
+Iowa,Lenox / Iowa,U.S. House,1,DEM,Thomas Heckroth,26,2,24
+Iowa,Marengo City,U.S. House,1,DEM,Thomas Heckroth,14,3,11
+Iowa,Pilot / Troy / York,U.S. House,1,DEM,Thomas Heckroth,6,1,5
+Iowa,Williamsburg,U.S. House,1,DEM,Thomas Heckroth,28,3,25
+Iowa,Dayton / English I,U.S. House,1,DEM,George Ramsey,1,0,1
+Iowa,English II,U.S. House,1,DEM,George Ramsey,3,0,3
+Iowa,Fillmore / Greene,U.S. House,1,DEM,George Ramsey,5,0,5
+Iowa,Hartford I / Sumner,U.S. House,1,DEM,George Ramsey,1,0,1
+Iowa,Hartford II / Lincoln,U.S. House,1,DEM,George Ramsey,5,1,4
+Iowa,Hilton / Washington,U.S. House,1,DEM,George Ramsey,5,0,5
+Iowa,Honey Creek / Marengo Rural,U.S. House,1,DEM,George Ramsey,1,0,1
+Iowa,Lenox / Iowa,U.S. House,1,DEM,George Ramsey,8,1,7
+Iowa,Marengo City,U.S. House,1,DEM,George Ramsey,6,2,4
+Iowa,Pilot / Troy / York,U.S. House,1,DEM,George Ramsey,2,0,2
+Iowa,Williamsburg,U.S. House,1,DEM,George Ramsey,7,3,4
+Iowa,Dayton / English I,U.S. House,1,DEM,Courtney L. Rowe,5,0,5
+Iowa,English II,U.S. House,1,DEM,Courtney L. Rowe,1,0,1
+Iowa,Fillmore / Greene,U.S. House,1,DEM,Courtney L. Rowe,3,0,3
+Iowa,Hartford I / Sumner,U.S. House,1,DEM,Courtney L. Rowe,0,0,0
+Iowa,Hartford II / Lincoln,U.S. House,1,DEM,Courtney L. Rowe,1,0,1
+Iowa,Hilton / Washington,U.S. House,1,DEM,Courtney L. Rowe,2,1,1
+Iowa,Honey Creek / Marengo Rural,U.S. House,1,DEM,Courtney L. Rowe,1,0,1
+Iowa,Lenox / Iowa,U.S. House,1,DEM,Courtney L. Rowe,17,1,16
+Iowa,Marengo City,U.S. House,1,DEM,Courtney L. Rowe,7,2,5
+Iowa,Pilot / Troy / York,U.S. House,1,DEM,Courtney L. Rowe,4,0,4
+Iowa,Williamsburg,U.S. House,1,DEM,Courtney L. Rowe,26,0,26
 Iowa,Dayton / English I,Governor,,DEM,Nate Boulton,2,1,1
 Iowa,English II,Governor,,DEM,Nate Boulton,5,1,4
 Iowa,Fillmore / Greene,Governor,,DEM,Nate Boulton,0,0,0

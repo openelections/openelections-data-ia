@@ -1,48 +1,48 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Allamakee,PCt 1 - WL/HV,United States Representative District 1,,DEM,Abby Finkenauer,92,46,46
-Allamakee,PCT 2 - FC/JF/LL/MK/UP,United States Representative District 1,,DEM,Abby Finkenauer,381,177,204
-Allamakee,PCT - PO/FK,United States Representative District 1,,DEM,Abby Finkenauer,76,40,36
-Allamakee,PCT 4 - PV City,United States Representative District 1,,DEM,Abby Finkenauer,188,112,76
-Allamakee,LT/PC/WV CITY,United States Representative District 1,,DEM,Abby Finkenauer,113,51,62
-Allamakee,PCT - 6 FV/TL/HF CITY,United States Representative District 1,,DEM,Abby Finkenauer,188,97,91
-Allamakee,PCT - 7 CN/LF//LS/LS City,United States Representative District 1,,DEM,Abby Finkenauer,476,253,223
-Allamakee,PCT - 8 IA/UC/NA CITY,United States Representative District 1,,DEM,Abby Finkenauer,149,101,48
-Allamakee,PCT 9 - WAUKON WARD 1,United States Representative District 1,,DEM,Abby Finkenauer,222,88,134
-Allamakee,WAUKON WARD 2,United States Representative District 1,,DEM,Abby Finkenauer,229,101,128
-Allamakee,WAUKON WARD 3,United States Representative District 1,,DEM,Abby Finkenauer,239,101,138
-Allamakee,PCt 1 - WL/HV,United States Representative District 1,,REP,Rod Blum,102,68,34
-Allamakee,PCT 2 - FC/JF/LL/MK/UP,United States Representative District 1,,REP,Rod Blum,611,363,248
-Allamakee,PCT - PO/FK,United States Representative District 1,,REP,Rod Blum,195,115,80
-Allamakee,PCT 4 - PV City,United States Representative District 1,,REP,Rod Blum,193,162,31
-Allamakee,LT/PC/WV CITY,United States Representative District 1,,REP,Rod Blum,226,163,63
-Allamakee,PCT - 6 FV/TL/HF CITY,United States Representative District 1,,REP,Rod Blum,200,128,72
-Allamakee,PCT - 7 CN/LF//LS/LS City,United States Representative District 1,,REP,Rod Blum,446,279,167
-Allamakee,PCT - 8 IA/UC/NA CITY,United States Representative District 1,,REP,Rod Blum,252,190,62
-Allamakee,PCT 9 - WAUKON WARD 1,United States Representative District 1,,REP,Rod Blum,320,155,165
-Allamakee,WAUKON WARD 2,United States Representative District 1,,REP,Rod Blum,255,142,113
-Allamakee,WAUKON WARD 3,United States Representative District 1,,REP,Rod Blum,273,122,151
-Allamakee,PCt 1 - WL/HV,United States Representative District 1,,LIB,Troy Hageman,9,5,4
-Allamakee,PCT 2 - FC/JF/LL/MK/UP,United States Representative District 1,,LIB,Troy Hageman,30,12,18
-Allamakee,PCT - PO/FK,United States Representative District 1,,LIB,Troy Hageman,11,5,6
-Allamakee,PCT 4 - PV City,United States Representative District 1,,LIB,Troy Hageman,20,14,6
-Allamakee,LT/PC/WV CITY,United States Representative District 1,,LIB,Troy Hageman,14,11,3
-Allamakee,PCT - 6 FV/TL/HF CITY,United States Representative District 1,,LIB,Troy Hageman,14,10,4
-Allamakee,PCT - 7 CN/LF//LS/LS City,United States Representative District 1,,LIB,Troy Hageman,36,28,8
-Allamakee,PCT - 8 IA/UC/NA CITY,United States Representative District 1,,LIB,Troy Hageman,19,9,10
-Allamakee,PCT 9 - WAUKON WARD 1,United States Representative District 1,,LIB,Troy Hageman,22,13,9
-Allamakee,WAUKON WARD 2,United States Representative District 1,,LIB,Troy Hageman,27,17,10
-Allamakee,WAUKON WARD 3,United States Representative District 1,,LIB,Troy Hageman,23,12,11
-Allamakee,PCt 1 - WL/HV,United States Representative District 1,,,Write-in,0,0,0
-Allamakee,PCT 2 - FC/JF/LL/MK/UP,United States Representative District 1,,,Write-in,0,0,0
-Allamakee,PCT - PO/FK,United States Representative District 1,,,Write-in,0,0,0
-Allamakee,PCT 4 - PV City,United States Representative District 1,,,Write-in,0,0,0
-Allamakee,LT/PC/WV CITY,United States Representative District 1,,,Write-in,0,0,0
-Allamakee,PCT - 6 FV/TL/HF CITY,United States Representative District 1,,,Write-in,0,0,0
-Allamakee,PCT - 7 CN/LF//LS/LS City,United States Representative District 1,,,Write-in,0,0,0
-Allamakee,PCT - 8 IA/UC/NA CITY,United States Representative District 1,,,Write-in,0,0,0
-Allamakee,PCT 9 - WAUKON WARD 1,United States Representative District 1,,,Write-in,0,0,0
-Allamakee,WAUKON WARD 2,United States Representative District 1,,,Write-in,1,1,0
-Allamakee,WAUKON WARD 3,United States Representative District 1,,,Write-in,0,0,0
+Allamakee,PCt 1 - WL/HV,U.S. House,1,DEM,Abby Finkenauer,92,46,46
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,U.S. House,1,DEM,Abby Finkenauer,381,177,204
+Allamakee,PCT - PO/FK,U.S. House,1,DEM,Abby Finkenauer,76,40,36
+Allamakee,PCT 4 - PV City,U.S. House,1,DEM,Abby Finkenauer,188,112,76
+Allamakee,LT/PC/WV CITY,U.S. House,1,DEM,Abby Finkenauer,113,51,62
+Allamakee,PCT - 6 FV/TL/HF CITY,U.S. House,1,DEM,Abby Finkenauer,188,97,91
+Allamakee,PCT - 7 CN/LF//LS/LS City,U.S. House,1,DEM,Abby Finkenauer,476,253,223
+Allamakee,PCT - 8 IA/UC/NA CITY,U.S. House,1,DEM,Abby Finkenauer,149,101,48
+Allamakee,PCT 9 - WAUKON WARD 1,U.S. House,1,DEM,Abby Finkenauer,222,88,134
+Allamakee,WAUKON WARD 2,U.S. House,1,DEM,Abby Finkenauer,229,101,128
+Allamakee,WAUKON WARD 3,U.S. House,1,DEM,Abby Finkenauer,239,101,138
+Allamakee,PCt 1 - WL/HV,U.S. House,1,REP,Rod Blum,102,68,34
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,U.S. House,1,REP,Rod Blum,611,363,248
+Allamakee,PCT - PO/FK,U.S. House,1,REP,Rod Blum,195,115,80
+Allamakee,PCT 4 - PV City,U.S. House,1,REP,Rod Blum,193,162,31
+Allamakee,LT/PC/WV CITY,U.S. House,1,REP,Rod Blum,226,163,63
+Allamakee,PCT - 6 FV/TL/HF CITY,U.S. House,1,REP,Rod Blum,200,128,72
+Allamakee,PCT - 7 CN/LF//LS/LS City,U.S. House,1,REP,Rod Blum,446,279,167
+Allamakee,PCT - 8 IA/UC/NA CITY,U.S. House,1,REP,Rod Blum,252,190,62
+Allamakee,PCT 9 - WAUKON WARD 1,U.S. House,1,REP,Rod Blum,320,155,165
+Allamakee,WAUKON WARD 2,U.S. House,1,REP,Rod Blum,255,142,113
+Allamakee,WAUKON WARD 3,U.S. House,1,REP,Rod Blum,273,122,151
+Allamakee,PCt 1 - WL/HV,U.S. House,1,LIB,Troy Hageman,9,5,4
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,U.S. House,1,LIB,Troy Hageman,30,12,18
+Allamakee,PCT - PO/FK,U.S. House,1,LIB,Troy Hageman,11,5,6
+Allamakee,PCT 4 - PV City,U.S. House,1,LIB,Troy Hageman,20,14,6
+Allamakee,LT/PC/WV CITY,U.S. House,1,LIB,Troy Hageman,14,11,3
+Allamakee,PCT - 6 FV/TL/HF CITY,U.S. House,1,LIB,Troy Hageman,14,10,4
+Allamakee,PCT - 7 CN/LF//LS/LS City,U.S. House,1,LIB,Troy Hageman,36,28,8
+Allamakee,PCT - 8 IA/UC/NA CITY,U.S. House,1,LIB,Troy Hageman,19,9,10
+Allamakee,PCT 9 - WAUKON WARD 1,U.S. House,1,LIB,Troy Hageman,22,13,9
+Allamakee,WAUKON WARD 2,U.S. House,1,LIB,Troy Hageman,27,17,10
+Allamakee,WAUKON WARD 3,U.S. House,1,LIB,Troy Hageman,23,12,11
+Allamakee,PCt 1 - WL/HV,U.S. House,1,,Write-in,0,0,0
+Allamakee,PCT 2 - FC/JF/LL/MK/UP,U.S. House,1,,Write-in,0,0,0
+Allamakee,PCT - PO/FK,U.S. House,1,,Write-in,0,0,0
+Allamakee,PCT 4 - PV City,U.S. House,1,,Write-in,0,0,0
+Allamakee,LT/PC/WV CITY,U.S. House,1,,Write-in,0,0,0
+Allamakee,PCT - 6 FV/TL/HF CITY,U.S. House,1,,Write-in,0,0,0
+Allamakee,PCT - 7 CN/LF//LS/LS City,U.S. House,1,,Write-in,0,0,0
+Allamakee,PCT - 8 IA/UC/NA CITY,U.S. House,1,,Write-in,0,0,0
+Allamakee,PCT 9 - WAUKON WARD 1,U.S. House,1,,Write-in,0,0,0
+Allamakee,WAUKON WARD 2,U.S. House,1,,Write-in,1,1,0
+Allamakee,WAUKON WARD 3,U.S. House,1,,Write-in,0,0,0
 Allamakee,PCt 1 - WL/HV,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,86,39,47
 Allamakee,PCT 2 - FC/JF/LL/MK/UP,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,347,166,181
 Allamakee,PCT - PO/FK,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,67,32,35

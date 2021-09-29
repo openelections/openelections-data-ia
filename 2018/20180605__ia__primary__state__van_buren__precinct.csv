@@ -1,22 +1,22 @@
 county,precinct,office,district,party,candidate,votes,group3,group1,group2,group4
-Van Buren,Birmingham,United States Representative District 2,,REP,Christopher Peters,62,0,62,0,0
-Van Buren,Bonaparte,United States Representative District 2,,REP,Christopher Peters,37,0,37,0,0
-Van Buren,Cantril,United States Representative District 2,,REP,Christopher Peters,17,0,17,0,0
-Van Buren,Douds,United States Representative District 2,,REP,Christopher Peters,53,0,53,0,0
-Van Buren,Farmington,United States Representative District 2,,REP,Christopher Peters,46,0,46,0,0
-Van Buren,Keosauqua,United States Representative District 2,,REP,Christopher Peters,120,0,120,0,0
-Van Buren,Milton,United States Representative District 2,,REP,Christopher Peters,26,0,26,0,0
-Van Buren,Stockport,United States Representative District 2,,REP,Christopher Peters,17,0,17,0,0
-Van Buren,Absentee,United States Representative District 2,,REP,Christopher Peters,29,0,29,0,0
-Van Buren,Birmingham,United States Representative District 2,,,Write-in,0,0,0,0,0
-Van Buren,Bonaparte,United States Representative District 2,,,Write-in,0,0,0,0,0
-Van Buren,Cantril,United States Representative District 2,,,Write-in,0,0,0,0,0
-Van Buren,Douds,United States Representative District 2,,,Write-in,0,0,0,0,0
-Van Buren,Farmington,United States Representative District 2,,,Write-in,0,0,0,0,0
-Van Buren,Keosauqua,United States Representative District 2,,,Write-in,0,0,0,0,0
-Van Buren,Milton,United States Representative District 2,,,Write-in,1,0,1,0,0
-Van Buren,Stockport,United States Representative District 2,,,Write-in,0,0,0,0,0
-Van Buren,Absentee,United States Representative District 2,,,Write-in,0,0,0,0,0
+Van Buren,Birmingham,U.S. House,2,REP,Christopher Peters,62,0,62,0,0
+Van Buren,Bonaparte,U.S. House,2,REP,Christopher Peters,37,0,37,0,0
+Van Buren,Cantril,U.S. House,2,REP,Christopher Peters,17,0,17,0,0
+Van Buren,Douds,U.S. House,2,REP,Christopher Peters,53,0,53,0,0
+Van Buren,Farmington,U.S. House,2,REP,Christopher Peters,46,0,46,0,0
+Van Buren,Keosauqua,U.S. House,2,REP,Christopher Peters,120,0,120,0,0
+Van Buren,Milton,U.S. House,2,REP,Christopher Peters,26,0,26,0,0
+Van Buren,Stockport,U.S. House,2,REP,Christopher Peters,17,0,17,0,0
+Van Buren,Absentee,U.S. House,2,REP,Christopher Peters,29,0,29,0,0
+Van Buren,Birmingham,U.S. House,2,,Write-in,0,0,0,0,0
+Van Buren,Bonaparte,U.S. House,2,,Write-in,0,0,0,0,0
+Van Buren,Cantril,U.S. House,2,,Write-in,0,0,0,0,0
+Van Buren,Douds,U.S. House,2,,Write-in,0,0,0,0,0
+Van Buren,Farmington,U.S. House,2,,Write-in,0,0,0,0,0
+Van Buren,Keosauqua,U.S. House,2,,Write-in,0,0,0,0,0
+Van Buren,Milton,U.S. House,2,,Write-in,1,0,1,0,0
+Van Buren,Stockport,U.S. House,2,,Write-in,0,0,0,0,0
+Van Buren,Absentee,U.S. House,2,,Write-in,0,0,0,0,0
 Van Buren,Birmingham,Governor,,REP,Kim Reynolds,82,0,82,0,0
 Van Buren,Bonaparte,Governor,,REP,Kim Reynolds,55,0,55,0,0
 Van Buren,Cantril,Governor,,REP,Kim Reynolds,21,0,21,0,0
@@ -260,15 +260,15 @@ Van Buren,Keosauqua,County Attorney,,,Write-in,0,0,0,0,0
 Van Buren,Milton,County Attorney,,,Write-in,1,0,1,0,0
 Van Buren,Stockport,County Attorney,,,Write-in,0,0,0,0,0
 Van Buren,Absentee,County Attorney,,,Write-in,0,0,0,0,0
-Van Buren,Birmingham,United States Representative District 2,,DEM,Dave Loebsack,29,0,29,0,0
-Van Buren,Bonaparte,United States Representative District 2,,DEM,Dave Loebsack,42,0,42,0,0
-Van Buren,Cantril,United States Representative District 2,,DEM,Dave Loebsack,14,0,14,0,0
-Van Buren,Douds,United States Representative District 2,,DEM,Dave Loebsack,20,0,20,0,0
-Van Buren,Farmington,United States Representative District 2,,DEM,Dave Loebsack,18,0,18,0,0
-Van Buren,Keosauqua,United States Representative District 2,,DEM,Dave Loebsack,87,0,87,0,0
-Van Buren,Milton,United States Representative District 2,,DEM,Dave Loebsack,16,0,16,0,0
-Van Buren,Stockport,United States Representative District 2,,DEM,Dave Loebsack,12,0,12,0,0
-Van Buren,Absentee,United States Representative District 2,,DEM,Dave Loebsack,42,0,42,0,0
+Van Buren,Birmingham,U.S. House,2,DEM,Dave Loebsack,29,0,29,0,0
+Van Buren,Bonaparte,U.S. House,2,DEM,Dave Loebsack,42,0,42,0,0
+Van Buren,Cantril,U.S. House,2,DEM,Dave Loebsack,14,0,14,0,0
+Van Buren,Douds,U.S. House,2,DEM,Dave Loebsack,20,0,20,0,0
+Van Buren,Farmington,U.S. House,2,DEM,Dave Loebsack,18,0,18,0,0
+Van Buren,Keosauqua,U.S. House,2,DEM,Dave Loebsack,87,0,87,0,0
+Van Buren,Milton,U.S. House,2,DEM,Dave Loebsack,16,0,16,0,0
+Van Buren,Stockport,U.S. House,2,DEM,Dave Loebsack,12,0,12,0,0
+Van Buren,Absentee,U.S. House,2,DEM,Dave Loebsack,42,0,42,0,0
 Van Buren,Birmingham,Governor,,DEM,Nate Boulton,3,0,3,0,0
 Van Buren,Bonaparte,Governor,,DEM,Nate Boulton,1,0,1,0,0
 Van Buren,Cantril,Governor,,DEM,Nate Boulton,1,0,1,0,0

@@ -1,34 +1,34 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Buena Vista,ACFC,United States Representative District 4,,REP,Cyndi Hanson,16,1,15
-Buena Vista,ALNE,United States Representative District 4,,REP,Cyndi Hanson,20,2,18
-Buena Vista,LKHM,United States Representative District 4,,REP,Cyndi Hanson,15,1,14
-Buena Vista,NENP,United States Representative District 4,,REP,Cyndi Hanson,8,0,8
-Buena Vista,SMLR,United States Representative District 4,,REP,Cyndi Hanson,24,5,19
-Buena Vista,SL01,United States Representative District 4,,REP,Cyndi Hanson,8,0,8
-Buena Vista,SL02,United States Representative District 4,,REP,Cyndi Hanson,3,0,3
-Buena Vista,SL03,United States Representative District 4,,REP,Cyndi Hanson,20,5,15
-Buena Vista,SL04,United States Representative District 4,,REP,Cyndi Hanson,15,1,14
-Buena Vista,TRWG,United States Representative District 4,,REP,Cyndi Hanson,6,0,6
-Buena Vista,ACFC,United States Representative District 4,,REP,Steve King,89,10,79
-Buena Vista,ALNE,United States Representative District 4,,REP,Steve King,68,7,61
-Buena Vista,LKHM,United States Representative District 4,,REP,Steve King,39,7,32
-Buena Vista,NENP,United States Representative District 4,,REP,Steve King,65,8,57
-Buena Vista,SMLR,United States Representative District 4,,REP,Steve King,97,12,85
-Buena Vista,SL01,United States Representative District 4,,REP,Steve King,31,3,28
-Buena Vista,SL02,United States Representative District 4,,REP,Steve King,15,4,11
-Buena Vista,SL03,United States Representative District 4,,REP,Steve King,73,12,61
-Buena Vista,SL04,United States Representative District 4,,REP,Steve King,35,1,34
-Buena Vista,TRWG,United States Representative District 4,,REP,Steve King,25,4,21
-Buena Vista,ACFC,United States Representative District 4,,,Write-in,0,0,0
-Buena Vista,ALNE,United States Representative District 4,,,Write-in,0,0,0
-Buena Vista,LKHM,United States Representative District 4,,,Write-in,0,0,0
-Buena Vista,NENP,United States Representative District 4,,,Write-in,0,0,0
-Buena Vista,SMLR,United States Representative District 4,,,Write-in,0,0,0
-Buena Vista,SL01,United States Representative District 4,,,Write-in,0,0,0
-Buena Vista,SL02,United States Representative District 4,,,Write-in,0,0,0
-Buena Vista,SL03,United States Representative District 4,,,Write-in,0,0,0
-Buena Vista,SL04,United States Representative District 4,,,Write-in,0,0,0
-Buena Vista,TRWG,United States Representative District 4,,,Write-in,0,0,0
+Buena Vista,ACFC,U.S. House,4,REP,Cyndi Hanson,16,1,15
+Buena Vista,ALNE,U.S. House,4,REP,Cyndi Hanson,20,2,18
+Buena Vista,LKHM,U.S. House,4,REP,Cyndi Hanson,15,1,14
+Buena Vista,NENP,U.S. House,4,REP,Cyndi Hanson,8,0,8
+Buena Vista,SMLR,U.S. House,4,REP,Cyndi Hanson,24,5,19
+Buena Vista,SL01,U.S. House,4,REP,Cyndi Hanson,8,0,8
+Buena Vista,SL02,U.S. House,4,REP,Cyndi Hanson,3,0,3
+Buena Vista,SL03,U.S. House,4,REP,Cyndi Hanson,20,5,15
+Buena Vista,SL04,U.S. House,4,REP,Cyndi Hanson,15,1,14
+Buena Vista,TRWG,U.S. House,4,REP,Cyndi Hanson,6,0,6
+Buena Vista,ACFC,U.S. House,4,REP,Steve King,89,10,79
+Buena Vista,ALNE,U.S. House,4,REP,Steve King,68,7,61
+Buena Vista,LKHM,U.S. House,4,REP,Steve King,39,7,32
+Buena Vista,NENP,U.S. House,4,REP,Steve King,65,8,57
+Buena Vista,SMLR,U.S. House,4,REP,Steve King,97,12,85
+Buena Vista,SL01,U.S. House,4,REP,Steve King,31,3,28
+Buena Vista,SL02,U.S. House,4,REP,Steve King,15,4,11
+Buena Vista,SL03,U.S. House,4,REP,Steve King,73,12,61
+Buena Vista,SL04,U.S. House,4,REP,Steve King,35,1,34
+Buena Vista,TRWG,U.S. House,4,REP,Steve King,25,4,21
+Buena Vista,ACFC,U.S. House,4,,Write-in,0,0,0
+Buena Vista,ALNE,U.S. House,4,,Write-in,0,0,0
+Buena Vista,LKHM,U.S. House,4,,Write-in,0,0,0
+Buena Vista,NENP,U.S. House,4,,Write-in,0,0,0
+Buena Vista,SMLR,U.S. House,4,,Write-in,0,0,0
+Buena Vista,SL01,U.S. House,4,,Write-in,0,0,0
+Buena Vista,SL02,U.S. House,4,,Write-in,0,0,0
+Buena Vista,SL03,U.S. House,4,,Write-in,0,0,0
+Buena Vista,SL04,U.S. House,4,,Write-in,0,0,0
+Buena Vista,TRWG,U.S. House,4,,Write-in,0,0,0
 Buena Vista,ACFC,Governor,,REP,Kim Reynolds,98,10,88
 Buena Vista,ALNE,Governor,,REP,Kim Reynolds,78,7,71
 Buena Vista,LKHM,Governor,,REP,Kim Reynolds,48,7,41
@@ -299,36 +299,36 @@ Buena Vista,SL02,County Attorney,,,Write-in,0,0,0
 Buena Vista,SL03,County Attorney,,,Write-in,0,0,0
 Buena Vista,SL04,County Attorney,,,Write-in,0,0,0
 Buena Vista,TRWG,County Attorney,,,Write-in,0,0,0
-Buena Vista,ACFC,United States Representative District 4,,DEM,Leann Jacobsen,10,2,8
-Buena Vista,ALNE,United States Representative District 4,,DEM,Leann Jacobsen,18,1,17
-Buena Vista,LKHM,United States Representative District 4,,DEM,Leann Jacobsen,14,1,13
-Buena Vista,NENP,United States Representative District 4,,DEM,Leann Jacobsen,5,2,3
-Buena Vista,SMLR,United States Representative District 4,,DEM,Leann Jacobsen,22,2,20
-Buena Vista,SL01,United States Representative District 4,,DEM,Leann Jacobsen,11,0,11
-Buena Vista,SL02,United States Representative District 4,,DEM,Leann Jacobsen,4,0,4
-Buena Vista,SL03,United States Representative District 4,,DEM,Leann Jacobsen,23,8,15
-Buena Vista,SL04,United States Representative District 4,,DEM,Leann Jacobsen,24,3,21
-Buena Vista,TRWG,United States Representative District 4,,DEM,Leann Jacobsen,5,2,3
-Buena Vista,ACFC,United States Representative District 4,,DEM,John Paschen,0,0,0
-Buena Vista,ALNE,United States Representative District 4,,DEM,John Paschen,12,4,8
-Buena Vista,LKHM,United States Representative District 4,,DEM,John Paschen,16,1,15
-Buena Vista,NENP,United States Representative District 4,,DEM,John Paschen,5,2,3
-Buena Vista,SMLR,United States Representative District 4,,DEM,John Paschen,4,0,4
-Buena Vista,SL01,United States Representative District 4,,DEM,John Paschen,12,2,10
-Buena Vista,SL02,United States Representative District 4,,DEM,John Paschen,3,0,3
-Buena Vista,SL03,United States Representative District 4,,DEM,John Paschen,25,6,19
-Buena Vista,SL04,United States Representative District 4,,DEM,John Paschen,16,6,10
-Buena Vista,TRWG,United States Representative District 4,,DEM,John Paschen,3,0,3
-Buena Vista,ACFC,United States Representative District 4,,DEM,J.D. Scholten,9,1,8
-Buena Vista,ALNE,United States Representative District 4,,DEM,J.D. Scholten,26,2,24
-Buena Vista,LKHM,United States Representative District 4,,DEM,J.D. Scholten,10,4,6
-Buena Vista,NENP,United States Representative District 4,,DEM,J.D. Scholten,3,1,2
-Buena Vista,SMLR,United States Representative District 4,,DEM,J.D. Scholten,10,1,9
-Buena Vista,SL01,United States Representative District 4,,DEM,J.D. Scholten,19,2,17
-Buena Vista,SL02,United States Representative District 4,,DEM,J.D. Scholten,19,4,15
-Buena Vista,SL03,United States Representative District 4,,DEM,J.D. Scholten,27,3,24
-Buena Vista,SL04,United States Representative District 4,,DEM,J.D. Scholten,28,4,24
-Buena Vista,TRWG,United States Representative District 4,,DEM,J.D. Scholten,14,3,11
+Buena Vista,ACFC,U.S. House,4,DEM,Leann Jacobsen,10,2,8
+Buena Vista,ALNE,U.S. House,4,DEM,Leann Jacobsen,18,1,17
+Buena Vista,LKHM,U.S. House,4,DEM,Leann Jacobsen,14,1,13
+Buena Vista,NENP,U.S. House,4,DEM,Leann Jacobsen,5,2,3
+Buena Vista,SMLR,U.S. House,4,DEM,Leann Jacobsen,22,2,20
+Buena Vista,SL01,U.S. House,4,DEM,Leann Jacobsen,11,0,11
+Buena Vista,SL02,U.S. House,4,DEM,Leann Jacobsen,4,0,4
+Buena Vista,SL03,U.S. House,4,DEM,Leann Jacobsen,23,8,15
+Buena Vista,SL04,U.S. House,4,DEM,Leann Jacobsen,24,3,21
+Buena Vista,TRWG,U.S. House,4,DEM,Leann Jacobsen,5,2,3
+Buena Vista,ACFC,U.S. House,4,DEM,John Paschen,0,0,0
+Buena Vista,ALNE,U.S. House,4,DEM,John Paschen,12,4,8
+Buena Vista,LKHM,U.S. House,4,DEM,John Paschen,16,1,15
+Buena Vista,NENP,U.S. House,4,DEM,John Paschen,5,2,3
+Buena Vista,SMLR,U.S. House,4,DEM,John Paschen,4,0,4
+Buena Vista,SL01,U.S. House,4,DEM,John Paschen,12,2,10
+Buena Vista,SL02,U.S. House,4,DEM,John Paschen,3,0,3
+Buena Vista,SL03,U.S. House,4,DEM,John Paschen,25,6,19
+Buena Vista,SL04,U.S. House,4,DEM,John Paschen,16,6,10
+Buena Vista,TRWG,U.S. House,4,DEM,John Paschen,3,0,3
+Buena Vista,ACFC,U.S. House,4,DEM,J.D. Scholten,9,1,8
+Buena Vista,ALNE,U.S. House,4,DEM,J.D. Scholten,26,2,24
+Buena Vista,LKHM,U.S. House,4,DEM,J.D. Scholten,10,4,6
+Buena Vista,NENP,U.S. House,4,DEM,J.D. Scholten,3,1,2
+Buena Vista,SMLR,U.S. House,4,DEM,J.D. Scholten,10,1,9
+Buena Vista,SL01,U.S. House,4,DEM,J.D. Scholten,19,2,17
+Buena Vista,SL02,U.S. House,4,DEM,J.D. Scholten,19,4,15
+Buena Vista,SL03,U.S. House,4,DEM,J.D. Scholten,27,3,24
+Buena Vista,SL04,U.S. House,4,DEM,J.D. Scholten,28,4,24
+Buena Vista,TRWG,U.S. House,4,DEM,J.D. Scholten,14,3,11
 Buena Vista,ACFC,Governor,,DEM,Nate Boulton,1,0,1
 Buena Vista,ALNE,Governor,,DEM,Nate Boulton,0,0,0
 Buena Vista,LKHM,Governor,,DEM,Nate Boulton,0,0,0
@@ -469,16 +469,16 @@ Buena Vista,SL02,County Recorder,,DEM,Shari L. O'Bannon,25,4,21
 Buena Vista,SL03,County Recorder,,DEM,Shari L. O'Bannon,73,14,59
 Buena Vista,SL04,County Recorder,,DEM,Shari L. O'Bannon,58,13,45
 Buena Vista,TRWG,County Recorder,,DEM,Shari L. O'Bannon,17,2,15
-Buena Vista,ACFC,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Buena Vista,ALNE,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
-Buena Vista,LKHM,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Buena Vista,NENP,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Buena Vista,SMLR,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
-Buena Vista,SL01,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
-Buena Vista,SL02,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Buena Vista,SL03,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Buena Vista,SL04,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
-Buena Vista,TRWG,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Buena Vista,ACFC,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Buena Vista,ALNE,U.S. House,4,LIB,Charles Aldrich,1,0,1
+Buena Vista,LKHM,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Buena Vista,NENP,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Buena Vista,SMLR,U.S. House,4,LIB,Charles Aldrich,1,0,1
+Buena Vista,SL01,U.S. House,4,LIB,Charles Aldrich,1,0,1
+Buena Vista,SL02,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Buena Vista,SL03,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Buena Vista,SL04,U.S. House,4,LIB,Charles Aldrich,1,0,1
+Buena Vista,TRWG,U.S. House,4,LIB,Charles Aldrich,0,0,0
 Buena Vista,ACFC,Governor,,LIB,Marco Battaglia,0,0,0
 Buena Vista,ALNE,Governor,,LIB,Marco Battaglia,0,0,0
 Buena Vista,LKHM,Governor,,LIB,Marco Battaglia,0,0,0

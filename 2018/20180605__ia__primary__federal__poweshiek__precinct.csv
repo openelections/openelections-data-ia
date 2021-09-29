@@ -1,24 +1,24 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Poweshiek,BMWJ,United States Representative District 1,,REP,Rod Blum,146,23,123
-Poweshiek,DRL,United States Representative District 1,,REP,Rod Blum,38,5,33
-Poweshiek,MS,United States Representative District 1,,REP,Rod Blum,15,0,15
-Poweshiek,CGWS,United States Representative District 1,,REP,Rod Blum,68,6,62
-Poweshiek,1st Ward - GR,United States Representative District 1,,REP,Rod Blum,31,6,25
-Poweshiek,2nd Ward - GR,United States Representative District 1,,REP,Rod Blum,70,4,66
-Poweshiek,3rd Ward - GR,United States Representative District 1,,REP,Rod Blum,27,4,23
-Poweshiek,4th Ward - GR,United States Representative District 1,,REP,Rod Blum,49,15,34
-Poweshiek,JUPS,United States Representative District 1,,REP,Rod Blum,81,8,73
-Poweshiek,Montezuma,United States Representative District 1,,REP,Rod Blum,43,4,39
-Poweshiek,BMWJ,United States Representative District 1,,,Write-in,0,0,0
-Poweshiek,DRL,United States Representative District 1,,,Write-in,0,0,0
-Poweshiek,MS,United States Representative District 1,,,Write-in,0,0,0
-Poweshiek,CGWS,United States Representative District 1,,,Write-in,0,0,0
-Poweshiek,1st Ward - GR,United States Representative District 1,,,Write-in,0,0,0
-Poweshiek,2nd Ward - GR,United States Representative District 1,,,Write-in,0,0,0
-Poweshiek,3rd Ward - GR,United States Representative District 1,,,Write-in,0,0,0
-Poweshiek,4th Ward - GR,United States Representative District 1,,,Write-in,0,0,0
-Poweshiek,JUPS,United States Representative District 1,,,Write-in,0,0,0
-Poweshiek,Montezuma,United States Representative District 1,,,Write-in,0,0,0
+Poweshiek,BMWJ,U.S. House,1,REP,Rod Blum,146,23,123
+Poweshiek,DRL,U.S. House,1,REP,Rod Blum,38,5,33
+Poweshiek,MS,U.S. House,1,REP,Rod Blum,15,0,15
+Poweshiek,CGWS,U.S. House,1,REP,Rod Blum,68,6,62
+Poweshiek,1st Ward - GR,U.S. House,1,REP,Rod Blum,31,6,25
+Poweshiek,2nd Ward - GR,U.S. House,1,REP,Rod Blum,70,4,66
+Poweshiek,3rd Ward - GR,U.S. House,1,REP,Rod Blum,27,4,23
+Poweshiek,4th Ward - GR,U.S. House,1,REP,Rod Blum,49,15,34
+Poweshiek,JUPS,U.S. House,1,REP,Rod Blum,81,8,73
+Poweshiek,Montezuma,U.S. House,1,REP,Rod Blum,43,4,39
+Poweshiek,BMWJ,U.S. House,1,,Write-in,0,0,0
+Poweshiek,DRL,U.S. House,1,,Write-in,0,0,0
+Poweshiek,MS,U.S. House,1,,Write-in,0,0,0
+Poweshiek,CGWS,U.S. House,1,,Write-in,0,0,0
+Poweshiek,1st Ward - GR,U.S. House,1,,Write-in,0,0,0
+Poweshiek,2nd Ward - GR,U.S. House,1,,Write-in,0,0,0
+Poweshiek,3rd Ward - GR,U.S. House,1,,Write-in,0,0,0
+Poweshiek,4th Ward - GR,U.S. House,1,,Write-in,0,0,0
+Poweshiek,JUPS,U.S. House,1,,Write-in,0,0,0
+Poweshiek,Montezuma,U.S. House,1,,Write-in,0,0,0
 Poweshiek,BMWJ,Governor,,REP,Kim Reynolds,159,24,135
 Poweshiek,DRL,Governor,,REP,Kim Reynolds,41,5,36
 Poweshiek,MS,Governor,,REP,Kim Reynolds,14,0,14
@@ -259,46 +259,46 @@ Poweshiek,3rd Ward - GR,County Attorney,,,Write-in,0,0,0
 Poweshiek,4th Ward - GR,County Attorney,,,Write-in,0,0,0
 Poweshiek,JUPS,County Attorney,,,Write-in,0,0,0
 Poweshiek,Montezuma,County Attorney,,,Write-in,0,0,0
-Poweshiek,BMWJ,United States Representative District 1,,DEM,Abby Finkenauer,64,12,52
-Poweshiek,DRL,United States Representative District 1,,DEM,Abby Finkenauer,7,0,7
-Poweshiek,MS,United States Representative District 1,,DEM,Abby Finkenauer,17,3,14
-Poweshiek,CGWS,United States Representative District 1,,DEM,Abby Finkenauer,38,5,33
-Poweshiek,1st Ward - GR,United States Representative District 1,,DEM,Abby Finkenauer,192,93,99
-Poweshiek,2nd Ward - GR,United States Representative District 1,,DEM,Abby Finkenauer,182,34,148
-Poweshiek,3rd Ward - GR,United States Representative District 1,,DEM,Abby Finkenauer,98,21,77
-Poweshiek,4th Ward - GR,United States Representative District 1,,DEM,Abby Finkenauer,156,46,110
-Poweshiek,JUPS,United States Representative District 1,,DEM,Abby Finkenauer,42,6,36
-Poweshiek,Montezuma,United States Representative District 1,,DEM,Abby Finkenauer,34,6,28
-Poweshiek,BMWJ,United States Representative District 1,,DEM,Thomas Heckroth,19,4,15
-Poweshiek,DRL,United States Representative District 1,,DEM,Thomas Heckroth,0,0,0
-Poweshiek,MS,United States Representative District 1,,DEM,Thomas Heckroth,3,0,3
-Poweshiek,CGWS,United States Representative District 1,,DEM,Thomas Heckroth,2,0,2
-Poweshiek,1st Ward - GR,United States Representative District 1,,DEM,Thomas Heckroth,20,13,7
-Poweshiek,2nd Ward - GR,United States Representative District 1,,DEM,Thomas Heckroth,26,9,17
-Poweshiek,3rd Ward - GR,United States Representative District 1,,DEM,Thomas Heckroth,8,2,6
-Poweshiek,4th Ward - GR,United States Representative District 1,,DEM,Thomas Heckroth,14,5,9
-Poweshiek,JUPS,United States Representative District 1,,DEM,Thomas Heckroth,6,5,1
-Poweshiek,Montezuma,United States Representative District 1,,DEM,Thomas Heckroth,5,0,5
-Poweshiek,BMWJ,United States Representative District 1,,DEM,George Ramsey,8,1,7
-Poweshiek,DRL,United States Representative District 1,,DEM,George Ramsey,4,0,4
-Poweshiek,MS,United States Representative District 1,,DEM,George Ramsey,0,0,0
-Poweshiek,CGWS,United States Representative District 1,,DEM,George Ramsey,4,0,4
-Poweshiek,1st Ward - GR,United States Representative District 1,,DEM,George Ramsey,17,10,7
-Poweshiek,2nd Ward - GR,United States Representative District 1,,DEM,George Ramsey,13,5,8
-Poweshiek,3rd Ward - GR,United States Representative District 1,,DEM,George Ramsey,12,3,9
-Poweshiek,4th Ward - GR,United States Representative District 1,,DEM,George Ramsey,12,7,5
-Poweshiek,JUPS,United States Representative District 1,,DEM,George Ramsey,1,0,1
-Poweshiek,Montezuma,United States Representative District 1,,DEM,George Ramsey,11,1,10
-Poweshiek,BMWJ,United States Representative District 1,,DEM,Courtney L. Rowe,6,0,6
-Poweshiek,DRL,United States Representative District 1,,DEM,Courtney L. Rowe,2,1,1
-Poweshiek,MS,United States Representative District 1,,DEM,Courtney L. Rowe,4,0,4
-Poweshiek,CGWS,United States Representative District 1,,DEM,Courtney L. Rowe,12,2,10
-Poweshiek,1st Ward - GR,United States Representative District 1,,DEM,Courtney L. Rowe,52,38,14
-Poweshiek,2nd Ward - GR,United States Representative District 1,,DEM,Courtney L. Rowe,18,5,13
-Poweshiek,3rd Ward - GR,United States Representative District 1,,DEM,Courtney L. Rowe,17,4,13
-Poweshiek,4th Ward - GR,United States Representative District 1,,DEM,Courtney L. Rowe,23,15,8
-Poweshiek,JUPS,United States Representative District 1,,DEM,Courtney L. Rowe,6,0,6
-Poweshiek,Montezuma,United States Representative District 1,,DEM,Courtney L. Rowe,11,3,8
+Poweshiek,BMWJ,U.S. House,1,DEM,Abby Finkenauer,64,12,52
+Poweshiek,DRL,U.S. House,1,DEM,Abby Finkenauer,7,0,7
+Poweshiek,MS,U.S. House,1,DEM,Abby Finkenauer,17,3,14
+Poweshiek,CGWS,U.S. House,1,DEM,Abby Finkenauer,38,5,33
+Poweshiek,1st Ward - GR,U.S. House,1,DEM,Abby Finkenauer,192,93,99
+Poweshiek,2nd Ward - GR,U.S. House,1,DEM,Abby Finkenauer,182,34,148
+Poweshiek,3rd Ward - GR,U.S. House,1,DEM,Abby Finkenauer,98,21,77
+Poweshiek,4th Ward - GR,U.S. House,1,DEM,Abby Finkenauer,156,46,110
+Poweshiek,JUPS,U.S. House,1,DEM,Abby Finkenauer,42,6,36
+Poweshiek,Montezuma,U.S. House,1,DEM,Abby Finkenauer,34,6,28
+Poweshiek,BMWJ,U.S. House,1,DEM,Thomas Heckroth,19,4,15
+Poweshiek,DRL,U.S. House,1,DEM,Thomas Heckroth,0,0,0
+Poweshiek,MS,U.S. House,1,DEM,Thomas Heckroth,3,0,3
+Poweshiek,CGWS,U.S. House,1,DEM,Thomas Heckroth,2,0,2
+Poweshiek,1st Ward - GR,U.S. House,1,DEM,Thomas Heckroth,20,13,7
+Poweshiek,2nd Ward - GR,U.S. House,1,DEM,Thomas Heckroth,26,9,17
+Poweshiek,3rd Ward - GR,U.S. House,1,DEM,Thomas Heckroth,8,2,6
+Poweshiek,4th Ward - GR,U.S. House,1,DEM,Thomas Heckroth,14,5,9
+Poweshiek,JUPS,U.S. House,1,DEM,Thomas Heckroth,6,5,1
+Poweshiek,Montezuma,U.S. House,1,DEM,Thomas Heckroth,5,0,5
+Poweshiek,BMWJ,U.S. House,1,DEM,George Ramsey,8,1,7
+Poweshiek,DRL,U.S. House,1,DEM,George Ramsey,4,0,4
+Poweshiek,MS,U.S. House,1,DEM,George Ramsey,0,0,0
+Poweshiek,CGWS,U.S. House,1,DEM,George Ramsey,4,0,4
+Poweshiek,1st Ward - GR,U.S. House,1,DEM,George Ramsey,17,10,7
+Poweshiek,2nd Ward - GR,U.S. House,1,DEM,George Ramsey,13,5,8
+Poweshiek,3rd Ward - GR,U.S. House,1,DEM,George Ramsey,12,3,9
+Poweshiek,4th Ward - GR,U.S. House,1,DEM,George Ramsey,12,7,5
+Poweshiek,JUPS,U.S. House,1,DEM,George Ramsey,1,0,1
+Poweshiek,Montezuma,U.S. House,1,DEM,George Ramsey,11,1,10
+Poweshiek,BMWJ,U.S. House,1,DEM,Courtney L. Rowe,6,0,6
+Poweshiek,DRL,U.S. House,1,DEM,Courtney L. Rowe,2,1,1
+Poweshiek,MS,U.S. House,1,DEM,Courtney L. Rowe,4,0,4
+Poweshiek,CGWS,U.S. House,1,DEM,Courtney L. Rowe,12,2,10
+Poweshiek,1st Ward - GR,U.S. House,1,DEM,Courtney L. Rowe,52,38,14
+Poweshiek,2nd Ward - GR,U.S. House,1,DEM,Courtney L. Rowe,18,5,13
+Poweshiek,3rd Ward - GR,U.S. House,1,DEM,Courtney L. Rowe,17,4,13
+Poweshiek,4th Ward - GR,U.S. House,1,DEM,Courtney L. Rowe,23,15,8
+Poweshiek,JUPS,U.S. House,1,DEM,Courtney L. Rowe,6,0,6
+Poweshiek,Montezuma,U.S. House,1,DEM,Courtney L. Rowe,11,3,8
 Poweshiek,BMWJ,Governor,,DEM,Nate Boulton,3,1,2
 Poweshiek,DRL,Governor,,DEM,Nate Boulton,1,0,1
 Poweshiek,MS,Governor,,DEM,Nate Boulton,1,0,1
@@ -459,36 +459,36 @@ Poweshiek,3rd Ward - GR,County Recorder,,DEM,Dianna Longhenry,107,24,83
 Poweshiek,4th Ward - GR,County Recorder,,DEM,Dianna Longhenry,169,59,110
 Poweshiek,JUPS,County Recorder,,DEM,Dianna Longhenry,45,10,35
 Poweshiek,Montezuma,County Recorder,,DEM,Dianna Longhenry,48,5,43
-Poweshiek,BMWJ,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Poweshiek,DRL,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Poweshiek,MS,United States Representative District 1,,LIB,George Ramsey,1,0,1
-Poweshiek,CGWS,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Poweshiek,1st Ward - GR,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Poweshiek,2nd Ward - GR,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Poweshiek,3rd Ward - GR,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Poweshiek,4th Ward - GR,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Poweshiek,JUPS,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Poweshiek,Montezuma,United States Representative District 1,,LIB,George Ramsey,0,0,0
-Poweshiek,BMWJ,United States Representative District 1,,LIB,Blank,0,0,0
-Poweshiek,DRL,United States Representative District 1,,LIB,Blank,0,0,0
-Poweshiek,MS,United States Representative District 1,,LIB,Blank,0,0,0
-Poweshiek,CGWS,United States Representative District 1,,LIB,Blank,0,0,0
-Poweshiek,1st Ward - GR,United States Representative District 1,,LIB,Blank,0,0,0
-Poweshiek,2nd Ward - GR,United States Representative District 1,,LIB,Blank,1,0,1
-Poweshiek,3rd Ward - GR,United States Representative District 1,,LIB,Blank,0,0,0
-Poweshiek,4th Ward - GR,United States Representative District 1,,LIB,Blank,0,0,0
-Poweshiek,JUPS,United States Representative District 1,,LIB,Blank,0,0,0
-Poweshiek,Montezuma,United States Representative District 1,,LIB,Blank,0,0,0
-Poweshiek,BMWJ,United States Representative District 1,,LIB,No Name,0,0,0
-Poweshiek,DRL,United States Representative District 1,,LIB,No Name,0,0,0
-Poweshiek,MS,United States Representative District 1,,LIB,No Name,1,0,1
-Poweshiek,CGWS,United States Representative District 1,,LIB,No Name,0,0,0
-Poweshiek,1st Ward - GR,United States Representative District 1,,LIB,No Name,0,0,0
-Poweshiek,2nd Ward - GR,United States Representative District 1,,LIB,No Name,0,0,0
-Poweshiek,3rd Ward - GR,United States Representative District 1,,LIB,No Name,0,0,0
-Poweshiek,4th Ward - GR,United States Representative District 1,,LIB,No Name,0,0,0
-Poweshiek,JUPS,United States Representative District 1,,LIB,No Name,0,0,0
-Poweshiek,Montezuma,United States Representative District 1,,LIB,No Name,0,0,0
+Poweshiek,BMWJ,U.S. House,1,LIB,George Ramsey,0,0,0
+Poweshiek,DRL,U.S. House,1,LIB,George Ramsey,0,0,0
+Poweshiek,MS,U.S. House,1,LIB,George Ramsey,1,0,1
+Poweshiek,CGWS,U.S. House,1,LIB,George Ramsey,0,0,0
+Poweshiek,1st Ward - GR,U.S. House,1,LIB,George Ramsey,0,0,0
+Poweshiek,2nd Ward - GR,U.S. House,1,LIB,George Ramsey,0,0,0
+Poweshiek,3rd Ward - GR,U.S. House,1,LIB,George Ramsey,0,0,0
+Poweshiek,4th Ward - GR,U.S. House,1,LIB,George Ramsey,0,0,0
+Poweshiek,JUPS,U.S. House,1,LIB,George Ramsey,0,0,0
+Poweshiek,Montezuma,U.S. House,1,LIB,George Ramsey,0,0,0
+Poweshiek,BMWJ,U.S. House,1,LIB,Blank,0,0,0
+Poweshiek,DRL,U.S. House,1,LIB,Blank,0,0,0
+Poweshiek,MS,U.S. House,1,LIB,Blank,0,0,0
+Poweshiek,CGWS,U.S. House,1,LIB,Blank,0,0,0
+Poweshiek,1st Ward - GR,U.S. House,1,LIB,Blank,0,0,0
+Poweshiek,2nd Ward - GR,U.S. House,1,LIB,Blank,1,0,1
+Poweshiek,3rd Ward - GR,U.S. House,1,LIB,Blank,0,0,0
+Poweshiek,4th Ward - GR,U.S. House,1,LIB,Blank,0,0,0
+Poweshiek,JUPS,U.S. House,1,LIB,Blank,0,0,0
+Poweshiek,Montezuma,U.S. House,1,LIB,Blank,0,0,0
+Poweshiek,BMWJ,U.S. House,1,LIB,No Name,0,0,0
+Poweshiek,DRL,U.S. House,1,LIB,No Name,0,0,0
+Poweshiek,MS,U.S. House,1,LIB,No Name,1,0,1
+Poweshiek,CGWS,U.S. House,1,LIB,No Name,0,0,0
+Poweshiek,1st Ward - GR,U.S. House,1,LIB,No Name,0,0,0
+Poweshiek,2nd Ward - GR,U.S. House,1,LIB,No Name,0,0,0
+Poweshiek,3rd Ward - GR,U.S. House,1,LIB,No Name,0,0,0
+Poweshiek,4th Ward - GR,U.S. House,1,LIB,No Name,0,0,0
+Poweshiek,JUPS,U.S. House,1,LIB,No Name,0,0,0
+Poweshiek,Montezuma,U.S. House,1,LIB,No Name,0,0,0
 Poweshiek,BMWJ,Governor,,LIB,Marco Battaglia,0,0,0
 Poweshiek,DRL,Governor,,LIB,Marco Battaglia,0,0,0
 Poweshiek,MS,Governor,,LIB,Marco Battaglia,1,0,1

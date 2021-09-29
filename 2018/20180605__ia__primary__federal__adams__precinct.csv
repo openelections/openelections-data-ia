@@ -1,14 +1,14 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Adams,Adams 1,United States Representative District 3,,REP,David Young,61,6,55
-Adams,Adams 2,United States Representative District 3,,REP,David Young,65,14,51
-Adams,Adams 3,United States Representative District 3,,REP,David Young,97,19,78
-Adams,Adams 4,United States Representative District 3,,REP,David Young,46,20,26
-Adams,Adams 5,United States Representative District 3,,REP,David Young,54,9,45
-Adams,Adams 1,United States Representative District 3,,,Write-in,0,0,0
-Adams,Adams 2,United States Representative District 3,,,Write-in,0,0,0
-Adams,Adams 3,United States Representative District 3,,,Write-in,0,0,0
-Adams,Adams 4,United States Representative District 3,,,Write-in,0,0,0
-Adams,Adams 5,United States Representative District 3,,,Write-in,0,0,0
+Adams,Adams 1,U.S. House,3,REP,David Young,61,6,55
+Adams,Adams 2,U.S. House,3,REP,David Young,65,14,51
+Adams,Adams 3,U.S. House,3,REP,David Young,97,19,78
+Adams,Adams 4,U.S. House,3,REP,David Young,46,20,26
+Adams,Adams 5,U.S. House,3,REP,David Young,54,9,45
+Adams,Adams 1,U.S. House,3,,Write-in,0,0,0
+Adams,Adams 2,U.S. House,3,,Write-in,0,0,0
+Adams,Adams 3,U.S. House,3,,Write-in,0,0,0
+Adams,Adams 4,U.S. House,3,,Write-in,0,0,0
+Adams,Adams 5,U.S. House,3,,Write-in,0,0,0
 Adams,Adams 1,Governor,,REP,Kim Reynolds,57,7,50
 Adams,Adams 2,Governor,,REP,Kim Reynolds,61,14,47
 Adams,Adams 3,Governor,,REP,Kim Reynolds,98,17,81
@@ -186,21 +186,21 @@ Adams,Adams 2,County Attorney,,,Write-in,0,0,0
 Adams,Adams 3,County Attorney,,,Write-in,0,0,0
 Adams,Adams 4,County Attorney,,,Write-in,0,0,0
 Adams,Adams 5,County Attorney,,,Write-in,0,0,0
-Adams,Adams 1,United States Representative District 3,,DEM,Cindy Axne,21,5,16
-Adams,Adams 2,United States Representative District 3,,DEM,Cindy Axne,27,7,20
-Adams,Adams 3,United States Representative District 3,,DEM,Cindy Axne,41,6,35
-Adams,Adams 4,United States Representative District 3,,DEM,Cindy Axne,13,6,7
-Adams,Adams 5,United States Representative District 3,,DEM,Cindy Axne,7,0,7
-Adams,Adams 1,United States Representative District 3,,DEM,Pete D'Alessandro,7,4,3
-Adams,Adams 2,United States Representative District 3,,DEM,Pete D'Alessandro,5,1,4
-Adams,Adams 3,United States Representative District 3,,DEM,Pete D'Alessandro,9,3,6
-Adams,Adams 4,United States Representative District 3,,DEM,Pete D'Alessandro,7,4,3
-Adams,Adams 5,United States Representative District 3,,DEM,Pete D'Alessandro,2,0,2
-Adams,Adams 1,United States Representative District 3,,DEM,Eddie J. Mauro,10,0,10
-Adams,Adams 2,United States Representative District 3,,DEM,Eddie J. Mauro,5,0,5
-Adams,Adams 3,United States Representative District 3,,DEM,Eddie J. Mauro,23,4,19
-Adams,Adams 4,United States Representative District 3,,DEM,Eddie J. Mauro,3,1,2
-Adams,Adams 5,United States Representative District 3,,DEM,Eddie J. Mauro,5,2,3
+Adams,Adams 1,U.S. House,3,DEM,Cindy Axne,21,5,16
+Adams,Adams 2,U.S. House,3,DEM,Cindy Axne,27,7,20
+Adams,Adams 3,U.S. House,3,DEM,Cindy Axne,41,6,35
+Adams,Adams 4,U.S. House,3,DEM,Cindy Axne,13,6,7
+Adams,Adams 5,U.S. House,3,DEM,Cindy Axne,7,0,7
+Adams,Adams 1,U.S. House,3,DEM,Pete D'Alessandro,7,4,3
+Adams,Adams 2,U.S. House,3,DEM,Pete D'Alessandro,5,1,4
+Adams,Adams 3,U.S. House,3,DEM,Pete D'Alessandro,9,3,6
+Adams,Adams 4,U.S. House,3,DEM,Pete D'Alessandro,7,4,3
+Adams,Adams 5,U.S. House,3,DEM,Pete D'Alessandro,2,0,2
+Adams,Adams 1,U.S. House,3,DEM,Eddie J. Mauro,10,0,10
+Adams,Adams 2,U.S. House,3,DEM,Eddie J. Mauro,5,0,5
+Adams,Adams 3,U.S. House,3,DEM,Eddie J. Mauro,23,4,19
+Adams,Adams 4,U.S. House,3,DEM,Eddie J. Mauro,3,1,2
+Adams,Adams 5,U.S. House,3,DEM,Eddie J. Mauro,5,2,3
 Adams,Adams 1,Governor,,DEM,Nate Boulton,1,0,1
 Adams,Adams 2,Governor,,DEM,Nate Boulton,1,1,0
 Adams,Adams 3,Governor,,DEM,Nate Boulton,6,3,3
@@ -315,11 +315,11 @@ Adams,Adams 2,County Attorney,,DEM,Andrew Zimmerman,0,0,0
 Adams,Adams 3,County Attorney,,DEM,Andrew Zimmerman,1,0,1
 Adams,Adams 4,County Attorney,,DEM,Andrew Zimmerman,0,0,0
 Adams,Adams 5,County Attorney,,DEM,Andrew Zimmerman,0,0,0
-Adams,Adams 1,United States Representative District 3,,LIB,Bryan Jack Holder,1,0,1
-Adams,Adams 2,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Adams,Adams 3,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Adams,Adams 4,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Adams,Adams 5,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
+Adams,Adams 1,U.S. House,3,LIB,Bryan Jack Holder,1,0,1
+Adams,Adams 2,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Adams,Adams 3,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Adams,Adams 4,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Adams,Adams 5,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
 Adams,Adams 1,Governor,,LIB,Marco Battaglia,0,0,0
 Adams,Adams 2,Governor,,LIB,Marco Battaglia,0,0,0
 Adams,Adams 3,Governor,,LIB,Marco Battaglia,0,0,0

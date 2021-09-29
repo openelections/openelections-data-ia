@@ -1,54 +1,54 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Washington,Ainsworth Precinct,United States Representative District 2,,REP,Christopher Peters,494,325,169
-Washington,Brighton/Marion/Crawford Precinct,United States Representative District 2,,REP,Christopher Peters,537,285,252
-Washington,Kalona Precinct,United States Representative District 2,,REP,Christopher Peters,651,454,197
-Washington,Riverside Precinct,United States Representative District 2,,REP,Christopher Peters,226,166,60
-Washington,Ward One Precinct,United States Representative District 2,,REP,Christopher Peters,280,174,106
-Washington,Ward Two Precinct,United States Representative District 2,,REP,Christopher Peters,418,233,185
-Washington,Ward Three Precinct,United States Representative District 2,,REP,Christopher Peters,413,229,184
-Washington,Ward Four Precinct,United States Representative District 2,,REP,Christopher Peters,500,283,217
-Washington,Wellman Precinct,United States Representative District 2,,REP,Christopher Peters,701,488,213
-Washington,West Chester Precinct,United States Representative District 2,,REP,Christopher Peters,375,232,143
-Washington,Ainsworth Precinct,United States Representative District 2,,DEM,Dave Loebsack,498,257,241
-Washington,Brighton/Marion/Crawford Precinct,United States Representative District 2,,DEM,Dave Loebsack,317,155,162
-Washington,Kalona Precinct,United States Representative District 2,,DEM,Dave Loebsack,597,382,215
-Washington,Riverside Precinct,United States Representative District 2,,DEM,Dave Loebsack,421,307,114
-Washington,Ward One Precinct,United States Representative District 2,,DEM,Dave Loebsack,354,162,192
-Washington,Ward Two Precinct,United States Representative District 2,,DEM,Dave Loebsack,438,192,246
-Washington,Ward Three Precinct,United States Representative District 2,,DEM,Dave Loebsack,472,206,266
-Washington,Ward Four Precinct,United States Representative District 2,,DEM,Dave Loebsack,482,220,262
-Washington,Wellman Precinct,United States Representative District 2,,DEM,Dave Loebsack,502,318,184
-Washington,West Chester Precinct,United States Representative District 2,,DEM,Dave Loebsack,191,97,94
-Washington,Ainsworth Precinct,United States Representative District 2,,LIB,Mark David Strauss,29,20,9
-Washington,Brighton/Marion/Crawford Precinct,United States Representative District 2,,LIB,Mark David Strauss,10,7,3
-Washington,Kalona Precinct,United States Representative District 2,,LIB,Mark David Strauss,20,16,4
-Washington,Riverside Precinct,United States Representative District 2,,LIB,Mark David Strauss,21,19,2
-Washington,Ward One Precinct,United States Representative District 2,,LIB,Mark David Strauss,26,16,10
-Washington,Ward Two Precinct,United States Representative District 2,,LIB,Mark David Strauss,14,6,8
-Washington,Ward Three Precinct,United States Representative District 2,,LIB,Mark David Strauss,16,12,4
-Washington,Ward Four Precinct,United States Representative District 2,,LIB,Mark David Strauss,13,10,3
-Washington,Wellman Precinct,United States Representative District 2,,LIB,Mark David Strauss,28,17,11
-Washington,West Chester Precinct,United States Representative District 2,,LIB,Mark David Strauss,10,6,4
-Washington,Ainsworth Precinct,United States Representative District 2,,,Daniel Clark,6,3,3
-Washington,Brighton/Marion/Crawford Precinct,United States Representative District 2,,,Daniel Clark,6,4,2
-Washington,Kalona Precinct,United States Representative District 2,,,Daniel Clark,5,4,1
-Washington,Riverside Precinct,United States Representative District 2,,,Daniel Clark,4,4,0
-Washington,Ward One Precinct,United States Representative District 2,,,Daniel Clark,3,2,1
-Washington,Ward Two Precinct,United States Representative District 2,,,Daniel Clark,4,3,1
-Washington,Ward Three Precinct,United States Representative District 2,,,Daniel Clark,4,1,3
-Washington,Ward Four Precinct,United States Representative District 2,,,Daniel Clark,3,1,2
-Washington,Wellman Precinct,United States Representative District 2,,,Daniel Clark,3,1,2
-Washington,West Chester Precinct,United States Representative District 2,,,Daniel Clark,2,1,1
-Washington,Ainsworth Precinct,United States Representative District 2,,,Write-in,1,0,1
-Washington,Brighton/Marion/Crawford Precinct,United States Representative District 2,,,Write-in,1,1,0
-Washington,Kalona Precinct,United States Representative District 2,,,Write-in,0,0,0
-Washington,Riverside Precinct,United States Representative District 2,,,Write-in,0,0,0
-Washington,Ward One Precinct,United States Representative District 2,,,Write-in,0,0,0
-Washington,Ward Two Precinct,United States Representative District 2,,,Write-in,0,0,0
-Washington,Ward Three Precinct,United States Representative District 2,,,Write-in,1,0,1
-Washington,Ward Four Precinct,United States Representative District 2,,,Write-in,0,0,0
-Washington,Wellman Precinct,United States Representative District 2,,,Write-in,0,0,0
-Washington,West Chester Precinct,United States Representative District 2,,,Write-in,0,0,0
+Washington,Ainsworth Precinct,U.S. House,2,REP,Christopher Peters,494,325,169
+Washington,Brighton/Marion/Crawford Precinct,U.S. House,2,REP,Christopher Peters,537,285,252
+Washington,Kalona Precinct,U.S. House,2,REP,Christopher Peters,651,454,197
+Washington,Riverside Precinct,U.S. House,2,REP,Christopher Peters,226,166,60
+Washington,Ward One Precinct,U.S. House,2,REP,Christopher Peters,280,174,106
+Washington,Ward Two Precinct,U.S. House,2,REP,Christopher Peters,418,233,185
+Washington,Ward Three Precinct,U.S. House,2,REP,Christopher Peters,413,229,184
+Washington,Ward Four Precinct,U.S. House,2,REP,Christopher Peters,500,283,217
+Washington,Wellman Precinct,U.S. House,2,REP,Christopher Peters,701,488,213
+Washington,West Chester Precinct,U.S. House,2,REP,Christopher Peters,375,232,143
+Washington,Ainsworth Precinct,U.S. House,2,DEM,Dave Loebsack,498,257,241
+Washington,Brighton/Marion/Crawford Precinct,U.S. House,2,DEM,Dave Loebsack,317,155,162
+Washington,Kalona Precinct,U.S. House,2,DEM,Dave Loebsack,597,382,215
+Washington,Riverside Precinct,U.S. House,2,DEM,Dave Loebsack,421,307,114
+Washington,Ward One Precinct,U.S. House,2,DEM,Dave Loebsack,354,162,192
+Washington,Ward Two Precinct,U.S. House,2,DEM,Dave Loebsack,438,192,246
+Washington,Ward Three Precinct,U.S. House,2,DEM,Dave Loebsack,472,206,266
+Washington,Ward Four Precinct,U.S. House,2,DEM,Dave Loebsack,482,220,262
+Washington,Wellman Precinct,U.S. House,2,DEM,Dave Loebsack,502,318,184
+Washington,West Chester Precinct,U.S. House,2,DEM,Dave Loebsack,191,97,94
+Washington,Ainsworth Precinct,U.S. House,2,LIB,Mark David Strauss,29,20,9
+Washington,Brighton/Marion/Crawford Precinct,U.S. House,2,LIB,Mark David Strauss,10,7,3
+Washington,Kalona Precinct,U.S. House,2,LIB,Mark David Strauss,20,16,4
+Washington,Riverside Precinct,U.S. House,2,LIB,Mark David Strauss,21,19,2
+Washington,Ward One Precinct,U.S. House,2,LIB,Mark David Strauss,26,16,10
+Washington,Ward Two Precinct,U.S. House,2,LIB,Mark David Strauss,14,6,8
+Washington,Ward Three Precinct,U.S. House,2,LIB,Mark David Strauss,16,12,4
+Washington,Ward Four Precinct,U.S. House,2,LIB,Mark David Strauss,13,10,3
+Washington,Wellman Precinct,U.S. House,2,LIB,Mark David Strauss,28,17,11
+Washington,West Chester Precinct,U.S. House,2,LIB,Mark David Strauss,10,6,4
+Washington,Ainsworth Precinct,U.S. House,2,,Daniel Clark,6,3,3
+Washington,Brighton/Marion/Crawford Precinct,U.S. House,2,,Daniel Clark,6,4,2
+Washington,Kalona Precinct,U.S. House,2,,Daniel Clark,5,4,1
+Washington,Riverside Precinct,U.S. House,2,,Daniel Clark,4,4,0
+Washington,Ward One Precinct,U.S. House,2,,Daniel Clark,3,2,1
+Washington,Ward Two Precinct,U.S. House,2,,Daniel Clark,4,3,1
+Washington,Ward Three Precinct,U.S. House,2,,Daniel Clark,4,1,3
+Washington,Ward Four Precinct,U.S. House,2,,Daniel Clark,3,1,2
+Washington,Wellman Precinct,U.S. House,2,,Daniel Clark,3,1,2
+Washington,West Chester Precinct,U.S. House,2,,Daniel Clark,2,1,1
+Washington,Ainsworth Precinct,U.S. House,2,,Write-in,1,0,1
+Washington,Brighton/Marion/Crawford Precinct,U.S. House,2,,Write-in,1,1,0
+Washington,Kalona Precinct,U.S. House,2,,Write-in,0,0,0
+Washington,Riverside Precinct,U.S. House,2,,Write-in,0,0,0
+Washington,Ward One Precinct,U.S. House,2,,Write-in,0,0,0
+Washington,Ward Two Precinct,U.S. House,2,,Write-in,0,0,0
+Washington,Ward Three Precinct,U.S. House,2,,Write-in,1,0,1
+Washington,Ward Four Precinct,U.S. House,2,,Write-in,0,0,0
+Washington,Wellman Precinct,U.S. House,2,,Write-in,0,0,0
+Washington,West Chester Precinct,U.S. House,2,,Write-in,0,0,0
 Washington,Ainsworth Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,572,366,206
 Washington,Brighton/Marion/Crawford Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,605,324,281
 Washington,Kalona Precinct,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,708,504,204

@@ -1,64 +1,64 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Jefferson,Blackhawk-Polk-Packwood,United States Representative District 2,,REP,Christopher Peters,216,146,70
-Jefferson,Buchanan,United States Representative District 2,,REP,Christopher Peters,153,82,71
-Jefferson,Center-Cedar-Maharishi Vedic City,United States Representative District 2,,REP,Christopher Peters,343,191,152
-Jefferson,Fairfield 1st Ward,United States Representative District 2,,REP,Christopher Peters,326,143,183
-Jefferson,Fairfield 2nd Ward,United States Representative District 2,,REP,Christopher Peters,126,48,78
-Jefferson,Fairfield 3rd Ward,United States Representative District 2,,REP,Christopher Peters,182,107,75
-Jefferson,Fairfield 4th Ward,United States Representative District 2,,REP,Christopher Peters,181,86,95
-Jefferson,Fairfield 5th Ward,United States Representative District 2,,REP,Christopher Peters,291,145,146
-Jefferson,Liberty - Des Moines - Libertyville,United States Representative District 2,,REP,Christopher Peters,258,198,60
-Jefferson,Lockridge-Round Prairie-Walnut-Lockridge-Coppock,United States Representative District 2,,REP,Christopher Peters,295,242,53
-Jefferson,Locust Grove-Batavia,United States Representative District 2,,REP,Christopher Peters,154,125,29
-Jefferson,Penn-Pleasant Plain,United States Representative District 2,,REP,Christopher Peters,119,94,25
-Jefferson,Blackhawk-Polk-Packwood,United States Representative District 2,,DEM,Dave Loebsack,129,66,63
-Jefferson,Buchanan,United States Representative District 2,,DEM,Dave Loebsack,139,58,81
-Jefferson,Center-Cedar-Maharishi Vedic City,United States Representative District 2,,DEM,Dave Loebsack,608,171,437
-Jefferson,Fairfield 1st Ward,United States Representative District 2,,DEM,Dave Loebsack,646,159,487
-Jefferson,Fairfield 2nd Ward,United States Representative District 2,,DEM,Dave Loebsack,763,140,623
-Jefferson,Fairfield 3rd Ward,United States Representative District 2,,DEM,Dave Loebsack,303,100,203
-Jefferson,Fairfield 4th Ward,United States Representative District 2,,DEM,Dave Loebsack,613,136,477
-Jefferson,Fairfield 5th Ward,United States Representative District 2,,DEM,Dave Loebsack,509,178,331
-Jefferson,Liberty - Des Moines - Libertyville,United States Representative District 2,,DEM,Dave Loebsack,160,119,41
-Jefferson,Lockridge-Round Prairie-Walnut-Lockridge-Coppock,United States Representative District 2,,DEM,Dave Loebsack,153,100,53
-Jefferson,Locust Grove-Batavia,United States Representative District 2,,DEM,Dave Loebsack,109,71,38
-Jefferson,Penn-Pleasant Plain,United States Representative District 2,,DEM,Dave Loebsack,69,46,23
-Jefferson,Blackhawk-Polk-Packwood,United States Representative District 2,,LIB,Mark David Strauss,2,1,1
-Jefferson,Buchanan,United States Representative District 2,,LIB,Mark David Strauss,3,1,2
-Jefferson,Center-Cedar-Maharishi Vedic City,United States Representative District 2,,LIB,Mark David Strauss,13,6,7
-Jefferson,Fairfield 1st Ward,United States Representative District 2,,LIB,Mark David Strauss,24,15,9
-Jefferson,Fairfield 2nd Ward,United States Representative District 2,,LIB,Mark David Strauss,21,11,10
-Jefferson,Fairfield 3rd Ward,United States Representative District 2,,LIB,Mark David Strauss,12,8,4
-Jefferson,Fairfield 4th Ward,United States Representative District 2,,LIB,Mark David Strauss,26,13,13
-Jefferson,Fairfield 5th Ward,United States Representative District 2,,LIB,Mark David Strauss,18,9,9
-Jefferson,Liberty - Des Moines - Libertyville,United States Representative District 2,,LIB,Mark David Strauss,3,2,1
-Jefferson,Lockridge-Round Prairie-Walnut-Lockridge-Coppock,United States Representative District 2,,LIB,Mark David Strauss,7,6,1
-Jefferson,Locust Grove-Batavia,United States Representative District 2,,LIB,Mark David Strauss,4,3,1
-Jefferson,Penn-Pleasant Plain,United States Representative District 2,,LIB,Mark David Strauss,2,2,0
-Jefferson,Blackhawk-Polk-Packwood,United States Representative District 2,,,Daniel Clark,2,0,2
-Jefferson,Buchanan,United States Representative District 2,,,Daniel Clark,3,1,2
-Jefferson,Center-Cedar-Maharishi Vedic City,United States Representative District 2,,,Daniel Clark,1,1,0
-Jefferson,Fairfield 1st Ward,United States Representative District 2,,,Daniel Clark,3,0,3
-Jefferson,Fairfield 2nd Ward,United States Representative District 2,,,Daniel Clark,9,6,3
-Jefferson,Fairfield 3rd Ward,United States Representative District 2,,,Daniel Clark,5,2,3
-Jefferson,Fairfield 4th Ward,United States Representative District 2,,,Daniel Clark,7,2,5
-Jefferson,Fairfield 5th Ward,United States Representative District 2,,,Daniel Clark,4,3,1
-Jefferson,Liberty - Des Moines - Libertyville,United States Representative District 2,,,Daniel Clark,3,3,0
-Jefferson,Lockridge-Round Prairie-Walnut-Lockridge-Coppock,United States Representative District 2,,,Daniel Clark,2,2,0
-Jefferson,Locust Grove-Batavia,United States Representative District 2,,,Daniel Clark,0,0,0
-Jefferson,Penn-Pleasant Plain,United States Representative District 2,,,Daniel Clark,0,0,0
-Jefferson,Blackhawk-Polk-Packwood,United States Representative District 2,,,Write-in,0,0,0
-Jefferson,Buchanan,United States Representative District 2,,,Write-in,0,0,0
-Jefferson,Center-Cedar-Maharishi Vedic City,United States Representative District 2,,,Write-in,0,0,0
-Jefferson,Fairfield 1st Ward,United States Representative District 2,,,Write-in,1,1,0
-Jefferson,Fairfield 2nd Ward,United States Representative District 2,,,Write-in,0,0,0
-Jefferson,Fairfield 3rd Ward,United States Representative District 2,,,Write-in,0,0,0
-Jefferson,Fairfield 4th Ward,United States Representative District 2,,,Write-in,2,0,2
-Jefferson,Fairfield 5th Ward,United States Representative District 2,,,Write-in,1,1,0
-Jefferson,Liberty - Des Moines - Libertyville,United States Representative District 2,,,Write-in,0,0,0
-Jefferson,Lockridge-Round Prairie-Walnut-Lockridge-Coppock,United States Representative District 2,,,Write-in,0,0,0
-Jefferson,Locust Grove-Batavia,United States Representative District 2,,,Write-in,0,0,0
-Jefferson,Penn-Pleasant Plain,United States Representative District 2,,,Write-in,0,0,0
+Jefferson,Blackhawk-Polk-Packwood,U.S. House,2,REP,Christopher Peters,216,146,70
+Jefferson,Buchanan,U.S. House,2,REP,Christopher Peters,153,82,71
+Jefferson,Center-Cedar-Maharishi Vedic City,U.S. House,2,REP,Christopher Peters,343,191,152
+Jefferson,Fairfield 1st Ward,U.S. House,2,REP,Christopher Peters,326,143,183
+Jefferson,Fairfield 2nd Ward,U.S. House,2,REP,Christopher Peters,126,48,78
+Jefferson,Fairfield 3rd Ward,U.S. House,2,REP,Christopher Peters,182,107,75
+Jefferson,Fairfield 4th Ward,U.S. House,2,REP,Christopher Peters,181,86,95
+Jefferson,Fairfield 5th Ward,U.S. House,2,REP,Christopher Peters,291,145,146
+Jefferson,Liberty - Des Moines - Libertyville,U.S. House,2,REP,Christopher Peters,258,198,60
+Jefferson,Lockridge-Round Prairie-Walnut-Lockridge-Coppock,U.S. House,2,REP,Christopher Peters,295,242,53
+Jefferson,Locust Grove-Batavia,U.S. House,2,REP,Christopher Peters,154,125,29
+Jefferson,Penn-Pleasant Plain,U.S. House,2,REP,Christopher Peters,119,94,25
+Jefferson,Blackhawk-Polk-Packwood,U.S. House,2,DEM,Dave Loebsack,129,66,63
+Jefferson,Buchanan,U.S. House,2,DEM,Dave Loebsack,139,58,81
+Jefferson,Center-Cedar-Maharishi Vedic City,U.S. House,2,DEM,Dave Loebsack,608,171,437
+Jefferson,Fairfield 1st Ward,U.S. House,2,DEM,Dave Loebsack,646,159,487
+Jefferson,Fairfield 2nd Ward,U.S. House,2,DEM,Dave Loebsack,763,140,623
+Jefferson,Fairfield 3rd Ward,U.S. House,2,DEM,Dave Loebsack,303,100,203
+Jefferson,Fairfield 4th Ward,U.S. House,2,DEM,Dave Loebsack,613,136,477
+Jefferson,Fairfield 5th Ward,U.S. House,2,DEM,Dave Loebsack,509,178,331
+Jefferson,Liberty - Des Moines - Libertyville,U.S. House,2,DEM,Dave Loebsack,160,119,41
+Jefferson,Lockridge-Round Prairie-Walnut-Lockridge-Coppock,U.S. House,2,DEM,Dave Loebsack,153,100,53
+Jefferson,Locust Grove-Batavia,U.S. House,2,DEM,Dave Loebsack,109,71,38
+Jefferson,Penn-Pleasant Plain,U.S. House,2,DEM,Dave Loebsack,69,46,23
+Jefferson,Blackhawk-Polk-Packwood,U.S. House,2,LIB,Mark David Strauss,2,1,1
+Jefferson,Buchanan,U.S. House,2,LIB,Mark David Strauss,3,1,2
+Jefferson,Center-Cedar-Maharishi Vedic City,U.S. House,2,LIB,Mark David Strauss,13,6,7
+Jefferson,Fairfield 1st Ward,U.S. House,2,LIB,Mark David Strauss,24,15,9
+Jefferson,Fairfield 2nd Ward,U.S. House,2,LIB,Mark David Strauss,21,11,10
+Jefferson,Fairfield 3rd Ward,U.S. House,2,LIB,Mark David Strauss,12,8,4
+Jefferson,Fairfield 4th Ward,U.S. House,2,LIB,Mark David Strauss,26,13,13
+Jefferson,Fairfield 5th Ward,U.S. House,2,LIB,Mark David Strauss,18,9,9
+Jefferson,Liberty - Des Moines - Libertyville,U.S. House,2,LIB,Mark David Strauss,3,2,1
+Jefferson,Lockridge-Round Prairie-Walnut-Lockridge-Coppock,U.S. House,2,LIB,Mark David Strauss,7,6,1
+Jefferson,Locust Grove-Batavia,U.S. House,2,LIB,Mark David Strauss,4,3,1
+Jefferson,Penn-Pleasant Plain,U.S. House,2,LIB,Mark David Strauss,2,2,0
+Jefferson,Blackhawk-Polk-Packwood,U.S. House,2,,Daniel Clark,2,0,2
+Jefferson,Buchanan,U.S. House,2,,Daniel Clark,3,1,2
+Jefferson,Center-Cedar-Maharishi Vedic City,U.S. House,2,,Daniel Clark,1,1,0
+Jefferson,Fairfield 1st Ward,U.S. House,2,,Daniel Clark,3,0,3
+Jefferson,Fairfield 2nd Ward,U.S. House,2,,Daniel Clark,9,6,3
+Jefferson,Fairfield 3rd Ward,U.S. House,2,,Daniel Clark,5,2,3
+Jefferson,Fairfield 4th Ward,U.S. House,2,,Daniel Clark,7,2,5
+Jefferson,Fairfield 5th Ward,U.S. House,2,,Daniel Clark,4,3,1
+Jefferson,Liberty - Des Moines - Libertyville,U.S. House,2,,Daniel Clark,3,3,0
+Jefferson,Lockridge-Round Prairie-Walnut-Lockridge-Coppock,U.S. House,2,,Daniel Clark,2,2,0
+Jefferson,Locust Grove-Batavia,U.S. House,2,,Daniel Clark,0,0,0
+Jefferson,Penn-Pleasant Plain,U.S. House,2,,Daniel Clark,0,0,0
+Jefferson,Blackhawk-Polk-Packwood,U.S. House,2,,Write-in,0,0,0
+Jefferson,Buchanan,U.S. House,2,,Write-in,0,0,0
+Jefferson,Center-Cedar-Maharishi Vedic City,U.S. House,2,,Write-in,0,0,0
+Jefferson,Fairfield 1st Ward,U.S. House,2,,Write-in,1,1,0
+Jefferson,Fairfield 2nd Ward,U.S. House,2,,Write-in,0,0,0
+Jefferson,Fairfield 3rd Ward,U.S. House,2,,Write-in,0,0,0
+Jefferson,Fairfield 4th Ward,U.S. House,2,,Write-in,2,0,2
+Jefferson,Fairfield 5th Ward,U.S. House,2,,Write-in,1,1,0
+Jefferson,Liberty - Des Moines - Libertyville,U.S. House,2,,Write-in,0,0,0
+Jefferson,Lockridge-Round Prairie-Walnut-Lockridge-Coppock,U.S. House,2,,Write-in,0,0,0
+Jefferson,Locust Grove-Batavia,U.S. House,2,,Write-in,0,0,0
+Jefferson,Penn-Pleasant Plain,U.S. House,2,,Write-in,0,0,0
 Jefferson,Blackhawk-Polk-Packwood,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,252,168,84
 Jefferson,Buchanan,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,176,94,82
 Jefferson,Center-Cedar-Maharishi Vedic City,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,416,244,172

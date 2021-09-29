@@ -1,39 +1,39 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Grundy,PRECINCT 1,United States Representative District 4,,REP,Steve King,458,332,126
-Grundy,PRECINCT 2,United States Representative District 4,,REP,Steve King,252,169,83
-Grundy,PRECINCT 3,United States Representative District 4,,REP,Steve King,518,383,135
-Grundy,PRECINCT 4,United States Representative District 4,,REP,Steve King,319,198,121
-Grundy,PRECINCT 5,United States Representative District 4,,REP,Steve King,660,455,205
-Grundy,PRECINCT 6,United States Representative District 4,,REP,Steve King,747,506,241
-Grundy,PRECINCT 7,United States Representative District 4,,REP,Steve King,586,402,184
-Grundy,PRECINCT 1,United States Representative District 4,,DEM,J.D. Scholten,290,206,84
-Grundy,PRECINCT 2,United States Representative District 4,,DEM,J.D. Scholten,113,83,30
-Grundy,PRECINCT 3,United States Representative District 4,,DEM,J.D. Scholten,172,126,46
-Grundy,PRECINCT 4,United States Representative District 4,,DEM,J.D. Scholten,110,78,32
-Grundy,PRECINCT 5,United States Representative District 4,,DEM,J.D. Scholten,460,330,130
-Grundy,PRECINCT 6,United States Representative District 4,,DEM,J.D. Scholten,408,275,133
-Grundy,PRECINCT 7,United States Representative District 4,,DEM,J.D. Scholten,443,295,148
-Grundy,PRECINCT 1,United States Representative District 4,,LIB,Charles Aldrich,19,18,1
-Grundy,PRECINCT 2,United States Representative District 4,,LIB,Charles Aldrich,8,8,0
-Grundy,PRECINCT 3,United States Representative District 4,,LIB,Charles Aldrich,12,10,2
-Grundy,PRECINCT 4,United States Representative District 4,,LIB,Charles Aldrich,9,7,2
-Grundy,PRECINCT 5,United States Representative District 4,,LIB,Charles Aldrich,26,24,2
-Grundy,PRECINCT 6,United States Representative District 4,,LIB,Charles Aldrich,25,23,2
-Grundy,PRECINCT 7,United States Representative District 4,,LIB,Charles Aldrich,17,14,3
-Grundy,PRECINCT 1,United States Representative District 4,,,Edward Peterson,5,4,1
-Grundy,PRECINCT 2,United States Representative District 4,,,Edward Peterson,3,2,1
-Grundy,PRECINCT 3,United States Representative District 4,,,Edward Peterson,7,7,0
-Grundy,PRECINCT 4,United States Representative District 4,,,Edward Peterson,3,3,0
-Grundy,PRECINCT 5,United States Representative District 4,,,Edward Peterson,10,8,2
-Grundy,PRECINCT 6,United States Representative District 4,,,Edward Peterson,8,5,3
-Grundy,PRECINCT 7,United States Representative District 4,,,Edward Peterson,8,5,3
-Grundy,PRECINCT 1,United States Representative District 4,,,Write-in,2,1,1
-Grundy,PRECINCT 2,United States Representative District 4,,,Write-in,0,0,0
-Grundy,PRECINCT 3,United States Representative District 4,,,Write-in,1,1,0
-Grundy,PRECINCT 4,United States Representative District 4,,,Write-in,1,1,0
-Grundy,PRECINCT 5,United States Representative District 4,,,Write-in,2,2,0
-Grundy,PRECINCT 6,United States Representative District 4,,,Write-in,1,1,0
-Grundy,PRECINCT 7,United States Representative District 4,,,Write-in,0,0,0
+Grundy,PRECINCT 1,U.S. House,4,REP,Steve King,458,332,126
+Grundy,PRECINCT 2,U.S. House,4,REP,Steve King,252,169,83
+Grundy,PRECINCT 3,U.S. House,4,REP,Steve King,518,383,135
+Grundy,PRECINCT 4,U.S. House,4,REP,Steve King,319,198,121
+Grundy,PRECINCT 5,U.S. House,4,REP,Steve King,660,455,205
+Grundy,PRECINCT 6,U.S. House,4,REP,Steve King,747,506,241
+Grundy,PRECINCT 7,U.S. House,4,REP,Steve King,586,402,184
+Grundy,PRECINCT 1,U.S. House,4,DEM,J.D. Scholten,290,206,84
+Grundy,PRECINCT 2,U.S. House,4,DEM,J.D. Scholten,113,83,30
+Grundy,PRECINCT 3,U.S. House,4,DEM,J.D. Scholten,172,126,46
+Grundy,PRECINCT 4,U.S. House,4,DEM,J.D. Scholten,110,78,32
+Grundy,PRECINCT 5,U.S. House,4,DEM,J.D. Scholten,460,330,130
+Grundy,PRECINCT 6,U.S. House,4,DEM,J.D. Scholten,408,275,133
+Grundy,PRECINCT 7,U.S. House,4,DEM,J.D. Scholten,443,295,148
+Grundy,PRECINCT 1,U.S. House,4,LIB,Charles Aldrich,19,18,1
+Grundy,PRECINCT 2,U.S. House,4,LIB,Charles Aldrich,8,8,0
+Grundy,PRECINCT 3,U.S. House,4,LIB,Charles Aldrich,12,10,2
+Grundy,PRECINCT 4,U.S. House,4,LIB,Charles Aldrich,9,7,2
+Grundy,PRECINCT 5,U.S. House,4,LIB,Charles Aldrich,26,24,2
+Grundy,PRECINCT 6,U.S. House,4,LIB,Charles Aldrich,25,23,2
+Grundy,PRECINCT 7,U.S. House,4,LIB,Charles Aldrich,17,14,3
+Grundy,PRECINCT 1,U.S. House,4,,Edward Peterson,5,4,1
+Grundy,PRECINCT 2,U.S. House,4,,Edward Peterson,3,2,1
+Grundy,PRECINCT 3,U.S. House,4,,Edward Peterson,7,7,0
+Grundy,PRECINCT 4,U.S. House,4,,Edward Peterson,3,3,0
+Grundy,PRECINCT 5,U.S. House,4,,Edward Peterson,10,8,2
+Grundy,PRECINCT 6,U.S. House,4,,Edward Peterson,8,5,3
+Grundy,PRECINCT 7,U.S. House,4,,Edward Peterson,8,5,3
+Grundy,PRECINCT 1,U.S. House,4,,Write-in,2,1,1
+Grundy,PRECINCT 2,U.S. House,4,,Write-in,0,0,0
+Grundy,PRECINCT 3,U.S. House,4,,Write-in,1,1,0
+Grundy,PRECINCT 4,U.S. House,4,,Write-in,1,1,0
+Grundy,PRECINCT 5,U.S. House,4,,Write-in,2,2,0
+Grundy,PRECINCT 6,U.S. House,4,,Write-in,1,1,0
+Grundy,PRECINCT 7,U.S. House,4,,Write-in,0,0,0
 Grundy,PRECINCT 1,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,495,363,132
 Grundy,PRECINCT 2,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,275,185,90
 Grundy,PRECINCT 3,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,556,416,140

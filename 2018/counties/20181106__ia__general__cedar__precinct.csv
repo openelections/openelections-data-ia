@@ -1,64 +1,64 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Cedar,CASS/CENTER/IOWA/ROCHESTER,United States Representative District 2,,REP,Christopher Peters,569,323,246
-Cedar,DAYTON/FAIRFIELD,United States Representative District 2,,REP,Christopher Peters,321,220,101
-Cedar,FARMINGTON/SUGAR CREEK,United States Representative District 2,,REP,Christopher Peters,600,416,184
-Cedar,FREMONT/RED OAK,United States Representative District 2,,REP,Christopher Peters,220,149,71
-Cedar,GOWER/SPRINGDALE,United States Representative District 2,,REP,Christopher Peters,239,161,78
-Cedar,INLAND,United States Representative District 2,,REP,Christopher Peters,179,139,40
-Cedar,LINN/PIONEER,United States Representative District 2,,REP,Christopher Peters,410,292,118
-Cedar,MASSILLON/SPRINGFIELD,United States Representative District 2,,REP,Christopher Peters,325,227,98
-Cedar,TIPTON 1,United States Representative District 2,,REP,Christopher Peters,150,87,63
-Cedar,TIPTON 2,United States Representative District 2,,REP,Christopher Peters,169,103,66
-Cedar,TIPTON 3,United States Representative District 2,,REP,Christopher Peters,214,124,90
-Cedar,WEST BRANCH 1,United States Representative District 2,,REP,Christopher Peters,329,242,87
-Cedar,CASS/CENTER/IOWA/ROCHESTER,United States Representative District 2,,DEM,Dave Loebsack,458,198,260
-Cedar,DAYTON/FAIRFIELD,United States Representative District 2,,DEM,Dave Loebsack,265,153,112
-Cedar,FARMINGTON/SUGAR CREEK,United States Representative District 2,,DEM,Dave Loebsack,465,320,145
-Cedar,FREMONT/RED OAK,United States Representative District 2,,DEM,Dave Loebsack,199,131,68
-Cedar,GOWER/SPRINGDALE,United States Representative District 2,,DEM,Dave Loebsack,404,241,163
-Cedar,INLAND,United States Representative District 2,,DEM,Dave Loebsack,133,88,45
-Cedar,LINN/PIONEER,United States Representative District 2,,DEM,Dave Loebsack,428,278,150
-Cedar,MASSILLON/SPRINGFIELD,United States Representative District 2,,DEM,Dave Loebsack,275,188,87
-Cedar,TIPTON 1,United States Representative District 2,,DEM,Dave Loebsack,208,102,106
-Cedar,TIPTON 2,United States Representative District 2,,DEM,Dave Loebsack,246,124,122
-Cedar,TIPTON 3,United States Representative District 2,,DEM,Dave Loebsack,287,154,133
-Cedar,WEST BRANCH 1,United States Representative District 2,,DEM,Dave Loebsack,730,474,256
-Cedar,CASS/CENTER/IOWA/ROCHESTER,United States Representative District 2,,LIB,Mark David Strauss,23,15,8
-Cedar,DAYTON/FAIRFIELD,United States Representative District 2,,LIB,Mark David Strauss,9,8,1
-Cedar,FARMINGTON/SUGAR CREEK,United States Representative District 2,,LIB,Mark David Strauss,25,19,6
-Cedar,FREMONT/RED OAK,United States Representative District 2,,LIB,Mark David Strauss,7,4,3
-Cedar,GOWER/SPRINGDALE,United States Representative District 2,,LIB,Mark David Strauss,14,11,3
-Cedar,INLAND,United States Representative District 2,,LIB,Mark David Strauss,10,7,3
-Cedar,LINN/PIONEER,United States Representative District 2,,LIB,Mark David Strauss,25,20,5
-Cedar,MASSILLON/SPRINGFIELD,United States Representative District 2,,LIB,Mark David Strauss,11,8,3
-Cedar,TIPTON 1,United States Representative District 2,,LIB,Mark David Strauss,8,6,2
-Cedar,TIPTON 2,United States Representative District 2,,LIB,Mark David Strauss,12,7,5
-Cedar,TIPTON 3,United States Representative District 2,,LIB,Mark David Strauss,12,8,4
-Cedar,WEST BRANCH 1,United States Representative District 2,,LIB,Mark David Strauss,23,20,3
-Cedar,CASS/CENTER/IOWA/ROCHESTER,United States Representative District 2,,,Daniel Clark,8,3,5
-Cedar,DAYTON/FAIRFIELD,United States Representative District 2,,,Daniel Clark,4,4,0
-Cedar,FARMINGTON/SUGAR CREEK,United States Representative District 2,,,Daniel Clark,3,3,0
-Cedar,FREMONT/RED OAK,United States Representative District 2,,,Daniel Clark,0,0,0
-Cedar,GOWER/SPRINGDALE,United States Representative District 2,,,Daniel Clark,2,2,0
-Cedar,INLAND,United States Representative District 2,,,Daniel Clark,1,0,1
-Cedar,LINN/PIONEER,United States Representative District 2,,,Daniel Clark,6,4,2
-Cedar,MASSILLON/SPRINGFIELD,United States Representative District 2,,,Daniel Clark,3,0,3
-Cedar,TIPTON 1,United States Representative District 2,,,Daniel Clark,1,0,1
-Cedar,TIPTON 2,United States Representative District 2,,,Daniel Clark,3,2,1
-Cedar,TIPTON 3,United States Representative District 2,,,Daniel Clark,2,1,1
-Cedar,WEST BRANCH 1,United States Representative District 2,,,Daniel Clark,4,4,0
-Cedar,CASS/CENTER/IOWA/ROCHESTER,United States Representative District 2,,,Write-in,0,0,0
-Cedar,DAYTON/FAIRFIELD,United States Representative District 2,,,Write-in,0,0,0
-Cedar,FARMINGTON/SUGAR CREEK,United States Representative District 2,,,Write-in,0,0,0
-Cedar,FREMONT/RED OAK,United States Representative District 2,,,Write-in,1,1,0
-Cedar,GOWER/SPRINGDALE,United States Representative District 2,,,Write-in,1,1,0
-Cedar,INLAND,United States Representative District 2,,,Write-in,0,0,0
-Cedar,LINN/PIONEER,United States Representative District 2,,,Write-in,0,0,0
-Cedar,MASSILLON/SPRINGFIELD,United States Representative District 2,,,Write-in,2,2,0
-Cedar,TIPTON 1,United States Representative District 2,,,Write-in,1,0,1
-Cedar,TIPTON 2,United States Representative District 2,,,Write-in,0,0,0
-Cedar,TIPTON 3,United States Representative District 2,,,Write-in,0,0,0
-Cedar,WEST BRANCH 1,United States Representative District 2,,,Write-in,0,0,0
+Cedar,CASS/CENTER/IOWA/ROCHESTER,U.S. House,2,REP,Christopher Peters,569,323,246
+Cedar,DAYTON/FAIRFIELD,U.S. House,2,REP,Christopher Peters,321,220,101
+Cedar,FARMINGTON/SUGAR CREEK,U.S. House,2,REP,Christopher Peters,600,416,184
+Cedar,FREMONT/RED OAK,U.S. House,2,REP,Christopher Peters,220,149,71
+Cedar,GOWER/SPRINGDALE,U.S. House,2,REP,Christopher Peters,239,161,78
+Cedar,INLAND,U.S. House,2,REP,Christopher Peters,179,139,40
+Cedar,LINN/PIONEER,U.S. House,2,REP,Christopher Peters,410,292,118
+Cedar,MASSILLON/SPRINGFIELD,U.S. House,2,REP,Christopher Peters,325,227,98
+Cedar,TIPTON 1,U.S. House,2,REP,Christopher Peters,150,87,63
+Cedar,TIPTON 2,U.S. House,2,REP,Christopher Peters,169,103,66
+Cedar,TIPTON 3,U.S. House,2,REP,Christopher Peters,214,124,90
+Cedar,WEST BRANCH 1,U.S. House,2,REP,Christopher Peters,329,242,87
+Cedar,CASS/CENTER/IOWA/ROCHESTER,U.S. House,2,DEM,Dave Loebsack,458,198,260
+Cedar,DAYTON/FAIRFIELD,U.S. House,2,DEM,Dave Loebsack,265,153,112
+Cedar,FARMINGTON/SUGAR CREEK,U.S. House,2,DEM,Dave Loebsack,465,320,145
+Cedar,FREMONT/RED OAK,U.S. House,2,DEM,Dave Loebsack,199,131,68
+Cedar,GOWER/SPRINGDALE,U.S. House,2,DEM,Dave Loebsack,404,241,163
+Cedar,INLAND,U.S. House,2,DEM,Dave Loebsack,133,88,45
+Cedar,LINN/PIONEER,U.S. House,2,DEM,Dave Loebsack,428,278,150
+Cedar,MASSILLON/SPRINGFIELD,U.S. House,2,DEM,Dave Loebsack,275,188,87
+Cedar,TIPTON 1,U.S. House,2,DEM,Dave Loebsack,208,102,106
+Cedar,TIPTON 2,U.S. House,2,DEM,Dave Loebsack,246,124,122
+Cedar,TIPTON 3,U.S. House,2,DEM,Dave Loebsack,287,154,133
+Cedar,WEST BRANCH 1,U.S. House,2,DEM,Dave Loebsack,730,474,256
+Cedar,CASS/CENTER/IOWA/ROCHESTER,U.S. House,2,LIB,Mark David Strauss,23,15,8
+Cedar,DAYTON/FAIRFIELD,U.S. House,2,LIB,Mark David Strauss,9,8,1
+Cedar,FARMINGTON/SUGAR CREEK,U.S. House,2,LIB,Mark David Strauss,25,19,6
+Cedar,FREMONT/RED OAK,U.S. House,2,LIB,Mark David Strauss,7,4,3
+Cedar,GOWER/SPRINGDALE,U.S. House,2,LIB,Mark David Strauss,14,11,3
+Cedar,INLAND,U.S. House,2,LIB,Mark David Strauss,10,7,3
+Cedar,LINN/PIONEER,U.S. House,2,LIB,Mark David Strauss,25,20,5
+Cedar,MASSILLON/SPRINGFIELD,U.S. House,2,LIB,Mark David Strauss,11,8,3
+Cedar,TIPTON 1,U.S. House,2,LIB,Mark David Strauss,8,6,2
+Cedar,TIPTON 2,U.S. House,2,LIB,Mark David Strauss,12,7,5
+Cedar,TIPTON 3,U.S. House,2,LIB,Mark David Strauss,12,8,4
+Cedar,WEST BRANCH 1,U.S. House,2,LIB,Mark David Strauss,23,20,3
+Cedar,CASS/CENTER/IOWA/ROCHESTER,U.S. House,2,,Daniel Clark,8,3,5
+Cedar,DAYTON/FAIRFIELD,U.S. House,2,,Daniel Clark,4,4,0
+Cedar,FARMINGTON/SUGAR CREEK,U.S. House,2,,Daniel Clark,3,3,0
+Cedar,FREMONT/RED OAK,U.S. House,2,,Daniel Clark,0,0,0
+Cedar,GOWER/SPRINGDALE,U.S. House,2,,Daniel Clark,2,2,0
+Cedar,INLAND,U.S. House,2,,Daniel Clark,1,0,1
+Cedar,LINN/PIONEER,U.S. House,2,,Daniel Clark,6,4,2
+Cedar,MASSILLON/SPRINGFIELD,U.S. House,2,,Daniel Clark,3,0,3
+Cedar,TIPTON 1,U.S. House,2,,Daniel Clark,1,0,1
+Cedar,TIPTON 2,U.S. House,2,,Daniel Clark,3,2,1
+Cedar,TIPTON 3,U.S. House,2,,Daniel Clark,2,1,1
+Cedar,WEST BRANCH 1,U.S. House,2,,Daniel Clark,4,4,0
+Cedar,CASS/CENTER/IOWA/ROCHESTER,U.S. House,2,,Write-in,0,0,0
+Cedar,DAYTON/FAIRFIELD,U.S. House,2,,Write-in,0,0,0
+Cedar,FARMINGTON/SUGAR CREEK,U.S. House,2,,Write-in,0,0,0
+Cedar,FREMONT/RED OAK,U.S. House,2,,Write-in,1,1,0
+Cedar,GOWER/SPRINGDALE,U.S. House,2,,Write-in,1,1,0
+Cedar,INLAND,U.S. House,2,,Write-in,0,0,0
+Cedar,LINN/PIONEER,U.S. House,2,,Write-in,0,0,0
+Cedar,MASSILLON/SPRINGFIELD,U.S. House,2,,Write-in,2,2,0
+Cedar,TIPTON 1,U.S. House,2,,Write-in,1,0,1
+Cedar,TIPTON 2,U.S. House,2,,Write-in,0,0,0
+Cedar,TIPTON 3,U.S. House,2,,Write-in,0,0,0
+Cedar,WEST BRANCH 1,U.S. House,2,,Write-in,0,0,0
 Cedar,CASS/CENTER/IOWA/ROCHESTER,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,659,359,300
 Cedar,DAYTON/FAIRFIELD,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,387,256,131
 Cedar,FARMINGTON/SUGAR CREEK,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,706,504,202

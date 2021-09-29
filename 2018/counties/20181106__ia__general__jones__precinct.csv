@@ -1,60 +1,60 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Jones,ANN-ANAMOSA NORTH/CASS,United States Representative District 1,,REP,Rod Blum,466,323,143
-Jones,ANS-ANAMOSA SOUTH/JACKSON,United States Representative District 1,,REP,Rod Blum,644,376,268
-Jones,CGLW-CASTLE GRV/LOV/WAYNE,United States Representative District 1,,REP,Rod Blum,598,385,213
-Jones,FV-FAIRVIEW,United States Representative District 1,,REP,Rod Blum,561,332,229
-Jones,GF-GREENFIELD,United States Representative District 1,,REP,Rod Blum,178,137,41
-Jones,MN1-MONTICELLO 1,United States Representative District 1,,REP,Rod Blum,193,141,52
-Jones,MN2-MONTICELLO 2,United States Representative District 1,,REP,Rod Blum,212,145,67
-Jones,MN3-MONTICELLO 3,United States Representative District 1,,REP,Rod Blum,143,111,32
-Jones,MN4-MONTICELLO 4,United States Representative District 1,,REP,Rod Blum,226,138,88
-Jones,OX-OXFORD,United States Representative District 1,,REP,Rod Blum,152,128,24
-Jones,RLWS-RICHLAND/WASHINGTON,United States Representative District 1,,REP,Rod Blum,343,243,100
-Jones,ROHA-ROME/HALE,United States Representative District 1,,REP,Rod Blum,281,192,89
-Jones,SGMC-SC GRV/MADISON/CLAY,United States Representative District 1,,REP,Rod Blum,316,208,108
-Jones,WY-WYOMING,United States Representative District 1,,REP,Rod Blum,177,122,55
-Jones,ANN-ANAMOSA NORTH/CASS,United States Representative District 1,,DEM,Abby Finkenauer,433,254,179
-Jones,ANS-ANAMOSA SOUTH/JACKSON,United States Representative District 1,,DEM,Abby Finkenauer,664,354,310
-Jones,CGLW-CASTLE GRV/LOV/WAYNE,United States Representative District 1,,DEM,Abby Finkenauer,425,232,193
-Jones,FV-FAIRVIEW,United States Representative District 1,,DEM,Abby Finkenauer,440,235,205
-Jones,GF-GREENFIELD,United States Representative District 1,,DEM,Abby Finkenauer,145,104,41
-Jones,MN1-MONTICELLO 1,United States Representative District 1,,DEM,Abby Finkenauer,179,118,61
-Jones,MN2-MONTICELLO 2,United States Representative District 1,,DEM,Abby Finkenauer,227,145,82
-Jones,MN3-MONTICELLO 3,United States Representative District 1,,DEM,Abby Finkenauer,179,131,48
-Jones,MN4-MONTICELLO 4,United States Representative District 1,,DEM,Abby Finkenauer,192,103,89
-Jones,OX-OXFORD,United States Representative District 1,,DEM,Abby Finkenauer,103,83,20
-Jones,RLWS-RICHLAND/WASHINGTON,United States Representative District 1,,DEM,Abby Finkenauer,207,118,89
-Jones,ROHA-ROME/HALE,United States Representative District 1,,DEM,Abby Finkenauer,262,150,112
-Jones,SGMC-SC GRV/MADISON/CLAY,United States Representative District 1,,DEM,Abby Finkenauer,204,106,98
-Jones,WY-WYOMING,United States Representative District 1,,DEM,Abby Finkenauer,127,89,38
-Jones,ANN-ANAMOSA NORTH/CASS,United States Representative District 1,,LIB,Troy Hageman,42,33,9
-Jones,ANS-ANAMOSA SOUTH/JACKSON,United States Representative District 1,,LIB,Troy Hageman,47,21,26
-Jones,CGLW-CASTLE GRV/LOV/WAYNE,United States Representative District 1,,LIB,Troy Hageman,32,18,14
-Jones,FV-FAIRVIEW,United States Representative District 1,,LIB,Troy Hageman,35,24,11
-Jones,GF-GREENFIELD,United States Representative District 1,,LIB,Troy Hageman,14,12,2
-Jones,MN1-MONTICELLO 1,United States Representative District 1,,LIB,Troy Hageman,7,5,2
-Jones,MN2-MONTICELLO 2,United States Representative District 1,,LIB,Troy Hageman,7,5,2
-Jones,MN3-MONTICELLO 3,United States Representative District 1,,LIB,Troy Hageman,15,11,4
-Jones,MN4-MONTICELLO 4,United States Representative District 1,,LIB,Troy Hageman,11,6,5
-Jones,OX-OXFORD,United States Representative District 1,,LIB,Troy Hageman,4,4,0
-Jones,RLWS-RICHLAND/WASHINGTON,United States Representative District 1,,LIB,Troy Hageman,16,11,5
-Jones,ROHA-ROME/HALE,United States Representative District 1,,LIB,Troy Hageman,24,14,10
-Jones,SGMC-SC GRV/MADISON/CLAY,United States Representative District 1,,LIB,Troy Hageman,23,15,8
-Jones,WY-WYOMING,United States Representative District 1,,LIB,Troy Hageman,9,7,2
-Jones,ANN-ANAMOSA NORTH/CASS,United States Representative District 1,,,Write-in,0,0,0
-Jones,ANS-ANAMOSA SOUTH/JACKSON,United States Representative District 1,,,Write-in,2,2,0
-Jones,CGLW-CASTLE GRV/LOV/WAYNE,United States Representative District 1,,,Write-in,0,0,0
-Jones,FV-FAIRVIEW,United States Representative District 1,,,Write-in,0,0,0
-Jones,GF-GREENFIELD,United States Representative District 1,,,Write-in,0,0,0
-Jones,MN1-MONTICELLO 1,United States Representative District 1,,,Write-in,0,0,0
-Jones,MN2-MONTICELLO 2,United States Representative District 1,,,Write-in,0,0,0
-Jones,MN3-MONTICELLO 3,United States Representative District 1,,,Write-in,0,0,0
-Jones,MN4-MONTICELLO 4,United States Representative District 1,,,Write-in,0,0,0
-Jones,OX-OXFORD,United States Representative District 1,,,Write-in,0,0,0
-Jones,RLWS-RICHLAND/WASHINGTON,United States Representative District 1,,,Write-in,0,0,0
-Jones,ROHA-ROME/HALE,United States Representative District 1,,,Write-in,0,0,0
-Jones,SGMC-SC GRV/MADISON/CLAY,United States Representative District 1,,,Write-in,0,0,0
-Jones,WY-WYOMING,United States Representative District 1,,,Write-in,0,0,0
+Jones,ANN-ANAMOSA NORTH/CASS,U.S. House,1,REP,Rod Blum,466,323,143
+Jones,ANS-ANAMOSA SOUTH/JACKSON,U.S. House,1,REP,Rod Blum,644,376,268
+Jones,CGLW-CASTLE GRV/LOV/WAYNE,U.S. House,1,REP,Rod Blum,598,385,213
+Jones,FV-FAIRVIEW,U.S. House,1,REP,Rod Blum,561,332,229
+Jones,GF-GREENFIELD,U.S. House,1,REP,Rod Blum,178,137,41
+Jones,MN1-MONTICELLO 1,U.S. House,1,REP,Rod Blum,193,141,52
+Jones,MN2-MONTICELLO 2,U.S. House,1,REP,Rod Blum,212,145,67
+Jones,MN3-MONTICELLO 3,U.S. House,1,REP,Rod Blum,143,111,32
+Jones,MN4-MONTICELLO 4,U.S. House,1,REP,Rod Blum,226,138,88
+Jones,OX-OXFORD,U.S. House,1,REP,Rod Blum,152,128,24
+Jones,RLWS-RICHLAND/WASHINGTON,U.S. House,1,REP,Rod Blum,343,243,100
+Jones,ROHA-ROME/HALE,U.S. House,1,REP,Rod Blum,281,192,89
+Jones,SGMC-SC GRV/MADISON/CLAY,U.S. House,1,REP,Rod Blum,316,208,108
+Jones,WY-WYOMING,U.S. House,1,REP,Rod Blum,177,122,55
+Jones,ANN-ANAMOSA NORTH/CASS,U.S. House,1,DEM,Abby Finkenauer,433,254,179
+Jones,ANS-ANAMOSA SOUTH/JACKSON,U.S. House,1,DEM,Abby Finkenauer,664,354,310
+Jones,CGLW-CASTLE GRV/LOV/WAYNE,U.S. House,1,DEM,Abby Finkenauer,425,232,193
+Jones,FV-FAIRVIEW,U.S. House,1,DEM,Abby Finkenauer,440,235,205
+Jones,GF-GREENFIELD,U.S. House,1,DEM,Abby Finkenauer,145,104,41
+Jones,MN1-MONTICELLO 1,U.S. House,1,DEM,Abby Finkenauer,179,118,61
+Jones,MN2-MONTICELLO 2,U.S. House,1,DEM,Abby Finkenauer,227,145,82
+Jones,MN3-MONTICELLO 3,U.S. House,1,DEM,Abby Finkenauer,179,131,48
+Jones,MN4-MONTICELLO 4,U.S. House,1,DEM,Abby Finkenauer,192,103,89
+Jones,OX-OXFORD,U.S. House,1,DEM,Abby Finkenauer,103,83,20
+Jones,RLWS-RICHLAND/WASHINGTON,U.S. House,1,DEM,Abby Finkenauer,207,118,89
+Jones,ROHA-ROME/HALE,U.S. House,1,DEM,Abby Finkenauer,262,150,112
+Jones,SGMC-SC GRV/MADISON/CLAY,U.S. House,1,DEM,Abby Finkenauer,204,106,98
+Jones,WY-WYOMING,U.S. House,1,DEM,Abby Finkenauer,127,89,38
+Jones,ANN-ANAMOSA NORTH/CASS,U.S. House,1,LIB,Troy Hageman,42,33,9
+Jones,ANS-ANAMOSA SOUTH/JACKSON,U.S. House,1,LIB,Troy Hageman,47,21,26
+Jones,CGLW-CASTLE GRV/LOV/WAYNE,U.S. House,1,LIB,Troy Hageman,32,18,14
+Jones,FV-FAIRVIEW,U.S. House,1,LIB,Troy Hageman,35,24,11
+Jones,GF-GREENFIELD,U.S. House,1,LIB,Troy Hageman,14,12,2
+Jones,MN1-MONTICELLO 1,U.S. House,1,LIB,Troy Hageman,7,5,2
+Jones,MN2-MONTICELLO 2,U.S. House,1,LIB,Troy Hageman,7,5,2
+Jones,MN3-MONTICELLO 3,U.S. House,1,LIB,Troy Hageman,15,11,4
+Jones,MN4-MONTICELLO 4,U.S. House,1,LIB,Troy Hageman,11,6,5
+Jones,OX-OXFORD,U.S. House,1,LIB,Troy Hageman,4,4,0
+Jones,RLWS-RICHLAND/WASHINGTON,U.S. House,1,LIB,Troy Hageman,16,11,5
+Jones,ROHA-ROME/HALE,U.S. House,1,LIB,Troy Hageman,24,14,10
+Jones,SGMC-SC GRV/MADISON/CLAY,U.S. House,1,LIB,Troy Hageman,23,15,8
+Jones,WY-WYOMING,U.S. House,1,LIB,Troy Hageman,9,7,2
+Jones,ANN-ANAMOSA NORTH/CASS,U.S. House,1,,Write-in,0,0,0
+Jones,ANS-ANAMOSA SOUTH/JACKSON,U.S. House,1,,Write-in,2,2,0
+Jones,CGLW-CASTLE GRV/LOV/WAYNE,U.S. House,1,,Write-in,0,0,0
+Jones,FV-FAIRVIEW,U.S. House,1,,Write-in,0,0,0
+Jones,GF-GREENFIELD,U.S. House,1,,Write-in,0,0,0
+Jones,MN1-MONTICELLO 1,U.S. House,1,,Write-in,0,0,0
+Jones,MN2-MONTICELLO 2,U.S. House,1,,Write-in,0,0,0
+Jones,MN3-MONTICELLO 3,U.S. House,1,,Write-in,0,0,0
+Jones,MN4-MONTICELLO 4,U.S. House,1,,Write-in,0,0,0
+Jones,OX-OXFORD,U.S. House,1,,Write-in,0,0,0
+Jones,RLWS-RICHLAND/WASHINGTON,U.S. House,1,,Write-in,0,0,0
+Jones,ROHA-ROME/HALE,U.S. House,1,,Write-in,0,0,0
+Jones,SGMC-SC GRV/MADISON/CLAY,U.S. House,1,,Write-in,0,0,0
+Jones,WY-WYOMING,U.S. House,1,,Write-in,0,0,0
 Jones,ANN-ANAMOSA NORTH/CASS,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,471,331,140
 Jones,ANS-ANAMOSA SOUTH/JACKSON,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,670,381,289
 Jones,CGLW-CASTLE GRV/LOV/WAYNE,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,647,406,241

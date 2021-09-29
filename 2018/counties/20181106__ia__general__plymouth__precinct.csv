@@ -1,69 +1,69 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Plymouth,Akron Public Library,United States Representative District 4,,REP,Steve King,419,326,93
-Plymouth,American Bank,United States Representative District 4,,REP,Steve King,245,113,132
-Plymouth,Courthouse Annex,United States Representative District 4,,REP,Steve King,280,173,107
-Plymouth,Brunsville Legion,United States Representative District 4,,REP,Steve King,412,246,166
-Plymouth,Remsen Library,United States Representative District 4,,REP,Steve King,630,351,279
-Plymouth,Westfield Community Center,United States Representative District 4,,REP,Steve King,218,149,69
-Plymouth,Kissinger Community Center,United States Representative District 4,,REP,Steve King,445,301,144
-Plymouth,Perry Township Hall,United States Representative District 4,,REP,Steve King,555,317,238
-Plymouth,Hinton Community Center,United States Representative District 4,,REP,Steve King,638,420,218
-Plymouth,Kingsley Community Center,United States Representative District 4,,REP,Steve King,494,352,142
-Plymouth,Le Mars Convention Center 11,United States Representative District 4,,REP,Steve King,768,371,397
-Plymouth,Le Mars Convention Center 12,United States Representative District 4,,REP,Steve King,911,455,456
-Plymouth,Le Mars Convention Center 13,United States Representative District 4,,REP,Steve King,488,238,250
-Plymouth,Akron Public Library,United States Representative District 4,,DEM,J.D. Scholten,272,198,74
-Plymouth,American Bank,United States Representative District 4,,DEM,J.D. Scholten,105,54,51
-Plymouth,Courthouse Annex,United States Representative District 4,,DEM,J.D. Scholten,141,78,63
-Plymouth,Brunsville Legion,United States Representative District 4,,DEM,J.D. Scholten,220,151,69
-Plymouth,Remsen Library,United States Representative District 4,,DEM,J.D. Scholten,358,207,151
-Plymouth,Westfield Community Center,United States Representative District 4,,DEM,J.D. Scholten,126,95,31
-Plymouth,Kissinger Community Center,United States Representative District 4,,DEM,J.D. Scholten,288,191,97
-Plymouth,Perry Township Hall,United States Representative District 4,,DEM,J.D. Scholten,280,160,120
-Plymouth,Hinton Community Center,United States Representative District 4,,DEM,J.D. Scholten,364,238,126
-Plymouth,Kingsley Community Center,United States Representative District 4,,DEM,J.D. Scholten,306,208,98
-Plymouth,Le Mars Convention Center 11,United States Representative District 4,,DEM,J.D. Scholten,583,301,282
-Plymouth,Le Mars Convention Center 12,United States Representative District 4,,DEM,J.D. Scholten,639,341,298
-Plymouth,Le Mars Convention Center 13,United States Representative District 4,,DEM,J.D. Scholten,402,249,153
-Plymouth,Akron Public Library,United States Representative District 4,,LIB,Charles Aldrich,14,13,1
-Plymouth,American Bank,United States Representative District 4,,LIB,Charles Aldrich,2,1,1
-Plymouth,Courthouse Annex,United States Representative District 4,,LIB,Charles Aldrich,6,6,0
-Plymouth,Brunsville Legion,United States Representative District 4,,LIB,Charles Aldrich,6,5,1
-Plymouth,Remsen Library,United States Representative District 4,,LIB,Charles Aldrich,11,5,6
-Plymouth,Westfield Community Center,United States Representative District 4,,LIB,Charles Aldrich,3,0,3
-Plymouth,Kissinger Community Center,United States Representative District 4,,LIB,Charles Aldrich,10,10,0
-Plymouth,Perry Township Hall,United States Representative District 4,,LIB,Charles Aldrich,9,2,7
-Plymouth,Hinton Community Center,United States Representative District 4,,LIB,Charles Aldrich,11,7,4
-Plymouth,Kingsley Community Center,United States Representative District 4,,LIB,Charles Aldrich,12,10,2
-Plymouth,Le Mars Convention Center 11,United States Representative District 4,,LIB,Charles Aldrich,35,20,15
-Plymouth,Le Mars Convention Center 12,United States Representative District 4,,LIB,Charles Aldrich,20,17,3
-Plymouth,Le Mars Convention Center 13,United States Representative District 4,,LIB,Charles Aldrich,19,14,5
-Plymouth,Akron Public Library,United States Representative District 4,,,Edward Peterson,3,2,1
-Plymouth,American Bank,United States Representative District 4,,,Edward Peterson,0,0,0
-Plymouth,Courthouse Annex,United States Representative District 4,,,Edward Peterson,4,1,3
-Plymouth,Brunsville Legion,United States Representative District 4,,,Edward Peterson,5,3,2
-Plymouth,Remsen Library,United States Representative District 4,,,Edward Peterson,2,2,0
-Plymouth,Westfield Community Center,United States Representative District 4,,,Edward Peterson,1,1,0
-Plymouth,Kissinger Community Center,United States Representative District 4,,,Edward Peterson,2,2,0
-Plymouth,Perry Township Hall,United States Representative District 4,,,Edward Peterson,3,2,1
-Plymouth,Hinton Community Center,United States Representative District 4,,,Edward Peterson,2,0,2
-Plymouth,Kingsley Community Center,United States Representative District 4,,,Edward Peterson,5,4,1
-Plymouth,Le Mars Convention Center 11,United States Representative District 4,,,Edward Peterson,3,1,2
-Plymouth,Le Mars Convention Center 12,United States Representative District 4,,,Edward Peterson,1,1,0
-Plymouth,Le Mars Convention Center 13,United States Representative District 4,,,Edward Peterson,4,4,0
-Plymouth,Akron Public Library,United States Representative District 4,,,Write-in,0,0,0
-Plymouth,American Bank,United States Representative District 4,,,Write-in,0,0,0
-Plymouth,Courthouse Annex,United States Representative District 4,,,Write-in,0,0,0
-Plymouth,Brunsville Legion,United States Representative District 4,,,Write-in,0,0,0
-Plymouth,Remsen Library,United States Representative District 4,,,Write-in,0,0,0
-Plymouth,Westfield Community Center,United States Representative District 4,,,Write-in,0,0,0
-Plymouth,Kissinger Community Center,United States Representative District 4,,,Write-in,0,0,0
-Plymouth,Perry Township Hall,United States Representative District 4,,,Write-in,0,0,0
-Plymouth,Hinton Community Center,United States Representative District 4,,,Write-in,0,0,0
-Plymouth,Kingsley Community Center,United States Representative District 4,,,Write-in,0,0,0
-Plymouth,Le Mars Convention Center 11,United States Representative District 4,,,Write-in,2,0,2
-Plymouth,Le Mars Convention Center 12,United States Representative District 4,,,Write-in,0,0,0
-Plymouth,Le Mars Convention Center 13,United States Representative District 4,,,Write-in,2,1,1
+Plymouth,Akron Public Library,U.S. House,4,REP,Steve King,419,326,93
+Plymouth,American Bank,U.S. House,4,REP,Steve King,245,113,132
+Plymouth,Courthouse Annex,U.S. House,4,REP,Steve King,280,173,107
+Plymouth,Brunsville Legion,U.S. House,4,REP,Steve King,412,246,166
+Plymouth,Remsen Library,U.S. House,4,REP,Steve King,630,351,279
+Plymouth,Westfield Community Center,U.S. House,4,REP,Steve King,218,149,69
+Plymouth,Kissinger Community Center,U.S. House,4,REP,Steve King,445,301,144
+Plymouth,Perry Township Hall,U.S. House,4,REP,Steve King,555,317,238
+Plymouth,Hinton Community Center,U.S. House,4,REP,Steve King,638,420,218
+Plymouth,Kingsley Community Center,U.S. House,4,REP,Steve King,494,352,142
+Plymouth,Le Mars Convention Center 11,U.S. House,4,REP,Steve King,768,371,397
+Plymouth,Le Mars Convention Center 12,U.S. House,4,REP,Steve King,911,455,456
+Plymouth,Le Mars Convention Center 13,U.S. House,4,REP,Steve King,488,238,250
+Plymouth,Akron Public Library,U.S. House,4,DEM,J.D. Scholten,272,198,74
+Plymouth,American Bank,U.S. House,4,DEM,J.D. Scholten,105,54,51
+Plymouth,Courthouse Annex,U.S. House,4,DEM,J.D. Scholten,141,78,63
+Plymouth,Brunsville Legion,U.S. House,4,DEM,J.D. Scholten,220,151,69
+Plymouth,Remsen Library,U.S. House,4,DEM,J.D. Scholten,358,207,151
+Plymouth,Westfield Community Center,U.S. House,4,DEM,J.D. Scholten,126,95,31
+Plymouth,Kissinger Community Center,U.S. House,4,DEM,J.D. Scholten,288,191,97
+Plymouth,Perry Township Hall,U.S. House,4,DEM,J.D. Scholten,280,160,120
+Plymouth,Hinton Community Center,U.S. House,4,DEM,J.D. Scholten,364,238,126
+Plymouth,Kingsley Community Center,U.S. House,4,DEM,J.D. Scholten,306,208,98
+Plymouth,Le Mars Convention Center 11,U.S. House,4,DEM,J.D. Scholten,583,301,282
+Plymouth,Le Mars Convention Center 12,U.S. House,4,DEM,J.D. Scholten,639,341,298
+Plymouth,Le Mars Convention Center 13,U.S. House,4,DEM,J.D. Scholten,402,249,153
+Plymouth,Akron Public Library,U.S. House,4,LIB,Charles Aldrich,14,13,1
+Plymouth,American Bank,U.S. House,4,LIB,Charles Aldrich,2,1,1
+Plymouth,Courthouse Annex,U.S. House,4,LIB,Charles Aldrich,6,6,0
+Plymouth,Brunsville Legion,U.S. House,4,LIB,Charles Aldrich,6,5,1
+Plymouth,Remsen Library,U.S. House,4,LIB,Charles Aldrich,11,5,6
+Plymouth,Westfield Community Center,U.S. House,4,LIB,Charles Aldrich,3,0,3
+Plymouth,Kissinger Community Center,U.S. House,4,LIB,Charles Aldrich,10,10,0
+Plymouth,Perry Township Hall,U.S. House,4,LIB,Charles Aldrich,9,2,7
+Plymouth,Hinton Community Center,U.S. House,4,LIB,Charles Aldrich,11,7,4
+Plymouth,Kingsley Community Center,U.S. House,4,LIB,Charles Aldrich,12,10,2
+Plymouth,Le Mars Convention Center 11,U.S. House,4,LIB,Charles Aldrich,35,20,15
+Plymouth,Le Mars Convention Center 12,U.S. House,4,LIB,Charles Aldrich,20,17,3
+Plymouth,Le Mars Convention Center 13,U.S. House,4,LIB,Charles Aldrich,19,14,5
+Plymouth,Akron Public Library,U.S. House,4,,Edward Peterson,3,2,1
+Plymouth,American Bank,U.S. House,4,,Edward Peterson,0,0,0
+Plymouth,Courthouse Annex,U.S. House,4,,Edward Peterson,4,1,3
+Plymouth,Brunsville Legion,U.S. House,4,,Edward Peterson,5,3,2
+Plymouth,Remsen Library,U.S. House,4,,Edward Peterson,2,2,0
+Plymouth,Westfield Community Center,U.S. House,4,,Edward Peterson,1,1,0
+Plymouth,Kissinger Community Center,U.S. House,4,,Edward Peterson,2,2,0
+Plymouth,Perry Township Hall,U.S. House,4,,Edward Peterson,3,2,1
+Plymouth,Hinton Community Center,U.S. House,4,,Edward Peterson,2,0,2
+Plymouth,Kingsley Community Center,U.S. House,4,,Edward Peterson,5,4,1
+Plymouth,Le Mars Convention Center 11,U.S. House,4,,Edward Peterson,3,1,2
+Plymouth,Le Mars Convention Center 12,U.S. House,4,,Edward Peterson,1,1,0
+Plymouth,Le Mars Convention Center 13,U.S. House,4,,Edward Peterson,4,4,0
+Plymouth,Akron Public Library,U.S. House,4,,Write-in,0,0,0
+Plymouth,American Bank,U.S. House,4,,Write-in,0,0,0
+Plymouth,Courthouse Annex,U.S. House,4,,Write-in,0,0,0
+Plymouth,Brunsville Legion,U.S. House,4,,Write-in,0,0,0
+Plymouth,Remsen Library,U.S. House,4,,Write-in,0,0,0
+Plymouth,Westfield Community Center,U.S. House,4,,Write-in,0,0,0
+Plymouth,Kissinger Community Center,U.S. House,4,,Write-in,0,0,0
+Plymouth,Perry Township Hall,U.S. House,4,,Write-in,0,0,0
+Plymouth,Hinton Community Center,U.S. House,4,,Write-in,0,0,0
+Plymouth,Kingsley Community Center,U.S. House,4,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 11,U.S. House,4,,Write-in,2,0,2
+Plymouth,Le Mars Convention Center 12,U.S. House,4,,Write-in,0,0,0
+Plymouth,Le Mars Convention Center 13,U.S. House,4,,Write-in,2,1,1
 Plymouth,Akron Public Library,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,506,395,111
 Plymouth,American Bank,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,278,129,149
 Plymouth,Courthouse Annex,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,350,219,131

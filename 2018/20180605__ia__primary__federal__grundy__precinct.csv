@@ -1,11 +1,11 @@
 county,precinct,office,district,party,candidate,votes,election_day
-Grundy,MP001,United States Representative District 4,,REP,Cyndi Hanson,125,125
-Grundy,MP001,United States Representative District 4,,REP,Steve King,515,515
-Grundy,MP001,United States Representative District 4,,,Write-in,0,0
-Grundy,MP001,United States Representative District 4,,DEM,Leann Jacobsen,207,207
-Grundy,MP001,United States Representative District 4,,DEM,John Paschen,41,41
-Grundy,MP001,United States Representative District 4,,DEM,J.D. Scholten,157,157
-Grundy,MP001,United States Representative District 4,,LIB,Charles Aldrich,9,9
+Grundy,MP001,U.S. House,4,REP,Cyndi Hanson,125,125
+Grundy,MP001,U.S. House,4,REP,Steve King,515,515
+Grundy,MP001,U.S. House,4,,Write-in,0,0
+Grundy,MP001,U.S. House,4,DEM,Leann Jacobsen,207,207
+Grundy,MP001,U.S. House,4,DEM,John Paschen,41,41
+Grundy,MP001,U.S. House,4,DEM,J.D. Scholten,157,157
+Grundy,MP001,U.S. House,4,LIB,Charles Aldrich,9,9
 Grundy,MP001,Governor,,REP,Kim Reynolds,630,630
 Grundy,MP001,Governor,,,Write-in,1,1
 Grundy,MP001,Governor,,DEM,Nate Boulton,13,13

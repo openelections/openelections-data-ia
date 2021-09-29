@@ -1,25 +1,25 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Greene,Central Precinct,United States Representative District 4,,REP,Cyndi Hanson,14,4,10
-Greene,East Precinct,United States Representative District 4,,REP,Cyndi Hanson,10,0,10
-Greene,Jefferson 1 Precinct,United States Representative District 4,,REP,Cyndi Hanson,15,2,13
-Greene,Jefferson 2 Precinct,United States Representative District 4,,REP,Cyndi Hanson,14,3,11
-Greene,Jefferson 3 Precinct,United States Representative District 4,,REP,Cyndi Hanson,19,3,16
-Greene,North Precinct,United States Representative District 4,,REP,Cyndi Hanson,9,2,7
-Greene,West Precinct,United States Representative District 4,,REP,Cyndi Hanson,7,0,7
-Greene,Central Precinct,United States Representative District 4,,REP,Steve King,73,16,57
-Greene,East Precinct,United States Representative District 4,,REP,Steve King,53,2,51
-Greene,Jefferson 1 Precinct,United States Representative District 4,,REP,Steve King,45,7,38
-Greene,Jefferson 2 Precinct,United States Representative District 4,,REP,Steve King,48,11,37
-Greene,Jefferson 3 Precinct,United States Representative District 4,,REP,Steve King,61,8,53
-Greene,North Precinct,United States Representative District 4,,REP,Steve King,40,7,33
-Greene,West Precinct,United States Representative District 4,,REP,Steve King,43,1,42
-Greene,Central Precinct,United States Representative District 4,,,Write-in,0,0,0
-Greene,East Precinct,United States Representative District 4,,,Write-in,1,0,1
-Greene,Jefferson 1 Precinct,United States Representative District 4,,,Write-in,0,0,0
-Greene,Jefferson 2 Precinct,United States Representative District 4,,,Write-in,0,0,0
-Greene,Jefferson 3 Precinct,United States Representative District 4,,,Write-in,0,0,0
-Greene,North Precinct,United States Representative District 4,,,Write-in,0,0,0
-Greene,West Precinct,United States Representative District 4,,,Write-in,0,0,0
+Greene,Central Precinct,U.S. House,4,REP,Cyndi Hanson,14,4,10
+Greene,East Precinct,U.S. House,4,REP,Cyndi Hanson,10,0,10
+Greene,Jefferson 1 Precinct,U.S. House,4,REP,Cyndi Hanson,15,2,13
+Greene,Jefferson 2 Precinct,U.S. House,4,REP,Cyndi Hanson,14,3,11
+Greene,Jefferson 3 Precinct,U.S. House,4,REP,Cyndi Hanson,19,3,16
+Greene,North Precinct,U.S. House,4,REP,Cyndi Hanson,9,2,7
+Greene,West Precinct,U.S. House,4,REP,Cyndi Hanson,7,0,7
+Greene,Central Precinct,U.S. House,4,REP,Steve King,73,16,57
+Greene,East Precinct,U.S. House,4,REP,Steve King,53,2,51
+Greene,Jefferson 1 Precinct,U.S. House,4,REP,Steve King,45,7,38
+Greene,Jefferson 2 Precinct,U.S. House,4,REP,Steve King,48,11,37
+Greene,Jefferson 3 Precinct,U.S. House,4,REP,Steve King,61,8,53
+Greene,North Precinct,U.S. House,4,REP,Steve King,40,7,33
+Greene,West Precinct,U.S. House,4,REP,Steve King,43,1,42
+Greene,Central Precinct,U.S. House,4,,Write-in,0,0,0
+Greene,East Precinct,U.S. House,4,,Write-in,1,0,1
+Greene,Jefferson 1 Precinct,U.S. House,4,,Write-in,0,0,0
+Greene,Jefferson 2 Precinct,U.S. House,4,,Write-in,0,0,0
+Greene,Jefferson 3 Precinct,U.S. House,4,,Write-in,0,0,0
+Greene,North Precinct,U.S. House,4,,Write-in,0,0,0
+Greene,West Precinct,U.S. House,4,,Write-in,0,0,0
 Greene,Central Precinct,Governor,,REP,Kim Reynolds,81,20,61
 Greene,East Precinct,Governor,,REP,Kim Reynolds,57,2,55
 Greene,Jefferson 1 Precinct,Governor,,REP,Kim Reynolds,51,8,43
@@ -251,27 +251,27 @@ Greene,Jefferson 2 Precinct,County Attorney,,,Write-in,0,0,0
 Greene,Jefferson 3 Precinct,County Attorney,,,Write-in,0,0,0
 Greene,North Precinct,County Attorney,,,Write-in,0,0,0
 Greene,West Precinct,County Attorney,,,Write-in,0,0,0
-Greene,Central Precinct,United States Representative District 4,,DEM,Leann Jacobsen,9,2,7
-Greene,East Precinct,United States Representative District 4,,DEM,Leann Jacobsen,18,4,14
-Greene,Jefferson 1 Precinct,United States Representative District 4,,DEM,Leann Jacobsen,18,5,13
-Greene,Jefferson 2 Precinct,United States Representative District 4,,DEM,Leann Jacobsen,14,7,7
-Greene,Jefferson 3 Precinct,United States Representative District 4,,DEM,Leann Jacobsen,31,9,22
-Greene,North Precinct,United States Representative District 4,,DEM,Leann Jacobsen,14,3,11
-Greene,West Precinct,United States Representative District 4,,DEM,Leann Jacobsen,13,2,11
-Greene,Central Precinct,United States Representative District 4,,DEM,John Paschen,10,3,7
-Greene,East Precinct,United States Representative District 4,,DEM,John Paschen,16,3,13
-Greene,Jefferson 1 Precinct,United States Representative District 4,,DEM,John Paschen,4,2,2
-Greene,Jefferson 2 Precinct,United States Representative District 4,,DEM,John Paschen,8,3,5
-Greene,Jefferson 3 Precinct,United States Representative District 4,,DEM,John Paschen,20,6,14
-Greene,North Precinct,United States Representative District 4,,DEM,John Paschen,11,2,9
-Greene,West Precinct,United States Representative District 4,,DEM,John Paschen,6,0,6
-Greene,Central Precinct,United States Representative District 4,,DEM,J. D. Scholten,35,8,27
-Greene,East Precinct,United States Representative District 4,,DEM,J. D. Scholten,18,5,13
-Greene,Jefferson 1 Precinct,United States Representative District 4,,DEM,J. D. Scholten,41,12,29
-Greene,Jefferson 2 Precinct,United States Representative District 4,,DEM,J. D. Scholten,27,6,21
-Greene,Jefferson 3 Precinct,United States Representative District 4,,DEM,J. D. Scholten,71,25,46
-Greene,North Precinct,United States Representative District 4,,DEM,J. D. Scholten,26,5,21
-Greene,West Precinct,United States Representative District 4,,DEM,J. D. Scholten,16,3,13
+Greene,Central Precinct,U.S. House,4,DEM,Leann Jacobsen,9,2,7
+Greene,East Precinct,U.S. House,4,DEM,Leann Jacobsen,18,4,14
+Greene,Jefferson 1 Precinct,U.S. House,4,DEM,Leann Jacobsen,18,5,13
+Greene,Jefferson 2 Precinct,U.S. House,4,DEM,Leann Jacobsen,14,7,7
+Greene,Jefferson 3 Precinct,U.S. House,4,DEM,Leann Jacobsen,31,9,22
+Greene,North Precinct,U.S. House,4,DEM,Leann Jacobsen,14,3,11
+Greene,West Precinct,U.S. House,4,DEM,Leann Jacobsen,13,2,11
+Greene,Central Precinct,U.S. House,4,DEM,John Paschen,10,3,7
+Greene,East Precinct,U.S. House,4,DEM,John Paschen,16,3,13
+Greene,Jefferson 1 Precinct,U.S. House,4,DEM,John Paschen,4,2,2
+Greene,Jefferson 2 Precinct,U.S. House,4,DEM,John Paschen,8,3,5
+Greene,Jefferson 3 Precinct,U.S. House,4,DEM,John Paschen,20,6,14
+Greene,North Precinct,U.S. House,4,DEM,John Paschen,11,2,9
+Greene,West Precinct,U.S. House,4,DEM,John Paschen,6,0,6
+Greene,Central Precinct,U.S. House,4,DEM,J. D. Scholten,35,8,27
+Greene,East Precinct,U.S. House,4,DEM,J. D. Scholten,18,5,13
+Greene,Jefferson 1 Precinct,U.S. House,4,DEM,J. D. Scholten,41,12,29
+Greene,Jefferson 2 Precinct,U.S. House,4,DEM,J. D. Scholten,27,6,21
+Greene,Jefferson 3 Precinct,U.S. House,4,DEM,J. D. Scholten,71,25,46
+Greene,North Precinct,U.S. House,4,DEM,J. D. Scholten,26,5,21
+Greene,West Precinct,U.S. House,4,DEM,J. D. Scholten,16,3,13
 Greene,Central Precinct,Governor,,DEM,Nate Boulton,1,0,1
 Greene,East Precinct,Governor,,DEM,Nate Boulton,6,2,4
 Greene,Jefferson 1 Precinct,Governor,,DEM,Nate Boulton,3,3,0
@@ -440,13 +440,13 @@ Greene,Jefferson 2 Precinct,County Attorney,,DEM,Blank,0,0,0
 Greene,Jefferson 3 Precinct,County Attorney,,DEM,Blank,1,0,1
 Greene,North Precinct,County Attorney,,DEM,Blank,0,0,0
 Greene,West Precinct,County Attorney,,DEM,Blank,0,0,0
-Greene,Central Precinct,United States Representative District 4,,LIB,Charles Aldrich,2,0,2
-Greene,East Precinct,United States Representative District 4,,LIB,Charles Aldrich,2,0,2
-Greene,Jefferson 1 Precinct,United States Representative District 4,,LIB,Charles Aldrich,2,2,0
-Greene,Jefferson 2 Precinct,United States Representative District 4,,LIB,Charles Aldrich,1,0,1
-Greene,Jefferson 3 Precinct,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Greene,North Precinct,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
-Greene,West Precinct,United States Representative District 4,,LIB,Charles Aldrich,0,0,0
+Greene,Central Precinct,U.S. House,4,LIB,Charles Aldrich,2,0,2
+Greene,East Precinct,U.S. House,4,LIB,Charles Aldrich,2,0,2
+Greene,Jefferson 1 Precinct,U.S. House,4,LIB,Charles Aldrich,2,2,0
+Greene,Jefferson 2 Precinct,U.S. House,4,LIB,Charles Aldrich,1,0,1
+Greene,Jefferson 3 Precinct,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Greene,North Precinct,U.S. House,4,LIB,Charles Aldrich,0,0,0
+Greene,West Precinct,U.S. House,4,LIB,Charles Aldrich,0,0,0
 Greene,Central Precinct,Governor,,LIB,Marco Battaglia,0,0,0
 Greene,East Precinct,Governor,,LIB,Marco Battaglia,0,0,0
 Greene,Jefferson 1 Precinct,Governor,,LIB,Marco Battaglia,2,2,0

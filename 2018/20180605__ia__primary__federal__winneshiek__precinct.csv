@@ -1,26 +1,26 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Winneshiek,PCT 1 - HE/HI/PL,United States Representative District 1,,REP,Rod Blum,21,6,15
-Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,United States Representative District 1,,REP,Rod Blum,65,10,55
-Winneshiek,PCT 3 - DEW1/DETSUP2,United States Representative District 1,,REP,Rod Blum,42,5,37
-Winneshiek,PCT 4 - DEW2,United States Representative District 1,,REP,Rod Blum,29,8,21
-Winneshiek,PCT 5 -CN/DEW4/DETSUP3,United States Representative District 1,,REP,Rod Blum,17,2,15
-Winneshiek,PCT 6 - DEW5,United States Representative District 1,,REP,Rod Blum,15,4,11
-Winneshiek,PCT 7 - CA/SP,United States Representative District 1,,REP,Rod Blum,31,6,25
-Winneshiek,PCT 8 - MI/BLM,United States Representative District 1,,REP,Rod Blum,32,3,29
-Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,United States Representative District 1,,REP,Rod Blum,36,6,30
-Winneshiek,PCT 10 - JA/SU/WA,United States Representative District 1,,REP,Rod Blum,9,0,9
-Winneshiek,PCT 11 - DETSUP5,United States Representative District 1,,REP,Rod Blum,3,3,0
-Winneshiek,PCT 1 - HE/HI/PL,United States Representative District 1,,,Write-in,0,0,0
-Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,United States Representative District 1,,,Write-in,0,0,0
-Winneshiek,PCT 3 - DEW1/DETSUP2,United States Representative District 1,,,Write-in,0,0,0
-Winneshiek,PCT 4 - DEW2,United States Representative District 1,,,Write-in,0,0,0
-Winneshiek,PCT 5 -CN/DEW4/DETSUP3,United States Representative District 1,,,Write-in,0,0,0
-Winneshiek,PCT 6 - DEW5,United States Representative District 1,,,Write-in,0,0,0
-Winneshiek,PCT 7 - CA/SP,United States Representative District 1,,,Write-in,1,0,1
-Winneshiek,PCT 8 - MI/BLM,United States Representative District 1,,,Write-in,0,0,0
-Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,United States Representative District 1,,,Write-in,0,0,0
-Winneshiek,PCT 10 - JA/SU/WA,United States Representative District 1,,,Write-in,0,0,0
-Winneshiek,PCT 11 - DETSUP5,United States Representative District 1,,,Write-in,0,0,0
+Winneshiek,PCT 1 - HE/HI/PL,U.S. House,1,REP,Rod Blum,21,6,15
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,U.S. House,1,REP,Rod Blum,65,10,55
+Winneshiek,PCT 3 - DEW1/DETSUP2,U.S. House,1,REP,Rod Blum,42,5,37
+Winneshiek,PCT 4 - DEW2,U.S. House,1,REP,Rod Blum,29,8,21
+Winneshiek,PCT 5 -CN/DEW4/DETSUP3,U.S. House,1,REP,Rod Blum,17,2,15
+Winneshiek,PCT 6 - DEW5,U.S. House,1,REP,Rod Blum,15,4,11
+Winneshiek,PCT 7 - CA/SP,U.S. House,1,REP,Rod Blum,31,6,25
+Winneshiek,PCT 8 - MI/BLM,U.S. House,1,REP,Rod Blum,32,3,29
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,U.S. House,1,REP,Rod Blum,36,6,30
+Winneshiek,PCT 10 - JA/SU/WA,U.S. House,1,REP,Rod Blum,9,0,9
+Winneshiek,PCT 11 - DETSUP5,U.S. House,1,REP,Rod Blum,3,3,0
+Winneshiek,PCT 1 - HE/HI/PL,U.S. House,1,,Write-in,0,0,0
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,U.S. House,1,,Write-in,0,0,0
+Winneshiek,PCT 3 - DEW1/DETSUP2,U.S. House,1,,Write-in,0,0,0
+Winneshiek,PCT 4 - DEW2,U.S. House,1,,Write-in,0,0,0
+Winneshiek,PCT 5 -CN/DEW4/DETSUP3,U.S. House,1,,Write-in,0,0,0
+Winneshiek,PCT 6 - DEW5,U.S. House,1,,Write-in,0,0,0
+Winneshiek,PCT 7 - CA/SP,U.S. House,1,,Write-in,1,0,1
+Winneshiek,PCT 8 - MI/BLM,U.S. House,1,,Write-in,0,0,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,U.S. House,1,,Write-in,0,0,0
+Winneshiek,PCT 10 - JA/SU/WA,U.S. House,1,,Write-in,0,0,0
+Winneshiek,PCT 11 - DETSUP5,U.S. House,1,,Write-in,0,0,0
 Winneshiek,PCT 1 - HE/HI/PL,Governor,,REP,Kim Reynolds,22,6,16
 Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Governor,,REP,Kim Reynolds,65,11,54
 Winneshiek,PCT 3 - DEW1/DETSUP2,Governor,,REP,Kim Reynolds,47,6,41
@@ -269,50 +269,50 @@ Winneshiek,PCT 8 - MI/BLM,County Attorney,,,Write-in,0,0,0
 Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,County Attorney,,,Write-in,0,0,0
 Winneshiek,PCT 10 - JA/SU/WA,County Attorney,,,Write-in,0,0,0
 Winneshiek,PCT 11 - DETSUP5,County Attorney,,,Write-in,0,0,0
-Winneshiek,PCT 1 - HE/HI/PL,United States Representative District 1,,DEM,Abby Finkenauer,42,11,31
-Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,United States Representative District 1,,DEM,Abby Finkenauer,174,36,138
-Winneshiek,PCT 3 - DEW1/DETSUP2,United States Representative District 1,,DEM,Abby Finkenauer,142,38,104
-Winneshiek,PCT 4 - DEW2,United States Representative District 1,,DEM,Abby Finkenauer,127,40,87
-Winneshiek,PCT 5 -CN/DEW4/DETSUP3,United States Representative District 1,,DEM,Abby Finkenauer,88,17,71
-Winneshiek,PCT 6 - DEW5,United States Representative District 1,,DEM,Abby Finkenauer,71,10,61
-Winneshiek,PCT 7 - CA/SP,United States Representative District 1,,DEM,Abby Finkenauer,58,13,45
-Winneshiek,PCT 8 - MI/BLM,United States Representative District 1,,DEM,Abby Finkenauer,19,4,15
-Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,United States Representative District 1,,DEM,Abby Finkenauer,42,5,37
-Winneshiek,PCT 10 - JA/SU/WA,United States Representative District 1,,DEM,Abby Finkenauer,23,3,20
-Winneshiek,PCT 11 - DETSUP5,United States Representative District 1,,DEM,Abby Finkenauer,6,1,5
-Winneshiek,PCT 1 - HE/HI/PL,United States Representative District 1,,DEM,Thomas Heckroth,20,9,11
-Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,United States Representative District 1,,DEM,Thomas Heckroth,59,12,47
-Winneshiek,PCT 3 - DEW1/DETSUP2,United States Representative District 1,,DEM,Thomas Heckroth,51,10,41
-Winneshiek,PCT 4 - DEW2,United States Representative District 1,,DEM,Thomas Heckroth,55,16,39
-Winneshiek,PCT 5 -CN/DEW4/DETSUP3,United States Representative District 1,,DEM,Thomas Heckroth,24,8,16
-Winneshiek,PCT 6 - DEW5,United States Representative District 1,,DEM,Thomas Heckroth,18,2,16
-Winneshiek,PCT 7 - CA/SP,United States Representative District 1,,DEM,Thomas Heckroth,16,3,13
-Winneshiek,PCT 8 - MI/BLM,United States Representative District 1,,DEM,Thomas Heckroth,9,3,6
-Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,United States Representative District 1,,DEM,Thomas Heckroth,3,0,3
-Winneshiek,PCT 10 - JA/SU/WA,United States Representative District 1,,DEM,Thomas Heckroth,13,2,11
-Winneshiek,PCT 11 - DETSUP5,United States Representative District 1,,DEM,Thomas Heckroth,2,0,2
-Winneshiek,PCT 1 - HE/HI/PL,United States Representative District 1,,DEM,George Ramsey,2,1,1
-Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,United States Representative District 1,,DEM,George Ramsey,5,1,4
-Winneshiek,PCT 3 - DEW1/DETSUP2,United States Representative District 1,,DEM,George Ramsey,3,1,2
-Winneshiek,PCT 4 - DEW2,United States Representative District 1,,DEM,George Ramsey,11,4,7
-Winneshiek,PCT 5 -CN/DEW4/DETSUP3,United States Representative District 1,,DEM,George Ramsey,7,0,7
-Winneshiek,PCT 6 - DEW5,United States Representative District 1,,DEM,George Ramsey,3,1,2
-Winneshiek,PCT 7 - CA/SP,United States Representative District 1,,DEM,George Ramsey,7,1,6
-Winneshiek,PCT 8 - MI/BLM,United States Representative District 1,,DEM,George Ramsey,0,0,0
-Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,United States Representative District 1,,DEM,George Ramsey,4,0,4
-Winneshiek,PCT 10 - JA/SU/WA,United States Representative District 1,,DEM,George Ramsey,4,0,4
-Winneshiek,PCT 11 - DETSUP5,United States Representative District 1,,DEM,George Ramsey,0,0,0
-Winneshiek,PCT 1 - HE/HI/PL,United States Representative District 1,,DEM,Courtney L. Rowe,3,0,3
-Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,United States Representative District 1,,DEM,Courtney L. Rowe,9,1,8
-Winneshiek,PCT 3 - DEW1/DETSUP2,United States Representative District 1,,DEM,Courtney L. Rowe,10,1,9
-Winneshiek,PCT 4 - DEW2,United States Representative District 1,,DEM,Courtney L. Rowe,12,1,11
-Winneshiek,PCT 5 -CN/DEW4/DETSUP3,United States Representative District 1,,DEM,Courtney L. Rowe,2,0,2
-Winneshiek,PCT 6 - DEW5,United States Representative District 1,,DEM,Courtney L. Rowe,8,0,8
-Winneshiek,PCT 7 - CA/SP,United States Representative District 1,,DEM,Courtney L. Rowe,2,0,2
-Winneshiek,PCT 8 - MI/BLM,United States Representative District 1,,DEM,Courtney L. Rowe,3,0,3
-Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,United States Representative District 1,,DEM,Courtney L. Rowe,7,0,7
-Winneshiek,PCT 10 - JA/SU/WA,United States Representative District 1,,DEM,Courtney L. Rowe,2,0,2
-Winneshiek,PCT 11 - DETSUP5,United States Representative District 1,,DEM,Courtney L. Rowe,0,0,0
+Winneshiek,PCT 1 - HE/HI/PL,U.S. House,1,DEM,Abby Finkenauer,42,11,31
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,U.S. House,1,DEM,Abby Finkenauer,174,36,138
+Winneshiek,PCT 3 - DEW1/DETSUP2,U.S. House,1,DEM,Abby Finkenauer,142,38,104
+Winneshiek,PCT 4 - DEW2,U.S. House,1,DEM,Abby Finkenauer,127,40,87
+Winneshiek,PCT 5 -CN/DEW4/DETSUP3,U.S. House,1,DEM,Abby Finkenauer,88,17,71
+Winneshiek,PCT 6 - DEW5,U.S. House,1,DEM,Abby Finkenauer,71,10,61
+Winneshiek,PCT 7 - CA/SP,U.S. House,1,DEM,Abby Finkenauer,58,13,45
+Winneshiek,PCT 8 - MI/BLM,U.S. House,1,DEM,Abby Finkenauer,19,4,15
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,U.S. House,1,DEM,Abby Finkenauer,42,5,37
+Winneshiek,PCT 10 - JA/SU/WA,U.S. House,1,DEM,Abby Finkenauer,23,3,20
+Winneshiek,PCT 11 - DETSUP5,U.S. House,1,DEM,Abby Finkenauer,6,1,5
+Winneshiek,PCT 1 - HE/HI/PL,U.S. House,1,DEM,Thomas Heckroth,20,9,11
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,U.S. House,1,DEM,Thomas Heckroth,59,12,47
+Winneshiek,PCT 3 - DEW1/DETSUP2,U.S. House,1,DEM,Thomas Heckroth,51,10,41
+Winneshiek,PCT 4 - DEW2,U.S. House,1,DEM,Thomas Heckroth,55,16,39
+Winneshiek,PCT 5 -CN/DEW4/DETSUP3,U.S. House,1,DEM,Thomas Heckroth,24,8,16
+Winneshiek,PCT 6 - DEW5,U.S. House,1,DEM,Thomas Heckroth,18,2,16
+Winneshiek,PCT 7 - CA/SP,U.S. House,1,DEM,Thomas Heckroth,16,3,13
+Winneshiek,PCT 8 - MI/BLM,U.S. House,1,DEM,Thomas Heckroth,9,3,6
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,U.S. House,1,DEM,Thomas Heckroth,3,0,3
+Winneshiek,PCT 10 - JA/SU/WA,U.S. House,1,DEM,Thomas Heckroth,13,2,11
+Winneshiek,PCT 11 - DETSUP5,U.S. House,1,DEM,Thomas Heckroth,2,0,2
+Winneshiek,PCT 1 - HE/HI/PL,U.S. House,1,DEM,George Ramsey,2,1,1
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,U.S. House,1,DEM,George Ramsey,5,1,4
+Winneshiek,PCT 3 - DEW1/DETSUP2,U.S. House,1,DEM,George Ramsey,3,1,2
+Winneshiek,PCT 4 - DEW2,U.S. House,1,DEM,George Ramsey,11,4,7
+Winneshiek,PCT 5 -CN/DEW4/DETSUP3,U.S. House,1,DEM,George Ramsey,7,0,7
+Winneshiek,PCT 6 - DEW5,U.S. House,1,DEM,George Ramsey,3,1,2
+Winneshiek,PCT 7 - CA/SP,U.S. House,1,DEM,George Ramsey,7,1,6
+Winneshiek,PCT 8 - MI/BLM,U.S. House,1,DEM,George Ramsey,0,0,0
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,U.S. House,1,DEM,George Ramsey,4,0,4
+Winneshiek,PCT 10 - JA/SU/WA,U.S. House,1,DEM,George Ramsey,4,0,4
+Winneshiek,PCT 11 - DETSUP5,U.S. House,1,DEM,George Ramsey,0,0,0
+Winneshiek,PCT 1 - HE/HI/PL,U.S. House,1,DEM,Courtney L. Rowe,3,0,3
+Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,U.S. House,1,DEM,Courtney L. Rowe,9,1,8
+Winneshiek,PCT 3 - DEW1/DETSUP2,U.S. House,1,DEM,Courtney L. Rowe,10,1,9
+Winneshiek,PCT 4 - DEW2,U.S. House,1,DEM,Courtney L. Rowe,12,1,11
+Winneshiek,PCT 5 -CN/DEW4/DETSUP3,U.S. House,1,DEM,Courtney L. Rowe,2,0,2
+Winneshiek,PCT 6 - DEW5,U.S. House,1,DEM,Courtney L. Rowe,8,0,8
+Winneshiek,PCT 7 - CA/SP,U.S. House,1,DEM,Courtney L. Rowe,2,0,2
+Winneshiek,PCT 8 - MI/BLM,U.S. House,1,DEM,Courtney L. Rowe,3,0,3
+Winneshiek,PCT 9 - BLF/BO/FR/LI/MA/OR,U.S. House,1,DEM,Courtney L. Rowe,7,0,7
+Winneshiek,PCT 10 - JA/SU/WA,U.S. House,1,DEM,Courtney L. Rowe,2,0,2
+Winneshiek,PCT 11 - DETSUP5,U.S. House,1,DEM,Courtney L. Rowe,0,0,0
 Winneshiek,PCT 1 - HE/HI/PL,Governor,,DEM,Nate Boulton,0,0,0
 Winneshiek,PCT 2 - FR/GL/DEW3/DETSUP1,Governor,,DEM,Nate Boulton,2,1,1
 Winneshiek,PCT 3 - DEW1/DETSUP2,Governor,,DEM,Nate Boulton,6,4,2

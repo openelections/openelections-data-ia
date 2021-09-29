@@ -1,14 +1,14 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Fremont,Farragut,United States Representative District 3,,REP,David Young,126,10,116
-Fremont,Green/Riverside/Scott,United States Representative District 3,,REP,David Young,144,15,129
-Fremont,Hamburg/Washington TWP,United States Representative District 3,,REP,David Young,196,18,178
-Fremont,Riverton,United States Representative District 3,,REP,David Young,84,0,84
-Fremont,Sidney,United States Representative District 3,,REP,David Young,257,62,195
-Fremont,Farragut,United States Representative District 3,,,Write-in,0,0,0
-Fremont,Green/Riverside/Scott,United States Representative District 3,,,Write-in,0,0,0
-Fremont,Hamburg/Washington TWP,United States Representative District 3,,,Write-in,0,0,0
-Fremont,Riverton,United States Representative District 3,,,Write-in,0,0,0
-Fremont,Sidney,United States Representative District 3,,,Write-in,0,0,0
+Fremont,Farragut,U.S. House,3,REP,David Young,126,10,116
+Fremont,Green/Riverside/Scott,U.S. House,3,REP,David Young,144,15,129
+Fremont,Hamburg/Washington TWP,U.S. House,3,REP,David Young,196,18,178
+Fremont,Riverton,U.S. House,3,REP,David Young,84,0,84
+Fremont,Sidney,U.S. House,3,REP,David Young,257,62,195
+Fremont,Farragut,U.S. House,3,,Write-in,0,0,0
+Fremont,Green/Riverside/Scott,U.S. House,3,,Write-in,0,0,0
+Fremont,Hamburg/Washington TWP,U.S. House,3,,Write-in,0,0,0
+Fremont,Riverton,U.S. House,3,,Write-in,0,0,0
+Fremont,Sidney,U.S. House,3,,Write-in,0,0,0
 Fremont,Farragut,Governor,,REP,Kim Reynolds,124,8,116
 Fremont,Green/Riverside/Scott,Governor,,REP,Kim Reynolds,147,16,131
 Fremont,Hamburg/Washington TWP,Governor,,REP,Kim Reynolds,190,18,172
@@ -154,21 +154,21 @@ Fremont,Green/Riverside/Scott,County Attorney,,,Write-in,0,0,0
 Fremont,Hamburg/Washington TWP,County Attorney,,,Write-in,0,0,0
 Fremont,Riverton,County Attorney,,,Write-in,0,0,0
 Fremont,Sidney,County Attorney,,,Write-in,0,0,0
-Fremont,Farragut,United States Representative District 3,,DEM,Cindy Axne,36,6,30
-Fremont,Green/Riverside/Scott,United States Representative District 3,,DEM,Cindy Axne,27,5,22
-Fremont,Hamburg/Washington TWP,United States Representative District 3,,DEM,Cindy Axne,29,6,23
-Fremont,Riverton,United States Representative District 3,,DEM,Cindy Axne,14,2,12
-Fremont,Sidney,United States Representative District 3,,DEM,Cindy Axne,67,23,44
-Fremont,Farragut,United States Representative District 3,,DEM,Pete D'Alessandro,3,0,3
-Fremont,Green/Riverside/Scott,United States Representative District 3,,DEM,Pete D'Alessandro,6,0,6
-Fremont,Hamburg/Washington TWP,United States Representative District 3,,DEM,Pete D'Alessandro,10,3,7
-Fremont,Riverton,United States Representative District 3,,DEM,Pete D'Alessandro,2,0,2
-Fremont,Sidney,United States Representative District 3,,DEM,Pete D'Alessandro,20,2,18
-Fremont,Farragut,United States Representative District 3,,DEM,Eddie J. Mauro,16,3,13
-Fremont,Green/Riverside/Scott,United States Representative District 3,,DEM,Eddie J. Mauro,12,4,8
-Fremont,Hamburg/Washington TWP,United States Representative District 3,,DEM,Eddie J. Mauro,8,1,7
-Fremont,Riverton,United States Representative District 3,,DEM,Eddie J. Mauro,1,0,1
-Fremont,Sidney,United States Representative District 3,,DEM,Eddie J. Mauro,24,9,15
+Fremont,Farragut,U.S. House,3,DEM,Cindy Axne,36,6,30
+Fremont,Green/Riverside/Scott,U.S. House,3,DEM,Cindy Axne,27,5,22
+Fremont,Hamburg/Washington TWP,U.S. House,3,DEM,Cindy Axne,29,6,23
+Fremont,Riverton,U.S. House,3,DEM,Cindy Axne,14,2,12
+Fremont,Sidney,U.S. House,3,DEM,Cindy Axne,67,23,44
+Fremont,Farragut,U.S. House,3,DEM,Pete D'Alessandro,3,0,3
+Fremont,Green/Riverside/Scott,U.S. House,3,DEM,Pete D'Alessandro,6,0,6
+Fremont,Hamburg/Washington TWP,U.S. House,3,DEM,Pete D'Alessandro,10,3,7
+Fremont,Riverton,U.S. House,3,DEM,Pete D'Alessandro,2,0,2
+Fremont,Sidney,U.S. House,3,DEM,Pete D'Alessandro,20,2,18
+Fremont,Farragut,U.S. House,3,DEM,Eddie J. Mauro,16,3,13
+Fremont,Green/Riverside/Scott,U.S. House,3,DEM,Eddie J. Mauro,12,4,8
+Fremont,Hamburg/Washington TWP,U.S. House,3,DEM,Eddie J. Mauro,8,1,7
+Fremont,Riverton,U.S. House,3,DEM,Eddie J. Mauro,1,0,1
+Fremont,Sidney,U.S. House,3,DEM,Eddie J. Mauro,24,9,15
 Fremont,Farragut,Governor,,DEM,Nate Boulton,9,4,5
 Fremont,Green/Riverside/Scott,Governor,,DEM,Nate Boulton,7,3,4
 Fremont,Hamburg/Washington TWP,Governor,,DEM,Nate Boulton,6,3,3
@@ -249,11 +249,11 @@ Fremont,Green/Riverside/Scott,County Board of Supervisors,,DEM,Peter E. Johnson,
 Fremont,Hamburg/Washington TWP,County Board of Supervisors,,DEM,Peter E. Johnson,25,6,19
 Fremont,Riverton,County Board of Supervisors,,DEM,Peter E. Johnson,11,1,10
 Fremont,Sidney,County Board of Supervisors,,DEM,Peter E. Johnson,103,32,71
-Fremont,Farragut,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Fremont,Green/Riverside/Scott,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Fremont,Hamburg/Washington TWP,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Fremont,Riverton,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Fremont,Sidney,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
+Fremont,Farragut,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Fremont,Green/Riverside/Scott,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Fremont,Hamburg/Washington TWP,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Fremont,Riverton,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Fremont,Sidney,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
 Fremont,Farragut,Governor,,LIB,Marco Battaglia,0,0,0
 Fremont,Green/Riverside/Scott,Governor,,LIB,Marco Battaglia,0,0,0
 Fremont,Hamburg/Washington TWP,Governor,,LIB,Marco Battaglia,0,0,0

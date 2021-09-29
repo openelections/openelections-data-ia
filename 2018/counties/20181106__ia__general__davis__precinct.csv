@@ -1,44 +1,44 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Davis,BLOOMFIELD WARD 1,United States Representative District 2,,DEM,Dave Loebsack,204,111,93
-Davis,BLOOMFIELD WARD 2,United States Representative District 2,,DEM,Dave Loebsack,201,106,95
-Davis,BLOOMFIELD WARD 3,United States Representative District 2,,DEM,Dave Loebsack,135,86,49
-Davis,CENTRAL,United States Representative District 2,,DEM,Dave Loebsack,235,119,116
-Davis,NORTHEAST,United States Representative District 2,,DEM,Dave Loebsack,173,113,60
-Davis,NORTHWEST,United States Representative District 2,,DEM,Dave Loebsack,179,116,63
-Davis,SOUTHEAST,United States Representative District 2,,DEM,Dave Loebsack,168,113,55
-Davis,SOUTHWEST,United States Representative District 2,,DEM,Dave Loebsack,94,60,34
-Davis,BLOOMFIELD WARD 1,United States Representative District 2,,REP,Christopher Peters,166,103,63
-Davis,BLOOMFIELD WARD 2,United States Representative District 2,,REP,Christopher Peters,142,83,59
-Davis,BLOOMFIELD WARD 3,United States Representative District 2,,REP,Christopher Peters,158,92,66
-Davis,CENTRAL,United States Representative District 2,,REP,Christopher Peters,254,147,107
-Davis,NORTHEAST,United States Representative District 2,,REP,Christopher Peters,293,197,96
-Davis,NORTHWEST,United States Representative District 2,,REP,Christopher Peters,250,147,103
-Davis,SOUTHEAST,United States Representative District 2,,REP,Christopher Peters,253,202,51
-Davis,SOUTHWEST,United States Representative District 2,,REP,Christopher Peters,130,99,31
-Davis,BLOOMFIELD WARD 1,United States Representative District 2,,LIB,Mark David Strauss,9,6,3
-Davis,BLOOMFIELD WARD 2,United States Representative District 2,,LIB,Mark David Strauss,7,6,1
-Davis,BLOOMFIELD WARD 3,United States Representative District 2,,LIB,Mark David Strauss,9,7,2
-Davis,CENTRAL,United States Representative District 2,,LIB,Mark David Strauss,5,3,2
-Davis,NORTHEAST,United States Representative District 2,,LIB,Mark David Strauss,7,3,4
-Davis,NORTHWEST,United States Representative District 2,,LIB,Mark David Strauss,9,8,1
-Davis,SOUTHEAST,United States Representative District 2,,LIB,Mark David Strauss,9,9,0
-Davis,SOUTHWEST,United States Representative District 2,,LIB,Mark David Strauss,2,2,0
-Davis,BLOOMFIELD WARD 1,United States Representative District 2,,,Daniel Clark,2,1,1
-Davis,BLOOMFIELD WARD 2,United States Representative District 2,,,Daniel Clark,0,0,0
-Davis,BLOOMFIELD WARD 3,United States Representative District 2,,,Daniel Clark,0,0,0
-Davis,CENTRAL,United States Representative District 2,,,Daniel Clark,3,3,0
-Davis,NORTHEAST,United States Representative District 2,,,Daniel Clark,1,0,1
-Davis,NORTHWEST,United States Representative District 2,,,Daniel Clark,3,3,0
-Davis,SOUTHEAST,United States Representative District 2,,,Daniel Clark,0,0,0
-Davis,SOUTHWEST,United States Representative District 2,,,Daniel Clark,0,0,0
-Davis,BLOOMFIELD WARD 1,United States Representative District 2,,,Write-in,0,0,0
-Davis,BLOOMFIELD WARD 2,United States Representative District 2,,,Write-in,0,0,0
-Davis,BLOOMFIELD WARD 3,United States Representative District 2,,,Write-in,0,0,0
-Davis,CENTRAL,United States Representative District 2,,,Write-in,0,0,0
-Davis,NORTHEAST,United States Representative District 2,,,Write-in,2,0,2
-Davis,NORTHWEST,United States Representative District 2,,,Write-in,0,0,0
-Davis,SOUTHEAST,United States Representative District 2,,,Write-in,0,0,0
-Davis,SOUTHWEST,United States Representative District 2,,,Write-in,0,0,0
+Davis,BLOOMFIELD WARD 1,U.S. House,2,DEM,Dave Loebsack,204,111,93
+Davis,BLOOMFIELD WARD 2,U.S. House,2,DEM,Dave Loebsack,201,106,95
+Davis,BLOOMFIELD WARD 3,U.S. House,2,DEM,Dave Loebsack,135,86,49
+Davis,CENTRAL,U.S. House,2,DEM,Dave Loebsack,235,119,116
+Davis,NORTHEAST,U.S. House,2,DEM,Dave Loebsack,173,113,60
+Davis,NORTHWEST,U.S. House,2,DEM,Dave Loebsack,179,116,63
+Davis,SOUTHEAST,U.S. House,2,DEM,Dave Loebsack,168,113,55
+Davis,SOUTHWEST,U.S. House,2,DEM,Dave Loebsack,94,60,34
+Davis,BLOOMFIELD WARD 1,U.S. House,2,REP,Christopher Peters,166,103,63
+Davis,BLOOMFIELD WARD 2,U.S. House,2,REP,Christopher Peters,142,83,59
+Davis,BLOOMFIELD WARD 3,U.S. House,2,REP,Christopher Peters,158,92,66
+Davis,CENTRAL,U.S. House,2,REP,Christopher Peters,254,147,107
+Davis,NORTHEAST,U.S. House,2,REP,Christopher Peters,293,197,96
+Davis,NORTHWEST,U.S. House,2,REP,Christopher Peters,250,147,103
+Davis,SOUTHEAST,U.S. House,2,REP,Christopher Peters,253,202,51
+Davis,SOUTHWEST,U.S. House,2,REP,Christopher Peters,130,99,31
+Davis,BLOOMFIELD WARD 1,U.S. House,2,LIB,Mark David Strauss,9,6,3
+Davis,BLOOMFIELD WARD 2,U.S. House,2,LIB,Mark David Strauss,7,6,1
+Davis,BLOOMFIELD WARD 3,U.S. House,2,LIB,Mark David Strauss,9,7,2
+Davis,CENTRAL,U.S. House,2,LIB,Mark David Strauss,5,3,2
+Davis,NORTHEAST,U.S. House,2,LIB,Mark David Strauss,7,3,4
+Davis,NORTHWEST,U.S. House,2,LIB,Mark David Strauss,9,8,1
+Davis,SOUTHEAST,U.S. House,2,LIB,Mark David Strauss,9,9,0
+Davis,SOUTHWEST,U.S. House,2,LIB,Mark David Strauss,2,2,0
+Davis,BLOOMFIELD WARD 1,U.S. House,2,,Daniel Clark,2,1,1
+Davis,BLOOMFIELD WARD 2,U.S. House,2,,Daniel Clark,0,0,0
+Davis,BLOOMFIELD WARD 3,U.S. House,2,,Daniel Clark,0,0,0
+Davis,CENTRAL,U.S. House,2,,Daniel Clark,3,3,0
+Davis,NORTHEAST,U.S. House,2,,Daniel Clark,1,0,1
+Davis,NORTHWEST,U.S. House,2,,Daniel Clark,3,3,0
+Davis,SOUTHEAST,U.S. House,2,,Daniel Clark,0,0,0
+Davis,SOUTHWEST,U.S. House,2,,Daniel Clark,0,0,0
+Davis,BLOOMFIELD WARD 1,U.S. House,2,,Write-in,0,0,0
+Davis,BLOOMFIELD WARD 2,U.S. House,2,,Write-in,0,0,0
+Davis,BLOOMFIELD WARD 3,U.S. House,2,,Write-in,0,0,0
+Davis,CENTRAL,U.S. House,2,,Write-in,0,0,0
+Davis,NORTHEAST,U.S. House,2,,Write-in,2,0,2
+Davis,NORTHWEST,U.S. House,2,,Write-in,0,0,0
+Davis,SOUTHEAST,U.S. House,2,,Write-in,0,0,0
+Davis,SOUTHWEST,U.S. House,2,,Write-in,0,0,0
 Davis,BLOOMFIELD WARD 1,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,161,91,70
 Davis,BLOOMFIELD WARD 2,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,155,79,76
 Davis,BLOOMFIELD WARD 3,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,107,66,41

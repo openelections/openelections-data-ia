@@ -1,20 +1,20 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Guthrie,Black,United States Representative District 3,,REP,David Young,61,0,61
-Guthrie,Blue,United States Representative District 3,,REP,David Young,211,56,155
-Guthrie,Brown,United States Representative District 3,,REP,David Young,53,10,43
-Guthrie,Gold,United States Representative District 3,,REP,David Young,187,11,176
-Guthrie,Green,United States Representative District 3,,REP,David Young,44,13,31
-Guthrie,Purple,United States Representative District 3,,REP,David Young,56,2,54
-Guthrie,Red,United States Representative District 3,,REP,David Young,21,0,21
-Guthrie,White,United States Representative District 3,,REP,David Young,51,4,47
-Guthrie,Black,United States Representative District 3,,,Write-in,0,0,0
-Guthrie,Blue,United States Representative District 3,,,Write-in,0,0,0
-Guthrie,Brown,United States Representative District 3,,,Write-in,0,0,0
-Guthrie,Gold,United States Representative District 3,,,Write-in,0,0,0
-Guthrie,Green,United States Representative District 3,,,Write-in,0,0,0
-Guthrie,Purple,United States Representative District 3,,,Write-in,0,0,0
-Guthrie,Red,United States Representative District 3,,,Write-in,0,0,0
-Guthrie,White,United States Representative District 3,,,Write-in,0,0,0
+Guthrie,Black,U.S. House,3,REP,David Young,61,0,61
+Guthrie,Blue,U.S. House,3,REP,David Young,211,56,155
+Guthrie,Brown,U.S. House,3,REP,David Young,53,10,43
+Guthrie,Gold,U.S. House,3,REP,David Young,187,11,176
+Guthrie,Green,U.S. House,3,REP,David Young,44,13,31
+Guthrie,Purple,U.S. House,3,REP,David Young,56,2,54
+Guthrie,Red,U.S. House,3,REP,David Young,21,0,21
+Guthrie,White,U.S. House,3,REP,David Young,51,4,47
+Guthrie,Black,U.S. House,3,,Write-in,0,0,0
+Guthrie,Blue,U.S. House,3,,Write-in,0,0,0
+Guthrie,Brown,U.S. House,3,,Write-in,0,0,0
+Guthrie,Gold,U.S. House,3,,Write-in,0,0,0
+Guthrie,Green,U.S. House,3,,Write-in,0,0,0
+Guthrie,Purple,U.S. House,3,,Write-in,0,0,0
+Guthrie,Red,U.S. House,3,,Write-in,0,0,0
+Guthrie,White,U.S. House,3,,Write-in,0,0,0
 Guthrie,Black,Governor,,REP,Kim Reynolds,60,0,60
 Guthrie,Blue,Governor,,REP,Kim Reynolds,214,57,157
 Guthrie,Brown,Governor,,REP,Kim Reynolds,54,9,45
@@ -416,30 +416,30 @@ Guthrie,Green,County Attorney,,,Write-in,0,0,0
 Guthrie,Purple,County Attorney,,,Write-in,0,0,0
 Guthrie,Red,County Attorney,,,Write-in,0,0,0
 Guthrie,White,County Attorney,,,Write-in,0,0,0
-Guthrie,Black,United States Representative District 3,,DEM,Cindy Axne,25,0,25
-Guthrie,Blue,United States Representative District 3,,DEM,Cindy Axne,77,11,66
-Guthrie,Brown,United States Representative District 3,,DEM,Cindy Axne,35,5,30
-Guthrie,Gold,United States Representative District 3,,DEM,Cindy Axne,53,7,46
-Guthrie,Green,United States Representative District 3,,DEM,Cindy Axne,22,4,18
-Guthrie,Purple,United States Representative District 3,,DEM,Cindy Axne,69,11,58
-Guthrie,Red,United States Representative District 3,,DEM,Cindy Axne,14,5,9
-Guthrie,White,United States Representative District 3,,DEM,Cindy Axne,10,1,9
-Guthrie,Black,United States Representative District 3,,DEM,Pete D'Alessandro,4,0,4
-Guthrie,Blue,United States Representative District 3,,DEM,Pete D'Alessandro,11,3,8
-Guthrie,Brown,United States Representative District 3,,DEM,Pete D'Alessandro,6,3,3
-Guthrie,Gold,United States Representative District 3,,DEM,Pete D'Alessandro,24,5,19
-Guthrie,Green,United States Representative District 3,,DEM,Pete D'Alessandro,4,2,2
-Guthrie,Purple,United States Representative District 3,,DEM,Pete D'Alessandro,18,4,14
-Guthrie,Red,United States Representative District 3,,DEM,Pete D'Alessandro,8,1,7
-Guthrie,White,United States Representative District 3,,DEM,Pete D'Alessandro,0,0,0
-Guthrie,Black,United States Representative District 3,,DEM,Eddie J. Mauro,14,2,12
-Guthrie,Blue,United States Representative District 3,,DEM,Eddie J. Mauro,25,3,22
-Guthrie,Brown,United States Representative District 3,,DEM,Eddie J. Mauro,9,3,6
-Guthrie,Gold,United States Representative District 3,,DEM,Eddie J. Mauro,39,6,33
-Guthrie,Green,United States Representative District 3,,DEM,Eddie J. Mauro,11,0,11
-Guthrie,Purple,United States Representative District 3,,DEM,Eddie J. Mauro,40,6,34
-Guthrie,Red,United States Representative District 3,,DEM,Eddie J. Mauro,8,0,8
-Guthrie,White,United States Representative District 3,,DEM,Eddie J. Mauro,3,0,3
+Guthrie,Black,U.S. House,3,DEM,Cindy Axne,25,0,25
+Guthrie,Blue,U.S. House,3,DEM,Cindy Axne,77,11,66
+Guthrie,Brown,U.S. House,3,DEM,Cindy Axne,35,5,30
+Guthrie,Gold,U.S. House,3,DEM,Cindy Axne,53,7,46
+Guthrie,Green,U.S. House,3,DEM,Cindy Axne,22,4,18
+Guthrie,Purple,U.S. House,3,DEM,Cindy Axne,69,11,58
+Guthrie,Red,U.S. House,3,DEM,Cindy Axne,14,5,9
+Guthrie,White,U.S. House,3,DEM,Cindy Axne,10,1,9
+Guthrie,Black,U.S. House,3,DEM,Pete D'Alessandro,4,0,4
+Guthrie,Blue,U.S. House,3,DEM,Pete D'Alessandro,11,3,8
+Guthrie,Brown,U.S. House,3,DEM,Pete D'Alessandro,6,3,3
+Guthrie,Gold,U.S. House,3,DEM,Pete D'Alessandro,24,5,19
+Guthrie,Green,U.S. House,3,DEM,Pete D'Alessandro,4,2,2
+Guthrie,Purple,U.S. House,3,DEM,Pete D'Alessandro,18,4,14
+Guthrie,Red,U.S. House,3,DEM,Pete D'Alessandro,8,1,7
+Guthrie,White,U.S. House,3,DEM,Pete D'Alessandro,0,0,0
+Guthrie,Black,U.S. House,3,DEM,Eddie J. Mauro,14,2,12
+Guthrie,Blue,U.S. House,3,DEM,Eddie J. Mauro,25,3,22
+Guthrie,Brown,U.S. House,3,DEM,Eddie J. Mauro,9,3,6
+Guthrie,Gold,U.S. House,3,DEM,Eddie J. Mauro,39,6,33
+Guthrie,Green,U.S. House,3,DEM,Eddie J. Mauro,11,0,11
+Guthrie,Purple,U.S. House,3,DEM,Eddie J. Mauro,40,6,34
+Guthrie,Red,U.S. House,3,DEM,Eddie J. Mauro,8,0,8
+Guthrie,White,U.S. House,3,DEM,Eddie J. Mauro,3,0,3
 Guthrie,Black,Governor,,DEM,Nate Boulton,0,0,0
 Guthrie,Blue,Governor,,DEM,Nate Boulton,2,1,1
 Guthrie,Brown,Governor,,DEM,Nate Boulton,0,0,0
@@ -707,14 +707,14 @@ Guthrie,Green,County Attorney,,DEM,Eric Reinhart,0,0,0
 Guthrie,Purple,County Attorney,,DEM,Eric Reinhart,2,0,2
 Guthrie,Red,County Attorney,,DEM,Eric Reinhart,0,0,0
 Guthrie,White,County Attorney,,DEM,Eric Reinhart,0,0,0
-Guthrie,Black,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Guthrie,Blue,United States Representative District 3,,LIB,Bryan Jack Holder,4,1,3
-Guthrie,Brown,United States Representative District 3,,LIB,Bryan Jack Holder,3,0,3
-Guthrie,Gold,United States Representative District 3,,LIB,Bryan Jack Holder,3,1,2
-Guthrie,Green,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Guthrie,Purple,United States Representative District 3,,LIB,Bryan Jack Holder,1,0,1
-Guthrie,Red,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Guthrie,White,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
+Guthrie,Black,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Guthrie,Blue,U.S. House,3,LIB,Bryan Jack Holder,4,1,3
+Guthrie,Brown,U.S. House,3,LIB,Bryan Jack Holder,3,0,3
+Guthrie,Gold,U.S. House,3,LIB,Bryan Jack Holder,3,1,2
+Guthrie,Green,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Guthrie,Purple,U.S. House,3,LIB,Bryan Jack Holder,1,0,1
+Guthrie,Red,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Guthrie,White,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
 Guthrie,Black,Governor,,LIB,Marco Battaglia,0,0,0
 Guthrie,Blue,Governor,,LIB,Marco Battaglia,1,0,1
 Guthrie,Brown,Governor,,LIB,Marco Battaglia,0,0,0

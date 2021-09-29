@@ -1,44 +1,44 @@
 county,precinct,office,district,party,candidate,votes,group3,group1,group2,group4
-Lee,FM1,United States Representative District 2,,DEM,Dave Loebsack,53,0,53,0,0
-Lee,FM2,United States Representative District 2,,DEM,Dave Loebsack,69,0,69,0,0
-Lee,FM3,United States Representative District 2,,DEM,Dave Loebsack,78,0,78,0,0
-Lee,FM4A/FM4B,United States Representative District 2,,DEM,Dave Loebsack,77,0,77,0,0
-Lee,FM5/MADISON TWP,United States Representative District 2,,DEM,Dave Loebsack,74,0,74,0,0
-Lee,KE1,United States Representative District 2,,DEM,Dave Loebsack,53,0,53,0,0
-Lee,KE2,United States Representative District 2,,DEM,Dave Loebsack,32,0,32,0,0
-Lee,KE3,United States Representative District 2,,DEM,Dave Loebsack,55,0,55,0,0
-Lee,KE4,United States Representative District 2,,DEM,Dave Loebsack,35,0,35,0,0
-Lee,KE5,United States Representative District 2,,DEM,Dave Loebsack,70,0,70,0,0
-Lee,KE6,United States Representative District 2,,DEM,Dave Loebsack,59,0,59,0,0
-Lee,KE7,United States Representative District 2,,DEM,Dave Loebsack,75,0,75,0,0
-Lee,CHARLESTON/DES MOINES/VANBUREN,United States Representative District 2,,DEM,Dave Loebsack,48,0,48,0,0
-Lee,FRANKLIN/CEDAR/MARION/HARRISON,United States Representative District 2,,DEM,Dave Loebsack,72,0,72,0,0
-Lee,JEFFERSON,United States Representative District 2,,DEM,Dave Loebsack,36,0,36,0,0
-Lee,JACKSON,United States Representative District 2,,DEM,Dave Loebsack,46,0,46,0,0
-Lee,MONTROSE,United States Representative District 2,,DEM,Dave Loebsack,75,0,75,0,0
-Lee,PL RIDGE/WEST POINT/DENMARK,United States Representative District 2,,DEM,Dave Loebsack,59,0,59,0,0
-Lee,WASHINGTON/GREEN BAY,United States Representative District 2,,DEM,Dave Loebsack,58,0,58,0,0
-Lee,ABSENTEE,United States Representative District 2,,DEM,Dave Loebsack,611,0,0,611,0
-Lee,FM1,United States Representative District 2,,,Write-in,0,0,0,0,0
-Lee,FM2,United States Representative District 2,,,Write-in,0,0,0,0,0
-Lee,FM3,United States Representative District 2,,,Write-in,1,0,1,0,0
-Lee,FM4A/FM4B,United States Representative District 2,,,Write-in,0,0,0,0,0
-Lee,FM5/MADISON TWP,United States Representative District 2,,,Write-in,0,0,0,0,0
-Lee,KE1,United States Representative District 2,,,Write-in,0,0,0,0,0
-Lee,KE2,United States Representative District 2,,,Write-in,1,0,1,0,0
-Lee,KE3,United States Representative District 2,,,Write-in,0,0,0,0,0
-Lee,KE4,United States Representative District 2,,,Write-in,0,0,0,0,0
-Lee,KE5,United States Representative District 2,,,Write-in,1,0,1,0,0
-Lee,KE6,United States Representative District 2,,,Write-in,0,0,0,0,0
-Lee,KE7,United States Representative District 2,,,Write-in,1,0,1,0,0
-Lee,CHARLESTON/DES MOINES/VANBUREN,United States Representative District 2,,,Write-in,0,0,0,0,0
-Lee,FRANKLIN/CEDAR/MARION/HARRISON,United States Representative District 2,,,Write-in,0,0,0,0,0
-Lee,JEFFERSON,United States Representative District 2,,,Write-in,0,0,0,0,0
-Lee,JACKSON,United States Representative District 2,,,Write-in,0,0,0,0,0
-Lee,MONTROSE,United States Representative District 2,,,Write-in,0,0,0,0,0
-Lee,PL RIDGE/WEST POINT/DENMARK,United States Representative District 2,,,Write-in,0,0,0,0,0
-Lee,WASHINGTON/GREEN BAY,United States Representative District 2,,,Write-in,0,0,0,0,0
-Lee,ABSENTEE,United States Representative District 2,,,Write-in,0,0,0,0,0
+Lee,FM1,U.S. House,2,DEM,Dave Loebsack,53,0,53,0,0
+Lee,FM2,U.S. House,2,DEM,Dave Loebsack,69,0,69,0,0
+Lee,FM3,U.S. House,2,DEM,Dave Loebsack,78,0,78,0,0
+Lee,FM4A/FM4B,U.S. House,2,DEM,Dave Loebsack,77,0,77,0,0
+Lee,FM5/MADISON TWP,U.S. House,2,DEM,Dave Loebsack,74,0,74,0,0
+Lee,KE1,U.S. House,2,DEM,Dave Loebsack,53,0,53,0,0
+Lee,KE2,U.S. House,2,DEM,Dave Loebsack,32,0,32,0,0
+Lee,KE3,U.S. House,2,DEM,Dave Loebsack,55,0,55,0,0
+Lee,KE4,U.S. House,2,DEM,Dave Loebsack,35,0,35,0,0
+Lee,KE5,U.S. House,2,DEM,Dave Loebsack,70,0,70,0,0
+Lee,KE6,U.S. House,2,DEM,Dave Loebsack,59,0,59,0,0
+Lee,KE7,U.S. House,2,DEM,Dave Loebsack,75,0,75,0,0
+Lee,CHARLESTON/DES MOINES/VANBUREN,U.S. House,2,DEM,Dave Loebsack,48,0,48,0,0
+Lee,FRANKLIN/CEDAR/MARION/HARRISON,U.S. House,2,DEM,Dave Loebsack,72,0,72,0,0
+Lee,JEFFERSON,U.S. House,2,DEM,Dave Loebsack,36,0,36,0,0
+Lee,JACKSON,U.S. House,2,DEM,Dave Loebsack,46,0,46,0,0
+Lee,MONTROSE,U.S. House,2,DEM,Dave Loebsack,75,0,75,0,0
+Lee,PL RIDGE/WEST POINT/DENMARK,U.S. House,2,DEM,Dave Loebsack,59,0,59,0,0
+Lee,WASHINGTON/GREEN BAY,U.S. House,2,DEM,Dave Loebsack,58,0,58,0,0
+Lee,ABSENTEE,U.S. House,2,DEM,Dave Loebsack,611,0,0,611,0
+Lee,FM1,U.S. House,2,,Write-in,0,0,0,0,0
+Lee,FM2,U.S. House,2,,Write-in,0,0,0,0,0
+Lee,FM3,U.S. House,2,,Write-in,1,0,1,0,0
+Lee,FM4A/FM4B,U.S. House,2,,Write-in,0,0,0,0,0
+Lee,FM5/MADISON TWP,U.S. House,2,,Write-in,0,0,0,0,0
+Lee,KE1,U.S. House,2,,Write-in,0,0,0,0,0
+Lee,KE2,U.S. House,2,,Write-in,1,0,1,0,0
+Lee,KE3,U.S. House,2,,Write-in,0,0,0,0,0
+Lee,KE4,U.S. House,2,,Write-in,0,0,0,0,0
+Lee,KE5,U.S. House,2,,Write-in,1,0,1,0,0
+Lee,KE6,U.S. House,2,,Write-in,0,0,0,0,0
+Lee,KE7,U.S. House,2,,Write-in,1,0,1,0,0
+Lee,CHARLESTON/DES MOINES/VANBUREN,U.S. House,2,,Write-in,0,0,0,0,0
+Lee,FRANKLIN/CEDAR/MARION/HARRISON,U.S. House,2,,Write-in,0,0,0,0,0
+Lee,JEFFERSON,U.S. House,2,,Write-in,0,0,0,0,0
+Lee,JACKSON,U.S. House,2,,Write-in,0,0,0,0,0
+Lee,MONTROSE,U.S. House,2,,Write-in,0,0,0,0,0
+Lee,PL RIDGE/WEST POINT/DENMARK,U.S. House,2,,Write-in,0,0,0,0,0
+Lee,WASHINGTON/GREEN BAY,U.S. House,2,,Write-in,0,0,0,0,0
+Lee,ABSENTEE,U.S. House,2,,Write-in,0,0,0,0,0
 Lee,FM1,Governor,,DEM,Nate Boulton,8,0,8,0,0
 Lee,FM2,Governor,,DEM,Nate Boulton,7,0,7,0,0
 Lee,FM3,Governor,,DEM,Nate Boulton,7,0,7,0,0
@@ -625,26 +625,26 @@ Lee,MONTROSE,County Attorney,,,Write-in,0,0,0,0,0
 Lee,PL RIDGE/WEST POINT/DENMARK,County Attorney,,,Write-in,0,0,0,0,0
 Lee,WASHINGTON/GREEN BAY,County Attorney,,,Write-in,0,0,0,0,0
 Lee,ABSENTEE,County Attorney,,,Write-in,0,0,0,0,0
-Lee,FM1,United States Representative District 2,,REP,Christopher Peters,5,0,5,0,0
-Lee,FM2,United States Representative District 2,,REP,Christopher Peters,17,0,17,0,0
-Lee,FM3,United States Representative District 2,,REP,Christopher Peters,21,0,21,0,0
-Lee,FM4A/FM4B,United States Representative District 2,,REP,Christopher Peters,16,0,16,0,0
-Lee,FM5/MADISON TWP,United States Representative District 2,,REP,Christopher Peters,23,0,23,0,0
-Lee,KE1,United States Representative District 2,,REP,Christopher Peters,6,0,6,0,0
-Lee,KE2,United States Representative District 2,,REP,Christopher Peters,10,0,10,0,0
-Lee,KE3,United States Representative District 2,,REP,Christopher Peters,8,0,8,0,0
-Lee,KE4,United States Representative District 2,,REP,Christopher Peters,8,0,8,0,0
-Lee,KE5,United States Representative District 2,,REP,Christopher Peters,23,0,23,0,0
-Lee,KE6,United States Representative District 2,,REP,Christopher Peters,7,0,7,0,0
-Lee,KE7,United States Representative District 2,,REP,Christopher Peters,22,0,22,0,0
-Lee,CHARLESTON/DES MOINES/VANBUREN,United States Representative District 2,,REP,Christopher Peters,12,0,12,0,0
-Lee,FRANKLIN/CEDAR/MARION/HARRISON,United States Representative District 2,,REP,Christopher Peters,35,0,35,0,0
-Lee,JEFFERSON,United States Representative District 2,,REP,Christopher Peters,9,0,9,0,0
-Lee,JACKSON,United States Representative District 2,,REP,Christopher Peters,15,0,15,0,0
-Lee,MONTROSE,United States Representative District 2,,REP,Christopher Peters,19,0,19,0,0
-Lee,PL RIDGE/WEST POINT/DENMARK,United States Representative District 2,,REP,Christopher Peters,36,0,36,0,0
-Lee,WASHINGTON/GREEN BAY,United States Representative District 2,,REP,Christopher Peters,25,0,25,0,0
-Lee,ABSENTEE,United States Representative District 2,,REP,Christopher Peters,63,0,0,63,0
+Lee,FM1,U.S. House,2,REP,Christopher Peters,5,0,5,0,0
+Lee,FM2,U.S. House,2,REP,Christopher Peters,17,0,17,0,0
+Lee,FM3,U.S. House,2,REP,Christopher Peters,21,0,21,0,0
+Lee,FM4A/FM4B,U.S. House,2,REP,Christopher Peters,16,0,16,0,0
+Lee,FM5/MADISON TWP,U.S. House,2,REP,Christopher Peters,23,0,23,0,0
+Lee,KE1,U.S. House,2,REP,Christopher Peters,6,0,6,0,0
+Lee,KE2,U.S. House,2,REP,Christopher Peters,10,0,10,0,0
+Lee,KE3,U.S. House,2,REP,Christopher Peters,8,0,8,0,0
+Lee,KE4,U.S. House,2,REP,Christopher Peters,8,0,8,0,0
+Lee,KE5,U.S. House,2,REP,Christopher Peters,23,0,23,0,0
+Lee,KE6,U.S. House,2,REP,Christopher Peters,7,0,7,0,0
+Lee,KE7,U.S. House,2,REP,Christopher Peters,22,0,22,0,0
+Lee,CHARLESTON/DES MOINES/VANBUREN,U.S. House,2,REP,Christopher Peters,12,0,12,0,0
+Lee,FRANKLIN/CEDAR/MARION/HARRISON,U.S. House,2,REP,Christopher Peters,35,0,35,0,0
+Lee,JEFFERSON,U.S. House,2,REP,Christopher Peters,9,0,9,0,0
+Lee,JACKSON,U.S. House,2,REP,Christopher Peters,15,0,15,0,0
+Lee,MONTROSE,U.S. House,2,REP,Christopher Peters,19,0,19,0,0
+Lee,PL RIDGE/WEST POINT/DENMARK,U.S. House,2,REP,Christopher Peters,36,0,36,0,0
+Lee,WASHINGTON/GREEN BAY,U.S. House,2,REP,Christopher Peters,25,0,25,0,0
+Lee,ABSENTEE,U.S. House,2,REP,Christopher Peters,63,0,0,63,0
 Lee,FM1,Governor,,REP,Kim Reynolds,12,0,12,0,0
 Lee,FM2,Governor,,REP,Kim Reynolds,25,0,25,0,0
 Lee,FM3,Governor,,REP,Kim Reynolds,25,0,25,0,0

@@ -1,18 +1,18 @@
 county,precinct,office,district,party,candidate,votes,absentee,polling
-Taylor,Blockton Community Center,United States Representative District 3,,REP,David Young,29,2,27
-Taylor,Clearfield City Hall,United States Representative District 3,,REP,David Young,14,0,14
-Taylor,Gravity Fire Station,United States Representative District 3,,REP,David Young,30,1,29
-Taylor,New Market Community Center,United States Representative District 3,,REP,David Young,40,1,39
-Taylor,Lenox Community Center,United States Representative District 3,,REP,David Young,84,5,79
-Taylor,City - Bedford American Legion,United States Representative District 3,,REP,David Young,42,4,38
-Taylor,Townships - Bedford American Legion,United States Representative District 3,,REP,David Young,15,0,15
-Taylor,Blockton Community Center,United States Representative District 3,,,Write-in,0,0,0
-Taylor,Clearfield City Hall,United States Representative District 3,,,Write-in,0,0,0
-Taylor,Gravity Fire Station,United States Representative District 3,,,Write-in,0,0,0
-Taylor,New Market Community Center,United States Representative District 3,,,Write-in,0,0,0
-Taylor,Lenox Community Center,United States Representative District 3,,,Write-in,0,0,0
-Taylor,City - Bedford American Legion,United States Representative District 3,,,Write-in,0,0,0
-Taylor,Townships - Bedford American Legion,United States Representative District 3,,,Write-in,0,0,0
+Taylor,Blockton Community Center,U.S. House,3,REP,David Young,29,2,27
+Taylor,Clearfield City Hall,U.S. House,3,REP,David Young,14,0,14
+Taylor,Gravity Fire Station,U.S. House,3,REP,David Young,30,1,29
+Taylor,New Market Community Center,U.S. House,3,REP,David Young,40,1,39
+Taylor,Lenox Community Center,U.S. House,3,REP,David Young,84,5,79
+Taylor,City - Bedford American Legion,U.S. House,3,REP,David Young,42,4,38
+Taylor,Townships - Bedford American Legion,U.S. House,3,REP,David Young,15,0,15
+Taylor,Blockton Community Center,U.S. House,3,,Write-in,0,0,0
+Taylor,Clearfield City Hall,U.S. House,3,,Write-in,0,0,0
+Taylor,Gravity Fire Station,U.S. House,3,,Write-in,0,0,0
+Taylor,New Market Community Center,U.S. House,3,,Write-in,0,0,0
+Taylor,Lenox Community Center,U.S. House,3,,Write-in,0,0,0
+Taylor,City - Bedford American Legion,U.S. House,3,,Write-in,0,0,0
+Taylor,Townships - Bedford American Legion,U.S. House,3,,Write-in,0,0,0
 Taylor,Blockton Community Center,Governor,,REP,Kim Reynolds,31,2,29
 Taylor,Clearfield City Hall,Governor,,REP,Kim Reynolds,14,0,14
 Taylor,Gravity Fire Station,Governor,,REP,Kim Reynolds,30,2,28
@@ -169,27 +169,27 @@ Taylor,New Market Community Center,County Attorney,,,Write-in,0,0,0
 Taylor,Lenox Community Center,County Attorney,,,Write-in,0,0,0
 Taylor,City - Bedford American Legion,County Attorney,,,Write-in,0,0,0
 Taylor,Townships - Bedford American Legion,County Attorney,,,Write-in,0,0,0
-Taylor,Blockton Community Center,United States Representative District 3,,DEM,Cindy Axne,5,0,5
-Taylor,Clearfield City Hall,United States Representative District 3,,DEM,Cindy Axne,9,4,5
-Taylor,Gravity Fire Station,United States Representative District 3,,DEM,Cindy Axne,7,0,7
-Taylor,New Market Community Center,United States Representative District 3,,DEM,Cindy Axne,13,2,11
-Taylor,Lenox Community Center,United States Representative District 3,,DEM,Cindy Axne,43,3,40
-Taylor,City - Bedford American Legion,United States Representative District 3,,DEM,Cindy Axne,15,0,15
-Taylor,Townships - Bedford American Legion,United States Representative District 3,,DEM,Cindy Axne,10,1,9
-Taylor,Blockton Community Center,United States Representative District 3,,DEM,Pete D'Alessandro,1,0,1
-Taylor,Clearfield City Hall,United States Representative District 3,,DEM,Pete D'Alessandro,3,1,2
-Taylor,Gravity Fire Station,United States Representative District 3,,DEM,Pete D'Alessandro,0,0,0
-Taylor,New Market Community Center,United States Representative District 3,,DEM,Pete D'Alessandro,2,1,1
-Taylor,Lenox Community Center,United States Representative District 3,,DEM,Pete D'Alessandro,9,1,8
-Taylor,City - Bedford American Legion,United States Representative District 3,,DEM,Pete D'Alessandro,5,0,5
-Taylor,Townships - Bedford American Legion,United States Representative District 3,,DEM,Pete D'Alessandro,4,4,0
-Taylor,Blockton Community Center,United States Representative District 3,,DEM,Eddie J. Mauro,1,0,1
-Taylor,Clearfield City Hall,United States Representative District 3,,DEM,Eddie J. Mauro,4,0,4
-Taylor,Gravity Fire Station,United States Representative District 3,,DEM,Eddie J. Mauro,6,0,6
-Taylor,New Market Community Center,United States Representative District 3,,DEM,Eddie J. Mauro,7,1,6
-Taylor,Lenox Community Center,United States Representative District 3,,DEM,Eddie J. Mauro,12,1,11
-Taylor,City - Bedford American Legion,United States Representative District 3,,DEM,Eddie J. Mauro,8,1,7
-Taylor,Townships - Bedford American Legion,United States Representative District 3,,DEM,Eddie J. Mauro,7,2,5
+Taylor,Blockton Community Center,U.S. House,3,DEM,Cindy Axne,5,0,5
+Taylor,Clearfield City Hall,U.S. House,3,DEM,Cindy Axne,9,4,5
+Taylor,Gravity Fire Station,U.S. House,3,DEM,Cindy Axne,7,0,7
+Taylor,New Market Community Center,U.S. House,3,DEM,Cindy Axne,13,2,11
+Taylor,Lenox Community Center,U.S. House,3,DEM,Cindy Axne,43,3,40
+Taylor,City - Bedford American Legion,U.S. House,3,DEM,Cindy Axne,15,0,15
+Taylor,Townships - Bedford American Legion,U.S. House,3,DEM,Cindy Axne,10,1,9
+Taylor,Blockton Community Center,U.S. House,3,DEM,Pete D'Alessandro,1,0,1
+Taylor,Clearfield City Hall,U.S. House,3,DEM,Pete D'Alessandro,3,1,2
+Taylor,Gravity Fire Station,U.S. House,3,DEM,Pete D'Alessandro,0,0,0
+Taylor,New Market Community Center,U.S. House,3,DEM,Pete D'Alessandro,2,1,1
+Taylor,Lenox Community Center,U.S. House,3,DEM,Pete D'Alessandro,9,1,8
+Taylor,City - Bedford American Legion,U.S. House,3,DEM,Pete D'Alessandro,5,0,5
+Taylor,Townships - Bedford American Legion,U.S. House,3,DEM,Pete D'Alessandro,4,4,0
+Taylor,Blockton Community Center,U.S. House,3,DEM,Eddie J. Mauro,1,0,1
+Taylor,Clearfield City Hall,U.S. House,3,DEM,Eddie J. Mauro,4,0,4
+Taylor,Gravity Fire Station,U.S. House,3,DEM,Eddie J. Mauro,6,0,6
+Taylor,New Market Community Center,U.S. House,3,DEM,Eddie J. Mauro,7,1,6
+Taylor,Lenox Community Center,U.S. House,3,DEM,Eddie J. Mauro,12,1,11
+Taylor,City - Bedford American Legion,U.S. House,3,DEM,Eddie J. Mauro,8,1,7
+Taylor,Townships - Bedford American Legion,U.S. House,3,DEM,Eddie J. Mauro,7,2,5
 Taylor,Blockton Community Center,Governor,,DEM,Nate Boulton,0,0,0
 Taylor,Clearfield City Hall,Governor,,DEM,Nate Boulton,2,1,1
 Taylor,Gravity Fire Station,Governor,,DEM,Nate Boulton,1,0,1
@@ -281,13 +281,13 @@ Taylor,New Market Community Center,State Representative District 24,,DEM,James U
 Taylor,Lenox Community Center,State Representative District 24,,DEM,James Uhlenkamp,52,3,49
 Taylor,City - Bedford American Legion,State Representative District 24,,DEM,James Uhlenkamp,23,0,23
 Taylor,Townships - Bedford American Legion,State Representative District 24,,DEM,James Uhlenkamp,16,4,12
-Taylor,Blockton Community Center,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Taylor,Clearfield City Hall,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Taylor,Gravity Fire Station,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Taylor,New Market Community Center,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Taylor,Lenox Community Center,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Taylor,City - Bedford American Legion,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
-Taylor,Townships - Bedford American Legion,United States Representative District 3,,LIB,Bryan Jack Holder,0,0,0
+Taylor,Blockton Community Center,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Taylor,Clearfield City Hall,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Taylor,Gravity Fire Station,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Taylor,New Market Community Center,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Taylor,Lenox Community Center,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Taylor,City - Bedford American Legion,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
+Taylor,Townships - Bedford American Legion,U.S. House,3,LIB,Bryan Jack Holder,0,0,0
 Taylor,Blockton Community Center,Governor,,LIB,Marco Battaglia,0,0,0
 Taylor,Clearfield City Hall,Governor,,LIB,Marco Battaglia,0,0,0
 Taylor,Gravity Fire Station,Governor,,LIB,Marco Battaglia,0,0,0

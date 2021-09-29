@@ -1,39 +1,39 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Decatur,BL/FA/Lamoni,United States Representative District 2,,REP,Christopher Peters,410,310,100
-Decatur,BU/HA/MO/NB/Davis City/Pleasanton,United States Representative District 2,,REP,Christopher Peters,209,134,75
-Decatur,CE/ED/Leon,United States Representative District 2,,REP,Christopher Peters,471,313,158
-Decatur,DE/Decatur City,United States Representative District 2,,REP,Christopher Peters,108,90,18
-Decatur,GG/HP/WO/Garden Grove/LeRoy,United States Representative District 2,,REP,Christopher Peters,174,109,65
-Decatur,GR/RL/Grand River,United States Representative District 2,,REP,Christopher Peters,113,93,20
-Decatur,FR/LC/Van Wert/Weldon,United States Representative District 2,,REP,Christopher Peters,166,136,30
-Decatur,BL/FA/Lamoni,United States Representative District 2,,DEM,Dave Loebsack,427,298,129
-Decatur,BU/HA/MO/NB/Davis City/Pleasanton,United States Representative District 2,,DEM,Dave Loebsack,82,55,27
-Decatur,CE/ED/Leon,United States Representative District 2,,DEM,Dave Loebsack,306,168,138
-Decatur,DE/Decatur City,United States Representative District 2,,DEM,Dave Loebsack,42,34,8
-Decatur,GG/HP/WO/Garden Grove/LeRoy,United States Representative District 2,,DEM,Dave Loebsack,80,57,23
-Decatur,GR/RL/Grand River,United States Representative District 2,,DEM,Dave Loebsack,69,53,16
-Decatur,FR/LC/Van Wert/Weldon,United States Representative District 2,,DEM,Dave Loebsack,116,87,29
-Decatur,BL/FA/Lamoni,United States Representative District 2,,LIB,Mark David Strauss,19,17,2
-Decatur,BU/HA/MO/NB/Davis City/Pleasanton,United States Representative District 2,,LIB,Mark David Strauss,6,5,1
-Decatur,CE/ED/Leon,United States Representative District 2,,LIB,Mark David Strauss,30,21,9
-Decatur,DE/Decatur City,United States Representative District 2,,LIB,Mark David Strauss,5,3,2
-Decatur,GG/HP/WO/Garden Grove/LeRoy,United States Representative District 2,,LIB,Mark David Strauss,10,5,5
-Decatur,GR/RL/Grand River,United States Representative District 2,,LIB,Mark David Strauss,6,5,1
-Decatur,FR/LC/Van Wert/Weldon,United States Representative District 2,,LIB,Mark David Strauss,7,7,0
-Decatur,BL/FA/Lamoni,United States Representative District 2,,,Daniel Clark,2,2,0
-Decatur,BU/HA/MO/NB/Davis City/Pleasanton,United States Representative District 2,,,Daniel Clark,2,1,1
-Decatur,CE/ED/Leon,United States Representative District 2,,,Daniel Clark,15,11,4
-Decatur,DE/Decatur City,United States Representative District 2,,,Daniel Clark,2,2,0
-Decatur,GG/HP/WO/Garden Grove/LeRoy,United States Representative District 2,,,Daniel Clark,5,4,1
-Decatur,GR/RL/Grand River,United States Representative District 2,,,Daniel Clark,1,1,0
-Decatur,FR/LC/Van Wert/Weldon,United States Representative District 2,,,Daniel Clark,2,1,1
-Decatur,BL/FA/Lamoni,United States Representative District 2,,,Write-in,1,1,0
-Decatur,BU/HA/MO/NB/Davis City/Pleasanton,United States Representative District 2,,,Write-in,0,0,0
-Decatur,CE/ED/Leon,United States Representative District 2,,,Write-in,0,0,0
-Decatur,DE/Decatur City,United States Representative District 2,,,Write-in,0,0,0
-Decatur,GG/HP/WO/Garden Grove/LeRoy,United States Representative District 2,,,Write-in,0,0,0
-Decatur,GR/RL/Grand River,United States Representative District 2,,,Write-in,0,0,0
-Decatur,FR/LC/Van Wert/Weldon,United States Representative District 2,,,Write-in,0,0,0
+Decatur,BL/FA/Lamoni,U.S. House,2,REP,Christopher Peters,410,310,100
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,U.S. House,2,REP,Christopher Peters,209,134,75
+Decatur,CE/ED/Leon,U.S. House,2,REP,Christopher Peters,471,313,158
+Decatur,DE/Decatur City,U.S. House,2,REP,Christopher Peters,108,90,18
+Decatur,GG/HP/WO/Garden Grove/LeRoy,U.S. House,2,REP,Christopher Peters,174,109,65
+Decatur,GR/RL/Grand River,U.S. House,2,REP,Christopher Peters,113,93,20
+Decatur,FR/LC/Van Wert/Weldon,U.S. House,2,REP,Christopher Peters,166,136,30
+Decatur,BL/FA/Lamoni,U.S. House,2,DEM,Dave Loebsack,427,298,129
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,U.S. House,2,DEM,Dave Loebsack,82,55,27
+Decatur,CE/ED/Leon,U.S. House,2,DEM,Dave Loebsack,306,168,138
+Decatur,DE/Decatur City,U.S. House,2,DEM,Dave Loebsack,42,34,8
+Decatur,GG/HP/WO/Garden Grove/LeRoy,U.S. House,2,DEM,Dave Loebsack,80,57,23
+Decatur,GR/RL/Grand River,U.S. House,2,DEM,Dave Loebsack,69,53,16
+Decatur,FR/LC/Van Wert/Weldon,U.S. House,2,DEM,Dave Loebsack,116,87,29
+Decatur,BL/FA/Lamoni,U.S. House,2,LIB,Mark David Strauss,19,17,2
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,U.S. House,2,LIB,Mark David Strauss,6,5,1
+Decatur,CE/ED/Leon,U.S. House,2,LIB,Mark David Strauss,30,21,9
+Decatur,DE/Decatur City,U.S. House,2,LIB,Mark David Strauss,5,3,2
+Decatur,GG/HP/WO/Garden Grove/LeRoy,U.S. House,2,LIB,Mark David Strauss,10,5,5
+Decatur,GR/RL/Grand River,U.S. House,2,LIB,Mark David Strauss,6,5,1
+Decatur,FR/LC/Van Wert/Weldon,U.S. House,2,LIB,Mark David Strauss,7,7,0
+Decatur,BL/FA/Lamoni,U.S. House,2,,Daniel Clark,2,2,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,U.S. House,2,,Daniel Clark,2,1,1
+Decatur,CE/ED/Leon,U.S. House,2,,Daniel Clark,15,11,4
+Decatur,DE/Decatur City,U.S. House,2,,Daniel Clark,2,2,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,U.S. House,2,,Daniel Clark,5,4,1
+Decatur,GR/RL/Grand River,U.S. House,2,,Daniel Clark,1,1,0
+Decatur,FR/LC/Van Wert/Weldon,U.S. House,2,,Daniel Clark,2,1,1
+Decatur,BL/FA/Lamoni,U.S. House,2,,Write-in,1,1,0
+Decatur,BU/HA/MO/NB/Davis City/Pleasanton,U.S. House,2,,Write-in,0,0,0
+Decatur,CE/ED/Leon,U.S. House,2,,Write-in,0,0,0
+Decatur,DE/Decatur City,U.S. House,2,,Write-in,0,0,0
+Decatur,GG/HP/WO/Garden Grove/LeRoy,U.S. House,2,,Write-in,0,0,0
+Decatur,GR/RL/Grand River,U.S. House,2,,Write-in,0,0,0
+Decatur,FR/LC/Van Wert/Weldon,U.S. House,2,,Write-in,0,0,0
 Decatur,BL/FA/Lamoni,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,457,346,111
 Decatur,BU/HA/MO/NB/Davis City/Pleasanton,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,242,159,83
 Decatur,CE/ED/Leon,Governor/Lieutenant Governor,,REP,Kim Reynolds/Adam Gregg,542,362,180

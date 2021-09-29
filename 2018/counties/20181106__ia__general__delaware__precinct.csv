@@ -1,52 +1,52 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Delaware,Adams/Hazel Green,United States Representative District 1,,REP,Rod Blum,278,223,55
-Delaware,Colony,United States Representative District 1,,REP,Rod Blum,185,128,57
-Delaware,Delaware,United States Representative District 1,,REP,Rod Blum,347,203,144
-Delaware,Delhi/Delaware Corp,United States Representative District 1,,REP,Rod Blum,328,216,112
-Delaware,Honey Creek/Elk,United States Representative District 1,,REP,Rod Blum,396,277,119
-Delaware,Manchester Ward 1,United States Representative District 1,,REP,Rod Blum,300,190,110
-Delaware,Manchester Ward 2,United States Representative District 1,,REP,Rod Blum,407,231,176
-Delaware,Manchester Ward 3,United States Representative District 1,,REP,Rod Blum,343,229,114
-Delaware,Milo/Prairie,United States Representative District 1,,REP,Rod Blum,552,350,202
-Delaware,Oneida/N Fork/Bremen,United States Representative District 1,,REP,Rod Blum,778,503,275
-Delaware,Richland/Coffins Grove,United States Representative District 1,,REP,Rod Blum,259,176,83
-Delaware,South Fork/Union,United States Representative District 1,,REP,Rod Blum,302,236,66
-Delaware,Adams/Hazel Green,United States Representative District 1,,DEM,Abby Finkenauer,174,118,56
-Delaware,Colony,United States Representative District 1,,DEM,Abby Finkenauer,116,87,29
-Delaware,Delaware,United States Representative District 1,,DEM,Abby Finkenauer,160,92,68
-Delaware,Delhi/Delaware Corp,United States Representative District 1,,DEM,Abby Finkenauer,165,95,70
-Delaware,Honey Creek/Elk,United States Representative District 1,,DEM,Abby Finkenauer,201,125,76
-Delaware,Manchester Ward 1,United States Representative District 1,,DEM,Abby Finkenauer,260,148,112
-Delaware,Manchester Ward 2,United States Representative District 1,,DEM,Abby Finkenauer,307,147,160
-Delaware,Manchester Ward 3,United States Representative District 1,,DEM,Abby Finkenauer,368,214,154
-Delaware,Milo/Prairie,United States Representative District 1,,DEM,Abby Finkenauer,283,176,107
-Delaware,Oneida/N Fork/Bremen,United States Representative District 1,,DEM,Abby Finkenauer,322,180,142
-Delaware,Richland/Coffins Grove,United States Representative District 1,,DEM,Abby Finkenauer,215,144,71
-Delaware,South Fork/Union,United States Representative District 1,,DEM,Abby Finkenauer,239,164,75
-Delaware,Adams/Hazel Green,United States Representative District 1,,LIB,Troy Hageman,13,11,2
-Delaware,Colony,United States Representative District 1,,LIB,Troy Hageman,20,17,3
-Delaware,Delaware,United States Representative District 1,,LIB,Troy Hageman,9,5,4
-Delaware,Delhi/Delaware Corp,United States Representative District 1,,LIB,Troy Hageman,20,14,6
-Delaware,Honey Creek/Elk,United States Representative District 1,,LIB,Troy Hageman,12,7,5
-Delaware,Manchester Ward 1,United States Representative District 1,,LIB,Troy Hageman,18,11,7
-Delaware,Manchester Ward 2,United States Representative District 1,,LIB,Troy Hageman,17,9,8
-Delaware,Manchester Ward 3,United States Representative District 1,,LIB,Troy Hageman,22,19,3
-Delaware,Milo/Prairie,United States Representative District 1,,LIB,Troy Hageman,15,12,3
-Delaware,Oneida/N Fork/Bremen,United States Representative District 1,,LIB,Troy Hageman,35,19,16
-Delaware,Richland/Coffins Grove,United States Representative District 1,,LIB,Troy Hageman,15,11,4
-Delaware,South Fork/Union,United States Representative District 1,,LIB,Troy Hageman,13,9,4
-Delaware,Adams/Hazel Green,United States Representative District 1,,,Write-in,0,0,0
-Delaware,Colony,United States Representative District 1,,,Write-in,0,0,0
-Delaware,Delaware,United States Representative District 1,,,Write-in,0,0,0
-Delaware,Delhi/Delaware Corp,United States Representative District 1,,,Write-in,1,1,0
-Delaware,Honey Creek/Elk,United States Representative District 1,,,Write-in,0,0,0
-Delaware,Manchester Ward 1,United States Representative District 1,,,Write-in,1,1,0
-Delaware,Manchester Ward 2,United States Representative District 1,,,Write-in,0,0,0
-Delaware,Manchester Ward 3,United States Representative District 1,,,Write-in,0,0,0
-Delaware,Milo/Prairie,United States Representative District 1,,,Write-in,0,0,0
-Delaware,Oneida/N Fork/Bremen,United States Representative District 1,,,Write-in,0,0,0
-Delaware,Richland/Coffins Grove,United States Representative District 1,,,Write-in,0,0,0
-Delaware,South Fork/Union,United States Representative District 1,,,Write-in,1,1,0
+Delaware,Adams/Hazel Green,U.S. House,1,REP,Rod Blum,278,223,55
+Delaware,Colony,U.S. House,1,REP,Rod Blum,185,128,57
+Delaware,Delaware,U.S. House,1,REP,Rod Blum,347,203,144
+Delaware,Delhi/Delaware Corp,U.S. House,1,REP,Rod Blum,328,216,112
+Delaware,Honey Creek/Elk,U.S. House,1,REP,Rod Blum,396,277,119
+Delaware,Manchester Ward 1,U.S. House,1,REP,Rod Blum,300,190,110
+Delaware,Manchester Ward 2,U.S. House,1,REP,Rod Blum,407,231,176
+Delaware,Manchester Ward 3,U.S. House,1,REP,Rod Blum,343,229,114
+Delaware,Milo/Prairie,U.S. House,1,REP,Rod Blum,552,350,202
+Delaware,Oneida/N Fork/Bremen,U.S. House,1,REP,Rod Blum,778,503,275
+Delaware,Richland/Coffins Grove,U.S. House,1,REP,Rod Blum,259,176,83
+Delaware,South Fork/Union,U.S. House,1,REP,Rod Blum,302,236,66
+Delaware,Adams/Hazel Green,U.S. House,1,DEM,Abby Finkenauer,174,118,56
+Delaware,Colony,U.S. House,1,DEM,Abby Finkenauer,116,87,29
+Delaware,Delaware,U.S. House,1,DEM,Abby Finkenauer,160,92,68
+Delaware,Delhi/Delaware Corp,U.S. House,1,DEM,Abby Finkenauer,165,95,70
+Delaware,Honey Creek/Elk,U.S. House,1,DEM,Abby Finkenauer,201,125,76
+Delaware,Manchester Ward 1,U.S. House,1,DEM,Abby Finkenauer,260,148,112
+Delaware,Manchester Ward 2,U.S. House,1,DEM,Abby Finkenauer,307,147,160
+Delaware,Manchester Ward 3,U.S. House,1,DEM,Abby Finkenauer,368,214,154
+Delaware,Milo/Prairie,U.S. House,1,DEM,Abby Finkenauer,283,176,107
+Delaware,Oneida/N Fork/Bremen,U.S. House,1,DEM,Abby Finkenauer,322,180,142
+Delaware,Richland/Coffins Grove,U.S. House,1,DEM,Abby Finkenauer,215,144,71
+Delaware,South Fork/Union,U.S. House,1,DEM,Abby Finkenauer,239,164,75
+Delaware,Adams/Hazel Green,U.S. House,1,LIB,Troy Hageman,13,11,2
+Delaware,Colony,U.S. House,1,LIB,Troy Hageman,20,17,3
+Delaware,Delaware,U.S. House,1,LIB,Troy Hageman,9,5,4
+Delaware,Delhi/Delaware Corp,U.S. House,1,LIB,Troy Hageman,20,14,6
+Delaware,Honey Creek/Elk,U.S. House,1,LIB,Troy Hageman,12,7,5
+Delaware,Manchester Ward 1,U.S. House,1,LIB,Troy Hageman,18,11,7
+Delaware,Manchester Ward 2,U.S. House,1,LIB,Troy Hageman,17,9,8
+Delaware,Manchester Ward 3,U.S. House,1,LIB,Troy Hageman,22,19,3
+Delaware,Milo/Prairie,U.S. House,1,LIB,Troy Hageman,15,12,3
+Delaware,Oneida/N Fork/Bremen,U.S. House,1,LIB,Troy Hageman,35,19,16
+Delaware,Richland/Coffins Grove,U.S. House,1,LIB,Troy Hageman,15,11,4
+Delaware,South Fork/Union,U.S. House,1,LIB,Troy Hageman,13,9,4
+Delaware,Adams/Hazel Green,U.S. House,1,,Write-in,0,0,0
+Delaware,Colony,U.S. House,1,,Write-in,0,0,0
+Delaware,Delaware,U.S. House,1,,Write-in,0,0,0
+Delaware,Delhi/Delaware Corp,U.S. House,1,,Write-in,1,1,0
+Delaware,Honey Creek/Elk,U.S. House,1,,Write-in,0,0,0
+Delaware,Manchester Ward 1,U.S. House,1,,Write-in,1,1,0
+Delaware,Manchester Ward 2,U.S. House,1,,Write-in,0,0,0
+Delaware,Manchester Ward 3,U.S. House,1,,Write-in,0,0,0
+Delaware,Milo/Prairie,U.S. House,1,,Write-in,0,0,0
+Delaware,Oneida/N Fork/Bremen,U.S. House,1,,Write-in,0,0,0
+Delaware,Richland/Coffins Grove,U.S. House,1,,Write-in,0,0,0
+Delaware,South Fork/Union,U.S. House,1,,Write-in,1,1,0
 Delaware,Adams/Hazel Green,Governor/Lieutenant Governor,,REP,Kim Reynolds /Adam Gregg,313,248,65
 Delaware,Colony,Governor/Lieutenant Governor,,REP,Kim Reynolds /Adam Gregg,213,145,68
 Delaware,Delaware,Governor/Lieutenant Governor,,REP,Kim Reynolds /Adam Gregg,361,215,146

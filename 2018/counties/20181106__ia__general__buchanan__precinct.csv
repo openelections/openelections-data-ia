@@ -1,64 +1,64 @@
 county,precinct,office,district,party,candidate,votes,election_day,absentee
-Buchanan,AURORA,United States Representative District 1,,DEM,Abby Finkenauer,204,118,86
-Buchanan,BRANDON,United States Representative District 1,,DEM,Abby Finkenauer,152,103,49
-Buchanan,FAIRBANK,United States Representative District 1,,DEM,Abby Finkenauer,204,131,73
-Buchanan,HAZLETON,United States Representative District 1,,DEM,Abby Finkenauer,181,125,56
-Buchanan,INDEPENDENCE 1ST WARD,United States Representative District 1,,DEM,Abby Finkenauer,495,225,270
-Buchanan,INDEPENDENCE 2ND WARD,United States Representative District 1,,DEM,Abby Finkenauer,269,142,127
-Buchanan,INDEPENDENCE 3RD WARD,United States Representative District 1,,DEM,Abby Finkenauer,402,184,218
-Buchanan,INDEPENDENCE 4TH WARD,United States Representative District 1,,DEM,Abby Finkenauer,240,149,91
-Buchanan,INDEPENDENCE 5TH WARD,United States Representative District 1,,DEM,Abby Finkenauer,252,150,102
-Buchanan,JESUP,United States Representative District 1,,DEM,Abby Finkenauer,451,304,147
-Buchanan,MIDDLEFIELD-NEWTON,United States Representative District 1,,DEM,Abby Finkenauer,131,89,42
-Buchanan,PERRY-WESTBURG,United States Representative District 1,,DEM,Abby Finkenauer,227,125,102
-Buchanan,QUASQUETION,United States Representative District 1,,DEM,Abby Finkenauer,254,183,71
-Buchanan,ROWLEY,United States Representative District 1,,DEM,Abby Finkenauer,224,147,77
-Buchanan,WINTHROP,United States Representative District 1,,DEM,Abby Finkenauer,291,197,94
-Buchanan,AURORA,United States Representative District 1,,REP,Rod Blum,211,143,68
-Buchanan,BRANDON,United States Representative District 1,,REP,Rod Blum,181,144,37
-Buchanan,FAIRBANK,United States Representative District 1,,REP,Rod Blum,224,177,47
-Buchanan,HAZLETON,United States Representative District 1,,REP,Rod Blum,228,159,69
-Buchanan,INDEPENDENCE 1ST WARD,United States Representative District 1,,REP,Rod Blum,517,268,249
-Buchanan,INDEPENDENCE 2ND WARD,United States Representative District 1,,REP,Rod Blum,227,137,90
-Buchanan,INDEPENDENCE 3RD WARD,United States Representative District 1,,REP,Rod Blum,445,254,191
-Buchanan,INDEPENDENCE 4TH WARD,United States Representative District 1,,REP,Rod Blum,162,118,44
-Buchanan,INDEPENDENCE 5TH WARD,United States Representative District 1,,REP,Rod Blum,207,134,73
-Buchanan,JESUP,United States Representative District 1,,REP,Rod Blum,481,365,116
-Buchanan,MIDDLEFIELD-NEWTON,United States Representative District 1,,REP,Rod Blum,174,127,47
-Buchanan,PERRY-WESTBURG,United States Representative District 1,,REP,Rod Blum,277,179,98
-Buchanan,QUASQUETION,United States Representative District 1,,REP,Rod Blum,283,197,86
-Buchanan,ROWLEY,United States Representative District 1,,REP,Rod Blum,244,193,51
-Buchanan,WINTHROP,United States Representative District 1,,REP,Rod Blum,305,211,94
-Buchanan,AURORA,United States Representative District 1,,LIB,Troy Hageman,18,12,6
-Buchanan,BRANDON,United States Representative District 1,,LIB,Troy Hageman,15,12,3
-Buchanan,FAIRBANK,United States Representative District 1,,LIB,Troy Hageman,23,11,12
-Buchanan,HAZLETON,United States Representative District 1,,LIB,Troy Hageman,14,13,1
-Buchanan,INDEPENDENCE 1ST WARD,United States Representative District 1,,LIB,Troy Hageman,29,15,14
-Buchanan,INDEPENDENCE 2ND WARD,United States Representative District 1,,LIB,Troy Hageman,15,9,6
-Buchanan,INDEPENDENCE 3RD WARD,United States Representative District 1,,LIB,Troy Hageman,30,20,10
-Buchanan,INDEPENDENCE 4TH WARD,United States Representative District 1,,LIB,Troy Hageman,15,13,2
-Buchanan,INDEPENDENCE 5TH WARD,United States Representative District 1,,LIB,Troy Hageman,24,15,9
-Buchanan,JESUP,United States Representative District 1,,LIB,Troy Hageman,39,30,9
-Buchanan,MIDDLEFIELD-NEWTON,United States Representative District 1,,LIB,Troy Hageman,7,5,2
-Buchanan,PERRY-WESTBURG,United States Representative District 1,,LIB,Troy Hageman,15,14,1
-Buchanan,QUASQUETION,United States Representative District 1,,LIB,Troy Hageman,23,15,8
-Buchanan,ROWLEY,United States Representative District 1,,LIB,Troy Hageman,18,15,3
-Buchanan,WINTHROP,United States Representative District 1,,LIB,Troy Hageman,21,15,6
-Buchanan,AURORA,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,BRANDON,United States Representative District 1,,,Write-in,1,1,0
-Buchanan,FAIRBANK,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,HAZLETON,United States Representative District 1,,,Write-in,1,1,0
-Buchanan,INDEPENDENCE 1ST WARD,United States Representative District 1,,,Write-in,1,0,1
-Buchanan,INDEPENDENCE 2ND WARD,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,INDEPENDENCE 3RD WARD,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,INDEPENDENCE 4TH WARD,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,INDEPENDENCE 5TH WARD,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,JESUP,United States Representative District 1,,,Write-in,1,1,0
-Buchanan,MIDDLEFIELD-NEWTON,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,PERRY-WESTBURG,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,QUASQUETION,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,ROWLEY,United States Representative District 1,,,Write-in,0,0,0
-Buchanan,WINTHROP,United States Representative District 1,,,Write-in,0,0,0
+Buchanan,AURORA,U.S. House,1,DEM,Abby Finkenauer,204,118,86
+Buchanan,BRANDON,U.S. House,1,DEM,Abby Finkenauer,152,103,49
+Buchanan,FAIRBANK,U.S. House,1,DEM,Abby Finkenauer,204,131,73
+Buchanan,HAZLETON,U.S. House,1,DEM,Abby Finkenauer,181,125,56
+Buchanan,INDEPENDENCE 1ST WARD,U.S. House,1,DEM,Abby Finkenauer,495,225,270
+Buchanan,INDEPENDENCE 2ND WARD,U.S. House,1,DEM,Abby Finkenauer,269,142,127
+Buchanan,INDEPENDENCE 3RD WARD,U.S. House,1,DEM,Abby Finkenauer,402,184,218
+Buchanan,INDEPENDENCE 4TH WARD,U.S. House,1,DEM,Abby Finkenauer,240,149,91
+Buchanan,INDEPENDENCE 5TH WARD,U.S. House,1,DEM,Abby Finkenauer,252,150,102
+Buchanan,JESUP,U.S. House,1,DEM,Abby Finkenauer,451,304,147
+Buchanan,MIDDLEFIELD-NEWTON,U.S. House,1,DEM,Abby Finkenauer,131,89,42
+Buchanan,PERRY-WESTBURG,U.S. House,1,DEM,Abby Finkenauer,227,125,102
+Buchanan,QUASQUETION,U.S. House,1,DEM,Abby Finkenauer,254,183,71
+Buchanan,ROWLEY,U.S. House,1,DEM,Abby Finkenauer,224,147,77
+Buchanan,WINTHROP,U.S. House,1,DEM,Abby Finkenauer,291,197,94
+Buchanan,AURORA,U.S. House,1,REP,Rod Blum,211,143,68
+Buchanan,BRANDON,U.S. House,1,REP,Rod Blum,181,144,37
+Buchanan,FAIRBANK,U.S. House,1,REP,Rod Blum,224,177,47
+Buchanan,HAZLETON,U.S. House,1,REP,Rod Blum,228,159,69
+Buchanan,INDEPENDENCE 1ST WARD,U.S. House,1,REP,Rod Blum,517,268,249
+Buchanan,INDEPENDENCE 2ND WARD,U.S. House,1,REP,Rod Blum,227,137,90
+Buchanan,INDEPENDENCE 3RD WARD,U.S. House,1,REP,Rod Blum,445,254,191
+Buchanan,INDEPENDENCE 4TH WARD,U.S. House,1,REP,Rod Blum,162,118,44
+Buchanan,INDEPENDENCE 5TH WARD,U.S. House,1,REP,Rod Blum,207,134,73
+Buchanan,JESUP,U.S. House,1,REP,Rod Blum,481,365,116
+Buchanan,MIDDLEFIELD-NEWTON,U.S. House,1,REP,Rod Blum,174,127,47
+Buchanan,PERRY-WESTBURG,U.S. House,1,REP,Rod Blum,277,179,98
+Buchanan,QUASQUETION,U.S. House,1,REP,Rod Blum,283,197,86
+Buchanan,ROWLEY,U.S. House,1,REP,Rod Blum,244,193,51
+Buchanan,WINTHROP,U.S. House,1,REP,Rod Blum,305,211,94
+Buchanan,AURORA,U.S. House,1,LIB,Troy Hageman,18,12,6
+Buchanan,BRANDON,U.S. House,1,LIB,Troy Hageman,15,12,3
+Buchanan,FAIRBANK,U.S. House,1,LIB,Troy Hageman,23,11,12
+Buchanan,HAZLETON,U.S. House,1,LIB,Troy Hageman,14,13,1
+Buchanan,INDEPENDENCE 1ST WARD,U.S. House,1,LIB,Troy Hageman,29,15,14
+Buchanan,INDEPENDENCE 2ND WARD,U.S. House,1,LIB,Troy Hageman,15,9,6
+Buchanan,INDEPENDENCE 3RD WARD,U.S. House,1,LIB,Troy Hageman,30,20,10
+Buchanan,INDEPENDENCE 4TH WARD,U.S. House,1,LIB,Troy Hageman,15,13,2
+Buchanan,INDEPENDENCE 5TH WARD,U.S. House,1,LIB,Troy Hageman,24,15,9
+Buchanan,JESUP,U.S. House,1,LIB,Troy Hageman,39,30,9
+Buchanan,MIDDLEFIELD-NEWTON,U.S. House,1,LIB,Troy Hageman,7,5,2
+Buchanan,PERRY-WESTBURG,U.S. House,1,LIB,Troy Hageman,15,14,1
+Buchanan,QUASQUETION,U.S. House,1,LIB,Troy Hageman,23,15,8
+Buchanan,ROWLEY,U.S. House,1,LIB,Troy Hageman,18,15,3
+Buchanan,WINTHROP,U.S. House,1,LIB,Troy Hageman,21,15,6
+Buchanan,AURORA,U.S. House,1,,Write-in,0,0,0
+Buchanan,BRANDON,U.S. House,1,,Write-in,1,1,0
+Buchanan,FAIRBANK,U.S. House,1,,Write-in,0,0,0
+Buchanan,HAZLETON,U.S. House,1,,Write-in,1,1,0
+Buchanan,INDEPENDENCE 1ST WARD,U.S. House,1,,Write-in,1,0,1
+Buchanan,INDEPENDENCE 2ND WARD,U.S. House,1,,Write-in,0,0,0
+Buchanan,INDEPENDENCE 3RD WARD,U.S. House,1,,Write-in,0,0,0
+Buchanan,INDEPENDENCE 4TH WARD,U.S. House,1,,Write-in,0,0,0
+Buchanan,INDEPENDENCE 5TH WARD,U.S. House,1,,Write-in,0,0,0
+Buchanan,JESUP,U.S. House,1,,Write-in,1,1,0
+Buchanan,MIDDLEFIELD-NEWTON,U.S. House,1,,Write-in,0,0,0
+Buchanan,PERRY-WESTBURG,U.S. House,1,,Write-in,0,0,0
+Buchanan,QUASQUETION,U.S. House,1,,Write-in,0,0,0
+Buchanan,ROWLEY,U.S. House,1,,Write-in,0,0,0
+Buchanan,WINTHROP,U.S. House,1,,Write-in,0,0,0
 Buchanan,AURORA,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,182,106,76
 Buchanan,BRANDON,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,135,94,41
 Buchanan,FAIRBANK,Governor/Lieutenant Governor,,DEM,Fred Hubbell/Rita R. Hart,203,133,70

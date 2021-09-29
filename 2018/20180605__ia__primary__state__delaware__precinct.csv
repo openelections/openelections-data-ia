@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes,group3,group1,group2,group4
-Delaware,Adams/Hazel Green,United States Representative District 1,,REP,Rod Blum,69,0,60,9,0
-Delaware,Colony,United States Representative District 1,,REP,Rod Blum,26,0,23,3,0
-Delaware,Delaware,United States Representative District 1,,REP,Rod Blum,68,0,63,5,0
-Delaware,Delhi/Delaware Corp,United States Representative District 1,,REP,Rod Blum,52,0,39,13,0
-Delaware,Honey Creek/Elk,United States Representative District 1,,REP,Rod Blum,51,0,44,7,0
-Delaware,Manchester Ward 1,United States Representative District 1,,REP,Rod Blum,36,0,31,5,0
-Delaware,Manchester Ward 2,United States Representative District 1,,REP,Rod Blum,81,0,57,24,0
-Delaware,Manchester Ward 3,United States Representative District 1,,REP,Rod Blum,64,0,57,7,0
-Delaware,Milo/Prairie,United States Representative District 1,,REP,Rod Blum,118,0,109,9,0
-Delaware,Oneida/N Fork/Bremen,United States Representative District 1,,REP,Rod Blum,54,0,48,6,0
-Delaware,Richland/Coffins Grove,United States Representative District 1,,REP,Rod Blum,35,0,34,1,0
-Delaware,South Fork/Union,United States Representative District 1,,REP,Rod Blum,33,0,33,0,0
-Delaware,Adams/Hazel Green,United States Representative District 1,,,Write-in,0,0,0,0,0
-Delaware,Colony,United States Representative District 1,,,Write-in,0,0,0,0,0
-Delaware,Delaware,United States Representative District 1,,,Write-in,0,0,0,0,0
-Delaware,Delhi/Delaware Corp,United States Representative District 1,,,Write-in,0,0,0,0,0
-Delaware,Honey Creek/Elk,United States Representative District 1,,,Write-in,0,0,0,0,0
-Delaware,Manchester Ward 1,United States Representative District 1,,,Write-in,0,0,0,0,0
-Delaware,Manchester Ward 2,United States Representative District 1,,,Write-in,0,0,0,0,0
-Delaware,Manchester Ward 3,United States Representative District 1,,,Write-in,0,0,0,0,0
-Delaware,Milo/Prairie,United States Representative District 1,,,Write-in,0,0,0,0,0
-Delaware,Oneida/N Fork/Bremen,United States Representative District 1,,,Write-in,0,0,0,0,0
-Delaware,Richland/Coffins Grove,United States Representative District 1,,,Write-in,0,0,0,0,0
-Delaware,South Fork/Union,United States Representative District 1,,,Write-in,0,0,0,0,0
+Delaware,Adams/Hazel Green,U.S. House,1,REP,Rod Blum,69,0,60,9,0
+Delaware,Colony,U.S. House,1,REP,Rod Blum,26,0,23,3,0
+Delaware,Delaware,U.S. House,1,REP,Rod Blum,68,0,63,5,0
+Delaware,Delhi/Delaware Corp,U.S. House,1,REP,Rod Blum,52,0,39,13,0
+Delaware,Honey Creek/Elk,U.S. House,1,REP,Rod Blum,51,0,44,7,0
+Delaware,Manchester Ward 1,U.S. House,1,REP,Rod Blum,36,0,31,5,0
+Delaware,Manchester Ward 2,U.S. House,1,REP,Rod Blum,81,0,57,24,0
+Delaware,Manchester Ward 3,U.S. House,1,REP,Rod Blum,64,0,57,7,0
+Delaware,Milo/Prairie,U.S. House,1,REP,Rod Blum,118,0,109,9,0
+Delaware,Oneida/N Fork/Bremen,U.S. House,1,REP,Rod Blum,54,0,48,6,0
+Delaware,Richland/Coffins Grove,U.S. House,1,REP,Rod Blum,35,0,34,1,0
+Delaware,South Fork/Union,U.S. House,1,REP,Rod Blum,33,0,33,0,0
+Delaware,Adams/Hazel Green,U.S. House,1,,Write-in,0,0,0,0,0
+Delaware,Colony,U.S. House,1,,Write-in,0,0,0,0,0
+Delaware,Delaware,U.S. House,1,,Write-in,0,0,0,0,0
+Delaware,Delhi/Delaware Corp,U.S. House,1,,Write-in,0,0,0,0,0
+Delaware,Honey Creek/Elk,U.S. House,1,,Write-in,0,0,0,0,0
+Delaware,Manchester Ward 1,U.S. House,1,,Write-in,0,0,0,0,0
+Delaware,Manchester Ward 2,U.S. House,1,,Write-in,0,0,0,0,0
+Delaware,Manchester Ward 3,U.S. House,1,,Write-in,0,0,0,0,0
+Delaware,Milo/Prairie,U.S. House,1,,Write-in,0,0,0,0,0
+Delaware,Oneida/N Fork/Bremen,U.S. House,1,,Write-in,0,0,0,0,0
+Delaware,Richland/Coffins Grove,U.S. House,1,,Write-in,0,0,0,0,0
+Delaware,South Fork/Union,U.S. House,1,,Write-in,0,0,0,0,0
 Delaware,Adams/Hazel Green,Governor,,REP,Kim Reynolds,78,0,68,10,0
 Delaware,Colony,Governor,,REP,Kim Reynolds,26,0,23,3,0
 Delaware,Delaware,Governor,,REP,Kim Reynolds,68,0,63,5,0
@@ -311,54 +311,54 @@ Delaware,Milo/Prairie,County Attorney,,,Write-in,0,0,0,0,0
 Delaware,Oneida/N Fork/Bremen,County Attorney,,,Write-in,0,0,0,0,0
 Delaware,Richland/Coffins Grove,County Attorney,,,Write-in,0,0,0,0,0
 Delaware,South Fork/Union,County Attorney,,,Write-in,0,0,0,0,0
-Delaware,Adams/Hazel Green,United States Representative District 1,,DEM,Abby Finkenauer,16,0,15,1,0
-Delaware,Colony,United States Representative District 1,,DEM,Abby Finkenauer,15,0,15,0,0
-Delaware,Delaware,United States Representative District 1,,DEM,Abby Finkenauer,21,0,18,3,0
-Delaware,Delhi/Delaware Corp,United States Representative District 1,,DEM,Abby Finkenauer,19,0,15,4,0
-Delaware,Honey Creek/Elk,United States Representative District 1,,DEM,Abby Finkenauer,27,0,20,7,0
-Delaware,Manchester Ward 1,United States Representative District 1,,DEM,Abby Finkenauer,44,0,37,7,0
-Delaware,Manchester Ward 2,United States Representative District 1,,DEM,Abby Finkenauer,48,0,31,17,0
-Delaware,Manchester Ward 3,United States Representative District 1,,DEM,Abby Finkenauer,48,0,36,12,0
-Delaware,Milo/Prairie,United States Representative District 1,,DEM,Abby Finkenauer,42,0,31,11,0
-Delaware,Oneida/N Fork/Bremen,United States Representative District 1,,DEM,Abby Finkenauer,36,0,23,13,0
-Delaware,Richland/Coffins Grove,United States Representative District 1,,DEM,Abby Finkenauer,30,0,25,5,0
-Delaware,South Fork/Union,United States Representative District 1,,DEM,Abby Finkenauer,21,0,21,0,0
-Delaware,Adams/Hazel Green,United States Representative District 1,,DEM,Thomas Heckroth,5,0,5,0,0
-Delaware,Colony,United States Representative District 1,,DEM,Thomas Heckroth,3,0,3,0,0
-Delaware,Delaware,United States Representative District 1,,DEM,Thomas Heckroth,4,0,4,0,0
-Delaware,Delhi/Delaware Corp,United States Representative District 1,,DEM,Thomas Heckroth,4,0,3,1,0
-Delaware,Honey Creek/Elk,United States Representative District 1,,DEM,Thomas Heckroth,3,0,2,1,0
-Delaware,Manchester Ward 1,United States Representative District 1,,DEM,Thomas Heckroth,9,0,7,2,0
-Delaware,Manchester Ward 2,United States Representative District 1,,DEM,Thomas Heckroth,13,0,11,2,0
-Delaware,Manchester Ward 3,United States Representative District 1,,DEM,Thomas Heckroth,15,0,13,2,0
-Delaware,Milo/Prairie,United States Representative District 1,,DEM,Thomas Heckroth,5,0,4,1,0
-Delaware,Oneida/N Fork/Bremen,United States Representative District 1,,DEM,Thomas Heckroth,5,0,4,1,0
-Delaware,Richland/Coffins Grove,United States Representative District 1,,DEM,Thomas Heckroth,12,0,11,1,0
-Delaware,South Fork/Union,United States Representative District 1,,DEM,Thomas Heckroth,6,0,6,0,0
-Delaware,Adams/Hazel Green,United States Representative District 1,,DEM,George Ramsey,5,0,5,0,0
-Delaware,Colony,United States Representative District 1,,DEM,George Ramsey,0,0,0,0,0
-Delaware,Delaware,United States Representative District 1,,DEM,George Ramsey,1,0,1,0,0
-Delaware,Delhi/Delaware Corp,United States Representative District 1,,DEM,George Ramsey,2,0,0,2,0
-Delaware,Honey Creek/Elk,United States Representative District 1,,DEM,George Ramsey,5,0,3,2,0
-Delaware,Manchester Ward 1,United States Representative District 1,,DEM,George Ramsey,2,0,1,1,0
-Delaware,Manchester Ward 2,United States Representative District 1,,DEM,George Ramsey,8,0,4,4,0
-Delaware,Manchester Ward 3,United States Representative District 1,,DEM,George Ramsey,3,0,1,2,0
-Delaware,Milo/Prairie,United States Representative District 1,,DEM,George Ramsey,3,0,2,1,0
-Delaware,Oneida/N Fork/Bremen,United States Representative District 1,,DEM,George Ramsey,3,0,2,1,0
-Delaware,Richland/Coffins Grove,United States Representative District 1,,DEM,George Ramsey,4,0,4,0,0
-Delaware,South Fork/Union,United States Representative District 1,,DEM,George Ramsey,1,0,1,0,0
-Delaware,Adams/Hazel Green,United States Representative District 1,,DEM,Courtney L. Rowe,2,0,2,0,0
-Delaware,Colony,United States Representative District 1,,DEM,Courtney L. Rowe,1,0,1,0,0
-Delaware,Delaware,United States Representative District 1,,DEM,Courtney L. Rowe,2,0,2,0,0
-Delaware,Delhi/Delaware Corp,United States Representative District 1,,DEM,Courtney L. Rowe,6,0,5,1,0
-Delaware,Honey Creek/Elk,United States Representative District 1,,DEM,Courtney L. Rowe,7,0,3,4,0
-Delaware,Manchester Ward 1,United States Representative District 1,,DEM,Courtney L. Rowe,6,0,5,1,0
-Delaware,Manchester Ward 2,United States Representative District 1,,DEM,Courtney L. Rowe,1,0,1,0,0
-Delaware,Manchester Ward 3,United States Representative District 1,,DEM,Courtney L. Rowe,10,0,8,2,0
-Delaware,Milo/Prairie,United States Representative District 1,,DEM,Courtney L. Rowe,2,0,2,0,0
-Delaware,Oneida/N Fork/Bremen,United States Representative District 1,,DEM,Courtney L. Rowe,3,0,3,0,0
-Delaware,Richland/Coffins Grove,United States Representative District 1,,DEM,Courtney L. Rowe,0,0,0,0,0
-Delaware,South Fork/Union,United States Representative District 1,,DEM,Courtney L. Rowe,5,0,4,1,0
+Delaware,Adams/Hazel Green,U.S. House,1,DEM,Abby Finkenauer,16,0,15,1,0
+Delaware,Colony,U.S. House,1,DEM,Abby Finkenauer,15,0,15,0,0
+Delaware,Delaware,U.S. House,1,DEM,Abby Finkenauer,21,0,18,3,0
+Delaware,Delhi/Delaware Corp,U.S. House,1,DEM,Abby Finkenauer,19,0,15,4,0
+Delaware,Honey Creek/Elk,U.S. House,1,DEM,Abby Finkenauer,27,0,20,7,0
+Delaware,Manchester Ward 1,U.S. House,1,DEM,Abby Finkenauer,44,0,37,7,0
+Delaware,Manchester Ward 2,U.S. House,1,DEM,Abby Finkenauer,48,0,31,17,0
+Delaware,Manchester Ward 3,U.S. House,1,DEM,Abby Finkenauer,48,0,36,12,0
+Delaware,Milo/Prairie,U.S. House,1,DEM,Abby Finkenauer,42,0,31,11,0
+Delaware,Oneida/N Fork/Bremen,U.S. House,1,DEM,Abby Finkenauer,36,0,23,13,0
+Delaware,Richland/Coffins Grove,U.S. House,1,DEM,Abby Finkenauer,30,0,25,5,0
+Delaware,South Fork/Union,U.S. House,1,DEM,Abby Finkenauer,21,0,21,0,0
+Delaware,Adams/Hazel Green,U.S. House,1,DEM,Thomas Heckroth,5,0,5,0,0
+Delaware,Colony,U.S. House,1,DEM,Thomas Heckroth,3,0,3,0,0
+Delaware,Delaware,U.S. House,1,DEM,Thomas Heckroth,4,0,4,0,0
+Delaware,Delhi/Delaware Corp,U.S. House,1,DEM,Thomas Heckroth,4,0,3,1,0
+Delaware,Honey Creek/Elk,U.S. House,1,DEM,Thomas Heckroth,3,0,2,1,0
+Delaware,Manchester Ward 1,U.S. House,1,DEM,Thomas Heckroth,9,0,7,2,0
+Delaware,Manchester Ward 2,U.S. House,1,DEM,Thomas Heckroth,13,0,11,2,0
+Delaware,Manchester Ward 3,U.S. House,1,DEM,Thomas Heckroth,15,0,13,2,0
+Delaware,Milo/Prairie,U.S. House,1,DEM,Thomas Heckroth,5,0,4,1,0
+Delaware,Oneida/N Fork/Bremen,U.S. House,1,DEM,Thomas Heckroth,5,0,4,1,0
+Delaware,Richland/Coffins Grove,U.S. House,1,DEM,Thomas Heckroth,12,0,11,1,0
+Delaware,South Fork/Union,U.S. House,1,DEM,Thomas Heckroth,6,0,6,0,0
+Delaware,Adams/Hazel Green,U.S. House,1,DEM,George Ramsey,5,0,5,0,0
+Delaware,Colony,U.S. House,1,DEM,George Ramsey,0,0,0,0,0
+Delaware,Delaware,U.S. House,1,DEM,George Ramsey,1,0,1,0,0
+Delaware,Delhi/Delaware Corp,U.S. House,1,DEM,George Ramsey,2,0,0,2,0
+Delaware,Honey Creek/Elk,U.S. House,1,DEM,George Ramsey,5,0,3,2,0
+Delaware,Manchester Ward 1,U.S. House,1,DEM,George Ramsey,2,0,1,1,0
+Delaware,Manchester Ward 2,U.S. House,1,DEM,George Ramsey,8,0,4,4,0
+Delaware,Manchester Ward 3,U.S. House,1,DEM,George Ramsey,3,0,1,2,0
+Delaware,Milo/Prairie,U.S. House,1,DEM,George Ramsey,3,0,2,1,0
+Delaware,Oneida/N Fork/Bremen,U.S. House,1,DEM,George Ramsey,3,0,2,1,0
+Delaware,Richland/Coffins Grove,U.S. House,1,DEM,George Ramsey,4,0,4,0,0
+Delaware,South Fork/Union,U.S. House,1,DEM,George Ramsey,1,0,1,0,0
+Delaware,Adams/Hazel Green,U.S. House,1,DEM,Courtney L. Rowe,2,0,2,0,0
+Delaware,Colony,U.S. House,1,DEM,Courtney L. Rowe,1,0,1,0,0
+Delaware,Delaware,U.S. House,1,DEM,Courtney L. Rowe,2,0,2,0,0
+Delaware,Delhi/Delaware Corp,U.S. House,1,DEM,Courtney L. Rowe,6,0,5,1,0
+Delaware,Honey Creek/Elk,U.S. House,1,DEM,Courtney L. Rowe,7,0,3,4,0
+Delaware,Manchester Ward 1,U.S. House,1,DEM,Courtney L. Rowe,6,0,5,1,0
+Delaware,Manchester Ward 2,U.S. House,1,DEM,Courtney L. Rowe,1,0,1,0,0
+Delaware,Manchester Ward 3,U.S. House,1,DEM,Courtney L. Rowe,10,0,8,2,0
+Delaware,Milo/Prairie,U.S. House,1,DEM,Courtney L. Rowe,2,0,2,0,0
+Delaware,Oneida/N Fork/Bremen,U.S. House,1,DEM,Courtney L. Rowe,3,0,3,0,0
+Delaware,Richland/Coffins Grove,U.S. House,1,DEM,Courtney L. Rowe,0,0,0,0,0
+Delaware,South Fork/Union,U.S. House,1,DEM,Courtney L. Rowe,5,0,4,1,0
 Delaware,Adams/Hazel Green,Governor,,DEM,Nate Boulton,1,0,1,0,0
 Delaware,Colony,Governor,,DEM,Nate Boulton,0,0,0,0,0
 Delaware,Delaware,Governor,,DEM,Nate Boulton,0,0,0,0,0
