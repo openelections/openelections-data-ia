@@ -1,0 +1,826 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Jones,ANN-ANAMOSA NORTH/CASS,President,,REP,Donald J. Trump and Michael R. Pence,674,344,330
+Jones,ANS-ANAMOSA SOUTH/JACKSON,President,,REP,Donald J. Trump and Michael R. Pence,878,439,439
+Jones,CGLW-CASTLE GRV/LOV/WAYN,President,,REP,Donald J. Trump and Michael R. Pence,847,441,406
+Jones,FV-FAIRVIEW,President,,REP,Donald J. Trump and Michael R. Pence,806,391,415
+Jones,GF-GREENFIELD,President,,REP,Donald J. Trump and Michael R. Pence,260,183,77
+Jones,MN1-MONTICELLO 1,President,,REP,Donald J. Trump and Michael R. Pence,290,173,117
+Jones,MN2-MONTICELLO 2,President,,REP,Donald J. Trump and Michael R. Pence,339,200,139
+Jones,MN3-MONTICELLO 3,President,,REP,Donald J. Trump and Michael R. Pence,232,154,78
+Jones,MN4-MONTICELLO 4,President,,REP,Donald J. Trump and Michael R. Pence,258,115,143
+Jones,OX-OXFORD,President,,REP,Donald J. Trump and Michael R. Pence,230,180,50
+Jones,RLWS-RICHLAND/WASHINGTON,President,,REP,Donald J. Trump and Michael R. Pence,501,330,171
+Jones,ROHA-ROME/HALE,President,,REP,Donald J. Trump and Michael R. Pence,465,314,151
+Jones,SGMC-SC GRV/MADISON/CLAY,President,,REP,Donald J. Trump and Michael R. Pence,489,340,149
+Jones,WY-WYOMING,President,,REP,Donald J. Trump and Michael R. Pence,303,200,103
+Jones,ANN-ANAMOSA NORTH/CASS,President,,DEM,Joseph R. Biden and Kamala D. Harris,490,98,392
+Jones,ANS-ANAMOSA SOUTH/JACKSON,President,,DEM,Joseph R. Biden and Kamala D. Harris,798,178,620
+Jones,CGLW-CASTLE GRV/LOV/WAYN,President,,DEM,Joseph R. Biden and Kamala D. Harris,438,97,341
+Jones,FV-FAIRVIEW,President,,DEM,Joseph R. Biden and Kamala D. Harris,491,79,412
+Jones,GF-GREENFIELD,President,,DEM,Joseph R. Biden and Kamala D. Harris,161,75,86
+Jones,MN1-MONTICELLO 1,President,,DEM,Joseph R. Biden and Kamala D. Harris,192,56,136
+Jones,MN2-MONTICELLO 2,President,,DEM,Joseph R. Biden and Kamala D. Harris,252,61,191
+Jones,MN3-MONTICELLO 3,President,,DEM,Joseph R. Biden and Kamala D. Harris,185,61,124
+Jones,MN4-MONTICELLO 4,President,,DEM,Joseph R. Biden and Kamala D. Harris,232,50,182
+Jones,OX-OXFORD,President,,DEM,Joseph R. Biden and Kamala D. Harris,125,69,56
+Jones,RLWS-RICHLAND/WASHINGTON,President,,DEM,Joseph R. Biden and Kamala D. Harris,229,54,175
+Jones,ROHA-ROME/HALE,President,,DEM,Joseph R. Biden and Kamala D. Harris,281,84,197
+Jones,SGMC-SC GRV/MADISON/CLAY,President,,DEM,Joseph R. Biden and Kamala D. Harris,205,57,148
+Jones,WY-WYOMING,President,,DEM,Joseph R. Biden and Kamala D. Harris,134,49,85
+Jones,ANN-ANAMOSA NORTH/CASS,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,1,0
+Jones,ANS-ANAMOSA SOUTH/JACKSON,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,0,1
+Jones,CGLW-CASTLE GRV/LOV/WAYN,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Jones,FV-FAIRVIEW,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,3,1,2
+Jones,GF-GREENFIELD,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Jones,MN1-MONTICELLO 1,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Jones,MN2-MONTICELLO 2,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Jones,MN3-MONTICELLO 3,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Jones,MN4-MONTICELLO 4,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Jones,OX-OXFORD,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Jones,RLWS-RICHLAND/WASHINGTON,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Jones,ROHA-ROME/HALE,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,1,0
+Jones,SGMC-SC GRV/MADISON/CLAY,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Jones,WY-WYOMING,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,1,0
+Jones,ANN-ANAMOSA NORTH/CASS,President,,CON,Don Blankenship and William Alan Mohr,1,0,1
+Jones,ANS-ANAMOSA SOUTH/JACKSON,President,,CON,Don Blankenship and William Alan Mohr,3,0,3
+Jones,CGLW-CASTLE GRV/LOV/WAYN,President,,CON,Don Blankenship and William Alan Mohr,3,1,2
+Jones,FV-FAIRVIEW,President,,CON,Don Blankenship and William Alan Mohr,2,0,2
+Jones,GF-GREENFIELD,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Jones,MN1-MONTICELLO 1,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Jones,MN2-MONTICELLO 2,President,,CON,Don Blankenship and William Alan Mohr,1,1,0
+Jones,MN3-MONTICELLO 3,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Jones,MN4-MONTICELLO 4,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Jones,OX-OXFORD,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Jones,RLWS-RICHLAND/WASHINGTON,President,,CON,Don Blankenship and William Alan Mohr,1,0,1
+Jones,ROHA-ROME/HALE,President,,CON,Don Blankenship and William Alan Mohr,1,1,0
+Jones,SGMC-SC GRV/MADISON/CLAY,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Jones,WY-WYOMING,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Jones,ANN-ANAMOSA NORTH/CASS,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Jones,ANS-ANAMOSA SOUTH/JACKSON,President,,GKH,Ricki Sue King and Dayna R. Chandler,2,0,2
+Jones,CGLW-CASTLE GRV/LOV/WAYN,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Jones,FV-FAIRVIEW,President,,GKH,Ricki Sue King and Dayna R. Chandler,1,0,1
+Jones,GF-GREENFIELD,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Jones,MN1-MONTICELLO 1,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Jones,MN2-MONTICELLO 2,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Jones,MN3-MONTICELLO 3,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Jones,MN4-MONTICELLO 4,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Jones,OX-OXFORD,President,,GKH,Ricki Sue King and Dayna R. Chandler,1,1,0
+Jones,RLWS-RICHLAND/WASHINGTON,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Jones,ROHA-ROME/HALE,President,,GKH,Ricki Sue King and Dayna R. Chandler,1,1,0
+Jones,SGMC-SC GRV/MADISON/CLAY,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Jones,WY-WYOMING,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Jones,ANN-ANAMOSA NORTH/CASS,President,,GRN,Howie Hawkins and Angela Nicole Walker,3,2,1
+Jones,ANS-ANAMOSA SOUTH/JACKSON,President,,GRN,Howie Hawkins and Angela Nicole Walker,3,1,2
+Jones,CGLW-CASTLE GRV/LOV/WAYN,President,,GRN,Howie Hawkins and Angela Nicole Walker,2,2,0
+Jones,FV-FAIRVIEW,President,,GRN,Howie Hawkins and Angela Nicole Walker,1,0,1
+Jones,GF-GREENFIELD,President,,GRN,Howie Hawkins and Angela Nicole Walker,0,0,0
+Jones,MN1-MONTICELLO 1,President,,GRN,Howie Hawkins and Angela Nicole Walker,3,1,2
+Jones,MN2-MONTICELLO 2,President,,GRN,Howie Hawkins and Angela Nicole Walker,0,0,0
+Jones,MN3-MONTICELLO 3,President,,GRN,Howie Hawkins and Angela Nicole Walker,2,0,2
+Jones,MN4-MONTICELLO 4,President,,GRN,Howie Hawkins and Angela Nicole Walker,1,1,0
+Jones,OX-OXFORD,President,,GRN,Howie Hawkins and Angela Nicole Walker,0,0,0
+Jones,RLWS-RICHLAND/WASHINGTON,President,,GRN,Howie Hawkins and Angela Nicole Walker,0,0,0
+Jones,ROHA-ROME/HALE,President,,GRN,Howie Hawkins and Angela Nicole Walker,0,0,0
+Jones,SGMC-SC GRV/MADISON/CLAY,President,,GRN,Howie Hawkins and Angela Nicole Walker,0,0,0
+Jones,WY-WYOMING,President,,GRN,Howie Hawkins and Angela Nicole Walker,0,0,0
+Jones,ANN-ANAMOSA NORTH/CASS,President,,LIB,Jo Jorgensen and Jeremy Cohen,23,13,10
+Jones,ANS-ANAMOSA SOUTH/JACKSON,President,,LIB,Jo Jorgensen and Jeremy Cohen,22,14,8
+Jones,CGLW-CASTLE GRV/LOV/WAYN,President,,LIB,Jo Jorgensen and Jeremy Cohen,9,6,3
+Jones,FV-FAIRVIEW,President,,LIB,Jo Jorgensen and Jeremy Cohen,14,5,9
+Jones,GF-GREENFIELD,President,,LIB,Jo Jorgensen and Jeremy Cohen,8,5,3
+Jones,MN1-MONTICELLO 1,President,,LIB,Jo Jorgensen and Jeremy Cohen,5,2,3
+Jones,MN2-MONTICELLO 2,President,,LIB,Jo Jorgensen and Jeremy Cohen,2,1,1
+Jones,MN3-MONTICELLO 3,President,,LIB,Jo Jorgensen and Jeremy Cohen,6,3,3
+Jones,MN4-MONTICELLO 4,President,,LIB,Jo Jorgensen and Jeremy Cohen,4,1,3
+Jones,OX-OXFORD,President,,LIB,Jo Jorgensen and Jeremy Cohen,3,2,1
+Jones,RLWS-RICHLAND/WASHINGTON,President,,LIB,Jo Jorgensen and Jeremy Cohen,6,2,4
+Jones,ROHA-ROME/HALE,President,,LIB,Jo Jorgensen and Jeremy Cohen,12,9,3
+Jones,SGMC-SC GRV/MADISON/CLAY,President,,LIB,Jo Jorgensen and Jeremy Cohen,1,1,0
+Jones,WY-WYOMING,President,,LIB,Jo Jorgensen and Jeremy Cohen,3,2,1
+Jones,ANN-ANAMOSA NORTH/CASS,President,,,Brock Pierce and Karla Ballard,1,1,0
+Jones,ANS-ANAMOSA SOUTH/JACKSON,President,,,Brock Pierce and Karla Ballard,0,0,0
+Jones,CGLW-CASTLE GRV/LOV/WAYN,President,,,Brock Pierce and Karla Ballard,0,0,0
+Jones,FV-FAIRVIEW,President,,,Brock Pierce and Karla Ballard,0,0,0
+Jones,GF-GREENFIELD,President,,,Brock Pierce and Karla Ballard,0,0,0
+Jones,MN1-MONTICELLO 1,President,,,Brock Pierce and Karla Ballard,0,0,0
+Jones,MN2-MONTICELLO 2,President,,,Brock Pierce and Karla Ballard,0,0,0
+Jones,MN3-MONTICELLO 3,President,,,Brock Pierce and Karla Ballard,0,0,0
+Jones,MN4-MONTICELLO 4,President,,,Brock Pierce and Karla Ballard,0,0,0
+Jones,OX-OXFORD,President,,,Brock Pierce and Karla Ballard,0,0,0
+Jones,RLWS-RICHLAND/WASHINGTON,President,,,Brock Pierce and Karla Ballard,0,0,0
+Jones,ROHA-ROME/HALE,President,,,Brock Pierce and Karla Ballard,0,0,0
+Jones,SGMC-SC GRV/MADISON/CLAY,President,,,Brock Pierce and Karla Ballard,1,0,1
+Jones,WY-WYOMING,President,,,Brock Pierce and Karla Ballard,1,1,0
+Jones,ANN-ANAMOSA NORTH/CASS,President,,,Kanye West and Michelle Tidball,5,2,3
+Jones,ANS-ANAMOSA SOUTH/JACKSON,President,,,Kanye West and Michelle Tidball,2,1,1
+Jones,CGLW-CASTLE GRV/LOV/WAYN,President,,,Kanye West and Michelle Tidball,1,0,1
+Jones,FV-FAIRVIEW,President,,,Kanye West and Michelle Tidball,3,2,1
+Jones,GF-GREENFIELD,President,,,Kanye West and Michelle Tidball,0,0,0
+Jones,MN1-MONTICELLO 1,President,,,Kanye West and Michelle Tidball,1,1,0
+Jones,MN2-MONTICELLO 2,President,,,Kanye West and Michelle Tidball,0,0,0
+Jones,MN3-MONTICELLO 3,President,,,Kanye West and Michelle Tidball,1,1,0
+Jones,MN4-MONTICELLO 4,President,,,Kanye West and Michelle Tidball,0,0,0
+Jones,OX-OXFORD,President,,,Kanye West and Michelle Tidball,1,1,0
+Jones,RLWS-RICHLAND/WASHINGTON,President,,,Kanye West and Michelle Tidball,2,1,1
+Jones,ROHA-ROME/HALE,President,,,Kanye West and Michelle Tidball,2,2,0
+Jones,SGMC-SC GRV/MADISON/CLAY,President,,,Kanye West and Michelle Tidball,2,1,1
+Jones,WY-WYOMING,President,,,Kanye West and Michelle Tidball,0,0,0
+Jones,ANN-ANAMOSA NORTH/CASS,President,,,Write-in,0,0,0
+Jones,ANS-ANAMOSA SOUTH/JACKSON,President,,,Write-in,6,4,2
+Jones,CGLW-CASTLE GRV/LOV/WAYN,President,,,Write-in,6,1,5
+Jones,FV-FAIRVIEW,President,,,Write-in,1,0,1
+Jones,GF-GREENFIELD,President,,,Write-in,0,0,0
+Jones,MN1-MONTICELLO 1,President,,,Write-in,1,1,0
+Jones,MN2-MONTICELLO 2,President,,,Write-in,1,1,0
+Jones,MN3-MONTICELLO 3,President,,,Write-in,3,0,3
+Jones,MN4-MONTICELLO 4,President,,,Write-in,0,0,0
+Jones,OX-OXFORD,President,,,Write-in,1,0,1
+Jones,RLWS-RICHLAND/WASHINGTON,President,,,Write-in,0,0,0
+Jones,ROHA-ROME/HALE,President,,,Write-in,3,2,1
+Jones,SGMC-SC GRV/MADISON/CLAY,President,,,Write-in,2,1,1
+Jones,WY-WYOMING,President,,,Write-in,0,0,0
+Jones,ANN-ANAMOSA NORTH/CASS,U.S. Senate,,REP,Joni Ernst,643,322,321
+Jones,ANS-ANAMOSA SOUTH/JACKSON,U.S. Senate,,REP,Joni Ernst,860,416,444
+Jones,CGLW-CASTLE GRV/LOV/WAYN,U.S. Senate,,REP,Joni Ernst,829,426,403
+Jones,FV-FAIRVIEW,U.S. Senate,,REP,Joni Ernst,788,374,414
+Jones,GF-GREENFIELD,U.S. Senate,,REP,Joni Ernst,256,179,77
+Jones,MN1-MONTICELLO 1,U.S. Senate,,REP,Joni Ernst,282,163,119
+Jones,MN2-MONTICELLO 2,U.S. Senate,,REP,Joni Ernst,321,189,132
+Jones,MN3-MONTICELLO 3,U.S. Senate,,REP,Joni Ernst,207,137,70
+Jones,MN4-MONTICELLO 4,U.S. Senate,,REP,Joni Ernst,254,105,149
+Jones,OX-OXFORD,U.S. Senate,,REP,Joni Ernst,201,160,41
+Jones,RLWS-RICHLAND/WASHINGTON,U.S. Senate,,REP,Joni Ernst,490,315,175
+Jones,ROHA-ROME/HALE,U.S. Senate,,REP,Joni Ernst,437,287,150
+Jones,SGMC-SC GRV/MADISON/CLAY,U.S. Senate,,REP,Joni Ernst,472,319,153
+Jones,WY-WYOMING,U.S. Senate,,REP,Joni Ernst,280,183,97
+Jones,ANN-ANAMOSA NORTH/CASS,U.S. Senate,,DEM,Theresa Greenfield,495,112,383
+Jones,ANS-ANAMOSA SOUTH/JACKSON,U.S. Senate,,DEM,Theresa Greenfield,777,181,596
+Jones,CGLW-CASTLE GRV/LOV/WAYN,U.S. Senate,,DEM,Theresa Greenfield,439,106,333
+Jones,FV-FAIRVIEW,U.S. Senate,,DEM,Theresa Greenfield,484,85,399
+Jones,GF-GREENFIELD,U.S. Senate,,DEM,Theresa Greenfield,159,75,84
+Jones,MN1-MONTICELLO 1,U.S. Senate,,DEM,Theresa Greenfield,196,62,134
+Jones,MN2-MONTICELLO 2,U.S. Senate,,DEM,Theresa Greenfield,248,63,185
+Jones,MN3-MONTICELLO 3,U.S. Senate,,DEM,Theresa Greenfield,202,67,135
+Jones,MN4-MONTICELLO 4,U.S. Senate,,DEM,Theresa Greenfield,227,58,169
+Jones,OX-OXFORD,U.S. Senate,,DEM,Theresa Greenfield,135,73,62
+Jones,RLWS-RICHLAND/WASHINGTON,U.S. Senate,,DEM,Theresa Greenfield,228,61,167
+Jones,ROHA-ROME/HALE,U.S. Senate,,DEM,Theresa Greenfield,295,109,186
+Jones,SGMC-SC GRV/MADISON/CLAY,U.S. Senate,,DEM,Theresa Greenfield,213,69,144
+Jones,WY-WYOMING,U.S. Senate,,DEM,Theresa Greenfield,139,56,83
+Jones,ANN-ANAMOSA NORTH/CASS,U.S. Senate,,LIB,Rick Stewart,42,21,21
+Jones,ANS-ANAMOSA SOUTH/JACKSON,U.S. Senate,,LIB,Rick Stewart,48,28,20
+Jones,CGLW-CASTLE GRV/LOV/WAYN,U.S. Senate,,LIB,Rick Stewart,28,15,13
+Jones,FV-FAIRVIEW,U.S. Senate,,LIB,Rick Stewart,31,12,19
+Jones,GF-GREENFIELD,U.S. Senate,,LIB,Rick Stewart,10,8,2
+Jones,MN1-MONTICELLO 1,U.S. Senate,,LIB,Rick Stewart,10,6,4
+Jones,MN2-MONTICELLO 2,U.S. Senate,,LIB,Rick Stewart,16,7,9
+Jones,MN3-MONTICELLO 3,U.S. Senate,,LIB,Rick Stewart,9,3,6
+Jones,MN4-MONTICELLO 4,U.S. Senate,,LIB,Rick Stewart,11,4,7
+Jones,OX-OXFORD,U.S. Senate,,LIB,Rick Stewart,11,9,2
+Jones,RLWS-RICHLAND/WASHINGTON,U.S. Senate,,LIB,Rick Stewart,13,6,7
+Jones,ROHA-ROME/HALE,U.S. Senate,,LIB,Rick Stewart,23,11,12
+Jones,SGMC-SC GRV/MADISON/CLAY,U.S. Senate,,LIB,Rick Stewart,11,5,6
+Jones,WY-WYOMING,U.S. Senate,,LIB,Rick Stewart,10,7,3
+Jones,ANN-ANAMOSA NORTH/CASS,U.S. Senate,,,Suzanne Herzog,10,2,8
+Jones,ANS-ANAMOSA SOUTH/JACKSON,U.S. Senate,,,Suzanne Herzog,14,5,9
+Jones,CGLW-CASTLE GRV/LOV/WAYN,U.S. Senate,,,Suzanne Herzog,3,0,3
+Jones,FV-FAIRVIEW,U.S. Senate,,,Suzanne Herzog,10,4,6
+Jones,GF-GREENFIELD,U.S. Senate,,,Suzanne Herzog,2,0,2
+Jones,MN1-MONTICELLO 1,U.S. Senate,,,Suzanne Herzog,2,1,1
+Jones,MN2-MONTICELLO 2,U.S. Senate,,,Suzanne Herzog,3,2,1
+Jones,MN3-MONTICELLO 3,U.S. Senate,,,Suzanne Herzog,4,4,0
+Jones,MN4-MONTICELLO 4,U.S. Senate,,,Suzanne Herzog,2,0,2
+Jones,OX-OXFORD,U.S. Senate,,,Suzanne Herzog,5,4,1
+Jones,RLWS-RICHLAND/WASHINGTON,U.S. Senate,,,Suzanne Herzog,3,3,0
+Jones,ROHA-ROME/HALE,U.S. Senate,,,Suzanne Herzog,2,2,0
+Jones,SGMC-SC GRV/MADISON/CLAY,U.S. Senate,,,Suzanne Herzog,3,1,2
+Jones,WY-WYOMING,U.S. Senate,,,Suzanne Herzog,5,2,3
+Jones,ANN-ANAMOSA NORTH/CASS,U.S. Senate,,,Write-in,0,0,0
+Jones,ANS-ANAMOSA SOUTH/JACKSON,U.S. Senate,,,Write-in,0,0,0
+Jones,CGLW-CASTLE GRV/LOV/WAYN,U.S. Senate,,,Write-in,1,1,0
+Jones,FV-FAIRVIEW,U.S. Senate,,,Write-in,1,1,0
+Jones,GF-GREENFIELD,U.S. Senate,,,Write-in,0,0,0
+Jones,MN1-MONTICELLO 1,U.S. Senate,,,Write-in,0,0,0
+Jones,MN2-MONTICELLO 2,U.S. Senate,,,Write-in,0,0,0
+Jones,MN3-MONTICELLO 3,U.S. Senate,,,Write-in,0,0,0
+Jones,MN4-MONTICELLO 4,U.S. Senate,,,Write-in,0,0,0
+Jones,OX-OXFORD,U.S. Senate,,,Write-in,1,1,0
+Jones,RLWS-RICHLAND/WASHINGTON,U.S. Senate,,,Write-in,0,0,0
+Jones,ROHA-ROME/HALE,U.S. Senate,,,Write-in,1,1,0
+Jones,SGMC-SC GRV/MADISON/CLAY,U.S. Senate,,,Write-in,0,0,0
+Jones,WY-WYOMING,U.S. Senate,,,Write-in,0,0,0
+Jones,ANN-ANAMOSA NORTH/CASS,U.S. House,1,REP,Ashley Hinson,675,339,336
+Jones,ANS-ANAMOSA SOUTH/JACKSON,U.S. House,1,REP,Ashley Hinson,911,439,472
+Jones,CGLW-CASTLE GRV/LOV/WAYN,U.S. House,1,REP,Ashley Hinson,867,450,417
+Jones,FV-FAIRVIEW,U.S. House,1,REP,Ashley Hinson,817,382,435
+Jones,GF-GREENFIELD,U.S. House,1,REP,Ashley Hinson,272,186,86
+Jones,MN1-MONTICELLO 1,U.S. House,1,REP,Ashley Hinson,296,170,126
+Jones,MN2-MONTICELLO 2,U.S. House,1,REP,Ashley Hinson,335,189,146
+Jones,MN3-MONTICELLO 3,U.S. House,1,REP,Ashley Hinson,228,147,81
+Jones,MN4-MONTICELLO 4,U.S. House,1,REP,Ashley Hinson,254,114,140
+Jones,OX-OXFORD,U.S. House,1,REP,Ashley Hinson,225,174,51
+Jones,RLWS-RICHLAND/WASHINGTON,U.S. House,1,REP,Ashley Hinson,499,322,177
+Jones,ROHA-ROME/HALE,U.S. House,1,REP,Ashley Hinson,464,308,156
+Jones,SGMC-SC GRV/MADISON/CLAY,U.S. House,1,REP,Ashley Hinson,483,327,156
+Jones,WY-WYOMING,U.S. House,1,REP,Ashley Hinson,295,191,104
+Jones,ANN-ANAMOSA NORTH/CASS,U.S. House,1,DEM,Abby Finkenauer,503,111,392
+Jones,ANS-ANAMOSA SOUTH/JACKSON,U.S. House,1,DEM,Abby Finkenauer,780,183,597
+Jones,CGLW-CASTLE GRV/LOV/WAYN,U.S. House,1,DEM,Abby Finkenauer,433,96,337
+Jones,FV-FAIRVIEW,U.S. House,1,DEM,Abby Finkenauer,494,92,402
+Jones,GF-GREENFIELD,U.S. House,1,DEM,Abby Finkenauer,155,75,80
+Jones,MN1-MONTICELLO 1,U.S. House,1,DEM,Abby Finkenauer,191,60,131
+Jones,MN2-MONTICELLO 2,U.S. House,1,DEM,Abby Finkenauer,253,72,181
+Jones,MN3-MONTICELLO 3,U.S. House,1,DEM,Abby Finkenauer,195,65,130
+Jones,MN4-MONTICELLO 4,U.S. House,1,DEM,Abby Finkenauer,234,51,183
+Jones,OX-OXFORD,U.S. House,1,DEM,Abby Finkenauer,132,77,55
+Jones,RLWS-RICHLAND/WASHINGTON,U.S. House,1,DEM,Abby Finkenauer,233,64,169
+Jones,ROHA-ROME/HALE,U.S. House,1,DEM,Abby Finkenauer,290,97,193
+Jones,SGMC-SC GRV/MADISON/CLAY,U.S. House,1,DEM,Abby Finkenauer,211,66,145
+Jones,WY-WYOMING,U.S. House,1,DEM,Abby Finkenauer,138,55,83
+Jones,ANN-ANAMOSA NORTH/CASS,U.S. House,1,,Write-in,1,0,1
+Jones,ANS-ANAMOSA SOUTH/JACKSON,U.S. House,1,,Write-in,1,0,1
+Jones,CGLW-CASTLE GRV/LOV/WAYN,U.S. House,1,,Write-in,1,0,1
+Jones,FV-FAIRVIEW,U.S. House,1,,Write-in,1,0,1
+Jones,GF-GREENFIELD,U.S. House,1,,Write-in,0,0,0
+Jones,MN1-MONTICELLO 1,U.S. House,1,,Write-in,0,0,0
+Jones,MN2-MONTICELLO 2,U.S. House,1,,Write-in,1,0,1
+Jones,MN3-MONTICELLO 3,U.S. House,1,,Write-in,1,1,0
+Jones,MN4-MONTICELLO 4,U.S. House,1,,Write-in,0,0,0
+Jones,OX-OXFORD,U.S. House,1,,Write-in,0,0,0
+Jones,RLWS-RICHLAND/WASHINGTON,U.S. House,1,,Write-in,0,0,0
+Jones,ROHA-ROME/HALE,U.S. House,1,,Write-in,1,1,0
+Jones,SGMC-SC GRV/MADISON/CLAY,U.S. House,1,,Write-in,1,0,1
+Jones,WY-WYOMING,U.S. House,1,,Write-in,0,0,0
+Jones,ANN-ANAMOSA NORTH/CASS,State Senate,48,REP,Dan Zumbach,748,354,394
+Jones,ANS-ANAMOSA SOUTH/JACKSON,State Senate,48,REP,Dan Zumbach,1029,458,571
+Jones,CGLW-CASTLE GRV/LOV/WAYN,State Senate,48,REP,Dan Zumbach,885,436,449
+Jones,MN1-MONTICELLO 1,State Senate,48,REP,Dan Zumbach,280,164,116
+Jones,MN2-MONTICELLO 2,State Senate,48,REP,Dan Zumbach,350,193,157
+Jones,MN3-MONTICELLO 3,State Senate,48,REP,Dan Zumbach,226,139,87
+Jones,MN4-MONTICELLO 4,State Senate,48,REP,Dan Zumbach,285,117,168
+Jones,ANN-ANAMOSA NORTH/CASS,State Senate,48,DEM,Eric Green,412,95,317
+Jones,ANS-ANAMOSA SOUTH/JACKSON,State Senate,48,DEM,Eric Green,621,155,466
+Jones,CGLW-CASTLE GRV/LOV/WAYN,State Senate,48,DEM,Eric Green,402,104,298
+Jones,MN1-MONTICELLO 1,State Senate,48,DEM,Eric Green,206,66,140
+Jones,MN2-MONTICELLO 2,State Senate,48,DEM,Eric Green,226,60,166
+Jones,MN3-MONTICELLO 3,State Senate,48,DEM,Eric Green,191,74,117
+Jones,MN4-MONTICELLO 4,State Senate,48,DEM,Eric Green,201,45,156
+Jones,ANN-ANAMOSA NORTH/CASS,State Senate,48,,Write-in,1,0,1
+Jones,ANS-ANAMOSA SOUTH/JACKSON,State Senate,48,,Write-in,2,0,2
+Jones,CGLW-CASTLE GRV/LOV/WAYN,State Senate,48,,Write-in,1,0,1
+Jones,MN1-MONTICELLO 1,State Senate,48,,Write-in,0,0,0
+Jones,MN2-MONTICELLO 2,State Senate,48,,Write-in,0,0,0
+Jones,MN3-MONTICELLO 3,State Senate,48,,Write-in,0,0,0
+Jones,MN4-MONTICELLO 4,State Senate,48,,Write-in,0,0,0
+Jones,FV-FAIRVIEW,State House,58,REP,Steven P. Bradley,698,342,356
+Jones,GF-GREENFIELD,State House,58,REP,Steven P. Bradley,231,162,69
+Jones,OX-OXFORD,State House,58,REP,Steven P. Bradley,190,145,45
+Jones,RLWS-RICHLAND/WASHINGTON,State House,58,REP,Steven P. Bradley,533,333,200
+Jones,ROHA-ROME/HALE,State House,58,REP,Steven P. Bradley,389,255,134
+Jones,SGMC-SC GRV/MADISON/CLAY,State House,58,REP,Steven P. Bradley,421,286,135
+Jones,WY-WYOMING,State House,58,REP,Steven P. Bradley,234,151,83
+Jones,FV-FAIRVIEW,State House,58,DEM,Andy McKean,597,126,471
+Jones,GF-GREENFIELD,State House,58,DEM,Andy McKean,189,95,94
+Jones,OX-OXFORD,State House,58,DEM,Andy McKean,163,101,62
+Jones,RLWS-RICHLAND/WASHINGTON,State House,58,DEM,Andy McKean,203,51,152
+Jones,ROHA-ROME/HALE,State House,58,DEM,Andy McKean,364,149,215
+Jones,SGMC-SC GRV/MADISON/CLAY,State House,58,DEM,Andy McKean,272,104,168
+Jones,WY-WYOMING,State House,58,DEM,Andy McKean,202,97,105
+Jones,FV-FAIRVIEW,State House,58,,Write-in,1,1,0
+Jones,GF-GREENFIELD,State House,58,,Write-in,0,0,0
+Jones,OX-OXFORD,State House,58,,Write-in,0,0,0
+Jones,RLWS-RICHLAND/WASHINGTON,State House,58,,Write-in,0,0,0
+Jones,ROHA-ROME/HALE,State House,58,,Write-in,1,0,1
+Jones,SGMC-SC GRV/MADISON/CLAY,State House,58,,Write-in,1,1,0
+Jones,WY-WYOMING,State House,58,,Write-in,0,0,0
+Jones,ANN-ANAMOSA NORTH/CASS,State House,96,REP,Lee Hein,720,340,380
+Jones,ANS-ANAMOSA SOUTH/JACKSON,State House,96,REP,Lee Hein,981,439,542
+Jones,CGLW-CASTLE GRV/LOV/WAYN,State House,96,REP,Lee Hein,936,462,474
+Jones,MN1-MONTICELLO 1,State House,96,REP,Lee Hein,316,182,134
+Jones,MN2-MONTICELLO 2,State House,96,REP,Lee Hein,384,207,177
+Jones,MN3-MONTICELLO 3,State House,96,REP,Lee Hein,252,151,101
+Jones,MN4-MONTICELLO 4,State House,96,REP,Lee Hein,314,124,190
+Jones,ANN-ANAMOSA NORTH/CASS,State House,96,DEM,Everett Chase,428,105,323
+Jones,ANS-ANAMOSA SOUTH/JACKSON,State House,96,DEM,Everett Chase,646,170,476
+Jones,CGLW-CASTLE GRV/LOV/WAYN,State House,96,DEM,Everett Chase,341,82,259
+Jones,MN1-MONTICELLO 1,State House,96,DEM,Everett Chase,164,43,121
+Jones,MN2-MONTICELLO 2,State House,96,DEM,Everett Chase,191,47,144
+Jones,MN3-MONTICELLO 3,State House,96,DEM,Everett Chase,155,56,99
+Jones,MN4-MONTICELLO 4,State House,96,DEM,Everett Chase,173,36,137
+Jones,ANN-ANAMOSA NORTH/CASS,State House,96,,Write-in,2,0,2
+Jones,ANS-ANAMOSA SOUTH/JACKSON,State House,96,,Write-in,1,0,1
+Jones,CGLW-CASTLE GRV/LOV/WAYN,State House,96,,Write-in,3,0,3
+Jones,MN1-MONTICELLO 1,State House,96,,Write-in,0,0,0
+Jones,MN2-MONTICELLO 2,State House,96,,Write-in,2,0,2
+Jones,MN3-MONTICELLO 3,State House,96,,Write-in,0,0,0
+Jones,MN4-MONTICELLO 4,State House,96,,Write-in,0,0,0
+Jones,ANN-ANAMOSA NORTH/CASS,SUPV DIST 1,,REP,John Schlarmann,666,319,347
+Jones,ANS-ANAMOSA SOUTH/JACKSON,SUPV DIST 1,,REP,John Schlarmann,887,421,466
+Jones,CGLW-CASTLE GRV/LOV/WAYN,SUPV DIST 1,,REP,John Schlarmann,896,430,466
+Jones,FV-FAIRVIEW,SUPV DIST 1,,REP,John Schlarmann,799,363,436
+Jones,GF-GREENFIELD,SUPV DIST 1,,REP,John Schlarmann,257,173,84
+Jones,MN1-MONTICELLO 1,SUPV DIST 1,,REP,John Schlarmann,322,178,144
+Jones,MN2-MONTICELLO 2,SUPV DIST 1,,REP,John Schlarmann,373,196,177
+Jones,MN3-MONTICELLO 3,SUPV DIST 1,,REP,John Schlarmann,269,155,114
+Jones,MN4-MONTICELLO 4,SUPV DIST 1,,REP,John Schlarmann,290,118,172
+Jones,OX-OXFORD,SUPV DIST 1,,REP,John Schlarmann,210,165,45
+Jones,RLWS-RICHLAND/WASHINGTON,SUPV DIST 1,,REP,John Schlarmann,497,308,189
+Jones,ROHA-ROME/HALE,SUPV DIST 1,,REP,John Schlarmann,433,281,152
+Jones,SGMC-SC GRV/MADISON/CLAY,SUPV DIST 1,,REP,John Schlarmann,480,303,177
+Jones,WY-WYOMING,SUPV DIST 1,,REP,John Schlarmann,276,175,101
+Jones,ANN-ANAMOSA NORTH/CASS,SUPV DIST 1,,DEM,Wayne R. Manternach,493,128,365
+Jones,ANS-ANAMOSA SOUTH/JACKSON,SUPV DIST 1,,DEM,Wayne R. Manternach,757,191,566
+Jones,CGLW-CASTLE GRV/LOV/WAYN,SUPV DIST 1,,DEM,Wayne R. Manternach,389,107,282
+Jones,FV-FAIRVIEW,SUPV DIST 1,,DEM,Wayne R. Manternach,471,96,375
+Jones,GF-GREENFIELD,SUPV DIST 1,,DEM,Wayne R. Manternach,145,74,71
+Jones,MN1-MONTICELLO 1,SUPV DIST 1,,DEM,Wayne R. Manternach,156,46,110
+Jones,MN2-MONTICELLO 2,SUPV DIST 1,,DEM,Wayne R. Manternach,206,55,151
+Jones,MN3-MONTICELLO 3,SUPV DIST 1,,DEM,Wayne R. Manternach,148,56,92
+Jones,MN4-MONTICELLO 4,SUPV DIST 1,,DEM,Wayne R. Manternach,199,45,154
+Jones,OX-OXFORD,SUPV DIST 1,,DEM,Wayne R. Manternach,127,70,57
+Jones,RLWS-RICHLAND/WASHINGTON,SUPV DIST 1,,DEM,Wayne R. Manternach,218,70,148
+Jones,ROHA-ROME/HALE,SUPV DIST 1,,DEM,Wayne R. Manternach,310,118,192
+Jones,SGMC-SC GRV/MADISON/CLAY,SUPV DIST 1,,DEM,Wayne R. Manternach,210,85,125
+Jones,WY-WYOMING,SUPV DIST 1,,DEM,Wayne R. Manternach,144,64,80
+Jones,ANN-ANAMOSA NORTH/CASS,SUPV DIST 1,,,Write-in,2,0,2
+Jones,ANS-ANAMOSA SOUTH/JACKSON,SUPV DIST 1,,,Write-in,0,0,0
+Jones,CGLW-CASTLE GRV/LOV/WAYN,SUPV DIST 1,,,Write-in,4,3,1
+Jones,FV-FAIRVIEW,SUPV DIST 1,,,Write-in,1,0,1
+Jones,GF-GREENFIELD,SUPV DIST 1,,,Write-in,0,0,0
+Jones,MN1-MONTICELLO 1,SUPV DIST 1,,,Write-in,0,0,0
+Jones,MN2-MONTICELLO 2,SUPV DIST 1,,,Write-in,0,0,0
+Jones,MN3-MONTICELLO 3,SUPV DIST 1,,,Write-in,1,1,0
+Jones,MN4-MONTICELLO 4,SUPV DIST 1,,,Write-in,0,0,0
+Jones,OX-OXFORD,SUPV DIST 1,,,Write-in,0,0,0
+Jones,RLWS-RICHLAND/WASHINGTON,SUPV DIST 1,,,Write-in,0,0,0
+Jones,ROHA-ROME/HALE,SUPV DIST 1,,,Write-in,0,0,0
+Jones,SGMC-SC GRV/MADISON/CLAY,SUPV DIST 1,,,Write-in,0,0,0
+Jones,WY-WYOMING,SUPV DIST 1,,,Write-in,0,0,0
+Jones,ANN-ANAMOSA NORTH/CASS,SUPV DIST 2,,DEM,Joe Oswald,804,272,532
+Jones,ANS-ANAMOSA SOUTH/JACKSON,SUPV DIST 2,,DEM,Joe Oswald,1154,386,768
+Jones,CGLW-CASTLE GRV/LOV/WAYN,SUPV DIST 2,,DEM,Joe Oswald,1014,418,596
+Jones,FV-FAIRVIEW,SUPV DIST 2,,DEM,Joe Oswald,838,255,583
+Jones,GF-GREENFIELD,SUPV DIST 2,,DEM,Joe Oswald,266,158,108
+Jones,MN1-MONTICELLO 1,SUPV DIST 2,,DEM,Joe Oswald,387,180,207
+Jones,MN2-MONTICELLO 2,SUPV DIST 2,,DEM,Joe Oswald,474,196,278
+Jones,MN3-MONTICELLO 3,SUPV DIST 2,,DEM,Joe Oswald,334,162,172
+Jones,MN4-MONTICELLO 4,SUPV DIST 2,,DEM,Joe Oswald,414,132,282
+Jones,OX-OXFORD,SUPV DIST 2,,DEM,Joe Oswald,217,147,70
+Jones,RLWS-RICHLAND/WASHINGTON,SUPV DIST 2,,DEM,Joe Oswald,434,206,228
+Jones,ROHA-ROME/HALE,SUPV DIST 2,,DEM,Joe Oswald,516,261,255
+Jones,SGMC-SC GRV/MADISON/CLAY,SUPV DIST 2,,DEM,Joe Oswald,504,256,248
+Jones,WY-WYOMING,SUPV DIST 2,,DEM,Joe Oswald,303,168,135
+Jones,ANN-ANAMOSA NORTH/CASS,SUPV DIST 2,,,Write-in,21,11,10
+Jones,ANS-ANAMOSA SOUTH/JACKSON,SUPV DIST 2,,,Write-in,30,15,15
+Jones,CGLW-CASTLE GRV/LOV/WAYN,SUPV DIST 2,,,Write-in,28,15,13
+Jones,FV-FAIRVIEW,SUPV DIST 2,,,Write-in,29,18,11
+Jones,GF-GREENFIELD,SUPV DIST 2,,,Write-in,10,7,3
+Jones,MN1-MONTICELLO 1,SUPV DIST 2,,,Write-in,10,3,7
+Jones,MN2-MONTICELLO 2,SUPV DIST 2,,,Write-in,14,9,5
+Jones,MN3-MONTICELLO 3,SUPV DIST 2,,,Write-in,11,6,5
+Jones,MN4-MONTICELLO 4,SUPV DIST 2,,,Write-in,6,4,2
+Jones,OX-OXFORD,SUPV DIST 2,,,Write-in,11,10,1
+Jones,RLWS-RICHLAND/WASHINGTON,SUPV DIST 2,,,Write-in,23,14,9
+Jones,ROHA-ROME/HALE,SUPV DIST 2,,,Write-in,9,7,2
+Jones,SGMC-SC GRV/MADISON/CLAY,SUPV DIST 2,,,Write-in,13,9,4
+Jones,WY-WYOMING,SUPV DIST 2,,,Write-in,7,7,0
+Jones,ANN-ANAMOSA NORTH/CASS,SUPV DIST 5,,REP,Jeff Swisher,893,377,516
+Jones,ANS-ANAMOSA SOUTH/JACKSON,SUPV DIST 5,,REP,Jeff Swisher,1215,499,716
+Jones,CGLW-CASTLE GRV/LOV/WAYN,SUPV DIST 5,,REP,Jeff Swisher,963,468,495
+Jones,FV-FAIRVIEW,SUPV DIST 5,,REP,Jeff Swisher,986,418,568
+Jones,GF-GREENFIELD,SUPV DIST 5,,REP,Jeff Swisher,300,195,105
+Jones,MN1-MONTICELLO 1,SUPV DIST 5,,REP,Jeff Swisher,335,183,152
+Jones,MN2-MONTICELLO 2,SUPV DIST 5,,REP,Jeff Swisher,408,211,197
+Jones,MN3-MONTICELLO 3,SUPV DIST 5,,REP,Jeff Swisher,275,166,109
+Jones,MN4-MONTICELLO 4,SUPV DIST 5,,REP,Jeff Swisher,304,129,175
+Jones,OX-OXFORD,SUPV DIST 5,,REP,Jeff Swisher,239,185,54
+Jones,RLWS-RICHLAND/WASHINGTON,SUPV DIST 5,,REP,Jeff Swisher,514,319,195
+Jones,ROHA-ROME/HALE,SUPV DIST 5,,REP,Jeff Swisher,543,332,211
+Jones,SGMC-SC GRV/MADISON/CLAY,SUPV DIST 5,,REP,Jeff Swisher,544,347,197
+Jones,WY-WYOMING,SUPV DIST 5,,REP,Jeff Swisher,326,211,115
+Jones,ANN-ANAMOSA NORTH/CASS,SUPV DIST 5,,DEM,Stuart Adams,285,72,213
+Jones,ANS-ANAMOSA SOUTH/JACKSON,SUPV DIST 5,,DEM,Stuart Adams,433,114,319
+Jones,CGLW-CASTLE GRV/LOV/WAYN,SUPV DIST 5,,DEM,Stuart Adams,290,65,225
+Jones,FV-FAIRVIEW,SUPV DIST 5,,DEM,Stuart Adams,289,43,246
+Jones,GF-GREENFIELD,SUPV DIST 5,,DEM,Stuart Adams,99,51,48
+Jones,MN1-MONTICELLO 1,SUPV DIST 5,,DEM,Stuart Adams,131,36,95
+Jones,MN2-MONTICELLO 2,SUPV DIST 5,,DEM,Stuart Adams,158,35,123
+Jones,MN3-MONTICELLO 3,SUPV DIST 5,,DEM,Stuart Adams,130,41,89
+Jones,MN4-MONTICELLO 4,SUPV DIST 5,,DEM,Stuart Adams,168,29,139
+Jones,OX-OXFORD,SUPV DIST 5,,DEM,Stuart Adams,97,49,48
+Jones,RLWS-RICHLAND/WASHINGTON,SUPV DIST 5,,DEM,Stuart Adams,163,44,119
+Jones,ROHA-ROME/HALE,SUPV DIST 5,,DEM,Stuart Adams,195,67,128
+Jones,SGMC-SC GRV/MADISON/CLAY,SUPV DIST 5,,DEM,Stuart Adams,133,37,96
+Jones,WY-WYOMING,SUPV DIST 5,,DEM,Stuart Adams,97,28,69
+Jones,ANN-ANAMOSA NORTH/CASS,SUPV DIST 5,,,Write-in,0,0,0
+Jones,ANS-ANAMOSA SOUTH/JACKSON,SUPV DIST 5,,,Write-in,1,1,0
+Jones,CGLW-CASTLE GRV/LOV/WAYN,SUPV DIST 5,,,Write-in,2,1,1
+Jones,FV-FAIRVIEW,SUPV DIST 5,,,Write-in,1,1,0
+Jones,GF-GREENFIELD,SUPV DIST 5,,,Write-in,0,0,0
+Jones,MN1-MONTICELLO 1,SUPV DIST 5,,,Write-in,0,0,0
+Jones,MN2-MONTICELLO 2,SUPV DIST 5,,,Write-in,0,0,0
+Jones,MN3-MONTICELLO 3,SUPV DIST 5,,,Write-in,0,0,0
+Jones,MN4-MONTICELLO 4,SUPV DIST 5,,,Write-in,0,0,0
+Jones,OX-OXFORD,SUPV DIST 5,,,Write-in,0,0,0
+Jones,RLWS-RICHLAND/WASHINGTON,SUPV DIST 5,,,Write-in,0,0,0
+Jones,ROHA-ROME/HALE,SUPV DIST 5,,,Write-in,0,0,0
+Jones,SGMC-SC GRV/MADISON/CLAY,SUPV DIST 5,,,Write-in,0,0,0
+Jones,WY-WYOMING,SUPV DIST 5,,,Write-in,0,0,0
+Jones,ANN-ANAMOSA NORTH/CASS,CO AUDITOR,,REP,Whitney Hein,678,322,356
+Jones,ANS-ANAMOSA SOUTH/JACKSON,CO AUDITOR,,REP,Whitney Hein,922,433,489
+Jones,CGLW-CASTLE GRV/LOV/WAYN,CO AUDITOR,,REP,Whitney Hein,857,426,431
+Jones,FV-FAIRVIEW,CO AUDITOR,,REP,Whitney Hein,827,370,457
+Jones,GF-GREENFIELD,CO AUDITOR,,REP,Whitney Hein,273,180,93
+Jones,MN1-MONTICELLO 1,CO AUDITOR,,REP,Whitney Hein,291,166,125
+Jones,MN2-MONTICELLO 2,CO AUDITOR,,REP,Whitney Hein,353,198,155
+Jones,MN3-MONTICELLO 3,CO AUDITOR,,REP,Whitney Hein,239,138,101
+Jones,MN4-MONTICELLO 4,CO AUDITOR,,REP,Whitney Hein,286,115,171
+Jones,OX-OXFORD,CO AUDITOR,,REP,Whitney Hein,207,160,47
+Jones,RLWS-RICHLAND/WASHINGTON,CO AUDITOR,,REP,Whitney Hein,478,302,176
+Jones,ROHA-ROME/HALE,CO AUDITOR,,REP,Whitney Hein,470,305,165
+Jones,SGMC-SC GRV/MADISON/CLAY,CO AUDITOR,,REP,Whitney Hein,488,326,162
+Jones,WY-WYOMING,CO AUDITOR,,REP,Whitney Hein,285,182,103
+Jones,ANN-ANAMOSA NORTH/CASS,CO AUDITOR,,DEM,Sarah L. Power,458,116,342
+Jones,ANS-ANAMOSA SOUTH/JACKSON,CO AUDITOR,,DEM,Sarah L. Power,666,161,505
+Jones,CGLW-CASTLE GRV/LOV/WAYN,CO AUDITOR,,DEM,Sarah L. Power,389,104,285
+Jones,FV-FAIRVIEW,CO AUDITOR,,DEM,Sarah L. Power,419,82,337
+Jones,GF-GREENFIELD,CO AUDITOR,,DEM,Sarah L. Power,128,64,64
+Jones,MN1-MONTICELLO 1,CO AUDITOR,,DEM,Sarah L. Power,175,51,124
+Jones,MN2-MONTICELLO 2,CO AUDITOR,,DEM,Sarah L. Power,209,49,160
+Jones,MN3-MONTICELLO 3,CO AUDITOR,,DEM,Sarah L. Power,168,69,99
+Jones,MN4-MONTICELLO 4,CO AUDITOR,,DEM,Sarah L. Power,181,41,140
+Jones,OX-OXFORD,CO AUDITOR,,DEM,Sarah L. Power,125,72,53
+Jones,RLWS-RICHLAND/WASHINGTON,CO AUDITOR,,DEM,Sarah L. Power,201,53,148
+Jones,ROHA-ROME/HALE,CO AUDITOR,,DEM,Sarah L. Power,263,91,172
+Jones,SGMC-SC GRV/MADISON/CLAY,CO AUDITOR,,DEM,Sarah L. Power,181,52,129
+Jones,WY-WYOMING,CO AUDITOR,,DEM,Sarah L. Power,126,48,78
+Jones,ANN-ANAMOSA NORTH/CASS,CO AUDITOR,,,Write-in,2,0,2
+Jones,ANS-ANAMOSA SOUTH/JACKSON,CO AUDITOR,,,Write-in,1,0,1
+Jones,CGLW-CASTLE GRV/LOV/WAYN,CO AUDITOR,,,Write-in,4,0,4
+Jones,FV-FAIRVIEW,CO AUDITOR,,,Write-in,2,2,0
+Jones,GF-GREENFIELD,CO AUDITOR,,,Write-in,0,0,0
+Jones,MN1-MONTICELLO 1,CO AUDITOR,,,Write-in,0,0,0
+Jones,MN2-MONTICELLO 2,CO AUDITOR,,,Write-in,2,1,1
+Jones,MN3-MONTICELLO 3,CO AUDITOR,,,Write-in,1,1,0
+Jones,MN4-MONTICELLO 4,CO AUDITOR,,,Write-in,0,0,0
+Jones,OX-OXFORD,CO AUDITOR,,,Write-in,0,0,0
+Jones,RLWS-RICHLAND/WASHINGTON,CO AUDITOR,,,Write-in,3,3,0
+Jones,ROHA-ROME/HALE,CO AUDITOR,,,Write-in,1,0,1
+Jones,SGMC-SC GRV/MADISON/CLAY,CO AUDITOR,,,Write-in,1,0,1
+Jones,WY-WYOMING,CO AUDITOR,,,Write-in,1,1,0
+Jones,ANN-ANAMOSA NORTH/CASS,CO SHERIFF,,REP,Greg A. Graver,1060,422,638
+Jones,ANS-ANAMOSA SOUTH/JACKSON,CO SHERIFF,,REP,Greg A. Graver,1512,578,934
+Jones,CGLW-CASTLE GRV/LOV/WAYN,CO SHERIFF,,REP,Greg A. Graver,1219,527,692
+Jones,FV-FAIRVIEW,CO SHERIFF,,REP,Greg A. Graver,1160,439,721
+Jones,GF-GREENFIELD,CO SHERIFF,,REP,Greg A. Graver,372,231,141
+Jones,MN1-MONTICELLO 1,CO SHERIFF,,REP,Greg A. Graver,451,220,231
+Jones,MN2-MONTICELLO 2,CO SHERIFF,,REP,Greg A. Graver,549,251,298
+Jones,MN3-MONTICELLO 3,CO SHERIFF,,REP,Greg A. Graver,377,198,179
+Jones,MN4-MONTICELLO 4,CO SHERIFF,,REP,Greg A. Graver,448,154,294
+Jones,OX-OXFORD,CO SHERIFF,,REP,Greg A. Graver,315,227,88
+Jones,RLWS-RICHLAND/WASHINGTON,CO SHERIFF,,REP,Greg A. Graver,623,348,275
+Jones,ROHA-ROME/HALE,CO SHERIFF,,REP,Greg A. Graver,682,385,297
+Jones,SGMC-SC GRV/MADISON/CLAY,CO SHERIFF,,REP,Greg A. Graver,658,380,278
+Jones,WY-WYOMING,CO SHERIFF,,REP,Greg A. Graver,402,237,165
+Jones,ANN-ANAMOSA NORTH/CASS,CO SHERIFF,,,Write-in,17,8,9
+Jones,ANS-ANAMOSA SOUTH/JACKSON,CO SHERIFF,,,Write-in,12,6,6
+Jones,CGLW-CASTLE GRV/LOV/WAYN,CO SHERIFF,,,Write-in,9,2,7
+Jones,FV-FAIRVIEW,CO SHERIFF,,,Write-in,10,5,5
+Jones,GF-GREENFIELD,CO SHERIFF,,,Write-in,2,1,1
+Jones,MN1-MONTICELLO 1,CO SHERIFF,,,Write-in,2,1,1
+Jones,MN2-MONTICELLO 2,CO SHERIFF,,,Write-in,3,0,3
+Jones,MN3-MONTICELLO 3,CO SHERIFF,,,Write-in,7,2,5
+Jones,MN4-MONTICELLO 4,CO SHERIFF,,,Write-in,4,1,3
+Jones,OX-OXFORD,CO SHERIFF,,,Write-in,2,1,1
+Jones,RLWS-RICHLAND/WASHINGTON,CO SHERIFF,,,Write-in,4,1,3
+Jones,ROHA-ROME/HALE,CO SHERIFF,,,Write-in,7,4,3
+Jones,SGMC-SC GRV/MADISON/CLAY,CO SHERIFF,,,Write-in,4,1,3
+Jones,WY-WYOMING,CO SHERIFF,,,Write-in,2,2,0
+Jones,ANN-ANAMOSA NORTH/CASS,TWP TRUSTEE,,,Gerald Ehlers Jr.,225,78,147
+Jones,ANN-ANAMOSA NORTH/CASS,TWP TRUSTEE,,,Matt Kula,258,84,174
+Jones,ANN-ANAMOSA NORTH/CASS,TWP TRUSTEE,,,Write-in,0,0,0
+Jones,CGLW-CASTLE GRV/LOV/WAYN,TWP TRUSTEE,,,Kevin Miller,177,71,106
+Jones,CGLW-CASTLE GRV/LOV/WAYN,TWP TRUSTEE,,,Theodore Koehler,145,46,99
+Jones,CGLW-CASTLE GRV/LOV/WAYN,TWP TRUSTEE,,,Write-in,4,2,2
+Jones,CGLW-CASTLE GRV/LOV/WAYN,TWP CLERK,,,Hilary Hogan,178,71,107
+Jones,CGLW-CASTLE GRV/LOV/WAYN,TWP CLERK,,,Write-in,4,2,2
+Jones,SGMC-SC GRV/MADISON/CLAY,TWP TRUSTEE,,,Nick Koppes,100,69,31
+Jones,SGMC-SC GRV/MADISON/CLAY,TWP TRUSTEE,,,Write-in,0,0,0
+Jones,SGMC-SC GRV/MADISON/CLAY,TWP TRUSTEE,,,Donald Supple,1,1,0
+Jones,SGMC-SC GRV/MADISON/CLAY,TWP TRUSTEE,,,Ron Fagan,1,1,0
+Jones,SGMC-SC GRV/MADISON/CLAY,TWP TRUSTEE,,,Gary Fagen,1,1,0
+Jones,SGMC-SC GRV/MADISON/CLAY,TWP TRUSTEE,,,Mark Doll,2,0,2
+Jones,ANN-ANAMOSA NORTH/CASS,TWP TRUSTEE,,,Mark R. Robertson,3,0,3
+Jones,ANS-ANAMOSA SOUTH/JACKSON,TWP TRUSTEE,,,Mark R. Robertson,5,1,4
+Jones,FV-FAIRVIEW,TWP TRUSTEE,,,Mark R. Robertson,823,288,535
+Jones,ANN-ANAMOSA NORTH/CASS,TWP TRUSTEE,,,H. Richard Zimmerman,4,1,3
+Jones,ANS-ANAMOSA SOUTH/JACKSON,TWP TRUSTEE,,,H. Richard Zimmerman,6,2,4
+Jones,FV-FAIRVIEW,TWP TRUSTEE,,,H. Richard Zimmerman,826,286,540
+Jones,ANS-ANAMOSA SOUTH/JACKSON,TWP TRUSTEE,,,Write-in,3,0,3
+Jones,FV-FAIRVIEW,TWP TRUSTEE,,,Write-in,6,4,2
+Jones,GF-GREENFIELD,TWP TRUSTEE,,,Don Von Behren,178,92,86
+Jones,GF-GREENFIELD,TWP TRUSTEE,,,Glenn Chuck Hansen,157,83,74
+Jones,GF-GREENFIELD,TWP TRUSTEE,,,Write-in,0,0,0
+Jones,ROHA-ROME/HALE,TWP TRUSTEE,,,Terry Hamilton,135,54,81
+Jones,ROHA-ROME/HALE,TWP TRUSTEE,,,Brian Eckhardt,137,65,72
+Jones,ROHA-ROME/HALE,TWP TRUSTEE,,,Write-in,0,0,0
+Jones,ROHA-ROME/HALE,TWP TRUSTEE,,,Dan Inglis,169,78,91
+Jones,ANS-ANAMOSA SOUTH/JACKSON,TWP TRUSTEE,,,James M. Luckstead,197,72,125
+Jones,ANS-ANAMOSA SOUTH/JACKSON,TWP TRUSTEE,,,Lance G. Toenjes,194,63,131
+Jones,CGLW-CASTLE GRV/LOV/WAYN,TWP TRUSTEE,,,Robert Ballou,438,167,271
+Jones,CGLW-CASTLE GRV/LOV/WAYN,TWP TRUSTEE,,,Kevin Steiner,509,210,299
+Jones,CGLW-CASTLE GRV/LOV/WAYN,TWP TRUSTEE,,,Kevin Prull,565,237,328
+Jones,SGMC-SC GRV/MADISON/CLAY,TWP TRUSTEE,,,Jason Zamastil,184,110,74
+Jones,SGMC-SC GRV/MADISON/CLAY,TWP TRUSTEE,,,Gale Von Behren,165,94,71
+Jones,OX-OXFORD,TWP TRUSTEE,,,Scott A. Andresen,130,89,41
+Jones,OX-OXFORD,TWP TRUSTEE,,,Clay Pestka,101,66,35
+Jones,OX-OXFORD,TWP TRUSTEE,,,Write-in,0,0,0
+Jones,RLWS-RICHLAND/WASHINGTON,TWP TRUSTEE,,,David Aschbrenner,169,75,94
+Jones,RLWS-RICHLAND/WASHINGTON,TWP TRUSTEE,,,Mike Rogers,163,60,103
+Jones,RLWS-RICHLAND/WASHINGTON,TWP TRUSTEE,,,Write-in,1,0,1
+Jones,ROHA-ROME/HALE,TWP TRUSTEE,,,Dale A. Broulik,157,72,85
+Jones,ROHA-ROME/HALE,TWP TRUSTEE,,,Clarence Kofron,126,50,76
+Jones,SGMC-SC GRV/MADISON/CLAY,TWP TRUSTEE,,,Gary Paulsen,178,73,105
+Jones,SGMC-SC GRV/MADISON/CLAY,TWP TRUSTEE,,,David C. Tobiason,145,56,89
+Jones,RLWS-RICHLAND/WASHINGTON,TWP TRUSTEE,,,Ray Finn,4,1,3
+Jones,RLWS-RICHLAND/WASHINGTON,TWP TRUSTEE,,,RIck Loes,2,1,1
+Jones,RLWS-RICHLAND/WASHINGTON,TWP TRUSTEE,,,Joe Strang,1,0,1
+Jones,RLWS-RICHLAND/WASHINGTON,TWP TRUSTEE,,,Jason Kurt,1,1,0
+Jones,RLWS-RICHLAND/WASHINGTON,TWP TRUSTEE,,,Richard Wegman,1,1,0
+Jones,RLWS-RICHLAND/WASHINGTON,TWP TRUSTEE,,,Matt Manternach,1,1,0
+Jones,RLWS-RICHLAND/WASHINGTON,TWP TRUSTEE,,,Russell Radloff,1,1,0
+Jones,RLWS-RICHLAND/WASHINGTON,TWP TRUSTEE,,,Joe Trumm,1,1,0
+Jones,RLWS-RICHLAND/WASHINGTON,TWP TRUSTEE,,,Jeb Supple,1,0,1
+Jones,RLWS-RICHLAND/WASHINGTON,TWP TRUSTEE,,,Gary Gavin,1,0,1
+Jones,RLWS-RICHLAND/WASHINGTON,TWP TRUSTEE,,,Chris Krapfl,174,101,73
+Jones,CGLW-CASTLE GRV/LOV/WAYN,TWP TRUSTEE,,,Richard J. Wolken,305,125,180
+Jones,CGLW-CASTLE GRV/LOV/WAYN,TWP TRUSTEE,,,Scott F. Lubben,257,102,155
+Jones,WY-WYOMING,TWP TRUSTEE,,,Dennis W. Carstensen,132,62,70
+Jones,WY-WYOMING,TWP TRUSTEE,,,Joseph Bisinger,106,51,55
+Jones,WY-WYOMING,TWP TRUSTEE,,,Write-in,1,1,0
+Jones,ANN-ANAMOSA NORTH/CASS,SOIL & WATER COMM,,,Joe Trumm,669,255,414
+Jones,ANS-ANAMOSA SOUTH/JACKSON,SOIL & WATER COMM,,,Joe Trumm,920,337,583
+Jones,CGLW-CASTLE GRV/LOV/WAYN,SOIL & WATER COMM,,,Joe Trumm,867,356,511
+Jones,FV-FAIRVIEW,SOIL & WATER COMM,,,Joe Trumm,749,264,485
+Jones,GF-GREENFIELD,SOIL & WATER COMM,,,Joe Trumm,228,131,97
+Jones,MN1-MONTICELLO 1,SOIL & WATER COMM,,,Joe Trumm,293,144,149
+Jones,MN2-MONTICELLO 2,SOIL & WATER COMM,,,Joe Trumm,404,180,224
+Jones,MN3-MONTICELLO 3,SOIL & WATER COMM,,,Joe Trumm,254,121,133
+Jones,MN4-MONTICELLO 4,SOIL & WATER COMM,,,Joe Trumm,336,118,218
+Jones,OX-OXFORD,SOIL & WATER COMM,,,Joe Trumm,187,136,51
+Jones,RLWS-RICHLAND/WASHINGTON,SOIL & WATER COMM,,,Joe Trumm,510,274,236
+Jones,ROHA-ROME/HALE,SOIL & WATER COMM,,,Joe Trumm,400,199,201
+Jones,SGMC-SC GRV/MADISON/CLAY,SOIL & WATER COMM,,,Joe Trumm,432,226,206
+Jones,WY-WYOMING,SOIL & WATER COMM,,,Joe Trumm,271,155,116
+Jones,ANN-ANAMOSA NORTH/CASS,SOIL & WATER COMM,,,Janine Sulzner,746,256,490
+Jones,ANS-ANAMOSA SOUTH/JACKSON,SOIL & WATER COMM,,,Janine Sulzner,1049,341,708
+Jones,CGLW-CASTLE GRV/LOV/WAYN,SOIL & WATER COMM,,,Janine Sulzner,892,328,564
+Jones,FV-FAIRVIEW,SOIL & WATER COMM,,,Janine Sulzner,857,280,577
+Jones,GF-GREENFIELD,SOIL & WATER COMM,,,Janine Sulzner,264,154,110
+Jones,MN1-MONTICELLO 1,SOIL & WATER COMM,,,Janine Sulzner,310,130,180
+Jones,MN2-MONTICELLO 2,SOIL & WATER COMM,,,Janine Sulzner,386,141,245
+Jones,MN3-MONTICELLO 3,SOIL & WATER COMM,,,Janine Sulzner,271,124,147
+Jones,MN4-MONTICELLO 4,SOIL & WATER COMM,,,Janine Sulzner,345,102,243
+Jones,OX-OXFORD,SOIL & WATER COMM,,,Janine Sulzner,199,133,66
+Jones,RLWS-RICHLAND/WASHINGTON,SOIL & WATER COMM,,,Janine Sulzner,381,168,213
+Jones,ROHA-ROME/HALE,SOIL & WATER COMM,,,Janine Sulzner,445,216,229
+Jones,SGMC-SC GRV/MADISON/CLAY,SOIL & WATER COMM,,,Janine Sulzner,443,222,221
+Jones,WY-WYOMING,SOIL & WATER COMM,,,Janine Sulzner,259,140,119
+Jones,ANN-ANAMOSA NORTH/CASS,SOIL & WATER COMM,,,Walter E. Laetare,558,189,369
+Jones,ANS-ANAMOSA SOUTH/JACKSON,SOIL & WATER COMM,,,Walter E. Laetare,829,269,560
+Jones,CGLW-CASTLE GRV/LOV/WAYN,SOIL & WATER COMM,,,Walter E. Laetare,719,262,457
+Jones,FV-FAIRVIEW,SOIL & WATER COMM,,,Walter E. Laetare,656,205,451
+Jones,GF-GREENFIELD,SOIL & WATER COMM,,,Walter E. Laetare,222,126,96
+Jones,MN1-MONTICELLO 1,SOIL & WATER COMM,,,Walter E. Laetare,228,98,130
+Jones,MN2-MONTICELLO 2,SOIL & WATER COMM,,,Walter E. Laetare,306,112,194
+Jones,MN3-MONTICELLO 3,SOIL & WATER COMM,,,Walter E. Laetare,216,96,120
+Jones,MN4-MONTICELLO 4,SOIL & WATER COMM,,,Walter E. Laetare,295,85,210
+Jones,OX-OXFORD,SOIL & WATER COMM,,,Walter E. Laetare,235,167,68
+Jones,RLWS-RICHLAND/WASHINGTON,SOIL & WATER COMM,,,Walter E. Laetare,326,144,182
+Jones,ROHA-ROME/HALE,SOIL & WATER COMM,,,Walter E. Laetare,525,278,247
+Jones,SGMC-SC GRV/MADISON/CLAY,SOIL & WATER COMM,,,Walter E. Laetare,405,211,194
+Jones,WY-WYOMING,SOIL & WATER COMM,,,Walter E. Laetare,263,141,122
+Jones,ANN-ANAMOSA NORTH/CASS,SOIL & WATER COMM,,,Write-in,7,1,6
+Jones,ANS-ANAMOSA SOUTH/JACKSON,SOIL & WATER COMM,,,Write-in,5,4,1
+Jones,CGLW-CASTLE GRV/LOV/WAYN,SOIL & WATER COMM,,,Write-in,6,5,1
+Jones,FV-FAIRVIEW,SOIL & WATER COMM,,,Write-in,7,4,3
+Jones,GF-GREENFIELD,SOIL & WATER COMM,,,Write-in,0,0,0
+Jones,MN1-MONTICELLO 1,SOIL & WATER COMM,,,Write-in,2,1,1
+Jones,MN2-MONTICELLO 2,SOIL & WATER COMM,,,Write-in,1,1,0
+Jones,MN3-MONTICELLO 3,SOIL & WATER COMM,,,Write-in,5,0,5
+Jones,MN4-MONTICELLO 4,SOIL & WATER COMM,,,Write-in,0,0,0
+Jones,OX-OXFORD,SOIL & WATER COMM,,,Write-in,0,0,0
+Jones,RLWS-RICHLAND/WASHINGTON,SOIL & WATER COMM,,,Write-in,8,5,3
+Jones,ROHA-ROME/HALE,SOIL & WATER COMM,,,Write-in,3,1,2
+Jones,SGMC-SC GRV/MADISON/CLAY,SOIL & WATER COMM,,,Write-in,3,3,0
+Jones,WY-WYOMING,SOIL & WATER COMM,,,Write-in,2,1,1
+Jones,ANN-ANAMOSA NORTH/CASS,CO AG EXT,,,Brian C. Lubben,722,257,465
+Jones,ANS-ANAMOSA SOUTH/JACKSON,CO AG EXT,,,Brian C. Lubben,1013,340,673
+Jones,CGLW-CASTLE GRV/LOV/WAYN,CO AG EXT,,,Brian C. Lubben,919,373,546
+Jones,FV-FAIRVIEW,CO AG EXT,,,Brian C. Lubben,804,279,525
+Jones,GF-GREENFIELD,CO AG EXT,,,Brian C. Lubben,238,137,101
+Jones,MN1-MONTICELLO 1,CO AG EXT,,,Brian C. Lubben,304,137,167
+Jones,MN2-MONTICELLO 2,CO AG EXT,,,Brian C. Lubben,413,177,236
+Jones,MN3-MONTICELLO 3,CO AG EXT,,,Brian C. Lubben,267,125,142
+Jones,MN4-MONTICELLO 4,CO AG EXT,,,Brian C. Lubben,352,117,235
+Jones,OX-OXFORD,CO AG EXT,,,Brian C. Lubben,187,126,61
+Jones,RLWS-RICHLAND/WASHINGTON,CO AG EXT,,,Brian C. Lubben,417,207,210
+Jones,ROHA-ROME/HALE,CO AG EXT,,,Brian C. Lubben,423,205,218
+Jones,SGMC-SC GRV/MADISON/CLAY,CO AG EXT,,,Brian C. Lubben,421,209,212
+Jones,WY-WYOMING,CO AG EXT,,,Brian C. Lubben,228,125,103
+Jones,ANN-ANAMOSA NORTH/CASS,CO AG EXT,,,Heidi Hall,635,220,415
+Jones,ANS-ANAMOSA SOUTH/JACKSON,CO AG EXT,,,Heidi Hall,888,309,579
+Jones,CGLW-CASTLE GRV/LOV/WAYN,CO AG EXT,,,Heidi Hall,755,286,469
+Jones,FV-FAIRVIEW,CO AG EXT,,,Heidi Hall,739,240,499
+Jones,GF-GREENFIELD,CO AG EXT,,,Heidi Hall,239,138,101
+Jones,MN1-MONTICELLO 1,CO AG EXT,,,Heidi Hall,240,109,131
+Jones,MN2-MONTICELLO 2,CO AG EXT,,,Heidi Hall,324,126,198
+Jones,MN3-MONTICELLO 3,CO AG EXT,,,Heidi Hall,216,99,117
+Jones,MN4-MONTICELLO 4,CO AG EXT,,,Heidi Hall,296,93,203
+Jones,OX-OXFORD,CO AG EXT,,,Heidi Hall,183,126,57
+Jones,RLWS-RICHLAND/WASHINGTON,CO AG EXT,,,Heidi Hall,350,170,180
+Jones,ROHA-ROME/HALE,CO AG EXT,,,Heidi Hall,405,198,207
+Jones,SGMC-SC GRV/MADISON/CLAY,CO AG EXT,,,Heidi Hall,372,185,187
+Jones,WY-WYOMING,CO AG EXT,,,Heidi Hall,229,122,107
+Jones,ANN-ANAMOSA NORTH/CASS,CO AG EXT,,,Landon Hunter,526,177,349
+Jones,ANS-ANAMOSA SOUTH/JACKSON,CO AG EXT,,,Landon Hunter,782,259,523
+Jones,CGLW-CASTLE GRV/LOV/WAYN,CO AG EXT,,,Landon Hunter,700,263,437
+Jones,FV-FAIRVIEW,CO AG EXT,,,Landon Hunter,656,222,434
+Jones,GF-GREENFIELD,CO AG EXT,,,Landon Hunter,203,113,90
+Jones,MN1-MONTICELLO 1,CO AG EXT,,,Landon Hunter,223,96,127
+Jones,MN2-MONTICELLO 2,CO AG EXT,,,Landon Hunter,319,125,194
+Jones,MN3-MONTICELLO 3,CO AG EXT,,,Landon Hunter,208,95,113
+Jones,MN4-MONTICELLO 4,CO AG EXT,,,Landon Hunter,284,83,201
+Jones,OX-OXFORD,CO AG EXT,,,Landon Hunter,191,138,53
+Jones,RLWS-RICHLAND/WASHINGTON,CO AG EXT,,,Landon Hunter,318,150,168
+Jones,ROHA-ROME/HALE,CO AG EXT,,,Landon Hunter,381,180,201
+Jones,SGMC-SC GRV/MADISON/CLAY,CO AG EXT,,,Landon Hunter,404,216,188
+Jones,WY-WYOMING,CO AG EXT,,,Landon Hunter,277,153,124
+Jones,ANN-ANAMOSA NORTH/CASS,CO AG EXT,,,Cindy Dirks,582,203,379
+Jones,ANS-ANAMOSA SOUTH/JACKSON,CO AG EXT,,,Cindy Dirks,885,299,586
+Jones,CGLW-CASTLE GRV/LOV/WAYN,CO AG EXT,,,Cindy Dirks,788,299,489
+Jones,FV-FAIRVIEW,CO AG EXT,,,Cindy Dirks,704,232,472
+Jones,GF-GREENFIELD,CO AG EXT,,,Cindy Dirks,227,128,99
+Jones,MN1-MONTICELLO 1,CO AG EXT,,,Cindy Dirks,270,122,148
+Jones,MN2-MONTICELLO 2,CO AG EXT,,,Cindy Dirks,359,138,221
+Jones,MN3-MONTICELLO 3,CO AG EXT,,,Cindy Dirks,247,118,129
+Jones,MN4-MONTICELLO 4,CO AG EXT,,,Cindy Dirks,324,99,225
+Jones,OX-OXFORD,CO AG EXT,,,Cindy Dirks,210,150,60
+Jones,RLWS-RICHLAND/WASHINGTON,CO AG EXT,,,Cindy Dirks,368,176,192
+Jones,ROHA-ROME/HALE,CO AG EXT,,,Cindy Dirks,449,220,229
+Jones,SGMC-SC GRV/MADISON/CLAY,CO AG EXT,,,Cindy Dirks,449,248,201
+Jones,WY-WYOMING,CO AG EXT,,,Cindy Dirks,305,165,140
+Jones,ANN-ANAMOSA NORTH/CASS,CO AG EXT,,,Write-in,9,5,4
+Jones,ANS-ANAMOSA SOUTH/JACKSON,CO AG EXT,,,Write-in,3,2,1
+Jones,CGLW-CASTLE GRV/LOV/WAYN,CO AG EXT,,,Write-in,11,9,2
+Jones,FV-FAIRVIEW,CO AG EXT,,,Write-in,6,1,5
+Jones,GF-GREENFIELD,CO AG EXT,,,Write-in,2,2,0
+Jones,MN1-MONTICELLO 1,CO AG EXT,,,Write-in,1,1,0
+Jones,MN2-MONTICELLO 2,CO AG EXT,,,Write-in,2,1,1
+Jones,MN3-MONTICELLO 3,CO AG EXT,,,Write-in,7,0,7
+Jones,MN4-MONTICELLO 4,CO AG EXT,,,Write-in,0,0,0
+Jones,OX-OXFORD,CO AG EXT,,,Write-in,0,0,0
+Jones,RLWS-RICHLAND/WASHINGTON,CO AG EXT,,,Write-in,4,1,3
+Jones,ROHA-ROME/HALE,CO AG EXT,,,Write-in,3,0,3
+Jones,SGMC-SC GRV/MADISON/CLAY,CO AG EXT,,,Write-in,6,6,0
+Jones,WY-WYOMING,CO AG EXT,,,Write-in,5,4,1
+Jones,ANN-ANAMOSA NORTH/CASS,Supreme Court Justice,,,Yes,618,240,378
+Jones,ANS-ANAMOSA SOUTH/JACKSON,Supreme Court Justice,,,Yes,904,358,546
+Jones,CGLW-CASTLE GRV/LOV/WAYN,Supreme Court Justice,,,Yes,723,320,403
+Jones,FV-FAIRVIEW,Supreme Court Justice,,,Yes,701,263,438
+Jones,GF-GREENFIELD,Supreme Court Justice,,,Yes,222,141,81
+Jones,MN1-MONTICELLO 1,Supreme Court Justice,,,Yes,265,131,134
+Jones,MN2-MONTICELLO 2,Supreme Court Justice,,,Yes,321,154,167
+Jones,MN3-MONTICELLO 3,Supreme Court Justice,,,Yes,236,133,103
+Jones,MN4-MONTICELLO 4,Supreme Court Justice,,,Yes,271,90,181
+Jones,OX-OXFORD,Supreme Court Justice,,,Yes,188,132,56
+Jones,RLWS-RICHLAND/WASHINGTON,Supreme Court Justice,,,Yes,376,204,172
+Jones,ROHA-ROME/HALE,Supreme Court Justice,,,Yes,423,217,206
+Jones,SGMC-SC GRV/MADISON/CLAY,Supreme Court Justice,,,Yes,367,201,166
+Jones,WY-WYOMING,Supreme Court Justice,,,Yes,253,148,105
+Jones,ANN-ANAMOSA NORTH/CASS,Supreme Court Justice,,,No,295,111,184
+Jones,ANS-ANAMOSA SOUTH/JACKSON,Supreme Court Justice,,,No,380,137,243
+Jones,CGLW-CASTLE GRV/LOV/WAYN,Supreme Court Justice,,,No,267,111,156
+Jones,FV-FAIRVIEW,Supreme Court Justice,,,No,287,98,189
+Jones,GF-GREENFIELD,Supreme Court Justice,,,No,98,51,47
+Jones,MN1-MONTICELLO 1,Supreme Court Justice,,,No,114,55,59
+Jones,MN2-MONTICELLO 2,Supreme Court Justice,,,No,137,52,85
+Jones,MN3-MONTICELLO 3,Supreme Court Justice,,,No,99,43,56
+Jones,MN4-MONTICELLO 4,Supreme Court Justice,,,No,99,38,61
+Jones,OX-OXFORD,Supreme Court Justice,,,No,70,43,27
+Jones,RLWS-RICHLAND/WASHINGTON,Supreme Court Justice,,,No,104,50,54
+Jones,ROHA-ROME/HALE,Supreme Court Justice,,,No,157,86,71
+Jones,SGMC-SC GRV/MADISON/CLAY,Supreme Court Justice,,,No,152,88,64
+Jones,WY-WYOMING,Supreme Court Justice,,,No,76,39,37
+Jones,ANN-ANAMOSA NORTH/CASS,Court of Appeals Judge,,,Yes,620,238,382
+Jones,ANS-ANAMOSA SOUTH/JACKSON,Court of Appeals Judge,,,Yes,923,360,563
+Jones,CGLW-CASTLE GRV/LOV/WAYN,Court of Appeals Judge,,,Yes,735,322,413
+Jones,FV-FAIRVIEW,Court of Appeals Judge,,,Yes,718,262,456
+Jones,GF-GREENFIELD,Court of Appeals Judge,,,Yes,222,140,82
+Jones,MN1-MONTICELLO 1,Court of Appeals Judge,,,Yes,265,127,138
+Jones,MN2-MONTICELLO 2,Court of Appeals Judge,,,Yes,328,154,174
+Jones,MN3-MONTICELLO 3,Court of Appeals Judge,,,Yes,248,133,115
+Jones,MN4-MONTICELLO 4,Court of Appeals Judge,,,Yes,278,89,189
+Jones,OX-OXFORD,Court of Appeals Judge,,,Yes,188,137,51
+Jones,RLWS-RICHLAND/WASHINGTON,Court of Appeals Judge,,,Yes,361,194,167
+Jones,ROHA-ROME/HALE,Court of Appeals Judge,,,Yes,412,217,195
+Jones,SGMC-SC GRV/MADISON/CLAY,Court of Appeals Judge,,,Yes,357,191,166
+Jones,WY-WYOMING,Court of Appeals Judge,,,Yes,255,150,105
+Jones,ANN-ANAMOSA NORTH/CASS,Court of Appeals Judge,,,No,273,108,165
+Jones,ANS-ANAMOSA SOUTH/JACKSON,Court of Appeals Judge,,,No,338,128,210
+Jones,CGLW-CASTLE GRV/LOV/WAYN,Court of Appeals Judge,,,No,242,104,138
+Jones,FV-FAIRVIEW,Court of Appeals Judge,,,No,236,97,139
+Jones,GF-GREENFIELD,Court of Appeals Judge,,,No,89,49,40
+Jones,MN1-MONTICELLO 1,Court of Appeals Judge,,,No,106,54,52
+Jones,MN2-MONTICELLO 2,Court of Appeals Judge,,,No,128,53,75
+Jones,MN3-MONTICELLO 3,Court of Appeals Judge,,,No,87,43,44
+Jones,MN4-MONTICELLO 4,Court of Appeals Judge,,,No,90,37,53
+Jones,OX-OXFORD,Court of Appeals Judge,,,No,69,40,29
+Jones,RLWS-RICHLAND/WASHINGTON,Court of Appeals Judge,,,No,97,52,45
+Jones,ROHA-ROME/HALE,Court of Appeals Judge,,,No,166,88,78
+Jones,SGMC-SC GRV/MADISON/CLAY,Court of Appeals Judge,,,No,152,93,59
+Jones,WY-WYOMING,Court of Appeals Judge,,,No,71,36,35
+Jones,ANN-ANAMOSA NORTH/CASS,District 6 Judge,,,Yes,628,244,384
+Jones,ANS-ANAMOSA SOUTH/JACKSON,District 6 Judge,,,Yes,929,361,568
+Jones,CGLW-CASTLE GRV/LOV/WAYN,District 6 Judge,,,Yes,728,315,413
+Jones,FV-FAIRVIEW,District 6 Judge,,,Yes,734,259,475
+Jones,GF-GREENFIELD,District 6 Judge,,,Yes,225,139,86
+Jones,MN1-MONTICELLO 1,District 6 Judge,,,Yes,271,130,141
+Jones,MN2-MONTICELLO 2,District 6 Judge,,,Yes,339,160,179
+Jones,MN3-MONTICELLO 3,District 6 Judge,,,Yes,251,137,114
+Jones,MN4-MONTICELLO 4,District 6 Judge,,,Yes,278,86,192
+Jones,OX-OXFORD,District 6 Judge,,,Yes,188,135,53
+Jones,RLWS-RICHLAND/WASHINGTON,District 6 Judge,,,Yes,355,193,162
+Jones,ROHA-ROME/HALE,District 6 Judge,,,Yes,411,219,192
+Jones,SGMC-SC GRV/MADISON/CLAY,District 6 Judge,,,Yes,351,191,160
+Jones,WY-WYOMING,District 6 Judge,,,Yes,260,150,110
+Jones,ANN-ANAMOSA NORTH/CASS,District 6 Judge,,,No,264,107,157
+Jones,ANS-ANAMOSA SOUTH/JACKSON,District 6 Judge,,,No,325,124,201
+Jones,CGLW-CASTLE GRV/LOV/WAYN,District 6 Judge,,,No,243,106,137
+Jones,FV-FAIRVIEW,District 6 Judge,,,No,230,105,125
+Jones,GF-GREENFIELD,District 6 Judge,,,No,87,54,33
+Jones,MN1-MONTICELLO 1,District 6 Judge,,,No,101,52,49
+Jones,MN2-MONTICELLO 2,District 6 Judge,,,No,116,47,69
+Jones,MN3-MONTICELLO 3,District 6 Judge,,,No,84,39,45
+Jones,MN4-MONTICELLO 4,District 6 Judge,,,No,90,39,51
+Jones,OX-OXFORD,District 6 Judge,,,No,76,48,28
+Jones,RLWS-RICHLAND/WASHINGTON,District 6 Judge,,,No,101,54,47
+Jones,ROHA-ROME/HALE,District 6 Judge,,,No,163,82,81
+Jones,SGMC-SC GRV/MADISON/CLAY,District 6 Judge,,,No,159,92,67
+Jones,WY-WYOMING,District 6 Judge,,,No,65,36,29
+Jones,ANN-ANAMOSA NORTH/CASS,District 6 Associate Judge,,,Yes,642,246,396
+Jones,ANS-ANAMOSA SOUTH/JACKSON,District 6 Associate Judge,,,Yes,956,363,593
+Jones,CGLW-CASTLE GRV/LOV/WAYN,District 6 Associate Judge,,,Yes,739,325,414
+Jones,FV-FAIRVIEW,District 6 Associate Judge,,,Yes,741,277,464
+Jones,GF-GREENFIELD,District 6 Associate Judge,,,Yes,230,141,89
+Jones,MN1-MONTICELLO 1,District 6 Associate Judge,,,Yes,278,132,146
+Jones,MN2-MONTICELLO 2,District 6 Associate Judge,,,Yes,340,166,174
+Jones,MN3-MONTICELLO 3,District 6 Associate Judge,,,Yes,245,137,108
+Jones,MN4-MONTICELLO 4,District 6 Associate Judge,,,Yes,281,89,192
+Jones,OX-OXFORD,District 6 Associate Judge,,,Yes,192,139,53
+Jones,RLWS-RICHLAND/WASHINGTON,District 6 Associate Judge,,,Yes,369,200,169
+Jones,ROHA-ROME/HALE,District 6 Associate Judge,,,Yes,427,223,204
+Jones,SGMC-SC GRV/MADISON/CLAY,District 6 Associate Judge,,,Yes,377,210,167
+Jones,WY-WYOMING,District 6 Associate Judge,,,Yes,261,153,108
+Jones,ANN-ANAMOSA NORTH/CASS,District 6 Associate Judge,,,No,243,100,143
+Jones,ANS-ANAMOSA SOUTH/JACKSON,District 6 Associate Judge,,,No,288,112,176
+Jones,CGLW-CASTLE GRV/LOV/WAYN,District 6 Associate Judge,,,No,228,94,134
+Jones,FV-FAIRVIEW,District 6 Associate Judge,,,No,214,83,131
+Jones,GF-GREENFIELD,District 6 Associate Judge,,,No,80,48,32
+Jones,MN1-MONTICELLO 1,District 6 Associate Judge,,,No,95,50,45
+Jones,MN2-MONTICELLO 2,District 6 Associate Judge,,,No,114,40,74
+Jones,MN3-MONTICELLO 3,District 6 Associate Judge,,,No,86,37,49
+Jones,MN4-MONTICELLO 4,District 6 Associate Judge,,,No,85,36,49
+Jones,OX-OXFORD,District 6 Associate Judge,,,No,67,39,28
+Jones,RLWS-RICHLAND/WASHINGTON,District 6 Associate Judge,,,No,79,44,35
+Jones,ROHA-ROME/HALE,District 6 Associate Judge,,,No,152,81,71
+Jones,SGMC-SC GRV/MADISON/CLAY,District 6 Associate Judge,,,No,128,73,55
+Jones,WY-WYOMING,District 6 Associate Judge,,,No,62,33,29
+Jones,ANN-ANAMOSA NORTH/CASS,Question 1 and propose amendment or amendments to same?,,,Yes,309,124,185
+Jones,ANS-ANAMOSA SOUTH/JACKSON,Question 1 and propose amendment or amendments to same?,,,Yes,477,186,291
+Jones,CGLW-CASTLE GRV/LOV/WAYN,Question 1 and propose amendment or amendments to same?,,,Yes,342,161,181
+Jones,FV-FAIRVIEW,Question 1 and propose amendment or amendments to same?,,,Yes,320,111,209
+Jones,GF-GREENFIELD,Question 1 and propose amendment or amendments to same?,,,Yes,126,86,40
+Jones,MN1-MONTICELLO 1,Question 1 and propose amendment or amendments to same?,,,Yes,140,65,75
+Jones,MN2-MONTICELLO 2,Question 1 and propose amendment or amendments to same?,,,Yes,166,75,91
+Jones,MN3-MONTICELLO 3,Question 1 and propose amendment or amendments to same?,,,Yes,145,74,71
+Jones,MN4-MONTICELLO 4,Question 1 and propose amendment or amendments to same?,,,Yes,158,44,114
+Jones,OX-OXFORD,Question 1 and propose amendment or amendments to same?,,,Yes,96,63,33
+Jones,RLWS-RICHLAND/WASHINGTON,Question 1 and propose amendment or amendments to same?,,,Yes,176,102,74
+Jones,ROHA-ROME/HALE,Question 1 and propose amendment or amendments to same?,,,Yes,215,118,97
+Jones,SGMC-SC GRV/MADISON/CLAY,Question 1 and propose amendment or amendments to same?,,,Yes,175,97,78
+Jones,WY-WYOMING,Question 1 and propose amendment or amendments to same?,,,Yes,110,72,38
+Jones,ANN-ANAMOSA NORTH/CASS,Question 1 and propose amendment or amendments to same?,,,No,671,247,424
+Jones,ANS-ANAMOSA SOUTH/JACKSON,Question 1 and propose amendment or amendments to same?,,,No,941,348,593
+Jones,CGLW-CASTLE GRV/LOV/WAYN,Question 1 and propose amendment or amendments to same?,,,No,756,302,454
+Jones,FV-FAIRVIEW,Question 1 and propose amendment or amendments to same?,,,No,762,286,476
+Jones,GF-GREENFIELD,Question 1 and propose amendment or amendments to same?,,,No,222,118,104
+Jones,MN1-MONTICELLO 1,Question 1 and propose amendment or amendments to same?,,,No,273,128,145
+Jones,MN2-MONTICELLO 2,Question 1 and propose amendment or amendments to same?,,,No,339,143,196
+Jones,MN3-MONTICELLO 3,Question 1 and propose amendment or amendments to same?,,,No,221,109,112
+Jones,MN4-MONTICELLO 4,Question 1 and propose amendment or amendments to same?,,,No,256,92,164
+Jones,OX-OXFORD,Question 1 and propose amendment or amendments to same?,,,No,193,138,55
+Jones,RLWS-RICHLAND/WASHINGTON,Question 1 and propose amendment or amendments to same?,,,No,351,174,177
+Jones,ROHA-ROME/HALE,Question 1 and propose amendment or amendments to same?,,,No,425,214,211
+Jones,SGMC-SC GRV/MADISON/CLAY,Question 1 and propose amendment or amendments to same?,,,No,390,216,174
+Jones,WY-WYOMING,Question 1 and propose amendment or amendments to same?,,,No,242,130,112

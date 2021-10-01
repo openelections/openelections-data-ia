@@ -1,0 +1,454 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Union,Afton,President,,DEM,Joseph R. Biden and Kamala D. Harris,220,59,161
+Union,Arispe,President,,DEM,Joseph R. Biden and Kamala D. Harris,73,15,58
+Union,CS1 Salem Lutheran Church,President,,DEM,Joseph R. Biden and Kamala D. Harris,223,67,156
+Union,CS2 SWCC,President,,DEM,Joseph R. Biden and Kamala D. Harris,477,106,371
+Union,CS3 Trinity Lutheran Church,President,,DEM,Joseph R. Biden and Kamala D. Harris,336,64,272
+Union,CS4 Supertel,President,,DEM,Joseph R. Biden and Kamala D. Harris,266,57,209
+Union,CS5 Crest Baptist Church,President,,DEM,Joseph R. Biden and Kamala D. Harris,366,82,284
+Union,Lorimor,President,,DEM,Joseph R. Biden and Kamala D. Harris,100,30,70
+Union,Afton,President,,REP,Donald J. Trump and Michael R. Pence,614,392,222
+Union,Arispe,President,,REP,Donald J. Trump and Michael R. Pence,192,111,81
+Union,CS1 Salem Lutheran Church,President,,REP,Donald J. Trump and Michael R. Pence,356,180,176
+Union,CS2 SWCC,President,,REP,Donald J. Trump and Michael R. Pence,1028,402,626
+Union,CS3 Trinity Lutheran Church,President,,REP,Donald J. Trump and Michael R. Pence,423,206,217
+Union,CS4 Supertel,President,,REP,Donald J. Trump and Michael R. Pence,472,209,263
+Union,CS5 Crest Baptist Church,President,,REP,Donald J. Trump and Michael R. Pence,633,291,342
+Union,Lorimor,President,,REP,Donald J. Trump and Michael R. Pence,292,188,104
+Union,Afton,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,0,1
+Union,Arispe,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Union,CS1 Salem Lutheran Church,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Union,CS2 SWCC,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Union,CS3 Trinity Lutheran Church,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,0,1
+Union,CS4 Supertel,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,3,2,1
+Union,CS5 Crest Baptist Church,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,1,0
+Union,Lorimor,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Union,Afton,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Union,Arispe,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Union,CS1 Salem Lutheran Church,President,,CON,Don Blankenship and William Alan Mohr,1,1,0
+Union,CS2 SWCC,President,,CON,Don Blankenship and William Alan Mohr,3,1,2
+Union,CS3 Trinity Lutheran Church,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Union,CS4 Supertel,President,,CON,Don Blankenship and William Alan Mohr,2,2,0
+Union,CS5 Crest Baptist Church,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Union,Lorimor,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Union,Afton,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Union,Arispe,President,,GKH,Ricki Sue King and Dayna R. Chandler,1,0,1
+Union,CS1 Salem Lutheran Church,President,,GKH,Ricki Sue King and Dayna R. Chandler,1,0,1
+Union,CS2 SWCC,President,,GKH,Ricki Sue King and Dayna R. Chandler,1,1,0
+Union,CS3 Trinity Lutheran Church,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Union,CS4 Supertel,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Union,CS5 Crest Baptist Church,President,,GKH,Ricki Sue King and Dayna R. Chandler,1,0,1
+Union,Lorimor,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Union,Afton,President,,GRN,Howie Hawkins and Angela Nicole Walker,0,0,0
+Union,Arispe,President,,GRN,Howie Hawkins and Angela Nicole Walker,0,0,0
+Union,CS1 Salem Lutheran Church,President,,GRN,Howie Hawkins and Angela Nicole Walker,1,1,0
+Union,CS2 SWCC,President,,GRN,Howie Hawkins and Angela Nicole Walker,2,0,2
+Union,CS3 Trinity Lutheran Church,President,,GRN,Howie Hawkins and Angela Nicole Walker,2,1,1
+Union,CS4 Supertel,President,,GRN,Howie Hawkins and Angela Nicole Walker,3,2,1
+Union,CS5 Crest Baptist Church,President,,GRN,Howie Hawkins and Angela Nicole Walker,2,1,1
+Union,Lorimor,President,,GRN,Howie Hawkins and Angela Nicole Walker,0,0,0
+Union,Afton,President,,LIB,Jo Jorgensen and Jeremy Cohen,6,5,1
+Union,Arispe,President,,LIB,Jo Jorgensen and Jeremy Cohen,5,2,3
+Union,CS1 Salem Lutheran Church,President,,LIB,Jo Jorgensen and Jeremy Cohen,8,5,3
+Union,CS2 SWCC,President,,LIB,Jo Jorgensen and Jeremy Cohen,11,4,7
+Union,CS3 Trinity Lutheran Church,President,,LIB,Jo Jorgensen and Jeremy Cohen,5,4,1
+Union,CS4 Supertel,President,,LIB,Jo Jorgensen and Jeremy Cohen,3,3,0
+Union,CS5 Crest Baptist Church,President,,LIB,Jo Jorgensen and Jeremy Cohen,16,7,9
+Union,Lorimor,President,,LIB,Jo Jorgensen and Jeremy Cohen,7,7,0
+Union,Afton,President,,,Brock Pierce and Karla Ballard,0,0,0
+Union,Arispe,President,,,Brock Pierce and Karla Ballard,0,0,0
+Union,CS1 Salem Lutheran Church,President,,,Brock Pierce and Karla Ballard,1,0,1
+Union,CS2 SWCC,President,,,Brock Pierce and Karla Ballard,0,0,0
+Union,CS3 Trinity Lutheran Church,President,,,Brock Pierce and Karla Ballard,0,0,0
+Union,CS4 Supertel,President,,,Brock Pierce and Karla Ballard,1,0,1
+Union,CS5 Crest Baptist Church,President,,,Brock Pierce and Karla Ballard,0,0,0
+Union,Lorimor,President,,,Brock Pierce and Karla Ballard,0,0,0
+Union,Afton,President,,,Kanye West and Michelle Tidball,2,1,1
+Union,Arispe,President,,,Kanye West and Michelle Tidball,0,0,0
+Union,CS1 Salem Lutheran Church,President,,,Kanye West and Michelle Tidball,3,1,2
+Union,CS2 SWCC,President,,,Kanye West and Michelle Tidball,3,2,1
+Union,CS3 Trinity Lutheran Church,President,,,Kanye West and Michelle Tidball,1,0,1
+Union,CS4 Supertel,President,,,Kanye West and Michelle Tidball,1,0,1
+Union,CS5 Crest Baptist Church,President,,,Kanye West and Michelle Tidball,1,1,0
+Union,Lorimor,President,,,Kanye West and Michelle Tidball,0,0,0
+Union,Afton,President,,,Write-in,3,1,2
+Union,Arispe,President,,,Write-in,0,0,0
+Union,CS1 Salem Lutheran Church,President,,,Write-in,0,0,0
+Union,CS2 SWCC,President,,,Write-in,3,1,2
+Union,CS3 Trinity Lutheran Church,President,,,Write-in,2,1,1
+Union,CS4 Supertel,President,,,Write-in,3,1,2
+Union,CS5 Crest Baptist Church,President,,,Write-in,2,0,2
+Union,Lorimor,President,,,Write-in,1,1,0
+Union,Afton,U.S. Senate,,DEM,Theresa Greenfield,219,68,151
+Union,Arispe,U.S. Senate,,DEM,Theresa Greenfield,68,16,52
+Union,CS1 Salem Lutheran Church,U.S. Senate,,DEM,Theresa Greenfield,233,78,155
+Union,CS2 SWCC,U.S. Senate,,DEM,Theresa Greenfield,449,113,336
+Union,CS3 Trinity Lutheran Church,U.S. Senate,,DEM,Theresa Greenfield,323,71,252
+Union,CS4 Supertel,U.S. Senate,,DEM,Theresa Greenfield,272,60,212
+Union,CS5 Crest Baptist Church,U.S. Senate,,DEM,Theresa Greenfield,371,85,286
+Union,Lorimor,U.S. Senate,,DEM,Theresa Greenfield,116,40,76
+Union,Afton,U.S. Senate,,REP,Joni Ernst,593,368,225
+Union,Arispe,U.S. Senate,,REP,Joni Ernst,200,112,88
+Union,CS1 Salem Lutheran Church,U.S. Senate,,REP,Joni Ernst,318,152,166
+Union,CS2 SWCC,U.S. Senate,,REP,Joni Ernst,1026,386,640
+Union,CS3 Trinity Lutheran Church,U.S. Senate,,REP,Joni Ernst,394,186,208
+Union,CS4 Supertel,U.S. Senate,,REP,Joni Ernst,431,191,240
+Union,CS5 Crest Baptist Church,U.S. Senate,,REP,Joni Ernst,603,276,327
+Union,Lorimor,U.S. Senate,,REP,Joni Ernst,255,168,87
+Union,Afton,U.S. Senate,,LIB,Rick Stewart,19,12,7
+Union,Arispe,U.S. Senate,,LIB,Rick Stewart,3,0,3
+Union,CS1 Salem Lutheran Church,U.S. Senate,,LIB,Rick Stewart,23,15,8
+Union,CS2 SWCC,U.S. Senate,,LIB,Rick Stewart,25,5,20
+Union,CS3 Trinity Lutheran Church,U.S. Senate,,LIB,Rick Stewart,28,11,17
+Union,CS4 Supertel,U.S. Senate,,LIB,Rick Stewart,29,16,13
+Union,CS5 Crest Baptist Church,U.S. Senate,,LIB,Rick Stewart,30,15,15
+Union,Lorimor,U.S. Senate,,LIB,Rick Stewart,15,10,5
+Union,Afton,U.S. Senate,,,Suzanne Herzog,10,9,1
+Union,Arispe,U.S. Senate,,,Suzanne Herzog,1,0,1
+Union,CS1 Salem Lutheran Church,U.S. Senate,,,Suzanne Herzog,9,4,5
+Union,CS2 SWCC,U.S. Senate,,,Suzanne Herzog,16,8,8
+Union,CS3 Trinity Lutheran Church,U.S. Senate,,,Suzanne Herzog,12,4,8
+Union,CS4 Supertel,U.S. Senate,,,Suzanne Herzog,14,5,9
+Union,CS5 Crest Baptist Church,U.S. Senate,,,Suzanne Herzog,5,4,1
+Union,Lorimor,U.S. Senate,,,Suzanne Herzog,9,5,4
+Union,Afton,U.S. Senate,,,Write-in,0,0,0
+Union,Arispe,U.S. Senate,,,Write-in,0,0,0
+Union,CS1 Salem Lutheran Church,U.S. Senate,,,Write-in,1,0,1
+Union,CS2 SWCC,U.S. Senate,,,Write-in,1,1,0
+Union,CS3 Trinity Lutheran Church,U.S. Senate,,,Write-in,0,0,0
+Union,CS4 Supertel,U.S. Senate,,,Write-in,2,1,1
+Union,CS5 Crest Baptist Church,U.S. Senate,,,Write-in,1,1,0
+Union,Lorimor,U.S. Senate,,,Write-in,0,0,0
+Union,Afton,U.S. House,3,DEM,Cindy Axne,242,77,165
+Union,Arispe,U.S. House,3,DEM,Cindy Axne,82,23,59
+Union,CS1 Salem Lutheran Church,U.S. House,3,DEM,Cindy Axne,245,79,166
+Union,CS2 SWCC,U.S. House,3,DEM,Cindy Axne,498,121,377
+Union,CS3 Trinity Lutheran Church,U.S. House,3,DEM,Cindy Axne,336,68,268
+Union,CS4 Supertel,U.S. House,3,DEM,Cindy Axne,288,70,218
+Union,CS5 Crest Baptist Church,U.S. House,3,DEM,Cindy Axne,396,95,301
+Union,Lorimor,U.S. House,3,DEM,Cindy Axne,114,38,76
+Union,Afton,U.S. House,3,REP,David Young,556,363,193
+Union,Arispe,U.S. House,3,REP,David Young,179,103,76
+Union,CS1 Salem Lutheran Church,U.S. House,3,REP,David Young,301,152,149
+Union,CS2 SWCC,U.S. House,3,REP,David Young,948,367,581
+Union,CS3 Trinity Lutheran Church,U.S. House,3,REP,David Young,377,188,189
+Union,CS4 Supertel,U.S. House,3,REP,David Young,413,182,231
+Union,CS5 Crest Baptist Church,U.S. House,3,REP,David Young,567,269,298
+Union,Lorimor,U.S. House,3,REP,David Young,248,163,85
+Union,Afton,U.S. House,3,LIB,Bryan Jack Holder,32,15,17
+Union,Arispe,U.S. House,3,LIB,Bryan Jack Holder,6,0,6
+Union,CS1 Salem Lutheran Church,U.S. House,3,LIB,Bryan Jack Holder,26,13,13
+Union,CS2 SWCC,U.S. House,3,LIB,Bryan Jack Holder,50,19,31
+Union,CS3 Trinity Lutheran Church,U.S. House,3,LIB,Bryan Jack Holder,36,12,24
+Union,CS4 Supertel,U.S. House,3,LIB,Bryan Jack Holder,37,12,25
+Union,CS5 Crest Baptist Church,U.S. House,3,LIB,Bryan Jack Holder,37,12,25
+Union,Lorimor,U.S. House,3,LIB,Bryan Jack Holder,24,15,9
+Union,Afton,U.S. House,3,,Write-in,0,0,0
+Union,Arispe,U.S. House,3,,Write-in,0,0,0
+Union,CS1 Salem Lutheran Church,U.S. House,3,,Write-in,1,0,1
+Union,CS2 SWCC,U.S. House,3,,Write-in,0,0,0
+Union,CS3 Trinity Lutheran Church,U.S. House,3,,Write-in,1,1,0
+Union,CS4 Supertel,U.S. House,3,,Write-in,3,2,1
+Union,CS5 Crest Baptist Church,U.S. House,3,,Write-in,1,0,1
+Union,Lorimor,U.S. House,3,,Write-in,0,0,0
+Union,Afton,State House,21,DEM,Shaun Kelley,270,109,161
+Union,Arispe,State House,21,DEM,Shaun Kelley,73,22,51
+Union,CS1 Salem Lutheran Church,State House,21,DEM,Shaun Kelley,213,70,143
+Union,CS2 SWCC,State House,21,DEM,Shaun Kelley,480,110,370
+Union,CS3 Trinity Lutheran Church,State House,21,DEM,Shaun Kelley,324,73,251
+Union,CS4 Supertel,State House,21,DEM,Shaun Kelley,285,70,215
+Union,CS5 Crest Baptist Church,State House,21,DEM,Shaun Kelley,381,94,287
+Union,Lorimor,State House,21,DEM,Shaun Kelley,116,44,72
+Union,Afton,State House,21,REP,Tom Moore,512,315,197
+Union,Arispe,State House,21,REP,Tom Moore,175,97,78
+Union,CS1 Salem Lutheran Church,State House,21,REP,Tom Moore,320,163,157
+Union,CS2 SWCC,State House,21,REP,Tom Moore,944,367,577
+Union,CS3 Trinity Lutheran Church,State House,21,REP,Tom Moore,388,181,207
+Union,CS4 Supertel,State House,21,REP,Tom Moore,419,182,237
+Union,CS5 Crest Baptist Church,State House,21,REP,Tom Moore,576,264,312
+Union,Lorimor,State House,21,REP,Tom Moore,249,156,93
+Union,Afton,State House,21,,Write-in,1,1,0
+Union,Arispe,State House,21,,Write-in,1,0,1
+Union,CS1 Salem Lutheran Church,State House,21,,Write-in,3,1,2
+Union,CS2 SWCC,State House,21,,Write-in,1,1,0
+Union,CS3 Trinity Lutheran Church,State House,21,,Write-in,3,2,1
+Union,CS4 Supertel,State House,21,,Write-in,3,1,2
+Union,CS5 Crest Baptist Church,State House,21,,Write-in,2,0,2
+Union,Lorimor,State House,21,,Write-in,1,1,0
+Union,Afton,County Supervisors,,DEM,Dale Cline,161,59,102
+Union,Arispe,County Supervisors,,DEM,Dale Cline,82,21,61
+Union,CS1 Salem Lutheran Church,County Supervisors,,DEM,Dale Cline,209,68,141
+Union,CS2 SWCC,County Supervisors,,DEM,Dale Cline,476,111,365
+Union,CS3 Trinity Lutheran Church,County Supervisors,,DEM,Dale Cline,292,62,230
+Union,CS4 Supertel,County Supervisors,,DEM,Dale Cline,234,62,172
+Union,CS5 Crest Baptist Church,County Supervisors,,DEM,Dale Cline,360,101,259
+Union,Lorimor,County Supervisors,,DEM,Dale Cline,80,28,52
+Union,Afton,County Supervisors,,REP,Dennis Brown,505,258,247
+Union,Arispe,County Supervisors,,REP,Dennis Brown,169,79,90
+Union,CS1 Salem Lutheran Church,County Supervisors,,REP,Dennis Brown,326,138,188
+Union,CS2 SWCC,County Supervisors,,REP,Dennis Brown,980,327,653
+Union,CS3 Trinity Lutheran Church,County Supervisors,,REP,Dennis Brown,453,168,285
+Union,CS4 Supertel,County Supervisors,,REP,Dennis Brown,416,155,261
+Union,CS5 Crest Baptist Church,County Supervisors,,REP,Dennis Brown,634,235,399
+Union,Lorimor,County Supervisors,,REP,Dennis Brown,206,109,97
+Union,Afton,County Supervisors,,REP,Rick Friday,643,372,271
+Union,Arispe,County Supervisors,,REP,Rick Friday,195,105,90
+Union,CS1 Salem Lutheran Church,County Supervisors,,REP,Rick Friday,277,131,146
+Union,CS2 SWCC,County Supervisors,,REP,Rick Friday,912,319,593
+Union,CS3 Trinity Lutheran Church,County Supervisors,,REP,Rick Friday,359,142,217
+Union,CS4 Supertel,County Supervisors,,REP,Rick Friday,414,147,267
+Union,CS5 Crest Baptist Church,County Supervisors,,REP,Rick Friday,568,232,336
+Union,Lorimor,County Supervisors,,REP,Rick Friday,304,177,127
+Union,Afton,County Supervisors,,,Write-in,6,5,1
+Union,Arispe,County Supervisors,,,Write-in,1,0,1
+Union,CS1 Salem Lutheran Church,County Supervisors,,,Write-in,5,2,3
+Union,CS2 SWCC,County Supervisors,,,Write-in,5,1,4
+Union,CS3 Trinity Lutheran Church,County Supervisors,,,Write-in,3,2,1
+Union,CS4 Supertel,County Supervisors,,,Write-in,6,3,3
+Union,CS5 Crest Baptist Church,County Supervisors,,,Write-in,2,0,2
+Union,Lorimor,County Supervisors,,,Write-in,5,5,0
+Union,Afton,County Auditor,,REP,Sandy Hysell,745,408,337
+Union,Arispe,County Auditor,,REP,Sandy Hysell,245,116,129
+Union,CS1 Salem Lutheran Church,County Auditor,,REP,Sandy Hysell,498,214,284
+Union,CS2 SWCC,County Auditor,,REP,Sandy Hysell,1367,460,907
+Union,CS3 Trinity Lutheran Church,County Auditor,,REP,Sandy Hysell,664,238,426
+Union,CS4 Supertel,County Auditor,,REP,Sandy Hysell,655,241,414
+Union,CS5 Crest Baptist Church,County Auditor,,REP,Sandy Hysell,899,336,563
+Union,Lorimor,County Auditor,,REP,Sandy Hysell,355,199,156
+Union,Afton,County Auditor,,,Write-in,2,1,1
+Union,Arispe,County Auditor,,,Write-in,0,0,0
+Union,CS1 Salem Lutheran Church,County Auditor,,,Write-in,4,1,3
+Union,CS2 SWCC,County Auditor,,,Write-in,8,2,6
+Union,CS3 Trinity Lutheran Church,County Auditor,,,Write-in,5,3,2
+Union,CS4 Supertel,County Auditor,,,Write-in,15,5,10
+Union,CS5 Crest Baptist Church,County Auditor,,,Write-in,7,5,2
+Union,Lorimor,County Auditor,,,Write-in,4,3,1
+Union,Afton,County Sheriff,,REP,Mark Shepherd,257,129,128
+Union,Arispe,County Sheriff,,REP,Mark Shepherd,100,44,56
+Union,CS1 Salem Lutheran Church,County Sheriff,,REP,Mark Shepherd,367,170,197
+Union,CS2 SWCC,County Sheriff,,REP,Mark Shepherd,918,307,611
+Union,CS3 Trinity Lutheran Church,County Sheriff,,REP,Mark Shepherd,476,181,295
+Union,CS4 Supertel,County Sheriff,,REP,Mark Shepherd,445,163,282
+Union,CS5 Crest Baptist Church,County Sheriff,,REP,Mark Shepherd,560,219,341
+Union,Lorimor,County Sheriff,,REP,Mark Shepherd,212,102,110
+Union,Afton,County Sheriff,,,Write-in,10,7,3
+Union,Arispe,County Sheriff,,,Write-in,11,6,5
+Union,CS1 Salem Lutheran Church,County Sheriff,,,Write-in,7,2,5
+Union,CS2 SWCC,County Sheriff,,,Write-in,38,25,13
+Union,CS3 Trinity Lutheran Church,County Sheriff,,,Write-in,9,2,7
+Union,CS4 Supertel,County Sheriff,,,Write-in,18,7,11
+Union,CS5 Crest Baptist Church,County Sheriff,,,Write-in,22,9,13
+Union,Lorimor,County Sheriff,,,Write-in,9,7,2
+Union,Afton,County Sheriff,,,Daniel McNeill,439,246,193
+Union,Arispe,County Sheriff,,,Daniel McNeill,125,71,54
+Union,CS1 Salem Lutheran Church,County Sheriff,,,Daniel McNeill,95,39,56
+Union,CS2 SWCC,County Sheriff,,,Daniel McNeill,237,102,135
+Union,CS3 Trinity Lutheran Church,County Sheriff,,,Daniel McNeill,103,38,65
+Union,CS4 Supertel,County Sheriff,,,Daniel McNeill,128,53,75
+Union,CS5 Crest Baptist Church,County Sheriff,,,Daniel McNeill,193,85,108
+Union,Lorimor,County Sheriff,,,Daniel McNeill,125,83,42
+Union,Afton,County Sheriff,,,Brian Burkhalter,15,3,12
+Union,Arispe,County Sheriff,,,Brian Burkhalter,14,4,10
+Union,CS1 Salem Lutheran Church,County Sheriff,,,Brian Burkhalter,51,20,31
+Union,CS2 SWCC,County Sheriff,,,Brian Burkhalter,202,53,149
+Union,CS3 Trinity Lutheran Church,County Sheriff,,,Brian Burkhalter,77,27,50
+Union,CS4 Supertel,County Sheriff,,,Brian Burkhalter,67,16,51
+Union,CS5 Crest Baptist Church,County Sheriff,,,Brian Burkhalter,122,32,90
+Union,Lorimor,County Sheriff,,,Brian Burkhalter,9,5,4
+Union,Afton,Pleasant TWP Trustee,,,Jeff Rice,64,27,37
+Union,Afton,Pleasant TWP Trustee,,,Vernon Lee Kelly Jr,54,19,35
+Union,Afton,Pleasant TWP Trustee,,,Write-in,5,3,2
+Union,Afton,Union County Public Hospital Trustee,,,Sherry McKie,487,247,240
+Union,Arispe,Union County Public Hospital Trustee,,,Sherry McKie,165,74,91
+Union,CS1 Salem Lutheran Church,Union County Public Hospital Trustee,,,Sherry McKie,363,150,213
+Union,CS2 SWCC,Union County Public Hospital Trustee,,,Sherry McKie,1003,314,689
+Union,CS3 Trinity Lutheran Church,Union County Public Hospital Trustee,,,Sherry McKie,490,168,322
+Union,CS4 Supertel,Union County Public Hospital Trustee,,,Sherry McKie,444,154,290
+Union,CS5 Crest Baptist Church,Union County Public Hospital Trustee,,,Sherry McKie,668,247,421
+Union,Lorimor,Union County Public Hospital Trustee,,,Sherry McKie,233,121,112
+Union,Afton,Union County Public Hospital Trustee,,,Julie Lanning,479,240,239
+Union,Arispe,Union County Public Hospital Trustee,,,Julie Lanning,166,70,96
+Union,CS1 Salem Lutheran Church,Union County Public Hospital Trustee,,,Julie Lanning,374,150,224
+Union,CS2 SWCC,Union County Public Hospital Trustee,,,Julie Lanning,1045,340,705
+Union,CS3 Trinity Lutheran Church,Union County Public Hospital Trustee,,,Julie Lanning,487,169,318
+Union,CS4 Supertel,Union County Public Hospital Trustee,,,Julie Lanning,464,154,310
+Union,CS5 Crest Baptist Church,Union County Public Hospital Trustee,,,Julie Lanning,708,264,444
+Union,Lorimor,Union County Public Hospital Trustee,,,Julie Lanning,238,124,114
+Union,Afton,Union County Public Hospital Trustee,,,Write-in,3,2,1
+Union,Arispe,Union County Public Hospital Trustee,,,Write-in,3,0,3
+Union,CS1 Salem Lutheran Church,Union County Public Hospital Trustee,,,Write-in,7,0,7
+Union,CS2 SWCC,Union County Public Hospital Trustee,,,Write-in,18,7,11
+Union,CS3 Trinity Lutheran Church,Union County Public Hospital Trustee,,,Write-in,4,3,1
+Union,CS4 Supertel,Union County Public Hospital Trustee,,,Write-in,10,2,8
+Union,CS5 Crest Baptist Church,Union County Public Hospital Trustee,,,Write-in,12,0,12
+Union,Lorimor,Union County Public Hospital Trustee,,,Write-in,3,2,1
+Union,Afton,Soil and Water Conservation Dist. Commissioner,,,Dan Waigand,650,346,304
+Union,Arispe,Soil and Water Conservation Dist. Commissioner,,,Dan Waigand,199,91,108
+Union,CS1 Salem Lutheran Church,Soil and Water Conservation Dist. Commissioner,,,Dan Waigand,329,136,193
+Union,CS2 SWCC,Soil and Water Conservation Dist. Commissioner,,,Dan Waigand,944,293,651
+Union,CS3 Trinity Lutheran Church,Soil and Water Conservation Dist. Commissioner,,,Dan Waigand,436,145,291
+Union,CS4 Supertel,Soil and Water Conservation Dist. Commissioner,,,Dan Waigand,416,136,280
+Union,CS5 Crest Baptist Church,Soil and Water Conservation Dist. Commissioner,,,Dan Waigand,669,240,429
+Union,Lorimor,Soil and Water Conservation Dist. Commissioner,,,Dan Waigand,297,162,135
+Union,Afton,Soil and Water Conservation Dist. Commissioner,,,Mike Eblen,456,220,236
+Union,Arispe,Soil and Water Conservation Dist. Commissioner,,,Mike Eblen,162,73,89
+Union,CS1 Salem Lutheran Church,Soil and Water Conservation Dist. Commissioner,,,Mike Eblen,391,162,229
+Union,CS2 SWCC,Soil and Water Conservation Dist. Commissioner,,,Mike Eblen,1129,372,757
+Union,CS3 Trinity Lutheran Church,Soil and Water Conservation Dist. Commissioner,,,Mike Eblen,550,194,356
+Union,CS4 Supertel,Soil and Water Conservation Dist. Commissioner,,,Mike Eblen,527,186,341
+Union,CS5 Crest Baptist Church,Soil and Water Conservation Dist. Commissioner,,,Mike Eblen,759,290,469
+Union,Lorimor,Soil and Water Conservation Dist. Commissioner,,,Mike Eblen,228,115,113
+Union,Afton,Soil and Water Conservation Dist. Commissioner,,,Write-in,13,7,6
+Union,Arispe,Soil and Water Conservation Dist. Commissioner,,,Write-in,10,4,6
+Union,CS1 Salem Lutheran Church,Soil and Water Conservation Dist. Commissioner,,,Write-in,13,4,9
+Union,CS2 SWCC,Soil and Water Conservation Dist. Commissioner,,,Write-in,41,9,32
+Union,CS3 Trinity Lutheran Church,Soil and Water Conservation Dist. Commissioner,,,Write-in,14,10,4
+Union,CS4 Supertel,Soil and Water Conservation Dist. Commissioner,,,Write-in,11,1,10
+Union,CS5 Crest Baptist Church,Soil and Water Conservation Dist. Commissioner,,,Write-in,20,4,16
+Union,Lorimor,Soil and Water Conservation Dist. Commissioner,,,Write-in,15,13,2
+Union,Afton,Soil and Water Conservation Dist. Commissioner,,,Luke Baker,8,4,4
+Union,Arispe,Soil and Water Conservation Dist. Commissioner,,,Luke Baker,3,0,3
+Union,CS1 Salem Lutheran Church,Soil and Water Conservation Dist. Commissioner,,,Luke Baker,14,8,6
+Union,CS2 SWCC,Soil and Water Conservation Dist. Commissioner,,,Luke Baker,71,31,40
+Union,CS3 Trinity Lutheran Church,Soil and Water Conservation Dist. Commissioner,,,Luke Baker,7,1,6
+Union,CS4 Supertel,Soil and Water Conservation Dist. Commissioner,,,Luke Baker,30,7,23
+Union,CS5 Crest Baptist Church,Soil and Water Conservation Dist. Commissioner,,,Luke Baker,40,17,23
+Union,Lorimor,Soil and Water Conservation Dist. Commissioner,,,Luke Baker,0,0,0
+Union,Afton,County Agricultural Extension Council,,,Callie Anderson,389,183,206
+Union,Arispe,County Agricultural Extension Council,,,Callie Anderson,148,65,83
+Union,CS1 Salem Lutheran Church,County Agricultural Extension Council,,,Callie Anderson,337,140,197
+Union,CS2 SWCC,County Agricultural Extension Council,,,Callie Anderson,944,324,620
+Union,CS3 Trinity Lutheran Church,County Agricultural Extension Council,,,Callie Anderson,464,167,297
+Union,CS4 Supertel,County Agricultural Extension Council,,,Callie Anderson,422,150,272
+Union,CS5 Crest Baptist Church,County Agricultural Extension Council,,,Callie Anderson,631,240,391
+Union,Lorimor,County Agricultural Extension Council,,,Callie Anderson,205,106,99
+Union,Afton,County Agricultural Extension Council,,,Jean Weisshaar,374,169,205
+Union,Arispe,County Agricultural Extension Council,,,Jean Weisshaar,140,59,81
+Union,CS1 Salem Lutheran Church,County Agricultural Extension Council,,,Jean Weisshaar,280,110,170
+Union,CS2 SWCC,County Agricultural Extension Council,,,Jean Weisshaar,809,234,575
+Union,CS3 Trinity Lutheran Church,County Agricultural Extension Council,,,Jean Weisshaar,393,126,267
+Union,CS4 Supertel,County Agricultural Extension Council,,,Jean Weisshaar,354,105,249
+Union,CS5 Crest Baptist Church,County Agricultural Extension Council,,,Jean Weisshaar,547,184,363
+Union,Lorimor,County Agricultural Extension Council,,,Jean Weisshaar,185,86,99
+Union,Afton,County Agricultural Extension Council,,,Ronda Driskill,450,216,234
+Union,Arispe,County Agricultural Extension Council,,,Ronda Driskill,165,74,91
+Union,CS1 Salem Lutheran Church,County Agricultural Extension Council,,,Ronda Driskill,307,133,174
+Union,CS2 SWCC,County Agricultural Extension Council,,,Ronda Driskill,857,262,595
+Union,CS3 Trinity Lutheran Church,County Agricultural Extension Council,,,Ronda Driskill,393,134,259
+Union,CS4 Supertel,County Agricultural Extension Council,,,Ronda Driskill,373,121,252
+Union,CS5 Crest Baptist Church,County Agricultural Extension Council,,,Ronda Driskill,573,216,357
+Union,Lorimor,County Agricultural Extension Council,,,Ronda Driskill,215,110,105
+Union,Afton,County Agricultural Extension Council,,,Randy Wuebker,546,286,260
+Union,Arispe,County Agricultural Extension Council,,,Randy Wuebker,181,79,102
+Union,CS1 Salem Lutheran Church,County Agricultural Extension Council,,,Randy Wuebker,268,105,163
+Union,CS2 SWCC,County Agricultural Extension Council,,,Randy Wuebker,848,248,600
+Union,CS3 Trinity Lutheran Church,County Agricultural Extension Council,,,Randy Wuebker,390,133,257
+Union,CS4 Supertel,County Agricultural Extension Council,,,Randy Wuebker,362,117,245
+Union,CS5 Crest Baptist Church,County Agricultural Extension Council,,,Randy Wuebker,588,213,375
+Union,Lorimor,County Agricultural Extension Council,,,Randy Wuebker,282,158,124
+Union,Afton,County Agricultural Extension Council,,,Write-in,7,3,4
+Union,Arispe,County Agricultural Extension Council,,,Write-in,5,2,3
+Union,CS1 Salem Lutheran Church,County Agricultural Extension Council,,,Write-in,2,0,2
+Union,CS2 SWCC,County Agricultural Extension Council,,,Write-in,10,4,6
+Union,CS3 Trinity Lutheran Church,County Agricultural Extension Council,,,Write-in,10,8,2
+Union,CS4 Supertel,County Agricultural Extension Council,,,Write-in,11,2,9
+Union,CS5 Crest Baptist Church,County Agricultural Extension Council,,,Write-in,11,2,9
+Union,Lorimor,County Agricultural Extension Council,,,Write-in,0,0,0
+Union,Afton,County Agricultural Extension Council TFV,,,Nicole Shawley,588,333,255
+Union,Arispe,County Agricultural Extension Council TFV,,,Nicole Shawley,199,101,98
+Union,CS1 Salem Lutheran Church,County Agricultural Extension Council TFV,,,Nicole Shawley,428,187,241
+Union,CS2 SWCC,County Agricultural Extension Council TFV,,,Nicole Shawley,1132,388,744
+Union,CS3 Trinity Lutheran Church,County Agricultural Extension Council TFV,,,Nicole Shawley,563,208,355
+Union,CS4 Supertel,County Agricultural Extension Council TFV,,,Nicole Shawley,547,201,346
+Union,CS5 Crest Baptist Church,County Agricultural Extension Council TFV,,,Nicole Shawley,749,290,459
+Union,Lorimor,County Agricultural Extension Council TFV,,,Nicole Shawley,295,163,132
+Union,Afton,County Agricultural Extension Council TFV,,,Write-in,1,0,1
+Union,Arispe,County Agricultural Extension Council TFV,,,Write-in,0,0,0
+Union,CS1 Salem Lutheran Church,County Agricultural Extension Council TFV,,,Write-in,4,1,3
+Union,CS2 SWCC,County Agricultural Extension Council TFV,,,Write-in,7,0,7
+Union,CS3 Trinity Lutheran Church,County Agricultural Extension Council TFV,,,Write-in,2,1,1
+Union,CS4 Supertel,County Agricultural Extension Council TFV,,,Write-in,6,2,4
+Union,CS5 Crest Baptist Church,County Agricultural Extension Council TFV,,,Write-in,8,4,4
+Union,Lorimor,County Agricultural Extension Council TFV,,,Write-in,1,1,0
+Union,Afton,Supreme Court Justice,,,Yes,411,221,190
+Union,Arispe,Supreme Court Justice,,,Yes,118,60,58
+Union,CS1 Salem Lutheran Church,Supreme Court Justice,,,Yes,311,135,176
+Union,CS2 SWCC,Supreme Court Justice,,,Yes,820,294,526
+Union,CS3 Trinity Lutheran Church,Supreme Court Justice,,,Yes,395,153,242
+Union,CS4 Supertel,Supreme Court Justice,,,Yes,404,145,259
+Union,CS5 Crest Baptist Church,Supreme Court Justice,,,Yes,517,206,311
+Union,Lorimor,Supreme Court Justice,,,Yes,218,123,95
+Union,Afton,Supreme Court Justice,,,No,166,91,75
+Union,Arispe,Supreme Court Justice,,,No,77,31,46
+Union,CS1 Salem Lutheran Church,Supreme Court Justice,,,No,111,43,68
+Union,CS2 SWCC,Supreme Court Justice,,,No,305,90,215
+Union,CS3 Trinity Lutheran Church,Supreme Court Justice,,,No,162,50,112
+Union,CS4 Supertel,Supreme Court Justice,,,No,151,50,101
+Union,CS5 Crest Baptist Church,Supreme Court Justice,,,No,226,82,144
+Union,Lorimor,Supreme Court Justice,,,No,78,46,32
+Union,Afton,Court of Appeals Judge,,,Yes,414,224,190
+Union,Arispe,Court of Appeals Judge,,,Yes,127,66,61
+Union,CS1 Salem Lutheran Church,Court of Appeals Judge,,,Yes,330,138,192
+Union,CS2 SWCC,Court of Appeals Judge,,,Yes,816,279,537
+Union,CS3 Trinity Lutheran Church,Court of Appeals Judge,,,Yes,400,159,241
+Union,CS4 Supertel,Court of Appeals Judge,,,Yes,401,148,253
+Union,CS5 Crest Baptist Church,Court of Appeals Judge,,,Yes,533,206,327
+Union,Lorimor,Court of Appeals Judge,,,Yes,211,118,93
+Union,Afton,Court of Appeals Judge,,,No,145,79,66
+Union,Arispe,Court of Appeals Judge,,,No,66,26,40
+Union,CS1 Salem Lutheran Church,Court of Appeals Judge,,,No,87,38,49
+Union,CS2 SWCC,Court of Appeals Judge,,,No,286,94,192
+Union,CS3 Trinity Lutheran Church,Court of Appeals Judge,,,No,150,50,100
+Union,CS4 Supertel,Court of Appeals Judge,,,No,149,45,104
+Union,CS5 Crest Baptist Church,Court of Appeals Judge,,,No,195,75,120
+Union,Lorimor,Court of Appeals Judge,,,No,73,47,26
+Union,Afton,District 5B Judge,,,Yes,472,257,215
+Union,Arispe,District 5B Judge,,,Yes,153,77,76
+Union,CS1 Salem Lutheran Church,District 5B Judge,,,Yes,345,150,195
+Union,CS2 SWCC,District 5B Judge,,,Yes,877,292,585
+Union,CS3 Trinity Lutheran Church,District 5B Judge,,,Yes,439,167,272
+Union,CS4 Supertel,District 5B Judge,,,Yes,448,168,280
+Union,CS5 Crest Baptist Church,District 5B Judge,,,Yes,588,224,364
+Union,Lorimor,District 5B Judge,,,Yes,235,135,100
+Union,Afton,District 5B Judge,,,No,134,69,65
+Union,Arispe,District 5B Judge,,,No,61,26,35
+Union,CS1 Salem Lutheran Church,District 5B Judge,,,No,85,35,50
+Union,CS2 SWCC,District 5B Judge,,,No,260,95,165
+Union,CS3 Trinity Lutheran Church,District 5B Judge,,,No,136,48,88
+Union,CS4 Supertel,District 5B Judge,,,No,128,39,89
+Union,CS5 Crest Baptist Church,District 5B Judge,,,No,172,65,107
+Union,Lorimor,District 5B Judge,,,No,70,39,31
+Union,Afton,District 5B Associate Judge,,,Yes,443,241,202
+Union,Arispe,District 5B Associate Judge,,,Yes,138,67,71
+Union,CS1 Salem Lutheran Church,District 5B Associate Judge,,,Yes,360,157,203
+Union,CS2 SWCC,District 5B Associate Judge,,,Yes,849,289,560
+Union,CS3 Trinity Lutheran Church,District 5B Associate Judge,,,Yes,432,164,268
+Union,CS4 Supertel,District 5B Associate Judge,,,Yes,436,161,275
+Union,CS5 Crest Baptist Church,District 5B Associate Judge,,,Yes,573,225,348
+Union,Lorimor,District 5B Associate Judge,,,Yes,224,130,94
+Union,Afton,District 5B Associate Judge,,,No,137,74,63
+Union,Arispe,District 5B Associate Judge,,,No,64,30,34
+Union,CS1 Salem Lutheran Church,District 5B Associate Judge,,,No,77,30,47
+Union,CS2 SWCC,District 5B Associate Judge,,,No,282,97,185
+Union,CS3 Trinity Lutheran Church,District 5B Associate Judge,,,No,144,53,91
+Union,CS4 Supertel,District 5B Associate Judge,,,No,136,46,90
+Union,CS5 Crest Baptist Church,District 5B Associate Judge,,,No,181,70,111
+Union,Lorimor,District 5B Associate Judge,,,No,74,41,33
+Union,Afton,Question 1 and propose amendment or amendments to same?,,,Yes,135,85,50
+Union,Arispe,Question 1 and propose amendment or amendments to same?,,,Yes,44,19,25
+Union,CS1 Salem Lutheran Church,Question 1 and propose amendment or amendments to same?,,,Yes,148,70,78
+Union,CS2 SWCC,Question 1 and propose amendment or amendments to same?,,,Yes,291,100,191
+Union,CS3 Trinity Lutheran Church,Question 1 and propose amendment or amendments to same?,,,Yes,169,60,109
+Union,CS4 Supertel,Question 1 and propose amendment or amendments to same?,,,Yes,189,67,122
+Union,CS5 Crest Baptist Church,Question 1 and propose amendment or amendments to same?,,,Yes,200,75,125
+Union,Lorimor,Question 1 and propose amendment or amendments to same?,,,Yes,83,57,26
+Union,Afton,Question 1 and propose amendment or amendments to same?,,,No,573,292,281
+Union,Arispe,Question 1 and propose amendment or amendments to same?,,,No,200,93,107
+Union,CS1 Salem Lutheran Church,Question 1 and propose amendment or amendments to same?,,,No,359,140,219
+Union,CS2 SWCC,Question 1 and propose amendment or amendments to same?,,,No,1024,337,687
+Union,CS3 Trinity Lutheran Church,Question 1 and propose amendment or amendments to same?,,,No,491,184,307
+Union,CS4 Supertel,Question 1 and propose amendment or amendments to same?,,,No,446,160,286
+Union,CS5 Crest Baptist Church,Question 1 and propose amendment or amendments to same?,,,No,672,256,416
+Union,Lorimor,Question 1 and propose amendment or amendments to same?,,,No,267,140,127
+Union,Afton,Pleasant TWP Public Measure A,,,Yes,20,13,7
+Union,Afton,Pleasant TWP Public Measure A,,,No,49,14,35

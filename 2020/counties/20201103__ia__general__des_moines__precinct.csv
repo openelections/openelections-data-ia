@@ -1,0 +1,868 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Des Moines,Pct 1T,President,,REP,Donald J. Trump and Michael R. Pence,1002,383,619
+Des Moines,Pct 2,President,,REP,Donald J. Trump and Michael R. Pence,706,261,445
+Des Moines,Pct 3,President,,REP,Donald J. Trump and Michael R. Pence,540,261,279
+Des Moines,Pct 4,President,,REP,Donald J. Trump and Michael R. Pence,456,229,227
+Des Moines,Pct 5,President,,REP,Donald J. Trump and Michael R. Pence,601,217,384
+Des Moines,Pct 6,President,,REP,Donald J. Trump and Michael R. Pence,242,121,121
+Des Moines,Pct 7,President,,REP,Donald J. Trump and Michael R. Pence,707,295,412
+Des Moines,Pct 8C,President,,REP,Donald J. Trump and Michael R. Pence,910,408,502
+Des Moines,Pct 9,President,,REP,Donald J. Trump and Michael R. Pence,749,336,413
+Des Moines,Pct DM,President,,REP,Donald J. Trump and Michael R. Pence,746,499,247
+Des Moines,Pct FM,President,,REP,Donald J. Trump and Michael R. Pence,893,335,558
+Des Moines,Pct HJ,President,,REP,Donald J. Trump and Michael R. Pence,542,301,241
+Des Moines,Pct MY,President,,REP,Donald J. Trump and Michael R. Pence,1132,733,399
+Des Moines,Pct PW,President,,REP,Donald J. Trump and Michael R. Pence,344,227,117
+Des Moines,Pct UNION,President,,REP,Donald J. Trump and Michael R. Pence,306,140,166
+Des Moines,Pct WB,President,,REP,Donald J. Trump and Michael R. Pence,716,366,350
+Des Moines,Pct 1T,President,,DEM,Joseph R. Biden and Kamala D. Harris,727,93,634
+Des Moines,Pct 2,President,,DEM,Joseph R. Biden and Kamala D. Harris,756,120,636
+Des Moines,Pct 3,President,,DEM,Joseph R. Biden and Kamala D. Harris,649,156,493
+Des Moines,Pct 4,President,,DEM,Joseph R. Biden and Kamala D. Harris,599,158,441
+Des Moines,Pct 5,President,,DEM,Joseph R. Biden and Kamala D. Harris,670,120,550
+Des Moines,Pct 6,President,,DEM,Joseph R. Biden and Kamala D. Harris,395,111,284
+Des Moines,Pct 7,President,,DEM,Joseph R. Biden and Kamala D. Harris,784,180,604
+Des Moines,Pct 8C,President,,DEM,Joseph R. Biden and Kamala D. Harris,909,154,755
+Des Moines,Pct 9,President,,DEM,Joseph R. Biden and Kamala D. Harris,818,127,691
+Des Moines,Pct DM,President,,DEM,Joseph R. Biden and Kamala D. Harris,274,81,193
+Des Moines,Pct FM,President,,DEM,Joseph R. Biden and Kamala D. Harris,582,109,473
+Des Moines,Pct HJ,President,,DEM,Joseph R. Biden and Kamala D. Harris,223,57,166
+Des Moines,Pct MY,President,,DEM,Joseph R. Biden and Kamala D. Harris,479,160,319
+Des Moines,Pct PW,President,,DEM,Joseph R. Biden and Kamala D. Harris,95,26,69
+Des Moines,Pct UNION,President,,DEM,Joseph R. Biden and Kamala D. Harris,172,25,147
+Des Moines,Pct WB,President,,DEM,Joseph R. Biden and Kamala D. Harris,761,192,569
+Des Moines,Pct 1T,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Des Moines,Pct 2,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,0,1
+Des Moines,Pct 3,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,0,1
+Des Moines,Pct 4,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,0,1
+Des Moines,Pct 5,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,0,1
+Des Moines,Pct 6,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,2,1,1
+Des Moines,Pct 7,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,0,1
+Des Moines,Pct 8C,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,1,0
+Des Moines,Pct 9,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,0,1
+Des Moines,Pct DM,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,0,1
+Des Moines,Pct FM,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Des Moines,Pct HJ,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,0,1
+Des Moines,Pct MY,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,1,0
+Des Moines,Pct PW,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Des Moines,Pct UNION,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Des Moines,Pct WB,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,2,1,1
+Des Moines,Pct 1T,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Des Moines,Pct 2,President,,CON,Don Blankenship and William Alan Mohr,2,2,0
+Des Moines,Pct 3,President,,CON,Don Blankenship and William Alan Mohr,1,1,0
+Des Moines,Pct 4,President,,CON,Don Blankenship and William Alan Mohr,1,0,1
+Des Moines,Pct 5,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Des Moines,Pct 6,President,,CON,Don Blankenship and William Alan Mohr,2,2,0
+Des Moines,Pct 7,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Des Moines,Pct 8C,President,,CON,Don Blankenship and William Alan Mohr,2,1,1
+Des Moines,Pct 9,President,,CON,Don Blankenship and William Alan Mohr,1,0,1
+Des Moines,Pct DM,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Des Moines,Pct FM,President,,CON,Don Blankenship and William Alan Mohr,1,0,1
+Des Moines,Pct HJ,President,,CON,Don Blankenship and William Alan Mohr,2,0,2
+Des Moines,Pct MY,President,,CON,Don Blankenship and William Alan Mohr,1,0,1
+Des Moines,Pct PW,President,,CON,Don Blankenship and William Alan Mohr,1,0,1
+Des Moines,Pct UNION,President,,CON,Don Blankenship and William Alan Mohr,1,0,1
+Des Moines,Pct WB,President,,CON,Don Blankenship and William Alan Mohr,1,0,1
+Des Moines,Pct 1T,President,,GKH,Ricki Sue King and Dayna R. Chandler,1,0,1
+Des Moines,Pct 2,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Des Moines,Pct 3,President,,GKH,Ricki Sue King and Dayna R. Chandler,3,1,2
+Des Moines,Pct 4,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Des Moines,Pct 5,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Des Moines,Pct 6,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Des Moines,Pct 7,President,,GKH,Ricki Sue King and Dayna R. Chandler,1,0,1
+Des Moines,Pct 8C,President,,GKH,Ricki Sue King and Dayna R. Chandler,1,0,1
+Des Moines,Pct 9,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Des Moines,Pct DM,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Des Moines,Pct FM,President,,GKH,Ricki Sue King and Dayna R. Chandler,2,1,1
+Des Moines,Pct HJ,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Des Moines,Pct MY,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Des Moines,Pct PW,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Des Moines,Pct UNION,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Des Moines,Pct WB,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Des Moines,Pct 1T,President,,GRN,Howie Hawkins and Angela Nicole Walker,2,0,2
+Des Moines,Pct 2,President,,GRN,Howie Hawkins and Angela Nicole Walker,2,1,1
+Des Moines,Pct 3,President,,GRN,Howie Hawkins and Angela Nicole Walker,6,3,3
+Des Moines,Pct 4,President,,GRN,Howie Hawkins and Angela Nicole Walker,4,2,2
+Des Moines,Pct 5,President,,GRN,Howie Hawkins and Angela Nicole Walker,5,2,3
+Des Moines,Pct 6,President,,GRN,Howie Hawkins and Angela Nicole Walker,4,2,2
+Des Moines,Pct 7,President,,GRN,Howie Hawkins and Angela Nicole Walker,8,2,6
+Des Moines,Pct 8C,President,,GRN,Howie Hawkins and Angela Nicole Walker,7,3,4
+Des Moines,Pct 9,President,,GRN,Howie Hawkins and Angela Nicole Walker,5,0,5
+Des Moines,Pct DM,President,,GRN,Howie Hawkins and Angela Nicole Walker,1,1,0
+Des Moines,Pct FM,President,,GRN,Howie Hawkins and Angela Nicole Walker,2,0,2
+Des Moines,Pct HJ,President,,GRN,Howie Hawkins and Angela Nicole Walker,0,0,0
+Des Moines,Pct MY,President,,GRN,Howie Hawkins and Angela Nicole Walker,2,1,1
+Des Moines,Pct PW,President,,GRN,Howie Hawkins and Angela Nicole Walker,1,0,1
+Des Moines,Pct UNION,President,,GRN,Howie Hawkins and Angela Nicole Walker,1,1,0
+Des Moines,Pct WB,President,,GRN,Howie Hawkins and Angela Nicole Walker,2,2,0
+Des Moines,Pct 1T,President,,LIB,Jo Jorgensen and Jeremy Cohen,16,7,9
+Des Moines,Pct 2,President,,LIB,Jo Jorgensen and Jeremy Cohen,24,13,11
+Des Moines,Pct 3,President,,LIB,Jo Jorgensen and Jeremy Cohen,28,21,7
+Des Moines,Pct 4,President,,LIB,Jo Jorgensen and Jeremy Cohen,20,14,6
+Des Moines,Pct 5,President,,LIB,Jo Jorgensen and Jeremy Cohen,19,7,12
+Des Moines,Pct 6,President,,LIB,Jo Jorgensen and Jeremy Cohen,18,13,5
+Des Moines,Pct 7,President,,LIB,Jo Jorgensen and Jeremy Cohen,29,13,16
+Des Moines,Pct 8C,President,,LIB,Jo Jorgensen and Jeremy Cohen,9,4,5
+Des Moines,Pct 9,President,,LIB,Jo Jorgensen and Jeremy Cohen,20,10,10
+Des Moines,Pct DM,President,,LIB,Jo Jorgensen and Jeremy Cohen,11,8,3
+Des Moines,Pct FM,President,,LIB,Jo Jorgensen and Jeremy Cohen,17,8,9
+Des Moines,Pct HJ,President,,LIB,Jo Jorgensen and Jeremy Cohen,12,8,4
+Des Moines,Pct MY,President,,LIB,Jo Jorgensen and Jeremy Cohen,19,15,4
+Des Moines,Pct PW,President,,LIB,Jo Jorgensen and Jeremy Cohen,7,7,0
+Des Moines,Pct UNION,President,,LIB,Jo Jorgensen and Jeremy Cohen,4,1,3
+Des Moines,Pct WB,President,,LIB,Jo Jorgensen and Jeremy Cohen,22,16,6
+Des Moines,Pct 1T,President,,,Brock Pierce and Karla Ballard,1,0,1
+Des Moines,Pct 2,President,,,Brock Pierce and Karla Ballard,1,0,1
+Des Moines,Pct 3,President,,,Brock Pierce and Karla Ballard,1,1,0
+Des Moines,Pct 4,President,,,Brock Pierce and Karla Ballard,0,0,0
+Des Moines,Pct 5,President,,,Brock Pierce and Karla Ballard,2,0,2
+Des Moines,Pct 6,President,,,Brock Pierce and Karla Ballard,1,0,1
+Des Moines,Pct 7,President,,,Brock Pierce and Karla Ballard,1,1,0
+Des Moines,Pct 8C,President,,,Brock Pierce and Karla Ballard,1,0,1
+Des Moines,Pct 9,President,,,Brock Pierce and Karla Ballard,1,0,1
+Des Moines,Pct DM,President,,,Brock Pierce and Karla Ballard,1,1,0
+Des Moines,Pct FM,President,,,Brock Pierce and Karla Ballard,0,0,0
+Des Moines,Pct HJ,President,,,Brock Pierce and Karla Ballard,0,0,0
+Des Moines,Pct MY,President,,,Brock Pierce and Karla Ballard,0,0,0
+Des Moines,Pct PW,President,,,Brock Pierce and Karla Ballard,0,0,0
+Des Moines,Pct UNION,President,,,Brock Pierce and Karla Ballard,0,0,0
+Des Moines,Pct WB,President,,,Brock Pierce and Karla Ballard,2,1,1
+Des Moines,Pct 1T,President,,,Kanye West and Michelle Tidball,2,1,1
+Des Moines,Pct 2,President,,,Kanye West and Michelle Tidball,4,2,2
+Des Moines,Pct 3,President,,,Kanye West and Michelle Tidball,2,1,1
+Des Moines,Pct 4,President,,,Kanye West and Michelle Tidball,6,6,0
+Des Moines,Pct 5,President,,,Kanye West and Michelle Tidball,2,1,1
+Des Moines,Pct 6,President,,,Kanye West and Michelle Tidball,4,2,2
+Des Moines,Pct 7,President,,,Kanye West and Michelle Tidball,3,2,1
+Des Moines,Pct 8C,President,,,Kanye West and Michelle Tidball,5,0,5
+Des Moines,Pct 9,President,,,Kanye West and Michelle Tidball,5,2,3
+Des Moines,Pct DM,President,,,Kanye West and Michelle Tidball,1,0,1
+Des Moines,Pct FM,President,,,Kanye West and Michelle Tidball,2,2,0
+Des Moines,Pct HJ,President,,,Kanye West and Michelle Tidball,0,0,0
+Des Moines,Pct MY,President,,,Kanye West and Michelle Tidball,4,4,0
+Des Moines,Pct PW,President,,,Kanye West and Michelle Tidball,0,0,0
+Des Moines,Pct UNION,President,,,Kanye West and Michelle Tidball,1,0,1
+Des Moines,Pct WB,President,,,Kanye West and Michelle Tidball,3,1,2
+Des Moines,Pct 1T,President,,,Write-in,4,3,1
+Des Moines,Pct 2,President,,,Write-in,2,0,2
+Des Moines,Pct 3,President,,,Write-in,5,4,1
+Des Moines,Pct 4,President,,,Write-in,5,1,4
+Des Moines,Pct 5,President,,,Write-in,4,1,3
+Des Moines,Pct 6,President,,,Write-in,2,1,1
+Des Moines,Pct 7,President,,,Write-in,5,0,5
+Des Moines,Pct 8C,President,,,Write-in,10,6,4
+Des Moines,Pct 9,President,,,Write-in,3,2,1
+Des Moines,Pct DM,President,,,Write-in,0,0,0
+Des Moines,Pct FM,President,,,Write-in,2,1,1
+Des Moines,Pct HJ,President,,,Write-in,0,0,0
+Des Moines,Pct MY,President,,,Write-in,3,2,1
+Des Moines,Pct PW,President,,,Write-in,0,0,0
+Des Moines,Pct UNION,President,,,Write-in,3,1,2
+Des Moines,Pct WB,President,,,Write-in,2,2,0
+Des Moines,Pct 1T,U.S. Senate,,REP,Joni Ernst,892,327,565
+Des Moines,Pct 2,U.S. Senate,,REP,Joni Ernst,588,199,389
+Des Moines,Pct 3,U.S. Senate,,REP,Joni Ernst,462,223,239
+Des Moines,Pct 4,U.S. Senate,,REP,Joni Ernst,397,189,208
+Des Moines,Pct 5,U.S. Senate,,REP,Joni Ernst,557,188,369
+Des Moines,Pct 6,U.S. Senate,,REP,Joni Ernst,205,95,110
+Des Moines,Pct 7,U.S. Senate,,REP,Joni Ernst,618,259,359
+Des Moines,Pct 8C,U.S. Senate,,REP,Joni Ernst,819,359,460
+Des Moines,Pct 9,U.S. Senate,,REP,Joni Ernst,660,285,375
+Des Moines,Pct DM,U.S. Senate,,REP,Joni Ernst,638,425,213
+Des Moines,Pct FM,U.S. Senate,,REP,Joni Ernst,813,294,519
+Des Moines,Pct HJ,U.S. Senate,,REP,Joni Ernst,522,287,235
+Des Moines,Pct MY,U.S. Senate,,REP,Joni Ernst,1071,694,377
+Des Moines,Pct PW,U.S. Senate,,REP,Joni Ernst,320,209,111
+Des Moines,Pct UNION,U.S. Senate,,REP,Joni Ernst,278,128,150
+Des Moines,Pct WB,U.S. Senate,,REP,Joni Ernst,628,313,315
+Des Moines,Pct 1T,U.S. Senate,,DEM,Theresa Greenfield,784,130,654
+Des Moines,Pct 2,U.S. Senate,,DEM,Theresa Greenfield,802,152,650
+Des Moines,Pct 3,U.S. Senate,,DEM,Theresa Greenfield,681,183,498
+Des Moines,Pct 4,U.S. Senate,,DEM,Theresa Greenfield,610,178,432
+Des Moines,Pct 5,U.S. Senate,,DEM,Theresa Greenfield,659,127,532
+Des Moines,Pct 6,U.S. Senate,,DEM,Theresa Greenfield,415,126,289
+Des Moines,Pct 7,U.S. Senate,,DEM,Theresa Greenfield,812,197,615
+Des Moines,Pct 8C,U.S. Senate,,DEM,Theresa Greenfield,954,185,769
+Des Moines,Pct 9,U.S. Senate,,DEM,Theresa Greenfield,843,149,694
+Des Moines,Pct DM,U.S. Senate,,DEM,Theresa Greenfield,319,116,203
+Des Moines,Pct FM,U.S. Senate,,DEM,Theresa Greenfield,605,130,475
+Des Moines,Pct HJ,U.S. Senate,,DEM,Theresa Greenfield,230,66,164
+Des Moines,Pct MY,U.S. Senate,,DEM,Theresa Greenfield,508,188,320
+Des Moines,Pct PW,U.S. Senate,,DEM,Theresa Greenfield,109,37,72
+Des Moines,Pct UNION,U.S. Senate,,DEM,Theresa Greenfield,182,29,153
+Des Moines,Pct WB,U.S. Senate,,DEM,Theresa Greenfield,783,220,563
+Des Moines,Pct 1T,U.S. Senate,,LIB,Rick Stewart,32,12,20
+Des Moines,Pct 2,U.S. Senate,,LIB,Rick Stewart,58,22,36
+Des Moines,Pct 3,U.S. Senate,,LIB,Rick Stewart,48,21,27
+Des Moines,Pct 4,U.S. Senate,,LIB,Rick Stewart,48,25,23
+Des Moines,Pct 5,U.S. Senate,,LIB,Rick Stewart,27,8,19
+Des Moines,Pct 6,U.S. Senate,,LIB,Rick Stewart,32,20,12
+Des Moines,Pct 7,U.S. Senate,,LIB,Rick Stewart,50,18,32
+Des Moines,Pct 8C,U.S. Senate,,LIB,Rick Stewart,41,13,28
+Des Moines,Pct 9,U.S. Senate,,LIB,Rick Stewart,53,21,32
+Des Moines,Pct DM,U.S. Senate,,LIB,Rick Stewart,35,23,12
+Des Moines,Pct FM,U.S. Senate,,LIB,Rick Stewart,42,13,29
+Des Moines,Pct HJ,U.S. Senate,,LIB,Rick Stewart,14,8,6
+Des Moines,Pct MY,U.S. Senate,,LIB,Rick Stewart,41,25,16
+Des Moines,Pct PW,U.S. Senate,,LIB,Rick Stewart,12,8,4
+Des Moines,Pct UNION,U.S. Senate,,LIB,Rick Stewart,14,4,10
+Des Moines,Pct WB,U.S. Senate,,LIB,Rick Stewart,44,24,20
+Des Moines,Pct 1T,U.S. Senate,,,Suzanne Herzog,17,4,13
+Des Moines,Pct 2,U.S. Senate,,,Suzanne Herzog,20,6,14
+Des Moines,Pct 3,U.S. Senate,,,Suzanne Herzog,25,15,10
+Des Moines,Pct 4,U.S. Senate,,,Suzanne Herzog,23,9,14
+Des Moines,Pct 5,U.S. Senate,,,Suzanne Herzog,20,11,9
+Des Moines,Pct 6,U.S. Senate,,,Suzanne Herzog,10,5,5
+Des Moines,Pct 7,U.S. Senate,,,Suzanne Herzog,26,11,15
+Des Moines,Pct 8C,U.S. Senate,,,Suzanne Herzog,17,4,13
+Des Moines,Pct 9,U.S. Senate,,,Suzanne Herzog,7,5,2
+Des Moines,Pct DM,U.S. Senate,,,Suzanne Herzog,15,6,9
+Des Moines,Pct FM,U.S. Senate,,,Suzanne Herzog,14,7,7
+Des Moines,Pct HJ,U.S. Senate,,,Suzanne Herzog,3,0,3
+Des Moines,Pct MY,U.S. Senate,,,Suzanne Herzog,6,3,3
+Des Moines,Pct PW,U.S. Senate,,,Suzanne Herzog,0,0,0
+Des Moines,Pct UNION,U.S. Senate,,,Suzanne Herzog,2,1,1
+Des Moines,Pct WB,U.S. Senate,,,Suzanne Herzog,27,14,13
+Des Moines,Pct 1T,U.S. Senate,,,Write-in,3,2,1
+Des Moines,Pct 2,U.S. Senate,,,Write-in,0,0,0
+Des Moines,Pct 3,U.S. Senate,,,Write-in,2,2,0
+Des Moines,Pct 4,U.S. Senate,,,Write-in,6,4,2
+Des Moines,Pct 5,U.S. Senate,,,Write-in,0,0,0
+Des Moines,Pct 6,U.S. Senate,,,Write-in,1,1,0
+Des Moines,Pct 7,U.S. Senate,,,Write-in,3,1,2
+Des Moines,Pct 8C,U.S. Senate,,,Write-in,2,2,0
+Des Moines,Pct 9,U.S. Senate,,,Write-in,2,1,1
+Des Moines,Pct DM,U.S. Senate,,,Write-in,3,2,1
+Des Moines,Pct FM,U.S. Senate,,,Write-in,0,0,0
+Des Moines,Pct HJ,U.S. Senate,,,Write-in,0,0,0
+Des Moines,Pct MY,U.S. Senate,,,Write-in,4,0,4
+Des Moines,Pct PW,U.S. Senate,,,Write-in,1,1,0
+Des Moines,Pct UNION,U.S. Senate,,,Write-in,0,0,0
+Des Moines,Pct WB,U.S. Senate,,,Write-in,2,2,0
+Des Moines,Pct 1T,U.S. House,2,REP,Mariannette Miller-Meeks,908,339,569
+Des Moines,Pct 2,U.S. House,2,REP,Mariannette Miller-Meeks,616,210,406
+Des Moines,Pct 3,U.S. House,2,REP,Mariannette Miller-Meeks,502,247,255
+Des Moines,Pct 4,U.S. House,2,REP,Mariannette Miller-Meeks,397,189,208
+Des Moines,Pct 5,U.S. House,2,REP,Mariannette Miller-Meeks,573,197,376
+Des Moines,Pct 6,U.S. House,2,REP,Mariannette Miller-Meeks,226,113,113
+Des Moines,Pct 7,U.S. House,2,REP,Mariannette Miller-Meeks,632,260,372
+Des Moines,Pct 8C,U.S. House,2,REP,Mariannette Miller-Meeks,823,355,468
+Des Moines,Pct 9,U.S. House,2,REP,Mariannette Miller-Meeks,691,283,408
+Des Moines,Pct DM,U.S. House,2,REP,Mariannette Miller-Meeks,645,427,218
+Des Moines,Pct FM,U.S. House,2,REP,Mariannette Miller-Meeks,812,297,515
+Des Moines,Pct HJ,U.S. House,2,REP,Mariannette Miller-Meeks,511,281,230
+Des Moines,Pct MY,U.S. House,2,REP,Mariannette Miller-Meeks,1027,657,370
+Des Moines,Pct PW,U.S. House,2,REP,Mariannette Miller-Meeks,319,210,109
+Des Moines,Pct UNION,U.S. House,2,REP,Mariannette Miller-Meeks,282,127,155
+Des Moines,Pct WB,U.S. House,2,REP,Mariannette Miller-Meeks,675,339,336
+Des Moines,Pct 1T,U.S. House,2,DEM,Rita R. Hart,743,115,628
+Des Moines,Pct 2,U.S. House,2,DEM,Rita R. Hart,778,142,636
+Des Moines,Pct 3,U.S. House,2,DEM,Rita R. Hart,682,184,498
+Des Moines,Pct 4,U.S. House,2,DEM,Rita R. Hart,646,202,444
+Des Moines,Pct 5,U.S. House,2,DEM,Rita R. Hart,643,125,518
+Des Moines,Pct 6,U.S. House,2,DEM,Rita R. Hart,409,120,289
+Des Moines,Pct 7,U.S. House,2,DEM,Rita R. Hart,823,206,617
+Des Moines,Pct 8C,U.S. House,2,DEM,Rita R. Hart,944,178,766
+Des Moines,Pct 9,U.S. House,2,DEM,Rita R. Hart,845,159,686
+Des Moines,Pct DM,U.S. House,2,DEM,Rita R. Hart,312,104,208
+Des Moines,Pct FM,U.S. House,2,DEM,Rita R. Hart,607,127,480
+Des Moines,Pct HJ,U.S. House,2,DEM,Rita R. Hart,231,64,167
+Des Moines,Pct MY,U.S. House,2,DEM,Rita R. Hart,547,216,331
+Des Moines,Pct PW,U.S. House,2,DEM,Rita R. Hart,102,33,69
+Des Moines,Pct UNION,U.S. House,2,DEM,Rita R. Hart,186,29,157
+Des Moines,Pct WB,U.S. House,2,DEM,Rita R. Hart,767,211,556
+Des Moines,Pct 1T,U.S. House,2,,Write-in,6,4,2
+Des Moines,Pct 2,U.S. House,2,,Write-in,2,2,0
+Des Moines,Pct 3,U.S. House,2,,Write-in,2,2,0
+Des Moines,Pct 4,U.S. House,2,,Write-in,7,4,3
+Des Moines,Pct 5,U.S. House,2,,Write-in,5,2,3
+Des Moines,Pct 6,U.S. House,2,,Write-in,4,3,1
+Des Moines,Pct 7,U.S. House,2,,Write-in,4,2,2
+Des Moines,Pct 8C,U.S. House,2,,Write-in,4,4,0
+Des Moines,Pct 9,U.S. House,2,,Write-in,2,0,2
+Des Moines,Pct DM,U.S. House,2,,Write-in,6,4,2
+Des Moines,Pct FM,U.S. House,2,,Write-in,3,1,2
+Des Moines,Pct HJ,U.S. House,2,,Write-in,2,1,1
+Des Moines,Pct MY,U.S. House,2,,Write-in,7,3,4
+Des Moines,Pct PW,U.S. House,2,,Write-in,1,1,0
+Des Moines,Pct UNION,U.S. House,2,,Write-in,1,0,1
+Des Moines,Pct WB,U.S. House,2,,Write-in,6,4,2
+Des Moines,Pct 1T,State Senate,44,REP,Tim Goodwin,989,349,640
+Des Moines,Pct 2,State Senate,44,REP,Tim Goodwin,735,246,489
+Des Moines,Pct 3,State Senate,44,REP,Tim Goodwin,572,274,298
+Des Moines,Pct 4,State Senate,44,REP,Tim Goodwin,457,219,238
+Des Moines,Pct 5,State Senate,44,REP,Tim Goodwin,666,215,451
+Des Moines,Pct 6,State Senate,44,REP,Tim Goodwin,272,134,138
+Des Moines,Pct 7,State Senate,44,REP,Tim Goodwin,716,277,439
+Des Moines,Pct 8C,State Senate,44,REP,Tim Goodwin,932,380,552
+Des Moines,Pct 9,State Senate,44,REP,Tim Goodwin,806,318,488
+Des Moines,Pct DM,State Senate,44,REP,Tim Goodwin,729,459,270
+Des Moines,Pct FM,State Senate,44,REP,Tim Goodwin,927,333,594
+Des Moines,Pct HJ,State Senate,44,REP,Tim Goodwin,534,288,246
+Des Moines,Pct MY,State Senate,44,REP,Tim Goodwin,1098,704,394
+Des Moines,Pct PW,State Senate,44,REP,Tim Goodwin,338,215,123
+Des Moines,Pct UNION,State Senate,44,REP,Tim Goodwin,299,127,172
+Des Moines,Pct WB,State Senate,44,REP,Tim Goodwin,758,373,385
+Des Moines,Pct 1T,State Senate,44,DEM,Tom Courtney,726,125,601
+Des Moines,Pct 2,State Senate,44,DEM,Tom Courtney,709,121,588
+Des Moines,Pct 3,State Senate,44,DEM,Tom Courtney,639,164,475
+Des Moines,Pct 4,State Senate,44,DEM,Tom Courtney,594,175,419
+Des Moines,Pct 5,State Senate,44,DEM,Tom Courtney,589,115,474
+Des Moines,Pct 6,State Senate,44,DEM,Tom Courtney,382,109,273
+Des Moines,Pct 7,State Senate,44,DEM,Tom Courtney,790,203,587
+Des Moines,Pct 8C,State Senate,44,DEM,Tom Courtney,890,174,716
+Des Moines,Pct 9,State Senate,44,DEM,Tom Courtney,774,144,630
+Des Moines,Pct DM,State Senate,44,DEM,Tom Courtney,273,104,169
+Des Moines,Pct FM,State Senate,44,DEM,Tom Courtney,542,112,430
+Des Moines,Pct HJ,State Senate,44,DEM,Tom Courtney,233,72,161
+Des Moines,Pct MY,State Senate,44,DEM,Tom Courtney,506,191,315
+Des Moines,Pct PW,State Senate,44,DEM,Tom Courtney,98,35,63
+Des Moines,Pct UNION,State Senate,44,DEM,Tom Courtney,177,32,145
+Des Moines,Pct WB,State Senate,44,DEM,Tom Courtney,718,196,522
+Des Moines,Pct 1T,State Senate,44,,Write-in,2,1,1
+Des Moines,Pct 2,State Senate,44,,Write-in,0,0,0
+Des Moines,Pct 3,State Senate,44,,Write-in,3,1,2
+Des Moines,Pct 4,State Senate,44,,Write-in,6,3,3
+Des Moines,Pct 5,State Senate,44,,Write-in,3,1,2
+Des Moines,Pct 6,State Senate,44,,Write-in,2,1,1
+Des Moines,Pct 7,State Senate,44,,Write-in,2,0,2
+Des Moines,Pct 8C,State Senate,44,,Write-in,2,2,0
+Des Moines,Pct 9,State Senate,44,,Write-in,4,3,1
+Des Moines,Pct DM,State Senate,44,,Write-in,5,4,1
+Des Moines,Pct FM,State Senate,44,,Write-in,1,0,1
+Des Moines,Pct HJ,State Senate,44,,Write-in,0,0,0
+Des Moines,Pct MY,State Senate,44,,Write-in,6,2,4
+Des Moines,Pct PW,State Senate,44,,Write-in,1,0,1
+Des Moines,Pct UNION,State Senate,44,,Write-in,2,0,2
+Des Moines,Pct WB,State Senate,44,,Write-in,3,2,1
+Des Moines,Pct 1T,State House,87,DEM,Dennis M. Cohoon,1151,274,877
+Des Moines,Pct 2,State House,87,DEM,Dennis M. Cohoon,1040,234,806
+Des Moines,Pct 3,State House,87,DEM,Dennis M. Cohoon,910,301,609
+Des Moines,Pct 4,State House,87,DEM,Dennis M. Cohoon,808,278,530
+Des Moines,Pct 5,State House,87,DEM,Dennis M. Cohoon,909,219,690
+Des Moines,Pct 6,State House,87,DEM,Dennis M. Cohoon,516,168,348
+Des Moines,Pct 7,State House,87,DEM,Dennis M. Cohoon,1100,333,767
+Des Moines,Pct 8C,State House,87,DEM,Dennis M. Cohoon,1282,330,952
+Des Moines,Pct 9,State House,87,DEM,Dennis M. Cohoon,1168,310,858
+Des Moines,Pct WB,State House,87,DEM,Dennis M. Cohoon,1108,406,702
+Des Moines,Pct 1T,State House,87,,Write-in,43,19,24
+Des Moines,Pct 2,State House,87,,Write-in,26,10,16
+Des Moines,Pct 3,State House,87,,Write-in,32,20,12
+Des Moines,Pct 4,State House,87,,Write-in,32,19,13
+Des Moines,Pct 5,State House,87,,Write-in,24,12,12
+Des Moines,Pct 6,State House,87,,Write-in,23,19,4
+Des Moines,Pct 7,State House,87,,Write-in,40,22,18
+Des Moines,Pct 8C,State House,87,,Write-in,43,30,13
+Des Moines,Pct 9,State House,87,,Write-in,28,16,12
+Des Moines,Pct WB,State House,87,,Write-in,40,27,13
+Des Moines,Pct DM,State House,88,REP,David L. Kerr,630,404,226
+Des Moines,Pct FM,State House,88,REP,David L. Kerr,834,296,538
+Des Moines,Pct HJ,State House,88,REP,David L. Kerr,538,291,247
+Des Moines,Pct MY,State House,88,REP,David L. Kerr,1157,738,419
+Des Moines,Pct PW,State House,88,REP,David L. Kerr,334,212,122
+Des Moines,Pct UNION,State House,88,REP,David L. Kerr,279,120,159
+Des Moines,Pct DM,State House,88,DEM,Sandy Dockendorff,334,132,202
+Des Moines,Pct FM,State House,88,DEM,Sandy Dockendorff,575,126,449
+Des Moines,Pct HJ,State House,88,DEM,Sandy Dockendorff,197,54,143
+Des Moines,Pct MY,State House,88,DEM,Sandy Dockendorff,424,144,280
+Des Moines,Pct PW,State House,88,DEM,Sandy Dockendorff,92,33,59
+Des Moines,Pct UNION,State House,88,DEM,Sandy Dockendorff,177,32,145
+Des Moines,Pct DM,State House,88,,Write-in,5,4,1
+Des Moines,Pct FM,State House,88,,Write-in,1,0,1
+Des Moines,Pct HJ,State House,88,,Write-in,0,0,0
+Des Moines,Pct MY,State House,88,,Write-in,4,2,2
+Des Moines,Pct PW,State House,88,,Write-in,1,1,0
+Des Moines,Pct UNION,State House,88,,Write-in,1,0,1
+Des Moines,Pct 1T,County Supervisors,,REP,Nina Covert,539,188,351
+Des Moines,Pct 2,County Supervisors,,REP,Nina Covert,454,154,300
+Des Moines,Pct 3,County Supervisors,,REP,Nina Covert,337,147,190
+Des Moines,Pct 4,County Supervisors,,REP,Nina Covert,264,122,142
+Des Moines,Pct 5,County Supervisors,,REP,Nina Covert,381,124,257
+Des Moines,Pct 6,County Supervisors,,REP,Nina Covert,152,75,77
+Des Moines,Pct 7,County Supervisors,,REP,Nina Covert,418,161,257
+Des Moines,Pct 8C,County Supervisors,,REP,Nina Covert,549,210,339
+Des Moines,Pct 9,County Supervisors,,REP,Nina Covert,451,175,276
+Des Moines,Pct DM,County Supervisors,,REP,Nina Covert,320,212,108
+Des Moines,Pct FM,County Supervisors,,REP,Nina Covert,534,190,344
+Des Moines,Pct HJ,County Supervisors,,REP,Nina Covert,312,181,131
+Des Moines,Pct MY,County Supervisors,,REP,Nina Covert,694,480,214
+Des Moines,Pct PW,County Supervisors,,REP,Nina Covert,186,122,64
+Des Moines,Pct UNION,County Supervisors,,REP,Nina Covert,194,76,118
+Des Moines,Pct WB,County Supervisors,,REP,Nina Covert,455,208,247
+Des Moines,Pct 1T,County Supervisors,,DEM,Bob Beck,745,143,602
+Des Moines,Pct 2,County Supervisors,,DEM,Bob Beck,556,89,467
+Des Moines,Pct 3,County Supervisors,,DEM,Bob Beck,473,139,334
+Des Moines,Pct 4,County Supervisors,,DEM,Bob Beck,346,86,260
+Des Moines,Pct 5,County Supervisors,,DEM,Bob Beck,510,98,412
+Des Moines,Pct 6,County Supervisors,,DEM,Bob Beck,236,61,175
+Des Moines,Pct 7,County Supervisors,,DEM,Bob Beck,582,137,445
+Des Moines,Pct 8C,County Supervisors,,DEM,Bob Beck,729,158,571
+Des Moines,Pct 9,County Supervisors,,DEM,Bob Beck,644,142,502
+Des Moines,Pct DM,County Supervisors,,DEM,Bob Beck,521,259,262
+Des Moines,Pct FM,County Supervisors,,DEM,Bob Beck,671,170,501
+Des Moines,Pct HJ,County Supervisors,,DEM,Bob Beck,307,123,184
+Des Moines,Pct MY,County Supervisors,,DEM,Bob Beck,602,269,333
+Des Moines,Pct PW,County Supervisors,,DEM,Bob Beck,202,106,96
+Des Moines,Pct UNION,County Supervisors,,DEM,Bob Beck,202,49,153
+Des Moines,Pct WB,County Supervisors,,DEM,Bob Beck,584,168,416
+Des Moines,Pct 1T,County Supervisors,,DEM,Jim Cary,690,117,573
+Des Moines,Pct 2,County Supervisors,,DEM,Jim Cary,611,111,500
+Des Moines,Pct 3,County Supervisors,,DEM,Jim Cary,403,129,274
+Des Moines,Pct 4,County Supervisors,,DEM,Jim Cary,403,111,292
+Des Moines,Pct 5,County Supervisors,,DEM,Jim Cary,488,104,384
+Des Moines,Pct 6,County Supervisors,,DEM,Jim Cary,282,82,200
+Des Moines,Pct 7,County Supervisors,,DEM,Jim Cary,589,141,448
+Des Moines,Pct 8C,County Supervisors,,DEM,Jim Cary,718,155,563
+Des Moines,Pct 9,County Supervisors,,DEM,Jim Cary,636,138,498
+Des Moines,Pct DM,County Supervisors,,DEM,Jim Cary,487,233,254
+Des Moines,Pct FM,County Supervisors,,DEM,Jim Cary,595,149,446
+Des Moines,Pct HJ,County Supervisors,,DEM,Jim Cary,328,128,200
+Des Moines,Pct MY,County Supervisors,,DEM,Jim Cary,693,285,408
+Des Moines,Pct PW,County Supervisors,,DEM,Jim Cary,195,101,94
+Des Moines,Pct UNION,County Supervisors,,DEM,Jim Cary,171,44,127
+Des Moines,Pct WB,County Supervisors,,DEM,Jim Cary,635,182,453
+Des Moines,Pct 1T,County Supervisors,,,Shane A. McCampbell,760,229,531
+Des Moines,Pct 2,County Supervisors,,,Shane A. McCampbell,619,154,465
+Des Moines,Pct 3,County Supervisors,,,Shane A. McCampbell,587,193,394
+Des Moines,Pct 4,County Supervisors,,,Shane A. McCampbell,564,213,351
+Des Moines,Pct 5,County Supervisors,,,Shane A. McCampbell,570,145,425
+Des Moines,Pct 6,County Supervisors,,,Shane A. McCampbell,322,126,196
+Des Moines,Pct 7,County Supervisors,,,Shane A. McCampbell,723,241,482
+Des Moines,Pct 8C,County Supervisors,,,Shane A. McCampbell,901,283,618
+Des Moines,Pct 9,County Supervisors,,,Shane A. McCampbell,788,221,567
+Des Moines,Pct DM,County Supervisors,,,Shane A. McCampbell,254,133,121
+Des Moines,Pct FM,County Supervisors,,,Shane A. McCampbell,592,166,426
+Des Moines,Pct HJ,County Supervisors,,,Shane A. McCampbell,222,92,130
+Des Moines,Pct MY,County Supervisors,,,Shane A. McCampbell,513,275,238
+Des Moines,Pct PW,County Supervisors,,,Shane A. McCampbell,106,51,55
+Des Moines,Pct UNION,County Supervisors,,,Shane A. McCampbell,172,65,107
+Des Moines,Pct WB,County Supervisors,,,Shane A. McCampbell,654,280,374
+Des Moines,Pct 1T,County Supervisors,,,Write-in,9,6,3
+Des Moines,Pct 2,County Supervisors,,,Write-in,4,1,3
+Des Moines,Pct 3,County Supervisors,,,Write-in,3,1,2
+Des Moines,Pct 4,County Supervisors,,,Write-in,3,2,1
+Des Moines,Pct 5,County Supervisors,,,Write-in,5,1,4
+Des Moines,Pct 6,County Supervisors,,,Write-in,2,1,1
+Des Moines,Pct 7,County Supervisors,,,Write-in,4,2,2
+Des Moines,Pct 8C,County Supervisors,,,Write-in,6,3,3
+Des Moines,Pct 9,County Supervisors,,,Write-in,0,0,0
+Des Moines,Pct DM,County Supervisors,,,Write-in,3,2,1
+Des Moines,Pct FM,County Supervisors,,,Write-in,1,0,1
+Des Moines,Pct HJ,County Supervisors,,,Write-in,0,0,0
+Des Moines,Pct MY,County Supervisors,,,Write-in,14,5,9
+Des Moines,Pct PW,County Supervisors,,,Write-in,0,0,0
+Des Moines,Pct UNION,County Supervisors,,,Write-in,2,1,1
+Des Moines,Pct WB,County Supervisors,,,Write-in,7,5,2
+Des Moines,Pct 1T,County Auditor,,DEM,Terri Johnson,1305,323,982
+Des Moines,Pct 2,County Auditor,,DEM,Terri Johnson,1124,252,872
+Des Moines,Pct 3,County Auditor,,DEM,Terri Johnson,956,318,638
+Des Moines,Pct 4,County Auditor,,DEM,Terri Johnson,856,300,556
+Des Moines,Pct 5,County Auditor,,DEM,Terri Johnson,964,229,735
+Des Moines,Pct 6,County Auditor,,DEM,Terri Johnson,547,188,359
+Des Moines,Pct 7,County Auditor,,DEM,Terri Johnson,1173,348,825
+Des Moines,Pct 8C,County Auditor,,DEM,Terri Johnson,1390,352,1038
+Des Moines,Pct 9,County Auditor,,DEM,Terri Johnson,1250,335,915
+Des Moines,Pct DM,County Auditor,,DEM,Terri Johnson,753,388,365
+Des Moines,Pct FM,County Auditor,,DEM,Terri Johnson,1142,318,824
+Des Moines,Pct HJ,County Auditor,,DEM,Terri Johnson,543,239,304
+Des Moines,Pct MY,County Auditor,,DEM,Terri Johnson,1210,620,590
+Des Moines,Pct PW,County Auditor,,DEM,Terri Johnson,321,173,148
+Des Moines,Pct UNION,County Auditor,,DEM,Terri Johnson,354,112,242
+Des Moines,Pct WB,County Auditor,,DEM,Terri Johnson,1179,423,756
+Des Moines,Pct 1T,County Auditor,,,Write-in,24,13,11
+Des Moines,Pct 2,County Auditor,,,Write-in,20,7,13
+Des Moines,Pct 3,County Auditor,,,Write-in,24,15,9
+Des Moines,Pct 4,County Auditor,,,Write-in,18,10,8
+Des Moines,Pct 5,County Auditor,,,Write-in,17,9,8
+Des Moines,Pct 6,County Auditor,,,Write-in,14,11,3
+Des Moines,Pct 7,County Auditor,,,Write-in,20,16,4
+Des Moines,Pct 8C,County Auditor,,,Write-in,25,18,7
+Des Moines,Pct 9,County Auditor,,,Write-in,19,13,6
+Des Moines,Pct DM,County Auditor,,,Write-in,17,14,3
+Des Moines,Pct FM,County Auditor,,,Write-in,15,10,5
+Des Moines,Pct HJ,County Auditor,,,Write-in,10,7,3
+Des Moines,Pct MY,County Auditor,,,Write-in,13,6,7
+Des Moines,Pct PW,County Auditor,,,Write-in,0,0,0
+Des Moines,Pct UNION,County Auditor,,,Write-in,5,3,2
+Des Moines,Pct WB,County Auditor,,,Write-in,20,16,4
+Des Moines,Pct 1T,County Sheriff,,REP,George Rinker,491,180,311
+Des Moines,Pct 2,County Sheriff,,REP,George Rinker,454,141,313
+Des Moines,Pct 3,County Sheriff,,REP,George Rinker,370,171,199
+Des Moines,Pct 4,County Sheriff,,REP,George Rinker,318,146,172
+Des Moines,Pct 5,County Sheriff,,REP,George Rinker,362,104,258
+Des Moines,Pct 6,County Sheriff,,REP,George Rinker,188,86,102
+Des Moines,Pct 7,County Sheriff,,REP,George Rinker,418,146,272
+Des Moines,Pct 8C,County Sheriff,,REP,George Rinker,489,180,309
+Des Moines,Pct 9,County Sheriff,,REP,George Rinker,386,138,248
+Des Moines,Pct DM,County Sheriff,,REP,George Rinker,349,225,124
+Des Moines,Pct FM,County Sheriff,,REP,George Rinker,474,154,320
+Des Moines,Pct HJ,County Sheriff,,REP,George Rinker,222,114,108
+Des Moines,Pct MY,County Sheriff,,REP,George Rinker,545,339,206
+Des Moines,Pct PW,County Sheriff,,REP,George Rinker,159,105,54
+Des Moines,Pct UNION,County Sheriff,,REP,George Rinker,148,68,80
+Des Moines,Pct WB,County Sheriff,,REP,George Rinker,463,189,274
+Des Moines,Pct 1T,County Sheriff,,DEM,Kevin Glendening,1184,286,898
+Des Moines,Pct 2,County Sheriff,,DEM,Kevin Glendening,963,220,743
+Des Moines,Pct 3,County Sheriff,,DEM,Kevin Glendening,804,252,552
+Des Moines,Pct 4,County Sheriff,,DEM,Kevin Glendening,719,237,482
+Des Moines,Pct 5,County Sheriff,,DEM,Kevin Glendening,854,216,638
+Des Moines,Pct 6,County Sheriff,,DEM,Kevin Glendening,453,150,303
+Des Moines,Pct 7,County Sheriff,,DEM,Kevin Glendening,1059,327,732
+Des Moines,Pct 8C,County Sheriff,,DEM,Kevin Glendening,1292,363,929
+Des Moines,Pct 9,County Sheriff,,DEM,Kevin Glendening,1162,314,848
+Des Moines,Pct DM,County Sheriff,,DEM,Kevin Glendening,631,321,310
+Des Moines,Pct FM,County Sheriff,,DEM,Kevin Glendening,977,280,697
+Des Moines,Pct HJ,County Sheriff,,DEM,Kevin Glendening,522,240,282
+Des Moines,Pct MY,County Sheriff,,DEM,Kevin Glendening,1013,532,481
+Des Moines,Pct PW,County Sheriff,,DEM,Kevin Glendening,270,145,125
+Des Moines,Pct UNION,County Sheriff,,DEM,Kevin Glendening,319,93,226
+Des Moines,Pct WB,County Sheriff,,DEM,Kevin Glendening,985,363,622
+Des Moines,Pct 1T,County Sheriff,,,Write-in,7,3,4
+Des Moines,Pct 2,County Sheriff,,,Write-in,7,4,3
+Des Moines,Pct 3,County Sheriff,,,Write-in,3,0,3
+Des Moines,Pct 4,County Sheriff,,,Write-in,8,7,1
+Des Moines,Pct 5,County Sheriff,,,Write-in,5,1,4
+Des Moines,Pct 6,County Sheriff,,,Write-in,1,0,1
+Des Moines,Pct 7,County Sheriff,,,Write-in,2,1,1
+Des Moines,Pct 8C,County Sheriff,,,Write-in,5,4,1
+Des Moines,Pct 9,County Sheriff,,,Write-in,7,4,3
+Des Moines,Pct DM,County Sheriff,,,Write-in,3,2,1
+Des Moines,Pct FM,County Sheriff,,,Write-in,5,2,3
+Des Moines,Pct HJ,County Sheriff,,,Write-in,4,2,2
+Des Moines,Pct MY,County Sheriff,,,Write-in,17,10,7
+Des Moines,Pct PW,County Sheriff,,,Write-in,0,0,0
+Des Moines,Pct UNION,County Sheriff,,,Write-in,4,1,3
+Des Moines,Pct WB,County Sheriff,,,Write-in,11,8,3
+Des Moines,Pct HJ,Benton TWP Trustee,,,Kevan Mellinger,365,160,205
+Des Moines,Pct HJ,Benton TWP Trustee,,,Dennis R. Walker,289,113,176
+Des Moines,Pct HJ,Benton TWP Trustee,,,Write-in,3,2,1
+Des Moines,Pct 8C,Concordia TWP Trustee,,,Robert D. Clay,313,92,221
+Des Moines,Pct 8C,Concordia TWP Trustee,,,Write-in,3,0,3
+Des Moines,Pct 8C,Concordia TWP Trustee TFV,,,Write-in,25,11,14
+Des Moines,Pct HJ,Huron TWP Trustee,,,Frank Hedges,151,88,63
+Des Moines,Pct HJ,Huron TWP Trustee,,,Benjamin Thie,144,84,60
+Des Moines,Pct HJ,Huron TWP Trustee,,,Write-in,3,0,3
+Des Moines,Pct HJ,Huron TWP Clerk,,,Jeff Hedges,173,104,69
+Des Moines,Pct HJ,Huron TWP Clerk,,,Write-in,1,0,1
+Des Moines,Pct HJ,Jackson TWP Trustee,,,Write-in,5,1,4
+Des Moines,Pct PW,Pleasant Grove TWP Trustee,,,Charlie Nealey,203,112,91
+Des Moines,Pct PW,Pleasant Grove TWP Trustee,,,Bill Tucker,157,86,71
+Des Moines,Pct PW,Pleasant Grove TWP Trustee,,,Write-in,16,7,9
+Des Moines,Pct PW,Washington TWP Trustee,,,Carroll Oberman,145,95,50
+Des Moines,Pct PW,Washington TWP Trustee,,,Write-in,3,2,1
+Des Moines,Pct 1T,Soil and Water Conservation Dist. Commissioner,,,Troy Nelson,915,236,679
+Des Moines,Pct 2,Soil and Water Conservation Dist. Commissioner,,,Troy Nelson,725,153,572
+Des Moines,Pct 3,Soil and Water Conservation Dist. Commissioner,,,Troy Nelson,628,228,400
+Des Moines,Pct 4,Soil and Water Conservation Dist. Commissioner,,,Troy Nelson,564,202,362
+Des Moines,Pct 5,Soil and Water Conservation Dist. Commissioner,,,Troy Nelson,697,171,526
+Des Moines,Pct 6,Soil and Water Conservation Dist. Commissioner,,,Troy Nelson,340,122,218
+Des Moines,Pct 7,Soil and Water Conservation Dist. Commissioner,,,Troy Nelson,791,237,554
+Des Moines,Pct 8C,Soil and Water Conservation Dist. Commissioner,,,Troy Nelson,960,259,701
+Des Moines,Pct 9,Soil and Water Conservation Dist. Commissioner,,,Troy Nelson,910,241,669
+Des Moines,Pct DM,Soil and Water Conservation Dist. Commissioner,,,Troy Nelson,593,313,280
+Des Moines,Pct FM,Soil and Water Conservation Dist. Commissioner,,,Troy Nelson,820,240,580
+Des Moines,Pct HJ,Soil and Water Conservation Dist. Commissioner,,,Troy Nelson,375,171,204
+Des Moines,Pct MY,Soil and Water Conservation Dist. Commissioner,,,Troy Nelson,866,466,400
+Des Moines,Pct PW,Soil and Water Conservation Dist. Commissioner,,,Troy Nelson,273,159,114
+Des Moines,Pct UNION,Soil and Water Conservation Dist. Commissioner,,,Troy Nelson,260,80,180
+Des Moines,Pct WB,Soil and Water Conservation Dist. Commissioner,,,Troy Nelson,860,337,523
+Des Moines,Pct 1T,Soil and Water Conservation Dist. Commissioner,,,Andrew Mason,905,229,676
+Des Moines,Pct 2,Soil and Water Conservation Dist. Commissioner,,,Andrew Mason,733,150,583
+Des Moines,Pct 3,Soil and Water Conservation Dist. Commissioner,,,Andrew Mason,615,225,390
+Des Moines,Pct 4,Soil and Water Conservation Dist. Commissioner,,,Andrew Mason,547,191,356
+Des Moines,Pct 5,Soil and Water Conservation Dist. Commissioner,,,Andrew Mason,667,161,506
+Des Moines,Pct 6,Soil and Water Conservation Dist. Commissioner,,,Andrew Mason,364,133,231
+Des Moines,Pct 7,Soil and Water Conservation Dist. Commissioner,,,Andrew Mason,785,233,552
+Des Moines,Pct 8C,Soil and Water Conservation Dist. Commissioner,,,Andrew Mason,964,252,712
+Des Moines,Pct 9,Soil and Water Conservation Dist. Commissioner,,,Andrew Mason,900,241,659
+Des Moines,Pct DM,Soil and Water Conservation Dist. Commissioner,,,Andrew Mason,513,268,245
+Des Moines,Pct FM,Soil and Water Conservation Dist. Commissioner,,,Andrew Mason,768,220,548
+Des Moines,Pct HJ,Soil and Water Conservation Dist. Commissioner,,,Andrew Mason,354,158,196
+Des Moines,Pct MY,Soil and Water Conservation Dist. Commissioner,,,Andrew Mason,835,437,398
+Des Moines,Pct PW,Soil and Water Conservation Dist. Commissioner,,,Andrew Mason,206,117,89
+Des Moines,Pct UNION,Soil and Water Conservation Dist. Commissioner,,,Andrew Mason,249,77,172
+Des Moines,Pct WB,Soil and Water Conservation Dist. Commissioner,,,Andrew Mason,828,301,527
+Des Moines,Pct 1T,Soil and Water Conservation Dist. Commissioner,,,Jason Hinson,971,240,731
+Des Moines,Pct 2,Soil and Water Conservation Dist. Commissioner,,,Jason Hinson,734,135,599
+Des Moines,Pct 3,Soil and Water Conservation Dist. Commissioner,,,Jason Hinson,590,211,379
+Des Moines,Pct 4,Soil and Water Conservation Dist. Commissioner,,,Jason Hinson,511,159,352
+Des Moines,Pct 5,Soil and Water Conservation Dist. Commissioner,,,Jason Hinson,672,147,525
+Des Moines,Pct 6,Soil and Water Conservation Dist. Commissioner,,,Jason Hinson,314,106,208
+Des Moines,Pct 7,Soil and Water Conservation Dist. Commissioner,,,Jason Hinson,742,214,528
+Des Moines,Pct 8C,Soil and Water Conservation Dist. Commissioner,,,Jason Hinson,905,221,684
+Des Moines,Pct 9,Soil and Water Conservation Dist. Commissioner,,,Jason Hinson,879,226,653
+Des Moines,Pct DM,Soil and Water Conservation Dist. Commissioner,,,Jason Hinson,514,260,254
+Des Moines,Pct FM,Soil and Water Conservation Dist. Commissioner,,,Jason Hinson,786,214,572
+Des Moines,Pct HJ,Soil and Water Conservation Dist. Commissioner,,,Jason Hinson,547,252,295
+Des Moines,Pct MY,Soil and Water Conservation Dist. Commissioner,,,Jason Hinson,1060,570,490
+Des Moines,Pct PW,Soil and Water Conservation Dist. Commissioner,,,Jason Hinson,267,154,113
+Des Moines,Pct UNION,Soil and Water Conservation Dist. Commissioner,,,Jason Hinson,252,77,175
+Des Moines,Pct WB,Soil and Water Conservation Dist. Commissioner,,,Jason Hinson,793,279,514
+Des Moines,Pct 1T,Soil and Water Conservation Dist. Commissioner,,,Write-in,30,6,24
+Des Moines,Pct 2,Soil and Water Conservation Dist. Commissioner,,,Write-in,8,3,5
+Des Moines,Pct 3,Soil and Water Conservation Dist. Commissioner,,,Write-in,17,4,13
+Des Moines,Pct 4,Soil and Water Conservation Dist. Commissioner,,,Write-in,11,8,3
+Des Moines,Pct 5,Soil and Water Conservation Dist. Commissioner,,,Write-in,3,1,2
+Des Moines,Pct 6,Soil and Water Conservation Dist. Commissioner,,,Write-in,8,6,2
+Des Moines,Pct 7,Soil and Water Conservation Dist. Commissioner,,,Write-in,9,2,7
+Des Moines,Pct 8C,Soil and Water Conservation Dist. Commissioner,,,Write-in,14,7,7
+Des Moines,Pct 9,Soil and Water Conservation Dist. Commissioner,,,Write-in,10,6,4
+Des Moines,Pct DM,Soil and Water Conservation Dist. Commissioner,,,Write-in,11,9,2
+Des Moines,Pct FM,Soil and Water Conservation Dist. Commissioner,,,Write-in,7,6,1
+Des Moines,Pct HJ,Soil and Water Conservation Dist. Commissioner,,,Write-in,16,1,15
+Des Moines,Pct MY,Soil and Water Conservation Dist. Commissioner,,,Write-in,19,7,12
+Des Moines,Pct PW,Soil and Water Conservation Dist. Commissioner,,,Write-in,3,2,1
+Des Moines,Pct UNION,Soil and Water Conservation Dist. Commissioner,,,Write-in,4,2,2
+Des Moines,Pct WB,Soil and Water Conservation Dist. Commissioner,,,Write-in,10,7,3
+Des Moines,Pct 1T,County Agricultural Extension Council,,,Patti Jo Patton,885,230,655
+Des Moines,Pct 2,County Agricultural Extension Council,,,Patti Jo Patton,693,134,559
+Des Moines,Pct 3,County Agricultural Extension Council,,,Patti Jo Patton,579,202,377
+Des Moines,Pct 4,County Agricultural Extension Council,,,Patti Jo Patton,535,170,365
+Des Moines,Pct 5,County Agricultural Extension Council,,,Patti Jo Patton,672,164,508
+Des Moines,Pct 6,County Agricultural Extension Council,,,Patti Jo Patton,320,113,207
+Des Moines,Pct 7,County Agricultural Extension Council,,,Patti Jo Patton,754,228,526
+Des Moines,Pct 8C,County Agricultural Extension Council,,,Patti Jo Patton,951,252,699
+Des Moines,Pct 9,County Agricultural Extension Council,,,Patti Jo Patton,885,228,657
+Des Moines,Pct DM,County Agricultural Extension Council,,,Patti Jo Patton,512,267,245
+Des Moines,Pct FM,County Agricultural Extension Council,,,Patti Jo Patton,752,219,533
+Des Moines,Pct HJ,County Agricultural Extension Council,,,Patti Jo Patton,354,160,194
+Des Moines,Pct MY,County Agricultural Extension Council,,,Patti Jo Patton,794,417,377
+Des Moines,Pct PW,County Agricultural Extension Council,,,Patti Jo Patton,235,132,103
+Des Moines,Pct UNION,County Agricultural Extension Council,,,Patti Jo Patton,237,67,170
+Des Moines,Pct WB,County Agricultural Extension Council,,,Patti Jo Patton,811,292,519
+Des Moines,Pct 1T,County Agricultural Extension Council,,,Amanda Wagg,878,219,659
+Des Moines,Pct 2,County Agricultural Extension Council,,,Amanda Wagg,681,133,548
+Des Moines,Pct 3,County Agricultural Extension Council,,,Amanda Wagg,570,201,369
+Des Moines,Pct 4,County Agricultural Extension Council,,,Amanda Wagg,501,163,338
+Des Moines,Pct 5,County Agricultural Extension Council,,,Amanda Wagg,634,148,486
+Des Moines,Pct 6,County Agricultural Extension Council,,,Amanda Wagg,312,109,203
+Des Moines,Pct 7,County Agricultural Extension Council,,,Amanda Wagg,748,214,534
+Des Moines,Pct 8C,County Agricultural Extension Council,,,Amanda Wagg,915,237,678
+Des Moines,Pct 9,County Agricultural Extension Council,,,Amanda Wagg,856,218,638
+Des Moines,Pct DM,County Agricultural Extension Council,,,Amanda Wagg,508,265,243
+Des Moines,Pct FM,County Agricultural Extension Council,,,Amanda Wagg,737,200,537
+Des Moines,Pct HJ,County Agricultural Extension Council,,,Amanda Wagg,412,197,215
+Des Moines,Pct MY,County Agricultural Extension Council,,,Amanda Wagg,943,515,428
+Des Moines,Pct PW,County Agricultural Extension Council,,,Amanda Wagg,240,135,105
+Des Moines,Pct UNION,County Agricultural Extension Council,,,Amanda Wagg,239,80,159
+Des Moines,Pct WB,County Agricultural Extension Council,,,Amanda Wagg,786,282,504
+Des Moines,Pct 1T,County Agricultural Extension Council,,,Aaron A. Cling,884,224,660
+Des Moines,Pct 2,County Agricultural Extension Council,,,Aaron A. Cling,687,137,550
+Des Moines,Pct 3,County Agricultural Extension Council,,,Aaron A. Cling,557,195,362
+Des Moines,Pct 4,County Agricultural Extension Council,,,Aaron A. Cling,484,146,338
+Des Moines,Pct 5,County Agricultural Extension Council,,,Aaron A. Cling,625,144,481
+Des Moines,Pct 6,County Agricultural Extension Council,,,Aaron A. Cling,293,101,192
+Des Moines,Pct 7,County Agricultural Extension Council,,,Aaron A. Cling,726,195,531
+Des Moines,Pct 8C,County Agricultural Extension Council,,,Aaron A. Cling,912,239,673
+Des Moines,Pct 9,County Agricultural Extension Council,,,Aaron A. Cling,857,222,635
+Des Moines,Pct DM,County Agricultural Extension Council,,,Aaron A. Cling,520,276,244
+Des Moines,Pct FM,County Agricultural Extension Council,,,Aaron A. Cling,759,208,551
+Des Moines,Pct HJ,County Agricultural Extension Council,,,Aaron A. Cling,472,216,256
+Des Moines,Pct MY,County Agricultural Extension Council,,,Aaron A. Cling,1050,575,475
+Des Moines,Pct PW,County Agricultural Extension Council,,,Aaron A. Cling,260,155,105
+Des Moines,Pct UNION,County Agricultural Extension Council,,,Aaron A. Cling,245,74,171
+Des Moines,Pct WB,County Agricultural Extension Council,,,Aaron A. Cling,803,294,509
+Des Moines,Pct 1T,County Agricultural Extension Council,,,Jennifer Lane,867,220,647
+Des Moines,Pct 2,County Agricultural Extension Council,,,Jennifer Lane,716,139,577
+Des Moines,Pct 3,County Agricultural Extension Council,,,Jennifer Lane,612,225,387
+Des Moines,Pct 4,County Agricultural Extension Council,,,Jennifer Lane,545,178,367
+Des Moines,Pct 5,County Agricultural Extension Council,,,Jennifer Lane,666,154,512
+Des Moines,Pct 6,County Agricultural Extension Council,,,Jennifer Lane,332,117,215
+Des Moines,Pct 7,County Agricultural Extension Council,,,Jennifer Lane,751,221,530
+Des Moines,Pct 8C,County Agricultural Extension Council,,,Jennifer Lane,941,246,695
+Des Moines,Pct 9,County Agricultural Extension Council,,,Jennifer Lane,869,221,648
+Des Moines,Pct DM,County Agricultural Extension Council,,,Jennifer Lane,521,269,252
+Des Moines,Pct FM,County Agricultural Extension Council,,,Jennifer Lane,772,217,555
+Des Moines,Pct HJ,County Agricultural Extension Council,,,Jennifer Lane,431,197,234
+Des Moines,Pct MY,County Agricultural Extension Council,,,Jennifer Lane,971,502,469
+Des Moines,Pct PW,County Agricultural Extension Council,,,Jennifer Lane,258,144,114
+Des Moines,Pct UNION,County Agricultural Extension Council,,,Jennifer Lane,237,74,163
+Des Moines,Pct WB,County Agricultural Extension Council,,,Jennifer Lane,802,278,524
+Des Moines,Pct 1T,County Agricultural Extension Council,,,Write-in,12,7,5
+Des Moines,Pct 2,County Agricultural Extension Council,,,Write-in,7,2,5
+Des Moines,Pct 3,County Agricultural Extension Council,,,Write-in,21,7,14
+Des Moines,Pct 4,County Agricultural Extension Council,,,Write-in,18,11,7
+Des Moines,Pct 5,County Agricultural Extension Council,,,Write-in,5,2,3
+Des Moines,Pct 6,County Agricultural Extension Council,,,Write-in,7,5,2
+Des Moines,Pct 7,County Agricultural Extension Council,,,Write-in,4,2,2
+Des Moines,Pct 8C,County Agricultural Extension Council,,,Write-in,9,5,4
+Des Moines,Pct 9,County Agricultural Extension Council,,,Write-in,6,3,3
+Des Moines,Pct DM,County Agricultural Extension Council,,,Write-in,14,11,3
+Des Moines,Pct FM,County Agricultural Extension Council,,,Write-in,8,6,2
+Des Moines,Pct HJ,County Agricultural Extension Council,,,Write-in,2,1,1
+Des Moines,Pct MY,County Agricultural Extension Council,,,Write-in,26,10,16
+Des Moines,Pct PW,County Agricultural Extension Council,,,Write-in,4,1,3
+Des Moines,Pct UNION,County Agricultural Extension Council,,,Write-in,0,0,0
+Des Moines,Pct WB,County Agricultural Extension Council,,,Write-in,9,5,4
+Des Moines,Pct 1T,Supreme Court Justice,,,Yes,874,259,615
+Des Moines,Pct 2,Supreme Court Justice,,,Yes,692,147,545
+Des Moines,Pct 3,Supreme Court Justice,,,Yes,574,211,363
+Des Moines,Pct 4,Supreme Court Justice,,,Yes,549,211,338
+Des Moines,Pct 5,Supreme Court Justice,,,Yes,639,146,493
+Des Moines,Pct 6,Supreme Court Justice,,,Yes,326,123,203
+Des Moines,Pct 7,Supreme Court Justice,,,Yes,787,268,519
+Des Moines,Pct 8C,Supreme Court Justice,,,Yes,934,281,653
+Des Moines,Pct 9,Supreme Court Justice,,,Yes,817,252,565
+Des Moines,Pct DM,Supreme Court Justice,,,Yes,526,305,221
+Des Moines,Pct FM,Supreme Court Justice,,,Yes,738,238,500
+Des Moines,Pct HJ,Supreme Court Justice,,,Yes,357,168,189
+Des Moines,Pct MY,Supreme Court Justice,,,Yes,831,473,358
+Des Moines,Pct PW,Supreme Court Justice,,,Yes,229,126,103
+Des Moines,Pct UNION,Supreme Court Justice,,,Yes,255,90,165
+Des Moines,Pct WB,Supreme Court Justice,,,Yes,799,319,480
+Des Moines,Pct 1T,Supreme Court Justice,,,No,301,79,222
+Des Moines,Pct 2,Supreme Court Justice,,,No,296,67,229
+Des Moines,Pct 3,Supreme Court Justice,,,No,293,109,184
+Des Moines,Pct 4,Supreme Court Justice,,,No,255,92,163
+Des Moines,Pct 5,Supreme Court Justice,,,No,227,57,170
+Des Moines,Pct 6,Supreme Court Justice,,,No,161,63,98
+Des Moines,Pct 7,Supreme Court Justice,,,No,279,76,203
+Des Moines,Pct 8C,Supreme Court Justice,,,No,357,98,259
+Des Moines,Pct 9,Supreme Court Justice,,,No,323,84,239
+Des Moines,Pct DM,Supreme Court Justice,,,No,187,93,94
+Des Moines,Pct FM,Supreme Court Justice,,,No,296,68,228
+Des Moines,Pct HJ,Supreme Court Justice,,,No,139,57,82
+Des Moines,Pct MY,Supreme Court Justice,,,No,275,140,135
+Des Moines,Pct PW,Supreme Court Justice,,,No,105,70,35
+Des Moines,Pct UNION,Supreme Court Justice,,,No,91,24,67
+Des Moines,Pct WB,Supreme Court Justice,,,No,272,116,156
+Des Moines,Pct 1T,Court of Appeals Judge,,,Yes,849,241,608
+Des Moines,Pct 2,Court of Appeals Judge,,,Yes,692,152,540
+Des Moines,Pct 3,Court of Appeals Judge,,,Yes,593,218,375
+Des Moines,Pct 4,Court of Appeals Judge,,,Yes,550,206,344
+Des Moines,Pct 5,Court of Appeals Judge,,,Yes,653,153,500
+Des Moines,Pct 6,Court of Appeals Judge,,,Yes,333,127,206
+Des Moines,Pct 7,Court of Appeals Judge,,,Yes,773,253,520
+Des Moines,Pct 8C,Court of Appeals Judge,,,Yes,936,267,669
+Des Moines,Pct 9,Court of Appeals Judge,,,Yes,843,246,597
+Des Moines,Pct DM,Court of Appeals Judge,,,Yes,523,292,231
+Des Moines,Pct FM,Court of Appeals Judge,,,Yes,722,227,495
+Des Moines,Pct HJ,Court of Appeals Judge,,,Yes,336,152,184
+Des Moines,Pct MY,Court of Appeals Judge,,,Yes,816,450,366
+Des Moines,Pct PW,Court of Appeals Judge,,,Yes,223,121,102
+Des Moines,Pct UNION,Court of Appeals Judge,,,Yes,237,85,152
+Des Moines,Pct WB,Court of Appeals Judge,,,Yes,780,300,480
+Des Moines,Pct 1T,Court of Appeals Judge,,,No,256,81,175
+Des Moines,Pct 2,Court of Appeals Judge,,,No,247,54,193
+Des Moines,Pct 3,Court of Appeals Judge,,,No,252,104,148
+Des Moines,Pct 4,Court of Appeals Judge,,,No,214,89,125
+Des Moines,Pct 5,Court of Appeals Judge,,,No,175,44,131
+Des Moines,Pct 6,Court of Appeals Judge,,,No,129,50,79
+Des Moines,Pct 7,Court of Appeals Judge,,,No,253,83,170
+Des Moines,Pct 8C,Court of Appeals Judge,,,No,283,87,196
+Des Moines,Pct 9,Court of Appeals Judge,,,No,254,70,184
+Des Moines,Pct DM,Court of Appeals Judge,,,No,167,93,74
+Des Moines,Pct FM,Court of Appeals Judge,,,No,251,63,188
+Des Moines,Pct HJ,Court of Appeals Judge,,,No,122,60,62
+Des Moines,Pct MY,Court of Appeals Judge,,,No,244,132,112
+Des Moines,Pct PW,Court of Appeals Judge,,,No,94,70,24
+Des Moines,Pct UNION,Court of Appeals Judge,,,No,89,26,63
+Des Moines,Pct WB,Court of Appeals Judge,,,No,251,117,134
+Des Moines,Pct 1T,District 8B Judge,,,Yes,1169,315,854
+Des Moines,Pct 2,District 8B Judge,,,Yes,903,197,706
+Des Moines,Pct 3,District 8B Judge,,,Yes,733,260,473
+Des Moines,Pct 4,District 8B Judge,,,Yes,674,240,434
+Des Moines,Pct 5,District 8B Judge,,,Yes,823,192,631
+Des Moines,Pct 6,District 8B Judge,,,Yes,379,138,241
+Des Moines,Pct 7,District 8B Judge,,,Yes,967,294,673
+Des Moines,Pct 8C,District 8B Judge,,,Yes,1208,338,870
+Des Moines,Pct 9,District 8B Judge,,,Yes,1095,302,793
+Des Moines,Pct DM,District 8B Judge,,,Yes,605,338,267
+Des Moines,Pct FM,District 8B Judge,,,Yes,937,275,662
+Des Moines,Pct HJ,District 8B Judge,,,Yes,432,184,248
+Des Moines,Pct MY,District 8B Judge,,,Yes,971,527,444
+Des Moines,Pct PW,District 8B Judge,,,Yes,256,135,121
+Des Moines,Pct UNION,District 8B Judge,,,Yes,307,100,207
+Des Moines,Pct WB,District 8B Judge,,,Yes,1016,389,627
+Des Moines,Pct 1T,District 8B Judge,,,No,172,60,112
+Des Moines,Pct 2,District 8B Judge,,,No,202,44,158
+Des Moines,Pct 3,District 8B Judge,,,No,222,92,130
+Des Moines,Pct 4,District 8B Judge,,,No,172,82,90
+Des Moines,Pct 5,District 8B Judge,,,No,137,38,99
+Des Moines,Pct 6,District 8B Judge,,,No,132,58,74
+Des Moines,Pct 7,District 8B Judge,,,No,209,85,124
+Des Moines,Pct 8C,District 8B Judge,,,No,191,66,125
+Des Moines,Pct 9,District 8B Judge,,,No,177,59,118
+Des Moines,Pct DM,District 8B Judge,,,No,148,80,68
+Des Moines,Pct FM,District 8B Judge,,,No,202,59,143
+Des Moines,Pct HJ,District 8B Judge,,,No,102,58,44
+Des Moines,Pct MY,District 8B Judge,,,No,209,116,93
+Des Moines,Pct PW,District 8B Judge,,,No,80,61,19
+Des Moines,Pct UNION,District 8B Judge,,,No,66,25,41
+Des Moines,Pct WB,District 8B Judge,,,No,170,90,80
+Des Moines,Pct 1T,District 8B Associate Judge,,,Yes,1008,284,724
+Des Moines,Pct 2,District 8B Associate Judge,,,Yes,825,180,645
+Des Moines,Pct 3,District 8B Associate Judge,,,Yes,708,269,439
+Des Moines,Pct 4,District 8B Associate Judge,,,Yes,664,255,409
+Des Moines,Pct 5,District 8B Associate Judge,,,Yes,731,179,552
+Des Moines,Pct 6,District 8B Associate Judge,,,Yes,395,144,251
+Des Moines,Pct 7,District 8B Associate Judge,,,Yes,889,292,597
+Des Moines,Pct 8C,District 8B Associate Judge,,,Yes,1067,295,772
+Des Moines,Pct 9,District 8B Associate Judge,,,Yes,972,265,707
+Des Moines,Pct DM,District 8B Associate Judge,,,Yes,579,318,261
+Des Moines,Pct FM,District 8B Associate Judge,,,Yes,830,260,570
+Des Moines,Pct HJ,District 8B Associate Judge,,,Yes,375,170,205
+Des Moines,Pct MY,District 8B Associate Judge,,,Yes,877,478,399
+Des Moines,Pct PW,District 8B Associate Judge,,,Yes,238,134,104
+Des Moines,Pct UNION,District 8B Associate Judge,,,Yes,274,98,176
+Des Moines,Pct WB,District 8B Associate Judge,,,Yes,890,347,543
+Des Moines,Pct 1T,District 8B Associate Judge,,,No,205,62,143
+Des Moines,Pct 2,District 8B Associate Judge,,,No,197,44,153
+Des Moines,Pct 3,District 8B Associate Judge,,,No,205,82,123
+Des Moines,Pct 4,District 8B Associate Judge,,,No,155,70,85
+Des Moines,Pct 5,District 8B Associate Judge,,,No,142,29,113
+Des Moines,Pct 6,District 8B Associate Judge,,,No,99,43,56
+Des Moines,Pct 7,District 8B Associate Judge,,,No,203,61,142
+Des Moines,Pct 8C,District 8B Associate Judge,,,No,225,79,146
+Des Moines,Pct 9,District 8B Associate Judge,,,No,196,64,132
+Des Moines,Pct DM,District 8B Associate Judge,,,No,134,79,55
+Des Moines,Pct FM,District 8B Associate Judge,,,No,216,61,155
+Des Moines,Pct HJ,District 8B Associate Judge,,,No,112,54,58
+Des Moines,Pct MY,District 8B Associate Judge,,,No,220,128,92
+Des Moines,Pct PW,District 8B Associate Judge,,,No,87,61,26
+Des Moines,Pct UNION,District 8B Associate Judge,,,No,78,26,52
+Des Moines,Pct WB,District 8B Associate Judge,,,No,197,102,95
+Des Moines,Pct 1T,Question 1 and propose amendment or amendments to same?,,,Yes,374,106,268
+Des Moines,Pct 2,Question 1 and propose amendment or amendments to same?,,,Yes,357,84,273
+Des Moines,Pct 3,Question 1 and propose amendment or amendments to same?,,,Yes,348,135,213
+Des Moines,Pct 4,Question 1 and propose amendment or amendments to same?,,,Yes,329,124,205
+Des Moines,Pct 5,Question 1 and propose amendment or amendments to same?,,,Yes,313,71,242
+Des Moines,Pct 6,Question 1 and propose amendment or amendments to same?,,,Yes,224,85,139
+Des Moines,Pct 7,Question 1 and propose amendment or amendments to same?,,,Yes,395,121,274
+Des Moines,Pct 8C,Question 1 and propose amendment or amendments to same?,,,Yes,457,116,341
+Des Moines,Pct 9,Question 1 and propose amendment or amendments to same?,,,Yes,380,114,266
+Des Moines,Pct DM,Question 1 and propose amendment or amendments to same?,,,Yes,169,94,75
+Des Moines,Pct FM,Question 1 and propose amendment or amendments to same?,,,Yes,242,90,152
+Des Moines,Pct HJ,Question 1 and propose amendment or amendments to same?,,,Yes,125,61,64
+Des Moines,Pct MY,Question 1 and propose amendment or amendments to same?,,,Yes,310,159,151
+Des Moines,Pct PW,Question 1 and propose amendment or amendments to same?,,,Yes,80,52,28
+Des Moines,Pct UNION,Question 1 and propose amendment or amendments to same?,,,Yes,93,21,72
+Des Moines,Pct WB,Question 1 and propose amendment or amendments to same?,,,Yes,375,149,226
+Des Moines,Pct 1T,Question 1 and propose amendment or amendments to same?,,,No,1107,313,794
+Des Moines,Pct 2,Question 1 and propose amendment or amendments to same?,,,No,845,199,646
+Des Moines,Pct 3,Question 1 and propose amendment or amendments to same?,,,No,714,267,447
+Des Moines,Pct 4,Question 1 and propose amendment or amendments to same?,,,No,604,244,360
+Des Moines,Pct 5,Question 1 and propose amendment or amendments to same?,,,No,728,187,541
+Des Moines,Pct 6,Question 1 and propose amendment or amendments to same?,,,No,349,131,218
+Des Moines,Pct 7,Question 1 and propose amendment or amendments to same?,,,No,886,277,609
+Des Moines,Pct 8C,Question 1 and propose amendment or amendments to same?,,,No,1068,329,739
+Des Moines,Pct 9,Question 1 and propose amendment or amendments to same?,,,No,953,279,674
+Des Moines,Pct DM,Question 1 and propose amendment or amendments to same?,,,No,680,380,300
+Des Moines,Pct FM,Question 1 and propose amendment or amendments to same?,,,No,1018,283,735
+Des Moines,Pct HJ,Question 1 and propose amendment or amendments to same?,,,No,513,230,283
+Des Moines,Pct MY,Question 1 and propose amendment or amendments to same?,,,No,1061,580,481
+Des Moines,Pct PW,Question 1 and propose amendment or amendments to same?,,,No,314,173,141
+Des Moines,Pct UNION,Question 1 and propose amendment or amendments to same?,,,No,325,120,205
+Des Moines,Pct WB,Question 1 and propose amendment or amendments to same?,,,No,908,363,545
+Des Moines,Pct HJ,Benton TWP Public Measure D,,,Yes,224,100,124
+Des Moines,Pct HJ,Benton TWP Public Measure D,,,No,195,74,121
+Des Moines,Pct 8C,Concordia TWP Public Measure E,,,Yes,225,70,155
+Des Moines,Pct 8C,Concordia TWP Public Measure E,,,No,128,42,86
+Des Moines,Pct HJ,Huron TWP Public Measure F,,,Yes,89,54,35
+Des Moines,Pct HJ,Huron TWP Public Measure F,,,No,76,41,35
+Des Moines,Pct HJ,Jackson TWP Public Measure G,,,Yes,31,12,19
+Des Moines,Pct HJ,Jackson TWP Public Measure G,,,No,26,13,13
+Des Moines,Pct PW,Pleasant Grove TWP Public Measure H,,,Yes,126,77,49
+Des Moines,Pct PW,Pleasant Grove TWP Public Measure H,,,No,120,54,66
+Des Moines,Pct PW,Washington TWP Public Measure I,,,Yes,78,50,28
+Des Moines,Pct PW,Washington TWP Public Measure I,,,No,61,40,21

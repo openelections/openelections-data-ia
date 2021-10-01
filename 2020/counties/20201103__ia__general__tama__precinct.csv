@@ -1,0 +1,834 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,President,,DEM,Joseph R. Biden and Kamala D. Harris,404,155,249
+Tama,CARLTON,President,,DEM,Joseph R. Biden and Kamala D. Harris,174,66,108
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,President,,DEM,Joseph R. Biden and Kamala D. Harris,104,42,62
+Tama,CLARK/GENESEO,President,,DEM,Joseph R. Biden and Kamala D. Harris,370,160,210
+Tama,COLUMBIA/TAMA,President,,DEM,Joseph R. Biden and Kamala D. Harris,652,223,429
+Tama,SPRING CREEK/W. CRYSTAL,President,,DEM,Joseph R. Biden and Kamala D. Harris,228,89,139
+Tama,GRANT,President,,DEM,Joseph R. Biden and Kamala D. Harris,45,19,26
+Tama,HIGHLAND/INDIAN VILLAGE,President,,DEM,Joseph R. Biden and Kamala D. Harris,164,57,107
+Tama,INDIAN SETTLEMENT,President,,DEM,Joseph R. Biden and Kamala D. Harris,486,324,162
+Tama,S. OTTER CREEK,President,,DEM,Joseph R. Biden and Kamala D. Harris,36,15,21
+Tama,LINCOLN,President,,DEM,Joseph R. Biden and Kamala D. Harris,49,16,33
+Tama,RICHLAND/SALT CREEK,President,,DEM,Joseph R. Biden and Kamala D. Harris,91,38,53
+Tama,HOWARD/TOLEDO,President,,DEM,Joseph R. Biden and Kamala D. Harris,127,50,77
+Tama,TOLEDO CITY,President,,DEM,Joseph R. Biden and Kamala D. Harris,555,202,353
+Tama,YORK,President,,DEM,Joseph R. Biden and Kamala D. Harris,92,39,53
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,President,,REP,Donald J. Trump and Michael R. Pence,794,540,254
+Tama,CARLTON,President,,REP,Donald J. Trump and Michael R. Pence,306,185,121
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,President,,REP,Donald J. Trump and Michael R. Pence,301,222,79
+Tama,CLARK/GENESEO,President,,REP,Donald J. Trump and Michael R. Pence,773,567,206
+Tama,COLUMBIA/TAMA,President,,REP,Donald J. Trump and Michael R. Pence,679,393,286
+Tama,SPRING CREEK/W. CRYSTAL,President,,REP,Donald J. Trump and Michael R. Pence,591,388,203
+Tama,GRANT,President,,REP,Donald J. Trump and Michael R. Pence,130,68,62
+Tama,HIGHLAND/INDIAN VILLAGE,President,,REP,Donald J. Trump and Michael R. Pence,320,210,110
+Tama,INDIAN SETTLEMENT,President,,REP,Donald J. Trump and Michael R. Pence,28,19,9
+Tama,S. OTTER CREEK,President,,REP,Donald J. Trump and Michael R. Pence,63,44,19
+Tama,LINCOLN,President,,REP,Donald J. Trump and Michael R. Pence,168,118,50
+Tama,RICHLAND/SALT CREEK,President,,REP,Donald J. Trump and Michael R. Pence,219,164,55
+Tama,HOWARD/TOLEDO,President,,REP,Donald J. Trump and Michael R. Pence,243,141,102
+Tama,TOLEDO CITY,President,,REP,Donald J. Trump and Michael R. Pence,485,281,204
+Tama,YORK,President,,REP,Donald J. Trump and Michael R. Pence,203,153,50
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,1,0
+Tama,CARLTON,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Tama,CLARK/GENESEO,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Tama,COLUMBIA/TAMA,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Tama,SPRING CREEK/W. CRYSTAL,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Tama,GRANT,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Tama,HIGHLAND/INDIAN VILLAGE,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Tama,INDIAN SETTLEMENT,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Tama,S. OTTER CREEK,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Tama,LINCOLN,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Tama,RICHLAND/SALT CREEK,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Tama,HOWARD/TOLEDO,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Tama,TOLEDO CITY,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,1,0
+Tama,YORK,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,President,,CON,Don Blankenship and William Alan Mohr,4,2,2
+Tama,CARLTON,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Tama,CLARK/GENESEO,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Tama,COLUMBIA/TAMA,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Tama,SPRING CREEK/W. CRYSTAL,President,,CON,Don Blankenship and William Alan Mohr,2,1,1
+Tama,GRANT,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Tama,HIGHLAND/INDIAN VILLAGE,President,,CON,Don Blankenship and William Alan Mohr,1,1,0
+Tama,INDIAN SETTLEMENT,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Tama,S. OTTER CREEK,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Tama,LINCOLN,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Tama,RICHLAND/SALT CREEK,President,,CON,Don Blankenship and William Alan Mohr,1,0,1
+Tama,HOWARD/TOLEDO,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Tama,TOLEDO CITY,President,,CON,Don Blankenship and William Alan Mohr,3,3,0
+Tama,YORK,President,,CON,Don Blankenship and William Alan Mohr,1,0,1
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,President,,GKH,Ricki Sue King and Dayna R. Chandler,1,1,0
+Tama,CARLTON,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Tama,CLARK/GENESEO,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Tama,COLUMBIA/TAMA,President,,GKH,Ricki Sue King and Dayna R. Chandler,1,1,0
+Tama,SPRING CREEK/W. CRYSTAL,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Tama,GRANT,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Tama,HIGHLAND/INDIAN VILLAGE,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Tama,INDIAN SETTLEMENT,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Tama,S. OTTER CREEK,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Tama,LINCOLN,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Tama,RICHLAND/SALT CREEK,President,,GKH,Ricki Sue King and Dayna R. Chandler,1,1,0
+Tama,HOWARD/TOLEDO,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Tama,TOLEDO CITY,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Tama,YORK,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,President,,GRN,Howie Hawkins and Angela Nicole Walker,3,2,1
+Tama,CARLTON,President,,GRN,Howie Hawkins and Angela Nicole Walker,2,0,2
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,President,,GRN,Howie Hawkins and Angela Nicole Walker,1,1,0
+Tama,CLARK/GENESEO,President,,GRN,Howie Hawkins and Angela Nicole Walker,3,1,2
+Tama,COLUMBIA/TAMA,President,,GRN,Howie Hawkins and Angela Nicole Walker,1,0,1
+Tama,SPRING CREEK/W. CRYSTAL,President,,GRN,Howie Hawkins and Angela Nicole Walker,2,2,0
+Tama,GRANT,President,,GRN,Howie Hawkins and Angela Nicole Walker,0,0,0
+Tama,HIGHLAND/INDIAN VILLAGE,President,,GRN,Howie Hawkins and Angela Nicole Walker,2,1,1
+Tama,INDIAN SETTLEMENT,President,,GRN,Howie Hawkins and Angela Nicole Walker,1,1,0
+Tama,S. OTTER CREEK,President,,GRN,Howie Hawkins and Angela Nicole Walker,0,0,0
+Tama,LINCOLN,President,,GRN,Howie Hawkins and Angela Nicole Walker,0,0,0
+Tama,RICHLAND/SALT CREEK,President,,GRN,Howie Hawkins and Angela Nicole Walker,0,0,0
+Tama,HOWARD/TOLEDO,President,,GRN,Howie Hawkins and Angela Nicole Walker,0,0,0
+Tama,TOLEDO CITY,President,,GRN,Howie Hawkins and Angela Nicole Walker,3,1,2
+Tama,YORK,President,,GRN,Howie Hawkins and Angela Nicole Walker,1,0,1
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,President,,LIB,Jo Jorgensen and Jeremy Cohen,15,9,6
+Tama,CARLTON,President,,LIB,Jo Jorgensen and Jeremy Cohen,2,2,0
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,President,,LIB,Jo Jorgensen and Jeremy Cohen,4,2,2
+Tama,CLARK/GENESEO,President,,LIB,Jo Jorgensen and Jeremy Cohen,20,15,5
+Tama,COLUMBIA/TAMA,President,,LIB,Jo Jorgensen and Jeremy Cohen,13,9,4
+Tama,SPRING CREEK/W. CRYSTAL,President,,LIB,Jo Jorgensen and Jeremy Cohen,9,6,3
+Tama,GRANT,President,,LIB,Jo Jorgensen and Jeremy Cohen,2,0,2
+Tama,HIGHLAND/INDIAN VILLAGE,President,,LIB,Jo Jorgensen and Jeremy Cohen,3,0,3
+Tama,INDIAN SETTLEMENT,President,,LIB,Jo Jorgensen and Jeremy Cohen,1,1,0
+Tama,S. OTTER CREEK,President,,LIB,Jo Jorgensen and Jeremy Cohen,1,1,0
+Tama,LINCOLN,President,,LIB,Jo Jorgensen and Jeremy Cohen,0,0,0
+Tama,RICHLAND/SALT CREEK,President,,LIB,Jo Jorgensen and Jeremy Cohen,4,4,0
+Tama,HOWARD/TOLEDO,President,,LIB,Jo Jorgensen and Jeremy Cohen,3,1,2
+Tama,TOLEDO CITY,President,,LIB,Jo Jorgensen and Jeremy Cohen,10,4,6
+Tama,YORK,President,,LIB,Jo Jorgensen and Jeremy Cohen,0,0,0
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,President,,,Brock Pierce and Karla Ballard,1,1,0
+Tama,CARLTON,President,,,Brock Pierce and Karla Ballard,0,0,0
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,President,,,Brock Pierce and Karla Ballard,0,0,0
+Tama,CLARK/GENESEO,President,,,Brock Pierce and Karla Ballard,0,0,0
+Tama,COLUMBIA/TAMA,President,,,Brock Pierce and Karla Ballard,0,0,0
+Tama,SPRING CREEK/W. CRYSTAL,President,,,Brock Pierce and Karla Ballard,0,0,0
+Tama,GRANT,President,,,Brock Pierce and Karla Ballard,0,0,0
+Tama,HIGHLAND/INDIAN VILLAGE,President,,,Brock Pierce and Karla Ballard,0,0,0
+Tama,INDIAN SETTLEMENT,President,,,Brock Pierce and Karla Ballard,0,0,0
+Tama,S. OTTER CREEK,President,,,Brock Pierce and Karla Ballard,0,0,0
+Tama,LINCOLN,President,,,Brock Pierce and Karla Ballard,0,0,0
+Tama,RICHLAND/SALT CREEK,President,,,Brock Pierce and Karla Ballard,0,0,0
+Tama,HOWARD/TOLEDO,President,,,Brock Pierce and Karla Ballard,0,0,0
+Tama,TOLEDO CITY,President,,,Brock Pierce and Karla Ballard,1,0,1
+Tama,YORK,President,,,Brock Pierce and Karla Ballard,0,0,0
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,President,,,Kanye West and Michelle Tidball,4,1,3
+Tama,CARLTON,President,,,Kanye West and Michelle Tidball,1,1,0
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,President,,,Kanye West and Michelle Tidball,0,0,0
+Tama,CLARK/GENESEO,President,,,Kanye West and Michelle Tidball,1,1,0
+Tama,COLUMBIA/TAMA,President,,,Kanye West and Michelle Tidball,3,2,1
+Tama,SPRING CREEK/W. CRYSTAL,President,,,Kanye West and Michelle Tidball,0,0,0
+Tama,GRANT,President,,,Kanye West and Michelle Tidball,0,0,0
+Tama,HIGHLAND/INDIAN VILLAGE,President,,,Kanye West and Michelle Tidball,0,0,0
+Tama,INDIAN SETTLEMENT,President,,,Kanye West and Michelle Tidball,7,6,1
+Tama,S. OTTER CREEK,President,,,Kanye West and Michelle Tidball,0,0,0
+Tama,LINCOLN,President,,,Kanye West and Michelle Tidball,0,0,0
+Tama,RICHLAND/SALT CREEK,President,,,Kanye West and Michelle Tidball,0,0,0
+Tama,HOWARD/TOLEDO,President,,,Kanye West and Michelle Tidball,1,1,0
+Tama,TOLEDO CITY,President,,,Kanye West and Michelle Tidball,3,2,1
+Tama,YORK,President,,,Kanye West and Michelle Tidball,1,0,1
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,President,,,Write-in,5,4,1
+Tama,CARLTON,President,,,Write-in,1,0,1
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,President,,,Write-in,1,1,0
+Tama,CLARK/GENESEO,President,,,Write-in,2,0,2
+Tama,COLUMBIA/TAMA,President,,,Write-in,5,1,4
+Tama,SPRING CREEK/W. CRYSTAL,President,,,Write-in,4,3,1
+Tama,GRANT,President,,,Write-in,1,1,0
+Tama,HIGHLAND/INDIAN VILLAGE,President,,,Write-in,0,0,0
+Tama,INDIAN SETTLEMENT,President,,,Write-in,1,1,0
+Tama,S. OTTER CREEK,President,,,Write-in,0,0,0
+Tama,LINCOLN,President,,,Write-in,0,0,0
+Tama,RICHLAND/SALT CREEK,President,,,Write-in,0,0,0
+Tama,HOWARD/TOLEDO,President,,,Write-in,0,0,0
+Tama,TOLEDO CITY,President,,,Write-in,2,1,1
+Tama,YORK,President,,,Write-in,0,0,0
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,U.S. Senate,,DEM,Theresa Greenfield,397,164,233
+Tama,CARLTON,U.S. Senate,,DEM,Theresa Greenfield,171,65,106
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,U.S. Senate,,DEM,Theresa Greenfield,116,52,64
+Tama,CLARK/GENESEO,U.S. Senate,,DEM,Theresa Greenfield,375,177,198
+Tama,COLUMBIA/TAMA,U.S. Senate,,DEM,Theresa Greenfield,657,224,433
+Tama,SPRING CREEK/W. CRYSTAL,U.S. Senate,,DEM,Theresa Greenfield,236,96,140
+Tama,GRANT,U.S. Senate,,DEM,Theresa Greenfield,47,19,28
+Tama,HIGHLAND/INDIAN VILLAGE,U.S. Senate,,DEM,Theresa Greenfield,172,58,114
+Tama,INDIAN SETTLEMENT,U.S. Senate,,DEM,Theresa Greenfield,464,306,158
+Tama,S. OTTER CREEK,U.S. Senate,,DEM,Theresa Greenfield,36,15,21
+Tama,LINCOLN,U.S. Senate,,DEM,Theresa Greenfield,47,17,30
+Tama,RICHLAND/SALT CREEK,U.S. Senate,,DEM,Theresa Greenfield,101,49,52
+Tama,HOWARD/TOLEDO,U.S. Senate,,DEM,Theresa Greenfield,129,51,78
+Tama,TOLEDO CITY,U.S. Senate,,DEM,Theresa Greenfield,547,201,346
+Tama,YORK,U.S. Senate,,DEM,Theresa Greenfield,93,39,54
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,U.S. Senate,,REP,Joni Ernst,779,516,263
+Tama,CARLTON,U.S. Senate,,REP,Joni Ernst,292,175,117
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,U.S. Senate,,REP,Joni Ernst,287,209,78
+Tama,CLARK/GENESEO,U.S. Senate,,REP,Joni Ernst,770,550,220
+Tama,COLUMBIA/TAMA,U.S. Senate,,REP,Joni Ernst,642,372,270
+Tama,SPRING CREEK/W. CRYSTAL,U.S. Senate,,REP,Joni Ernst,551,361,190
+Tama,GRANT,U.S. Senate,,REP,Joni Ernst,123,65,58
+Tama,HIGHLAND/INDIAN VILLAGE,U.S. Senate,,REP,Joni Ernst,300,198,102
+Tama,INDIAN SETTLEMENT,U.S. Senate,,REP,Joni Ernst,37,26,11
+Tama,S. OTTER CREEK,U.S. Senate,,REP,Joni Ernst,61,42,19
+Tama,LINCOLN,U.S. Senate,,REP,Joni Ernst,167,114,53
+Tama,RICHLAND/SALT CREEK,U.S. Senate,,REP,Joni Ernst,204,149,55
+Tama,HOWARD/TOLEDO,U.S. Senate,,REP,Joni Ernst,230,135,95
+Tama,TOLEDO CITY,U.S. Senate,,REP,Joni Ernst,447,263,184
+Tama,YORK,U.S. Senate,,REP,Joni Ernst,200,147,53
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,U.S. Senate,,LIB,Rick Stewart,26,19,7
+Tama,CARLTON,U.S. Senate,,LIB,Rick Stewart,11,7,4
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,U.S. Senate,,LIB,Rick Stewart,6,3,3
+Tama,CLARK/GENESEO,U.S. Senate,,LIB,Rick Stewart,23,17,6
+Tama,COLUMBIA/TAMA,U.S. Senate,,LIB,Rick Stewart,30,18,12
+Tama,SPRING CREEK/W. CRYSTAL,U.S. Senate,,LIB,Rick Stewart,29,20,9
+Tama,GRANT,U.S. Senate,,LIB,Rick Stewart,6,2,4
+Tama,HIGHLAND/INDIAN VILLAGE,U.S. Senate,,LIB,Rick Stewart,9,6,3
+Tama,INDIAN SETTLEMENT,U.S. Senate,,LIB,Rick Stewart,4,4,0
+Tama,S. OTTER CREEK,U.S. Senate,,LIB,Rick Stewart,2,2,0
+Tama,LINCOLN,U.S. Senate,,LIB,Rick Stewart,2,2,0
+Tama,RICHLAND/SALT CREEK,U.S. Senate,,LIB,Rick Stewart,7,6,1
+Tama,HOWARD/TOLEDO,U.S. Senate,,LIB,Rick Stewart,10,4,6
+Tama,TOLEDO CITY,U.S. Senate,,LIB,Rick Stewart,38,15,23
+Tama,YORK,U.S. Senate,,LIB,Rick Stewart,2,2,0
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,U.S. Senate,,,Suzanne Herzog,16,11,5
+Tama,CARLTON,U.S. Senate,,,Suzanne Herzog,7,3,4
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,U.S. Senate,,,Suzanne Herzog,1,1,0
+Tama,CLARK/GENESEO,U.S. Senate,,,Suzanne Herzog,5,3,2
+Tama,COLUMBIA/TAMA,U.S. Senate,,,Suzanne Herzog,12,9,3
+Tama,SPRING CREEK/W. CRYSTAL,U.S. Senate,,,Suzanne Herzog,5,1,4
+Tama,GRANT,U.S. Senate,,,Suzanne Herzog,0,0,0
+Tama,HIGHLAND/INDIAN VILLAGE,U.S. Senate,,,Suzanne Herzog,6,4,2
+Tama,INDIAN SETTLEMENT,U.S. Senate,,,Suzanne Herzog,5,5,0
+Tama,S. OTTER CREEK,U.S. Senate,,,Suzanne Herzog,1,1,0
+Tama,LINCOLN,U.S. Senate,,,Suzanne Herzog,1,1,0
+Tama,RICHLAND/SALT CREEK,U.S. Senate,,,Suzanne Herzog,4,1,3
+Tama,HOWARD/TOLEDO,U.S. Senate,,,Suzanne Herzog,0,0,0
+Tama,TOLEDO CITY,U.S. Senate,,,Suzanne Herzog,14,10,4
+Tama,YORK,U.S. Senate,,,Suzanne Herzog,2,2,0
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,U.S. Senate,,,Write-in,0,0,0
+Tama,CARLTON,U.S. Senate,,,Write-in,0,0,0
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,U.S. Senate,,,Write-in,1,1,0
+Tama,CLARK/GENESEO,U.S. Senate,,,Write-in,0,0,0
+Tama,COLUMBIA/TAMA,U.S. Senate,,,Write-in,2,2,0
+Tama,SPRING CREEK/W. CRYSTAL,U.S. Senate,,,Write-in,0,0,0
+Tama,GRANT,U.S. Senate,,,Write-in,0,0,0
+Tama,HIGHLAND/INDIAN VILLAGE,U.S. Senate,,,Write-in,1,1,0
+Tama,INDIAN SETTLEMENT,U.S. Senate,,,Write-in,1,1,0
+Tama,S. OTTER CREEK,U.S. Senate,,,Write-in,0,0,0
+Tama,LINCOLN,U.S. Senate,,,Write-in,0,0,0
+Tama,RICHLAND/SALT CREEK,U.S. Senate,,,Write-in,0,0,0
+Tama,HOWARD/TOLEDO,U.S. Senate,,,Write-in,0,0,0
+Tama,TOLEDO CITY,U.S. Senate,,,Write-in,2,2,0
+Tama,YORK,U.S. Senate,,,Write-in,1,1,0
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,U.S. House,1,DEM,Abby Finkenauer,430,175,255
+Tama,CARLTON,U.S. House,1,DEM,Abby Finkenauer,197,78,119
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,U.S. House,1,DEM,Abby Finkenauer,114,51,63
+Tama,CLARK/GENESEO,U.S. House,1,DEM,Abby Finkenauer,396,185,211
+Tama,COLUMBIA/TAMA,U.S. House,1,DEM,Abby Finkenauer,664,241,423
+Tama,SPRING CREEK/W. CRYSTAL,U.S. House,1,DEM,Abby Finkenauer,260,109,151
+Tama,GRANT,U.S. House,1,DEM,Abby Finkenauer,59,28,31
+Tama,HIGHLAND/INDIAN VILLAGE,U.S. House,1,DEM,Abby Finkenauer,179,62,117
+Tama,INDIAN SETTLEMENT,U.S. House,1,DEM,Abby Finkenauer,465,310,155
+Tama,S. OTTER CREEK,U.S. House,1,DEM,Abby Finkenauer,38,18,20
+Tama,LINCOLN,U.S. House,1,DEM,Abby Finkenauer,51,20,31
+Tama,RICHLAND/SALT CREEK,U.S. House,1,DEM,Abby Finkenauer,108,55,53
+Tama,HOWARD/TOLEDO,U.S. House,1,DEM,Abby Finkenauer,131,52,79
+Tama,TOLEDO CITY,U.S. House,1,DEM,Abby Finkenauer,563,206,357
+Tama,YORK,U.S. House,1,DEM,Abby Finkenauer,95,43,52
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,U.S. House,1,REP,Ashley Hinson,781,528,253
+Tama,CARLTON,U.S. House,1,REP,Ashley Hinson,283,172,111
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,U.S. House,1,REP,Ashley Hinson,294,213,81
+Tama,CLARK/GENESEO,U.S. House,1,REP,Ashley Hinson,766,555,211
+Tama,COLUMBIA/TAMA,U.S. House,1,REP,Ashley Hinson,666,378,288
+Tama,SPRING CREEK/W. CRYSTAL,U.S. House,1,REP,Ashley Hinson,551,360,191
+Tama,GRANT,U.S. House,1,REP,Ashley Hinson,118,59,59
+Tama,HIGHLAND/INDIAN VILLAGE,U.S. House,1,REP,Ashley Hinson,305,204,101
+Tama,INDIAN SETTLEMENT,U.S. House,1,REP,Ashley Hinson,42,30,12
+Tama,S. OTTER CREEK,U.S. House,1,REP,Ashley Hinson,61,42,19
+Tama,LINCOLN,U.S. House,1,REP,Ashley Hinson,162,111,51
+Tama,RICHLAND/SALT CREEK,U.S. House,1,REP,Ashley Hinson,206,149,57
+Tama,HOWARD/TOLEDO,U.S. House,1,REP,Ashley Hinson,240,139,101
+Tama,TOLEDO CITY,U.S. House,1,REP,Ashley Hinson,474,278,196
+Tama,YORK,U.S. House,1,REP,Ashley Hinson,201,149,52
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,U.S. House,1,,Write-in,4,3,1
+Tama,CARLTON,U.S. House,1,,Write-in,0,0,0
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,U.S. House,1,,Write-in,0,0,0
+Tama,CLARK/GENESEO,U.S. House,1,,Write-in,0,0,0
+Tama,COLUMBIA/TAMA,U.S. House,1,,Write-in,5,3,2
+Tama,SPRING CREEK/W. CRYSTAL,U.S. House,1,,Write-in,2,2,0
+Tama,GRANT,U.S. House,1,,Write-in,0,0,0
+Tama,HIGHLAND/INDIAN VILLAGE,U.S. House,1,,Write-in,0,0,0
+Tama,INDIAN SETTLEMENT,U.S. House,1,,Write-in,0,0,0
+Tama,S. OTTER CREEK,U.S. House,1,,Write-in,0,0,0
+Tama,LINCOLN,U.S. House,1,,Write-in,0,0,0
+Tama,RICHLAND/SALT CREEK,U.S. House,1,,Write-in,1,0,1
+Tama,HOWARD/TOLEDO,U.S. House,1,,Write-in,0,0,0
+Tama,TOLEDO CITY,U.S. House,1,,Write-in,5,3,2
+Tama,YORK,U.S. House,1,,Write-in,0,0,0
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,State Senate,36,DEM,David Degner,422,189,233
+Tama,CARLTON,State Senate,36,DEM,David Degner,173,63,110
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,State Senate,36,DEM,David Degner,114,48,66
+Tama,CLARK/GENESEO,State Senate,36,DEM,David Degner,362,172,190
+Tama,COLUMBIA/TAMA,State Senate,36,DEM,David Degner,622,221,401
+Tama,SPRING CREEK/W. CRYSTAL,State Senate,36,DEM,David Degner,226,93,133
+Tama,GRANT,State Senate,36,DEM,David Degner,45,19,26
+Tama,HIGHLAND/INDIAN VILLAGE,State Senate,36,DEM,David Degner,157,55,102
+Tama,INDIAN SETTLEMENT,State Senate,36,DEM,David Degner,455,300,155
+Tama,S. OTTER CREEK,State Senate,36,DEM,David Degner,34,15,19
+Tama,LINCOLN,State Senate,36,DEM,David Degner,47,18,29
+Tama,RICHLAND/SALT CREEK,State Senate,36,DEM,David Degner,93,38,55
+Tama,HOWARD/TOLEDO,State Senate,36,DEM,David Degner,122,50,72
+Tama,TOLEDO CITY,State Senate,36,DEM,David Degner,517,197,320
+Tama,YORK,State Senate,36,DEM,David Degner,91,37,54
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,State Senate,36,REP,Jeff Edler,774,507,267
+Tama,CARLTON,State Senate,36,REP,Jeff Edler,300,184,116
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,State Senate,36,REP,Jeff Edler,288,212,76
+Tama,CLARK/GENESEO,State Senate,36,REP,Jeff Edler,784,557,227
+Tama,COLUMBIA/TAMA,State Senate,36,REP,Jeff Edler,688,393,295
+Tama,SPRING CREEK/W. CRYSTAL,State Senate,36,REP,Jeff Edler,586,377,209
+Tama,GRANT,State Senate,36,REP,Jeff Edler,127,64,63
+Tama,HIGHLAND/INDIAN VILLAGE,State Senate,36,REP,Jeff Edler,327,213,114
+Tama,INDIAN SETTLEMENT,State Senate,36,REP,Jeff Edler,41,31,10
+Tama,S. OTTER CREEK,State Senate,36,REP,Jeff Edler,64,45,19
+Tama,LINCOLN,State Senate,36,REP,Jeff Edler,168,114,54
+Tama,RICHLAND/SALT CREEK,State Senate,36,REP,Jeff Edler,218,164,54
+Tama,HOWARD/TOLEDO,State Senate,36,REP,Jeff Edler,243,138,105
+Tama,TOLEDO CITY,State Senate,36,REP,Jeff Edler,513,285,228
+Tama,YORK,State Senate,36,REP,Jeff Edler,194,147,47
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,State Senate,36,,Write-in,4,3,1
+Tama,CARLTON,State Senate,36,,Write-in,0,0,0
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,State Senate,36,,Write-in,0,0,0
+Tama,CLARK/GENESEO,State Senate,36,,Write-in,0,0,0
+Tama,COLUMBIA/TAMA,State Senate,36,,Write-in,4,3,1
+Tama,SPRING CREEK/W. CRYSTAL,State Senate,36,,Write-in,1,1,0
+Tama,GRANT,State Senate,36,,Write-in,0,0,0
+Tama,HIGHLAND/INDIAN VILLAGE,State Senate,36,,Write-in,0,0,0
+Tama,INDIAN SETTLEMENT,State Senate,36,,Write-in,1,1,0
+Tama,S. OTTER CREEK,State Senate,36,,Write-in,0,0,0
+Tama,LINCOLN,State Senate,36,,Write-in,0,0,0
+Tama,RICHLAND/SALT CREEK,State Senate,36,,Write-in,1,1,0
+Tama,HOWARD/TOLEDO,State Senate,36,,Write-in,0,0,0
+Tama,TOLEDO CITY,State Senate,36,,Write-in,1,0,1
+Tama,YORK,State Senate,36,,Write-in,1,0,1
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,State House,72,DEM,Christina Blackcloud,364,170,194
+Tama,CARLTON,State House,72,DEM,Christina Blackcloud,174,69,105
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,State House,72,DEM,Christina Blackcloud,105,49,56
+Tama,CLARK/GENESEO,State House,72,DEM,Christina Blackcloud,354,167,187
+Tama,COLUMBIA/TAMA,State House,72,DEM,Christina Blackcloud,727,299,428
+Tama,SPRING CREEK/W. CRYSTAL,State House,72,DEM,Christina Blackcloud,231,106,125
+Tama,GRANT,State House,72,DEM,Christina Blackcloud,45,19,26
+Tama,HIGHLAND/INDIAN VILLAGE,State House,72,DEM,Christina Blackcloud,186,72,114
+Tama,INDIAN SETTLEMENT,State House,72,DEM,Christina Blackcloud,485,327,158
+Tama,S. OTTER CREEK,State House,72,DEM,Christina Blackcloud,38,16,22
+Tama,LINCOLN,State House,72,DEM,Christina Blackcloud,48,22,26
+Tama,RICHLAND/SALT CREEK,State House,72,DEM,Christina Blackcloud,109,60,49
+Tama,HOWARD/TOLEDO,State House,72,DEM,Christina Blackcloud,131,56,75
+Tama,TOLEDO CITY,State House,72,DEM,Christina Blackcloud,585,236,349
+Tama,YORK,State House,72,DEM,Christina Blackcloud,99,46,53
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,State House,72,REP,Dean Fisher,831,521,310
+Tama,CARLTON,State House,72,REP,Dean Fisher,301,178,123
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,State House,72,REP,Dean Fisher,300,213,87
+Tama,CLARK/GENESEO,State House,72,REP,Dean Fisher,793,563,230
+Tama,COLUMBIA/TAMA,State House,72,REP,Dean Fisher,600,315,285
+Tama,SPRING CREEK/W. CRYSTAL,State House,72,REP,Dean Fisher,582,367,215
+Tama,GRANT,State House,72,REP,Dean Fisher,124,62,62
+Tama,HIGHLAND/INDIAN VILLAGE,State House,72,REP,Dean Fisher,293,189,104
+Tama,INDIAN SETTLEMENT,State House,72,REP,Dean Fisher,30,19,11
+Tama,S. OTTER CREEK,State House,72,REP,Dean Fisher,60,42,18
+Tama,LINCOLN,State House,72,REP,Dean Fisher,164,108,56
+Tama,RICHLAND/SALT CREEK,State House,72,REP,Dean Fisher,201,143,58
+Tama,HOWARD/TOLEDO,State House,72,REP,Dean Fisher,235,133,102
+Tama,TOLEDO CITY,State House,72,REP,Dean Fisher,446,244,202
+Tama,YORK,State House,72,REP,Dean Fisher,190,139,51
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,State House,72,,Write-in,2,2,0
+Tama,CARLTON,State House,72,,Write-in,1,0,1
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,State House,72,,Write-in,2,1,1
+Tama,CLARK/GENESEO,State House,72,,Write-in,0,0,0
+Tama,COLUMBIA/TAMA,State House,72,,Write-in,3,3,0
+Tama,SPRING CREEK/W. CRYSTAL,State House,72,,Write-in,0,0,0
+Tama,GRANT,State House,72,,Write-in,0,0,0
+Tama,HIGHLAND/INDIAN VILLAGE,State House,72,,Write-in,1,1,0
+Tama,INDIAN SETTLEMENT,State House,72,,Write-in,0,0,0
+Tama,S. OTTER CREEK,State House,72,,Write-in,1,1,0
+Tama,LINCOLN,State House,72,,Write-in,0,0,0
+Tama,RICHLAND/SALT CREEK,State House,72,,Write-in,0,0,0
+Tama,HOWARD/TOLEDO,State House,72,,Write-in,0,0,0
+Tama,TOLEDO CITY,State House,72,,Write-in,3,1,2
+Tama,YORK,State House,72,,Write-in,1,1,0
+Tama,CARLTON,County Board of Supervisors Dist. 2,,DEM,Dem Kendall L. Jordan,156,55,101
+Tama,SPRING CREEK/W. CRYSTAL,County Board of Supervisors Dist. 2,,DEM,Dem Kendall L. Jordan,248,117,131
+Tama,S. OTTER CREEK,County Board of Supervisors Dist. 2,,DEM,Dem Kendall L. Jordan,55,30,25
+Tama,LINCOLN,County Board of Supervisors Dist. 2,,DEM,Dem Kendall L. Jordan,51,23,28
+Tama,HOWARD/TOLEDO,County Board of Supervisors Dist. 2,,DEM,Dem Kendall L. Jordan,168,70,98
+Tama,TOLEDO CITY,County Board of Supervisors Dist. 2,,DEM,Dem Kendall L. Jordan,719,311,408
+Tama,CARLTON,County Board of Supervisors Dist. 2,,REP,Rep William Faircloth,321,194,127
+Tama,SPRING CREEK/W. CRYSTAL,County Board of Supervisors Dist. 2,,REP,Rep William Faircloth,560,351,209
+Tama,S. OTTER CREEK,County Board of Supervisors Dist. 2,,REP,Rep William Faircloth,45,30,15
+Tama,LINCOLN,County Board of Supervisors Dist. 2,,REP,Rep William Faircloth,161,107,54
+Tama,HOWARD/TOLEDO,County Board of Supervisors Dist. 2,,REP,Rep William Faircloth,200,119,81
+Tama,TOLEDO CITY,County Board of Supervisors Dist. 2,,REP,Rep William Faircloth,318,172,146
+Tama,CARLTON,County Board of Supervisors Dist. 2,,,Write-in,0,0,0
+Tama,SPRING CREEK/W. CRYSTAL,County Board of Supervisors Dist. 2,,,Write-in,1,1,0
+Tama,S. OTTER CREEK,County Board of Supervisors Dist. 2,,,Write-in,0,0,0
+Tama,LINCOLN,County Board of Supervisors Dist. 2,,,Write-in,0,0,0
+Tama,HOWARD/TOLEDO,County Board of Supervisors Dist. 2,,,Write-in,1,1,0
+Tama,TOLEDO CITY,County Board of Supervisors Dist. 2,,,Write-in,3,2,1
+Tama,COLUMBIA/TAMA,County Board of Supervisors Dist. 3,,DEM,Dem Daniel Anderson,1048,461,587
+Tama,HIGHLAND/INDIAN VILLAGE,County Board of Supervisors Dist. 3,,DEM,Dem Daniel Anderson,329,172,157
+Tama,INDIAN SETTLEMENT,County Board of Supervisors Dist. 3,,DEM,Dem Daniel Anderson,459,304,155
+Tama,RICHLAND/SALT CREEK,County Board of Supervisors Dist. 3,,DEM,Dem Daniel Anderson,222,136,86
+Tama,COLUMBIA/TAMA,County Board of Supervisors Dist. 3,,,Write-in,38,23,15
+Tama,HIGHLAND/INDIAN VILLAGE,County Board of Supervisors Dist. 3,,,Write-in,12,9,3
+Tama,INDIAN SETTLEMENT,County Board of Supervisors Dist. 3,,,Write-in,1,1,0
+Tama,RICHLAND/SALT CREEK,County Board of Supervisors Dist. 3,,,Write-in,14,8,6
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,County Auditor,,DEM,Dem Laura Kopsa,889,482,407
+Tama,CARLTON,County Auditor,,DEM,Dem Laura Kopsa,357,173,184
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,County Auditor,,DEM,Dem Laura Kopsa,300,189,111
+Tama,CLARK/GENESEO,County Auditor,,DEM,Dem Laura Kopsa,816,479,337
+Tama,COLUMBIA/TAMA,County Auditor,,DEM,Dem Laura Kopsa,1123,503,620
+Tama,SPRING CREEK/W. CRYSTAL,County Auditor,,DEM,Dem Laura Kopsa,610,339,271
+Tama,GRANT,County Auditor,,DEM,Dem Laura Kopsa,125,57,68
+Tama,HIGHLAND/INDIAN VILLAGE,County Auditor,,DEM,Dem Laura Kopsa,346,181,165
+Tama,INDIAN SETTLEMENT,County Auditor,,DEM,Dem Laura Kopsa,460,305,155
+Tama,S. OTTER CREEK,County Auditor,,DEM,Dem Laura Kopsa,81,48,33
+Tama,LINCOLN,County Auditor,,DEM,Dem Laura Kopsa,161,89,72
+Tama,RICHLAND/SALT CREEK,County Auditor,,DEM,Dem Laura Kopsa,243,143,100
+Tama,HOWARD/TOLEDO,County Auditor,,DEM,Dem Laura Kopsa,289,137,152
+Tama,TOLEDO CITY,County Auditor,,DEM,Dem Laura Kopsa,912,407,505
+Tama,YORK,County Auditor,,DEM,Dem Laura Kopsa,223,134,89
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,County Auditor,,,Write-in,27,25,2
+Tama,CARLTON,County Auditor,,,Write-in,9,8,1
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,County Auditor,,,Write-in,11,9,2
+Tama,CLARK/GENESEO,County Auditor,,,Write-in,24,22,2
+Tama,COLUMBIA/TAMA,County Auditor,,,Write-in,15,10,5
+Tama,SPRING CREEK/W. CRYSTAL,County Auditor,,,Write-in,9,4,5
+Tama,GRANT,County Auditor,,,Write-in,4,2,2
+Tama,HIGHLAND/INDIAN VILLAGE,County Auditor,,,Write-in,3,3,0
+Tama,INDIAN SETTLEMENT,County Auditor,,,Write-in,0,0,0
+Tama,S. OTTER CREEK,County Auditor,,,Write-in,0,0,0
+Tama,LINCOLN,County Auditor,,,Write-in,6,6,0
+Tama,RICHLAND/SALT CREEK,County Auditor,,,Write-in,8,5,3
+Tama,HOWARD/TOLEDO,County Auditor,,,Write-in,10,5,5
+Tama,TOLEDO CITY,County Auditor,,,Write-in,16,12,4
+Tama,YORK,County Auditor,,,Write-in,9,8,1
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,County Sheriff,,DEM,Dem Jeffrey Schrock,194,93,101
+Tama,CARLTON,County Sheriff,,DEM,Dem Jeffrey Schrock,132,54,78
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,County Sheriff,,DEM,Dem Jeffrey Schrock,51,12,39
+Tama,CLARK/GENESEO,County Sheriff,,DEM,Dem Jeffrey Schrock,223,90,133
+Tama,COLUMBIA/TAMA,County Sheriff,,DEM,Dem Jeffrey Schrock,535,214,321
+Tama,SPRING CREEK/W. CRYSTAL,County Sheriff,,DEM,Dem Jeffrey Schrock,176,75,101
+Tama,GRANT,County Sheriff,,DEM,Dem Jeffrey Schrock,31,15,16
+Tama,HIGHLAND/INDIAN VILLAGE,County Sheriff,,DEM,Dem Jeffrey Schrock,134,44,90
+Tama,INDIAN SETTLEMENT,County Sheriff,,DEM,Dem Jeffrey Schrock,465,319,146
+Tama,S. OTTER CREEK,County Sheriff,,DEM,Dem Jeffrey Schrock,22,13,9
+Tama,LINCOLN,County Sheriff,,DEM,Dem Jeffrey Schrock,24,14,10
+Tama,RICHLAND/SALT CREEK,County Sheriff,,DEM,Dem Jeffrey Schrock,80,44,36
+Tama,HOWARD/TOLEDO,County Sheriff,,DEM,Dem Jeffrey Schrock,84,31,53
+Tama,TOLEDO CITY,County Sheriff,,DEM,Dem Jeffrey Schrock,428,181,247
+Tama,YORK,County Sheriff,,DEM,Dem Jeffrey Schrock,65,28,37
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,County Sheriff,,REP,Rep Dennis P. Kucera,1022,612,410
+Tama,CARLTON,County Sheriff,,REP,Rep Dennis P. Kucera,344,194,150
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,County Sheriff,,REP,Rep Dennis P. Kucera,362,255,107
+Tama,CLARK/GENESEO,County Sheriff,,REP,Rep Dennis P. Kucera,924,643,281
+Tama,COLUMBIA/TAMA,County Sheriff,,REP,Rep Dennis P. Kucera,799,401,398
+Tama,SPRING CREEK/W. CRYSTAL,County Sheriff,,REP,Rep Dennis P. Kucera,651,405,246
+Tama,GRANT,County Sheriff,,REP,Rep Dennis P. Kucera,144,70,74
+Tama,HIGHLAND/INDIAN VILLAGE,County Sheriff,,REP,Rep Dennis P. Kucera,351,223,128
+Tama,INDIAN SETTLEMENT,County Sheriff,,REP,Rep Dennis P. Kucera,49,29,20
+Tama,S. OTTER CREEK,County Sheriff,,REP,Rep Dennis P. Kucera,77,46,31
+Tama,LINCOLN,County Sheriff,,REP,Rep Dennis P. Kucera,193,120,73
+Tama,RICHLAND/SALT CREEK,County Sheriff,,REP,Rep Dennis P. Kucera,237,162,75
+Tama,HOWARD/TOLEDO,County Sheriff,,REP,Rep Dennis P. Kucera,285,159,126
+Tama,TOLEDO CITY,County Sheriff,,REP,Rep Dennis P. Kucera,612,303,309
+Tama,YORK,County Sheriff,,REP,Rep Dennis P. Kucera,229,162,67
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,County Sheriff,,,Write-in,3,3,0
+Tama,CARLTON,County Sheriff,,,Write-in,0,0,0
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,County Sheriff,,,Write-in,0,0,0
+Tama,CLARK/GENESEO,County Sheriff,,,Write-in,0,0,0
+Tama,COLUMBIA/TAMA,County Sheriff,,,Write-in,8,5,3
+Tama,SPRING CREEK/W. CRYSTAL,County Sheriff,,,Write-in,0,0,0
+Tama,GRANT,County Sheriff,,,Write-in,0,0,0
+Tama,HIGHLAND/INDIAN VILLAGE,County Sheriff,,,Write-in,0,0,0
+Tama,INDIAN SETTLEMENT,County Sheriff,,,Write-in,2,1,1
+Tama,S. OTTER CREEK,County Sheriff,,,Write-in,0,0,0
+Tama,LINCOLN,County Sheriff,,,Write-in,0,0,0
+Tama,RICHLAND/SALT CREEK,County Sheriff,,,Write-in,0,0,0
+Tama,HOWARD/TOLEDO,County Sheriff,,,Write-in,1,1,0
+Tama,TOLEDO CITY,County Sheriff,,,Write-in,4,2,2
+Tama,YORK,County Sheriff,,,Write-in,2,1,1
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Township Trustees Buckingham,,,John Schrier,154,91,63
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Township Trustees Buckingham,,,Jerry Meisgeier,131,71,60
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Township Trustees Buckingham,,,Write-in,1,1,0
+Tama,CARLTON,Township Trustees Carlton,,,Matt Jackson,180,94,86
+Tama,CARLTON,Township Trustees Carlton,,,Brian Bovenmyer,161,84,77
+Tama,CARLTON,Township Trustees Carlton,,,Write-in,4,2,2
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Township Trustees Carroll,,,Bill Jesina,92,49,43
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Township Trustees Carroll,,,Alan Sienknecht,108,64,44
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Township Trustees Carroll,,,Write-in,0,0,0
+Tama,CLARK/GENESEO,Township Trustees Clark,,,Dean McKenna,136,70,66
+Tama,CLARK/GENESEO,Township Trustees Clark,,,Write-in,4,3,1
+Tama,CLARK/GENESEO,Township Trustees Clark,,,Mark Werner,2,2,0
+Tama,COLUMBIA/TAMA,Township Trustees Columbia,,,Adam Todd,76,36,40
+Tama,COLUMBIA/TAMA,Township Trustees Columbia,,,Daniel J. Zhorne,159,83,76
+Tama,COLUMBIA/TAMA,Township Trustees Columbia,,,Write-in,8,5,3
+Tama,COLUMBIA/TAMA,Township Clerk TFV Columbia,,,Lloyd Chyma Jr.,166,91,75
+Tama,COLUMBIA/TAMA,Township Clerk TFV Columbia,,,Write-in,0,0,0
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Township Trustees Crystal,,,Craig Sash,19,12,7
+Tama,SPRING CREEK/W. CRYSTAL,Township Trustees Crystal,,,Craig Sash,94,53,41
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Township Trustees Crystal,,,Robert W. Knaack,14,11,3
+Tama,SPRING CREEK/W. CRYSTAL,Township Trustees Crystal,,,Robert W. Knaack,72,39,33
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Township Trustees Crystal,,,Write-in,0,0,0
+Tama,SPRING CREEK/W. CRYSTAL,Township Trustees Crystal,,,Write-in,3,2,1
+Tama,CLARK/GENESEO,Township Trustees Geneseo,,,Catherine Leipold,162,86,76
+Tama,CLARK/GENESEO,Township Trustees Geneseo,,,Tammirae Neuendorf,141,72,69
+Tama,CLARK/GENESEO,Township Trustees Geneseo,,,Write-in,13,3,10
+Tama,GRANT,Township Trustees Grant,,,Ryan Bru,140,68,72
+Tama,GRANT,Township Trustees Grant,,,Write-in,0,0,0
+Tama,GRANT,Township Trustees Grant,,,Clifford Moye,1,0,1
+Tama,HIGHLAND/INDIAN VILLAGE,Township Trustees Highland,,,Melissa Manfull,75,52,23
+Tama,HIGHLAND/INDIAN VILLAGE,Township Trustees Highland,,,Gary Manfull,69,45,24
+Tama,HIGHLAND/INDIAN VILLAGE,Township Trustees Highland,,,Write-in,1,0,1
+Tama,HOWARD/TOLEDO,Township Trustees Howard,,,Alan Kouba,112,67,45
+Tama,HOWARD/TOLEDO,Township Trustees Howard,,,Kevin Stamp,90,53,37
+Tama,HOWARD/TOLEDO,Township Trustees Howard,,,Daniel Aneweer,20,11,9
+Tama,HOWARD/TOLEDO,Township Trustees Howard,,,Write-in,3,2,1
+Tama,HIGHLAND/INDIAN VILLAGE,Township Trustees Indian Village,,,Robert Frundle,144,70,74
+Tama,INDIAN SETTLEMENT,Township Trustees Indian Village,,,Robert Frundle,128,89,39
+Tama,HIGHLAND/INDIAN VILLAGE,Township Trustees Indian Village,,,Craig Hempy,168,83,85
+Tama,INDIAN SETTLEMENT,Township Trustees Indian Village,,,Craig Hempy,105,69,36
+Tama,HIGHLAND/INDIAN VILLAGE,Township Trustees Indian Village,,,Write-in,1,1,0
+Tama,INDIAN SETTLEMENT,Township Trustees Indian Village,,,Write-in,7,3,4
+Tama,LINCOLN,Township Trustees Lincoln,,,Donald Linnenbrink,133,79,54
+Tama,LINCOLN,Township Trustees Lincoln,,,Write-in,3,0,3
+Tama,LINCOLN,Township Trustees Lincoln,,,Karen Sienknecht,12,8,4
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Township Trustees Oneida,,,Joe G. Dvorak,106,77,29
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Township Trustees Oneida,,,Sandra Kopriva,86,62,24
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Township Trustees Oneida,,,Write-in,3,3,0
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Township Trustees Otter Creek,,,Dan Doyle,40,26,14
+Tama,S. OTTER CREEK,Township Trustees Otter Creek,,,Dan Doyle,83,48,35
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Township Trustees Otter Creek,,,Don Paustian,32,18,14
+Tama,S. OTTER CREEK,Township Trustees Otter Creek,,,Don Paustian,74,47,27
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Township Trustees Otter Creek,,,Write-in,2,2,0
+Tama,S. OTTER CREEK,Township Trustees Otter Creek,,,Write-in,1,1,0
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Township Trustees Perry,,,R. Sam Young,116,66,50
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Township Trustees Perry,,,Rick Dennis,79,47,32
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Township Trustees Perry,,,Write-in,2,1,1
+Tama,RICHLAND/SALT CREEK,Township Trustees Richland,,,Ernest Kucera,59,33,26
+Tama,RICHLAND/SALT CREEK,Township Trustees Richland,,,Brian Squiers,65,35,30
+Tama,RICHLAND/SALT CREEK,Township Trustees Richland,,,Write-in,2,1,1
+Tama,RICHLAND/SALT CREEK,Township Clerk TFV Richland,,,Patrick Henry,74,42,32
+Tama,RICHLAND/SALT CREEK,Township Clerk TFV Richland,,,Write-in,0,0,0
+Tama,RICHLAND/SALT CREEK,Township Trustees Salt Creek,,,Paul Kupka,114,74,40
+Tama,RICHLAND/SALT CREEK,Township Trustees Salt Creek,,,John Bostian,119,74,45
+Tama,RICHLAND/SALT CREEK,Township Trustees Salt Creek,,,Write-in,1,0,1
+Tama,SPRING CREEK/W. CRYSTAL,Township Trustees Spring Creek,,,Mark Flamme,193,102,91
+Tama,SPRING CREEK/W. CRYSTAL,Township Trustees Spring Creek,,,Grant Strohbehn,185,96,89
+Tama,SPRING CREEK/W. CRYSTAL,Township Trustees Spring Creek,,,Write-in,2,1,1
+Tama,COLUMBIA/TAMA,Township Trustees Tama,,,Write-in,1,1,0
+Tama,INDIAN SETTLEMENT,Township Trustees Tama,,,Write-in,1,1,0
+Tama,COLUMBIA/TAMA,Township Trustees Tama,,,Ben Bolen,1,1,0
+Tama,INDIAN SETTLEMENT,Township Trustees Tama,,,Ben Bolen,0,0,0
+Tama,COLUMBIA/TAMA,Township Trustees Tama,,,John Safely,1,1,0
+Tama,INDIAN SETTLEMENT,Township Trustees Tama,,,John Safely,0,0,0
+Tama,COLUMBIA/TAMA,Township Clerk TFV Tama,,,Ashley Bolen,25,15,10
+Tama,INDIAN SETTLEMENT,Township Clerk TFV Tama,,,Ashley Bolen,44,28,16
+Tama,COLUMBIA/TAMA,Township Clerk TFV Tama,,,Write-in,0,0,0
+Tama,INDIAN SETTLEMENT,Township Clerk TFV Tama,,,Write-in,0,0,0
+Tama,INDIAN SETTLEMENT,Township Trustees Toledo,,,Pete Lyon,89,60,29
+Tama,HOWARD/TOLEDO,Township Trustees Toledo,,,Pete Lyon,173,82,91
+Tama,INDIAN SETTLEMENT,Township Trustees Toledo,,,Leonard Husak,66,45,21
+Tama,HOWARD/TOLEDO,Township Trustees Toledo,,,Leonard Husak,132,63,69
+Tama,INDIAN SETTLEMENT,Township Trustees Toledo,,,Write-in,1,0,1
+Tama,HOWARD/TOLEDO,Township Trustees Toledo,,,Write-in,1,0,1
+Tama,YORK,Township Trustees York,,,Lance Wauters,131,80,51
+Tama,YORK,Township Trustees York,,,Todd Banes,117,72,45
+Tama,YORK,Township Trustees York,,,Write-in,0,0,0
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Soil and Water Conservation Dist. Comm.,,,Al Schafbuch,902,528,374
+Tama,CARLTON,Soil and Water Conservation Dist. Comm.,,,Al Schafbuch,345,178,167
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Soil and Water Conservation Dist. Comm.,,,Al Schafbuch,307,218,89
+Tama,CLARK/GENESEO,Soil and Water Conservation Dist. Comm.,,,Al Schafbuch,919,610,309
+Tama,COLUMBIA/TAMA,Soil and Water Conservation Dist. Comm.,,,Al Schafbuch,936,437,499
+Tama,SPRING CREEK/W. CRYSTAL,Soil and Water Conservation Dist. Comm.,,,Al Schafbuch,599,349,250
+Tama,GRANT,Soil and Water Conservation Dist. Comm.,,,Al Schafbuch,129,66,63
+Tama,HIGHLAND/INDIAN VILLAGE,Soil and Water Conservation Dist. Comm.,,,Al Schafbuch,325,191,134
+Tama,INDIAN SETTLEMENT,Soil and Water Conservation Dist. Comm.,,,Al Schafbuch,322,224,98
+Tama,S. OTTER CREEK,Soil and Water Conservation Dist. Comm.,,,Al Schafbuch,78,46,32
+Tama,LINCOLN,Soil and Water Conservation Dist. Comm.,,,Al Schafbuch,164,102,62
+Tama,RICHLAND/SALT CREEK,Soil and Water Conservation Dist. Comm.,,,Al Schafbuch,227,144,83
+Tama,HOWARD/TOLEDO,Soil and Water Conservation Dist. Comm.,,,Al Schafbuch,249,131,118
+Tama,TOLEDO CITY,Soil and Water Conservation Dist. Comm.,,,Al Schafbuch,769,357,412
+Tama,YORK,Soil and Water Conservation Dist. Comm.,,,Al Schafbuch,218,138,80
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Soil and Water Conservation Dist. Comm.,,,Write-in,46,23,23
+Tama,CARLTON,Soil and Water Conservation Dist. Comm.,,,Write-in,12,5,7
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Soil and Water Conservation Dist. Comm.,,,Write-in,32,23,9
+Tama,CLARK/GENESEO,Soil and Water Conservation Dist. Comm.,,,Write-in,49,22,27
+Tama,COLUMBIA/TAMA,Soil and Water Conservation Dist. Comm.,,,Write-in,28,10,18
+Tama,SPRING CREEK/W. CRYSTAL,Soil and Water Conservation Dist. Comm.,,,Write-in,18,6,12
+Tama,GRANT,Soil and Water Conservation Dist. Comm.,,,Write-in,0,0,0
+Tama,HIGHLAND/INDIAN VILLAGE,Soil and Water Conservation Dist. Comm.,,,Write-in,11,7,4
+Tama,INDIAN SETTLEMENT,Soil and Water Conservation Dist. Comm.,,,Write-in,6,3,3
+Tama,S. OTTER CREEK,Soil and Water Conservation Dist. Comm.,,,Write-in,6,5,1
+Tama,LINCOLN,Soil and Water Conservation Dist. Comm.,,,Write-in,2,2,0
+Tama,RICHLAND/SALT CREEK,Soil and Water Conservation Dist. Comm.,,,Write-in,15,5,10
+Tama,HOWARD/TOLEDO,Soil and Water Conservation Dist. Comm.,,,Write-in,0,0,0
+Tama,TOLEDO CITY,Soil and Water Conservation Dist. Comm.,,,Write-in,30,23,7
+Tama,YORK,Soil and Water Conservation Dist. Comm.,,,Write-in,23,18,5
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Soil and Water Conservation Dist. Comm.,,,Brian Benda,1,1,0
+Tama,CARLTON,Soil and Water Conservation Dist. Comm.,,,Brian Benda,0,0,0
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Soil and Water Conservation Dist. Comm.,,,Brian Benda,0,0,0
+Tama,CLARK/GENESEO,Soil and Water Conservation Dist. Comm.,,,Brian Benda,0,0,0
+Tama,COLUMBIA/TAMA,Soil and Water Conservation Dist. Comm.,,,Brian Benda,0,0,0
+Tama,SPRING CREEK/W. CRYSTAL,Soil and Water Conservation Dist. Comm.,,,Brian Benda,0,0,0
+Tama,GRANT,Soil and Water Conservation Dist. Comm.,,,Brian Benda,0,0,0
+Tama,HIGHLAND/INDIAN VILLAGE,Soil and Water Conservation Dist. Comm.,,,Brian Benda,0,0,0
+Tama,INDIAN SETTLEMENT,Soil and Water Conservation Dist. Comm.,,,Brian Benda,0,0,0
+Tama,S. OTTER CREEK,Soil and Water Conservation Dist. Comm.,,,Brian Benda,0,0,0
+Tama,LINCOLN,Soil and Water Conservation Dist. Comm.,,,Brian Benda,0,0,0
+Tama,RICHLAND/SALT CREEK,Soil and Water Conservation Dist. Comm.,,,Brian Benda,0,0,0
+Tama,HOWARD/TOLEDO,Soil and Water Conservation Dist. Comm.,,,Brian Benda,10,6,4
+Tama,TOLEDO CITY,Soil and Water Conservation Dist. Comm.,,,Brian Benda,0,0,0
+Tama,YORK,Soil and Water Conservation Dist. Comm.,,,Brian Benda,0,0,0
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Soil and Water Conservation Dist. Comm.,,,Bill Heckt,4,4,0
+Tama,CARLTON,Soil and Water Conservation Dist. Comm.,,,Bill Heckt,0,0,0
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Soil and Water Conservation Dist. Comm.,,,Bill Heckt,0,0,0
+Tama,CLARK/GENESEO,Soil and Water Conservation Dist. Comm.,,,Bill Heckt,0,0,0
+Tama,COLUMBIA/TAMA,Soil and Water Conservation Dist. Comm.,,,Bill Heckt,0,0,0
+Tama,SPRING CREEK/W. CRYSTAL,Soil and Water Conservation Dist. Comm.,,,Bill Heckt,0,0,0
+Tama,GRANT,Soil and Water Conservation Dist. Comm.,,,Bill Heckt,0,0,0
+Tama,HIGHLAND/INDIAN VILLAGE,Soil and Water Conservation Dist. Comm.,,,Bill Heckt,0,0,0
+Tama,INDIAN SETTLEMENT,Soil and Water Conservation Dist. Comm.,,,Bill Heckt,0,0,0
+Tama,S. OTTER CREEK,Soil and Water Conservation Dist. Comm.,,,Bill Heckt,0,0,0
+Tama,LINCOLN,Soil and Water Conservation Dist. Comm.,,,Bill Heckt,0,0,0
+Tama,RICHLAND/SALT CREEK,Soil and Water Conservation Dist. Comm.,,,Bill Heckt,0,0,0
+Tama,HOWARD/TOLEDO,Soil and Water Conservation Dist. Comm.,,,Bill Heckt,0,0,0
+Tama,TOLEDO CITY,Soil and Water Conservation Dist. Comm.,,,Bill Heckt,0,0,0
+Tama,YORK,Soil and Water Conservation Dist. Comm.,,,Bill Heckt,0,0,0
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Tama Co. Ag. Ext. Council Members,,,Jennifer Wrage,814,469,345
+Tama,CARLTON,Tama Co. Ag. Ext. Council Members,,,Jennifer Wrage,294,148,146
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Tama Co. Ag. Ext. Council Members,,,Jennifer Wrage,260,172,88
+Tama,CLARK/GENESEO,Tama Co. Ag. Ext. Council Members,,,Jennifer Wrage,756,478,278
+Tama,COLUMBIA/TAMA,Tama Co. Ag. Ext. Council Members,,,Jennifer Wrage,700,282,418
+Tama,SPRING CREEK/W. CRYSTAL,Tama Co. Ag. Ext. Council Members,,,Jennifer Wrage,587,327,260
+Tama,GRANT,Tama Co. Ag. Ext. Council Members,,,Jennifer Wrage,115,53,62
+Tama,HIGHLAND/INDIAN VILLAGE,Tama Co. Ag. Ext. Council Members,,,Jennifer Wrage,254,136,118
+Tama,INDIAN SETTLEMENT,Tama Co. Ag. Ext. Council Members,,,Jennifer Wrage,230,147,83
+Tama,S. OTTER CREEK,Tama Co. Ag. Ext. Council Members,,,Jennifer Wrage,60,33,27
+Tama,LINCOLN,Tama Co. Ag. Ext. Council Members,,,Jennifer Wrage,155,90,65
+Tama,RICHLAND/SALT CREEK,Tama Co. Ag. Ext. Council Members,,,Jennifer Wrage,193,117,76
+Tama,HOWARD/TOLEDO,Tama Co. Ag. Ext. Council Members,,,Jennifer Wrage,189,90,99
+Tama,TOLEDO CITY,Tama Co. Ag. Ext. Council Members,,,Jennifer Wrage,586,263,323
+Tama,YORK,Tama Co. Ag. Ext. Council Members,,,Jennifer Wrage,188,115,73
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Tama Co. Ag. Ext. Council Members,,,Trish Stadler,697,382,315
+Tama,CARLTON,Tama Co. Ag. Ext. Council Members,,,Trish Stadler,259,125,134
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Tama Co. Ag. Ext. Council Members,,,Trish Stadler,255,163,92
+Tama,CLARK/GENESEO,Tama Co. Ag. Ext. Council Members,,,Trish Stadler,665,412,253
+Tama,COLUMBIA/TAMA,Tama Co. Ag. Ext. Council Members,,,Trish Stadler,738,319,419
+Tama,SPRING CREEK/W. CRYSTAL,Tama Co. Ag. Ext. Council Members,,,Trish Stadler,459,252,207
+Tama,GRANT,Tama Co. Ag. Ext. Council Members,,,Trish Stadler,95,46,49
+Tama,HIGHLAND/INDIAN VILLAGE,Tama Co. Ag. Ext. Council Members,,,Trish Stadler,256,134,122
+Tama,INDIAN SETTLEMENT,Tama Co. Ag. Ext. Council Members,,,Trish Stadler,187,117,70
+Tama,S. OTTER CREEK,Tama Co. Ag. Ext. Council Members,,,Trish Stadler,67,39,28
+Tama,LINCOLN,Tama Co. Ag. Ext. Council Members,,,Trish Stadler,123,71,52
+Tama,RICHLAND/SALT CREEK,Tama Co. Ag. Ext. Council Members,,,Trish Stadler,213,130,83
+Tama,HOWARD/TOLEDO,Tama Co. Ag. Ext. Council Members,,,Trish Stadler,211,105,106
+Tama,TOLEDO CITY,Tama Co. Ag. Ext. Council Members,,,Trish Stadler,621,271,350
+Tama,YORK,Tama Co. Ag. Ext. Council Members,,,Trish Stadler,173,104,69
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Tama Co. Ag. Ext. Council Members,,,Eric Werner,696,380,316
+Tama,CARLTON,Tama Co. Ag. Ext. Council Members,,,Eric Werner,260,125,135
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Tama Co. Ag. Ext. Council Members,,,Eric Werner,258,174,84
+Tama,CLARK/GENESEO,Tama Co. Ag. Ext. Council Members,,,Eric Werner,685,424,261
+Tama,COLUMBIA/TAMA,Tama Co. Ag. Ext. Council Members,,,Eric Werner,733,325,408
+Tama,SPRING CREEK/W. CRYSTAL,Tama Co. Ag. Ext. Council Members,,,Eric Werner,463,254,209
+Tama,GRANT,Tama Co. Ag. Ext. Council Members,,,Eric Werner,91,44,47
+Tama,HIGHLAND/INDIAN VILLAGE,Tama Co. Ag. Ext. Council Members,,,Eric Werner,268,147,121
+Tama,INDIAN SETTLEMENT,Tama Co. Ag. Ext. Council Members,,,Eric Werner,155,97,58
+Tama,S. OTTER CREEK,Tama Co. Ag. Ext. Council Members,,,Eric Werner,63,37,26
+Tama,LINCOLN,Tama Co. Ag. Ext. Council Members,,,Eric Werner,124,73,51
+Tama,RICHLAND/SALT CREEK,Tama Co. Ag. Ext. Council Members,,,Eric Werner,201,127,74
+Tama,HOWARD/TOLEDO,Tama Co. Ag. Ext. Council Members,,,Eric Werner,214,109,105
+Tama,TOLEDO CITY,Tama Co. Ag. Ext. Council Members,,,Eric Werner,617,269,348
+Tama,YORK,Tama Co. Ag. Ext. Council Members,,,Eric Werner,188,114,74
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Tama Co. Ag. Ext. Council Members,,,Keith Zhorne,703,382,321
+Tama,CARLTON,Tama Co. Ag. Ext. Council Members,,,Keith Zhorne,252,119,133
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Tama Co. Ag. Ext. Council Members,,,Keith Zhorne,240,157,83
+Tama,CLARK/GENESEO,Tama Co. Ag. Ext. Council Members,,,Keith Zhorne,631,387,244
+Tama,COLUMBIA/TAMA,Tama Co. Ag. Ext. Council Members,,,Keith Zhorne,720,310,410
+Tama,SPRING CREEK/W. CRYSTAL,Tama Co. Ag. Ext. Council Members,,,Keith Zhorne,452,244,208
+Tama,GRANT,Tama Co. Ag. Ext. Council Members,,,Keith Zhorne,92,45,47
+Tama,HIGHLAND/INDIAN VILLAGE,Tama Co. Ag. Ext. Council Members,,,Keith Zhorne,268,148,120
+Tama,INDIAN SETTLEMENT,Tama Co. Ag. Ext. Council Members,,,Keith Zhorne,145,84,61
+Tama,S. OTTER CREEK,Tama Co. Ag. Ext. Council Members,,,Keith Zhorne,66,39,27
+Tama,LINCOLN,Tama Co. Ag. Ext. Council Members,,,Keith Zhorne,122,71,51
+Tama,RICHLAND/SALT CREEK,Tama Co. Ag. Ext. Council Members,,,Keith Zhorne,215,129,86
+Tama,HOWARD/TOLEDO,Tama Co. Ag. Ext. Council Members,,,Keith Zhorne,215,109,106
+Tama,TOLEDO CITY,Tama Co. Ag. Ext. Council Members,,,Keith Zhorne,605,266,339
+Tama,YORK,Tama Co. Ag. Ext. Council Members,,,Keith Zhorne,173,109,64
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Tama Co. Ag. Ext. Council Members,,,Write-in,19,17,2
+Tama,CARLTON,Tama Co. Ag. Ext. Council Members,,,Write-in,3,3,0
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Tama Co. Ag. Ext. Council Members,,,Write-in,16,13,3
+Tama,CLARK/GENESEO,Tama Co. Ag. Ext. Council Members,,,Write-in,10,2,8
+Tama,COLUMBIA/TAMA,Tama Co. Ag. Ext. Council Members,,,Write-in,17,4,13
+Tama,SPRING CREEK/W. CRYSTAL,Tama Co. Ag. Ext. Council Members,,,Write-in,13,5,8
+Tama,GRANT,Tama Co. Ag. Ext. Council Members,,,Write-in,1,0,1
+Tama,HIGHLAND/INDIAN VILLAGE,Tama Co. Ag. Ext. Council Members,,,Write-in,2,2,0
+Tama,INDIAN SETTLEMENT,Tama Co. Ag. Ext. Council Members,,,Write-in,6,1,5
+Tama,S. OTTER CREEK,Tama Co. Ag. Ext. Council Members,,,Write-in,0,0,0
+Tama,LINCOLN,Tama Co. Ag. Ext. Council Members,,,Write-in,3,2,1
+Tama,RICHLAND/SALT CREEK,Tama Co. Ag. Ext. Council Members,,,Write-in,21,14,7
+Tama,HOWARD/TOLEDO,Tama Co. Ag. Ext. Council Members,,,Write-in,11,7,4
+Tama,TOLEDO CITY,Tama Co. Ag. Ext. Council Members,,,Write-in,19,15,4
+Tama,YORK,Tama Co. Ag. Ext. Council Members,,,Write-in,12,10,2
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Supreme Court Justice,,,Yes,687,401,286
+Tama,CARLTON,Supreme Court Justice,,,Yes,253,130,123
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Supreme Court Justice,,,Yes,225,152,73
+Tama,CLARK/GENESEO,Supreme Court Justice,,,Yes,657,426,231
+Tama,COLUMBIA/TAMA,Supreme Court Justice,,,Yes,703,344,359
+Tama,SPRING CREEK/W. CRYSTAL,Supreme Court Justice,,,Yes,434,261,173
+Tama,GRANT,Supreme Court Justice,,,Yes,99,52,47
+Tama,HIGHLAND/INDIAN VILLAGE,Supreme Court Justice,,,Yes,242,147,95
+Tama,INDIAN SETTLEMENT,Supreme Court Justice,,,Yes,224,159,65
+Tama,S. OTTER CREEK,Supreme Court Justice,,,Yes,51,32,19
+Tama,LINCOLN,Supreme Court Justice,,,Yes,119,78,41
+Tama,RICHLAND/SALT CREEK,Supreme Court Justice,,,Yes,148,100,48
+Tama,HOWARD/TOLEDO,Supreme Court Justice,,,Yes,180,99,81
+Tama,TOLEDO CITY,Supreme Court Justice,,,Yes,562,268,294
+Tama,YORK,Supreme Court Justice,,,Yes,146,92,54
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Supreme Court Justice,,,No,223,139,84
+Tama,CARLTON,Supreme Court Justice,,,No,122,68,54
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Supreme Court Justice,,,No,88,60,28
+Tama,CLARK/GENESEO,Supreme Court Justice,,,No,235,144,91
+Tama,COLUMBIA/TAMA,Supreme Court Justice,,,No,297,130,167
+Tama,SPRING CREEK/W. CRYSTAL,Supreme Court Justice,,,No,173,100,73
+Tama,GRANT,Supreme Court Justice,,,No,37,16,21
+Tama,HIGHLAND/INDIAN VILLAGE,Supreme Court Justice,,,No,113,60,53
+Tama,INDIAN SETTLEMENT,Supreme Court Justice,,,No,123,75,48
+Tama,S. OTTER CREEK,Supreme Court Justice,,,No,25,15,10
+Tama,LINCOLN,Supreme Court Justice,,,No,40,27,13
+Tama,RICHLAND/SALT CREEK,Supreme Court Justice,,,No,100,57,43
+Tama,HOWARD/TOLEDO,Supreme Court Justice,,,No,89,45,44
+Tama,TOLEDO CITY,Supreme Court Justice,,,No,229,102,127
+Tama,YORK,Supreme Court Justice,,,No,67,47,20
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Court of Appeals Judge,,,Yes,676,393,283
+Tama,CARLTON,Court of Appeals Judge,,,Yes,235,122,113
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Court of Appeals Judge,,,Yes,220,145,75
+Tama,CLARK/GENESEO,Court of Appeals Judge,,,Yes,646,419,227
+Tama,COLUMBIA/TAMA,Court of Appeals Judge,,,Yes,668,328,340
+Tama,SPRING CREEK/W. CRYSTAL,Court of Appeals Judge,,,Yes,431,258,173
+Tama,GRANT,Court of Appeals Judge,,,Yes,97,49,48
+Tama,HIGHLAND/INDIAN VILLAGE,Court of Appeals Judge,,,Yes,226,140,86
+Tama,INDIAN SETTLEMENT,Court of Appeals Judge,,,Yes,194,137,57
+Tama,S. OTTER CREEK,Court of Appeals Judge,,,Yes,49,32,17
+Tama,LINCOLN,Court of Appeals Judge,,,Yes,121,76,45
+Tama,RICHLAND/SALT CREEK,Court of Appeals Judge,,,Yes,144,97,47
+Tama,HOWARD/TOLEDO,Court of Appeals Judge,,,Yes,171,95,76
+Tama,TOLEDO CITY,Court of Appeals Judge,,,Yes,553,263,290
+Tama,YORK,Court of Appeals Judge,,,Yes,146,95,51
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Court of Appeals Judge,,,No,210,133,77
+Tama,CARLTON,Court of Appeals Judge,,,No,128,71,57
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Court of Appeals Judge,,,No,91,63,28
+Tama,CLARK/GENESEO,Court of Appeals Judge,,,No,222,138,84
+Tama,COLUMBIA/TAMA,Court of Appeals Judge,,,No,320,143,177
+Tama,SPRING CREEK/W. CRYSTAL,Court of Appeals Judge,,,No,165,99,66
+Tama,GRANT,Court of Appeals Judge,,,No,34,18,16
+Tama,HIGHLAND/INDIAN VILLAGE,Court of Appeals Judge,,,No,118,62,56
+Tama,INDIAN SETTLEMENT,Court of Appeals Judge,,,No,147,96,51
+Tama,S. OTTER CREEK,Court of Appeals Judge,,,No,25,14,11
+Tama,LINCOLN,Court of Appeals Judge,,,No,40,25,15
+Tama,RICHLAND/SALT CREEK,Court of Appeals Judge,,,No,96,58,38
+Tama,HOWARD/TOLEDO,Court of Appeals Judge,,,No,89,48,41
+Tama,TOLEDO CITY,Court of Appeals Judge,,,No,229,106,123
+Tama,YORK,Court of Appeals Judge,,,No,65,45,20
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,District 6 Judge,,,Yes,677,390,287
+Tama,CARLTON,District 6 Judge,,,Yes,247,123,124
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,District 6 Judge,,,Yes,214,147,67
+Tama,CLARK/GENESEO,District 6 Judge,,,Yes,638,422,216
+Tama,COLUMBIA/TAMA,District 6 Judge,,,Yes,721,341,380
+Tama,SPRING CREEK/W. CRYSTAL,District 6 Judge,,,Yes,430,260,170
+Tama,GRANT,District 6 Judge,,,Yes,97,52,45
+Tama,HIGHLAND/INDIAN VILLAGE,District 6 Judge,,,Yes,231,139,92
+Tama,INDIAN SETTLEMENT,District 6 Judge,,,Yes,229,156,73
+Tama,S. OTTER CREEK,District 6 Judge,,,Yes,50,31,19
+Tama,LINCOLN,District 6 Judge,,,Yes,117,75,42
+Tama,RICHLAND/SALT CREEK,District 6 Judge,,,Yes,144,96,48
+Tama,HOWARD/TOLEDO,District 6 Judge,,,Yes,174,94,80
+Tama,TOLEDO CITY,District 6 Judge,,,Yes,570,261,309
+Tama,YORK,District 6 Judge,,,Yes,138,89,49
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,District 6 Judge,,,No,204,133,71
+Tama,CARLTON,District 6 Judge,,,No,119,68,51
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,District 6 Judge,,,No,94,60,34
+Tama,CLARK/GENESEO,District 6 Judge,,,No,215,131,84
+Tama,COLUMBIA/TAMA,District 6 Judge,,,No,260,128,132
+Tama,SPRING CREEK/W. CRYSTAL,District 6 Judge,,,No,155,93,62
+Tama,GRANT,District 6 Judge,,,No,34,16,18
+Tama,HIGHLAND/INDIAN VILLAGE,District 6 Judge,,,No,106,60,46
+Tama,INDIAN SETTLEMENT,District 6 Judge,,,No,109,73,36
+Tama,S. OTTER CREEK,District 6 Judge,,,No,26,16,10
+Tama,LINCOLN,District 6 Judge,,,No,37,24,13
+Tama,RICHLAND/SALT CREEK,District 6 Judge,,,No,95,59,36
+Tama,HOWARD/TOLEDO,District 6 Judge,,,No,76,43,33
+Tama,TOLEDO CITY,District 6 Judge,,,No,205,100,105
+Tama,YORK,District 6 Judge,,,No,69,49,20
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,District 6 Associate Judge,,,Yes,696,400,296
+Tama,CARLTON,District 6 Associate Judge,,,Yes,254,131,123
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,District 6 Associate Judge,,,Yes,216,145,71
+Tama,CLARK/GENESEO,District 6 Associate Judge,,,Yes,657,430,227
+Tama,COLUMBIA/TAMA,District 6 Associate Judge,,,Yes,697,330,367
+Tama,SPRING CREEK/W. CRYSTAL,District 6 Associate Judge,,,Yes,423,248,175
+Tama,GRANT,District 6 Associate Judge,,,Yes,98,51,47
+Tama,HIGHLAND/INDIAN VILLAGE,District 6 Associate Judge,,,Yes,232,143,89
+Tama,INDIAN SETTLEMENT,District 6 Associate Judge,,,Yes,238,161,77
+Tama,S. OTTER CREEK,District 6 Associate Judge,,,Yes,47,32,15
+Tama,LINCOLN,District 6 Associate Judge,,,Yes,116,77,39
+Tama,RICHLAND/SALT CREEK,District 6 Associate Judge,,,Yes,142,92,50
+Tama,HOWARD/TOLEDO,District 6 Associate Judge,,,Yes,168,92,76
+Tama,TOLEDO CITY,District 6 Associate Judge,,,Yes,566,256,310
+Tama,YORK,District 6 Associate Judge,,,Yes,142,88,54
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,District 6 Associate Judge,,,No,188,126,62
+Tama,CARLTON,District 6 Associate Judge,,,No,107,60,47
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,District 6 Associate Judge,,,No,93,63,30
+Tama,CLARK/GENESEO,District 6 Associate Judge,,,No,195,126,69
+Tama,COLUMBIA/TAMA,District 6 Associate Judge,,,No,280,139,141
+Tama,SPRING CREEK/W. CRYSTAL,District 6 Associate Judge,,,No,159,102,57
+Tama,GRANT,District 6 Associate Judge,,,No,31,16,15
+Tama,HIGHLAND/INDIAN VILLAGE,District 6 Associate Judge,,,No,106,58,48
+Tama,INDIAN SETTLEMENT,District 6 Associate Judge,,,No,102,69,33
+Tama,S. OTTER CREEK,District 6 Associate Judge,,,No,29,16,13
+Tama,LINCOLN,District 6 Associate Judge,,,No,39,22,17
+Tama,RICHLAND/SALT CREEK,District 6 Associate Judge,,,No,96,62,34
+Tama,HOWARD/TOLEDO,District 6 Associate Judge,,,No,80,43,37
+Tama,TOLEDO CITY,District 6 Associate Judge,,,No,208,106,102
+Tama,YORK,District 6 Associate Judge,,,No,66,50,16
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Question 1 and propose amendment or amendments to same?,,,Yes,283,170,113
+Tama,CARLTON,Question 1 and propose amendment or amendments to same?,,,Yes,115,57,58
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Question 1 and propose amendment or amendments to same?,,,Yes,94,57,37
+Tama,CLARK/GENESEO,Question 1 and propose amendment or amendments to same?,,,Yes,263,159,104
+Tama,COLUMBIA/TAMA,Question 1 and propose amendment or amendments to same?,,,Yes,379,175,204
+Tama,SPRING CREEK/W. CRYSTAL,Question 1 and propose amendment or amendments to same?,,,Yes,169,103,66
+Tama,GRANT,Question 1 and propose amendment or amendments to same?,,,Yes,30,23,7
+Tama,HIGHLAND/INDIAN VILLAGE,Question 1 and propose amendment or amendments to same?,,,Yes,96,40,56
+Tama,INDIAN SETTLEMENT,Question 1 and propose amendment or amendments to same?,,,Yes,247,168,79
+Tama,S. OTTER CREEK,Question 1 and propose amendment or amendments to same?,,,Yes,22,14,8
+Tama,LINCOLN,Question 1 and propose amendment or amendments to same?,,,Yes,47,29,18
+Tama,RICHLAND/SALT CREEK,Question 1 and propose amendment or amendments to same?,,,Yes,77,45,32
+Tama,HOWARD/TOLEDO,Question 1 and propose amendment or amendments to same?,,,Yes,68,31,37
+Tama,TOLEDO CITY,Question 1 and propose amendment or amendments to same?,,,Yes,318,150,168
+Tama,YORK,Question 1 and propose amendment or amendments to same?,,,Yes,72,45,27
+Tama,PERRY/BUCKINGHAM/E. CRYSTAL,Question 1 and propose amendment or amendments to same?,,,No,779,446,333
+Tama,CARLTON,Question 1 and propose amendment or amendments to same?,,,No,316,163,153
+Tama,CARROLL/ONEIDA/N. OTTER CREEK,Question 1 and propose amendment or amendments to same?,,,No,273,184,89
+Tama,CLARK/GENESEO,Question 1 and propose amendment or amendments to same?,,,No,754,489,265
+Tama,COLUMBIA/TAMA,Question 1 and propose amendment or amendments to same?,,,No,763,362,401
+Tama,SPRING CREEK/W. CRYSTAL,Question 1 and propose amendment or amendments to same?,,,No,543,318,225
+Tama,GRANT,Question 1 and propose amendment or amendments to same?,,,No,122,52,70
+Tama,HIGHLAND/INDIAN VILLAGE,Question 1 and propose amendment or amendments to same?,,,No,334,197,137
+Tama,INDIAN SETTLEMENT,Question 1 and propose amendment or amendments to same?,,,No,146,96,50
+Tama,S. OTTER CREEK,Question 1 and propose amendment or amendments to same?,,,No,63,38,25
+Tama,LINCOLN,Question 1 and propose amendment or amendments to same?,,,No,141,86,55
+Tama,RICHLAND/SALT CREEK,Question 1 and propose amendment or amendments to same?,,,No,204,137,67
+Tama,HOWARD/TOLEDO,Question 1 and propose amendment or amendments to same?,,,No,258,132,126
+Tama,TOLEDO CITY,Question 1 and propose amendment or amendments to same?,,,No,593,271,322
+Tama,YORK,Question 1 and propose amendment or amendments to same?,,,No,173,116,57

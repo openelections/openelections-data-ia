@@ -1,0 +1,503 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Floyd,CC1 - Courthouse,President,,DEM,Joseph R. Biden and Kamala D. Harris,512,74,438
+Floyd,CC2 - Messiah,President,,DEM,Joseph R. Biden and Kamala D. Harris,608,137,471
+Floyd,CC3 - Trinity,President,,DEM,Joseph R. Biden and Kamala D. Harris,529,148,381
+Floyd,Floyd - Cedar - Niles,President,,DEM,Joseph R. Biden and Kamala D. Harris,290,76,214
+Floyd,Rock Grove - Rudd,President,,DEM,Joseph R. Biden and Kamala D. Harris,458,177,281
+Floyd,Rockford - Ulster,President,,DEM,Joseph R. Biden and Kamala D. Harris,270,110,160
+Floyd,Scott - Union - Pleasant Grove,President,,DEM,Joseph R. Biden and Kamala D. Harris,178,38,140
+Floyd,St. Charles - Riverton,President,,DEM,Joseph R. Biden and Kamala D. Harris,327,21,306
+Floyd,CC1 - Courthouse,President,,REP,Donald J. Trump and Michael R. Pence,595,259,336
+Floyd,CC2 - Messiah,President,,REP,Donald J. Trump and Michael R. Pence,656,357,299
+Floyd,CC3 - Trinity,President,,REP,Donald J. Trump and Michael R. Pence,547,313,234
+Floyd,Floyd - Cedar - Niles,President,,REP,Donald J. Trump and Michael R. Pence,591,326,265
+Floyd,Rock Grove - Rudd,President,,REP,Donald J. Trump and Michael R. Pence,727,484,243
+Floyd,Rockford - Ulster,President,,REP,Donald J. Trump and Michael R. Pence,572,398,174
+Floyd,Scott - Union - Pleasant Grove,President,,REP,Donald J. Trump and Michael R. Pence,360,184,176
+Floyd,St. Charles - Riverton,President,,REP,Donald J. Trump and Michael R. Pence,684,225,459
+Floyd,CC1 - Courthouse,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,2,0,2
+Floyd,CC2 - Messiah,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,1,0
+Floyd,CC3 - Trinity,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,2,2,0
+Floyd,Floyd - Cedar - Niles,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Floyd,Rock Grove - Rudd,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Floyd,Rockford - Ulster,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Floyd,Scott - Union - Pleasant Grove,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,2,1,1
+Floyd,St. Charles - Riverton,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Floyd,CC1 - Courthouse,President,,CON,Don Blankenship and William Alan Mohr,3,0,3
+Floyd,CC2 - Messiah,President,,CON,Don Blankenship and William Alan Mohr,1,0,1
+Floyd,CC3 - Trinity,President,,CON,Don Blankenship and William Alan Mohr,3,1,2
+Floyd,Floyd - Cedar - Niles,President,,CON,Don Blankenship and William Alan Mohr,1,0,1
+Floyd,Rock Grove - Rudd,President,,CON,Don Blankenship and William Alan Mohr,1,0,1
+Floyd,Rockford - Ulster,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Floyd,Scott - Union - Pleasant Grove,President,,CON,Don Blankenship and William Alan Mohr,1,0,1
+Floyd,St. Charles - Riverton,President,,CON,Don Blankenship and William Alan Mohr,2,0,2
+Floyd,CC1 - Courthouse,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Floyd,CC2 - Messiah,President,,GKH,Ricki Sue King and Dayna R. Chandler,3,0,3
+Floyd,CC3 - Trinity,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Floyd,Floyd - Cedar - Niles,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Floyd,Rock Grove - Rudd,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Floyd,Rockford - Ulster,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Floyd,Scott - Union - Pleasant Grove,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Floyd,St. Charles - Riverton,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Floyd,CC1 - Courthouse,President,,GRN,Howie Hawkins and Angela Nicole Walker,2,1,1
+Floyd,CC2 - Messiah,President,,GRN,Howie Hawkins and Angela Nicole Walker,3,0,3
+Floyd,CC3 - Trinity,President,,GRN,Howie Hawkins and Angela Nicole Walker,1,1,0
+Floyd,Floyd - Cedar - Niles,President,,GRN,Howie Hawkins and Angela Nicole Walker,0,0,0
+Floyd,Rock Grove - Rudd,President,,GRN,Howie Hawkins and Angela Nicole Walker,1,0,1
+Floyd,Rockford - Ulster,President,,GRN,Howie Hawkins and Angela Nicole Walker,2,0,2
+Floyd,Scott - Union - Pleasant Grove,President,,GRN,Howie Hawkins and Angela Nicole Walker,1,1,0
+Floyd,St. Charles - Riverton,President,,GRN,Howie Hawkins and Angela Nicole Walker,0,0,0
+Floyd,CC1 - Courthouse,President,,LIB,Jo Jorgensen and Jeremy Cohen,6,3,3
+Floyd,CC2 - Messiah,President,,LIB,Jo Jorgensen and Jeremy Cohen,10,7,3
+Floyd,CC3 - Trinity,President,,LIB,Jo Jorgensen and Jeremy Cohen,13,9,4
+Floyd,Floyd - Cedar - Niles,President,,LIB,Jo Jorgensen and Jeremy Cohen,4,3,1
+Floyd,Rock Grove - Rudd,President,,LIB,Jo Jorgensen and Jeremy Cohen,11,6,5
+Floyd,Rockford - Ulster,President,,LIB,Jo Jorgensen and Jeremy Cohen,6,4,2
+Floyd,Scott - Union - Pleasant Grove,President,,LIB,Jo Jorgensen and Jeremy Cohen,6,5,1
+Floyd,St. Charles - Riverton,President,,LIB,Jo Jorgensen and Jeremy Cohen,7,3,4
+Floyd,CC1 - Courthouse,President,,,Brock Pierce and Karla Ballard,2,0,2
+Floyd,CC2 - Messiah,President,,,Brock Pierce and Karla Ballard,0,0,0
+Floyd,CC3 - Trinity,President,,,Brock Pierce and Karla Ballard,1,0,1
+Floyd,Floyd - Cedar - Niles,President,,,Brock Pierce and Karla Ballard,0,0,0
+Floyd,Rock Grove - Rudd,President,,,Brock Pierce and Karla Ballard,2,1,1
+Floyd,Rockford - Ulster,President,,,Brock Pierce and Karla Ballard,0,0,0
+Floyd,Scott - Union - Pleasant Grove,President,,,Brock Pierce and Karla Ballard,0,0,0
+Floyd,St. Charles - Riverton,President,,,Brock Pierce and Karla Ballard,1,0,1
+Floyd,CC1 - Courthouse,President,,,Kanye West and Michelle Tidball,2,1,1
+Floyd,CC2 - Messiah,President,,,Kanye West and Michelle Tidball,1,1,0
+Floyd,CC3 - Trinity,President,,,Kanye West and Michelle Tidball,2,2,0
+Floyd,Floyd - Cedar - Niles,President,,,Kanye West and Michelle Tidball,1,1,0
+Floyd,Rock Grove - Rudd,President,,,Kanye West and Michelle Tidball,5,3,2
+Floyd,Rockford - Ulster,President,,,Kanye West and Michelle Tidball,1,1,0
+Floyd,Scott - Union - Pleasant Grove,President,,,Kanye West and Michelle Tidball,0,0,0
+Floyd,St. Charles - Riverton,President,,,Kanye West and Michelle Tidball,0,0,0
+Floyd,CC1 - Courthouse,President,,,Write-in,1,1,0
+Floyd,CC2 - Messiah,President,,,Write-in,1,1,0
+Floyd,CC3 - Trinity,President,,,Write-in,3,1,2
+Floyd,Floyd - Cedar - Niles,President,,,Write-in,2,1,1
+Floyd,Rock Grove - Rudd,President,,,Write-in,2,0,2
+Floyd,Rockford - Ulster,President,,,Write-in,4,1,3
+Floyd,Scott - Union - Pleasant Grove,President,,,Write-in,1,0,1
+Floyd,St. Charles - Riverton,President,,,Write-in,1,1,0
+Floyd,CC1 - Courthouse,U.S. Senate,,DEM,Theresa Greenfield,531,90,441
+Floyd,CC2 - Messiah,U.S. Senate,,DEM,Theresa Greenfield,643,165,478
+Floyd,CC3 - Trinity,U.S. Senate,,DEM,Theresa Greenfield,589,185,404
+Floyd,Floyd - Cedar - Niles,U.S. Senate,,DEM,Theresa Greenfield,335,102,233
+Floyd,Rock Grove - Rudd,U.S. Senate,,DEM,Theresa Greenfield,522,229,293
+Floyd,Rockford - Ulster,U.S. Senate,,DEM,Theresa Greenfield,329,148,181
+Floyd,Scott - Union - Pleasant Grove,U.S. Senate,,DEM,Theresa Greenfield,203,47,156
+Floyd,St. Charles - Riverton,U.S. Senate,,DEM,Theresa Greenfield,346,29,317
+Floyd,CC1 - Courthouse,U.S. Senate,,REP,Joni Ernst,534,233,301
+Floyd,CC2 - Messiah,U.S. Senate,,REP,Joni Ernst,594,314,280
+Floyd,CC3 - Trinity,U.S. Senate,,REP,Joni Ernst,470,265,205
+Floyd,Floyd - Cedar - Niles,U.S. Senate,,REP,Joni Ernst,518,284,234
+Floyd,Rock Grove - Rudd,U.S. Senate,,REP,Joni Ernst,608,396,212
+Floyd,Rockford - Ulster,U.S. Senate,,REP,Joni Ernst,486,336,150
+Floyd,Scott - Union - Pleasant Grove,U.S. Senate,,REP,Joni Ernst,324,170,154
+Floyd,St. Charles - Riverton,U.S. Senate,,REP,Joni Ernst,647,216,431
+Floyd,CC1 - Courthouse,U.S. Senate,,LIB,Rick Stewart,34,10,24
+Floyd,CC2 - Messiah,U.S. Senate,,LIB,Rick Stewart,24,11,13
+Floyd,CC3 - Trinity,U.S. Senate,,LIB,Rick Stewart,31,20,11
+Floyd,Floyd - Cedar - Niles,U.S. Senate,,LIB,Rick Stewart,13,7,6
+Floyd,Rock Grove - Rudd,U.S. Senate,,LIB,Rick Stewart,38,20,18
+Floyd,Rockford - Ulster,U.S. Senate,,LIB,Rick Stewart,20,13,7
+Floyd,Scott - Union - Pleasant Grove,U.S. Senate,,LIB,Rick Stewart,10,7,3
+Floyd,St. Charles - Riverton,U.S. Senate,,LIB,Rick Stewart,17,4,13
+Floyd,CC1 - Courthouse,U.S. Senate,,,Suzanne Herzog,13,4,9
+Floyd,CC2 - Messiah,U.S. Senate,,,Suzanne Herzog,16,9,7
+Floyd,CC3 - Trinity,U.S. Senate,,,Suzanne Herzog,15,6,9
+Floyd,Floyd - Cedar - Niles,U.S. Senate,,,Suzanne Herzog,8,6,2
+Floyd,Rock Grove - Rudd,U.S. Senate,,,Suzanne Herzog,22,15,7
+Floyd,Rockford - Ulster,U.S. Senate,,,Suzanne Herzog,10,8,2
+Floyd,Scott - Union - Pleasant Grove,U.S. Senate,,,Suzanne Herzog,10,3,7
+Floyd,St. Charles - Riverton,U.S. Senate,,,Suzanne Herzog,4,1,3
+Floyd,CC1 - Courthouse,U.S. Senate,,,Write-in,2,0,2
+Floyd,CC2 - Messiah,U.S. Senate,,,Write-in,0,0,0
+Floyd,CC3 - Trinity,U.S. Senate,,,Write-in,1,1,0
+Floyd,Floyd - Cedar - Niles,U.S. Senate,,,Write-in,0,0,0
+Floyd,Rock Grove - Rudd,U.S. Senate,,,Write-in,2,1,1
+Floyd,Rockford - Ulster,U.S. Senate,,,Write-in,2,1,1
+Floyd,Scott - Union - Pleasant Grove,U.S. Senate,,,Write-in,0,0,0
+Floyd,St. Charles - Riverton,U.S. Senate,,,Write-in,1,0,1
+Floyd,CC1 - Courthouse,U.S. House,4,DEM,J.D. Scholten,504,87,417
+Floyd,CC2 - Messiah,U.S. House,4,DEM,J.D. Scholten,599,145,454
+Floyd,CC3 - Trinity,U.S. House,4,DEM,J.D. Scholten,531,165,366
+Floyd,Floyd - Cedar - Niles,U.S. House,4,DEM,J.D. Scholten,287,91,196
+Floyd,Rock Grove - Rudd,U.S. House,4,DEM,J.D. Scholten,494,215,279
+Floyd,Rockford - Ulster,U.S. House,4,DEM,J.D. Scholten,297,140,157
+Floyd,Scott - Union - Pleasant Grove,U.S. House,4,DEM,J.D. Scholten,212,62,150
+Floyd,St. Charles - Riverton,U.S. House,4,DEM,J.D. Scholten,320,27,293
+Floyd,CC1 - Courthouse,U.S. House,4,REP,Randy Feenstra,572,237,335
+Floyd,CC2 - Messiah,U.S. House,4,REP,Randy Feenstra,647,337,310
+Floyd,CC3 - Trinity,U.S. House,4,REP,Randy Feenstra,523,285,238
+Floyd,Floyd - Cedar - Niles,U.S. House,4,REP,Randy Feenstra,562,301,261
+Floyd,Rock Grove - Rudd,U.S. House,4,REP,Randy Feenstra,657,422,235
+Floyd,Rockford - Ulster,U.S. House,4,REP,Randy Feenstra,532,356,176
+Floyd,Scott - Union - Pleasant Grove,U.S. House,4,REP,Randy Feenstra,319,162,157
+Floyd,St. Charles - Riverton,U.S. House,4,REP,Randy Feenstra,666,215,451
+Floyd,CC1 - Courthouse,U.S. House,4,,Write-in,2,1,1
+Floyd,CC2 - Messiah,U.S. House,4,,Write-in,0,0,0
+Floyd,CC3 - Trinity,U.S. House,4,,Write-in,4,2,2
+Floyd,Floyd - Cedar - Niles,U.S. House,4,,Write-in,0,0,0
+Floyd,Rock Grove - Rudd,U.S. House,4,,Write-in,3,2,1
+Floyd,Rockford - Ulster,U.S. House,4,,Write-in,2,1,1
+Floyd,Scott - Union - Pleasant Grove,U.S. House,4,,Write-in,0,0,0
+Floyd,St. Charles - Riverton,U.S. House,4,,Write-in,2,0,2
+Floyd,CC1 - Courthouse,State Senate,26,DEM,Deb Scharper,451,66,385
+Floyd,CC2 - Messiah,State Senate,26,DEM,Deb Scharper,550,123,427
+Floyd,CC3 - Trinity,State Senate,26,DEM,Deb Scharper,475,139,336
+Floyd,Floyd - Cedar - Niles,State Senate,26,DEM,Deb Scharper,249,76,173
+Floyd,Rock Grove - Rudd,State Senate,26,DEM,Deb Scharper,461,201,260
+Floyd,Rockford - Ulster,State Senate,26,DEM,Deb Scharper,328,150,178
+Floyd,Scott - Union - Pleasant Grove,State Senate,26,DEM,Deb Scharper,201,55,146
+Floyd,St. Charles - Riverton,State Senate,26,DEM,Deb Scharper,284,23,261
+Floyd,CC1 - Courthouse,State Senate,26,REP,Waylon Brown,646,264,382
+Floyd,CC2 - Messiah,State Senate,26,REP,Waylon Brown,702,365,337
+Floyd,CC3 - Trinity,State Senate,26,REP,Waylon Brown,593,323,270
+Floyd,Floyd - Cedar - Niles,State Senate,26,REP,Waylon Brown,616,323,293
+Floyd,Rock Grove - Rudd,State Senate,26,REP,Waylon Brown,696,443,253
+Floyd,Rockford - Ulster,State Senate,26,REP,Waylon Brown,510,355,155
+Floyd,Scott - Union - Pleasant Grove,State Senate,26,REP,Waylon Brown,328,170,158
+Floyd,St. Charles - Riverton,State Senate,26,REP,Waylon Brown,706,220,486
+Floyd,CC1 - Courthouse,State Senate,26,,Write-in,2,0,2
+Floyd,CC2 - Messiah,State Senate,26,,Write-in,0,0,0
+Floyd,CC3 - Trinity,State Senate,26,,Write-in,2,0,2
+Floyd,Floyd - Cedar - Niles,State Senate,26,,Write-in,0,0,0
+Floyd,Rock Grove - Rudd,State Senate,26,,Write-in,2,1,1
+Floyd,Rockford - Ulster,State Senate,26,,Write-in,2,1,1
+Floyd,Scott - Union - Pleasant Grove,State Senate,26,,Write-in,0,0,0
+Floyd,St. Charles - Riverton,State Senate,26,,Write-in,0,0,0
+Floyd,CC1 - Courthouse,State House,52,DEM,Todd Prichard,707,182,525
+Floyd,CC2 - Messiah,State House,52,DEM,Todd Prichard,822,268,554
+Floyd,CC3 - Trinity,State House,52,DEM,Todd Prichard,733,266,467
+Floyd,Floyd - Cedar - Niles,State House,52,DEM,Todd Prichard,441,162,279
+Floyd,Rock Grove - Rudd,State House,52,DEM,Todd Prichard,574,259,315
+Floyd,Rockford - Ulster,State House,52,DEM,Todd Prichard,395,183,212
+Floyd,Scott - Union - Pleasant Grove,State House,52,DEM,Todd Prichard,250,70,180
+Floyd,St. Charles - Riverton,State House,52,DEM,Todd Prichard,525,77,448
+Floyd,CC1 - Courthouse,State House,52,REP,Craig A. Clark,396,151,245
+Floyd,CC2 - Messiah,State House,52,REP,Craig A. Clark,440,223,217
+Floyd,CC3 - Trinity,State House,52,REP,Craig A. Clark,358,205,153
+Floyd,Floyd - Cedar - Niles,State House,52,REP,Craig A. Clark,422,235,187
+Floyd,Rock Grove - Rudd,State House,52,REP,Craig A. Clark,573,375,198
+Floyd,Rockford - Ulster,State House,52,REP,Craig A. Clark,442,318,124
+Floyd,Scott - Union - Pleasant Grove,State House,52,REP,Craig A. Clark,283,155,128
+Floyd,St. Charles - Riverton,State House,52,REP,Craig A. Clark,475,170,305
+Floyd,CC1 - Courthouse,State House,52,,Write-in,2,0,2
+Floyd,CC2 - Messiah,State House,52,,Write-in,1,0,1
+Floyd,CC3 - Trinity,State House,52,,Write-in,1,1,0
+Floyd,Floyd - Cedar - Niles,State House,52,,Write-in,0,0,0
+Floyd,Rock Grove - Rudd,State House,52,,Write-in,3,2,1
+Floyd,Rockford - Ulster,State House,52,,Write-in,1,1,0
+Floyd,Scott - Union - Pleasant Grove,State House,52,,Write-in,0,0,0
+Floyd,St. Charles - Riverton,State House,52,,Write-in,0,0,0
+Floyd,CC1 - Courthouse,County Supervisor,,REP,Linda Tjaden,902,294,608
+Floyd,CC2 - Messiah,County Supervisor,,REP,Linda Tjaden,1037,442,595
+Floyd,CC3 - Trinity,County Supervisor,,REP,Linda Tjaden,910,415,495
+Floyd,Floyd - Cedar - Niles,County Supervisor,,REP,Linda Tjaden,717,342,375
+Floyd,Rock Grove - Rudd,County Supervisor,,REP,Linda Tjaden,983,563,420
+Floyd,Rockford - Ulster,County Supervisor,,REP,Linda Tjaden,697,432,265
+Floyd,Scott - Union - Pleasant Grove,County Supervisor,,REP,Linda Tjaden,469,206,263
+Floyd,St. Charles - Riverton,County Supervisor,,REP,Linda Tjaden,830,220,610
+Floyd,CC1 - Courthouse,County Supervisor,,,Write-in,24,5,19
+Floyd,CC2 - Messiah,County Supervisor,,,Write-in,31,12,19
+Floyd,CC3 - Trinity,County Supervisor,,,Write-in,11,8,3
+Floyd,Floyd - Cedar - Niles,County Supervisor,,,Write-in,31,15,16
+Floyd,Rock Grove - Rudd,County Supervisor,,,Write-in,13,7,6
+Floyd,Rockford - Ulster,County Supervisor,,,Write-in,11,5,6
+Floyd,Scott - Union - Pleasant Grove,County Supervisor,,,Write-in,7,4,3
+Floyd,St. Charles - Riverton,County Supervisor,,,Write-in,26,5,21
+Floyd,CC1 - Courthouse,County Auditor,,,Gloria A. Carr,978,286,692
+Floyd,CC2 - Messiah,County Auditor,,,Gloria A. Carr,1120,439,681
+Floyd,CC3 - Trinity,County Auditor,,,Gloria A. Carr,970,413,557
+Floyd,Floyd - Cedar - Niles,County Auditor,,,Gloria A. Carr,761,345,416
+Floyd,Rock Grove - Rudd,County Auditor,,,Gloria A. Carr,996,552,444
+Floyd,Rockford - Ulster,County Auditor,,,Gloria A. Carr,753,451,302
+Floyd,Scott - Union - Pleasant Grove,County Auditor,,,Gloria A. Carr,478,197,281
+Floyd,St. Charles - Riverton,County Auditor,,,Gloria A. Carr,909,218,691
+Floyd,CC1 - Courthouse,County Auditor,,,Write-in,9,5,4
+Floyd,CC2 - Messiah,County Auditor,,,Write-in,17,5,12
+Floyd,CC3 - Trinity,County Auditor,,,Write-in,10,8,2
+Floyd,Floyd - Cedar - Niles,County Auditor,,,Write-in,12,10,2
+Floyd,Rock Grove - Rudd,County Auditor,,,Write-in,6,3,3
+Floyd,Rockford - Ulster,County Auditor,,,Write-in,3,2,1
+Floyd,Scott - Union - Pleasant Grove,County Auditor,,,Write-in,3,3,0
+Floyd,St. Charles - Riverton,County Auditor,,,Write-in,0,0,0
+Floyd,CC1 - Courthouse,County Sheriff,,,Jeffrey A. Crooks,991,304,687
+Floyd,CC2 - Messiah,County Sheriff,,,Jeffrey A. Crooks,1103,456,647
+Floyd,CC3 - Trinity,County Sheriff,,,Jeffrey A. Crooks,967,431,536
+Floyd,Floyd - Cedar - Niles,County Sheriff,,,Jeffrey A. Crooks,766,346,420
+Floyd,Rock Grove - Rudd,County Sheriff,,,Jeffrey A. Crooks,990,566,424
+Floyd,Rockford - Ulster,County Sheriff,,,Jeffrey A. Crooks,737,447,290
+Floyd,Scott - Union - Pleasant Grove,County Sheriff,,,Jeffrey A. Crooks,480,201,279
+Floyd,St. Charles - Riverton,County Sheriff,,,Jeffrey A. Crooks,899,227,672
+Floyd,CC1 - Courthouse,County Sheriff,,,Write-in,7,2,5
+Floyd,CC2 - Messiah,County Sheriff,,,Write-in,16,5,11
+Floyd,CC3 - Trinity,County Sheriff,,,Write-in,14,6,8
+Floyd,Floyd - Cedar - Niles,County Sheriff,,,Write-in,11,9,2
+Floyd,Rock Grove - Rudd,County Sheriff,,,Write-in,12,8,4
+Floyd,Rockford - Ulster,County Sheriff,,,Write-in,6,6,0
+Floyd,Scott - Union - Pleasant Grove,County Sheriff,,,Write-in,2,1,1
+Floyd,St. Charles - Riverton,County Sheriff,,,Write-in,4,0,4
+Floyd,Floyd - Cedar - Niles,Cedar TWP Trustee,,,Maurice Johnson,67,24,43
+Floyd,Floyd - Cedar - Niles,Cedar TWP Trustee,,,Write-in,0,0,0
+Floyd,Floyd - Cedar - Niles,Floyd TWP Trustee,,,Elvin Zimmerman,294,150,144
+Floyd,Floyd - Cedar - Niles,Floyd TWP Trustee,,,Write-in,3,2,1
+Floyd,Floyd - Cedar - Niles,Niles TWP Trustee,,,Write-in,5,4,1
+Floyd,Floyd - Cedar - Niles,Niles TWP Trustee,,,Brian Voelker,12,7,5
+Floyd,Floyd - Cedar - Niles,Niles TWP Trustee,,,Bonnie Cyrisanpi,3,3,0
+Floyd,Floyd - Cedar - Niles,Niles TWP Trustee,,,Gregory Conklin,2,0,2
+Floyd,Floyd - Cedar - Niles,Niles TWP Trustee,,,Chris Garden,2,0,2
+Floyd,Floyd - Cedar - Niles,Niles TWP Trustee,,,Scott Kendall,2,0,2
+Floyd,Floyd - Cedar - Niles,Niles TWP Trustee,,,Rod Tudor,2,0,2
+Floyd,Scott - Union - Pleasant Grove,Pleasant Grove TWP Trustee,,,Kevin J. Kingery,111,38,73
+Floyd,Scott - Union - Pleasant Grove,Pleasant Grove TWP Trustee,,,Write-in,0,0,0
+Floyd,St. Charles - Riverton,Riverton TWP Trustee,,,Donald Fisher,182,56,126
+Floyd,St. Charles - Riverton,Riverton TWP Trustee,,,Write-in,1,0,1
+Floyd,Rock Grove - Rudd,Rock Grove TWP Trustee,,,Criss Miller,150,74,76
+Floyd,Rock Grove - Rudd,Rock Grove TWP Trustee,,,Write-in,1,1,0
+Floyd,Rockford - Ulster,For Rockford TWP Trustee,,,Don Ewen,171,104,67
+Floyd,Rockford - Ulster,For Rockford TWP Trustee,,,James Howe,198,129,69
+Floyd,Rockford - Ulster,For Rockford TWP Trustee,,,Write-in,3,0,3
+Floyd,Rock Grove - Rudd,Rudd TWP Trustee,,,Terry Dean,98,48,50
+Floyd,Rock Grove - Rudd,Rudd TWP Trustee,,,Write-in,1,1,0
+Floyd,Scott - Union - Pleasant Grove,Scott TWP Trustee,,,Todd Ott,85,39,46
+Floyd,Scott - Union - Pleasant Grove,Scott TWP Trustee,,,Write-in,1,1,0
+Floyd,St. Charles - Riverton,St Charles TWP Trustee,,,Aaron D. Hobert,624,145,479
+Floyd,St. Charles - Riverton,St Charles TWP Trustee,,,Write-in,4,3,1
+Floyd,Rockford - Ulster,Ulster TWP Trustee,,,Merlyn Schweizer,153,75,78
+Floyd,Rockford - Ulster,Ulster TWP Trustee,,,Write-in,7,3,4
+Floyd,Scott - Union - Pleasant Grove,Union TWP Trustee,,,John Brunner,168,64,104
+Floyd,Scott - Union - Pleasant Grove,Union TWP Trustee,,,Write-in,1,1,0
+Floyd,CC1 - Courthouse,County Public Hosp. Trustees,,,Cheryl Erb,639,185,454
+Floyd,CC2 - Messiah,County Public Hosp. Trustees,,,Cheryl Erb,751,279,472
+Floyd,CC3 - Trinity,County Public Hosp. Trustees,,,Cheryl Erb,624,261,363
+Floyd,Floyd - Cedar - Niles,County Public Hosp. Trustees,,,Cheryl Erb,445,197,248
+Floyd,Rock Grove - Rudd,County Public Hosp. Trustees,,,Cheryl Erb,628,341,287
+Floyd,Rockford - Ulster,County Public Hosp. Trustees,,,Cheryl Erb,442,248,194
+Floyd,Scott - Union - Pleasant Grove,County Public Hosp. Trustees,,,Cheryl Erb,295,112,183
+Floyd,St. Charles - Riverton,County Public Hosp. Trustees,,,Cheryl Erb,559,119,440
+Floyd,CC1 - Courthouse,County Public Hosp. Trustees,,,Mary Jo Lacour,649,186,463
+Floyd,CC2 - Messiah,County Public Hosp. Trustees,,,Mary Jo Lacour,756,283,473
+Floyd,CC3 - Trinity,County Public Hosp. Trustees,,,Mary Jo Lacour,614,242,372
+Floyd,Floyd - Cedar - Niles,County Public Hosp. Trustees,,,Mary Jo Lacour,487,211,276
+Floyd,Rock Grove - Rudd,County Public Hosp. Trustees,,,Mary Jo Lacour,603,330,273
+Floyd,Rockford - Ulster,County Public Hosp. Trustees,,,Mary Jo Lacour,453,255,198
+Floyd,Scott - Union - Pleasant Grove,County Public Hosp. Trustees,,,Mary Jo Lacour,287,112,175
+Floyd,St. Charles - Riverton,County Public Hosp. Trustees,,,Mary Jo Lacour,577,124,453
+Floyd,CC1 - Courthouse,County Public Hosp. Trustees,,,Randy Heitz,674,201,473
+Floyd,CC2 - Messiah,County Public Hosp. Trustees,,,Randy Heitz,787,302,485
+Floyd,CC3 - Trinity,County Public Hosp. Trustees,,,Randy Heitz,665,275,390
+Floyd,Floyd - Cedar - Niles,County Public Hosp. Trustees,,,Randy Heitz,518,221,297
+Floyd,Rock Grove - Rudd,County Public Hosp. Trustees,,,Randy Heitz,643,347,296
+Floyd,Rockford - Ulster,County Public Hosp. Trustees,,,Randy Heitz,480,278,202
+Floyd,Scott - Union - Pleasant Grove,County Public Hosp. Trustees,,,Randy Heitz,318,131,187
+Floyd,St. Charles - Riverton,County Public Hosp. Trustees,,,Randy Heitz,624,142,482
+Floyd,CC1 - Courthouse,County Public Hosp. Trustees,,,Sharon Enabnit,612,174,438
+Floyd,CC2 - Messiah,County Public Hosp. Trustees,,,Sharon Enabnit,710,272,438
+Floyd,CC3 - Trinity,County Public Hosp. Trustees,,,Sharon Enabnit,589,239,350
+Floyd,Floyd - Cedar - Niles,County Public Hosp. Trustees,,,Sharon Enabnit,456,196,260
+Floyd,Rock Grove - Rudd,County Public Hosp. Trustees,,,Sharon Enabnit,729,398,331
+Floyd,Rockford - Ulster,County Public Hosp. Trustees,,,Sharon Enabnit,581,350,231
+Floyd,Scott - Union - Pleasant Grove,County Public Hosp. Trustees,,,Sharon Enabnit,366,150,216
+Floyd,St. Charles - Riverton,County Public Hosp. Trustees,,,Sharon Enabnit,556,121,435
+Floyd,CC1 - Courthouse,County Public Hosp. Trustees,,,Ron James,636,183,453
+Floyd,CC2 - Messiah,County Public Hosp. Trustees,,,Ron James,749,279,470
+Floyd,CC3 - Trinity,County Public Hosp. Trustees,,,Ron James,611,242,369
+Floyd,Floyd - Cedar - Niles,County Public Hosp. Trustees,,,Ron James,450,184,266
+Floyd,Rock Grove - Rudd,County Public Hosp. Trustees,,,Ron James,587,326,261
+Floyd,Rockford - Ulster,County Public Hosp. Trustees,,,Ron James,427,241,186
+Floyd,Scott - Union - Pleasant Grove,County Public Hosp. Trustees,,,Ron James,278,109,169
+Floyd,St. Charles - Riverton,County Public Hosp. Trustees,,,Ron James,563,111,452
+Floyd,CC1 - Courthouse,County Public Hosp. Trustees,,,Amanda McCarty,624,184,440
+Floyd,CC2 - Messiah,County Public Hosp. Trustees,,,Amanda McCarty,759,295,464
+Floyd,CC3 - Trinity,County Public Hosp. Trustees,,,Amanda McCarty,636,267,369
+Floyd,Floyd - Cedar - Niles,County Public Hosp. Trustees,,,Amanda McCarty,460,196,264
+Floyd,Rock Grove - Rudd,County Public Hosp. Trustees,,,Amanda McCarty,610,335,275
+Floyd,Rockford - Ulster,County Public Hosp. Trustees,,,Amanda McCarty,424,238,186
+Floyd,Scott - Union - Pleasant Grove,County Public Hosp. Trustees,,,Amanda McCarty,280,109,171
+Floyd,St. Charles - Riverton,County Public Hosp. Trustees,,,Amanda McCarty,570,123,447
+Floyd,CC1 - Courthouse,County Public Hosp. Trustees,,,Viva Boerschel,626,181,445
+Floyd,CC2 - Messiah,County Public Hosp. Trustees,,,Viva Boerschel,755,278,477
+Floyd,CC3 - Trinity,County Public Hosp. Trustees,,,Viva Boerschel,620,249,371
+Floyd,Floyd - Cedar - Niles,County Public Hosp. Trustees,,,Viva Boerschel,464,193,271
+Floyd,Rock Grove - Rudd,County Public Hosp. Trustees,,,Viva Boerschel,559,304,255
+Floyd,Rockford - Ulster,County Public Hosp. Trustees,,,Viva Boerschel,419,230,189
+Floyd,Scott - Union - Pleasant Grove,County Public Hosp. Trustees,,,Viva Boerschel,277,105,172
+Floyd,St. Charles - Riverton,County Public Hosp. Trustees,,,Viva Boerschel,567,118,449
+Floyd,CC1 - Courthouse,County Public Hosp. Trustees,,,Write-in,24,7,17
+Floyd,CC2 - Messiah,County Public Hosp. Trustees,,,Write-in,40,14,26
+Floyd,CC3 - Trinity,County Public Hosp. Trustees,,,Write-in,13,11,2
+Floyd,Floyd - Cedar - Niles,County Public Hosp. Trustees,,,Write-in,23,12,11
+Floyd,Rock Grove - Rudd,County Public Hosp. Trustees,,,Write-in,10,3,7
+Floyd,Rockford - Ulster,County Public Hosp. Trustees,,,Write-in,23,6,17
+Floyd,Scott - Union - Pleasant Grove,County Public Hosp. Trustees,,,Write-in,7,1,6
+Floyd,St. Charles - Riverton,County Public Hosp. Trustees,,,Write-in,1,0,1
+Floyd,CC1 - Courthouse,Soil and Water Conservation Dist. Commissioner,,,Joyce Dolan,651,190,461
+Floyd,CC2 - Messiah,Soil and Water Conservation Dist. Commissioner,,,Joyce Dolan,781,292,489
+Floyd,CC3 - Trinity,Soil and Water Conservation Dist. Commissioner,,,Joyce Dolan,643,262,381
+Floyd,Floyd - Cedar - Niles,Soil and Water Conservation Dist. Commissioner,,,Joyce Dolan,476,189,287
+Floyd,Rock Grove - Rudd,Soil and Water Conservation Dist. Commissioner,,,Joyce Dolan,658,354,304
+Floyd,Rockford - Ulster,Soil and Water Conservation Dist. Commissioner,,,Joyce Dolan,544,315,229
+Floyd,Scott - Union - Pleasant Grove,Soil and Water Conservation Dist. Commissioner,,,Joyce Dolan,387,145,242
+Floyd,St. Charles - Riverton,Soil and Water Conservation Dist. Commissioner,,,Joyce Dolan,615,139,476
+Floyd,CC1 - Courthouse,Soil and Water Conservation Dist. Commissioner,,,Pam Lines,713,223,490
+Floyd,CC2 - Messiah,Soil and Water Conservation Dist. Commissioner,,,Pam Lines,835,325,510
+Floyd,CC3 - Trinity,Soil and Water Conservation Dist. Commissioner,,,Pam Lines,698,284,414
+Floyd,Floyd - Cedar - Niles,Soil and Water Conservation Dist. Commissioner,,,Pam Lines,547,245,302
+Floyd,Rock Grove - Rudd,Soil and Water Conservation Dist. Commissioner,,,Pam Lines,692,377,315
+Floyd,Rockford - Ulster,Soil and Water Conservation Dist. Commissioner,,,Pam Lines,542,312,230
+Floyd,Scott - Union - Pleasant Grove,Soil and Water Conservation Dist. Commissioner,,,Pam Lines,335,130,205
+Floyd,St. Charles - Riverton,Soil and Water Conservation Dist. Commissioner,,,Pam Lines,675,148,527
+Floyd,CC1 - Courthouse,Soil and Water Conservation Dist. Commissioner,,,Andrew Johnson,670,196,474
+Floyd,CC2 - Messiah,Soil and Water Conservation Dist. Commissioner,,,Andrew Johnson,807,314,493
+Floyd,CC3 - Trinity,Soil and Water Conservation Dist. Commissioner,,,Andrew Johnson,644,264,380
+Floyd,Floyd - Cedar - Niles,Soil and Water Conservation Dist. Commissioner,,,Andrew Johnson,538,240,298
+Floyd,Rock Grove - Rudd,Soil and Water Conservation Dist. Commissioner,,,Andrew Johnson,694,396,298
+Floyd,Rockford - Ulster,Soil and Water Conservation Dist. Commissioner,,,Andrew Johnson,512,300,212
+Floyd,Scott - Union - Pleasant Grove,Soil and Water Conservation Dist. Commissioner,,,Andrew Johnson,321,130,191
+Floyd,St. Charles - Riverton,Soil and Water Conservation Dist. Commissioner,,,Andrew Johnson,618,147,471
+Floyd,CC1 - Courthouse,Soil and Water Conservation Dist. Commissioner,,,Write-in,2,0,2
+Floyd,CC2 - Messiah,Soil and Water Conservation Dist. Commissioner,,,Write-in,17,6,11
+Floyd,CC3 - Trinity,Soil and Water Conservation Dist. Commissioner,,,Write-in,11,9,2
+Floyd,Floyd - Cedar - Niles,Soil and Water Conservation Dist. Commissioner,,,Write-in,8,7,1
+Floyd,Rock Grove - Rudd,Soil and Water Conservation Dist. Commissioner,,,Write-in,8,5,3
+Floyd,Rockford - Ulster,Soil and Water Conservation Dist. Commissioner,,,Write-in,9,4,5
+Floyd,Scott - Union - Pleasant Grove,Soil and Water Conservation Dist. Commissioner,,,Write-in,3,3,0
+Floyd,St. Charles - Riverton,Soil and Water Conservation Dist. Commissioner,,,Write-in,6,5,1
+Floyd,CC1 - Courthouse,Soil and Water Conservation Dist. Commissioner To Fill Vacancy,,,Mason Kolbet,806,253,553
+Floyd,CC2 - Messiah,Soil and Water Conservation Dist. Commissioner To Fill Vacancy,,,Mason Kolbet,941,403,538
+Floyd,CC3 - Trinity,Soil and Water Conservation Dist. Commissioner To Fill Vacancy,,,Mason Kolbet,822,365,457
+Floyd,Floyd - Cedar - Niles,Soil and Water Conservation Dist. Commissioner To Fill Vacancy,,,Mason Kolbet,623,286,337
+Floyd,Rock Grove - Rudd,Soil and Water Conservation Dist. Commissioner To Fill Vacancy,,,Mason Kolbet,868,496,372
+Floyd,Rockford - Ulster,Soil and Water Conservation Dist. Commissioner To Fill Vacancy,,,Mason Kolbet,640,387,253
+Floyd,Scott - Union - Pleasant Grove,Soil and Water Conservation Dist. Commissioner To Fill Vacancy,,,Mason Kolbet,408,173,235
+Floyd,St. Charles - Riverton,Soil and Water Conservation Dist. Commissioner To Fill Vacancy,,,Mason Kolbet,711,178,533
+Floyd,CC1 - Courthouse,Soil and Water Conservation Dist. Commissioner To Fill Vacancy,,,Write-in,1,0,1
+Floyd,CC2 - Messiah,Soil and Water Conservation Dist. Commissioner To Fill Vacancy,,,Write-in,5,3,2
+Floyd,CC3 - Trinity,Soil and Water Conservation Dist. Commissioner To Fill Vacancy,,,Write-in,8,5,3
+Floyd,Floyd - Cedar - Niles,Soil and Water Conservation Dist. Commissioner To Fill Vacancy,,,Write-in,6,5,1
+Floyd,Rock Grove - Rudd,Soil and Water Conservation Dist. Commissioner To Fill Vacancy,,,Write-in,7,6,1
+Floyd,Rockford - Ulster,Soil and Water Conservation Dist. Commissioner To Fill Vacancy,,,Write-in,8,3,5
+Floyd,Scott - Union - Pleasant Grove,Soil and Water Conservation Dist. Commissioner To Fill Vacancy,,,Write-in,1,0,1
+Floyd,St. Charles - Riverton,Soil and Water Conservation Dist. Commissioner To Fill Vacancy,,,Write-in,1,1,0
+Floyd,CC1 - Courthouse,County Agricultural Extension Council,,,Karol Carpenter,641,185,456
+Floyd,CC2 - Messiah,County Agricultural Extension Council,,,Karol Carpenter,754,285,469
+Floyd,CC3 - Trinity,County Agricultural Extension Council,,,Karol Carpenter,636,256,380
+Floyd,Floyd - Cedar - Niles,County Agricultural Extension Council,,,Karol Carpenter,489,209,280
+Floyd,Rock Grove - Rudd,County Agricultural Extension Council,,,Karol Carpenter,651,364,287
+Floyd,Rockford - Ulster,County Agricultural Extension Council,,,Karol Carpenter,491,282,209
+Floyd,Scott - Union - Pleasant Grove,County Agricultural Extension Council,,,Karol Carpenter,297,117,180
+Floyd,St. Charles - Riverton,County Agricultural Extension Council,,,Karol Carpenter,604,136,468
+Floyd,CC1 - Courthouse,County Agricultural Extension Council,,,Bill Mead,657,197,460
+Floyd,CC2 - Messiah,County Agricultural Extension Council,,,Bill Mead,809,325,484
+Floyd,CC3 - Trinity,County Agricultural Extension Council,,,Bill Mead,682,284,398
+Floyd,Floyd - Cedar - Niles,County Agricultural Extension Council,,,Bill Mead,515,224,291
+Floyd,Rock Grove - Rudd,County Agricultural Extension Council,,,Bill Mead,663,374,289
+Floyd,Rockford - Ulster,County Agricultural Extension Council,,,Bill Mead,499,288,211
+Floyd,Scott - Union - Pleasant Grove,County Agricultural Extension Council,,,Bill Mead,319,130,189
+Floyd,St. Charles - Riverton,County Agricultural Extension Council,,,Bill Mead,604,137,467
+Floyd,CC1 - Courthouse,County Agricultural Extension Council,,,Valerie Bodensteiner,649,203,446
+Floyd,CC2 - Messiah,County Agricultural Extension Council,,,Valerie Bodensteiner,746,295,451
+Floyd,CC3 - Trinity,County Agricultural Extension Council,,,Valerie Bodensteiner,632,252,380
+Floyd,Floyd - Cedar - Niles,County Agricultural Extension Council,,,Valerie Bodensteiner,485,212,273
+Floyd,Rock Grove - Rudd,County Agricultural Extension Council,,,Valerie Bodensteiner,659,361,298
+Floyd,Rockford - Ulster,County Agricultural Extension Council,,,Valerie Bodensteiner,497,284,213
+Floyd,Scott - Union - Pleasant Grove,County Agricultural Extension Council,,,Valerie Bodensteiner,361,143,218
+Floyd,St. Charles - Riverton,County Agricultural Extension Council,,,Valerie Bodensteiner,592,139,453
+Floyd,CC1 - Courthouse,County Agricultural Extension Council,,,Jill Stille,616,181,435
+Floyd,CC2 - Messiah,County Agricultural Extension Council,,,Jill Stille,704,272,432
+Floyd,CC3 - Trinity,County Agricultural Extension Council,,,Jill Stille,599,236,363
+Floyd,Floyd - Cedar - Niles,County Agricultural Extension Council,,,Jill Stille,458,194,264
+Floyd,Rock Grove - Rudd,County Agricultural Extension Council,,,Jill Stille,663,362,301
+Floyd,Rockford - Ulster,County Agricultural Extension Council,,,Jill Stille,486,271,215
+Floyd,Scott - Union - Pleasant Grove,County Agricultural Extension Council,,,Jill Stille,310,117,193
+Floyd,St. Charles - Riverton,County Agricultural Extension Council,,,Jill Stille,594,140,454
+Floyd,CC1 - Courthouse,County Agricultural Extension Council,,,Write-in,1,1,0
+Floyd,CC2 - Messiah,County Agricultural Extension Council,,,Write-in,17,7,10
+Floyd,CC3 - Trinity,County Agricultural Extension Council,,,Write-in,9,7,2
+Floyd,Floyd - Cedar - Niles,County Agricultural Extension Council,,,Write-in,6,4,2
+Floyd,Rock Grove - Rudd,County Agricultural Extension Council,,,Write-in,9,3,6
+Floyd,Rockford - Ulster,County Agricultural Extension Council,,,Write-in,11,2,9
+Floyd,Scott - Union - Pleasant Grove,County Agricultural Extension Council,,,Write-in,3,3,0
+Floyd,St. Charles - Riverton,County Agricultural Extension Council,,,Write-in,8,5,3
+Floyd,CC1 - Courthouse,Supreme Court Justice,,,Yes,626,191,435
+Floyd,CC2 - Messiah,Supreme Court Justice,,,Yes,747,319,428
+Floyd,CC3 - Trinity,Supreme Court Justice,,,Yes,691,321,370
+Floyd,Floyd - Cedar - Niles,Supreme Court Justice,,,Yes,450,208,242
+Floyd,Rock Grove - Rudd,Supreme Court Justice,,,Yes,658,389,269
+Floyd,Rockford - Ulster,Supreme Court Justice,,,Yes,482,280,202
+Floyd,Scott - Union - Pleasant Grove,Supreme Court Justice,,,Yes,291,122,169
+Floyd,St. Charles - Riverton,Supreme Court Justice,,,Yes,525,129,396
+Floyd,CC1 - Courthouse,Supreme Court Justice,,,No,184,59,125
+Floyd,CC2 - Messiah,Supreme Court Justice,,,No,205,85,120
+Floyd,CC3 - Trinity,Supreme Court Justice,,,No,155,62,93
+Floyd,Floyd - Cedar - Niles,Supreme Court Justice,,,No,170,83,87
+Floyd,Rock Grove - Rudd,Supreme Court Justice,,,No,192,100,92
+Floyd,Rockford - Ulster,Supreme Court Justice,,,No,155,103,52
+Floyd,Scott - Union - Pleasant Grove,Supreme Court Justice,,,No,109,55,54
+Floyd,St. Charles - Riverton,Supreme Court Justice,,,No,188,53,135
+Floyd,CC1 - Courthouse,Court of Appeals Judge,,,Yes,611,188,423
+Floyd,CC2 - Messiah,Court of Appeals Judge,,,Yes,714,300,414
+Floyd,CC3 - Trinity,Court of Appeals Judge,,,Yes,644,276,368
+Floyd,Floyd - Cedar - Niles,Court of Appeals Judge,,,Yes,409,189,220
+Floyd,Rock Grove - Rudd,Court of Appeals Judge,,,Yes,631,369,262
+Floyd,Rockford - Ulster,Court of Appeals Judge,,,Yes,459,272,187
+Floyd,Scott - Union - Pleasant Grove,Court of Appeals Judge,,,Yes,273,116,157
+Floyd,St. Charles - Riverton,Court of Appeals Judge,,,Yes,502,129,373
+Floyd,CC1 - Courthouse,Court of Appeals Judge,,,No,157,53,104
+Floyd,CC2 - Messiah,Court of Appeals Judge,,,No,176,82,94
+Floyd,CC3 - Trinity,Court of Appeals Judge,,,No,154,78,76
+Floyd,Floyd - Cedar - Niles,Court of Appeals Judge,,,No,166,89,77
+Floyd,Rock Grove - Rudd,Court of Appeals Judge,,,No,188,102,86
+Floyd,Rockford - Ulster,Court of Appeals Judge,,,No,147,94,53
+Floyd,Scott - Union - Pleasant Grove,Court of Appeals Judge,,,No,108,54,54
+Floyd,St. Charles - Riverton,Court of Appeals Judge,,,No,166,47,119
+Floyd,CC1 - Courthouse,District 2A Judge,,,Yes,681,196,485
+Floyd,CC2 - Messiah,District 2A Judge,,,Yes,808,324,484
+Floyd,CC3 - Trinity,District 2A Judge,,,Yes,711,300,411
+Floyd,Floyd - Cedar - Niles,District 2A Judge,,,Yes,490,236,254
+Floyd,Rock Grove - Rudd,District 2A Judge,,,Yes,656,371,285
+Floyd,Rockford - Ulster,District 2A Judge,,,Yes,488,278,210
+Floyd,Scott - Union - Pleasant Grove,District 2A Judge,,,Yes,314,122,192
+Floyd,St. Charles - Riverton,District 2A Judge,,,Yes,596,142,454
+Floyd,CC1 - Courthouse,District 2A Judge,,,No,156,55,101
+Floyd,CC2 - Messiah,District 2A Judge,,,No,176,85,91
+Floyd,CC3 - Trinity,District 2A Judge,,,No,165,84,81
+Floyd,Floyd - Cedar - Niles,District 2A Judge,,,No,163,76,87
+Floyd,Rock Grove - Rudd,District 2A Judge,,,No,207,120,87
+Floyd,Rockford - Ulster,District 2A Judge,,,No,172,119,53
+Floyd,Scott - Union - Pleasant Grove,District 2A Judge,,,No,93,58,35
+Floyd,St. Charles - Riverton,District 2A Judge,,,No,153,52,101
+Floyd,CC1 - Courthouse,District 2A Associate Judge,,,Yes,605,185,420
+Floyd,CC2 - Messiah,District 2A Associate Judge,,,Yes,733,310,423
+Floyd,CC3 - Trinity,District 2A Associate Judge,,,Yes,643,285,358
+Floyd,Floyd - Cedar - Niles,District 2A Associate Judge,,,Yes,426,204,222
+Floyd,Rock Grove - Rudd,District 2A Associate Judge,,,Yes,646,371,275
+Floyd,Rockford - Ulster,District 2A Associate Judge,,,Yes,452,251,201
+Floyd,Scott - Union - Pleasant Grove,District 2A Associate Judge,,,Yes,281,118,163
+Floyd,St. Charles - Riverton,District 2A Associate Judge,,,Yes,505,120,385
+Floyd,CC1 - Courthouse,District 2A Associate Judge,,,No,163,54,109
+Floyd,CC2 - Messiah,District 2A Associate Judge,,,No,159,77,82
+Floyd,CC3 - Trinity,District 2A Associate Judge,,,No,153,74,79
+Floyd,Floyd - Cedar - Niles,District 2A Associate Judge,,,No,165,88,77
+Floyd,Rock Grove - Rudd,District 2A Associate Judge,,,No,178,104,74
+Floyd,Rockford - Ulster,District 2A Associate Judge,,,No,141,100,41
+Floyd,Scott - Union - Pleasant Grove,District 2A Associate Judge,,,No,102,55,47
+Floyd,St. Charles - Riverton,District 2A Associate Judge,,,No,165,54,111
+Floyd,CC1 - Courthouse,Question 1 and propose amendment or amendments to same?,,,Yes,286,89,197
+Floyd,CC2 - Messiah,Question 1 and propose amendment or amendments to same?,,,Yes,331,135,196
+Floyd,CC3 - Trinity,Question 1 and propose amendment or amendments to same?,,,Yes,291,132,159
+Floyd,Floyd - Cedar - Niles,Question 1 and propose amendment or amendments to same?,,,Yes,160,70,90
+Floyd,Rock Grove - Rudd,Question 1 and propose amendment or amendments to same?,,,Yes,272,171,101
+Floyd,Rockford - Ulster,Question 1 and propose amendment or amendments to same?,,,Yes,178,101,77
+Floyd,Scott - Union - Pleasant Grove,Question 1 and propose amendment or amendments to same?,,,Yes,107,48,59
+Floyd,St. Charles - Riverton,Question 1 and propose amendment or amendments to same?,,,Yes,215,57,158
+Floyd,CC1 - Courthouse,Question 1 and propose amendment or amendments to same?,,,No,618,192,426
+Floyd,CC2 - Messiah,Question 1 and propose amendment or amendments to same?,,,No,762,304,458
+Floyd,CC3 - Trinity,Question 1 and propose amendment or amendments to same?,,,No,660,296,364
+Floyd,Floyd - Cedar - Niles,Question 1 and propose amendment or amendments to same?,,,No,589,276,313
+Floyd,Rock Grove - Rudd,Question 1 and propose amendment or amendments to same?,,,No,719,389,330
+Floyd,Rockford - Ulster,Question 1 and propose amendment or amendments to same?,,,No,556,337,219
+Floyd,Scott - Union - Pleasant Grove,Question 1 and propose amendment or amendments to same?,,,No,356,147,209
+Floyd,St. Charles - Riverton,Question 1 and propose amendment or amendments to same?,,,No,620,146,474

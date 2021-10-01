@@ -1,0 +1,508 @@
+county,precinct,office,district,party,candidate,votes,election_day,absentee
+Washington,Ainsworth,President,,DEM,Joseph R. Biden and Kamala D. Harris,503,120,383
+Washington,Brighton/Marion/Crawford,President,,DEM,Joseph R. Biden and Kamala D. Harris,284,66,218
+Washington,Kalona,President,,DEM,Joseph R. Biden and Kamala D. Harris,690,163,527
+Washington,Riverside,President,,DEM,Joseph R. Biden and Kamala D. Harris,453,196,257
+Washington,Ward 1,President,,DEM,Joseph R. Biden and Kamala D. Harris,371,47,324
+Washington,Ward 2,President,,DEM,Joseph R. Biden and Kamala D. Harris,456,76,380
+Washington,Ward 3,President,,DEM,Joseph R. Biden and Kamala D. Harris,531,82,449
+Washington,Ward 4,President,,DEM,Joseph R. Biden and Kamala D. Harris,519,78,441
+Washington,Wellman,President,,DEM,Joseph R. Biden and Kamala D. Harris,567,144,423
+Washington,West Chester,President,,DEM,Joseph R. Biden and Kamala D. Harris,187,42,145
+Washington,Ainsworth,President,,REP,Donald J. Trump and Michael R. Pence,825,484,341
+Washington,Brighton/Marion/Crawford,President,,REP,Donald J. Trump and Michael R. Pence,803,423,380
+Washington,Kalona,President,,REP,Donald J. Trump and Michael R. Pence,904,549,355
+Washington,Riverside,President,,REP,Donald J. Trump and Michael R. Pence,410,281,129
+Washington,Ward 1,President,,REP,Donald J. Trump and Michael R. Pence,469,164,305
+Washington,Ward 2,President,,REP,Donald J. Trump and Michael R. Pence,666,304,362
+Washington,Ward 3,President,,REP,Donald J. Trump and Michael R. Pence,598,216,382
+Washington,Ward 4,President,,REP,Donald J. Trump and Michael R. Pence,716,260,456
+Washington,Wellman,President,,REP,Donald J. Trump and Michael R. Pence,1046,599,447
+Washington,West Chester,President,,REP,Donald J. Trump and Michael R. Pence,534,303,231
+Washington,Ainsworth,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,1,0
+Washington,Brighton/Marion/Crawford,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,0,1
+Washington,Kalona,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,1,0
+Washington,Riverside,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Washington,Ward 1,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,2,0,2
+Washington,Ward 2,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Washington,Ward 3,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Washington,Ward 4,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Washington,Wellman,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,1,0,1
+Washington,West Chester,President,,ALL,Roque Rocky De La Fuente and Darcy G. Richardson,0,0,0
+Washington,Ainsworth,President,,CON,Don Blankenship and William Alan Mohr,3,0,3
+Washington,Brighton/Marion/Crawford,President,,CON,Don Blankenship and William Alan Mohr,4,1,3
+Washington,Kalona,President,,CON,Don Blankenship and William Alan Mohr,2,2,0
+Washington,Riverside,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Washington,Ward 1,President,,CON,Don Blankenship and William Alan Mohr,1,1,0
+Washington,Ward 2,President,,CON,Don Blankenship and William Alan Mohr,1,1,0
+Washington,Ward 3,President,,CON,Don Blankenship and William Alan Mohr,2,0,2
+Washington,Ward 4,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Washington,Wellman,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Washington,West Chester,President,,CON,Don Blankenship and William Alan Mohr,0,0,0
+Washington,Ainsworth,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Washington,Brighton/Marion/Crawford,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Washington,Kalona,President,,GKH,Ricki Sue King and Dayna R. Chandler,1,0,1
+Washington,Riverside,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Washington,Ward 1,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Washington,Ward 2,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Washington,Ward 3,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Washington,Ward 4,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Washington,Wellman,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Washington,West Chester,President,,GKH,Ricki Sue King and Dayna R. Chandler,0,0,0
+Washington,Ainsworth,President,,GRN,Howie Hawkins and Angela Nicole Walker,1,0,1
+Washington,Brighton/Marion/Crawford,President,,GRN,Howie Hawkins and Angela Nicole Walker,2,1,1
+Washington,Kalona,President,,GRN,Howie Hawkins and Angela Nicole Walker,4,0,4
+Washington,Riverside,President,,GRN,Howie Hawkins and Angela Nicole Walker,0,0,0
+Washington,Ward 1,President,,GRN,Howie Hawkins and Angela Nicole Walker,3,0,3
+Washington,Ward 2,President,,GRN,Howie Hawkins and Angela Nicole Walker,3,0,3
+Washington,Ward 3,President,,GRN,Howie Hawkins and Angela Nicole Walker,1,0,1
+Washington,Ward 4,President,,GRN,Howie Hawkins and Angela Nicole Walker,2,1,1
+Washington,Wellman,President,,GRN,Howie Hawkins and Angela Nicole Walker,4,1,3
+Washington,West Chester,President,,GRN,Howie Hawkins and Angela Nicole Walker,1,0,1
+Washington,Ainsworth,President,,LIB,Jo Jorgensen and Jeremy Cohen,20,10,10
+Washington,Brighton/Marion/Crawford,President,,LIB,Jo Jorgensen and Jeremy Cohen,13,10,3
+Washington,Kalona,President,,LIB,Jo Jorgensen and Jeremy Cohen,18,12,6
+Washington,Riverside,President,,LIB,Jo Jorgensen and Jeremy Cohen,11,8,3
+Washington,Ward 1,President,,LIB,Jo Jorgensen and Jeremy Cohen,18,10,8
+Washington,Ward 2,President,,LIB,Jo Jorgensen and Jeremy Cohen,16,9,7
+Washington,Ward 3,President,,LIB,Jo Jorgensen and Jeremy Cohen,7,4,3
+Washington,Ward 4,President,,LIB,Jo Jorgensen and Jeremy Cohen,19,9,10
+Washington,Wellman,President,,LIB,Jo Jorgensen and Jeremy Cohen,19,15,4
+Washington,West Chester,President,,LIB,Jo Jorgensen and Jeremy Cohen,3,0,3
+Washington,Ainsworth,President,,,Brock Pierce and Karla Ballard,1,1,0
+Washington,Brighton/Marion/Crawford,President,,,Brock Pierce and Karla Ballard,0,0,0
+Washington,Kalona,President,,,Brock Pierce and Karla Ballard,2,0,2
+Washington,Riverside,President,,,Brock Pierce and Karla Ballard,0,0,0
+Washington,Ward 1,President,,,Brock Pierce and Karla Ballard,0,0,0
+Washington,Ward 2,President,,,Brock Pierce and Karla Ballard,1,1,0
+Washington,Ward 3,President,,,Brock Pierce and Karla Ballard,0,0,0
+Washington,Ward 4,President,,,Brock Pierce and Karla Ballard,0,0,0
+Washington,Wellman,President,,,Brock Pierce and Karla Ballard,0,0,0
+Washington,West Chester,President,,,Brock Pierce and Karla Ballard,0,0,0
+Washington,Ainsworth,President,,,Kanye West and Michelle Tidball,4,4,0
+Washington,Brighton/Marion/Crawford,President,,,Kanye West and Michelle Tidball,0,0,0
+Washington,Kalona,President,,,Kanye West and Michelle Tidball,2,2,0
+Washington,Riverside,President,,,Kanye West and Michelle Tidball,0,0,0
+Washington,Ward 1,President,,,Kanye West and Michelle Tidball,2,2,0
+Washington,Ward 2,President,,,Kanye West and Michelle Tidball,3,1,2
+Washington,Ward 3,President,,,Kanye West and Michelle Tidball,2,1,1
+Washington,Ward 4,President,,,Kanye West and Michelle Tidball,5,3,2
+Washington,Wellman,President,,,Kanye West and Michelle Tidball,5,3,2
+Washington,West Chester,President,,,Kanye West and Michelle Tidball,1,1,0
+Washington,Ainsworth,President,,,Write-in,4,1,3
+Washington,Brighton/Marion/Crawford,President,,,Write-in,3,2,1
+Washington,Kalona,President,,,Write-in,2,2,0
+Washington,Riverside,President,,,Write-in,2,1,1
+Washington,Ward 1,President,,,Write-in,1,0,1
+Washington,Ward 2,President,,,Write-in,4,2,2
+Washington,Ward 3,President,,,Write-in,0,0,0
+Washington,Ward 4,President,,,Write-in,1,0,1
+Washington,Wellman,President,,,Write-in,1,0,1
+Washington,West Chester,President,,,Write-in,2,0,2
+Washington,Ainsworth,U.S. Senate,,DEM,Theresa Greenfield,525,130,395
+Washington,Brighton/Marion/Crawford,U.S. Senate,,DEM,Theresa Greenfield,297,84,213
+Washington,Kalona,U.S. Senate,,DEM,Theresa Greenfield,680,168,512
+Washington,Riverside,U.S. Senate,,DEM,Theresa Greenfield,444,190,254
+Washington,Ward 1,U.S. Senate,,DEM,Theresa Greenfield,375,49,326
+Washington,Ward 2,U.S. Senate,,DEM,Theresa Greenfield,440,83,357
+Washington,Ward 3,U.S. Senate,,DEM,Theresa Greenfield,499,81,418
+Washington,Ward 4,U.S. Senate,,DEM,Theresa Greenfield,502,88,414
+Washington,Wellman,U.S. Senate,,DEM,Theresa Greenfield,573,149,424
+Washington,West Chester,U.S. Senate,,DEM,Theresa Greenfield,184,44,140
+Washington,Ainsworth,U.S. Senate,,REP,Joni Ernst,783,455,328
+Washington,Brighton/Marion/Crawford,U.S. Senate,,REP,Joni Ernst,772,397,375
+Washington,Kalona,U.S. Senate,,REP,Joni Ernst,884,529,355
+Washington,Riverside,U.S. Senate,,REP,Joni Ernst,400,276,124
+Washington,Ward 1,U.S. Senate,,REP,Joni Ernst,441,158,283
+Washington,Ward 2,U.S. Senate,,REP,Joni Ernst,660,282,378
+Washington,Ward 3,U.S. Senate,,REP,Joni Ernst,594,207,387
+Washington,Ward 4,U.S. Senate,,REP,Joni Ernst,712,245,467
+Washington,Wellman,U.S. Senate,,REP,Joni Ernst,1005,572,433
+Washington,West Chester,U.S. Senate,,REP,Joni Ernst,522,291,231
+Washington,Ainsworth,U.S. Senate,,LIB,Rick Stewart,37,21,16
+Washington,Brighton/Marion/Crawford,U.S. Senate,,LIB,Rick Stewart,28,15,13
+Washington,Kalona,U.S. Senate,,LIB,Rick Stewart,29,16,13
+Washington,Riverside,U.S. Senate,,LIB,Rick Stewart,17,11,6
+Washington,Ward 1,U.S. Senate,,LIB,Rick Stewart,29,12,17
+Washington,Ward 2,U.S. Senate,,LIB,Rick Stewart,26,17,9
+Washington,Ward 3,U.S. Senate,,LIB,Rick Stewart,28,12,16
+Washington,Ward 4,U.S. Senate,,LIB,Rick Stewart,26,8,18
+Washington,Wellman,U.S. Senate,,LIB,Rick Stewart,33,19,14
+Washington,West Chester,U.S. Senate,,LIB,Rick Stewart,9,4,5
+Washington,Ainsworth,U.S. Senate,,,Suzanne Herzog,10,6,4
+Washington,Brighton/Marion/Crawford,U.S. Senate,,,Suzanne Herzog,5,3,2
+Washington,Kalona,U.S. Senate,,,Suzanne Herzog,16,7,9
+Washington,Riverside,U.S. Senate,,,Suzanne Herzog,9,5,4
+Washington,Ward 1,U.S. Senate,,,Suzanne Herzog,7,2,5
+Washington,Ward 2,U.S. Senate,,,Suzanne Herzog,12,6,6
+Washington,Ward 3,U.S. Senate,,,Suzanne Herzog,11,1,10
+Washington,Ward 4,U.S. Senate,,,Suzanne Herzog,10,3,7
+Washington,Wellman,U.S. Senate,,,Suzanne Herzog,11,9,2
+Washington,West Chester,U.S. Senate,,,Suzanne Herzog,4,3,1
+Washington,Ainsworth,U.S. Senate,,,Write-in,1,1,0
+Washington,Brighton/Marion/Crawford,U.S. Senate,,,Write-in,0,0,0
+Washington,Kalona,U.S. Senate,,,Write-in,0,0,0
+Washington,Riverside,U.S. Senate,,,Write-in,0,0,0
+Washington,Ward 1,U.S. Senate,,,Write-in,0,0,0
+Washington,Ward 2,U.S. Senate,,,Write-in,1,1,0
+Washington,Ward 3,U.S. Senate,,,Write-in,0,0,0
+Washington,Ward 4,U.S. Senate,,,Write-in,1,1,0
+Washington,Wellman,U.S. Senate,,,Write-in,2,1,1
+Washington,West Chester,U.S. Senate,,,Write-in,0,0,0
+Washington,Ainsworth,U.S. House,2,DEM,Rita R. Hart,532,135,397
+Washington,Brighton/Marion/Crawford,U.S. House,2,DEM,Rita R. Hart,297,87,210
+Washington,Kalona,U.S. House,2,DEM,Rita R. Hart,674,185,489
+Washington,Riverside,U.S. House,2,DEM,Rita R. Hart,471,215,256
+Washington,Ward 1,U.S. House,2,DEM,Rita R. Hart,400,67,333
+Washington,Ward 2,U.S. House,2,DEM,Rita R. Hart,458,92,366
+Washington,Ward 3,U.S. House,2,DEM,Rita R. Hart,524,93,431
+Washington,Ward 4,U.S. House,2,DEM,Rita R. Hart,514,108,406
+Washington,Wellman,U.S. House,2,DEM,Rita R. Hart,576,169,407
+Washington,West Chester,U.S. House,2,DEM,Rita R. Hart,204,61,143
+Washington,Ainsworth,U.S. House,2,REP,Mariannette Miller-Meeks,771,449,322
+Washington,Brighton/Marion/Crawford,U.S. House,2,REP,Mariannette Miller-Meeks,772,396,376
+Washington,Kalona,U.S. House,2,REP,Mariannette Miller-Meeks,886,512,374
+Washington,Riverside,U.S. House,2,REP,Mariannette Miller-Meeks,371,246,125
+Washington,Ward 1,U.S. House,2,REP,Mariannette Miller-Meeks,431,145,286
+Washington,Ward 2,U.S. House,2,REP,Mariannette Miller-Meeks,649,281,368
+Washington,Ward 3,U.S. House,2,REP,Mariannette Miller-Meeks,570,198,372
+Washington,Ward 4,U.S. House,2,REP,Mariannette Miller-Meeks,690,227,463
+Washington,Wellman,U.S. House,2,REP,Mariannette Miller-Meeks,996,557,439
+Washington,West Chester,U.S. House,2,REP,Mariannette Miller-Meeks,497,273,224
+Washington,Ainsworth,U.S. House,2,,Write-in,2,2,0
+Washington,Brighton/Marion/Crawford,U.S. House,2,,Write-in,1,1,0
+Washington,Kalona,U.S. House,2,,Write-in,2,1,1
+Washington,Riverside,U.S. House,2,,Write-in,0,0,0
+Washington,Ward 1,U.S. House,2,,Write-in,2,2,0
+Washington,Ward 2,U.S. House,2,,Write-in,4,2,2
+Washington,Ward 3,U.S. House,2,,Write-in,3,2,1
+Washington,Ward 4,U.S. House,2,,Write-in,6,3,3
+Washington,Wellman,U.S. House,2,,Write-in,3,0,3
+Washington,West Chester,U.S. House,2,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford,State Senate,42,DEM,Rich Taylor,294,83,211
+Washington,Brighton/Marion/Crawford,State Senate,42,REP,Jeff Reichman,755,391,364
+Washington,Brighton/Marion/Crawford,State Senate,42,,Write-in,0,0,0
+Washington,Ainsworth,State House,78,DEM,Kimberly K. Davis,417,100,317
+Washington,Kalona,State House,78,DEM,Kimberly K. Davis,566,145,421
+Washington,Riverside,State House,78,DEM,Kimberly K. Davis,383,153,230
+Washington,Ward 1,State House,78,DEM,Kimberly K. Davis,343,51,292
+Washington,Ward 2,State House,78,DEM,Kimberly K. Davis,397,79,318
+Washington,Ward 3,State House,78,DEM,Kimberly K. Davis,432,85,347
+Washington,Ward 4,State House,78,DEM,Kimberly K. Davis,419,87,332
+Washington,Wellman,State House,78,DEM,Kimberly K. Davis,493,138,355
+Washington,West Chester,State House,78,DEM,Kimberly K. Davis,155,41,114
+Washington,Ainsworth,State House,78,REP,Jarad Klein,858,466,392
+Washington,Kalona,State House,78,REP,Jarad Klein,962,548,414
+Washington,Riverside,State House,78,REP,Jarad Klein,443,295,148
+Washington,Ward 1,State House,78,REP,Jarad Klein,484,163,321
+Washington,Ward 2,State House,78,REP,Jarad Klein,703,294,409
+Washington,Ward 3,State House,78,REP,Jarad Klein,668,207,461
+Washington,Ward 4,State House,78,REP,Jarad Klein,797,252,545
+Washington,Wellman,State House,78,REP,Jarad Klein,1068,573,495
+Washington,West Chester,State House,78,REP,Jarad Klein,552,297,255
+Washington,Ainsworth,State House,78,,Write-in,3,3,0
+Washington,Kalona,State House,78,,Write-in,2,1,1
+Washington,Riverside,State House,78,,Write-in,0,0,0
+Washington,Ward 1,State House,78,,Write-in,1,1,0
+Washington,Ward 2,State House,78,,Write-in,3,1,2
+Washington,Ward 3,State House,78,,Write-in,3,1,2
+Washington,Ward 4,State House,78,,Write-in,2,1,1
+Washington,Wellman,State House,78,,Write-in,2,2,0
+Washington,West Chester,State House,78,,Write-in,0,0,0
+Washington,Brighton/Marion/Crawford,State House,84,DEM,Jeff Fager,214,57,157
+Washington,Brighton/Marion/Crawford,State House,84,REP,Joe Mitchell,837,413,424
+Washington,Brighton/Marion/Crawford,State House,84,,Write-in,1,1,0
+Washington,Wellman,Board of Supervisor Dist. 1,,REP,"Jack Seward, Jr",1320,655,665
+Washington,West Chester,Board of Supervisor Dist. 1,,REP,"Jack Seward, Jr",609,301,308
+Washington,Wellman,Board of Supervisor Dist. 1,,,Write-in,25,12,13
+Washington,West Chester,Board of Supervisor Dist. 1,,,Write-in,6,2,4
+Washington,Kalona,Board of Supervisor Dist. 2,,REP,Bob Yoder,1273,626,647
+Washington,Riverside,Board of Supervisor Dist. 2,,REP,Bob Yoder,645,391,254
+Washington,Kalona,Board of Supervisor Dist. 2,,,Write-in,22,8,14
+Washington,Riverside,Board of Supervisor Dist. 2,,,Write-in,9,4,5
+Washington,Ward 1,Board of Supervisor Dist. 4,,DEM,Lorraine Williams,383,60,323
+Washington,Ward 4,Board of Supervisor Dist. 4,,DEM,Lorraine Williams,503,96,407
+Washington,Ward 1,Board of Supervisor Dist. 4,,REP,Stan Stoops,455,158,297
+Washington,Ward 4,Board of Supervisor Dist. 4,,REP,Stan Stoops,720,242,478
+Washington,Ward 1,Board of Supervisor Dist. 4,,,Write-in,2,1,1
+Washington,Ward 4,Board of Supervisor Dist. 4,,,Write-in,1,1,0
+Washington,Ainsworth,County Auditor,,REP,Daniel L. Widmer,1094,524,570
+Washington,Brighton/Marion/Crawford,County Auditor,,REP,Daniel L. Widmer,978,451,527
+Washington,Kalona,County Auditor,,REP,Daniel L. Widmer,1261,606,655
+Washington,Riverside,County Auditor,,REP,Daniel L. Widmer,629,374,255
+Washington,Ward 1,County Auditor,,REP,Daniel L. Widmer,737,195,542
+Washington,Ward 2,County Auditor,,REP,Daniel L. Widmer,990,354,636
+Washington,Ward 3,County Auditor,,REP,Daniel L. Widmer,990,261,729
+Washington,Ward 4,County Auditor,,REP,Daniel L. Widmer,1074,309,765
+Washington,Wellman,County Auditor,,REP,Daniel L. Widmer,1301,629,672
+Washington,West Chester,County Auditor,,REP,Daniel L. Widmer,625,305,320
+Washington,Ainsworth,County Auditor,,,Write-in,8,4,4
+Washington,Brighton/Marion/Crawford,County Auditor,,,Write-in,5,2,3
+Washington,Kalona,County Auditor,,,Write-in,12,5,7
+Washington,Riverside,County Auditor,,,Write-in,9,4,5
+Washington,Ward 1,County Auditor,,,Write-in,9,4,5
+Washington,Ward 2,County Auditor,,,Write-in,13,4,9
+Washington,Ward 3,County Auditor,,,Write-in,13,3,10
+Washington,Ward 4,County Auditor,,,Write-in,11,2,9
+Washington,Wellman,County Auditor,,,Write-in,14,8,6
+Washington,West Chester,County Auditor,,,Write-in,1,1,0
+Washington,Ainsworth,County Sheriff,,REP,Jared Schneider,1147,544,603
+Washington,Brighton/Marion/Crawford,County Sheriff,,REP,Jared Schneider,991,464,527
+Washington,Kalona,County Sheriff,,REP,Jared Schneider,1318,646,672
+Washington,Riverside,County Sheriff,,REP,Jared Schneider,674,409,265
+Washington,Ward 1,County Sheriff,,REP,Jared Schneider,741,202,539
+Washington,Ward 2,County Sheriff,,REP,Jared Schneider,987,355,632
+Washington,Ward 3,County Sheriff,,REP,Jared Schneider,984,266,718
+Washington,Ward 4,County Sheriff,,REP,Jared Schneider,1084,313,771
+Washington,Wellman,County Sheriff,,REP,Jared Schneider,1402,693,709
+Washington,West Chester,County Sheriff,,REP,Jared Schneider,639,312,327
+Washington,Ainsworth,County Sheriff,,,Write-in,15,6,9
+Washington,Brighton/Marion/Crawford,County Sheriff,,,Write-in,6,2,4
+Washington,Kalona,County Sheriff,,,Write-in,20,10,10
+Washington,Riverside,County Sheriff,,,Write-in,8,3,5
+Washington,Ward 1,County Sheriff,,,Write-in,13,7,6
+Washington,Ward 2,County Sheriff,,,Write-in,14,5,9
+Washington,Ward 3,County Sheriff,,,Write-in,22,9,13
+Washington,Ward 4,County Sheriff,,,Write-in,16,5,11
+Washington,Wellman,County Sheriff,,,Write-in,25,11,14
+Washington,West Chester,County Sheriff,,,Write-in,6,3,3
+Washington,Brighton/Marion/Crawford,Brighton TWP Trustee,,,Douglas G. Moothart,76,50,26
+Washington,Brighton/Marion/Crawford,Brighton TWP Trustee,,,Dennis Pacha,83,53,30
+Washington,Brighton/Marion/Crawford,Brighton TWP Trustee,,,Write-in,0,0,0
+Washington,West Chester,Clay TWP Trustee,,,Dale Morgan,102,40,62
+Washington,West Chester,Clay TWP Trustee,,,Chuck Meacham,89,29,60
+Washington,West Chester,Clay TWP Trustee,,,Write-in,0,0,0
+Washington,Ainsworth,County Hospital Trustee,,,Mike Van Osdol,669,256,413
+Washington,Brighton/Marion/Crawford,County Hospital Trustee,,,Mike Van Osdol,588,253,335
+Washington,Kalona,County Hospital Trustee,,,Mike Van Osdol,693,289,404
+Washington,Riverside,County Hospital Trustee,,,Mike Van Osdol,419,221,198
+Washington,Ward 1,County Hospital Trustee,,,Mike Van Osdol,484,112,372
+Washington,Ward 2,County Hospital Trustee,,,Mike Van Osdol,643,187,456
+Washington,Ward 3,County Hospital Trustee,,,Mike Van Osdol,706,159,547
+Washington,Ward 4,County Hospital Trustee,,,Mike Van Osdol,780,188,592
+Washington,Wellman,County Hospital Trustee,,,Mike Van Osdol,704,287,417
+Washington,West Chester,County Hospital Trustee,,,Mike Van Osdol,401,184,217
+Washington,Ainsworth,County Hospital Trustee,,,Mike Driscoll,763,323,440
+Washington,Brighton/Marion/Crawford,County Hospital Trustee,,,Mike Driscoll,681,327,354
+Washington,Kalona,County Hospital Trustee,,,Mike Driscoll,817,370,447
+Washington,Riverside,County Hospital Trustee,,,Mike Driscoll,505,288,217
+Washington,Ward 1,County Hospital Trustee,,,Mike Driscoll,530,140,390
+Washington,Ward 2,County Hospital Trustee,,,Mike Driscoll,693,224,469
+Washington,Ward 3,County Hospital Trustee,,,Mike Driscoll,754,178,576
+Washington,Ward 4,County Hospital Trustee,,,Mike Driscoll,840,230,610
+Washington,Wellman,County Hospital Trustee,,,Mike Driscoll,914,424,490
+Washington,West Chester,County Hospital Trustee,,,Mike Driscoll,481,228,253
+Washington,Ainsworth,County Hospital Trustee,,,David C. Bruns,680,263,417
+Washington,Brighton/Marion/Crawford,County Hospital Trustee,,,David C. Bruns,634,272,362
+Washington,Kalona,County Hospital Trustee,,,David C. Bruns,687,289,398
+Washington,Riverside,County Hospital Trustee,,,David C. Bruns,433,225,208
+Washington,Ward 1,County Hospital Trustee,,,David C. Bruns,500,123,377
+Washington,Ward 2,County Hospital Trustee,,,David C. Bruns,624,177,447
+Washington,Ward 3,County Hospital Trustee,,,David C. Bruns,722,170,552
+Washington,Ward 4,County Hospital Trustee,,,David C. Bruns,779,202,577
+Washington,Wellman,County Hospital Trustee,,,David C. Bruns,732,305,427
+Washington,West Chester,County Hospital Trustee,,,David C. Bruns,419,195,224
+Washington,Ainsworth,County Hospital Trustee,,,Write-in,11,8,3
+Washington,Brighton/Marion/Crawford,County Hospital Trustee,,,Write-in,7,4,3
+Washington,Kalona,County Hospital Trustee,,,Write-in,11,6,5
+Washington,Riverside,County Hospital Trustee,,,Write-in,3,1,2
+Washington,Ward 1,County Hospital Trustee,,,Write-in,9,6,3
+Washington,Ward 2,County Hospital Trustee,,,Write-in,19,6,13
+Washington,Ward 3,County Hospital Trustee,,,Write-in,10,3,7
+Washington,Ward 4,County Hospital Trustee,,,Write-in,13,5,8
+Washington,Wellman,County Hospital Trustee,,,Write-in,5,3,2
+Washington,West Chester,County Hospital Trustee,,,Write-in,2,2,0
+Washington,Ainsworth,Soil and Water Conservation Dist. Commissioner,,,Thomas E. Vittetoe,768,336,432
+Washington,Brighton/Marion/Crawford,Soil and Water Conservation Dist. Commissioner,,,Thomas E. Vittetoe,736,343,393
+Washington,Kalona,Soil and Water Conservation Dist. Commissioner,,,Thomas E. Vittetoe,793,352,441
+Washington,Riverside,Soil and Water Conservation Dist. Commissioner,,,Thomas E. Vittetoe,449,245,204
+Washington,Ward 1,Soil and Water Conservation Dist. Commissioner,,,Thomas E. Vittetoe,558,153,405
+Washington,Ward 2,Soil and Water Conservation Dist. Commissioner,,,Thomas E. Vittetoe,743,253,490
+Washington,Ward 3,Soil and Water Conservation Dist. Commissioner,,,Thomas E. Vittetoe,788,201,587
+Washington,Ward 4,Soil and Water Conservation Dist. Commissioner,,,Thomas E. Vittetoe,879,240,639
+Washington,Wellman,Soil and Water Conservation Dist. Commissioner,,,Thomas E. Vittetoe,830,368,462
+Washington,West Chester,Soil and Water Conservation Dist. Commissioner,,,Thomas E. Vittetoe,514,252,262
+Washington,Ainsworth,Soil and Water Conservation Dist. Commissioner,,,Kate Giannini,701,279,422
+Washington,Brighton/Marion/Crawford,Soil and Water Conservation Dist. Commissioner,,,Kate Giannini,556,232,324
+Washington,Kalona,Soil and Water Conservation Dist. Commissioner,,,Kate Giannini,710,297,413
+Washington,Riverside,Soil and Water Conservation Dist. Commissioner,,,Kate Giannini,473,267,206
+Washington,Ward 1,Soil and Water Conservation Dist. Commissioner,,,Kate Giannini,432,106,326
+Washington,Ward 2,Soil and Water Conservation Dist. Commissioner,,,Kate Giannini,561,154,407
+Washington,Ward 3,Soil and Water Conservation Dist. Commissioner,,,Kate Giannini,621,140,481
+Washington,Ward 4,Soil and Water Conservation Dist. Commissioner,,,Kate Giannini,669,176,493
+Washington,Wellman,Soil and Water Conservation Dist. Commissioner,,,Kate Giannini,721,289,432
+Washington,West Chester,Soil and Water Conservation Dist. Commissioner,,,Kate Giannini,378,172,206
+Washington,Ainsworth,Soil and Water Conservation Dist. Commissioner,,,Corey Malichky,713,286,427
+Washington,Brighton/Marion/Crawford,Soil and Water Conservation Dist. Commissioner,,,Corey Malichky,569,243,326
+Washington,Kalona,Soil and Water Conservation Dist. Commissioner,,,Corey Malichky,743,327,416
+Washington,Riverside,Soil and Water Conservation Dist. Commissioner,,,Corey Malichky,477,258,219
+Washington,Ward 1,Soil and Water Conservation Dist. Commissioner,,,Corey Malichky,430,98,332
+Washington,Ward 2,Soil and Water Conservation Dist. Commissioner,,,Corey Malichky,595,182,413
+Washington,Ward 3,Soil and Water Conservation Dist. Commissioner,,,Corey Malichky,638,143,495
+Washington,Ward 4,Soil and Water Conservation Dist. Commissioner,,,Corey Malichky,661,178,483
+Washington,Wellman,Soil and Water Conservation Dist. Commissioner,,,Corey Malichky,850,385,465
+Washington,West Chester,Soil and Water Conservation Dist. Commissioner,,,Corey Malichky,406,194,212
+Washington,Ainsworth,Soil and Water Conservation Dist. Commissioner,,,Write-in,9,5,4
+Washington,Brighton/Marion/Crawford,Soil and Water Conservation Dist. Commissioner,,,Write-in,4,4,0
+Washington,Kalona,Soil and Water Conservation Dist. Commissioner,,,Write-in,14,8,6
+Washington,Riverside,Soil and Water Conservation Dist. Commissioner,,,Write-in,2,1,1
+Washington,Ward 1,Soil and Water Conservation Dist. Commissioner,,,Write-in,10,4,6
+Washington,Ward 2,Soil and Water Conservation Dist. Commissioner,,,Write-in,17,5,12
+Washington,Ward 3,Soil and Water Conservation Dist. Commissioner,,,Write-in,4,2,2
+Washington,Ward 4,Soil and Water Conservation Dist. Commissioner,,,Write-in,14,8,6
+Washington,Wellman,Soil and Water Conservation Dist. Commissioner,,,Write-in,11,8,3
+Washington,West Chester,Soil and Water Conservation Dist. Commissioner,,,Write-in,4,1,3
+Washington,Ainsworth,County Agricultural Extension Council,,,Sue Janecek,747,311,436
+Washington,Brighton/Marion/Crawford,County Agricultural Extension Council,,,Sue Janecek,671,293,378
+Washington,Kalona,County Agricultural Extension Council,,,Sue Janecek,781,331,450
+Washington,Riverside,County Agricultural Extension Council,,,Sue Janecek,480,256,224
+Washington,Ward 1,County Agricultural Extension Council,,,Sue Janecek,535,145,390
+Washington,Ward 2,County Agricultural Extension Council,,,Sue Janecek,678,205,473
+Washington,Ward 3,County Agricultural Extension Council,,,Sue Janecek,763,188,575
+Washington,Ward 4,County Agricultural Extension Council,,,Sue Janecek,810,217,593
+Washington,Wellman,County Agricultural Extension Council,,,Sue Janecek,825,345,480
+Washington,West Chester,County Agricultural Extension Council,,,Sue Janecek,492,240,252
+Washington,Ainsworth,County Agricultural Extension Council,,,David Erwin,674,271,403
+Washington,Brighton/Marion/Crawford,County Agricultural Extension Council,,,David Erwin,654,285,369
+Washington,Kalona,County Agricultural Extension Council,,,David Erwin,689,312,377
+Washington,Riverside,County Agricultural Extension Council,,,David Erwin,424,222,202
+Washington,Ward 1,County Agricultural Extension Council,,,David Erwin,425,102,323
+Washington,Ward 2,County Agricultural Extension Council,,,David Erwin,579,173,406
+Washington,Ward 3,County Agricultural Extension Council,,,David Erwin,624,145,479
+Washington,Ward 4,County Agricultural Extension Council,,,David Erwin,694,175,519
+Washington,Wellman,County Agricultural Extension Council,,,David Erwin,720,314,406
+Washington,West Chester,County Agricultural Extension Council,,,David Erwin,402,188,214
+Washington,Ainsworth,County Agricultural Extension Council,,,Kathy Ebert,651,242,409
+Washington,Brighton/Marion/Crawford,County Agricultural Extension Council,,,Kathy Ebert,571,250,321
+Washington,Kalona,County Agricultural Extension Council,,,Kathy Ebert,668,281,387
+Washington,Riverside,County Agricultural Extension Council,,,Kathy Ebert,415,223,192
+Washington,Ward 1,County Agricultural Extension Council,,,Kathy Ebert,470,110,360
+Washington,Ward 2,County Agricultural Extension Council,,,Kathy Ebert,625,191,434
+Washington,Ward 3,County Agricultural Extension Council,,,Kathy Ebert,660,150,510
+Washington,Ward 4,County Agricultural Extension Council,,,Kathy Ebert,715,180,535
+Washington,Wellman,County Agricultural Extension Council,,,Kathy Ebert,706,267,439
+Washington,West Chester,County Agricultural Extension Council,,,Kathy Ebert,402,188,214
+Washington,Ainsworth,County Agricultural Extension Council,,,Duane Hammen,665,261,404
+Washington,Brighton/Marion/Crawford,County Agricultural Extension Council,,,Duane Hammen,590,253,337
+Washington,Kalona,County Agricultural Extension Council,,,Duane Hammen,660,291,369
+Washington,Riverside,County Agricultural Extension Council,,,Duane Hammen,398,215,183
+Washington,Ward 1,County Agricultural Extension Council,,,Duane Hammen,448,106,342
+Washington,Ward 2,County Agricultural Extension Council,,,Duane Hammen,600,179,421
+Washington,Ward 3,County Agricultural Extension Council,,,Duane Hammen,637,140,497
+Washington,Ward 4,County Agricultural Extension Council,,,Duane Hammen,719,183,536
+Washington,Wellman,County Agricultural Extension Council,,,Duane Hammen,743,317,426
+Washington,West Chester,County Agricultural Extension Council,,,Duane Hammen,438,208,230
+Washington,Ainsworth,County Agricultural Extension Council,,,Write-in,12,5,7
+Washington,Brighton/Marion/Crawford,County Agricultural Extension Council,,,Write-in,4,4,0
+Washington,Kalona,County Agricultural Extension Council,,,Write-in,11,6,5
+Washington,Riverside,County Agricultural Extension Council,,,Write-in,6,0,6
+Washington,Ward 1,County Agricultural Extension Council,,,Write-in,6,5,1
+Washington,Ward 2,County Agricultural Extension Council,,,Write-in,21,6,15
+Washington,Ward 3,County Agricultural Extension Council,,,Write-in,2,2,0
+Washington,Ward 4,County Agricultural Extension Council,,,Write-in,7,5,2
+Washington,Wellman,County Agricultural Extension Council,,,Write-in,8,5,3
+Washington,West Chester,County Agricultural Extension Council,,,Write-in,3,3,0
+Washington,Ainsworth,Supreme Court Justice,,,Yes,662,291,371
+Washington,Brighton/Marion/Crawford,Supreme Court Justice,,,Yes,562,258,304
+Washington,Kalona,Supreme Court Justice,,,Yes,711,348,363
+Washington,Riverside,Supreme Court Justice,,,Yes,384,227,157
+Washington,Ward 1,Supreme Court Justice,,,Yes,463,129,334
+Washington,Ward 2,Supreme Court Justice,,,Yes,602,201,401
+Washington,Ward 3,Supreme Court Justice,,,Yes,635,163,472
+Washington,Ward 4,Supreme Court Justice,,,Yes,668,196,472
+Washington,Wellman,Supreme Court Justice,,,Yes,757,355,402
+Washington,West Chester,Supreme Court Justice,,,Yes,348,180,168
+Washington,Ainsworth,Supreme Court Justice,,,No,263,119,144
+Washington,Brighton/Marion/Crawford,Supreme Court Justice,,,No,198,92,106
+Washington,Kalona,Supreme Court Justice,,,No,285,108,177
+Washington,Riverside,Supreme Court Justice,,,No,165,73,92
+Washington,Ward 1,Supreme Court Justice,,,No,168,39,129
+Washington,Ward 2,Supreme Court Justice,,,No,202,68,134
+Washington,Ward 3,Supreme Court Justice,,,No,176,45,131
+Washington,Ward 4,Supreme Court Justice,,,No,212,65,147
+Washington,Wellman,Supreme Court Justice,,,No,283,122,161
+Washington,West Chester,Supreme Court Justice,,,No,158,65,93
+Washington,Ainsworth,Court of Appeals Judge,,,Yes,658,271,387
+Washington,Brighton/Marion/Crawford,Court of Appeals Judge,,,Yes,581,264,317
+Washington,Kalona,Court of Appeals Judge,,,Yes,718,335,383
+Washington,Riverside,Court of Appeals Judge,,,Yes,411,233,178
+Washington,Ward 1,Court of Appeals Judge,,,Yes,469,131,338
+Washington,Ward 2,Court of Appeals Judge,,,Yes,611,190,421
+Washington,Ward 3,Court of Appeals Judge,,,Yes,647,167,480
+Washington,Ward 4,Court of Appeals Judge,,,Yes,669,183,486
+Washington,Wellman,Court of Appeals Judge,,,Yes,763,356,407
+Washington,West Chester,Court of Appeals Judge,,,Yes,341,168,173
+Washington,Ainsworth,Court of Appeals Judge,,,No,229,123,106
+Washington,Brighton/Marion/Crawford,Court of Appeals Judge,,,No,169,88,81
+Washington,Kalona,Court of Appeals Judge,,,No,226,103,123
+Washington,Riverside,Court of Appeals Judge,,,No,127,59,68
+Washington,Ward 1,Court of Appeals Judge,,,No,132,30,102
+Washington,Ward 2,Court of Appeals Judge,,,No,175,72,103
+Washington,Ward 3,Court of Appeals Judge,,,No,146,35,111
+Washington,Ward 4,Court of Appeals Judge,,,No,192,72,120
+Washington,Wellman,Court of Appeals Judge,,,No,234,107,127
+Washington,West Chester,Court of Appeals Judge,,,No,143,64,79
+Washington,Ainsworth,District 8A Judge,,,Yes,682,294,388
+Washington,Brighton/Marion/Crawford,District 8A Judge,,,Yes,592,273,319
+Washington,Kalona,District 8A Judge,,,Yes,735,345,390
+Washington,Riverside,District 8A Judge,,,Yes,413,242,171
+Washington,Ward 1,District 8A Judge,,,Yes,475,137,338
+Washington,Ward 2,District 8A Judge,,,Yes,620,201,419
+Washington,Ward 3,District 8A Judge,,,Yes,651,171,480
+Washington,Ward 4,District 8A Judge,,,Yes,708,203,505
+Washington,Wellman,District 8A Judge,,,Yes,749,353,396
+Washington,West Chester,District 8A Judge,,,Yes,371,186,185
+Washington,Ainsworth,District 8A Judge,,,No,212,109,103
+Washington,Brighton/Marion/Crawford,District 8A Judge,,,No,168,83,85
+Washington,Kalona,District 8A Judge,,,No,221,97,124
+Washington,Riverside,District 8A Judge,,,No,126,58,68
+Washington,Ward 1,District 8A Judge,,,No,140,32,108
+Washington,Ward 2,District 8A Judge,,,No,156,61,95
+Washington,Ward 3,District 8A Judge,,,No,147,33,114
+Washington,Ward 4,District 8A Judge,,,No,186,66,120
+Washington,Wellman,District 8A Judge,,,No,250,120,130
+Washington,West Chester,District 8A Judge,,,No,128,57,71
+Washington,Ainsworth,District 8A Associate Judge,,,Yes,692,288,404
+Washington,Brighton/Marion/Crawford,District 8A Associate Judge,,,Yes,606,274,332
+Washington,Kalona,District 8A Associate Judge,,,Yes,754,344,410
+Washington,Riverside,District 8A Associate Judge,,,Yes,429,244,185
+Washington,Ward 1,District 8A Associate Judge,,,Yes,486,134,352
+Washington,Ward 2,District 8A Associate Judge,,,Yes,629,204,425
+Washington,Ward 3,District 8A Associate Judge,,,Yes,665,171,494
+Washington,Ward 4,District 8A Associate Judge,,,Yes,707,196,511
+Washington,Wellman,District 8A Associate Judge,,,Yes,766,359,407
+Washington,West Chester,District 8A Associate Judge,,,Yes,373,182,191
+Washington,Ainsworth,District 8A Associate Judge,,,No,213,120,93
+Washington,Brighton/Marion/Crawford,District 8A Associate Judge,,,No,161,84,77
+Washington,Kalona,District 8A Associate Judge,,,No,211,101,110
+Washington,Riverside,District 8A Associate Judge,,,No,119,55,64
+Washington,Ward 1,District 8A Associate Judge,,,No,128,35,93
+Washington,Ward 2,District 8A Associate Judge,,,No,152,61,91
+Washington,Ward 3,District 8A Associate Judge,,,No,134,36,98
+Washington,Ward 4,District 8A Associate Judge,,,No,191,74,117
+Washington,Wellman,District 8A Associate Judge,,,No,236,117,119
+Washington,West Chester,District 8A Associate Judge,,,No,127,60,67
+Washington,Ainsworth,Question 1 and propose amendment or amendments to same?,,,Yes,219,106,113
+Washington,Brighton/Marion/Crawford,Question 1 and propose amendment or amendments to same?,,,Yes,178,75,103
+Washington,Kalona,Question 1 and propose amendment or amendments to same?,,,Yes,284,108,176
+Washington,Riverside,Question 1 and propose amendment or amendments to same?,,,Yes,206,114,92
+Washington,Ward 1,Question 1 and propose amendment or amendments to same?,,,Yes,196,60,136
+Washington,Ward 2,Question 1 and propose amendment or amendments to same?,,,Yes,232,74,158
+Washington,Ward 3,Question 1 and propose amendment or amendments to same?,,,Yes,246,64,182
+Washington,Ward 4,Question 1 and propose amendment or amendments to same?,,,Yes,259,74,185
+Washington,Wellman,Question 1 and propose amendment or amendments to same?,,,Yes,299,131,168
+Washington,West Chester,Question 1 and propose amendment or amendments to same?,,,Yes,108,52,56
+Washington,Ainsworth,Question 1 and propose amendment or amendments to same?,,,No,908,405,503
+Washington,Brighton/Marion/Crawford,Question 1 and propose amendment or amendments to same?,,,No,744,347,397
+Washington,Kalona,Question 1 and propose amendment or amendments to same?,,,No,956,450,506
+Washington,Riverside,Question 1 and propose amendment or amendments to same?,,,No,504,264,240
+Washington,Ward 1,Question 1 and propose amendment or amendments to same?,,,No,555,143,412
+Washington,Ward 2,Question 1 and propose amendment or amendments to same?,,,No,711,245,466
+Washington,Ward 3,Question 1 and propose amendment or amendments to same?,,,No,695,174,521
+Washington,Ward 4,Question 1 and propose amendment or amendments to same?,,,No,819,231,588
+Washington,Wellman,Question 1 and propose amendment or amendments to same?,,,No,985,461,524
+Washington,West Chester,Question 1 and propose amendment or amendments to same?,,,No,504,238,266
+Washington,Brighton/Marion/Crawford,Public Measure A,,,Yes,45,32,13
+Washington,Brighton/Marion/Crawford,Public Measure A,,,No,48,26,22
+Washington,West Chester,Public Measure B,,,Yes,42,16,26
+Washington,West Chester,Public Measure B,,,No,65,22,43
