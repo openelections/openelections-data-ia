@@ -1,0 +1,859 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Carroll,ARCADIA,U.S. Senate,,REP,Chuck Grassley,224,29,195
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,U.S. Senate,,REP,Chuck Grassley,770,256,514
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,U.S. Senate,,REP,Chuck Grassley,733,213,520
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,U.S. Senate,,REP,Chuck Grassley,589,200,389
+Carroll,CARROLL WARD FOUR,U.S. Senate,,REP,Chuck Grassley,482,184,298
+Carroll,EDEN,U.S. Senate,,REP,Chuck Grassley,217,24,193
+Carroll,EWOLDT,U.S. Senate,,REP,Chuck Grassley,477,86,391
+Carroll,GLIDDEN-RICHLAND,U.S. Senate,,REP,Chuck Grassley,465,74,391
+Carroll,PLEASANT VALLEY-NEWTON,U.S. Senate,,REP,Chuck Grassley,289,45,244
+Carroll,SHERIDAN-GRANT-JASPER,U.S. Senate,,REP,Chuck Grassley,358,73,285
+Carroll,UNION,U.S. Senate,,REP,Chuck Grassley,433,56,377
+Carroll,WASHINGTON-ROSELLE,U.S. Senate,,REP,Chuck Grassley,325,55,270
+Carroll,WHEATLAND-KNIEST,U.S. Senate,,REP,Chuck Grassley,411,59,352
+Carroll,ARCADIA,U.S. Senate,,DEM,Michael Franken,83,29,54
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,U.S. Senate,,DEM,Michael Franken,339,157,182
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,U.S. Senate,,DEM,Michael Franken,394,202,192
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,U.S. Senate,,DEM,Michael Franken,325,193,132
+Carroll,CARROLL WARD FOUR,U.S. Senate,,DEM,Michael Franken,254,148,106
+Carroll,EDEN,U.S. Senate,,DEM,Michael Franken,59,23,36
+Carroll,EWOLDT,U.S. Senate,,DEM,Michael Franken,204,79,125
+Carroll,GLIDDEN-RICHLAND,U.S. Senate,,DEM,Michael Franken,176,69,107
+Carroll,PLEASANT VALLEY-NEWTON,U.S. Senate,,DEM,Michael Franken,61,23,38
+Carroll,SHERIDAN-GRANT-JASPER,U.S. Senate,,DEM,Michael Franken,110,50,60
+Carroll,UNION,U.S. Senate,,DEM,Michael Franken,163,55,108
+Carroll,WASHINGTON-ROSELLE,U.S. Senate,,DEM,Michael Franken,71,31,40
+Carroll,WHEATLAND-KNIEST,U.S. Senate,,DEM,Michael Franken,88,26,62
+Carroll,ARCADIA,U.S. Senate,,,Write-in,0,0,0
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,U.S. Senate,,,Write-in,1,0,1
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,U.S. Senate,,,Write-in,2,1,1
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,U.S. Senate,,,Write-in,1,0,1
+Carroll,CARROLL WARD FOUR,U.S. Senate,,,Write-in,0,0,0
+Carroll,EDEN,U.S. Senate,,,Write-in,2,0,2
+Carroll,EWOLDT,U.S. Senate,,,Write-in,1,0,1
+Carroll,GLIDDEN-RICHLAND,U.S. Senate,,,Write-in,2,1,1
+Carroll,PLEASANT VALLEY-NEWTON,U.S. Senate,,,Write-in,1,0,1
+Carroll,SHERIDAN-GRANT-JASPER,U.S. Senate,,,Write-in,0,0,0
+Carroll,UNION,U.S. Senate,,,Write-in,0,0,0
+Carroll,WASHINGTON-ROSELLE,U.S. Senate,,,Write-in,0,0,0
+Carroll,WHEATLAND-KNIEST,U.S. Senate,,,Write-in,0,0,0
+Carroll,ARCADIA,U.S. House,4,REP,Randy Feenstra,231,33,198
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,U.S. House,4,REP,Randy Feenstra,793,267,526
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,U.S. House,4,REP,Randy Feenstra,757,221,536
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,U.S. House,4,REP,Randy Feenstra,614,223,391
+Carroll,CARROLL WARD FOUR,U.S. House,4,REP,Randy Feenstra,481,182,299
+Carroll,EDEN,U.S. House,4,REP,Randy Feenstra,215,22,193
+Carroll,EWOLDT,U.S. House,4,REP,Randy Feenstra,481,85,396
+Carroll,GLIDDEN-RICHLAND,U.S. House,4,REP,Randy Feenstra,468,77,391
+Carroll,PLEASANT VALLEY-NEWTON,U.S. House,4,REP,Randy Feenstra,284,47,237
+Carroll,SHERIDAN-GRANT-JASPER,U.S. House,4,REP,Randy Feenstra,355,75,280
+Carroll,UNION,U.S. House,4,REP,Randy Feenstra,444,56,388
+Carroll,WASHINGTON-ROSELLE,U.S. House,4,REP,Randy Feenstra,312,53,259
+Carroll,WHEATLAND-KNIEST,U.S. House,4,REP,Randy Feenstra,394,53,341
+Carroll,ARCADIA,U.S. House,4,DEM,Ryan Melton,65,24,41
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,U.S. House,4,DEM,Ryan Melton,260,124,136
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,U.S. House,4,DEM,Ryan Melton,315,169,146
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,U.S. House,4,DEM,Ryan Melton,244,151,93
+Carroll,CARROLL WARD FOUR,U.S. House,4,DEM,Ryan Melton,210,124,86
+Carroll,EDEN,U.S. House,4,DEM,Ryan Melton,50,24,26
+Carroll,EWOLDT,U.S. House,4,DEM,Ryan Melton,169,70,99
+Carroll,GLIDDEN-RICHLAND,U.S. House,4,DEM,Ryan Melton,145,63,82
+Carroll,PLEASANT VALLEY-NEWTON,U.S. House,4,DEM,Ryan Melton,52,19,33
+Carroll,SHERIDAN-GRANT-JASPER,U.S. House,4,DEM,Ryan Melton,88,39,49
+Carroll,UNION,U.S. House,4,DEM,Ryan Melton,138,52,86
+Carroll,WASHINGTON-ROSELLE,U.S. House,4,DEM,Ryan Melton,59,28,31
+Carroll,WHEATLAND-KNIEST,U.S. House,4,DEM,Ryan Melton,76,28,48
+Carroll,ARCADIA,U.S. House,4,LBC,Bryan Jack Holder,6,0,6
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,U.S. House,4,LBC,Bryan Jack Holder,16,6,10
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,U.S. House,4,LBC,Bryan Jack Holder,25,10,15
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,U.S. House,4,LBC,Bryan Jack Holder,22,6,16
+Carroll,CARROLL WARD FOUR,U.S. House,4,LBC,Bryan Jack Holder,11,4,7
+Carroll,EDEN,U.S. House,4,LBC,Bryan Jack Holder,3,0,3
+Carroll,EWOLDT,U.S. House,4,LBC,Bryan Jack Holder,12,2,10
+Carroll,GLIDDEN-RICHLAND,U.S. House,4,LBC,Bryan Jack Holder,16,3,13
+Carroll,PLEASANT VALLEY-NEWTON,U.S. House,4,LBC,Bryan Jack Holder,7,2,5
+Carroll,SHERIDAN-GRANT-JASPER,U.S. House,4,LBC,Bryan Jack Holder,8,5,3
+Carroll,UNION,U.S. House,4,LBC,Bryan Jack Holder,9,2,7
+Carroll,WASHINGTON-ROSELLE,U.S. House,4,LBC,Bryan Jack Holder,5,2,3
+Carroll,WHEATLAND-KNIEST,U.S. House,4,LBC,Bryan Jack Holder,10,1,9
+Carroll,ARCADIA,U.S. House,4,,Write-in,0,0,0
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,U.S. House,4,,Write-in,2,0,2
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,U.S. House,4,,Write-in,0,0,0
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,U.S. House,4,,Write-in,1,0,1
+Carroll,CARROLL WARD FOUR,U.S. House,4,,Write-in,1,0,1
+Carroll,EDEN,U.S. House,4,,Write-in,1,0,1
+Carroll,EWOLDT,U.S. House,4,,Write-in,0,0,0
+Carroll,GLIDDEN-RICHLAND,U.S. House,4,,Write-in,2,1,1
+Carroll,PLEASANT VALLEY-NEWTON,U.S. House,4,,Write-in,2,0,2
+Carroll,SHERIDAN-GRANT-JASPER,U.S. House,4,,Write-in,0,0,0
+Carroll,UNION,U.S. House,4,,Write-in,1,0,1
+Carroll,WASHINGTON-ROSELLE,U.S. House,4,,Write-in,0,0,0
+Carroll,WHEATLAND-KNIEST,U.S. House,4,,Write-in,0,0,0
+Carroll,ARCADIA,Governor,,REP,Kim Reynolds and Adam Gregg,239,34,205
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Governor,,REP,Kim Reynolds and Adam Gregg,850,296,554
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Governor,,REP,Kim Reynolds and Adam Gregg,806,244,562
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Governor,,REP,Kim Reynolds and Adam Gregg,654,237,417
+Carroll,CARROLL WARD FOUR,Governor,,REP,Kim Reynolds and Adam Gregg,527,213,314
+Carroll,EDEN,Governor,,REP,Kim Reynolds and Adam Gregg,235,28,207
+Carroll,EWOLDT,Governor,,REP,Kim Reynolds and Adam Gregg,522,96,426
+Carroll,GLIDDEN-RICHLAND,Governor,,REP,Kim Reynolds and Adam Gregg,491,84,407
+Carroll,PLEASANT VALLEY-NEWTON,Governor,,REP,Kim Reynolds and Adam Gregg,305,54,251
+Carroll,SHERIDAN-GRANT-JASPER,Governor,,REP,Kim Reynolds and Adam Gregg,376,81,295
+Carroll,UNION,Governor,,REP,Kim Reynolds and Adam Gregg,463,62,401
+Carroll,WASHINGTON-ROSELLE,Governor,,REP,Kim Reynolds and Adam Gregg,354,62,292
+Carroll,WHEATLAND-KNIEST,Governor,,REP,Kim Reynolds and Adam Gregg,439,66,373
+Carroll,ARCADIA,Governor,,DEM,Deidre DeJear and Eric Van Lancker,65,25,40
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Governor,,DEM,Deidre DeJear and Eric Van Lancker,266,124,142
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Governor,,DEM,Deidre DeJear and Eric Van Lancker,318,170,148
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Governor,,DEM,Deidre DeJear and Eric Van Lancker,253,158,95
+Carroll,CARROLL WARD FOUR,Governor,,DEM,Deidre DeJear and Eric Van Lancker,214,123,91
+Carroll,EDEN,Governor,,DEM,Deidre DeJear and Eric Van Lancker,44,18,26
+Carroll,EWOLDT,Governor,,DEM,Deidre DeJear and Eric Van Lancker,158,67,91
+Carroll,GLIDDEN-RICHLAND,Governor,,DEM,Deidre DeJear and Eric Van Lancker,142,58,84
+Carroll,PLEASANT VALLEY-NEWTON,Governor,,DEM,Deidre DeJear and Eric Van Lancker,54,21,33
+Carroll,SHERIDAN-GRANT-JASPER,Governor,,DEM,Deidre DeJear and Eric Van Lancker,90,40,50
+Carroll,UNION,Governor,,DEM,Deidre DeJear and Eric Van Lancker,137,49,88
+Carroll,WASHINGTON-ROSELLE,Governor,,DEM,Deidre DeJear and Eric Van Lancker,50,26,24
+Carroll,WHEATLAND-KNIEST,Governor,,DEM,Deidre DeJear and Eric Van Lancker,63,22,41
+Carroll,ARCADIA,Governor,,LIB,Rick Stewart and Marco Battaglia,4,0,4
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Governor,,LIB,Rick Stewart and Marco Battaglia,13,4,9
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Governor,,LIB,Rick Stewart and Marco Battaglia,20,6,14
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Governor,,LIB,Rick Stewart and Marco Battaglia,24,11,13
+Carroll,CARROLL WARD FOUR,Governor,,LIB,Rick Stewart and Marco Battaglia,9,1,8
+Carroll,EDEN,Governor,,LIB,Rick Stewart and Marco Battaglia,1,1,0
+Carroll,EWOLDT,Governor,,LIB,Rick Stewart and Marco Battaglia,17,5,12
+Carroll,GLIDDEN-RICHLAND,Governor,,LIB,Rick Stewart and Marco Battaglia,15,4,11
+Carroll,PLEASANT VALLEY-NEWTON,Governor,,LIB,Rick Stewart and Marco Battaglia,1,0,1
+Carroll,SHERIDAN-GRANT-JASPER,Governor,,LIB,Rick Stewart and Marco Battaglia,11,2,9
+Carroll,UNION,Governor,,LIB,Rick Stewart and Marco Battaglia,11,2,9
+Carroll,WASHINGTON-ROSELLE,Governor,,LIB,Rick Stewart and Marco Battaglia,2,1,1
+Carroll,WHEATLAND-KNIEST,Governor,,LIB,Rick Stewart and Marco Battaglia,7,1,6
+Carroll,ARCADIA,Governor,,,Write-in,0,0,0
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Governor,,,Write-in,0,0,0
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Governor,,,Write-in,0,0,0
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Governor,,,Write-in,1,0,1
+Carroll,CARROLL WARD FOUR,Governor,,,Write-in,0,0,0
+Carroll,EDEN,Governor,,,Write-in,0,0,0
+Carroll,EWOLDT,Governor,,,Write-in,0,0,0
+Carroll,GLIDDEN-RICHLAND,Governor,,,Write-in,1,0,1
+Carroll,PLEASANT VALLEY-NEWTON,Governor,,,Write-in,0,0,0
+Carroll,SHERIDAN-GRANT-JASPER,Governor,,,Write-in,0,0,0
+Carroll,UNION,Governor,,,Write-in,0,0,0
+Carroll,WASHINGTON-ROSELLE,Governor,,,Write-in,0,0,0
+Carroll,WHEATLAND-KNIEST,Governor,,,Write-in,0,0,0
+Carroll,ARCADIA,Secretary of State,,REP,Paul D. Pate,246,38,208
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Secretary of State,,REP,Paul D. Pate,821,292,529
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Secretary of State,,REP,Paul D. Pate,784,239,545
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Secretary of State,,REP,Paul D. Pate,656,251,405
+Carroll,CARROLL WARD FOUR,Secretary of State,,REP,Paul D. Pate,507,198,309
+Carroll,EDEN,Secretary of State,,REP,Paul D. Pate,224,25,199
+Carroll,EWOLDT,Secretary of State,,REP,Paul D. Pate,496,97,399
+Carroll,GLIDDEN-RICHLAND,Secretary of State,,REP,Paul D. Pate,495,86,409
+Carroll,PLEASANT VALLEY-NEWTON,Secretary of State,,REP,Paul D. Pate,294,53,241
+Carroll,SHERIDAN-GRANT-JASPER,Secretary of State,,REP,Paul D. Pate,360,74,286
+Carroll,UNION,Secretary of State,,REP,Paul D. Pate,450,63,387
+Carroll,WASHINGTON-ROSELLE,Secretary of State,,REP,Paul D. Pate,321,48,273
+Carroll,WHEATLAND-KNIEST,Secretary of State,,REP,Paul D. Pate,406,60,346
+Carroll,ARCADIA,Secretary of State,,DEM,Joel Miller,59,21,38
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Secretary of State,,DEM,Joel Miller,269,120,149
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Secretary of State,,DEM,Joel Miller,331,176,155
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Secretary of State,,DEM,Joel Miller,249,149,100
+Carroll,CARROLL WARD FOUR,Secretary of State,,DEM,Joel Miller,219,129,90
+Carroll,EDEN,Secretary of State,,DEM,Joel Miller,42,20,22
+Carroll,EWOLDT,Secretary of State,,DEM,Joel Miller,176,66,110
+Carroll,GLIDDEN-RICHLAND,Secretary of State,,DEM,Joel Miller,142,59,83
+Carroll,PLEASANT VALLEY-NEWTON,Secretary of State,,DEM,Joel Miller,54,19,35
+Carroll,SHERIDAN-GRANT-JASPER,Secretary of State,,DEM,Joel Miller,99,43,56
+Carroll,UNION,Secretary of State,,DEM,Joel Miller,145,49,96
+Carroll,WASHINGTON-ROSELLE,Secretary of State,,DEM,Joel Miller,66,33,33
+Carroll,WHEATLAND-KNIEST,Secretary of State,,DEM,Joel Miller,75,24,51
+Carroll,ARCADIA,Secretary of State,,,Write-in,0,0,0
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Secretary of State,,,Write-in,0,0,0
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Secretary of State,,,Write-in,0,0,0
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Secretary of State,,,Write-in,1,0,1
+Carroll,CARROLL WARD FOUR,Secretary of State,,,Write-in,1,0,1
+Carroll,EDEN,Secretary of State,,,Write-in,0,0,0
+Carroll,EWOLDT,Secretary of State,,,Write-in,0,0,0
+Carroll,GLIDDEN-RICHLAND,Secretary of State,,,Write-in,1,0,1
+Carroll,PLEASANT VALLEY-NEWTON,Secretary of State,,,Write-in,0,0,0
+Carroll,SHERIDAN-GRANT-JASPER,Secretary of State,,,Write-in,0,0,0
+Carroll,UNION,Secretary of State,,,Write-in,0,0,0
+Carroll,WASHINGTON-ROSELLE,Secretary of State,,,Write-in,0,0,0
+Carroll,WHEATLAND-KNIEST,Secretary of State,,,Write-in,0,0,0
+Carroll,ARCADIA,Auditor of State,,REP,Todd Halbur,204,29,175
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Auditor of State,,REP,Todd Halbur,675,228,447
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Auditor of State,,REP,Todd Halbur,622,188,434
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Auditor of State,,REP,Todd Halbur,507,175,332
+Carroll,CARROLL WARD FOUR,Auditor of State,,REP,Todd Halbur,413,150,263
+Carroll,EDEN,Auditor of State,,REP,Todd Halbur,183,19,164
+Carroll,EWOLDT,Auditor of State,,REP,Todd Halbur,418,82,336
+Carroll,GLIDDEN-RICHLAND,Auditor of State,,REP,Todd Halbur,404,72,332
+Carroll,PLEASANT VALLEY-NEWTON,Auditor of State,,REP,Todd Halbur,248,42,206
+Carroll,SHERIDAN-GRANT-JASPER,Auditor of State,,REP,Todd Halbur,279,62,217
+Carroll,UNION,Auditor of State,,REP,Todd Halbur,361,52,309
+Carroll,WASHINGTON-ROSELLE,Auditor of State,,REP,Todd Halbur,246,35,211
+Carroll,WHEATLAND-KNIEST,Auditor of State,,REP,Todd Halbur,331,40,291
+Carroll,ARCADIA,Auditor of State,,DEM,Rob Sand,96,30,66
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Auditor of State,,DEM,Rob Sand,423,184,239
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Auditor of State,,DEM,Rob Sand,500,230,270
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Auditor of State,,DEM,Rob Sand,409,230,179
+Carroll,CARROLL WARD FOUR,Auditor of State,,DEM,Rob Sand,307,177,130
+Carroll,EDEN,Auditor of State,,DEM,Rob Sand,82,26,56
+Carroll,EWOLDT,Auditor of State,,DEM,Rob Sand,255,83,172
+Carroll,GLIDDEN-RICHLAND,Auditor of State,,DEM,Rob Sand,231,73,158
+Carroll,PLEASANT VALLEY-NEWTON,Auditor of State,,DEM,Rob Sand,100,30,70
+Carroll,SHERIDAN-GRANT-JASPER,Auditor of State,,DEM,Rob Sand,183,58,125
+Carroll,UNION,Auditor of State,,DEM,Rob Sand,231,59,172
+Carroll,WASHINGTON-ROSELLE,Auditor of State,,DEM,Rob Sand,140,47,93
+Carroll,WHEATLAND-KNIEST,Auditor of State,,DEM,Rob Sand,148,40,108
+Carroll,ARCADIA,Auditor of State,,,Write-in,0,0,0
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Auditor of State,,,Write-in,0,0,0
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Auditor of State,,,Write-in,1,0,1
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Auditor of State,,,Write-in,1,0,1
+Carroll,CARROLL WARD FOUR,Auditor of State,,,Write-in,1,1,0
+Carroll,EDEN,Auditor of State,,,Write-in,0,0,0
+Carroll,EWOLDT,Auditor of State,,,Write-in,1,0,1
+Carroll,GLIDDEN-RICHLAND,Auditor of State,,,Write-in,1,0,1
+Carroll,PLEASANT VALLEY-NEWTON,Auditor of State,,,Write-in,0,0,0
+Carroll,SHERIDAN-GRANT-JASPER,Auditor of State,,,Write-in,0,0,0
+Carroll,UNION,Auditor of State,,,Write-in,0,0,0
+Carroll,WASHINGTON-ROSELLE,Auditor of State,,,Write-in,1,0,1
+Carroll,WHEATLAND-KNIEST,Auditor of State,,,Write-in,0,0,0
+Carroll,ARCADIA,Treasurer of State,,REP,Roby Smith,201,24,177
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Treasurer of State,,REP,Roby Smith,640,206,434
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Treasurer of State,,REP,Roby Smith,629,177,452
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Treasurer of State,,REP,Roby Smith,500,172,328
+Carroll,CARROLL WARD FOUR,Treasurer of State,,REP,Roby Smith,407,147,260
+Carroll,EDEN,Treasurer of State,,REP,Roby Smith,194,21,173
+Carroll,EWOLDT,Treasurer of State,,REP,Roby Smith,412,74,338
+Carroll,GLIDDEN-RICHLAND,Treasurer of State,,REP,Roby Smith,409,71,338
+Carroll,PLEASANT VALLEY-NEWTON,Treasurer of State,,REP,Roby Smith,249,45,204
+Carroll,SHERIDAN-GRANT-JASPER,Treasurer of State,,REP,Roby Smith,302,66,236
+Carroll,UNION,Treasurer of State,,REP,Roby Smith,367,46,321
+Carroll,WASHINGTON-ROSELLE,Treasurer of State,,REP,Roby Smith,250,33,217
+Carroll,WHEATLAND-KNIEST,Treasurer of State,,REP,Roby Smith,322,37,285
+Carroll,ARCADIA,Treasurer of State,,DEM,Michael L. Fitzgerald,102,35,67
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Treasurer of State,,DEM,Michael L. Fitzgerald,434,194,240
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Treasurer of State,,DEM,Michael L. Fitzgerald,479,236,243
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Treasurer of State,,DEM,Michael L. Fitzgerald,403,227,176
+Carroll,CARROLL WARD FOUR,Treasurer of State,,DEM,Michael L. Fitzgerald,308,174,134
+Carroll,EDEN,Treasurer of State,,DEM,Michael L. Fitzgerald,76,25,51
+Carroll,EWOLDT,Treasurer of State,,DEM,Michael L. Fitzgerald,254,89,165
+Carroll,GLIDDEN-RICHLAND,Treasurer of State,,DEM,Michael L. Fitzgerald,219,72,147
+Carroll,PLEASANT VALLEY-NEWTON,Treasurer of State,,DEM,Michael L. Fitzgerald,97,28,69
+Carroll,SHERIDAN-GRANT-JASPER,Treasurer of State,,DEM,Michael L. Fitzgerald,149,52,97
+Carroll,UNION,Treasurer of State,,DEM,Michael L. Fitzgerald,212,64,148
+Carroll,WASHINGTON-ROSELLE,Treasurer of State,,DEM,Michael L. Fitzgerald,132,49,83
+Carroll,WHEATLAND-KNIEST,Treasurer of State,,DEM,Michael L. Fitzgerald,157,43,114
+Carroll,ARCADIA,Treasurer of State,,,Write-in,0,0,0
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Treasurer of State,,,Write-in,0,0,0
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Treasurer of State,,,Write-in,0,0,0
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Treasurer of State,,,Write-in,0,0,0
+Carroll,CARROLL WARD FOUR,Treasurer of State,,,Write-in,0,0,0
+Carroll,EDEN,Treasurer of State,,,Write-in,0,0,0
+Carroll,EWOLDT,Treasurer of State,,,Write-in,0,0,0
+Carroll,GLIDDEN-RICHLAND,Treasurer of State,,,Write-in,0,0,0
+Carroll,PLEASANT VALLEY-NEWTON,Treasurer of State,,,Write-in,0,0,0
+Carroll,SHERIDAN-GRANT-JASPER,Treasurer of State,,,Write-in,0,0,0
+Carroll,UNION,Treasurer of State,,,Write-in,0,0,0
+Carroll,WASHINGTON-ROSELLE,Treasurer of State,,,Write-in,0,0,0
+Carroll,WHEATLAND-KNIEST,Treasurer of State,,,Write-in,0,0,0
+Carroll,ARCADIA,Secretary of Agriculture,,REP,Mike Naig,242,36,206
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Secretary of Agriculture,,REP,Mike Naig,823,282,541
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Secretary of Agriculture,,REP,Mike Naig,775,231,544
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Secretary of Agriculture,,REP,Mike Naig,654,243,411
+Carroll,CARROLL WARD FOUR,Secretary of Agriculture,,REP,Mike Naig,497,198,299
+Carroll,EDEN,Secretary of Agriculture,,REP,Mike Naig,223,27,196
+Carroll,EWOLDT,Secretary of Agriculture,,REP,Mike Naig,517,96,421
+Carroll,GLIDDEN-RICHLAND,Secretary of Agriculture,,REP,Mike Naig,487,83,404
+Carroll,PLEASANT VALLEY-NEWTON,Secretary of Agriculture,,REP,Mike Naig,300,51,249
+Carroll,SHERIDAN-GRANT-JASPER,Secretary of Agriculture,,REP,Mike Naig,368,79,289
+Carroll,UNION,Secretary of Agriculture,,REP,Mike Naig,460,58,402
+Carroll,WASHINGTON-ROSELLE,Secretary of Agriculture,,REP,Mike Naig,332,53,279
+Carroll,WHEATLAND-KNIEST,Secretary of Agriculture,,REP,Mike Naig,426,63,363
+Carroll,ARCADIA,Secretary of Agriculture,,DEM,John Norwood,58,21,37
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Secretary of Agriculture,,DEM,John Norwood,267,130,137
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Secretary of Agriculture,,DEM,John Norwood,319,175,144
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Secretary of Agriculture,,DEM,John Norwood,251,156,95
+Carroll,CARROLL WARD FOUR,Secretary of Agriculture,,DEM,John Norwood,227,130,97
+Carroll,EDEN,Secretary of Agriculture,,DEM,John Norwood,44,18,26
+Carroll,EWOLDT,Secretary of Agriculture,,DEM,John Norwood,150,65,85
+Carroll,GLIDDEN-RICHLAND,Secretary of Agriculture,,DEM,John Norwood,138,62,76
+Carroll,PLEASANT VALLEY-NEWTON,Secretary of Agriculture,,DEM,John Norwood,51,22,29
+Carroll,SHERIDAN-GRANT-JASPER,Secretary of Agriculture,,DEM,John Norwood,92,39,53
+Carroll,UNION,Secretary of Agriculture,,DEM,John Norwood,131,53,78
+Carroll,WASHINGTON-ROSELLE,Secretary of Agriculture,,DEM,John Norwood,56,30,26
+Carroll,WHEATLAND-KNIEST,Secretary of Agriculture,,DEM,John Norwood,62,22,40
+Carroll,ARCADIA,Secretary of Agriculture,,,Write-in,0,0,0
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Secretary of Agriculture,,,Write-in,0,0,0
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Secretary of Agriculture,,,Write-in,2,2,0
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Secretary of Agriculture,,,Write-in,1,0,1
+Carroll,CARROLL WARD FOUR,Secretary of Agriculture,,,Write-in,2,0,2
+Carroll,EDEN,Secretary of Agriculture,,,Write-in,0,0,0
+Carroll,EWOLDT,Secretary of Agriculture,,,Write-in,0,0,0
+Carroll,GLIDDEN-RICHLAND,Secretary of Agriculture,,,Write-in,1,0,1
+Carroll,PLEASANT VALLEY-NEWTON,Secretary of Agriculture,,,Write-in,0,0,0
+Carroll,SHERIDAN-GRANT-JASPER,Secretary of Agriculture,,,Write-in,0,0,0
+Carroll,UNION,Secretary of Agriculture,,,Write-in,0,0,0
+Carroll,WASHINGTON-ROSELLE,Secretary of Agriculture,,,Write-in,0,0,0
+Carroll,WHEATLAND-KNIEST,Secretary of Agriculture,,,Write-in,0,0,0
+Carroll,ARCADIA,Attorney General,,REP,Brenna Bird,199,21,178
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Attorney General,,REP,Brenna Bird,664,216,448
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Attorney General,,REP,Brenna Bird,604,171,433
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Attorney General,,REP,Brenna Bird,512,169,343
+Carroll,CARROLL WARD FOUR,Attorney General,,REP,Brenna Bird,409,133,276
+Carroll,EDEN,Attorney General,,REP,Brenna Bird,192,20,172
+Carroll,EWOLDT,Attorney General,,REP,Brenna Bird,417,64,353
+Carroll,GLIDDEN-RICHLAND,Attorney General,,REP,Brenna Bird,410,68,342
+Carroll,PLEASANT VALLEY-NEWTON,Attorney General,,REP,Brenna Bird,249,40,209
+Carroll,SHERIDAN-GRANT-JASPER,Attorney General,,REP,Brenna Bird,320,64,256
+Carroll,UNION,Attorney General,,REP,Brenna Bird,374,44,330
+Carroll,WASHINGTON-ROSELLE,Attorney General,,REP,Brenna Bird,250,30,220
+Carroll,WHEATLAND-KNIEST,Attorney General,,REP,Brenna Bird,348,41,307
+Carroll,ARCADIA,Attorney General,,DEM,Tom Miller,101,35,66
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Attorney General,,DEM,Tom Miller,423,190,233
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Attorney General,,DEM,Tom Miller,508,247,261
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Attorney General,,DEM,Tom Miller,392,233,159
+Carroll,CARROLL WARD FOUR,Attorney General,,DEM,Tom Miller,309,188,121
+Carroll,EDEN,Attorney General,,DEM,Tom Miller,75,27,48
+Carroll,EWOLDT,Attorney General,,DEM,Tom Miller,255,97,158
+Carroll,GLIDDEN-RICHLAND,Attorney General,,DEM,Tom Miller,229,78,151
+Carroll,PLEASANT VALLEY-NEWTON,Attorney General,,DEM,Tom Miller,101,31,70
+Carroll,SHERIDAN-GRANT-JASPER,Attorney General,,DEM,Tom Miller,144,57,87
+Carroll,UNION,Attorney General,,DEM,Tom Miller,214,63,151
+Carroll,WASHINGTON-ROSELLE,Attorney General,,DEM,Tom Miller,135,53,82
+Carroll,WHEATLAND-KNIEST,Attorney General,,DEM,Tom Miller,144,43,101
+Carroll,ARCADIA,Attorney General,,,Write-in,0,0,0
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Attorney General,,,Write-in,0,0,0
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Attorney General,,,Write-in,3,3,0
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Attorney General,,,Write-in,1,1,0
+Carroll,CARROLL WARD FOUR,Attorney General,,,Write-in,0,0,0
+Carroll,EDEN,Attorney General,,,Write-in,0,0,0
+Carroll,EWOLDT,Attorney General,,,Write-in,0,0,0
+Carroll,GLIDDEN-RICHLAND,Attorney General,,,Write-in,2,0,2
+Carroll,PLEASANT VALLEY-NEWTON,Attorney General,,,Write-in,0,0,0
+Carroll,SHERIDAN-GRANT-JASPER,Attorney General,,,Write-in,0,0,0
+Carroll,UNION,Attorney General,,,Write-in,0,0,0
+Carroll,WASHINGTON-ROSELLE,Attorney General,,,Write-in,0,0,0
+Carroll,WHEATLAND-KNIEST,Attorney General,,,Write-in,1,0,1
+Carroll,ARCADIA,State Senate,6,REP,Jason Schultz,231,33,198
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,State Senate,6,REP,Jason Schultz,796,270,526
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,State Senate,6,REP,Jason Schultz,764,227,537
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,State Senate,6,REP,Jason Schultz,621,227,394
+Carroll,CARROLL WARD FOUR,State Senate,6,REP,Jason Schultz,503,200,303
+Carroll,EDEN,State Senate,6,REP,Jason Schultz,219,27,192
+Carroll,EWOLDT,State Senate,6,REP,Jason Schultz,513,101,412
+Carroll,GLIDDEN-RICHLAND,State Senate,6,REP,Jason Schultz,483,82,401
+Carroll,PLEASANT VALLEY-NEWTON,State Senate,6,REP,Jason Schultz,286,50,236
+Carroll,SHERIDAN-GRANT-JASPER,State Senate,6,REP,Jason Schultz,340,73,267
+Carroll,UNION,State Senate,6,REP,Jason Schultz,450,65,385
+Carroll,WASHINGTON-ROSELLE,State Senate,6,REP,Jason Schultz,299,47,252
+Carroll,WHEATLAND-KNIEST,State Senate,6,REP,Jason Schultz,400,54,346
+Carroll,ARCADIA,State Senate,6,LIB,David M. Davis,37,10,27
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,State Senate,6,LIB,David M. Davis,189,84,105
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,State Senate,6,LIB,David M. Davis,212,100,112
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,State Senate,6,LIB,David M. Davis,183,111,72
+Carroll,CARROLL WARD FOUR,State Senate,6,LIB,David M. Davis,135,71,64
+Carroll,EDEN,State Senate,6,LIB,David M. Davis,26,11,15
+Carroll,EWOLDT,State Senate,6,LIB,David M. Davis,108,39,69
+Carroll,GLIDDEN-RICHLAND,State Senate,6,LIB,David M. Davis,105,40,65
+Carroll,PLEASANT VALLEY-NEWTON,State Senate,6,LIB,David M. Davis,38,12,26
+Carroll,SHERIDAN-GRANT-JASPER,State Senate,6,LIB,David M. Davis,68,25,43
+Carroll,UNION,State Senate,6,LIB,David M. Davis,89,23,66
+Carroll,WASHINGTON-ROSELLE,State Senate,6,LIB,David M. Davis,49,23,26
+Carroll,WHEATLAND-KNIEST,State Senate,6,LIB,David M. Davis,47,12,35
+Carroll,ARCADIA,State Senate,6,,Write-in,0,0,0
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,State Senate,6,,Write-in,3,0,3
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,State Senate,6,,Write-in,6,3,3
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,State Senate,6,,Write-in,6,3,3
+Carroll,CARROLL WARD FOUR,State Senate,6,,Write-in,1,0,1
+Carroll,EDEN,State Senate,6,,Write-in,1,0,1
+Carroll,EWOLDT,State Senate,6,,Write-in,2,1,1
+Carroll,GLIDDEN-RICHLAND,State Senate,6,,Write-in,1,1,0
+Carroll,PLEASANT VALLEY-NEWTON,State Senate,6,,Write-in,1,1,0
+Carroll,SHERIDAN-GRANT-JASPER,State Senate,6,,Write-in,0,0,0
+Carroll,UNION,State Senate,6,,Write-in,3,0,3
+Carroll,WASHINGTON-ROSELLE,State Senate,6,,Write-in,0,0,0
+Carroll,WHEATLAND-KNIEST,State Senate,6,,Write-in,0,0,0
+Carroll,ARCADIA,State House,11,REP,Brian Best,259,41,218
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,State House,11,REP,Brian Best,953,344,609
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,State House,11,REP,Brian Best,920,309,611
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,State House,11,REP,Brian Best,749,285,464
+Carroll,CARROLL WARD FOUR,State House,11,REP,Brian Best,593,251,342
+Carroll,EDEN,State House,11,REP,Brian Best,244,33,211
+Carroll,EWOLDT,State House,11,REP,Brian Best,585,120,465
+Carroll,GLIDDEN-RICHLAND,State House,11,REP,Brian Best,566,106,460
+Carroll,PLEASANT VALLEY-NEWTON,State House,11,REP,Brian Best,316,59,257
+Carroll,SHERIDAN-GRANT-JASPER,State House,11,REP,Brian Best,400,89,311
+Carroll,UNION,State House,11,REP,Brian Best,517,72,445
+Carroll,WASHINGTON-ROSELLE,State House,11,REP,Brian Best,348,62,286
+Carroll,WHEATLAND-KNIEST,State House,11,REP,Brian Best,437,62,375
+Carroll,ARCADIA,State House,11,,Write-in,2,1,1
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,State House,11,,Write-in,15,6,9
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,State House,11,,Write-in,17,7,10
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,State House,11,,Write-in,15,7,8
+Carroll,CARROLL WARD FOUR,State House,11,,Write-in,8,3,5
+Carroll,EDEN,State House,11,,Write-in,1,0,1
+Carroll,EWOLDT,State House,11,,Write-in,10,3,7
+Carroll,GLIDDEN-RICHLAND,State House,11,,Write-in,9,5,4
+Carroll,PLEASANT VALLEY-NEWTON,State House,11,,Write-in,1,0,1
+Carroll,SHERIDAN-GRANT-JASPER,State House,11,,Write-in,4,0,4
+Carroll,UNION,State House,11,,Write-in,7,2,5
+Carroll,WASHINGTON-ROSELLE,State House,11,,Write-in,2,1,1
+Carroll,WHEATLAND-KNIEST,State House,11,,Write-in,4,0,4
+Carroll,ARCADIA,County Board of Supervisors District 2,,REP,Michael J. Andersen,237,30,207
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,County Board of Supervisors District 2,,REP,Michael J. Andersen,746,253,493
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,County Board of Supervisors District 2,,REP,Michael J. Andersen,700,196,504
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,County Board of Supervisors District 2,,REP,Michael J. Andersen,566,202,364
+Carroll,CARROLL WARD FOUR,County Board of Supervisors District 2,,REP,Michael J. Andersen,441,157,284
+Carroll,EDEN,County Board of Supervisors District 2,,REP,Michael J. Andersen,200,22,178
+Carroll,EWOLDT,County Board of Supervisors District 2,,REP,Michael J. Andersen,434,76,358
+Carroll,GLIDDEN-RICHLAND,County Board of Supervisors District 2,,REP,Michael J. Andersen,437,70,367
+Carroll,PLEASANT VALLEY-NEWTON,County Board of Supervisors District 2,,REP,Michael J. Andersen,268,40,228
+Carroll,SHERIDAN-GRANT-JASPER,County Board of Supervisors District 2,,REP,Michael J. Andersen,348,69,279
+Carroll,UNION,County Board of Supervisors District 2,,REP,Michael J. Andersen,413,55,358
+Carroll,WASHINGTON-ROSELLE,County Board of Supervisors District 2,,REP,Michael J. Andersen,283,48,235
+Carroll,WHEATLAND-KNIEST,County Board of Supervisors District 2,,REP,Michael J. Andersen,382,59,323
+Carroll,ARCADIA,County Board of Supervisors District 2,,DEM,Dean Schettler,68,28,40
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,County Board of Supervisors District 2,,DEM,Dean Schettler,358,158,200
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,County Board of Supervisors District 2,,DEM,Dean Schettler,415,220,195
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,County Board of Supervisors District 2,,DEM,Dean Schettler,343,196,147
+Carroll,CARROLL WARD FOUR,County Board of Supervisors District 2,,DEM,Dean Schettler,282,168,114
+Carroll,EDEN,County Board of Supervisors District 2,,DEM,Dean Schettler,67,22,45
+Carroll,EWOLDT,County Board of Supervisors District 2,,DEM,Dean Schettler,229,86,143
+Carroll,GLIDDEN-RICHLAND,County Board of Supervisors District 2,,DEM,Dean Schettler,189,74,115
+Carroll,PLEASANT VALLEY-NEWTON,County Board of Supervisors District 2,,DEM,Dean Schettler,80,29,51
+Carroll,SHERIDAN-GRANT-JASPER,County Board of Supervisors District 2,,DEM,Dean Schettler,112,47,65
+Carroll,UNION,County Board of Supervisors District 2,,DEM,Dean Schettler,177,56,121
+Carroll,WASHINGTON-ROSELLE,County Board of Supervisors District 2,,DEM,Dean Schettler,108,38,70
+Carroll,WHEATLAND-KNIEST,County Board of Supervisors District 2,,DEM,Dean Schettler,128,28,100
+Carroll,ARCADIA,County Board of Supervisors District 2,,,Write-in,0,0,0
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,County Board of Supervisors District 2,,,Write-in,0,0,0
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,County Board of Supervisors District 2,,,Write-in,1,0,1
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,County Board of Supervisors District 2,,,Write-in,0,0,0
+Carroll,CARROLL WARD FOUR,County Board of Supervisors District 2,,,Write-in,1,1,0
+Carroll,EDEN,County Board of Supervisors District 2,,,Write-in,0,0,0
+Carroll,EWOLDT,County Board of Supervisors District 2,,,Write-in,0,0,0
+Carroll,GLIDDEN-RICHLAND,County Board of Supervisors District 2,,,Write-in,1,0,1
+Carroll,PLEASANT VALLEY-NEWTON,County Board of Supervisors District 2,,,Write-in,0,0,0
+Carroll,SHERIDAN-GRANT-JASPER,County Board of Supervisors District 2,,,Write-in,2,2,0
+Carroll,UNION,County Board of Supervisors District 2,,,Write-in,0,0,0
+Carroll,WASHINGTON-ROSELLE,County Board of Supervisors District 2,,,Write-in,0,0,0
+Carroll,WHEATLAND-KNIEST,County Board of Supervisors District 2,,,Write-in,2,1,1
+Carroll,ARCADIA,County Board of Supervisors District 4,,REP,Stephanie Hausman,255,39,216
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,County Board of Supervisors District 4,,REP,Stephanie Hausman,897,306,591
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,County Board of Supervisors District 4,,REP,Stephanie Hausman,863,282,581
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,County Board of Supervisors District 4,,REP,Stephanie Hausman,734,281,453
+Carroll,CARROLL WARD FOUR,County Board of Supervisors District 4,,REP,Stephanie Hausman,556,228,328
+Carroll,EDEN,County Board of Supervisors District 4,,REP,Stephanie Hausman,228,29,199
+Carroll,EWOLDT,County Board of Supervisors District 4,,REP,Stephanie Hausman,562,110,452
+Carroll,GLIDDEN-RICHLAND,County Board of Supervisors District 4,,REP,Stephanie Hausman,543,107,436
+Carroll,PLEASANT VALLEY-NEWTON,County Board of Supervisors District 4,,REP,Stephanie Hausman,295,53,242
+Carroll,SHERIDAN-GRANT-JASPER,County Board of Supervisors District 4,,REP,Stephanie Hausman,350,73,277
+Carroll,UNION,County Board of Supervisors District 4,,REP,Stephanie Hausman,499,70,429
+Carroll,WASHINGTON-ROSELLE,County Board of Supervisors District 4,,REP,Stephanie Hausman,333,61,272
+Carroll,WHEATLAND-KNIEST,County Board of Supervisors District 4,,REP,Stephanie Hausman,416,54,362
+Carroll,ARCADIA,County Board of Supervisors District 4,,,Write-in,2,1,1
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,County Board of Supervisors District 4,,,Write-in,15,5,10
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,County Board of Supervisors District 4,,,Write-in,15,5,10
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,County Board of Supervisors District 4,,,Write-in,14,7,7
+Carroll,CARROLL WARD FOUR,County Board of Supervisors District 4,,,Write-in,12,4,8
+Carroll,EDEN,County Board of Supervisors District 4,,,Write-in,2,0,2
+Carroll,EWOLDT,County Board of Supervisors District 4,,,Write-in,9,5,4
+Carroll,GLIDDEN-RICHLAND,County Board of Supervisors District 4,,,Write-in,10,5,5
+Carroll,PLEASANT VALLEY-NEWTON,County Board of Supervisors District 4,,,Write-in,6,1,5
+Carroll,SHERIDAN-GRANT-JASPER,County Board of Supervisors District 4,,,Write-in,8,3,5
+Carroll,UNION,County Board of Supervisors District 4,,,Write-in,5,2,3
+Carroll,WASHINGTON-ROSELLE,County Board of Supervisors District 4,,,Write-in,6,1,5
+Carroll,WHEATLAND-KNIEST,County Board of Supervisors District 4,,,Write-in,4,3,1
+Carroll,ARCADIA,County Treasurer,,REP,Lisa R. Wagner,263,44,219
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,County Treasurer,,REP,Lisa R. Wagner,922,332,590
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,County Treasurer,,REP,Lisa R. Wagner,917,319,598
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,County Treasurer,,REP,Lisa R. Wagner,760,305,455
+Carroll,CARROLL WARD FOUR,County Treasurer,,REP,Lisa R. Wagner,588,250,338
+Carroll,EDEN,County Treasurer,,REP,Lisa R. Wagner,232,31,201
+Carroll,EWOLDT,County Treasurer,,REP,Lisa R. Wagner,578,117,461
+Carroll,GLIDDEN-RICHLAND,County Treasurer,,REP,Lisa R. Wagner,552,108,444
+Carroll,PLEASANT VALLEY-NEWTON,County Treasurer,,REP,Lisa R. Wagner,309,57,252
+Carroll,SHERIDAN-GRANT-JASPER,County Treasurer,,REP,Lisa R. Wagner,387,84,303
+Carroll,UNION,County Treasurer,,REP,Lisa R. Wagner,519,80,439
+Carroll,WASHINGTON-ROSELLE,County Treasurer,,REP,Lisa R. Wagner,337,62,275
+Carroll,WHEATLAND-KNIEST,County Treasurer,,REP,Lisa R. Wagner,439,67,372
+Carroll,ARCADIA,County Treasurer,,,Write-in,1,0,1
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,County Treasurer,,,Write-in,18,4,14
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,County Treasurer,,,Write-in,11,4,7
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,County Treasurer,,,Write-in,9,3,6
+Carroll,CARROLL WARD FOUR,County Treasurer,,,Write-in,2,0,2
+Carroll,EDEN,County Treasurer,,,Write-in,1,0,1
+Carroll,EWOLDT,County Treasurer,,,Write-in,7,2,5
+Carroll,GLIDDEN-RICHLAND,County Treasurer,,,Write-in,6,3,3
+Carroll,PLEASANT VALLEY-NEWTON,County Treasurer,,,Write-in,2,0,2
+Carroll,SHERIDAN-GRANT-JASPER,County Treasurer,,,Write-in,4,0,4
+Carroll,UNION,County Treasurer,,,Write-in,1,1,0
+Carroll,WASHINGTON-ROSELLE,County Treasurer,,,Write-in,4,1,3
+Carroll,WHEATLAND-KNIEST,County Treasurer,,,Write-in,2,1,1
+Carroll,ARCADIA,County Recorder,,REP,Ashten Wittrock,227,34,193
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,County Recorder,,REP,Ashten Wittrock,782,267,515
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,County Recorder,,REP,Ashten Wittrock,746,234,512
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,County Recorder,,REP,Ashten Wittrock,607,231,376
+Carroll,CARROLL WARD FOUR,County Recorder,,REP,Ashten Wittrock,500,202,298
+Carroll,EDEN,County Recorder,,REP,Ashten Wittrock,209,27,182
+Carroll,EWOLDT,County Recorder,,REP,Ashten Wittrock,471,91,380
+Carroll,GLIDDEN-RICHLAND,County Recorder,,REP,Ashten Wittrock,456,82,374
+Carroll,PLEASANT VALLEY-NEWTON,County Recorder,,REP,Ashten Wittrock,248,39,209
+Carroll,SHERIDAN-GRANT-JASPER,County Recorder,,REP,Ashten Wittrock,345,75,270
+Carroll,UNION,County Recorder,,REP,Ashten Wittrock,425,59,366
+Carroll,WASHINGTON-ROSELLE,County Recorder,,REP,Ashten Wittrock,296,49,247
+Carroll,WHEATLAND-KNIEST,County Recorder,,REP,Ashten Wittrock,342,49,293
+Carroll,ARCADIA,County Recorder,,DEM,Susie Boles,74,22,52
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,County Recorder,,DEM,Susie Boles,335,150,185
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,County Recorder,,DEM,Susie Boles,382,185,197
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,County Recorder,,DEM,Susie Boles,317,171,146
+Carroll,CARROLL WARD FOUR,County Recorder,,DEM,Susie Boles,238,131,107
+Carroll,EDEN,County Recorder,,DEM,Susie Boles,66,19,47
+Carroll,EWOLDT,County Recorder,,DEM,Susie Boles,205,72,133
+Carroll,GLIDDEN-RICHLAND,County Recorder,,DEM,Susie Boles,178,61,117
+Carroll,PLEASANT VALLEY-NEWTON,County Recorder,,DEM,Susie Boles,109,33,76
+Carroll,SHERIDAN-GRANT-JASPER,County Recorder,,DEM,Susie Boles,124,46,78
+Carroll,UNION,County Recorder,,DEM,Susie Boles,167,53,114
+Carroll,WASHINGTON-ROSELLE,County Recorder,,DEM,Susie Boles,104,39,65
+Carroll,WHEATLAND-KNIEST,County Recorder,,DEM,Susie Boles,162,36,126
+Carroll,ARCADIA,County Recorder,,,Write-in,1,0,1
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,County Recorder,,,Write-in,0,0,0
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,County Recorder,,,Write-in,0,0,0
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,County Recorder,,,Write-in,0,0,0
+Carroll,CARROLL WARD FOUR,County Recorder,,,Write-in,0,0,0
+Carroll,EDEN,County Recorder,,,Write-in,0,0,0
+Carroll,EWOLDT,County Recorder,,,Write-in,0,0,0
+Carroll,GLIDDEN-RICHLAND,County Recorder,,,Write-in,2,1,1
+Carroll,PLEASANT VALLEY-NEWTON,County Recorder,,,Write-in,0,0,0
+Carroll,SHERIDAN-GRANT-JASPER,County Recorder,,,Write-in,0,0,0
+Carroll,UNION,County Recorder,,,Write-in,0,0,0
+Carroll,WASHINGTON-ROSELLE,County Recorder,,,Write-in,0,0,0
+Carroll,WHEATLAND-KNIEST,County Recorder,,,Write-in,0,0,0
+Carroll,ARCADIA,County Attorney,,REP,John C. Werden,229,32,197
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,County Attorney,,REP,John C. Werden,877,311,566
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,County Attorney,,REP,John C. Werden,827,287,540
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,County Attorney,,REP,John C. Werden,705,281,424
+Carroll,CARROLL WARD FOUR,County Attorney,,REP,John C. Werden,554,244,310
+Carroll,EDEN,County Attorney,,REP,John C. Werden,210,28,182
+Carroll,EWOLDT,County Attorney,,REP,John C. Werden,530,106,424
+Carroll,GLIDDEN-RICHLAND,County Attorney,,REP,John C. Werden,527,104,423
+Carroll,PLEASANT VALLEY-NEWTON,County Attorney,,REP,John C. Werden,291,54,237
+Carroll,SHERIDAN-GRANT-JASPER,County Attorney,,REP,John C. Werden,370,80,290
+Carroll,UNION,County Attorney,,REP,John C. Werden,495,74,421
+Carroll,WASHINGTON-ROSELLE,County Attorney,,REP,John C. Werden,326,59,267
+Carroll,WHEATLAND-KNIEST,County Attorney,,REP,John C. Werden,389,54,335
+Carroll,ARCADIA,County Attorney,,,Write-in,8,2,6
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,County Attorney,,,Write-in,22,6,16
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,County Attorney,,,Write-in,34,12,22
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,County Attorney,,,Write-in,27,10,17
+Carroll,CARROLL WARD FOUR,County Attorney,,,Write-in,25,5,20
+Carroll,EDEN,County Attorney,,,Write-in,4,0,4
+Carroll,EWOLDT,County Attorney,,,Write-in,21,6,15
+Carroll,GLIDDEN-RICHLAND,County Attorney,,,Write-in,8,1,7
+Carroll,PLEASANT VALLEY-NEWTON,County Attorney,,,Write-in,3,0,3
+Carroll,SHERIDAN-GRANT-JASPER,County Attorney,,,Write-in,8,2,6
+Carroll,UNION,County Attorney,,,Write-in,8,2,6
+Carroll,WASHINGTON-ROSELLE,County Attorney,,,Write-in,11,2,9
+Carroll,WHEATLAND-KNIEST,County Attorney,,,Write-in,9,2,7
+Carroll,ARCADIA,Arcadia Township Trustee,,,Write-in,1,0,1
+Carroll,ARCADIA,Arcadia Township Trustee,,,Neil Leiting,1,0,1
+Carroll,ARCADIA,Arcadia Township Clerk,,,Curt Schweers,75,18,57
+Carroll,ARCADIA,Arcadia Township Clerk,,,Write-in,1,0,1
+Carroll,EDEN,Eden Township Trustee,,,Write-in,4,0,4
+Carroll,EDEN,Eden Township Trustee,,,Glenn Langel,3,2,1
+Carroll,EDEN,Eden Township Clerk,,,Rick Schultes,81,19,62
+Carroll,EDEN,Eden Township Clerk,,,Write-in,1,1,0
+Carroll,EWOLDT,Ewoldt Township Trustee,,,Dwight Gruhn,179,20,159
+Carroll,EWOLDT,Ewoldt Township Trustee,,,Write-in,0,0,0
+Carroll,EWOLDT,Ewdolt Township Clerk,,,Tommy Wegner,171,20,151
+Carroll,EWOLDT,Ewdolt Township Clerk,,,Write-in,1,0,1
+Carroll,GLIDDEN-RICHLAND,Glidden Township Trustee,,,Mike McClellan,85,22,63
+Carroll,GLIDDEN-RICHLAND,Glidden Township Trustee,,,Write-in,0,0,0
+Carroll,GLIDDEN-RICHLAND,Glidden Township Clerk,,,Jonna Olerich,84,22,62
+Carroll,GLIDDEN-RICHLAND,Glidden Township Clerk,,,Write-in,0,0,0
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Grant Township Trustee,,,Jeffrey William Halbur,2,1,1
+Carroll,SHERIDAN-GRANT-JASPER,Grant Township Trustee,,,Jeffrey William Halbur,132,42,90
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Grant Township Trustee,,,Write-in,0,0,0
+Carroll,SHERIDAN-GRANT-JASPER,Grant Township Trustee,,,Write-in,0,0,0
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Grant Township Clerk,,,Hubert Hagemann,2,1,1
+Carroll,SHERIDAN-GRANT-JASPER,Grant Township Clerk,,,Hubert Hagemann,125,39,86
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Grant Township Clerk,,,Write-in,0,0,0
+Carroll,SHERIDAN-GRANT-JASPER,Grant Township Clerk,,,Write-in,3,2,1
+Carroll,SHERIDAN-GRANT-JASPER,Jasper Township Trustee,,,Leon L. Muhlbauer,64,10,54
+Carroll,SHERIDAN-GRANT-JASPER,Jasper Township Trustee,,,Write-in,1,0,1
+Carroll,SHERIDAN-GRANT-JASPER,Jasper Township Clerk,,,Write-in,6,3,3
+Carroll,SHERIDAN-GRANT-JASPER,Jasper Township Clerk,,,Gordon Toyne,3,0,3
+Carroll,PLEASANT VALLEY-NEWTON,Newton Township Trustee,,,Jeff Shirbroun,76,14,62
+Carroll,PLEASANT VALLEY-NEWTON,Newton Township Trustee,,,Write-in,0,0,0
+Carroll,PLEASANT VALLEY-NEWTON,Newton Township Clerk,,,Edith Hoffman,78,15,63
+Carroll,PLEASANT VALLEY-NEWTON,Newton Township Clerk,,,Write-in,0,0,0
+Carroll,GLIDDEN-RICHLAND,Richland Township Trustee,,,Jerry Kult,66,14,52
+Carroll,GLIDDEN-RICHLAND,Richland Township Trustee,,,Write-in,2,1,1
+Carroll,GLIDDEN-RICHLAND,Richland Township Clerk,,,Mark A. Tigges,72,18,54
+Carroll,GLIDDEN-RICHLAND,Richland Township Clerk,,,Write-in,0,0,0
+Carroll,SHERIDAN-GRANT-JASPER,Sheridan Township Trustee,,,Donald Meyer,85,16,69
+Carroll,SHERIDAN-GRANT-JASPER,Sheridan Township Trustee,,,Write-in,0,0,0
+Carroll,SHERIDAN-GRANT-JASPER,Sheridan Township Clerk,,,Write-in,4,1,3
+Carroll,SHERIDAN-GRANT-JASPER,Sheridan Township Clerk,,,Steve Daniel,2,1,1
+Carroll,UNION,Union Township Trustee,,,Tom Meiners,77,13,64
+Carroll,UNION,Union Township Trustee,,,Write-in,1,0,1
+Carroll,UNION,Union Township Clerk,,,Susan K. Richardson,73,13,60
+Carroll,UNION,Union Township Clerk,,,Write-in,1,0,1
+Carroll,WASHINGTON-ROSELLE,Washington Township Trustee,,,Neil Leiting,89,16,73
+Carroll,WASHINGTON-ROSELLE,Washington Township Trustee,,,Write-in,1,0,1
+Carroll,WASHINGTON-ROSELLE,Washington Township Clerk,,,Karl J. Albertsen,88,17,71
+Carroll,WASHINGTON-ROSELLE,Washington Township Clerk,,,Write-in,2,0,2
+Carroll,WHEATLAND-KNIEST,Wheatland Township Trustee,,,Write-in,0,0,0
+Carroll,WHEATLAND-KNIEST,Wheatland Township Trustee,,,Richard Mueggenberg,1,1,0
+Carroll,WHEATLAND-KNIEST,Wheatland Township Clerk,,,Write-in,0,0,0
+Carroll,WHEATLAND-KNIEST,Wheatland Township Clerk,,,Clyde Neumayer,1,1,0
+Carroll,ARCADIA,Soil and Water Conservation District Commissioner,,,Neil Vonnahme,229,45,184
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Soil and Water Conservation District Commissioner,,,Neil Vonnahme,715,248,467
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Soil and Water Conservation District Commissioner,,,Neil Vonnahme,723,263,460
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Soil and Water Conservation District Commissioner,,,Neil Vonnahme,600,230,370
+Carroll,CARROLL WARD FOUR,Soil and Water Conservation District Commissioner,,,Neil Vonnahme,448,197,251
+Carroll,EDEN,Soil and Water Conservation District Commissioner,,,Neil Vonnahme,184,25,159
+Carroll,EWOLDT,Soil and Water Conservation District Commissioner,,,Neil Vonnahme,480,107,373
+Carroll,GLIDDEN-RICHLAND,Soil and Water Conservation District Commissioner,,,Neil Vonnahme,458,106,352
+Carroll,PLEASANT VALLEY-NEWTON,Soil and Water Conservation District Commissioner,,,Neil Vonnahme,239,43,196
+Carroll,SHERIDAN-GRANT-JASPER,Soil and Water Conservation District Commissioner,,,Neil Vonnahme,289,61,228
+Carroll,UNION,Soil and Water Conservation District Commissioner,,,Neil Vonnahme,427,70,357
+Carroll,WASHINGTON-ROSELLE,Soil and Water Conservation District Commissioner,,,Neil Vonnahme,295,54,241
+Carroll,WHEATLAND-KNIEST,Soil and Water Conservation District Commissioner,,,Neil Vonnahme,337,50,287
+Carroll,ARCADIA,Soil and Water Conservation District Commissioner,,,Tom Simons,163,29,134
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Soil and Water Conservation District Commissioner,,,Tom Simons,701,245,456
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Soil and Water Conservation District Commissioner,,,Tom Simons,696,257,439
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Soil and Water Conservation District Commissioner,,,Tom Simons,582,230,352
+Carroll,CARROLL WARD FOUR,Soil and Water Conservation District Commissioner,,,Tom Simons,428,204,224
+Carroll,EDEN,Soil and Water Conservation District Commissioner,,,Tom Simons,157,21,136
+Carroll,EWOLDT,Soil and Water Conservation District Commissioner,,,Tom Simons,360,88,272
+Carroll,GLIDDEN-RICHLAND,Soil and Water Conservation District Commissioner,,,Tom Simons,375,93,282
+Carroll,PLEASANT VALLEY-NEWTON,Soil and Water Conservation District Commissioner,,,Tom Simons,217,49,168
+Carroll,SHERIDAN-GRANT-JASPER,Soil and Water Conservation District Commissioner,,,Tom Simons,252,54,198
+Carroll,UNION,Soil and Water Conservation District Commissioner,,,Tom Simons,356,58,298
+Carroll,WASHINGTON-ROSELLE,Soil and Water Conservation District Commissioner,,,Tom Simons,249,46,203
+Carroll,WHEATLAND-KNIEST,Soil and Water Conservation District Commissioner,,,Tom Simons,276,46,230
+Carroll,ARCADIA,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Soil and Water Conservation District Commissioner,,,Write-in,8,4,4
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Soil and Water Conservation District Commissioner,,,Write-in,3,0,3
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Soil and Water Conservation District Commissioner,,,Write-in,7,1,6
+Carroll,CARROLL WARD FOUR,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Carroll,EDEN,Soil and Water Conservation District Commissioner,,,Write-in,1,1,0
+Carroll,EWOLDT,Soil and Water Conservation District Commissioner,,,Write-in,4,1,3
+Carroll,GLIDDEN-RICHLAND,Soil and Water Conservation District Commissioner,,,Write-in,3,2,1
+Carroll,PLEASANT VALLEY-NEWTON,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Carroll,SHERIDAN-GRANT-JASPER,Soil and Water Conservation District Commissioner,,,Write-in,4,0,4
+Carroll,UNION,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Carroll,WASHINGTON-ROSELLE,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Carroll,WHEATLAND-KNIEST,Soil and Water Conservation District Commissioner,,,Write-in,5,0,5
+Carroll,ARCADIA,County Agricultural Extension Council Member,,,Kristina Whitver-Soyer,165,27,138
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,County Agricultural Extension Council Member,,,Kristina Whitver-Soyer,614,214,400
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,County Agricultural Extension Council Member,,,Kristina Whitver-Soyer,575,212,363
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,County Agricultural Extension Council Member,,,Kristina Whitver-Soyer,503,193,310
+Carroll,CARROLL WARD FOUR,County Agricultural Extension Council Member,,,Kristina Whitver-Soyer,362,167,195
+Carroll,EDEN,County Agricultural Extension Council Member,,,Kristina Whitver-Soyer,140,20,120
+Carroll,EWOLDT,County Agricultural Extension Council Member,,,Kristina Whitver-Soyer,394,89,305
+Carroll,GLIDDEN-RICHLAND,County Agricultural Extension Council Member,,,Kristina Whitver-Soyer,465,106,359
+Carroll,PLEASANT VALLEY-NEWTON,County Agricultural Extension Council Member,,,Kristina Whitver-Soyer,202,44,158
+Carroll,SHERIDAN-GRANT-JASPER,County Agricultural Extension Council Member,,,Kristina Whitver-Soyer,251,54,197
+Carroll,UNION,County Agricultural Extension Council Member,,,Kristina Whitver-Soyer,358,56,302
+Carroll,WASHINGTON-ROSELLE,County Agricultural Extension Council Member,,,Kristina Whitver-Soyer,217,44,173
+Carroll,WHEATLAND-KNIEST,County Agricultural Extension Council Member,,,Kristina Whitver-Soyer,253,38,215
+Carroll,ARCADIA,County Agricultural Extension Council Member,,,Brett Greve,166,26,140
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,County Agricultural Extension Council Member,,,Brett Greve,575,199,376
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,County Agricultural Extension Council Member,,,Brett Greve,537,201,336
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,County Agricultural Extension Council Member,,,Brett Greve,478,179,299
+Carroll,CARROLL WARD FOUR,County Agricultural Extension Council Member,,,Brett Greve,359,159,200
+Carroll,EDEN,County Agricultural Extension Council Member,,,Brett Greve,150,18,132
+Carroll,EWOLDT,County Agricultural Extension Council Member,,,Brett Greve,367,87,280
+Carroll,GLIDDEN-RICHLAND,County Agricultural Extension Council Member,,,Brett Greve,341,86,255
+Carroll,PLEASANT VALLEY-NEWTON,County Agricultural Extension Council Member,,,Brett Greve,190,41,149
+Carroll,SHERIDAN-GRANT-JASPER,County Agricultural Extension Council Member,,,Brett Greve,237,50,187
+Carroll,UNION,County Agricultural Extension Council Member,,,Brett Greve,322,51,271
+Carroll,WASHINGTON-ROSELLE,County Agricultural Extension Council Member,,,Brett Greve,217,44,173
+Carroll,WHEATLAND-KNIEST,County Agricultural Extension Council Member,,,Brett Greve,293,42,251
+Carroll,ARCADIA,County Agricultural Extension Council Member,,,Matthew Brinkman,156,25,131
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,County Agricultural Extension Council Member,,,Matthew Brinkman,574,197,377
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,County Agricultural Extension Council Member,,,Matthew Brinkman,557,212,345
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,County Agricultural Extension Council Member,,,Matthew Brinkman,483,183,300
+Carroll,CARROLL WARD FOUR,County Agricultural Extension Council Member,,,Matthew Brinkman,334,152,182
+Carroll,EDEN,County Agricultural Extension Council Member,,,Matthew Brinkman,134,16,118
+Carroll,EWOLDT,County Agricultural Extension Council Member,,,Matthew Brinkman,371,81,290
+Carroll,GLIDDEN-RICHLAND,County Agricultural Extension Council Member,,,Matthew Brinkman,355,86,269
+Carroll,PLEASANT VALLEY-NEWTON,County Agricultural Extension Council Member,,,Matthew Brinkman,175,40,135
+Carroll,SHERIDAN-GRANT-JASPER,County Agricultural Extension Council Member,,,Matthew Brinkman,213,50,163
+Carroll,UNION,County Agricultural Extension Council Member,,,Matthew Brinkman,328,52,276
+Carroll,WASHINGTON-ROSELLE,County Agricultural Extension Council Member,,,Matthew Brinkman,201,41,160
+Carroll,WHEATLAND-KNIEST,County Agricultural Extension Council Member,,,Matthew Brinkman,243,37,206
+Carroll,ARCADIA,County Agricultural Extension Council Member,,,Holly Schreck,192,33,159
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,County Agricultural Extension Council Member,,,Holly Schreck,698,247,451
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,County Agricultural Extension Council Member,,,Holly Schreck,704,250,454
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,County Agricultural Extension Council Member,,,Holly Schreck,605,231,374
+Carroll,CARROLL WARD FOUR,County Agricultural Extension Council Member,,,Holly Schreck,433,194,239
+Carroll,EDEN,County Agricultural Extension Council Member,,,Holly Schreck,181,25,156
+Carroll,EWOLDT,County Agricultural Extension Council Member,,,Holly Schreck,410,91,319
+Carroll,GLIDDEN-RICHLAND,County Agricultural Extension Council Member,,,Holly Schreck,384,94,290
+Carroll,PLEASANT VALLEY-NEWTON,County Agricultural Extension Council Member,,,Holly Schreck,222,45,177
+Carroll,SHERIDAN-GRANT-JASPER,County Agricultural Extension Council Member,,,Holly Schreck,272,58,214
+Carroll,UNION,County Agricultural Extension Council Member,,,Holly Schreck,351,51,300
+Carroll,WASHINGTON-ROSELLE,County Agricultural Extension Council Member,,,Holly Schreck,273,51,222
+Carroll,WHEATLAND-KNIEST,County Agricultural Extension Council Member,,,Holly Schreck,295,44,251
+Carroll,ARCADIA,County Agricultural Extension Council Member,,,Joan Wiskus,158,25,133
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,County Agricultural Extension Council Member,,,Joan Wiskus,577,206,371
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,County Agricultural Extension Council Member,,,Joan Wiskus,540,205,335
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,County Agricultural Extension Council Member,,,Joan Wiskus,479,182,297
+Carroll,CARROLL WARD FOUR,County Agricultural Extension Council Member,,,Joan Wiskus,343,160,183
+Carroll,EDEN,County Agricultural Extension Council Member,,,Joan Wiskus,134,16,118
+Carroll,EWOLDT,County Agricultural Extension Council Member,,,Joan Wiskus,375,86,289
+Carroll,GLIDDEN-RICHLAND,County Agricultural Extension Council Member,,,Joan Wiskus,350,85,265
+Carroll,PLEASANT VALLEY-NEWTON,County Agricultural Extension Council Member,,,Joan Wiskus,204,41,163
+Carroll,SHERIDAN-GRANT-JASPER,County Agricultural Extension Council Member,,,Joan Wiskus,212,51,161
+Carroll,UNION,County Agricultural Extension Council Member,,,Joan Wiskus,415,70,345
+Carroll,WASHINGTON-ROSELLE,County Agricultural Extension Council Member,,,Joan Wiskus,211,44,167
+Carroll,WHEATLAND-KNIEST,County Agricultural Extension Council Member,,,Joan Wiskus,242,39,203
+Carroll,ARCADIA,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,County Agricultural Extension Council Member,,,Write-in,6,1,5
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,County Agricultural Extension Council Member,,,Write-in,4,0,4
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,County Agricultural Extension Council Member,,,Write-in,5,3,2
+Carroll,CARROLL WARD FOUR,County Agricultural Extension Council Member,,,Write-in,5,0,5
+Carroll,EDEN,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Carroll,EWOLDT,County Agricultural Extension Council Member,,,Write-in,9,2,7
+Carroll,GLIDDEN-RICHLAND,County Agricultural Extension Council Member,,,Write-in,7,5,2
+Carroll,PLEASANT VALLEY-NEWTON,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Carroll,SHERIDAN-GRANT-JASPER,County Agricultural Extension Council Member,,,Write-in,3,0,3
+Carroll,UNION,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Carroll,WASHINGTON-ROSELLE,County Agricultural Extension Council Member,,,Write-in,7,0,7
+Carroll,WHEATLAND-KNIEST,County Agricultural Extension Council Member,,,Write-in,11,0,11
+Carroll,ARCADIA,Supreme Court Justice,,,Yes,195,38,157
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Supreme Court Justice,,,Yes,736,276,460
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Supreme Court Justice,,,Yes,741,264,477
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Supreme Court Justice,,,Yes,620,257,363
+Carroll,CARROLL WARD FOUR,Supreme Court Justice,,,Yes,472,212,260
+Carroll,EDEN,Supreme Court Justice,,,Yes,189,28,161
+Carroll,EWOLDT,Supreme Court Justice,,,Yes,380,83,297
+Carroll,GLIDDEN-RICHLAND,Supreme Court Justice,,,Yes,352,77,275
+Carroll,PLEASANT VALLEY-NEWTON,Supreme Court Justice,,,Yes,205,36,169
+Carroll,SHERIDAN-GRANT-JASPER,Supreme Court Justice,,,Yes,258,59,199
+Carroll,UNION,Supreme Court Justice,,,Yes,340,51,289
+Carroll,WASHINGTON-ROSELLE,Supreme Court Justice,,,Yes,255,51,204
+Carroll,WHEATLAND-KNIEST,Supreme Court Justice,,,Yes,319,53,266
+Carroll,ARCADIA,Supreme Court Justice,,,No,29,5,24
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Supreme Court Justice,,,No,114,37,77
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Supreme Court Justice,,,No,150,72,78
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Supreme Court Justice,,,No,124,55,69
+Carroll,CARROLL WARD FOUR,Supreme Court Justice,,,No,84,35,49
+Carroll,EDEN,Supreme Court Justice,,,No,28,6,22
+Carroll,EWOLDT,Supreme Court Justice,,,No,105,30,75
+Carroll,GLIDDEN-RICHLAND,Supreme Court Justice,,,No,110,24,86
+Carroll,PLEASANT VALLEY-NEWTON,Supreme Court Justice,,,No,41,10,31
+Carroll,SHERIDAN-GRANT-JASPER,Supreme Court Justice,,,No,70,22,48
+Carroll,UNION,Supreme Court Justice,,,No,112,29,83
+Carroll,WASHINGTON-ROSELLE,Supreme Court Justice,,,No,43,11,32
+Carroll,WHEATLAND-KNIEST,Supreme Court Justice,,,No,41,8,33
+Carroll,ARCADIA,Court of Appeals Judge,,,Yes,171,29,142
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Court of Appeals Judge,,,Yes,591,205,386
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Court of Appeals Judge,,,Yes,578,202,376
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Court of Appeals Judge,,,Yes,486,200,286
+Carroll,CARROLL WARD FOUR,Court of Appeals Judge,,,Yes,382,164,218
+Carroll,EDEN,Court of Appeals Judge,,,Yes,150,21,129
+Carroll,EWOLDT,Court of Appeals Judge,,,Yes,336,78,258
+Carroll,GLIDDEN-RICHLAND,Court of Appeals Judge,,,Yes,336,80,256
+Carroll,PLEASANT VALLEY-NEWTON,Court of Appeals Judge,,,Yes,160,32,128
+Carroll,SHERIDAN-GRANT-JASPER,Court of Appeals Judge,,,Yes,212,47,165
+Carroll,UNION,Court of Appeals Judge,,,Yes,322,51,271
+Carroll,WASHINGTON-ROSELLE,Court of Appeals Judge,,,Yes,211,45,166
+Carroll,WHEATLAND-KNIEST,Court of Appeals Judge,,,Yes,236,36,200
+Carroll,ARCADIA,Court of Appeals Judge,,,No,32,7,25
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Court of Appeals Judge,,,No,119,35,84
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Court of Appeals Judge,,,No,165,67,98
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Court of Appeals Judge,,,No,119,52,67
+Carroll,CARROLL WARD FOUR,Court of Appeals Judge,,,No,78,31,47
+Carroll,EDEN,Court of Appeals Judge,,,No,30,4,26
+Carroll,EWOLDT,Court of Appeals Judge,,,No,107,23,84
+Carroll,GLIDDEN-RICHLAND,Court of Appeals Judge,,,No,110,20,90
+Carroll,PLEASANT VALLEY-NEWTON,Court of Appeals Judge,,,No,40,9,31
+Carroll,SHERIDAN-GRANT-JASPER,Court of Appeals Judge,,,No,60,12,48
+Carroll,UNION,Court of Appeals Judge,,,No,111,26,85
+Carroll,WASHINGTON-ROSELLE,Court of Appeals Judge,,,No,42,9,33
+Carroll,WHEATLAND-KNIEST,Court of Appeals Judge,,,No,47,7,40
+Carroll,ARCADIA,District 2B Judge,,,Yes,170,28,142
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,District 2B Judge,,,Yes,586,198,388
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,District 2B Judge,,,Yes,576,191,385
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,District 2B Judge,,,Yes,493,196,297
+Carroll,CARROLL WARD FOUR,District 2B Judge,,,Yes,379,162,217
+Carroll,EDEN,District 2B Judge,,,Yes,149,22,127
+Carroll,EWOLDT,District 2B Judge,,,Yes,339,76,263
+Carroll,GLIDDEN-RICHLAND,District 2B Judge,,,Yes,345,79,266
+Carroll,PLEASANT VALLEY-NEWTON,District 2B Judge,,,Yes,171,33,138
+Carroll,SHERIDAN-GRANT-JASPER,District 2B Judge,,,Yes,201,47,154
+Carroll,UNION,District 2B Judge,,,Yes,323,48,275
+Carroll,WASHINGTON-ROSELLE,District 2B Judge,,,Yes,201,42,159
+Carroll,WHEATLAND-KNIEST,District 2B Judge,,,Yes,237,34,203
+Carroll,ARCADIA,District 2B Judge,,,No,31,6,25
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,District 2B Judge,,,No,121,35,86
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,District 2B Judge,,,No,155,71,84
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,District 2B Judge,,,No,109,42,67
+Carroll,CARROLL WARD FOUR,District 2B Judge,,,No,80,32,48
+Carroll,EDEN,District 2B Judge,,,No,27,1,26
+Carroll,EWOLDT,District 2B Judge,,,No,102,22,80
+Carroll,GLIDDEN-RICHLAND,District 2B Judge,,,No,111,23,88
+Carroll,PLEASANT VALLEY-NEWTON,District 2B Judge,,,No,42,8,34
+Carroll,SHERIDAN-GRANT-JASPER,District 2B Judge,,,No,69,15,54
+Carroll,UNION,District 2B Judge,,,No,106,26,80
+Carroll,WASHINGTON-ROSELLE,District 2B Judge,,,No,41,11,30
+Carroll,WHEATLAND-KNIEST,District 2B Judge,,,No,50,8,42
+Carroll,ARCADIA,District 2B Associate Judge,,,Yes,170,31,139
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,District 2B Associate Judge,,,Yes,596,198,398
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,District 2B Associate Judge,,,Yes,607,206,401
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,District 2B Associate Judge,,,Yes,507,201,306
+Carroll,CARROLL WARD FOUR,District 2B Associate Judge,,,Yes,389,166,223
+Carroll,EDEN,District 2B Associate Judge,,,Yes,152,22,130
+Carroll,EWOLDT,District 2B Associate Judge,,,Yes,362,82,280
+Carroll,GLIDDEN-RICHLAND,District 2B Associate Judge,,,Yes,350,81,269
+Carroll,PLEASANT VALLEY-NEWTON,District 2B Associate Judge,,,Yes,173,33,140
+Carroll,SHERIDAN-GRANT-JASPER,District 2B Associate Judge,,,Yes,214,48,166
+Carroll,UNION,District 2B Associate Judge,,,Yes,334,52,282
+Carroll,WASHINGTON-ROSELLE,District 2B Associate Judge,,,Yes,204,42,162
+Carroll,WHEATLAND-KNIEST,District 2B Associate Judge,,,Yes,246,36,210
+Carroll,ARCADIA,District 2B Associate Judge,,,No,28,4,24
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,District 2B Associate Judge,,,No,120,35,85
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,District 2B Associate Judge,,,No,150,64,86
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,District 2B Associate Judge,,,No,103,41,62
+Carroll,CARROLL WARD FOUR,District 2B Associate Judge,,,No,80,28,52
+Carroll,EDEN,District 2B Associate Judge,,,No,24,1,23
+Carroll,EWOLDT,District 2B Associate Judge,,,No,94,20,74
+Carroll,GLIDDEN-RICHLAND,District 2B Associate Judge,,,No,110,22,88
+Carroll,PLEASANT VALLEY-NEWTON,District 2B Associate Judge,,,No,39,6,33
+Carroll,SHERIDAN-GRANT-JASPER,District 2B Associate Judge,,,No,60,15,45
+Carroll,UNION,District 2B Associate Judge,,,No,105,24,81
+Carroll,WASHINGTON-ROSELLE,District 2B Associate Judge,,,No,40,10,30
+Carroll,WHEATLAND-KNIEST,District 2B Associate Judge,,,No,47,9,38
+Carroll,ARCADIA,Constitutional Amendment 1,,,Yes,219,35,184
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Constitutional Amendment 1,,,Yes,754,251,503
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Constitutional Amendment 1,,,Yes,761,244,517
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Constitutional Amendment 1,,,Yes,642,227,415
+Carroll,CARROLL WARD FOUR,Constitutional Amendment 1,,,Yes,491,195,296
+Carroll,EDEN,Constitutional Amendment 1,,,Yes,211,29,182
+Carroll,EWOLDT,Constitutional Amendment 1,,,Yes,508,104,404
+Carroll,GLIDDEN-RICHLAND,Constitutional Amendment 1,,,Yes,499,90,409
+Carroll,PLEASANT VALLEY-NEWTON,Constitutional Amendment 1,,,Yes,261,45,216
+Carroll,SHERIDAN-GRANT-JASPER,Constitutional Amendment 1,,,Yes,352,74,278
+Carroll,UNION,Constitutional Amendment 1,,,Yes,458,65,393
+Carroll,WASHINGTON-ROSELLE,Constitutional Amendment 1,,,Yes,313,56,257
+Carroll,WHEATLAND-KNIEST,Constitutional Amendment 1,,,Yes,383,55,328
+Carroll,ARCADIA,Constitutional Amendment 1,,,No,66,22,44
+Carroll,CARROLL WARD ONE - PT OF GRANT TWP,Constitutional Amendment 1,,,No,276,132,144
+Carroll,CARROLL WARD TWO - N1/2 MAPLE RIVER TOWNSHIP,Constitutional Amendment 1,,,No,293,147,146
+Carroll,CARROLL WARD THREE - S1/2 MAPLE RIVER TOWNSHIP,Constitutional Amendment 1,,,No,223,137,86
+Carroll,CARROLL WARD FOUR,Constitutional Amendment 1,,,No,183,106,77
+Carroll,EDEN,Constitutional Amendment 1,,,No,47,16,31
+Carroll,EWOLDT,Constitutional Amendment 1,,,No,140,55,85
+Carroll,GLIDDEN-RICHLAND,Constitutional Amendment 1,,,No,109,42,67
+Carroll,PLEASANT VALLEY-NEWTON,Constitutional Amendment 1,,,No,55,23,32
+Carroll,SHERIDAN-GRANT-JASPER,Constitutional Amendment 1,,,No,83,34,49
+Carroll,UNION,Constitutional Amendment 1,,,No,114,39,75
+Carroll,WASHINGTON-ROSELLE,Constitutional Amendment 1,,,No,50,22,28
+Carroll,WHEATLAND-KNIEST,Constitutional Amendment 1,,,No,58,20,38

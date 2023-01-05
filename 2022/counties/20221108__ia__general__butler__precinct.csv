@@ -1,0 +1,550 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Butler,1-GR,U.S. Senate,,REP,Chuck Grassley,513,105,408
+Butler,2-CL,U.S. Senate,,REP,Chuck Grassley,683,133,550
+Butler,3-DU,U.S. Senate,,REP,Chuck Grassley,445,96,349
+Butler,4-AL,U.S. Senate,,REP,Chuck Grassley,549,201,348
+Butler,5-AP,U.S. Senate,,REP,Chuck Grassley,482,97,385
+Butler,6-SR,U.S. Senate,,REP,Chuck Grassley,676,132,544
+Butler,7-PB,U.S. Senate,,REP,Chuck Grassley,707,137,570
+Butler,8-NH,U.S. Senate,,REP,Chuck Grassley,279,47,232
+Butler,1-GR,U.S. Senate,,DEM,Michael Franken,275,82,193
+Butler,2-CL,U.S. Senate,,DEM,Michael Franken,309,109,200
+Butler,3-DU,U.S. Senate,,DEM,Michael Franken,77,34,43
+Butler,4-AL,U.S. Senate,,DEM,Michael Franken,135,64,71
+Butler,5-AP,U.S. Senate,,DEM,Michael Franken,121,33,88
+Butler,6-SR,U.S. Senate,,DEM,Michael Franken,360,137,223
+Butler,7-PB,U.S. Senate,,DEM,Michael Franken,250,62,188
+Butler,8-NH,U.S. Senate,,DEM,Michael Franken,142,36,106
+Butler,1-GR,U.S. Senate,,,Write-in,1,0,1
+Butler,2-CL,U.S. Senate,,,Write-in,2,1,1
+Butler,3-DU,U.S. Senate,,,Write-in,0,0,0
+Butler,4-AL,U.S. Senate,,,Write-in,0,0,0
+Butler,5-AP,U.S. Senate,,,Write-in,1,0,1
+Butler,6-SR,U.S. Senate,,,Write-in,2,0,2
+Butler,7-PB,U.S. Senate,,,Write-in,0,0,0
+Butler,8-NH,U.S. Senate,,,Write-in,0,0,0
+Butler,1-GR,U.S. House,2,REP,Ashley Hinson,512,98,414
+Butler,2-CL,U.S. House,2,REP,Ashley Hinson,665,129,536
+Butler,3-DU,U.S. House,2,REP,Ashley Hinson,441,95,346
+Butler,4-AL,U.S. House,2,REP,Ashley Hinson,533,190,343
+Butler,5-AP,U.S. House,2,REP,Ashley Hinson,475,94,381
+Butler,6-SR,U.S. House,2,REP,Ashley Hinson,675,126,549
+Butler,7-PB,U.S. House,2,REP,Ashley Hinson,702,134,568
+Butler,8-NH,U.S. House,2,REP,Ashley Hinson,276,47,229
+Butler,1-GR,U.S. House,2,DEM,Liz Mathis,278,89,189
+Butler,2-CL,U.S. House,2,DEM,Liz Mathis,326,112,214
+Butler,3-DU,U.S. House,2,DEM,Liz Mathis,83,34,49
+Butler,4-AL,U.S. House,2,DEM,Liz Mathis,149,72,77
+Butler,5-AP,U.S. House,2,DEM,Liz Mathis,128,35,93
+Butler,6-SR,U.S. House,2,DEM,Liz Mathis,363,144,219
+Butler,7-PB,U.S. House,2,DEM,Liz Mathis,256,65,191
+Butler,8-NH,U.S. House,2,DEM,Liz Mathis,147,37,110
+Butler,1-GR,U.S. House,2,,Write-in,0,0,0
+Butler,2-CL,U.S. House,2,,Write-in,1,1,0
+Butler,3-DU,U.S. House,2,,Write-in,0,0,0
+Butler,4-AL,U.S. House,2,,Write-in,0,0,0
+Butler,5-AP,U.S. House,2,,Write-in,1,0,1
+Butler,6-SR,U.S. House,2,,Write-in,1,0,1
+Butler,7-PB,U.S. House,2,,Write-in,0,0,0
+Butler,8-NH,U.S. House,2,,Write-in,0,0,0
+Butler,1-GR,Governor,,REP,Kim Reynolds and Adam Gregg,548,118,430
+Butler,2-CL,Governor,,REP,Kim Reynolds and Adam Gregg,710,143,567
+Butler,3-DU,Governor,,REP,Kim Reynolds and Adam Gregg,452,101,351
+Butler,4-AL,Governor,,REP,Kim Reynolds and Adam Gregg,570,214,356
+Butler,5-AP,Governor,,REP,Kim Reynolds and Adam Gregg,487,94,393
+Butler,6-SR,Governor,,REP,Kim Reynolds and Adam Gregg,698,140,558
+Butler,7-PB,Governor,,REP,Kim Reynolds and Adam Gregg,737,145,592
+Butler,8-NH,Governor,,REP,Kim Reynolds and Adam Gregg,299,51,248
+Butler,1-GR,Governor,,DEM,Deidre DeJear and Eric Van Lancker,236,69,167
+Butler,2-CL,Governor,,DEM,Deidre DeJear and Eric Van Lancker,258,96,162
+Butler,3-DU,Governor,,DEM,Deidre DeJear and Eric Van Lancker,67,27,40
+Butler,4-AL,Governor,,DEM,Deidre DeJear and Eric Van Lancker,109,51,58
+Butler,5-AP,Governor,,DEM,Deidre DeJear and Eric Van Lancker,111,32,79
+Butler,6-SR,Governor,,DEM,Deidre DeJear and Eric Van Lancker,317,125,192
+Butler,7-PB,Governor,,DEM,Deidre DeJear and Eric Van Lancker,214,58,156
+Butler,8-NH,Governor,,DEM,Deidre DeJear and Eric Van Lancker,117,31,86
+Butler,1-GR,Governor,,LIB,Rick Stewart and Marco Battaglia,14,1,13
+Butler,2-CL,Governor,,LIB,Rick Stewart and Marco Battaglia,35,12,23
+Butler,3-DU,Governor,,LIB,Rick Stewart and Marco Battaglia,7,1,6
+Butler,4-AL,Governor,,LIB,Rick Stewart and Marco Battaglia,9,3,6
+Butler,5-AP,Governor,,LIB,Rick Stewart and Marco Battaglia,8,2,6
+Butler,6-SR,Governor,,LIB,Rick Stewart and Marco Battaglia,34,8,26
+Butler,7-PB,Governor,,LIB,Rick Stewart and Marco Battaglia,15,0,15
+Butler,8-NH,Governor,,LIB,Rick Stewart and Marco Battaglia,11,1,10
+Butler,1-GR,Governor,,,Write-in,0,0,0
+Butler,2-CL,Governor,,,Write-in,2,1,1
+Butler,3-DU,Governor,,,Write-in,0,0,0
+Butler,4-AL,Governor,,,Write-in,0,0,0
+Butler,5-AP,Governor,,,Write-in,0,0,0
+Butler,6-SR,Governor,,,Write-in,1,0,1
+Butler,7-PB,Governor,,,Write-in,0,0,0
+Butler,8-NH,Governor,,,Write-in,0,0,0
+Butler,1-GR,Secretary of State,,REP,Paul D. Pate,550,108,442
+Butler,2-CL,Secretary of State,,REP,Paul D. Pate,727,152,575
+Butler,3-DU,Secretary of State,,REP,Paul D. Pate,447,97,350
+Butler,4-AL,Secretary of State,,REP,Paul D. Pate,559,205,354
+Butler,5-AP,Secretary of State,,REP,Paul D. Pate,494,99,395
+Butler,6-SR,Secretary of State,,REP,Paul D. Pate,742,159,583
+Butler,7-PB,Secretary of State,,REP,Paul D. Pate,748,155,593
+Butler,8-NH,Secretary of State,,REP,Paul D. Pate,310,52,258
+Butler,1-GR,Secretary of State,,DEM,Joel Miller,231,70,161
+Butler,2-CL,Secretary of State,,DEM,Joel Miller,263,90,173
+Butler,3-DU,Secretary of State,,DEM,Joel Miller,71,31,40
+Butler,4-AL,Secretary of State,,DEM,Joel Miller,122,56,66
+Butler,5-AP,Secretary of State,,DEM,Joel Miller,98,26,72
+Butler,6-SR,Secretary of State,,DEM,Joel Miller,291,109,182
+Butler,7-PB,Secretary of State,,DEM,Joel Miller,211,49,162
+Butler,8-NH,Secretary of State,,DEM,Joel Miller,113,32,81
+Butler,1-GR,Secretary of State,,,Write-in,0,0,0
+Butler,2-CL,Secretary of State,,,Write-in,0,0,0
+Butler,3-DU,Secretary of State,,,Write-in,0,0,0
+Butler,4-AL,Secretary of State,,,Write-in,0,0,0
+Butler,5-AP,Secretary of State,,,Write-in,0,0,0
+Butler,6-SR,Secretary of State,,,Write-in,1,0,1
+Butler,7-PB,Secretary of State,,,Write-in,0,0,0
+Butler,8-NH,Secretary of State,,,Write-in,0,0,0
+Butler,1-GR,Auditor of State,,REP,Todd Halbur,454,84,370
+Butler,2-CL,Auditor of State,,REP,Todd Halbur,578,103,475
+Butler,3-DU,Auditor of State,,REP,Todd Halbur,385,75,310
+Butler,4-AL,Auditor of State,,REP,Todd Halbur,473,169,304
+Butler,5-AP,Auditor of State,,REP,Todd Halbur,415,79,336
+Butler,6-SR,Auditor of State,,REP,Todd Halbur,609,114,495
+Butler,7-PB,Auditor of State,,REP,Todd Halbur,625,120,505
+Butler,8-NH,Auditor of State,,REP,Todd Halbur,236,36,200
+Butler,1-GR,Auditor of State,,DEM,Rob Sand,330,95,235
+Butler,2-CL,Auditor of State,,DEM,Rob Sand,408,139,269
+Butler,3-DU,Auditor of State,,DEM,Rob Sand,131,51,80
+Butler,4-AL,Auditor of State,,DEM,Rob Sand,199,88,111
+Butler,5-AP,Auditor of State,,DEM,Rob Sand,177,46,131
+Butler,6-SR,Auditor of State,,DEM,Rob Sand,417,153,264
+Butler,7-PB,Auditor of State,,DEM,Rob Sand,323,78,245
+Butler,8-NH,Auditor of State,,DEM,Rob Sand,181,44,137
+Butler,1-GR,Auditor of State,,,Write-in,0,0,0
+Butler,2-CL,Auditor of State,,,Write-in,0,0,0
+Butler,3-DU,Auditor of State,,,Write-in,0,0,0
+Butler,4-AL,Auditor of State,,,Write-in,0,0,0
+Butler,5-AP,Auditor of State,,,Write-in,1,0,1
+Butler,6-SR,Auditor of State,,,Write-in,2,0,2
+Butler,7-PB,Auditor of State,,,Write-in,0,0,0
+Butler,8-NH,Auditor of State,,,Write-in,0,0,0
+Butler,1-GR,Treasurer of State,,REP,Roby Smith,469,82,387
+Butler,2-CL,Treasurer of State,,REP,Roby Smith,620,124,496
+Butler,3-DU,Treasurer of State,,REP,Roby Smith,406,83,323
+Butler,4-AL,Treasurer of State,,REP,Roby Smith,504,168,336
+Butler,5-AP,Treasurer of State,,REP,Roby Smith,446,82,364
+Butler,6-SR,Treasurer of State,,REP,Roby Smith,638,123,515
+Butler,7-PB,Treasurer of State,,REP,Roby Smith,654,128,526
+Butler,8-NH,Treasurer of State,,REP,Roby Smith,256,37,219
+Butler,1-GR,Treasurer of State,,DEM,Michael L. Fitzgerald,310,97,213
+Butler,2-CL,Treasurer of State,,DEM,Michael L. Fitzgerald,362,119,243
+Butler,3-DU,Treasurer of State,,DEM,Michael L. Fitzgerald,106,41,65
+Butler,4-AL,Treasurer of State,,DEM,Michael L. Fitzgerald,170,88,82
+Butler,5-AP,Treasurer of State,,DEM,Michael L. Fitzgerald,145,43,102
+Butler,6-SR,Treasurer of State,,DEM,Michael L. Fitzgerald,385,145,240
+Butler,7-PB,Treasurer of State,,DEM,Michael L. Fitzgerald,291,69,222
+Butler,8-NH,Treasurer of State,,DEM,Michael L. Fitzgerald,159,42,117
+Butler,1-GR,Treasurer of State,,,Write-in,0,0,0
+Butler,2-CL,Treasurer of State,,,Write-in,0,0,0
+Butler,3-DU,Treasurer of State,,,Write-in,0,0,0
+Butler,4-AL,Treasurer of State,,,Write-in,0,0,0
+Butler,5-AP,Treasurer of State,,,Write-in,0,0,0
+Butler,6-SR,Treasurer of State,,,Write-in,1,0,1
+Butler,7-PB,Treasurer of State,,,Write-in,0,0,0
+Butler,8-NH,Treasurer of State,,,Write-in,0,0,0
+Butler,1-GR,Secretary of Agriculture,,REP,Mike Naig,574,114,460
+Butler,2-CL,Secretary of Agriculture,,REP,Mike Naig,748,162,586
+Butler,3-DU,Secretary of Agriculture,,REP,Mike Naig,453,100,353
+Butler,4-AL,Secretary of Agriculture,,REP,Mike Naig,571,210,361
+Butler,5-AP,Secretary of Agriculture,,REP,Mike Naig,498,99,399
+Butler,6-SR,Secretary of Agriculture,,REP,Mike Naig,747,158,589
+Butler,7-PB,Secretary of Agriculture,,REP,Mike Naig,774,158,616
+Butler,8-NH,Secretary of Agriculture,,REP,Mike Naig,302,49,253
+Butler,1-GR,Secretary of Agriculture,,DEM,John Norwood,214,68,146
+Butler,2-CL,Secretary of Agriculture,,DEM,John Norwood,235,80,155
+Butler,3-DU,Secretary of Agriculture,,DEM,John Norwood,63,29,34
+Butler,4-AL,Secretary of Agriculture,,DEM,John Norwood,105,48,57
+Butler,5-AP,Secretary of Agriculture,,DEM,John Norwood,93,25,68
+Butler,6-SR,Secretary of Agriculture,,DEM,John Norwood,284,110,174
+Butler,7-PB,Secretary of Agriculture,,DEM,John Norwood,183,46,137
+Butler,8-NH,Secretary of Agriculture,,DEM,John Norwood,116,31,85
+Butler,1-GR,Secretary of Agriculture,,,Write-in,0,0,0
+Butler,2-CL,Secretary of Agriculture,,,Write-in,0,0,0
+Butler,3-DU,Secretary of Agriculture,,,Write-in,2,0,2
+Butler,4-AL,Secretary of Agriculture,,,Write-in,0,0,0
+Butler,5-AP,Secretary of Agriculture,,,Write-in,0,0,0
+Butler,6-SR,Secretary of Agriculture,,,Write-in,1,0,1
+Butler,7-PB,Secretary of Agriculture,,,Write-in,0,0,0
+Butler,8-NH,Secretary of Agriculture,,,Write-in,0,0,0
+Butler,1-GR,Attorney General,,REP,Brenna Bird,462,79,383
+Butler,2-CL,Attorney General,,REP,Brenna Bird,622,112,510
+Butler,3-DU,Attorney General,,REP,Brenna Bird,407,81,326
+Butler,4-AL,Attorney General,,REP,Brenna Bird,504,172,332
+Butler,5-AP,Attorney General,,REP,Brenna Bird,424,79,345
+Butler,6-SR,Attorney General,,REP,Brenna Bird,613,107,506
+Butler,7-PB,Attorney General,,REP,Brenna Bird,639,119,520
+Butler,8-NH,Attorney General,,REP,Brenna Bird,247,37,210
+Butler,1-GR,Attorney General,,DEM,Tom Miller,323,106,217
+Butler,2-CL,Attorney General,,DEM,Tom Miller,362,132,230
+Butler,3-DU,Attorney General,,DEM,Tom Miller,112,48,64
+Butler,4-AL,Attorney General,,DEM,Tom Miller,174,92,82
+Butler,5-AP,Attorney General,,DEM,Tom Miller,167,46,121
+Butler,6-SR,Attorney General,,DEM,Tom Miller,419,163,256
+Butler,7-PB,Attorney General,,DEM,Tom Miller,310,82,228
+Butler,8-NH,Attorney General,,DEM,Tom Miller,174,47,127
+Butler,1-GR,Attorney General,,,Write-in,0,0,0
+Butler,2-CL,Attorney General,,,Write-in,0,0,0
+Butler,3-DU,Attorney General,,,Write-in,2,0,2
+Butler,4-AL,Attorney General,,,Write-in,0,0,0
+Butler,5-AP,Attorney General,,,Write-in,1,0,1
+Butler,6-SR,Attorney General,,,Write-in,2,0,2
+Butler,7-PB,Attorney General,,,Write-in,0,0,0
+Butler,8-NH,Attorney General,,,Write-in,0,0,0
+Butler,1-GR,State Senate,29,REP,Sandy Salmon,522,103,419
+Butler,2-CL,State Senate,29,REP,Sandy Salmon,695,143,552
+Butler,3-DU,State Senate,29,REP,Sandy Salmon,440,93,347
+Butler,4-AL,State Senate,29,REP,Sandy Salmon,550,199,351
+Butler,5-AP,State Senate,29,REP,Sandy Salmon,471,96,375
+Butler,6-SR,State Senate,29,REP,Sandy Salmon,691,138,553
+Butler,7-PB,State Senate,29,REP,Sandy Salmon,709,137,572
+Butler,8-NH,State Senate,29,REP,Sandy Salmon,293,50,243
+Butler,1-GR,State Senate,29,DEM,Jenn Wolff,254,72,182
+Butler,2-CL,State Senate,29,DEM,Jenn Wolff,288,97,191
+Butler,3-DU,State Senate,29,DEM,Jenn Wolff,72,33,39
+Butler,4-AL,State Senate,29,DEM,Jenn Wolff,126,59,67
+Butler,5-AP,State Senate,29,DEM,Jenn Wolff,118,31,87
+Butler,6-SR,State Senate,29,DEM,Jenn Wolff,346,132,214
+Butler,7-PB,State Senate,29,DEM,Jenn Wolff,240,61,179
+Butler,8-NH,State Senate,29,DEM,Jenn Wolff,126,32,94
+Butler,1-GR,State Senate,29,,Write-in,1,0,1
+Butler,2-CL,State Senate,29,,Write-in,0,0,0
+Butler,3-DU,State Senate,29,,Write-in,1,0,1
+Butler,4-AL,State Senate,29,,Write-in,1,0,1
+Butler,5-AP,State Senate,29,,Write-in,0,0,0
+Butler,6-SR,State Senate,29,,Write-in,1,0,1
+Butler,7-PB,State Senate,29,,Write-in,1,0,1
+Butler,8-NH,State Senate,29,,Write-in,0,0,0
+Butler,1-GR,State House,57,REP,Pat Grassley,534,113,421
+Butler,2-CL,State House,57,REP,Pat Grassley,696,146,550
+Butler,3-DU,State House,57,REP,Pat Grassley,457,101,356
+Butler,4-AL,State House,57,REP,Pat Grassley,567,211,356
+Butler,5-AP,State House,57,REP,Pat Grassley,490,101,389
+Butler,6-SR,State House,57,REP,Pat Grassley,699,144,555
+Butler,7-PB,State House,57,REP,Pat Grassley,717,142,575
+Butler,8-NH,State House,57,REP,Pat Grassley,283,47,236
+Butler,1-GR,State House,57,DEM,Carissa Froyum,258,72,186
+Butler,2-CL,State House,57,DEM,Carissa Froyum,297,96,201
+Butler,3-DU,State House,57,DEM,Carissa Froyum,67,29,38
+Butler,4-AL,State House,57,DEM,Carissa Froyum,120,56,64
+Butler,5-AP,State House,57,DEM,Carissa Froyum,112,29,83
+Butler,6-SR,State House,57,DEM,Carissa Froyum,338,128,210
+Butler,7-PB,State House,57,DEM,Carissa Froyum,240,60,180
+Butler,8-NH,State House,57,DEM,Carissa Froyum,146,37,109
+Butler,1-GR,State House,57,,Write-in,2,1,1
+Butler,2-CL,State House,57,,Write-in,2,2,0
+Butler,3-DU,State House,57,,Write-in,1,0,1
+Butler,4-AL,State House,57,,Write-in,1,0,1
+Butler,5-AP,State House,57,,Write-in,1,0,1
+Butler,6-SR,State House,57,,Write-in,2,0,2
+Butler,7-PB,State House,57,,Write-in,0,0,0
+Butler,8-NH,State House,57,,Write-in,0,0,0
+Butler,1-GR,County Board of Supervisors District 2,,REP,Wayne Allan Dralle,705,151,554
+Butler,3-DU,County Board of Supervisors District 2,,REP,Wayne Allan Dralle,482,118,364
+Butler,4-AL,County Board of Supervisors District 2,,REP,Wayne Allan Dralle,611,225,386
+Butler,1-GR,County Board of Supervisors District 2,,,Write-in,12,2,10
+Butler,3-DU,County Board of Supervisors District 2,,,Write-in,3,0,3
+Butler,4-AL,County Board of Supervisors District 2,,,Write-in,4,1,3
+Butler,5-AP,County Board of Supervisors District 3,,REP,Rusty Eddy,534,111,423
+Butler,7-PB,County Board of Supervisors District 3,,REP,Rusty Eddy,883,174,709
+Butler,8-NH,County Board of Supervisors District 3,,REP,Rusty Eddy,356,65,291
+Butler,5-AP,County Board of Supervisors District 3,,,Write-in,11,4,7
+Butler,7-PB,County Board of Supervisors District 3,,,Write-in,5,4,1
+Butler,8-NH,County Board of Supervisors District 3,,,Write-in,8,2,6
+Butler,1-GR,County Treasurer,,REP,Roxanne Nicolaus,686,146,540
+Butler,2-CL,County Treasurer,,REP,Roxanne Nicolaus,892,209,683
+Butler,3-DU,County Treasurer,,REP,Roxanne Nicolaus,491,123,368
+Butler,4-AL,County Treasurer,,REP,Roxanne Nicolaus,634,237,397
+Butler,5-AP,County Treasurer,,REP,Roxanne Nicolaus,554,112,442
+Butler,6-SR,County Treasurer,,REP,Roxanne Nicolaus,908,218,690
+Butler,7-PB,County Treasurer,,REP,Roxanne Nicolaus,874,175,699
+Butler,8-NH,County Treasurer,,REP,Roxanne Nicolaus,358,67,291
+Butler,1-GR,County Treasurer,,,Write-in,7,2,5
+Butler,2-CL,County Treasurer,,,Write-in,12,0,12
+Butler,3-DU,County Treasurer,,,Write-in,1,0,1
+Butler,4-AL,County Treasurer,,,Write-in,0,0,0
+Butler,5-AP,County Treasurer,,,Write-in,1,1,0
+Butler,6-SR,County Treasurer,,,Write-in,7,3,4
+Butler,7-PB,County Treasurer,,,Write-in,0,0,0
+Butler,8-NH,County Treasurer,,,Write-in,3,1,2
+Butler,1-GR,County Recorder,,REP,Janice Jacobs,696,149,547
+Butler,2-CL,County Recorder,,REP,Janice Jacobs,892,208,684
+Butler,3-DU,County Recorder,,REP,Janice Jacobs,495,122,373
+Butler,4-AL,County Recorder,,REP,Janice Jacobs,645,241,404
+Butler,5-AP,County Recorder,,REP,Janice Jacobs,556,114,442
+Butler,6-SR,County Recorder,,REP,Janice Jacobs,909,215,694
+Butler,7-PB,County Recorder,,REP,Janice Jacobs,879,175,704
+Butler,8-NH,County Recorder,,REP,Janice Jacobs,359,68,291
+Butler,1-GR,County Recorder,,,Write-in,7,2,5
+Butler,2-CL,County Recorder,,,Write-in,9,0,9
+Butler,3-DU,County Recorder,,,Write-in,0,0,0
+Butler,4-AL,County Recorder,,,Write-in,1,0,1
+Butler,5-AP,County Recorder,,,Write-in,1,1,0
+Butler,6-SR,County Recorder,,,Write-in,10,3,7
+Butler,7-PB,County Recorder,,,Write-in,0,0,0
+Butler,8-NH,County Recorder,,,Write-in,3,1,2
+Butler,1-GR,County Attorney,,REP,David Kuehner,677,143,534
+Butler,2-CL,County Attorney,,REP,David Kuehner,873,204,669
+Butler,3-DU,County Attorney,,REP,David Kuehner,479,117,362
+Butler,4-AL,County Attorney,,REP,David Kuehner,609,219,390
+Butler,5-AP,County Attorney,,REP,David Kuehner,544,112,432
+Butler,6-SR,County Attorney,,REP,David Kuehner,885,209,676
+Butler,7-PB,County Attorney,,REP,David Kuehner,856,170,686
+Butler,8-NH,County Attorney,,REP,David Kuehner,350,64,286
+Butler,1-GR,County Attorney,,,Write-in,12,2,10
+Butler,2-CL,County Attorney,,,Write-in,8,0,8
+Butler,3-DU,County Attorney,,,Write-in,6,1,5
+Butler,4-AL,County Attorney,,,Write-in,4,2,2
+Butler,5-AP,County Attorney,,,Write-in,1,1,0
+Butler,6-SR,County Attorney,,,Write-in,13,3,10
+Butler,7-PB,County Attorney,,,Write-in,4,3,1
+Butler,8-NH,County Attorney,,,Write-in,5,1,4
+Butler,6-SR,Albion Township Trustee,,,Richard C. Allan,15,4,11
+Butler,7-PB,Albion Township Trustee,,,Richard C. Allan,85,19,66
+Butler,6-SR,Albion Township Trustee,,,Joe W. Wallbaum,15,4,11
+Butler,7-PB,Albion Township Trustee,,,Joe W. Wallbaum,78,18,60
+Butler,6-SR,Albion Township Trustee,,,Write-in,1,0,1
+Butler,7-PB,Albion Township Trustee,,,Write-in,1,1,0
+Butler,6-SR,Albion Township Clerk,,,Bryon Aswegen,20,4,16
+Butler,7-PB,Albion Township Clerk,,,Bryon Aswegen,101,24,77
+Butler,6-SR,Albion Township Clerk,,,Write-in,0,0,0
+Butler,7-PB,Albion Township Clerk,,,Write-in,0,0,0
+Butler,6-SR,Beaver Township Trustee,,,Steve Koop,124,33,91
+Butler,8-NH,Beaver Township Trustee,,,Steve Koop,185,42,143
+Butler,6-SR,Beaver Township Trustee,,,Lane M. Bass,123,42,81
+Butler,8-NH,Beaver Township Trustee,,,Lane M. Bass,185,44,141
+Butler,6-SR,Beaver Township Trustee,,,Write-in,1,0,1
+Butler,8-NH,Beaver Township Trustee,,,Write-in,1,1,0
+Butler,6-SR,Beaver Township Clerk,,,Dale A Nieman,139,38,101
+Butler,8-NH,Beaver Township Clerk,,,Dale A Nieman,211,45,166
+Butler,6-SR,Beaver Township Clerk,,,Write-in,0,0,0
+Butler,8-NH,Beaver Township Clerk,,,Write-in,1,0,1
+Butler,1-GR,Bennezette Township Trustee,,,Mark Johnson,72,23,49
+Butler,1-GR,Bennezette Township Trustee,,,Martin L. Bramer,60,23,37
+Butler,1-GR,Bennezette Township Trustee,,,Write-in,0,0,0
+Butler,1-GR,Bennezette Township Clerk,,,Dennis Cassman,72,25,47
+Butler,1-GR,Bennezette Township Clerk,,,Write-in,0,0,0
+Butler,2-CL,Butler Township Trustee,,,Paul Leerhoff,200,60,140
+Butler,2-CL,Butler Township Trustee,,,William Backer,152,47,105
+Butler,2-CL,Butler Township Trustee,,,Write-in,2,0,2
+Butler,2-CL,Butler Township Clerk,,,Thomas L. Hoodjer,213,66,147
+Butler,2-CL,Butler Township Clerk,,,Write-in,0,0,0
+Butler,1-GR,Coldwater Township Trustee,,,Michael Salge,96,25,71
+Butler,1-GR,Coldwater Township Trustee,,,Will F. Debner,74,21,53
+Butler,1-GR,Coldwater Township Trustee,,,Write-in,0,0,0
+Butler,1-GR,Coldwater Township Clerk,,,Fred Meyne,112,28,84
+Butler,1-GR,Coldwater Township Clerk,,,Write-in,0,0,0
+Butler,1-GR,Dayton Township Trustee,,,Troy Feldman,81,17,64
+Butler,2-CL,Dayton Township Trustee,,,Troy Feldman,26,7,19
+Butler,1-GR,Dayton Township Trustee,,,Write-in,2,0,2
+Butler,2-CL,Dayton Township Trustee,,,Write-in,0,0,0
+Butler,1-GR,Dayton Township Trustee,,,Clint Swick,2,0,2
+Butler,2-CL,Dayton Township Trustee,,,Clint Swick,0,0,0
+Butler,1-GR,Dayton Township Clerk,,,Donald Feldman,81,17,64
+Butler,2-CL,Dayton Township Clerk,,,Donald Feldman,25,7,18
+Butler,1-GR,Dayton Township Clerk,,,Write-in,0,0,0
+Butler,2-CL,Dayton Township Clerk,,,Write-in,0,0,0
+Butler,2-CL,Fremont Township Trustee,,,Keith Lovrien,97,31,66
+Butler,2-CL,Fremont Township Trustee,,,David Peters,92,27,65
+Butler,2-CL,Fremont Township Trustee,,,Write-in,2,0,2
+Butler,2-CL,Fremont Township Clerk,,,Ron D. Leerhoff,118,34,84
+Butler,2-CL,Fremont Township Clerk,,,Write-in,0,0,0
+Butler,2-CL,Jackson Township Trustee,,,Eric Bixby,111,33,78
+Butler,2-CL,Jackson Township Trustee,,,Mervin Edeker,103,32,71
+Butler,2-CL,Jackson Township Trustee,,,Write-in,0,0,0
+Butler,2-CL,Jackson Township Clerk,,,David McWhirter,117,36,81
+Butler,2-CL,Jackson Township Clerk,,,Write-in,0,0,0
+Butler,6-SR,Jefferson Township Trustee,,,Dusty Miller,100,43,57
+Butler,6-SR,Jefferson Township Trustee,,,Todd C. Reiher,88,38,50
+Butler,6-SR,Jefferson Township Trustee,,,Write-in,0,0,0
+Butler,6-SR,Jefferson Township Clerk,,,Mary Brouwer,115,47,68
+Butler,6-SR,Jefferson Township Clerk,,,Write-in,1,1,0
+Butler,6-SR,Jefferson Township Trustee To Fill Vacancy,,,Brent Janssen,110,44,66
+Butler,6-SR,Jefferson Township Trustee To Fill Vacancy,,,Write-in,0,0,0
+Butler,3-DU,Madison Township Trustee,,,Jason A. Schipper,68,25,43
+Butler,3-DU,Madison Township Trustee,,,William W. Nolte,60,22,38
+Butler,3-DU,Madison Township Trustee,,,Write-in,2,0,2
+Butler,3-DU,Madison Township Clerk,,,Eileen Krusey,83,30,53
+Butler,3-DU,Madison Township Clerk,,,Write-in,1,0,1
+Butler,5-AP,Monroe Township Trustee,,,Jeffrey A. Johnson,100,26,74
+Butler,5-AP,Monroe Township Trustee,,,Randy Williamson,125,29,96
+Butler,5-AP,Monroe Township Trustee,,,Write-in,0,0,0
+Butler,5-AP,Monroe Township Clerk,,,Gaylen Mulder,138,28,110
+Butler,5-AP,Monroe Township Clerk,,,Write-in,0,0,0
+Butler,3-DU,Pittsford Township Trustee,,,Michael D. Lindaman,75,13,62
+Butler,3-DU,Pittsford Township Trustee,,,Write-in,0,0,0
+Butler,3-DU,Pittsford Township Trustee,,,Denny Weigman,1,0,1
+Butler,3-DU,Pittsford Township Clerk,,,Write-in,0,0,0
+Butler,3-DU,Pittsford Township Clerk,,,Dennis Mennen,1,0,1
+Butler,4-AL,Ripley Township Trustee,,,Jon Oltmann,97,41,56
+Butler,4-AL,Ripley Township Trustee,,,James A. Miller,85,36,49
+Butler,4-AL,Ripley Township Trustee,,,Write-in,4,0,4
+Butler,4-AL,Ripley Township Clerk,,,Joan Becker,101,42,59
+Butler,4-AL,Ripley Township Clerk,,,Write-in,2,0,2
+Butler,6-SR,Shell Rock Township Trustee,,,Keith Kramer,106,28,78
+Butler,6-SR,Shell Rock Township Trustee,,,Levi Jonathan Epley,119,31,88
+Butler,6-SR,Shell Rock Township Trustee,,,Write-in,0,0,0
+Butler,6-SR,Shell Rock Township Clerk,,,Ryan Neuhaus,136,38,98
+Butler,6-SR,Shell Rock Township Clerk,,,Write-in,0,0,0
+Butler,3-DU,Washington Township Trustee,,,Grant Kampman,92,36,56
+Butler,3-DU,Washington Township Trustee,,,Jeff Mohwinkle,91,35,56
+Butler,3-DU,Washington Township Trustee,,,Write-in,2,0,2
+Butler,3-DU,Washington Township Clerk,,,Melinda Sue Miller,101,40,61
+Butler,3-DU,Washington Township Clerk,,,Write-in,2,0,2
+Butler,4-AL,West Point Township Trustee,,,Tom Wubbena,84,38,46
+Butler,4-AL,West Point Township Trustee,,,Dave Eberline,79,28,51
+Butler,4-AL,West Point Township Trustee,,,Write-in,0,0,0
+Butler,4-AL,West Point Township Clerk,,,Suzanne Wubbena,95,38,57
+Butler,4-AL,West Point Township Clerk,,,Write-in,0,0,0
+Butler,1-GR,Soil and Water Conservation District Commissioner,,,Lowell H. Miller,343,79,264
+Butler,2-CL,Soil and Water Conservation District Commissioner,,,Lowell H. Miller,398,81,317
+Butler,3-DU,Soil and Water Conservation District Commissioner,,,Lowell H. Miller,285,67,218
+Butler,4-AL,Soil and Water Conservation District Commissioner,,,Lowell H. Miller,329,126,203
+Butler,5-AP,Soil and Water Conservation District Commissioner,,,Lowell H. Miller,276,55,221
+Butler,6-SR,Soil and Water Conservation District Commissioner,,,Lowell H. Miller,409,102,307
+Butler,7-PB,Soil and Water Conservation District Commissioner,,,Lowell H. Miller,422,87,335
+Butler,8-NH,Soil and Water Conservation District Commissioner,,,Lowell H. Miller,181,34,147
+Butler,1-GR,Soil and Water Conservation District Commissioner,,,Rick Juchems,319,70,249
+Butler,2-CL,Soil and Water Conservation District Commissioner,,,Rick Juchems,475,114,361
+Butler,3-DU,Soil and Water Conservation District Commissioner,,,Rick Juchems,164,47,117
+Butler,4-AL,Soil and Water Conservation District Commissioner,,,Rick Juchems,224,100,124
+Butler,5-AP,Soil and Water Conservation District Commissioner,,,Rick Juchems,223,51,172
+Butler,6-SR,Soil and Water Conservation District Commissioner,,,Rick Juchems,400,108,292
+Butler,7-PB,Soil and Water Conservation District Commissioner,,,Rick Juchems,334,68,266
+Butler,8-NH,Soil and Water Conservation District Commissioner,,,Rick Juchems,133,31,102
+Butler,1-GR,Soil and Water Conservation District Commissioner,,,Tammy Brocka,444,96,348
+Butler,2-CL,Soil and Water Conservation District Commissioner,,,Tammy Brocka,483,127,356
+Butler,3-DU,Soil and Water Conservation District Commissioner,,,Tammy Brocka,296,65,231
+Butler,4-AL,Soil and Water Conservation District Commissioner,,,Tammy Brocka,369,138,231
+Butler,5-AP,Soil and Water Conservation District Commissioner,,,Tammy Brocka,256,53,203
+Butler,6-SR,Soil and Water Conservation District Commissioner,,,Tammy Brocka,481,119,362
+Butler,7-PB,Soil and Water Conservation District Commissioner,,,Tammy Brocka,416,73,343
+Butler,8-NH,Soil and Water Conservation District Commissioner,,,Tammy Brocka,184,37,147
+Butler,1-GR,Soil and Water Conservation District Commissioner,,,Write-in,7,0,7
+Butler,2-CL,Soil and Water Conservation District Commissioner,,,Write-in,5,0,5
+Butler,3-DU,Soil and Water Conservation District Commissioner,,,Write-in,4,1,3
+Butler,4-AL,Soil and Water Conservation District Commissioner,,,Write-in,3,2,1
+Butler,5-AP,Soil and Water Conservation District Commissioner,,,Write-in,3,0,3
+Butler,6-SR,Soil and Water Conservation District Commissioner,,,Write-in,9,2,7
+Butler,7-PB,Soil and Water Conservation District Commissioner,,,Write-in,2,1,1
+Butler,8-NH,Soil and Water Conservation District Commissioner,,,Write-in,3,0,3
+Butler,1-GR,County Agricultural Extension Council Member,,,Rachel Jensen,490,109,381
+Butler,2-CL,County Agricultural Extension Council Member,,,Rachel Jensen,602,134,468
+Butler,3-DU,County Agricultural Extension Council Member,,,Rachel Jensen,314,79,235
+Butler,4-AL,County Agricultural Extension Council Member,,,Rachel Jensen,405,155,250
+Butler,5-AP,County Agricultural Extension Council Member,,,Rachel Jensen,361,78,283
+Butler,6-SR,County Agricultural Extension Council Member,,,Rachel Jensen,567,152,415
+Butler,7-PB,County Agricultural Extension Council Member,,,Rachel Jensen,541,104,437
+Butler,8-NH,County Agricultural Extension Council Member,,,Rachel Jensen,227,42,185
+Butler,1-GR,County Agricultural Extension Council Member,,,Jessica Lovrien,484,106,378
+Butler,2-CL,County Agricultural Extension Council Member,,,Jessica Lovrien,718,155,563
+Butler,3-DU,County Agricultural Extension Council Member,,,Jessica Lovrien,301,71,230
+Butler,4-AL,County Agricultural Extension Council Member,,,Jessica Lovrien,396,156,240
+Butler,5-AP,County Agricultural Extension Council Member,,,Jessica Lovrien,374,80,294
+Butler,6-SR,County Agricultural Extension Council Member,,,Jessica Lovrien,596,154,442
+Butler,7-PB,County Agricultural Extension Council Member,,,Jessica Lovrien,572,117,455
+Butler,8-NH,County Agricultural Extension Council Member,,,Jessica Lovrien,218,46,172
+Butler,1-GR,County Agricultural Extension Council Member,,,Bryce Bruns,512,116,396
+Butler,2-CL,County Agricultural Extension Council Member,,,Bryce Bruns,545,129,416
+Butler,3-DU,County Agricultural Extension Council Member,,,Bryce Bruns,310,78,232
+Butler,4-AL,County Agricultural Extension Council Member,,,Bryce Bruns,434,160,274
+Butler,5-AP,County Agricultural Extension Council Member,,,Bryce Bruns,322,78,244
+Butler,6-SR,County Agricultural Extension Council Member,,,Bryce Bruns,539,142,397
+Butler,7-PB,County Agricultural Extension Council Member,,,Bryce Bruns,493,103,390
+Butler,8-NH,County Agricultural Extension Council Member,,,Bryce Bruns,215,42,173
+Butler,1-GR,County Agricultural Extension Council Member,,,Write-in,28,10,18
+Butler,2-CL,County Agricultural Extension Council Member,,,Write-in,21,2,19
+Butler,3-DU,County Agricultural Extension Council Member,,,Write-in,12,2,10
+Butler,4-AL,County Agricultural Extension Council Member,,,Write-in,14,7,7
+Butler,5-AP,County Agricultural Extension Council Member,,,Write-in,12,0,12
+Butler,6-SR,County Agricultural Extension Council Member,,,Write-in,14,5,9
+Butler,7-PB,County Agricultural Extension Council Member,,,Write-in,15,3,12
+Butler,8-NH,County Agricultural Extension Council Member,,,Write-in,3,0,3
+Butler,1-GR,County Agricultural Extension Council Member,,,Edward Johnson,0,0,0
+Butler,2-CL,County Agricultural Extension Council Member,,,Edward Johnson,1,0,1
+Butler,3-DU,County Agricultural Extension Council Member,,,Edward Johnson,0,0,0
+Butler,4-AL,County Agricultural Extension Council Member,,,Edward Johnson,0,0,0
+Butler,5-AP,County Agricultural Extension Council Member,,,Edward Johnson,0,0,0
+Butler,6-SR,County Agricultural Extension Council Member,,,Edward Johnson,1,0,1
+Butler,7-PB,County Agricultural Extension Council Member,,,Edward Johnson,1,0,1
+Butler,8-NH,County Agricultural Extension Council Member,,,Edward Johnson,0,0,0
+Butler,1-GR,County Agricultural Extension Council Member,,,Scott Spratt,2,0,2
+Butler,2-CL,County Agricultural Extension Council Member,,,Scott Spratt,0,0,0
+Butler,3-DU,County Agricultural Extension Council Member,,,Scott Spratt,0,0,0
+Butler,4-AL,County Agricultural Extension Council Member,,,Scott Spratt,0,0,0
+Butler,5-AP,County Agricultural Extension Council Member,,,Scott Spratt,0,0,0
+Butler,6-SR,County Agricultural Extension Council Member,,,Scott Spratt,0,0,0
+Butler,7-PB,County Agricultural Extension Council Member,,,Scott Spratt,0,0,0
+Butler,8-NH,County Agricultural Extension Council Member,,,Scott Spratt,0,0,0
+Butler,1-GR,Supreme Court Justice,,,Yes,442,93,349
+Butler,2-CL,Supreme Court Justice,,,Yes,577,137,440
+Butler,3-DU,Supreme Court Justice,,,Yes,324,72,252
+Butler,4-AL,Supreme Court Justice,,,Yes,367,138,229
+Butler,5-AP,Supreme Court Justice,,,Yes,314,67,247
+Butler,6-SR,Supreme Court Justice,,,Yes,532,130,402
+Butler,7-PB,Supreme Court Justice,,,Yes,542,104,438
+Butler,8-NH,Supreme Court Justice,,,Yes,233,41,192
+Butler,1-GR,Supreme Court Justice,,,No,150,28,122
+Butler,2-CL,Supreme Court Justice,,,No,183,32,151
+Butler,3-DU,Supreme Court Justice,,,No,76,18,58
+Butler,4-AL,Supreme Court Justice,,,No,107,35,72
+Butler,5-AP,Supreme Court Justice,,,No,109,20,89
+Butler,6-SR,Supreme Court Justice,,,No,241,75,166
+Butler,7-PB,Supreme Court Justice,,,No,156,34,122
+Butler,8-NH,Supreme Court Justice,,,No,83,20,63
+Butler,1-GR,Court of Appeals Judge,,,Yes,440,95,345
+Butler,2-CL,Court of Appeals Judge,,,Yes,570,138,432
+Butler,3-DU,Court of Appeals Judge,,,Yes,316,75,241
+Butler,4-AL,Court of Appeals Judge,,,Yes,355,130,225
+Butler,5-AP,Court of Appeals Judge,,,Yes,322,74,248
+Butler,6-SR,Court of Appeals Judge,,,Yes,539,136,403
+Butler,7-PB,Court of Appeals Judge,,,Yes,527,103,424
+Butler,8-NH,Court of Appeals Judge,,,Yes,217,38,179
+Butler,1-GR,Court of Appeals Judge,,,No,139,24,115
+Butler,2-CL,Court of Appeals Judge,,,No,176,28,148
+Butler,3-DU,Court of Appeals Judge,,,No,72,15,57
+Butler,4-AL,Court of Appeals Judge,,,No,117,39,78
+Butler,5-AP,Court of Appeals Judge,,,No,104,17,87
+Butler,6-SR,Court of Appeals Judge,,,No,231,58,173
+Butler,7-PB,Court of Appeals Judge,,,No,155,31,124
+Butler,8-NH,Court of Appeals Judge,,,No,84,21,63
+Butler,1-GR,District 2A Associate Judge,,,Yes,507,108,399
+Butler,2-CL,District 2A Associate Judge,,,Yes,629,154,475
+Butler,3-DU,District 2A Associate Judge,,,Yes,338,81,257
+Butler,4-AL,District 2A Associate Judge,,,Yes,414,156,258
+Butler,5-AP,District 2A Associate Judge,,,Yes,339,71,268
+Butler,6-SR,District 2A Associate Judge,,,Yes,611,160,451
+Butler,7-PB,District 2A Associate Judge,,,Yes,581,113,468
+Butler,8-NH,District 2A Associate Judge,,,Yes,243,41,202
+Butler,1-GR,District 2A Associate Judge,,,No,120,23,97
+Butler,2-CL,District 2A Associate Judge,,,No,164,28,136
+Butler,3-DU,District 2A Associate Judge,,,No,71,14,57
+Butler,4-AL,District 2A Associate Judge,,,No,96,31,65
+Butler,5-AP,District 2A Associate Judge,,,No,93,15,78
+Butler,6-SR,District 2A Associate Judge,,,No,212,52,160
+Butler,7-PB,District 2A Associate Judge,,,No,138,28,110
+Butler,8-NH,District 2A Associate Judge,,,No,74,18,56
+Butler,1-GR,Constitutional Amendment 1,,,Yes,589,116,473
+Butler,2-CL,Constitutional Amendment 1,,,Yes,746,165,581
+Butler,3-DU,Constitutional Amendment 1,,,Yes,424,89,335
+Butler,4-AL,Constitutional Amendment 1,,,Yes,542,193,349
+Butler,5-AP,Constitutional Amendment 1,,,Yes,466,94,372
+Butler,6-SR,Constitutional Amendment 1,,,Yes,759,177,582
+Butler,7-PB,Constitutional Amendment 1,,,Yes,723,152,571
+Butler,8-NH,Constitutional Amendment 1,,,Yes,320,61,259
+Butler,1-GR,Constitutional Amendment 1,,,No,158,55,103
+Butler,2-CL,Constitutional Amendment 1,,,No,204,70,134
+Butler,3-DU,Constitutional Amendment 1,,,No,64,28,36
+Butler,4-AL,Constitutional Amendment 1,,,No,79,35,44
+Butler,5-AP,Constitutional Amendment 1,,,No,93,25,68
+Butler,6-SR,Constitutional Amendment 1,,,No,219,76,143
+Butler,7-PB,Constitutional Amendment 1,,,No,160,40,120
+Butler,8-NH,Constitutional Amendment 1,,,No,80,18,62

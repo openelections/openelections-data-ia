@@ -1,0 +1,478 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Osceola,Ashton,U.S. Senate,,REP,Chuck Grassley,271,33,238
+Osceola,Harris,U.S. Senate,,REP,Chuck Grassley,138,12,126
+Osceola,May City,U.S. Senate,,REP,Chuck Grassley,86,6,80
+Osceola,Melvin,U.S. Senate,,REP,Chuck Grassley,167,15,152
+Osceola,Ocheyedan,U.S. Senate,,REP,Chuck Grassley,223,18,205
+Osceola,Osceola 1,U.S. Senate,,REP,Chuck Grassley,294,50,244
+Osceola,Osceola 2,U.S. Senate,,REP,Chuck Grassley,334,56,278
+Osceola,Osceola 3,U.S. Senate,,REP,Chuck Grassley,410,68,342
+Osceola,Ashton,U.S. Senate,,DEM,Michael Franken,30,7,23
+Osceola,Harris,U.S. Senate,,DEM,Michael Franken,15,3,12
+Osceola,May City,U.S. Senate,,DEM,Michael Franken,22,8,14
+Osceola,Melvin,U.S. Senate,,DEM,Michael Franken,37,2,35
+Osceola,Ocheyedan,U.S. Senate,,DEM,Michael Franken,37,6,31
+Osceola,Osceola 1,U.S. Senate,,DEM,Michael Franken,52,23,29
+Osceola,Osceola 2,U.S. Senate,,DEM,Michael Franken,71,27,44
+Osceola,Osceola 3,U.S. Senate,,DEM,Michael Franken,82,17,65
+Osceola,Ashton,U.S. Senate,,,Write-in,0,0,0
+Osceola,Harris,U.S. Senate,,,Write-in,0,0,0
+Osceola,May City,U.S. Senate,,,Write-in,0,0,0
+Osceola,Melvin,U.S. Senate,,,Write-in,0,0,0
+Osceola,Ocheyedan,U.S. Senate,,,Write-in,0,0,0
+Osceola,Osceola 1,U.S. Senate,,,Write-in,0,0,0
+Osceola,Osceola 2,U.S. Senate,,,Write-in,1,0,1
+Osceola,Osceola 3,U.S. Senate,,,Write-in,2,0,2
+Osceola,Ashton,U.S. House,4,REP,Randy Feenstra,276,34,242
+Osceola,Harris,U.S. House,4,REP,Randy Feenstra,137,11,126
+Osceola,May City,U.S. House,4,REP,Randy Feenstra,87,6,81
+Osceola,Melvin,U.S. House,4,REP,Randy Feenstra,176,15,161
+Osceola,Ocheyedan,U.S. House,4,REP,Randy Feenstra,225,18,207
+Osceola,Osceola 1,U.S. House,4,REP,Randy Feenstra,294,50,244
+Osceola,Osceola 2,U.S. House,4,REP,Randy Feenstra,346,56,290
+Osceola,Osceola 3,U.S. House,4,REP,Randy Feenstra,418,67,351
+Osceola,Ashton,U.S. House,4,DEM,Ryan Melton,19,6,13
+Osceola,Harris,U.S. House,4,DEM,Ryan Melton,13,4,9
+Osceola,May City,U.S. House,4,DEM,Ryan Melton,20,7,13
+Osceola,Melvin,U.S. House,4,DEM,Ryan Melton,26,2,24
+Osceola,Ocheyedan,U.S. House,4,DEM,Ryan Melton,30,5,25
+Osceola,Osceola 1,U.S. House,4,DEM,Ryan Melton,43,21,22
+Osceola,Osceola 2,U.S. House,4,DEM,Ryan Melton,58,25,33
+Osceola,Osceola 3,U.S. House,4,DEM,Ryan Melton,62,17,45
+Osceola,Ashton,U.S. House,4,LBC,Bryan Jack Holder,5,0,5
+Osceola,Harris,U.S. House,4,LBC,Bryan Jack Holder,2,0,2
+Osceola,May City,U.S. House,4,LBC,Bryan Jack Holder,1,1,0
+Osceola,Melvin,U.S. House,4,LBC,Bryan Jack Holder,4,0,4
+Osceola,Ocheyedan,U.S. House,4,LBC,Bryan Jack Holder,3,0,3
+Osceola,Osceola 1,U.S. House,4,LBC,Bryan Jack Holder,6,2,4
+Osceola,Osceola 2,U.S. House,4,LBC,Bryan Jack Holder,6,1,5
+Osceola,Osceola 3,U.S. House,4,LBC,Bryan Jack Holder,14,1,13
+Osceola,Ashton,U.S. House,4,,Write-in,0,0,0
+Osceola,Harris,U.S. House,4,,Write-in,0,0,0
+Osceola,May City,U.S. House,4,,Write-in,0,0,0
+Osceola,Melvin,U.S. House,4,,Write-in,0,0,0
+Osceola,Ocheyedan,U.S. House,4,,Write-in,0,0,0
+Osceola,Osceola 1,U.S. House,4,,Write-in,0,0,0
+Osceola,Osceola 2,U.S. House,4,,Write-in,0,0,0
+Osceola,Osceola 3,U.S. House,4,,Write-in,0,0,0
+Osceola,Ashton,Governor,,REP,Kim Reynolds and Adam Gregg,279,34,245
+Osceola,Harris,Governor,,REP,Kim Reynolds and Adam Gregg,139,11,128
+Osceola,May City,Governor,,REP,Kim Reynolds and Adam Gregg,91,7,84
+Osceola,Melvin,Governor,,REP,Kim Reynolds and Adam Gregg,182,15,167
+Osceola,Ocheyedan,Governor,,REP,Kim Reynolds and Adam Gregg,235,18,217
+Osceola,Osceola 1,Governor,,REP,Kim Reynolds and Adam Gregg,302,55,247
+Osceola,Osceola 2,Governor,,REP,Kim Reynolds and Adam Gregg,359,59,300
+Osceola,Osceola 3,Governor,,REP,Kim Reynolds and Adam Gregg,431,69,362
+Osceola,Ashton,Governor,,DEM,Deidre DeJear and Eric Van Lancker,17,6,11
+Osceola,Harris,Governor,,DEM,Deidre DeJear and Eric Van Lancker,15,4,11
+Osceola,May City,Governor,,DEM,Deidre DeJear and Eric Van Lancker,19,7,12
+Osceola,Melvin,Governor,,DEM,Deidre DeJear and Eric Van Lancker,22,2,20
+Osceola,Ocheyedan,Governor,,DEM,Deidre DeJear and Eric Van Lancker,28,6,22
+Osceola,Osceola 1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,45,21,24
+Osceola,Osceola 2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,47,23,24
+Osceola,Osceola 3,Governor,,DEM,Deidre DeJear and Eric Van Lancker,52,16,36
+Osceola,Ashton,Governor,,LIB,Rick Stewart and Marco Battaglia,5,0,5
+Osceola,Harris,Governor,,LIB,Rick Stewart and Marco Battaglia,1,0,1
+Osceola,May City,Governor,,LIB,Rick Stewart and Marco Battaglia,0,0,0
+Osceola,Melvin,Governor,,LIB,Rick Stewart and Marco Battaglia,3,0,3
+Osceola,Ocheyedan,Governor,,LIB,Rick Stewart and Marco Battaglia,6,0,6
+Osceola,Osceola 1,Governor,,LIB,Rick Stewart and Marco Battaglia,4,0,4
+Osceola,Osceola 2,Governor,,LIB,Rick Stewart and Marco Battaglia,5,0,5
+Osceola,Osceola 3,Governor,,LIB,Rick Stewart and Marco Battaglia,16,1,15
+Osceola,Ashton,Governor,,,Write-in,0,0,0
+Osceola,Harris,Governor,,,Write-in,0,0,0
+Osceola,May City,Governor,,,Write-in,0,0,0
+Osceola,Melvin,Governor,,,Write-in,0,0,0
+Osceola,Ocheyedan,Governor,,,Write-in,0,0,0
+Osceola,Osceola 1,Governor,,,Write-in,0,0,0
+Osceola,Osceola 2,Governor,,,Write-in,0,0,0
+Osceola,Osceola 3,Governor,,,Write-in,2,0,2
+Osceola,Ashton,Secretary of State,,REP,Paul D. Pate,265,33,232
+Osceola,Harris,Secretary of State,,REP,Paul D. Pate,135,12,123
+Osceola,May City,Secretary of State,,REP,Paul D. Pate,85,7,78
+Osceola,Melvin,Secretary of State,,REP,Paul D. Pate,175,15,160
+Osceola,Ocheyedan,Secretary of State,,REP,Paul D. Pate,220,17,203
+Osceola,Osceola 1,Secretary of State,,REP,Paul D. Pate,288,49,239
+Osceola,Osceola 2,Secretary of State,,REP,Paul D. Pate,340,56,284
+Osceola,Osceola 3,Secretary of State,,REP,Paul D. Pate,409,63,346
+Osceola,Ashton,Secretary of State,,DEM,Joel Miller,28,6,22
+Osceola,Harris,Secretary of State,,DEM,Joel Miller,16,3,13
+Osceola,May City,Secretary of State,,DEM,Joel Miller,22,7,15
+Osceola,Melvin,Secretary of State,,DEM,Joel Miller,26,1,25
+Osceola,Ocheyedan,Secretary of State,,DEM,Joel Miller,42,7,35
+Osceola,Osceola 1,Secretary of State,,DEM,Joel Miller,54,23,31
+Osceola,Osceola 2,Secretary of State,,DEM,Joel Miller,61,25,36
+Osceola,Osceola 3,Secretary of State,,DEM,Joel Miller,81,20,61
+Osceola,Ashton,Secretary of State,,,Write-in,0,0,0
+Osceola,Harris,Secretary of State,,,Write-in,0,0,0
+Osceola,May City,Secretary of State,,,Write-in,0,0,0
+Osceola,Melvin,Secretary of State,,,Write-in,0,0,0
+Osceola,Ocheyedan,Secretary of State,,,Write-in,0,0,0
+Osceola,Osceola 1,Secretary of State,,,Write-in,0,0,0
+Osceola,Osceola 2,Secretary of State,,,Write-in,0,0,0
+Osceola,Osceola 3,Secretary of State,,,Write-in,0,0,0
+Osceola,Ashton,Auditor of State,,REP,Todd Halbur,243,26,217
+Osceola,Harris,Auditor of State,,REP,Todd Halbur,134,10,124
+Osceola,May City,Auditor of State,,REP,Todd Halbur,86,7,79
+Osceola,Melvin,Auditor of State,,REP,Todd Halbur,161,15,146
+Osceola,Ocheyedan,Auditor of State,,REP,Todd Halbur,214,17,197
+Osceola,Osceola 1,Auditor of State,,REP,Todd Halbur,280,47,233
+Osceola,Osceola 2,Auditor of State,,REP,Todd Halbur,312,51,261
+Osceola,Osceola 3,Auditor of State,,REP,Todd Halbur,396,65,331
+Osceola,Ashton,Auditor of State,,DEM,Rob Sand,46,12,34
+Osceola,Harris,Auditor of State,,DEM,Rob Sand,16,4,12
+Osceola,May City,Auditor of State,,DEM,Rob Sand,20,7,13
+Osceola,Melvin,Auditor of State,,DEM,Rob Sand,33,2,31
+Osceola,Ocheyedan,Auditor of State,,DEM,Rob Sand,42,7,35
+Osceola,Osceola 1,Auditor of State,,DEM,Rob Sand,57,25,32
+Osceola,Osceola 2,Auditor of State,,DEM,Rob Sand,84,28,56
+Osceola,Osceola 3,Auditor of State,,DEM,Rob Sand,89,18,71
+Osceola,Ashton,Auditor of State,,,Write-in,0,0,0
+Osceola,Harris,Auditor of State,,,Write-in,0,0,0
+Osceola,May City,Auditor of State,,,Write-in,0,0,0
+Osceola,Melvin,Auditor of State,,,Write-in,1,0,1
+Osceola,Ocheyedan,Auditor of State,,,Write-in,0,0,0
+Osceola,Osceola 1,Auditor of State,,,Write-in,0,0,0
+Osceola,Osceola 2,Auditor of State,,,Write-in,0,0,0
+Osceola,Osceola 3,Auditor of State,,,Write-in,0,0,0
+Osceola,Ashton,Treasurer of State,,REP,Roby Smith,247,29,218
+Osceola,Harris,Treasurer of State,,REP,Roby Smith,132,11,121
+Osceola,May City,Treasurer of State,,REP,Roby Smith,78,5,73
+Osceola,Melvin,Treasurer of State,,REP,Roby Smith,155,13,142
+Osceola,Ocheyedan,Treasurer of State,,REP,Roby Smith,207,17,190
+Osceola,Osceola 1,Treasurer of State,,REP,Roby Smith,274,48,226
+Osceola,Osceola 2,Treasurer of State,,REP,Roby Smith,309,49,260
+Osceola,Osceola 3,Treasurer of State,,REP,Roby Smith,381,62,319
+Osceola,Ashton,Treasurer of State,,DEM,Michael L. Fitzgerald,44,9,35
+Osceola,Harris,Treasurer of State,,DEM,Michael L. Fitzgerald,18,3,15
+Osceola,May City,Treasurer of State,,DEM,Michael L. Fitzgerald,28,9,19
+Osceola,Melvin,Treasurer of State,,DEM,Michael L. Fitzgerald,43,4,39
+Osceola,Ocheyedan,Treasurer of State,,DEM,Michael L. Fitzgerald,51,7,44
+Osceola,Osceola 1,Treasurer of State,,DEM,Michael L. Fitzgerald,65,25,40
+Osceola,Osceola 2,Treasurer of State,,DEM,Michael L. Fitzgerald,90,31,59
+Osceola,Osceola 3,Treasurer of State,,DEM,Michael L. Fitzgerald,108,23,85
+Osceola,Ashton,Treasurer of State,,,Write-in,0,0,0
+Osceola,Harris,Treasurer of State,,,Write-in,0,0,0
+Osceola,May City,Treasurer of State,,,Write-in,0,0,0
+Osceola,Melvin,Treasurer of State,,,Write-in,1,0,1
+Osceola,Ocheyedan,Treasurer of State,,,Write-in,0,0,0
+Osceola,Osceola 1,Treasurer of State,,,Write-in,0,0,0
+Osceola,Osceola 2,Treasurer of State,,,Write-in,0,0,0
+Osceola,Osceola 3,Treasurer of State,,,Write-in,0,0,0
+Osceola,Ashton,Secretary of Agriculture,,REP,Mike Naig,271,32,239
+Osceola,Harris,Secretary of Agriculture,,REP,Mike Naig,136,11,125
+Osceola,May City,Secretary of Agriculture,,REP,Mike Naig,91,7,84
+Osceola,Melvin,Secretary of Agriculture,,REP,Mike Naig,180,16,164
+Osceola,Ocheyedan,Secretary of Agriculture,,REP,Mike Naig,234,17,217
+Osceola,Osceola 1,Secretary of Agriculture,,REP,Mike Naig,299,52,247
+Osceola,Osceola 2,Secretary of Agriculture,,REP,Mike Naig,361,62,299
+Osceola,Osceola 3,Secretary of Agriculture,,REP,Mike Naig,448,69,379
+Osceola,Ashton,Secretary of Agriculture,,DEM,John Norwood,23,7,16
+Osceola,Harris,Secretary of Agriculture,,DEM,John Norwood,17,3,14
+Osceola,May City,Secretary of Agriculture,,DEM,John Norwood,17,7,10
+Osceola,Melvin,Secretary of Agriculture,,DEM,John Norwood,23,1,22
+Osceola,Ocheyedan,Secretary of Agriculture,,DEM,John Norwood,27,7,20
+Osceola,Osceola 1,Secretary of Agriculture,,DEM,John Norwood,46,22,24
+Osceola,Osceola 2,Secretary of Agriculture,,DEM,John Norwood,48,21,27
+Osceola,Osceola 3,Secretary of Agriculture,,DEM,John Norwood,48,14,34
+Osceola,Ashton,Secretary of Agriculture,,,Write-in,0,0,0
+Osceola,Harris,Secretary of Agriculture,,,Write-in,0,0,0
+Osceola,May City,Secretary of Agriculture,,,Write-in,0,0,0
+Osceola,Melvin,Secretary of Agriculture,,,Write-in,0,0,0
+Osceola,Ocheyedan,Secretary of Agriculture,,,Write-in,0,0,0
+Osceola,Osceola 1,Secretary of Agriculture,,,Write-in,0,0,0
+Osceola,Osceola 2,Secretary of Agriculture,,,Write-in,0,0,0
+Osceola,Osceola 3,Secretary of Agriculture,,,Write-in,0,0,0
+Osceola,Ashton,Attorney General,,REP,Brenna Bird,252,31,221
+Osceola,Harris,Attorney General,,REP,Brenna Bird,133,10,123
+Osceola,May City,Attorney General,,REP,Brenna Bird,80,6,74
+Osceola,Melvin,Attorney General,,REP,Brenna Bird,154,13,141
+Osceola,Ocheyedan,Attorney General,,REP,Brenna Bird,205,14,191
+Osceola,Osceola 1,Attorney General,,REP,Brenna Bird,273,45,228
+Osceola,Osceola 2,Attorney General,,REP,Brenna Bird,322,49,273
+Osceola,Osceola 3,Attorney General,,REP,Brenna Bird,379,60,319
+Osceola,Ashton,Attorney General,,DEM,Tom Miller,41,7,34
+Osceola,Harris,Attorney General,,DEM,Tom Miller,17,3,14
+Osceola,May City,Attorney General,,DEM,Tom Miller,25,8,17
+Osceola,Melvin,Attorney General,,DEM,Tom Miller,42,3,39
+Osceola,Ocheyedan,Attorney General,,DEM,Tom Miller,46,9,37
+Osceola,Osceola 1,Attorney General,,DEM,Tom Miller,68,28,40
+Osceola,Osceola 2,Attorney General,,DEM,Tom Miller,79,32,47
+Osceola,Osceola 3,Attorney General,,DEM,Tom Miller,109,24,85
+Osceola,Ashton,Attorney General,,,Write-in,0,0,0
+Osceola,Harris,Attorney General,,,Write-in,0,0,0
+Osceola,May City,Attorney General,,,Write-in,0,0,0
+Osceola,Melvin,Attorney General,,,Write-in,0,0,0
+Osceola,Ocheyedan,Attorney General,,,Write-in,0,0,0
+Osceola,Osceola 1,Attorney General,,,Write-in,0,0,0
+Osceola,Osceola 2,Attorney General,,,Write-in,0,0,0
+Osceola,Osceola 3,Attorney General,,,Write-in,0,0,0
+Osceola,Ashton,State Senate,3,REP,Lynn Evans,274,36,238
+Osceola,Harris,State Senate,3,REP,Lynn Evans,134,9,125
+Osceola,May City,State Senate,3,REP,Lynn Evans,94,9,85
+Osceola,Melvin,State Senate,3,REP,Lynn Evans,181,15,166
+Osceola,Ocheyedan,State Senate,3,REP,Lynn Evans,231,16,215
+Osceola,Osceola 1,State Senate,3,REP,Lynn Evans,289,44,245
+Osceola,Osceola 2,State Senate,3,REP,Lynn Evans,361,62,299
+Osceola,Osceola 3,State Senate,3,REP,Lynn Evans,431,65,366
+Osceola,Ashton,State Senate,3,,Write-in,0,0,0
+Osceola,Harris,State Senate,3,,Write-in,0,0,0
+Osceola,May City,State Senate,3,,Write-in,0,0,0
+Osceola,Melvin,State Senate,3,,Write-in,2,0,2
+Osceola,Ocheyedan,State Senate,3,,Write-in,1,0,1
+Osceola,Osceola 1,State Senate,3,,Write-in,2,1,1
+Osceola,Osceola 2,State Senate,3,,Write-in,0,0,0
+Osceola,Osceola 3,State Senate,3,,Write-in,2,0,2
+Osceola,Ashton,State House,5,REP,Zachary M. Dieken,275,36,239
+Osceola,Harris,State House,5,REP,Zachary M. Dieken,133,9,124
+Osceola,May City,State House,5,REP,Zachary M. Dieken,92,8,84
+Osceola,Melvin,State House,5,REP,Zachary M. Dieken,173,15,158
+Osceola,Ocheyedan,State House,5,REP,Zachary M. Dieken,231,18,213
+Osceola,Osceola 1,State House,5,REP,Zachary M. Dieken,290,45,245
+Osceola,Osceola 2,State House,5,REP,Zachary M. Dieken,365,59,306
+Osceola,Osceola 3,State House,5,REP,Zachary M. Dieken,425,65,360
+Osceola,Ashton,State House,5,,Write-in,1,0,1
+Osceola,Harris,State House,5,,Write-in,0,0,0
+Osceola,May City,State House,5,,Write-in,0,0,0
+Osceola,Melvin,State House,5,,Write-in,3,0,3
+Osceola,Ocheyedan,State House,5,,Write-in,2,0,2
+Osceola,Osceola 1,State House,5,,Write-in,0,0,0
+Osceola,Osceola 2,State House,5,,Write-in,2,1,1
+Osceola,Osceola 3,State House,5,,Write-in,6,0,6
+Osceola,Osceola 1,County Board of Supervisors District 1,,REP,LeRoy E. DeBoer,188,43,145
+Osceola,Osceola 1,County Board of Supervisors District 1,,,David Henningsen,156,27,129
+Osceola,Osceola 1,County Board of Supervisors District 1,,,Write-in,0,0,0
+Osceola,Osceola 3,County Board of Supervisors District 3,,REP,Michael Schulte,438,68,370
+Osceola,Osceola 3,County Board of Supervisors District 3,,,Write-in,6,1,5
+Osceola,Ashton,County Treasurer,,REP,Becky S. Marco,286,40,246
+Osceola,Harris,County Treasurer,,REP,Becky S. Marco,139,9,130
+Osceola,May City,County Treasurer,,REP,Becky S. Marco,96,9,87
+Osceola,Melvin,County Treasurer,,REP,Becky S. Marco,194,16,178
+Osceola,Ocheyedan,County Treasurer,,REP,Becky S. Marco,249,16,233
+Osceola,Osceola 1,County Treasurer,,REP,Becky S. Marco,335,67,268
+Osceola,Osceola 2,County Treasurer,,REP,Becky S. Marco,401,77,324
+Osceola,Osceola 3,County Treasurer,,REP,Becky S. Marco,469,75,394
+Osceola,Ashton,County Treasurer,,,Write-in,0,0,0
+Osceola,Harris,County Treasurer,,,Write-in,0,0,0
+Osceola,May City,County Treasurer,,,Write-in,0,0,0
+Osceola,Melvin,County Treasurer,,,Write-in,0,0,0
+Osceola,Ocheyedan,County Treasurer,,,Write-in,0,0,0
+Osceola,Osceola 1,County Treasurer,,,Write-in,0,0,0
+Osceola,Osceola 2,County Treasurer,,,Write-in,1,0,1
+Osceola,Osceola 3,County Treasurer,,,Write-in,1,0,1
+Osceola,Ashton,County Recorder,,REP,Sheila Christians,281,38,243
+Osceola,Harris,County Recorder,,REP,Sheila Christians,137,9,128
+Osceola,May City,County Recorder,,REP,Sheila Christians,97,9,88
+Osceola,Melvin,County Recorder,,REP,Sheila Christians,190,15,175
+Osceola,Ocheyedan,County Recorder,,REP,Sheila Christians,246,16,230
+Osceola,Osceola 1,County Recorder,,REP,Sheila Christians,328,60,268
+Osceola,Osceola 2,County Recorder,,REP,Sheila Christians,396,76,320
+Osceola,Osceola 3,County Recorder,,REP,Sheila Christians,467,74,393
+Osceola,Ashton,County Recorder,,,Write-in,0,0,0
+Osceola,Harris,County Recorder,,,Write-in,0,0,0
+Osceola,May City,County Recorder,,,Write-in,0,0,0
+Osceola,Melvin,County Recorder,,,Write-in,1,0,1
+Osceola,Ocheyedan,County Recorder,,,Write-in,0,0,0
+Osceola,Osceola 1,County Recorder,,,Write-in,1,0,1
+Osceola,Osceola 2,County Recorder,,,Write-in,1,0,1
+Osceola,Osceola 3,County Recorder,,,Write-in,1,0,1
+Osceola,Ashton,County Attorney,,REP,Nolan Michael McGowan,270,34,236
+Osceola,Harris,County Attorney,,REP,Nolan Michael McGowan,130,9,121
+Osceola,May City,County Attorney,,REP,Nolan Michael McGowan,90,7,83
+Osceola,Melvin,County Attorney,,REP,Nolan Michael McGowan,174,14,160
+Osceola,Ocheyedan,County Attorney,,REP,Nolan Michael McGowan,217,16,201
+Osceola,Osceola 1,County Attorney,,REP,Nolan Michael McGowan,297,53,244
+Osceola,Osceola 2,County Attorney,,REP,Nolan Michael McGowan,361,68,293
+Osceola,Osceola 3,County Attorney,,REP,Nolan Michael McGowan,413,65,348
+Osceola,Ashton,County Attorney,,,Write-in,1,0,1
+Osceola,Harris,County Attorney,,,Write-in,0,0,0
+Osceola,May City,County Attorney,,,Write-in,1,1,0
+Osceola,Melvin,County Attorney,,,Write-in,2,1,1
+Osceola,Ocheyedan,County Attorney,,,Write-in,3,0,3
+Osceola,Osceola 1,County Attorney,,,Write-in,3,1,2
+Osceola,Osceola 2,County Attorney,,,Write-in,7,2,5
+Osceola,Osceola 3,County Attorney,,,Write-in,8,1,7
+Osceola,Ashton,Soil and Water Conservation District Commissioner,,,Alvin Van Wyk,202,30,172
+Osceola,Harris,Soil and Water Conservation District Commissioner,,,Alvin Van Wyk,106,8,98
+Osceola,May City,Soil and Water Conservation District Commissioner,,,Alvin Van Wyk,78,8,70
+Osceola,Melvin,Soil and Water Conservation District Commissioner,,,Alvin Van Wyk,140,10,130
+Osceola,Ocheyedan,Soil and Water Conservation District Commissioner,,,Alvin Van Wyk,202,15,187
+Osceola,Osceola 1,Soil and Water Conservation District Commissioner,,,Alvin Van Wyk,232,42,190
+Osceola,Osceola 2,Soil and Water Conservation District Commissioner,,,Alvin Van Wyk,302,54,248
+Osceola,Osceola 3,Soil and Water Conservation District Commissioner,,,Alvin Van Wyk,340,49,291
+Osceola,Ashton,Soil and Water Conservation District Commissioner,,,Dennis Monier,201,30,171
+Osceola,Harris,Soil and Water Conservation District Commissioner,,,Dennis Monier,89,4,85
+Osceola,May City,Soil and Water Conservation District Commissioner,,,Dennis Monier,77,7,70
+Osceola,Melvin,Soil and Water Conservation District Commissioner,,,Dennis Monier,150,10,140
+Osceola,Ocheyedan,Soil and Water Conservation District Commissioner,,,Dennis Monier,157,11,146
+Osceola,Osceola 1,Soil and Water Conservation District Commissioner,,,Dennis Monier,242,41,201
+Osceola,Osceola 2,Soil and Water Conservation District Commissioner,,,Dennis Monier,302,57,245
+Osceola,Osceola 3,Soil and Water Conservation District Commissioner,,,Dennis Monier,334,48,286
+Osceola,Ashton,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Osceola,Harris,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Osceola,May City,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Osceola,Melvin,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Osceola,Ocheyedan,Soil and Water Conservation District Commissioner,,,Write-in,6,1,5
+Osceola,Osceola 1,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Osceola,Osceola 2,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Osceola,Osceola 3,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Osceola,Ashton,County Agricultural Extension Council Member,,,Sarah Loerts,209,34,175
+Osceola,Harris,County Agricultural Extension Council Member,,,Sarah Loerts,95,4,91
+Osceola,May City,County Agricultural Extension Council Member,,,Sarah Loerts,69,6,63
+Osceola,Melvin,County Agricultural Extension Council Member,,,Sarah Loerts,145,13,132
+Osceola,Ocheyedan,County Agricultural Extension Council Member,,,Sarah Loerts,190,15,175
+Osceola,Osceola 1,County Agricultural Extension Council Member,,,Sarah Loerts,239,41,198
+Osceola,Osceola 2,County Agricultural Extension Council Member,,,Sarah Loerts,315,55,260
+Osceola,Osceola 3,County Agricultural Extension Council Member,,,Sarah Loerts,357,47,310
+Osceola,Ashton,County Agricultural Extension Council Member,,,Taylor Hibbing,199,30,169
+Osceola,Harris,County Agricultural Extension Council Member,,,Taylor Hibbing,86,5,81
+Osceola,May City,County Agricultural Extension Council Member,,,Taylor Hibbing,63,6,57
+Osceola,Melvin,County Agricultural Extension Council Member,,,Taylor Hibbing,126,12,114
+Osceola,Ocheyedan,County Agricultural Extension Council Member,,,Taylor Hibbing,170,14,156
+Osceola,Osceola 1,County Agricultural Extension Council Member,,,Taylor Hibbing,229,43,186
+Osceola,Osceola 2,County Agricultural Extension Council Member,,,Taylor Hibbing,307,53,254
+Osceola,Osceola 3,County Agricultural Extension Council Member,,,Taylor Hibbing,365,45,320
+Osceola,Ashton,County Agricultural Extension Council Member,,,Thomas Croatt,196,27,169
+Osceola,Harris,County Agricultural Extension Council Member,,,Thomas Croatt,79,4,75
+Osceola,May City,County Agricultural Extension Council Member,,,Thomas Croatt,60,6,54
+Osceola,Melvin,County Agricultural Extension Council Member,,,Thomas Croatt,131,15,116
+Osceola,Ocheyedan,County Agricultural Extension Council Member,,,Thomas Croatt,155,13,142
+Osceola,Osceola 1,County Agricultural Extension Council Member,,,Thomas Croatt,218,42,176
+Osceola,Osceola 2,County Agricultural Extension Council Member,,,Thomas Croatt,293,60,233
+Osceola,Osceola 3,County Agricultural Extension Council Member,,,Thomas Croatt,358,48,310
+Osceola,Ashton,County Agricultural Extension Council Member,,,Timothy Nappe,187,26,161
+Osceola,Harris,County Agricultural Extension Council Member,,,Timothy Nappe,74,3,71
+Osceola,May City,County Agricultural Extension Council Member,,,Timothy Nappe,56,5,51
+Osceola,Melvin,County Agricultural Extension Council Member,,,Timothy Nappe,119,11,108
+Osceola,Ocheyedan,County Agricultural Extension Council Member,,,Timothy Nappe,145,13,132
+Osceola,Osceola 1,County Agricultural Extension Council Member,,,Timothy Nappe,197,33,164
+Osceola,Osceola 2,County Agricultural Extension Council Member,,,Timothy Nappe,273,51,222
+Osceola,Osceola 3,County Agricultural Extension Council Member,,,Timothy Nappe,312,41,271
+Osceola,Ashton,County Agricultural Extension Council Member,,,Lindsey Helmers,209,29,180
+Osceola,Harris,County Agricultural Extension Council Member,,,Lindsey Helmers,97,6,91
+Osceola,May City,County Agricultural Extension Council Member,,,Lindsey Helmers,81,7,74
+Osceola,Melvin,County Agricultural Extension Council Member,,,Lindsey Helmers,167,15,152
+Osceola,Ocheyedan,County Agricultural Extension Council Member,,,Lindsey Helmers,200,16,184
+Osceola,Osceola 1,County Agricultural Extension Council Member,,,Lindsey Helmers,240,40,200
+Osceola,Osceola 2,County Agricultural Extension Council Member,,,Lindsey Helmers,320,59,261
+Osceola,Osceola 3,County Agricultural Extension Council Member,,,Lindsey Helmers,363,52,311
+Osceola,Ashton,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Osceola,Harris,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Osceola,May City,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Osceola,Melvin,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Osceola,Ocheyedan,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Osceola,Osceola 1,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Osceola,Osceola 2,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Osceola,Osceola 3,County Agricultural Extension Council Member,,,Write-in,1,1,0
+Osceola,Ashton,County Agricultural Extension Council Member To Fill a Vacancy,,,Jaime Huls,247,32,215
+Osceola,Harris,County Agricultural Extension Council Member To Fill a Vacancy,,,Jaime Huls,114,5,109
+Osceola,May City,County Agricultural Extension Council Member To Fill a Vacancy,,,Jaime Huls,76,6,70
+Osceola,Melvin,County Agricultural Extension Council Member To Fill a Vacancy,,,Jaime Huls,159,14,145
+Osceola,Ocheyedan,County Agricultural Extension Council Member To Fill a Vacancy,,,Jaime Huls,208,17,191
+Osceola,Osceola 1,County Agricultural Extension Council Member To Fill a Vacancy,,,Jaime Huls,279,49,230
+Osceola,Osceola 2,County Agricultural Extension Council Member To Fill a Vacancy,,,Jaime Huls,348,62,286
+Osceola,Osceola 3,County Agricultural Extension Council Member To Fill a Vacancy,,,Jaime Huls,397,54,343
+Osceola,Ashton,County Agricultural Extension Council Member To Fill a Vacancy,,,Write-in,1,0,1
+Osceola,Harris,County Agricultural Extension Council Member To Fill a Vacancy,,,Write-in,0,0,0
+Osceola,May City,County Agricultural Extension Council Member To Fill a Vacancy,,,Write-in,0,0,0
+Osceola,Melvin,County Agricultural Extension Council Member To Fill a Vacancy,,,Write-in,4,0,4
+Osceola,Ocheyedan,County Agricultural Extension Council Member To Fill a Vacancy,,,Write-in,0,0,0
+Osceola,Osceola 1,County Agricultural Extension Council Member To Fill a Vacancy,,,Write-in,0,0,0
+Osceola,Osceola 2,County Agricultural Extension Council Member To Fill a Vacancy,,,Write-in,0,0,0
+Osceola,Osceola 3,County Agricultural Extension Council Member To Fill a Vacancy,,,Write-in,1,0,1
+Osceola,Ashton,Supreme Court Justice,,,Yes,191,20,171
+Osceola,Harris,Supreme Court Justice,,,Yes,89,5,84
+Osceola,May City,Supreme Court Justice,,,Yes,60,6,54
+Osceola,Melvin,Supreme Court Justice,,,Yes,108,5,103
+Osceola,Ocheyedan,Supreme Court Justice,,,Yes,127,11,116
+Osceola,Osceola 1,Supreme Court Justice,,,Yes,200,41,159
+Osceola,Osceola 2,Supreme Court Justice,,,Yes,237,34,203
+Osceola,Osceola 3,Supreme Court Justice,,,Yes,294,47,247
+Osceola,Ashton,Supreme Court Justice,,,No,39,6,33
+Osceola,Harris,Supreme Court Justice,,,No,21,6,15
+Osceola,May City,Supreme Court Justice,,,No,13,2,11
+Osceola,Melvin,Supreme Court Justice,,,No,34,5,29
+Osceola,Ocheyedan,Supreme Court Justice,,,No,38,3,35
+Osceola,Osceola 1,Supreme Court Justice,,,No,53,8,45
+Osceola,Osceola 2,Supreme Court Justice,,,No,50,16,34
+Osceola,Osceola 3,Supreme Court Justice,,,No,52,5,47
+Osceola,Ashton,Court of Appeals Judge,,,Yes,180,17,163
+Osceola,Harris,Court of Appeals Judge,,,Yes,90,8,82
+Osceola,May City,Court of Appeals Judge,,,Yes,61,6,55
+Osceola,Melvin,Court of Appeals Judge,,,Yes,104,7,97
+Osceola,Ocheyedan,Court of Appeals Judge,,,Yes,126,10,116
+Osceola,Osceola 1,Court of Appeals Judge,,,Yes,184,38,146
+Osceola,Osceola 2,Court of Appeals Judge,,,Yes,231,36,195
+Osceola,Osceola 3,Court of Appeals Judge,,,Yes,281,43,238
+Osceola,Ashton,Court of Appeals Judge,,,No,35,6,29
+Osceola,Harris,Court of Appeals Judge,,,No,18,3,15
+Osceola,May City,Court of Appeals Judge,,,No,12,1,11
+Osceola,Melvin,Court of Appeals Judge,,,No,39,3,36
+Osceola,Ocheyedan,Court of Appeals Judge,,,No,32,3,29
+Osceola,Osceola 1,Court of Appeals Judge,,,No,50,6,44
+Osceola,Osceola 2,Court of Appeals Judge,,,No,45,13,32
+Osceola,Osceola 3,Court of Appeals Judge,,,No,47,4,43
+Osceola,Ashton,District 3A Judge,,,Yes,180,15,165
+Osceola,Harris,District 3A Judge,,,Yes,89,7,82
+Osceola,May City,District 3A Judge,,,Yes,65,8,57
+Osceola,Melvin,District 3A Judge,,,Yes,104,9,95
+Osceola,Ocheyedan,District 3A Judge,,,Yes,132,13,119
+Osceola,Osceola 1,District 3A Judge,,,Yes,193,35,158
+Osceola,Osceola 2,District 3A Judge,,,Yes,246,38,208
+Osceola,Osceola 3,District 3A Judge,,,Yes,291,47,244
+Osceola,Ashton,District 3A Judge,,,No,43,8,35
+Osceola,Harris,District 3A Judge,,,No,21,4,17
+Osceola,May City,District 3A Judge,,,No,11,1,10
+Osceola,Melvin,District 3A Judge,,,No,38,2,36
+Osceola,Ocheyedan,District 3A Judge,,,No,42,4,38
+Osceola,Osceola 1,District 3A Judge,,,No,42,8,34
+Osceola,Osceola 2,District 3A Judge,,,No,43,14,29
+Osceola,Osceola 3,District 3A Judge,,,No,52,6,46
+Osceola,Ashton,District 3A Associate Judge,,,Yes,183,18,165
+Osceola,Harris,District 3A Associate Judge,,,Yes,83,6,77
+Osceola,May City,District 3A Associate Judge,,,Yes,61,6,55
+Osceola,Melvin,District 3A Associate Judge,,,Yes,101,7,94
+Osceola,Ocheyedan,District 3A Associate Judge,,,Yes,126,6,120
+Osceola,Osceola 1,District 3A Associate Judge,,,Yes,192,35,157
+Osceola,Osceola 2,District 3A Associate Judge,,,Yes,243,38,205
+Osceola,Osceola 3,District 3A Associate Judge,,,Yes,277,36,241
+Osceola,Ashton,District 3A Associate Judge,,,No,40,6,34
+Osceola,Harris,District 3A Associate Judge,,,No,24,5,19
+Osceola,May City,District 3A Associate Judge,,,No,9,2,7
+Osceola,Melvin,District 3A Associate Judge,,,No,37,3,34
+Osceola,Ocheyedan,District 3A Associate Judge,,,No,33,4,29
+Osceola,Osceola 1,District 3A Associate Judge,,,No,49,7,42
+Osceola,Osceola 2,District 3A Associate Judge,,,No,38,10,28
+Osceola,Osceola 3,District 3A Associate Judge,,,No,50,8,42
+Osceola,Ashton,Constitutional Amendment 1,,,Yes,268,35,233
+Osceola,Harris,Constitutional Amendment 1,,,Yes,128,10,118
+Osceola,May City,Constitutional Amendment 1,,,Yes,93,10,83
+Osceola,Melvin,Constitutional Amendment 1,,,Yes,180,13,167
+Osceola,Ocheyedan,Constitutional Amendment 1,,,Yes,233,22,211
+Osceola,Osceola 1,Constitutional Amendment 1,,,Yes,303,55,248
+Osceola,Osceola 2,Constitutional Amendment 1,,,Yes,335,57,278
+Osceola,Osceola 3,Constitutional Amendment 1,,,Yes,403,64,339
+Osceola,Ashton,Constitutional Amendment 1,,,No,18,4,14
+Osceola,Harris,Constitutional Amendment 1,,,No,17,3,14
+Osceola,May City,Constitutional Amendment 1,,,No,14,4,10
+Osceola,Melvin,Constitutional Amendment 1,,,No,17,2,15
+Osceola,Ocheyedan,Constitutional Amendment 1,,,No,26,2,24
+Osceola,Osceola 1,Constitutional Amendment 1,,,No,35,16,19
+Osceola,Osceola 2,Constitutional Amendment 1,,,No,63,25,38
+Osceola,Osceola 3,Constitutional Amendment 1,,,No,69,14,55
+Osceola,Ashton,County of Osceola Public Measure B,,,Yes,195,29,166
+Osceola,Harris,County of Osceola Public Measure B,,,Yes,69,5,64
+Osceola,May City,County of Osceola Public Measure B,,,Yes,57,7,50
+Osceola,Melvin,County of Osceola Public Measure B,,,Yes,127,10,117
+Osceola,Ocheyedan,County of Osceola Public Measure B,,,Yes,163,15,148
+Osceola,Osceola 1,County of Osceola Public Measure B,,,Yes,212,44,168
+Osceola,Osceola 2,County of Osceola Public Measure B,,,Yes,281,52,229
+Osceola,Osceola 3,County of Osceola Public Measure B,,,Yes,346,60,286
+Osceola,Ashton,County of Osceola Public Measure B,,,No,92,9,83
+Osceola,Harris,County of Osceola Public Measure B,,,No,71,8,63
+Osceola,May City,County of Osceola Public Measure B,,,No,48,5,43
+Osceola,Melvin,County of Osceola Public Measure B,,,No,75,7,68
+Osceola,Ocheyedan,County of Osceola Public Measure B,,,No,95,7,88
+Osceola,Osceola 1,County of Osceola Public Measure B,,,No,124,26,98
+Osceola,Osceola 2,County of Osceola Public Measure B,,,No,118,29,89
+Osceola,Osceola 3,County of Osceola Public Measure B,,,No,131,20,111

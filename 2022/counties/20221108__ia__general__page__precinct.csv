@@ -1,0 +1,566 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Page,Clarinda Lied Library 1,U.S. Senate,,DEM,Michael Franken,171,64,107
+Page,Clarinda Lied Library 2,U.S. Senate,,DEM,Michael Franken,279,109,170
+Page,Page County Courthouse 1,U.S. Senate,,DEM,Michael Franken,73,41,32
+Page,Page County Courthouse 2,U.S. Senate,,DEM,Michael Franken,111,60,51
+Page,Essex City Hall,U.S. Senate,,DEM,Michael Franken,87,15,72
+Page,Shenandoah Historical Building 1,U.S. Senate,,DEM,Michael Franken,111,27,84
+Page,Shenandoah Historical Building 2,U.S. Senate,,DEM,Michael Franken,208,68,140
+Page,Shenandoah Historical Building 3,U.S. Senate,,DEM,Michael Franken,210,77,133
+Page,Shenandoah Fire Station,U.S. Senate,,DEM,Michael Franken,135,56,79
+Page,Clarinda Lied Library 1,U.S. Senate,,REP,Chuck Grassley,401,93,308
+Page,Clarinda Lied Library 2,U.S. Senate,,REP,Chuck Grassley,642,167,475
+Page,Page County Courthouse 1,U.S. Senate,,REP,Chuck Grassley,378,137,241
+Page,Page County Courthouse 2,U.S. Senate,,REP,Chuck Grassley,512,172,340
+Page,Essex City Hall,U.S. Senate,,REP,Chuck Grassley,347,44,303
+Page,Shenandoah Historical Building 1,U.S. Senate,,REP,Chuck Grassley,223,25,198
+Page,Shenandoah Historical Building 2,U.S. Senate,,REP,Chuck Grassley,372,59,313
+Page,Shenandoah Historical Building 3,U.S. Senate,,REP,Chuck Grassley,418,72,346
+Page,Shenandoah Fire Station,U.S. Senate,,REP,Chuck Grassley,414,112,302
+Page,Clarinda Lied Library 1,U.S. Senate,,,Write-in,1,0,1
+Page,Clarinda Lied Library 2,U.S. Senate,,,Write-in,3,0,3
+Page,Page County Courthouse 1,U.S. Senate,,,Write-in,2,0,2
+Page,Page County Courthouse 2,U.S. Senate,,,Write-in,0,0,0
+Page,Essex City Hall,U.S. Senate,,,Write-in,1,0,1
+Page,Shenandoah Historical Building 1,U.S. Senate,,,Write-in,3,0,3
+Page,Shenandoah Historical Building 2,U.S. Senate,,,Write-in,1,0,1
+Page,Shenandoah Historical Building 3,U.S. Senate,,,Write-in,0,0,0
+Page,Shenandoah Fire Station,U.S. Senate,,,Write-in,1,1,0
+Page,Clarinda Lied Library 1,U.S. House,3,DEM,Cindy Axne,181,67,114
+Page,Clarinda Lied Library 2,U.S. House,3,DEM,Cindy Axne,306,120,186
+Page,Page County Courthouse 1,U.S. House,3,DEM,Cindy Axne,93,48,45
+Page,Page County Courthouse 2,U.S. House,3,DEM,Cindy Axne,142,65,77
+Page,Essex City Hall,U.S. House,3,DEM,Cindy Axne,108,21,87
+Page,Shenandoah Historical Building 1,U.S. House,3,DEM,Cindy Axne,120,27,93
+Page,Shenandoah Historical Building 2,U.S. House,3,DEM,Cindy Axne,237,73,164
+Page,Shenandoah Historical Building 3,U.S. House,3,DEM,Cindy Axne,227,80,147
+Page,Shenandoah Fire Station,U.S. House,3,DEM,Cindy Axne,148,66,82
+Page,Clarinda Lied Library 1,U.S. House,3,REP,Zach Nunn,390,89,301
+Page,Clarinda Lied Library 2,U.S. House,3,REP,Zach Nunn,616,155,461
+Page,Page County Courthouse 1,U.S. House,3,REP,Zach Nunn,357,129,228
+Page,Page County Courthouse 2,U.S. House,3,REP,Zach Nunn,481,169,312
+Page,Essex City Hall,U.S. House,3,REP,Zach Nunn,327,38,289
+Page,Shenandoah Historical Building 1,U.S. House,3,REP,Zach Nunn,214,24,190
+Page,Shenandoah Historical Building 2,U.S. House,3,REP,Zach Nunn,344,54,290
+Page,Shenandoah Historical Building 3,U.S. House,3,REP,Zach Nunn,403,70,333
+Page,Shenandoah Fire Station,U.S. House,3,REP,Zach Nunn,402,102,300
+Page,Clarinda Lied Library 1,U.S. House,3,,Write-in,1,1,0
+Page,Clarinda Lied Library 2,U.S. House,3,,Write-in,0,0,0
+Page,Page County Courthouse 1,U.S. House,3,,Write-in,2,0,2
+Page,Page County Courthouse 2,U.S. House,3,,Write-in,0,0,0
+Page,Essex City Hall,U.S. House,3,,Write-in,0,0,0
+Page,Shenandoah Historical Building 1,U.S. House,3,,Write-in,2,0,2
+Page,Shenandoah Historical Building 2,U.S. House,3,,Write-in,1,0,1
+Page,Shenandoah Historical Building 3,U.S. House,3,,Write-in,0,0,0
+Page,Shenandoah Fire Station,U.S. House,3,,Write-in,1,1,0
+Page,Clarinda Lied Library 1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,151,60,91
+Page,Clarinda Lied Library 2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,237,92,145
+Page,Page County Courthouse 1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,65,37,28
+Page,Page County Courthouse 2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,104,54,50
+Page,Essex City Hall,Governor,,DEM,Deidre DeJear and Eric Van Lancker,69,15,54
+Page,Shenandoah Historical Building 1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,95,26,69
+Page,Shenandoah Historical Building 2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,182,62,120
+Page,Shenandoah Historical Building 3,Governor,,DEM,Deidre DeJear and Eric Van Lancker,178,71,107
+Page,Shenandoah Fire Station,Governor,,DEM,Deidre DeJear and Eric Van Lancker,111,51,60
+Page,Clarinda Lied Library 1,Governor,,REP,Kim Reynolds and Adam Gregg,417,97,320
+Page,Clarinda Lied Library 2,Governor,,REP,Kim Reynolds and Adam Gregg,657,174,483
+Page,Page County Courthouse 1,Governor,,REP,Kim Reynolds and Adam Gregg,383,139,244
+Page,Page County Courthouse 2,Governor,,REP,Kim Reynolds and Adam Gregg,511,177,334
+Page,Essex City Hall,Governor,,REP,Kim Reynolds and Adam Gregg,353,44,309
+Page,Shenandoah Historical Building 1,Governor,,REP,Kim Reynolds and Adam Gregg,228,26,202
+Page,Shenandoah Historical Building 2,Governor,,REP,Kim Reynolds and Adam Gregg,387,62,325
+Page,Shenandoah Historical Building 3,Governor,,REP,Kim Reynolds and Adam Gregg,427,75,352
+Page,Shenandoah Fire Station,Governor,,REP,Kim Reynolds and Adam Gregg,433,113,320
+Page,Clarinda Lied Library 1,Governor,,LIB,Rick Stewart and Marco Battaglia,7,1,6
+Page,Clarinda Lied Library 2,Governor,,LIB,Rick Stewart and Marco Battaglia,25,8,17
+Page,Page County Courthouse 1,Governor,,LIB,Rick Stewart and Marco Battaglia,6,2,4
+Page,Page County Courthouse 2,Governor,,LIB,Rick Stewart and Marco Battaglia,10,4,6
+Page,Essex City Hall,Governor,,LIB,Rick Stewart and Marco Battaglia,13,0,13
+Page,Shenandoah Historical Building 1,Governor,,LIB,Rick Stewart and Marco Battaglia,13,0,13
+Page,Shenandoah Historical Building 2,Governor,,LIB,Rick Stewart and Marco Battaglia,15,3,12
+Page,Shenandoah Historical Building 3,Governor,,LIB,Rick Stewart and Marco Battaglia,20,1,19
+Page,Shenandoah Fire Station,Governor,,LIB,Rick Stewart and Marco Battaglia,4,3,1
+Page,Clarinda Lied Library 1,Governor,,,Write-in,0,0,0
+Page,Clarinda Lied Library 2,Governor,,,Write-in,0,0,0
+Page,Page County Courthouse 1,Governor,,,Write-in,1,0,1
+Page,Page County Courthouse 2,Governor,,,Write-in,0,0,0
+Page,Essex City Hall,Governor,,,Write-in,0,0,0
+Page,Shenandoah Historical Building 1,Governor,,,Write-in,1,0,1
+Page,Shenandoah Historical Building 2,Governor,,,Write-in,0,0,0
+Page,Shenandoah Historical Building 3,Governor,,,Write-in,0,0,0
+Page,Shenandoah Fire Station,Governor,,,Write-in,0,0,0
+Page,Clarinda Lied Library 1,Secretary of State,,DEM,Joel Miller,154,60,94
+Page,Clarinda Lied Library 2,Secretary of State,,DEM,Joel Miller,263,105,158
+Page,Page County Courthouse 1,Secretary of State,,DEM,Joel Miller,61,35,26
+Page,Page County Courthouse 2,Secretary of State,,DEM,Joel Miller,110,58,52
+Page,Essex City Hall,Secretary of State,,DEM,Joel Miller,79,15,64
+Page,Shenandoah Historical Building 1,Secretary of State,,DEM,Joel Miller,103,24,79
+Page,Shenandoah Historical Building 2,Secretary of State,,DEM,Joel Miller,201,68,133
+Page,Shenandoah Historical Building 3,Secretary of State,,DEM,Joel Miller,203,78,125
+Page,Shenandoah Fire Station,Secretary of State,,DEM,Joel Miller,118,53,65
+Page,Clarinda Lied Library 1,Secretary of State,,REP,Paul D. Pate,412,96,316
+Page,Clarinda Lied Library 2,Secretary of State,,REP,Paul D. Pate,656,168,488
+Page,Page County Courthouse 1,Secretary of State,,REP,Paul D. Pate,390,143,247
+Page,Page County Courthouse 2,Secretary of State,,REP,Paul D. Pate,513,180,333
+Page,Essex City Hall,Secretary of State,,REP,Paul D. Pate,353,44,309
+Page,Shenandoah Historical Building 1,Secretary of State,,REP,Paul D. Pate,227,28,199
+Page,Shenandoah Historical Building 2,Secretary of State,,REP,Paul D. Pate,376,56,320
+Page,Shenandoah Historical Building 3,Secretary of State,,REP,Paul D. Pate,421,73,348
+Page,Shenandoah Fire Station,Secretary of State,,REP,Paul D. Pate,429,116,313
+Page,Clarinda Lied Library 1,Secretary of State,,,Write-in,0,0,0
+Page,Clarinda Lied Library 2,Secretary of State,,,Write-in,1,1,0
+Page,Page County Courthouse 1,Secretary of State,,,Write-in,1,0,1
+Page,Page County Courthouse 2,Secretary of State,,,Write-in,0,0,0
+Page,Essex City Hall,Secretary of State,,,Write-in,0,0,0
+Page,Shenandoah Historical Building 1,Secretary of State,,,Write-in,1,0,1
+Page,Shenandoah Historical Building 2,Secretary of State,,,Write-in,1,0,1
+Page,Shenandoah Historical Building 3,Secretary of State,,,Write-in,0,0,0
+Page,Shenandoah Fire Station,Secretary of State,,,Write-in,0,0,0
+Page,Clarinda Lied Library 1,Auditor of State,,DEM,Rob Sand,172,68,104
+Page,Clarinda Lied Library 2,Auditor of State,,DEM,Rob Sand,297,120,177
+Page,Page County Courthouse 1,Auditor of State,,DEM,Rob Sand,82,44,38
+Page,Page County Courthouse 2,Auditor of State,,DEM,Rob Sand,120,63,57
+Page,Essex City Hall,Auditor of State,,DEM,Rob Sand,95,18,77
+Page,Shenandoah Historical Building 1,Auditor of State,,DEM,Rob Sand,115,26,89
+Page,Shenandoah Historical Building 2,Auditor of State,,DEM,Rob Sand,204,67,137
+Page,Shenandoah Historical Building 3,Auditor of State,,DEM,Rob Sand,213,81,132
+Page,Shenandoah Fire Station,Auditor of State,,DEM,Rob Sand,129,52,77
+Page,Clarinda Lied Library 1,Auditor of State,,REP,Todd Halbur,390,88,302
+Page,Clarinda Lied Library 2,Auditor of State,,REP,Todd Halbur,622,154,468
+Page,Page County Courthouse 1,Auditor of State,,REP,Todd Halbur,364,130,234
+Page,Page County Courthouse 2,Auditor of State,,REP,Todd Halbur,496,171,325
+Page,Essex City Hall,Auditor of State,,REP,Todd Halbur,338,40,298
+Page,Shenandoah Historical Building 1,Auditor of State,,REP,Todd Halbur,217,25,192
+Page,Shenandoah Historical Building 2,Auditor of State,,REP,Todd Halbur,366,55,311
+Page,Shenandoah Historical Building 3,Auditor of State,,REP,Todd Halbur,410,70,340
+Page,Shenandoah Fire Station,Auditor of State,,REP,Todd Halbur,411,114,297
+Page,Clarinda Lied Library 1,Auditor of State,,,Write-in,0,0,0
+Page,Clarinda Lied Library 2,Auditor of State,,,Write-in,0,0,0
+Page,Page County Courthouse 1,Auditor of State,,,Write-in,1,0,1
+Page,Page County Courthouse 2,Auditor of State,,,Write-in,0,0,0
+Page,Essex City Hall,Auditor of State,,,Write-in,0,0,0
+Page,Shenandoah Historical Building 1,Auditor of State,,,Write-in,1,0,1
+Page,Shenandoah Historical Building 2,Auditor of State,,,Write-in,1,0,1
+Page,Shenandoah Historical Building 3,Auditor of State,,,Write-in,1,0,1
+Page,Shenandoah Fire Station,Auditor of State,,,Write-in,0,0,0
+Page,Clarinda Lied Library 1,Treasurer of State,,DEM,Michael L. Fitzgerald,185,71,114
+Page,Clarinda Lied Library 2,Treasurer of State,,DEM,Michael L. Fitzgerald,304,125,179
+Page,Page County Courthouse 1,Treasurer of State,,DEM,Michael L. Fitzgerald,92,46,46
+Page,Page County Courthouse 2,Treasurer of State,,DEM,Michael L. Fitzgerald,122,61,61
+Page,Essex City Hall,Treasurer of State,,DEM,Michael L. Fitzgerald,106,20,86
+Page,Shenandoah Historical Building 1,Treasurer of State,,DEM,Michael L. Fitzgerald,116,27,89
+Page,Shenandoah Historical Building 2,Treasurer of State,,DEM,Michael L. Fitzgerald,229,76,153
+Page,Shenandoah Historical Building 3,Treasurer of State,,DEM,Michael L. Fitzgerald,228,84,144
+Page,Shenandoah Fire Station,Treasurer of State,,DEM,Michael L. Fitzgerald,135,62,73
+Page,Clarinda Lied Library 1,Treasurer of State,,REP,Roby Smith,377,86,291
+Page,Clarinda Lied Library 2,Treasurer of State,,REP,Roby Smith,615,153,462
+Page,Page County Courthouse 1,Treasurer of State,,REP,Roby Smith,353,129,224
+Page,Page County Courthouse 2,Treasurer of State,,REP,Roby Smith,496,173,323
+Page,Essex City Hall,Treasurer of State,,REP,Roby Smith,327,39,288
+Page,Shenandoah Historical Building 1,Treasurer of State,,REP,Roby Smith,217,25,192
+Page,Shenandoah Historical Building 2,Treasurer of State,,REP,Roby Smith,343,48,295
+Page,Shenandoah Historical Building 3,Treasurer of State,,REP,Roby Smith,392,66,326
+Page,Shenandoah Fire Station,Treasurer of State,,REP,Roby Smith,409,106,303
+Page,Clarinda Lied Library 1,Treasurer of State,,,Write-in,0,0,0
+Page,Clarinda Lied Library 2,Treasurer of State,,,Write-in,0,0,0
+Page,Page County Courthouse 1,Treasurer of State,,,Write-in,1,0,1
+Page,Page County Courthouse 2,Treasurer of State,,,Write-in,0,0,0
+Page,Essex City Hall,Treasurer of State,,,Write-in,0,0,0
+Page,Shenandoah Historical Building 1,Treasurer of State,,,Write-in,1,0,1
+Page,Shenandoah Historical Building 2,Treasurer of State,,,Write-in,2,0,2
+Page,Shenandoah Historical Building 3,Treasurer of State,,,Write-in,0,0,0
+Page,Shenandoah Fire Station,Treasurer of State,,,Write-in,0,0,0
+Page,Clarinda Lied Library 1,Secretary of Agriculture,,DEM,John Norwood,146,58,88
+Page,Clarinda Lied Library 2,Secretary of Agriculture,,DEM,John Norwood,265,105,160
+Page,Page County Courthouse 1,Secretary of Agriculture,,DEM,John Norwood,56,34,22
+Page,Page County Courthouse 2,Secretary of Agriculture,,DEM,John Norwood,99,55,44
+Page,Essex City Hall,Secretary of Agriculture,,DEM,John Norwood,81,16,65
+Page,Shenandoah Historical Building 1,Secretary of Agriculture,,DEM,John Norwood,100,22,78
+Page,Shenandoah Historical Building 2,Secretary of Agriculture,,DEM,John Norwood,194,63,131
+Page,Shenandoah Historical Building 3,Secretary of Agriculture,,DEM,John Norwood,190,72,118
+Page,Shenandoah Fire Station,Secretary of Agriculture,,DEM,John Norwood,113,52,61
+Page,Clarinda Lied Library 1,Secretary of Agriculture,,REP,Mike Naig,415,98,317
+Page,Clarinda Lied Library 2,Secretary of Agriculture,,REP,Mike Naig,651,171,480
+Page,Page County Courthouse 1,Secretary of Agriculture,,REP,Mike Naig,391,141,250
+Page,Page County Courthouse 2,Secretary of Agriculture,,REP,Mike Naig,521,181,340
+Page,Essex City Hall,Secretary of Agriculture,,REP,Mike Naig,350,42,308
+Page,Shenandoah Historical Building 1,Secretary of Agriculture,,REP,Mike Naig,231,29,202
+Page,Shenandoah Historical Building 2,Secretary of Agriculture,,REP,Mike Naig,381,61,320
+Page,Shenandoah Historical Building 3,Secretary of Agriculture,,REP,Mike Naig,431,72,359
+Page,Shenandoah Fire Station,Secretary of Agriculture,,REP,Mike Naig,431,115,316
+Page,Clarinda Lied Library 1,Secretary of Agriculture,,,Write-in,0,0,0
+Page,Clarinda Lied Library 2,Secretary of Agriculture,,,Write-in,1,1,0
+Page,Page County Courthouse 1,Secretary of Agriculture,,,Write-in,1,0,1
+Page,Page County Courthouse 2,Secretary of Agriculture,,,Write-in,0,0,0
+Page,Essex City Hall,Secretary of Agriculture,,,Write-in,0,0,0
+Page,Shenandoah Historical Building 1,Secretary of Agriculture,,,Write-in,2,0,2
+Page,Shenandoah Historical Building 2,Secretary of Agriculture,,,Write-in,1,0,1
+Page,Shenandoah Historical Building 3,Secretary of Agriculture,,,Write-in,1,1,0
+Page,Shenandoah Fire Station,Secretary of Agriculture,,,Write-in,0,0,0
+Page,Clarinda Lied Library 1,Attorney General,,DEM,Tom Miller,185,68,117
+Page,Clarinda Lied Library 2,Attorney General,,DEM,Tom Miller,313,121,192
+Page,Page County Courthouse 1,Attorney General,,DEM,Tom Miller,83,44,39
+Page,Page County Courthouse 2,Attorney General,,DEM,Tom Miller,127,66,61
+Page,Essex City Hall,Attorney General,,DEM,Tom Miller,100,19,81
+Page,Shenandoah Historical Building 1,Attorney General,,DEM,Tom Miller,108,26,82
+Page,Shenandoah Historical Building 2,Attorney General,,DEM,Tom Miller,219,74,145
+Page,Shenandoah Historical Building 3,Attorney General,,DEM,Tom Miller,228,86,142
+Page,Shenandoah Fire Station,Attorney General,,DEM,Tom Miller,139,57,82
+Page,Clarinda Lied Library 1,Attorney General,,REP,Brenna Bird,381,88,293
+Page,Clarinda Lied Library 2,Attorney General,,REP,Brenna Bird,613,158,455
+Page,Page County Courthouse 1,Attorney General,,REP,Brenna Bird,366,132,234
+Page,Page County Courthouse 2,Attorney General,,REP,Brenna Bird,496,172,324
+Page,Essex City Hall,Attorney General,,REP,Brenna Bird,335,40,295
+Page,Shenandoah Historical Building 1,Attorney General,,REP,Brenna Bird,225,26,199
+Page,Shenandoah Historical Building 2,Attorney General,,REP,Brenna Bird,359,52,307
+Page,Shenandoah Historical Building 3,Attorney General,,REP,Brenna Bird,400,64,336
+Page,Shenandoah Fire Station,Attorney General,,REP,Brenna Bird,410,111,299
+Page,Clarinda Lied Library 1,Attorney General,,,Write-in,0,0,0
+Page,Clarinda Lied Library 2,Attorney General,,,Write-in,0,0,0
+Page,Page County Courthouse 1,Attorney General,,,Write-in,1,0,1
+Page,Page County Courthouse 2,Attorney General,,,Write-in,0,0,0
+Page,Essex City Hall,Attorney General,,,Write-in,0,0,0
+Page,Shenandoah Historical Building 1,Attorney General,,,Write-in,1,0,1
+Page,Shenandoah Historical Building 2,Attorney General,,,Write-in,1,0,1
+Page,Shenandoah Historical Building 3,Attorney General,,,Write-in,1,1,0
+Page,Shenandoah Fire Station,Attorney General,,,Write-in,0,0,0
+Page,Clarinda Lied Library 1,State Senate,9,DEM,Tripp Narup,145,59,86
+Page,Clarinda Lied Library 2,State Senate,9,DEM,Tripp Narup,233,95,138
+Page,Page County Courthouse 1,State Senate,9,DEM,Tripp Narup,57,34,23
+Page,Page County Courthouse 2,State Senate,9,DEM,Tripp Narup,97,52,45
+Page,Essex City Hall,State Senate,9,DEM,Tripp Narup,77,15,62
+Page,Shenandoah Historical Building 1,State Senate,9,DEM,Tripp Narup,92,21,71
+Page,Shenandoah Historical Building 2,State Senate,9,DEM,Tripp Narup,180,63,117
+Page,Shenandoah Historical Building 3,State Senate,9,DEM,Tripp Narup,178,70,108
+Page,Shenandoah Fire Station,State Senate,9,DEM,Tripp Narup,100,48,52
+Page,Clarinda Lied Library 1,State Senate,9,REP,Tom Shipley,422,99,323
+Page,Clarinda Lied Library 2,State Senate,9,REP,Tom Shipley,692,183,509
+Page,Page County Courthouse 1,State Senate,9,REP,Tom Shipley,394,144,250
+Page,Page County Courthouse 2,State Senate,9,REP,Tom Shipley,524,186,338
+Page,Essex City Hall,State Senate,9,REP,Tom Shipley,353,44,309
+Page,Shenandoah Historical Building 1,State Senate,9,REP,Tom Shipley,239,29,210
+Page,Shenandoah Historical Building 2,State Senate,9,REP,Tom Shipley,395,61,334
+Page,Shenandoah Historical Building 3,State Senate,9,REP,Tom Shipley,447,79,368
+Page,Shenandoah Fire Station,State Senate,9,REP,Tom Shipley,439,116,323
+Page,Clarinda Lied Library 1,State Senate,9,,Write-in,0,0,0
+Page,Clarinda Lied Library 2,State Senate,9,,Write-in,0,0,0
+Page,Page County Courthouse 1,State Senate,9,,Write-in,2,0,2
+Page,Page County Courthouse 2,State Senate,9,,Write-in,1,0,1
+Page,Essex City Hall,State Senate,9,,Write-in,1,0,1
+Page,Shenandoah Historical Building 1,State Senate,9,,Write-in,2,0,2
+Page,Shenandoah Historical Building 2,State Senate,9,,Write-in,1,0,1
+Page,Shenandoah Historical Building 3,State Senate,9,,Write-in,0,0,0
+Page,Shenandoah Fire Station,State Senate,9,,Write-in,1,0,1
+Page,Clarinda Lied Library 1,State House,17,DEM,Pat Shipley,173,65,108
+Page,Clarinda Lied Library 2,State House,17,DEM,Pat Shipley,291,112,179
+Page,Page County Courthouse 2,State House,17,DEM,Pat Shipley,125,67,58
+Page,Clarinda Lied Library 1,State House,17,REP,Devon Wood,392,92,300
+Page,Clarinda Lied Library 2,State House,17,REP,Devon Wood,624,161,463
+Page,Page County Courthouse 2,State House,17,REP,Devon Wood,497,169,328
+Page,Clarinda Lied Library 1,State House,17,,Write-in,1,0,1
+Page,Clarinda Lied Library 2,State House,17,,Write-in,1,0,1
+Page,Page County Courthouse 2,State House,17,,Write-in,1,0,1
+Page,Page County Courthouse 1,State House,18,REP,Thomas Jay Moore,399,147,252
+Page,Essex City Hall,State House,18,REP,Thomas Jay Moore,380,48,332
+Page,Shenandoah Historical Building 1,State House,18,REP,Thomas Jay Moore,272,33,239
+Page,Shenandoah Historical Building 2,State House,18,REP,Thomas Jay Moore,457,78,379
+Page,Shenandoah Historical Building 3,State House,18,REP,Thomas Jay Moore,509,101,408
+Page,Shenandoah Fire Station,State House,18,REP,Thomas Jay Moore,465,131,334
+Page,Page County Courthouse 1,State House,18,,Write-in,3,1,2
+Page,Essex City Hall,State House,18,,Write-in,10,3,7
+Page,Shenandoah Historical Building 1,State House,18,,Write-in,8,0,8
+Page,Shenandoah Historical Building 2,State House,18,,Write-in,15,2,13
+Page,Shenandoah Historical Building 3,State House,18,,Write-in,15,6,9
+Page,Shenandoah Fire Station,State House,18,,Write-in,3,1,2
+Page,Clarinda Lied Library 1,County Board of Supervisors District 2,,REP,Todd Maher,460,111,349
+Page,Clarinda Lied Library 2,County Board of Supervisors District 2,,REP,Todd Maher,761,205,556
+Page,Page County Courthouse 1,County Board of Supervisors District 2,,REP,Todd Maher,398,145,253
+Page,Page County Courthouse 2,County Board of Supervisors District 2,,REP,Todd Maher,554,201,353
+Page,Essex City Hall,County Board of Supervisors District 2,,REP,Todd Maher,380,42,338
+Page,Shenandoah Historical Building 1,County Board of Supervisors District 2,,REP,Todd Maher,272,33,239
+Page,Shenandoah Historical Building 2,County Board of Supervisors District 2,,REP,Todd Maher,442,72,370
+Page,Shenandoah Historical Building 3,County Board of Supervisors District 2,,REP,Todd Maher,493,95,398
+Page,Shenandoah Fire Station,County Board of Supervisors District 2,,REP,Todd Maher,448,124,324
+Page,Clarinda Lied Library 1,County Board of Supervisors District 2,,,Write-in,36,17,19
+Page,Clarinda Lied Library 2,County Board of Supervisors District 2,,,Write-in,34,14,20
+Page,Page County Courthouse 1,County Board of Supervisors District 2,,,Write-in,9,5,4
+Page,Page County Courthouse 2,County Board of Supervisors District 2,,,Write-in,24,12,12
+Page,Essex City Hall,County Board of Supervisors District 2,,,Write-in,25,8,17
+Page,Shenandoah Historical Building 1,County Board of Supervisors District 2,,,Write-in,23,8,15
+Page,Shenandoah Historical Building 2,County Board of Supervisors District 2,,,Write-in,53,17,36
+Page,Shenandoah Historical Building 3,County Board of Supervisors District 2,,,Write-in,44,18,26
+Page,Shenandoah Fire Station,County Board of Supervisors District 2,,,Write-in,33,11,22
+Page,Clarinda Lied Library 1,County Treasurer,,REP,Angie Dow,521,136,385
+Page,Clarinda Lied Library 2,County Treasurer,,REP,Angie Dow,846,239,607
+Page,Page County Courthouse 1,County Treasurer,,REP,Angie Dow,425,160,265
+Page,Page County Courthouse 2,County Treasurer,,REP,Angie Dow,592,220,372
+Page,Essex City Hall,County Treasurer,,REP,Angie Dow,407,53,354
+Page,Shenandoah Historical Building 1,County Treasurer,,REP,Angie Dow,298,40,258
+Page,Shenandoah Historical Building 2,County Treasurer,,REP,Angie Dow,500,92,408
+Page,Shenandoah Historical Building 3,County Treasurer,,REP,Angie Dow,562,118,444
+Page,Shenandoah Fire Station,County Treasurer,,REP,Angie Dow,505,147,358
+Page,Clarinda Lied Library 1,County Treasurer,,,Write-in,5,2,3
+Page,Clarinda Lied Library 2,County Treasurer,,,Write-in,10,4,6
+Page,Page County Courthouse 1,County Treasurer,,,Write-in,2,1,1
+Page,Page County Courthouse 2,County Treasurer,,,Write-in,3,2,1
+Page,Essex City Hall,County Treasurer,,,Write-in,7,0,7
+Page,Shenandoah Historical Building 1,County Treasurer,,,Write-in,2,0,2
+Page,Shenandoah Historical Building 2,County Treasurer,,,Write-in,12,1,11
+Page,Shenandoah Historical Building 3,County Treasurer,,,Write-in,6,1,5
+Page,Shenandoah Fire Station,County Treasurer,,,Write-in,0,0,0
+Page,Clarinda Lied Library 1,County Recorder,,REP,Brenda L. Esaias,516,132,384
+Page,Clarinda Lied Library 2,County Recorder,,REP,Brenda L. Esaias,836,236,600
+Page,Page County Courthouse 1,County Recorder,,REP,Brenda L. Esaias,425,159,266
+Page,Page County Courthouse 2,County Recorder,,REP,Brenda L. Esaias,595,221,374
+Page,Essex City Hall,County Recorder,,REP,Brenda L. Esaias,403,53,350
+Page,Shenandoah Historical Building 1,County Recorder,,REP,Brenda L. Esaias,294,40,254
+Page,Shenandoah Historical Building 2,County Recorder,,REP,Brenda L. Esaias,492,87,405
+Page,Shenandoah Historical Building 3,County Recorder,,REP,Brenda L. Esaias,552,115,437
+Page,Shenandoah Fire Station,County Recorder,,REP,Brenda L. Esaias,497,144,353
+Page,Clarinda Lied Library 1,County Recorder,,,Write-in,7,3,4
+Page,Clarinda Lied Library 2,County Recorder,,,Write-in,9,4,5
+Page,Page County Courthouse 1,County Recorder,,,Write-in,4,1,3
+Page,Page County Courthouse 2,County Recorder,,,Write-in,3,3,0
+Page,Essex City Hall,County Recorder,,,Write-in,8,1,7
+Page,Shenandoah Historical Building 1,County Recorder,,,Write-in,5,0,5
+Page,Shenandoah Historical Building 2,County Recorder,,,Write-in,10,1,9
+Page,Shenandoah Historical Building 3,County Recorder,,,Write-in,5,1,4
+Page,Shenandoah Fire Station,County Recorder,,,Write-in,0,0,0
+Page,Clarinda Lied Library 1,County Attorney,,REP,Carl Sonksen,511,130,381
+Page,Clarinda Lied Library 2,County Attorney,,REP,Carl Sonksen,806,220,586
+Page,Page County Courthouse 1,County Attorney,,REP,Carl Sonksen,400,145,255
+Page,Page County Courthouse 2,County Attorney,,REP,Carl Sonksen,564,215,349
+Page,Essex City Hall,County Attorney,,REP,Carl Sonksen,389,51,338
+Page,Shenandoah Historical Building 1,County Attorney,,REP,Carl Sonksen,294,40,254
+Page,Shenandoah Historical Building 2,County Attorney,,REP,Carl Sonksen,475,83,392
+Page,Shenandoah Historical Building 3,County Attorney,,REP,Carl Sonksen,540,115,425
+Page,Shenandoah Fire Station,County Attorney,,REP,Carl Sonksen,463,131,332
+Page,Clarinda Lied Library 1,County Attorney,,,Write-in,5,2,3
+Page,Clarinda Lied Library 2,County Attorney,,,Write-in,15,8,7
+Page,Page County Courthouse 1,County Attorney,,,Write-in,10,5,5
+Page,Page County Courthouse 2,County Attorney,,,Write-in,11,6,5
+Page,Essex City Hall,County Attorney,,,Write-in,7,1,6
+Page,Shenandoah Historical Building 1,County Attorney,,,Write-in,2,0,2
+Page,Shenandoah Historical Building 2,County Attorney,,,Write-in,14,2,12
+Page,Shenandoah Historical Building 3,County Attorney,,,Write-in,7,1,6
+Page,Shenandoah Fire Station,County Attorney,,,Write-in,4,0,4
+Page,Page County Courthouse 2,Amity Township Trustee,,,Write-in,0,0,0
+Page,Page County Courthouse 2,Amity Township Trustee,,,Joe Farquhar,1,1,0
+Page,Page County Courthouse 2,Amity Township Trustee,,,Ron Livengood,2,0,2
+Page,Page County Courthouse 2,Amity Township Trustee,,,Kenneth Jackson,3,2,1
+Page,Page County Courthouse 2,Amity Township Trustee,,,Roger Henry,1,1,0
+Page,Page County Courthouse 2,Amity Township Trustee,,,Tyler Slough,2,0,2
+Page,Page County Courthouse 2,Amity Township Trustee,,,Craig Smith,1,0,1
+Page,Page County Courthouse 2,Amity Township Trustee,,,Joe Christensen,1,0,1
+Page,Page County Courthouse 2,Amity Township Trustee,,,Jeremy Wise,1,0,1
+Page,Page County Courthouse 2,Amity Township Clerk,,,Write-in,0,0,0
+Page,Page County Courthouse 2,Amity Township Clerk,,,Machelle Slough,5,0,5
+Page,Page County Courthouse 2,Amity Township Clerk,,,Ron Livengood,1,0,1
+Page,Page County Courthouse 2,Amity Township Clerk,,,Kenny Jackson,2,1,1
+Page,Page County Courthouse 2,Amity Township Clerk,,,Blank,1,1,0
+Page,Page County Courthouse 2,Buchanan Township Trustee,,,Dennis Davison,47,16,31
+Page,Page County Courthouse 2,Buchanan Township Trustee,,,Write-in,2,1,1
+Page,Page County Courthouse 2,Buchanan Township Clerk,,,Gary Davison,50,18,32
+Page,Page County Courthouse 2,Buchanan Township Clerk,,,Write-in,1,0,1
+Page,Clarinda Lied Library 1,Soil and Water Conservation District Commissioner,,,Brandon Pease,312,84,228
+Page,Clarinda Lied Library 2,Soil and Water Conservation District Commissioner,,,Brandon Pease,555,165,390
+Page,Page County Courthouse 1,Soil and Water Conservation District Commissioner,,,Brandon Pease,294,105,189
+Page,Page County Courthouse 2,Soil and Water Conservation District Commissioner,,,Brandon Pease,376,134,242
+Page,Essex City Hall,Soil and Water Conservation District Commissioner,,,Brandon Pease,321,43,278
+Page,Shenandoah Historical Building 1,Soil and Water Conservation District Commissioner,,,Brandon Pease,235,42,193
+Page,Shenandoah Historical Building 2,Soil and Water Conservation District Commissioner,,,Brandon Pease,430,84,346
+Page,Shenandoah Historical Building 3,Soil and Water Conservation District Commissioner,,,Brandon Pease,484,117,367
+Page,Shenandoah Fire Station,Soil and Water Conservation District Commissioner,,,Brandon Pease,403,124,279
+Page,Clarinda Lied Library 1,Soil and Water Conservation District Commissioner,,,Curtis Davison,415,111,304
+Page,Clarinda Lied Library 2,Soil and Water Conservation District Commissioner,,,Curtis Davison,671,204,467
+Page,Page County Courthouse 1,Soil and Water Conservation District Commissioner,,,Curtis Davison,340,122,218
+Page,Page County Courthouse 2,Soil and Water Conservation District Commissioner,,,Curtis Davison,441,162,279
+Page,Essex City Hall,Soil and Water Conservation District Commissioner,,,Curtis Davison,269,37,232
+Page,Shenandoah Historical Building 1,Soil and Water Conservation District Commissioner,,,Curtis Davison,181,23,158
+Page,Shenandoah Historical Building 2,Soil and Water Conservation District Commissioner,,,Curtis Davison,335,75,260
+Page,Shenandoah Historical Building 3,Soil and Water Conservation District Commissioner,,,Curtis Davison,376,91,285
+Page,Shenandoah Fire Station,Soil and Water Conservation District Commissioner,,,Curtis Davison,347,112,235
+Page,Clarinda Lied Library 1,Soil and Water Conservation District Commissioner,,,Write-in,2,2,0
+Page,Clarinda Lied Library 2,Soil and Water Conservation District Commissioner,,,Write-in,7,0,7
+Page,Page County Courthouse 1,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Page,Page County Courthouse 2,Soil and Water Conservation District Commissioner,,,Write-in,4,0,4
+Page,Essex City Hall,Soil and Water Conservation District Commissioner,,,Write-in,6,3,3
+Page,Shenandoah Historical Building 1,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Page,Shenandoah Historical Building 2,Soil and Water Conservation District Commissioner,,,Write-in,3,0,3
+Page,Shenandoah Historical Building 3,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Page,Shenandoah Fire Station,Soil and Water Conservation District Commissioner,,,Write-in,4,1,3
+Page,Clarinda Lied Library 1,County Agricultural Extension Council Member,,,Nikki Williams Simons,265,78,187
+Page,Clarinda Lied Library 2,County Agricultural Extension Council Member,,,Nikki Williams Simons,428,111,317
+Page,Page County Courthouse 1,County Agricultural Extension Council Member,,,Nikki Williams Simons,233,73,160
+Page,Page County Courthouse 2,County Agricultural Extension Council Member,,,Nikki Williams Simons,297,99,198
+Page,Essex City Hall,County Agricultural Extension Council Member,,,Nikki Williams Simons,206,26,180
+Page,Shenandoah Historical Building 1,County Agricultural Extension Council Member,,,Nikki Williams Simons,148,19,129
+Page,Shenandoah Historical Building 2,County Agricultural Extension Council Member,,,Nikki Williams Simons,261,49,212
+Page,Shenandoah Historical Building 3,County Agricultural Extension Council Member,,,Nikki Williams Simons,276,65,211
+Page,Shenandoah Fire Station,County Agricultural Extension Council Member,,,Nikki Williams Simons,269,93,176
+Page,Clarinda Lied Library 1,County Agricultural Extension Council Member,,,Diane Ferguson,365,114,251
+Page,Clarinda Lied Library 2,County Agricultural Extension Council Member,,,Diane Ferguson,608,185,423
+Page,Page County Courthouse 1,County Agricultural Extension Council Member,,,Diane Ferguson,292,104,188
+Page,Page County Courthouse 2,County Agricultural Extension Council Member,,,Diane Ferguson,393,155,238
+Page,Essex City Hall,County Agricultural Extension Council Member,,,Diane Ferguson,231,27,204
+Page,Shenandoah Historical Building 1,County Agricultural Extension Council Member,,,Diane Ferguson,154,18,136
+Page,Shenandoah Historical Building 2,County Agricultural Extension Council Member,,,Diane Ferguson,289,57,232
+Page,Shenandoah Historical Building 3,County Agricultural Extension Council Member,,,Diane Ferguson,305,71,234
+Page,Shenandoah Fire Station,County Agricultural Extension Council Member,,,Diane Ferguson,300,104,196
+Page,Clarinda Lied Library 1,County Agricultural Extension Council Member,,,Cheryl Beaver,364,113,251
+Page,Clarinda Lied Library 2,County Agricultural Extension Council Member,,,Cheryl Beaver,551,153,398
+Page,Page County Courthouse 1,County Agricultural Extension Council Member,,,Cheryl Beaver,268,92,176
+Page,Page County Courthouse 2,County Agricultural Extension Council Member,,,Cheryl Beaver,364,134,230
+Page,Essex City Hall,County Agricultural Extension Council Member,,,Cheryl Beaver,217,29,188
+Page,Shenandoah Historical Building 1,County Agricultural Extension Council Member,,,Cheryl Beaver,149,23,126
+Page,Shenandoah Historical Building 2,County Agricultural Extension Council Member,,,Cheryl Beaver,274,61,213
+Page,Shenandoah Historical Building 3,County Agricultural Extension Council Member,,,Cheryl Beaver,296,71,225
+Page,Shenandoah Fire Station,County Agricultural Extension Council Member,,,Cheryl Beaver,288,94,194
+Page,Clarinda Lied Library 1,County Agricultural Extension Council Member,,,Jon A. Stripe,281,74,207
+Page,Clarinda Lied Library 2,County Agricultural Extension Council Member,,,Jon A. Stripe,439,118,321
+Page,Page County Courthouse 1,County Agricultural Extension Council Member,,,Jon A. Stripe,277,101,176
+Page,Page County Courthouse 2,County Agricultural Extension Council Member,,,Jon A. Stripe,329,115,214
+Page,Essex City Hall,County Agricultural Extension Council Member,,,Jon A. Stripe,305,40,265
+Page,Shenandoah Historical Building 1,County Agricultural Extension Council Member,,,Jon A. Stripe,187,28,159
+Page,Shenandoah Historical Building 2,County Agricultural Extension Council Member,,,Jon A. Stripe,363,66,297
+Page,Shenandoah Historical Building 3,County Agricultural Extension Council Member,,,Jon A. Stripe,420,85,335
+Page,Shenandoah Fire Station,County Agricultural Extension Council Member,,,Jon A. Stripe,345,100,245
+Page,Clarinda Lied Library 1,County Agricultural Extension Council Member,,,Rosanne R. Cavin,291,85,206
+Page,Clarinda Lied Library 2,County Agricultural Extension Council Member,,,Rosanne R. Cavin,498,130,368
+Page,Page County Courthouse 1,County Agricultural Extension Council Member,,,Rosanne R. Cavin,274,100,174
+Page,Page County Courthouse 2,County Agricultural Extension Council Member,,,Rosanne R. Cavin,364,128,236
+Page,Essex City Hall,County Agricultural Extension Council Member,,,Rosanne R. Cavin,166,23,143
+Page,Shenandoah Historical Building 1,County Agricultural Extension Council Member,,,Rosanne R. Cavin,114,14,100
+Page,Shenandoah Historical Building 2,County Agricultural Extension Council Member,,,Rosanne R. Cavin,229,48,181
+Page,Shenandoah Historical Building 3,County Agricultural Extension Council Member,,,Rosanne R. Cavin,226,53,173
+Page,Shenandoah Fire Station,County Agricultural Extension Council Member,,,Rosanne R. Cavin,230,82,148
+Page,Clarinda Lied Library 1,County Agricultural Extension Council Member,,,Cynthia Fischer,235,70,165
+Page,Clarinda Lied Library 2,County Agricultural Extension Council Member,,,Cynthia Fischer,394,103,291
+Page,Page County Courthouse 1,County Agricultural Extension Council Member,,,Cynthia Fischer,210,75,135
+Page,Page County Courthouse 2,County Agricultural Extension Council Member,,,Cynthia Fischer,275,109,166
+Page,Essex City Hall,County Agricultural Extension Council Member,,,Cynthia Fischer,215,33,182
+Page,Shenandoah Historical Building 1,County Agricultural Extension Council Member,,,Cynthia Fischer,141,24,117
+Page,Shenandoah Historical Building 2,County Agricultural Extension Council Member,,,Cynthia Fischer,276,57,219
+Page,Shenandoah Historical Building 3,County Agricultural Extension Council Member,,,Cynthia Fischer,296,69,227
+Page,Shenandoah Fire Station,County Agricultural Extension Council Member,,,Cynthia Fischer,294,93,201
+Page,Clarinda Lied Library 1,County Agricultural Extension Council Member,,,Write-in,1,1,0
+Page,Clarinda Lied Library 2,County Agricultural Extension Council Member,,,Write-in,3,0,3
+Page,Page County Courthouse 1,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Page,Page County Courthouse 2,County Agricultural Extension Council Member,,,Write-in,2,1,1
+Page,Essex City Hall,County Agricultural Extension Council Member,,,Write-in,2,1,1
+Page,Shenandoah Historical Building 1,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Page,Shenandoah Historical Building 2,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Page,Shenandoah Historical Building 3,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Page,Shenandoah Fire Station,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Page,Clarinda Lied Library 1,County Agricultural Extension Council Member,,,Stacy Pulliam,258,74,184
+Page,Clarinda Lied Library 2,County Agricultural Extension Council Member,,,Stacy Pulliam,433,116,317
+Page,Page County Courthouse 1,County Agricultural Extension Council Member,,,Stacy Pulliam,213,76,137
+Page,Page County Courthouse 2,County Agricultural Extension Council Member,,,Stacy Pulliam,224,67,157
+Page,Essex City Hall,County Agricultural Extension Council Member,,,Stacy Pulliam,190,21,169
+Page,Shenandoah Historical Building 1,County Agricultural Extension Council Member,,,Stacy Pulliam,141,15,126
+Page,Shenandoah Historical Building 2,County Agricultural Extension Council Member,,,Stacy Pulliam,230,48,182
+Page,Shenandoah Historical Building 3,County Agricultural Extension Council Member,,,Stacy Pulliam,259,52,207
+Page,Shenandoah Fire Station,County Agricultural Extension Council Member,,,Stacy Pulliam,197,66,131
+Page,Clarinda Lied Library 1,County Agricultural Extension Council Member,,,Ron Foster,242,72,170
+Page,Clarinda Lied Library 2,County Agricultural Extension Council Member,,,Ron Foster,379,115,264
+Page,Page County Courthouse 1,County Agricultural Extension Council Member,,,Ron Foster,192,70,122
+Page,Page County Courthouse 2,County Agricultural Extension Council Member,,,Ron Foster,335,144,191
+Page,Essex City Hall,County Agricultural Extension Council Member,,,Ron Foster,154,21,133
+Page,Shenandoah Historical Building 1,County Agricultural Extension Council Member,,,Ron Foster,120,20,100
+Page,Shenandoah Historical Building 2,County Agricultural Extension Council Member,,,Ron Foster,213,38,175
+Page,Shenandoah Historical Building 3,County Agricultural Extension Council Member,,,Ron Foster,218,44,174
+Page,Shenandoah Fire Station,County Agricultural Extension Council Member,,,Ron Foster,247,74,173
+Page,Clarinda Lied Library 1,Supreme Court Justice,,,Yes,296,78,218
+Page,Clarinda Lied Library 2,Supreme Court Justice,,,Yes,511,131,380
+Page,Page County Courthouse 1,Supreme Court Justice,,,Yes,246,90,156
+Page,Page County Courthouse 2,Supreme Court Justice,,,Yes,301,99,202
+Page,Essex City Hall,Supreme Court Justice,,,Yes,225,27,198
+Page,Shenandoah Historical Building 1,Supreme Court Justice,,,Yes,183,21,162
+Page,Shenandoah Historical Building 2,Supreme Court Justice,,,Yes,329,66,263
+Page,Shenandoah Historical Building 3,Supreme Court Justice,,,Yes,331,73,258
+Page,Shenandoah Fire Station,Supreme Court Justice,,,Yes,260,79,181
+Page,Clarinda Lied Library 1,Supreme Court Justice,,,No,141,41,100
+Page,Clarinda Lied Library 2,Supreme Court Justice,,,No,216,64,152
+Page,Page County Courthouse 1,Supreme Court Justice,,,No,98,35,63
+Page,Page County Courthouse 2,Supreme Court Justice,,,No,174,65,109
+Page,Essex City Hall,Supreme Court Justice,,,No,111,11,100
+Page,Shenandoah Historical Building 1,Supreme Court Justice,,,No,83,16,67
+Page,Shenandoah Historical Building 2,Supreme Court Justice,,,No,125,30,95
+Page,Shenandoah Historical Building 3,Supreme Court Justice,,,No,162,38,124
+Page,Shenandoah Fire Station,Supreme Court Justice,,,No,155,42,113
+Page,Clarinda Lied Library 1,Court of Appeals Judge,,,Yes,290,83,207
+Page,Clarinda Lied Library 2,Court of Appeals Judge,,,Yes,488,125,363
+Page,Page County Courthouse 1,Court of Appeals Judge,,,Yes,229,81,148
+Page,Page County Courthouse 2,Court of Appeals Judge,,,Yes,289,96,193
+Page,Essex City Hall,Court of Appeals Judge,,,Yes,218,28,190
+Page,Shenandoah Historical Building 1,Court of Appeals Judge,,,Yes,184,24,160
+Page,Shenandoah Historical Building 2,Court of Appeals Judge,,,Yes,315,60,255
+Page,Shenandoah Historical Building 3,Court of Appeals Judge,,,Yes,323,69,254
+Page,Shenandoah Fire Station,Court of Appeals Judge,,,Yes,253,77,176
+Page,Clarinda Lied Library 1,Court of Appeals Judge,,,No,135,34,101
+Page,Clarinda Lied Library 2,Court of Appeals Judge,,,No,218,69,149
+Page,Page County Courthouse 1,Court of Appeals Judge,,,No,101,34,67
+Page,Page County Courthouse 2,Court of Appeals Judge,,,No,164,60,104
+Page,Essex City Hall,Court of Appeals Judge,,,No,105,9,96
+Page,Shenandoah Historical Building 1,Court of Appeals Judge,,,No,78,11,67
+Page,Shenandoah Historical Building 2,Court of Appeals Judge,,,No,129,29,100
+Page,Shenandoah Historical Building 3,Court of Appeals Judge,,,No,151,33,118
+Page,Shenandoah Fire Station,Court of Appeals Judge,,,No,155,44,111
+Page,Clarinda Lied Library 1,District 4 Judge,,,Yes,312,83,229
+Page,Clarinda Lied Library 2,District 4 Judge,,,Yes,542,143,399
+Page,Page County Courthouse 1,District 4 Judge,,,Yes,252,90,162
+Page,Page County Courthouse 2,District 4 Judge,,,Yes,318,106,212
+Page,Essex City Hall,District 4 Judge,,,Yes,238,29,209
+Page,Shenandoah Historical Building 1,District 4 Judge,,,Yes,183,25,158
+Page,Shenandoah Historical Building 2,District 4 Judge,,,Yes,345,69,276
+Page,Shenandoah Historical Building 3,District 4 Judge,,,Yes,339,74,265
+Page,Shenandoah Fire Station,District 4 Judge,,,Yes,285,82,203
+Page,Clarinda Lied Library 1,District 4 Judge,,,No,120,35,85
+Page,Clarinda Lied Library 2,District 4 Judge,,,No,191,59,132
+Page,Page County Courthouse 1,District 4 Judge,,,No,87,30,57
+Page,Page County Courthouse 2,District 4 Judge,,,No,145,56,89
+Page,Essex City Hall,District 4 Judge,,,No,93,8,85
+Page,Shenandoah Historical Building 1,District 4 Judge,,,No,75,9,66
+Page,Shenandoah Historical Building 2,District 4 Judge,,,No,107,21,86
+Page,Shenandoah Historical Building 3,District 4 Judge,,,No,142,29,113
+Page,Shenandoah Fire Station,District 4 Judge,,,No,137,40,97
+Page,Clarinda Lied Library 1,District 4 Associate Judge,,,Yes,322,83,239
+Page,Clarinda Lied Library 2,District 4 Associate Judge,,,Yes,541,141,400
+Page,Page County Courthouse 1,District 4 Associate Judge,,,Yes,245,90,155
+Page,Page County Courthouse 2,District 4 Associate Judge,,,Yes,315,105,210
+Page,Essex City Hall,District 4 Associate Judge,,,Yes,236,32,204
+Page,Shenandoah Historical Building 1,District 4 Associate Judge,,,Yes,195,29,166
+Page,Shenandoah Historical Building 2,District 4 Associate Judge,,,Yes,352,71,281
+Page,Shenandoah Historical Building 3,District 4 Associate Judge,,,Yes,354,76,278
+Page,Shenandoah Fire Station,District 4 Associate Judge,,,Yes,280,80,200
+Page,Clarinda Lied Library 1,District 4 Associate Judge,,,No,122,39,83
+Page,Clarinda Lied Library 2,District 4 Associate Judge,,,No,199,58,141
+Page,Page County Courthouse 1,District 4 Associate Judge,,,No,96,31,65
+Page,Page County Courthouse 2,District 4 Associate Judge,,,No,159,59,100
+Page,Essex City Hall,District 4 Associate Judge,,,No,97,6,91
+Page,Shenandoah Historical Building 1,District 4 Associate Judge,,,No,77,8,69
+Page,Shenandoah Historical Building 2,District 4 Associate Judge,,,No,110,23,87
+Page,Shenandoah Historical Building 3,District 4 Associate Judge,,,No,137,28,109
+Page,Shenandoah Fire Station,District 4 Associate Judge,,,No,138,42,96
+Page,Clarinda Lied Library 1,Constitutional Amendment 1,,,Yes,438,109,329
+Page,Clarinda Lied Library 2,Constitutional Amendment 1,,,Yes,699,189,510
+Page,Page County Courthouse 1,Constitutional Amendment 1,,,Yes,392,144,248
+Page,Page County Courthouse 2,Constitutional Amendment 1,,,Yes,516,179,337
+Page,Essex City Hall,Constitutional Amendment 1,,,Yes,353,43,310
+Page,Shenandoah Historical Building 1,Constitutional Amendment 1,,,Yes,252,31,221
+Page,Shenandoah Historical Building 2,Constitutional Amendment 1,,,Yes,418,73,345
+Page,Shenandoah Historical Building 3,Constitutional Amendment 1,,,Yes,442,73,369
+Page,Shenandoah Fire Station,Constitutional Amendment 1,,,Yes,442,125,317
+Page,Clarinda Lied Library 1,Constitutional Amendment 1,,,No,116,41,75
+Page,Clarinda Lied Library 2,Constitutional Amendment 1,,,No,188,70,118
+Page,Page County Courthouse 1,Constitutional Amendment 1,,,No,48,27,21
+Page,Page County Courthouse 2,Constitutional Amendment 1,,,No,82,41,41
+Page,Essex City Hall,Constitutional Amendment 1,,,No,65,15,50
+Page,Shenandoah Historical Building 1,Constitutional Amendment 1,,,No,71,18,53
+Page,Shenandoah Historical Building 2,Constitutional Amendment 1,,,No,136,45,91
+Page,Shenandoah Historical Building 3,Constitutional Amendment 1,,,No,153,64,89
+Page,Shenandoah Fire Station,Constitutional Amendment 1,,,No,98,40,58
+Page,Page County Courthouse 2,Public Measure A,,,Yes,24,9,15
+Page,Page County Courthouse 2,Public Measure A,,,No,34,12,22
+Page,Page County Courthouse 2,Public Measure B,,,Yes,10,8,2
+Page,Page County Courthouse 2,Public Measure B,,,No,44,13,31

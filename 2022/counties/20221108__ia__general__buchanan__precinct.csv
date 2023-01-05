@@ -1,0 +1,908 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Buchanan,Aurora,U.S. Senate,,REP,Chuck Grassley,342,55,287
+Buchanan,Brandon,U.S. Senate,,REP,Chuck Grassley,241,28,213
+Buchanan,Fairbank,U.S. Senate,,REP,Chuck Grassley,301,49,252
+Buchanan,Hazleton,U.S. Senate,,REP,Chuck Grassley,245,28,217
+Buchanan,Independence 1st Ward,U.S. Senate,,REP,Chuck Grassley,343,117,226
+Buchanan,Independence 2nd Ward,U.S. Senate,,REP,Chuck Grassley,259,58,201
+Buchanan,Independence 3rd Ward,U.S. Senate,,REP,Chuck Grassley,692,195,497
+Buchanan,Independence 4th Ward,U.S. Senate,,REP,Chuck Grassley,199,28,171
+Buchanan,Independence 5th Ward,U.S. Senate,,REP,Chuck Grassley,230,46,184
+Buchanan,Jesup,U.S. Senate,,REP,Chuck Grassley,588,90,498
+Buchanan,Perry-Washington,U.S. Senate,,REP,Chuck Grassley,483,175,308
+Buchanan,Quasqueton,U.S. Senate,,REP,Chuck Grassley,557,85,472
+Buchanan,Rowley,U.S. Senate,,REP,Chuck Grassley,327,34,293
+Buchanan,Winthrop,U.S. Senate,,REP,Chuck Grassley,278,47,231
+Buchanan,Aurora,U.S. Senate,,DEM,Michael Franken,195,76,119
+Buchanan,Brandon,U.S. Senate,,DEM,Michael Franken,99,26,73
+Buchanan,Fairbank,U.S. Senate,,DEM,Michael Franken,164,50,114
+Buchanan,Hazleton,U.S. Senate,,DEM,Michael Franken,147,47,100
+Buchanan,Independence 1st Ward,U.S. Senate,,DEM,Michael Franken,229,99,130
+Buchanan,Independence 2nd Ward,U.S. Senate,,DEM,Michael Franken,250,107,143
+Buchanan,Independence 3rd Ward,U.S. Senate,,DEM,Michael Franken,347,197,150
+Buchanan,Independence 4th Ward,U.S. Senate,,DEM,Michael Franken,212,60,152
+Buchanan,Independence 5th Ward,U.S. Senate,,DEM,Michael Franken,195,69,126
+Buchanan,Jesup,U.S. Senate,,DEM,Michael Franken,320,81,239
+Buchanan,Perry-Washington,U.S. Senate,,DEM,Michael Franken,287,167,120
+Buchanan,Quasqueton,U.S. Senate,,DEM,Michael Franken,286,93,193
+Buchanan,Rowley,U.S. Senate,,DEM,Michael Franken,162,37,125
+Buchanan,Winthrop,U.S. Senate,,DEM,Michael Franken,178,47,131
+Buchanan,Aurora,U.S. Senate,,,Write-in,0,0,0
+Buchanan,Brandon,U.S. Senate,,,Write-in,1,0,1
+Buchanan,Fairbank,U.S. Senate,,,Write-in,2,1,1
+Buchanan,Hazleton,U.S. Senate,,,Write-in,1,0,1
+Buchanan,Independence 1st Ward,U.S. Senate,,,Write-in,0,0,0
+Buchanan,Independence 2nd Ward,U.S. Senate,,,Write-in,0,0,0
+Buchanan,Independence 3rd Ward,U.S. Senate,,,Write-in,2,0,2
+Buchanan,Independence 4th Ward,U.S. Senate,,,Write-in,0,0,0
+Buchanan,Independence 5th Ward,U.S. Senate,,,Write-in,0,0,0
+Buchanan,Jesup,U.S. Senate,,,Write-in,2,0,2
+Buchanan,Perry-Washington,U.S. Senate,,,Write-in,0,0,0
+Buchanan,Quasqueton,U.S. Senate,,,Write-in,1,0,1
+Buchanan,Rowley,U.S. Senate,,,Write-in,1,1,0
+Buchanan,Winthrop,U.S. Senate,,,Write-in,0,0,0
+Buchanan,Aurora,U.S. House,2,REP,Ashley Hinson,336,53,283
+Buchanan,Brandon,U.S. House,2,REP,Ashley Hinson,236,25,211
+Buchanan,Fairbank,U.S. House,2,REP,Ashley Hinson,305,50,255
+Buchanan,Hazleton,U.S. House,2,REP,Ashley Hinson,246,28,218
+Buchanan,Independence 1st Ward,U.S. House,2,REP,Ashley Hinson,324,102,222
+Buchanan,Independence 2nd Ward,U.S. House,2,REP,Ashley Hinson,257,61,196
+Buchanan,Independence 3rd Ward,U.S. House,2,REP,Ashley Hinson,691,197,494
+Buchanan,Independence 4th Ward,U.S. House,2,REP,Ashley Hinson,194,24,170
+Buchanan,Independence 5th Ward,U.S. House,2,REP,Ashley Hinson,238,49,189
+Buchanan,Jesup,U.S. House,2,REP,Ashley Hinson,581,86,495
+Buchanan,Perry-Washington,U.S. House,2,REP,Ashley Hinson,471,167,304
+Buchanan,Quasqueton,U.S. House,2,REP,Ashley Hinson,548,83,465
+Buchanan,Rowley,U.S. House,2,REP,Ashley Hinson,319,33,286
+Buchanan,Winthrop,U.S. House,2,REP,Ashley Hinson,282,46,236
+Buchanan,Aurora,U.S. House,2,DEM,Liz Mathis,199,78,121
+Buchanan,Brandon,U.S. House,2,DEM,Liz Mathis,107,28,79
+Buchanan,Fairbank,U.S. House,2,DEM,Liz Mathis,164,52,112
+Buchanan,Hazleton,U.S. House,2,DEM,Liz Mathis,145,47,98
+Buchanan,Independence 1st Ward,U.S. House,2,DEM,Liz Mathis,247,113,134
+Buchanan,Independence 2nd Ward,U.S. House,2,DEM,Liz Mathis,248,102,146
+Buchanan,Independence 3rd Ward,U.S. House,2,DEM,Liz Mathis,354,200,154
+Buchanan,Independence 4th Ward,U.S. House,2,DEM,Liz Mathis,213,63,150
+Buchanan,Independence 5th Ward,U.S. House,2,DEM,Liz Mathis,186,67,119
+Buchanan,Jesup,U.S. House,2,DEM,Liz Mathis,327,84,243
+Buchanan,Perry-Washington,U.S. House,2,DEM,Liz Mathis,298,171,127
+Buchanan,Quasqueton,U.S. House,2,DEM,Liz Mathis,296,98,198
+Buchanan,Rowley,U.S. House,2,DEM,Liz Mathis,167,38,129
+Buchanan,Winthrop,U.S. House,2,DEM,Liz Mathis,177,49,128
+Buchanan,Aurora,U.S. House,2,,Write-in,0,0,0
+Buchanan,Brandon,U.S. House,2,,Write-in,3,2,1
+Buchanan,Fairbank,U.S. House,2,,Write-in,0,0,0
+Buchanan,Hazleton,U.S. House,2,,Write-in,1,0,1
+Buchanan,Independence 1st Ward,U.S. House,2,,Write-in,0,0,0
+Buchanan,Independence 2nd Ward,U.S. House,2,,Write-in,1,0,1
+Buchanan,Independence 3rd Ward,U.S. House,2,,Write-in,0,0,0
+Buchanan,Independence 4th Ward,U.S. House,2,,Write-in,0,0,0
+Buchanan,Independence 5th Ward,U.S. House,2,,Write-in,0,0,0
+Buchanan,Jesup,U.S. House,2,,Write-in,2,0,2
+Buchanan,Perry-Washington,U.S. House,2,,Write-in,0,0,0
+Buchanan,Quasqueton,U.S. House,2,,Write-in,1,0,1
+Buchanan,Rowley,U.S. House,2,,Write-in,1,0,1
+Buchanan,Winthrop,U.S. House,2,,Write-in,0,0,0
+Buchanan,Aurora,Governor,,REP,Kim Reynolds and Adam Gregg,359,56,303
+Buchanan,Brandon,Governor,,REP,Kim Reynolds and Adam Gregg,249,28,221
+Buchanan,Fairbank,Governor,,REP,Kim Reynolds and Adam Gregg,332,57,275
+Buchanan,Hazleton,Governor,,REP,Kim Reynolds and Adam Gregg,264,31,233
+Buchanan,Independence 1st Ward,Governor,,REP,Kim Reynolds and Adam Gregg,357,122,235
+Buchanan,Independence 2nd Ward,Governor,,REP,Kim Reynolds and Adam Gregg,279,69,210
+Buchanan,Independence 3rd Ward,Governor,,REP,Kim Reynolds and Adam Gregg,728,221,507
+Buchanan,Independence 4th Ward,Governor,,REP,Kim Reynolds and Adam Gregg,204,30,174
+Buchanan,Independence 5th Ward,Governor,,REP,Kim Reynolds and Adam Gregg,249,57,192
+Buchanan,Jesup,Governor,,REP,Kim Reynolds and Adam Gregg,614,95,519
+Buchanan,Perry-Washington,Governor,,REP,Kim Reynolds and Adam Gregg,500,189,311
+Buchanan,Quasqueton,Governor,,REP,Kim Reynolds and Adam Gregg,585,95,490
+Buchanan,Rowley,Governor,,REP,Kim Reynolds and Adam Gregg,337,32,305
+Buchanan,Winthrop,Governor,,REP,Kim Reynolds and Adam Gregg,299,51,248
+Buchanan,Aurora,Governor,,DEM,Deidre DeJear and Eric Van Lancker,172,72,100
+Buchanan,Brandon,Governor,,DEM,Deidre DeJear and Eric Van Lancker,90,25,65
+Buchanan,Fairbank,Governor,,DEM,Deidre DeJear and Eric Van Lancker,128,41,87
+Buchanan,Hazleton,Governor,,DEM,Deidre DeJear and Eric Van Lancker,122,44,78
+Buchanan,Independence 1st Ward,Governor,,DEM,Deidre DeJear and Eric Van Lancker,197,90,107
+Buchanan,Independence 2nd Ward,Governor,,DEM,Deidre DeJear and Eric Van Lancker,219,96,123
+Buchanan,Independence 3rd Ward,Governor,,DEM,Deidre DeJear and Eric Van Lancker,300,174,126
+Buchanan,Independence 4th Ward,Governor,,DEM,Deidre DeJear and Eric Van Lancker,192,59,133
+Buchanan,Independence 5th Ward,Governor,,DEM,Deidre DeJear and Eric Van Lancker,167,60,107
+Buchanan,Jesup,Governor,,DEM,Deidre DeJear and Eric Van Lancker,281,76,205
+Buchanan,Perry-Washington,Governor,,DEM,Deidre DeJear and Eric Van Lancker,255,146,109
+Buchanan,Quasqueton,Governor,,DEM,Deidre DeJear and Eric Van Lancker,234,83,151
+Buchanan,Rowley,Governor,,DEM,Deidre DeJear and Eric Van Lancker,140,39,101
+Buchanan,Winthrop,Governor,,DEM,Deidre DeJear and Eric Van Lancker,153,44,109
+Buchanan,Aurora,Governor,,LIB,Rick Stewart and Marco Battaglia,5,2,3
+Buchanan,Brandon,Governor,,LIB,Rick Stewart and Marco Battaglia,6,1,5
+Buchanan,Fairbank,Governor,,LIB,Rick Stewart and Marco Battaglia,7,4,3
+Buchanan,Hazleton,Governor,,LIB,Rick Stewart and Marco Battaglia,9,2,7
+Buchanan,Independence 1st Ward,Governor,,LIB,Rick Stewart and Marco Battaglia,18,3,15
+Buchanan,Independence 2nd Ward,Governor,,LIB,Rick Stewart and Marco Battaglia,15,3,12
+Buchanan,Independence 3rd Ward,Governor,,LIB,Rick Stewart and Marco Battaglia,22,9,13
+Buchanan,Independence 4th Ward,Governor,,LIB,Rick Stewart and Marco Battaglia,18,0,18
+Buchanan,Independence 5th Ward,Governor,,LIB,Rick Stewart and Marco Battaglia,15,3,12
+Buchanan,Jesup,Governor,,LIB,Rick Stewart and Marco Battaglia,21,1,20
+Buchanan,Perry-Washington,Governor,,LIB,Rick Stewart and Marco Battaglia,19,9,10
+Buchanan,Quasqueton,Governor,,LIB,Rick Stewart and Marco Battaglia,30,3,27
+Buchanan,Rowley,Governor,,LIB,Rick Stewart and Marco Battaglia,16,2,14
+Buchanan,Winthrop,Governor,,LIB,Rick Stewart and Marco Battaglia,8,3,5
+Buchanan,Aurora,Governor,,,Write-in,0,0,0
+Buchanan,Brandon,Governor,,,Write-in,0,0,0
+Buchanan,Fairbank,Governor,,,Write-in,1,0,1
+Buchanan,Hazleton,Governor,,,Write-in,0,0,0
+Buchanan,Independence 1st Ward,Governor,,,Write-in,0,0,0
+Buchanan,Independence 2nd Ward,Governor,,,Write-in,0,0,0
+Buchanan,Independence 3rd Ward,Governor,,,Write-in,0,0,0
+Buchanan,Independence 4th Ward,Governor,,,Write-in,0,0,0
+Buchanan,Independence 5th Ward,Governor,,,Write-in,0,0,0
+Buchanan,Jesup,Governor,,,Write-in,0,0,0
+Buchanan,Perry-Washington,Governor,,,Write-in,1,0,1
+Buchanan,Quasqueton,Governor,,,Write-in,0,0,0
+Buchanan,Rowley,Governor,,,Write-in,0,0,0
+Buchanan,Winthrop,Governor,,,Write-in,0,0,0
+Buchanan,Aurora,Secretary of State,,REP,Paul D. Pate,371,67,304
+Buchanan,Brandon,Secretary of State,,REP,Paul D. Pate,245,27,218
+Buchanan,Fairbank,Secretary of State,,REP,Paul D. Pate,329,54,275
+Buchanan,Hazleton,Secretary of State,,REP,Paul D. Pate,273,32,241
+Buchanan,Independence 1st Ward,Secretary of State,,REP,Paul D. Pate,384,126,258
+Buchanan,Independence 2nd Ward,Secretary of State,,REP,Paul D. Pate,274,69,205
+Buchanan,Independence 3rd Ward,Secretary of State,,REP,Paul D. Pate,737,222,515
+Buchanan,Independence 4th Ward,Secretary of State,,REP,Paul D. Pate,214,34,180
+Buchanan,Independence 5th Ward,Secretary of State,,REP,Paul D. Pate,251,59,192
+Buchanan,Jesup,Secretary of State,,REP,Paul D. Pate,645,105,540
+Buchanan,Perry-Washington,Secretary of State,,REP,Paul D. Pate,496,191,305
+Buchanan,Quasqueton,Secretary of State,,REP,Paul D. Pate,585,102,483
+Buchanan,Rowley,Secretary of State,,REP,Paul D. Pate,342,32,310
+Buchanan,Winthrop,Secretary of State,,REP,Paul D. Pate,297,49,248
+Buchanan,Aurora,Secretary of State,,DEM,Joel Miller,159,62,97
+Buchanan,Brandon,Secretary of State,,DEM,Joel Miller,99,28,71
+Buchanan,Fairbank,Secretary of State,,DEM,Joel Miller,134,49,85
+Buchanan,Hazleton,Secretary of State,,DEM,Joel Miller,121,44,77
+Buchanan,Independence 1st Ward,Secretary of State,,DEM,Joel Miller,191,93,98
+Buchanan,Independence 2nd Ward,Secretary of State,,DEM,Joel Miller,229,98,131
+Buchanan,Independence 3rd Ward,Secretary of State,,DEM,Joel Miller,305,175,130
+Buchanan,Independence 4th Ward,Secretary of State,,DEM,Joel Miller,190,52,138
+Buchanan,Independence 5th Ward,Secretary of State,,DEM,Joel Miller,179,60,119
+Buchanan,Jesup,Secretary of State,,DEM,Joel Miller,257,65,192
+Buchanan,Perry-Washington,Secretary of State,,DEM,Joel Miller,271,152,119
+Buchanan,Quasqueton,Secretary of State,,DEM,Joel Miller,252,77,175
+Buchanan,Rowley,Secretary of State,,DEM,Joel Miller,144,40,104
+Buchanan,Winthrop,Secretary of State,,DEM,Joel Miller,160,48,112
+Buchanan,Aurora,Secretary of State,,,Write-in,0,0,0
+Buchanan,Brandon,Secretary of State,,,Write-in,0,0,0
+Buchanan,Fairbank,Secretary of State,,,Write-in,0,0,0
+Buchanan,Hazleton,Secretary of State,,,Write-in,0,0,0
+Buchanan,Independence 1st Ward,Secretary of State,,,Write-in,0,0,0
+Buchanan,Independence 2nd Ward,Secretary of State,,,Write-in,0,0,0
+Buchanan,Independence 3rd Ward,Secretary of State,,,Write-in,1,0,1
+Buchanan,Independence 4th Ward,Secretary of State,,,Write-in,0,0,0
+Buchanan,Independence 5th Ward,Secretary of State,,,Write-in,0,0,0
+Buchanan,Jesup,Secretary of State,,,Write-in,1,0,1
+Buchanan,Perry-Washington,Secretary of State,,,Write-in,0,0,0
+Buchanan,Quasqueton,Secretary of State,,,Write-in,1,0,1
+Buchanan,Rowley,Secretary of State,,,Write-in,0,0,0
+Buchanan,Winthrop,Secretary of State,,,Write-in,0,0,0
+Buchanan,Aurora,Auditor of State,,REP,Todd Halbur,273,44,229
+Buchanan,Brandon,Auditor of State,,REP,Todd Halbur,193,18,175
+Buchanan,Fairbank,Auditor of State,,REP,Todd Halbur,257,43,214
+Buchanan,Hazleton,Auditor of State,,REP,Todd Halbur,208,18,190
+Buchanan,Independence 1st Ward,Auditor of State,,REP,Todd Halbur,267,82,185
+Buchanan,Independence 2nd Ward,Auditor of State,,REP,Todd Halbur,224,50,174
+Buchanan,Independence 3rd Ward,Auditor of State,,REP,Todd Halbur,567,150,417
+Buchanan,Independence 4th Ward,Auditor of State,,REP,Todd Halbur,171,18,153
+Buchanan,Independence 5th Ward,Auditor of State,,REP,Todd Halbur,202,37,165
+Buchanan,Jesup,Auditor of State,,REP,Todd Halbur,494,71,423
+Buchanan,Perry-Washington,Auditor of State,,REP,Todd Halbur,387,128,259
+Buchanan,Quasqueton,Auditor of State,,REP,Todd Halbur,454,64,390
+Buchanan,Rowley,Auditor of State,,REP,Todd Halbur,262,25,237
+Buchanan,Winthrop,Auditor of State,,REP,Todd Halbur,227,31,196
+Buchanan,Aurora,Auditor of State,,DEM,Rob Sand,257,84,173
+Buchanan,Brandon,Auditor of State,,DEM,Rob Sand,145,36,109
+Buchanan,Fairbank,Auditor of State,,DEM,Rob Sand,206,60,146
+Buchanan,Hazleton,Auditor of State,,DEM,Rob Sand,182,57,125
+Buchanan,Independence 1st Ward,Auditor of State,,DEM,Rob Sand,302,132,170
+Buchanan,Independence 2nd Ward,Auditor of State,,DEM,Rob Sand,280,117,163
+Buchanan,Independence 3rd Ward,Auditor of State,,DEM,Rob Sand,466,241,225
+Buchanan,Independence 4th Ward,Auditor of State,,DEM,Rob Sand,228,67,161
+Buchanan,Independence 5th Ward,Auditor of State,,DEM,Rob Sand,224,81,143
+Buchanan,Jesup,Auditor of State,,DEM,Rob Sand,400,99,301
+Buchanan,Perry-Washington,Auditor of State,,DEM,Rob Sand,373,212,161
+Buchanan,Quasqueton,Auditor of State,,DEM,Rob Sand,378,114,264
+Buchanan,Rowley,Auditor of State,,DEM,Rob Sand,222,46,176
+Buchanan,Winthrop,Auditor of State,,DEM,Rob Sand,228,66,162
+Buchanan,Aurora,Auditor of State,,,Write-in,0,0,0
+Buchanan,Brandon,Auditor of State,,,Write-in,0,0,0
+Buchanan,Fairbank,Auditor of State,,,Write-in,0,0,0
+Buchanan,Hazleton,Auditor of State,,,Write-in,0,0,0
+Buchanan,Independence 1st Ward,Auditor of State,,,Write-in,0,0,0
+Buchanan,Independence 2nd Ward,Auditor of State,,,Write-in,0,0,0
+Buchanan,Independence 3rd Ward,Auditor of State,,,Write-in,2,1,1
+Buchanan,Independence 4th Ward,Auditor of State,,,Write-in,0,0,0
+Buchanan,Independence 5th Ward,Auditor of State,,,Write-in,0,0,0
+Buchanan,Jesup,Auditor of State,,,Write-in,0,0,0
+Buchanan,Perry-Washington,Auditor of State,,,Write-in,0,0,0
+Buchanan,Quasqueton,Auditor of State,,,Write-in,0,0,0
+Buchanan,Rowley,Auditor of State,,,Write-in,0,0,0
+Buchanan,Winthrop,Auditor of State,,,Write-in,0,0,0
+Buchanan,Aurora,Treasurer of State,,REP,Roby Smith,292,45,247
+Buchanan,Brandon,Treasurer of State,,REP,Roby Smith,204,19,185
+Buchanan,Fairbank,Treasurer of State,,REP,Roby Smith,276,46,230
+Buchanan,Hazleton,Treasurer of State,,REP,Roby Smith,225,22,203
+Buchanan,Independence 1st Ward,Treasurer of State,,REP,Roby Smith,294,92,202
+Buchanan,Independence 2nd Ward,Treasurer of State,,REP,Roby Smith,248,59,189
+Buchanan,Independence 3rd Ward,Treasurer of State,,REP,Roby Smith,604,155,449
+Buchanan,Independence 4th Ward,Treasurer of State,,REP,Roby Smith,185,27,158
+Buchanan,Independence 5th Ward,Treasurer of State,,REP,Roby Smith,218,44,174
+Buchanan,Jesup,Treasurer of State,,REP,Roby Smith,544,82,462
+Buchanan,Perry-Washington,Treasurer of State,,REP,Roby Smith,412,138,274
+Buchanan,Quasqueton,Treasurer of State,,REP,Roby Smith,479,69,410
+Buchanan,Rowley,Treasurer of State,,REP,Roby Smith,286,26,260
+Buchanan,Winthrop,Treasurer of State,,REP,Roby Smith,248,39,209
+Buchanan,Aurora,Treasurer of State,,DEM,Michael L. Fitzgerald,235,84,151
+Buchanan,Brandon,Treasurer of State,,DEM,Michael L. Fitzgerald,132,34,98
+Buchanan,Fairbank,Treasurer of State,,DEM,Michael L. Fitzgerald,180,57,123
+Buchanan,Hazleton,Treasurer of State,,DEM,Michael L. Fitzgerald,164,52,112
+Buchanan,Independence 1st Ward,Treasurer of State,,DEM,Michael L. Fitzgerald,273,125,148
+Buchanan,Independence 2nd Ward,Treasurer of State,,DEM,Michael L. Fitzgerald,259,109,150
+Buchanan,Independence 3rd Ward,Treasurer of State,,DEM,Michael L. Fitzgerald,427,234,193
+Buchanan,Independence 4th Ward,Treasurer of State,,DEM,Michael L. Fitzgerald,215,57,158
+Buchanan,Independence 5th Ward,Treasurer of State,,DEM,Michael L. Fitzgerald,204,72,132
+Buchanan,Jesup,Treasurer of State,,DEM,Michael L. Fitzgerald,353,87,266
+Buchanan,Perry-Washington,Treasurer of State,,DEM,Michael L. Fitzgerald,344,199,145
+Buchanan,Quasqueton,Treasurer of State,,DEM,Michael L. Fitzgerald,348,106,242
+Buchanan,Rowley,Treasurer of State,,DEM,Michael L. Fitzgerald,196,46,150
+Buchanan,Winthrop,Treasurer of State,,DEM,Michael L. Fitzgerald,206,58,148
+Buchanan,Aurora,Treasurer of State,,,Write-in,0,0,0
+Buchanan,Brandon,Treasurer of State,,,Write-in,0,0,0
+Buchanan,Fairbank,Treasurer of State,,,Write-in,0,0,0
+Buchanan,Hazleton,Treasurer of State,,,Write-in,0,0,0
+Buchanan,Independence 1st Ward,Treasurer of State,,,Write-in,0,0,0
+Buchanan,Independence 2nd Ward,Treasurer of State,,,Write-in,0,0,0
+Buchanan,Independence 3rd Ward,Treasurer of State,,,Write-in,1,0,1
+Buchanan,Independence 4th Ward,Treasurer of State,,,Write-in,0,0,0
+Buchanan,Independence 5th Ward,Treasurer of State,,,Write-in,0,0,0
+Buchanan,Jesup,Treasurer of State,,,Write-in,1,0,1
+Buchanan,Perry-Washington,Treasurer of State,,,Write-in,0,0,0
+Buchanan,Quasqueton,Treasurer of State,,,Write-in,0,0,0
+Buchanan,Rowley,Treasurer of State,,,Write-in,0,0,0
+Buchanan,Winthrop,Treasurer of State,,,Write-in,0,0,0
+Buchanan,Aurora,Secretary of Agriculture,,REP,Mike Naig,375,61,314
+Buchanan,Brandon,Secretary of Agriculture,,REP,Mike Naig,252,26,226
+Buchanan,Fairbank,Secretary of Agriculture,,REP,Mike Naig,322,56,266
+Buchanan,Hazleton,Secretary of Agriculture,,REP,Mike Naig,272,35,237
+Buchanan,Independence 1st Ward,Secretary of Agriculture,,REP,Mike Naig,381,125,256
+Buchanan,Independence 2nd Ward,Secretary of Agriculture,,REP,Mike Naig,301,78,223
+Buchanan,Independence 3rd Ward,Secretary of Agriculture,,REP,Mike Naig,739,225,514
+Buchanan,Independence 4th Ward,Secretary of Agriculture,,REP,Mike Naig,229,29,200
+Buchanan,Independence 5th Ward,Secretary of Agriculture,,REP,Mike Naig,264,59,205
+Buchanan,Jesup,Secretary of Agriculture,,REP,Mike Naig,654,106,548
+Buchanan,Perry-Washington,Secretary of Agriculture,,REP,Mike Naig,511,197,314
+Buchanan,Quasqueton,Secretary of Agriculture,,REP,Mike Naig,620,107,513
+Buchanan,Rowley,Secretary of Agriculture,,REP,Mike Naig,351,35,316
+Buchanan,Winthrop,Secretary of Agriculture,,REP,Mike Naig,324,59,265
+Buchanan,Aurora,Secretary of Agriculture,,DEM,John Norwood,153,69,84
+Buchanan,Brandon,Secretary of Agriculture,,DEM,John Norwood,89,27,62
+Buchanan,Fairbank,Secretary of Agriculture,,DEM,John Norwood,132,47,85
+Buchanan,Hazleton,Secretary of Agriculture,,DEM,John Norwood,116,41,75
+Buchanan,Independence 1st Ward,Secretary of Agriculture,,DEM,John Norwood,181,86,95
+Buchanan,Independence 2nd Ward,Secretary of Agriculture,,DEM,John Norwood,198,88,110
+Buchanan,Independence 3rd Ward,Secretary of Agriculture,,DEM,John Norwood,283,158,125
+Buchanan,Independence 4th Ward,Secretary of Agriculture,,DEM,John Norwood,168,55,113
+Buchanan,Independence 5th Ward,Secretary of Agriculture,,DEM,John Norwood,156,56,100
+Buchanan,Jesup,Secretary of Agriculture,,DEM,John Norwood,235,65,170
+Buchanan,Perry-Washington,Secretary of Agriculture,,DEM,John Norwood,240,137,103
+Buchanan,Quasqueton,Secretary of Agriculture,,DEM,John Norwood,211,70,141
+Buchanan,Rowley,Secretary of Agriculture,,DEM,John Norwood,130,36,94
+Buchanan,Winthrop,Secretary of Agriculture,,DEM,John Norwood,128,37,91
+Buchanan,Aurora,Secretary of Agriculture,,,Write-in,0,0,0
+Buchanan,Brandon,Secretary of Agriculture,,,Write-in,0,0,0
+Buchanan,Fairbank,Secretary of Agriculture,,,Write-in,1,0,1
+Buchanan,Hazleton,Secretary of Agriculture,,,Write-in,0,0,0
+Buchanan,Independence 1st Ward,Secretary of Agriculture,,,Write-in,0,0,0
+Buchanan,Independence 2nd Ward,Secretary of Agriculture,,,Write-in,0,0,0
+Buchanan,Independence 3rd Ward,Secretary of Agriculture,,,Write-in,2,0,2
+Buchanan,Independence 4th Ward,Secretary of Agriculture,,,Write-in,0,0,0
+Buchanan,Independence 5th Ward,Secretary of Agriculture,,,Write-in,0,0,0
+Buchanan,Jesup,Secretary of Agriculture,,,Write-in,2,1,1
+Buchanan,Perry-Washington,Secretary of Agriculture,,,Write-in,0,0,0
+Buchanan,Quasqueton,Secretary of Agriculture,,,Write-in,1,0,1
+Buchanan,Rowley,Secretary of Agriculture,,,Write-in,0,0,0
+Buchanan,Winthrop,Secretary of Agriculture,,,Write-in,0,0,0
+Buchanan,Aurora,Attorney General,,REP,Brenna Bird,292,41,251
+Buchanan,Brandon,Attorney General,,REP,Brenna Bird,218,24,194
+Buchanan,Fairbank,Attorney General,,REP,Brenna Bird,258,44,214
+Buchanan,Hazleton,Attorney General,,REP,Brenna Bird,210,22,188
+Buchanan,Independence 1st Ward,Attorney General,,REP,Brenna Bird,272,80,192
+Buchanan,Independence 2nd Ward,Attorney General,,REP,Brenna Bird,219,51,168
+Buchanan,Independence 3rd Ward,Attorney General,,REP,Brenna Bird,590,147,443
+Buchanan,Independence 4th Ward,Attorney General,,REP,Brenna Bird,175,21,154
+Buchanan,Independence 5th Ward,Attorney General,,REP,Brenna Bird,206,40,166
+Buchanan,Jesup,Attorney General,,REP,Brenna Bird,522,71,451
+Buchanan,Perry-Washington,Attorney General,,REP,Brenna Bird,398,126,272
+Buchanan,Quasqueton,Attorney General,,REP,Brenna Bird,480,69,411
+Buchanan,Rowley,Attorney General,,REP,Brenna Bird,293,25,268
+Buchanan,Winthrop,Attorney General,,REP,Brenna Bird,246,37,209
+Buchanan,Aurora,Attorney General,,DEM,Tom Miller,238,89,149
+Buchanan,Brandon,Attorney General,,DEM,Tom Miller,124,31,93
+Buchanan,Fairbank,Attorney General,,DEM,Tom Miller,199,59,140
+Buchanan,Hazleton,Attorney General,,DEM,Tom Miller,175,55,120
+Buchanan,Independence 1st Ward,Attorney General,,DEM,Tom Miller,292,136,156
+Buchanan,Independence 2nd Ward,Attorney General,,DEM,Tom Miller,281,112,169
+Buchanan,Independence 3rd Ward,Attorney General,,DEM,Tom Miller,432,236,196
+Buchanan,Independence 4th Ward,Attorney General,,DEM,Tom Miller,225,65,160
+Buchanan,Independence 5th Ward,Attorney General,,DEM,Tom Miller,217,74,143
+Buchanan,Jesup,Attorney General,,DEM,Tom Miller,375,100,275
+Buchanan,Perry-Washington,Attorney General,,DEM,Tom Miller,357,212,145
+Buchanan,Quasqueton,Attorney General,,DEM,Tom Miller,351,108,243
+Buchanan,Rowley,Attorney General,,DEM,Tom Miller,188,46,142
+Buchanan,Winthrop,Attorney General,,DEM,Tom Miller,208,60,148
+Buchanan,Aurora,Attorney General,,,Write-in,0,0,0
+Buchanan,Brandon,Attorney General,,,Write-in,0,0,0
+Buchanan,Fairbank,Attorney General,,,Write-in,0,0,0
+Buchanan,Hazleton,Attorney General,,,Write-in,0,0,0
+Buchanan,Independence 1st Ward,Attorney General,,,Write-in,0,0,0
+Buchanan,Independence 2nd Ward,Attorney General,,,Write-in,1,0,1
+Buchanan,Independence 3rd Ward,Attorney General,,,Write-in,1,0,1
+Buchanan,Independence 4th Ward,Attorney General,,,Write-in,0,0,0
+Buchanan,Independence 5th Ward,Attorney General,,,Write-in,0,0,0
+Buchanan,Jesup,Attorney General,,,Write-in,0,0,0
+Buchanan,Perry-Washington,Attorney General,,,Write-in,0,0,0
+Buchanan,Quasqueton,Attorney General,,,Write-in,1,0,1
+Buchanan,Rowley,Attorney General,,,Write-in,0,0,0
+Buchanan,Winthrop,Attorney General,,,Write-in,0,0,0
+Buchanan,Brandon,State House,67,REP,Craig Johnson,255,27,228
+Buchanan,Independence 1st Ward,State House,67,REP,Craig Johnson,375,127,248
+Buchanan,Independence 2nd Ward,State House,67,REP,Craig Johnson,283,69,214
+Buchanan,Independence 3rd Ward,State House,67,REP,Craig Johnson,733,228,505
+Buchanan,Independence 4th Ward,State House,67,REP,Craig Johnson,215,31,184
+Buchanan,Independence 5th Ward,State House,67,REP,Craig Johnson,250,51,199
+Buchanan,Quasqueton,State House,67,REP,Craig Johnson,576,86,490
+Buchanan,Rowley,State House,67,REP,Craig Johnson,343,31,312
+Buchanan,Winthrop,State House,67,REP,Craig Johnson,291,48,243
+Buchanan,Brandon,State House,67,DEM,Terry McGovern,88,28,60
+Buchanan,Independence 1st Ward,State House,67,DEM,Terry McGovern,200,90,110
+Buchanan,Independence 2nd Ward,State House,67,DEM,Terry McGovern,227,98,129
+Buchanan,Independence 3rd Ward,State House,67,DEM,Terry McGovern,304,168,136
+Buchanan,Independence 4th Ward,State House,67,DEM,Terry McGovern,191,56,135
+Buchanan,Independence 5th Ward,State House,67,DEM,Terry McGovern,174,64,110
+Buchanan,Quasqueton,State House,67,DEM,Terry McGovern,260,89,171
+Buchanan,Rowley,State House,67,DEM,Terry McGovern,146,42,104
+Buchanan,Winthrop,State House,67,DEM,Terry McGovern,160,46,114
+Buchanan,Brandon,State House,67,,Write-in,0,0,0
+Buchanan,Independence 1st Ward,State House,67,,Write-in,0,0,0
+Buchanan,Independence 2nd Ward,State House,67,,Write-in,1,0,1
+Buchanan,Independence 3rd Ward,State House,67,,Write-in,1,0,1
+Buchanan,Independence 4th Ward,State House,67,,Write-in,0,0,0
+Buchanan,Independence 5th Ward,State House,67,,Write-in,0,0,0
+Buchanan,Quasqueton,State House,67,,Write-in,1,0,1
+Buchanan,Rowley,State House,67,,Write-in,0,0,0
+Buchanan,Winthrop,State House,67,,Write-in,1,1,0
+Buchanan,Aurora,State House,68,REP,Chad Ingels,432,84,348
+Buchanan,Fairbank,State House,68,REP,Chad Ingels,383,78,305
+Buchanan,Hazleton,State House,68,REP,Chad Ingels,329,43,286
+Buchanan,Jesup,State House,68,REP,Chad Ingels,756,126,630
+Buchanan,Perry-Washington,State House,68,REP,Chad Ingels,604,251,353
+Buchanan,Aurora,State House,68,,Write-in,3,1,2
+Buchanan,Fairbank,State House,68,,Write-in,2,0,2
+Buchanan,Hazleton,State House,68,,Write-in,6,4,2
+Buchanan,Jesup,State House,68,,Write-in,10,1,9
+Buchanan,Perry-Washington,State House,68,,Write-in,5,2,3
+Buchanan,Aurora,County Board of Supervisors At Large,,REP,John Kurtz,305,57,248
+Buchanan,Brandon,County Board of Supervisors At Large,,REP,John Kurtz,172,24,148
+Buchanan,Fairbank,County Board of Supervisors At Large,,REP,John Kurtz,254,47,207
+Buchanan,Hazleton,County Board of Supervisors At Large,,REP,John Kurtz,207,25,182
+Buchanan,Independence 1st Ward,County Board of Supervisors At Large,,REP,John Kurtz,324,127,197
+Buchanan,Independence 2nd Ward,County Board of Supervisors At Large,,REP,John Kurtz,220,63,157
+Buchanan,Independence 3rd Ward,County Board of Supervisors At Large,,REP,John Kurtz,594,191,403
+Buchanan,Independence 4th Ward,County Board of Supervisors At Large,,REP,John Kurtz,174,26,148
+Buchanan,Independence 5th Ward,County Board of Supervisors At Large,,REP,John Kurtz,212,53,159
+Buchanan,Jesup,County Board of Supervisors At Large,,REP,John Kurtz,499,85,414
+Buchanan,Perry-Washington,County Board of Supervisors At Large,,REP,John Kurtz,418,173,245
+Buchanan,Quasqueton,County Board of Supervisors At Large,,REP,John Kurtz,414,77,337
+Buchanan,Rowley,County Board of Supervisors At Large,,REP,John Kurtz,276,29,247
+Buchanan,Winthrop,County Board of Supervisors At Large,,REP,John Kurtz,209,38,171
+Buchanan,Aurora,County Board of Supervisors At Large,,REP,Dawn Vogel,291,59,232
+Buchanan,Brandon,County Board of Supervisors At Large,,REP,Dawn Vogel,224,27,197
+Buchanan,Fairbank,County Board of Supervisors At Large,,REP,Dawn Vogel,300,60,240
+Buchanan,Hazleton,County Board of Supervisors At Large,,REP,Dawn Vogel,249,34,215
+Buchanan,Independence 1st Ward,County Board of Supervisors At Large,,REP,Dawn Vogel,335,117,218
+Buchanan,Independence 2nd Ward,County Board of Supervisors At Large,,REP,Dawn Vogel,239,65,174
+Buchanan,Independence 3rd Ward,County Board of Supervisors At Large,,REP,Dawn Vogel,591,195,396
+Buchanan,Independence 4th Ward,County Board of Supervisors At Large,,REP,Dawn Vogel,181,35,146
+Buchanan,Independence 5th Ward,County Board of Supervisors At Large,,REP,Dawn Vogel,215,54,161
+Buchanan,Jesup,County Board of Supervisors At Large,,REP,Dawn Vogel,544,109,435
+Buchanan,Perry-Washington,County Board of Supervisors At Large,,REP,Dawn Vogel,407,168,239
+Buchanan,Quasqueton,County Board of Supervisors At Large,,REP,Dawn Vogel,523,88,435
+Buchanan,Rowley,County Board of Supervisors At Large,,REP,Dawn Vogel,286,33,253
+Buchanan,Winthrop,County Board of Supervisors At Large,,REP,Dawn Vogel,264,47,217
+Buchanan,Aurora,County Board of Supervisors At Large,,DEM,Dennis Fuller,180,67,113
+Buchanan,Brandon,County Board of Supervisors At Large,,DEM,Dennis Fuller,101,29,72
+Buchanan,Fairbank,County Board of Supervisors At Large,,DEM,Dennis Fuller,148,47,101
+Buchanan,Hazleton,County Board of Supervisors At Large,,DEM,Dennis Fuller,124,41,83
+Buchanan,Independence 1st Ward,County Board of Supervisors At Large,,DEM,Dennis Fuller,178,76,102
+Buchanan,Independence 2nd Ward,County Board of Supervisors At Large,,DEM,Dennis Fuller,198,87,111
+Buchanan,Independence 3rd Ward,County Board of Supervisors At Large,,DEM,Dennis Fuller,303,168,135
+Buchanan,Independence 4th Ward,County Board of Supervisors At Large,,DEM,Dennis Fuller,175,57,118
+Buchanan,Independence 5th Ward,County Board of Supervisors At Large,,DEM,Dennis Fuller,160,54,106
+Buchanan,Jesup,County Board of Supervisors At Large,,DEM,Dennis Fuller,313,71,242
+Buchanan,Perry-Washington,County Board of Supervisors At Large,,DEM,Dennis Fuller,269,147,122
+Buchanan,Quasqueton,County Board of Supervisors At Large,,DEM,Dennis Fuller,241,80,161
+Buchanan,Rowley,County Board of Supervisors At Large,,DEM,Dennis Fuller,144,34,110
+Buchanan,Winthrop,County Board of Supervisors At Large,,DEM,Dennis Fuller,134,38,96
+Buchanan,Aurora,County Board of Supervisors At Large,,,Jeff D. Andersen,116,33,83
+Buchanan,Brandon,County Board of Supervisors At Large,,,Jeff D. Andersen,64,12,52
+Buchanan,Fairbank,County Board of Supervisors At Large,,,Jeff D. Andersen,66,15,51
+Buchanan,Hazleton,County Board of Supervisors At Large,,,Jeff D. Andersen,72,29,43
+Buchanan,Independence 1st Ward,County Board of Supervisors At Large,,,Jeff D. Andersen,164,62,102
+Buchanan,Independence 2nd Ward,County Board of Supervisors At Large,,,Jeff D. Andersen,160,65,95
+Buchanan,Independence 3rd Ward,County Board of Supervisors At Large,,,Jeff D. Andersen,289,127,162
+Buchanan,Independence 4th Ward,County Board of Supervisors At Large,,,Jeff D. Andersen,123,30,93
+Buchanan,Independence 5th Ward,County Board of Supervisors At Large,,,Jeff D. Andersen,130,43,87
+Buchanan,Jesup,County Board of Supervisors At Large,,,Jeff D. Andersen,147,30,117
+Buchanan,Perry-Washington,County Board of Supervisors At Large,,,Jeff D. Andersen,197,99,98
+Buchanan,Quasqueton,County Board of Supervisors At Large,,,Jeff D. Andersen,243,68,175
+Buchanan,Rowley,County Board of Supervisors At Large,,,Jeff D. Andersen,118,20,98
+Buchanan,Winthrop,County Board of Supervisors At Large,,,Jeff D. Andersen,164,39,125
+Buchanan,Aurora,County Board of Supervisors At Large,,,Write-in,5,0,5
+Buchanan,Brandon,County Board of Supervisors At Large,,,Write-in,2,0,2
+Buchanan,Fairbank,County Board of Supervisors At Large,,,Write-in,0,0,0
+Buchanan,Hazleton,County Board of Supervisors At Large,,,Write-in,0,0,0
+Buchanan,Independence 1st Ward,County Board of Supervisors At Large,,,Write-in,2,0,2
+Buchanan,Independence 2nd Ward,County Board of Supervisors At Large,,,Write-in,2,1,1
+Buchanan,Independence 3rd Ward,County Board of Supervisors At Large,,,Write-in,5,2,3
+Buchanan,Independence 4th Ward,County Board of Supervisors At Large,,,Write-in,1,1,0
+Buchanan,Independence 5th Ward,County Board of Supervisors At Large,,,Write-in,1,0,1
+Buchanan,Jesup,County Board of Supervisors At Large,,,Write-in,6,0,6
+Buchanan,Perry-Washington,County Board of Supervisors At Large,,,Write-in,4,1,3
+Buchanan,Quasqueton,County Board of Supervisors At Large,,,Write-in,6,0,6
+Buchanan,Rowley,County Board of Supervisors At Large,,,Write-in,1,0,1
+Buchanan,Winthrop,County Board of Supervisors At Large,,,Write-in,2,1,1
+Buchanan,Aurora,County Treasurer,,REP,Gina Mether,453,95,358
+Buchanan,Brandon,County Treasurer,,REP,Gina Mether,302,40,262
+Buchanan,Fairbank,County Treasurer,,REP,Gina Mether,390,83,307
+Buchanan,Hazleton,County Treasurer,,REP,Gina Mether,345,51,294
+Buchanan,Independence 1st Ward,County Treasurer,,REP,Gina Mether,483,180,303
+Buchanan,Independence 2nd Ward,County Treasurer,,REP,Gina Mether,422,133,289
+Buchanan,Independence 3rd Ward,County Treasurer,,REP,Gina Mether,921,330,591
+Buchanan,Independence 4th Ward,County Treasurer,,REP,Gina Mether,324,64,260
+Buchanan,Independence 5th Ward,County Treasurer,,REP,Gina Mether,366,94,272
+Buchanan,Jesup,County Treasurer,,REP,Gina Mether,793,143,650
+Buchanan,Perry-Washington,County Treasurer,,REP,Gina Mether,631,265,366
+Buchanan,Quasqueton,County Treasurer,,REP,Gina Mether,728,131,597
+Buchanan,Rowley,County Treasurer,,REP,Gina Mether,426,59,367
+Buchanan,Winthrop,County Treasurer,,REP,Gina Mether,396,83,313
+Buchanan,Aurora,County Treasurer,,,Write-in,4,1,3
+Buchanan,Brandon,County Treasurer,,,Write-in,3,0,3
+Buchanan,Fairbank,County Treasurer,,,Write-in,1,0,1
+Buchanan,Hazleton,County Treasurer,,,Write-in,0,0,0
+Buchanan,Independence 1st Ward,County Treasurer,,,Write-in,4,2,2
+Buchanan,Independence 2nd Ward,County Treasurer,,,Write-in,5,1,4
+Buchanan,Independence 3rd Ward,County Treasurer,,,Write-in,10,3,7
+Buchanan,Independence 4th Ward,County Treasurer,,,Write-in,5,0,5
+Buchanan,Independence 5th Ward,County Treasurer,,,Write-in,3,1,2
+Buchanan,Jesup,County Treasurer,,,Write-in,10,1,9
+Buchanan,Perry-Washington,County Treasurer,,,Write-in,5,2,3
+Buchanan,Quasqueton,County Treasurer,,,Write-in,6,2,4
+Buchanan,Rowley,County Treasurer,,,Write-in,9,3,6
+Buchanan,Winthrop,County Treasurer,,,Write-in,2,0,2
+Buchanan,Aurora,County Recorder,,REP,Coleen Dvorak,275,43,232
+Buchanan,Brandon,County Recorder,,REP,Coleen Dvorak,183,16,167
+Buchanan,Fairbank,County Recorder,,REP,Coleen Dvorak,251,42,209
+Buchanan,Hazleton,County Recorder,,REP,Coleen Dvorak,224,25,199
+Buchanan,Independence 1st Ward,County Recorder,,REP,Coleen Dvorak,255,78,177
+Buchanan,Independence 2nd Ward,County Recorder,,REP,Coleen Dvorak,218,49,169
+Buchanan,Independence 3rd Ward,County Recorder,,REP,Coleen Dvorak,522,141,381
+Buchanan,Independence 4th Ward,County Recorder,,REP,Coleen Dvorak,155,19,136
+Buchanan,Independence 5th Ward,County Recorder,,REP,Coleen Dvorak,190,36,154
+Buchanan,Jesup,County Recorder,,REP,Coleen Dvorak,427,62,365
+Buchanan,Perry-Washington,County Recorder,,REP,Coleen Dvorak,331,111,220
+Buchanan,Quasqueton,County Recorder,,REP,Coleen Dvorak,427,61,366
+Buchanan,Rowley,County Recorder,,REP,Coleen Dvorak,263,23,240
+Buchanan,Winthrop,County Recorder,,REP,Coleen Dvorak,208,31,177
+Buchanan,Aurora,County Recorder,,DEM,Michelle Mangrich,239,78,161
+Buchanan,Brandon,County Recorder,,DEM,Michelle Mangrich,156,37,119
+Buchanan,Fairbank,County Recorder,,DEM,Michelle Mangrich,201,60,141
+Buchanan,Hazleton,County Recorder,,DEM,Michelle Mangrich,165,50,115
+Buchanan,Independence 1st Ward,County Recorder,,DEM,Michelle Mangrich,296,132,164
+Buchanan,Independence 2nd Ward,County Recorder,,DEM,Michelle Mangrich,276,109,167
+Buchanan,Independence 3rd Ward,County Recorder,,DEM,Michelle Mangrich,504,246,258
+Buchanan,Independence 4th Ward,County Recorder,,DEM,Michelle Mangrich,249,68,181
+Buchanan,Independence 5th Ward,County Recorder,,DEM,Michelle Mangrich,229,78,151
+Buchanan,Jesup,County Recorder,,DEM,Michelle Mangrich,470,109,361
+Buchanan,Perry-Washington,County Recorder,,DEM,Michelle Mangrich,419,225,194
+Buchanan,Quasqueton,County Recorder,,DEM,Michelle Mangrich,386,112,274
+Buchanan,Rowley,County Recorder,,DEM,Michelle Mangrich,216,47,169
+Buchanan,Winthrop,County Recorder,,DEM,Michelle Mangrich,235,61,174
+Buchanan,Aurora,County Recorder,,,Write-in,0,0,0
+Buchanan,Brandon,County Recorder,,,Write-in,0,0,0
+Buchanan,Fairbank,County Recorder,,,Write-in,0,0,0
+Buchanan,Hazleton,County Recorder,,,Write-in,0,0,0
+Buchanan,Independence 1st Ward,County Recorder,,,Write-in,0,0,0
+Buchanan,Independence 2nd Ward,County Recorder,,,Write-in,0,0,0
+Buchanan,Independence 3rd Ward,County Recorder,,,Write-in,1,0,1
+Buchanan,Independence 4th Ward,County Recorder,,,Write-in,0,0,0
+Buchanan,Independence 5th Ward,County Recorder,,,Write-in,0,0,0
+Buchanan,Jesup,County Recorder,,,Write-in,2,0,2
+Buchanan,Perry-Washington,County Recorder,,,Write-in,0,0,0
+Buchanan,Quasqueton,County Recorder,,,Write-in,0,0,0
+Buchanan,Rowley,County Recorder,,,Write-in,0,0,0
+Buchanan,Winthrop,County Recorder,,,Write-in,0,0,0
+Buchanan,Aurora,County Attorney,,DEM,Shawn Harden,362,102,260
+Buchanan,Brandon,County Attorney,,DEM,Shawn Harden,230,37,193
+Buchanan,Fairbank,County Attorney,,DEM,Shawn Harden,318,72,246
+Buchanan,Hazleton,County Attorney,,DEM,Shawn Harden,251,54,197
+Buchanan,Independence 1st Ward,County Attorney,,DEM,Shawn Harden,414,163,251
+Buchanan,Independence 2nd Ward,County Attorney,,DEM,Shawn Harden,374,130,244
+Buchanan,Independence 3rd Ward,County Attorney,,DEM,Shawn Harden,742,310,432
+Buchanan,Independence 4th Ward,County Attorney,,DEM,Shawn Harden,317,73,244
+Buchanan,Independence 5th Ward,County Attorney,,DEM,Shawn Harden,325,98,227
+Buchanan,Jesup,County Attorney,,DEM,Shawn Harden,628,122,506
+Buchanan,Perry-Washington,County Attorney,,DEM,Shawn Harden,538,265,273
+Buchanan,Quasqueton,County Attorney,,DEM,Shawn Harden,576,129,447
+Buchanan,Rowley,County Attorney,,DEM,Shawn Harden,325,58,267
+Buchanan,Winthrop,County Attorney,,DEM,Shawn Harden,331,75,256
+Buchanan,Aurora,County Attorney,,,Write-in,16,0,16
+Buchanan,Brandon,County Attorney,,,Write-in,16,4,12
+Buchanan,Fairbank,County Attorney,,,Write-in,14,2,12
+Buchanan,Hazleton,County Attorney,,,Write-in,16,1,15
+Buchanan,Independence 1st Ward,County Attorney,,,Write-in,11,3,8
+Buchanan,Independence 2nd Ward,County Attorney,,,Write-in,17,4,13
+Buchanan,Independence 3rd Ward,County Attorney,,,Write-in,27,3,24
+Buchanan,Independence 4th Ward,County Attorney,,,Write-in,10,0,10
+Buchanan,Independence 5th Ward,County Attorney,,,Write-in,22,2,20
+Buchanan,Jesup,County Attorney,,,Write-in,22,2,20
+Buchanan,Perry-Washington,County Attorney,,,Write-in,16,2,14
+Buchanan,Quasqueton,County Attorney,,,Write-in,28,3,25
+Buchanan,Rowley,County Attorney,,,Write-in,21,1,20
+Buchanan,Winthrop,County Attorney,,,Write-in,7,1,6
+Buchanan,Aurora,Health Center,,,Dennis Donlea,373,84,289
+Buchanan,Brandon,Health Center,,,Dennis Donlea,232,38,194
+Buchanan,Fairbank,Health Center,,,Dennis Donlea,290,63,227
+Buchanan,Hazleton,Health Center,,,Dennis Donlea,256,54,202
+Buchanan,Independence 1st Ward,Health Center,,,Dennis Donlea,425,170,255
+Buchanan,Independence 2nd Ward,Health Center,,,Dennis Donlea,329,109,220
+Buchanan,Independence 3rd Ward,Health Center,,,Dennis Donlea,737,292,445
+Buchanan,Independence 4th Ward,Health Center,,,Dennis Donlea,254,58,196
+Buchanan,Independence 5th Ward,Health Center,,,Dennis Donlea,285,75,210
+Buchanan,Jesup,Health Center,,,Dennis Donlea,619,123,496
+Buchanan,Perry-Washington,Health Center,,,Dennis Donlea,507,238,269
+Buchanan,Quasqueton,Health Center,,,Dennis Donlea,571,113,458
+Buchanan,Rowley,Health Center,,,Dennis Donlea,320,46,274
+Buchanan,Winthrop,Health Center,,,Dennis Donlea,347,72,275
+Buchanan,Aurora,Health Center,,,Christine Nelson,350,82,268
+Buchanan,Brandon,Health Center,,,Christine Nelson,222,34,188
+Buchanan,Fairbank,Health Center,,,Christine Nelson,296,66,230
+Buchanan,Hazleton,Health Center,,,Christine Nelson,245,50,195
+Buchanan,Independence 1st Ward,Health Center,,,Christine Nelson,406,160,246
+Buchanan,Independence 2nd Ward,Health Center,,,Christine Nelson,327,111,216
+Buchanan,Independence 3rd Ward,Health Center,,,Christine Nelson,692,282,410
+Buchanan,Independence 4th Ward,Health Center,,,Christine Nelson,255,59,196
+Buchanan,Independence 5th Ward,Health Center,,,Christine Nelson,284,82,202
+Buchanan,Jesup,Health Center,,,Christine Nelson,577,121,456
+Buchanan,Perry-Washington,Health Center,,,Christine Nelson,471,221,250
+Buchanan,Quasqueton,Health Center,,,Christine Nelson,547,117,430
+Buchanan,Rowley,Health Center,,,Christine Nelson,316,50,266
+Buchanan,Winthrop,Health Center,,,Christine Nelson,316,69,247
+Buchanan,Aurora,Health Center,,,Donald Bloes,315,77,238
+Buchanan,Brandon,Health Center,,,Donald Bloes,199,32,167
+Buchanan,Fairbank,Health Center,,,Donald Bloes,259,57,202
+Buchanan,Hazleton,Health Center,,,Donald Bloes,206,47,159
+Buchanan,Independence 1st Ward,Health Center,,,Donald Bloes,357,142,215
+Buchanan,Independence 2nd Ward,Health Center,,,Donald Bloes,264,94,170
+Buchanan,Independence 3rd Ward,Health Center,,,Donald Bloes,617,245,372
+Buchanan,Independence 4th Ward,Health Center,,,Donald Bloes,213,54,159
+Buchanan,Independence 5th Ward,Health Center,,,Donald Bloes,232,67,165
+Buchanan,Jesup,Health Center,,,Donald Bloes,559,114,445
+Buchanan,Perry-Washington,Health Center,,,Donald Bloes,419,193,226
+Buchanan,Quasqueton,Health Center,,,Donald Bloes,457,97,360
+Buchanan,Rowley,Health Center,,,Donald Bloes,265,43,222
+Buchanan,Winthrop,Health Center,,,Donald Bloes,264,54,210
+Buchanan,Aurora,Health Center,,,Write-in,3,2,1
+Buchanan,Brandon,Health Center,,,Write-in,7,0,7
+Buchanan,Fairbank,Health Center,,,Write-in,2,1,1
+Buchanan,Hazleton,Health Center,,,Write-in,2,0,2
+Buchanan,Independence 1st Ward,Health Center,,,Write-in,5,1,4
+Buchanan,Independence 2nd Ward,Health Center,,,Write-in,6,0,6
+Buchanan,Independence 3rd Ward,Health Center,,,Write-in,12,2,10
+Buchanan,Independence 4th Ward,Health Center,,,Write-in,3,0,3
+Buchanan,Independence 5th Ward,Health Center,,,Write-in,3,0,3
+Buchanan,Jesup,Health Center,,,Write-in,8,1,7
+Buchanan,Perry-Washington,Health Center,,,Write-in,9,4,5
+Buchanan,Quasqueton,Health Center,,,Write-in,4,2,2
+Buchanan,Rowley,Health Center,,,Write-in,2,1,1
+Buchanan,Winthrop,Health Center,,,Write-in,2,1,1
+Buchanan,Aurora,Soil and Water Conservation District Commissioner,,,Dale Priebe,373,84,289
+Buchanan,Brandon,Soil and Water Conservation District Commissioner,,,Dale Priebe,238,41,197
+Buchanan,Fairbank,Soil and Water Conservation District Commissioner,,,Dale Priebe,287,59,228
+Buchanan,Hazleton,Soil and Water Conservation District Commissioner,,,Dale Priebe,249,46,203
+Buchanan,Independence 1st Ward,Soil and Water Conservation District Commissioner,,,Dale Priebe,417,165,252
+Buchanan,Independence 2nd Ward,Soil and Water Conservation District Commissioner,,,Dale Priebe,348,121,227
+Buchanan,Independence 3rd Ward,Soil and Water Conservation District Commissioner,,,Dale Priebe,766,294,472
+Buchanan,Independence 4th Ward,Soil and Water Conservation District Commissioner,,,Dale Priebe,276,55,221
+Buchanan,Independence 5th Ward,Soil and Water Conservation District Commissioner,,,Dale Priebe,295,82,213
+Buchanan,Jesup,Soil and Water Conservation District Commissioner,,,Dale Priebe,577,118,459
+Buchanan,Perry-Washington,Soil and Water Conservation District Commissioner,,,Dale Priebe,506,244,262
+Buchanan,Quasqueton,Soil and Water Conservation District Commissioner,,,Dale Priebe,589,120,469
+Buchanan,Rowley,Soil and Water Conservation District Commissioner,,,Dale Priebe,367,52,315
+Buchanan,Winthrop,Soil and Water Conservation District Commissioner,,,Dale Priebe,332,69,263
+Buchanan,Aurora,Soil and Water Conservation District Commissioner,,,Tim L. Halligan,349,80,269
+Buchanan,Brandon,Soil and Water Conservation District Commissioner,,,Tim L. Halligan,245,35,210
+Buchanan,Fairbank,Soil and Water Conservation District Commissioner,,,Tim L. Halligan,301,67,234
+Buchanan,Hazleton,Soil and Water Conservation District Commissioner,,,Tim L. Halligan,243,50,193
+Buchanan,Independence 1st Ward,Soil and Water Conservation District Commissioner,,,Tim L. Halligan,396,148,248
+Buchanan,Independence 2nd Ward,Soil and Water Conservation District Commissioner,,,Tim L. Halligan,314,107,207
+Buchanan,Independence 3rd Ward,Soil and Water Conservation District Commissioner,,,Tim L. Halligan,709,285,424
+Buchanan,Independence 4th Ward,Soil and Water Conservation District Commissioner,,,Tim L. Halligan,237,56,181
+Buchanan,Independence 5th Ward,Soil and Water Conservation District Commissioner,,,Tim L. Halligan,288,77,211
+Buchanan,Jesup,Soil and Water Conservation District Commissioner,,,Tim L. Halligan,585,117,468
+Buchanan,Perry-Washington,Soil and Water Conservation District Commissioner,,,Tim L. Halligan,485,222,263
+Buchanan,Quasqueton,Soil and Water Conservation District Commissioner,,,Tim L. Halligan,529,106,423
+Buchanan,Rowley,Soil and Water Conservation District Commissioner,,,Tim L. Halligan,309,49,260
+Buchanan,Winthrop,Soil and Water Conservation District Commissioner,,,Tim L. Halligan,292,63,229
+Buchanan,Aurora,Soil and Water Conservation District Commissioner,,,Write-in,2,1,1
+Buchanan,Brandon,Soil and Water Conservation District Commissioner,,,Write-in,7,0,7
+Buchanan,Fairbank,Soil and Water Conservation District Commissioner,,,Write-in,4,3,1
+Buchanan,Hazleton,Soil and Water Conservation District Commissioner,,,Write-in,3,1,2
+Buchanan,Independence 1st Ward,Soil and Water Conservation District Commissioner,,,Write-in,3,1,2
+Buchanan,Independence 2nd Ward,Soil and Water Conservation District Commissioner,,,Write-in,3,0,3
+Buchanan,Independence 3rd Ward,Soil and Water Conservation District Commissioner,,,Write-in,4,1,3
+Buchanan,Independence 4th Ward,Soil and Water Conservation District Commissioner,,,Write-in,3,1,2
+Buchanan,Independence 5th Ward,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Buchanan,Jesup,Soil and Water Conservation District Commissioner,,,Write-in,6,0,6
+Buchanan,Perry-Washington,Soil and Water Conservation District Commissioner,,,Write-in,11,3,8
+Buchanan,Quasqueton,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Buchanan,Rowley,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Buchanan,Winthrop,Soil and Water Conservation District Commissioner,,,Write-in,1,1,0
+Buchanan,Aurora,County Agricultural Extension Council Member,,,Whitney Holt,335,79,256
+Buchanan,Brandon,County Agricultural Extension Council Member,,,Whitney Holt,227,34,193
+Buchanan,Fairbank,County Agricultural Extension Council Member,,,Whitney Holt,272,63,209
+Buchanan,Hazleton,County Agricultural Extension Council Member,,,Whitney Holt,225,42,183
+Buchanan,Independence 1st Ward,County Agricultural Extension Council Member,,,Whitney Holt,359,139,220
+Buchanan,Independence 2nd Ward,County Agricultural Extension Council Member,,,Whitney Holt,295,100,195
+Buchanan,Independence 3rd Ward,County Agricultural Extension Council Member,,,Whitney Holt,658,252,406
+Buchanan,Independence 4th Ward,County Agricultural Extension Council Member,,,Whitney Holt,229,50,179
+Buchanan,Independence 5th Ward,County Agricultural Extension Council Member,,,Whitney Holt,258,68,190
+Buchanan,Jesup,County Agricultural Extension Council Member,,,Whitney Holt,509,99,410
+Buchanan,Perry-Washington,County Agricultural Extension Council Member,,,Whitney Holt,448,215,233
+Buchanan,Quasqueton,County Agricultural Extension Council Member,,,Whitney Holt,480,94,386
+Buchanan,Rowley,County Agricultural Extension Council Member,,,Whitney Holt,289,45,244
+Buchanan,Winthrop,County Agricultural Extension Council Member,,,Whitney Holt,269,58,211
+Buchanan,Aurora,County Agricultural Extension Council Member,,,Cindy Waters,329,87,242
+Buchanan,Brandon,County Agricultural Extension Council Member,,,Cindy Waters,205,25,180
+Buchanan,Fairbank,County Agricultural Extension Council Member,,,Cindy Waters,270,61,209
+Buchanan,Hazleton,County Agricultural Extension Council Member,,,Cindy Waters,217,45,172
+Buchanan,Independence 1st Ward,County Agricultural Extension Council Member,,,Cindy Waters,374,148,226
+Buchanan,Independence 2nd Ward,County Agricultural Extension Council Member,,,Cindy Waters,295,101,194
+Buchanan,Independence 3rd Ward,County Agricultural Extension Council Member,,,Cindy Waters,664,261,403
+Buchanan,Independence 4th Ward,County Agricultural Extension Council Member,,,Cindy Waters,235,54,181
+Buchanan,Independence 5th Ward,County Agricultural Extension Council Member,,,Cindy Waters,265,74,191
+Buchanan,Jesup,County Agricultural Extension Council Member,,,Cindy Waters,523,104,419
+Buchanan,Perry-Washington,County Agricultural Extension Council Member,,,Cindy Waters,438,216,222
+Buchanan,Quasqueton,County Agricultural Extension Council Member,,,Cindy Waters,460,95,365
+Buchanan,Rowley,County Agricultural Extension Council Member,,,Cindy Waters,281,47,234
+Buchanan,Winthrop,County Agricultural Extension Council Member,,,Cindy Waters,264,61,203
+Buchanan,Aurora,County Agricultural Extension Council Member,,,Paul Short,355,83,272
+Buchanan,Brandon,County Agricultural Extension Council Member,,,Paul Short,203,31,172
+Buchanan,Fairbank,County Agricultural Extension Council Member,,,Paul Short,268,63,205
+Buchanan,Hazleton,County Agricultural Extension Council Member,,,Paul Short,237,46,191
+Buchanan,Independence 1st Ward,County Agricultural Extension Council Member,,,Paul Short,367,147,220
+Buchanan,Independence 2nd Ward,County Agricultural Extension Council Member,,,Paul Short,286,99,187
+Buchanan,Independence 3rd Ward,County Agricultural Extension Council Member,,,Paul Short,658,260,398
+Buchanan,Independence 4th Ward,County Agricultural Extension Council Member,,,Paul Short,227,51,176
+Buchanan,Independence 5th Ward,County Agricultural Extension Council Member,,,Paul Short,254,74,180
+Buchanan,Jesup,County Agricultural Extension Council Member,,,Paul Short,508,104,404
+Buchanan,Perry-Washington,County Agricultural Extension Council Member,,,Paul Short,447,213,234
+Buchanan,Quasqueton,County Agricultural Extension Council Member,,,Paul Short,546,108,438
+Buchanan,Rowley,County Agricultural Extension Council Member,,,Paul Short,314,48,266
+Buchanan,Winthrop,County Agricultural Extension Council Member,,,Paul Short,310,67,243
+Buchanan,Aurora,County Agricultural Extension Council Member,,,Amy Peyton,329,79,250
+Buchanan,Brandon,County Agricultural Extension Council Member,,,Amy Peyton,208,31,177
+Buchanan,Fairbank,County Agricultural Extension Council Member,,,Amy Peyton,263,56,207
+Buchanan,Hazleton,County Agricultural Extension Council Member,,,Amy Peyton,222,45,177
+Buchanan,Independence 1st Ward,County Agricultural Extension Council Member,,,Amy Peyton,359,138,221
+Buchanan,Independence 2nd Ward,County Agricultural Extension Council Member,,,Amy Peyton,292,97,195
+Buchanan,Independence 3rd Ward,County Agricultural Extension Council Member,,,Amy Peyton,636,251,385
+Buchanan,Independence 4th Ward,County Agricultural Extension Council Member,,,Amy Peyton,232,49,183
+Buchanan,Independence 5th Ward,County Agricultural Extension Council Member,,,Amy Peyton,243,71,172
+Buchanan,Jesup,County Agricultural Extension Council Member,,,Amy Peyton,553,115,438
+Buchanan,Perry-Washington,County Agricultural Extension Council Member,,,Amy Peyton,449,214,235
+Buchanan,Quasqueton,County Agricultural Extension Council Member,,,Amy Peyton,469,94,375
+Buchanan,Rowley,County Agricultural Extension Council Member,,,Amy Peyton,287,47,240
+Buchanan,Winthrop,County Agricultural Extension Council Member,,,Amy Peyton,270,59,211
+Buchanan,Aurora,County Agricultural Extension Council Member,,,Janel L. Rathbun,346,84,262
+Buchanan,Brandon,County Agricultural Extension Council Member,,,Janel L. Rathbun,207,30,177
+Buchanan,Fairbank,County Agricultural Extension Council Member,,,Janel L. Rathbun,249,58,191
+Buchanan,Hazleton,County Agricultural Extension Council Member,,,Janel L. Rathbun,222,47,175
+Buchanan,Independence 1st Ward,County Agricultural Extension Council Member,,,Janel L. Rathbun,376,150,226
+Buchanan,Independence 2nd Ward,County Agricultural Extension Council Member,,,Janel L. Rathbun,304,105,199
+Buchanan,Independence 3rd Ward,County Agricultural Extension Council Member,,,Janel L. Rathbun,671,268,403
+Buchanan,Independence 4th Ward,County Agricultural Extension Council Member,,,Janel L. Rathbun,238,52,186
+Buchanan,Independence 5th Ward,County Agricultural Extension Council Member,,,Janel L. Rathbun,261,77,184
+Buchanan,Jesup,County Agricultural Extension Council Member,,,Janel L. Rathbun,478,99,379
+Buchanan,Perry-Washington,County Agricultural Extension Council Member,,,Janel L. Rathbun,487,245,242
+Buchanan,Quasqueton,County Agricultural Extension Council Member,,,Janel L. Rathbun,476,101,375
+Buchanan,Rowley,County Agricultural Extension Council Member,,,Janel L. Rathbun,285,46,239
+Buchanan,Winthrop,County Agricultural Extension Council Member,,,Janel L. Rathbun,273,65,208
+Buchanan,Aurora,County Agricultural Extension Council Member,,,Write-in,5,2,3
+Buchanan,Brandon,County Agricultural Extension Council Member,,,Write-in,9,0,9
+Buchanan,Fairbank,County Agricultural Extension Council Member,,,Write-in,5,3,2
+Buchanan,Hazleton,County Agricultural Extension Council Member,,,Write-in,1,1,0
+Buchanan,Independence 1st Ward,County Agricultural Extension Council Member,,,Write-in,3,0,3
+Buchanan,Independence 2nd Ward,County Agricultural Extension Council Member,,,Write-in,7,0,7
+Buchanan,Independence 3rd Ward,County Agricultural Extension Council Member,,,Write-in,7,6,1
+Buchanan,Independence 4th Ward,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Buchanan,Independence 5th Ward,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Buchanan,Jesup,County Agricultural Extension Council Member,,,Write-in,8,0,8
+Buchanan,Perry-Washington,County Agricultural Extension Council Member,,,Write-in,8,3,5
+Buchanan,Quasqueton,County Agricultural Extension Council Member,,,Write-in,3,1,2
+Buchanan,Rowley,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Buchanan,Winthrop,County Agricultural Extension Council Member,,,Write-in,2,1,1
+Buchanan,Aurora,Supreme Court Justice,,,Yes,276,68,208
+Buchanan,Brandon,Supreme Court Justice,,,Yes,188,26,162
+Buchanan,Fairbank,Supreme Court Justice,,,Yes,229,52,177
+Buchanan,Hazleton,Supreme Court Justice,,,Yes,197,36,161
+Buchanan,Independence 1st Ward,Supreme Court Justice,,,Yes,308,103,205
+Buchanan,Independence 2nd Ward,Supreme Court Justice,,,Yes,242,82,160
+Buchanan,Independence 3rd Ward,Supreme Court Justice,,,Yes,582,215,367
+Buchanan,Independence 4th Ward,Supreme Court Justice,,,Yes,210,37,173
+Buchanan,Independence 5th Ward,Supreme Court Justice,,,Yes,236,63,173
+Buchanan,Jesup,Supreme Court Justice,,,Yes,461,72,389
+Buchanan,Perry-Washington,Supreme Court Justice,,,Yes,360,153,207
+Buchanan,Quasqueton,Supreme Court Justice,,,Yes,407,78,329
+Buchanan,Rowley,Supreme Court Justice,,,Yes,242,28,214
+Buchanan,Winthrop,Supreme Court Justice,,,Yes,242,53,189
+Buchanan,Aurora,Supreme Court Justice,,,No,148,35,113
+Buchanan,Brandon,Supreme Court Justice,,,No,83,22,61
+Buchanan,Fairbank,Supreme Court Justice,,,No,124,22,102
+Buchanan,Hazleton,Supreme Court Justice,,,No,100,15,85
+Buchanan,Independence 1st Ward,Supreme Court Justice,,,No,113,43,70
+Buchanan,Independence 2nd Ward,Supreme Court Justice,,,No,136,37,99
+Buchanan,Independence 3rd Ward,Supreme Court Justice,,,No,228,83,145
+Buchanan,Independence 4th Ward,Supreme Court Justice,,,No,103,31,72
+Buchanan,Independence 5th Ward,Supreme Court Justice,,,No,96,23,73
+Buchanan,Jesup,Supreme Court Justice,,,No,199,48,151
+Buchanan,Perry-Washington,Supreme Court Justice,,,No,204,105,99
+Buchanan,Quasqueton,Supreme Court Justice,,,No,227,51,176
+Buchanan,Rowley,Supreme Court Justice,,,No,153,30,123
+Buchanan,Winthrop,Supreme Court Justice,,,No,123,24,99
+Buchanan,Aurora,Court of Appeals Judge,,,Yes,264,64,200
+Buchanan,Brandon,Court of Appeals Judge,,,Yes,171,27,144
+Buchanan,Fairbank,Court of Appeals Judge,,,Yes,222,52,170
+Buchanan,Hazleton,Court of Appeals Judge,,,Yes,185,37,148
+Buchanan,Independence 1st Ward,Court of Appeals Judge,,,Yes,292,104,188
+Buchanan,Independence 2nd Ward,Court of Appeals Judge,,,Yes,233,78,155
+Buchanan,Independence 3rd Ward,Court of Appeals Judge,,,Yes,565,209,356
+Buchanan,Independence 4th Ward,Court of Appeals Judge,,,Yes,211,40,171
+Buchanan,Independence 5th Ward,Court of Appeals Judge,,,Yes,226,61,165
+Buchanan,Jesup,Court of Appeals Judge,,,Yes,440,71,369
+Buchanan,Perry-Washington,Court of Appeals Judge,,,Yes,360,161,199
+Buchanan,Quasqueton,Court of Appeals Judge,,,Yes,393,78,315
+Buchanan,Rowley,Court of Appeals Judge,,,Yes,233,30,203
+Buchanan,Winthrop,Court of Appeals Judge,,,Yes,241,51,190
+Buchanan,Aurora,Court of Appeals Judge,,,No,136,31,105
+Buchanan,Brandon,Court of Appeals Judge,,,No,82,17,65
+Buchanan,Fairbank,Court of Appeals Judge,,,No,116,24,92
+Buchanan,Hazleton,Court of Appeals Judge,,,No,95,12,83
+Buchanan,Independence 1st Ward,Court of Appeals Judge,,,No,110,38,72
+Buchanan,Independence 2nd Ward,Court of Appeals Judge,,,No,132,32,100
+Buchanan,Independence 3rd Ward,Court of Appeals Judge,,,No,216,75,141
+Buchanan,Independence 4th Ward,Court of Appeals Judge,,,No,91,26,65
+Buchanan,Independence 5th Ward,Court of Appeals Judge,,,No,95,25,70
+Buchanan,Jesup,Court of Appeals Judge,,,No,188,44,144
+Buchanan,Perry-Washington,Court of Appeals Judge,,,No,177,84,93
+Buchanan,Quasqueton,Court of Appeals Judge,,,No,219,46,173
+Buchanan,Rowley,Court of Appeals Judge,,,No,145,26,119
+Buchanan,Winthrop,Court of Appeals Judge,,,No,107,23,84
+Buchanan,Aurora,District 1B Judge,,,Yes,281,72,209
+Buchanan,Brandon,District 1B Judge,,,Yes,188,30,158
+Buchanan,Fairbank,District 1B Judge,,,Yes,252,60,192
+Buchanan,Hazleton,District 1B Judge,,,Yes,190,36,154
+Buchanan,Independence 1st Ward,District 1B Judge,,,Yes,323,119,204
+Buchanan,Independence 2nd Ward,District 1B Judge,,,Yes,251,86,165
+Buchanan,Independence 3rd Ward,District 1B Judge,,,Yes,585,223,362
+Buchanan,Independence 4th Ward,District 1B Judge,,,Yes,218,44,174
+Buchanan,Independence 5th Ward,District 1B Judge,,,Yes,242,67,175
+Buchanan,Jesup,District 1B Judge,,,Yes,465,73,392
+Buchanan,Perry-Washington,District 1B Judge,,,Yes,381,169,212
+Buchanan,Quasqueton,District 1B Judge,,,Yes,415,80,335
+Buchanan,Rowley,District 1B Judge,,,Yes,242,33,209
+Buchanan,Winthrop,District 1B Judge,,,Yes,252,59,193
+Buchanan,Aurora,District 1B Judge,,,No,136,28,108
+Buchanan,Brandon,District 1B Judge,,,No,77,16,61
+Buchanan,Fairbank,District 1B Judge,,,No,102,15,87
+Buchanan,Hazleton,District 1B Judge,,,No,97,9,88
+Buchanan,Independence 1st Ward,District 1B Judge,,,No,93,33,60
+Buchanan,Independence 2nd Ward,District 1B Judge,,,No,122,30,92
+Buchanan,Independence 3rd Ward,District 1B Judge,,,No,195,69,126
+Buchanan,Independence 4th Ward,District 1B Judge,,,No,87,25,62
+Buchanan,Independence 5th Ward,District 1B Judge,,,No,82,19,63
+Buchanan,Jesup,District 1B Judge,,,No,179,40,139
+Buchanan,Perry-Washington,District 1B Judge,,,No,152,72,80
+Buchanan,Quasqueton,District 1B Judge,,,No,214,44,170
+Buchanan,Rowley,District 1B Judge,,,No,138,22,116
+Buchanan,Winthrop,District 1B Judge,,,No,105,17,88
+Buchanan,Aurora,District 1B Associate Judge,,,Yes,304,77,227
+Buchanan,Brandon,District 1B Associate Judge,,,Yes,196,30,166
+Buchanan,Fairbank,District 1B Associate Judge,,,Yes,271,59,212
+Buchanan,Hazleton,District 1B Associate Judge,,,Yes,201,40,161
+Buchanan,Independence 1st Ward,District 1B Associate Judge,,,Yes,349,131,218
+Buchanan,Independence 2nd Ward,District 1B Associate Judge,,,Yes,271,92,179
+Buchanan,Independence 3rd Ward,District 1B Associate Judge,,,Yes,612,233,379
+Buchanan,Independence 4th Ward,District 1B Associate Judge,,,Yes,239,48,191
+Buchanan,Independence 5th Ward,District 1B Associate Judge,,,Yes,261,67,194
+Buchanan,Jesup,District 1B Associate Judge,,,Yes,512,91,421
+Buchanan,Perry-Washington,District 1B Associate Judge,,,Yes,405,183,222
+Buchanan,Quasqueton,District 1B Associate Judge,,,Yes,460,88,372
+Buchanan,Rowley,District 1B Associate Judge,,,Yes,256,35,221
+Buchanan,Winthrop,District 1B Associate Judge,,,Yes,275,62,213
+Buchanan,Aurora,District 1B Associate Judge,,,No,116,24,92
+Buchanan,Brandon,District 1B Associate Judge,,,No,75,17,58
+Buchanan,Fairbank,District 1B Associate Judge,,,No,89,17,72
+Buchanan,Hazleton,District 1B Associate Judge,,,No,94,10,84
+Buchanan,Independence 1st Ward,District 1B Associate Judge,,,No,79,27,52
+Buchanan,Independence 2nd Ward,District 1B Associate Judge,,,No,114,26,88
+Buchanan,Independence 3rd Ward,District 1B Associate Judge,,,No,193,70,123
+Buchanan,Independence 4th Ward,District 1B Associate Judge,,,No,82,26,56
+Buchanan,Independence 5th Ward,District 1B Associate Judge,,,No,74,22,52
+Buchanan,Jesup,District 1B Associate Judge,,,No,151,32,119
+Buchanan,Perry-Washington,District 1B Associate Judge,,,No,139,64,75
+Buchanan,Quasqueton,District 1B Associate Judge,,,No,188,41,147
+Buchanan,Rowley,District 1B Associate Judge,,,No,129,20,109
+Buchanan,Winthrop,District 1B Associate Judge,,,No,88,15,73
+Buchanan,Aurora,District 1B Associate Juvenile Judge,,,Yes,304,73,231
+Buchanan,Brandon,District 1B Associate Juvenile Judge,,,Yes,198,30,168
+Buchanan,Fairbank,District 1B Associate Juvenile Judge,,,Yes,259,57,202
+Buchanan,Hazleton,District 1B Associate Juvenile Judge,,,Yes,216,41,175
+Buchanan,Independence 1st Ward,District 1B Associate Juvenile Judge,,,Yes,343,130,213
+Buchanan,Independence 2nd Ward,District 1B Associate Juvenile Judge,,,Yes,274,92,182
+Buchanan,Independence 3rd Ward,District 1B Associate Juvenile Judge,,,Yes,617,235,382
+Buchanan,Independence 4th Ward,District 1B Associate Juvenile Judge,,,Yes,241,47,194
+Buchanan,Independence 5th Ward,District 1B Associate Juvenile Judge,,,Yes,257,69,188
+Buchanan,Jesup,District 1B Associate Juvenile Judge,,,Yes,501,93,408
+Buchanan,Perry-Washington,District 1B Associate Juvenile Judge,,,Yes,406,182,224
+Buchanan,Quasqueton,District 1B Associate Juvenile Judge,,,Yes,459,89,370
+Buchanan,Rowley,District 1B Associate Juvenile Judge,,,Yes,262,40,222
+Buchanan,Winthrop,District 1B Associate Juvenile Judge,,,Yes,269,57,212
+Buchanan,Aurora,District 1B Associate Juvenile Judge,,,No,115,23,92
+Buchanan,Brandon,District 1B Associate Juvenile Judge,,,No,71,16,55
+Buchanan,Fairbank,District 1B Associate Juvenile Judge,,,No,95,18,77
+Buchanan,Hazleton,District 1B Associate Juvenile Judge,,,No,90,12,78
+Buchanan,Independence 1st Ward,District 1B Associate Juvenile Judge,,,No,90,30,60
+Buchanan,Independence 2nd Ward,District 1B Associate Juvenile Judge,,,No,117,29,88
+Buchanan,Independence 3rd Ward,District 1B Associate Juvenile Judge,,,No,198,69,129
+Buchanan,Independence 4th Ward,District 1B Associate Juvenile Judge,,,No,81,25,56
+Buchanan,Independence 5th Ward,District 1B Associate Juvenile Judge,,,No,75,19,56
+Buchanan,Jesup,District 1B Associate Juvenile Judge,,,No,160,29,131
+Buchanan,Perry-Washington,District 1B Associate Juvenile Judge,,,No,139,65,74
+Buchanan,Quasqueton,District 1B Associate Juvenile Judge,,,No,191,41,150
+Buchanan,Rowley,District 1B Associate Juvenile Judge,,,No,121,14,107
+Buchanan,Winthrop,District 1B Associate Juvenile Judge,,,No,94,21,73
+Buchanan,Aurora,Constitutional Amendment 1,,,Yes,374,72,302
+Buchanan,Brandon,Constitutional Amendment 1,,,Yes,260,34,226
+Buchanan,Fairbank,Constitutional Amendment 1,,,Yes,356,71,285
+Buchanan,Hazleton,Constitutional Amendment 1,,,Yes,283,43,240
+Buchanan,Independence 1st Ward,Constitutional Amendment 1,,,Yes,415,148,267
+Buchanan,Independence 2nd Ward,Constitutional Amendment 1,,,Yes,322,86,236
+Buchanan,Independence 3rd Ward,Constitutional Amendment 1,,,Yes,746,250,496
+Buchanan,Independence 4th Ward,Constitutional Amendment 1,,,Yes,257,37,220
+Buchanan,Independence 5th Ward,Constitutional Amendment 1,,,Yes,290,62,228
+Buchanan,Jesup,Constitutional Amendment 1,,,Yes,673,106,567
+Buchanan,Perry-Washington,Constitutional Amendment 1,,,Yes,520,200,320
+Buchanan,Quasqueton,Constitutional Amendment 1,,,Yes,595,106,489
+Buchanan,Rowley,Constitutional Amendment 1,,,Yes,344,39,305
+Buchanan,Winthrop,Constitutional Amendment 1,,,Yes,316,51,265
+Buchanan,Aurora,Constitutional Amendment 1,,,No,148,54,94
+Buchanan,Brandon,Constitutional Amendment 1,,,No,66,19,47
+Buchanan,Fairbank,Constitutional Amendment 1,,,No,95,27,68
+Buchanan,Hazleton,Constitutional Amendment 1,,,No,85,30,55
+Buchanan,Independence 1st Ward,Constitutional Amendment 1,,,No,134,57,77
+Buchanan,Independence 2nd Ward,Constitutional Amendment 1,,,No,167,73,94
+Buchanan,Independence 3rd Ward,Constitutional Amendment 1,,,No,250,130,120
+Buchanan,Independence 4th Ward,Constitutional Amendment 1,,,No,139,46,93
+Buchanan,Independence 5th Ward,Constitutional Amendment 1,,,No,114,46,68
+Buchanan,Jesup,Constitutional Amendment 1,,,No,194,54,140
+Buchanan,Perry-Washington,Constitutional Amendment 1,,,No,201,122,79
+Buchanan,Quasqueton,Constitutional Amendment 1,,,No,201,65,136
+Buchanan,Rowley,Constitutional Amendment 1,,,No,128,32,96
+Buchanan,Winthrop,Constitutional Amendment 1,,,No,128,42,86
+Buchanan,Fairbank,Public Measure CE,,,Yes,231,45,186
+Buchanan,Fairbank,Public Measure CE,,,No,83,17,66

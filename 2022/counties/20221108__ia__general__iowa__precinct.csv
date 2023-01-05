@@ -1,0 +1,699 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Iowa,Dayton/English I,U.S. Senate,,REP,Chuck Grassley,196,30,166
+Iowa,English II,U.S. Senate,,REP,Chuck Grassley,276,40,236
+Iowa,Fillmore/Greene,U.S. Senate,,REP,Chuck Grassley,434,40,394
+Iowa,Honey Creek/Marengo Rural,U.S. Senate,,REP,Chuck Grassley,235,61,174
+Iowa,Hartford I/Sumner,U.S. Senate,,REP,Chuck Grassley,225,30,195
+Iowa,Hartford II/Lincoln,U.S. Senate,,REP,Chuck Grassley,380,50,330
+Iowa,Hilton/Washington,U.S. Senate,,REP,Chuck Grassley,441,113,328
+Iowa,Lenox/Iowa,U.S. Senate,,REP,Chuck Grassley,760,189,571
+Iowa,Marengo City,U.S. Senate,,REP,Chuck Grassley,534,134,400
+Iowa,Pilot/Troy/York,U.S. Senate,,REP,Chuck Grassley,489,100,389
+Iowa,Williamsburg,U.S. Senate,,REP,Chuck Grassley,833,182,651
+Iowa,Dayton/English I,U.S. Senate,,DEM,Michael Franken,77,20,57
+Iowa,English II,U.S. Senate,,DEM,Michael Franken,162,34,128
+Iowa,Fillmore/Greene,U.S. Senate,,DEM,Michael Franken,216,77,139
+Iowa,Honey Creek/Marengo Rural,U.S. Senate,,DEM,Michael Franken,74,40,34
+Iowa,Hartford I/Sumner,U.S. Senate,,DEM,Michael Franken,71,31,40
+Iowa,Hartford II/Lincoln,U.S. Senate,,DEM,Michael Franken,133,48,85
+Iowa,Hilton/Washington,U.S. Senate,,DEM,Michael Franken,185,79,106
+Iowa,Lenox/Iowa,U.S. Senate,,DEM,Michael Franken,530,210,320
+Iowa,Marengo City,U.S. Senate,,DEM,Michael Franken,336,147,189
+Iowa,Pilot/Troy/York,U.S. Senate,,DEM,Michael Franken,153,42,111
+Iowa,Williamsburg,U.S. Senate,,DEM,Michael Franken,602,235,367
+Iowa,Dayton/English I,U.S. Senate,,,Write-in,1,1,0
+Iowa,English II,U.S. Senate,,,Write-in,1,0,1
+Iowa,Fillmore/Greene,U.S. Senate,,,Write-in,0,0,0
+Iowa,Honey Creek/Marengo Rural,U.S. Senate,,,Write-in,0,0,0
+Iowa,Hartford I/Sumner,U.S. Senate,,,Write-in,0,0,0
+Iowa,Hartford II/Lincoln,U.S. Senate,,,Write-in,1,0,1
+Iowa,Hilton/Washington,U.S. Senate,,,Write-in,3,0,3
+Iowa,Lenox/Iowa,U.S. Senate,,,Write-in,2,0,2
+Iowa,Marengo City,U.S. Senate,,,Write-in,1,0,1
+Iowa,Pilot/Troy/York,U.S. Senate,,,Write-in,1,1,0
+Iowa,Williamsburg,U.S. Senate,,,Write-in,5,0,5
+Iowa,Dayton/English I,U.S. House,1,REP,Mariannette Miller-Meeks,183,27,156
+Iowa,English II,U.S. House,1,REP,Mariannette Miller-Meeks,278,40,238
+Iowa,Fillmore/Greene,U.S. House,1,REP,Mariannette Miller-Meeks,421,39,382
+Iowa,Honey Creek/Marengo Rural,U.S. House,1,REP,Mariannette Miller-Meeks,229,63,166
+Iowa,Hartford I/Sumner,U.S. House,1,REP,Mariannette Miller-Meeks,221,29,192
+Iowa,Hartford II/Lincoln,U.S. House,1,REP,Mariannette Miller-Meeks,373,50,323
+Iowa,Hilton/Washington,U.S. House,1,REP,Mariannette Miller-Meeks,430,112,318
+Iowa,Lenox/Iowa,U.S. House,1,REP,Mariannette Miller-Meeks,747,181,566
+Iowa,Marengo City,U.S. House,1,REP,Mariannette Miller-Meeks,522,134,388
+Iowa,Pilot/Troy/York,U.S. House,1,REP,Mariannette Miller-Meeks,480,92,388
+Iowa,Williamsburg,U.S. House,1,REP,Mariannette Miller-Meeks,839,180,659
+Iowa,Dayton/English I,U.S. House,1,DEM,Christina Bohannan,86,23,63
+Iowa,English II,U.S. House,1,DEM,Christina Bohannan,157,34,123
+Iowa,Fillmore/Greene,U.S. House,1,DEM,Christina Bohannan,228,81,147
+Iowa,Honey Creek/Marengo Rural,U.S. House,1,DEM,Christina Bohannan,78,36,42
+Iowa,Hartford I/Sumner,U.S. House,1,DEM,Christina Bohannan,74,32,42
+Iowa,Hartford II/Lincoln,U.S. House,1,DEM,Christina Bohannan,136,48,88
+Iowa,Hilton/Washington,U.S. House,1,DEM,Christina Bohannan,198,79,119
+Iowa,Lenox/Iowa,U.S. House,1,DEM,Christina Bohannan,540,217,323
+Iowa,Marengo City,U.S. House,1,DEM,Christina Bohannan,347,148,199
+Iowa,Pilot/Troy/York,U.S. House,1,DEM,Christina Bohannan,160,49,111
+Iowa,Williamsburg,U.S. House,1,DEM,Christina Bohannan,592,232,360
+Iowa,Dayton/English I,U.S. House,1,,Write-in,0,0,0
+Iowa,English II,U.S. House,1,,Write-in,0,0,0
+Iowa,Fillmore/Greene,U.S. House,1,,Write-in,0,0,0
+Iowa,Honey Creek/Marengo Rural,U.S. House,1,,Write-in,0,0,0
+Iowa,Hartford I/Sumner,U.S. House,1,,Write-in,1,0,1
+Iowa,Hartford II/Lincoln,U.S. House,1,,Write-in,0,0,0
+Iowa,Hilton/Washington,U.S. House,1,,Write-in,0,0,0
+Iowa,Lenox/Iowa,U.S. House,1,,Write-in,1,0,1
+Iowa,Marengo City,U.S. House,1,,Write-in,0,0,0
+Iowa,Pilot/Troy/York,U.S. House,1,,Write-in,1,1,0
+Iowa,Williamsburg,U.S. House,1,,Write-in,3,1,2
+Iowa,Dayton/English I,Governor,,REP,Kim Reynolds and Adam Gregg,202,30,172
+Iowa,English II,Governor,,REP,Kim Reynolds and Adam Gregg,291,42,249
+Iowa,Fillmore/Greene,Governor,,REP,Kim Reynolds and Adam Gregg,442,44,398
+Iowa,Honey Creek/Marengo Rural,Governor,,REP,Kim Reynolds and Adam Gregg,255,72,183
+Iowa,Hartford I/Sumner,Governor,,REP,Kim Reynolds and Adam Gregg,238,37,201
+Iowa,Hartford II/Lincoln,Governor,,REP,Kim Reynolds and Adam Gregg,404,53,351
+Iowa,Hilton/Washington,Governor,,REP,Kim Reynolds and Adam Gregg,460,119,341
+Iowa,Lenox/Iowa,Governor,,REP,Kim Reynolds and Adam Gregg,797,200,597
+Iowa,Marengo City,Governor,,REP,Kim Reynolds and Adam Gregg,553,144,409
+Iowa,Pilot/Troy/York,Governor,,REP,Kim Reynolds and Adam Gregg,501,98,403
+Iowa,Williamsburg,Governor,,REP,Kim Reynolds and Adam Gregg,858,187,671
+Iowa,Dayton/English I,Governor,,DEM,Deidre DeJear and Eric Van Lancker,70,20,50
+Iowa,English II,Governor,,DEM,Deidre DeJear and Eric Van Lancker,136,33,103
+Iowa,Fillmore/Greene,Governor,,DEM,Deidre DeJear and Eric Van Lancker,201,74,127
+Iowa,Honey Creek/Marengo Rural,Governor,,DEM,Deidre DeJear and Eric Van Lancker,57,32,25
+Iowa,Hartford I/Sumner,Governor,,DEM,Deidre DeJear and Eric Van Lancker,57,26,31
+Iowa,Hartford II/Lincoln,Governor,,DEM,Deidre DeJear and Eric Van Lancker,114,42,72
+Iowa,Hilton/Washington,Governor,,DEM,Deidre DeJear and Eric Van Lancker,166,72,94
+Iowa,Lenox/Iowa,Governor,,DEM,Deidre DeJear and Eric Van Lancker,490,200,290
+Iowa,Marengo City,Governor,,DEM,Deidre DeJear and Eric Van Lancker,303,137,166
+Iowa,Pilot/Troy/York,Governor,,DEM,Deidre DeJear and Eric Van Lancker,143,44,99
+Iowa,Williamsburg,Governor,,DEM,Deidre DeJear and Eric Van Lancker,562,231,331
+Iowa,Dayton/English I,Governor,,LIB,Rick Stewart and Marco Battaglia,6,1,5
+Iowa,English II,Governor,,LIB,Rick Stewart and Marco Battaglia,16,2,14
+Iowa,Fillmore/Greene,Governor,,LIB,Rick Stewart and Marco Battaglia,17,3,14
+Iowa,Honey Creek/Marengo Rural,Governor,,LIB,Rick Stewart and Marco Battaglia,3,1,2
+Iowa,Hartford I/Sumner,Governor,,LIB,Rick Stewart and Marco Battaglia,5,1,4
+Iowa,Hartford II/Lincoln,Governor,,LIB,Rick Stewart and Marco Battaglia,10,4,6
+Iowa,Hilton/Washington,Governor,,LIB,Rick Stewart and Marco Battaglia,11,3,8
+Iowa,Lenox/Iowa,Governor,,LIB,Rick Stewart and Marco Battaglia,26,5,21
+Iowa,Marengo City,Governor,,LIB,Rick Stewart and Marco Battaglia,36,9,27
+Iowa,Pilot/Troy/York,Governor,,LIB,Rick Stewart and Marco Battaglia,6,2,4
+Iowa,Williamsburg,Governor,,LIB,Rick Stewart and Marco Battaglia,37,7,30
+Iowa,Dayton/English I,Governor,,,Write-in,0,0,0
+Iowa,English II,Governor,,,Write-in,1,0,1
+Iowa,Fillmore/Greene,Governor,,,Write-in,0,0,0
+Iowa,Honey Creek/Marengo Rural,Governor,,,Write-in,0,0,0
+Iowa,Hartford I/Sumner,Governor,,,Write-in,1,0,1
+Iowa,Hartford II/Lincoln,Governor,,,Write-in,0,0,0
+Iowa,Hilton/Washington,Governor,,,Write-in,0,0,0
+Iowa,Lenox/Iowa,Governor,,,Write-in,0,0,0
+Iowa,Marengo City,Governor,,,Write-in,0,0,0
+Iowa,Pilot/Troy/York,Governor,,,Write-in,2,1,1
+Iowa,Williamsburg,Governor,,,Write-in,2,0,2
+Iowa,Dayton/English I,Secretary of State,,REP,Paul D. Pate,203,28,175
+Iowa,English II,Secretary of State,,REP,Paul D. Pate,296,42,254
+Iowa,Fillmore/Greene,Secretary of State,,REP,Paul D. Pate,457,48,409
+Iowa,Honey Creek/Marengo Rural,Secretary of State,,REP,Paul D. Pate,244,61,183
+Iowa,Hartford I/Sumner,Secretary of State,,REP,Paul D. Pate,237,35,202
+Iowa,Hartford II/Lincoln,Secretary of State,,REP,Paul D. Pate,404,57,347
+Iowa,Hilton/Washington,Secretary of State,,REP,Paul D. Pate,456,121,335
+Iowa,Lenox/Iowa,Secretary of State,,REP,Paul D. Pate,837,217,620
+Iowa,Marengo City,Secretary of State,,REP,Paul D. Pate,587,152,435
+Iowa,Pilot/Troy/York,Secretary of State,,REP,Paul D. Pate,527,110,417
+Iowa,Williamsburg,Secretary of State,,REP,Paul D. Pate,913,207,706
+Iowa,Dayton/English I,Secretary of State,,DEM,Joel Miller,70,22,48
+Iowa,English II,Secretary of State,,DEM,Joel Miller,141,33,108
+Iowa,Fillmore/Greene,Secretary of State,,DEM,Joel Miller,192,71,121
+Iowa,Honey Creek/Marengo Rural,Secretary of State,,DEM,Joel Miller,66,39,27
+Iowa,Hartford I/Sumner,Secretary of State,,DEM,Joel Miller,60,27,33
+Iowa,Hartford II/Lincoln,Secretary of State,,DEM,Joel Miller,116,42,74
+Iowa,Hilton/Washington,Secretary of State,,DEM,Joel Miller,173,67,106
+Iowa,Lenox/Iowa,Secretary of State,,DEM,Joel Miller,459,186,273
+Iowa,Marengo City,Secretary of State,,DEM,Joel Miller,295,136,159
+Iowa,Pilot/Troy/York,Secretary of State,,DEM,Joel Miller,121,35,86
+Iowa,Williamsburg,Secretary of State,,DEM,Joel Miller,524,215,309
+Iowa,Dayton/English I,Secretary of State,,,Write-in,0,0,0
+Iowa,English II,Secretary of State,,,Write-in,1,0,1
+Iowa,Fillmore/Greene,Secretary of State,,,Write-in,1,0,1
+Iowa,Honey Creek/Marengo Rural,Secretary of State,,,Write-in,0,0,0
+Iowa,Hartford I/Sumner,Secretary of State,,,Write-in,0,0,0
+Iowa,Hartford II/Lincoln,Secretary of State,,,Write-in,0,0,0
+Iowa,Hilton/Washington,Secretary of State,,,Write-in,0,0,0
+Iowa,Lenox/Iowa,Secretary of State,,,Write-in,0,0,0
+Iowa,Marengo City,Secretary of State,,,Write-in,0,0,0
+Iowa,Pilot/Troy/York,Secretary of State,,,Write-in,0,0,0
+Iowa,Williamsburg,Secretary of State,,,Write-in,0,0,0
+Iowa,Dayton/English I,Auditor of State,,REP,Todd Halbur,166,22,144
+Iowa,English II,Auditor of State,,REP,Todd Halbur,234,39,195
+Iowa,Fillmore/Greene,Auditor of State,,REP,Todd Halbur,388,33,355
+Iowa,Honey Creek/Marengo Rural,Auditor of State,,REP,Todd Halbur,196,45,151
+Iowa,Hartford I/Sumner,Auditor of State,,REP,Todd Halbur,190,27,163
+Iowa,Hartford II/Lincoln,Auditor of State,,REP,Todd Halbur,321,40,281
+Iowa,Hilton/Washington,Auditor of State,,REP,Todd Halbur,371,89,282
+Iowa,Lenox/Iowa,Auditor of State,,REP,Todd Halbur,648,140,508
+Iowa,Marengo City,Auditor of State,,REP,Todd Halbur,481,122,359
+Iowa,Pilot/Troy/York,Auditor of State,,REP,Todd Halbur,388,66,322
+Iowa,Williamsburg,Auditor of State,,REP,Todd Halbur,708,150,558
+Iowa,Dayton/English I,Auditor of State,,DEM,Rob Sand,101,26,75
+Iowa,English II,Auditor of State,,DEM,Rob Sand,198,37,161
+Iowa,Fillmore/Greene,Auditor of State,,DEM,Rob Sand,260,88,172
+Iowa,Honey Creek/Marengo Rural,Auditor of State,,DEM,Rob Sand,115,58,57
+Iowa,Hartford I/Sumner,Auditor of State,,DEM,Rob Sand,103,34,69
+Iowa,Hartford II/Lincoln,Auditor of State,,DEM,Rob Sand,189,58,131
+Iowa,Hilton/Washington,Auditor of State,,DEM,Rob Sand,253,95,158
+Iowa,Lenox/Iowa,Auditor of State,,DEM,Rob Sand,635,260,375
+Iowa,Marengo City,Auditor of State,,DEM,Rob Sand,395,164,231
+Iowa,Pilot/Troy/York,Auditor of State,,DEM,Rob Sand,255,75,180
+Iowa,Williamsburg,Auditor of State,,DEM,Rob Sand,727,271,456
+Iowa,Dayton/English I,Auditor of State,,,Write-in,0,0,0
+Iowa,English II,Auditor of State,,,Write-in,0,0,0
+Iowa,Fillmore/Greene,Auditor of State,,,Write-in,0,0,0
+Iowa,Honey Creek/Marengo Rural,Auditor of State,,,Write-in,0,0,0
+Iowa,Hartford I/Sumner,Auditor of State,,,Write-in,0,0,0
+Iowa,Hartford II/Lincoln,Auditor of State,,,Write-in,0,0,0
+Iowa,Hilton/Washington,Auditor of State,,,Write-in,1,0,1
+Iowa,Lenox/Iowa,Auditor of State,,,Write-in,1,0,1
+Iowa,Marengo City,Auditor of State,,,Write-in,0,0,0
+Iowa,Pilot/Troy/York,Auditor of State,,,Write-in,0,0,0
+Iowa,Williamsburg,Auditor of State,,,Write-in,1,0,1
+Iowa,Dayton/English I,Treasurer of State,,REP,Roby Smith,180,25,155
+Iowa,English II,Treasurer of State,,REP,Roby Smith,262,39,223
+Iowa,Fillmore/Greene,Treasurer of State,,REP,Roby Smith,418,38,380
+Iowa,Honey Creek/Marengo Rural,Treasurer of State,,REP,Roby Smith,224,57,167
+Iowa,Hartford I/Sumner,Treasurer of State,,REP,Roby Smith,210,26,184
+Iowa,Hartford II/Lincoln,Treasurer of State,,REP,Roby Smith,350,46,304
+Iowa,Hilton/Washington,Treasurer of State,,REP,Roby Smith,403,102,301
+Iowa,Lenox/Iowa,Treasurer of State,,REP,Roby Smith,713,176,537
+Iowa,Marengo City,Treasurer of State,,REP,Roby Smith,504,127,377
+Iowa,Pilot/Troy/York,Treasurer of State,,REP,Roby Smith,446,79,367
+Iowa,Williamsburg,Treasurer of State,,REP,Roby Smith,780,165,615
+Iowa,Dayton/English I,Treasurer of State,,DEM,Michael L. Fitzgerald,90,24,66
+Iowa,English II,Treasurer of State,,DEM,Michael L. Fitzgerald,177,38,139
+Iowa,Fillmore/Greene,Treasurer of State,,DEM,Michael L. Fitzgerald,229,81,148
+Iowa,Honey Creek/Marengo Rural,Treasurer of State,,DEM,Michael L. Fitzgerald,82,42,40
+Iowa,Hartford I/Sumner,Treasurer of State,,DEM,Michael L. Fitzgerald,83,36,47
+Iowa,Hartford II/Lincoln,Treasurer of State,,DEM,Michael L. Fitzgerald,166,53,113
+Iowa,Hilton/Washington,Treasurer of State,,DEM,Michael L. Fitzgerald,221,86,135
+Iowa,Lenox/Iowa,Treasurer of State,,DEM,Michael L. Fitzgerald,568,222,346
+Iowa,Marengo City,Treasurer of State,,DEM,Michael L. Fitzgerald,371,159,212
+Iowa,Pilot/Troy/York,Treasurer of State,,DEM,Michael L. Fitzgerald,191,61,130
+Iowa,Williamsburg,Treasurer of State,,DEM,Michael L. Fitzgerald,651,254,397
+Iowa,Dayton/English I,Treasurer of State,,,Write-in,0,0,0
+Iowa,English II,Treasurer of State,,,Write-in,0,0,0
+Iowa,Fillmore/Greene,Treasurer of State,,,Write-in,0,0,0
+Iowa,Honey Creek/Marengo Rural,Treasurer of State,,,Write-in,0,0,0
+Iowa,Hartford I/Sumner,Treasurer of State,,,Write-in,0,0,0
+Iowa,Hartford II/Lincoln,Treasurer of State,,,Write-in,0,0,0
+Iowa,Hilton/Washington,Treasurer of State,,,Write-in,1,0,1
+Iowa,Lenox/Iowa,Treasurer of State,,,Write-in,0,0,0
+Iowa,Marengo City,Treasurer of State,,,Write-in,0,0,0
+Iowa,Pilot/Troy/York,Treasurer of State,,,Write-in,0,0,0
+Iowa,Williamsburg,Treasurer of State,,,Write-in,0,0,0
+Iowa,Dayton/English I,Secretary of Agriculture,,REP,Mike Naig,209,33,176
+Iowa,English II,Secretary of Agriculture,,REP,Mike Naig,304,43,261
+Iowa,Fillmore/Greene,Secretary of Agriculture,,REP,Mike Naig,468,48,420
+Iowa,Honey Creek/Marengo Rural,Secretary of Agriculture,,REP,Mike Naig,256,69,187
+Iowa,Hartford I/Sumner,Secretary of Agriculture,,REP,Mike Naig,240,36,204
+Iowa,Hartford II/Lincoln,Secretary of Agriculture,,REP,Mike Naig,405,58,347
+Iowa,Hilton/Washington,Secretary of Agriculture,,REP,Mike Naig,470,124,346
+Iowa,Lenox/Iowa,Secretary of Agriculture,,REP,Mike Naig,837,214,623
+Iowa,Marengo City,Secretary of Agriculture,,REP,Mike Naig,592,156,436
+Iowa,Pilot/Troy/York,Secretary of Agriculture,,REP,Mike Naig,530,106,424
+Iowa,Williamsburg,Secretary of Agriculture,,REP,Mike Naig,941,215,726
+Iowa,Dayton/English I,Secretary of Agriculture,,DEM,John Norwood,63,17,46
+Iowa,English II,Secretary of Agriculture,,DEM,John Norwood,128,33,95
+Iowa,Fillmore/Greene,Secretary of Agriculture,,DEM,John Norwood,179,72,107
+Iowa,Honey Creek/Marengo Rural,Secretary of Agriculture,,DEM,John Norwood,55,35,20
+Iowa,Hartford I/Sumner,Secretary of Agriculture,,DEM,John Norwood,49,23,26
+Iowa,Hartford II/Lincoln,Secretary of Agriculture,,DEM,John Norwood,111,41,70
+Iowa,Hilton/Washington,Secretary of Agriculture,,DEM,John Norwood,155,66,89
+Iowa,Lenox/Iowa,Secretary of Agriculture,,DEM,John Norwood,443,185,258
+Iowa,Marengo City,Secretary of Agriculture,,DEM,John Norwood,274,129,145
+Iowa,Pilot/Troy/York,Secretary of Agriculture,,DEM,John Norwood,112,37,75
+Iowa,Williamsburg,Secretary of Agriculture,,DEM,John Norwood,486,205,281
+Iowa,Dayton/English I,Secretary of Agriculture,,,Write-in,0,0,0
+Iowa,English II,Secretary of Agriculture,,,Write-in,1,0,1
+Iowa,Fillmore/Greene,Secretary of Agriculture,,,Write-in,1,0,1
+Iowa,Honey Creek/Marengo Rural,Secretary of Agriculture,,,Write-in,0,0,0
+Iowa,Hartford I/Sumner,Secretary of Agriculture,,,Write-in,0,0,0
+Iowa,Hartford II/Lincoln,Secretary of Agriculture,,,Write-in,0,0,0
+Iowa,Hilton/Washington,Secretary of Agriculture,,,Write-in,2,0,2
+Iowa,Lenox/Iowa,Secretary of Agriculture,,,Write-in,0,0,0
+Iowa,Marengo City,Secretary of Agriculture,,,Write-in,0,0,0
+Iowa,Pilot/Troy/York,Secretary of Agriculture,,,Write-in,0,0,0
+Iowa,Williamsburg,Secretary of Agriculture,,,Write-in,0,0,0
+Iowa,Dayton/English I,Attorney General,,REP,Brenna Bird,169,23,146
+Iowa,English II,Attorney General,,REP,Brenna Bird,254,40,214
+Iowa,Fillmore/Greene,Attorney General,,REP,Brenna Bird,393,35,358
+Iowa,Honey Creek/Marengo Rural,Attorney General,,REP,Brenna Bird,213,51,162
+Iowa,Hartford I/Sumner,Attorney General,,REP,Brenna Bird,193,24,169
+Iowa,Hartford II/Lincoln,Attorney General,,REP,Brenna Bird,333,41,292
+Iowa,Hilton/Washington,Attorney General,,REP,Brenna Bird,385,90,295
+Iowa,Lenox/Iowa,Attorney General,,REP,Brenna Bird,690,156,534
+Iowa,Marengo City,Attorney General,,REP,Brenna Bird,485,123,362
+Iowa,Pilot/Troy/York,Attorney General,,REP,Brenna Bird,425,73,352
+Iowa,Williamsburg,Attorney General,,REP,Brenna Bird,750,143,607
+Iowa,Dayton/English I,Attorney General,,DEM,Tom Miller,103,25,78
+Iowa,English II,Attorney General,,DEM,Tom Miller,182,37,145
+Iowa,Fillmore/Greene,Attorney General,,DEM,Tom Miller,255,83,172
+Iowa,Honey Creek/Marengo Rural,Attorney General,,DEM,Tom Miller,99,52,47
+Iowa,Hartford I/Sumner,Attorney General,,DEM,Tom Miller,101,37,64
+Iowa,Hartford II/Lincoln,Attorney General,,DEM,Tom Miller,178,59,119
+Iowa,Hilton/Washington,Attorney General,,DEM,Tom Miller,237,98,139
+Iowa,Lenox/Iowa,Attorney General,,DEM,Tom Miller,598,243,355
+Iowa,Marengo City,Attorney General,,DEM,Tom Miller,394,165,229
+Iowa,Pilot/Troy/York,Attorney General,,DEM,Tom Miller,220,72,148
+Iowa,Williamsburg,Attorney General,,DEM,Tom Miller,680,280,400
+Iowa,Dayton/English I,Attorney General,,,Write-in,0,0,0
+Iowa,English II,Attorney General,,,Write-in,0,0,0
+Iowa,Fillmore/Greene,Attorney General,,,Write-in,1,0,1
+Iowa,Honey Creek/Marengo Rural,Attorney General,,,Write-in,0,0,0
+Iowa,Hartford I/Sumner,Attorney General,,,Write-in,0,0,0
+Iowa,Hartford II/Lincoln,Attorney General,,,Write-in,0,0,0
+Iowa,Hilton/Washington,Attorney General,,,Write-in,2,0,2
+Iowa,Lenox/Iowa,Attorney General,,,Write-in,0,0,0
+Iowa,Marengo City,Attorney General,,,Write-in,1,0,1
+Iowa,Pilot/Troy/York,Attorney General,,,Write-in,2,1,1
+Iowa,Williamsburg,Attorney General,,,Write-in,0,0,0
+Iowa,Dayton/English I,State Senate,46,REP,Dawn Driscoll,199,27,172
+Iowa,English II,State Senate,46,REP,Dawn Driscoll,278,40,238
+Iowa,Fillmore/Greene,State Senate,46,REP,Dawn Driscoll,407,40,367
+Iowa,Honey Creek/Marengo Rural,State Senate,46,REP,Dawn Driscoll,237,66,171
+Iowa,Hartford I/Sumner,State Senate,46,REP,Dawn Driscoll,217,31,186
+Iowa,Hartford II/Lincoln,State Senate,46,REP,Dawn Driscoll,388,51,337
+Iowa,Hilton/Washington,State Senate,46,REP,Dawn Driscoll,437,115,322
+Iowa,Lenox/Iowa,State Senate,46,REP,Dawn Driscoll,748,187,561
+Iowa,Marengo City,State Senate,46,REP,Dawn Driscoll,538,136,402
+Iowa,Pilot/Troy/York,State Senate,46,REP,Dawn Driscoll,469,97,372
+Iowa,Williamsburg,State Senate,46,REP,Dawn Driscoll,855,182,673
+Iowa,Dayton/English I,State Senate,46,DEM,Kevin Kinney,78,22,56
+Iowa,English II,State Senate,46,DEM,Kevin Kinney,161,36,125
+Iowa,Fillmore/Greene,State Senate,46,DEM,Kevin Kinney,254,81,173
+Iowa,Honey Creek/Marengo Rural,State Senate,46,DEM,Kevin Kinney,79,40,39
+Iowa,Hartford I/Sumner,State Senate,46,DEM,Kevin Kinney,81,32,49
+Iowa,Hartford II/Lincoln,State Senate,46,DEM,Kevin Kinney,138,48,90
+Iowa,Hilton/Washington,State Senate,46,DEM,Kevin Kinney,198,77,121
+Iowa,Lenox/Iowa,State Senate,46,DEM,Kevin Kinney,560,217,343
+Iowa,Marengo City,State Senate,46,DEM,Kevin Kinney,348,153,195
+Iowa,Pilot/Troy/York,State Senate,46,DEM,Kevin Kinney,182,47,135
+Iowa,Williamsburg,State Senate,46,DEM,Kevin Kinney,603,244,359
+Iowa,Dayton/English I,State Senate,46,,Write-in,0,0,0
+Iowa,English II,State Senate,46,,Write-in,1,0,1
+Iowa,Fillmore/Greene,State Senate,46,,Write-in,0,0,0
+Iowa,Honey Creek/Marengo Rural,State Senate,46,,Write-in,0,0,0
+Iowa,Hartford I/Sumner,State Senate,46,,Write-in,1,0,1
+Iowa,Hartford II/Lincoln,State Senate,46,,Write-in,0,0,0
+Iowa,Hilton/Washington,State Senate,46,,Write-in,0,0,0
+Iowa,Lenox/Iowa,State Senate,46,,Write-in,1,0,1
+Iowa,Marengo City,State Senate,46,,Write-in,2,0,2
+Iowa,Pilot/Troy/York,State Senate,46,,Write-in,1,1,0
+Iowa,Williamsburg,State Senate,46,,Write-in,1,0,1
+Iowa,Dayton/English I,State House,91,REP,Brad Sherman,194,27,167
+Iowa,English II,State House,91,REP,Brad Sherman,284,41,243
+Iowa,Fillmore/Greene,State House,91,REP,Brad Sherman,439,43,396
+Iowa,Honey Creek/Marengo Rural,State House,91,REP,Brad Sherman,238,67,171
+Iowa,Hartford I/Sumner,State House,91,REP,Brad Sherman,217,30,187
+Iowa,Hartford II/Lincoln,State House,91,REP,Brad Sherman,385,50,335
+Iowa,Hilton/Washington,State House,91,REP,Brad Sherman,430,106,324
+Iowa,Lenox/Iowa,State House,91,REP,Brad Sherman,764,193,571
+Iowa,Marengo City,State House,91,REP,Brad Sherman,517,132,385
+Iowa,Pilot/Troy/York,State House,91,REP,Brad Sherman,486,99,387
+Iowa,Williamsburg,State House,91,REP,Brad Sherman,844,184,660
+Iowa,Dayton/English I,State House,91,DEM,Elle Wyant,75,21,54
+Iowa,English II,State House,91,DEM,Elle Wyant,149,34,115
+Iowa,Fillmore/Greene,State House,91,DEM,Elle Wyant,206,76,130
+Iowa,Honey Creek/Marengo Rural,State House,91,DEM,Elle Wyant,73,34,39
+Iowa,Hartford I/Sumner,State House,91,DEM,Elle Wyant,76,29,47
+Iowa,Hartford II/Lincoln,State House,91,DEM,Elle Wyant,128,45,83
+Iowa,Hilton/Washington,State House,91,DEM,Elle Wyant,196,83,113
+Iowa,Lenox/Iowa,State House,91,DEM,Elle Wyant,524,204,320
+Iowa,Marengo City,State House,91,DEM,Elle Wyant,367,155,212
+Iowa,Pilot/Troy/York,State House,91,DEM,Elle Wyant,153,42,111
+Iowa,Williamsburg,State House,91,DEM,Elle Wyant,584,231,353
+Iowa,Dayton/English I,State House,91,,Write-in,0,0,0
+Iowa,English II,State House,91,,Write-in,2,0,2
+Iowa,Fillmore/Greene,State House,91,,Write-in,1,0,1
+Iowa,Honey Creek/Marengo Rural,State House,91,,Write-in,0,0,0
+Iowa,Hartford I/Sumner,State House,91,,Write-in,0,0,0
+Iowa,Hartford II/Lincoln,State House,91,,Write-in,1,0,1
+Iowa,Hilton/Washington,State House,91,,Write-in,1,0,1
+Iowa,Lenox/Iowa,State House,91,,Write-in,1,0,1
+Iowa,Marengo City,State House,91,,Write-in,0,0,0
+Iowa,Pilot/Troy/York,State House,91,,Write-in,0,0,0
+Iowa,Williamsburg,State House,91,,Write-in,3,0,3
+Iowa,Dayton/English I,County Board of Supervisors At Large,,REP,Jonathan Degen,155,28,127
+Iowa,English II,County Board of Supervisors At Large,,REP,Jonathan Degen,247,39,208
+Iowa,Fillmore/Greene,County Board of Supervisors At Large,,REP,Jonathan Degen,436,54,382
+Iowa,Honey Creek/Marengo Rural,County Board of Supervisors At Large,,REP,Jonathan Degen,218,65,153
+Iowa,Hartford I/Sumner,County Board of Supervisors At Large,,REP,Jonathan Degen,201,35,166
+Iowa,Hartford II/Lincoln,County Board of Supervisors At Large,,REP,Jonathan Degen,342,53,289
+Iowa,Hilton/Washington,County Board of Supervisors At Large,,REP,Jonathan Degen,422,120,302
+Iowa,Lenox/Iowa,County Board of Supervisors At Large,,REP,Jonathan Degen,693,188,505
+Iowa,Marengo City,County Board of Supervisors At Large,,REP,Jonathan Degen,558,156,402
+Iowa,Pilot/Troy/York,County Board of Supervisors At Large,,REP,Jonathan Degen,491,109,382
+Iowa,Williamsburg,County Board of Supervisors At Large,,REP,Jonathan Degen,938,239,699
+Iowa,Dayton/English I,County Board of Supervisors At Large,,REP,Kevin Heitshusen,165,30,135
+Iowa,English II,County Board of Supervisors At Large,,REP,Kevin Heitshusen,264,47,217
+Iowa,Fillmore/Greene,County Board of Supervisors At Large,,REP,Kevin Heitshusen,367,53,314
+Iowa,Honey Creek/Marengo Rural,County Board of Supervisors At Large,,REP,Kevin Heitshusen,204,56,148
+Iowa,Hartford I/Sumner,County Board of Supervisors At Large,,REP,Kevin Heitshusen,182,25,157
+Iowa,Hartford II/Lincoln,County Board of Supervisors At Large,,REP,Kevin Heitshusen,332,43,289
+Iowa,Hilton/Washington,County Board of Supervisors At Large,,REP,Kevin Heitshusen,354,99,255
+Iowa,Lenox/Iowa,County Board of Supervisors At Large,,REP,Kevin Heitshusen,757,214,543
+Iowa,Marengo City,County Board of Supervisors At Large,,REP,Kevin Heitshusen,490,136,354
+Iowa,Pilot/Troy/York,County Board of Supervisors At Large,,REP,Kevin Heitshusen,410,75,335
+Iowa,Williamsburg,County Board of Supervisors At Large,,REP,Kevin Heitshusen,808,218,590
+Iowa,Dayton/English I,County Board of Supervisors At Large,,REP,Chris Montross,187,36,151
+Iowa,English II,County Board of Supervisors At Large,,REP,Chris Montross,345,54,291
+Iowa,Fillmore/Greene,County Board of Supervisors At Large,,REP,Chris Montross,424,50,374
+Iowa,Honey Creek/Marengo Rural,County Board of Supervisors At Large,,REP,Chris Montross,218,68,150
+Iowa,Hartford I/Sumner,County Board of Supervisors At Large,,REP,Chris Montross,207,32,175
+Iowa,Hartford II/Lincoln,County Board of Supervisors At Large,,REP,Chris Montross,367,53,314
+Iowa,Hilton/Washington,County Board of Supervisors At Large,,REP,Chris Montross,363,102,261
+Iowa,Lenox/Iowa,County Board of Supervisors At Large,,REP,Chris Montross,709,198,511
+Iowa,Marengo City,County Board of Supervisors At Large,,REP,Chris Montross,561,152,409
+Iowa,Pilot/Troy/York,County Board of Supervisors At Large,,REP,Chris Montross,430,95,335
+Iowa,Williamsburg,County Board of Supervisors At Large,,REP,Chris Montross,825,212,613
+Iowa,Dayton/English I,County Board of Supervisors At Large,,DEM,Kristie Wetjen,100,23,77
+Iowa,English II,County Board of Supervisors At Large,,DEM,Kristie Wetjen,178,34,144
+Iowa,Fillmore/Greene,County Board of Supervisors At Large,,DEM,Kristie Wetjen,278,73,205
+Iowa,Honey Creek/Marengo Rural,County Board of Supervisors At Large,,DEM,Kristie Wetjen,112,49,63
+Iowa,Hartford I/Sumner,County Board of Supervisors At Large,,DEM,Kristie Wetjen,110,39,71
+Iowa,Hartford II/Lincoln,County Board of Supervisors At Large,,DEM,Kristie Wetjen,188,50,138
+Iowa,Hilton/Washington,County Board of Supervisors At Large,,DEM,Kristie Wetjen,275,98,177
+Iowa,Lenox/Iowa,County Board of Supervisors At Large,,DEM,Kristie Wetjen,648,235,413
+Iowa,Marengo City,County Board of Supervisors At Large,,DEM,Kristie Wetjen,417,164,253
+Iowa,Pilot/Troy/York,County Board of Supervisors At Large,,DEM,Kristie Wetjen,267,72,195
+Iowa,Williamsburg,County Board of Supervisors At Large,,DEM,Kristie Wetjen,735,266,469
+Iowa,Dayton/English I,County Board of Supervisors At Large,,,Write-in,3,3,0
+Iowa,English II,County Board of Supervisors At Large,,,Write-in,4,3,1
+Iowa,Fillmore/Greene,County Board of Supervisors At Large,,,Write-in,8,2,6
+Iowa,Honey Creek/Marengo Rural,County Board of Supervisors At Large,,,Write-in,0,0,0
+Iowa,Hartford I/Sumner,County Board of Supervisors At Large,,,Write-in,6,0,6
+Iowa,Hartford II/Lincoln,County Board of Supervisors At Large,,,Write-in,1,0,1
+Iowa,Hilton/Washington,County Board of Supervisors At Large,,,Write-in,12,1,11
+Iowa,Lenox/Iowa,County Board of Supervisors At Large,,,Write-in,33,14,19
+Iowa,Marengo City,County Board of Supervisors At Large,,,Write-in,10,6,4
+Iowa,Pilot/Troy/York,County Board of Supervisors At Large,,,Write-in,8,2,6
+Iowa,Williamsburg,County Board of Supervisors At Large,,,Write-in,17,7,10
+Iowa,Dayton/English I,County Treasurer,,REP,Michelle Sims,241,40,201
+Iowa,English II,County Treasurer,,REP,Michelle Sims,380,56,324
+Iowa,Fillmore/Greene,County Treasurer,,REP,Michelle Sims,576,88,488
+Iowa,Honey Creek/Marengo Rural,County Treasurer,,REP,Michelle Sims,280,87,193
+Iowa,Hartford I/Sumner,County Treasurer,,REP,Michelle Sims,267,47,220
+Iowa,Hartford II/Lincoln,County Treasurer,,REP,Michelle Sims,463,72,391
+Iowa,Hilton/Washington,County Treasurer,,REP,Michelle Sims,545,150,395
+Iowa,Lenox/Iowa,County Treasurer,,REP,Michelle Sims,1069,309,760
+Iowa,Marengo City,County Treasurer,,REP,Michelle Sims,778,233,545
+Iowa,Pilot/Troy/York,County Treasurer,,REP,Michelle Sims,601,128,473
+Iowa,Williamsburg,County Treasurer,,REP,Michelle Sims,1218,331,887
+Iowa,Dayton/English I,County Treasurer,,,Write-in,1,0,1
+Iowa,English II,County Treasurer,,,Write-in,3,1,2
+Iowa,Fillmore/Greene,County Treasurer,,,Write-in,2,1,1
+Iowa,Honey Creek/Marengo Rural,County Treasurer,,,Write-in,2,2,0
+Iowa,Hartford I/Sumner,County Treasurer,,,Write-in,0,0,0
+Iowa,Hartford II/Lincoln,County Treasurer,,,Write-in,5,1,4
+Iowa,Hilton/Washington,County Treasurer,,,Write-in,6,1,5
+Iowa,Lenox/Iowa,County Treasurer,,,Write-in,14,6,8
+Iowa,Marengo City,County Treasurer,,,Write-in,8,3,5
+Iowa,Pilot/Troy/York,County Treasurer,,,Write-in,2,0,2
+Iowa,Williamsburg,County Treasurer,,,Write-in,15,4,11
+Iowa,Dayton/English I,County Recorder,,REP,Sherry Pope,242,40,202
+Iowa,English II,County Recorder,,REP,Sherry Pope,377,58,319
+Iowa,Fillmore/Greene,County Recorder,,REP,Sherry Pope,562,81,481
+Iowa,Honey Creek/Marengo Rural,County Recorder,,REP,Sherry Pope,273,83,190
+Iowa,Hartford I/Sumner,County Recorder,,REP,Sherry Pope,264,47,217
+Iowa,Hartford II/Lincoln,County Recorder,,REP,Sherry Pope,453,69,384
+Iowa,Hilton/Washington,County Recorder,,REP,Sherry Pope,543,150,393
+Iowa,Lenox/Iowa,County Recorder,,REP,Sherry Pope,1039,297,742
+Iowa,Marengo City,County Recorder,,REP,Sherry Pope,755,224,531
+Iowa,Pilot/Troy/York,County Recorder,,REP,Sherry Pope,597,126,471
+Iowa,Williamsburg,County Recorder,,REP,Sherry Pope,1210,329,881
+Iowa,Dayton/English I,County Recorder,,,Write-in,1,0,1
+Iowa,English II,County Recorder,,,Write-in,3,2,1
+Iowa,Fillmore/Greene,County Recorder,,,Write-in,4,1,3
+Iowa,Honey Creek/Marengo Rural,County Recorder,,,Write-in,3,2,1
+Iowa,Hartford I/Sumner,County Recorder,,,Write-in,0,0,0
+Iowa,Hartford II/Lincoln,County Recorder,,,Write-in,11,0,11
+Iowa,Hilton/Washington,County Recorder,,,Write-in,5,1,4
+Iowa,Lenox/Iowa,County Recorder,,,Write-in,15,6,9
+Iowa,Marengo City,County Recorder,,,Write-in,9,5,4
+Iowa,Pilot/Troy/York,County Recorder,,,Write-in,5,0,5
+Iowa,Williamsburg,County Recorder,,,Write-in,14,3,11
+Iowa,Dayton/English I,County Attorney,,REP,Tim D. McMeen,222,35,187
+Iowa,English II,County Attorney,,REP,Tim D. McMeen,361,56,305
+Iowa,Fillmore/Greene,County Attorney,,REP,Tim D. McMeen,528,72,456
+Iowa,Honey Creek/Marengo Rural,County Attorney,,REP,Tim D. McMeen,276,86,190
+Iowa,Hartford I/Sumner,County Attorney,,REP,Tim D. McMeen,260,46,214
+Iowa,Hartford II/Lincoln,County Attorney,,REP,Tim D. McMeen,453,69,384
+Iowa,Hilton/Washington,County Attorney,,REP,Tim D. McMeen,524,148,376
+Iowa,Lenox/Iowa,County Attorney,,REP,Tim D. McMeen,1032,298,734
+Iowa,Marengo City,County Attorney,,REP,Tim D. McMeen,749,231,518
+Iowa,Pilot/Troy/York,County Attorney,,REP,Tim D. McMeen,564,116,448
+Iowa,Williamsburg,County Attorney,,REP,Tim D. McMeen,1166,312,854
+Iowa,Dayton/English I,County Attorney,,,Write-in,4,1,3
+Iowa,English II,County Attorney,,,Write-in,9,2,7
+Iowa,Fillmore/Greene,County Attorney,,,Write-in,6,1,5
+Iowa,Honey Creek/Marengo Rural,County Attorney,,,Write-in,3,2,1
+Iowa,Hartford I/Sumner,County Attorney,,,Write-in,3,0,3
+Iowa,Hartford II/Lincoln,County Attorney,,,Write-in,6,0,6
+Iowa,Hilton/Washington,County Attorney,,,Write-in,13,2,11
+Iowa,Lenox/Iowa,County Attorney,,,Write-in,18,6,12
+Iowa,Marengo City,County Attorney,,,Write-in,17,6,11
+Iowa,Pilot/Troy/York,County Attorney,,,Write-in,6,1,5
+Iowa,Williamsburg,County Attorney,,,Write-in,16,5,11
+Iowa,Dayton/English I,County Auditor To Fill Vacancy,,REP,Brandy Enochson,217,37,180
+Iowa,English II,County Auditor To Fill Vacancy,,REP,Brandy Enochson,353,56,297
+Iowa,Fillmore/Greene,County Auditor To Fill Vacancy,,REP,Brandy Enochson,535,76,459
+Iowa,Honey Creek/Marengo Rural,County Auditor To Fill Vacancy,,REP,Brandy Enochson,276,88,188
+Iowa,Hartford I/Sumner,County Auditor To Fill Vacancy,,REP,Brandy Enochson,261,48,213
+Iowa,Hartford II/Lincoln,County Auditor To Fill Vacancy,,REP,Brandy Enochson,433,65,368
+Iowa,Hilton/Washington,County Auditor To Fill Vacancy,,REP,Brandy Enochson,519,146,373
+Iowa,Lenox/Iowa,County Auditor To Fill Vacancy,,REP,Brandy Enochson,986,288,698
+Iowa,Marengo City,County Auditor To Fill Vacancy,,REP,Brandy Enochson,744,231,513
+Iowa,Pilot/Troy/York,County Auditor To Fill Vacancy,,REP,Brandy Enochson,552,116,436
+Iowa,Williamsburg,County Auditor To Fill Vacancy,,REP,Brandy Enochson,1124,301,823
+Iowa,Dayton/English I,County Auditor To Fill Vacancy,,,Write-in,1,0,1
+Iowa,English II,County Auditor To Fill Vacancy,,,Write-in,4,2,2
+Iowa,Fillmore/Greene,County Auditor To Fill Vacancy,,,Write-in,4,1,3
+Iowa,Honey Creek/Marengo Rural,County Auditor To Fill Vacancy,,,Write-in,2,2,0
+Iowa,Hartford I/Sumner,County Auditor To Fill Vacancy,,,Write-in,0,0,0
+Iowa,Hartford II/Lincoln,County Auditor To Fill Vacancy,,,Write-in,0,0,0
+Iowa,Hilton/Washington,County Auditor To Fill Vacancy,,,Write-in,6,1,5
+Iowa,Lenox/Iowa,County Auditor To Fill Vacancy,,,Write-in,15,6,9
+Iowa,Marengo City,County Auditor To Fill Vacancy,,,Write-in,5,2,3
+Iowa,Pilot/Troy/York,County Auditor To Fill Vacancy,,,Write-in,2,0,2
+Iowa,Williamsburg,County Auditor To Fill Vacancy,,,Write-in,9,2,7
+Iowa,Dayton/English I,Dayton Township Trustee,,,Scott Grimm,90,14,76
+Iowa,Dayton/English I,Dayton Township Trustee,,,Kristine M. Burck,92,13,79
+Iowa,Dayton/English I,Dayton Township Trustee,,,Write-in,0,0,0
+Iowa,Dayton/English I,Dayton Township Clerk,,,Dana Shaull,99,15,84
+Iowa,Dayton/English I,Dayton Township Clerk,,,Write-in,0,0,0
+Iowa,Dayton/English I,Soil and Water Conservation District Commissioner,,,Daniel Glandorf,196,40,156
+Iowa,English II,Soil and Water Conservation District Commissioner,,,Daniel Glandorf,309,50,259
+Iowa,Fillmore/Greene,Soil and Water Conservation District Commissioner,,,Daniel Glandorf,451,69,382
+Iowa,Honey Creek/Marengo Rural,Soil and Water Conservation District Commissioner,,,Daniel Glandorf,206,69,137
+Iowa,Hartford I/Sumner,Soil and Water Conservation District Commissioner,,,Daniel Glandorf,210,42,168
+Iowa,Hartford II/Lincoln,Soil and Water Conservation District Commissioner,,,Daniel Glandorf,373,59,314
+Iowa,Hilton/Washington,Soil and Water Conservation District Commissioner,,,Daniel Glandorf,423,118,305
+Iowa,Lenox/Iowa,Soil and Water Conservation District Commissioner,,,Daniel Glandorf,836,252,584
+Iowa,Marengo City,Soil and Water Conservation District Commissioner,,,Daniel Glandorf,564,157,407
+Iowa,Pilot/Troy/York,Soil and Water Conservation District Commissioner,,,Daniel Glandorf,473,102,371
+Iowa,Williamsburg,Soil and Water Conservation District Commissioner,,,Daniel Glandorf,985,273,712
+Iowa,Dayton/English I,Soil and Water Conservation District Commissioner,,,Dave Volkens,163,30,133
+Iowa,English II,Soil and Water Conservation District Commissioner,,,Dave Volkens,274,47,227
+Iowa,Fillmore/Greene,Soil and Water Conservation District Commissioner,,,Dave Volkens,429,67,362
+Iowa,Honey Creek/Marengo Rural,Soil and Water Conservation District Commissioner,,,Dave Volkens,187,67,120
+Iowa,Hartford I/Sumner,Soil and Water Conservation District Commissioner,,,Dave Volkens,162,34,128
+Iowa,Hartford II/Lincoln,Soil and Water Conservation District Commissioner,,,Dave Volkens,295,43,252
+Iowa,Hilton/Washington,Soil and Water Conservation District Commissioner,,,Dave Volkens,389,121,268
+Iowa,Lenox/Iowa,Soil and Water Conservation District Commissioner,,,Dave Volkens,745,228,517
+Iowa,Marengo City,Soil and Water Conservation District Commissioner,,,Dave Volkens,495,145,350
+Iowa,Pilot/Troy/York,Soil and Water Conservation District Commissioner,,,Dave Volkens,484,107,377
+Iowa,Williamsburg,Soil and Water Conservation District Commissioner,,,Dave Volkens,978,281,697
+Iowa,Dayton/English I,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Iowa,English II,Soil and Water Conservation District Commissioner,,,Write-in,7,3,4
+Iowa,Fillmore/Greene,Soil and Water Conservation District Commissioner,,,Write-in,4,0,4
+Iowa,Honey Creek/Marengo Rural,Soil and Water Conservation District Commissioner,,,Write-in,1,1,0
+Iowa,Hartford I/Sumner,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Iowa,Hartford II/Lincoln,Soil and Water Conservation District Commissioner,,,Write-in,8,2,6
+Iowa,Hilton/Washington,Soil and Water Conservation District Commissioner,,,Write-in,6,0,6
+Iowa,Lenox/Iowa,Soil and Water Conservation District Commissioner,,,Write-in,20,7,13
+Iowa,Marengo City,Soil and Water Conservation District Commissioner,,,Write-in,7,1,6
+Iowa,Pilot/Troy/York,Soil and Water Conservation District Commissioner,,,Write-in,6,2,4
+Iowa,Williamsburg,Soil and Water Conservation District Commissioner,,,Write-in,4,2,2
+Iowa,Dayton/English I,County Agricultural Extension Council Member,,,Randy Osweiler,181,37,144
+Iowa,English II,County Agricultural Extension Council Member,,,Randy Osweiler,297,47,250
+Iowa,Fillmore/Greene,County Agricultural Extension Council Member,,,Randy Osweiler,442,70,372
+Iowa,Honey Creek/Marengo Rural,County Agricultural Extension Council Member,,,Randy Osweiler,182,57,125
+Iowa,Hartford I/Sumner,County Agricultural Extension Council Member,,,Randy Osweiler,170,35,135
+Iowa,Hartford II/Lincoln,County Agricultural Extension Council Member,,,Randy Osweiler,319,43,276
+Iowa,Hilton/Washington,County Agricultural Extension Council Member,,,Randy Osweiler,381,107,274
+Iowa,Lenox/Iowa,County Agricultural Extension Council Member,,,Randy Osweiler,737,213,524
+Iowa,Marengo City,County Agricultural Extension Council Member,,,Randy Osweiler,497,133,364
+Iowa,Pilot/Troy/York,County Agricultural Extension Council Member,,,Randy Osweiler,494,106,388
+Iowa,Williamsburg,County Agricultural Extension Council Member,,,Randy Osweiler,953,257,696
+Iowa,Dayton/English I,County Agricultural Extension Council Member,,,Chad Sickles,132,31,101
+Iowa,English II,County Agricultural Extension Council Member,,,Chad Sickles,234,37,197
+Iowa,Fillmore/Greene,County Agricultural Extension Council Member,,,Chad Sickles,352,53,299
+Iowa,Honey Creek/Marengo Rural,County Agricultural Extension Council Member,,,Chad Sickles,161,53,108
+Iowa,Hartford I/Sumner,County Agricultural Extension Council Member,,,Chad Sickles,157,31,126
+Iowa,Hartford II/Lincoln,County Agricultural Extension Council Member,,,Chad Sickles,280,40,240
+Iowa,Hilton/Washington,County Agricultural Extension Council Member,,,Chad Sickles,327,96,231
+Iowa,Lenox/Iowa,County Agricultural Extension Council Member,,,Chad Sickles,649,189,460
+Iowa,Marengo City,County Agricultural Extension Council Member,,,Chad Sickles,460,116,344
+Iowa,Pilot/Troy/York,County Agricultural Extension Council Member,,,Chad Sickles,374,72,302
+Iowa,Williamsburg,County Agricultural Extension Council Member,,,Chad Sickles,775,204,571
+Iowa,Dayton/English I,County Agricultural Extension Council Member,,,Meghan Hansen,140,31,109
+Iowa,English II,County Agricultural Extension Council Member,,,Meghan Hansen,253,39,214
+Iowa,Fillmore/Greene,County Agricultural Extension Council Member,,,Meghan Hansen,387,61,326
+Iowa,Honey Creek/Marengo Rural,County Agricultural Extension Council Member,,,Meghan Hansen,168,57,111
+Iowa,Hartford I/Sumner,County Agricultural Extension Council Member,,,Meghan Hansen,156,32,124
+Iowa,Hartford II/Lincoln,County Agricultural Extension Council Member,,,Meghan Hansen,295,43,252
+Iowa,Hilton/Washington,County Agricultural Extension Council Member,,,Meghan Hansen,352,98,254
+Iowa,Lenox/Iowa,County Agricultural Extension Council Member,,,Meghan Hansen,715,207,508
+Iowa,Marengo City,County Agricultural Extension Council Member,,,Meghan Hansen,480,128,352
+Iowa,Pilot/Troy/York,County Agricultural Extension Council Member,,,Meghan Hansen,397,78,319
+Iowa,Williamsburg,County Agricultural Extension Council Member,,,Meghan Hansen,844,226,618
+Iowa,Dayton/English I,County Agricultural Extension Council Member,,,Brent Ness,141,30,111
+Iowa,English II,County Agricultural Extension Council Member,,,Brent Ness,236,36,200
+Iowa,Fillmore/Greene,County Agricultural Extension Council Member,,,Brent Ness,351,55,296
+Iowa,Honey Creek/Marengo Rural,County Agricultural Extension Council Member,,,Brent Ness,166,56,110
+Iowa,Hartford I/Sumner,County Agricultural Extension Council Member,,,Brent Ness,149,30,119
+Iowa,Hartford II/Lincoln,County Agricultural Extension Council Member,,,Brent Ness,272,39,233
+Iowa,Hilton/Washington,County Agricultural Extension Council Member,,,Brent Ness,324,93,231
+Iowa,Lenox/Iowa,County Agricultural Extension Council Member,,,Brent Ness,669,197,472
+Iowa,Marengo City,County Agricultural Extension Council Member,,,Brent Ness,451,116,335
+Iowa,Pilot/Troy/York,County Agricultural Extension Council Member,,,Brent Ness,393,78,315
+Iowa,Williamsburg,County Agricultural Extension Council Member,,,Brent Ness,777,204,573
+Iowa,Dayton/English I,County Agricultural Extension Council Member,,,Martha Meyer,177,37,140
+Iowa,English II,County Agricultural Extension Council Member,,,Martha Meyer,253,38,215
+Iowa,Fillmore/Greene,County Agricultural Extension Council Member,,,Martha Meyer,349,59,290
+Iowa,Honey Creek/Marengo Rural,County Agricultural Extension Council Member,,,Martha Meyer,165,59,106
+Iowa,Hartford I/Sumner,County Agricultural Extension Council Member,,,Martha Meyer,157,31,126
+Iowa,Hartford II/Lincoln,County Agricultural Extension Council Member,,,Martha Meyer,304,41,263
+Iowa,Hilton/Washington,County Agricultural Extension Council Member,,,Martha Meyer,330,95,235
+Iowa,Lenox/Iowa,County Agricultural Extension Council Member,,,Martha Meyer,673,198,475
+Iowa,Marengo City,County Agricultural Extension Council Member,,,Martha Meyer,482,134,348
+Iowa,Pilot/Troy/York,County Agricultural Extension Council Member,,,Martha Meyer,378,80,298
+Iowa,Williamsburg,County Agricultural Extension Council Member,,,Martha Meyer,781,229,552
+Iowa,Dayton/English I,County Agricultural Extension Council Member,,,Write-in,2,1,1
+Iowa,English II,County Agricultural Extension Council Member,,,Write-in,9,6,3
+Iowa,Fillmore/Greene,County Agricultural Extension Council Member,,,Write-in,7,1,6
+Iowa,Honey Creek/Marengo Rural,County Agricultural Extension Council Member,,,Write-in,3,2,1
+Iowa,Hartford I/Sumner,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Iowa,Hartford II/Lincoln,County Agricultural Extension Council Member,,,Write-in,5,2,3
+Iowa,Hilton/Washington,County Agricultural Extension Council Member,,,Write-in,17,1,16
+Iowa,Lenox/Iowa,County Agricultural Extension Council Member,,,Write-in,21,13,8
+Iowa,Marengo City,County Agricultural Extension Council Member,,,Write-in,11,6,5
+Iowa,Pilot/Troy/York,County Agricultural Extension Council Member,,,Write-in,7,4,3
+Iowa,Williamsburg,County Agricultural Extension Council Member,,,Write-in,10,3,7
+Iowa,Dayton/English I,Supreme Court Justice,,,Yes,120,21,99
+Iowa,English II,Supreme Court Justice,,,Yes,220,28,192
+Iowa,Fillmore/Greene,Supreme Court Justice,,,Yes,337,46,291
+Iowa,Honey Creek/Marengo Rural,Supreme Court Justice,,,Yes,154,44,110
+Iowa,Hartford I/Sumner,Supreme Court Justice,,,Yes,146,24,122
+Iowa,Hartford II/Lincoln,Supreme Court Justice,,,Yes,267,41,226
+Iowa,Hilton/Washington,Supreme Court Justice,,,Yes,281,76,205
+Iowa,Lenox/Iowa,Supreme Court Justice,,,Yes,621,180,441
+Iowa,Marengo City,Supreme Court Justice,,,Yes,428,114,314
+Iowa,Pilot/Troy/York,Supreme Court Justice,,,Yes,321,67,254
+Iowa,Williamsburg,Supreme Court Justice,,,Yes,696,183,513
+Iowa,Dayton/English I,Supreme Court Justice,,,No,69,9,60
+Iowa,English II,Supreme Court Justice,,,No,113,20,93
+Iowa,Fillmore/Greene,Supreme Court Justice,,,No,120,30,90
+Iowa,Honey Creek/Marengo Rural,Supreme Court Justice,,,No,62,24,38
+Iowa,Hartford I/Sumner,Supreme Court Justice,,,No,45,12,33
+Iowa,Hartford II/Lincoln,Supreme Court Justice,,,No,117,20,97
+Iowa,Hilton/Washington,Supreme Court Justice,,,No,154,45,109
+Iowa,Lenox/Iowa,Supreme Court Justice,,,No,271,87,184
+Iowa,Marengo City,Supreme Court Justice,,,No,186,64,122
+Iowa,Pilot/Troy/York,Supreme Court Justice,,,No,117,25,92
+Iowa,Williamsburg,Supreme Court Justice,,,No,338,108,230
+Iowa,Dayton/English I,Court of Appeals Judge,,,Yes,130,25,105
+Iowa,English II,Court of Appeals Judge,,,Yes,210,30,180
+Iowa,Fillmore/Greene,Court of Appeals Judge,,,Yes,321,49,272
+Iowa,Honey Creek/Marengo Rural,Court of Appeals Judge,,,Yes,146,41,105
+Iowa,Hartford I/Sumner,Court of Appeals Judge,,,Yes,132,23,109
+Iowa,Hartford II/Lincoln,Court of Appeals Judge,,,Yes,261,39,222
+Iowa,Hilton/Washington,Court of Appeals Judge,,,Yes,276,68,208
+Iowa,Lenox/Iowa,Court of Appeals Judge,,,Yes,616,185,431
+Iowa,Marengo City,Court of Appeals Judge,,,Yes,422,109,313
+Iowa,Pilot/Troy/York,Court of Appeals Judge,,,Yes,305,66,239
+Iowa,Williamsburg,Court of Appeals Judge,,,Yes,687,186,501
+Iowa,Dayton/English I,Court of Appeals Judge,,,No,62,7,55
+Iowa,English II,Court of Appeals Judge,,,No,113,17,96
+Iowa,Fillmore/Greene,Court of Appeals Judge,,,No,114,26,88
+Iowa,Honey Creek/Marengo Rural,Court of Appeals Judge,,,No,63,27,36
+Iowa,Hartford I/Sumner,Court of Appeals Judge,,,No,50,12,38
+Iowa,Hartford II/Lincoln,Court of Appeals Judge,,,No,121,22,99
+Iowa,Hilton/Washington,Court of Appeals Judge,,,No,148,46,102
+Iowa,Lenox/Iowa,Court of Appeals Judge,,,No,235,70,165
+Iowa,Marengo City,Court of Appeals Judge,,,No,171,60,111
+Iowa,Pilot/Troy/York,Court of Appeals Judge,,,No,113,24,89
+Iowa,Williamsburg,Court of Appeals Judge,,,No,317,91,226
+Iowa,Dayton/English I,District 6 Judge,,,Yes,109,22,87
+Iowa,English II,District 6 Judge,,,Yes,209,26,183
+Iowa,Fillmore/Greene,District 6 Judge,,,Yes,296,50,246
+Iowa,Honey Creek/Marengo Rural,District 6 Judge,,,Yes,146,42,104
+Iowa,Hartford I/Sumner,District 6 Judge,,,Yes,132,30,102
+Iowa,Hartford II/Lincoln,District 6 Judge,,,Yes,249,36,213
+Iowa,Hilton/Washington,District 6 Judge,,,Yes,261,64,197
+Iowa,Lenox/Iowa,District 6 Judge,,,Yes,597,172,425
+Iowa,Marengo City,District 6 Judge,,,Yes,416,111,305
+Iowa,Pilot/Troy/York,District 6 Judge,,,Yes,292,66,226
+Iowa,Williamsburg,District 6 Judge,,,Yes,676,191,485
+Iowa,Dayton/English I,District 6 Judge,,,No,75,11,64
+Iowa,English II,District 6 Judge,,,No,105,16,89
+Iowa,Fillmore/Greene,District 6 Judge,,,No,112,16,96
+Iowa,Honey Creek/Marengo Rural,District 6 Judge,,,No,64,23,41
+Iowa,Hartford I/Sumner,District 6 Judge,,,No,47,6,41
+Iowa,Hartford II/Lincoln,District 6 Judge,,,No,122,19,103
+Iowa,Hilton/Washington,District 6 Judge,,,No,153,44,109
+Iowa,Lenox/Iowa,District 6 Judge,,,No,239,74,165
+Iowa,Marengo City,District 6 Judge,,,No,175,61,114
+Iowa,Pilot/Troy/York,District 6 Judge,,,No,119,23,96
+Iowa,Williamsburg,District 6 Judge,,,No,292,70,222
+Iowa,Dayton/English I,District 6 Associate Judge,,,Yes,118,24,94
+Iowa,English II,District 6 Associate Judge,,,Yes,204,24,180
+Iowa,Fillmore/Greene,District 6 Associate Judge,,,Yes,295,47,248
+Iowa,Honey Creek/Marengo Rural,District 6 Associate Judge,,,Yes,148,44,104
+Iowa,Hartford I/Sumner,District 6 Associate Judge,,,Yes,127,31,96
+Iowa,Hartford II/Lincoln,District 6 Associate Judge,,,Yes,257,37,220
+Iowa,Hilton/Washington,District 6 Associate Judge,,,Yes,262,62,200
+Iowa,Lenox/Iowa,District 6 Associate Judge,,,Yes,612,182,430
+Iowa,Marengo City,District 6 Associate Judge,,,Yes,418,106,312
+Iowa,Pilot/Troy/York,District 6 Associate Judge,,,Yes,305,68,237
+Iowa,Williamsburg,District 6 Associate Judge,,,Yes,683,189,494
+Iowa,Dayton/English I,District 6 Associate Judge,,,No,61,7,54
+Iowa,English II,District 6 Associate Judge,,,No,107,17,90
+Iowa,Fillmore/Greene,District 6 Associate Judge,,,No,101,18,83
+Iowa,Honey Creek/Marengo Rural,District 6 Associate Judge,,,No,56,18,38
+Iowa,Hartford I/Sumner,District 6 Associate Judge,,,No,51,7,44
+Iowa,Hartford II/Lincoln,District 6 Associate Judge,,,No,110,17,93
+Iowa,Hilton/Washington,District 6 Associate Judge,,,No,138,44,94
+Iowa,Lenox/Iowa,District 6 Associate Judge,,,No,214,60,154
+Iowa,Marengo City,District 6 Associate Judge,,,No,159,56,103
+Iowa,Pilot/Troy/York,District 6 Associate Judge,,,No,105,22,83
+Iowa,Williamsburg,District 6 Associate Judge,,,No,272,63,209
+Iowa,Dayton/English I,Constitutional Amendment 1,,,Yes,212,36,176
+Iowa,English II,Constitutional Amendment 1,,,Yes,289,42,247
+Iowa,Fillmore/Greene,Constitutional Amendment 1,,,Yes,456,50,406
+Iowa,Honey Creek/Marengo Rural,Constitutional Amendment 1,,,Yes,240,69,171
+Iowa,Hartford I/Sumner,Constitutional Amendment 1,,,Yes,229,35,194
+Iowa,Hartford II/Lincoln,Constitutional Amendment 1,,,Yes,384,60,324
+Iowa,Hilton/Washington,Constitutional Amendment 1,,,Yes,447,113,334
+Iowa,Lenox/Iowa,Constitutional Amendment 1,,,Yes,811,222,589
+Iowa,Marengo City,Constitutional Amendment 1,,,Yes,596,167,429
+Iowa,Pilot/Troy/York,Constitutional Amendment 1,,,Yes,483,95,388
+Iowa,Williamsburg,Constitutional Amendment 1,,,Yes,926,214,712
+Iowa,Dayton/English I,Constitutional Amendment 1,,,No,44,13,31
+Iowa,English II,Constitutional Amendment 1,,,No,125,28,97
+Iowa,Fillmore/Greene,Constitutional Amendment 1,,,No,168,61,107
+Iowa,Honey Creek/Marengo Rural,Constitutional Amendment 1,,,No,60,32,28
+Iowa,Hartford I/Sumner,Constitutional Amendment 1,,,No,47,21,26
+Iowa,Hartford II/Lincoln,Constitutional Amendment 1,,,No,108,36,72
+Iowa,Hilton/Washington,Constitutional Amendment 1,,,No,151,68,83
+Iowa,Lenox/Iowa,Constitutional Amendment 1,,,No,419,160,259
+Iowa,Marengo City,Constitutional Amendment 1,,,No,224,93,131
+Iowa,Pilot/Troy/York,Constitutional Amendment 1,,,No,128,42,86
+Iowa,Williamsburg,Constitutional Amendment 1,,,No,458,188,270

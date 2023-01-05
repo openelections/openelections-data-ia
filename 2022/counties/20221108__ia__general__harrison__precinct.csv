@@ -1,0 +1,833 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Harrison,Precinct #1,U.S. Senate,,DEM,Michael Franken,43,9,34
+Harrison,Precinct # 2,U.S. Senate,,DEM,Michael Franken,56,17,39
+Harrison,Precinct #3,U.S. Senate,,DEM,Michael Franken,182,52,130
+Harrison,Precinct #4,U.S. Senate,,DEM,Michael Franken,73,20,53
+Harrison,Precinct #5,U.S. Senate,,DEM,Michael Franken,90,34,56
+Harrison,Precinct #6,U.S. Senate,,DEM,Michael Franken,199,44,155
+Harrison,Precinct #7,U.S. Senate,,DEM,Michael Franken,101,29,72
+Harrison,Precinct #8,U.S. Senate,,DEM,Michael Franken,262,99,163
+Harrison,St. John,U.S. Senate,,DEM,Michael Franken,162,51,111
+Harrison,Missouri Valley,U.S. Senate,,DEM,Michael Franken,282,63,219
+Harrison,Precinct #11,U.S. Senate,,DEM,Michael Franken,98,24,74
+Harrison,Precinct #1,U.S. Senate,,REP,Chuck Grassley,74,14,60
+Harrison,Precinct # 2,U.S. Senate,,REP,Chuck Grassley,214,17,197
+Harrison,Precinct #3,U.S. Senate,,REP,Chuck Grassley,342,34,308
+Harrison,Precinct #4,U.S. Senate,,REP,Chuck Grassley,184,20,164
+Harrison,Precinct #5,U.S. Senate,,REP,Chuck Grassley,366,89,277
+Harrison,Precinct #6,U.S. Senate,,REP,Chuck Grassley,532,58,474
+Harrison,Precinct #7,U.S. Senate,,REP,Chuck Grassley,217,21,196
+Harrison,Precinct #8,U.S. Senate,,REP,Chuck Grassley,703,130,573
+Harrison,St. John,U.S. Senate,,REP,Chuck Grassley,390,49,341
+Harrison,Missouri Valley,U.S. Senate,,REP,Chuck Grassley,505,52,453
+Harrison,Precinct #11,U.S. Senate,,REP,Chuck Grassley,362,59,303
+Harrison,Precinct #1,U.S. Senate,,,Write-in,0,0,0
+Harrison,Precinct # 2,U.S. Senate,,,Write-in,0,0,0
+Harrison,Precinct #3,U.S. Senate,,,Write-in,2,0,2
+Harrison,Precinct #4,U.S. Senate,,,Write-in,3,0,3
+Harrison,Precinct #5,U.S. Senate,,,Write-in,2,0,2
+Harrison,Precinct #6,U.S. Senate,,,Write-in,8,1,7
+Harrison,Precinct #7,U.S. Senate,,,Write-in,0,0,0
+Harrison,Precinct #8,U.S. Senate,,,Write-in,7,0,7
+Harrison,St. John,U.S. Senate,,,Write-in,3,0,3
+Harrison,Missouri Valley,U.S. Senate,,,Write-in,0,0,0
+Harrison,Precinct #11,U.S. Senate,,,Write-in,1,0,1
+Harrison,Precinct #1,U.S. House,4,DEM,Ryan Melton,40,8,32
+Harrison,Precinct # 2,U.S. House,4,DEM,Ryan Melton,46,16,30
+Harrison,Precinct #3,U.S. House,4,DEM,Ryan Melton,155,50,105
+Harrison,Precinct #4,U.S. House,4,DEM,Ryan Melton,58,20,38
+Harrison,Precinct #5,U.S. House,4,DEM,Ryan Melton,86,36,50
+Harrison,Precinct #6,U.S. House,4,DEM,Ryan Melton,164,34,130
+Harrison,Precinct #7,U.S. House,4,DEM,Ryan Melton,93,28,65
+Harrison,Precinct #8,U.S. House,4,DEM,Ryan Melton,226,88,138
+Harrison,St. John,U.S. House,4,DEM,Ryan Melton,138,47,91
+Harrison,Missouri Valley,U.S. House,4,DEM,Ryan Melton,244,58,186
+Harrison,Precinct #11,U.S. House,4,DEM,Ryan Melton,88,22,66
+Harrison,Precinct #1,U.S. House,4,REP,Randy Feenstra,68,12,56
+Harrison,Precinct # 2,U.S. House,4,REP,Randy Feenstra,210,17,193
+Harrison,Precinct #3,U.S. House,4,REP,Randy Feenstra,350,34,316
+Harrison,Precinct #4,U.S. House,4,REP,Randy Feenstra,176,17,159
+Harrison,Precinct #5,U.S. House,4,REP,Randy Feenstra,354,85,269
+Harrison,Precinct #6,U.S. House,4,REP,Randy Feenstra,538,63,475
+Harrison,Precinct #7,U.S. House,4,REP,Randy Feenstra,212,23,189
+Harrison,Precinct #8,U.S. House,4,REP,Randy Feenstra,716,135,581
+Harrison,St. John,U.S. House,4,REP,Randy Feenstra,397,51,346
+Harrison,Missouri Valley,U.S. House,4,REP,Randy Feenstra,512,54,458
+Harrison,Precinct #11,U.S. House,4,REP,Randy Feenstra,358,57,301
+Harrison,Precinct #1,U.S. House,4,LBC,Bryan Jack Holder,8,2,6
+Harrison,Precinct # 2,U.S. House,4,LBC,Bryan Jack Holder,6,1,5
+Harrison,Precinct #3,U.S. House,4,LBC,Bryan Jack Holder,13,1,12
+Harrison,Precinct #4,U.S. House,4,LBC,Bryan Jack Holder,14,1,13
+Harrison,Precinct #5,U.S. House,4,LBC,Bryan Jack Holder,8,1,7
+Harrison,Precinct #6,U.S. House,4,LBC,Bryan Jack Holder,14,3,11
+Harrison,Precinct #7,U.S. House,4,LBC,Bryan Jack Holder,4,0,4
+Harrison,Precinct #8,U.S. House,4,LBC,Bryan Jack Holder,21,4,17
+Harrison,St. John,U.S. House,4,LBC,Bryan Jack Holder,14,0,14
+Harrison,Missouri Valley,U.S. House,4,LBC,Bryan Jack Holder,27,2,25
+Harrison,Precinct #11,U.S. House,4,LBC,Bryan Jack Holder,13,3,10
+Harrison,Precinct #1,U.S. House,4,,Write-in,0,0,0
+Harrison,Precinct # 2,U.S. House,4,,Write-in,2,0,2
+Harrison,Precinct #3,U.S. House,4,,Write-in,1,0,1
+Harrison,Precinct #4,U.S. House,4,,Write-in,4,0,4
+Harrison,Precinct #5,U.S. House,4,,Write-in,2,0,2
+Harrison,Precinct #6,U.S. House,4,,Write-in,4,0,4
+Harrison,Precinct #7,U.S. House,4,,Write-in,2,0,2
+Harrison,Precinct #8,U.S. House,4,,Write-in,2,0,2
+Harrison,St. John,U.S. House,4,,Write-in,2,0,2
+Harrison,Missouri Valley,U.S. House,4,,Write-in,1,0,1
+Harrison,Precinct #11,U.S. House,4,,Write-in,0,0,0
+Harrison,Precinct #1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,33,9,24
+Harrison,Precinct # 2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,45,17,28
+Harrison,Precinct #3,Governor,,DEM,Deidre DeJear and Eric Van Lancker,156,48,108
+Harrison,Precinct #4,Governor,,DEM,Deidre DeJear and Eric Van Lancker,63,19,44
+Harrison,Precinct #5,Governor,,DEM,Deidre DeJear and Eric Van Lancker,82,35,47
+Harrison,Precinct #6,Governor,,DEM,Deidre DeJear and Eric Van Lancker,165,36,129
+Harrison,Precinct #7,Governor,,DEM,Deidre DeJear and Eric Van Lancker,87,30,57
+Harrison,Precinct #8,Governor,,DEM,Deidre DeJear and Eric Van Lancker,224,96,128
+Harrison,St. John,Governor,,DEM,Deidre DeJear and Eric Van Lancker,148,53,95
+Harrison,Missouri Valley,Governor,,DEM,Deidre DeJear and Eric Van Lancker,239,56,183
+Harrison,Precinct #11,Governor,,DEM,Deidre DeJear and Eric Van Lancker,83,23,60
+Harrison,Precinct #1,Governor,,REP,Kim Reynolds and Adam Gregg,80,13,67
+Harrison,Precinct # 2,Governor,,REP,Kim Reynolds and Adam Gregg,223,17,206
+Harrison,Precinct #3,Governor,,REP,Kim Reynolds and Adam Gregg,362,38,324
+Harrison,Precinct #4,Governor,,REP,Kim Reynolds and Adam Gregg,193,20,173
+Harrison,Precinct #5,Governor,,REP,Kim Reynolds and Adam Gregg,374,88,286
+Harrison,Precinct #6,Governor,,REP,Kim Reynolds and Adam Gregg,571,66,505
+Harrison,Precinct #7,Governor,,REP,Kim Reynolds and Adam Gregg,232,22,210
+Harrison,Precinct #8,Governor,,REP,Kim Reynolds and Adam Gregg,726,128,598
+Harrison,St. John,Governor,,REP,Kim Reynolds and Adam Gregg,408,47,361
+Harrison,Missouri Valley,Governor,,REP,Kim Reynolds and Adam Gregg,535,57,478
+Harrison,Precinct #11,Governor,,REP,Kim Reynolds and Adam Gregg,365,57,308
+Harrison,Precinct #1,Governor,,LIB,Rick Stewart and Marco Battaglia,5,1,4
+Harrison,Precinct # 2,Governor,,LIB,Rick Stewart and Marco Battaglia,2,0,2
+Harrison,Precinct #3,Governor,,LIB,Rick Stewart and Marco Battaglia,12,1,11
+Harrison,Precinct #4,Governor,,LIB,Rick Stewart and Marco Battaglia,5,1,4
+Harrison,Precinct #5,Governor,,LIB,Rick Stewart and Marco Battaglia,9,2,7
+Harrison,Precinct #6,Governor,,LIB,Rick Stewart and Marco Battaglia,12,2,10
+Harrison,Precinct #7,Governor,,LIB,Rick Stewart and Marco Battaglia,4,0,4
+Harrison,Precinct #8,Governor,,LIB,Rick Stewart and Marco Battaglia,35,6,29
+Harrison,St. John,Governor,,LIB,Rick Stewart and Marco Battaglia,7,0,7
+Harrison,Missouri Valley,Governor,,LIB,Rick Stewart and Marco Battaglia,25,3,22
+Harrison,Precinct #11,Governor,,LIB,Rick Stewart and Marco Battaglia,15,3,12
+Harrison,Precinct #1,Governor,,,Write-in,0,0,0
+Harrison,Precinct # 2,Governor,,,Write-in,0,0,0
+Harrison,Precinct #3,Governor,,,Write-in,0,0,0
+Harrison,Precinct #4,Governor,,,Write-in,2,0,2
+Harrison,Precinct #5,Governor,,,Write-in,0,0,0
+Harrison,Precinct #6,Governor,,,Write-in,1,0,1
+Harrison,Precinct #7,Governor,,,Write-in,0,0,0
+Harrison,Precinct #8,Governor,,,Write-in,1,0,1
+Harrison,St. John,Governor,,,Write-in,2,0,2
+Harrison,Missouri Valley,Governor,,,Write-in,1,0,1
+Harrison,Precinct #11,Governor,,,Write-in,0,0,0
+Harrison,Precinct #1,Secretary of State,,DEM,Joel Miller,46,11,35
+Harrison,Precinct # 2,Secretary of State,,DEM,Joel Miller,55,16,39
+Harrison,Precinct #3,Secretary of State,,DEM,Joel Miller,179,52,127
+Harrison,Precinct #4,Secretary of State,,DEM,Joel Miller,67,20,47
+Harrison,Precinct #5,Secretary of State,,DEM,Joel Miller,99,40,59
+Harrison,Precinct #6,Secretary of State,,DEM,Joel Miller,193,37,156
+Harrison,Precinct #7,Secretary of State,,DEM,Joel Miller,100,29,71
+Harrison,Precinct #8,Secretary of State,,DEM,Joel Miller,250,101,149
+Harrison,St. John,Secretary of State,,DEM,Joel Miller,153,47,106
+Harrison,Missouri Valley,Secretary of State,,DEM,Joel Miller,271,62,209
+Harrison,Precinct #11,Secretary of State,,DEM,Joel Miller,101,24,77
+Harrison,Precinct #1,Secretary of State,,REP,Paul D. Pate,70,11,59
+Harrison,Precinct # 2,Secretary of State,,REP,Paul D. Pate,207,17,190
+Harrison,Precinct #3,Secretary of State,,REP,Paul D. Pate,343,34,309
+Harrison,Precinct #4,Secretary of State,,REP,Paul D. Pate,188,19,169
+Harrison,Precinct #5,Secretary of State,,REP,Paul D. Pate,349,81,268
+Harrison,Precinct #6,Secretary of State,,REP,Paul D. Pate,527,64,463
+Harrison,Precinct #7,Secretary of State,,REP,Paul D. Pate,219,23,196
+Harrison,Precinct #8,Secretary of State,,REP,Paul D. Pate,707,123,584
+Harrison,St. John,Secretary of State,,REP,Paul D. Pate,401,52,349
+Harrison,Missouri Valley,Secretary of State,,REP,Paul D. Pate,513,51,462
+Harrison,Precinct #11,Secretary of State,,REP,Paul D. Pate,354,58,296
+Harrison,Precinct #1,Secretary of State,,,Write-in,0,0,0
+Harrison,Precinct # 2,Secretary of State,,,Write-in,0,0,0
+Harrison,Precinct #3,Secretary of State,,,Write-in,0,0,0
+Harrison,Precinct #4,Secretary of State,,,Write-in,3,0,3
+Harrison,Precinct #5,Secretary of State,,,Write-in,0,0,0
+Harrison,Precinct #6,Secretary of State,,,Write-in,1,0,1
+Harrison,Precinct #7,Secretary of State,,,Write-in,0,0,0
+Harrison,Precinct #8,Secretary of State,,,Write-in,0,0,0
+Harrison,St. John,Secretary of State,,,Write-in,2,0,2
+Harrison,Missouri Valley,Secretary of State,,,Write-in,1,0,1
+Harrison,Precinct #11,Secretary of State,,,Write-in,0,0,0
+Harrison,Precinct #1,Auditor of State,,DEM,Rob Sand,39,8,31
+Harrison,Precinct # 2,Auditor of State,,DEM,Rob Sand,52,16,36
+Harrison,Precinct #3,Auditor of State,,DEM,Rob Sand,170,51,119
+Harrison,Precinct #4,Auditor of State,,DEM,Rob Sand,64,20,44
+Harrison,Precinct #5,Auditor of State,,DEM,Rob Sand,92,37,55
+Harrison,Precinct #6,Auditor of State,,DEM,Rob Sand,200,42,158
+Harrison,Precinct #7,Auditor of State,,DEM,Rob Sand,102,29,73
+Harrison,Precinct #8,Auditor of State,,DEM,Rob Sand,248,98,150
+Harrison,St. John,Auditor of State,,DEM,Rob Sand,164,52,112
+Harrison,Missouri Valley,Auditor of State,,DEM,Rob Sand,277,62,215
+Harrison,Precinct #11,Auditor of State,,DEM,Rob Sand,100,25,75
+Harrison,Precinct #1,Auditor of State,,REP,Todd Halbur,75,14,61
+Harrison,Precinct # 2,Auditor of State,,REP,Todd Halbur,206,17,189
+Harrison,Precinct #3,Auditor of State,,REP,Todd Halbur,342,32,310
+Harrison,Precinct #4,Auditor of State,,REP,Todd Halbur,187,18,169
+Harrison,Precinct #5,Auditor of State,,REP,Todd Halbur,351,81,270
+Harrison,Precinct #6,Auditor of State,,REP,Todd Halbur,512,59,453
+Harrison,Precinct #7,Auditor of State,,REP,Todd Halbur,211,21,190
+Harrison,Precinct #8,Auditor of State,,REP,Todd Halbur,703,122,581
+Harrison,St. John,Auditor of State,,REP,Todd Halbur,385,47,338
+Harrison,Missouri Valley,Auditor of State,,REP,Todd Halbur,498,50,448
+Harrison,Precinct #11,Auditor of State,,REP,Todd Halbur,353,57,296
+Harrison,Precinct #1,Auditor of State,,,Write-in,0,0,0
+Harrison,Precinct # 2,Auditor of State,,,Write-in,0,0,0
+Harrison,Precinct #3,Auditor of State,,,Write-in,0,0,0
+Harrison,Precinct #4,Auditor of State,,,Write-in,1,0,1
+Harrison,Precinct #5,Auditor of State,,,Write-in,0,0,0
+Harrison,Precinct #6,Auditor of State,,,Write-in,0,0,0
+Harrison,Precinct #7,Auditor of State,,,Write-in,0,0,0
+Harrison,Precinct #8,Auditor of State,,,Write-in,0,0,0
+Harrison,St. John,Auditor of State,,,Write-in,1,0,1
+Harrison,Missouri Valley,Auditor of State,,,Write-in,2,0,2
+Harrison,Precinct #11,Auditor of State,,,Write-in,0,0,0
+Harrison,Precinct #1,Treasurer of State,,DEM,Michael L. Fitzgerald,45,11,34
+Harrison,Precinct # 2,Treasurer of State,,DEM,Michael L. Fitzgerald,63,17,46
+Harrison,Precinct #3,Treasurer of State,,DEM,Michael L. Fitzgerald,195,51,144
+Harrison,Precinct #4,Treasurer of State,,DEM,Michael L. Fitzgerald,83,20,63
+Harrison,Precinct #5,Treasurer of State,,DEM,Michael L. Fitzgerald,108,40,68
+Harrison,Precinct #6,Treasurer of State,,DEM,Michael L. Fitzgerald,231,44,187
+Harrison,Precinct #7,Treasurer of State,,DEM,Michael L. Fitzgerald,108,31,77
+Harrison,Precinct #8,Treasurer of State,,DEM,Michael L. Fitzgerald,289,99,190
+Harrison,St. John,Treasurer of State,,DEM,Michael L. Fitzgerald,179,53,126
+Harrison,Missouri Valley,Treasurer of State,,DEM,Michael L. Fitzgerald,291,65,226
+Harrison,Precinct #11,Treasurer of State,,DEM,Michael L. Fitzgerald,113,28,85
+Harrison,Precinct #1,Treasurer of State,,REP,Roby Smith,72,12,60
+Harrison,Precinct # 2,Treasurer of State,,REP,Roby Smith,192,16,176
+Harrison,Precinct #3,Treasurer of State,,REP,Roby Smith,319,33,286
+Harrison,Precinct #4,Treasurer of State,,REP,Roby Smith,167,18,149
+Harrison,Precinct #5,Treasurer of State,,REP,Roby Smith,337,77,260
+Harrison,Precinct #6,Treasurer of State,,REP,Roby Smith,479,57,422
+Harrison,Precinct #7,Treasurer of State,,REP,Roby Smith,207,21,186
+Harrison,Precinct #8,Treasurer of State,,REP,Roby Smith,664,123,541
+Harrison,St. John,Treasurer of State,,REP,Roby Smith,373,46,327
+Harrison,Missouri Valley,Treasurer of State,,REP,Roby Smith,482,48,434
+Harrison,Precinct #11,Treasurer of State,,REP,Roby Smith,338,53,285
+Harrison,Precinct #1,Treasurer of State,,,Write-in,0,0,0
+Harrison,Precinct # 2,Treasurer of State,,,Write-in,1,0,1
+Harrison,Precinct #3,Treasurer of State,,,Write-in,0,0,0
+Harrison,Precinct #4,Treasurer of State,,,Write-in,1,0,1
+Harrison,Precinct #5,Treasurer of State,,,Write-in,0,0,0
+Harrison,Precinct #6,Treasurer of State,,,Write-in,1,0,1
+Harrison,Precinct #7,Treasurer of State,,,Write-in,0,0,0
+Harrison,Precinct #8,Treasurer of State,,,Write-in,0,0,0
+Harrison,St. John,Treasurer of State,,,Write-in,1,0,1
+Harrison,Missouri Valley,Treasurer of State,,,Write-in,1,0,1
+Harrison,Precinct #11,Treasurer of State,,,Write-in,0,0,0
+Harrison,Precinct #1,Secretary of Agriculture,,DEM,John Norwood,40,10,30
+Harrison,Precinct # 2,Secretary of Agriculture,,DEM,John Norwood,53,16,37
+Harrison,Precinct #3,Secretary of Agriculture,,DEM,John Norwood,158,48,110
+Harrison,Precinct #4,Secretary of Agriculture,,DEM,John Norwood,62,20,42
+Harrison,Precinct #5,Secretary of Agriculture,,DEM,John Norwood,87,36,51
+Harrison,Precinct #6,Secretary of Agriculture,,DEM,John Norwood,179,38,141
+Harrison,Precinct #7,Secretary of Agriculture,,DEM,John Norwood,90,26,64
+Harrison,Precinct #8,Secretary of Agriculture,,DEM,John Norwood,236,93,143
+Harrison,St. John,Secretary of Agriculture,,DEM,John Norwood,151,49,102
+Harrison,Missouri Valley,Secretary of Agriculture,,DEM,John Norwood,258,61,197
+Harrison,Precinct #11,Secretary of Agriculture,,DEM,John Norwood,92,24,68
+Harrison,Precinct #1,Secretary of Agriculture,,REP,Mike Naig,77,12,65
+Harrison,Precinct # 2,Secretary of Agriculture,,REP,Mike Naig,210,18,192
+Harrison,Precinct #3,Secretary of Agriculture,,REP,Mike Naig,357,35,322
+Harrison,Precinct #4,Secretary of Agriculture,,REP,Mike Naig,191,19,172
+Harrison,Precinct #5,Secretary of Agriculture,,REP,Mike Naig,358,82,276
+Harrison,Precinct #6,Secretary of Agriculture,,REP,Mike Naig,533,62,471
+Harrison,Precinct #7,Secretary of Agriculture,,REP,Mike Naig,223,26,197
+Harrison,Precinct #8,Secretary of Agriculture,,REP,Mike Naig,713,127,586
+Harrison,St. John,Secretary of Agriculture,,REP,Mike Naig,400,51,349
+Harrison,Missouri Valley,Secretary of Agriculture,,REP,Mike Naig,519,50,469
+Harrison,Precinct #11,Secretary of Agriculture,,REP,Mike Naig,360,57,303
+Harrison,Precinct #1,Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,Precinct # 2,Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,Precinct #3,Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,Precinct #4,Secretary of Agriculture,,,Write-in,1,0,1
+Harrison,Precinct #5,Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,Precinct #6,Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,Precinct #7,Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,Precinct #8,Secretary of Agriculture,,,Write-in,1,0,1
+Harrison,St. John,Secretary of Agriculture,,,Write-in,1,0,1
+Harrison,Missouri Valley,Secretary of Agriculture,,,Write-in,1,0,1
+Harrison,Precinct #11,Secretary of Agriculture,,,Write-in,0,0,0
+Harrison,Precinct #1,Attorney General,,DEM,Tom Miller,43,9,34
+Harrison,Precinct # 2,Attorney General,,DEM,Tom Miller,56,16,40
+Harrison,Precinct #3,Attorney General,,DEM,Tom Miller,182,51,131
+Harrison,Precinct #4,Attorney General,,DEM,Tom Miller,78,21,57
+Harrison,Precinct #5,Attorney General,,DEM,Tom Miller,105,42,63
+Harrison,Precinct #6,Attorney General,,DEM,Tom Miller,211,43,168
+Harrison,Precinct #7,Attorney General,,DEM,Tom Miller,110,28,82
+Harrison,Precinct #8,Attorney General,,DEM,Tom Miller,279,107,172
+Harrison,St. John,Attorney General,,DEM,Tom Miller,168,53,115
+Harrison,Missouri Valley,Attorney General,,DEM,Tom Miller,278,63,215
+Harrison,Precinct #11,Attorney General,,DEM,Tom Miller,109,29,80
+Harrison,Precinct #1,Attorney General,,REP,Brenna Bird,71,14,57
+Harrison,Precinct # 2,Attorney General,,REP,Brenna Bird,205,18,187
+Harrison,Precinct #3,Attorney General,,REP,Brenna Bird,330,33,297
+Harrison,Precinct #4,Attorney General,,REP,Brenna Bird,174,17,157
+Harrison,Precinct #5,Attorney General,,REP,Brenna Bird,343,79,264
+Harrison,Precinct #6,Attorney General,,REP,Brenna Bird,501,59,442
+Harrison,Precinct #7,Attorney General,,REP,Brenna Bird,206,22,184
+Harrison,Precinct #8,Attorney General,,REP,Brenna Bird,673,116,557
+Harrison,St. John,Attorney General,,REP,Brenna Bird,380,46,334
+Harrison,Missouri Valley,Attorney General,,REP,Brenna Bird,500,50,450
+Harrison,Precinct #11,Attorney General,,REP,Brenna Bird,347,53,294
+Harrison,Precinct #1,Attorney General,,,Write-in,0,0,0
+Harrison,Precinct # 2,Attorney General,,,Write-in,0,0,0
+Harrison,Precinct #3,Attorney General,,,Write-in,0,0,0
+Harrison,Precinct #4,Attorney General,,,Write-in,1,0,1
+Harrison,Precinct #5,Attorney General,,,Write-in,0,0,0
+Harrison,Precinct #6,Attorney General,,,Write-in,1,0,1
+Harrison,Precinct #7,Attorney General,,,Write-in,1,0,1
+Harrison,Precinct #8,Attorney General,,,Write-in,0,0,0
+Harrison,St. John,Attorney General,,,Write-in,0,0,0
+Harrison,Missouri Valley,Attorney General,,,Write-in,1,0,1
+Harrison,Precinct #11,Attorney General,,,Write-in,0,0,0
+Harrison,Precinct #1,State House,15,REP,Matt W. Windschitl,93,14,79
+Harrison,Precinct # 2,State House,15,REP,Matt W. Windschitl,219,17,202
+Harrison,Precinct #3,State House,15,REP,Matt W. Windschitl,386,46,340
+Harrison,Precinct #4,State House,15,REP,Matt W. Windschitl,205,21,184
+Harrison,Precinct #5,State House,15,REP,Matt W. Windschitl,367,83,284
+Harrison,Precinct #6,State House,15,REP,Matt W. Windschitl,570,71,499
+Harrison,Precinct #7,State House,15,REP,Matt W. Windschitl,250,32,218
+Harrison,Precinct #8,State House,15,REP,Matt W. Windschitl,754,144,610
+Harrison,St. John,State House,15,REP,Matt W. Windschitl,439,61,378
+Harrison,Missouri Valley,State House,15,REP,Matt W. Windschitl,593,69,524
+Harrison,Precinct #11,State House,15,REP,Matt W. Windschitl,371,61,310
+Harrison,Precinct #1,State House,15,LIB,Robert Fairchild,20,7,13
+Harrison,Precinct # 2,State House,15,LIB,Robert Fairchild,36,12,24
+Harrison,Precinct #3,State House,15,LIB,Robert Fairchild,111,29,82
+Harrison,Precinct #4,State House,15,LIB,Robert Fairchild,46,15,31
+Harrison,Precinct #5,State House,15,LIB,Robert Fairchild,72,28,44
+Harrison,Precinct #6,State House,15,LIB,Robert Fairchild,134,20,114
+Harrison,Precinct #7,State House,15,LIB,Robert Fairchild,57,17,40
+Harrison,Precinct #8,State House,15,LIB,Robert Fairchild,180,69,111
+Harrison,St. John,State House,15,LIB,Robert Fairchild,97,28,69
+Harrison,Missouri Valley,State House,15,LIB,Robert Fairchild,154,26,128
+Harrison,Precinct #11,State House,15,LIB,Robert Fairchild,59,14,45
+Harrison,Precinct #1,State House,15,,Write-in,0,0,0
+Harrison,Precinct # 2,State House,15,,Write-in,2,0,2
+Harrison,Precinct #3,State House,15,,Write-in,6,3,3
+Harrison,Precinct #4,State House,15,,Write-in,3,0,3
+Harrison,Precinct #5,State House,15,,Write-in,3,0,3
+Harrison,Precinct #6,State House,15,,Write-in,5,1,4
+Harrison,Precinct #7,State House,15,,Write-in,2,1,1
+Harrison,Precinct #8,State House,15,,Write-in,4,1,3
+Harrison,St. John,State House,15,,Write-in,4,2,2
+Harrison,Missouri Valley,State House,15,,Write-in,4,0,4
+Harrison,Precinct #11,State House,15,,Write-in,0,0,0
+Harrison,Precinct #1,County Board of Supervisors At Large,,REP,Brian Rife,89,16,73
+Harrison,Precinct # 2,County Board of Supervisors At Large,,REP,Brian Rife,191,18,173
+Harrison,Precinct #3,County Board of Supervisors At Large,,REP,Brian Rife,234,24,210
+Harrison,Precinct #4,County Board of Supervisors At Large,,REP,Brian Rife,190,25,165
+Harrison,Precinct #5,County Board of Supervisors At Large,,REP,Brian Rife,237,52,185
+Harrison,Precinct #6,County Board of Supervisors At Large,,REP,Brian Rife,349,41,308
+Harrison,Precinct #7,County Board of Supervisors At Large,,REP,Brian Rife,213,25,188
+Harrison,Precinct #8,County Board of Supervisors At Large,,REP,Brian Rife,522,109,413
+Harrison,St. John,County Board of Supervisors At Large,,REP,Brian Rife,299,53,246
+Harrison,Missouri Valley,County Board of Supervisors At Large,,REP,Brian Rife,395,40,355
+Harrison,Precinct #11,County Board of Supervisors At Large,,REP,Brian Rife,270,43,227
+Harrison,Precinct #1,County Board of Supervisors At Large,,REP,Tony Smith,45,9,36
+Harrison,Precinct # 2,County Board of Supervisors At Large,,REP,Tony Smith,140,16,124
+Harrison,Precinct #3,County Board of Supervisors At Large,,REP,Tony Smith,359,49,310
+Harrison,Precinct #4,County Board of Supervisors At Large,,REP,Tony Smith,123,14,109
+Harrison,Precinct #5,County Board of Supervisors At Large,,REP,Tony Smith,228,50,178
+Harrison,Precinct #6,County Board of Supervisors At Large,,REP,Tony Smith,553,61,492
+Harrison,Precinct #7,County Board of Supervisors At Large,,REP,Tony Smith,150,17,133
+Harrison,Precinct #8,County Board of Supervisors At Large,,REP,Tony Smith,452,77,375
+Harrison,St. John,County Board of Supervisors At Large,,REP,Tony Smith,277,43,234
+Harrison,Missouri Valley,County Board of Supervisors At Large,,REP,Tony Smith,298,32,266
+Harrison,Precinct #11,County Board of Supervisors At Large,,REP,Tony Smith,275,40,235
+Harrison,Precinct #1,County Board of Supervisors At Large,,,Roger J. Gunderson,12,1,11
+Harrison,Precinct # 2,County Board of Supervisors At Large,,,Roger J. Gunderson,25,11,14
+Harrison,Precinct #3,County Board of Supervisors At Large,,,Roger J. Gunderson,60,14,46
+Harrison,Precinct #4,County Board of Supervisors At Large,,,Roger J. Gunderson,24,9,15
+Harrison,Precinct #5,County Board of Supervisors At Large,,,Roger J. Gunderson,34,11,23
+Harrison,Precinct #6,County Board of Supervisors At Large,,,Roger J. Gunderson,55,16,39
+Harrison,Precinct #7,County Board of Supervisors At Large,,,Roger J. Gunderson,40,8,32
+Harrison,Precinct #8,County Board of Supervisors At Large,,,Roger J. Gunderson,73,21,52
+Harrison,St. John,County Board of Supervisors At Large,,,Roger J. Gunderson,95,26,69
+Harrison,Missouri Valley,County Board of Supervisors At Large,,,Roger J. Gunderson,187,31,156
+Harrison,Precinct #11,County Board of Supervisors At Large,,,Roger J. Gunderson,63,19,44
+Harrison,Precinct #1,County Board of Supervisors At Large,,,Dan Cohrs,35,7,28
+Harrison,Precinct # 2,County Board of Supervisors At Large,,,Dan Cohrs,88,6,82
+Harrison,Precinct #3,County Board of Supervisors At Large,,,Dan Cohrs,158,24,134
+Harrison,Precinct #4,County Board of Supervisors At Large,,,Dan Cohrs,75,18,57
+Harrison,Precinct #5,County Board of Supervisors At Large,,,Dan Cohrs,216,65,151
+Harrison,Precinct #6,County Board of Supervisors At Large,,,Dan Cohrs,250,52,198
+Harrison,Precinct #7,County Board of Supervisors At Large,,,Dan Cohrs,114,26,88
+Harrison,Precinct #8,County Board of Supervisors At Large,,,Dan Cohrs,464,131,333
+Harrison,St. John,County Board of Supervisors At Large,,,Dan Cohrs,178,30,148
+Harrison,Missouri Valley,County Board of Supervisors At Large,,,Dan Cohrs,258,40,218
+Harrison,Precinct #11,County Board of Supervisors At Large,,,Dan Cohrs,113,29,84
+Harrison,Precinct #1,County Board of Supervisors At Large,,,Jerry Keizer,9,5,4
+Harrison,Precinct # 2,County Board of Supervisors At Large,,,Jerry Keizer,25,3,22
+Harrison,Precinct #3,County Board of Supervisors At Large,,,Jerry Keizer,48,13,35
+Harrison,Precinct #4,County Board of Supervisors At Large,,,Jerry Keizer,32,5,27
+Harrison,Precinct #5,County Board of Supervisors At Large,,,Jerry Keizer,57,16,41
+Harrison,Precinct #6,County Board of Supervisors At Large,,,Jerry Keizer,63,7,56
+Harrison,Precinct #7,County Board of Supervisors At Large,,,Jerry Keizer,37,8,29
+Harrison,Precinct #8,County Board of Supervisors At Large,,,Jerry Keizer,144,34,110
+Harrison,St. John,County Board of Supervisors At Large,,,Jerry Keizer,97,8,89
+Harrison,Missouri Valley,County Board of Supervisors At Large,,,Jerry Keizer,173,18,155
+Harrison,Precinct #11,County Board of Supervisors At Large,,,Jerry Keizer,31,9,22
+Harrison,Precinct #1,County Board of Supervisors At Large,,,Write-in,1,0,1
+Harrison,Precinct # 2,County Board of Supervisors At Large,,,Write-in,0,0,0
+Harrison,Precinct #3,County Board of Supervisors At Large,,,Write-in,5,0,5
+Harrison,Precinct #4,County Board of Supervisors At Large,,,Write-in,0,0,0
+Harrison,Precinct #5,County Board of Supervisors At Large,,,Write-in,1,0,1
+Harrison,Precinct #6,County Board of Supervisors At Large,,,Write-in,5,3,2
+Harrison,Precinct #7,County Board of Supervisors At Large,,,Write-in,3,1,2
+Harrison,Precinct #8,County Board of Supervisors At Large,,,Write-in,12,4,8
+Harrison,St. John,County Board of Supervisors At Large,,,Write-in,4,0,4
+Harrison,Missouri Valley,County Board of Supervisors At Large,,,Write-in,1,1,0
+Harrison,Precinct #11,County Board of Supervisors At Large,,,Write-in,3,1,2
+Harrison,Precinct #1,County Board of Supervisors At Large,,,Walter Utman,0,0,0
+Harrison,Precinct # 2,County Board of Supervisors At Large,,,Walter Utman,3,0,3
+Harrison,Precinct #3,County Board of Supervisors At Large,,,Walter Utman,1,0,1
+Harrison,Precinct #4,County Board of Supervisors At Large,,,Walter Utman,0,0,0
+Harrison,Precinct #5,County Board of Supervisors At Large,,,Walter Utman,4,4,0
+Harrison,Precinct #6,County Board of Supervisors At Large,,,Walter Utman,2,0,2
+Harrison,Precinct #7,County Board of Supervisors At Large,,,Walter Utman,3,2,1
+Harrison,Precinct #8,County Board of Supervisors At Large,,,Walter Utman,6,4,2
+Harrison,St. John,County Board of Supervisors At Large,,,Walter Utman,2,2,0
+Harrison,Missouri Valley,County Board of Supervisors At Large,,,Walter Utman,2,0,2
+Harrison,Precinct #11,County Board of Supervisors At Large,,,Walter Utman,1,0,1
+Harrison,Precinct #1,County Treasurer,,REP,Shelia K. Phillips,102,19,83
+Harrison,Precinct # 2,County Treasurer,,REP,Shelia K. Phillips,243,30,213
+Harrison,Precinct #3,County Treasurer,,REP,Shelia K. Phillips,437,57,380
+Harrison,Precinct #4,County Treasurer,,REP,Shelia K. Phillips,231,32,199
+Harrison,Precinct #5,County Treasurer,,REP,Shelia K. Phillips,403,98,305
+Harrison,Precinct #6,County Treasurer,,REP,Shelia K. Phillips,631,84,547
+Harrison,Precinct #7,County Treasurer,,REP,Shelia K. Phillips,282,41,241
+Harrison,Precinct #8,County Treasurer,,REP,Shelia K. Phillips,824,176,648
+Harrison,St. John,County Treasurer,,REP,Shelia K. Phillips,491,83,408
+Harrison,Missouri Valley,County Treasurer,,REP,Shelia K. Phillips,674,78,596
+Harrison,Precinct #11,County Treasurer,,REP,Shelia K. Phillips,416,70,346
+Harrison,Precinct #1,County Treasurer,,,Write-in,3,0,3
+Harrison,Precinct # 2,County Treasurer,,,Write-in,2,0,2
+Harrison,Precinct #3,County Treasurer,,,Write-in,11,2,9
+Harrison,Precinct #4,County Treasurer,,,Write-in,2,0,2
+Harrison,Precinct #5,County Treasurer,,,Write-in,6,3,3
+Harrison,Precinct #6,County Treasurer,,,Write-in,7,1,6
+Harrison,Precinct #7,County Treasurer,,,Write-in,4,0,4
+Harrison,Precinct #8,County Treasurer,,,Write-in,10,2,8
+Harrison,St. John,County Treasurer,,,Write-in,9,1,8
+Harrison,Missouri Valley,County Treasurer,,,Write-in,11,1,10
+Harrison,Precinct #11,County Treasurer,,,Write-in,4,0,4
+Harrison,Precinct #1,County Treasurer,,,Patricia Chumbley,0,0,0
+Harrison,Precinct # 2,County Treasurer,,,Patricia Chumbley,4,0,4
+Harrison,Precinct #3,County Treasurer,,,Patricia Chumbley,9,0,9
+Harrison,Precinct #4,County Treasurer,,,Patricia Chumbley,7,0,7
+Harrison,Precinct #5,County Treasurer,,,Patricia Chumbley,2,0,2
+Harrison,Precinct #6,County Treasurer,,,Patricia Chumbley,7,1,6
+Harrison,Precinct #7,County Treasurer,,,Patricia Chumbley,3,0,3
+Harrison,Precinct #8,County Treasurer,,,Patricia Chumbley,12,0,12
+Harrison,St. John,County Treasurer,,,Patricia Chumbley,5,0,5
+Harrison,Missouri Valley,County Treasurer,,,Patricia Chumbley,10,0,10
+Harrison,Precinct #11,County Treasurer,,,Patricia Chumbley,0,0,0
+Harrison,Precinct #1,County Recorder,,REP,Felicia Geith,102,19,83
+Harrison,Precinct # 2,County Recorder,,REP,Felicia Geith,239,25,214
+Harrison,Precinct #3,County Recorder,,REP,Felicia Geith,436,57,379
+Harrison,Precinct #4,County Recorder,,REP,Felicia Geith,232,27,205
+Harrison,Precinct #5,County Recorder,,REP,Felicia Geith,403,97,306
+Harrison,Precinct #6,County Recorder,,REP,Felicia Geith,646,81,565
+Harrison,Precinct #7,County Recorder,,REP,Felicia Geith,287,42,245
+Harrison,Precinct #8,County Recorder,,REP,Felicia Geith,839,179,660
+Harrison,St. John,County Recorder,,REP,Felicia Geith,476,74,402
+Harrison,Missouri Valley,County Recorder,,REP,Felicia Geith,681,78,603
+Harrison,Precinct #11,County Recorder,,REP,Felicia Geith,403,69,334
+Harrison,Precinct #1,County Recorder,,,Write-in,0,0,0
+Harrison,Precinct # 2,County Recorder,,,Write-in,1,0,1
+Harrison,Precinct #3,County Recorder,,,Write-in,12,2,10
+Harrison,Precinct #4,County Recorder,,,Write-in,1,0,1
+Harrison,Precinct #5,County Recorder,,,Write-in,5,1,4
+Harrison,Precinct #6,County Recorder,,,Write-in,5,2,3
+Harrison,Precinct #7,County Recorder,,,Write-in,2,0,2
+Harrison,Precinct #8,County Recorder,,,Write-in,10,1,9
+Harrison,St. John,County Recorder,,,Write-in,7,2,5
+Harrison,Missouri Valley,County Recorder,,,Write-in,11,1,10
+Harrison,Precinct #11,County Recorder,,,Write-in,2,0,2
+Harrison,Precinct #1,County Attorney,,DEM,Jennifer V. Mumm,79,17,62
+Harrison,Precinct # 2,County Attorney,,DEM,Jennifer V. Mumm,145,26,119
+Harrison,Precinct #3,County Attorney,,DEM,Jennifer V. Mumm,336,58,278
+Harrison,Precinct #4,County Attorney,,DEM,Jennifer V. Mumm,144,26,118
+Harrison,Precinct #5,County Attorney,,DEM,Jennifer V. Mumm,248,90,158
+Harrison,Precinct #6,County Attorney,,DEM,Jennifer V. Mumm,426,61,365
+Harrison,Precinct #7,County Attorney,,DEM,Jennifer V. Mumm,199,40,159
+Harrison,Precinct #8,County Attorney,,DEM,Jennifer V. Mumm,563,145,418
+Harrison,St. John,County Attorney,,DEM,Jennifer V. Mumm,364,78,286
+Harrison,Missouri Valley,County Attorney,,DEM,Jennifer V. Mumm,523,77,446
+Harrison,Precinct #11,County Attorney,,DEM,Jennifer V. Mumm,244,47,197
+Harrison,Precinct #1,County Attorney,,,Write-in,4,0,4
+Harrison,Precinct # 2,County Attorney,,,Write-in,26,0,26
+Harrison,Precinct #3,County Attorney,,,Write-in,23,2,21
+Harrison,Precinct #4,County Attorney,,,Write-in,13,0,13
+Harrison,Precinct #5,County Attorney,,,Write-in,26,2,24
+Harrison,Precinct #6,County Attorney,,,Write-in,43,2,41
+Harrison,Precinct #7,County Attorney,,,Write-in,9,0,9
+Harrison,Precinct #8,County Attorney,,,Write-in,45,4,41
+Harrison,St. John,County Attorney,,,Write-in,33,4,29
+Harrison,Missouri Valley,County Attorney,,,Write-in,55,5,50
+Harrison,Precinct #11,County Attorney,,,Write-in,10,0,10
+Harrison,Precinct #1,County Attorney,,,Ashley West-Joons,0,0,0
+Harrison,Precinct # 2,County Attorney,,,Ashley West-Joons,1,0,1
+Harrison,Precinct #3,County Attorney,,,Ashley West-Joons,0,0,0
+Harrison,Precinct #4,County Attorney,,,Ashley West-Joons,0,0,0
+Harrison,Precinct #5,County Attorney,,,Ashley West-Joons,0,0,0
+Harrison,Precinct #6,County Attorney,,,Ashley West-Joons,1,1,0
+Harrison,Precinct #7,County Attorney,,,Ashley West-Joons,1,0,1
+Harrison,Precinct #8,County Attorney,,,Ashley West-Joons,2,0,2
+Harrison,St. John,County Attorney,,,Ashley West-Joons,3,1,2
+Harrison,Missouri Valley,County Attorney,,,Ashley West-Joons,2,0,2
+Harrison,Precinct #11,County Attorney,,,Ashley West-Joons,0,0,0
+Harrison,Precinct #1,County Attorney,,,Judson Frisk,0,0,0
+Harrison,Precinct # 2,County Attorney,,,Judson Frisk,4,0,4
+Harrison,Precinct #3,County Attorney,,,Judson Frisk,1,0,1
+Harrison,Precinct #4,County Attorney,,,Judson Frisk,1,0,1
+Harrison,Precinct #5,County Attorney,,,Judson Frisk,0,0,0
+Harrison,Precinct #6,County Attorney,,,Judson Frisk,0,0,0
+Harrison,Precinct #7,County Attorney,,,Judson Frisk,2,0,2
+Harrison,Precinct #8,County Attorney,,,Judson Frisk,3,0,3
+Harrison,St. John,County Attorney,,,Judson Frisk,0,0,0
+Harrison,Missouri Valley,County Attorney,,,Judson Frisk,1,0,1
+Harrison,Precinct #11,County Attorney,,,Judson Frisk,0,0,0
+Harrison,Precinct #1,County Attorney,,,Todd Argotsinger,0,0,0
+Harrison,Precinct # 2,County Attorney,,,Todd Argotsinger,0,0,0
+Harrison,Precinct #3,County Attorney,,,Todd Argotsinger,4,0,4
+Harrison,Precinct #4,County Attorney,,,Todd Argotsinger,1,0,1
+Harrison,Precinct #5,County Attorney,,,Todd Argotsinger,0,0,0
+Harrison,Precinct #6,County Attorney,,,Todd Argotsinger,4,1,3
+Harrison,Precinct #7,County Attorney,,,Todd Argotsinger,0,0,0
+Harrison,Precinct #8,County Attorney,,,Todd Argotsinger,1,0,1
+Harrison,St. John,County Attorney,,,Todd Argotsinger,0,0,0
+Harrison,Missouri Valley,County Attorney,,,Todd Argotsinger,1,0,1
+Harrison,Precinct #11,County Attorney,,,Todd Argotsinger,0,0,0
+Harrison,Precinct # 2,Allen Township Trustee,,,Forrest H. Johnson,62,9,53
+Harrison,Precinct # 2,Allen Township Trustee,,,Write-in,0,0,0
+Harrison,Precinct # 2,Allen Township Trustee,,,Mary Noah,1,1,0
+Harrison,Precinct # 2,Allen Township Trustee,,,Jason Sherer,1,0,1
+Harrison,Precinct # 2,Allen Township Trustee,,,Mike Perkins,1,0,1
+Harrison,Precinct # 2,Allen Township Clerk,,,Russell Hansen,64,9,55
+Harrison,Precinct # 2,Allen Township Clerk,,,Write-in,0,0,0
+Harrison,Precinct #6,Boyer Township Trustee,,,James Andersen,136,11,125
+Harrison,Precinct #6,Boyer Township Trustee,,,Write-in,1,0,1
+Harrison,Precinct #6,Boyer Township Trustee,,,Andrew Moores,1,1,0
+Harrison,Precinct #6,Boyer Township Clerk,,,Connie Ball,144,13,131
+Harrison,Precinct #6,Boyer Township Clerk,,,Write-in,0,0,0
+Harrison,Precinct #5,Calhoun Township Trustee,,,Patsy Beck,112,38,74
+Harrison,Precinct #5,Calhoun Township Trustee,,,Martin W. Sertterh,93,30,63
+Harrison,Precinct #5,Calhoun Township Trustee,,,Write-in,1,0,1
+Harrison,Precinct #5,Calhoun Township Clerk,,,Lyla Olson,125,43,82
+Harrison,Precinct #5,Calhoun Township Clerk,,,Write-in,1,0,1
+Harrison,Precinct #11,Cass Township Trustee,,,Jay Johnsen,56,21,35
+Harrison,Precinct #11,Cass Township Trustee,,,Gene McGinn,43,19,24
+Harrison,Precinct #11,Cass Township Trustee,,,Write-in,0,0,0
+Harrison,Precinct #11,Cass Township Clerk,,,Cynthia Dickinson,60,22,38
+Harrison,Precinct #11,Cass Township Clerk,,,Write-in,0,0,0
+Harrison,Precinct #7,Cincinnati Township Trustee,,,Jacquelyn Marcum,62,4,58
+Harrison,Precinct #7,Cincinnati Township Trustee,,,Write-in,1,1,0
+Harrison,Precinct #7,Cincinnati Township Trustee,,,Tim Mahoney,5,0,5
+Harrison,Precinct #7,Cincinnati Township Clerk,,,Patricia Mahoney,63,4,59
+Harrison,Precinct #7,Cincinnati Township Clerk,,,Write-in,0,0,0
+Harrison,Precinct #7,Clay Township Trustee,,,Alan Hirst,35,7,28
+Harrison,Precinct #7,Clay Township Trustee,,,Kevin M. Hirst,30,6,24
+Harrison,Precinct #7,Clay Township Trustee,,,Write-in,1,1,0
+Harrison,Precinct #7,Clay Township Trustee To Fill a Vacancy,,,Tina Hirst,32,6,26
+Harrison,Precinct #7,Clay Township Trustee To Fill a Vacancy,,,Write-in,2,1,1
+Harrison,Precinct #7,Clay Township Clerk,,,Alyxandria Hirst,31,7,24
+Harrison,Precinct #7,Clay Township Clerk,,,Write-in,0,0,0
+Harrison,Precinct #3,Douglas Township Trustee,,,Gary Dickinson,56,23,33
+Harrison,Precinct #3,Douglas Township Trustee,,,Write-in,4,1,3
+Harrison,Precinct #3,Douglas Township Trustee,,,Jarrod Miller,2,0,2
+Harrison,Precinct #3,Douglas Township Clerk,,,Craig W. Kelley,60,24,36
+Harrison,Precinct #3,Douglas Township Clerk,,,Write-in,0,0,0
+Harrison,Precinct #3,Harrison Township Trustee,,,Tony Casperson,68,3,65
+Harrison,Precinct #3,Harrison Township Trustee,,,Paul Weber,78,6,72
+Harrison,Precinct #3,Harrison Township Trustee,,,Write-in,3,0,3
+Harrison,Precinct #3,Harrison Township Clerk,,,Marilyn Kepford,91,6,85
+Harrison,Precinct #3,Harrison Township Clerk,,,Write-in,0,0,0
+Harrison,Precinct # 2,Jackson Township Trustee,,,Jeff Clark,73,11,62
+Harrison,Precinct # 2,Jackson Township Trustee,,,Robert Hall,73,8,65
+Harrison,Precinct # 2,Jackson Township Trustee,,,Write-in,2,0,2
+Harrison,Precinct # 2,Jackson Township Clerk,,,James Rains,88,13,75
+Harrison,Precinct # 2,Jackson Township Clerk,,,Write-in,2,0,2
+Harrison,Precinct #8,Jefferson Township Trustee,,,Ronald Koenig,144,45,99
+Harrison,Precinct #8,Jefferson Township Trustee,,,Michael Maguire,123,45,78
+Harrison,Precinct #8,Jefferson Township Trustee,,,Write-in,0,0,0
+Harrison,Precinct #8,Jefferson Township Clerk,,,Anna Evans,152,47,105
+Harrison,Precinct #8,Jefferson Township Clerk,,,Write-in,0,0,0
+Harrison,Precinct #8,LaGrange Township Trustee,,,Ryan Kastner,139,26,113
+Harrison,Precinct #8,LaGrange Township Trustee,,,Kenneth McIntosh,198,40,158
+Harrison,Precinct #8,LaGrange Township Trustee,,,Write-in,7,0,7
+Harrison,Precinct #8,LaGrange Township Clerk,,,Kimberly A. Clark,202,38,164
+Harrison,Precinct #8,LaGrange Township Clerk,,,Write-in,3,0,3
+Harrison,Precinct #6,Lincoln Township Trustee,,,Jim Allmon,20,2,18
+Harrison,Precinct #6,Lincoln Township Trustee,,,Cade Cleveland,37,7,30
+Harrison,Precinct #6,Lincoln Township Trustee,,,Brian Donn,31,6,25
+Harrison,Precinct #6,Lincoln Township Trustee,,,Write-in,7,1,6
+Harrison,Precinct #6,Lincoln Township Clerk,,,Write-in,7,2,5
+Harrison,Precinct #6,Lincoln Township Clerk,,,Ellen Andersen,2,2,0
+Harrison,Precinct #1,Little Sioux Township Trustee,,,Lance A. Baldwin,40,9,31
+Harrison,Precinct #1,Little Sioux Township Trustee,,,Danny Mathison,40,12,28
+Harrison,Precinct #1,Little Sioux Township Trustee,,,Write-in,0,0,0
+Harrison,Precinct #1,Little Sioux Township Clerk,,,Peggy Jo Shearer,48,13,35
+Harrison,Precinct #1,Little Sioux Township Clerk,,,Write-in,0,0,0
+Harrison,Precinct #5,Magnolia Township Trustee,,,Curt Mether,166,33,133
+Harrison,Precinct #5,Magnolia Township Trustee,,,Jay D. Straight,139,33,106
+Harrison,Precinct #5,Magnolia Township Trustee,,,Write-in,6,1,5
+Harrison,Precinct #5,Magnolia Township Clerk,,,Write-in,8,0,8
+Harrison,Precinct #5,Magnolia Township Clerk,,,Ryan Wohlers,3,0,3
+Harrison,Precinct #4,Morgan Township Trustee,,,Connie Ehlert,20,5,15
+Harrison,Precinct #4,Morgan Township Trustee,,,Norm Wallis,20,5,15
+Harrison,Precinct #4,Morgan Township Trustee,,,Write-in,0,0,0
+Harrison,Precinct #4,Morgan Township Clerk,,,Larry Stevens,23,5,18
+Harrison,Precinct #4,Morgan Township Clerk,,,Write-in,0,0,0
+Harrison,Precinct #4,Raglan Township Trustee,,,D. Roger Spooner,94,20,74
+Harrison,Precinct #4,Raglan Township Trustee,,,Write-in,5,0,5
+Harrison,Precinct #4,Raglan Township Trustee,,,Michael Ruffcorn,3,2,1
+Harrison,Precinct #4,Raglan Township Trustee,,,Warren Oliver,3,1,2
+Harrison,Precinct #4,Raglan Township Clerk,,,Matthew Earlywine,89,18,71
+Harrison,Precinct #4,Raglan Township Clerk,,,Write-in,2,0,2
+Harrison,St. John,St John Township Trustee,,,Forrest D. Gochenour Jr.,431,82,349
+Harrison,St. John,St John Township Trustee,,,Lynn Goodrich,278,52,226
+Harrison,St. John,St John Township Trustee,,,Write-in,5,0,5
+Harrison,St. John,St John Township Clerk,,,Rene L. Gochenour,470,86,384
+Harrison,St. John,St John Township Clerk,,,Write-in,3,0,3
+Harrison,Precinct #7,Taylor Township Trustee,,,Mark Flint,54,11,43
+Harrison,Precinct #7,Taylor Township Trustee,,,Michael E. Stolz,71,15,56
+Harrison,Precinct #7,Taylor Township Trustee,,,Write-in,2,0,2
+Harrison,Precinct #7,Taylor Township Clerk,,,Jill Higgins,73,18,55
+Harrison,Precinct #7,Taylor Township Clerk,,,Write-in,0,0,0
+Harrison,Precinct #11,Union Township Trustee,,,Sharon Elaine Heim,75,11,64
+Harrison,Precinct #11,Union Township Trustee,,,Lynn Kline,81,11,70
+Harrison,Precinct #11,Union Township Trustee,,,Write-in,0,0,0
+Harrison,Precinct #11,Union Township Clerk,,,Jay Heim,90,11,79
+Harrison,Precinct #11,Union Township Clerk,,,Write-in,1,1,0
+Harrison,Precinct #11,Washington Township Trustee,,,Randy Zacharias,149,24,125
+Harrison,Precinct #11,Washington Township Trustee,,,Write-in,8,4,4
+Harrison,Precinct #11,Washington Township Trustee,,,Scott Dollen,4,0,4
+Harrison,Precinct #11,Washington Township Clerk,,,Lynn Stamp,152,25,127
+Harrison,Precinct #11,Washington Township Clerk,,,Write-in,4,3,1
+Harrison,Precinct #1,Soil and Water Conservation District Commissioner,,,Arthur Charles Wisecup,68,16,52
+Harrison,Precinct # 2,Soil and Water Conservation District Commissioner,,,Arthur Charles Wisecup,145,17,128
+Harrison,Precinct #3,Soil and Water Conservation District Commissioner,,,Arthur Charles Wisecup,265,34,231
+Harrison,Precinct #4,Soil and Water Conservation District Commissioner,,,Arthur Charles Wisecup,140,26,114
+Harrison,Precinct #5,Soil and Water Conservation District Commissioner,,,Arthur Charles Wisecup,268,76,192
+Harrison,Precinct #6,Soil and Water Conservation District Commissioner,,,Arthur Charles Wisecup,410,57,353
+Harrison,Precinct #7,Soil and Water Conservation District Commissioner,,,Arthur Charles Wisecup,201,29,172
+Harrison,Precinct #8,Soil and Water Conservation District Commissioner,,,Arthur Charles Wisecup,533,124,409
+Harrison,St. John,Soil and Water Conservation District Commissioner,,,Arthur Charles Wisecup,360,61,299
+Harrison,Missouri Valley,Soil and Water Conservation District Commissioner,,,Arthur Charles Wisecup,510,69,441
+Harrison,Precinct #11,Soil and Water Conservation District Commissioner,,,Arthur Charles Wisecup,224,48,176
+Harrison,Precinct #1,Soil and Water Conservation District Commissioner,,,Stephen Van Riper,40,8,32
+Harrison,Precinct # 2,Soil and Water Conservation District Commissioner,,,Stephen Van Riper,76,13,63
+Harrison,Precinct #3,Soil and Water Conservation District Commissioner,,,Stephen Van Riper,161,24,137
+Harrison,Precinct #4,Soil and Water Conservation District Commissioner,,,Stephen Van Riper,80,16,64
+Harrison,Precinct #5,Soil and Water Conservation District Commissioner,,,Stephen Van Riper,126,26,100
+Harrison,Precinct #6,Soil and Water Conservation District Commissioner,,,Stephen Van Riper,168,25,143
+Harrison,Precinct #7,Soil and Water Conservation District Commissioner,,,Stephen Van Riper,122,22,100
+Harrison,Precinct #8,Soil and Water Conservation District Commissioner,,,Stephen Van Riper,331,96,235
+Harrison,St. John,Soil and Water Conservation District Commissioner,,,Stephen Van Riper,213,42,171
+Harrison,Missouri Valley,Soil and Water Conservation District Commissioner,,,Stephen Van Riper,297,47,250
+Harrison,Precinct #11,Soil and Water Conservation District Commissioner,,,Stephen Van Riper,150,22,128
+Harrison,Precinct #1,Soil and Water Conservation District Commissioner,,,Wilbur Bruce Busing,53,9,44
+Harrison,Precinct # 2,Soil and Water Conservation District Commissioner,,,Wilbur Bruce Busing,108,13,95
+Harrison,Precinct #3,Soil and Water Conservation District Commissioner,,,Wilbur Bruce Busing,238,37,201
+Harrison,Precinct #4,Soil and Water Conservation District Commissioner,,,Wilbur Bruce Busing,109,18,91
+Harrison,Precinct #5,Soil and Water Conservation District Commissioner,,,Wilbur Bruce Busing,202,61,141
+Harrison,Precinct #6,Soil and Water Conservation District Commissioner,,,Wilbur Bruce Busing,315,39,276
+Harrison,Precinct #7,Soil and Water Conservation District Commissioner,,,Wilbur Bruce Busing,125,17,108
+Harrison,Precinct #8,Soil and Water Conservation District Commissioner,,,Wilbur Bruce Busing,422,100,322
+Harrison,St. John,Soil and Water Conservation District Commissioner,,,Wilbur Bruce Busing,207,44,163
+Harrison,Missouri Valley,Soil and Water Conservation District Commissioner,,,Wilbur Bruce Busing,305,40,265
+Harrison,Precinct #11,Soil and Water Conservation District Commissioner,,,Wilbur Bruce Busing,213,43,170
+Harrison,Precinct #1,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Harrison,Precinct # 2,Soil and Water Conservation District Commissioner,,,Write-in,5,0,5
+Harrison,Precinct #3,Soil and Water Conservation District Commissioner,,,Write-in,3,0,3
+Harrison,Precinct #4,Soil and Water Conservation District Commissioner,,,Write-in,5,0,5
+Harrison,Precinct #5,Soil and Water Conservation District Commissioner,,,Write-in,6,2,4
+Harrison,Precinct #6,Soil and Water Conservation District Commissioner,,,Write-in,2,1,1
+Harrison,Precinct #7,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Harrison,Precinct #8,Soil and Water Conservation District Commissioner,,,Write-in,6,0,6
+Harrison,St. John,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Harrison,Missouri Valley,Soil and Water Conservation District Commissioner,,,Write-in,7,0,7
+Harrison,Precinct #11,Soil and Water Conservation District Commissioner,,,Write-in,3,1,2
+Harrison,Precinct #1,County Agricultural Extension Council Member,,,Amanda Lawrenson,78,15,63
+Harrison,Precinct # 2,County Agricultural Extension Council Member,,,Amanda Lawrenson,173,22,151
+Harrison,Precinct #3,County Agricultural Extension Council Member,,,Amanda Lawrenson,270,39,231
+Harrison,Precinct #4,County Agricultural Extension Council Member,,,Amanda Lawrenson,174,26,148
+Harrison,Precinct #5,County Agricultural Extension Council Member,,,Amanda Lawrenson,233,56,177
+Harrison,Precinct #6,County Agricultural Extension Council Member,,,Amanda Lawrenson,346,50,296
+Harrison,Precinct #7,County Agricultural Extension Council Member,,,Amanda Lawrenson,202,29,173
+Harrison,Precinct #8,County Agricultural Extension Council Member,,,Amanda Lawrenson,480,129,351
+Harrison,St. John,County Agricultural Extension Council Member,,,Amanda Lawrenson,302,60,242
+Harrison,Missouri Valley,County Agricultural Extension Council Member,,,Amanda Lawrenson,410,57,353
+Harrison,Precinct #11,County Agricultural Extension Council Member,,,Amanda Lawrenson,244,49,195
+Harrison,Precinct #1,County Agricultural Extension Council Member,,,Jamie Straight Myer,63,13,50
+Harrison,Precinct # 2,County Agricultural Extension Council Member,,,Jamie Straight Myer,138,18,120
+Harrison,Precinct #3,County Agricultural Extension Council Member,,,Jamie Straight Myer,284,36,248
+Harrison,Precinct #4,County Agricultural Extension Council Member,,,Jamie Straight Myer,154,23,131
+Harrison,Precinct #5,County Agricultural Extension Council Member,,,Jamie Straight Myer,287,77,210
+Harrison,Precinct #6,County Agricultural Extension Council Member,,,Jamie Straight Myer,397,58,339
+Harrison,Precinct #7,County Agricultural Extension Council Member,,,Jamie Straight Myer,188,27,161
+Harrison,Precinct #8,County Agricultural Extension Council Member,,,Jamie Straight Myer,608,130,478
+Harrison,St. John,County Agricultural Extension Council Member,,,Jamie Straight Myer,300,59,241
+Harrison,Missouri Valley,County Agricultural Extension Council Member,,,Jamie Straight Myer,440,63,377
+Harrison,Precinct #11,County Agricultural Extension Council Member,,,Jamie Straight Myer,254,49,205
+Harrison,Precinct #1,County Agricultural Extension Council Member,,,Kara Dickinson,59,11,48
+Harrison,Precinct # 2,County Agricultural Extension Council Member,,,Kara Dickinson,131,18,113
+Harrison,Precinct #3,County Agricultural Extension Council Member,,,Kara Dickinson,288,39,249
+Harrison,Precinct #4,County Agricultural Extension Council Member,,,Kara Dickinson,140,25,115
+Harrison,Precinct #5,County Agricultural Extension Council Member,,,Kara Dickinson,237,63,174
+Harrison,Precinct #6,County Agricultural Extension Council Member,,,Kara Dickinson,365,51,314
+Harrison,Precinct #7,County Agricultural Extension Council Member,,,Kara Dickinson,173,28,145
+Harrison,Precinct #8,County Agricultural Extension Council Member,,,Kara Dickinson,527,124,403
+Harrison,St. John,County Agricultural Extension Council Member,,,Kara Dickinson,299,59,240
+Harrison,Missouri Valley,County Agricultural Extension Council Member,,,Kara Dickinson,410,56,354
+Harrison,Precinct #11,County Agricultural Extension Council Member,,,Kara Dickinson,251,51,200
+Harrison,Precinct #1,County Agricultural Extension Council Member,,,Deborah Mether,64,14,50
+Harrison,Precinct # 2,County Agricultural Extension Council Member,,,Deborah Mether,142,22,120
+Harrison,Precinct #3,County Agricultural Extension Council Member,,,Deborah Mether,281,39,242
+Harrison,Precinct #4,County Agricultural Extension Council Member,,,Deborah Mether,140,24,116
+Harrison,Precinct #5,County Agricultural Extension Council Member,,,Deborah Mether,272,74,198
+Harrison,Precinct #6,County Agricultural Extension Council Member,,,Deborah Mether,384,52,332
+Harrison,Precinct #7,County Agricultural Extension Council Member,,,Deborah Mether,179,27,152
+Harrison,Precinct #8,County Agricultural Extension Council Member,,,Deborah Mether,524,131,393
+Harrison,St. John,County Agricultural Extension Council Member,,,Deborah Mether,283,58,225
+Harrison,Missouri Valley,County Agricultural Extension Council Member,,,Deborah Mether,389,53,336
+Harrison,Precinct #11,County Agricultural Extension Council Member,,,Deborah Mether,227,45,182
+Harrison,Precinct #1,County Agricultural Extension Council Member,,,Andy Dickinson,69,13,56
+Harrison,Precinct # 2,County Agricultural Extension Council Member,,,Andy Dickinson,153,17,136
+Harrison,Precinct #3,County Agricultural Extension Council Member,,,Andy Dickinson,317,37,280
+Harrison,Precinct #4,County Agricultural Extension Council Member,,,Andy Dickinson,136,22,114
+Harrison,Precinct #5,County Agricultural Extension Council Member,,,Andy Dickinson,237,54,183
+Harrison,Precinct #6,County Agricultural Extension Council Member,,,Andy Dickinson,484,64,420
+Harrison,Precinct #7,County Agricultural Extension Council Member,,,Andy Dickinson,180,25,155
+Harrison,Precinct #8,County Agricultural Extension Council Member,,,Andy Dickinson,540,122,418
+Harrison,St. John,County Agricultural Extension Council Member,,,Andy Dickinson,282,55,227
+Harrison,Missouri Valley,County Agricultural Extension Council Member,,,Andy Dickinson,408,57,351
+Harrison,Precinct #11,County Agricultural Extension Council Member,,,Andy Dickinson,270,52,218
+Harrison,Precinct #1,County Agricultural Extension Council Member,,,Write-in,3,0,3
+Harrison,Precinct # 2,County Agricultural Extension Council Member,,,Write-in,10,0,10
+Harrison,Precinct #3,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Harrison,Precinct #4,County Agricultural Extension Council Member,,,Write-in,6,0,6
+Harrison,Precinct #5,County Agricultural Extension Council Member,,,Write-in,5,0,5
+Harrison,Precinct #6,County Agricultural Extension Council Member,,,Write-in,6,2,4
+Harrison,Precinct #7,County Agricultural Extension Council Member,,,Write-in,4,0,4
+Harrison,Precinct #8,County Agricultural Extension Council Member,,,Write-in,7,0,7
+Harrison,St. John,County Agricultural Extension Council Member,,,Write-in,5,0,5
+Harrison,Missouri Valley,County Agricultural Extension Council Member,,,Write-in,21,1,20
+Harrison,Precinct #11,County Agricultural Extension Council Member,,,Write-in,6,0,6
+Harrison,Precinct #1,Supreme Court Justice,,,Yes,51,14,37
+Harrison,Precinct # 2,Supreme Court Justice,,,Yes,134,11,123
+Harrison,Precinct #3,Supreme Court Justice,,,Yes,235,31,204
+Harrison,Precinct #4,Supreme Court Justice,,,Yes,116,16,100
+Harrison,Precinct #5,Supreme Court Justice,,,Yes,184,53,131
+Harrison,Precinct #6,Supreme Court Justice,,,Yes,326,46,280
+Harrison,Precinct #7,Supreme Court Justice,,,Yes,137,22,115
+Harrison,Precinct #8,Supreme Court Justice,,,Yes,443,90,353
+Harrison,St. John,Supreme Court Justice,,,Yes,260,49,211
+Harrison,Missouri Valley,Supreme Court Justice,,,Yes,360,47,313
+Harrison,Precinct #11,Supreme Court Justice,,,Yes,209,27,182
+Harrison,Precinct #1,Supreme Court Justice,,,No,37,4,33
+Harrison,Precinct # 2,Supreme Court Justice,,,No,69,14,55
+Harrison,Precinct #3,Supreme Court Justice,,,No,160,26,134
+Harrison,Precinct #4,Supreme Court Justice,,,No,79,11,68
+Harrison,Precinct #5,Supreme Court Justice,,,No,136,33,103
+Harrison,Precinct #6,Supreme Court Justice,,,No,205,24,181
+Harrison,Precinct #7,Supreme Court Justice,,,No,109,22,87
+Harrison,Precinct #8,Supreme Court Justice,,,No,282,82,200
+Harrison,St. John,Supreme Court Justice,,,No,155,32,123
+Harrison,Missouri Valley,Supreme Court Justice,,,No,242,34,208
+Harrison,Precinct #11,Supreme Court Justice,,,No,128,27,101
+Harrison,Precinct #1,Court of Appeals Judge,,,Yes,57,12,45
+Harrison,Precinct # 2,Court of Appeals Judge,,,Yes,121,13,108
+Harrison,Precinct #3,Court of Appeals Judge,,,Yes,242,35,207
+Harrison,Precinct #4,Court of Appeals Judge,,,Yes,114,15,99
+Harrison,Precinct #5,Court of Appeals Judge,,,Yes,184,54,130
+Harrison,Precinct #6,Court of Appeals Judge,,,Yes,336,48,288
+Harrison,Precinct #7,Court of Appeals Judge,,,Yes,145,23,122
+Harrison,Precinct #8,Court of Appeals Judge,,,Yes,436,85,351
+Harrison,St. John,Court of Appeals Judge,,,Yes,253,50,203
+Harrison,Missouri Valley,Court of Appeals Judge,,,Yes,364,48,316
+Harrison,Precinct #11,Court of Appeals Judge,,,Yes,203,28,175
+Harrison,Precinct #1,Court of Appeals Judge,,,No,32,5,27
+Harrison,Precinct # 2,Court of Appeals Judge,,,No,74,12,62
+Harrison,Precinct #3,Court of Appeals Judge,,,No,150,25,125
+Harrison,Precinct #4,Court of Appeals Judge,,,No,80,11,69
+Harrison,Precinct #5,Court of Appeals Judge,,,No,128,28,100
+Harrison,Precinct #6,Court of Appeals Judge,,,No,191,23,168
+Harrison,Precinct #7,Court of Appeals Judge,,,No,105,22,83
+Harrison,Precinct #8,Court of Appeals Judge,,,No,277,80,197
+Harrison,St. John,Court of Appeals Judge,,,No,145,27,118
+Harrison,Missouri Valley,Court of Appeals Judge,,,No,230,32,198
+Harrison,Precinct #11,Court of Appeals Judge,,,No,125,25,100
+Harrison,Precinct #1,District 4 Judge,,,Yes,54,10,44
+Harrison,Precinct # 2,District 4 Judge,,,Yes,134,18,116
+Harrison,Precinct #3,District 4 Judge,,,Yes,253,34,219
+Harrison,Precinct #4,District 4 Judge,,,Yes,127,22,105
+Harrison,Precinct #5,District 4 Judge,,,Yes,198,59,139
+Harrison,Precinct #6,District 4 Judge,,,Yes,348,48,300
+Harrison,Precinct #7,District 4 Judge,,,Yes,153,23,130
+Harrison,Precinct #8,District 4 Judge,,,Yes,464,109,355
+Harrison,St. John,District 4 Judge,,,Yes,268,55,213
+Harrison,Missouri Valley,District 4 Judge,,,Yes,372,51,321
+Harrison,Precinct #11,District 4 Judge,,,Yes,217,35,182
+Harrison,Precinct #1,District 4 Judge,,,No,36,8,28
+Harrison,Precinct # 2,District 4 Judge,,,No,62,7,55
+Harrison,Precinct #3,District 4 Judge,,,No,149,25,124
+Harrison,Precinct #4,District 4 Judge,,,No,69,8,61
+Harrison,Precinct #5,District 4 Judge,,,No,127,31,96
+Harrison,Precinct #6,District 4 Judge,,,No,193,25,168
+Harrison,Precinct #7,District 4 Judge,,,No,102,22,80
+Harrison,Precinct #8,District 4 Judge,,,No,253,62,191
+Harrison,St. John,District 4 Judge,,,No,134,20,114
+Harrison,Missouri Valley,District 4 Judge,,,No,225,31,194
+Harrison,Precinct #11,District 4 Judge,,,No,119,22,97
+Harrison,Precinct #1,District 4 Associate Judge,,,Yes,57,12,45
+Harrison,Precinct # 2,District 4 Associate Judge,,,Yes,135,18,117
+Harrison,Precinct #3,District 4 Associate Judge,,,Yes,248,35,213
+Harrison,Precinct #4,District 4 Associate Judge,,,Yes,131,18,113
+Harrison,Precinct #5,District 4 Associate Judge,,,Yes,184,48,136
+Harrison,Precinct #6,District 4 Associate Judge,,,Yes,344,44,300
+Harrison,Precinct #7,District 4 Associate Judge,,,Yes,155,24,131
+Harrison,Precinct #8,District 4 Associate Judge,,,Yes,459,104,355
+Harrison,St. John,District 4 Associate Judge,,,Yes,271,56,215
+Harrison,Missouri Valley,District 4 Associate Judge,,,Yes,394,54,340
+Harrison,Precinct #11,District 4 Associate Judge,,,Yes,223,34,189
+Harrison,Precinct #1,District 4 Associate Judge,,,No,34,6,28
+Harrison,Precinct # 2,District 4 Associate Judge,,,No,64,7,57
+Harrison,Precinct #3,District 4 Associate Judge,,,No,152,24,128
+Harrison,Precinct #4,District 4 Associate Judge,,,No,69,10,59
+Harrison,Precinct #5,District 4 Associate Judge,,,No,138,35,103
+Harrison,Precinct #6,District 4 Associate Judge,,,No,193,26,167
+Harrison,Precinct #7,District 4 Associate Judge,,,No,102,21,81
+Harrison,Precinct #8,District 4 Associate Judge,,,No,268,70,198
+Harrison,St. John,District 4 Associate Judge,,,No,138,21,117
+Harrison,Missouri Valley,District 4 Associate Judge,,,No,218,29,189
+Harrison,Precinct #11,District 4 Associate Judge,,,No,121,22,99
+Harrison,Precinct #1,Constitutional Amendment 1,,,Yes,94,16,78
+Harrison,Precinct # 2,Constitutional Amendment 1,,,Yes,231,18,213
+Harrison,Precinct #3,Constitutional Amendment 1,,,Yes,391,45,346
+Harrison,Precinct #4,Constitutional Amendment 1,,,Yes,212,26,186
+Harrison,Precinct #5,Constitutional Amendment 1,,,Yes,385,86,299
+Harrison,Precinct #6,Constitutional Amendment 1,,,Yes,569,73,496
+Harrison,Precinct #7,Constitutional Amendment 1,,,Yes,250,27,223
+Harrison,Precinct #8,Constitutional Amendment 1,,,Yes,760,143,617
+Harrison,St. John,Constitutional Amendment 1,,,Yes,434,61,373
+Harrison,Missouri Valley,Constitutional Amendment 1,,,Yes,587,68,519
+Harrison,Precinct #11,Constitutional Amendment 1,,,Yes,370,60,310
+Harrison,Precinct #1,Constitutional Amendment 1,,,No,21,7,14
+Harrison,Precinct # 2,Constitutional Amendment 1,,,No,33,14,19
+Harrison,Precinct #3,Constitutional Amendment 1,,,No,106,38,68
+Harrison,Precinct #4,Constitutional Amendment 1,,,No,41,14,27
+Harrison,Precinct #5,Constitutional Amendment 1,,,No,61,28,33
+Harrison,Precinct #6,Constitutional Amendment 1,,,No,129,24,105
+Harrison,Precinct #7,Constitutional Amendment 1,,,No,62,21,41
+Harrison,Precinct #8,Constitutional Amendment 1,,,No,181,81,100
+Harrison,St. John,Constitutional Amendment 1,,,No,94,31,63
+Harrison,Missouri Valley,Constitutional Amendment 1,,,No,171,43,128
+Harrison,Precinct #11,Constitutional Amendment 1,,,No,75,19,56

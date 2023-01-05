@@ -1,0 +1,486 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Davis,BLOOMFIELD,U.S. Senate,,REP,Chuck Grassley,622,190,432
+Davis,CENTRAL,U.S. Senate,,REP,Chuck Grassley,386,110,276
+Davis,NORTHEAST,U.S. Senate,,REP,Chuck Grassley,369,76,293
+Davis,NORTHWEST,U.S. Senate,,REP,Chuck Grassley,342,70,272
+Davis,SOUTHEAST,U.S. Senate,,REP,Chuck Grassley,324,51,273
+Davis,SOUTHWEST,U.S. Senate,,REP,Chuck Grassley,163,27,136
+Davis,BLOOMFIELD,U.S. Senate,,DEM,Michael Franken,321,153,168
+Davis,CENTRAL,U.S. Senate,,DEM,Michael Franken,140,64,76
+Davis,NORTHEAST,U.S. Senate,,DEM,Michael Franken,101,39,62
+Davis,NORTHWEST,U.S. Senate,,DEM,Michael Franken,86,41,45
+Davis,SOUTHEAST,U.S. Senate,,DEM,Michael Franken,66,24,42
+Davis,SOUTHWEST,U.S. Senate,,DEM,Michael Franken,50,24,26
+Davis,BLOOMFIELD,U.S. Senate,,,Write-in,0,0,0
+Davis,CENTRAL,U.S. Senate,,,Write-in,1,1,0
+Davis,NORTHEAST,U.S. Senate,,,Write-in,0,0,0
+Davis,NORTHWEST,U.S. Senate,,,Write-in,1,0,1
+Davis,SOUTHEAST,U.S. Senate,,,Write-in,1,0,1
+Davis,SOUTHWEST,U.S. Senate,,,Write-in,0,0,0
+Davis,BLOOMFIELD,U.S. House,3,REP,Zach Nunn,590,177,413
+Davis,CENTRAL,U.S. House,3,REP,Zach Nunn,368,102,266
+Davis,NORTHEAST,U.S. House,3,REP,Zach Nunn,366,72,294
+Davis,NORTHWEST,U.S. House,3,REP,Zach Nunn,332,66,266
+Davis,SOUTHEAST,U.S. House,3,REP,Zach Nunn,319,47,272
+Davis,SOUTHWEST,U.S. House,3,REP,Zach Nunn,158,27,131
+Davis,BLOOMFIELD,U.S. House,3,DEM,Cindy Axne,347,165,182
+Davis,CENTRAL,U.S. House,3,DEM,Cindy Axne,152,71,81
+Davis,NORTHEAST,U.S. House,3,DEM,Cindy Axne,99,41,58
+Davis,NORTHWEST,U.S. House,3,DEM,Cindy Axne,94,43,51
+Davis,SOUTHEAST,U.S. House,3,DEM,Cindy Axne,68,27,41
+Davis,SOUTHWEST,U.S. House,3,DEM,Cindy Axne,53,24,29
+Davis,BLOOMFIELD,U.S. House,3,,Write-in,1,0,1
+Davis,CENTRAL,U.S. House,3,,Write-in,0,0,0
+Davis,NORTHEAST,U.S. House,3,,Write-in,0,0,0
+Davis,NORTHWEST,U.S. House,3,,Write-in,0,0,0
+Davis,SOUTHEAST,U.S. House,3,,Write-in,0,0,0
+Davis,SOUTHWEST,U.S. House,3,,Write-in,1,0,1
+Davis,BLOOMFIELD,Governor,,REP,Kim Reynolds and Adam Gregg,662,208,454
+Davis,CENTRAL,Governor,,REP,Kim Reynolds and Adam Gregg,419,124,295
+Davis,NORTHEAST,Governor,,REP,Kim Reynolds and Adam Gregg,387,74,313
+Davis,NORTHWEST,Governor,,REP,Kim Reynolds and Adam Gregg,357,75,282
+Davis,SOUTHEAST,Governor,,REP,Kim Reynolds and Adam Gregg,340,48,292
+Davis,SOUTHWEST,Governor,,REP,Kim Reynolds and Adam Gregg,173,35,138
+Davis,BLOOMFIELD,Governor,,DEM,Deidre DeJear and Eric Van Lancker,274,135,139
+Davis,CENTRAL,Governor,,DEM,Deidre DeJear and Eric Van Lancker,104,52,52
+Davis,NORTHEAST,Governor,,DEM,Deidre DeJear and Eric Van Lancker,81,39,42
+Davis,NORTHWEST,Governor,,DEM,Deidre DeJear and Eric Van Lancker,77,38,39
+Davis,SOUTHEAST,Governor,,DEM,Deidre DeJear and Eric Van Lancker,52,26,26
+Davis,SOUTHWEST,Governor,,DEM,Deidre DeJear and Eric Van Lancker,38,17,21
+Davis,BLOOMFIELD,Governor,,LIB,Rick Stewart and Marco Battaglia,26,10,16
+Davis,CENTRAL,Governor,,LIB,Rick Stewart and Marco Battaglia,11,3,8
+Davis,NORTHEAST,Governor,,LIB,Rick Stewart and Marco Battaglia,7,1,6
+Davis,NORTHWEST,Governor,,LIB,Rick Stewart and Marco Battaglia,6,2,4
+Davis,SOUTHEAST,Governor,,LIB,Rick Stewart and Marco Battaglia,9,1,8
+Davis,SOUTHWEST,Governor,,LIB,Rick Stewart and Marco Battaglia,6,0,6
+Davis,BLOOMFIELD,Governor,,,Write-in,0,0,0
+Davis,CENTRAL,Governor,,,Write-in,0,0,0
+Davis,NORTHEAST,Governor,,,Write-in,0,0,0
+Davis,NORTHWEST,Governor,,,Write-in,0,0,0
+Davis,SOUTHEAST,Governor,,,Write-in,0,0,0
+Davis,SOUTHWEST,Governor,,,Write-in,0,0,0
+Davis,BLOOMFIELD,Secretary of State,,REP,Paul D. Pate,649,208,441
+Davis,CENTRAL,Secretary of State,,REP,Paul D. Pate,404,119,285
+Davis,NORTHEAST,Secretary of State,,REP,Paul D. Pate,372,72,300
+Davis,NORTHWEST,Secretary of State,,REP,Paul D. Pate,352,75,277
+Davis,SOUTHEAST,Secretary of State,,REP,Paul D. Pate,332,51,281
+Davis,SOUTHWEST,Secretary of State,,REP,Paul D. Pate,170,31,139
+Davis,BLOOMFIELD,Secretary of State,,DEM,Joel Miller,296,138,158
+Davis,CENTRAL,Secretary of State,,DEM,Joel Miller,119,54,65
+Davis,NORTHEAST,Secretary of State,,DEM,Joel Miller,99,40,59
+Davis,NORTHWEST,Secretary of State,,DEM,Joel Miller,83,38,45
+Davis,SOUTHEAST,Secretary of State,,DEM,Joel Miller,58,23,35
+Davis,SOUTHWEST,Secretary of State,,DEM,Joel Miller,45,20,25
+Davis,BLOOMFIELD,Secretary of State,,,Write-in,0,0,0
+Davis,CENTRAL,Secretary of State,,,Write-in,0,0,0
+Davis,NORTHEAST,Secretary of State,,,Write-in,0,0,0
+Davis,NORTHWEST,Secretary of State,,,Write-in,0,0,0
+Davis,SOUTHEAST,Secretary of State,,,Write-in,0,0,0
+Davis,SOUTHWEST,Secretary of State,,,Write-in,0,0,0
+Davis,BLOOMFIELD,Auditor of State,,REP,Todd Halbur,559,171,388
+Davis,CENTRAL,Auditor of State,,REP,Todd Halbur,358,95,263
+Davis,NORTHEAST,Auditor of State,,REP,Todd Halbur,342,64,278
+Davis,NORTHWEST,Auditor of State,,REP,Todd Halbur,327,65,262
+Davis,SOUTHEAST,Auditor of State,,REP,Todd Halbur,302,46,256
+Davis,SOUTHWEST,Auditor of State,,REP,Todd Halbur,151,25,126
+Davis,BLOOMFIELD,Auditor of State,,DEM,Rob Sand,386,172,214
+Davis,CENTRAL,Auditor of State,,DEM,Rob Sand,164,77,87
+Davis,NORTHEAST,Auditor of State,,DEM,Rob Sand,122,46,76
+Davis,NORTHWEST,Auditor of State,,DEM,Rob Sand,102,47,55
+Davis,SOUTHEAST,Auditor of State,,DEM,Rob Sand,85,27,58
+Davis,SOUTHWEST,Auditor of State,,DEM,Rob Sand,59,25,34
+Davis,BLOOMFIELD,Auditor of State,,,Write-in,0,0,0
+Davis,CENTRAL,Auditor of State,,,Write-in,0,0,0
+Davis,NORTHEAST,Auditor of State,,,Write-in,0,0,0
+Davis,NORTHWEST,Auditor of State,,,Write-in,0,0,0
+Davis,SOUTHEAST,Auditor of State,,,Write-in,1,0,1
+Davis,SOUTHWEST,Auditor of State,,,Write-in,0,0,0
+Davis,BLOOMFIELD,Treasurer of State,,REP,Roby Smith,511,158,353
+Davis,CENTRAL,Treasurer of State,,REP,Roby Smith,338,92,246
+Davis,NORTHEAST,Treasurer of State,,REP,Roby Smith,333,63,270
+Davis,NORTHWEST,Treasurer of State,,REP,Roby Smith,316,65,251
+Davis,SOUTHEAST,Treasurer of State,,REP,Roby Smith,301,44,257
+Davis,SOUTHWEST,Treasurer of State,,REP,Roby Smith,152,25,127
+Davis,BLOOMFIELD,Treasurer of State,,DEM,Michael L. Fitzgerald,433,185,248
+Davis,CENTRAL,Treasurer of State,,DEM,Michael L. Fitzgerald,191,84,107
+Davis,NORTHEAST,Treasurer of State,,DEM,Michael L. Fitzgerald,133,49,84
+Davis,NORTHWEST,Treasurer of State,,DEM,Michael L. Fitzgerald,121,48,73
+Davis,SOUTHEAST,Treasurer of State,,DEM,Michael L. Fitzgerald,94,32,62
+Davis,SOUTHWEST,Treasurer of State,,DEM,Michael L. Fitzgerald,61,26,35
+Davis,BLOOMFIELD,Treasurer of State,,,Write-in,0,0,0
+Davis,CENTRAL,Treasurer of State,,,Write-in,1,1,0
+Davis,NORTHEAST,Treasurer of State,,,Write-in,1,0,1
+Davis,NORTHWEST,Treasurer of State,,,Write-in,0,0,0
+Davis,SOUTHEAST,Treasurer of State,,,Write-in,0,0,0
+Davis,SOUTHWEST,Treasurer of State,,,Write-in,0,0,0
+Davis,BLOOMFIELD,Secretary of Agriculture,,REP,Mike Naig,670,209,461
+Davis,CENTRAL,Secretary of Agriculture,,REP,Mike Naig,413,121,292
+Davis,NORTHEAST,Secretary of Agriculture,,REP,Mike Naig,377,74,303
+Davis,NORTHWEST,Secretary of Agriculture,,REP,Mike Naig,355,78,277
+Davis,SOUTHEAST,Secretary of Agriculture,,REP,Mike Naig,335,50,285
+Davis,SOUTHWEST,Secretary of Agriculture,,REP,Mike Naig,167,32,135
+Davis,BLOOMFIELD,Secretary of Agriculture,,DEM,John Norwood,271,133,138
+Davis,CENTRAL,Secretary of Agriculture,,DEM,John Norwood,111,52,59
+Davis,NORTHEAST,Secretary of Agriculture,,DEM,John Norwood,92,39,53
+Davis,NORTHWEST,Secretary of Agriculture,,DEM,John Norwood,79,36,43
+Davis,SOUTHEAST,Secretary of Agriculture,,DEM,John Norwood,56,23,33
+Davis,SOUTHWEST,Secretary of Agriculture,,DEM,John Norwood,45,20,25
+Davis,BLOOMFIELD,Secretary of Agriculture,,,Write-in,0,0,0
+Davis,CENTRAL,Secretary of Agriculture,,,Write-in,0,0,0
+Davis,NORTHEAST,Secretary of Agriculture,,,Write-in,0,0,0
+Davis,NORTHWEST,Secretary of Agriculture,,,Write-in,0,0,0
+Davis,SOUTHEAST,Secretary of Agriculture,,,Write-in,0,0,0
+Davis,SOUTHWEST,Secretary of Agriculture,,,Write-in,0,0,0
+Davis,BLOOMFIELD,Attorney General,,REP,Brenna Bird,535,158,377
+Davis,CENTRAL,Attorney General,,REP,Brenna Bird,346,91,255
+Davis,NORTHEAST,Attorney General,,REP,Brenna Bird,340,65,275
+Davis,NORTHWEST,Attorney General,,REP,Brenna Bird,322,60,262
+Davis,SOUTHEAST,Attorney General,,REP,Brenna Bird,299,44,255
+Davis,SOUTHWEST,Attorney General,,REP,Brenna Bird,151,28,123
+Davis,BLOOMFIELD,Attorney General,,DEM,Tom Miller,404,188,216
+Davis,CENTRAL,Attorney General,,DEM,Tom Miller,167,78,89
+Davis,NORTHEAST,Attorney General,,DEM,Tom Miller,129,49,80
+Davis,NORTHWEST,Attorney General,,DEM,Tom Miller,115,54,61
+Davis,SOUTHEAST,Attorney General,,DEM,Tom Miller,90,30,60
+Davis,SOUTHWEST,Attorney General,,DEM,Tom Miller,61,24,37
+Davis,BLOOMFIELD,Attorney General,,,Write-in,1,0,1
+Davis,CENTRAL,Attorney General,,,Write-in,1,0,1
+Davis,NORTHEAST,Attorney General,,,Write-in,0,0,0
+Davis,NORTHWEST,Attorney General,,,Write-in,0,0,0
+Davis,SOUTHEAST,Attorney General,,,Write-in,0,0,0
+Davis,SOUTHWEST,Attorney General,,,Write-in,0,0,0
+Davis,BLOOMFIELD,State Senate,13,REP,Cherielynn Westrich,517,155,362
+Davis,CENTRAL,State Senate,13,REP,Cherielynn Westrich,339,90,249
+Davis,NORTHEAST,State Senate,13,REP,Cherielynn Westrich,327,65,262
+Davis,NORTHWEST,State Senate,13,REP,Cherielynn Westrich,315,66,249
+Davis,SOUTHEAST,State Senate,13,REP,Cherielynn Westrich,298,43,255
+Davis,SOUTHWEST,State Senate,13,REP,Cherielynn Westrich,144,25,119
+Davis,BLOOMFIELD,State Senate,13,DEM,Matt Greiner,434,192,242
+Davis,CENTRAL,State Senate,13,DEM,Matt Greiner,187,84,103
+Davis,NORTHEAST,State Senate,13,DEM,Matt Greiner,144,48,96
+Davis,NORTHWEST,State Senate,13,DEM,Matt Greiner,121,46,75
+Davis,SOUTHEAST,State Senate,13,DEM,Matt Greiner,100,32,68
+Davis,SOUTHWEST,State Senate,13,DEM,Matt Greiner,72,27,45
+Davis,BLOOMFIELD,State Senate,13,,Write-in,0,0,0
+Davis,CENTRAL,State Senate,13,,Write-in,1,1,0
+Davis,NORTHEAST,State Senate,13,,Write-in,0,0,0
+Davis,NORTHWEST,State Senate,13,,Write-in,0,0,0
+Davis,SOUTHEAST,State Senate,13,,Write-in,0,0,0
+Davis,SOUTHWEST,State Senate,13,,Write-in,0,0,0
+Davis,BLOOMFIELD,State House,26,REP,Austin Harris,775,263,512
+Davis,CENTRAL,State House,26,REP,Austin Harris,439,130,309
+Davis,NORTHEAST,State House,26,REP,Austin Harris,410,85,325
+Davis,NORTHWEST,State House,26,REP,Austin Harris,372,90,282
+Davis,SOUTHEAST,State House,26,REP,Austin Harris,355,56,299
+Davis,SOUTHWEST,State House,26,REP,Austin Harris,175,33,142
+Davis,BLOOMFIELD,State House,26,,Write-in,12,6,6
+Davis,CENTRAL,State House,26,,Write-in,8,3,5
+Davis,NORTHEAST,State House,26,,Write-in,10,4,6
+Davis,NORTHWEST,State House,26,,Write-in,6,0,6
+Davis,SOUTHEAST,State House,26,,Write-in,3,1,2
+Davis,SOUTHWEST,State House,26,,Write-in,1,0,1
+Davis,BLOOMFIELD,County Board of Supervisors At Large,,REP,Ron Bride,593,233,360
+Davis,CENTRAL,County Board of Supervisors At Large,,REP,Ron Bride,333,107,226
+Davis,NORTHEAST,County Board of Supervisors At Large,,REP,Ron Bride,294,67,227
+Davis,NORTHWEST,County Board of Supervisors At Large,,REP,Ron Bride,264,71,193
+Davis,SOUTHEAST,County Board of Supervisors At Large,,REP,Ron Bride,263,45,218
+Davis,SOUTHWEST,County Board of Supervisors At Large,,REP,Ron Bride,141,31,110
+Davis,BLOOMFIELD,County Board of Supervisors At Large,,REP,David Henderson,553,184,369
+Davis,CENTRAL,County Board of Supervisors At Large,,REP,David Henderson,363,105,258
+Davis,NORTHEAST,County Board of Supervisors At Large,,REP,David Henderson,346,65,281
+Davis,NORTHWEST,County Board of Supervisors At Large,,REP,David Henderson,343,78,265
+Davis,SOUTHEAST,County Board of Supervisors At Large,,REP,David Henderson,306,49,257
+Davis,SOUTHWEST,County Board of Supervisors At Large,,REP,David Henderson,166,33,133
+Davis,BLOOMFIELD,County Board of Supervisors At Large,,DEM,Stewart Nebel,247,79,168
+Davis,CENTRAL,County Board of Supervisors At Large,,DEM,Stewart Nebel,125,54,71
+Davis,NORTHEAST,County Board of Supervisors At Large,,DEM,Stewart Nebel,111,41,70
+Davis,NORTHWEST,County Board of Supervisors At Large,,DEM,Stewart Nebel,74,26,48
+Davis,SOUTHEAST,County Board of Supervisors At Large,,DEM,Stewart Nebel,85,27,58
+Davis,SOUTHWEST,County Board of Supervisors At Large,,DEM,Stewart Nebel,40,14,26
+Davis,BLOOMFIELD,County Board of Supervisors At Large,,DEM,Tony Spargur,349,156,193
+Davis,CENTRAL,County Board of Supervisors At Large,,DEM,Tony Spargur,163,74,89
+Davis,NORTHEAST,County Board of Supervisors At Large,,DEM,Tony Spargur,85,30,55
+Davis,NORTHWEST,County Board of Supervisors At Large,,DEM,Tony Spargur,110,32,78
+Davis,SOUTHEAST,County Board of Supervisors At Large,,DEM,Tony Spargur,81,22,59
+Davis,SOUTHWEST,County Board of Supervisors At Large,,DEM,Tony Spargur,49,19,30
+Davis,BLOOMFIELD,County Board of Supervisors At Large,,,Write-in,0,0,0
+Davis,CENTRAL,County Board of Supervisors At Large,,,Write-in,2,0,2
+Davis,NORTHEAST,County Board of Supervisors At Large,,,Write-in,2,1,1
+Davis,NORTHWEST,County Board of Supervisors At Large,,,Write-in,0,0,0
+Davis,SOUTHEAST,County Board of Supervisors At Large,,,Write-in,1,0,1
+Davis,SOUTHWEST,County Board of Supervisors At Large,,,Write-in,0,0,0
+Davis,BLOOMFIELD,County Treasurer,,REP,Mike Johnson,892,316,576
+Davis,CENTRAL,County Treasurer,,REP,Mike Johnson,493,157,336
+Davis,NORTHEAST,County Treasurer,,REP,Mike Johnson,441,99,342
+Davis,NORTHWEST,County Treasurer,,REP,Mike Johnson,415,102,313
+Davis,SOUTHEAST,County Treasurer,,REP,Mike Johnson,379,68,311
+Davis,SOUTHWEST,County Treasurer,,REP,Mike Johnson,199,47,152
+Davis,BLOOMFIELD,County Treasurer,,,Write-in,6,1,5
+Davis,CENTRAL,County Treasurer,,,Write-in,3,1,2
+Davis,NORTHEAST,County Treasurer,,,Write-in,6,2,4
+Davis,NORTHWEST,County Treasurer,,,Write-in,0,0,0
+Davis,SOUTHEAST,County Treasurer,,,Write-in,1,1,0
+Davis,SOUTHWEST,County Treasurer,,,Write-in,1,0,1
+Davis,BLOOMFIELD,County Recorder,,DEM,Megan Clyman,838,301,537
+Davis,CENTRAL,County Recorder,,DEM,Megan Clyman,481,161,320
+Davis,NORTHEAST,County Recorder,,DEM,Megan Clyman,384,89,295
+Davis,NORTHWEST,County Recorder,,DEM,Megan Clyman,354,94,260
+Davis,SOUTHEAST,County Recorder,,DEM,Megan Clyman,348,63,285
+Davis,SOUTHWEST,County Recorder,,DEM,Megan Clyman,183,47,136
+Davis,BLOOMFIELD,County Recorder,,,Write-in,9,3,6
+Davis,CENTRAL,County Recorder,,,Write-in,3,2,1
+Davis,NORTHEAST,County Recorder,,,Write-in,15,3,12
+Davis,NORTHWEST,County Recorder,,,Write-in,4,1,3
+Davis,SOUTHEAST,County Recorder,,,Write-in,7,0,7
+Davis,SOUTHWEST,County Recorder,,,Write-in,1,0,1
+Davis,BLOOMFIELD,County Attorney,,DEM,Rick Lynch,818,305,513
+Davis,CENTRAL,County Attorney,,DEM,Rick Lynch,448,148,300
+Davis,NORTHEAST,County Attorney,,DEM,Rick Lynch,360,86,274
+Davis,NORTHWEST,County Attorney,,DEM,Rick Lynch,335,88,247
+Davis,SOUTHEAST,County Attorney,,DEM,Rick Lynch,331,60,271
+Davis,SOUTHWEST,County Attorney,,DEM,Rick Lynch,185,47,138
+Davis,BLOOMFIELD,County Attorney,,,Write-in,15,4,11
+Davis,CENTRAL,County Attorney,,,Write-in,12,3,9
+Davis,NORTHEAST,County Attorney,,,Write-in,24,5,19
+Davis,NORTHWEST,County Attorney,,,Write-in,9,2,7
+Davis,SOUTHEAST,County Attorney,,,Write-in,10,1,9
+Davis,SOUTHWEST,County Attorney,,,Write-in,2,0,2
+Davis,BLOOMFIELD,Cleveland Township Trustee,,,Roger Wuthrich,8,2,6
+Davis,CENTRAL,Cleveland Township Trustee,,,Roger Wuthrich,153,52,101
+Davis,BLOOMFIELD,Cleveland Township Trustee,,,Jeffrey E. Kincart,11,4,7
+Davis,CENTRAL,Cleveland Township Trustee,,,Jeffrey E. Kincart,137,47,90
+Davis,BLOOMFIELD,Cleveland Township Trustee,,,Write-in,0,0,0
+Davis,CENTRAL,Cleveland Township Trustee,,,Write-in,1,0,1
+Davis,BLOOMFIELD,Cleveland Township Trustee To Fill a Vacancy,,,Roger Porter,11,4,7
+Davis,CENTRAL,Cleveland Township Trustee To Fill a Vacancy,,,Roger Porter,172,57,115
+Davis,BLOOMFIELD,Cleveland Township Trustee To Fill a Vacancy,,,Write-in,0,0,0
+Davis,CENTRAL,Cleveland Township Trustee To Fill a Vacancy,,,Write-in,0,0,0
+Davis,BLOOMFIELD,Cleveland Township Clerk,,,Greg Wetterich,11,4,7
+Davis,CENTRAL,Cleveland Township Clerk,,,Greg Wetterich,163,53,110
+Davis,BLOOMFIELD,Cleveland Township Clerk,,,Write-in,0,0,0
+Davis,CENTRAL,Cleveland Township Clerk,,,Write-in,0,0,0
+Davis,NORTHWEST,Drakesville Township Trustee,,,James Michael Rysdam,30,10,20
+Davis,NORTHWEST,Drakesville Township Trustee,,,Dan Bodkins,29,6,23
+Davis,NORTHWEST,Drakesville Township Trustee,,,Write-in,0,0,0
+Davis,NORTHWEST,Drakesville Township Clerk,,,Kevan Bogert,36,10,26
+Davis,NORTHWEST,Drakesville Township Clerk,,,Write-in,0,0,0
+Davis,SOUTHWEST,Fabius Township Trustee,,,Write-in,9,3,6
+Davis,SOUTHWEST,Fabius Township Trustee,,,Danna Johnson,5,0,5
+Davis,SOUTHWEST,Fabius Township Trustee,,,David Gibson,11,3,8
+Davis,SOUTHWEST,Fabius Township Clerk,,,Write-in,8,2,6
+Davis,SOUTHWEST,Fabius Township Clerk,,,Danna Johnson,9,1,8
+Davis,SOUTHWEST,Fox River Township Trustee,,,Adam Bridgman,45,13,32
+Davis,SOUTHWEST,Fox River Township Trustee,,,Richard Long,39,12,27
+Davis,SOUTHWEST,Fox River Township Trustee,,,Write-in,1,0,1
+Davis,SOUTHWEST,Fox River Township Clerk,,,Mary Ann Long,40,12,28
+Davis,SOUTHWEST,Fox River Township Clerk,,,Write-in,1,0,1
+Davis,SOUTHEAST,Grove Township Trustee,,,David W. Boas,70,15,55
+Davis,SOUTHEAST,Grove Township Trustee,,,Dean Amstutz,77,14,63
+Davis,SOUTHEAST,Grove Township Trustee,,,Write-in,2,0,2
+Davis,SOUTHEAST,Grove Township Clerk,,,Mindy Amstutz,82,15,67
+Davis,SOUTHEAST,Grove Township Clerk,,,Write-in,0,0,0
+Davis,NORTHEAST,Lick Creek Township Trustee,,,Brian Harrington,238,61,177
+Davis,NORTHEAST,Lick Creek Township Trustee,,,Ryan Heemsbergen,218,57,161
+Davis,NORTHEAST,Lick Creek Township Trustee,,,Write-in,8,1,7
+Davis,NORTHEAST,Lick Creek Township Clerk,,,Write-in,21,5,16
+Davis,NORTHEAST,Lick Creek Township Clerk,,,Linda Harrington,3,0,3
+Davis,NORTHWEST,Marion Township Trustee,,,Lonnie J. Archer,87,13,74
+Davis,NORTHWEST,Marion Township Trustee,,,Virgil Cassill,80,11,69
+Davis,NORTHWEST,Marion Township Trustee,,,Write-in,0,0,0
+Davis,NORTHWEST,Marion Township Clerk,,,Joan Cassill,92,13,79
+Davis,NORTHWEST,Marion Township Clerk,,,Write-in,2,0,2
+Davis,CENTRAL,Perry Township Trustee,,,Mike Petefish,145,37,108
+Davis,CENTRAL,Perry Township Trustee,,,Bruce Wortmann,148,40,108
+Davis,CENTRAL,Perry Township Trustee,,,Write-in,4,0,4
+Davis,CENTRAL,Perry Township Clerk,,,David E. Yahnke,167,44,123
+Davis,CENTRAL,Perry Township Clerk,,,Write-in,1,0,1
+Davis,SOUTHEAST,Prairie Township Trustee,,,Write-in,1,0,1
+Davis,SOUTHEAST,Prairie Township Trustee,,,Rhonda Miller,2,0,2
+Davis,SOUTHEAST,Prairie Township Trustee,,,Bryan Amstutz,1,0,1
+Davis,SOUTHEAST,Prairie Township Clerk,,,Write-in,2,0,2
+Davis,SOUTHEAST,Prairie Township Clerk,,,Rhonda Miller,2,0,2
+Davis,SOUTHEAST,Roscoe Township Trustee,,,Richard Rickelman,33,6,27
+Davis,SOUTHEAST,Roscoe Township Trustee,,,Nicholas Prevo,38,7,31
+Davis,SOUTHEAST,Roscoe Township Trustee,,,Write-in,1,1,0
+Davis,SOUTHEAST,Roscoe Township Clerk,,,Emily G. Prevo,36,8,28
+Davis,SOUTHEAST,Roscoe Township Clerk,,,Write-in,1,0,1
+Davis,NORTHEAST,Salt Creek Township Trustee,,,Janice Liles,80,21,59
+Davis,NORTHEAST,Salt Creek Township Trustee,,,Write-in,1,0,1
+Davis,NORTHEAST,Salt Creek Township Trustee,,,Aaron Swaim,1,0,1
+Davis,NORTHEAST,Salt Creek Township Clerk,,,Write-in,1,0,1
+Davis,NORTHWEST,Soap Creek Township Trustee,,,Danny Dunlavy,162,42,120
+Davis,NORTHWEST,Soap Creek Township Trustee,,,Lyle Spurgeon,127,34,93
+Davis,NORTHWEST,Soap Creek Township Trustee,,,Write-in,2,2,0
+Davis,NORTHWEST,Soap Creek Township Clerk,,,Darrell Downing,174,45,129
+Davis,NORTHWEST,Soap Creek Township Clerk,,,Write-in,1,1,0
+Davis,SOUTHEAST,Union Township Trustee,,,Cory Fleming,113,22,91
+Davis,SOUTHEAST,Union Township Trustee,,,Ronda Rodgers,106,21,85
+Davis,SOUTHEAST,Union Township Trustee,,,Write-in,2,0,2
+Davis,SOUTHEAST,Union Township Clerk,,,Karla Hill,129,25,104
+Davis,SOUTHEAST,Union Township Clerk,,,Write-in,0,0,0
+Davis,SOUTHWEST,West Grove Township Trustee,,,Steve Ward,67,17,50
+Davis,SOUTHWEST,West Grove Township Trustee,,,Ron Harris,75,19,56
+Davis,SOUTHWEST,West Grove Township Trustee,,,Write-in,3,0,3
+Davis,SOUTHWEST,West Grove Township Clerk,,,Fran Harris,77,19,58
+Davis,SOUTHWEST,West Grove Township Clerk,,,Write-in,4,0,4
+Davis,CENTRAL,Wyacondah Township Trustee,,,Carolyn L. Todey,112,37,75
+Davis,CENTRAL,Wyacondah Township Trustee,,,Robert Scott,109,37,72
+Davis,CENTRAL,Wyacondah Township Trustee,,,Write-in,3,3,0
+Davis,CENTRAL,Wyacondah Township Clerk,,,Margaret Scott,136,43,93
+Davis,CENTRAL,Wyacondah Township Clerk,,,Write-in,3,3,0
+Davis,BLOOMFIELD,County Hospital Board of Trustees,,,Bailey Westfall,648,227,421
+Davis,CENTRAL,County Hospital Board of Trustees,,,Bailey Westfall,345,109,236
+Davis,NORTHEAST,County Hospital Board of Trustees,,,Bailey Westfall,286,70,216
+Davis,NORTHWEST,County Hospital Board of Trustees,,,Bailey Westfall,289,70,219
+Davis,SOUTHEAST,County Hospital Board of Trustees,,,Bailey Westfall,258,45,213
+Davis,SOUTHWEST,County Hospital Board of Trustees,,,Bailey Westfall,123,29,94
+Davis,BLOOMFIELD,County Hospital Board of Trustees,,,Nolan Eakins,639,239,400
+Davis,CENTRAL,County Hospital Board of Trustees,,,Nolan Eakins,347,119,228
+Davis,NORTHEAST,County Hospital Board of Trustees,,,Nolan Eakins,290,65,225
+Davis,NORTHWEST,County Hospital Board of Trustees,,,Nolan Eakins,295,74,221
+Davis,SOUTHEAST,County Hospital Board of Trustees,,,Nolan Eakins,252,47,205
+Davis,SOUTHWEST,County Hospital Board of Trustees,,,Nolan Eakins,129,33,96
+Davis,BLOOMFIELD,County Hospital Board of Trustees,,,Write-in,41,11,30
+Davis,CENTRAL,County Hospital Board of Trustees,,,Write-in,23,8,15
+Davis,NORTHEAST,County Hospital Board of Trustees,,,Write-in,22,6,16
+Davis,NORTHWEST,County Hospital Board of Trustees,,,Write-in,4,1,3
+Davis,SOUTHEAST,County Hospital Board of Trustees,,,Write-in,12,2,10
+Davis,SOUTHWEST,County Hospital Board of Trustees,,,Write-in,5,1,4
+Davis,BLOOMFIELD,County Hospital Board of Trustees,,,Kevin Cook,7,2,5
+Davis,CENTRAL,County Hospital Board of Trustees,,,Kevin Cook,1,0,1
+Davis,NORTHEAST,County Hospital Board of Trustees,,,Kevin Cook,2,0,2
+Davis,NORTHWEST,County Hospital Board of Trustees,,,Kevin Cook,1,0,1
+Davis,SOUTHEAST,County Hospital Board of Trustees,,,Kevin Cook,1,1,0
+Davis,SOUTHWEST,County Hospital Board of Trustees,,,Kevin Cook,0,0,0
+Davis,BLOOMFIELD,Soil and Water Conservation District Commissioner,,,Kevin Prevo,582,201,381
+Davis,CENTRAL,Soil and Water Conservation District Commissioner,,,Kevin Prevo,346,100,246
+Davis,NORTHEAST,Soil and Water Conservation District Commissioner,,,Kevin Prevo,263,61,202
+Davis,NORTHWEST,Soil and Water Conservation District Commissioner,,,Kevin Prevo,236,45,191
+Davis,SOUTHEAST,Soil and Water Conservation District Commissioner,,,Kevin Prevo,241,46,195
+Davis,SOUTHWEST,Soil and Water Conservation District Commissioner,,,Kevin Prevo,118,25,93
+Davis,BLOOMFIELD,Soil and Water Conservation District Commissioner,,,Sheila L. Whittington,338,132,206
+Davis,CENTRAL,Soil and Water Conservation District Commissioner,,,Sheila L. Whittington,158,66,92
+Davis,NORTHEAST,Soil and Water Conservation District Commissioner,,,Sheila L. Whittington,153,42,111
+Davis,NORTHWEST,Soil and Water Conservation District Commissioner,,,Sheila L. Whittington,135,36,99
+Davis,SOUTHEAST,Soil and Water Conservation District Commissioner,,,Sheila L. Whittington,119,17,102
+Davis,SOUTHWEST,Soil and Water Conservation District Commissioner,,,Sheila L. Whittington,52,15,37
+Davis,BLOOMFIELD,Soil and Water Conservation District Commissioner,,,Adam Smith,498,178,320
+Davis,CENTRAL,Soil and Water Conservation District Commissioner,,,Adam Smith,341,106,235
+Davis,NORTHEAST,Soil and Water Conservation District Commissioner,,,Adam Smith,227,45,182
+Davis,NORTHWEST,Soil and Water Conservation District Commissioner,,,Adam Smith,223,57,166
+Davis,SOUTHEAST,Soil and Water Conservation District Commissioner,,,Adam Smith,261,49,212
+Davis,SOUTHWEST,Soil and Water Conservation District Commissioner,,,Adam Smith,122,31,91
+Davis,BLOOMFIELD,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Davis,CENTRAL,Soil and Water Conservation District Commissioner,,,Write-in,2,2,0
+Davis,NORTHEAST,Soil and Water Conservation District Commissioner,,,Write-in,6,1,5
+Davis,NORTHWEST,Soil and Water Conservation District Commissioner,,,Write-in,2,1,1
+Davis,SOUTHEAST,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Davis,SOUTHWEST,Soil and Water Conservation District Commissioner,,,Write-in,3,0,3
+Davis,BLOOMFIELD,County Agricultural Extension Council Member,,,Carolyn Scott,693,258,435
+Davis,CENTRAL,County Agricultural Extension Council Member,,,Carolyn Scott,379,130,249
+Davis,NORTHEAST,County Agricultural Extension Council Member,,,Carolyn Scott,278,64,214
+Davis,NORTHWEST,County Agricultural Extension Council Member,,,Carolyn Scott,279,68,211
+Davis,SOUTHEAST,County Agricultural Extension Council Member,,,Carolyn Scott,276,55,221
+Davis,SOUTHWEST,County Agricultural Extension Council Member,,,Carolyn Scott,146,41,105
+Davis,BLOOMFIELD,County Agricultural Extension Council Member,,,Jackie White,606,231,375
+Davis,CENTRAL,County Agricultural Extension Council Member,,,Jackie White,348,123,225
+Davis,NORTHEAST,County Agricultural Extension Council Member,,,Jackie White,263,60,203
+Davis,NORTHWEST,County Agricultural Extension Council Member,,,Jackie White,273,66,207
+Davis,SOUTHEAST,County Agricultural Extension Council Member,,,Jackie White,255,46,209
+Davis,SOUTHWEST,County Agricultural Extension Council Member,,,Jackie White,133,30,103
+Davis,BLOOMFIELD,County Agricultural Extension Council Member,,,Ryan Heemsbergen,594,222,372
+Davis,CENTRAL,County Agricultural Extension Council Member,,,Ryan Heemsbergen,352,122,230
+Davis,NORTHEAST,County Agricultural Extension Council Member,,,Ryan Heemsbergen,308,74,234
+Davis,NORTHWEST,County Agricultural Extension Council Member,,,Ryan Heemsbergen,263,66,197
+Davis,SOUTHEAST,County Agricultural Extension Council Member,,,Ryan Heemsbergen,258,43,215
+Davis,SOUTHWEST,County Agricultural Extension Council Member,,,Ryan Heemsbergen,116,26,90
+Davis,BLOOMFIELD,County Agricultural Extension Council Member,,,Beverly Guinn,618,233,385
+Davis,CENTRAL,County Agricultural Extension Council Member,,,Beverly Guinn,347,120,227
+Davis,NORTHEAST,County Agricultural Extension Council Member,,,Beverly Guinn,250,61,189
+Davis,NORTHWEST,County Agricultural Extension Council Member,,,Beverly Guinn,255,66,189
+Davis,SOUTHEAST,County Agricultural Extension Council Member,,,Beverly Guinn,249,50,199
+Davis,SOUTHWEST,County Agricultural Extension Council Member,,,Beverly Guinn,126,33,93
+Davis,BLOOMFIELD,County Agricultural Extension Council Member,,,Write-in,25,8,17
+Davis,CENTRAL,County Agricultural Extension Council Member,,,Write-in,27,13,14
+Davis,NORTHEAST,County Agricultural Extension Council Member,,,Write-in,20,7,13
+Davis,NORTHWEST,County Agricultural Extension Council Member,,,Write-in,14,6,8
+Davis,SOUTHEAST,County Agricultural Extension Council Member,,,Write-in,8,1,7
+Davis,SOUTHWEST,County Agricultural Extension Council Member,,,Write-in,11,3,8
+Davis,BLOOMFIELD,County Agricultural Extension Council Member,,,Kayci Knowler,5,0,5
+Davis,CENTRAL,County Agricultural Extension Council Member,,,Kayci Knowler,4,2,2
+Davis,NORTHEAST,County Agricultural Extension Council Member,,,Kayci Knowler,0,0,0
+Davis,NORTHWEST,County Agricultural Extension Council Member,,,Kayci Knowler,0,0,0
+Davis,SOUTHEAST,County Agricultural Extension Council Member,,,Kayci Knowler,0,0,0
+Davis,SOUTHWEST,County Agricultural Extension Council Member,,,Kayci Knowler,8,0,8
+Davis,BLOOMFIELD,Supreme Court Justice,,,Yes,503,182,321
+Davis,CENTRAL,Supreme Court Justice,,,Yes,244,80,164
+Davis,NORTHEAST,Supreme Court Justice,,,Yes,205,54,151
+Davis,NORTHWEST,Supreme Court Justice,,,Yes,207,49,158
+Davis,SOUTHEAST,Supreme Court Justice,,,Yes,174,31,143
+Davis,SOUTHWEST,Supreme Court Justice,,,Yes,96,21,75
+Davis,BLOOMFIELD,Supreme Court Justice,,,No,256,93,163
+Davis,CENTRAL,Supreme Court Justice,,,No,156,58,98
+Davis,NORTHEAST,Supreme Court Justice,,,No,155,29,126
+Davis,NORTHWEST,Supreme Court Justice,,,No,128,35,93
+Davis,SOUTHEAST,Supreme Court Justice,,,No,130,25,105
+Davis,SOUTHWEST,Supreme Court Justice,,,No,60,18,42
+Davis,BLOOMFIELD,Court of Appeals Judge,,,Yes,480,175,305
+Davis,CENTRAL,Court of Appeals Judge,,,Yes,248,83,165
+Davis,NORTHEAST,Court of Appeals Judge,,,Yes,199,49,150
+Davis,NORTHWEST,Court of Appeals Judge,,,Yes,202,48,154
+Davis,SOUTHEAST,Court of Appeals Judge,,,Yes,168,34,134
+Davis,SOUTHWEST,Court of Appeals Judge,,,Yes,94,22,72
+Davis,BLOOMFIELD,Court of Appeals Judge,,,No,247,92,155
+Davis,CENTRAL,Court of Appeals Judge,,,No,159,58,101
+Davis,NORTHEAST,Court of Appeals Judge,,,No,155,29,126
+Davis,NORTHWEST,Court of Appeals Judge,,,No,135,34,101
+Davis,SOUTHEAST,Court of Appeals Judge,,,No,130,22,108
+Davis,SOUTHWEST,Court of Appeals Judge,,,No,61,17,44
+Davis,BLOOMFIELD,District 8A Judge,,,Yes,557,205,352
+Davis,CENTRAL,District 8A Judge,,,Yes,251,84,167
+Davis,NORTHEAST,District 8A Judge,,,Yes,212,46,166
+Davis,NORTHWEST,District 8A Judge,,,Yes,220,58,162
+Davis,SOUTHEAST,District 8A Judge,,,Yes,190,40,150
+Davis,SOUTHWEST,District 8A Judge,,,Yes,102,25,77
+Davis,BLOOMFIELD,District 8A Judge,,,No,228,77,151
+Davis,CENTRAL,District 8A Judge,,,No,159,60,99
+Davis,NORTHEAST,District 8A Judge,,,No,157,35,122
+Davis,NORTHWEST,District 8A Judge,,,No,121,27,94
+Davis,SOUTHEAST,District 8A Judge,,,No,122,19,103
+Davis,SOUTHWEST,District 8A Judge,,,No,57,13,44
+Davis,BLOOMFIELD,District 8A Associate Judge,,,Yes,537,198,339
+Davis,CENTRAL,District 8A Associate Judge,,,Yes,257,89,168
+Davis,NORTHEAST,District 8A Associate Judge,,,Yes,220,53,167
+Davis,NORTHWEST,District 8A Associate Judge,,,Yes,218,54,164
+Davis,SOUTHEAST,District 8A Associate Judge,,,Yes,188,42,146
+Davis,SOUTHWEST,District 8A Associate Judge,,,Yes,100,22,78
+Davis,BLOOMFIELD,District 8A Associate Judge,,,No,241,83,158
+Davis,CENTRAL,District 8A Associate Judge,,,No,153,55,98
+Davis,NORTHEAST,District 8A Associate Judge,,,No,150,26,124
+Davis,NORTHWEST,District 8A Associate Judge,,,No,124,31,93
+Davis,SOUTHEAST,District 8A Associate Judge,,,No,122,18,104
+Davis,SOUTHWEST,District 8A Associate Judge,,,No,58,17,41
+Davis,BLOOMFIELD,District 8A Associate Juvenile Judge,,,Yes,551,206,345
+Davis,CENTRAL,District 8A Associate Juvenile Judge,,,Yes,264,93,171
+Davis,NORTHEAST,District 8A Associate Juvenile Judge,,,Yes,228,54,174
+Davis,NORTHWEST,District 8A Associate Juvenile Judge,,,Yes,230,60,170
+Davis,SOUTHEAST,District 8A Associate Juvenile Judge,,,Yes,199,42,157
+Davis,SOUTHWEST,District 8A Associate Juvenile Judge,,,Yes,102,23,79
+Davis,BLOOMFIELD,District 8A Associate Juvenile Judge,,,No,225,75,150
+Davis,CENTRAL,District 8A Associate Juvenile Judge,,,No,145,50,95
+Davis,NORTHEAST,District 8A Associate Juvenile Judge,,,No,143,27,116
+Davis,NORTHWEST,District 8A Associate Juvenile Judge,,,No,115,27,88
+Davis,SOUTHEAST,District 8A Associate Juvenile Judge,,,No,112,17,95
+Davis,SOUTHWEST,District 8A Associate Juvenile Judge,,,No,56,14,42
+Davis,BLOOMFIELD,Constitutional Amendment 1,,,Yes,719,251,468
+Davis,CENTRAL,Constitutional Amendment 1,,,Yes,400,117,283
+Davis,NORTHEAST,Constitutional Amendment 1,,,Yes,398,86,312
+Davis,NORTHWEST,Constitutional Amendment 1,,,Yes,372,86,286
+Davis,SOUTHEAST,Constitutional Amendment 1,,,Yes,352,62,290
+Davis,SOUTHWEST,Constitutional Amendment 1,,,Yes,161,30,131
+Davis,BLOOMFIELD,Constitutional Amendment 1,,,No,200,83,117
+Davis,CENTRAL,Constitutional Amendment 1,,,No,91,45,46
+Davis,NORTHEAST,Constitutional Amendment 1,,,No,55,20,35
+Davis,NORTHWEST,Constitutional Amendment 1,,,No,53,24,29
+Davis,SOUTHEAST,Constitutional Amendment 1,,,No,41,11,30
+Davis,SOUTHWEST,Constitutional Amendment 1,,,No,33,14,19

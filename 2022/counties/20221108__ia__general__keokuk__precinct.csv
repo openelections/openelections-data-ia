@@ -1,0 +1,835 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Keokuk,AD-PR-WS,U.S. Senate,,REP,Chuck Grassley,399,72,327
+Keokuk,BN-SR,U.S. Senate,,REP,Chuck Grassley,340,40,300
+Keokuk,ER-LB,U.S. Senate,,REP,Chuck Grassley,246,35,211
+Keokuk,JA-RL,U.S. Senate,,REP,Chuck Grassley,400,46,354
+Keokuk,LF-CC,U.S. Senate,,REP,Chuck Grassley,422,59,363
+Keokuk,EL-WL-WN,U.S. Senate,,REP,Chuck Grassley,222,54,168
+Keokuk,SG-PL-VB,U.S. Senate,,REP,Chuck Grassley,280,36,244
+Keokuk,SG1,U.S. Senate,,REP,Chuck Grassley,136,20,116
+Keokuk,SG2,U.S. Senate,,REP,Chuck Grassley,137,29,108
+Keokuk,SG3,U.S. Senate,,REP,Chuck Grassley,111,24,87
+Keokuk,SG4,U.S. Senate,,REP,Chuck Grassley,118,28,90
+Keokuk,AD-PR-WS,U.S. Senate,,DEM,Michael Franken,138,42,96
+Keokuk,BN-SR,U.S. Senate,,DEM,Michael Franken,99,32,67
+Keokuk,ER-LB,U.S. Senate,,DEM,Michael Franken,100,33,67
+Keokuk,JA-RL,U.S. Senate,,DEM,Michael Franken,110,39,71
+Keokuk,LF-CC,U.S. Senate,,DEM,Michael Franken,159,53,106
+Keokuk,EL-WL-WN,U.S. Senate,,DEM,Michael Franken,56,15,41
+Keokuk,SG-PL-VB,U.S. Senate,,DEM,Michael Franken,62,25,37
+Keokuk,SG1,U.S. Senate,,DEM,Michael Franken,59,19,40
+Keokuk,SG2,U.S. Senate,,DEM,Michael Franken,62,23,39
+Keokuk,SG3,U.S. Senate,,DEM,Michael Franken,43,13,30
+Keokuk,SG4,U.S. Senate,,DEM,Michael Franken,61,22,39
+Keokuk,AD-PR-WS,U.S. Senate,,,Write-in,3,1,2
+Keokuk,BN-SR,U.S. Senate,,,Write-in,0,0,0
+Keokuk,ER-LB,U.S. Senate,,,Write-in,0,0,0
+Keokuk,JA-RL,U.S. Senate,,,Write-in,1,0,1
+Keokuk,LF-CC,U.S. Senate,,,Write-in,1,1,0
+Keokuk,EL-WL-WN,U.S. Senate,,,Write-in,0,0,0
+Keokuk,SG-PL-VB,U.S. Senate,,,Write-in,1,0,1
+Keokuk,SG1,U.S. Senate,,,Write-in,0,0,0
+Keokuk,SG2,U.S. Senate,,,Write-in,0,0,0
+Keokuk,SG3,U.S. Senate,,,Write-in,0,0,0
+Keokuk,SG4,U.S. Senate,,,Write-in,0,0,0
+Keokuk,AD-PR-WS,U.S. House,1,REP,Mariannette Miller-Meeks,403,75,328
+Keokuk,BN-SR,U.S. House,1,REP,Mariannette Miller-Meeks,343,37,306
+Keokuk,ER-LB,U.S. House,1,REP,Mariannette Miller-Meeks,243,34,209
+Keokuk,JA-RL,U.S. House,1,REP,Mariannette Miller-Meeks,385,44,341
+Keokuk,LF-CC,U.S. House,1,REP,Mariannette Miller-Meeks,407,56,351
+Keokuk,EL-WL-WN,U.S. House,1,REP,Mariannette Miller-Meeks,219,55,164
+Keokuk,SG-PL-VB,U.S. House,1,REP,Mariannette Miller-Meeks,277,35,242
+Keokuk,SG1,U.S. House,1,REP,Mariannette Miller-Meeks,128,21,107
+Keokuk,SG2,U.S. House,1,REP,Mariannette Miller-Meeks,130,29,101
+Keokuk,SG3,U.S. House,1,REP,Mariannette Miller-Meeks,113,25,88
+Keokuk,SG4,U.S. House,1,REP,Mariannette Miller-Meeks,121,28,93
+Keokuk,AD-PR-WS,U.S. House,1,DEM,Christina Bohannan,141,42,99
+Keokuk,BN-SR,U.S. House,1,DEM,Christina Bohannan,93,34,59
+Keokuk,ER-LB,U.S. House,1,DEM,Christina Bohannan,103,33,70
+Keokuk,JA-RL,U.S. House,1,DEM,Christina Bohannan,124,41,83
+Keokuk,LF-CC,U.S. House,1,DEM,Christina Bohannan,176,55,121
+Keokuk,EL-WL-WN,U.S. House,1,DEM,Christina Bohannan,58,15,43
+Keokuk,SG-PL-VB,U.S. House,1,DEM,Christina Bohannan,62,26,36
+Keokuk,SG1,U.S. House,1,DEM,Christina Bohannan,66,17,49
+Keokuk,SG2,U.S. House,1,DEM,Christina Bohannan,68,22,46
+Keokuk,SG3,U.S. House,1,DEM,Christina Bohannan,42,12,30
+Keokuk,SG4,U.S. House,1,DEM,Christina Bohannan,57,22,35
+Keokuk,AD-PR-WS,U.S. House,1,,Write-in,1,0,1
+Keokuk,BN-SR,U.S. House,1,,Write-in,0,0,0
+Keokuk,ER-LB,U.S. House,1,,Write-in,1,1,0
+Keokuk,JA-RL,U.S. House,1,,Write-in,0,0,0
+Keokuk,LF-CC,U.S. House,1,,Write-in,1,0,1
+Keokuk,EL-WL-WN,U.S. House,1,,Write-in,0,0,0
+Keokuk,SG-PL-VB,U.S. House,1,,Write-in,0,0,0
+Keokuk,SG1,U.S. House,1,,Write-in,0,0,0
+Keokuk,SG2,U.S. House,1,,Write-in,0,0,0
+Keokuk,SG3,U.S. House,1,,Write-in,0,0,0
+Keokuk,SG4,U.S. House,1,,Write-in,0,0,0
+Keokuk,AD-PR-WS,Governor,,REP,Kim Reynolds and Adam Gregg,421,78,343
+Keokuk,BN-SR,Governor,,REP,Kim Reynolds and Adam Gregg,355,41,314
+Keokuk,ER-LB,Governor,,REP,Kim Reynolds and Adam Gregg,256,37,219
+Keokuk,JA-RL,Governor,,REP,Kim Reynolds and Adam Gregg,413,51,362
+Keokuk,LF-CC,Governor,,REP,Kim Reynolds and Adam Gregg,453,63,390
+Keokuk,EL-WL-WN,Governor,,REP,Kim Reynolds and Adam Gregg,234,56,178
+Keokuk,SG-PL-VB,Governor,,REP,Kim Reynolds and Adam Gregg,292,38,254
+Keokuk,SG1,Governor,,REP,Kim Reynolds and Adam Gregg,146,27,119
+Keokuk,SG2,Governor,,REP,Kim Reynolds and Adam Gregg,139,30,109
+Keokuk,SG3,Governor,,REP,Kim Reynolds and Adam Gregg,123,30,93
+Keokuk,SG4,Governor,,REP,Kim Reynolds and Adam Gregg,121,28,93
+Keokuk,AD-PR-WS,Governor,,DEM,Deidre DeJear and Eric Van Lancker,128,41,87
+Keokuk,BN-SR,Governor,,DEM,Deidre DeJear and Eric Van Lancker,87,32,55
+Keokuk,ER-LB,Governor,,DEM,Deidre DeJear and Eric Van Lancker,91,32,59
+Keokuk,JA-RL,Governor,,DEM,Deidre DeJear and Eric Van Lancker,98,38,60
+Keokuk,LF-CC,Governor,,DEM,Deidre DeJear and Eric Van Lancker,139,49,90
+Keokuk,EL-WL-WN,Governor,,DEM,Deidre DeJear and Eric Van Lancker,46,15,31
+Keokuk,SG-PL-VB,Governor,,DEM,Deidre DeJear and Eric Van Lancker,46,23,23
+Keokuk,SG1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,53,14,39
+Keokuk,SG2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,61,23,38
+Keokuk,SG3,Governor,,DEM,Deidre DeJear and Eric Van Lancker,32,8,24
+Keokuk,SG4,Governor,,DEM,Deidre DeJear and Eric Van Lancker,56,22,34
+Keokuk,AD-PR-WS,Governor,,LIB,Rick Stewart and Marco Battaglia,1,0,1
+Keokuk,BN-SR,Governor,,LIB,Rick Stewart and Marco Battaglia,6,0,6
+Keokuk,ER-LB,Governor,,LIB,Rick Stewart and Marco Battaglia,5,0,5
+Keokuk,JA-RL,Governor,,LIB,Rick Stewart and Marco Battaglia,7,0,7
+Keokuk,LF-CC,Governor,,LIB,Rick Stewart and Marco Battaglia,9,1,8
+Keokuk,EL-WL-WN,Governor,,LIB,Rick Stewart and Marco Battaglia,6,2,4
+Keokuk,SG-PL-VB,Governor,,LIB,Rick Stewart and Marco Battaglia,6,1,5
+Keokuk,SG1,Governor,,LIB,Rick Stewart and Marco Battaglia,2,1,1
+Keokuk,SG2,Governor,,LIB,Rick Stewart and Marco Battaglia,2,0,2
+Keokuk,SG3,Governor,,LIB,Rick Stewart and Marco Battaglia,4,2,2
+Keokuk,SG4,Governor,,LIB,Rick Stewart and Marco Battaglia,3,0,3
+Keokuk,AD-PR-WS,Governor,,,Write-in,0,0,0
+Keokuk,BN-SR,Governor,,,Write-in,0,0,0
+Keokuk,ER-LB,Governor,,,Write-in,0,0,0
+Keokuk,JA-RL,Governor,,,Write-in,0,0,0
+Keokuk,LF-CC,Governor,,,Write-in,0,0,0
+Keokuk,EL-WL-WN,Governor,,,Write-in,0,0,0
+Keokuk,SG-PL-VB,Governor,,,Write-in,0,0,0
+Keokuk,SG1,Governor,,,Write-in,0,0,0
+Keokuk,SG2,Governor,,,Write-in,0,0,0
+Keokuk,SG3,Governor,,,Write-in,0,0,0
+Keokuk,SG4,Governor,,,Write-in,0,0,0
+Keokuk,AD-PR-WS,Secretary of State,,REP,Paul D. Pate,412,74,338
+Keokuk,BN-SR,Secretary of State,,REP,Paul D. Pate,351,44,307
+Keokuk,ER-LB,Secretary of State,,REP,Paul D. Pate,250,41,209
+Keokuk,JA-RL,Secretary of State,,REP,Paul D. Pate,415,53,362
+Keokuk,LF-CC,Secretary of State,,REP,Paul D. Pate,444,63,381
+Keokuk,EL-WL-WN,Secretary of State,,REP,Paul D. Pate,226,57,169
+Keokuk,SG-PL-VB,Secretary of State,,REP,Paul D. Pate,291,41,250
+Keokuk,SG1,Secretary of State,,REP,Paul D. Pate,153,29,124
+Keokuk,SG2,Secretary of State,,REP,Paul D. Pate,140,30,110
+Keokuk,SG3,Secretary of State,,REP,Paul D. Pate,123,26,97
+Keokuk,SG4,Secretary of State,,REP,Paul D. Pate,127,30,97
+Keokuk,AD-PR-WS,Secretary of State,,DEM,Joel Miller,134,45,89
+Keokuk,BN-SR,Secretary of State,,DEM,Joel Miller,89,28,61
+Keokuk,ER-LB,Secretary of State,,DEM,Joel Miller,91,27,64
+Keokuk,JA-RL,Secretary of State,,DEM,Joel Miller,97,35,62
+Keokuk,LF-CC,Secretary of State,,DEM,Joel Miller,143,49,94
+Keokuk,EL-WL-WN,Secretary of State,,DEM,Joel Miller,49,14,35
+Keokuk,SG-PL-VB,Secretary of State,,DEM,Joel Miller,44,19,25
+Keokuk,SG1,Secretary of State,,DEM,Joel Miller,47,12,35
+Keokuk,SG2,Secretary of State,,DEM,Joel Miller,58,22,36
+Keokuk,SG3,Secretary of State,,DEM,Joel Miller,32,12,20
+Keokuk,SG4,Secretary of State,,DEM,Joel Miller,51,18,33
+Keokuk,AD-PR-WS,Secretary of State,,,Write-in,0,0,0
+Keokuk,BN-SR,Secretary of State,,,Write-in,0,0,0
+Keokuk,ER-LB,Secretary of State,,,Write-in,0,0,0
+Keokuk,JA-RL,Secretary of State,,,Write-in,1,0,1
+Keokuk,LF-CC,Secretary of State,,,Write-in,0,0,0
+Keokuk,EL-WL-WN,Secretary of State,,,Write-in,0,0,0
+Keokuk,SG-PL-VB,Secretary of State,,,Write-in,0,0,0
+Keokuk,SG1,Secretary of State,,,Write-in,0,0,0
+Keokuk,SG2,Secretary of State,,,Write-in,0,0,0
+Keokuk,SG3,Secretary of State,,,Write-in,0,0,0
+Keokuk,SG4,Secretary of State,,,Write-in,0,0,0
+Keokuk,AD-PR-WS,Auditor of State,,REP,Todd Halbur,343,56,287
+Keokuk,BN-SR,Auditor of State,,REP,Todd Halbur,314,35,279
+Keokuk,ER-LB,Auditor of State,,REP,Todd Halbur,207,27,180
+Keokuk,JA-RL,Auditor of State,,REP,Todd Halbur,346,35,311
+Keokuk,LF-CC,Auditor of State,,REP,Todd Halbur,360,46,314
+Keokuk,EL-WL-WN,Auditor of State,,REP,Todd Halbur,194,47,147
+Keokuk,SG-PL-VB,Auditor of State,,REP,Todd Halbur,222,29,193
+Keokuk,SG1,Auditor of State,,REP,Todd Halbur,113,17,96
+Keokuk,SG2,Auditor of State,,REP,Todd Halbur,115,21,94
+Keokuk,SG3,Auditor of State,,REP,Todd Halbur,90,21,69
+Keokuk,SG4,Auditor of State,,REP,Todd Halbur,101,20,81
+Keokuk,AD-PR-WS,Auditor of State,,DEM,Rob Sand,198,59,139
+Keokuk,BN-SR,Auditor of State,,DEM,Rob Sand,123,37,86
+Keokuk,ER-LB,Auditor of State,,DEM,Rob Sand,132,40,92
+Keokuk,JA-RL,Auditor of State,,DEM,Rob Sand,164,53,111
+Keokuk,LF-CC,Auditor of State,,DEM,Rob Sand,224,67,157
+Keokuk,EL-WL-WN,Auditor of State,,DEM,Rob Sand,84,24,60
+Keokuk,SG-PL-VB,Auditor of State,,DEM,Rob Sand,106,31,75
+Keokuk,SG1,Auditor of State,,DEM,Rob Sand,85,24,61
+Keokuk,SG2,Auditor of State,,DEM,Rob Sand,78,29,49
+Keokuk,SG3,Auditor of State,,DEM,Rob Sand,61,17,44
+Keokuk,SG4,Auditor of State,,DEM,Rob Sand,75,29,46
+Keokuk,AD-PR-WS,Auditor of State,,,Write-in,0,0,0
+Keokuk,BN-SR,Auditor of State,,,Write-in,0,0,0
+Keokuk,ER-LB,Auditor of State,,,Write-in,0,0,0
+Keokuk,JA-RL,Auditor of State,,,Write-in,1,0,1
+Keokuk,LF-CC,Auditor of State,,,Write-in,0,0,0
+Keokuk,EL-WL-WN,Auditor of State,,,Write-in,0,0,0
+Keokuk,SG-PL-VB,Auditor of State,,,Write-in,0,0,0
+Keokuk,SG1,Auditor of State,,,Write-in,0,0,0
+Keokuk,SG2,Auditor of State,,,Write-in,0,0,0
+Keokuk,SG3,Auditor of State,,,Write-in,0,0,0
+Keokuk,SG4,Auditor of State,,,Write-in,0,0,0
+Keokuk,AD-PR-WS,Treasurer of State,,REP,Roby Smith,349,57,292
+Keokuk,BN-SR,Treasurer of State,,REP,Roby Smith,309,37,272
+Keokuk,ER-LB,Treasurer of State,,REP,Roby Smith,225,28,197
+Keokuk,JA-RL,Treasurer of State,,REP,Roby Smith,376,38,338
+Keokuk,LF-CC,Treasurer of State,,REP,Roby Smith,382,49,333
+Keokuk,EL-WL-WN,Treasurer of State,,REP,Roby Smith,206,50,156
+Keokuk,SG-PL-VB,Treasurer of State,,REP,Roby Smith,235,32,203
+Keokuk,SG1,Treasurer of State,,REP,Roby Smith,125,20,105
+Keokuk,SG2,Treasurer of State,,REP,Roby Smith,123,23,100
+Keokuk,SG3,Treasurer of State,,REP,Roby Smith,101,25,76
+Keokuk,SG4,Treasurer of State,,REP,Roby Smith,100,22,78
+Keokuk,AD-PR-WS,Treasurer of State,,DEM,Michael L. Fitzgerald,184,57,127
+Keokuk,BN-SR,Treasurer of State,,DEM,Michael L. Fitzgerald,127,36,91
+Keokuk,ER-LB,Treasurer of State,,DEM,Michael L. Fitzgerald,112,39,73
+Keokuk,JA-RL,Treasurer of State,,DEM,Michael L. Fitzgerald,133,47,86
+Keokuk,LF-CC,Treasurer of State,,DEM,Michael L. Fitzgerald,204,65,139
+Keokuk,EL-WL-WN,Treasurer of State,,DEM,Michael L. Fitzgerald,70,22,48
+Keokuk,SG-PL-VB,Treasurer of State,,DEM,Michael L. Fitzgerald,98,29,69
+Keokuk,SG1,Treasurer of State,,DEM,Michael L. Fitzgerald,74,21,53
+Keokuk,SG2,Treasurer of State,,DEM,Michael L. Fitzgerald,74,28,46
+Keokuk,SG3,Treasurer of State,,DEM,Michael L. Fitzgerald,51,14,37
+Keokuk,SG4,Treasurer of State,,DEM,Michael L. Fitzgerald,76,26,50
+Keokuk,AD-PR-WS,Treasurer of State,,,Write-in,1,0,1
+Keokuk,BN-SR,Treasurer of State,,,Write-in,0,0,0
+Keokuk,ER-LB,Treasurer of State,,,Write-in,0,0,0
+Keokuk,JA-RL,Treasurer of State,,,Write-in,1,0,1
+Keokuk,LF-CC,Treasurer of State,,,Write-in,0,0,0
+Keokuk,EL-WL-WN,Treasurer of State,,,Write-in,0,0,0
+Keokuk,SG-PL-VB,Treasurer of State,,,Write-in,0,0,0
+Keokuk,SG1,Treasurer of State,,,Write-in,0,0,0
+Keokuk,SG2,Treasurer of State,,,Write-in,1,1,0
+Keokuk,SG3,Treasurer of State,,,Write-in,0,0,0
+Keokuk,SG4,Treasurer of State,,,Write-in,0,0,0
+Keokuk,AD-PR-WS,Secretary of Agriculture,,REP,Mike Naig,427,76,351
+Keokuk,BN-SR,Secretary of Agriculture,,REP,Mike Naig,354,39,315
+Keokuk,ER-LB,Secretary of Agriculture,,REP,Mike Naig,263,38,225
+Keokuk,JA-RL,Secretary of Agriculture,,REP,Mike Naig,429,54,375
+Keokuk,LF-CC,Secretary of Agriculture,,REP,Mike Naig,469,71,398
+Keokuk,EL-WL-WN,Secretary of Agriculture,,REP,Mike Naig,240,58,182
+Keokuk,SG-PL-VB,Secretary of Agriculture,,REP,Mike Naig,290,42,248
+Keokuk,SG1,Secretary of Agriculture,,REP,Mike Naig,158,30,128
+Keokuk,SG2,Secretary of Agriculture,,REP,Mike Naig,144,29,115
+Keokuk,SG3,Secretary of Agriculture,,REP,Mike Naig,124,27,97
+Keokuk,SG4,Secretary of Agriculture,,REP,Mike Naig,134,34,100
+Keokuk,AD-PR-WS,Secretary of Agriculture,,DEM,John Norwood,108,39,69
+Keokuk,BN-SR,Secretary of Agriculture,,DEM,John Norwood,89,33,56
+Keokuk,ER-LB,Secretary of Agriculture,,DEM,John Norwood,80,29,51
+Keokuk,JA-RL,Secretary of Agriculture,,DEM,John Norwood,85,34,51
+Keokuk,LF-CC,Secretary of Agriculture,,DEM,John Norwood,120,43,77
+Keokuk,EL-WL-WN,Secretary of Agriculture,,DEM,John Norwood,40,14,26
+Keokuk,SG-PL-VB,Secretary of Agriculture,,DEM,John Norwood,42,18,24
+Keokuk,SG1,Secretary of Agriculture,,DEM,John Norwood,41,11,30
+Keokuk,SG2,Secretary of Agriculture,,DEM,John Norwood,50,22,28
+Keokuk,SG3,Secretary of Agriculture,,DEM,John Norwood,30,10,20
+Keokuk,SG4,Secretary of Agriculture,,DEM,John Norwood,41,14,27
+Keokuk,AD-PR-WS,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,BN-SR,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,ER-LB,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,JA-RL,Secretary of Agriculture,,,Write-in,1,0,1
+Keokuk,LF-CC,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,EL-WL-WN,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,SG-PL-VB,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,SG1,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,SG2,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,SG3,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,SG4,Secretary of Agriculture,,,Write-in,0,0,0
+Keokuk,AD-PR-WS,Attorney General,,REP,Brenna Bird,339,52,287
+Keokuk,BN-SR,Attorney General,,REP,Brenna Bird,325,39,286
+Keokuk,ER-LB,Attorney General,,REP,Brenna Bird,214,26,188
+Keokuk,JA-RL,Attorney General,,REP,Brenna Bird,377,38,339
+Keokuk,LF-CC,Attorney General,,REP,Brenna Bird,385,50,335
+Keokuk,EL-WL-WN,Attorney General,,REP,Brenna Bird,208,51,157
+Keokuk,SG-PL-VB,Attorney General,,REP,Brenna Bird,231,27,204
+Keokuk,SG1,Attorney General,,REP,Brenna Bird,115,22,93
+Keokuk,SG2,Attorney General,,REP,Brenna Bird,123,25,98
+Keokuk,SG3,Attorney General,,REP,Brenna Bird,98,19,79
+Keokuk,SG4,Attorney General,,REP,Brenna Bird,100,20,80
+Keokuk,AD-PR-WS,Attorney General,,DEM,Tom Miller,196,64,132
+Keokuk,BN-SR,Attorney General,,DEM,Tom Miller,110,32,78
+Keokuk,ER-LB,Attorney General,,DEM,Tom Miller,128,41,87
+Keokuk,JA-RL,Attorney General,,DEM,Tom Miller,134,47,87
+Keokuk,LF-CC,Attorney General,,DEM,Tom Miller,205,63,142
+Keokuk,EL-WL-WN,Attorney General,,DEM,Tom Miller,69,20,49
+Keokuk,SG-PL-VB,Attorney General,,DEM,Tom Miller,102,33,69
+Keokuk,SG1,Attorney General,,DEM,Tom Miller,81,19,62
+Keokuk,SG2,Attorney General,,DEM,Tom Miller,74,26,48
+Keokuk,SG3,Attorney General,,DEM,Tom Miller,56,20,36
+Keokuk,SG4,Attorney General,,DEM,Tom Miller,76,30,46
+Keokuk,AD-PR-WS,Attorney General,,,Write-in,0,0,0
+Keokuk,BN-SR,Attorney General,,,Write-in,0,0,0
+Keokuk,ER-LB,Attorney General,,,Write-in,0,0,0
+Keokuk,JA-RL,Attorney General,,,Write-in,1,0,1
+Keokuk,LF-CC,Attorney General,,,Write-in,0,0,0
+Keokuk,EL-WL-WN,Attorney General,,,Write-in,0,0,0
+Keokuk,SG-PL-VB,Attorney General,,,Write-in,1,0,1
+Keokuk,SG1,Attorney General,,,Write-in,0,0,0
+Keokuk,SG2,Attorney General,,,Write-in,0,0,0
+Keokuk,SG3,Attorney General,,,Write-in,0,0,0
+Keokuk,SG4,Attorney General,,,Write-in,0,0,0
+Keokuk,AD-PR-WS,State Senate,44,REP,Adrian Dickey,401,73,328
+Keokuk,BN-SR,State Senate,44,REP,Adrian Dickey,352,40,312
+Keokuk,ER-LB,State Senate,44,REP,Adrian Dickey,238,34,204
+Keokuk,JA-RL,State Senate,44,REP,Adrian Dickey,410,52,358
+Keokuk,LF-CC,State Senate,44,REP,Adrian Dickey,424,61,363
+Keokuk,EL-WL-WN,State Senate,44,REP,Adrian Dickey,225,56,169
+Keokuk,SG-PL-VB,State Senate,44,REP,Adrian Dickey,280,37,243
+Keokuk,SG1,State Senate,44,REP,Adrian Dickey,145,24,121
+Keokuk,SG2,State Senate,44,REP,Adrian Dickey,138,28,110
+Keokuk,SG3,State Senate,44,REP,Adrian Dickey,112,22,90
+Keokuk,SG4,State Senate,44,REP,Adrian Dickey,118,27,91
+Keokuk,AD-PR-WS,State Senate,44,DEM,Rich Taylor,133,40,93
+Keokuk,BN-SR,State Senate,44,DEM,Rich Taylor,91,32,59
+Keokuk,ER-LB,State Senate,44,DEM,Rich Taylor,96,31,65
+Keokuk,JA-RL,State Senate,44,DEM,Rich Taylor,102,37,65
+Keokuk,LF-CC,State Senate,44,DEM,Rich Taylor,149,49,100
+Keokuk,EL-WL-WN,State Senate,44,DEM,Rich Taylor,53,17,36
+Keokuk,SG-PL-VB,State Senate,44,DEM,Rich Taylor,49,22,27
+Keokuk,SG1,State Senate,44,DEM,Rich Taylor,51,13,38
+Keokuk,SG2,State Senate,44,DEM,Rich Taylor,59,23,36
+Keokuk,SG3,State Senate,44,DEM,Rich Taylor,34,11,23
+Keokuk,SG4,State Senate,44,DEM,Rich Taylor,55,19,36
+Keokuk,AD-PR-WS,State Senate,44,,Write-in,1,0,1
+Keokuk,BN-SR,State Senate,44,,Write-in,0,0,0
+Keokuk,ER-LB,State Senate,44,,Write-in,0,0,0
+Keokuk,JA-RL,State Senate,44,,Write-in,3,0,3
+Keokuk,LF-CC,State Senate,44,,Write-in,0,0,0
+Keokuk,EL-WL-WN,State Senate,44,,Write-in,0,0,0
+Keokuk,SG-PL-VB,State Senate,44,,Write-in,0,0,0
+Keokuk,SG1,State Senate,44,,Write-in,0,0,0
+Keokuk,SG2,State Senate,44,,Write-in,0,0,0
+Keokuk,SG3,State Senate,44,,Write-in,0,0,0
+Keokuk,SG4,State Senate,44,,Write-in,0,0,0
+Keokuk,AD-PR-WS,State House,88,REP,Helena J. Hayes,402,72,330
+Keokuk,BN-SR,State House,88,REP,Helena J. Hayes,350,41,309
+Keokuk,ER-LB,State House,88,REP,Helena J. Hayes,244,35,209
+Keokuk,JA-RL,State House,88,REP,Helena J. Hayes,407,48,359
+Keokuk,LF-CC,State House,88,REP,Helena J. Hayes,412,61,351
+Keokuk,EL-WL-WN,State House,88,REP,Helena J. Hayes,226,56,170
+Keokuk,SG-PL-VB,State House,88,REP,Helena J. Hayes,269,38,231
+Keokuk,SG1,State House,88,REP,Helena J. Hayes,134,25,109
+Keokuk,SG2,State House,88,REP,Helena J. Hayes,134,28,106
+Keokuk,SG3,State House,88,REP,Helena J. Hayes,108,23,85
+Keokuk,SG4,State House,88,REP,Helena J. Hayes,115,28,87
+Keokuk,AD-PR-WS,State House,88,DEM,Lisa Ossian,129,39,90
+Keokuk,BN-SR,State House,88,DEM,Lisa Ossian,93,32,61
+Keokuk,ER-LB,State House,88,DEM,Lisa Ossian,92,30,62
+Keokuk,JA-RL,State House,88,DEM,Lisa Ossian,99,37,62
+Keokuk,LF-CC,State House,88,DEM,Lisa Ossian,151,49,102
+Keokuk,EL-WL-WN,State House,88,DEM,Lisa Ossian,47,14,33
+Keokuk,SG-PL-VB,State House,88,DEM,Lisa Ossian,54,20,34
+Keokuk,SG1,State House,88,DEM,Lisa Ossian,63,14,49
+Keokuk,SG2,State House,88,DEM,Lisa Ossian,60,23,37
+Keokuk,SG3,State House,88,DEM,Lisa Ossian,35,10,25
+Keokuk,SG4,State House,88,DEM,Lisa Ossian,59,21,38
+Keokuk,AD-PR-WS,State House,88,,Write-in,1,1,0
+Keokuk,BN-SR,State House,88,,Write-in,0,0,0
+Keokuk,ER-LB,State House,88,,Write-in,1,0,1
+Keokuk,JA-RL,State House,88,,Write-in,0,0,0
+Keokuk,LF-CC,State House,88,,Write-in,0,0,0
+Keokuk,EL-WL-WN,State House,88,,Write-in,1,0,1
+Keokuk,SG-PL-VB,State House,88,,Write-in,1,0,1
+Keokuk,SG1,State House,88,,Write-in,0,0,0
+Keokuk,SG2,State House,88,,Write-in,0,0,0
+Keokuk,SG3,State House,88,,Write-in,0,0,0
+Keokuk,SG4,State House,88,,Write-in,0,0,0
+Keokuk,AD-PR-WS,County Board of Supervisors At Large,,REP,Michael C. Hadley,364,71,293
+Keokuk,BN-SR,County Board of Supervisors At Large,,REP,Michael C. Hadley,292,44,248
+Keokuk,ER-LB,County Board of Supervisors At Large,,REP,Michael C. Hadley,242,39,203
+Keokuk,JA-RL,County Board of Supervisors At Large,,REP,Michael C. Hadley,365,51,314
+Keokuk,LF-CC,County Board of Supervisors At Large,,REP,Michael C. Hadley,463,74,389
+Keokuk,EL-WL-WN,County Board of Supervisors At Large,,REP,Michael C. Hadley,148,34,114
+Keokuk,SG-PL-VB,County Board of Supervisors At Large,,REP,Michael C. Hadley,255,47,208
+Keokuk,SG1,County Board of Supervisors At Large,,REP,Michael C. Hadley,130,28,102
+Keokuk,SG2,County Board of Supervisors At Large,,REP,Michael C. Hadley,148,36,112
+Keokuk,SG3,County Board of Supervisors At Large,,REP,Michael C. Hadley,98,27,71
+Keokuk,SG4,County Board of Supervisors At Large,,REP,Michael C. Hadley,144,38,106
+Keokuk,AD-PR-WS,County Board of Supervisors At Large,,REP,Daryl Wood,367,86,281
+Keokuk,BN-SR,County Board of Supervisors At Large,,REP,Daryl Wood,294,41,253
+Keokuk,ER-LB,County Board of Supervisors At Large,,REP,Daryl Wood,196,39,157
+Keokuk,JA-RL,County Board of Supervisors At Large,,REP,Daryl Wood,337,54,283
+Keokuk,LF-CC,County Board of Supervisors At Large,,REP,Daryl Wood,312,77,235
+Keokuk,EL-WL-WN,County Board of Supervisors At Large,,REP,Daryl Wood,223,57,166
+Keokuk,SG-PL-VB,County Board of Supervisors At Large,,REP,Daryl Wood,234,46,188
+Keokuk,SG1,County Board of Supervisors At Large,,REP,Daryl Wood,172,33,139
+Keokuk,SG2,County Board of Supervisors At Large,,REP,Daryl Wood,132,33,99
+Keokuk,SG3,County Board of Supervisors At Large,,REP,Daryl Wood,130,33,97
+Keokuk,SG4,County Board of Supervisors At Large,,REP,Daryl Wood,121,35,86
+Keokuk,AD-PR-WS,County Board of Supervisors At Large,,,Write-in,5,0,5
+Keokuk,BN-SR,County Board of Supervisors At Large,,,Write-in,4,0,4
+Keokuk,ER-LB,County Board of Supervisors At Large,,,Write-in,5,3,2
+Keokuk,JA-RL,County Board of Supervisors At Large,,,Write-in,7,0,7
+Keokuk,LF-CC,County Board of Supervisors At Large,,,Write-in,7,1,6
+Keokuk,EL-WL-WN,County Board of Supervisors At Large,,,Write-in,2,0,2
+Keokuk,SG-PL-VB,County Board of Supervisors At Large,,,Write-in,6,0,6
+Keokuk,SG1,County Board of Supervisors At Large,,,Write-in,3,1,2
+Keokuk,SG2,County Board of Supervisors At Large,,,Write-in,4,2,2
+Keokuk,SG3,County Board of Supervisors At Large,,,Write-in,3,0,3
+Keokuk,SG4,County Board of Supervisors At Large,,,Write-in,1,0,1
+Keokuk,AD-PR-WS,County Treasurer,,REP,Christine Edmundson Long,510,108,402
+Keokuk,BN-SR,County Treasurer,,REP,Christine Edmundson Long,400,55,345
+Keokuk,ER-LB,County Treasurer,,REP,Christine Edmundson Long,304,59,245
+Keokuk,JA-RL,County Treasurer,,REP,Christine Edmundson Long,465,68,397
+Keokuk,LF-CC,County Treasurer,,REP,Christine Edmundson Long,528,98,430
+Keokuk,EL-WL-WN,County Treasurer,,REP,Christine Edmundson Long,254,59,195
+Keokuk,SG-PL-VB,County Treasurer,,REP,Christine Edmundson Long,306,51,255
+Keokuk,SG1,County Treasurer,,REP,Christine Edmundson Long,185,37,148
+Keokuk,SG2,County Treasurer,,REP,Christine Edmundson Long,183,44,139
+Keokuk,SG3,County Treasurer,,REP,Christine Edmundson Long,143,35,108
+Keokuk,SG4,County Treasurer,,REP,Christine Edmundson Long,160,39,121
+Keokuk,AD-PR-WS,County Treasurer,,,Write-in,2,0,2
+Keokuk,BN-SR,County Treasurer,,,Write-in,3,1,2
+Keokuk,ER-LB,County Treasurer,,,Write-in,4,1,3
+Keokuk,JA-RL,County Treasurer,,,Write-in,2,0,2
+Keokuk,LF-CC,County Treasurer,,,Write-in,0,0,0
+Keokuk,EL-WL-WN,County Treasurer,,,Write-in,0,0,0
+Keokuk,SG-PL-VB,County Treasurer,,,Write-in,0,0,0
+Keokuk,SG1,County Treasurer,,,Write-in,1,0,1
+Keokuk,SG2,County Treasurer,,,Write-in,0,0,0
+Keokuk,SG3,County Treasurer,,,Write-in,0,0,0
+Keokuk,SG4,County Treasurer,,,Write-in,2,1,1
+Keokuk,AD-PR-WS,County Recorder,,REP,Dawn T. Goldman,478,96,382
+Keokuk,BN-SR,County Recorder,,REP,Dawn T. Goldman,400,55,345
+Keokuk,ER-LB,County Recorder,,REP,Dawn T. Goldman,296,51,245
+Keokuk,JA-RL,County Recorder,,REP,Dawn T. Goldman,462,66,396
+Keokuk,LF-CC,County Recorder,,REP,Dawn T. Goldman,512,97,415
+Keokuk,EL-WL-WN,County Recorder,,REP,Dawn T. Goldman,259,63,196
+Keokuk,SG-PL-VB,County Recorder,,REP,Dawn T. Goldman,303,51,252
+Keokuk,SG1,County Recorder,,REP,Dawn T. Goldman,186,36,150
+Keokuk,SG2,County Recorder,,REP,Dawn T. Goldman,181,44,137
+Keokuk,SG3,County Recorder,,REP,Dawn T. Goldman,135,34,101
+Keokuk,SG4,County Recorder,,REP,Dawn T. Goldman,158,40,118
+Keokuk,AD-PR-WS,County Recorder,,,Write-in,2,0,2
+Keokuk,BN-SR,County Recorder,,,Write-in,1,0,1
+Keokuk,ER-LB,County Recorder,,,Write-in,2,1,1
+Keokuk,JA-RL,County Recorder,,,Write-in,1,0,1
+Keokuk,LF-CC,County Recorder,,,Write-in,0,0,0
+Keokuk,EL-WL-WN,County Recorder,,,Write-in,0,0,0
+Keokuk,SG-PL-VB,County Recorder,,,Write-in,0,0,0
+Keokuk,SG1,County Recorder,,,Write-in,1,0,1
+Keokuk,SG2,County Recorder,,,Write-in,0,0,0
+Keokuk,SG3,County Recorder,,,Write-in,0,0,0
+Keokuk,SG4,County Recorder,,,Write-in,1,0,1
+Keokuk,AD-PR-WS,County Attorney,,REP,Amber L. Thompson,475,92,383
+Keokuk,BN-SR,County Attorney,,REP,Amber L. Thompson,389,51,338
+Keokuk,ER-LB,County Attorney,,REP,Amber L. Thompson,295,53,242
+Keokuk,JA-RL,County Attorney,,REP,Amber L. Thompson,462,64,398
+Keokuk,LF-CC,County Attorney,,REP,Amber L. Thompson,514,96,418
+Keokuk,EL-WL-WN,County Attorney,,REP,Amber L. Thompson,251,61,190
+Keokuk,SG-PL-VB,County Attorney,,REP,Amber L. Thompson,313,55,258
+Keokuk,SG1,County Attorney,,REP,Amber L. Thompson,188,39,149
+Keokuk,SG2,County Attorney,,REP,Amber L. Thompson,182,42,140
+Keokuk,SG3,County Attorney,,REP,Amber L. Thompson,134,31,103
+Keokuk,SG4,County Attorney,,REP,Amber L. Thompson,158,39,119
+Keokuk,AD-PR-WS,County Attorney,,,Write-in,3,0,3
+Keokuk,BN-SR,County Attorney,,,Write-in,6,0,6
+Keokuk,ER-LB,County Attorney,,,Write-in,3,1,2
+Keokuk,JA-RL,County Attorney,,,Write-in,1,0,1
+Keokuk,LF-CC,County Attorney,,,Write-in,1,0,1
+Keokuk,EL-WL-WN,County Attorney,,,Write-in,1,0,1
+Keokuk,SG-PL-VB,County Attorney,,,Write-in,0,0,0
+Keokuk,SG1,County Attorney,,,Write-in,1,0,1
+Keokuk,SG2,County Attorney,,,Write-in,2,0,2
+Keokuk,SG3,County Attorney,,,Write-in,0,0,0
+Keokuk,SG4,County Attorney,,,Write-in,2,0,2
+Keokuk,AD-PR-WS,Adams Township Trustee,,,Chris Dietrich,81,27,54
+Keokuk,AD-PR-WS,Adams Township Trustee,,,Write-in,1,1,0
+Keokuk,AD-PR-WS,Adams Township Trustee,,Write-In,Lynn Fisher,7,1,6
+Keokuk,AD-PR-WS,Adams Township Clerk,,,Avery Montz,78,27,51
+Keokuk,AD-PR-WS,Adams Township Clerk,,,Write-in,0,0,0
+Keokuk,BN-SR,Benton Township Trustee,,,Ivan Roquet,76,11,65
+Keokuk,BN-SR,Benton Township Trustee,,,Rick Abel,83,12,71
+Keokuk,BN-SR,Benton Township Trustee,,,Write-in,1,0,1
+Keokuk,BN-SR,Benton Township Clerk,,,Linda Abel,86,12,74
+Keokuk,BN-SR,Benton Township Clerk,,,Write-in,1,0,1
+Keokuk,LF-CC,Clear Creek Township Trustee,,,Jaris C. Horning,94,24,70
+Keokuk,LF-CC,Clear Creek Township Trustee,,,Write-in,2,0,2
+Keokuk,LF-CC,Clear Creek Township Trustee,,Write-In,Ryan Baker,2,2,0
+Keokuk,LF-CC,Clear Creek Township Trustee,,Write-In,Christopher Berg,2,0,2
+Keokuk,LF-CC,Clear Creek Township Trustee,,Write-In,Dan Horras,2,0,2
+Keokuk,LF-CC,Clear Creek Township Clerk,,,Alan Berg,85,20,65
+Keokuk,LF-CC,Clear Creek Township Clerk,,,Write-in,0,0,0
+Keokuk,EL-WL-WN,East Lancaster Township Trustee,,,David B. Klein,30,4,26
+Keokuk,EL-WL-WN,East Lancaster Township Trustee,,,John Dumont,28,4,24
+Keokuk,EL-WL-WN,East Lancaster Township Trustee,,,Write-in,0,0,0
+Keokuk,EL-WL-WN,East Lancaster Township Clerk,,,Write-in,1,1,0
+Keokuk,ER-LB,English River Township Trustee,,,Tom Baird,93,19,74
+Keokuk,ER-LB,English River Township Trustee,,,Write-in,3,1,2
+Keokuk,ER-LB,English River Township Trustee,,Write-In,Clint Schmidt,2,0,2
+Keokuk,ER-LB,English River Township Clerk,,,Connie C. Brubaker,90,21,69
+Keokuk,ER-LB,English River Township Clerk,,,Write-in,0,0,0
+Keokuk,JA-RL,Jackson Township Trustee,,,Allen Chapman,111,26,85
+Keokuk,JA-RL,Jackson Township Trustee,,,Write-in,1,0,1
+Keokuk,JA-RL,Jackson Township Trustee,,Write-In,Scott Vetter,1,0,1
+Keokuk,JA-RL,Jackson Township Trustee,,Write-In,Rob Wonderlich,1,0,1
+Keokuk,JA-RL,Jackson Township Trustee,,Write-In,Scott Leather,1,0,1
+Keokuk,JA-RL,Jackson Township Trustee,,Write-In,John Swanson,1,0,1
+Keokuk,JA-RL,Jackson Township Trustee,,Write-In,David Silvers,1,0,1
+Keokuk,JA-RL,Jackson Township Clerk,,,Julie Swanson,114,28,86
+Keokuk,JA-RL,Jackson Township Clerk,,,Write-in,1,0,1
+Keokuk,LF-CC,Lafayette Township Trustee,,,Denny Lyle,92,24,68
+Keokuk,LF-CC,Lafayette Township Trustee,,,Tom Adam,89,23,66
+Keokuk,LF-CC,Lafayette Township Trustee,,,Write-in,1,1,0
+Keokuk,LF-CC,Lafayette Township Trustee To Fill a Vacancy,,,Mitch Sieren,82,20,62
+Keokuk,LF-CC,Lafayette Township Trustee To Fill a Vacancy,,,Write-in,4,2,2
+Keokuk,LF-CC,Lafayette Township Clerk,,,Kevin Luers,94,24,70
+Keokuk,LF-CC,Lafayette Township Clerk,,,Write-in,1,1,0
+Keokuk,ER-LB,Liberty Township Trustee,,,Matthew Clarahan,74,7,67
+Keokuk,ER-LB,Liberty Township Trustee,,,Bryan Coffman,79,6,73
+Keokuk,ER-LB,Liberty Township Trustee,,,Write-in,5,4,1
+Keokuk,ER-LB,Liberty Township Clerk,,,Write-in,0,0,0
+Keokuk,ER-LB,Liberty Township Clerk,,Write-In,Rick Kerr,1,0,1
+Keokuk,SG-PL-VB,Plank Township Trustee,,,Stephen Heisdorffer,113,21,92
+Keokuk,SG-PL-VB,Plank Township Trustee,,,Write-in,4,0,4
+Keokuk,SG-PL-VB,Plank Township Trustee,,Write-In,David Linder,7,0,7
+Keokuk,SG-PL-VB,Plank Township Clerk,,,Holly A. Martin,115,20,95
+Keokuk,SG-PL-VB,Plank Township Clerk,,,Write-in,0,0,0
+Keokuk,AD-PR-WS,Prairie Township Trustee,,,Kelvin Gale,70,13,57
+Keokuk,AD-PR-WS,Prairie Township Trustee,,,Write-in,1,0,1
+Keokuk,AD-PR-WS,Prairie Township Trustee,,Write-In,Geoff Eyler,9,0,9
+Keokuk,AD-PR-WS,Prairie Township Clerk,,,Judith Christner,71,12,59
+Keokuk,AD-PR-WS,Prairie Township Clerk,,,Write-in,0,0,0
+Keokuk,JA-RL,Richland Township Trustee,,,Andy Adam,102,12,90
+Keokuk,JA-RL,Richland Township Trustee,,,Write-in,0,0,0
+Keokuk,JA-RL,Richland Township Trustee,,Write-In,Eric Hackert,1,0,1
+Keokuk,JA-RL,Richland Township Trustee,,Write-In,Craig Hackert,1,0,1
+Keokuk,JA-RL,Richland Township Trustee,,Write-In,Brett Slaughbaugh,1,0,1
+Keokuk,JA-RL,Richland Township Clerk,,,Jim Krier,91,8,83
+Keokuk,JA-RL,Richland Township Clerk,,,Write-in,2,1,1
+Keokuk,SG-PL-VB,Sigourney Township Trustee,,,Terry Steinhart,63,10,53
+Keokuk,SG-PL-VB,Sigourney Township Trustee,,,Ronald A. Waechter,67,10,57
+Keokuk,SG-PL-VB,Sigourney Township Trustee,,,Write-in,1,0,1
+Keokuk,SG-PL-VB,Sigourney Township Clerk,,,Irene Cassens,68,9,59
+Keokuk,SG-PL-VB,Sigourney Township Clerk,,,Write-in,0,0,0
+Keokuk,BN-SR,Steady Run Township Trustee,,,David Jones,77,12,65
+Keokuk,BN-SR,Steady Run Township Trustee,,,Write-in,0,0,0
+Keokuk,BN-SR,Steady Run Township Trustee,,Write-In,Allan Perkins,1,0,1
+Keokuk,BN-SR,Steady Run Township Trustee,,Write-In,Andrew Long,1,0,1
+Keokuk,BN-SR,Steady Run Township Trustee,,Write-In,James Campbell,1,0,1
+Keokuk,BN-SR,Steady Run Township Trustee,,Write-In,Greg Millikin,1,0,1
+Keokuk,BN-SR,Steady Run Township Clerk,,,Pamela Perkins,67,6,61
+Keokuk,BN-SR,Steady Run Township Clerk,,,Write-in,1,0,1
+Keokuk,SG-PL-VB,For Van Buren Township Trustee,,,Gary L. Waechter,93,18,75
+Keokuk,SG-PL-VB,For Van Buren Township Trustee,,,Jarred Gann,74,12,62
+Keokuk,SG-PL-VB,For Van Buren Township Trustee,,,Write-in,4,2,2
+Keokuk,SG-PL-VB,Van Buren Township Clerk,,,Dan Kitzman,102,16,86
+Keokuk,SG-PL-VB,Van Buren Township Clerk,,,Write-in,1,0,1
+Keokuk,EL-WL-WN,Warren Township Trustee,,,Doyle Abrams,59,19,40
+Keokuk,EL-WL-WN,Warren Township Trustee,,,Steve Buehneman,54,17,37
+Keokuk,EL-WL-WN,Warren Township Trustee,,,Write-in,0,0,0
+Keokuk,EL-WL-WN,Warren Township Clerk,,,June Y. Rice,69,21,48
+Keokuk,EL-WL-WN,Warren Township Clerk,,,Write-in,0,0,0
+Keokuk,AD-PR-WS,Washington Township Trustee,,,Kirk Beasley,76,14,62
+Keokuk,AD-PR-WS,Washington Township Trustee,,,Michael Striegel,86,14,72
+Keokuk,AD-PR-WS,Washington Township Trustee,,,Write-in,0,0,0
+Keokuk,AD-PR-WS,Washington Township Clerk,,,James L. Striegel,95,16,79
+Keokuk,AD-PR-WS,Washington Township Clerk,,,Write-in,0,0,0
+Keokuk,EL-WL-WN,West Lancaster Township Trustee,,,Ed Webb,64,12,52
+Keokuk,EL-WL-WN,West Lancaster Township Trustee,,,Gary Martin,49,9,40
+Keokuk,EL-WL-WN,West Lancaster Township Trustee,,,Write-in,1,0,1
+Keokuk,EL-WL-WN,West Lancaster Township Clerk,,,Janet D. Martin,65,13,52
+Keokuk,EL-WL-WN,West Lancaster Township Clerk,,,Write-in,0,0,0
+Keokuk,AD-PR-WS,Hospital Trustee,,,Judy Kay Striegel,396,80,316
+Keokuk,BN-SR,Hospital Trustee,,,Judy Kay Striegel,280,41,239
+Keokuk,ER-LB,Hospital Trustee,,,Judy Kay Striegel,203,38,165
+Keokuk,JA-RL,Hospital Trustee,,,Judy Kay Striegel,326,34,292
+Keokuk,LF-CC,Hospital Trustee,,,Judy Kay Striegel,312,68,244
+Keokuk,EL-WL-WN,Hospital Trustee,,,Judy Kay Striegel,157,34,123
+Keokuk,SG-PL-VB,Hospital Trustee,,,Judy Kay Striegel,203,38,165
+Keokuk,SG1,Hospital Trustee,,,Judy Kay Striegel,133,28,105
+Keokuk,SG2,Hospital Trustee,,,Judy Kay Striegel,117,34,83
+Keokuk,SG3,Hospital Trustee,,,Judy Kay Striegel,83,17,66
+Keokuk,SG4,Hospital Trustee,,,Judy Kay Striegel,121,33,88
+Keokuk,AD-PR-WS,Hospital Trustee,,,Ron Kurtz,312,59,253
+Keokuk,BN-SR,Hospital Trustee,,,Ron Kurtz,265,37,228
+Keokuk,ER-LB,Hospital Trustee,,,Ron Kurtz,200,36,164
+Keokuk,JA-RL,Hospital Trustee,,,Ron Kurtz,305,34,271
+Keokuk,LF-CC,Hospital Trustee,,,Ron Kurtz,310,66,244
+Keokuk,EL-WL-WN,Hospital Trustee,,,Ron Kurtz,164,39,125
+Keokuk,SG-PL-VB,Hospital Trustee,,,Ron Kurtz,206,36,170
+Keokuk,SG1,Hospital Trustee,,,Ron Kurtz,139,30,109
+Keokuk,SG2,Hospital Trustee,,,Ron Kurtz,128,37,91
+Keokuk,SG3,Hospital Trustee,,,Ron Kurtz,93,20,73
+Keokuk,SG4,Hospital Trustee,,,Ron Kurtz,119,30,89
+Keokuk,AD-PR-WS,Hospital Trustee,,,Jan Parcell,303,60,243
+Keokuk,BN-SR,Hospital Trustee,,,Jan Parcell,266,43,223
+Keokuk,ER-LB,Hospital Trustee,,,Jan Parcell,192,36,156
+Keokuk,JA-RL,Hospital Trustee,,,Jan Parcell,319,36,283
+Keokuk,LF-CC,Hospital Trustee,,,Jan Parcell,332,73,259
+Keokuk,EL-WL-WN,Hospital Trustee,,,Jan Parcell,181,40,141
+Keokuk,SG-PL-VB,Hospital Trustee,,,Jan Parcell,231,43,188
+Keokuk,SG1,Hospital Trustee,,,Jan Parcell,154,33,121
+Keokuk,SG2,Hospital Trustee,,,Jan Parcell,149,38,111
+Keokuk,SG3,Hospital Trustee,,,Jan Parcell,111,24,87
+Keokuk,SG4,Hospital Trustee,,,Jan Parcell,137,34,103
+Keokuk,AD-PR-WS,Hospital Trustee,,,Frank C. Mertz,296,59,237
+Keokuk,BN-SR,Hospital Trustee,,,Frank C. Mertz,230,40,190
+Keokuk,ER-LB,Hospital Trustee,,,Frank C. Mertz,241,44,197
+Keokuk,JA-RL,Hospital Trustee,,,Frank C. Mertz,287,33,254
+Keokuk,LF-CC,Hospital Trustee,,,Frank C. Mertz,295,65,230
+Keokuk,EL-WL-WN,Hospital Trustee,,,Frank C. Mertz,147,36,111
+Keokuk,SG-PL-VB,Hospital Trustee,,,Frank C. Mertz,187,37,150
+Keokuk,SG1,Hospital Trustee,,,Frank C. Mertz,125,24,101
+Keokuk,SG2,Hospital Trustee,,,Frank C. Mertz,118,33,85
+Keokuk,SG3,Hospital Trustee,,,Frank C. Mertz,85,16,69
+Keokuk,SG4,Hospital Trustee,,,Frank C. Mertz,122,34,88
+Keokuk,AD-PR-WS,Hospital Trustee,,,Write-in,10,1,9
+Keokuk,BN-SR,Hospital Trustee,,,Write-in,15,4,11
+Keokuk,ER-LB,Hospital Trustee,,,Write-in,11,6,5
+Keokuk,JA-RL,Hospital Trustee,,,Write-in,5,1,4
+Keokuk,LF-CC,Hospital Trustee,,,Write-in,16,4,12
+Keokuk,EL-WL-WN,Hospital Trustee,,,Write-in,3,1,2
+Keokuk,SG-PL-VB,Hospital Trustee,,,Write-in,23,3,20
+Keokuk,SG1,Hospital Trustee,,,Write-in,3,1,2
+Keokuk,SG2,Hospital Trustee,,,Write-in,3,2,1
+Keokuk,SG3,Hospital Trustee,,,Write-in,6,0,6
+Keokuk,SG4,Hospital Trustee,,,Write-in,4,1,3
+Keokuk,AD-PR-WS,Hospital Trustee,,Write-In,Jodi Greiner,7,0,7
+Keokuk,BN-SR,Hospital Trustee,,Write-In,Jodi Greiner,17,0,17
+Keokuk,ER-LB,Hospital Trustee,,Write-In,Jodi Greiner,2,0,2
+Keokuk,JA-RL,Hospital Trustee,,Write-In,Jodi Greiner,7,0,7
+Keokuk,LF-CC,Hospital Trustee,,Write-In,Jodi Greiner,21,1,20
+Keokuk,EL-WL-WN,Hospital Trustee,,Write-In,Jodi Greiner,8,0,8
+Keokuk,SG-PL-VB,Hospital Trustee,,Write-In,Jodi Greiner,18,3,15
+Keokuk,SG1,Hospital Trustee,,Write-In,Jodi Greiner,8,2,6
+Keokuk,SG2,Hospital Trustee,,Write-In,Jodi Greiner,15,2,13
+Keokuk,SG3,Hospital Trustee,,Write-In,Jodi Greiner,17,2,15
+Keokuk,SG4,Hospital Trustee,,Write-In,Jodi Greiner,15,0,15
+Keokuk,AD-PR-WS,Soil and Water Conservation District Commissioner,,,Donald Millikin,308,60,248
+Keokuk,BN-SR,Soil and Water Conservation District Commissioner,,,Donald Millikin,356,51,305
+Keokuk,ER-LB,Soil and Water Conservation District Commissioner,,,Donald Millikin,204,33,171
+Keokuk,JA-RL,Soil and Water Conservation District Commissioner,,,Donald Millikin,346,43,303
+Keokuk,LF-CC,Soil and Water Conservation District Commissioner,,,Donald Millikin,289,67,222
+Keokuk,EL-WL-WN,Soil and Water Conservation District Commissioner,,,Donald Millikin,167,37,130
+Keokuk,SG-PL-VB,Soil and Water Conservation District Commissioner,,,Donald Millikin,209,37,172
+Keokuk,SG1,Soil and Water Conservation District Commissioner,,,Donald Millikin,134,29,105
+Keokuk,SG2,Soil and Water Conservation District Commissioner,,,Donald Millikin,124,33,91
+Keokuk,SG3,Soil and Water Conservation District Commissioner,,,Donald Millikin,84,23,61
+Keokuk,SG4,Soil and Water Conservation District Commissioner,,,Donald Millikin,123,34,89
+Keokuk,AD-PR-WS,Soil and Water Conservation District Commissioner,,,Gary Bates,420,84,336
+Keokuk,BN-SR,Soil and Water Conservation District Commissioner,,,Gary Bates,242,39,203
+Keokuk,ER-LB,Soil and Water Conservation District Commissioner,,,Gary Bates,222,38,184
+Keokuk,JA-RL,Soil and Water Conservation District Commissioner,,,Gary Bates,300,44,256
+Keokuk,LF-CC,Soil and Water Conservation District Commissioner,,,Gary Bates,333,71,262
+Keokuk,EL-WL-WN,Soil and Water Conservation District Commissioner,,,Gary Bates,191,44,147
+Keokuk,SG-PL-VB,Soil and Water Conservation District Commissioner,,,Gary Bates,241,42,199
+Keokuk,SG1,Soil and Water Conservation District Commissioner,,,Gary Bates,155,28,127
+Keokuk,SG2,Soil and Water Conservation District Commissioner,,,Gary Bates,136,36,100
+Keokuk,SG3,Soil and Water Conservation District Commissioner,,,Gary Bates,96,20,76
+Keokuk,SG4,Soil and Water Conservation District Commissioner,,,Gary Bates,123,30,93
+Keokuk,AD-PR-WS,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Keokuk,BN-SR,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Keokuk,ER-LB,Soil and Water Conservation District Commissioner,,,Write-in,1,1,0
+Keokuk,JA-RL,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Keokuk,LF-CC,Soil and Water Conservation District Commissioner,,,Write-in,4,1,3
+Keokuk,EL-WL-WN,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Keokuk,SG-PL-VB,Soil and Water Conservation District Commissioner,,,Write-in,5,0,5
+Keokuk,SG1,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Keokuk,SG2,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Keokuk,SG3,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Keokuk,SG4,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Keokuk,AD-PR-WS,County Agricultural Extension Council Member,,,Janis Collins,357,71,286
+Keokuk,BN-SR,County Agricultural Extension Council Member,,,Janis Collins,244,33,211
+Keokuk,ER-LB,County Agricultural Extension Council Member,,,Janis Collins,208,42,166
+Keokuk,JA-RL,County Agricultural Extension Council Member,,,Janis Collins,293,40,253
+Keokuk,LF-CC,County Agricultural Extension Council Member,,,Janis Collins,293,67,226
+Keokuk,EL-WL-WN,County Agricultural Extension Council Member,,,Janis Collins,171,39,132
+Keokuk,SG-PL-VB,County Agricultural Extension Council Member,,,Janis Collins,236,42,194
+Keokuk,SG1,County Agricultural Extension Council Member,,,Janis Collins,147,32,115
+Keokuk,SG2,County Agricultural Extension Council Member,,,Janis Collins,116,31,85
+Keokuk,SG3,County Agricultural Extension Council Member,,,Janis Collins,98,24,74
+Keokuk,SG4,County Agricultural Extension Council Member,,,Janis Collins,118,30,88
+Keokuk,AD-PR-WS,County Agricultural Extension Council Member,,,Carla Dumont,292,58,234
+Keokuk,BN-SR,County Agricultural Extension Council Member,,,Carla Dumont,241,36,205
+Keokuk,ER-LB,County Agricultural Extension Council Member,,,Carla Dumont,180,36,144
+Keokuk,JA-RL,County Agricultural Extension Council Member,,,Carla Dumont,294,32,262
+Keokuk,LF-CC,County Agricultural Extension Council Member,,,Carla Dumont,290,62,228
+Keokuk,EL-WL-WN,County Agricultural Extension Council Member,,,Carla Dumont,162,36,126
+Keokuk,SG-PL-VB,County Agricultural Extension Council Member,,,Carla Dumont,212,42,170
+Keokuk,SG1,County Agricultural Extension Council Member,,,Carla Dumont,144,32,112
+Keokuk,SG2,County Agricultural Extension Council Member,,,Carla Dumont,120,34,86
+Keokuk,SG3,County Agricultural Extension Council Member,,,Carla Dumont,95,22,73
+Keokuk,SG4,County Agricultural Extension Council Member,,,Carla Dumont,120,30,90
+Keokuk,AD-PR-WS,County Agricultural Extension Council Member,,,Michael Bensmiller,289,59,230
+Keokuk,BN-SR,County Agricultural Extension Council Member,,,Michael Bensmiller,271,45,226
+Keokuk,ER-LB,County Agricultural Extension Council Member,,,Michael Bensmiller,189,36,153
+Keokuk,JA-RL,County Agricultural Extension Council Member,,,Michael Bensmiller,287,33,254
+Keokuk,LF-CC,County Agricultural Extension Council Member,,,Michael Bensmiller,278,58,220
+Keokuk,EL-WL-WN,County Agricultural Extension Council Member,,,Michael Bensmiller,174,39,135
+Keokuk,SG-PL-VB,County Agricultural Extension Council Member,,,Michael Bensmiller,222,42,180
+Keokuk,SG1,County Agricultural Extension Council Member,,,Michael Bensmiller,142,31,111
+Keokuk,SG2,County Agricultural Extension Council Member,,,Michael Bensmiller,134,38,96
+Keokuk,SG3,County Agricultural Extension Council Member,,,Michael Bensmiller,104,22,82
+Keokuk,SG4,County Agricultural Extension Council Member,,,Michael Bensmiller,125,31,94
+Keokuk,AD-PR-WS,County Agricultural Extension Council Member,,,Heather Bombei,374,68,306
+Keokuk,BN-SR,County Agricultural Extension Council Member,,,Heather Bombei,248,38,210
+Keokuk,ER-LB,County Agricultural Extension Council Member,,,Heather Bombei,195,37,158
+Keokuk,JA-RL,County Agricultural Extension Council Member,,,Heather Bombei,310,33,277
+Keokuk,LF-CC,County Agricultural Extension Council Member,,,Heather Bombei,315,68,247
+Keokuk,EL-WL-WN,County Agricultural Extension Council Member,,,Heather Bombei,168,41,127
+Keokuk,SG-PL-VB,County Agricultural Extension Council Member,,,Heather Bombei,224,40,184
+Keokuk,SG1,County Agricultural Extension Council Member,,,Heather Bombei,143,28,115
+Keokuk,SG2,County Agricultural Extension Council Member,,,Heather Bombei,125,34,91
+Keokuk,SG3,County Agricultural Extension Council Member,,,Heather Bombei,96,23,73
+Keokuk,SG4,County Agricultural Extension Council Member,,,Heather Bombei,118,30,88
+Keokuk,AD-PR-WS,County Agricultural Extension Council Member,,,Clint Mikesell,336,71,265
+Keokuk,BN-SR,County Agricultural Extension Council Member,,,Clint Mikesell,236,35,201
+Keokuk,ER-LB,County Agricultural Extension Council Member,,,Clint Mikesell,248,54,194
+Keokuk,JA-RL,County Agricultural Extension Council Member,,,Clint Mikesell,290,33,257
+Keokuk,LF-CC,County Agricultural Extension Council Member,,,Clint Mikesell,310,62,248
+Keokuk,EL-WL-WN,County Agricultural Extension Council Member,,,Clint Mikesell,158,36,122
+Keokuk,SG-PL-VB,County Agricultural Extension Council Member,,,Clint Mikesell,238,45,193
+Keokuk,SG1,County Agricultural Extension Council Member,,,Clint Mikesell,136,29,107
+Keokuk,SG2,County Agricultural Extension Council Member,,,Clint Mikesell,124,38,86
+Keokuk,SG3,County Agricultural Extension Council Member,,,Clint Mikesell,95,20,75
+Keokuk,SG4,County Agricultural Extension Council Member,,,Clint Mikesell,116,28,88
+Keokuk,AD-PR-WS,County Agricultural Extension Council Member,,,Write-in,4,0,4
+Keokuk,BN-SR,County Agricultural Extension Council Member,,,Write-in,7,0,7
+Keokuk,ER-LB,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Keokuk,JA-RL,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Keokuk,LF-CC,County Agricultural Extension Council Member,,,Write-in,4,1,3
+Keokuk,EL-WL-WN,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Keokuk,SG-PL-VB,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Keokuk,SG1,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Keokuk,SG2,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Keokuk,SG3,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Keokuk,SG4,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Keokuk,AD-PR-WS,Supreme Court Justice,,,Yes,256,43,213
+Keokuk,BN-SR,Supreme Court Justice,,,Yes,237,32,205
+Keokuk,ER-LB,Supreme Court Justice,,,Yes,158,22,136
+Keokuk,JA-RL,Supreme Court Justice,,,Yes,275,29,246
+Keokuk,LF-CC,Supreme Court Justice,,,Yes,259,60,199
+Keokuk,EL-WL-WN,Supreme Court Justice,,,Yes,122,20,102
+Keokuk,SG-PL-VB,Supreme Court Justice,,,Yes,158,28,130
+Keokuk,SG1,Supreme Court Justice,,,Yes,104,18,86
+Keokuk,SG2,Supreme Court Justice,,,Yes,89,24,65
+Keokuk,SG3,Supreme Court Justice,,,Yes,69,13,56
+Keokuk,SG4,Supreme Court Justice,,,Yes,100,26,74
+Keokuk,AD-PR-WS,Supreme Court Justice,,,No,116,25,91
+Keokuk,BN-SR,Supreme Court Justice,,,No,102,15,87
+Keokuk,ER-LB,Supreme Court Justice,,,No,85,20,65
+Keokuk,JA-RL,Supreme Court Justice,,,No,91,20,71
+Keokuk,LF-CC,Supreme Court Justice,,,No,80,13,67
+Keokuk,EL-WL-WN,Supreme Court Justice,,,No,60,17,43
+Keokuk,SG-PL-VB,Supreme Court Justice,,,No,66,13,53
+Keokuk,SG1,Supreme Court Justice,,,No,37,9,28
+Keokuk,SG2,Supreme Court Justice,,,No,43,14,29
+Keokuk,SG3,Supreme Court Justice,,,No,16,3,13
+Keokuk,SG4,Supreme Court Justice,,,No,32,7,25
+Keokuk,AD-PR-WS,Court of Appeals Judge,,,Yes,238,35,203
+Keokuk,BN-SR,Court of Appeals Judge,,,Yes,234,30,204
+Keokuk,ER-LB,Court of Appeals Judge,,,Yes,145,21,124
+Keokuk,JA-RL,Court of Appeals Judge,,,Yes,266,28,238
+Keokuk,LF-CC,Court of Appeals Judge,,,Yes,245,61,184
+Keokuk,EL-WL-WN,Court of Appeals Judge,,,Yes,116,20,96
+Keokuk,SG-PL-VB,Court of Appeals Judge,,,Yes,159,31,128
+Keokuk,SG1,Court of Appeals Judge,,,Yes,107,21,86
+Keokuk,SG2,Court of Appeals Judge,,,Yes,84,22,62
+Keokuk,SG3,Court of Appeals Judge,,,Yes,63,12,51
+Keokuk,SG4,Court of Appeals Judge,,,Yes,104,24,80
+Keokuk,AD-PR-WS,Court of Appeals Judge,,,No,117,24,93
+Keokuk,BN-SR,Court of Appeals Judge,,,No,97,14,83
+Keokuk,ER-LB,Court of Appeals Judge,,,No,92,19,73
+Keokuk,JA-RL,Court of Appeals Judge,,,No,91,19,72
+Keokuk,LF-CC,Court of Appeals Judge,,,No,75,12,63
+Keokuk,EL-WL-WN,Court of Appeals Judge,,,No,66,16,50
+Keokuk,SG-PL-VB,Court of Appeals Judge,,,No,70,12,58
+Keokuk,SG1,Court of Appeals Judge,,,No,38,8,30
+Keokuk,SG2,Court of Appeals Judge,,,No,40,10,30
+Keokuk,SG3,Court of Appeals Judge,,,No,18,4,14
+Keokuk,SG4,Court of Appeals Judge,,,No,23,6,17
+Keokuk,AD-PR-WS,District 8A Judge,,,Yes,373,79,294
+Keokuk,BN-SR,District 8A Judge,,,Yes,284,44,240
+Keokuk,ER-LB,District 8A Judge,,,Yes,205,38,167
+Keokuk,JA-RL,District 8A Judge,,,Yes,323,46,277
+Keokuk,LF-CC,District 8A Judge,,,Yes,359,76,283
+Keokuk,EL-WL-WN,District 8A Judge,,,Yes,199,46,153
+Keokuk,SG-PL-VB,District 8A Judge,,,Yes,271,44,227
+Keokuk,SG1,District 8A Judge,,,Yes,166,33,133
+Keokuk,SG2,District 8A Judge,,,Yes,156,38,118
+Keokuk,SG3,District 8A Judge,,,Yes,119,24,95
+Keokuk,SG4,District 8A Judge,,,Yes,154,43,111
+Keokuk,AD-PR-WS,District 8A Judge,,,No,86,14,72
+Keokuk,BN-SR,District 8A Judge,,,No,86,10,76
+Keokuk,ER-LB,District 8A Judge,,,No,70,18,52
+Keokuk,JA-RL,District 8A Judge,,,No,85,16,69
+Keokuk,LF-CC,District 8A Judge,,,No,62,8,54
+Keokuk,EL-WL-WN,District 8A Judge,,,No,48,13,35
+Keokuk,SG-PL-VB,District 8A Judge,,,No,37,8,29
+Keokuk,SG1,District 8A Judge,,,No,16,3,13
+Keokuk,SG2,District 8A Judge,,,No,21,6,15
+Keokuk,SG3,District 8A Judge,,,No,13,6,7
+Keokuk,SG4,District 8A Judge,,,No,10,1,9
+Keokuk,AD-PR-WS,District 8A Associate Judge,,,Yes,267,41,226
+Keokuk,BN-SR,District 8A Associate Judge,,,Yes,256,35,221
+Keokuk,ER-LB,District 8A Associate Judge,,,Yes,159,24,135
+Keokuk,JA-RL,District 8A Associate Judge,,,Yes,285,31,254
+Keokuk,LF-CC,District 8A Associate Judge,,,Yes,263,64,199
+Keokuk,EL-WL-WN,District 8A Associate Judge,,,Yes,127,24,103
+Keokuk,SG-PL-VB,District 8A Associate Judge,,,Yes,177,30,147
+Keokuk,SG1,District 8A Associate Judge,,,Yes,122,25,97
+Keokuk,SG2,District 8A Associate Judge,,,Yes,107,29,78
+Keokuk,SG3,District 8A Associate Judge,,,Yes,70,13,57
+Keokuk,SG4,District 8A Associate Judge,,,Yes,114,30,84
+Keokuk,AD-PR-WS,District 8A Associate Judge,,,No,101,24,77
+Keokuk,BN-SR,District 8A Associate Judge,,,No,90,13,77
+Keokuk,ER-LB,District 8A Associate Judge,,,No,83,18,65
+Keokuk,JA-RL,District 8A Associate Judge,,,No,83,17,66
+Keokuk,LF-CC,District 8A Associate Judge,,,No,70,9,61
+Keokuk,EL-WL-WN,District 8A Associate Judge,,,No,59,15,44
+Keokuk,SG-PL-VB,District 8A Associate Judge,,,No,55,12,43
+Keokuk,SG1,District 8A Associate Judge,,,No,31,6,25
+Keokuk,SG2,District 8A Associate Judge,,,No,32,7,25
+Keokuk,SG3,District 8A Associate Judge,,,No,13,5,8
+Keokuk,SG4,District 8A Associate Judge,,,No,20,4,16
+Keokuk,AD-PR-WS,District 8A Associate Juvenile Judge,,,Yes,277,45,232
+Keokuk,BN-SR,District 8A Associate Juvenile Judge,,,Yes,264,35,229
+Keokuk,ER-LB,District 8A Associate Juvenile Judge,,,Yes,169,24,145
+Keokuk,JA-RL,District 8A Associate Juvenile Judge,,,Yes,290,34,256
+Keokuk,LF-CC,District 8A Associate Juvenile Judge,,,Yes,275,63,212
+Keokuk,EL-WL-WN,District 8A Associate Juvenile Judge,,,Yes,130,28,102
+Keokuk,SG-PL-VB,District 8A Associate Juvenile Judge,,,Yes,173,32,141
+Keokuk,SG1,District 8A Associate Juvenile Judge,,,Yes,121,25,96
+Keokuk,SG2,District 8A Associate Juvenile Judge,,,Yes,110,30,80
+Keokuk,SG3,District 8A Associate Juvenile Judge,,,Yes,69,11,58
+Keokuk,SG4,District 8A Associate Juvenile Judge,,,Yes,118,30,88
+Keokuk,AD-PR-WS,District 8A Associate Juvenile Judge,,,No,99,21,78
+Keokuk,BN-SR,District 8A Associate Juvenile Judge,,,No,84,12,72
+Keokuk,ER-LB,District 8A Associate Juvenile Judge,,,No,70,18,52
+Keokuk,JA-RL,District 8A Associate Juvenile Judge,,,No,79,14,65
+Keokuk,LF-CC,District 8A Associate Juvenile Judge,,,No,63,10,53
+Keokuk,EL-WL-WN,District 8A Associate Juvenile Judge,,,No,58,13,45
+Keokuk,SG-PL-VB,District 8A Associate Juvenile Judge,,,No,57,13,44
+Keokuk,SG1,District 8A Associate Juvenile Judge,,,No,30,6,24
+Keokuk,SG2,District 8A Associate Juvenile Judge,,,No,27,6,21
+Keokuk,SG3,District 8A Associate Juvenile Judge,,,No,12,5,7
+Keokuk,SG4,District 8A Associate Juvenile Judge,,,No,18,4,14
+Keokuk,AD-PR-WS,Constitutional Amendment 1,,,Yes,430,78,352
+Keokuk,BN-SR,Constitutional Amendment 1,,,Yes,355,45,310
+Keokuk,ER-LB,Constitutional Amendment 1,,,Yes,256,36,220
+Keokuk,JA-RL,Constitutional Amendment 1,,,Yes,400,48,352
+Keokuk,LF-CC,Constitutional Amendment 1,,,Yes,412,65,347
+Keokuk,EL-WL-WN,Constitutional Amendment 1,,,Yes,230,56,174
+Keokuk,SG-PL-VB,Constitutional Amendment 1,,,Yes,260,36,224
+Keokuk,SG1,Constitutional Amendment 1,,,Yes,142,29,113
+Keokuk,SG2,Constitutional Amendment 1,,,Yes,138,32,106
+Keokuk,SG3,Constitutional Amendment 1,,,Yes,103,24,79
+Keokuk,SG4,Constitutional Amendment 1,,,Yes,126,25,101
+Keokuk,AD-PR-WS,Constitutional Amendment 1,,,No,92,34,58
+Keokuk,BN-SR,Constitutional Amendment 1,,,No,64,22,42
+Keokuk,ER-LB,Constitutional Amendment 1,,,No,75,28,47
+Keokuk,JA-RL,Constitutional Amendment 1,,,No,79,24,55
+Keokuk,LF-CC,Constitutional Amendment 1,,,No,114,30,84
+Keokuk,EL-WL-WN,Constitutional Amendment 1,,,No,36,7,29
+Keokuk,SG-PL-VB,Constitutional Amendment 1,,,No,59,23,36
+Keokuk,SG1,Constitutional Amendment 1,,,No,43,10,33
+Keokuk,SG2,Constitutional Amendment 1,,,No,43,14,29
+Keokuk,SG3,Constitutional Amendment 1,,,No,31,5,26
+Keokuk,SG4,Constitutional Amendment 1,,,No,43,19,24

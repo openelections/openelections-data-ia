@@ -1,0 +1,944 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Marshall,Bangor/Liscomb/Taylor,U.S. Senate,,REP,Chuck Grassley,524,136,388
+Marshall,Eden/Logan/Washington,U.S. Senate,,REP,Chuck Grassley,641,94,547
+Marshall,Green Castle/Le Grand,U.S. Senate,,REP,Chuck Grassley,664,124,540
+Marshall,Jefferson/Timber Creek,U.S. Senate,,REP,Chuck Grassley,623,213,410
+Marshall,Liberty/Marietta/Minerva,U.S. Senate,,REP,Chuck Grassley,355,44,311
+Marshall,Marion/Vienna,U.S. Senate,,REP,Chuck Grassley,389,81,308
+Marshall,Marshalltown City 1-1,U.S. Senate,,REP,Chuck Grassley,127,34,93
+Marshall,Marshalltown City 1-2,U.S. Senate,,REP,Chuck Grassley,156,41,115
+Marshall,Marshalltown City 2-1,U.S. Senate,,REP,Chuck Grassley,400,162,238
+Marshall,Marshalltown City 2-2,U.S. Senate,,REP,Chuck Grassley,604,247,357
+Marshall,Marshalltown City 3-1,U.S. Senate,,REP,Chuck Grassley,619,243,376
+Marshall,Marshalltown City 3-2,U.S. Senate,,REP,Chuck Grassley,694,297,397
+Marshall,Marshalltown City 4-1,U.S. Senate,,REP,Chuck Grassley,402,129,273
+Marshall,Marshalltown City 4-2,U.S. Senate,,REP,Chuck Grassley,536,163,373
+Marshall,State Center,U.S. Senate,,REP,Chuck Grassley,573,83,490
+Marshall,Bangor/Liscomb/Taylor,U.S. Senate,,DEM,Michael Franken,298,115,183
+Marshall,Eden/Logan/Washington,U.S. Senate,,DEM,Michael Franken,301,90,211
+Marshall,Green Castle/Le Grand,U.S. Senate,,DEM,Michael Franken,330,106,224
+Marshall,Jefferson/Timber Creek,U.S. Senate,,DEM,Michael Franken,255,138,117
+Marshall,Liberty/Marietta/Minerva,U.S. Senate,,DEM,Michael Franken,128,40,88
+Marshall,Marion/Vienna,U.S. Senate,,DEM,Michael Franken,188,84,104
+Marshall,Marshalltown City 1-1,U.S. Senate,,DEM,Michael Franken,183,66,117
+Marshall,Marshalltown City 1-2,U.S. Senate,,DEM,Michael Franken,217,110,107
+Marshall,Marshalltown City 2-1,U.S. Senate,,DEM,Michael Franken,423,224,199
+Marshall,Marshalltown City 2-2,U.S. Senate,,DEM,Michael Franken,548,306,242
+Marshall,Marshalltown City 3-1,U.S. Senate,,DEM,Michael Franken,519,263,256
+Marshall,Marshalltown City 3-2,U.S. Senate,,DEM,Michael Franken,554,316,238
+Marshall,Marshalltown City 4-1,U.S. Senate,,DEM,Michael Franken,395,194,201
+Marshall,Marshalltown City 4-2,U.S. Senate,,DEM,Michael Franken,459,220,239
+Marshall,State Center,U.S. Senate,,DEM,Michael Franken,262,76,186
+Marshall,Bangor/Liscomb/Taylor,U.S. Senate,,,Write-in,1,0,1
+Marshall,Eden/Logan/Washington,U.S. Senate,,,Write-in,3,0,3
+Marshall,Green Castle/Le Grand,U.S. Senate,,,Write-in,2,0,2
+Marshall,Jefferson/Timber Creek,U.S. Senate,,,Write-in,0,0,0
+Marshall,Liberty/Marietta/Minerva,U.S. Senate,,,Write-in,0,0,0
+Marshall,Marion/Vienna,U.S. Senate,,,Write-in,1,0,1
+Marshall,Marshalltown City 1-1,U.S. Senate,,,Write-in,0,0,0
+Marshall,Marshalltown City 1-2,U.S. Senate,,,Write-in,0,0,0
+Marshall,Marshalltown City 2-1,U.S. Senate,,,Write-in,1,0,1
+Marshall,Marshalltown City 2-2,U.S. Senate,,,Write-in,2,1,1
+Marshall,Marshalltown City 3-1,U.S. Senate,,,Write-in,0,0,0
+Marshall,Marshalltown City 3-2,U.S. Senate,,,Write-in,2,1,1
+Marshall,Marshalltown City 4-1,U.S. Senate,,,Write-in,2,1,1
+Marshall,Marshalltown City 4-2,U.S. Senate,,,Write-in,2,0,2
+Marshall,State Center,U.S. Senate,,,Write-in,0,0,0
+Marshall,Bangor/Liscomb/Taylor,U.S. House,4,REP,Randy Feenstra,537,142,395
+Marshall,Eden/Logan/Washington,U.S. House,4,REP,Randy Feenstra,643,91,552
+Marshall,Green Castle/Le Grand,U.S. House,4,REP,Randy Feenstra,665,121,544
+Marshall,Jefferson/Timber Creek,U.S. House,4,REP,Randy Feenstra,627,217,410
+Marshall,Liberty/Marietta/Minerva,U.S. House,4,REP,Randy Feenstra,359,44,315
+Marshall,Marion/Vienna,U.S. House,4,REP,Randy Feenstra,386,79,307
+Marshall,Marshalltown City 1-1,U.S. House,4,REP,Randy Feenstra,119,31,88
+Marshall,Marshalltown City 1-2,U.S. House,4,REP,Randy Feenstra,155,40,115
+Marshall,Marshalltown City 2-1,U.S. House,4,REP,Randy Feenstra,376,145,231
+Marshall,Marshalltown City 2-2,U.S. House,4,REP,Randy Feenstra,601,248,353
+Marshall,Marshalltown City 3-1,U.S. House,4,REP,Randy Feenstra,621,239,382
+Marshall,Marshalltown City 3-2,U.S. House,4,REP,Randy Feenstra,674,285,389
+Marshall,Marshalltown City 4-1,U.S. House,4,REP,Randy Feenstra,385,118,267
+Marshall,Marshalltown City 4-2,U.S. House,4,REP,Randy Feenstra,529,161,368
+Marshall,State Center,U.S. House,4,REP,Randy Feenstra,579,88,491
+Marshall,Bangor/Liscomb/Taylor,U.S. House,4,DEM,Ryan Melton,255,102,153
+Marshall,Eden/Logan/Washington,U.S. House,4,DEM,Ryan Melton,268,86,182
+Marshall,Green Castle/Le Grand,U.S. House,4,DEM,Ryan Melton,285,102,183
+Marshall,Jefferson/Timber Creek,U.S. House,4,DEM,Ryan Melton,226,129,97
+Marshall,Liberty/Marietta/Minerva,U.S. House,4,DEM,Ryan Melton,110,37,73
+Marshall,Marion/Vienna,U.S. House,4,DEM,Ryan Melton,171,82,89
+Marshall,Marshalltown City 1-1,U.S. House,4,DEM,Ryan Melton,178,68,110
+Marshall,Marshalltown City 1-2,U.S. House,4,DEM,Ryan Melton,197,105,92
+Marshall,Marshalltown City 2-1,U.S. House,4,DEM,Ryan Melton,402,216,186
+Marshall,Marshalltown City 2-2,U.S. House,4,DEM,Ryan Melton,502,287,215
+Marshall,Marshalltown City 3-1,U.S. House,4,DEM,Ryan Melton,472,249,223
+Marshall,Marshalltown City 3-2,U.S. House,4,DEM,Ryan Melton,527,307,220
+Marshall,Marshalltown City 4-1,U.S. House,4,DEM,Ryan Melton,376,188,188
+Marshall,Marshalltown City 4-2,U.S. House,4,DEM,Ryan Melton,431,205,226
+Marshall,State Center,U.S. House,4,DEM,Ryan Melton,233,70,163
+Marshall,Bangor/Liscomb/Taylor,U.S. House,4,LBC,Bryan Jack Holder,23,5,18
+Marshall,Eden/Logan/Washington,U.S. House,4,LBC,Bryan Jack Holder,20,4,16
+Marshall,Green Castle/Le Grand,U.S. House,4,LBC,Bryan Jack Holder,25,6,19
+Marshall,Jefferson/Timber Creek,U.S. House,4,LBC,Bryan Jack Holder,12,1,11
+Marshall,Liberty/Marietta/Minerva,U.S. House,4,LBC,Bryan Jack Holder,5,0,5
+Marshall,Marion/Vienna,U.S. House,4,LBC,Bryan Jack Holder,13,1,12
+Marshall,Marshalltown City 1-1,U.S. House,4,LBC,Bryan Jack Holder,11,2,9
+Marshall,Marshalltown City 1-2,U.S. House,4,LBC,Bryan Jack Holder,10,1,9
+Marshall,Marshalltown City 2-1,U.S. House,4,LBC,Bryan Jack Holder,26,14,12
+Marshall,Marshalltown City 2-2,U.S. House,4,LBC,Bryan Jack Holder,23,8,15
+Marshall,Marshalltown City 3-1,U.S. House,4,LBC,Bryan Jack Holder,27,8,19
+Marshall,Marshalltown City 3-2,U.S. House,4,LBC,Bryan Jack Holder,20,5,15
+Marshall,Marshalltown City 4-1,U.S. House,4,LBC,Bryan Jack Holder,19,10,9
+Marshall,Marshalltown City 4-2,U.S. House,4,LBC,Bryan Jack Holder,20,7,13
+Marshall,State Center,U.S. House,4,LBC,Bryan Jack Holder,13,1,12
+Marshall,Bangor/Liscomb/Taylor,U.S. House,4,,Write-in,0,0,0
+Marshall,Eden/Logan/Washington,U.S. House,4,,Write-in,2,0,2
+Marshall,Green Castle/Le Grand,U.S. House,4,,Write-in,1,0,1
+Marshall,Jefferson/Timber Creek,U.S. House,4,,Write-in,0,0,0
+Marshall,Liberty/Marietta/Minerva,U.S. House,4,,Write-in,0,0,0
+Marshall,Marion/Vienna,U.S. House,4,,Write-in,0,0,0
+Marshall,Marshalltown City 1-1,U.S. House,4,,Write-in,0,0,0
+Marshall,Marshalltown City 1-2,U.S. House,4,,Write-in,0,0,0
+Marshall,Marshalltown City 2-1,U.S. House,4,,Write-in,2,1,1
+Marshall,Marshalltown City 2-2,U.S. House,4,,Write-in,0,0,0
+Marshall,Marshalltown City 3-1,U.S. House,4,,Write-in,0,0,0
+Marshall,Marshalltown City 3-2,U.S. House,4,,Write-in,0,0,0
+Marshall,Marshalltown City 4-1,U.S. House,4,,Write-in,0,0,0
+Marshall,Marshalltown City 4-2,U.S. House,4,,Write-in,2,0,2
+Marshall,State Center,U.S. House,4,,Write-in,0,0,0
+Marshall,Bangor/Liscomb/Taylor,Governor,,REP,Kim Reynolds and Adam Gregg,554,145,409
+Marshall,Eden/Logan/Washington,Governor,,REP,Kim Reynolds and Adam Gregg,657,94,563
+Marshall,Green Castle/Le Grand,Governor,,REP,Kim Reynolds and Adam Gregg,691,129,562
+Marshall,Jefferson/Timber Creek,Governor,,REP,Kim Reynolds and Adam Gregg,642,225,417
+Marshall,Liberty/Marietta/Minerva,Governor,,REP,Kim Reynolds and Adam Gregg,364,48,316
+Marshall,Marion/Vienna,Governor,,REP,Kim Reynolds and Adam Gregg,402,86,316
+Marshall,Marshalltown City 1-1,Governor,,REP,Kim Reynolds and Adam Gregg,131,35,96
+Marshall,Marshalltown City 1-2,Governor,,REP,Kim Reynolds and Adam Gregg,167,44,123
+Marshall,Marshalltown City 2-1,Governor,,REP,Kim Reynolds and Adam Gregg,402,178,224
+Marshall,Marshalltown City 2-2,Governor,,REP,Kim Reynolds and Adam Gregg,634,259,375
+Marshall,Marshalltown City 3-1,Governor,,REP,Kim Reynolds and Adam Gregg,642,247,395
+Marshall,Marshalltown City 3-2,Governor,,REP,Kim Reynolds and Adam Gregg,719,307,412
+Marshall,Marshalltown City 4-1,Governor,,REP,Kim Reynolds and Adam Gregg,408,133,275
+Marshall,Marshalltown City 4-2,Governor,,REP,Kim Reynolds and Adam Gregg,545,166,379
+Marshall,State Center,Governor,,REP,Kim Reynolds and Adam Gregg,586,89,497
+Marshall,Bangor/Liscomb/Taylor,Governor,,DEM,Deidre DeJear and Eric Van Lancker,243,104,139
+Marshall,Eden/Logan/Washington,Governor,,DEM,Deidre DeJear and Eric Van Lancker,260,86,174
+Marshall,Green Castle/Le Grand,Governor,,DEM,Deidre DeJear and Eric Van Lancker,276,93,183
+Marshall,Jefferson/Timber Creek,Governor,,DEM,Deidre DeJear and Eric Van Lancker,223,125,98
+Marshall,Liberty/Marietta/Minerva,Governor,,DEM,Deidre DeJear and Eric Van Lancker,113,35,78
+Marshall,Marion/Vienna,Governor,,DEM,Deidre DeJear and Eric Van Lancker,162,73,89
+Marshall,Marshalltown City 1-1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,172,62,110
+Marshall,Marshalltown City 1-2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,196,101,95
+Marshall,Marshalltown City 2-1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,393,196,197
+Marshall,Marshalltown City 2-2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,496,287,209
+Marshall,Marshalltown City 3-1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,484,253,231
+Marshall,Marshalltown City 3-2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,526,305,221
+Marshall,Marshalltown City 4-1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,373,181,192
+Marshall,Marshalltown City 4-2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,435,210,225
+Marshall,State Center,Governor,,DEM,Deidre DeJear and Eric Van Lancker,232,63,169
+Marshall,Bangor/Liscomb/Taylor,Governor,,LIB,Rick Stewart and Marco Battaglia,26,3,23
+Marshall,Eden/Logan/Washington,Governor,,LIB,Rick Stewart and Marco Battaglia,29,4,25
+Marshall,Green Castle/Le Grand,Governor,,LIB,Rick Stewart and Marco Battaglia,34,7,27
+Marshall,Jefferson/Timber Creek,Governor,,LIB,Rick Stewart and Marco Battaglia,11,2,9
+Marshall,Liberty/Marietta/Minerva,Governor,,LIB,Rick Stewart and Marco Battaglia,5,0,5
+Marshall,Marion/Vienna,Governor,,LIB,Rick Stewart and Marco Battaglia,14,5,9
+Marshall,Marshalltown City 1-1,Governor,,LIB,Rick Stewart and Marco Battaglia,10,4,6
+Marshall,Marshalltown City 1-2,Governor,,LIB,Rick Stewart and Marco Battaglia,12,7,5
+Marshall,Marshalltown City 2-1,Governor,,LIB,Rick Stewart and Marco Battaglia,27,13,14
+Marshall,Marshalltown City 2-2,Governor,,LIB,Rick Stewart and Marco Battaglia,22,7,15
+Marshall,Marshalltown City 3-1,Governor,,LIB,Rick Stewart and Marco Battaglia,15,5,10
+Marshall,Marshalltown City 3-2,Governor,,LIB,Rick Stewart and Marco Battaglia,9,3,6
+Marshall,Marshalltown City 4-1,Governor,,LIB,Rick Stewart and Marco Battaglia,16,9,7
+Marshall,Marshalltown City 4-2,Governor,,LIB,Rick Stewart and Marco Battaglia,15,5,10
+Marshall,State Center,Governor,,LIB,Rick Stewart and Marco Battaglia,15,5,10
+Marshall,Bangor/Liscomb/Taylor,Governor,,,Write-in,0,0,0
+Marshall,Eden/Logan/Washington,Governor,,,Write-in,0,0,0
+Marshall,Green Castle/Le Grand,Governor,,,Write-in,0,0,0
+Marshall,Jefferson/Timber Creek,Governor,,,Write-in,0,0,0
+Marshall,Liberty/Marietta/Minerva,Governor,,,Write-in,0,0,0
+Marshall,Marion/Vienna,Governor,,,Write-in,0,0,0
+Marshall,Marshalltown City 1-1,Governor,,,Write-in,0,0,0
+Marshall,Marshalltown City 1-2,Governor,,,Write-in,0,0,0
+Marshall,Marshalltown City 2-1,Governor,,,Write-in,1,0,1
+Marshall,Marshalltown City 2-2,Governor,,,Write-in,1,1,0
+Marshall,Marshalltown City 3-1,Governor,,,Write-in,0,0,0
+Marshall,Marshalltown City 3-2,Governor,,,Write-in,0,0,0
+Marshall,Marshalltown City 4-1,Governor,,,Write-in,0,0,0
+Marshall,Marshalltown City 4-2,Governor,,,Write-in,0,0,0
+Marshall,State Center,Governor,,,Write-in,0,0,0
+Marshall,Bangor/Liscomb/Taylor,Secretary of State,,REP,Paul D. Pate,558,155,403
+Marshall,Eden/Logan/Washington,Secretary of State,,REP,Paul D. Pate,663,98,565
+Marshall,Green Castle/Le Grand,Secretary of State,,REP,Paul D. Pate,707,132,575
+Marshall,Jefferson/Timber Creek,Secretary of State,,REP,Paul D. Pate,646,227,419
+Marshall,Liberty/Marietta/Minerva,Secretary of State,,REP,Paul D. Pate,367,47,320
+Marshall,Marion/Vienna,Secretary of State,,REP,Paul D. Pate,404,86,318
+Marshall,Marshalltown City 1-1,Secretary of State,,REP,Paul D. Pate,134,36,98
+Marshall,Marshalltown City 1-2,Secretary of State,,REP,Paul D. Pate,163,42,121
+Marshall,Marshalltown City 2-1,Secretary of State,,REP,Paul D. Pate,422,171,251
+Marshall,Marshalltown City 2-2,Secretary of State,,REP,Paul D. Pate,640,276,364
+Marshall,Marshalltown City 3-1,Secretary of State,,REP,Paul D. Pate,669,265,404
+Marshall,Marshalltown City 3-2,Secretary of State,,REP,Paul D. Pate,731,315,416
+Marshall,Marshalltown City 4-1,Secretary of State,,REP,Paul D. Pate,421,135,286
+Marshall,Marshalltown City 4-2,Secretary of State,,REP,Paul D. Pate,570,185,385
+Marshall,State Center,Secretary of State,,REP,Paul D. Pate,604,95,509
+Marshall,Bangor/Liscomb/Taylor,Secretary of State,,DEM,Joel Miller,245,91,154
+Marshall,Eden/Logan/Washington,Secretary of State,,DEM,Joel Miller,267,81,186
+Marshall,Green Castle/Le Grand,Secretary of State,,DEM,Joel Miller,269,93,176
+Marshall,Jefferson/Timber Creek,Secretary of State,,DEM,Joel Miller,215,122,93
+Marshall,Liberty/Marietta/Minerva,Secretary of State,,DEM,Joel Miller,108,36,72
+Marshall,Marion/Vienna,Secretary of State,,DEM,Joel Miller,164,77,87
+Marshall,Marshalltown City 1-1,Secretary of State,,DEM,Joel Miller,176,63,113
+Marshall,Marshalltown City 1-2,Secretary of State,,DEM,Joel Miller,198,107,91
+Marshall,Marshalltown City 2-1,Secretary of State,,DEM,Joel Miller,380,209,171
+Marshall,Marshalltown City 2-2,Secretary of State,,DEM,Joel Miller,476,264,212
+Marshall,Marshalltown City 3-1,Secretary of State,,DEM,Joel Miller,455,232,223
+Marshall,Marshalltown City 3-2,Secretary of State,,DEM,Joel Miller,497,293,204
+Marshall,Marshalltown City 4-1,Secretary of State,,DEM,Joel Miller,357,184,173
+Marshall,Marshalltown City 4-2,Secretary of State,,DEM,Joel Miller,409,190,219
+Marshall,State Center,Secretary of State,,DEM,Joel Miller,220,63,157
+Marshall,Bangor/Liscomb/Taylor,Secretary of State,,,Write-in,0,0,0
+Marshall,Eden/Logan/Washington,Secretary of State,,,Write-in,1,0,1
+Marshall,Green Castle/Le Grand,Secretary of State,,,Write-in,0,0,0
+Marshall,Jefferson/Timber Creek,Secretary of State,,,Write-in,0,0,0
+Marshall,Liberty/Marietta/Minerva,Secretary of State,,,Write-in,0,0,0
+Marshall,Marion/Vienna,Secretary of State,,,Write-in,0,0,0
+Marshall,Marshalltown City 1-1,Secretary of State,,,Write-in,0,0,0
+Marshall,Marshalltown City 1-2,Secretary of State,,,Write-in,0,0,0
+Marshall,Marshalltown City 2-1,Secretary of State,,,Write-in,1,0,1
+Marshall,Marshalltown City 2-2,Secretary of State,,,Write-in,1,0,1
+Marshall,Marshalltown City 3-1,Secretary of State,,,Write-in,0,0,0
+Marshall,Marshalltown City 3-2,Secretary of State,,,Write-in,0,0,0
+Marshall,Marshalltown City 4-1,Secretary of State,,,Write-in,1,0,1
+Marshall,Marshalltown City 4-2,Secretary of State,,,Write-in,0,0,0
+Marshall,State Center,Secretary of State,,,Write-in,0,0,0
+Marshall,Bangor/Liscomb/Taylor,Auditor of State,,REP,Todd Halbur,457,111,346
+Marshall,Eden/Logan/Washington,Auditor of State,,REP,Todd Halbur,570,81,489
+Marshall,Green Castle/Le Grand,Auditor of State,,REP,Todd Halbur,572,100,472
+Marshall,Jefferson/Timber Creek,Auditor of State,,REP,Todd Halbur,519,164,355
+Marshall,Liberty/Marietta/Minerva,Auditor of State,,REP,Todd Halbur,314,35,279
+Marshall,Marion/Vienna,Auditor of State,,REP,Todd Halbur,342,67,275
+Marshall,Marshalltown City 1-1,Auditor of State,,REP,Todd Halbur,105,22,83
+Marshall,Marshalltown City 1-2,Auditor of State,,REP,Todd Halbur,137,33,104
+Marshall,Marshalltown City 2-1,Auditor of State,,REP,Todd Halbur,342,126,216
+Marshall,Marshalltown City 2-2,Auditor of State,,REP,Todd Halbur,502,186,316
+Marshall,Marshalltown City 3-1,Auditor of State,,REP,Todd Halbur,523,201,322
+Marshall,Marshalltown City 3-2,Auditor of State,,REP,Todd Halbur,569,241,328
+Marshall,Marshalltown City 4-1,Auditor of State,,REP,Todd Halbur,337,100,237
+Marshall,Marshalltown City 4-2,Auditor of State,,REP,Todd Halbur,441,127,314
+Marshall,State Center,Auditor of State,,REP,Todd Halbur,480,69,411
+Marshall,Bangor/Liscomb/Taylor,Auditor of State,,DEM,Rob Sand,355,138,217
+Marshall,Eden/Logan/Washington,Auditor of State,,DEM,Rob Sand,362,100,262
+Marshall,Green Castle/Le Grand,Auditor of State,,DEM,Rob Sand,405,125,280
+Marshall,Jefferson/Timber Creek,Auditor of State,,DEM,Rob Sand,345,183,162
+Marshall,Liberty/Marietta/Minerva,Auditor of State,,DEM,Rob Sand,160,48,112
+Marshall,Marion/Vienna,Auditor of State,,DEM,Rob Sand,225,92,133
+Marshall,Marshalltown City 1-1,Auditor of State,,DEM,Rob Sand,202,78,124
+Marshall,Marshalltown City 1-2,Auditor of State,,DEM,Rob Sand,226,115,111
+Marshall,Marshalltown City 2-1,Auditor of State,,DEM,Rob Sand,467,250,217
+Marshall,Marshalltown City 2-2,Auditor of State,,DEM,Rob Sand,620,355,265
+Marshall,Marshalltown City 3-1,Auditor of State,,DEM,Rob Sand,600,298,302
+Marshall,Marshalltown City 3-2,Auditor of State,,DEM,Rob Sand,666,368,298
+Marshall,Marshalltown City 4-1,Auditor of State,,DEM,Rob Sand,447,219,228
+Marshall,Marshalltown City 4-2,Auditor of State,,DEM,Rob Sand,542,250,292
+Marshall,State Center,Auditor of State,,DEM,Rob Sand,344,89,255
+Marshall,Bangor/Liscomb/Taylor,Auditor of State,,,Write-in,0,0,0
+Marshall,Eden/Logan/Washington,Auditor of State,,,Write-in,2,0,2
+Marshall,Green Castle/Le Grand,Auditor of State,,,Write-in,2,1,1
+Marshall,Jefferson/Timber Creek,Auditor of State,,,Write-in,0,0,0
+Marshall,Liberty/Marietta/Minerva,Auditor of State,,,Write-in,0,0,0
+Marshall,Marion/Vienna,Auditor of State,,,Write-in,0,0,0
+Marshall,Marshalltown City 1-1,Auditor of State,,,Write-in,2,0,2
+Marshall,Marshalltown City 1-2,Auditor of State,,,Write-in,0,0,0
+Marshall,Marshalltown City 2-1,Auditor of State,,,Write-in,2,1,1
+Marshall,Marshalltown City 2-2,Auditor of State,,,Write-in,3,2,1
+Marshall,Marshalltown City 3-1,Auditor of State,,,Write-in,1,0,1
+Marshall,Marshalltown City 3-2,Auditor of State,,,Write-in,0,0,0
+Marshall,Marshalltown City 4-1,Auditor of State,,,Write-in,0,0,0
+Marshall,Marshalltown City 4-2,Auditor of State,,,Write-in,1,0,1
+Marshall,State Center,Auditor of State,,,Write-in,1,0,1
+Marshall,Bangor/Liscomb/Taylor,Treasurer of State,,REP,Roby Smith,470,117,353
+Marshall,Eden/Logan/Washington,Treasurer of State,,REP,Roby Smith,580,78,502
+Marshall,Green Castle/Le Grand,Treasurer of State,,REP,Roby Smith,598,106,492
+Marshall,Jefferson/Timber Creek,Treasurer of State,,REP,Roby Smith,531,172,359
+Marshall,Liberty/Marietta/Minerva,Treasurer of State,,REP,Roby Smith,307,36,271
+Marshall,Marion/Vienna,Treasurer of State,,REP,Roby Smith,340,66,274
+Marshall,Marshalltown City 1-1,Treasurer of State,,REP,Roby Smith,105,27,78
+Marshall,Marshalltown City 1-2,Treasurer of State,,REP,Roby Smith,132,31,101
+Marshall,Marshalltown City 2-1,Treasurer of State,,REP,Roby Smith,354,141,213
+Marshall,Marshalltown City 2-2,Treasurer of State,,REP,Roby Smith,506,193,313
+Marshall,Marshalltown City 3-1,Treasurer of State,,REP,Roby Smith,524,210,314
+Marshall,Marshalltown City 3-2,Treasurer of State,,REP,Roby Smith,580,236,344
+Marshall,Marshalltown City 4-1,Treasurer of State,,REP,Roby Smith,340,99,241
+Marshall,Marshalltown City 4-2,Treasurer of State,,REP,Roby Smith,459,145,314
+Marshall,State Center,Treasurer of State,,REP,Roby Smith,494,69,425
+Marshall,Bangor/Liscomb/Taylor,Treasurer of State,,DEM,Michael L. Fitzgerald,344,131,213
+Marshall,Eden/Logan/Washington,Treasurer of State,,DEM,Michael L. Fitzgerald,348,101,247
+Marshall,Green Castle/Le Grand,Treasurer of State,,DEM,Michael L. Fitzgerald,376,120,256
+Marshall,Jefferson/Timber Creek,Treasurer of State,,DEM,Michael L. Fitzgerald,333,174,159
+Marshall,Liberty/Marietta/Minerva,Treasurer of State,,DEM,Michael L. Fitzgerald,163,46,117
+Marshall,Marion/Vienna,Treasurer of State,,DEM,Michael L. Fitzgerald,226,95,131
+Marshall,Marshalltown City 1-1,Treasurer of State,,DEM,Michael L. Fitzgerald,204,74,130
+Marshall,Marshalltown City 1-2,Treasurer of State,,DEM,Michael L. Fitzgerald,231,118,113
+Marshall,Marshalltown City 2-1,Treasurer of State,,DEM,Michael L. Fitzgerald,459,243,216
+Marshall,Marshalltown City 2-2,Treasurer of State,,DEM,Michael L. Fitzgerald,619,351,268
+Marshall,Marshalltown City 3-1,Treasurer of State,,DEM,Michael L. Fitzgerald,602,292,310
+Marshall,Marshalltown City 3-2,Treasurer of State,,DEM,Michael L. Fitzgerald,652,367,285
+Marshall,Marshalltown City 4-1,Treasurer of State,,DEM,Michael L. Fitzgerald,446,218,228
+Marshall,Marshalltown City 4-2,Treasurer of State,,DEM,Michael L. Fitzgerald,528,234,294
+Marshall,State Center,Treasurer of State,,DEM,Michael L. Fitzgerald,332,90,242
+Marshall,Bangor/Liscomb/Taylor,Treasurer of State,,,Write-in,0,0,0
+Marshall,Eden/Logan/Washington,Treasurer of State,,,Write-in,2,0,2
+Marshall,Green Castle/Le Grand,Treasurer of State,,,Write-in,1,0,1
+Marshall,Jefferson/Timber Creek,Treasurer of State,,,Write-in,0,0,0
+Marshall,Liberty/Marietta/Minerva,Treasurer of State,,,Write-in,0,0,0
+Marshall,Marion/Vienna,Treasurer of State,,,Write-in,0,0,0
+Marshall,Marshalltown City 1-1,Treasurer of State,,,Write-in,1,0,1
+Marshall,Marshalltown City 1-2,Treasurer of State,,,Write-in,0,0,0
+Marshall,Marshalltown City 2-1,Treasurer of State,,,Write-in,1,0,1
+Marshall,Marshalltown City 2-2,Treasurer of State,,,Write-in,1,0,1
+Marshall,Marshalltown City 3-1,Treasurer of State,,,Write-in,0,0,0
+Marshall,Marshalltown City 3-2,Treasurer of State,,,Write-in,0,0,0
+Marshall,Marshalltown City 4-1,Treasurer of State,,,Write-in,0,0,0
+Marshall,Marshalltown City 4-2,Treasurer of State,,,Write-in,0,0,0
+Marshall,State Center,Treasurer of State,,,Write-in,0,0,0
+Marshall,Bangor/Liscomb/Taylor,Secretary of Agriculture,,REP,Mike Naig,562,150,412
+Marshall,Eden/Logan/Washington,Secretary of Agriculture,,REP,Mike Naig,685,99,586
+Marshall,Green Castle/Le Grand,Secretary of Agriculture,,REP,Mike Naig,732,138,594
+Marshall,Jefferson/Timber Creek,Secretary of Agriculture,,REP,Mike Naig,652,228,424
+Marshall,Liberty/Marietta/Minerva,Secretary of Agriculture,,REP,Mike Naig,373,49,324
+Marshall,Marion/Vienna,Secretary of Agriculture,,REP,Mike Naig,403,85,318
+Marshall,Marshalltown City 1-1,Secretary of Agriculture,,REP,Mike Naig,135,31,104
+Marshall,Marshalltown City 1-2,Secretary of Agriculture,,REP,Mike Naig,170,45,125
+Marshall,Marshalltown City 2-1,Secretary of Agriculture,,REP,Mike Naig,425,165,260
+Marshall,Marshalltown City 2-2,Secretary of Agriculture,,REP,Mike Naig,644,265,379
+Marshall,Marshalltown City 3-1,Secretary of Agriculture,,REP,Mike Naig,669,264,405
+Marshall,Marshalltown City 3-2,Secretary of Agriculture,,REP,Mike Naig,730,310,420
+Marshall,Marshalltown City 4-1,Secretary of Agriculture,,REP,Mike Naig,425,133,292
+Marshall,Marshalltown City 4-2,Secretary of Agriculture,,REP,Mike Naig,576,178,398
+Marshall,State Center,Secretary of Agriculture,,REP,Mike Naig,609,94,515
+Marshall,Bangor/Liscomb/Taylor,Secretary of Agriculture,,DEM,John Norwood,250,100,150
+Marshall,Eden/Logan/Washington,Secretary of Agriculture,,DEM,John Norwood,249,79,170
+Marshall,Green Castle/Le Grand,Secretary of Agriculture,,DEM,John Norwood,246,92,154
+Marshall,Jefferson/Timber Creek,Secretary of Agriculture,,DEM,John Norwood,205,119,86
+Marshall,Liberty/Marietta/Minerva,Secretary of Agriculture,,DEM,John Norwood,106,35,71
+Marshall,Marion/Vienna,Secretary of Agriculture,,DEM,John Norwood,159,74,85
+Marshall,Marshalltown City 1-1,Secretary of Agriculture,,DEM,John Norwood,171,69,102
+Marshall,Marshalltown City 1-2,Secretary of Agriculture,,DEM,John Norwood,185,98,87
+Marshall,Marshalltown City 2-1,Secretary of Agriculture,,DEM,John Norwood,382,211,171
+Marshall,Marshalltown City 2-2,Secretary of Agriculture,,DEM,John Norwood,471,272,199
+Marshall,Marshalltown City 3-1,Secretary of Agriculture,,DEM,John Norwood,442,224,218
+Marshall,Marshalltown City 3-2,Secretary of Agriculture,,DEM,John Norwood,483,284,199
+Marshall,Marshalltown City 4-1,Secretary of Agriculture,,DEM,John Norwood,347,175,172
+Marshall,Marshalltown City 4-2,Secretary of Agriculture,,DEM,John Norwood,400,197,203
+Marshall,State Center,Secretary of Agriculture,,DEM,John Norwood,217,65,152
+Marshall,Bangor/Liscomb/Taylor,Secretary of Agriculture,,,Write-in,0,0,0
+Marshall,Eden/Logan/Washington,Secretary of Agriculture,,,Write-in,2,1,1
+Marshall,Green Castle/Le Grand,Secretary of Agriculture,,,Write-in,0,0,0
+Marshall,Jefferson/Timber Creek,Secretary of Agriculture,,,Write-in,0,0,0
+Marshall,Liberty/Marietta/Minerva,Secretary of Agriculture,,,Write-in,0,0,0
+Marshall,Marion/Vienna,Secretary of Agriculture,,,Write-in,1,1,0
+Marshall,Marshalltown City 1-1,Secretary of Agriculture,,,Write-in,1,0,1
+Marshall,Marshalltown City 1-2,Secretary of Agriculture,,,Write-in,1,0,1
+Marshall,Marshalltown City 2-1,Secretary of Agriculture,,,Write-in,2,1,1
+Marshall,Marshalltown City 2-2,Secretary of Agriculture,,,Write-in,0,0,0
+Marshall,Marshalltown City 3-1,Secretary of Agriculture,,,Write-in,0,0,0
+Marshall,Marshalltown City 3-2,Secretary of Agriculture,,,Write-in,0,0,0
+Marshall,Marshalltown City 4-1,Secretary of Agriculture,,,Write-in,1,0,1
+Marshall,Marshalltown City 4-2,Secretary of Agriculture,,,Write-in,1,0,1
+Marshall,State Center,Secretary of Agriculture,,,Write-in,0,0,0
+Marshall,Bangor/Liscomb/Taylor,Attorney General,,REP,Brenna Bird,467,118,349
+Marshall,Eden/Logan/Washington,Attorney General,,REP,Brenna Bird,588,81,507
+Marshall,Green Castle/Le Grand,Attorney General,,REP,Brenna Bird,594,100,494
+Marshall,Jefferson/Timber Creek,Attorney General,,REP,Brenna Bird,514,153,361
+Marshall,Liberty/Marietta/Minerva,Attorney General,,REP,Brenna Bird,313,35,278
+Marshall,Marion/Vienna,Attorney General,,REP,Brenna Bird,334,65,269
+Marshall,Marshalltown City 1-1,Attorney General,,REP,Brenna Bird,104,25,79
+Marshall,Marshalltown City 1-2,Attorney General,,REP,Brenna Bird,136,34,102
+Marshall,Marshalltown City 2-1,Attorney General,,REP,Brenna Bird,329,125,204
+Marshall,Marshalltown City 2-2,Attorney General,,REP,Brenna Bird,491,171,320
+Marshall,Marshalltown City 3-1,Attorney General,,REP,Brenna Bird,511,188,323
+Marshall,Marshalltown City 3-2,Attorney General,,REP,Brenna Bird,556,222,334
+Marshall,Marshalltown City 4-1,Attorney General,,REP,Brenna Bird,335,93,242
+Marshall,Marshalltown City 4-2,Attorney General,,REP,Brenna Bird,458,133,325
+Marshall,State Center,Attorney General,,REP,Brenna Bird,496,70,426
+Marshall,Bangor/Liscomb/Taylor,Attorney General,,DEM,Tom Miller,349,134,215
+Marshall,Eden/Logan/Washington,Attorney General,,DEM,Tom Miller,349,103,246
+Marshall,Green Castle/Le Grand,Attorney General,,DEM,Tom Miller,391,127,264
+Marshall,Jefferson/Timber Creek,Attorney General,,DEM,Tom Miller,347,195,152
+Marshall,Liberty/Marietta/Minerva,Attorney General,,DEM,Tom Miller,168,49,119
+Marshall,Marion/Vienna,Attorney General,,DEM,Tom Miller,238,99,139
+Marshall,Marshalltown City 1-1,Attorney General,,DEM,Tom Miller,204,75,129
+Marshall,Marshalltown City 1-2,Attorney General,,DEM,Tom Miller,229,115,114
+Marshall,Marshalltown City 2-1,Attorney General,,DEM,Tom Miller,487,259,228
+Marshall,Marshalltown City 2-2,Attorney General,,DEM,Tom Miller,637,371,266
+Marshall,Marshalltown City 3-1,Attorney General,,DEM,Tom Miller,611,313,298
+Marshall,Marshalltown City 3-2,Attorney General,,DEM,Tom Miller,685,386,299
+Marshall,Marshalltown City 4-1,Attorney General,,DEM,Tom Miller,458,228,230
+Marshall,Marshalltown City 4-2,Attorney General,,DEM,Tom Miller,535,247,288
+Marshall,State Center,Attorney General,,DEM,Tom Miller,328,88,240
+Marshall,Bangor/Liscomb/Taylor,Attorney General,,,Write-in,0,0,0
+Marshall,Eden/Logan/Washington,Attorney General,,,Write-in,1,0,1
+Marshall,Green Castle/Le Grand,Attorney General,,,Write-in,1,0,1
+Marshall,Jefferson/Timber Creek,Attorney General,,,Write-in,0,0,0
+Marshall,Liberty/Marietta/Minerva,Attorney General,,,Write-in,0,0,0
+Marshall,Marion/Vienna,Attorney General,,,Write-in,0,0,0
+Marshall,Marshalltown City 1-1,Attorney General,,,Write-in,0,0,0
+Marshall,Marshalltown City 1-2,Attorney General,,,Write-in,1,1,0
+Marshall,Marshalltown City 2-1,Attorney General,,,Write-in,1,0,1
+Marshall,Marshalltown City 2-2,Attorney General,,,Write-in,1,0,1
+Marshall,Marshalltown City 3-1,Attorney General,,,Write-in,0,0,0
+Marshall,Marshalltown City 3-2,Attorney General,,,Write-in,0,0,0
+Marshall,Marshalltown City 4-1,Attorney General,,,Write-in,0,0,0
+Marshall,Marshalltown City 4-2,Attorney General,,,Write-in,0,0,0
+Marshall,State Center,Attorney General,,,Write-in,1,0,1
+Marshall,Bangor/Liscomb/Taylor,State House,51,REP,Dave Deyoe,550,151,399
+Marshall,Eden/Logan/Washington,State House,51,REP,Dave Deyoe,676,105,571
+Marshall,Liberty/Marietta/Minerva,State House,51,REP,Dave Deyoe,367,49,318
+Marshall,Marion/Vienna,State House,51,REP,Dave Deyoe,385,80,305
+Marshall,State Center,State House,51,REP,Dave Deyoe,596,98,498
+Marshall,Bangor/Liscomb/Taylor,State House,51,LIB,Joshua Herbert,192,65,127
+Marshall,Eden/Logan/Washington,State House,51,LIB,Joshua Herbert,196,43,153
+Marshall,Liberty/Marietta/Minerva,State House,51,LIB,Joshua Herbert,92,30,62
+Marshall,Marion/Vienna,State House,51,LIB,Joshua Herbert,124,53,71
+Marshall,State Center,State House,51,LIB,Joshua Herbert,175,37,138
+Marshall,Bangor/Liscomb/Taylor,State House,51,,Write-in,2,1,1
+Marshall,Eden/Logan/Washington,State House,51,,Write-in,6,3,3
+Marshall,Liberty/Marietta/Minerva,State House,51,,Write-in,1,1,0
+Marshall,Marion/Vienna,State House,51,,Write-in,3,1,2
+Marshall,State Center,State House,51,,Write-in,0,0,0
+Marshall,Green Castle/Le Grand,State House,52,DEM,Sue Cahill,546,142,404
+Marshall,Jefferson/Timber Creek,State House,52,DEM,Sue Cahill,477,220,257
+Marshall,Marshalltown City 1-1,State House,52,DEM,Sue Cahill,244,84,160
+Marshall,Marshalltown City 1-2,State House,52,DEM,Sue Cahill,277,129,148
+Marshall,Marshalltown City 2-1,State House,52,DEM,Sue Cahill,584,303,281
+Marshall,Marshalltown City 2-2,State House,52,DEM,Sue Cahill,774,410,364
+Marshall,Marshalltown City 3-1,State House,52,DEM,Sue Cahill,787,366,421
+Marshall,Marshalltown City 3-2,State House,52,DEM,Sue Cahill,838,433,405
+Marshall,Marshalltown City 4-1,State House,52,DEM,Sue Cahill,560,243,317
+Marshall,Marshalltown City 4-2,State House,52,DEM,Sue Cahill,675,290,385
+Marshall,Green Castle/Le Grand,State House,52,,Write-in,35,7,28
+Marshall,Jefferson/Timber Creek,State House,52,,Write-in,30,8,22
+Marshall,Marshalltown City 1-1,State House,52,,Write-in,10,1,9
+Marshall,Marshalltown City 1-2,State House,52,,Write-in,14,3,11
+Marshall,Marshalltown City 2-1,State House,52,,Write-in,19,2,17
+Marshall,Marshalltown City 2-2,State House,52,,Write-in,35,8,27
+Marshall,Marshalltown City 3-1,State House,52,,Write-in,26,8,18
+Marshall,Marshalltown City 3-2,State House,52,,Write-in,27,13,14
+Marshall,Marshalltown City 4-1,State House,52,,Write-in,23,2,21
+Marshall,Marshalltown City 4-2,State House,52,,Write-in,39,10,29
+Marshall,Bangor/Liscomb/Taylor,County Board of Supervisors At Large,,REP,Jarret P. Heil,460,122,338
+Marshall,Eden/Logan/Washington,County Board of Supervisors At Large,,REP,Jarret P. Heil,580,93,487
+Marshall,Green Castle/Le Grand,County Board of Supervisors At Large,,REP,Jarret P. Heil,599,113,486
+Marshall,Jefferson/Timber Creek,County Board of Supervisors At Large,,REP,Jarret P. Heil,551,199,352
+Marshall,Liberty/Marietta/Minerva,County Board of Supervisors At Large,,REP,Jarret P. Heil,322,44,278
+Marshall,Marion/Vienna,County Board of Supervisors At Large,,REP,Jarret P. Heil,327,78,249
+Marshall,Marshalltown City 1-1,County Board of Supervisors At Large,,REP,Jarret P. Heil,125,36,89
+Marshall,Marshalltown City 1-2,County Board of Supervisors At Large,,REP,Jarret P. Heil,137,45,92
+Marshall,Marshalltown City 2-1,County Board of Supervisors At Large,,REP,Jarret P. Heil,369,155,214
+Marshall,Marshalltown City 2-2,County Board of Supervisors At Large,,REP,Jarret P. Heil,572,257,315
+Marshall,Marshalltown City 3-1,County Board of Supervisors At Large,,REP,Jarret P. Heil,632,271,361
+Marshall,Marshalltown City 3-2,County Board of Supervisors At Large,,REP,Jarret P. Heil,665,309,356
+Marshall,Marshalltown City 4-1,County Board of Supervisors At Large,,REP,Jarret P. Heil,396,131,265
+Marshall,Marshalltown City 4-2,County Board of Supervisors At Large,,REP,Jarret P. Heil,530,181,349
+Marshall,State Center,County Board of Supervisors At Large,,REP,Jarret P. Heil,544,89,455
+Marshall,Bangor/Liscomb/Taylor,County Board of Supervisors At Large,,REP,Carol Hibbs,500,151,349
+Marshall,Eden/Logan/Washington,County Board of Supervisors At Large,,REP,Carol Hibbs,606,100,506
+Marshall,Green Castle/Le Grand,County Board of Supervisors At Large,,REP,Carol Hibbs,551,120,431
+Marshall,Jefferson/Timber Creek,County Board of Supervisors At Large,,REP,Carol Hibbs,577,212,365
+Marshall,Liberty/Marietta/Minerva,County Board of Supervisors At Large,,REP,Carol Hibbs,315,50,265
+Marshall,Marion/Vienna,County Board of Supervisors At Large,,REP,Carol Hibbs,371,85,286
+Marshall,Marshalltown City 1-1,County Board of Supervisors At Large,,REP,Carol Hibbs,93,19,74
+Marshall,Marshalltown City 1-2,County Board of Supervisors At Large,,REP,Carol Hibbs,166,54,112
+Marshall,Marshalltown City 2-1,County Board of Supervisors At Large,,REP,Carol Hibbs,382,174,208
+Marshall,Marshalltown City 2-2,County Board of Supervisors At Large,,REP,Carol Hibbs,634,287,347
+Marshall,Marshalltown City 3-1,County Board of Supervisors At Large,,REP,Carol Hibbs,637,273,364
+Marshall,Marshalltown City 3-2,County Board of Supervisors At Large,,REP,Carol Hibbs,750,363,387
+Marshall,Marshalltown City 4-1,County Board of Supervisors At Large,,REP,Carol Hibbs,364,132,232
+Marshall,Marshalltown City 4-2,County Board of Supervisors At Large,,REP,Carol Hibbs,586,196,390
+Marshall,State Center,County Board of Supervisors At Large,,REP,Carol Hibbs,494,83,411
+Marshall,Bangor/Liscomb/Taylor,County Board of Supervisors At Large,,DEM,Linda Jean Von Holten,211,81,130
+Marshall,Eden/Logan/Washington,County Board of Supervisors At Large,,DEM,Linda Jean Von Holten,226,68,158
+Marshall,Green Castle/Le Grand,County Board of Supervisors At Large,,DEM,Linda Jean Von Holten,227,83,144
+Marshall,Jefferson/Timber Creek,County Board of Supervisors At Large,,DEM,Linda Jean Von Holten,191,113,78
+Marshall,Liberty/Marietta/Minerva,County Board of Supervisors At Large,,DEM,Linda Jean Von Holten,95,31,64
+Marshall,Marion/Vienna,County Board of Supervisors At Large,,DEM,Linda Jean Von Holten,144,64,80
+Marshall,Marshalltown City 1-1,County Board of Supervisors At Large,,DEM,Linda Jean Von Holten,156,61,95
+Marshall,Marshalltown City 1-2,County Board of Supervisors At Large,,DEM,Linda Jean Von Holten,172,92,80
+Marshall,Marshalltown City 2-1,County Board of Supervisors At Large,,DEM,Linda Jean Von Holten,330,184,146
+Marshall,Marshalltown City 2-2,County Board of Supervisors At Large,,DEM,Linda Jean Von Holten,417,240,177
+Marshall,Marshalltown City 3-1,County Board of Supervisors At Large,,DEM,Linda Jean Von Holten,368,180,188
+Marshall,Marshalltown City 3-2,County Board of Supervisors At Large,,DEM,Linda Jean Von Holten,423,236,187
+Marshall,Marshalltown City 4-1,County Board of Supervisors At Large,,DEM,Linda Jean Von Holten,316,155,161
+Marshall,Marshalltown City 4-2,County Board of Supervisors At Large,,DEM,Linda Jean Von Holten,351,162,189
+Marshall,State Center,County Board of Supervisors At Large,,DEM,Linda Jean Von Holten,208,60,148
+Marshall,Bangor/Liscomb/Taylor,County Board of Supervisors At Large,,,Mark Giannetto,204,74,130
+Marshall,Eden/Logan/Washington,County Board of Supervisors At Large,,,Mark Giannetto,119,27,92
+Marshall,Green Castle/Le Grand,County Board of Supervisors At Large,,,Mark Giannetto,174,54,120
+Marshall,Jefferson/Timber Creek,County Board of Supervisors At Large,,,Mark Giannetto,114,50,64
+Marshall,Liberty/Marietta/Minerva,County Board of Supervisors At Large,,,Mark Giannetto,64,20,44
+Marshall,Marion/Vienna,County Board of Supervisors At Large,,,Mark Giannetto,98,42,56
+Marshall,Marshalltown City 1-1,County Board of Supervisors At Large,,,Mark Giannetto,65,28,37
+Marshall,Marshalltown City 1-2,County Board of Supervisors At Large,,,Mark Giannetto,65,28,37
+Marshall,Marshalltown City 2-1,County Board of Supervisors At Large,,,Mark Giannetto,162,89,73
+Marshall,Marshalltown City 2-2,County Board of Supervisors At Large,,,Mark Giannetto,211,120,91
+Marshall,Marshalltown City 3-1,County Board of Supervisors At Large,,,Mark Giannetto,161,88,73
+Marshall,Marshalltown City 3-2,County Board of Supervisors At Large,,,Mark Giannetto,173,93,80
+Marshall,Marshalltown City 4-1,County Board of Supervisors At Large,,,Mark Giannetto,186,84,102
+Marshall,Marshalltown City 4-2,County Board of Supervisors At Large,,,Mark Giannetto,204,79,125
+Marshall,State Center,County Board of Supervisors At Large,,,Mark Giannetto,123,35,88
+Marshall,Bangor/Liscomb/Taylor,County Board of Supervisors At Large,,,Write-in,21,4,17
+Marshall,Eden/Logan/Washington,County Board of Supervisors At Large,,,Write-in,13,6,7
+Marshall,Green Castle/Le Grand,County Board of Supervisors At Large,,,Write-in,15,2,13
+Marshall,Jefferson/Timber Creek,County Board of Supervisors At Large,,,Write-in,14,4,10
+Marshall,Liberty/Marietta/Minerva,County Board of Supervisors At Large,,,Write-in,13,3,10
+Marshall,Marion/Vienna,County Board of Supervisors At Large,,,Write-in,7,1,6
+Marshall,Marshalltown City 1-1,County Board of Supervisors At Large,,,Write-in,3,1,2
+Marshall,Marshalltown City 1-2,County Board of Supervisors At Large,,,Write-in,5,1,4
+Marshall,Marshalltown City 2-1,County Board of Supervisors At Large,,,Write-in,12,7,5
+Marshall,Marshalltown City 2-2,County Board of Supervisors At Large,,,Write-in,8,1,7
+Marshall,Marshalltown City 3-1,County Board of Supervisors At Large,,,Write-in,26,16,10
+Marshall,Marshalltown City 3-2,County Board of Supervisors At Large,,,Write-in,16,8,8
+Marshall,Marshalltown City 4-1,County Board of Supervisors At Large,,,Write-in,13,3,10
+Marshall,Marshalltown City 4-2,County Board of Supervisors At Large,,,Write-in,24,4,20
+Marshall,State Center,County Board of Supervisors At Large,,,Write-in,1,0,1
+Marshall,Bangor/Liscomb/Taylor,County Treasurer,,REP,Deann S. Tomlinson,683,188,495
+Marshall,Eden/Logan/Washington,County Treasurer,,REP,Deann S. Tomlinson,807,131,676
+Marshall,Green Castle/Le Grand,County Treasurer,,REP,Deann S. Tomlinson,813,177,636
+Marshall,Jefferson/Timber Creek,County Treasurer,,REP,Deann S. Tomlinson,740,272,468
+Marshall,Liberty/Marietta/Minerva,County Treasurer,,REP,Deann S. Tomlinson,421,62,359
+Marshall,Marion/Vienna,County Treasurer,,REP,Deann S. Tomlinson,465,115,350
+Marshall,Marshalltown City 1-1,County Treasurer,,REP,Deann S. Tomlinson,215,62,153
+Marshall,Marshalltown City 1-2,County Treasurer,,REP,Deann S. Tomlinson,252,90,162
+Marshall,Marshalltown City 2-1,County Treasurer,,REP,Deann S. Tomlinson,606,272,334
+Marshall,Marshalltown City 2-2,County Treasurer,,REP,Deann S. Tomlinson,851,391,460
+Marshall,Marshalltown City 3-1,County Treasurer,,REP,Deann S. Tomlinson,895,386,509
+Marshall,Marshalltown City 3-2,County Treasurer,,REP,Deann S. Tomlinson,983,458,525
+Marshall,Marshalltown City 4-1,County Treasurer,,REP,Deann S. Tomlinson,583,208,375
+Marshall,Marshalltown City 4-2,County Treasurer,,REP,Deann S. Tomlinson,776,267,509
+Marshall,State Center,County Treasurer,,REP,Deann S. Tomlinson,728,122,606
+Marshall,Bangor/Liscomb/Taylor,County Treasurer,,,Write-in,5,2,3
+Marshall,Eden/Logan/Washington,County Treasurer,,,Write-in,13,3,10
+Marshall,Green Castle/Le Grand,County Treasurer,,,Write-in,8,2,6
+Marshall,Jefferson/Timber Creek,County Treasurer,,,Write-in,7,6,1
+Marshall,Liberty/Marietta/Minerva,County Treasurer,,,Write-in,7,3,4
+Marshall,Marion/Vienna,County Treasurer,,,Write-in,7,1,6
+Marshall,Marshalltown City 1-1,County Treasurer,,,Write-in,6,1,5
+Marshall,Marshalltown City 1-2,County Treasurer,,,Write-in,10,2,8
+Marshall,Marshalltown City 2-1,County Treasurer,,,Write-in,9,4,5
+Marshall,Marshalltown City 2-2,County Treasurer,,,Write-in,18,4,14
+Marshall,Marshalltown City 3-1,County Treasurer,,,Write-in,13,3,10
+Marshall,Marshalltown City 3-2,County Treasurer,,,Write-in,13,5,8
+Marshall,Marshalltown City 4-1,County Treasurer,,,Write-in,19,8,11
+Marshall,Marshalltown City 4-2,County Treasurer,,,Write-in,12,3,9
+Marshall,State Center,County Treasurer,,,Write-in,2,1,1
+Marshall,Bangor/Liscomb/Taylor,County Attorney,,REP,Jordan Gaffney,497,119,378
+Marshall,Eden/Logan/Washington,County Attorney,,REP,Jordan Gaffney,627,92,535
+Marshall,Green Castle/Le Grand,County Attorney,,REP,Jordan Gaffney,625,117,508
+Marshall,Jefferson/Timber Creek,County Attorney,,REP,Jordan Gaffney,593,197,396
+Marshall,Liberty/Marietta/Minerva,County Attorney,,REP,Jordan Gaffney,339,43,296
+Marshall,Marion/Vienna,County Attorney,,REP,Jordan Gaffney,357,81,276
+Marshall,Marshalltown City 1-1,County Attorney,,REP,Jordan Gaffney,115,31,84
+Marshall,Marshalltown City 1-2,County Attorney,,REP,Jordan Gaffney,144,36,108
+Marshall,Marshalltown City 2-1,County Attorney,,REP,Jordan Gaffney,357,139,218
+Marshall,Marshalltown City 2-2,County Attorney,,REP,Jordan Gaffney,534,205,329
+Marshall,Marshalltown City 3-1,County Attorney,,REP,Jordan Gaffney,566,218,348
+Marshall,Marshalltown City 3-2,County Attorney,,REP,Jordan Gaffney,597,250,347
+Marshall,Marshalltown City 4-1,County Attorney,,REP,Jordan Gaffney,373,118,255
+Marshall,Marshalltown City 4-2,County Attorney,,REP,Jordan Gaffney,478,148,330
+Marshall,State Center,County Attorney,,REP,Jordan Gaffney,553,83,470
+Marshall,Bangor/Liscomb/Taylor,County Attorney,,DEM,Sarah Tupper,321,128,193
+Marshall,Eden/Logan/Washington,County Attorney,,DEM,Sarah Tupper,304,90,214
+Marshall,Green Castle/Le Grand,County Attorney,,DEM,Sarah Tupper,343,105,238
+Marshall,Jefferson/Timber Creek,County Attorney,,DEM,Sarah Tupper,270,150,120
+Marshall,Liberty/Marietta/Minerva,County Attorney,,DEM,Sarah Tupper,135,39,96
+Marshall,Marion/Vienna,County Attorney,,DEM,Sarah Tupper,210,80,130
+Marshall,Marshalltown City 1-1,County Attorney,,DEM,Sarah Tupper,193,69,124
+Marshall,Marshalltown City 1-2,County Attorney,,DEM,Sarah Tupper,223,112,111
+Marshall,Marshalltown City 2-1,County Attorney,,DEM,Sarah Tupper,450,236,214
+Marshall,Marshalltown City 2-2,County Attorney,,DEM,Sarah Tupper,594,336,258
+Marshall,Marshalltown City 3-1,County Attorney,,DEM,Sarah Tupper,563,282,281
+Marshall,Marshalltown City 3-2,County Attorney,,DEM,Sarah Tupper,642,359,283
+Marshall,Marshalltown City 4-1,County Attorney,,DEM,Sarah Tupper,414,200,214
+Marshall,Marshalltown City 4-2,County Attorney,,DEM,Sarah Tupper,509,226,283
+Marshall,State Center,County Attorney,,DEM,Sarah Tupper,273,75,198
+Marshall,Bangor/Liscomb/Taylor,County Attorney,,,Write-in,0,0,0
+Marshall,Eden/Logan/Washington,County Attorney,,,Write-in,1,0,1
+Marshall,Green Castle/Le Grand,County Attorney,,,Write-in,1,0,1
+Marshall,Jefferson/Timber Creek,County Attorney,,,Write-in,0,0,0
+Marshall,Liberty/Marietta/Minerva,County Attorney,,,Write-in,0,0,0
+Marshall,Marion/Vienna,County Attorney,,,Write-in,1,0,1
+Marshall,Marshalltown City 1-1,County Attorney,,,Write-in,1,0,1
+Marshall,Marshalltown City 1-2,County Attorney,,,Write-in,0,0,0
+Marshall,Marshalltown City 2-1,County Attorney,,,Write-in,0,0,0
+Marshall,Marshalltown City 2-2,County Attorney,,,Write-in,0,0,0
+Marshall,Marshalltown City 3-1,County Attorney,,,Write-in,0,0,0
+Marshall,Marshalltown City 3-2,County Attorney,,,Write-in,0,0,0
+Marshall,Marshalltown City 4-1,County Attorney,,,Write-in,0,0,0
+Marshall,Marshalltown City 4-2,County Attorney,,,Write-in,2,1,1
+Marshall,State Center,County Attorney,,,Write-in,0,0,0
+Marshall,Bangor/Liscomb/Taylor,County Sheriff To Fill Vacancy,,REP,Joel R. Phillips,716,205,511
+Marshall,Eden/Logan/Washington,County Sheriff To Fill Vacancy,,REP,Joel R. Phillips,839,140,699
+Marshall,Green Castle/Le Grand,County Sheriff To Fill Vacancy,,REP,Joel R. Phillips,838,181,657
+Marshall,Jefferson/Timber Creek,County Sheriff To Fill Vacancy,,REP,Joel R. Phillips,759,284,475
+Marshall,Liberty/Marietta/Minerva,County Sheriff To Fill Vacancy,,REP,Joel R. Phillips,434,68,366
+Marshall,Marion/Vienna,County Sheriff To Fill Vacancy,,REP,Joel R. Phillips,487,119,368
+Marshall,Marshalltown City 1-1,County Sheriff To Fill Vacancy,,REP,Joel R. Phillips,229,74,155
+Marshall,Marshalltown City 1-2,County Sheriff To Fill Vacancy,,REP,Joel R. Phillips,258,96,162
+Marshall,Marshalltown City 2-1,County Sheriff To Fill Vacancy,,REP,Joel R. Phillips,625,281,344
+Marshall,Marshalltown City 2-2,County Sheriff To Fill Vacancy,,REP,Joel R. Phillips,896,417,479
+Marshall,Marshalltown City 3-1,County Sheriff To Fill Vacancy,,REP,Joel R. Phillips,932,401,531
+Marshall,Marshalltown City 3-2,County Sheriff To Fill Vacancy,,REP,Joel R. Phillips,1010,474,536
+Marshall,Marshalltown City 4-1,County Sheriff To Fill Vacancy,,REP,Joel R. Phillips,615,236,379
+Marshall,Marshalltown City 4-2,County Sheriff To Fill Vacancy,,REP,Joel R. Phillips,809,287,522
+Marshall,State Center,County Sheriff To Fill Vacancy,,REP,Joel R. Phillips,745,126,619
+Marshall,Bangor/Liscomb/Taylor,County Sheriff To Fill Vacancy,,,Write-in,4,2,2
+Marshall,Eden/Logan/Washington,County Sheriff To Fill Vacancy,,,Write-in,11,3,8
+Marshall,Green Castle/Le Grand,County Sheriff To Fill Vacancy,,,Write-in,6,1,5
+Marshall,Jefferson/Timber Creek,County Sheriff To Fill Vacancy,,,Write-in,5,3,2
+Marshall,Liberty/Marietta/Minerva,County Sheriff To Fill Vacancy,,,Write-in,3,0,3
+Marshall,Marion/Vienna,County Sheriff To Fill Vacancy,,,Write-in,6,1,5
+Marshall,Marshalltown City 1-1,County Sheriff To Fill Vacancy,,,Write-in,8,1,7
+Marshall,Marshalltown City 1-2,County Sheriff To Fill Vacancy,,,Write-in,9,2,7
+Marshall,Marshalltown City 2-1,County Sheriff To Fill Vacancy,,,Write-in,9,5,4
+Marshall,Marshalltown City 2-2,County Sheriff To Fill Vacancy,,,Write-in,12,4,8
+Marshall,Marshalltown City 3-1,County Sheriff To Fill Vacancy,,,Write-in,9,2,7
+Marshall,Marshalltown City 3-2,County Sheriff To Fill Vacancy,,,Write-in,16,6,10
+Marshall,Marshalltown City 4-1,County Sheriff To Fill Vacancy,,,Write-in,9,2,7
+Marshall,Marshalltown City 4-2,County Sheriff To Fill Vacancy,,,Write-in,12,2,10
+Marshall,State Center,County Sheriff To Fill Vacancy,,,Write-in,5,2,3
+Marshall,Bangor/Liscomb/Taylor,Bangor Township Trustee,,,Doug Houston,61,14,47
+Marshall,Bangor/Liscomb/Taylor,Bangor Township Trustee,,,Kevin Fiscus,97,18,79
+Marshall,Bangor/Liscomb/Taylor,Bangor Township Trustee,,,Write-in,5,0,5
+Marshall,Bangor/Liscomb/Taylor,Bangor Township Clerk,,,David Norman,93,17,76
+Marshall,Bangor/Liscomb/Taylor,Bangor Township Clerk,,,Write-in,1,0,1
+Marshall,Eden/Logan/Washington,Eden Township Trustee,,,Norman S. Buck,144,18,126
+Marshall,Eden/Logan/Washington,Eden Township Trustee,,,Tom J. Malloy,141,20,121
+Marshall,Eden/Logan/Washington,Eden Township Trustee,,,Write-in,1,0,1
+Marshall,Eden/Logan/Washington,Eden Township Clerk,,,Sandy Halter,160,20,140
+Marshall,Eden/Logan/Washington,Eden Township Clerk,,,Write-in,0,0,0
+Marshall,Green Castle/Le Grand,Green Castle Township Trustee,,,Brent Jacobson,135,48,87
+Marshall,Green Castle/Le Grand,Green Castle Township Trustee,,,Eric Burchland,140,56,84
+Marshall,Green Castle/Le Grand,Green Castle Township Trustee,,,Write-in,0,0,0
+Marshall,Green Castle/Le Grand,Green Castle Township Clerk,,,Arthur G. Crandon,142,54,88
+Marshall,Green Castle/Le Grand,Green Castle Township Clerk,,,Write-in,0,0,0
+Marshall,Jefferson/Timber Creek,Jefferson Township Trustee,,,Eric Howard,139,50,89
+Marshall,Jefferson/Timber Creek,Jefferson Township Trustee,,,Keene Newby,127,40,87
+Marshall,Jefferson/Timber Creek,Jefferson Township Trustee,,,Write-in,0,0,0
+Marshall,Jefferson/Timber Creek,Jefferson Township Clerk,,,Steven R. Eibs,159,53,106
+Marshall,Jefferson/Timber Creek,Jefferson Township Clerk,,,Write-in,0,0,0
+Marshall,Green Castle/Le Grand,Le Grand Township Trustee,,,Robert Schrader,176,32,144
+Marshall,Green Castle/Le Grand,Le Grand Township Trustee,,,Charles Grove,223,46,177
+Marshall,Green Castle/Le Grand,Le Grand Township Trustee,,,Write-in,2,2,0
+Marshall,Green Castle/Le Grand,Le Grand Township To Fill Vacancy,,,Carl Rasmussen,237,46,191
+Marshall,Green Castle/Le Grand,Le Grand Township To Fill Vacancy,,,Write-in,0,0,0
+Marshall,Green Castle/Le Grand,Le Grand Township Clerk,,,Rhonda Hendricks,231,45,186
+Marshall,Green Castle/Le Grand,Le Grand Township Clerk,,,Write-in,0,0,0
+Marshall,Liberty/Marietta/Minerva,Liberty Township Trustee,,,Roger Howe,65,7,58
+Marshall,Liberty/Marietta/Minerva,Liberty Township Trustee,,,Stanley Norman,59,8,51
+Marshall,Liberty/Marietta/Minerva,Liberty Township Trustee,,,Write-in,0,0,0
+Marshall,Liberty/Marietta/Minerva,Liberty Township Clerk,,,Kent Johnson,75,8,67
+Marshall,Liberty/Marietta/Minerva,Liberty Township Clerk,,,Write-in,1,0,1
+Marshall,Bangor/Liscomb/Taylor,Liscomb Township Trustee,,,Kirk D. Stackhouse,95,14,81
+Marshall,Bangor/Liscomb/Taylor,Liscomb Township Trustee,,,Jared Gould,98,16,82
+Marshall,Bangor/Liscomb/Taylor,Liscomb Township Trustee,,,Write-in,0,0,0
+Marshall,Bangor/Liscomb/Taylor,Liscomb Township Clerk,,,Brittney Gould,110,18,92
+Marshall,Bangor/Liscomb/Taylor,Liscomb Township Clerk,,,Write-in,0,0,0
+Marshall,Eden/Logan/Washington,Logan Township Trustee,,,Kevin Gowdy,88,24,64
+Marshall,Eden/Logan/Washington,Logan Township Trustee,,,Noel Vogt,86,24,62
+Marshall,Eden/Logan/Washington,Logan Township Trustee,,,Write-in,5,0,5
+Marshall,Eden/Logan/Washington,Logan Township Clerk,,,Stacy Porter,106,24,82
+Marshall,Eden/Logan/Washington,Logan Township Clerk,,,Write-in,1,0,1
+Marshall,Liberty/Marietta/Minerva,Marietta Township Trustee,,,Jeff Hibbs,153,51,102
+Marshall,Liberty/Marietta/Minerva,Marietta Township Trustee,,,Kevin Whitaker,110,33,77
+Marshall,Liberty/Marietta/Minerva,Marietta Township Trustee,,,Write-in,7,7,0
+Marshall,Liberty/Marietta/Minerva,Marietta Township Clerk,,,Christy Hibbs,159,51,108
+Marshall,Liberty/Marietta/Minerva,Marietta Township Clerk,,,Write-in,3,3,0
+Marshall,Marion/Vienna,Marion Township Trustee,,,Delores Dunham,265,79,186
+Marshall,Marion/Vienna,Marion Township Trustee,,,Lynn Beichley,283,78,205
+Marshall,Marion/Vienna,Marion Township Trustee,,,Write-in,2,0,2
+Marshall,Marion/Vienna,Marion Township To Fill Vacancy,,,Thomas Fleming,310,91,219
+Marshall,Marion/Vienna,Marion Township To Fill Vacancy,,,Write-in,1,0,1
+Marshall,Marion/Vienna,Marion Township Clerk,,,Nicole Johnson,302,86,216
+Marshall,Marion/Vienna,Marion Township Clerk,,,Write-in,0,0,0
+Marshall,Liberty/Marietta/Minerva,Minerva Township Trustee,,,Write-in,18,2,16
+Marshall,Liberty/Marietta/Minerva,Minerva Township Clerk,,,Terri Sinning,144,6,138
+Marshall,Liberty/Marietta/Minerva,Minerva Township Clerk,,,Write-in,0,0,0
+Marshall,State Center,State Center Township Trustee,,,Richard Phillips,137,43,94
+Marshall,State Center,State Center Township Trustee,,,Richard Taft,123,31,92
+Marshall,State Center,State Center Township Trustee,,,Douglas D. Honeck,180,53,127
+Marshall,State Center,State Center Township Trustee,,,Write-in,1,0,1
+Marshall,State Center,State Center Township Clerk,,,Randy Henze,243,63,180
+Marshall,State Center,State Center Township Clerk,,,Write-in,0,0,0
+Marshall,Bangor/Liscomb/Taylor,Taylor Township Trustee,,,Marcella Stewart,183,85,98
+Marshall,Bangor/Liscomb/Taylor,Taylor Township Trustee,,,Glen E. Mann,240,110,130
+Marshall,Bangor/Liscomb/Taylor,Taylor Township Trustee,,,Write-in,4,2,2
+Marshall,Bangor/Liscomb/Taylor,Taylor Township Clerk,,,Gina Fisher,252,122,130
+Marshall,Bangor/Liscomb/Taylor,Taylor Township Clerk,,,Write-in,0,0,0
+Marshall,Jefferson/Timber Creek,Timber Creek Township Trustee,,,David Hesmer,366,157,209
+Marshall,Jefferson/Timber Creek,Timber Creek Township Trustee,,,Thomas Lynn Crane,278,125,153
+Marshall,Jefferson/Timber Creek,Timber Creek Township Trustee,,,Write-in,3,0,3
+Marshall,Jefferson/Timber Creek,Timber Creek Township Clerk,,,Bill Schendel,399,173,226
+Marshall,Jefferson/Timber Creek,Timber Creek Township Clerk,,,Write-in,0,0,0
+Marshall,Marion/Vienna,Vienna Township Trustee,,,Justin Adelmund,108,25,83
+Marshall,Marion/Vienna,Vienna Township Trustee,,,John Ruopp,102,25,77
+Marshall,Marion/Vienna,Vienna Township Trustee,,,Write-in,2,2,0
+Marshall,Marion/Vienna,Vienna Township Clerk,,,Cindy Degner,132,32,100
+Marshall,Marion/Vienna,Vienna Township Clerk,,,Write-in,0,0,0
+Marshall,Eden/Logan/Washington,Washington Township Trustee,,,Jay Benson,161,49,112
+Marshall,Eden/Logan/Washington,Washington Township Trustee,,,Don Wiley,132,37,95
+Marshall,Eden/Logan/Washington,Washington Township Trustee,,,Write-in,2,1,1
+Marshall,Eden/Logan/Washington,Washington Township Clerk,,,April M. Mumm,169,48,121
+Marshall,Eden/Logan/Washington,Washington Township Clerk,,,Write-in,1,0,1
+Marshall,Bangor/Liscomb/Taylor,Soil and Water Conservation District Commissioners,,,Roger Lutes,598,182,416
+Marshall,Eden/Logan/Washington,Soil and Water Conservation District Commissioners,,,Roger Lutes,721,126,595
+Marshall,Green Castle/Le Grand,Soil and Water Conservation District Commissioners,,,Roger Lutes,745,170,575
+Marshall,Jefferson/Timber Creek,Soil and Water Conservation District Commissioners,,,Roger Lutes,644,237,407
+Marshall,Liberty/Marietta/Minerva,Soil and Water Conservation District Commissioners,,,Roger Lutes,381,58,323
+Marshall,Marion/Vienna,Soil and Water Conservation District Commissioners,,,Roger Lutes,419,114,305
+Marshall,Marshalltown City 1-1,Soil and Water Conservation District Commissioners,,,Roger Lutes,217,70,147
+Marshall,Marshalltown City 1-2,Soil and Water Conservation District Commissioners,,,Roger Lutes,243,94,149
+Marshall,Marshalltown City 2-1,Soil and Water Conservation District Commissioners,,,Roger Lutes,540,250,290
+Marshall,Marshalltown City 2-2,Soil and Water Conservation District Commissioners,,,Roger Lutes,756,362,394
+Marshall,Marshalltown City 3-1,Soil and Water Conservation District Commissioners,,,Roger Lutes,777,344,433
+Marshall,Marshalltown City 3-2,Soil and Water Conservation District Commissioners,,,Roger Lutes,867,413,454
+Marshall,Marshalltown City 4-1,Soil and Water Conservation District Commissioners,,,Roger Lutes,539,193,346
+Marshall,Marshalltown City 4-2,Soil and Water Conservation District Commissioners,,,Roger Lutes,715,259,456
+Marshall,State Center,Soil and Water Conservation District Commissioners,,,Roger Lutes,630,108,522
+Marshall,Bangor/Liscomb/Taylor,Soil and Water Conservation District Commissioners,,,Write-in,19,5,14
+Marshall,Eden/Logan/Washington,Soil and Water Conservation District Commissioners,,,Write-in,15,1,14
+Marshall,Green Castle/Le Grand,Soil and Water Conservation District Commissioners,,,Write-in,15,6,9
+Marshall,Jefferson/Timber Creek,Soil and Water Conservation District Commissioners,,,Write-in,11,6,5
+Marshall,Liberty/Marietta/Minerva,Soil and Water Conservation District Commissioners,,,Write-in,12,6,6
+Marshall,Marion/Vienna,Soil and Water Conservation District Commissioners,,,Write-in,16,6,10
+Marshall,Marshalltown City 1-1,Soil and Water Conservation District Commissioners,,,Write-in,4,1,3
+Marshall,Marshalltown City 1-2,Soil and Water Conservation District Commissioners,,,Write-in,7,2,5
+Marshall,Marshalltown City 2-1,Soil and Water Conservation District Commissioners,,,Write-in,14,4,10
+Marshall,Marshalltown City 2-2,Soil and Water Conservation District Commissioners,,,Write-in,17,6,11
+Marshall,Marshalltown City 3-1,Soil and Water Conservation District Commissioners,,,Write-in,11,5,6
+Marshall,Marshalltown City 3-2,Soil and Water Conservation District Commissioners,,,Write-in,14,6,8
+Marshall,Marshalltown City 4-1,Soil and Water Conservation District Commissioners,,,Write-in,8,1,7
+Marshall,Marshalltown City 4-2,Soil and Water Conservation District Commissioners,,,Write-in,13,5,8
+Marshall,State Center,Soil and Water Conservation District Commissioners,,,Write-in,8,0,8
+Marshall,Bangor/Liscomb/Taylor,County Agricultural Extension Council Member,,,Sharon Kline,472,147,325
+Marshall,Eden/Logan/Washington,County Agricultural Extension Council Member,,,Sharon Kline,643,107,536
+Marshall,Green Castle/Le Grand,County Agricultural Extension Council Member,,,Sharon Kline,535,133,402
+Marshall,Jefferson/Timber Creek,County Agricultural Extension Council Member,,,Sharon Kline,510,192,318
+Marshall,Liberty/Marietta/Minerva,County Agricultural Extension Council Member,,,Sharon Kline,347,54,293
+Marshall,Marion/Vienna,County Agricultural Extension Council Member,,,Sharon Kline,318,88,230
+Marshall,Marshalltown City 1-1,County Agricultural Extension Council Member,,,Sharon Kline,151,45,106
+Marshall,Marshalltown City 1-2,County Agricultural Extension Council Member,,,Sharon Kline,161,61,100
+Marshall,Marshalltown City 2-1,County Agricultural Extension Council Member,,,Sharon Kline,381,189,192
+Marshall,Marshalltown City 2-2,County Agricultural Extension Council Member,,,Sharon Kline,567,279,288
+Marshall,Marshalltown City 3-1,County Agricultural Extension Council Member,,,Sharon Kline,599,276,323
+Marshall,Marshalltown City 3-2,County Agricultural Extension Council Member,,,Sharon Kline,660,319,341
+Marshall,Marshalltown City 4-1,County Agricultural Extension Council Member,,,Sharon Kline,410,150,260
+Marshall,Marshalltown City 4-2,County Agricultural Extension Council Member,,,Sharon Kline,560,212,348
+Marshall,State Center,County Agricultural Extension Council Member,,,Sharon Kline,604,112,492
+Marshall,Bangor/Liscomb/Taylor,County Agricultural Extension Council Member,,,Kathryn Robbins,426,135,291
+Marshall,Eden/Logan/Washington,County Agricultural Extension Council Member,,,Kathryn Robbins,486,89,397
+Marshall,Green Castle/Le Grand,County Agricultural Extension Council Member,,,Kathryn Robbins,488,126,362
+Marshall,Jefferson/Timber Creek,County Agricultural Extension Council Member,,,Kathryn Robbins,477,184,293
+Marshall,Liberty/Marietta/Minerva,County Agricultural Extension Council Member,,,Kathryn Robbins,270,46,224
+Marshall,Marion/Vienna,County Agricultural Extension Council Member,,,Kathryn Robbins,313,90,223
+Marshall,Marshalltown City 1-1,County Agricultural Extension Council Member,,,Kathryn Robbins,150,49,101
+Marshall,Marshalltown City 1-2,County Agricultural Extension Council Member,,,Kathryn Robbins,167,65,102
+Marshall,Marshalltown City 2-1,County Agricultural Extension Council Member,,,Kathryn Robbins,374,187,187
+Marshall,Marshalltown City 2-2,County Agricultural Extension Council Member,,,Kathryn Robbins,538,274,264
+Marshall,Marshalltown City 3-1,County Agricultural Extension Council Member,,,Kathryn Robbins,586,271,315
+Marshall,Marshalltown City 3-2,County Agricultural Extension Council Member,,,Kathryn Robbins,619,295,324
+Marshall,Marshalltown City 4-1,County Agricultural Extension Council Member,,,Kathryn Robbins,392,140,252
+Marshall,Marshalltown City 4-2,County Agricultural Extension Council Member,,,Kathryn Robbins,543,204,339
+Marshall,State Center,County Agricultural Extension Council Member,,,Kathryn Robbins,424,94,330
+Marshall,Bangor/Liscomb/Taylor,County Agricultural Extension Council Member,,,Andrew Smith,446,138,308
+Marshall,Eden/Logan/Washington,County Agricultural Extension Council Member,,,Andrew Smith,522,96,426
+Marshall,Green Castle/Le Grand,County Agricultural Extension Council Member,,,Andrew Smith,503,121,382
+Marshall,Jefferson/Timber Creek,County Agricultural Extension Council Member,,,Andrew Smith,477,183,294
+Marshall,Liberty/Marietta/Minerva,County Agricultural Extension Council Member,,,Andrew Smith,316,51,265
+Marshall,Marion/Vienna,County Agricultural Extension Council Member,,,Andrew Smith,312,83,229
+Marshall,Marshalltown City 1-1,County Agricultural Extension Council Member,,,Andrew Smith,142,43,99
+Marshall,Marshalltown City 1-2,County Agricultural Extension Council Member,,,Andrew Smith,155,62,93
+Marshall,Marshalltown City 2-1,County Agricultural Extension Council Member,,,Andrew Smith,371,172,199
+Marshall,Marshalltown City 2-2,County Agricultural Extension Council Member,,,Andrew Smith,555,274,281
+Marshall,Marshalltown City 3-1,County Agricultural Extension Council Member,,,Andrew Smith,584,264,320
+Marshall,Marshalltown City 3-2,County Agricultural Extension Council Member,,,Andrew Smith,627,308,319
+Marshall,Marshalltown City 4-1,County Agricultural Extension Council Member,,,Andrew Smith,393,143,250
+Marshall,Marshalltown City 4-2,County Agricultural Extension Council Member,,,Andrew Smith,554,223,331
+Marshall,State Center,County Agricultural Extension Council Member,,,Andrew Smith,478,100,378
+Marshall,Bangor/Liscomb/Taylor,County Agricultural Extension Council Member,,,Tom Hemesath,461,144,317
+Marshall,Eden/Logan/Washington,County Agricultural Extension Council Member,,,Tom Hemesath,595,101,494
+Marshall,Green Castle/Le Grand,County Agricultural Extension Council Member,,,Tom Hemesath,503,128,375
+Marshall,Jefferson/Timber Creek,County Agricultural Extension Council Member,,,Tom Hemesath,498,183,315
+Marshall,Liberty/Marietta/Minerva,County Agricultural Extension Council Member,,,Tom Hemesath,329,54,275
+Marshall,Marion/Vienna,County Agricultural Extension Council Member,,,Tom Hemesath,312,87,225
+Marshall,Marshalltown City 1-1,County Agricultural Extension Council Member,,,Tom Hemesath,132,45,87
+Marshall,Marshalltown City 1-2,County Agricultural Extension Council Member,,,Tom Hemesath,152,58,94
+Marshall,Marshalltown City 2-1,County Agricultural Extension Council Member,,,Tom Hemesath,359,174,185
+Marshall,Marshalltown City 2-2,County Agricultural Extension Council Member,,,Tom Hemesath,537,270,267
+Marshall,Marshalltown City 3-1,County Agricultural Extension Council Member,,,Tom Hemesath,570,272,298
+Marshall,Marshalltown City 3-2,County Agricultural Extension Council Member,,,Tom Hemesath,616,300,316
+Marshall,Marshalltown City 4-1,County Agricultural Extension Council Member,,,Tom Hemesath,375,135,240
+Marshall,Marshalltown City 4-2,County Agricultural Extension Council Member,,,Tom Hemesath,546,213,333
+Marshall,State Center,County Agricultural Extension Council Member,,,Tom Hemesath,538,101,437
+Marshall,Bangor/Liscomb/Taylor,County Agricultural Extension Council Member,,,Write-in,35,8,27
+Marshall,Eden/Logan/Washington,County Agricultural Extension Council Member,,,Write-in,29,2,27
+Marshall,Green Castle/Le Grand,County Agricultural Extension Council Member,,,Write-in,15,3,12
+Marshall,Jefferson/Timber Creek,County Agricultural Extension Council Member,,,Write-in,33,11,22
+Marshall,Liberty/Marietta/Minerva,County Agricultural Extension Council Member,,,Write-in,28,13,15
+Marshall,Marion/Vienna,County Agricultural Extension Council Member,,,Write-in,18,7,11
+Marshall,Marshalltown City 1-1,County Agricultural Extension Council Member,,,Write-in,8,1,7
+Marshall,Marshalltown City 1-2,County Agricultural Extension Council Member,,,Write-in,9,3,6
+Marshall,Marshalltown City 2-1,County Agricultural Extension Council Member,,,Write-in,22,10,12
+Marshall,Marshalltown City 2-2,County Agricultural Extension Council Member,,,Write-in,29,9,20
+Marshall,Marshalltown City 3-1,County Agricultural Extension Council Member,,,Write-in,29,15,14
+Marshall,Marshalltown City 3-2,County Agricultural Extension Council Member,,,Write-in,31,11,20
+Marshall,Marshalltown City 4-1,County Agricultural Extension Council Member,,,Write-in,23,5,18
+Marshall,Marshalltown City 4-2,County Agricultural Extension Council Member,,,Write-in,40,9,31
+Marshall,State Center,County Agricultural Extension Council Member,,,Write-in,14,3,11
+Marshall,Bangor/Liscomb/Taylor,Supreme Court Justice,,,Yes,386,125,261
+Marshall,Eden/Logan/Washington,Supreme Court Justice,,,Yes,465,72,393
+Marshall,Green Castle/Le Grand,Supreme Court Justice,,,Yes,492,101,391
+Marshall,Jefferson/Timber Creek,Supreme Court Justice,,,Yes,462,173,289
+Marshall,Liberty/Marietta/Minerva,Supreme Court Justice,,,Yes,266,43,223
+Marshall,Marion/Vienna,Supreme Court Justice,,,Yes,296,76,220
+Marshall,Marshalltown City 1-1,Supreme Court Justice,,,Yes,154,52,102
+Marshall,Marshalltown City 1-2,Supreme Court Justice,,,Yes,183,65,118
+Marshall,Marshalltown City 2-1,Supreme Court Justice,,,Yes,403,199,204
+Marshall,Marshalltown City 2-2,Supreme Court Justice,,,Yes,562,277,285
+Marshall,Marshalltown City 3-1,Supreme Court Justice,,,Yes,578,246,332
+Marshall,Marshalltown City 3-2,Supreme Court Justice,,,Yes,668,336,332
+Marshall,Marshalltown City 4-1,Supreme Court Justice,,,Yes,390,145,245
+Marshall,Marshalltown City 4-2,Supreme Court Justice,,,Yes,517,190,327
+Marshall,State Center,Supreme Court Justice,,,Yes,454,85,369
+Marshall,Bangor/Liscomb/Taylor,Supreme Court Justice,,,No,196,56,140
+Marshall,Eden/Logan/Washington,Supreme Court Justice,,,No,283,61,222
+Marshall,Green Castle/Le Grand,Supreme Court Justice,,,No,214,61,153
+Marshall,Jefferson/Timber Creek,Supreme Court Justice,,,No,195,80,115
+Marshall,Liberty/Marietta/Minerva,Supreme Court Justice,,,No,125,20,105
+Marshall,Marion/Vienna,Supreme Court Justice,,,No,146,47,99
+Marshall,Marshalltown City 1-1,Supreme Court Justice,,,No,86,23,63
+Marshall,Marshalltown City 1-2,Supreme Court Justice,,,No,104,47,57
+Marshall,Marshalltown City 2-1,Supreme Court Justice,,,No,205,90,115
+Marshall,Marshalltown City 2-2,Supreme Court Justice,,,No,281,129,152
+Marshall,Marshalltown City 3-1,Supreme Court Justice,,,No,265,126,139
+Marshall,Marshalltown City 3-2,Supreme Court Justice,,,No,263,118,145
+Marshall,Marshalltown City 4-1,Supreme Court Justice,,,No,207,84,123
+Marshall,Marshalltown City 4-2,Supreme Court Justice,,,No,256,97,159
+Marshall,State Center,Supreme Court Justice,,,No,189,33,156
+Marshall,Bangor/Liscomb/Taylor,Court of Appeals Judge,,,Yes,380,128,252
+Marshall,Eden/Logan/Washington,Court of Appeals Judge,,,Yes,467,74,393
+Marshall,Green Castle/Le Grand,Court of Appeals Judge,,,Yes,482,105,377
+Marshall,Jefferson/Timber Creek,Court of Appeals Judge,,,Yes,460,169,291
+Marshall,Liberty/Marietta/Minerva,Court of Appeals Judge,,,Yes,258,40,218
+Marshall,Marion/Vienna,Court of Appeals Judge,,,Yes,290,77,213
+Marshall,Marshalltown City 1-1,Court of Appeals Judge,,,Yes,159,57,102
+Marshall,Marshalltown City 1-2,Court of Appeals Judge,,,Yes,181,68,113
+Marshall,Marshalltown City 2-1,Court of Appeals Judge,,,Yes,392,195,197
+Marshall,Marshalltown City 2-2,Court of Appeals Judge,,,Yes,563,283,280
+Marshall,Marshalltown City 3-1,Court of Appeals Judge,,,Yes,571,247,324
+Marshall,Marshalltown City 3-2,Court of Appeals Judge,,,Yes,664,332,332
+Marshall,Marshalltown City 4-1,Court of Appeals Judge,,,Yes,389,152,237
+Marshall,Marshalltown City 4-2,Court of Appeals Judge,,,Yes,525,196,329
+Marshall,State Center,Court of Appeals Judge,,,Yes,442,87,355
+Marshall,Bangor/Liscomb/Taylor,Court of Appeals Judge,,,No,184,50,134
+Marshall,Eden/Logan/Washington,Court of Appeals Judge,,,No,277,57,220
+Marshall,Green Castle/Le Grand,Court of Appeals Judge,,,No,199,53,146
+Marshall,Jefferson/Timber Creek,Court of Appeals Judge,,,No,194,78,116
+Marshall,Liberty/Marietta/Minerva,Court of Appeals Judge,,,No,119,19,100
+Marshall,Marion/Vienna,Court of Appeals Judge,,,No,144,41,103
+Marshall,Marshalltown City 1-1,Court of Appeals Judge,,,No,82,17,65
+Marshall,Marshalltown City 1-2,Court of Appeals Judge,,,No,103,43,60
+Marshall,Marshalltown City 2-1,Court of Appeals Judge,,,No,190,81,109
+Marshall,Marshalltown City 2-2,Court of Appeals Judge,,,No,251,103,148
+Marshall,Marshalltown City 3-1,Court of Appeals Judge,,,No,233,107,126
+Marshall,Marshalltown City 3-2,Court of Appeals Judge,,,No,241,106,135
+Marshall,Marshalltown City 4-1,Court of Appeals Judge,,,No,191,72,119
+Marshall,Marshalltown City 4-2,Court of Appeals Judge,,,No,219,84,135
+Marshall,State Center,Court of Appeals Judge,,,No,184,27,157
+Marshall,Bangor/Liscomb/Taylor,District 2B Judge,,,Yes,389,132,257
+Marshall,Eden/Logan/Washington,District 2B Judge,,,Yes,480,81,399
+Marshall,Green Castle/Le Grand,District 2B Judge,,,Yes,491,103,388
+Marshall,Jefferson/Timber Creek,District 2B Judge,,,Yes,481,179,302
+Marshall,Liberty/Marietta/Minerva,District 2B Judge,,,Yes,256,40,216
+Marshall,Marion/Vienna,District 2B Judge,,,Yes,317,85,232
+Marshall,Marshalltown City 1-1,District 2B Judge,,,Yes,163,58,105
+Marshall,Marshalltown City 1-2,District 2B Judge,,,Yes,179,68,111
+Marshall,Marshalltown City 2-1,District 2B Judge,,,Yes,408,197,211
+Marshall,Marshalltown City 2-2,District 2B Judge,,,Yes,593,294,299
+Marshall,Marshalltown City 3-1,District 2B Judge,,,Yes,612,273,339
+Marshall,Marshalltown City 3-2,District 2B Judge,,,Yes,687,342,345
+Marshall,Marshalltown City 4-1,District 2B Judge,,,Yes,389,153,236
+Marshall,Marshalltown City 4-2,District 2B Judge,,,Yes,542,202,340
+Marshall,State Center,District 2B Judge,,,Yes,468,87,381
+Marshall,Bangor/Liscomb/Taylor,District 2B Judge,,,No,179,42,137
+Marshall,Eden/Logan/Washington,District 2B Judge,,,No,260,48,212
+Marshall,Green Castle/Le Grand,District 2B Judge,,,No,190,51,139
+Marshall,Jefferson/Timber Creek,District 2B Judge,,,No,176,71,105
+Marshall,Liberty/Marietta/Minerva,District 2B Judge,,,No,122,17,105
+Marshall,Marion/Vienna,District 2B Judge,,,No,117,37,80
+Marshall,Marshalltown City 1-1,District 2B Judge,,,No,78,17,61
+Marshall,Marshalltown City 1-2,District 2B Judge,,,No,108,45,63
+Marshall,Marshalltown City 2-1,District 2B Judge,,,No,181,81,100
+Marshall,Marshalltown City 2-2,District 2B Judge,,,No,232,99,133
+Marshall,Marshalltown City 3-1,District 2B Judge,,,No,216,93,123
+Marshall,Marshalltown City 3-2,District 2B Judge,,,No,236,105,131
+Marshall,Marshalltown City 4-1,District 2B Judge,,,No,185,66,119
+Marshall,Marshalltown City 4-2,District 2B Judge,,,No,207,75,132
+Marshall,State Center,District 2B Judge,,,No,164,23,141
+Marshall,Bangor/Liscomb/Taylor,District 2B Associate Judge,,,Yes,378,130,248
+Marshall,Eden/Logan/Washington,District 2B Associate Judge,,,Yes,478,81,397
+Marshall,Green Castle/Le Grand,District 2B Associate Judge,,,Yes,493,105,388
+Marshall,Jefferson/Timber Creek,District 2B Associate Judge,,,Yes,481,177,304
+Marshall,Liberty/Marietta/Minerva,District 2B Associate Judge,,,Yes,265,41,224
+Marshall,Marion/Vienna,District 2B Associate Judge,,,Yes,312,84,228
+Marshall,Marshalltown City 1-1,District 2B Associate Judge,,,Yes,157,50,107
+Marshall,Marshalltown City 1-2,District 2B Associate Judge,,,Yes,183,70,113
+Marshall,Marshalltown City 2-1,District 2B Associate Judge,,,Yes,419,203,216
+Marshall,Marshalltown City 2-2,District 2B Associate Judge,,,Yes,587,296,291
+Marshall,Marshalltown City 3-1,District 2B Associate Judge,,,Yes,613,272,341
+Marshall,Marshalltown City 3-2,District 2B Associate Judge,,,Yes,691,342,349
+Marshall,Marshalltown City 4-1,District 2B Associate Judge,,,Yes,407,154,253
+Marshall,Marshalltown City 4-2,District 2B Associate Judge,,,Yes,540,198,342
+Marshall,State Center,District 2B Associate Judge,,,Yes,460,86,374
+Marshall,Bangor/Liscomb/Taylor,District 2B Associate Judge,,,No,180,41,139
+Marshall,Eden/Logan/Washington,District 2B Associate Judge,,,No,259,47,212
+Marshall,Green Castle/Le Grand,District 2B Associate Judge,,,No,182,49,133
+Marshall,Jefferson/Timber Creek,District 2B Associate Judge,,,No,176,73,103
+Marshall,Liberty/Marietta/Minerva,District 2B Associate Judge,,,No,115,17,98
+Marshall,Marion/Vienna,District 2B Associate Judge,,,No,124,35,89
+Marshall,Marshalltown City 1-1,District 2B Associate Judge,,,No,84,22,62
+Marshall,Marshalltown City 1-2,District 2B Associate Judge,,,No,104,41,63
+Marshall,Marshalltown City 2-1,District 2B Associate Judge,,,No,173,78,95
+Marshall,Marshalltown City 2-2,District 2B Associate Judge,,,No,228,97,131
+Marshall,Marshalltown City 3-1,District 2B Associate Judge,,,No,213,92,121
+Marshall,Marshalltown City 3-2,District 2B Associate Judge,,,No,227,100,127
+Marshall,Marshalltown City 4-1,District 2B Associate Judge,,,No,181,71,110
+Marshall,Marshalltown City 4-2,District 2B Associate Judge,,,No,203,73,130
+Marshall,State Center,District 2B Associate Judge,,,No,174,26,148
+Marshall,Bangor/Liscomb/Taylor,Constitutional Amendment 1,,,Yes,620,166,454
+Marshall,Eden/Logan/Washington,Constitutional Amendment 1,,,Yes,728,124,604
+Marshall,Green Castle/Le Grand,Constitutional Amendment 1,,,Yes,776,160,616
+Marshall,Jefferson/Timber Creek,Constitutional Amendment 1,,,Yes,674,237,437
+Marshall,Liberty/Marietta/Minerva,Constitutional Amendment 1,,,Yes,387,53,334
+Marshall,Marion/Vienna,Constitutional Amendment 1,,,Yes,419,101,318
+Marshall,Marshalltown City 1-1,Constitutional Amendment 1,,,Yes,177,52,125
+Marshall,Marshalltown City 1-2,Constitutional Amendment 1,,,Yes,228,83,145
+Marshall,Marshalltown City 2-1,Constitutional Amendment 1,,,Yes,491,218,273
+Marshall,Marshalltown City 2-2,Constitutional Amendment 1,,,Yes,691,296,395
+Marshall,Marshalltown City 3-1,Constitutional Amendment 1,,,Yes,713,305,408
+Marshall,Marshalltown City 3-2,Constitutional Amendment 1,,,Yes,766,344,422
+Marshall,Marshalltown City 4-1,Constitutional Amendment 1,,,Yes,505,186,319
+Marshall,Marshalltown City 4-2,Constitutional Amendment 1,,,Yes,603,184,419
+Marshall,State Center,Constitutional Amendment 1,,,Yes,604,98,506
+Marshall,Bangor/Liscomb/Taylor,Constitutional Amendment 1,,,No,161,76,85
+Marshall,Eden/Logan/Washington,Constitutional Amendment 1,,,No,185,51,134
+Marshall,Green Castle/Le Grand,Constitutional Amendment 1,,,No,176,57,119
+Marshall,Jefferson/Timber Creek,Constitutional Amendment 1,,,No,163,95,68
+Marshall,Liberty/Marietta/Minerva,Constitutional Amendment 1,,,No,82,27,55
+Marshall,Marion/Vienna,Constitutional Amendment 1,,,No,137,59,78
+Marshall,Marshalltown City 1-1,Constitutional Amendment 1,,,No,107,39,68
+Marshall,Marshalltown City 1-2,Constitutional Amendment 1,,,No,119,60,59
+Marshall,Marshalltown City 2-1,Constitutional Amendment 1,,,No,279,148,131
+Marshall,Marshalltown City 2-2,Constitutional Amendment 1,,,No,390,222,168
+Marshall,Marshalltown City 3-1,Constitutional Amendment 1,,,No,369,183,186
+Marshall,Marshalltown City 3-2,Constitutional Amendment 1,,,No,406,231,175
+Marshall,Marshalltown City 4-1,Constitutional Amendment 1,,,No,245,119,126
+Marshall,Marshalltown City 4-2,Constitutional Amendment 1,,,No,355,182,173
+Marshall,State Center,Constitutional Amendment 1,,,No,192,56,136

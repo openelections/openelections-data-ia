@@ -1,0 +1,467 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Monroe,No. 1 - Albia First Ward,U.S. Senate,,REP,Chuck Grassley,250,62,188
+Monroe,No. 2 - Albia Second Ward,U.S. Senate,,REP,Chuck Grassley,198,59,139
+Monroe,No. 3 - Albia Third Ward,U.S. Senate,,REP,Chuck Grassley,136,39,97
+Monroe,No. 4 - Albia Fourth Ward,U.S. Senate,,REP,Chuck Grassley,192,43,149
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",U.S. Senate,,REP,Chuck Grassley,822,274,548
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",U.S. Senate,,REP,Chuck Grassley,333,60,273
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",U.S. Senate,,REP,Chuck Grassley,204,48,156
+Monroe,No. 1 - Albia First Ward,U.S. Senate,,DEM,Michael Franken,119,59,60
+Monroe,No. 2 - Albia Second Ward,U.S. Senate,,DEM,Michael Franken,86,33,53
+Monroe,No. 3 - Albia Third Ward,U.S. Senate,,DEM,Michael Franken,74,36,38
+Monroe,No. 4 - Albia Fourth Ward,U.S. Senate,,DEM,Michael Franken,115,49,66
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",U.S. Senate,,DEM,Michael Franken,188,114,74
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",U.S. Senate,,DEM,Michael Franken,100,37,63
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",U.S. Senate,,DEM,Michael Franken,80,35,45
+Monroe,No. 1 - Albia First Ward,U.S. Senate,,,Write-in,0,0,0
+Monroe,No. 2 - Albia Second Ward,U.S. Senate,,,Write-in,1,0,1
+Monroe,No. 3 - Albia Third Ward,U.S. Senate,,,Write-in,1,0,1
+Monroe,No. 4 - Albia Fourth Ward,U.S. Senate,,,Write-in,0,0,0
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",U.S. Senate,,,Write-in,3,2,1
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",U.S. Senate,,,Write-in,0,0,0
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",U.S. Senate,,,Write-in,1,0,1
+Monroe,No. 1 - Albia First Ward,U.S. House,3,REP,Zach Nunn,247,60,187
+Monroe,No. 2 - Albia Second Ward,U.S. House,3,REP,Zach Nunn,198,55,143
+Monroe,No. 3 - Albia Third Ward,U.S. House,3,REP,Zach Nunn,128,32,96
+Monroe,No. 4 - Albia Fourth Ward,U.S. House,3,REP,Zach Nunn,191,40,151
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",U.S. House,3,REP,Zach Nunn,808,273,535
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",U.S. House,3,REP,Zach Nunn,328,61,267
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",U.S. House,3,REP,Zach Nunn,206,47,159
+Monroe,No. 1 - Albia First Ward,U.S. House,3,DEM,Cindy Axne,119,59,60
+Monroe,No. 2 - Albia Second Ward,U.S. House,3,DEM,Cindy Axne,86,36,50
+Monroe,No. 3 - Albia Third Ward,U.S. House,3,DEM,Cindy Axne,82,41,41
+Monroe,No. 4 - Albia Fourth Ward,U.S. House,3,DEM,Cindy Axne,113,49,64
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",U.S. House,3,DEM,Cindy Axne,203,118,85
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",U.S. House,3,DEM,Cindy Axne,111,40,71
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",U.S. House,3,DEM,Cindy Axne,80,35,45
+Monroe,No. 1 - Albia First Ward,U.S. House,3,,Write-in,0,0,0
+Monroe,No. 2 - Albia Second Ward,U.S. House,3,,Write-in,0,0,0
+Monroe,No. 3 - Albia Third Ward,U.S. House,3,,Write-in,0,0,0
+Monroe,No. 4 - Albia Fourth Ward,U.S. House,3,,Write-in,1,0,1
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",U.S. House,3,,Write-in,1,1,0
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",U.S. House,3,,Write-in,1,0,1
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",U.S. House,3,,Write-in,2,1,1
+Monroe,No. 1 - Albia First Ward,Governor,,REP,Kim Reynolds and Adam Gregg,266,69,197
+Monroe,No. 2 - Albia Second Ward,Governor,,REP,Kim Reynolds and Adam Gregg,206,60,146
+Monroe,No. 3 - Albia Third Ward,Governor,,REP,Kim Reynolds and Adam Gregg,152,47,105
+Monroe,No. 4 - Albia Fourth Ward,Governor,,REP,Kim Reynolds and Adam Gregg,212,50,162
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Governor,,REP,Kim Reynolds and Adam Gregg,853,292,561
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Governor,,REP,Kim Reynolds and Adam Gregg,356,68,288
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Governor,,REP,Kim Reynolds and Adam Gregg,221,52,169
+Monroe,No. 1 - Albia First Ward,Governor,,DEM,Deidre DeJear and Eric Van Lancker,98,52,46
+Monroe,No. 2 - Albia Second Ward,Governor,,DEM,Deidre DeJear and Eric Van Lancker,71,30,41
+Monroe,No. 3 - Albia Third Ward,Governor,,DEM,Deidre DeJear and Eric Van Lancker,58,28,30
+Monroe,No. 4 - Albia Fourth Ward,Governor,,DEM,Deidre DeJear and Eric Van Lancker,93,43,50
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Governor,,DEM,Deidre DeJear and Eric Van Lancker,157,99,58
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Governor,,DEM,Deidre DeJear and Eric Van Lancker,89,36,53
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Governor,,DEM,Deidre DeJear and Eric Van Lancker,69,32,37
+Monroe,No. 1 - Albia First Ward,Governor,,LIB,Rick Stewart and Marco Battaglia,9,4,5
+Monroe,No. 2 - Albia Second Ward,Governor,,LIB,Rick Stewart and Marco Battaglia,8,1,7
+Monroe,No. 3 - Albia Third Ward,Governor,,LIB,Rick Stewart and Marco Battaglia,8,4,4
+Monroe,No. 4 - Albia Fourth Ward,Governor,,LIB,Rick Stewart and Marco Battaglia,7,1,6
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Governor,,LIB,Rick Stewart and Marco Battaglia,20,6,14
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Governor,,LIB,Rick Stewart and Marco Battaglia,7,0,7
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Governor,,LIB,Rick Stewart and Marco Battaglia,5,2,3
+Monroe,No. 1 - Albia First Ward,Governor,,,Write-in,0,0,0
+Monroe,No. 2 - Albia Second Ward,Governor,,,Write-in,0,0,0
+Monroe,No. 3 - Albia Third Ward,Governor,,,Write-in,0,0,0
+Monroe,No. 4 - Albia Fourth Ward,Governor,,,Write-in,0,0,0
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Governor,,,Write-in,0,0,0
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Governor,,,Write-in,0,0,0
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Governor,,,Write-in,1,0,1
+Monroe,No. 1 - Albia First Ward,Secretary of State,,REP,Paul D. Pate,252,66,186
+Monroe,No. 2 - Albia Second Ward,Secretary of State,,REP,Paul D. Pate,199,55,144
+Monroe,No. 3 - Albia Third Ward,Secretary of State,,REP,Paul D. Pate,151,46,105
+Monroe,No. 4 - Albia Fourth Ward,Secretary of State,,REP,Paul D. Pate,210,46,164
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Secretary of State,,REP,Paul D. Pate,856,294,562
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Secretary of State,,REP,Paul D. Pate,371,80,291
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Secretary of State,,REP,Paul D. Pate,221,57,164
+Monroe,No. 1 - Albia First Ward,Secretary of State,,DEM,Joel Miller,109,54,55
+Monroe,No. 2 - Albia Second Ward,Secretary of State,,DEM,Joel Miller,80,32,48
+Monroe,No. 3 - Albia Third Ward,Secretary of State,,DEM,Joel Miller,66,34,32
+Monroe,No. 4 - Albia Fourth Ward,Secretary of State,,DEM,Joel Miller,94,44,50
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Secretary of State,,DEM,Joel Miller,164,99,65
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Secretary of State,,DEM,Joel Miller,78,25,53
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Secretary of State,,DEM,Joel Miller,71,30,41
+Monroe,No. 1 - Albia First Ward,Secretary of State,,,Write-in,0,0,0
+Monroe,No. 2 - Albia Second Ward,Secretary of State,,,Write-in,0,0,0
+Monroe,No. 3 - Albia Third Ward,Secretary of State,,,Write-in,0,0,0
+Monroe,No. 4 - Albia Fourth Ward,Secretary of State,,,Write-in,0,0,0
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Secretary of State,,,Write-in,0,0,0
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Secretary of State,,,Write-in,0,0,0
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Secretary of State,,,Write-in,1,0,1
+Monroe,No. 1 - Albia First Ward,Auditor of State,,REP,Todd Halbur,214,55,159
+Monroe,No. 2 - Albia Second Ward,Auditor of State,,REP,Todd Halbur,172,47,125
+Monroe,No. 3 - Albia Third Ward,Auditor of State,,REP,Todd Halbur,120,33,87
+Monroe,No. 4 - Albia Fourth Ward,Auditor of State,,REP,Todd Halbur,163,36,127
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Auditor of State,,REP,Todd Halbur,705,230,475
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Auditor of State,,REP,Todd Halbur,302,56,246
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Auditor of State,,REP,Todd Halbur,178,44,134
+Monroe,No. 1 - Albia First Ward,Auditor of State,,DEM,Rob Sand,147,67,80
+Monroe,No. 2 - Albia Second Ward,Auditor of State,,DEM,Rob Sand,106,40,66
+Monroe,No. 3 - Albia Third Ward,Auditor of State,,DEM,Rob Sand,93,46,47
+Monroe,No. 4 - Albia Fourth Ward,Auditor of State,,DEM,Rob Sand,136,52,84
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Auditor of State,,DEM,Rob Sand,308,160,148
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Auditor of State,,DEM,Rob Sand,143,48,95
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Auditor of State,,DEM,Rob Sand,109,42,67
+Monroe,No. 1 - Albia First Ward,Auditor of State,,,Write-in,0,0,0
+Monroe,No. 2 - Albia Second Ward,Auditor of State,,,Write-in,0,0,0
+Monroe,No. 3 - Albia Third Ward,Auditor of State,,,Write-in,0,0,0
+Monroe,No. 4 - Albia Fourth Ward,Auditor of State,,,Write-in,0,0,0
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Auditor of State,,,Write-in,0,0,0
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Auditor of State,,,Write-in,0,0,0
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Auditor of State,,,Write-in,1,0,1
+Monroe,No. 1 - Albia First Ward,Treasurer of State,,REP,Roby Smith,213,52,161
+Monroe,No. 2 - Albia Second Ward,Treasurer of State,,REP,Roby Smith,164,42,122
+Monroe,No. 3 - Albia Third Ward,Treasurer of State,,REP,Roby Smith,118,31,87
+Monroe,No. 4 - Albia Fourth Ward,Treasurer of State,,REP,Roby Smith,172,33,139
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Treasurer of State,,REP,Roby Smith,725,246,479
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Treasurer of State,,REP,Roby Smith,312,61,251
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Treasurer of State,,REP,Roby Smith,189,45,144
+Monroe,No. 1 - Albia First Ward,Treasurer of State,,DEM,Michael L. Fitzgerald,146,70,76
+Monroe,No. 2 - Albia Second Ward,Treasurer of State,,DEM,Michael L. Fitzgerald,116,46,70
+Monroe,No. 3 - Albia Third Ward,Treasurer of State,,DEM,Michael L. Fitzgerald,97,49,48
+Monroe,No. 4 - Albia Fourth Ward,Treasurer of State,,DEM,Michael L. Fitzgerald,132,56,76
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Treasurer of State,,DEM,Michael L. Fitzgerald,286,144,142
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Treasurer of State,,DEM,Michael L. Fitzgerald,130,42,88
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Treasurer of State,,DEM,Michael L. Fitzgerald,101,41,60
+Monroe,No. 1 - Albia First Ward,Treasurer of State,,,Write-in,0,0,0
+Monroe,No. 2 - Albia Second Ward,Treasurer of State,,,Write-in,0,0,0
+Monroe,No. 3 - Albia Third Ward,Treasurer of State,,,Write-in,0,0,0
+Monroe,No. 4 - Albia Fourth Ward,Treasurer of State,,,Write-in,0,0,0
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Treasurer of State,,,Write-in,1,0,1
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Treasurer of State,,,Write-in,1,0,1
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Treasurer of State,,,Write-in,1,0,1
+Monroe,No. 1 - Albia First Ward,Secretary of Agriculture,,REP,Mike Naig,261,65,196
+Monroe,No. 2 - Albia Second Ward,Secretary of Agriculture,,REP,Mike Naig,196,51,145
+Monroe,No. 3 - Albia Third Ward,Secretary of Agriculture,,REP,Mike Naig,148,45,103
+Monroe,No. 4 - Albia Fourth Ward,Secretary of Agriculture,,REP,Mike Naig,207,48,159
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Secretary of Agriculture,,REP,Mike Naig,854,293,561
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Secretary of Agriculture,,REP,Mike Naig,362,72,290
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Secretary of Agriculture,,REP,Mike Naig,231,61,170
+Monroe,No. 1 - Albia First Ward,Secretary of Agriculture,,DEM,John Norwood,99,55,44
+Monroe,No. 2 - Albia Second Ward,Secretary of Agriculture,,DEM,John Norwood,80,34,46
+Monroe,No. 3 - Albia Third Ward,Secretary of Agriculture,,DEM,John Norwood,62,31,31
+Monroe,No. 4 - Albia Fourth Ward,Secretary of Agriculture,,DEM,John Norwood,93,39,54
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Secretary of Agriculture,,DEM,John Norwood,155,94,61
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Secretary of Agriculture,,DEM,John Norwood,86,32,54
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Secretary of Agriculture,,DEM,John Norwood,62,26,36
+Monroe,No. 1 - Albia First Ward,Secretary of Agriculture,,,Write-in,0,0,0
+Monroe,No. 2 - Albia Second Ward,Secretary of Agriculture,,,Write-in,0,0,0
+Monroe,No. 3 - Albia Third Ward,Secretary of Agriculture,,,Write-in,1,0,1
+Monroe,No. 4 - Albia Fourth Ward,Secretary of Agriculture,,,Write-in,0,0,0
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Secretary of Agriculture,,,Write-in,1,0,1
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Secretary of Agriculture,,,Write-in,0,0,0
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Secretary of Agriculture,,,Write-in,1,0,1
+Monroe,No. 1 - Albia First Ward,Attorney General,,REP,Brenna Bird,218,52,166
+Monroe,No. 2 - Albia Second Ward,Attorney General,,REP,Brenna Bird,164,37,127
+Monroe,No. 3 - Albia Third Ward,Attorney General,,REP,Brenna Bird,114,33,81
+Monroe,No. 4 - Albia Fourth Ward,Attorney General,,REP,Brenna Bird,162,31,131
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Attorney General,,REP,Brenna Bird,717,231,486
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Attorney General,,REP,Brenna Bird,308,57,251
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Attorney General,,REP,Brenna Bird,189,43,146
+Monroe,No. 1 - Albia First Ward,Attorney General,,DEM,Tom Miller,146,69,77
+Monroe,No. 2 - Albia Second Ward,Attorney General,,DEM,Tom Miller,117,51,66
+Monroe,No. 3 - Albia Third Ward,Attorney General,,DEM,Tom Miller,103,49,54
+Monroe,No. 4 - Albia Fourth Ward,Attorney General,,DEM,Tom Miller,140,59,81
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Attorney General,,DEM,Tom Miller,293,161,132
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Attorney General,,DEM,Tom Miller,134,47,87
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Attorney General,,DEM,Tom Miller,99,41,58
+Monroe,No. 1 - Albia First Ward,Attorney General,,,Write-in,0,0,0
+Monroe,No. 2 - Albia Second Ward,Attorney General,,,Write-in,0,0,0
+Monroe,No. 3 - Albia Third Ward,Attorney General,,,Write-in,0,0,0
+Monroe,No. 4 - Albia Fourth Ward,Attorney General,,,Write-in,0,0,0
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Attorney General,,,Write-in,0,0,0
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Attorney General,,,Write-in,0,0,0
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Attorney General,,,Write-in,2,0,2
+Monroe,No. 1 - Albia First Ward,State Senate,13,REP,Cherielynn Westrich,225,55,170
+Monroe,No. 2 - Albia Second Ward,State Senate,13,REP,Cherielynn Westrich,179,47,132
+Monroe,No. 3 - Albia Third Ward,State Senate,13,REP,Cherielynn Westrich,132,37,95
+Monroe,No. 4 - Albia Fourth Ward,State Senate,13,REP,Cherielynn Westrich,187,36,151
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",State Senate,13,REP,Cherielynn Westrich,768,254,514
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",State Senate,13,REP,Cherielynn Westrich,320,60,260
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",State Senate,13,REP,Cherielynn Westrich,206,47,159
+Monroe,No. 1 - Albia First Ward,State Senate,13,DEM,Matt Greiner,136,67,69
+Monroe,No. 2 - Albia Second Ward,State Senate,13,DEM,Matt Greiner,96,38,58
+Monroe,No. 3 - Albia Third Ward,State Senate,13,DEM,Matt Greiner,83,42,41
+Monroe,No. 4 - Albia Fourth Ward,State Senate,13,DEM,Matt Greiner,118,54,64
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",State Senate,13,DEM,Matt Greiner,235,130,105
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",State Senate,13,DEM,Matt Greiner,123,42,81
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",State Senate,13,DEM,Matt Greiner,80,36,44
+Monroe,No. 1 - Albia First Ward,State Senate,13,,Write-in,0,0,0
+Monroe,No. 2 - Albia Second Ward,State Senate,13,,Write-in,0,0,0
+Monroe,No. 3 - Albia Third Ward,State Senate,13,,Write-in,0,0,0
+Monroe,No. 4 - Albia Fourth Ward,State Senate,13,,Write-in,0,0,0
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",State Senate,13,,Write-in,0,0,0
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",State Senate,13,,Write-in,0,0,0
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",State Senate,13,,Write-in,1,0,1
+Monroe,No. 1 - Albia First Ward,State House,26,REP,Austin Harris,289,80,209
+Monroe,No. 2 - Albia Second Ward,State House,26,REP,Austin Harris,228,62,166
+Monroe,No. 3 - Albia Third Ward,State House,26,REP,Austin Harris,179,54,125
+Monroe,No. 4 - Albia Fourth Ward,State House,26,REP,Austin Harris,236,55,181
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",State House,26,REP,Austin Harris,870,303,567
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",State House,26,REP,Austin Harris,376,75,301
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",State House,26,REP,Austin Harris,237,60,177
+Monroe,No. 1 - Albia First Ward,State House,26,,Write-in,3,0,3
+Monroe,No. 2 - Albia Second Ward,State House,26,,Write-in,8,3,5
+Monroe,No. 3 - Albia Third Ward,State House,26,,Write-in,2,1,1
+Monroe,No. 4 - Albia Fourth Ward,State House,26,,Write-in,5,3,2
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",State House,26,,Write-in,6,3,3
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",State House,26,,Write-in,5,3,2
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",State House,26,,Write-in,4,0,4
+Monroe,No. 1 - Albia First Ward,County Board of Supervisors At Large,,REP,Sonny Schroeder,293,89,204
+Monroe,No. 2 - Albia Second Ward,County Board of Supervisors At Large,,REP,Sonny Schroeder,199,53,146
+Monroe,No. 3 - Albia Third Ward,County Board of Supervisors At Large,,REP,Sonny Schroeder,147,45,102
+Monroe,No. 4 - Albia Fourth Ward,County Board of Supervisors At Large,,REP,Sonny Schroeder,216,54,162
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Board of Supervisors At Large,,REP,Sonny Schroeder,830,288,542
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Board of Supervisors At Large,,REP,Sonny Schroeder,315,65,250
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Board of Supervisors At Large,,REP,Sonny Schroeder,239,64,175
+Monroe,No. 1 - Albia First Ward,County Board of Supervisors At Large,,DEM,Deb Ballalatak,76,35,41
+Monroe,No. 2 - Albia Second Ward,County Board of Supervisors At Large,,DEM,Deb Ballalatak,81,33,48
+Monroe,No. 3 - Albia Third Ward,County Board of Supervisors At Large,,DEM,Deb Ballalatak,68,33,35
+Monroe,No. 4 - Albia Fourth Ward,County Board of Supervisors At Large,,DEM,Deb Ballalatak,82,31,51
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Board of Supervisors At Large,,DEM,Deb Ballalatak,170,95,75
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Board of Supervisors At Large,,DEM,Deb Ballalatak,130,37,93
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Board of Supervisors At Large,,DEM,Deb Ballalatak,48,20,28
+Monroe,No. 1 - Albia First Ward,County Board of Supervisors At Large,,,Write-in,0,0,0
+Monroe,No. 2 - Albia Second Ward,County Board of Supervisors At Large,,,Write-in,0,0,0
+Monroe,No. 3 - Albia Third Ward,County Board of Supervisors At Large,,,Write-in,0,0,0
+Monroe,No. 4 - Albia Fourth Ward,County Board of Supervisors At Large,,,Write-in,0,0,0
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Board of Supervisors At Large,,,Write-in,8,2,6
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Board of Supervisors At Large,,,Write-in,4,2,2
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Board of Supervisors At Large,,,Write-in,1,0,1
+Monroe,No. 1 - Albia First Ward,County Treasurer,,REP,Cheryl Chambers,324,97,227
+Monroe,No. 2 - Albia Second Ward,County Treasurer,,REP,Cheryl Chambers,250,74,176
+Monroe,No. 3 - Albia Third Ward,County Treasurer,,REP,Cheryl Chambers,198,68,130
+Monroe,No. 4 - Albia Fourth Ward,County Treasurer,,REP,Cheryl Chambers,261,68,193
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Treasurer,,REP,Cheryl Chambers,936,335,601
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Treasurer,,REP,Cheryl Chambers,408,89,319
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Treasurer,,REP,Cheryl Chambers,254,67,187
+Monroe,No. 1 - Albia First Ward,County Treasurer,,,Write-in,1,0,1
+Monroe,No. 2 - Albia Second Ward,County Treasurer,,,Write-in,6,1,5
+Monroe,No. 3 - Albia Third Ward,County Treasurer,,,Write-in,1,0,1
+Monroe,No. 4 - Albia Fourth Ward,County Treasurer,,,Write-in,2,1,1
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Treasurer,,,Write-in,2,1,1
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Treasurer,,,Write-in,1,1,0
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Treasurer,,,Write-in,2,0,2
+Monroe,No. 1 - Albia First Ward,County Recorder,,DEM,Tracy Casady,282,92,190
+Monroe,No. 2 - Albia Second Ward,County Recorder,,DEM,Tracy Casady,221,72,149
+Monroe,No. 3 - Albia Third Ward,County Recorder,,DEM,Tracy Casady,171,71,100
+Monroe,No. 4 - Albia Fourth Ward,County Recorder,,DEM,Tracy Casady,237,70,167
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Recorder,,DEM,Tracy Casady,746,289,457
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Recorder,,DEM,Tracy Casady,316,74,242
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Recorder,,DEM,Tracy Casady,207,61,146
+Monroe,No. 1 - Albia First Ward,County Recorder,,,Write-in,3,0,3
+Monroe,No. 2 - Albia Second Ward,County Recorder,,,Write-in,9,1,8
+Monroe,No. 3 - Albia Third Ward,County Recorder,,,Write-in,6,0,6
+Monroe,No. 4 - Albia Fourth Ward,County Recorder,,,Write-in,4,0,4
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Recorder,,,Write-in,28,6,22
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Recorder,,,Write-in,17,2,15
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Recorder,,,Write-in,9,1,8
+Monroe,No. 1 - Albia First Ward,County Attorney,,REP,Laura B. Davis,292,82,210
+Monroe,No. 2 - Albia Second Ward,County Attorney,,REP,Laura B. Davis,231,68,163
+Monroe,No. 3 - Albia Third Ward,County Attorney,,REP,Laura B. Davis,189,67,122
+Monroe,No. 4 - Albia Fourth Ward,County Attorney,,REP,Laura B. Davis,240,60,180
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Attorney,,REP,Laura B. Davis,891,315,576
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Attorney,,REP,Laura B. Davis,386,83,303
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Attorney,,REP,Laura B. Davis,251,66,185
+Monroe,No. 1 - Albia First Ward,County Attorney,,,Write-in,2,0,2
+Monroe,No. 2 - Albia Second Ward,County Attorney,,,Write-in,9,3,6
+Monroe,No. 3 - Albia Third Ward,County Attorney,,,Write-in,2,0,2
+Monroe,No. 4 - Albia Fourth Ward,County Attorney,,,Write-in,4,2,2
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Attorney,,,Write-in,5,2,3
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Attorney,,,Write-in,4,2,2
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Attorney,,,Write-in,2,0,2
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Pleasant Township Trustee,,,David Fynaardt,83,33,50
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Pleasant Township Trustee,,,Write-in,3,0,3
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Pleasant Township Clerk,,,Warren McGlothlen,81,33,48
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Pleasant Township Clerk,,,Write-in,3,0,3
+Monroe,No. 1 - Albia First Ward,County Public Hospital Trustees,,,Matthew Foster,265,88,177
+Monroe,No. 2 - Albia Second Ward,County Public Hospital Trustees,,,Matthew Foster,201,64,137
+Monroe,No. 3 - Albia Third Ward,County Public Hospital Trustees,,,Matthew Foster,136,47,89
+Monroe,No. 4 - Albia Fourth Ward,County Public Hospital Trustees,,,Matthew Foster,208,62,146
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Public Hospital Trustees,,,Matthew Foster,620,221,399
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Public Hospital Trustees,,,Matthew Foster,258,63,195
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Public Hospital Trustees,,,Matthew Foster,138,33,105
+Monroe,No. 1 - Albia First Ward,County Public Hospital Trustees,,,Steva Havick Judge,240,83,157
+Monroe,No. 2 - Albia Second Ward,County Public Hospital Trustees,,,Steva Havick Judge,179,54,125
+Monroe,No. 3 - Albia Third Ward,County Public Hospital Trustees,,,Steva Havick Judge,123,50,73
+Monroe,No. 4 - Albia Fourth Ward,County Public Hospital Trustees,,,Steva Havick Judge,194,54,140
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Public Hospital Trustees,,,Steva Havick Judge,555,213,342
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Public Hospital Trustees,,,Steva Havick Judge,231,55,176
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Public Hospital Trustees,,,Steva Havick Judge,124,25,99
+Monroe,No. 1 - Albia First Ward,County Public Hospital Trustees,,,Joseph Bates,276,93,183
+Monroe,No. 2 - Albia Second Ward,County Public Hospital Trustees,,,Joseph Bates,193,57,136
+Monroe,No. 3 - Albia Third Ward,County Public Hospital Trustees,,,Joseph Bates,141,53,88
+Monroe,No. 4 - Albia Fourth Ward,County Public Hospital Trustees,,,Joseph Bates,219,62,157
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Public Hospital Trustees,,,Joseph Bates,636,232,404
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Public Hospital Trustees,,,Joseph Bates,267,60,207
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Public Hospital Trustees,,,Joseph Bates,150,36,114
+Monroe,No. 1 - Albia First Ward,County Public Hospital Trustees,,,Jason Summers,284,86,198
+Monroe,No. 2 - Albia Second Ward,County Public Hospital Trustees,,,Jason Summers,224,66,158
+Monroe,No. 3 - Albia Third Ward,County Public Hospital Trustees,,,Jason Summers,153,57,96
+Monroe,No. 4 - Albia Fourth Ward,County Public Hospital Trustees,,,Jason Summers,231,70,161
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Public Hospital Trustees,,,Jason Summers,693,245,448
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Public Hospital Trustees,,,Jason Summers,298,67,231
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Public Hospital Trustees,,,Jason Summers,161,40,121
+Monroe,No. 1 - Albia First Ward,County Public Hospital Trustees,,,Tiffany Havard,262,88,174
+Monroe,No. 2 - Albia Second Ward,County Public Hospital Trustees,,,Tiffany Havard,203,59,144
+Monroe,No. 3 - Albia Third Ward,County Public Hospital Trustees,,,Tiffany Havard,138,53,85
+Monroe,No. 4 - Albia Fourth Ward,County Public Hospital Trustees,,,Tiffany Havard,204,57,147
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Public Hospital Trustees,,,Tiffany Havard,637,231,406
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Public Hospital Trustees,,,Tiffany Havard,250,57,193
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Public Hospital Trustees,,,Tiffany Havard,142,31,111
+Monroe,No. 1 - Albia First Ward,County Public Hospital Trustees,,,Write-in,1,0,1
+Monroe,No. 2 - Albia Second Ward,County Public Hospital Trustees,,,Write-in,5,3,2
+Monroe,No. 3 - Albia Third Ward,County Public Hospital Trustees,,,Write-in,0,0,0
+Monroe,No. 4 - Albia Fourth Ward,County Public Hospital Trustees,,,Write-in,7,1,6
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Public Hospital Trustees,,,Write-in,7,2,5
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Public Hospital Trustees,,,Write-in,1,1,0
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Public Hospital Trustees,,,Write-in,1,0,1
+Monroe,No. 1 - Albia First Ward,Soil and Water Conservation District Commissioner,,,Raymond Joseph Pyle,250,86,164
+Monroe,No. 2 - Albia Second Ward,Soil and Water Conservation District Commissioner,,,Raymond Joseph Pyle,193,55,138
+Monroe,No. 3 - Albia Third Ward,Soil and Water Conservation District Commissioner,,,Raymond Joseph Pyle,148,58,90
+Monroe,No. 4 - Albia Fourth Ward,Soil and Water Conservation District Commissioner,,,Raymond Joseph Pyle,206,56,150
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Soil and Water Conservation District Commissioner,,,Raymond Joseph Pyle,666,232,434
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Soil and Water Conservation District Commissioner,,,Raymond Joseph Pyle,321,72,249
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Soil and Water Conservation District Commissioner,,,Raymond Joseph Pyle,175,41,134
+Monroe,No. 1 - Albia First Ward,Soil and Water Conservation District Commissioner,,,Robert R. Scott,241,80,161
+Monroe,No. 2 - Albia Second Ward,Soil and Water Conservation District Commissioner,,,Robert R. Scott,189,56,133
+Monroe,No. 3 - Albia Third Ward,Soil and Water Conservation District Commissioner,,,Robert R. Scott,134,50,84
+Monroe,No. 4 - Albia Fourth Ward,Soil and Water Conservation District Commissioner,,,Robert R. Scott,201,51,150
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Soil and Water Conservation District Commissioner,,,Robert R. Scott,646,237,409
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Soil and Water Conservation District Commissioner,,,Robert R. Scott,275,65,210
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Soil and Water Conservation District Commissioner,,,Robert R. Scott,156,36,120
+Monroe,No. 1 - Albia First Ward,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Monroe,No. 2 - Albia Second Ward,Soil and Water Conservation District Commissioner,,,Write-in,3,2,1
+Monroe,No. 3 - Albia Third Ward,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Monroe,No. 4 - Albia Fourth Ward,Soil and Water Conservation District Commissioner,,,Write-in,3,1,2
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Soil and Water Conservation District Commissioner,,,Write-in,6,1,5
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Soil and Water Conservation District Commissioner,,,Write-in,5,0,5
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Monroe,No. 1 - Albia First Ward,County Agricultural Extension Council Member,,,Aandrea Beary,235,75,160
+Monroe,No. 2 - Albia Second Ward,County Agricultural Extension Council Member,,,Aandrea Beary,181,53,128
+Monroe,No. 3 - Albia Third Ward,County Agricultural Extension Council Member,,,Aandrea Beary,132,47,85
+Monroe,No. 4 - Albia Fourth Ward,County Agricultural Extension Council Member,,,Aandrea Beary,181,45,136
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Agricultural Extension Council Member,,,Aandrea Beary,574,198,376
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Agricultural Extension Council Member,,,Aandrea Beary,273,57,216
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Agricultural Extension Council Member,,,Aandrea Beary,145,31,114
+Monroe,No. 1 - Albia First Ward,County Agricultural Extension Council Member,,,Joann McDonald,231,76,155
+Monroe,No. 2 - Albia Second Ward,County Agricultural Extension Council Member,,,Joann McDonald,182,51,131
+Monroe,No. 3 - Albia Third Ward,County Agricultural Extension Council Member,,,Joann McDonald,125,48,77
+Monroe,No. 4 - Albia Fourth Ward,County Agricultural Extension Council Member,,,Joann McDonald,197,57,140
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Agricultural Extension Council Member,,,Joann McDonald,580,203,377
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Agricultural Extension Council Member,,,Joann McDonald,243,58,185
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Agricultural Extension Council Member,,,Joann McDonald,145,32,113
+Monroe,No. 1 - Albia First Ward,County Agricultural Extension Council Member,,,Stacy Haas,227,75,152
+Monroe,No. 2 - Albia Second Ward,County Agricultural Extension Council Member,,,Stacy Haas,191,52,139
+Monroe,No. 3 - Albia Third Ward,County Agricultural Extension Council Member,,,Stacy Haas,125,45,80
+Monroe,No. 4 - Albia Fourth Ward,County Agricultural Extension Council Member,,,Stacy Haas,191,51,140
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Agricultural Extension Council Member,,,Stacy Haas,571,193,378
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Agricultural Extension Council Member,,,Stacy Haas,242,57,185
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Agricultural Extension Council Member,,,Stacy Haas,135,32,103
+Monroe,No. 1 - Albia First Ward,County Agricultural Extension Council Member,,,Joshua J. Simms,242,77,165
+Monroe,No. 2 - Albia Second Ward,County Agricultural Extension Council Member,,,Joshua J. Simms,183,48,135
+Monroe,No. 3 - Albia Third Ward,County Agricultural Extension Council Member,,,Joshua J. Simms,129,46,83
+Monroe,No. 4 - Albia Fourth Ward,County Agricultural Extension Council Member,,,Joshua J. Simms,184,49,135
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Agricultural Extension Council Member,,,Joshua J. Simms,552,194,358
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Agricultural Extension Council Member,,,Joshua J. Simms,245,52,193
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Agricultural Extension Council Member,,,Joshua J. Simms,134,33,101
+Monroe,No. 1 - Albia First Ward,County Agricultural Extension Council Member,,,Christine Crawford,196,64,132
+Monroe,No. 2 - Albia Second Ward,County Agricultural Extension Council Member,,,Christine Crawford,170,47,123
+Monroe,No. 3 - Albia Third Ward,County Agricultural Extension Council Member,,,Christine Crawford,111,41,70
+Monroe,No. 4 - Albia Fourth Ward,County Agricultural Extension Council Member,,,Christine Crawford,156,40,116
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Agricultural Extension Council Member,,,Christine Crawford,479,159,320
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Agricultural Extension Council Member,,,Christine Crawford,209,48,161
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Agricultural Extension Council Member,,,Christine Crawford,133,30,103
+Monroe,No. 1 - Albia First Ward,County Agricultural Extension Council Member,,,Write-in,6,0,6
+Monroe,No. 2 - Albia Second Ward,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Monroe,No. 3 - Albia Third Ward,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Monroe,No. 4 - Albia Fourth Ward,County Agricultural Extension Council Member,,,Write-in,5,0,5
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",County Agricultural Extension Council Member,,,Write-in,8,1,7
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",County Agricultural Extension Council Member,,,Write-in,10,0,10
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",County Agricultural Extension Council Member,,,Write-in,4,0,4
+Monroe,No. 1 - Albia First Ward,Supreme Court Justice,,,Yes,185,53,132
+Monroe,No. 2 - Albia Second Ward,Supreme Court Justice,,,Yes,140,35,105
+Monroe,No. 3 - Albia Third Ward,Supreme Court Justice,,,Yes,114,38,76
+Monroe,No. 4 - Albia Fourth Ward,Supreme Court Justice,,,Yes,155,35,120
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Supreme Court Justice,,,Yes,469,154,315
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Supreme Court Justice,,,Yes,218,49,169
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Supreme Court Justice,,,Yes,128,33,95
+Monroe,No. 1 - Albia First Ward,Supreme Court Justice,,,No,81,33,48
+Monroe,No. 2 - Albia Second Ward,Supreme Court Justice,,,No,75,23,52
+Monroe,No. 3 - Albia Third Ward,Supreme Court Justice,,,No,45,21,24
+Monroe,No. 4 - Albia Fourth Ward,Supreme Court Justice,,,No,73,24,49
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Supreme Court Justice,,,No,269,114,155
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Supreme Court Justice,,,No,94,19,75
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Supreme Court Justice,,,No,68,19,49
+Monroe,No. 1 - Albia First Ward,Court of Appeals Judge,,,Yes,185,55,130
+Monroe,No. 2 - Albia Second Ward,Court of Appeals Judge,,,Yes,138,35,103
+Monroe,No. 3 - Albia Third Ward,Court of Appeals Judge,,,Yes,107,33,74
+Monroe,No. 4 - Albia Fourth Ward,Court of Appeals Judge,,,Yes,157,35,122
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Court of Appeals Judge,,,Yes,458,150,308
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Court of Appeals Judge,,,Yes,201,49,152
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Court of Appeals Judge,,,Yes,119,29,90
+Monroe,No. 1 - Albia First Ward,Court of Appeals Judge,,,No,75,27,48
+Monroe,No. 2 - Albia Second Ward,Court of Appeals Judge,,,No,71,17,54
+Monroe,No. 3 - Albia Third Ward,Court of Appeals Judge,,,No,48,23,25
+Monroe,No. 4 - Albia Fourth Ward,Court of Appeals Judge,,,No,69,22,47
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Court of Appeals Judge,,,No,259,106,153
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Court of Appeals Judge,,,No,102,17,85
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Court of Appeals Judge,,,No,67,20,47
+Monroe,No. 1 - Albia First Ward,District 8A Judge,,,Yes,198,62,136
+Monroe,No. 2 - Albia Second Ward,District 8A Judge,,,Yes,149,41,108
+Monroe,No. 3 - Albia Third Ward,District 8A Judge,,,Yes,118,38,80
+Monroe,No. 4 - Albia Fourth Ward,District 8A Judge,,,Yes,165,36,129
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",District 8A Judge,,,Yes,483,169,314
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",District 8A Judge,,,Yes,219,50,169
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",District 8A Judge,,,Yes,131,32,99
+Monroe,No. 1 - Albia First Ward,District 8A Judge,,,No,73,22,51
+Monroe,No. 2 - Albia Second Ward,District 8A Judge,,,No,76,18,58
+Monroe,No. 3 - Albia Third Ward,District 8A Judge,,,No,49,21,28
+Monroe,No. 4 - Albia Fourth Ward,District 8A Judge,,,No,66,23,43
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",District 8A Judge,,,No,260,102,158
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",District 8A Judge,,,No,100,17,83
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",District 8A Judge,,,No,72,20,52
+Monroe,No. 1 - Albia First Ward,District 8A Associate Judge,,,Yes,194,60,134
+Monroe,No. 2 - Albia Second Ward,District 8A Associate Judge,,,Yes,147,40,107
+Monroe,No. 3 - Albia Third Ward,District 8A Associate Judge,,,Yes,123,42,81
+Monroe,No. 4 - Albia Fourth Ward,District 8A Associate Judge,,,Yes,164,37,127
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",District 8A Associate Judge,,,Yes,482,169,313
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",District 8A Associate Judge,,,Yes,215,50,165
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",District 8A Associate Judge,,,Yes,125,31,94
+Monroe,No. 1 - Albia First Ward,District 8A Associate Judge,,,No,74,24,50
+Monroe,No. 2 - Albia Second Ward,District 8A Associate Judge,,,No,72,18,54
+Monroe,No. 3 - Albia Third Ward,District 8A Associate Judge,,,No,42,17,25
+Monroe,No. 4 - Albia Fourth Ward,District 8A Associate Judge,,,No,63,20,43
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",District 8A Associate Judge,,,No,252,100,152
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",District 8A Associate Judge,,,No,102,16,86
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",District 8A Associate Judge,,,No,72,17,55
+Monroe,No. 1 - Albia First Ward,District 8A Associate Juvenile Judge,,,Yes,234,71,163
+Monroe,No. 2 - Albia Second Ward,District 8A Associate Juvenile Judge,,,Yes,180,56,124
+Monroe,No. 3 - Albia Third Ward,District 8A Associate Juvenile Judge,,,Yes,141,50,91
+Monroe,No. 4 - Albia Fourth Ward,District 8A Associate Juvenile Judge,,,Yes,192,45,147
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",District 8A Associate Juvenile Judge,,,Yes,564,204,360
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",District 8A Associate Juvenile Judge,,,Yes,245,65,180
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",District 8A Associate Juvenile Judge,,,Yes,147,43,104
+Monroe,No. 1 - Albia First Ward,District 8A Associate Juvenile Judge,,,No,67,27,40
+Monroe,No. 2 - Albia Second Ward,District 8A Associate Juvenile Judge,,,No,49,10,39
+Monroe,No. 3 - Albia Third Ward,District 8A Associate Juvenile Judge,,,No,38,16,22
+Monroe,No. 4 - Albia Fourth Ward,District 8A Associate Juvenile Judge,,,No,54,22,32
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",District 8A Associate Juvenile Judge,,,No,209,80,129
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",District 8A Associate Juvenile Judge,,,No,95,12,83
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",District 8A Associate Juvenile Judge,,,No,65,16,49
+Monroe,No. 1 - Albia First Ward,Constitutional Amendment 1,,,Yes,270,73,197
+Monroe,No. 2 - Albia Second Ward,Constitutional Amendment 1,,,Yes,212,64,148
+Monroe,No. 3 - Albia Third Ward,Constitutional Amendment 1,,,Yes,153,51,102
+Monroe,No. 4 - Albia Fourth Ward,Constitutional Amendment 1,,,Yes,225,55,170
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Constitutional Amendment 1,,,Yes,824,287,537
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Constitutional Amendment 1,,,Yes,348,70,278
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Constitutional Amendment 1,,,Yes,217,56,161
+Monroe,No. 1 - Albia First Ward,Constitutional Amendment 1,,,No,64,35,29
+Monroe,No. 2 - Albia Second Ward,Constitutional Amendment 1,,,No,47,19,28
+Monroe,No. 3 - Albia Third Ward,Constitutional Amendment 1,,,No,45,23,22
+Monroe,No. 4 - Albia Fourth Ward,Constitutional Amendment 1,,,No,60,25,35
+Monroe,"No. 5 - Courthouse (PL,GL,TR,MT,UR,MN,EC,MC)",Constitutional Amendment 1,,,No,118,70,48
+Monroe,"No. 6 - Lovilia Comm Center (LV City,BC,CE,UN)",Constitutional Amendment 1,,,No,62,25,37
+Monroe,"No. 7 - St. Patrick's Church (ML City,FR,JK,WY)",Constitutional Amendment 1,,,No,44,23,21

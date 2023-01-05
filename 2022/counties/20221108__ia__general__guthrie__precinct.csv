@@ -1,0 +1,450 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Guthrie,Bayard Precinct,U.S. Senate,,DEM,Michael Franken,89,35,54
+Guthrie,Casey Precinct,U.S. Senate,,DEM,Michael Franken,188,86,102
+Guthrie,Guthrie Center Precinct,U.S. Senate,,DEM,Michael Franken,329,150,179
+Guthrie,Panora Precinct,U.S. Senate,,DEM,Michael Franken,327,154,173
+Guthrie,Stuart Precinct,U.S. Senate,,DEM,Michael Franken,309,71,238
+Guthrie,Yale Precinct,U.S. Senate,,DEM,Michael Franken,307,169,138
+Guthrie,Bayard Precinct,U.S. Senate,,REP,Chuck Grassley,286,44,242
+Guthrie,Casey Precinct,U.S. Senate,,REP,Chuck Grassley,442,94,348
+Guthrie,Guthrie Center Precinct,U.S. Senate,,REP,Chuck Grassley,625,163,462
+Guthrie,Panora Precinct,U.S. Senate,,REP,Chuck Grassley,780,236,544
+Guthrie,Stuart Precinct,U.S. Senate,,REP,Chuck Grassley,585,60,525
+Guthrie,Yale Precinct,U.S. Senate,,REP,Chuck Grassley,730,196,534
+Guthrie,Bayard Precinct,U.S. Senate,,,Write-in,0,0,0
+Guthrie,Casey Precinct,U.S. Senate,,,Write-in,3,1,2
+Guthrie,Guthrie Center Precinct,U.S. Senate,,,Write-in,1,0,1
+Guthrie,Panora Precinct,U.S. Senate,,,Write-in,3,0,3
+Guthrie,Stuart Precinct,U.S. Senate,,,Write-in,3,0,3
+Guthrie,Yale Precinct,U.S. Senate,,,Write-in,6,2,4
+Guthrie,Bayard Precinct,U.S. House,3,DEM,Cindy Axne,93,40,53
+Guthrie,Casey Precinct,U.S. House,3,DEM,Cindy Axne,198,83,115
+Guthrie,Guthrie Center Precinct,U.S. House,3,DEM,Cindy Axne,339,152,187
+Guthrie,Panora Precinct,U.S. House,3,DEM,Cindy Axne,336,158,178
+Guthrie,Stuart Precinct,U.S. House,3,DEM,Cindy Axne,328,68,260
+Guthrie,Yale Precinct,U.S. House,3,DEM,Cindy Axne,338,173,165
+Guthrie,Bayard Precinct,U.S. House,3,REP,Zach Nunn,283,39,244
+Guthrie,Casey Precinct,U.S. House,3,REP,Zach Nunn,432,97,335
+Guthrie,Guthrie Center Precinct,U.S. House,3,REP,Zach Nunn,611,157,454
+Guthrie,Panora Precinct,U.S. House,3,REP,Zach Nunn,771,230,541
+Guthrie,Stuart Precinct,U.S. House,3,REP,Zach Nunn,566,64,502
+Guthrie,Yale Precinct,U.S. House,3,REP,Zach Nunn,696,190,506
+Guthrie,Bayard Precinct,U.S. House,3,,Write-in,0,0,0
+Guthrie,Casey Precinct,U.S. House,3,,Write-in,0,0,0
+Guthrie,Guthrie Center Precinct,U.S. House,3,,Write-in,2,0,2
+Guthrie,Panora Precinct,U.S. House,3,,Write-in,2,0,2
+Guthrie,Stuart Precinct,U.S. House,3,,Write-in,2,0,2
+Guthrie,Yale Precinct,U.S. House,3,,Write-in,2,0,2
+Guthrie,Bayard Precinct,Governor,,DEM,Deidre DeJear and Eric Van Lancker,70,32,38
+Guthrie,Casey Precinct,Governor,,DEM,Deidre DeJear and Eric Van Lancker,145,65,80
+Guthrie,Guthrie Center Precinct,Governor,,DEM,Deidre DeJear and Eric Van Lancker,272,132,140
+Guthrie,Panora Precinct,Governor,,DEM,Deidre DeJear and Eric Van Lancker,277,141,136
+Guthrie,Stuart Precinct,Governor,,DEM,Deidre DeJear and Eric Van Lancker,257,57,200
+Guthrie,Yale Precinct,Governor,,DEM,Deidre DeJear and Eric Van Lancker,254,148,106
+Guthrie,Bayard Precinct,Governor,,REP,Kim Reynolds and Adam Gregg,302,43,259
+Guthrie,Casey Precinct,Governor,,REP,Kim Reynolds and Adam Gregg,462,108,354
+Guthrie,Guthrie Center Precinct,Governor,,REP,Kim Reynolds and Adam Gregg,663,176,487
+Guthrie,Panora Precinct,Governor,,REP,Kim Reynolds and Adam Gregg,812,239,573
+Guthrie,Stuart Precinct,Governor,,REP,Kim Reynolds and Adam Gregg,608,70,538
+Guthrie,Yale Precinct,Governor,,REP,Kim Reynolds and Adam Gregg,772,216,556
+Guthrie,Bayard Precinct,Governor,,LIB,Rick Stewart and Marco Battaglia,8,4,4
+Guthrie,Casey Precinct,Governor,,LIB,Rick Stewart and Marco Battaglia,28,7,21
+Guthrie,Guthrie Center Precinct,Governor,,LIB,Rick Stewart and Marco Battaglia,25,5,20
+Guthrie,Panora Precinct,Governor,,LIB,Rick Stewart and Marco Battaglia,24,9,15
+Guthrie,Stuart Precinct,Governor,,LIB,Rick Stewart and Marco Battaglia,36,6,30
+Guthrie,Yale Precinct,Governor,,LIB,Rick Stewart and Marco Battaglia,20,5,15
+Guthrie,Bayard Precinct,Governor,,,Write-in,0,0,0
+Guthrie,Casey Precinct,Governor,,,Write-in,0,0,0
+Guthrie,Guthrie Center Precinct,Governor,,,Write-in,0,0,0
+Guthrie,Panora Precinct,Governor,,,Write-in,0,0,0
+Guthrie,Stuart Precinct,Governor,,,Write-in,1,0,1
+Guthrie,Yale Precinct,Governor,,,Write-in,1,0,1
+Guthrie,Bayard Precinct,Secretary of State,,DEM,Joel Miller,80,35,45
+Guthrie,Casey Precinct,Secretary of State,,DEM,Joel Miller,158,73,85
+Guthrie,Guthrie Center Precinct,Secretary of State,,DEM,Joel Miller,257,120,137
+Guthrie,Panora Precinct,Secretary of State,,DEM,Joel Miller,249,115,134
+Guthrie,Stuart Precinct,Secretary of State,,DEM,Joel Miller,282,64,218
+Guthrie,Yale Precinct,Secretary of State,,DEM,Joel Miller,264,146,118
+Guthrie,Bayard Precinct,Secretary of State,,REP,Paul D. Pate,297,43,254
+Guthrie,Casey Precinct,Secretary of State,,REP,Paul D. Pate,471,107,364
+Guthrie,Guthrie Center Precinct,Secretary of State,,REP,Paul D. Pate,677,185,492
+Guthrie,Panora Precinct,Secretary of State,,REP,Paul D. Pate,849,271,578
+Guthrie,Stuart Precinct,Secretary of State,,REP,Paul D. Pate,606,68,538
+Guthrie,Yale Precinct,Secretary of State,,REP,Paul D. Pate,757,216,541
+Guthrie,Bayard Precinct,Secretary of State,,,Write-in,0,0,0
+Guthrie,Casey Precinct,Secretary of State,,,Write-in,0,0,0
+Guthrie,Guthrie Center Precinct,Secretary of State,,,Write-in,2,0,2
+Guthrie,Panora Precinct,Secretary of State,,,Write-in,0,0,0
+Guthrie,Stuart Precinct,Secretary of State,,,Write-in,2,0,2
+Guthrie,Yale Precinct,Secretary of State,,,Write-in,1,0,1
+Guthrie,Bayard Precinct,Auditor of State,,DEM,Rob Sand,141,48,93
+Guthrie,Casey Precinct,Auditor of State,,DEM,Rob Sand,259,96,163
+Guthrie,Guthrie Center Precinct,Auditor of State,,DEM,Rob Sand,433,184,249
+Guthrie,Panora Precinct,Auditor of State,,DEM,Rob Sand,442,183,259
+Guthrie,Stuart Precinct,Auditor of State,,DEM,Rob Sand,401,80,321
+Guthrie,Yale Precinct,Auditor of State,,DEM,Rob Sand,447,205,242
+Guthrie,Bayard Precinct,Auditor of State,,REP,Todd Halbur,229,30,199
+Guthrie,Casey Precinct,Auditor of State,,REP,Todd Halbur,369,85,284
+Guthrie,Guthrie Center Precinct,Auditor of State,,REP,Todd Halbur,507,125,382
+Guthrie,Panora Precinct,Auditor of State,,REP,Todd Halbur,649,203,446
+Guthrie,Stuart Precinct,Auditor of State,,REP,Todd Halbur,490,53,437
+Guthrie,Yale Precinct,Auditor of State,,REP,Todd Halbur,577,156,421
+Guthrie,Bayard Precinct,Auditor of State,,,Write-in,0,0,0
+Guthrie,Casey Precinct,Auditor of State,,,Write-in,0,0,0
+Guthrie,Guthrie Center Precinct,Auditor of State,,,Write-in,1,0,1
+Guthrie,Panora Precinct,Auditor of State,,,Write-in,1,0,1
+Guthrie,Stuart Precinct,Auditor of State,,,Write-in,0,0,0
+Guthrie,Yale Precinct,Auditor of State,,,Write-in,0,0,0
+Guthrie,Bayard Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,127,47,80
+Guthrie,Casey Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,249,102,147
+Guthrie,Guthrie Center Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,419,181,238
+Guthrie,Panora Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,424,188,236
+Guthrie,Stuart Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,368,77,291
+Guthrie,Yale Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,430,203,227
+Guthrie,Bayard Precinct,Treasurer of State,,REP,Roby Smith,245,32,213
+Guthrie,Casey Precinct,Treasurer of State,,REP,Roby Smith,375,77,298
+Guthrie,Guthrie Center Precinct,Treasurer of State,,REP,Roby Smith,516,129,387
+Guthrie,Panora Precinct,Treasurer of State,,REP,Roby Smith,671,199,472
+Guthrie,Stuart Precinct,Treasurer of State,,REP,Roby Smith,523,57,466
+Guthrie,Yale Precinct,Treasurer of State,,REP,Roby Smith,589,159,430
+Guthrie,Bayard Precinct,Treasurer of State,,,Write-in,0,0,0
+Guthrie,Casey Precinct,Treasurer of State,,,Write-in,0,0,0
+Guthrie,Guthrie Center Precinct,Treasurer of State,,,Write-in,2,0,2
+Guthrie,Panora Precinct,Treasurer of State,,,Write-in,0,0,0
+Guthrie,Stuart Precinct,Treasurer of State,,,Write-in,1,0,1
+Guthrie,Yale Precinct,Treasurer of State,,,Write-in,1,0,1
+Guthrie,Bayard Precinct,Secretary of Agriculture,,DEM,John Norwood,74,35,39
+Guthrie,Casey Precinct,Secretary of Agriculture,,DEM,John Norwood,157,74,83
+Guthrie,Guthrie Center Precinct,Secretary of Agriculture,,DEM,John Norwood,260,129,131
+Guthrie,Panora Precinct,Secretary of Agriculture,,DEM,John Norwood,279,134,145
+Guthrie,Stuart Precinct,Secretary of Agriculture,,DEM,John Norwood,272,61,211
+Guthrie,Yale Precinct,Secretary of Agriculture,,DEM,John Norwood,248,141,107
+Guthrie,Bayard Precinct,Secretary of Agriculture,,REP,Mike Naig,301,44,257
+Guthrie,Casey Precinct,Secretary of Agriculture,,REP,Mike Naig,473,106,367
+Guthrie,Guthrie Center Precinct,Secretary of Agriculture,,REP,Mike Naig,670,175,495
+Guthrie,Panora Precinct,Secretary of Agriculture,,REP,Mike Naig,820,251,569
+Guthrie,Stuart Precinct,Secretary of Agriculture,,REP,Mike Naig,614,70,544
+Guthrie,Yale Precinct,Secretary of Agriculture,,REP,Mike Naig,777,223,554
+Guthrie,Bayard Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Guthrie,Casey Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Guthrie,Guthrie Center Precinct,Secretary of Agriculture,,,Write-in,1,0,1
+Guthrie,Panora Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Guthrie,Stuart Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Guthrie,Yale Precinct,Secretary of Agriculture,,,Write-in,1,0,1
+Guthrie,Bayard Precinct,Attorney General,,DEM,Tom Miller,129,51,78
+Guthrie,Casey Precinct,Attorney General,,DEM,Tom Miller,233,97,136
+Guthrie,Guthrie Center Precinct,Attorney General,,DEM,Tom Miller,388,173,215
+Guthrie,Panora Precinct,Attorney General,,DEM,Tom Miller,424,186,238
+Guthrie,Stuart Precinct,Attorney General,,DEM,Tom Miller,335,69,266
+Guthrie,Yale Precinct,Attorney General,,DEM,Tom Miller,391,199,192
+Guthrie,Bayard Precinct,Attorney General,,REP,Brenna Bird,250,29,221
+Guthrie,Casey Precinct,Attorney General,,REP,Brenna Bird,393,82,311
+Guthrie,Guthrie Center Precinct,Attorney General,,REP,Brenna Bird,553,138,415
+Guthrie,Panora Precinct,Attorney General,,REP,Brenna Bird,673,201,472
+Guthrie,Stuart Precinct,Attorney General,,REP,Brenna Bird,554,61,493
+Guthrie,Yale Precinct,Attorney General,,REP,Brenna Bird,642,165,477
+Guthrie,Bayard Precinct,Attorney General,,,Write-in,0,0,0
+Guthrie,Casey Precinct,Attorney General,,,Write-in,0,0,0
+Guthrie,Guthrie Center Precinct,Attorney General,,,Write-in,1,0,1
+Guthrie,Panora Precinct,Attorney General,,,Write-in,0,0,0
+Guthrie,Stuart Precinct,Attorney General,,,Write-in,2,0,2
+Guthrie,Yale Precinct,Attorney General,,,Write-in,1,1,0
+Guthrie,Bayard Precinct,State House,47,DEM,Gary Clayton Overla,75,32,43
+Guthrie,Casey Precinct,State House,47,DEM,Gary Clayton Overla,173,79,94
+Guthrie,Guthrie Center Precinct,State House,47,DEM,Gary Clayton Overla,278,130,148
+Guthrie,Panora Precinct,State House,47,DEM,Gary Clayton Overla,285,141,144
+Guthrie,Stuart Precinct,State House,47,DEM,Gary Clayton Overla,291,64,227
+Guthrie,Yale Precinct,State House,47,DEM,Gary Clayton Overla,281,154,127
+Guthrie,Bayard Precinct,State House,47,REP,Carter Nordman,289,41,248
+Guthrie,Casey Precinct,State House,47,REP,Carter Nordman,436,94,342
+Guthrie,Guthrie Center Precinct,State House,47,REP,Carter Nordman,632,168,464
+Guthrie,Panora Precinct,State House,47,REP,Carter Nordman,790,242,548
+Guthrie,Stuart Precinct,State House,47,REP,Carter Nordman,586,63,523
+Guthrie,Yale Precinct,State House,47,REP,Carter Nordman,727,198,529
+Guthrie,Bayard Precinct,State House,47,,Write-in,1,1,0
+Guthrie,Casey Precinct,State House,47,,Write-in,1,0,1
+Guthrie,Guthrie Center Precinct,State House,47,,Write-in,2,0,2
+Guthrie,Panora Precinct,State House,47,,Write-in,1,0,1
+Guthrie,Stuart Precinct,State House,47,,Write-in,1,0,1
+Guthrie,Yale Precinct,State House,47,,Write-in,0,0,0
+Guthrie,Bayard Precinct,County Board of Supervisors District 1,,DEM,Jacki Sloss,112,42,70
+Guthrie,Casey Precinct,County Board of Supervisors District 1,,DEM,Jacki Sloss,220,90,130
+Guthrie,Bayard Precinct,County Board of Supervisors District 1,,REP,Jerome J.D. Kuster,262,35,227
+Guthrie,Casey Precinct,County Board of Supervisors District 1,,REP,Jerome J.D. Kuster,402,89,313
+Guthrie,Bayard Precinct,County Board of Supervisors District 1,,,Write-in,0,0,0
+Guthrie,Casey Precinct,County Board of Supervisors District 1,,,Write-in,1,0,1
+Guthrie,Yale Precinct,County Board of Supervisors District 2,,REP,Brian Johnson,910,299,611
+Guthrie,Yale Precinct,County Board of Supervisors District 2,,,Write-in,9,5,4
+Guthrie,Panora Precinct,County Board of Supervisors District 3,,DEM,Tom Flanery,261,113,148
+Guthrie,Panora Precinct,County Board of Supervisors District 3,,REP,Maggie Armstrong,850,279,571
+Guthrie,Panora Precinct,County Board of Supervisors District 3,,,Write-in,1,0,1
+Guthrie,Guthrie Center Precinct,County Board of Supervisors District 4,,DEM,Michael Herbert,273,138,135
+Guthrie,Guthrie Center Precinct,County Board of Supervisors District 4,,REP,Steve Smith,674,176,498
+Guthrie,Guthrie Center Precinct,County Board of Supervisors District 4,,,Write-in,2,0,2
+Guthrie,Bayard Precinct,County Treasurer,,REP,Brenda Campbell,329,55,274
+Guthrie,Casey Precinct,County Treasurer,,REP,Brenda Campbell,551,143,408
+Guthrie,Guthrie Center Precinct,County Treasurer,,REP,Brenda Campbell,834,261,573
+Guthrie,Panora Precinct,County Treasurer,,REP,Brenda Campbell,978,326,652
+Guthrie,Stuart Precinct,County Treasurer,,REP,Brenda Campbell,760,104,656
+Guthrie,Yale Precinct,County Treasurer,,REP,Brenda Campbell,921,308,613
+Guthrie,Bayard Precinct,County Treasurer,,,Write-in,6,5,1
+Guthrie,Casey Precinct,County Treasurer,,,Write-in,4,0,4
+Guthrie,Guthrie Center Precinct,County Treasurer,,,Write-in,10,1,9
+Guthrie,Panora Precinct,County Treasurer,,,Write-in,12,3,9
+Guthrie,Stuart Precinct,County Treasurer,,,Write-in,7,0,7
+Guthrie,Yale Precinct,County Treasurer,,,Write-in,2,1,1
+Guthrie,Bayard Precinct,County Recorder,,REP,Tristen Richard,328,53,275
+Guthrie,Casey Precinct,County Recorder,,REP,Tristen Richard,539,138,401
+Guthrie,Guthrie Center Precinct,County Recorder,,REP,Tristen Richard,814,256,558
+Guthrie,Panora Precinct,County Recorder,,REP,Tristen Richard,980,329,651
+Guthrie,Stuart Precinct,County Recorder,,REP,Tristen Richard,748,101,647
+Guthrie,Yale Precinct,County Recorder,,REP,Tristen Richard,913,305,608
+Guthrie,Bayard Precinct,County Recorder,,,Write-in,6,5,1
+Guthrie,Casey Precinct,County Recorder,,,Write-in,4,0,4
+Guthrie,Guthrie Center Precinct,County Recorder,,,Write-in,8,1,7
+Guthrie,Panora Precinct,County Recorder,,,Write-in,11,2,9
+Guthrie,Stuart Precinct,County Recorder,,,Write-in,8,0,8
+Guthrie,Yale Precinct,County Recorder,,,Write-in,4,1,3
+Guthrie,Bayard Precinct,County Attorney,,DEM,John A. Maschman,98,37,61
+Guthrie,Casey Precinct,County Attorney,,DEM,John A. Maschman,198,83,115
+Guthrie,Guthrie Center Precinct,County Attorney,,DEM,John A. Maschman,322,140,182
+Guthrie,Panora Precinct,County Attorney,,DEM,John A. Maschman,326,144,182
+Guthrie,Stuart Precinct,County Attorney,,DEM,John A. Maschman,304,65,239
+Guthrie,Yale Precinct,County Attorney,,DEM,John A. Maschman,318,164,154
+Guthrie,Bayard Precinct,County Attorney,,REP,Dana Minteer,264,37,227
+Guthrie,Casey Precinct,County Attorney,,REP,Dana Minteer,415,91,324
+Guthrie,Guthrie Center Precinct,County Attorney,,REP,Dana Minteer,591,160,431
+Guthrie,Panora Precinct,County Attorney,,REP,Dana Minteer,737,233,504
+Guthrie,Stuart Precinct,County Attorney,,REP,Dana Minteer,571,62,509
+Guthrie,Yale Precinct,County Attorney,,REP,Dana Minteer,674,178,496
+Guthrie,Bayard Precinct,County Attorney,,,Write-in,0,0,0
+Guthrie,Casey Precinct,County Attorney,,,Write-in,0,0,0
+Guthrie,Guthrie Center Precinct,County Attorney,,,Write-in,2,0,2
+Guthrie,Panora Precinct,County Attorney,,,Write-in,1,0,1
+Guthrie,Stuart Precinct,County Attorney,,,Write-in,1,0,1
+Guthrie,Yale Precinct,County Attorney,,,Write-in,2,1,1
+Guthrie,Casey Precinct,Baker Township Trustee,,,Ron Mortensen,82,35,47
+Guthrie,Casey Precinct,Baker Township Trustee,,,Nicholas Chance,83,36,47
+Guthrie,Casey Precinct,Baker Township Trustee,,,Write-in,5,5,0
+Guthrie,Casey Precinct,Baker Township Clerk,,,Kelli Lemke,101,43,58
+Guthrie,Casey Precinct,Baker Township Clerk,,,Write-in,1,0,1
+Guthrie,Casey Precinct,Bear Grove Township Trustee,,,Lance Hansen,60,27,33
+Guthrie,Casey Precinct,Bear Grove Township Trustee,,,Jentry Hise,41,17,24
+Guthrie,Casey Precinct,Bear Grove Township Trustee,,,Write-in,0,0,0
+Guthrie,Casey Precinct,Bear Grove Township Clerk,,,Leora Laughery,63,26,37
+Guthrie,Casey Precinct,Bear Grove Township Clerk,,,Write-in,0,0,0
+Guthrie,Casey Precinct,Beaver Township Trustee,,,Dan Christensen,72,22,50
+Guthrie,Stuart Precinct,Beaver Township Trustee,,,Dan Christensen,24,6,18
+Guthrie,Casey Precinct,Beaver Township Trustee,,,Write-in,1,0,1
+Guthrie,Stuart Precinct,Beaver Township Trustee,,,Write-in,0,0,0
+Guthrie,Casey Precinct,Beaver Township Clerk,,,Janet Dickson,64,17,47
+Guthrie,Stuart Precinct,Beaver Township Clerk,,,Janet Dickson,21,5,16
+Guthrie,Casey Precinct,Beaver Township Clerk,,,Write-in,2,0,2
+Guthrie,Stuart Precinct,Beaver Township Clerk,,,Write-in,1,0,1
+Guthrie,Casey Precinct,Grant Township Trustee,,,Darin Peterson,95,14,81
+Guthrie,Casey Precinct,Grant Township Trustee,,,Write-in,2,0,2
+Guthrie,Casey Precinct,Grant Township Clerk,,,Gary A. Mueller,95,12,83
+Guthrie,Casey Precinct,Grant Township Clerk,,,Write-in,0,0,0
+Guthrie,Guthrie Center Precinct,Jackson Township Trustee,,,Rick Long,134,47,87
+Guthrie,Guthrie Center Precinct,Jackson Township Trustee,,,Write-in,4,2,2
+Guthrie,Guthrie Center Precinct,Jackson Township Clerk,,,Cynthia Lyons,129,49,80
+Guthrie,Guthrie Center Precinct,Jackson Township Clerk,,,Write-in,4,1,3
+Guthrie,Yale Precinct,Richland Township Trustee,,,Nels Leo,55,6,49
+Guthrie,Yale Precinct,Richland Township Trustee,,,Alex Krueger,67,6,61
+Guthrie,Yale Precinct,Richland Township Trustee,,,Write-in,1,0,1
+Guthrie,Yale Precinct,Richland Township Clerk,,,Robert Kempf,76,7,69
+Guthrie,Yale Precinct,Richland Township Clerk,,,Write-in,1,1,0
+Guthrie,Bayard Precinct,Seely Township Trustee,,,Joe Arrasmith,22,7,15
+Guthrie,Yale Precinct,Seely Township Trustee,,,Joe Arrasmith,75,29,46
+Guthrie,Bayard Precinct,Seely Township Trustee,,,Caroline Kness,22,6,16
+Guthrie,Yale Precinct,Seely Township Trustee,,,Caroline Kness,80,32,48
+Guthrie,Bayard Precinct,Seely Township Trustee,,,Write-in,0,0,0
+Guthrie,Yale Precinct,Seely Township Trustee,,,Write-in,2,0,2
+Guthrie,Bayard Precinct,Seely Township Clerk,,,Cathy Sheeder,23,7,16
+Guthrie,Yale Precinct,Seely Township Clerk,,,Cathy Sheeder,87,33,54
+Guthrie,Bayard Precinct,Seely Township Clerk,,,Write-in,0,0,0
+Guthrie,Yale Precinct,Seely Township Clerk,,,Write-in,0,0,0
+Guthrie,Bayard Precinct,Union Township Trustee,,,Rich Thompson,31,14,17
+Guthrie,Bayard Precinct,Union Township Trustee,,,Bret Hodges,40,15,25
+Guthrie,Bayard Precinct,Union Township Trustee,,,Write-in,1,0,1
+Guthrie,Bayard Precinct,Union Township Clerk,,,Sheyrl Clark,44,15,29
+Guthrie,Bayard Precinct,Union Township Clerk,,,Write-in,1,1,0
+Guthrie,Guthrie Center Precinct,Valley Township Trustee,,,Cody Sheeder,105,35,70
+Guthrie,Guthrie Center Precinct,Valley Township Trustee,,,Write-in,2,1,1
+Guthrie,Guthrie Center Precinct,Valley Township Clerk,,,Arlene Harwood,105,36,69
+Guthrie,Guthrie Center Precinct,Valley Township Clerk,,,Write-in,1,1,0
+Guthrie,Bayard Precinct,Hospital Trustee,,,Dana Tews,166,32,134
+Guthrie,Casey Precinct,Hospital Trustee,,,Dana Tews,244,68,176
+Guthrie,Guthrie Center Precinct,Hospital Trustee,,,Dana Tews,421,137,284
+Guthrie,Panora Precinct,Hospital Trustee,,,Dana Tews,472,145,327
+Guthrie,Stuart Precinct,Hospital Trustee,,,Dana Tews,330,49,281
+Guthrie,Yale Precinct,Hospital Trustee,,,Dana Tews,493,162,331
+Guthrie,Bayard Precinct,Hospital Trustee,,,Dwayne Seeck,97,22,75
+Guthrie,Casey Precinct,Hospital Trustee,,,Dwayne Seeck,171,48,123
+Guthrie,Guthrie Center Precinct,Hospital Trustee,,,Dwayne Seeck,266,87,179
+Guthrie,Panora Precinct,Hospital Trustee,,,Dwayne Seeck,192,65,127
+Guthrie,Stuart Precinct,Hospital Trustee,,,Dwayne Seeck,179,27,152
+Guthrie,Yale Precinct,Hospital Trustee,,,Dwayne Seeck,203,61,142
+Guthrie,Bayard Precinct,Hospital Trustee,,,Krysty Melton,156,32,124
+Guthrie,Casey Precinct,Hospital Trustee,,,Krysty Melton,230,64,166
+Guthrie,Guthrie Center Precinct,Hospital Trustee,,,Krysty Melton,411,146,265
+Guthrie,Panora Precinct,Hospital Trustee,,,Krysty Melton,415,134,281
+Guthrie,Stuart Precinct,Hospital Trustee,,,Krysty Melton,319,43,276
+Guthrie,Yale Precinct,Hospital Trustee,,,Krysty Melton,434,140,294
+Guthrie,Bayard Precinct,Hospital Trustee,,,Michael Underwood,156,28,128
+Guthrie,Casey Precinct,Hospital Trustee,,,Michael Underwood,340,96,244
+Guthrie,Guthrie Center Precinct,Hospital Trustee,,,Michael Underwood,539,167,372
+Guthrie,Panora Precinct,Hospital Trustee,,,Michael Underwood,530,200,330
+Guthrie,Stuart Precinct,Hospital Trustee,,,Michael Underwood,313,45,268
+Guthrie,Yale Precinct,Hospital Trustee,,,Michael Underwood,458,161,297
+Guthrie,Bayard Precinct,Hospital Trustee,,,Sheyrl Clark,218,49,169
+Guthrie,Casey Precinct,Hospital Trustee,,,Sheyrl Clark,369,103,266
+Guthrie,Guthrie Center Precinct,Hospital Trustee,,,Sheyrl Clark,583,189,394
+Guthrie,Panora Precinct,Hospital Trustee,,,Sheyrl Clark,555,207,348
+Guthrie,Stuart Precinct,Hospital Trustee,,,Sheyrl Clark,323,48,275
+Guthrie,Yale Precinct,Hospital Trustee,,,Sheyrl Clark,522,181,341
+Guthrie,Bayard Precinct,Hospital Trustee,,,Doris M. Terwilliger,177,43,134
+Guthrie,Casey Precinct,Hospital Trustee,,,Doris M. Terwilliger,309,105,204
+Guthrie,Guthrie Center Precinct,Hospital Trustee,,,Doris M. Terwilliger,585,195,390
+Guthrie,Panora Precinct,Hospital Trustee,,,Doris M. Terwilliger,463,164,299
+Guthrie,Stuart Precinct,Hospital Trustee,,,Doris M. Terwilliger,267,39,228
+Guthrie,Yale Precinct,Hospital Trustee,,,Doris M. Terwilliger,444,157,287
+Guthrie,Bayard Precinct,Hospital Trustee,,,John M. Tews,123,24,99
+Guthrie,Casey Precinct,Hospital Trustee,,,John M. Tews,171,55,116
+Guthrie,Guthrie Center Precinct,Hospital Trustee,,,John M. Tews,240,98,142
+Guthrie,Panora Precinct,Hospital Trustee,,,John M. Tews,315,107,208
+Guthrie,Stuart Precinct,Hospital Trustee,,,John M. Tews,217,29,188
+Guthrie,Yale Precinct,Hospital Trustee,,,John M. Tews,343,112,231
+Guthrie,Bayard Precinct,Hospital Trustee,,,Mary Sheeder,166,32,134
+Guthrie,Casey Precinct,Hospital Trustee,,,Mary Sheeder,282,77,205
+Guthrie,Guthrie Center Precinct,Hospital Trustee,,,Mary Sheeder,337,106,231
+Guthrie,Panora Precinct,Hospital Trustee,,,Mary Sheeder,490,158,332
+Guthrie,Stuart Precinct,Hospital Trustee,,,Mary Sheeder,389,56,333
+Guthrie,Yale Precinct,Hospital Trustee,,,Mary Sheeder,440,147,293
+Guthrie,Bayard Precinct,Hospital Trustee,,,Write-in,1,0,1
+Guthrie,Casey Precinct,Hospital Trustee,,,Write-in,5,1,4
+Guthrie,Guthrie Center Precinct,Hospital Trustee,,,Write-in,5,1,4
+Guthrie,Panora Precinct,Hospital Trustee,,,Write-in,22,4,18
+Guthrie,Stuart Precinct,Hospital Trustee,,,Write-in,2,1,1
+Guthrie,Yale Precinct,Hospital Trustee,,,Write-in,5,3,2
+Guthrie,Bayard Precinct,Soil and Water Conservation District Commissioner,,,Jamie Patrick,281,53,228
+Guthrie,Casey Precinct,Soil and Water Conservation District Commissioner,,,Jamie Patrick,500,144,356
+Guthrie,Guthrie Center Precinct,Soil and Water Conservation District Commissioner,,,Jamie Patrick,764,242,522
+Guthrie,Panora Precinct,Soil and Water Conservation District Commissioner,,,Jamie Patrick,821,283,538
+Guthrie,Stuart Precinct,Soil and Water Conservation District Commissioner,,,Jamie Patrick,617,88,529
+Guthrie,Yale Precinct,Soil and Water Conservation District Commissioner,,,Jamie Patrick,783,265,518
+Guthrie,Bayard Precinct,Soil and Water Conservation District Commissioner,,,Write-in,4,1,3
+Guthrie,Casey Precinct,Soil and Water Conservation District Commissioner,,,Write-in,11,3,8
+Guthrie,Guthrie Center Precinct,Soil and Water Conservation District Commissioner,,,Write-in,11,1,10
+Guthrie,Panora Precinct,Soil and Water Conservation District Commissioner,,,Write-in,31,14,17
+Guthrie,Stuart Precinct,Soil and Water Conservation District Commissioner,,,Write-in,10,3,7
+Guthrie,Yale Precinct,Soil and Water Conservation District Commissioner,,,Write-in,16,8,8
+Guthrie,Bayard Precinct,Soil and Water Conservation District Commissioner,,,Cletus Steensen,4,0,4
+Guthrie,Casey Precinct,Soil and Water Conservation District Commissioner,,,Cletus Steensen,1,1,0
+Guthrie,Guthrie Center Precinct,Soil and Water Conservation District Commissioner,,,Cletus Steensen,2,1,1
+Guthrie,Panora Precinct,Soil and Water Conservation District Commissioner,,,Cletus Steensen,0,0,0
+Guthrie,Stuart Precinct,Soil and Water Conservation District Commissioner,,,Cletus Steensen,0,0,0
+Guthrie,Yale Precinct,Soil and Water Conservation District Commissioner,,,Cletus Steensen,5,3,2
+Guthrie,Bayard Precinct,County Agricultural Extension Council Member,,,Bill Messinger,193,35,158
+Guthrie,Casey Precinct,County Agricultural Extension Council Member,,,Bill Messinger,380,103,277
+Guthrie,Guthrie Center Precinct,County Agricultural Extension Council Member,,,Bill Messinger,550,185,365
+Guthrie,Panora Precinct,County Agricultural Extension Council Member,,,Bill Messinger,584,199,385
+Guthrie,Stuart Precinct,County Agricultural Extension Council Member,,,Bill Messinger,538,83,455
+Guthrie,Yale Precinct,County Agricultural Extension Council Member,,,Bill Messinger,564,207,357
+Guthrie,Bayard Precinct,County Agricultural Extension Council Member,,,Cody Sheeder,219,41,178
+Guthrie,Casey Precinct,County Agricultural Extension Council Member,,,Cody Sheeder,380,104,276
+Guthrie,Guthrie Center Precinct,County Agricultural Extension Council Member,,,Cody Sheeder,578,182,396
+Guthrie,Panora Precinct,County Agricultural Extension Council Member,,,Cody Sheeder,640,218,422
+Guthrie,Stuart Precinct,County Agricultural Extension Council Member,,,Cody Sheeder,476,70,406
+Guthrie,Yale Precinct,County Agricultural Extension Council Member,,,Cody Sheeder,614,217,397
+Guthrie,Bayard Precinct,County Agricultural Extension Council Member,,,Dustin Clark,230,46,184
+Guthrie,Casey Precinct,County Agricultural Extension Council Member,,,Dustin Clark,386,112,274
+Guthrie,Guthrie Center Precinct,County Agricultural Extension Council Member,,,Dustin Clark,602,194,408
+Guthrie,Panora Precinct,County Agricultural Extension Council Member,,,Dustin Clark,622,212,410
+Guthrie,Stuart Precinct,County Agricultural Extension Council Member,,,Dustin Clark,437,64,373
+Guthrie,Yale Precinct,County Agricultural Extension Council Member,,,Dustin Clark,600,209,391
+Guthrie,Bayard Precinct,County Agricultural Extension Council Member,,,Jim Calvert,234,48,186
+Guthrie,Casey Precinct,County Agricultural Extension Council Member,,,Jim Calvert,411,114,297
+Guthrie,Guthrie Center Precinct,County Agricultural Extension Council Member,,,Jim Calvert,671,221,450
+Guthrie,Panora Precinct,County Agricultural Extension Council Member,,,Jim Calvert,655,228,427
+Guthrie,Stuart Precinct,County Agricultural Extension Council Member,,,Jim Calvert,453,68,385
+Guthrie,Yale Precinct,County Agricultural Extension Council Member,,,Jim Calvert,648,218,430
+Guthrie,Bayard Precinct,County Agricultural Extension Council Member,,,Write-in,11,1,10
+Guthrie,Casey Precinct,County Agricultural Extension Council Member,,,Write-in,18,5,13
+Guthrie,Guthrie Center Precinct,County Agricultural Extension Council Member,,,Write-in,32,9,23
+Guthrie,Panora Precinct,County Agricultural Extension Council Member,,,Write-in,37,7,30
+Guthrie,Stuart Precinct,County Agricultural Extension Council Member,,,Write-in,17,1,16
+Guthrie,Yale Precinct,County Agricultural Extension Council Member,,,Write-in,22,6,16
+Guthrie,Bayard Precinct,County Agricultural Extension Council Member,,,Carrie Dideriksen,2,0,2
+Guthrie,Casey Precinct,County Agricultural Extension Council Member,,,Carrie Dideriksen,7,0,7
+Guthrie,Guthrie Center Precinct,County Agricultural Extension Council Member,,,Carrie Dideriksen,28,0,28
+Guthrie,Panora Precinct,County Agricultural Extension Council Member,,,Carrie Dideriksen,3,1,2
+Guthrie,Stuart Precinct,County Agricultural Extension Council Member,,,Carrie Dideriksen,6,0,6
+Guthrie,Yale Precinct,County Agricultural Extension Council Member,,,Carrie Dideriksen,7,0,7
+Guthrie,Stuart Precinct,Diamondhead Sanitary District Trustee,,,Carl R O'Connor,109,21,88
+Guthrie,Stuart Precinct,Diamondhead Sanitary District Trustee,,,Dennis VanPelt,108,21,87
+Guthrie,Stuart Precinct,Diamondhead Sanitary District Trustee,,,Write-in,6,0,6
+Guthrie,Panora Precinct,South Panorama Sanitary District Trustee,,,Scott Kemble,65,28,37
+Guthrie,Yale Precinct,South Panorama Sanitary District Trustee,,,Scott Kemble,15,10,5
+Guthrie,Panora Precinct,South Panorama Sanitary District Trustee,,,Write-in,0,0,0
+Guthrie,Yale Precinct,South Panorama Sanitary District Trustee,,,Write-in,0,0,0
+Guthrie,Bayard Precinct,Supreme Court Justice,,,Yes,175,32,143
+Guthrie,Casey Precinct,Supreme Court Justice,,,Yes,298,85,213
+Guthrie,Guthrie Center Precinct,Supreme Court Justice,,,Yes,439,137,302
+Guthrie,Panora Precinct,Supreme Court Justice,,,Yes,569,212,357
+Guthrie,Stuart Precinct,Supreme Court Justice,,,Yes,439,67,372
+Guthrie,Yale Precinct,Supreme Court Justice,,,Yes,531,198,333
+Guthrie,Bayard Precinct,Supreme Court Justice,,,No,101,26,75
+Guthrie,Casey Precinct,Supreme Court Justice,,,No,181,52,129
+Guthrie,Guthrie Center Precinct,Supreme Court Justice,,,No,308,112,196
+Guthrie,Panora Precinct,Supreme Court Justice,,,No,273,93,180
+Guthrie,Stuart Precinct,Supreme Court Justice,,,No,241,37,204
+Guthrie,Yale Precinct,Supreme Court Justice,,,No,249,86,163
+Guthrie,Bayard Precinct,Court of Appeals Judge,,,Yes,189,40,149
+Guthrie,Casey Precinct,Court of Appeals Judge,,,Yes,299,86,213
+Guthrie,Guthrie Center Precinct,Court of Appeals Judge,,,Yes,446,140,306
+Guthrie,Panora Precinct,Court of Appeals Judge,,,Yes,568,218,350
+Guthrie,Stuart Precinct,Court of Appeals Judge,,,Yes,433,69,364
+Guthrie,Yale Precinct,Court of Appeals Judge,,,Yes,534,195,339
+Guthrie,Bayard Precinct,Court of Appeals Judge,,,No,83,18,65
+Guthrie,Casey Precinct,Court of Appeals Judge,,,No,175,46,129
+Guthrie,Guthrie Center Precinct,Court of Appeals Judge,,,No,287,99,188
+Guthrie,Panora Precinct,Court of Appeals Judge,,,No,246,79,167
+Guthrie,Stuart Precinct,Court of Appeals Judge,,,No,228,34,194
+Guthrie,Yale Precinct,Court of Appeals Judge,,,No,233,76,157
+Guthrie,Bayard Precinct,District 5A Judge,,,Yes,201,36,165
+Guthrie,Casey Precinct,District 5A Judge,,,Yes,326,97,229
+Guthrie,Guthrie Center Precinct,District 5A Judge,,,Yes,486,149,337
+Guthrie,Panora Precinct,District 5A Judge,,,Yes,618,224,394
+Guthrie,Stuart Precinct,District 5A Judge,,,Yes,489,73,416
+Guthrie,Yale Precinct,District 5A Judge,,,Yes,592,212,380
+Guthrie,Bayard Precinct,District 5A Judge,,,No,75,19,56
+Guthrie,Casey Precinct,District 5A Judge,,,No,167,42,125
+Guthrie,Guthrie Center Precinct,District 5A Judge,,,No,267,98,169
+Guthrie,Panora Precinct,District 5A Judge,,,No,231,80,151
+Guthrie,Stuart Precinct,District 5A Judge,,,No,204,32,172
+Guthrie,Yale Precinct,District 5A Judge,,,No,206,70,136
+Guthrie,Bayard Precinct,District 5A Associate Judge,,,Yes,194,36,158
+Guthrie,Casey Precinct,District 5A Associate Judge,,,Yes,318,90,228
+Guthrie,Guthrie Center Precinct,District 5A Associate Judge,,,Yes,477,149,328
+Guthrie,Panora Precinct,District 5A Associate Judge,,,Yes,603,211,392
+Guthrie,Stuart Precinct,District 5A Associate Judge,,,Yes,469,66,403
+Guthrie,Yale Precinct,District 5A Associate Judge,,,Yes,569,207,362
+Guthrie,Bayard Precinct,District 5A Associate Judge,,,No,78,19,59
+Guthrie,Casey Precinct,District 5A Associate Judge,,,No,171,46,125
+Guthrie,Guthrie Center Precinct,District 5A Associate Judge,,,No,273,96,177
+Guthrie,Panora Precinct,District 5A Associate Judge,,,No,243,87,156
+Guthrie,Stuart Precinct,District 5A Associate Judge,,,No,211,36,175
+Guthrie,Yale Precinct,District 5A Associate Judge,,,No,215,72,143
+Guthrie,Bayard Precinct,Constitutional Amendment 1,,,Yes,290,51,239
+Guthrie,Casey Precinct,Constitutional Amendment 1,,,Yes,502,123,379
+Guthrie,Guthrie Center Precinct,Constitutional Amendment 1,,,Yes,700,203,497
+Guthrie,Panora Precinct,Constitutional Amendment 1,,,Yes,825,257,568
+Guthrie,Stuart Precinct,Constitutional Amendment 1,,,Yes,661,80,581
+Guthrie,Yale Precinct,Constitutional Amendment 1,,,Yes,791,234,557
+Guthrie,Bayard Precinct,Constitutional Amendment 1,,,No,67,26,41
+Guthrie,Casey Precinct,Constitutional Amendment 1,,,No,105,44,61
+Guthrie,Guthrie Center Precinct,Constitutional Amendment 1,,,No,211,92,119
+Guthrie,Panora Precinct,Constitutional Amendment 1,,,No,255,118,137
+Guthrie,Stuart Precinct,Constitutional Amendment 1,,,No,195,48,147
+Guthrie,Yale Precinct,Constitutional Amendment 1,,,No,206,117,89

@@ -1,0 +1,592 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Wright,Belmond Precinct,U.S. Senate,,DEM,Michael Franken,388,134,254
+Wright,Clarion Precinct,U.S. Senate,,DEM,Michael Franken,237,111,126
+Wright,Rural Clarion Precinct,U.S. Senate,,DEM,Michael Franken,92,50,42
+Wright,Dows Precinct,U.S. Senate,,DEM,Michael Franken,147,61,86
+Wright,EG #1 Precinct,U.S. Senate,,DEM,Michael Franken,75,15,60
+Wright,EG #2 Precinct,U.S. Senate,,DEM,Michael Franken,63,18,45
+Wright,EG #3 Precinct,U.S. Senate,,DEM,Michael Franken,85,23,62
+Wright,EG #4 Precinct,U.S. Senate,,DEM,Michael Franken,82,22,60
+Wright,Rural EG Precinct,U.S. Senate,,DEM,Michael Franken,29,17,12
+Wright,Goldfield Precinct,U.S. Senate,,DEM,Michael Franken,70,13,57
+Wright,Belmond Precinct,U.S. Senate,,REP,Chuck Grassley,746,174,572
+Wright,Clarion Precinct,U.S. Senate,,REP,Chuck Grassley,581,171,410
+Wright,Rural Clarion Precinct,U.S. Senate,,REP,Chuck Grassley,301,108,193
+Wright,Dows Precinct,U.S. Senate,,REP,Chuck Grassley,338,88,250
+Wright,EG #1 Precinct,U.S. Senate,,REP,Chuck Grassley,109,16,93
+Wright,EG #2 Precinct,U.S. Senate,,REP,Chuck Grassley,122,23,99
+Wright,EG #3 Precinct,U.S. Senate,,REP,Chuck Grassley,219,41,178
+Wright,EG #4 Precinct,U.S. Senate,,REP,Chuck Grassley,146,26,120
+Wright,Rural EG Precinct,U.S. Senate,,REP,Chuck Grassley,163,24,139
+Wright,Goldfield Precinct,U.S. Senate,,REP,Chuck Grassley,257,32,225
+Wright,Belmond Precinct,U.S. Senate,,,Write-in,3,0,3
+Wright,Clarion Precinct,U.S. Senate,,,Write-in,2,0,2
+Wright,Rural Clarion Precinct,U.S. Senate,,,Write-in,1,0,1
+Wright,Dows Precinct,U.S. Senate,,,Write-in,1,0,1
+Wright,EG #1 Precinct,U.S. Senate,,,Write-in,0,0,0
+Wright,EG #2 Precinct,U.S. Senate,,,Write-in,0,0,0
+Wright,EG #3 Precinct,U.S. Senate,,,Write-in,0,0,0
+Wright,EG #4 Precinct,U.S. Senate,,,Write-in,0,0,0
+Wright,Rural EG Precinct,U.S. Senate,,,Write-in,0,0,0
+Wright,Goldfield Precinct,U.S. Senate,,,Write-in,2,0,2
+Wright,Belmond Precinct,U.S. House,4,DEM,Ryan Melton,347,125,222
+Wright,Clarion Precinct,U.S. House,4,DEM,Ryan Melton,190,95,95
+Wright,Rural Clarion Precinct,U.S. House,4,DEM,Ryan Melton,78,40,38
+Wright,Dows Precinct,U.S. House,4,DEM,Ryan Melton,123,51,72
+Wright,EG #1 Precinct,U.S. House,4,DEM,Ryan Melton,67,14,53
+Wright,EG #2 Precinct,U.S. House,4,DEM,Ryan Melton,55,18,37
+Wright,EG #3 Precinct,U.S. House,4,DEM,Ryan Melton,74,26,48
+Wright,EG #4 Precinct,U.S. House,4,DEM,Ryan Melton,72,20,52
+Wright,Rural EG Precinct,U.S. House,4,DEM,Ryan Melton,26,14,12
+Wright,Goldfield Precinct,U.S. House,4,DEM,Ryan Melton,50,10,40
+Wright,Belmond Precinct,U.S. House,4,REP,Randy Feenstra,757,177,580
+Wright,Clarion Precinct,U.S. House,4,REP,Randy Feenstra,588,178,410
+Wright,Rural Clarion Precinct,U.S. House,4,REP,Randy Feenstra,305,118,187
+Wright,Dows Precinct,U.S. House,4,REP,Randy Feenstra,335,91,244
+Wright,EG #1 Precinct,U.S. House,4,REP,Randy Feenstra,106,16,90
+Wright,EG #2 Precinct,U.S. House,4,REP,Randy Feenstra,121,21,100
+Wright,EG #3 Precinct,U.S. House,4,REP,Randy Feenstra,222,37,185
+Wright,EG #4 Precinct,U.S. House,4,REP,Randy Feenstra,147,26,121
+Wright,Rural EG Precinct,U.S. House,4,REP,Randy Feenstra,162,27,135
+Wright,Goldfield Precinct,U.S. House,4,REP,Randy Feenstra,265,33,232
+Wright,Belmond Precinct,U.S. House,4,LBC,Bryan Jack Holder,22,3,19
+Wright,Clarion Precinct,U.S. House,4,LBC,Bryan Jack Holder,18,4,14
+Wright,Rural Clarion Precinct,U.S. House,4,LBC,Bryan Jack Holder,8,0,8
+Wright,Dows Precinct,U.S. House,4,LBC,Bryan Jack Holder,19,6,13
+Wright,EG #1 Precinct,U.S. House,4,LBC,Bryan Jack Holder,6,1,5
+Wright,EG #2 Precinct,U.S. House,4,LBC,Bryan Jack Holder,4,1,3
+Wright,EG #3 Precinct,U.S. House,4,LBC,Bryan Jack Holder,6,0,6
+Wright,EG #4 Precinct,U.S. House,4,LBC,Bryan Jack Holder,5,0,5
+Wright,Rural EG Precinct,U.S. House,4,LBC,Bryan Jack Holder,2,0,2
+Wright,Goldfield Precinct,U.S. House,4,LBC,Bryan Jack Holder,8,1,7
+Wright,Belmond Precinct,U.S. House,4,,Write-in,0,0,0
+Wright,Clarion Precinct,U.S. House,4,,Write-in,1,0,1
+Wright,Rural Clarion Precinct,U.S. House,4,,Write-in,0,0,0
+Wright,Dows Precinct,U.S. House,4,,Write-in,0,0,0
+Wright,EG #1 Precinct,U.S. House,4,,Write-in,0,0,0
+Wright,EG #2 Precinct,U.S. House,4,,Write-in,0,0,0
+Wright,EG #3 Precinct,U.S. House,4,,Write-in,0,0,0
+Wright,EG #4 Precinct,U.S. House,4,,Write-in,0,0,0
+Wright,Rural EG Precinct,U.S. House,4,,Write-in,0,0,0
+Wright,Goldfield Precinct,U.S. House,4,,Write-in,1,0,1
+Wright,Belmond Precinct,Governor,,DEM,Deidre DeJear and Eric Van Lancker,346,124,222
+Wright,Clarion Precinct,Governor,,DEM,Deidre DeJear and Eric Van Lancker,190,95,95
+Wright,Rural Clarion Precinct,Governor,,DEM,Deidre DeJear and Eric Van Lancker,67,36,31
+Wright,Dows Precinct,Governor,,DEM,Deidre DeJear and Eric Van Lancker,128,53,75
+Wright,EG #1 Precinct,Governor,,DEM,Deidre DeJear and Eric Van Lancker,58,11,47
+Wright,EG #2 Precinct,Governor,,DEM,Deidre DeJear and Eric Van Lancker,54,17,37
+Wright,EG #3 Precinct,Governor,,DEM,Deidre DeJear and Eric Van Lancker,72,22,50
+Wright,EG #4 Precinct,Governor,,DEM,Deidre DeJear and Eric Van Lancker,73,21,52
+Wright,Rural EG Precinct,Governor,,DEM,Deidre DeJear and Eric Van Lancker,23,13,10
+Wright,Goldfield Precinct,Governor,,DEM,Deidre DeJear and Eric Van Lancker,60,12,48
+Wright,Belmond Precinct,Governor,,REP,Kim Reynolds and Adam Gregg,768,176,592
+Wright,Clarion Precinct,Governor,,REP,Kim Reynolds and Adam Gregg,618,186,432
+Wright,Rural Clarion Precinct,Governor,,REP,Kim Reynolds and Adam Gregg,327,122,205
+Wright,Dows Precinct,Governor,,REP,Kim Reynolds and Adam Gregg,343,90,253
+Wright,EG #1 Precinct,Governor,,REP,Kim Reynolds and Adam Gregg,127,20,107
+Wright,EG #2 Precinct,Governor,,REP,Kim Reynolds and Adam Gregg,124,24,100
+Wright,EG #3 Precinct,Governor,,REP,Kim Reynolds and Adam Gregg,223,40,183
+Wright,EG #4 Precinct,Governor,,REP,Kim Reynolds and Adam Gregg,145,26,119
+Wright,Rural EG Precinct,Governor,,REP,Kim Reynolds and Adam Gregg,164,26,138
+Wright,Goldfield Precinct,Governor,,REP,Kim Reynolds and Adam Gregg,266,33,233
+Wright,Belmond Precinct,Governor,,LIB,Rick Stewart and Marco Battaglia,35,8,27
+Wright,Clarion Precinct,Governor,,LIB,Rick Stewart and Marco Battaglia,21,6,15
+Wright,Rural Clarion Precinct,Governor,,LIB,Rick Stewart and Marco Battaglia,4,2,2
+Wright,Dows Precinct,Governor,,LIB,Rick Stewart and Marco Battaglia,17,6,11
+Wright,EG #1 Precinct,Governor,,LIB,Rick Stewart and Marco Battaglia,2,0,2
+Wright,EG #2 Precinct,Governor,,LIB,Rick Stewart and Marco Battaglia,7,1,6
+Wright,EG #3 Precinct,Governor,,LIB,Rick Stewart and Marco Battaglia,8,2,6
+Wright,EG #4 Precinct,Governor,,LIB,Rick Stewart and Marco Battaglia,8,1,7
+Wright,Rural EG Precinct,Governor,,LIB,Rick Stewart and Marco Battaglia,5,2,3
+Wright,Goldfield Precinct,Governor,,LIB,Rick Stewart and Marco Battaglia,3,0,3
+Wright,Belmond Precinct,Governor,,,Write-in,1,0,1
+Wright,Clarion Precinct,Governor,,,Write-in,0,0,0
+Wright,Rural Clarion Precinct,Governor,,,Write-in,0,0,0
+Wright,Dows Precinct,Governor,,,Write-in,0,0,0
+Wright,EG #1 Precinct,Governor,,,Write-in,0,0,0
+Wright,EG #2 Precinct,Governor,,,Write-in,0,0,0
+Wright,EG #3 Precinct,Governor,,,Write-in,0,0,0
+Wright,EG #4 Precinct,Governor,,,Write-in,0,0,0
+Wright,Rural EG Precinct,Governor,,,Write-in,0,0,0
+Wright,Goldfield Precinct,Governor,,,Write-in,0,0,0
+Wright,Belmond Precinct,Secretary of State,,DEM,Joel Miller,352,123,229
+Wright,Clarion Precinct,Secretary of State,,DEM,Joel Miller,191,89,102
+Wright,Rural Clarion Precinct,Secretary of State,,DEM,Joel Miller,68,36,32
+Wright,Dows Precinct,Secretary of State,,DEM,Joel Miller,124,50,74
+Wright,EG #1 Precinct,Secretary of State,,DEM,Joel Miller,61,13,48
+Wright,EG #2 Precinct,Secretary of State,,DEM,Joel Miller,60,19,41
+Wright,EG #3 Precinct,Secretary of State,,DEM,Joel Miller,74,24,50
+Wright,EG #4 Precinct,Secretary of State,,DEM,Joel Miller,67,14,53
+Wright,Rural EG Precinct,Secretary of State,,DEM,Joel Miller,26,13,13
+Wright,Goldfield Precinct,Secretary of State,,DEM,Joel Miller,67,15,52
+Wright,Belmond Precinct,Secretary of State,,REP,Paul D. Pate,773,176,597
+Wright,Clarion Precinct,Secretary of State,,REP,Paul D. Pate,618,189,429
+Wright,Rural Clarion Precinct,Secretary of State,,REP,Paul D. Pate,324,123,201
+Wright,Dows Precinct,Secretary of State,,REP,Paul D. Pate,354,99,255
+Wright,EG #1 Precinct,Secretary of State,,REP,Paul D. Pate,120,17,103
+Wright,EG #2 Precinct,Secretary of State,,REP,Paul D. Pate,122,21,101
+Wright,EG #3 Precinct,Secretary of State,,REP,Paul D. Pate,226,37,189
+Wright,EG #4 Precinct,Secretary of State,,REP,Paul D. Pate,160,33,127
+Wright,Rural EG Precinct,Secretary of State,,REP,Paul D. Pate,165,28,137
+Wright,Goldfield Precinct,Secretary of State,,REP,Paul D. Pate,259,30,229
+Wright,Belmond Precinct,Secretary of State,,,Write-in,0,0,0
+Wright,Clarion Precinct,Secretary of State,,,Write-in,0,0,0
+Wright,Rural Clarion Precinct,Secretary of State,,,Write-in,0,0,0
+Wright,Dows Precinct,Secretary of State,,,Write-in,0,0,0
+Wright,EG #1 Precinct,Secretary of State,,,Write-in,2,0,2
+Wright,EG #2 Precinct,Secretary of State,,,Write-in,0,0,0
+Wright,EG #3 Precinct,Secretary of State,,,Write-in,0,0,0
+Wright,EG #4 Precinct,Secretary of State,,,Write-in,0,0,0
+Wright,Rural EG Precinct,Secretary of State,,,Write-in,0,0,0
+Wright,Goldfield Precinct,Secretary of State,,,Write-in,0,0,0
+Wright,Belmond Precinct,Auditor of State,,DEM,Rob Sand,479,168,311
+Wright,Clarion Precinct,Auditor of State,,DEM,Rob Sand,319,132,187
+Wright,Rural Clarion Precinct,Auditor of State,,DEM,Rob Sand,134,62,72
+Wright,Dows Precinct,Auditor of State,,DEM,Rob Sand,205,77,128
+Wright,EG #1 Precinct,Auditor of State,,DEM,Rob Sand,96,15,81
+Wright,EG #2 Precinct,Auditor of State,,DEM,Rob Sand,85,22,63
+Wright,EG #3 Precinct,Auditor of State,,DEM,Rob Sand,126,34,92
+Wright,EG #4 Precinct,Auditor of State,,DEM,Rob Sand,98,24,74
+Wright,Rural EG Precinct,Auditor of State,,DEM,Rob Sand,52,20,32
+Wright,Goldfield Precinct,Auditor of State,,DEM,Rob Sand,99,15,84
+Wright,Belmond Precinct,Auditor of State,,REP,Todd Halbur,640,133,507
+Wright,Clarion Precinct,Auditor of State,,REP,Todd Halbur,483,143,340
+Wright,Rural Clarion Precinct,Auditor of State,,REP,Todd Halbur,256,97,159
+Wright,Dows Precinct,Auditor of State,,REP,Todd Halbur,274,70,204
+Wright,EG #1 Precinct,Auditor of State,,REP,Todd Halbur,90,16,74
+Wright,EG #2 Precinct,Auditor of State,,REP,Todd Halbur,96,19,77
+Wright,EG #3 Precinct,Auditor of State,,REP,Todd Halbur,172,28,144
+Wright,EG #4 Precinct,Auditor of State,,REP,Todd Halbur,127,23,104
+Wright,Rural EG Precinct,Auditor of State,,REP,Todd Halbur,136,21,115
+Wright,Goldfield Precinct,Auditor of State,,REP,Todd Halbur,224,28,196
+Wright,Belmond Precinct,Auditor of State,,,Write-in,0,0,0
+Wright,Clarion Precinct,Auditor of State,,,Write-in,0,0,0
+Wright,Rural Clarion Precinct,Auditor of State,,,Write-in,0,0,0
+Wright,Dows Precinct,Auditor of State,,,Write-in,0,0,0
+Wright,EG #1 Precinct,Auditor of State,,,Write-in,0,0,0
+Wright,EG #2 Precinct,Auditor of State,,,Write-in,0,0,0
+Wright,EG #3 Precinct,Auditor of State,,,Write-in,0,0,0
+Wright,EG #4 Precinct,Auditor of State,,,Write-in,0,0,0
+Wright,Rural EG Precinct,Auditor of State,,,Write-in,0,0,0
+Wright,Goldfield Precinct,Auditor of State,,,Write-in,1,0,1
+Wright,Belmond Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,479,170,309
+Wright,Clarion Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,319,132,187
+Wright,Rural Clarion Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,131,64,67
+Wright,Dows Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,193,71,122
+Wright,EG #1 Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,90,15,75
+Wright,EG #2 Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,78,21,57
+Wright,EG #3 Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,113,34,79
+Wright,EG #4 Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,97,21,76
+Wright,Rural EG Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,52,24,28
+Wright,Goldfield Precinct,Treasurer of State,,DEM,Michael L. Fitzgerald,101,17,84
+Wright,Belmond Precinct,Treasurer of State,,REP,Roby Smith,645,134,511
+Wright,Clarion Precinct,Treasurer of State,,REP,Roby Smith,486,141,345
+Wright,Rural Clarion Precinct,Treasurer of State,,REP,Roby Smith,261,95,166
+Wright,Dows Precinct,Treasurer of State,,REP,Roby Smith,289,78,211
+Wright,EG #1 Precinct,Treasurer of State,,REP,Roby Smith,96,16,80
+Wright,EG #2 Precinct,Treasurer of State,,REP,Roby Smith,104,20,84
+Wright,EG #3 Precinct,Treasurer of State,,REP,Roby Smith,184,27,157
+Wright,EG #4 Precinct,Treasurer of State,,REP,Roby Smith,128,26,102
+Wright,Rural EG Precinct,Treasurer of State,,REP,Roby Smith,137,17,120
+Wright,Goldfield Precinct,Treasurer of State,,REP,Roby Smith,224,27,197
+Wright,Belmond Precinct,Treasurer of State,,,Write-in,0,0,0
+Wright,Clarion Precinct,Treasurer of State,,,Write-in,1,1,0
+Wright,Rural Clarion Precinct,Treasurer of State,,,Write-in,0,0,0
+Wright,Dows Precinct,Treasurer of State,,,Write-in,0,0,0
+Wright,EG #1 Precinct,Treasurer of State,,,Write-in,0,0,0
+Wright,EG #2 Precinct,Treasurer of State,,,Write-in,0,0,0
+Wright,EG #3 Precinct,Treasurer of State,,,Write-in,0,0,0
+Wright,EG #4 Precinct,Treasurer of State,,,Write-in,0,0,0
+Wright,Rural EG Precinct,Treasurer of State,,,Write-in,0,0,0
+Wright,Goldfield Precinct,Treasurer of State,,,Write-in,0,0,0
+Wright,Belmond Precinct,Secretary of Agriculture,,DEM,John Norwood,321,120,201
+Wright,Clarion Precinct,Secretary of Agriculture,,DEM,John Norwood,167,81,86
+Wright,Rural Clarion Precinct,Secretary of Agriculture,,DEM,John Norwood,68,38,30
+Wright,Dows Precinct,Secretary of Agriculture,,DEM,John Norwood,107,47,60
+Wright,EG #1 Precinct,Secretary of Agriculture,,DEM,John Norwood,54,11,43
+Wright,EG #2 Precinct,Secretary of Agriculture,,DEM,John Norwood,56,17,39
+Wright,EG #3 Precinct,Secretary of Agriculture,,DEM,John Norwood,71,26,45
+Wright,EG #4 Precinct,Secretary of Agriculture,,DEM,John Norwood,65,17,48
+Wright,Rural EG Precinct,Secretary of Agriculture,,DEM,John Norwood,22,12,10
+Wright,Goldfield Precinct,Secretary of Agriculture,,DEM,John Norwood,48,9,39
+Wright,Belmond Precinct,Secretary of Agriculture,,REP,Mike Naig,810,184,626
+Wright,Clarion Precinct,Secretary of Agriculture,,REP,Mike Naig,643,195,448
+Wright,Rural Clarion Precinct,Secretary of Agriculture,,REP,Mike Naig,322,119,203
+Wright,Dows Precinct,Secretary of Agriculture,,REP,Mike Naig,374,103,271
+Wright,EG #1 Precinct,Secretary of Agriculture,,REP,Mike Naig,127,20,107
+Wright,EG #2 Precinct,Secretary of Agriculture,,REP,Mike Naig,126,25,101
+Wright,EG #3 Precinct,Secretary of Agriculture,,REP,Mike Naig,228,38,190
+Wright,EG #4 Precinct,Secretary of Agriculture,,REP,Mike Naig,161,30,131
+Wright,Rural EG Precinct,Secretary of Agriculture,,REP,Mike Naig,167,29,138
+Wright,Goldfield Precinct,Secretary of Agriculture,,REP,Mike Naig,278,35,243
+Wright,Belmond Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Wright,Clarion Precinct,Secretary of Agriculture,,,Write-in,1,1,0
+Wright,Rural Clarion Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Wright,Dows Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Wright,EG #1 Precinct,Secretary of Agriculture,,,Write-in,1,0,1
+Wright,EG #2 Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Wright,EG #3 Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Wright,EG #4 Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Wright,Rural EG Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Wright,Goldfield Precinct,Secretary of Agriculture,,,Write-in,0,0,0
+Wright,Belmond Precinct,Attorney General,,DEM,Tom Miller,500,183,317
+Wright,Clarion Precinct,Attorney General,,DEM,Tom Miller,324,146,178
+Wright,Rural Clarion Precinct,Attorney General,,DEM,Tom Miller,127,67,60
+Wright,Dows Precinct,Attorney General,,DEM,Tom Miller,202,82,120
+Wright,EG #1 Precinct,Attorney General,,DEM,Tom Miller,98,15,83
+Wright,EG #2 Precinct,Attorney General,,DEM,Tom Miller,91,27,64
+Wright,EG #3 Precinct,Attorney General,,DEM,Tom Miller,128,42,86
+Wright,EG #4 Precinct,Attorney General,,DEM,Tom Miller,108,31,77
+Wright,Rural EG Precinct,Attorney General,,DEM,Tom Miller,52,22,30
+Wright,Goldfield Precinct,Attorney General,,DEM,Tom Miller,106,20,86
+Wright,Belmond Precinct,Attorney General,,REP,Brenna Bird,632,119,513
+Wright,Clarion Precinct,Attorney General,,REP,Brenna Bird,487,136,351
+Wright,Rural Clarion Precinct,Attorney General,,REP,Brenna Bird,263,91,172
+Wright,Dows Precinct,Attorney General,,REP,Brenna Bird,280,67,213
+Wright,EG #1 Precinct,Attorney General,,REP,Brenna Bird,85,16,69
+Wright,EG #2 Precinct,Attorney General,,REP,Brenna Bird,91,14,77
+Wright,EG #3 Precinct,Attorney General,,REP,Brenna Bird,173,22,151
+Wright,EG #4 Precinct,Attorney General,,REP,Brenna Bird,121,17,104
+Wright,Rural EG Precinct,Attorney General,,REP,Brenna Bird,138,19,119
+Wright,Goldfield Precinct,Attorney General,,REP,Brenna Bird,222,24,198
+Wright,Belmond Precinct,Attorney General,,,Write-in,0,0,0
+Wright,Clarion Precinct,Attorney General,,,Write-in,0,0,0
+Wright,Rural Clarion Precinct,Attorney General,,,Write-in,0,0,0
+Wright,Dows Precinct,Attorney General,,,Write-in,0,0,0
+Wright,EG #1 Precinct,Attorney General,,,Write-in,0,0,0
+Wright,EG #2 Precinct,Attorney General,,,Write-in,0,0,0
+Wright,EG #3 Precinct,Attorney General,,,Write-in,0,0,0
+Wright,EG #4 Precinct,Attorney General,,,Write-in,0,0,0
+Wright,Rural EG Precinct,Attorney General,,,Write-in,0,0,0
+Wright,Goldfield Precinct,Attorney General,,,Write-in,0,0,0
+Wright,Dows Precinct,State House,55,REP,Shannon Latham,409,118,291
+Wright,Dows Precinct,State House,55,,Write-in,3,1,2
+Wright,Belmond Precinct,State House,56,REP,Mark Thompson,800,194,606
+Wright,Clarion Precinct,State House,56,REP,Mark Thompson,654,204,450
+Wright,Rural Clarion Precinct,State House,56,REP,Mark Thompson,330,130,200
+Wright,EG #1 Precinct,State House,56,REP,Mark Thompson,145,22,123
+Wright,EG #2 Precinct,State House,56,REP,Mark Thompson,138,27,111
+Wright,EG #3 Precinct,State House,56,REP,Mark Thompson,237,44,193
+Wright,EG #4 Precinct,State House,56,REP,Mark Thompson,181,34,147
+Wright,Rural EG Precinct,State House,56,REP,Mark Thompson,164,28,136
+Wright,Goldfield Precinct,State House,56,REP,Mark Thompson,277,35,242
+Wright,Belmond Precinct,State House,56,LIB,Charles Aldrich,261,84,177
+Wright,Clarion Precinct,State House,56,LIB,Charles Aldrich,123,48,75
+Wright,Rural Clarion Precinct,State House,56,LIB,Charles Aldrich,48,19,29
+Wright,EG #1 Precinct,State House,56,LIB,Charles Aldrich,31,5,26
+Wright,EG #2 Precinct,State House,56,LIB,Charles Aldrich,37,11,26
+Wright,EG #3 Precinct,State House,56,LIB,Charles Aldrich,58,18,40
+Wright,EG #4 Precinct,State House,56,LIB,Charles Aldrich,33,9,24
+Wright,Rural EG Precinct,State House,56,LIB,Charles Aldrich,26,12,14
+Wright,Goldfield Precinct,State House,56,LIB,Charles Aldrich,38,7,31
+Wright,Belmond Precinct,State House,56,,Write-in,3,1,2
+Wright,Clarion Precinct,State House,56,,Write-in,3,1,2
+Wright,Rural Clarion Precinct,State House,56,,Write-in,1,1,0
+Wright,EG #1 Precinct,State House,56,,Write-in,1,0,1
+Wright,EG #2 Precinct,State House,56,,Write-in,0,0,0
+Wright,EG #3 Precinct,State House,56,,Write-in,0,0,0
+Wright,EG #4 Precinct,State House,56,,Write-in,0,0,0
+Wright,Rural EG Precinct,State House,56,,Write-in,0,0,0
+Wright,Goldfield Precinct,State House,56,,Write-in,1,0,1
+Wright,Belmond Precinct,County Board of Supervisors District 2,,REP,Dean Kluss,957,236,721
+Wright,Clarion Precinct,County Board of Supervisors District 2,,REP,Dean Kluss,699,223,476
+Wright,Rural Clarion Precinct,County Board of Supervisors District 2,,REP,Dean Kluss,344,138,206
+Wright,Dows Precinct,County Board of Supervisors District 2,,REP,Dean Kluss,413,126,287
+Wright,EG #1 Precinct,County Board of Supervisors District 2,,REP,Dean Kluss,165,24,141
+Wright,EG #2 Precinct,County Board of Supervisors District 2,,REP,Dean Kluss,155,34,121
+Wright,EG #3 Precinct,County Board of Supervisors District 2,,REP,Dean Kluss,269,57,212
+Wright,EG #4 Precinct,County Board of Supervisors District 2,,REP,Dean Kluss,193,37,156
+Wright,Rural EG Precinct,County Board of Supervisors District 2,,REP,Dean Kluss,171,33,138
+Wright,Goldfield Precinct,County Board of Supervisors District 2,,REP,Dean Kluss,296,41,255
+Wright,Belmond Precinct,County Board of Supervisors District 2,,,Write-in,22,8,14
+Wright,Clarion Precinct,County Board of Supervisors District 2,,,Write-in,16,1,15
+Wright,Rural Clarion Precinct,County Board of Supervisors District 2,,,Write-in,5,1,4
+Wright,Dows Precinct,County Board of Supervisors District 2,,,Write-in,6,1,5
+Wright,EG #1 Precinct,County Board of Supervisors District 2,,,Write-in,3,0,3
+Wright,EG #2 Precinct,County Board of Supervisors District 2,,,Write-in,1,0,1
+Wright,EG #3 Precinct,County Board of Supervisors District 2,,,Write-in,5,0,5
+Wright,EG #4 Precinct,County Board of Supervisors District 2,,,Write-in,3,0,3
+Wright,Rural EG Precinct,County Board of Supervisors District 2,,,Write-in,1,0,1
+Wright,Goldfield Precinct,County Board of Supervisors District 2,,,Write-in,5,1,4
+Wright,Belmond Precinct,County Treasurer,,REP,Peggy Schluttenhofer,1006,252,754
+Wright,Clarion Precinct,County Treasurer,,REP,Peggy Schluttenhofer,750,249,501
+Wright,Rural Clarion Precinct,County Treasurer,,REP,Peggy Schluttenhofer,363,147,216
+Wright,Dows Precinct,County Treasurer,,REP,Peggy Schluttenhofer,435,131,304
+Wright,EG #1 Precinct,County Treasurer,,REP,Peggy Schluttenhofer,170,28,142
+Wright,EG #2 Precinct,County Treasurer,,REP,Peggy Schluttenhofer,169,39,130
+Wright,EG #3 Precinct,County Treasurer,,REP,Peggy Schluttenhofer,281,60,221
+Wright,EG #4 Precinct,County Treasurer,,REP,Peggy Schluttenhofer,200,41,159
+Wright,Rural EG Precinct,County Treasurer,,REP,Peggy Schluttenhofer,179,35,144
+Wright,Goldfield Precinct,County Treasurer,,REP,Peggy Schluttenhofer,310,42,268
+Wright,Belmond Precinct,County Treasurer,,,Write-in,9,2,7
+Wright,Clarion Precinct,County Treasurer,,,Write-in,5,0,5
+Wright,Rural Clarion Precinct,County Treasurer,,,Write-in,1,0,1
+Wright,Dows Precinct,County Treasurer,,,Write-in,1,1,0
+Wright,EG #1 Precinct,County Treasurer,,,Write-in,1,0,1
+Wright,EG #2 Precinct,County Treasurer,,,Write-in,0,0,0
+Wright,EG #3 Precinct,County Treasurer,,,Write-in,2,0,2
+Wright,EG #4 Precinct,County Treasurer,,,Write-in,2,0,2
+Wright,Rural EG Precinct,County Treasurer,,,Write-in,0,0,0
+Wright,Goldfield Precinct,County Treasurer,,,Write-in,1,0,1
+Wright,Belmond Precinct,County Recorder,,REP,Denise D. Baker,976,242,734
+Wright,Clarion Precinct,County Recorder,,REP,Denise D. Baker,713,236,477
+Wright,Rural Clarion Precinct,County Recorder,,REP,Denise D. Baker,356,143,213
+Wright,Dows Precinct,County Recorder,,REP,Denise D. Baker,427,130,297
+Wright,EG #1 Precinct,County Recorder,,REP,Denise D. Baker,170,27,143
+Wright,EG #2 Precinct,County Recorder,,REP,Denise D. Baker,167,37,130
+Wright,EG #3 Precinct,County Recorder,,REP,Denise D. Baker,284,62,222
+Wright,EG #4 Precinct,County Recorder,,REP,Denise D. Baker,201,40,161
+Wright,Rural EG Precinct,County Recorder,,REP,Denise D. Baker,175,33,142
+Wright,Goldfield Precinct,County Recorder,,REP,Denise D. Baker,298,38,260
+Wright,Belmond Precinct,County Recorder,,,Write-in,10,2,8
+Wright,Clarion Precinct,County Recorder,,,Write-in,14,1,13
+Wright,Rural Clarion Precinct,County Recorder,,,Write-in,4,0,4
+Wright,Dows Precinct,County Recorder,,,Write-in,1,1,0
+Wright,EG #1 Precinct,County Recorder,,,Write-in,2,0,2
+Wright,EG #2 Precinct,County Recorder,,,Write-in,0,0,0
+Wright,EG #3 Precinct,County Recorder,,,Write-in,2,0,2
+Wright,EG #4 Precinct,County Recorder,,,Write-in,4,1,3
+Wright,Rural EG Precinct,County Recorder,,,Write-in,0,0,0
+Wright,Goldfield Precinct,County Recorder,,,Write-in,3,0,3
+Wright,Belmond Precinct,County Attorney,,REP,Eric R. Simonson,986,245,741
+Wright,Clarion Precinct,County Attorney,,REP,Eric R. Simonson,691,218,473
+Wright,Rural Clarion Precinct,County Attorney,,REP,Eric R. Simonson,351,140,211
+Wright,Dows Precinct,County Attorney,,REP,Eric R. Simonson,413,124,289
+Wright,EG #1 Precinct,County Attorney,,REP,Eric R. Simonson,165,25,140
+Wright,EG #2 Precinct,County Attorney,,REP,Eric R. Simonson,158,36,122
+Wright,EG #3 Precinct,County Attorney,,REP,Eric R. Simonson,265,54,211
+Wright,EG #4 Precinct,County Attorney,,REP,Eric R. Simonson,190,38,152
+Wright,Rural EG Precinct,County Attorney,,REP,Eric R. Simonson,169,31,138
+Wright,Goldfield Precinct,County Attorney,,REP,Eric R. Simonson,287,36,251
+Wright,Belmond Precinct,County Attorney,,,Write-in,13,3,10
+Wright,Clarion Precinct,County Attorney,,,Write-in,12,2,10
+Wright,Rural Clarion Precinct,County Attorney,,,Write-in,2,1,1
+Wright,Dows Precinct,County Attorney,,,Write-in,3,1,2
+Wright,EG #1 Precinct,County Attorney,,,Write-in,2,0,2
+Wright,EG #2 Precinct,County Attorney,,,Write-in,0,0,0
+Wright,EG #3 Precinct,County Attorney,,,Write-in,3,0,3
+Wright,EG #4 Precinct,County Attorney,,,Write-in,6,1,5
+Wright,Rural EG Precinct,County Attorney,,,Write-in,2,0,2
+Wright,Goldfield Precinct,County Attorney,,,Write-in,2,0,2
+Wright,Belmond Precinct,Iowa Township Trustee,,,Alvin Bailey,74,21,53
+Wright,Belmond Precinct,Iowa Township Trustee,,,Write-in,0,0,0
+Wright,Belmond Precinct,Iowa Township Clerk,,,Aimee J. Frohling,70,21,49
+Wright,Belmond Precinct,Iowa Township Clerk,,,Write-in,0,0,0
+Wright,Dows Precinct,Wall Lake Township Trustee,,,Brittany Howieson,39,22,17
+Wright,Dows Precinct,Wall Lake Township Trustee,,,Write-in,0,0,0
+Wright,Dows Precinct,Wall Lake Township Clerk,,,Emily Cook,41,24,17
+Wright,Dows Precinct,Wall Lake Township Clerk,,,Write-in,0,0,0
+Wright,Dows Precinct,Woolstock Township Trustee,,,Bryan L. Claude,56,26,30
+Wright,Dows Precinct,Woolstock Township Trustee,,,Write-in,0,0,0
+Wright,Dows Precinct,Woolstock Township Clerk,,,Tamie J. Harrison,57,24,33
+Wright,Dows Precinct,Woolstock Township Clerk,,,Write-in,1,1,0
+Wright,Belmond Precinct,Soil and Water Conservation District Commissioner,,,Josh Nelson,818,223,595
+Wright,Clarion Precinct,Soil and Water Conservation District Commissioner,,,Josh Nelson,467,149,318
+Wright,Rural Clarion Precinct,Soil and Water Conservation District Commissioner,,,Josh Nelson,245,103,142
+Wright,Dows Precinct,Soil and Water Conservation District Commissioner,,,Josh Nelson,326,98,228
+Wright,EG #1 Precinct,Soil and Water Conservation District Commissioner,,,Josh Nelson,126,20,106
+Wright,EG #2 Precinct,Soil and Water Conservation District Commissioner,,,Josh Nelson,117,28,89
+Wright,EG #3 Precinct,Soil and Water Conservation District Commissioner,,,Josh Nelson,206,40,166
+Wright,EG #4 Precinct,Soil and Water Conservation District Commissioner,,,Josh Nelson,155,32,123
+Wright,Rural EG Precinct,Soil and Water Conservation District Commissioner,,,Josh Nelson,135,29,106
+Wright,Goldfield Precinct,Soil and Water Conservation District Commissioner,,,Josh Nelson,226,38,188
+Wright,Belmond Precinct,Soil and Water Conservation District Commissioner,,,James Radke,689,198,491
+Wright,Clarion Precinct,Soil and Water Conservation District Commissioner,,,James Radke,557,184,373
+Wright,Rural Clarion Precinct,Soil and Water Conservation District Commissioner,,,James Radke,267,102,165
+Wright,Dows Precinct,Soil and Water Conservation District Commissioner,,,James Radke,323,91,232
+Wright,EG #1 Precinct,Soil and Water Conservation District Commissioner,,,James Radke,117,15,102
+Wright,EG #2 Precinct,Soil and Water Conservation District Commissioner,,,James Radke,102,23,79
+Wright,EG #3 Precinct,Soil and Water Conservation District Commissioner,,,James Radke,196,43,153
+Wright,EG #4 Precinct,Soil and Water Conservation District Commissioner,,,James Radke,142,28,114
+Wright,Rural EG Precinct,Soil and Water Conservation District Commissioner,,,James Radke,130,28,102
+Wright,Goldfield Precinct,Soil and Water Conservation District Commissioner,,,James Radke,213,33,180
+Wright,Belmond Precinct,Soil and Water Conservation District Commissioner,,,Write-in,4,0,4
+Wright,Clarion Precinct,Soil and Water Conservation District Commissioner,,,Write-in,5,0,5
+Wright,Rural Clarion Precinct,Soil and Water Conservation District Commissioner,,,Write-in,1,1,0
+Wright,Dows Precinct,Soil and Water Conservation District Commissioner,,,Write-in,3,0,3
+Wright,EG #1 Precinct,Soil and Water Conservation District Commissioner,,,Write-in,3,0,3
+Wright,EG #2 Precinct,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Wright,EG #3 Precinct,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Wright,EG #4 Precinct,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Wright,Rural EG Precinct,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Wright,Goldfield Precinct,Soil and Water Conservation District Commissioner,,,Write-in,5,0,5
+Wright,Belmond Precinct,County Agricultural Extension Council Member,,,Abbey Canon,630,183,447
+Wright,Clarion Precinct,County Agricultural Extension Council Member,,,Abbey Canon,453,144,309
+Wright,Rural Clarion Precinct,County Agricultural Extension Council Member,,,Abbey Canon,218,87,131
+Wright,Dows Precinct,County Agricultural Extension Council Member,,,Abbey Canon,304,89,215
+Wright,EG #1 Precinct,County Agricultural Extension Council Member,,,Abbey Canon,105,12,93
+Wright,EG #2 Precinct,County Agricultural Extension Council Member,,,Abbey Canon,79,18,61
+Wright,EG #3 Precinct,County Agricultural Extension Council Member,,,Abbey Canon,176,42,134
+Wright,EG #4 Precinct,County Agricultural Extension Council Member,,,Abbey Canon,123,24,99
+Wright,Rural EG Precinct,County Agricultural Extension Council Member,,,Abbey Canon,102,25,77
+Wright,Goldfield Precinct,County Agricultural Extension Council Member,,,Abbey Canon,195,33,162
+Wright,Belmond Precinct,County Agricultural Extension Council Member,,,Paige Grandgeorge,637,185,452
+Wright,Clarion Precinct,County Agricultural Extension Council Member,,,Paige Grandgeorge,479,146,333
+Wright,Rural Clarion Precinct,County Agricultural Extension Council Member,,,Paige Grandgeorge,235,95,140
+Wright,Dows Precinct,County Agricultural Extension Council Member,,,Paige Grandgeorge,319,99,220
+Wright,EG #1 Precinct,County Agricultural Extension Council Member,,,Paige Grandgeorge,123,15,108
+Wright,EG #2 Precinct,County Agricultural Extension Council Member,,,Paige Grandgeorge,92,19,73
+Wright,EG #3 Precinct,County Agricultural Extension Council Member,,,Paige Grandgeorge,213,43,170
+Wright,EG #4 Precinct,County Agricultural Extension Council Member,,,Paige Grandgeorge,148,32,116
+Wright,Rural EG Precinct,County Agricultural Extension Council Member,,,Paige Grandgeorge,129,27,102
+Wright,Goldfield Precinct,County Agricultural Extension Council Member,,,Paige Grandgeorge,210,31,179
+Wright,Belmond Precinct,County Agricultural Extension Council Member,,,Kevin L. Hadley,839,233,606
+Wright,Clarion Precinct,County Agricultural Extension Council Member,,,Kevin L. Hadley,520,174,346
+Wright,Rural Clarion Precinct,County Agricultural Extension Council Member,,,Kevin L. Hadley,260,103,157
+Wright,Dows Precinct,County Agricultural Extension Council Member,,,Kevin L. Hadley,346,96,250
+Wright,EG #1 Precinct,County Agricultural Extension Council Member,,,Kevin L. Hadley,107,13,94
+Wright,EG #2 Precinct,County Agricultural Extension Council Member,,,Kevin L. Hadley,89,20,69
+Wright,EG #3 Precinct,County Agricultural Extension Council Member,,,Kevin L. Hadley,186,44,142
+Wright,EG #4 Precinct,County Agricultural Extension Council Member,,,Kevin L. Hadley,123,27,96
+Wright,Rural EG Precinct,County Agricultural Extension Council Member,,,Kevin L. Hadley,110,28,82
+Wright,Goldfield Precinct,County Agricultural Extension Council Member,,,Kevin L. Hadley,196,33,163
+Wright,Belmond Precinct,County Agricultural Extension Council Member,,,Breanna Wagner,620,184,436
+Wright,Clarion Precinct,County Agricultural Extension Council Member,,,Breanna Wagner,475,151,324
+Wright,Rural Clarion Precinct,County Agricultural Extension Council Member,,,Breanna Wagner,235,91,144
+Wright,Dows Precinct,County Agricultural Extension Council Member,,,Breanna Wagner,305,95,210
+Wright,EG #1 Precinct,County Agricultural Extension Council Member,,,Breanna Wagner,119,13,106
+Wright,EG #2 Precinct,County Agricultural Extension Council Member,,,Breanna Wagner,94,21,73
+Wright,EG #3 Precinct,County Agricultural Extension Council Member,,,Breanna Wagner,203,45,158
+Wright,EG #4 Precinct,County Agricultural Extension Council Member,,,Breanna Wagner,136,28,108
+Wright,Rural EG Precinct,County Agricultural Extension Council Member,,,Breanna Wagner,133,28,105
+Wright,Goldfield Precinct,County Agricultural Extension Council Member,,,Breanna Wagner,198,37,161
+Wright,Belmond Precinct,County Agricultural Extension Council Member,,,Molly Wilson,615,184,431
+Wright,Clarion Precinct,County Agricultural Extension Council Member,,,Molly Wilson,450,144,306
+Wright,Rural Clarion Precinct,County Agricultural Extension Council Member,,,Molly Wilson,215,89,126
+Wright,Dows Precinct,County Agricultural Extension Council Member,,,Molly Wilson,287,87,200
+Wright,EG #1 Precinct,County Agricultural Extension Council Member,,,Molly Wilson,116,12,104
+Wright,EG #2 Precinct,County Agricultural Extension Council Member,,,Molly Wilson,92,20,72
+Wright,EG #3 Precinct,County Agricultural Extension Council Member,,,Molly Wilson,195,43,152
+Wright,EG #4 Precinct,County Agricultural Extension Council Member,,,Molly Wilson,140,27,113
+Wright,Rural EG Precinct,County Agricultural Extension Council Member,,,Molly Wilson,119,23,96
+Wright,Goldfield Precinct,County Agricultural Extension Council Member,,,Molly Wilson,194,31,163
+Wright,Belmond Precinct,County Agricultural Extension Council Member,,,Write-in,10,2,8
+Wright,Clarion Precinct,County Agricultural Extension Council Member,,,Write-in,11,1,10
+Wright,Rural Clarion Precinct,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Wright,Dows Precinct,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Wright,EG #1 Precinct,County Agricultural Extension Council Member,,,Write-in,7,0,7
+Wright,EG #2 Precinct,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Wright,EG #3 Precinct,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Wright,EG #4 Precinct,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Wright,Rural EG Precinct,County Agricultural Extension Council Member,,,Write-in,3,0,3
+Wright,Goldfield Precinct,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Wright,Belmond Precinct,Supreme Court Justice,,,Yes,585,160,425
+Wright,Clarion Precinct,Supreme Court Justice,,,Yes,435,140,295
+Wright,Rural Clarion Precinct,Supreme Court Justice,,,Yes,191,78,113
+Wright,Dows Precinct,Supreme Court Justice,,,Yes,259,77,182
+Wright,EG #1 Precinct,Supreme Court Justice,,,Yes,99,16,83
+Wright,EG #2 Precinct,Supreme Court Justice,,,Yes,81,12,69
+Wright,EG #3 Precinct,Supreme Court Justice,,,Yes,163,32,131
+Wright,EG #4 Precinct,Supreme Court Justice,,,Yes,116,19,97
+Wright,Rural EG Precinct,Supreme Court Justice,,,Yes,108,27,81
+Wright,Goldfield Precinct,Supreme Court Justice,,,Yes,162,23,139
+Wright,Belmond Precinct,Supreme Court Justice,,,No,242,71,171
+Wright,Clarion Precinct,Supreme Court Justice,,,No,142,50,92
+Wright,Rural Clarion Precinct,Supreme Court Justice,,,No,66,25,41
+Wright,Dows Precinct,Supreme Court Justice,,,No,106,25,81
+Wright,EG #1 Precinct,Supreme Court Justice,,,No,47,10,37
+Wright,EG #2 Precinct,Supreme Court Justice,,,No,42,11,31
+Wright,EG #3 Precinct,Supreme Court Justice,,,No,59,11,48
+Wright,EG #4 Precinct,Supreme Court Justice,,,No,53,13,40
+Wright,Rural EG Precinct,Supreme Court Justice,,,No,38,4,34
+Wright,Goldfield Precinct,Supreme Court Justice,,,No,68,9,59
+Wright,Belmond Precinct,Court of Appeals Judge,,,Yes,559,155,404
+Wright,Clarion Precinct,Court of Appeals Judge,,,Yes,419,130,289
+Wright,Rural Clarion Precinct,Court of Appeals Judge,,,Yes,184,75,109
+Wright,Dows Precinct,Court of Appeals Judge,,,Yes,258,79,179
+Wright,EG #1 Precinct,Court of Appeals Judge,,,Yes,105,13,92
+Wright,EG #2 Precinct,Court of Appeals Judge,,,Yes,84,14,70
+Wright,EG #3 Precinct,Court of Appeals Judge,,,Yes,160,29,131
+Wright,EG #4 Precinct,Court of Appeals Judge,,,Yes,126,22,104
+Wright,Rural EG Precinct,Court of Appeals Judge,,,Yes,107,27,80
+Wright,Goldfield Precinct,Court of Appeals Judge,,,Yes,168,26,142
+Wright,Belmond Precinct,Court of Appeals Judge,,,No,233,66,167
+Wright,Clarion Precinct,Court of Appeals Judge,,,No,143,49,94
+Wright,Rural Clarion Precinct,Court of Appeals Judge,,,No,62,22,40
+Wright,Dows Precinct,Court of Appeals Judge,,,No,94,23,71
+Wright,EG #1 Precinct,Court of Appeals Judge,,,No,39,10,29
+Wright,EG #2 Precinct,Court of Appeals Judge,,,No,42,11,31
+Wright,EG #3 Precinct,Court of Appeals Judge,,,No,62,12,50
+Wright,EG #4 Precinct,Court of Appeals Judge,,,No,44,10,34
+Wright,Rural EG Precinct,Court of Appeals Judge,,,No,38,3,35
+Wright,Goldfield Precinct,Court of Appeals Judge,,,No,66,6,60
+Wright,Belmond Precinct,District 2B Judge,,,Yes,603,163,440
+Wright,Clarion Precinct,District 2B Judge,,,Yes,459,143,316
+Wright,Rural Clarion Precinct,District 2B Judge,,,Yes,197,85,112
+Wright,Dows Precinct,District 2B Judge,,,Yes,278,84,194
+Wright,EG #1 Precinct,District 2B Judge,,,Yes,119,16,103
+Wright,EG #2 Precinct,District 2B Judge,,,Yes,92,17,75
+Wright,EG #3 Precinct,District 2B Judge,,,Yes,160,33,127
+Wright,EG #4 Precinct,District 2B Judge,,,Yes,134,25,109
+Wright,Rural EG Precinct,District 2B Judge,,,Yes,116,28,88
+Wright,Goldfield Precinct,District 2B Judge,,,Yes,177,27,150
+Wright,Belmond Precinct,District 2B Judge,,,No,224,70,154
+Wright,Clarion Precinct,District 2B Judge,,,No,119,40,79
+Wright,Rural Clarion Precinct,District 2B Judge,,,No,62,20,42
+Wright,Dows Precinct,District 2B Judge,,,No,78,18,60
+Wright,EG #1 Precinct,District 2B Judge,,,No,35,10,25
+Wright,EG #2 Precinct,District 2B Judge,,,No,37,8,29
+Wright,EG #3 Precinct,District 2B Judge,,,No,63,10,53
+Wright,EG #4 Precinct,District 2B Judge,,,No,37,9,28
+Wright,Rural EG Precinct,District 2B Judge,,,No,30,2,28
+Wright,Goldfield Precinct,District 2B Judge,,,No,62,5,57
+Wright,Belmond Precinct,District 2B Associate Judge,,,Yes,608,163,445
+Wright,Clarion Precinct,District 2B Associate Judge,,,Yes,449,139,310
+Wright,Rural Clarion Precinct,District 2B Associate Judge,,,Yes,196,81,115
+Wright,Dows Precinct,District 2B Associate Judge,,,Yes,266,79,187
+Wright,EG #1 Precinct,District 2B Associate Judge,,,Yes,119,17,102
+Wright,EG #2 Precinct,District 2B Associate Judge,,,Yes,90,14,76
+Wright,EG #3 Precinct,District 2B Associate Judge,,,Yes,172,33,139
+Wright,EG #4 Precinct,District 2B Associate Judge,,,Yes,131,24,107
+Wright,Rural EG Precinct,District 2B Associate Judge,,,Yes,116,28,88
+Wright,Goldfield Precinct,District 2B Associate Judge,,,Yes,183,26,157
+Wright,Belmond Precinct,District 2B Associate Judge,,,No,220,64,156
+Wright,Clarion Precinct,District 2B Associate Judge,,,No,119,39,80
+Wright,Rural Clarion Precinct,District 2B Associate Judge,,,No,58,20,38
+Wright,Dows Precinct,District 2B Associate Judge,,,No,86,23,63
+Wright,EG #1 Precinct,District 2B Associate Judge,,,No,35,9,26
+Wright,EG #2 Precinct,District 2B Associate Judge,,,No,35,9,26
+Wright,EG #3 Precinct,District 2B Associate Judge,,,No,50,8,42
+Wright,EG #4 Precinct,District 2B Associate Judge,,,No,42,9,33
+Wright,Rural EG Precinct,District 2B Associate Judge,,,No,30,2,28
+Wright,Goldfield Precinct,District 2B Associate Judge,,,No,61,6,55
+Wright,Belmond Precinct,Constitutional Amendment 1,,,Yes,831,193,638
+Wright,Clarion Precinct,Constitutional Amendment 1,,,Yes,611,198,413
+Wright,Rural Clarion Precinct,Constitutional Amendment 1,,,Yes,309,123,186
+Wright,Dows Precinct,Constitutional Amendment 1,,,Yes,379,103,276
+Wright,EG #1 Precinct,Constitutional Amendment 1,,,Yes,135,24,111
+Wright,EG #2 Precinct,Constitutional Amendment 1,,,Yes,137,27,110
+Wright,EG #3 Precinct,Constitutional Amendment 1,,,Yes,237,48,189
+Wright,EG #4 Precinct,Constitutional Amendment 1,,,Yes,172,32,140
+Wright,Rural EG Precinct,Constitutional Amendment 1,,,Yes,162,29,133
+Wright,Goldfield Precinct,Constitutional Amendment 1,,,Yes,264,33,231
+Wright,Belmond Precinct,Constitutional Amendment 1,,,No,250,96,154
+Wright,Clarion Precinct,Constitutional Amendment 1,,,No,147,69,78
+Wright,Rural Clarion Precinct,Constitutional Amendment 1,,,No,59,30,29
+Wright,Dows Precinct,Constitutional Amendment 1,,,No,84,34,50
+Wright,EG #1 Precinct,Constitutional Amendment 1,,,No,38,6,32
+Wright,EG #2 Precinct,Constitutional Amendment 1,,,No,29,9,20
+Wright,EG #3 Precinct,Constitutional Amendment 1,,,No,44,10,34
+Wright,EG #4 Precinct,Constitutional Amendment 1,,,No,41,11,30
+Wright,Rural EG Precinct,Constitutional Amendment 1,,,No,25,11,14
+Wright,Goldfield Precinct,Constitutional Amendment 1,,,No,48,9,39
+Wright,Belmond Precinct,Public Measure A,,,Yes,829,231,598
+Wright,Clarion Precinct,Public Measure A,,,Yes,539,178,361
+Wright,Rural Clarion Precinct,Public Measure A,,,Yes,274,111,163
+Wright,Dows Precinct,Public Measure A,,,Yes,315,86,229
+Wright,EG #1 Precinct,Public Measure A,,,Yes,110,17,93
+Wright,EG #2 Precinct,Public Measure A,,,Yes,97,16,81
+Wright,EG #3 Precinct,Public Measure A,,,Yes,189,38,151
+Wright,EG #4 Precinct,Public Measure A,,,Yes,150,27,123
+Wright,Rural EG Precinct,Public Measure A,,,Yes,108,25,83
+Wright,Goldfield Precinct,Public Measure A,,,Yes,207,23,184
+Wright,Belmond Precinct,Public Measure A,,,No,263,64,199
+Wright,Clarion Precinct,Public Measure A,,,No,231,92,139
+Wright,Rural Clarion Precinct,Public Measure A,,,No,105,44,61
+Wright,Dows Precinct,Public Measure A,,,No,149,55,94
+Wright,EG #1 Precinct,Public Measure A,,,No,69,12,57
+Wright,EG #2 Precinct,Public Measure A,,,No,72,22,50
+Wright,EG #3 Precinct,Public Measure A,,,No,89,20,69
+Wright,EG #4 Precinct,Public Measure A,,,No,61,16,45
+Wright,Rural EG Precinct,Public Measure A,,,No,71,13,58
+Wright,Goldfield Precinct,Public Measure A,,,No,110,18,92

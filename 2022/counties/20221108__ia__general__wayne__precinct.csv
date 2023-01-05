@@ -1,0 +1,344 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Wayne,A01 - Allerton,U.S. Senate,,DEM,Michael Franken,114,37,77
+Wayne,C02 - Corydon,U.S. Senate,,DEM,Michael Franken,175,100,75
+Wayne,H03 - Humeston,U.S. Senate,,DEM,Michael Franken,112,39,73
+Wayne,S04 - Seymour,U.S. Senate,,DEM,Michael Franken,113,38,75
+Wayne,A01 - Allerton,U.S. Senate,,REP,Chuck Grassley,444,85,359
+Wayne,C02 - Corydon,U.S. Senate,,REP,Chuck Grassley,577,191,386
+Wayne,H03 - Humeston,U.S. Senate,,REP,Chuck Grassley,423,97,326
+Wayne,S04 - Seymour,U.S. Senate,,REP,Chuck Grassley,416,86,330
+Wayne,A01 - Allerton,U.S. Senate,,,Write-in,0,0,0
+Wayne,C02 - Corydon,U.S. Senate,,,Write-in,1,0,1
+Wayne,H03 - Humeston,U.S. Senate,,,Write-in,2,0,2
+Wayne,S04 - Seymour,U.S. Senate,,,Write-in,1,0,1
+Wayne,A01 - Allerton,U.S. House,3,DEM,Cindy Axne,111,36,75
+Wayne,C02 - Corydon,U.S. House,3,DEM,Cindy Axne,200,107,93
+Wayne,H03 - Humeston,U.S. House,3,DEM,Cindy Axne,139,44,95
+Wayne,S04 - Seymour,U.S. House,3,DEM,Cindy Axne,131,43,88
+Wayne,A01 - Allerton,U.S. House,3,REP,Zach Nunn,436,81,355
+Wayne,C02 - Corydon,U.S. House,3,REP,Zach Nunn,543,180,363
+Wayne,H03 - Humeston,U.S. House,3,REP,Zach Nunn,388,88,300
+Wayne,S04 - Seymour,U.S. House,3,REP,Zach Nunn,386,74,312
+Wayne,A01 - Allerton,U.S. House,3,,Write-in,3,1,2
+Wayne,C02 - Corydon,U.S. House,3,,Write-in,0,0,0
+Wayne,H03 - Humeston,U.S. House,3,,Write-in,3,0,3
+Wayne,S04 - Seymour,U.S. House,3,,Write-in,1,1,0
+Wayne,A01 - Allerton,Governor,,DEM,Deidre DeJear and Eric Van Lancker,87,30,57
+Wayne,C02 - Corydon,Governor,,DEM,Deidre DeJear and Eric Van Lancker,138,81,57
+Wayne,H03 - Humeston,Governor,,DEM,Deidre DeJear and Eric Van Lancker,92,27,65
+Wayne,S04 - Seymour,Governor,,DEM,Deidre DeJear and Eric Van Lancker,89,30,59
+Wayne,A01 - Allerton,Governor,,REP,Kim Reynolds and Adam Gregg,472,92,380
+Wayne,C02 - Corydon,Governor,,REP,Kim Reynolds and Adam Gregg,606,206,400
+Wayne,H03 - Humeston,Governor,,REP,Kim Reynolds and Adam Gregg,434,105,329
+Wayne,S04 - Seymour,Governor,,REP,Kim Reynolds and Adam Gregg,427,90,337
+Wayne,A01 - Allerton,Governor,,LIB,Rick Stewart and Marco Battaglia,4,1,3
+Wayne,C02 - Corydon,Governor,,LIB,Rick Stewart and Marco Battaglia,12,4,8
+Wayne,H03 - Humeston,Governor,,LIB,Rick Stewart and Marco Battaglia,10,2,8
+Wayne,S04 - Seymour,Governor,,LIB,Rick Stewart and Marco Battaglia,12,3,9
+Wayne,A01 - Allerton,Governor,,,Write-in,0,0,0
+Wayne,C02 - Corydon,Governor,,,Write-in,0,0,0
+Wayne,H03 - Humeston,Governor,,,Write-in,0,0,0
+Wayne,S04 - Seymour,Governor,,,Write-in,0,0,0
+Wayne,A01 - Allerton,Secretary of State,,DEM,Joel Miller,107,34,73
+Wayne,C02 - Corydon,Secretary of State,,DEM,Joel Miller,166,93,73
+Wayne,H03 - Humeston,Secretary of State,,DEM,Joel Miller,109,39,70
+Wayne,S04 - Seymour,Secretary of State,,DEM,Joel Miller,116,41,75
+Wayne,A01 - Allerton,Secretary of State,,REP,Paul D. Pate,446,87,359
+Wayne,C02 - Corydon,Secretary of State,,REP,Paul D. Pate,575,192,383
+Wayne,H03 - Humeston,Secretary of State,,REP,Paul D. Pate,420,95,325
+Wayne,S04 - Seymour,Secretary of State,,REP,Paul D. Pate,399,78,321
+Wayne,A01 - Allerton,Secretary of State,,,Write-in,0,0,0
+Wayne,C02 - Corydon,Secretary of State,,,Write-in,0,0,0
+Wayne,H03 - Humeston,Secretary of State,,,Write-in,0,0,0
+Wayne,S04 - Seymour,Secretary of State,,,Write-in,0,0,0
+Wayne,A01 - Allerton,Auditor of State,,DEM,Rob Sand,159,49,110
+Wayne,C02 - Corydon,Auditor of State,,DEM,Rob Sand,264,130,134
+Wayne,H03 - Humeston,Auditor of State,,DEM,Rob Sand,188,53,135
+Wayne,S04 - Seymour,Auditor of State,,DEM,Rob Sand,172,54,118
+Wayne,A01 - Allerton,Auditor of State,,REP,Todd Halbur,383,68,315
+Wayne,C02 - Corydon,Auditor of State,,REP,Todd Halbur,471,150,321
+Wayne,H03 - Humeston,Auditor of State,,REP,Todd Halbur,341,79,262
+Wayne,S04 - Seymour,Auditor of State,,REP,Todd Halbur,332,63,269
+Wayne,A01 - Allerton,Auditor of State,,,Write-in,0,0,0
+Wayne,C02 - Corydon,Auditor of State,,,Write-in,0,0,0
+Wayne,H03 - Humeston,Auditor of State,,,Write-in,0,0,0
+Wayne,S04 - Seymour,Auditor of State,,,Write-in,0,0,0
+Wayne,A01 - Allerton,Treasurer of State,,DEM,Michael L. Fitzgerald,149,49,100
+Wayne,C02 - Corydon,Treasurer of State,,DEM,Michael L. Fitzgerald,260,133,127
+Wayne,H03 - Humeston,Treasurer of State,,DEM,Michael L. Fitzgerald,160,51,109
+Wayne,S04 - Seymour,Treasurer of State,,DEM,Michael L. Fitzgerald,164,58,106
+Wayne,A01 - Allerton,Treasurer of State,,REP,Roby Smith,398,72,326
+Wayne,C02 - Corydon,Treasurer of State,,REP,Roby Smith,477,150,327
+Wayne,H03 - Humeston,Treasurer of State,,REP,Roby Smith,368,82,286
+Wayne,S04 - Seymour,Treasurer of State,,REP,Roby Smith,346,62,284
+Wayne,A01 - Allerton,Treasurer of State,,,Write-in,0,0,0
+Wayne,C02 - Corydon,Treasurer of State,,,Write-in,0,0,0
+Wayne,H03 - Humeston,Treasurer of State,,,Write-in,0,0,0
+Wayne,S04 - Seymour,Treasurer of State,,,Write-in,0,0,0
+Wayne,A01 - Allerton,Secretary of Agriculture,,DEM,John Norwood,88,29,59
+Wayne,C02 - Corydon,Secretary of Agriculture,,DEM,John Norwood,143,85,58
+Wayne,H03 - Humeston,Secretary of Agriculture,,DEM,John Norwood,89,30,59
+Wayne,S04 - Seymour,Secretary of Agriculture,,DEM,John Norwood,87,31,56
+Wayne,A01 - Allerton,Secretary of Agriculture,,REP,Mike Naig,463,90,373
+Wayne,C02 - Corydon,Secretary of Agriculture,,REP,Mike Naig,595,196,399
+Wayne,H03 - Humeston,Secretary of Agriculture,,REP,Mike Naig,444,104,340
+Wayne,S04 - Seymour,Secretary of Agriculture,,REP,Mike Naig,429,90,339
+Wayne,A01 - Allerton,Secretary of Agriculture,,,Write-in,0,0,0
+Wayne,C02 - Corydon,Secretary of Agriculture,,,Write-in,0,0,0
+Wayne,H03 - Humeston,Secretary of Agriculture,,,Write-in,0,0,0
+Wayne,S04 - Seymour,Secretary of Agriculture,,,Write-in,0,0,0
+Wayne,A01 - Allerton,Attorney General,,DEM,Tom Miller,170,51,119
+Wayne,C02 - Corydon,Attorney General,,DEM,Tom Miller,280,149,131
+Wayne,H03 - Humeston,Attorney General,,DEM,Tom Miller,182,62,120
+Wayne,S04 - Seymour,Attorney General,,DEM,Tom Miller,182,63,119
+Wayne,A01 - Allerton,Attorney General,,REP,Brenna Bird,377,66,311
+Wayne,C02 - Corydon,Attorney General,,REP,Brenna Bird,464,136,328
+Wayne,H03 - Humeston,Attorney General,,REP,Brenna Bird,352,73,279
+Wayne,S04 - Seymour,Attorney General,,REP,Brenna Bird,332,58,274
+Wayne,A01 - Allerton,Attorney General,,,Write-in,0,0,0
+Wayne,C02 - Corydon,Attorney General,,,Write-in,1,0,1
+Wayne,H03 - Humeston,Attorney General,,,Write-in,0,0,0
+Wayne,S04 - Seymour,Attorney General,,,Write-in,0,0,0
+Wayne,A01 - Allerton,State House,24,REP,Joel Fry,486,97,389
+Wayne,C02 - Corydon,State House,24,REP,Joel Fry,655,228,427
+Wayne,H03 - Humeston,State House,24,REP,Joel Fry,461,106,355
+Wayne,S04 - Seymour,State House,24,REP,Joel Fry,439,99,340
+Wayne,A01 - Allerton,State House,24,,Write-in,3,0,3
+Wayne,C02 - Corydon,State House,24,,Write-in,7,5,2
+Wayne,H03 - Humeston,State House,24,,Write-in,1,1,0
+Wayne,S04 - Seymour,State House,24,,Write-in,7,3,4
+Wayne,A01 - Allerton,County Board of Supervisors At Large,,REP,Lance K. Lange,332,66,266
+Wayne,C02 - Corydon,County Board of Supervisors At Large,,REP,Lance K. Lange,508,182,326
+Wayne,H03 - Humeston,County Board of Supervisors At Large,,REP,Lance K. Lange,290,67,223
+Wayne,S04 - Seymour,County Board of Supervisors At Large,,REP,Lance K. Lange,321,68,253
+Wayne,A01 - Allerton,County Board of Supervisors At Large,,REP,Chris Moore,358,71,287
+Wayne,C02 - Corydon,County Board of Supervisors At Large,,REP,Chris Moore,423,134,289
+Wayne,H03 - Humeston,County Board of Supervisors At Large,,REP,Chris Moore,333,74,259
+Wayne,S04 - Seymour,County Board of Supervisors At Large,,REP,Chris Moore,293,59,234
+Wayne,A01 - Allerton,County Board of Supervisors At Large,,,Write-in,34,8,26
+Wayne,C02 - Corydon,County Board of Supervisors At Large,,,Write-in,30,9,21
+Wayne,H03 - Humeston,County Board of Supervisors At Large,,,Write-in,8,1,7
+Wayne,S04 - Seymour,County Board of Supervisors At Large,,,Write-in,20,7,13
+Wayne,A01 - Allerton,County Board of Supervisors At Large,,Write-In,David Dotts,139,43,96
+Wayne,C02 - Corydon,County Board of Supervisors At Large,,Write-In,David Dotts,225,114,111
+Wayne,H03 - Humeston,County Board of Supervisors At Large,,Write-In,David Dotts,134,51,83
+Wayne,S04 - Seymour,County Board of Supervisors At Large,,Write-In,David Dotts,193,52,141
+Wayne,A01 - Allerton,County Treasurer,,REP,Amanda Cooper,501,105,396
+Wayne,C02 - Corydon,County Treasurer,,REP,Amanda Cooper,683,249,434
+Wayne,H03 - Humeston,County Treasurer,,REP,Amanda Cooper,472,116,356
+Wayne,S04 - Seymour,County Treasurer,,REP,Amanda Cooper,462,104,358
+Wayne,A01 - Allerton,County Treasurer,,,Write-in,6,2,4
+Wayne,C02 - Corydon,County Treasurer,,,Write-in,9,3,6
+Wayne,H03 - Humeston,County Treasurer,,,Write-in,3,0,3
+Wayne,S04 - Seymour,County Treasurer,,,Write-in,7,4,3
+Wayne,A01 - Allerton,County Recorder,,DEM,Angie Horton,432,98,334
+Wayne,C02 - Corydon,County Recorder,,DEM,Angie Horton,592,231,361
+Wayne,H03 - Humeston,County Recorder,,DEM,Angie Horton,423,100,323
+Wayne,S04 - Seymour,County Recorder,,DEM,Angie Horton,365,98,267
+Wayne,A01 - Allerton,County Recorder,,,Write-in,15,1,14
+Wayne,C02 - Corydon,County Recorder,,,Write-in,10,3,7
+Wayne,H03 - Humeston,County Recorder,,,Write-in,10,2,8
+Wayne,S04 - Seymour,County Recorder,,,Write-in,10,3,7
+Wayne,A01 - Allerton,County Attorney,,REP,Alan M. Wilson,445,94,351
+Wayne,C02 - Corydon,County Attorney,,REP,Alan M. Wilson,626,225,401
+Wayne,H03 - Humeston,County Attorney,,REP,Alan M. Wilson,440,102,338
+Wayne,S04 - Seymour,County Attorney,,REP,Alan M. Wilson,379,84,295
+Wayne,A01 - Allerton,County Attorney,,,Write-in,17,2,15
+Wayne,C02 - Corydon,County Attorney,,,Write-in,12,6,6
+Wayne,H03 - Humeston,County Attorney,,,Write-in,7,1,6
+Wayne,S04 - Seymour,County Attorney,,,Write-in,22,6,16
+Wayne,A01 - Allerton,Township Trustees for Clinton Township,,,Jerry Clow,44,8,36
+Wayne,A01 - Allerton,Township Trustees for Clinton Township,,,Write-in,1,0,1
+Wayne,A01 - Allerton,Township Trustees for Clinton Township,,Write-in,Ralph Richardson,2,0,2
+Wayne,A01 - Allerton,Township Trustees for Grand River Township,,,Cole Ellis,25,7,18
+Wayne,A01 - Allerton,Township Trustees for Grand River Township,,,Mike Ellis,28,8,20
+Wayne,A01 - Allerton,Township Trustees for Grand River Township,,,Write-in,0,0,0
+Wayne,A01 - Allerton,Township Trustees for Howard Township,,,Delbert Liggett,24,13,11
+Wayne,A01 - Allerton,Township Trustees for Howard Township,,,Art Snider,22,12,10
+Wayne,A01 - Allerton,Township Trustees for Howard Township,,,Write-in,0,0,0
+Wayne,A01 - Allerton,Township Trustees for Jackson Township,,,Gabe Hook,48,9,39
+Wayne,A01 - Allerton,Township Trustees for Jackson Township,,,Tyson Polsdofer,48,11,37
+Wayne,A01 - Allerton,Township Trustees for Jackson Township,,,Write-in,0,0,0
+Wayne,A01 - Allerton,Township Trustees for Jefferson Township,,,Richard Casey,51,14,37
+Wayne,A01 - Allerton,Township Trustees for Jefferson Township,,,Zachary Robinson,43,18,25
+Wayne,A01 - Allerton,Township Trustees for Jefferson Township,,,Write-in,2,0,2
+Wayne,C02 - Corydon,Township Trustees for Benton Township,,,Jane Cooley,67,28,39
+Wayne,C02 - Corydon,Township Trustees for Benton Township,,,Richard Crawford,68,30,38
+Wayne,C02 - Corydon,Township Trustees for Benton Township,,,Write-in,1,1,0
+Wayne,C02 - Corydon,Township Trustees for Corydon Township,,,Dennis Campbell,96,35,61
+Wayne,C02 - Corydon,Township Trustees for Corydon Township,,,John Harman,97,39,58
+Wayne,C02 - Corydon,Township Trustees for Corydon Township,,,Write-in,1,0,1
+Wayne,H03 - Humeston,Township Trustees for Clay Township,,,Eric Couchman,66,19,47
+Wayne,H03 - Humeston,Township Trustees for Clay Township,,,Chuck McCullough,66,17,49
+Wayne,H03 - Humeston,Township Trustees for Clay Township,,,Write-in,0,0,0
+Wayne,H03 - Humeston,Township Trustees for Richman Township,,,Rodney Hitt,49,5,44
+Wayne,H03 - Humeston,Township Trustees for Richman Township,,,Brent Watkins,47,4,43
+Wayne,H03 - Humeston,Township Trustees for Richman Township,,,Write-in,0,0,0
+Wayne,H03 - Humeston,Township Trustees for Union Township,,,Max Moore,70,40,30
+Wayne,H03 - Humeston,Township Trustees for Union Township,,,Brent Werts,74,41,33
+Wayne,H03 - Humeston,Township Trustees for Union Township,,,Write-in,1,1,0
+Wayne,H03 - Humeston,Township Trustees for Washington Township,,,Rick Boor,74,20,54
+Wayne,H03 - Humeston,Township Trustees for Washington Township,,,Beverly Snook,71,22,49
+Wayne,H03 - Humeston,Township Trustees for Washington Township,,,Write-in,3,1,2
+Wayne,H03 - Humeston,Township Trustees for Washington Township,,Write-In,Josh Trumper,5,0,5
+Wayne,S04 - Seymour,Township Trustees for Monroe Township,,,Don Hancox,13,4,9
+Wayne,S04 - Seymour,Township Trustees for Monroe Township,,,Hubert Staggs,14,4,10
+Wayne,S04 - Seymour,Township Trustees for Monroe Township,,,Write-in,0,0,0
+Wayne,S04 - Seymour,Township Trustees for South Fork Township,,,Dale Clark,76,13,63
+Wayne,S04 - Seymour,Township Trustees for South Fork Township,,,Wes Green,81,16,65
+Wayne,S04 - Seymour,Township Trustees for South Fork Township,,,Write-in,1,0,1
+Wayne,S04 - Seymour,Township Trustees for Walnut Township,,,Milton Albertson,49,10,39
+Wayne,S04 - Seymour,Township Trustees for Walnut Township,,,Don DeVore,52,11,41
+Wayne,S04 - Seymour,Township Trustees for Walnut Township,,,Write-in,0,0,0
+Wayne,S04 - Seymour,Township Trustees for Wright Township,,,Tim Alexander,68,25,43
+Wayne,S04 - Seymour,Township Trustees for Wright Township,,,Doug Carpenter,84,27,57
+Wayne,S04 - Seymour,Township Trustees for Wright Township,,,Write-in,3,2,1
+Wayne,A01 - Allerton,Township Trustees for Warren Township,,,Chris Roberts,54,12,42
+Wayne,A01 - Allerton,Township Trustees for Warren Township,,,David Wampler,51,10,41
+Wayne,A01 - Allerton,Township Trustees for Warren Township,,,Write-in,3,0,3
+Wayne,A01 - Allerton,Township Clerk for Clinton Township,,,Jennie Clow,42,7,35
+Wayne,A01 - Allerton,Township Clerk for Clinton Township,,,Write-in,1,0,1
+Wayne,A01 - Allerton,Township Clerk for Grand River Township,,,Jani Ellis,28,7,21
+Wayne,A01 - Allerton,Township Clerk for Grand River Township,,,Write-in,0,0,0
+Wayne,A01 - Allerton,Township Clerk for Howard Township,,,Alitha Jellison,20,9,11
+Wayne,A01 - Allerton,Township Clerk for Howard Township,,,Write-in,0,0,0
+Wayne,A01 - Allerton,Township Clerk for Jackson Township,,,Nick Sulser,56,12,44
+Wayne,A01 - Allerton,Township Clerk for Jackson Township,,,Write-in,0,0,0
+Wayne,A01 - Allerton,Township Clerk for Jefferson Township,,,Norma Bettis,48,16,32
+Wayne,A01 - Allerton,Township Clerk for Jefferson Township,,,Write-in,0,0,0
+Wayne,A01 - Allerton,Township Clerk for Jefferson Township,,Write-In,Sheena Robinson,4,1,3
+Wayne,C02 - Corydon,Township Clerk for Benton Township,,,Denise Goben,75,31,44
+Wayne,C02 - Corydon,Township Clerk for Benton Township,,,Write-in,0,0,0
+Wayne,C02 - Corydon,Township Clerk for Corydon Township,,,Brenda Dodson,110,40,70
+Wayne,C02 - Corydon,Township Clerk for Corydon Township,,,Write-in,0,0,0
+Wayne,H03 - Humeston,Township Clerk for Clay Township,,,Write-in,0,0,0
+Wayne,H03 - Humeston,Township Clerk for Clay Township,,Write-In,Eric Couchman,1,0,1
+Wayne,H03 - Humeston,Township Clerk for Clay Township,,Write-In,Jennifer Couchman,1,0,1
+Wayne,H03 - Humeston,Township Clerk for Clay Township,,Write-In,Logan Wallace,1,0,1
+Wayne,H03 - Humeston,Township Clerk for Clay Township,,Write-In,Brad Bethards,1,0,1
+Wayne,H03 - Humeston,Township Clerk for Clay Township,,Write-In,Chuck McCollough,1,1,0
+Wayne,H03 - Humeston,Township Clerk for Richman Township,,,Jerry Arnold,55,4,51
+Wayne,H03 - Humeston,Township Clerk for Richman Township,,,Write-in,0,0,0
+Wayne,H03 - Humeston,Township Clerk for Union Township,,,Write-in,0,0,0
+Wayne,H03 - Humeston,Township Clerk for Union Township,,Write-In,Jim Fetters,2,1,1
+Wayne,H03 - Humeston,Township Clerk for Union Township,,Write-In,Dean Lain,1,0,1
+Wayne,H03 - Humeston,Township Clerk for Washington Township,,,Janell Boor,81,24,57
+Wayne,H03 - Humeston,Township Clerk for Washington Township,,,Write-in,1,0,1
+Wayne,S04 - Seymour,Township Clerk for Monroe Township,,,Stacey Westphal,16,5,11
+Wayne,S04 - Seymour,Township Clerk for Monroe Township,,,Write-in,0,0,0
+Wayne,S04 - Seymour,Township Clerk for South Fork Township,,,Lisa Kent,82,17,65
+Wayne,S04 - Seymour,Township Clerk for South Fork Township,,,Write-in,0,0,0
+Wayne,S04 - Seymour,Township Clerk for Walnut Township,,,Ray Cook,51,11,40
+Wayne,S04 - Seymour,Township Clerk for Walnut Township,,,Write-in,0,0,0
+Wayne,S04 - Seymour,Township Clerk for Wright Township,,,Angie Carpenter,92,29,63
+Wayne,S04 - Seymour,Township Clerk for Wright Township,,,Write-in,3,2,1
+Wayne,A01 - Allerton,Township Clerk for Warren Township,,,Jean Wampler,56,12,44
+Wayne,A01 - Allerton,Township Clerk for Warren Township,,,Write-in,1,0,1
+Wayne,A01 - Allerton,County Public Hospital Trustees,,,Darrell Cook,344,68,276
+Wayne,C02 - Corydon,County Public Hospital Trustees,,,Darrell Cook,456,159,297
+Wayne,H03 - Humeston,County Public Hospital Trustees,,,Darrell Cook,297,79,218
+Wayne,S04 - Seymour,County Public Hospital Trustees,,,Darrell Cook,275,64,211
+Wayne,A01 - Allerton,County Public Hospital Trustees,,,Donna K. Donald,390,77,313
+Wayne,C02 - Corydon,County Public Hospital Trustees,,,Donna K. Donald,538,195,343
+Wayne,H03 - Humeston,County Public Hospital Trustees,,,Donna K. Donald,326,90,236
+Wayne,S04 - Seymour,County Public Hospital Trustees,,,Donna K. Donald,328,84,244
+Wayne,A01 - Allerton,County Public Hospital Trustees,,,Devin Rodgers,349,74,275
+Wayne,C02 - Corydon,County Public Hospital Trustees,,,Devin Rodgers,492,178,314
+Wayne,H03 - Humeston,County Public Hospital Trustees,,,Devin Rodgers,296,83,213
+Wayne,S04 - Seymour,County Public Hospital Trustees,,,Devin Rodgers,281,64,217
+Wayne,A01 - Allerton,County Public Hospital Trustees,,,Jill A. Tueth,359,74,285
+Wayne,C02 - Corydon,County Public Hospital Trustees,,,Jill A. Tueth,481,172,309
+Wayne,H03 - Humeston,County Public Hospital Trustees,,,Jill A. Tueth,391,96,295
+Wayne,S04 - Seymour,County Public Hospital Trustees,,,Jill A. Tueth,287,72,215
+Wayne,A01 - Allerton,County Public Hospital Trustees,,,DeWayne Watters,372,78,294
+Wayne,C02 - Corydon,County Public Hospital Trustees,,,DeWayne Watters,492,174,318
+Wayne,H03 - Humeston,County Public Hospital Trustees,,,DeWayne Watters,306,83,223
+Wayne,S04 - Seymour,County Public Hospital Trustees,,,DeWayne Watters,321,67,254
+Wayne,A01 - Allerton,County Public Hospital Trustees,,,Write-in,16,0,16
+Wayne,C02 - Corydon,County Public Hospital Trustees,,,Write-in,5,2,3
+Wayne,H03 - Humeston,County Public Hospital Trustees,,,Write-in,2,0,2
+Wayne,S04 - Seymour,County Public Hospital Trustees,,,Write-in,7,1,6
+Wayne,A01 - Allerton,Soil and Water Conservation District Commissioners,,,Hubert A. Staggs,403,89,314
+Wayne,C02 - Corydon,Soil and Water Conservation District Commissioners,,,Hubert A. Staggs,541,195,346
+Wayne,H03 - Humeston,Soil and Water Conservation District Commissioners,,,Hubert A. Staggs,364,92,272
+Wayne,S04 - Seymour,Soil and Water Conservation District Commissioners,,,Hubert A. Staggs,396,85,311
+Wayne,A01 - Allerton,Soil and Water Conservation District Commissioners,,,Mary Ellen Miller,340,73,267
+Wayne,C02 - Corydon,Soil and Water Conservation District Commissioners,,,Mary Ellen Miller,488,187,301
+Wayne,H03 - Humeston,Soil and Water Conservation District Commissioners,,,Mary Ellen Miller,324,84,240
+Wayne,S04 - Seymour,Soil and Water Conservation District Commissioners,,,Mary Ellen Miller,286,63,223
+Wayne,A01 - Allerton,Soil and Water Conservation District Commissioners,,,Write-in,26,0,26
+Wayne,C02 - Corydon,Soil and Water Conservation District Commissioners,,,Write-in,10,1,9
+Wayne,H03 - Humeston,Soil and Water Conservation District Commissioners,,,Write-in,1,1,0
+Wayne,S04 - Seymour,Soil and Water Conservation District Commissioners,,,Write-in,9,0,9
+Wayne,A01 - Allerton,Soil and Water Conservation District Commissioners To Fill Vacancy,,,Jason Gradeless,429,86,343
+Wayne,C02 - Corydon,Soil and Water Conservation District Commissioners To Fill Vacancy,,,Jason Gradeless,568,202,366
+Wayne,H03 - Humeston,Soil and Water Conservation District Commissioners To Fill Vacancy,,,Jason Gradeless,391,97,294
+Wayne,S04 - Seymour,Soil and Water Conservation District Commissioners To Fill Vacancy,,,Jason Gradeless,354,76,278
+Wayne,A01 - Allerton,Soil and Water Conservation District Commissioners To Fill Vacancy,,,Write-in,3,0,3
+Wayne,C02 - Corydon,Soil and Water Conservation District Commissioners To Fill Vacancy,,,Write-in,2,1,1
+Wayne,H03 - Humeston,Soil and Water Conservation District Commissioners To Fill Vacancy,,,Write-in,1,0,1
+Wayne,S04 - Seymour,Soil and Water Conservation District Commissioners To Fill Vacancy,,,Write-in,6,0,6
+Wayne,A01 - Allerton,County Agricultural Extension Council Members,,,Dave Daughton,431,84,347
+Wayne,C02 - Corydon,County Agricultural Extension Council Members,,,Dave Daughton,572,199,373
+Wayne,H03 - Humeston,County Agricultural Extension Council Members,,,Dave Daughton,380,99,281
+Wayne,S04 - Seymour,County Agricultural Extension Council Members,,,Dave Daughton,329,75,254
+Wayne,A01 - Allerton,County Agricultural Extension Council Members,,,Sarah Franzkowiak,330,70,260
+Wayne,C02 - Corydon,County Agricultural Extension Council Members,,,Sarah Franzkowiak,448,161,287
+Wayne,H03 - Humeston,County Agricultural Extension Council Members,,,Sarah Franzkowiak,318,85,233
+Wayne,S04 - Seymour,County Agricultural Extension Council Members,,,Sarah Franzkowiak,264,69,195
+Wayne,A01 - Allerton,County Agricultural Extension Council Members,,,Kristy Knutson,351,70,281
+Wayne,C02 - Corydon,County Agricultural Extension Council Members,,,Kristy Knutson,490,177,313
+Wayne,H03 - Humeston,County Agricultural Extension Council Members,,,Kristy Knutson,326,90,236
+Wayne,S04 - Seymour,County Agricultural Extension Council Members,,,Kristy Knutson,280,66,214
+Wayne,A01 - Allerton,County Agricultural Extension Council Members,,,Nicole Lutz-Polsdofer,343,74,269
+Wayne,C02 - Corydon,County Agricultural Extension Council Members,,,Nicole Lutz-Polsdofer,486,166,320
+Wayne,H03 - Humeston,County Agricultural Extension Council Members,,,Nicole Lutz-Polsdofer,306,81,225
+Wayne,S04 - Seymour,County Agricultural Extension Council Members,,,Nicole Lutz-Polsdofer,275,65,210
+Wayne,A01 - Allerton,County Agricultural Extension Council Members,,,Lindsey Westphal,373,81,292
+Wayne,C02 - Corydon,County Agricultural Extension Council Members,,,Lindsey Westphal,476,166,310
+Wayne,H03 - Humeston,County Agricultural Extension Council Members,,,Lindsey Westphal,310,87,223
+Wayne,S04 - Seymour,County Agricultural Extension Council Members,,,Lindsey Westphal,342,72,270
+Wayne,A01 - Allerton,County Agricultural Extension Council Members,,,Write-in,7,0,7
+Wayne,C02 - Corydon,County Agricultural Extension Council Members,,,Write-in,4,0,4
+Wayne,H03 - Humeston,County Agricultural Extension Council Members,,,Write-in,2,0,2
+Wayne,S04 - Seymour,County Agricultural Extension Council Members,,,Write-in,9,0,9
+Wayne,A01 - Allerton,County Agricultural Extension Council Members To Fill Vacancy,,,Mark Winslow,434,84,350
+Wayne,C02 - Corydon,County Agricultural Extension Council Members To Fill Vacancy,,,Mark Winslow,583,209,374
+Wayne,H03 - Humeston,County Agricultural Extension Council Members To Fill Vacancy,,,Mark Winslow,388,96,292
+Wayne,S04 - Seymour,County Agricultural Extension Council Members To Fill Vacancy,,,Mark Winslow,349,81,268
+Wayne,A01 - Allerton,County Agricultural Extension Council Members To Fill Vacancy,,,Write-in,4,0,4
+Wayne,C02 - Corydon,County Agricultural Extension Council Members To Fill Vacancy,,,Write-in,6,3,3
+Wayne,H03 - Humeston,County Agricultural Extension Council Members To Fill Vacancy,,,Write-in,4,1,3
+Wayne,S04 - Seymour,County Agricultural Extension Council Members To Fill Vacancy,,,Write-in,4,1,3
+Wayne,A01 - Allerton,Supreme Court Justice,,,Yes,290,60,230
+Wayne,C02 - Corydon,Supreme Court Justice,,,Yes,454,153,301
+Wayne,H03 - Humeston,Supreme Court Justice,,,Yes,260,59,201
+Wayne,S04 - Seymour,Supreme Court Justice,,,Yes,220,53,167
+Wayne,A01 - Allerton,Supreme Court Justice,,,No,126,22,104
+Wayne,C02 - Corydon,Supreme Court Justice,,,No,133,51,82
+Wayne,H03 - Humeston,Supreme Court Justice,,,No,124,29,95
+Wayne,S04 - Seymour,Supreme Court Justice,,,No,108,19,89
+Wayne,A01 - Allerton,Court of Appeals Judge,,,Yes,295,64,231
+Wayne,C02 - Corydon,Court of Appeals Judge,,,Yes,449,156,293
+Wayne,H03 - Humeston,Court of Appeals Judge,,,Yes,259,55,204
+Wayne,S04 - Seymour,Court of Appeals Judge,,,Yes,213,52,161
+Wayne,A01 - Allerton,Court of Appeals Judge,,,No,120,18,102
+Wayne,C02 - Corydon,Court of Appeals Judge,,,No,115,36,79
+Wayne,H03 - Humeston,Court of Appeals Judge,,,No,117,30,87
+Wayne,S04 - Seymour,Court of Appeals Judge,,,No,110,20,90
+Wayne,A01 - Allerton,District 5B Judge,,,Yes,434,92,342
+Wayne,C02 - Corydon,District 5B Judge,,,Yes,611,226,385
+Wayne,H03 - Humeston,District 5B Judge,,,Yes,382,99,283
+Wayne,S04 - Seymour,District 5B Judge,,,Yes,349,88,261
+Wayne,A01 - Allerton,District 5B Judge,,,No,63,12,51
+Wayne,C02 - Corydon,District 5B Judge,,,No,64,20,44
+Wayne,H03 - Humeston,District 5B Judge,,,No,75,15,60
+Wayne,S04 - Seymour,District 5B Judge,,,No,77,11,66
+Wayne,A01 - Allerton,Constitutional Amendment 1,,,Yes,464,98,366
+Wayne,C02 - Corydon,Constitutional Amendment 1,,,Yes,586,201,385
+Wayne,H03 - Humeston,Constitutional Amendment 1,,,Yes,428,103,325
+Wayne,S04 - Seymour,Constitutional Amendment 1,,,Yes,428,94,334
+Wayne,A01 - Allerton,Constitutional Amendment 1,,,No,68,20,48
+Wayne,C02 - Corydon,Constitutional Amendment 1,,,No,125,63,62
+Wayne,H03 - Humeston,Constitutional Amendment 1,,,No,73,25,48
+Wayne,S04 - Seymour,Constitutional Amendment 1,,,No,70,24,46

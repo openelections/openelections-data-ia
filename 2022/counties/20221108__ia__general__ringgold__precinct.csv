@@ -1,0 +1,443 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Ringgold,Athens,U.S. Senate,,REP,Chuck Grassley,197,40,157
+Ringgold,Clinton,U.S. Senate,,REP,Chuck Grassley,102,29,73
+Ringgold,Mount Ayr 1,U.S. Senate,,REP,Chuck Grassley,323,77,246
+Ringgold,Mount Ayr 2,U.S. Senate,,REP,Chuck Grassley,346,90,256
+Ringgold,Tingley,U.S. Senate,,REP,Chuck Grassley,113,17,96
+Ringgold,Union,U.S. Senate,,REP,Chuck Grassley,129,41,88
+Ringgold,Washington,U.S. Senate,,REP,Chuck Grassley,274,46,228
+Ringgold,Athens,U.S. Senate,,DEM,Michael Franken,53,13,40
+Ringgold,Clinton,U.S. Senate,,DEM,Michael Franken,43,20,23
+Ringgold,Mount Ayr 1,U.S. Senate,,DEM,Michael Franken,154,73,81
+Ringgold,Mount Ayr 2,U.S. Senate,,DEM,Michael Franken,149,69,80
+Ringgold,Tingley,U.S. Senate,,DEM,Michael Franken,16,6,10
+Ringgold,Union,U.S. Senate,,DEM,Michael Franken,76,24,52
+Ringgold,Washington,U.S. Senate,,DEM,Michael Franken,65,23,42
+Ringgold,Athens,U.S. Senate,,,Write-in,1,1,0
+Ringgold,Clinton,U.S. Senate,,,Write-in,0,0,0
+Ringgold,Mount Ayr 1,U.S. Senate,,,Write-in,0,0,0
+Ringgold,Mount Ayr 2,U.S. Senate,,,Write-in,1,1,0
+Ringgold,Tingley,U.S. Senate,,,Write-in,0,0,0
+Ringgold,Union,U.S. Senate,,,Write-in,1,0,1
+Ringgold,Washington,U.S. Senate,,,Write-in,0,0,0
+Ringgold,Athens,U.S. House,3,REP,Zach Nunn,188,38,150
+Ringgold,Clinton,U.S. House,3,REP,Zach Nunn,102,28,74
+Ringgold,Mount Ayr 1,U.S. House,3,REP,Zach Nunn,318,73,245
+Ringgold,Mount Ayr 2,U.S. House,3,REP,Zach Nunn,342,87,255
+Ringgold,Tingley,U.S. House,3,REP,Zach Nunn,104,16,88
+Ringgold,Union,U.S. House,3,REP,Zach Nunn,123,40,83
+Ringgold,Washington,U.S. House,3,REP,Zach Nunn,258,44,214
+Ringgold,Athens,U.S. House,3,DEM,Cindy Axne,63,16,47
+Ringgold,Clinton,U.S. House,3,DEM,Cindy Axne,43,21,22
+Ringgold,Mount Ayr 1,U.S. House,3,DEM,Cindy Axne,158,74,84
+Ringgold,Mount Ayr 2,U.S. House,3,DEM,Cindy Axne,152,73,79
+Ringgold,Tingley,U.S. House,3,DEM,Cindy Axne,24,7,17
+Ringgold,Union,U.S. House,3,DEM,Cindy Axne,81,25,56
+Ringgold,Washington,U.S. House,3,DEM,Cindy Axne,79,24,55
+Ringgold,Athens,U.S. House,3,,Write-in,0,0,0
+Ringgold,Clinton,U.S. House,3,,Write-in,0,0,0
+Ringgold,Mount Ayr 1,U.S. House,3,,Write-in,0,0,0
+Ringgold,Mount Ayr 2,U.S. House,3,,Write-in,0,0,0
+Ringgold,Tingley,U.S. House,3,,Write-in,0,0,0
+Ringgold,Union,U.S. House,3,,Write-in,0,0,0
+Ringgold,Washington,U.S. House,3,,Write-in,0,0,0
+Ringgold,Athens,Governor,,REP,Kim Reynolds and Adam Gregg,202,44,158
+Ringgold,Clinton,Governor,,REP,Kim Reynolds and Adam Gregg,106,30,76
+Ringgold,Mount Ayr 1,Governor,,REP,Kim Reynolds and Adam Gregg,358,94,264
+Ringgold,Mount Ayr 2,Governor,,REP,Kim Reynolds and Adam Gregg,366,101,265
+Ringgold,Tingley,Governor,,REP,Kim Reynolds and Adam Gregg,117,17,100
+Ringgold,Union,Governor,,REP,Kim Reynolds and Adam Gregg,141,44,97
+Ringgold,Washington,Governor,,REP,Kim Reynolds and Adam Gregg,284,52,232
+Ringgold,Athens,Governor,,DEM,Deidre DeJear and Eric Van Lancker,43,8,35
+Ringgold,Clinton,Governor,,DEM,Deidre DeJear and Eric Van Lancker,37,18,19
+Ringgold,Mount Ayr 1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,125,56,69
+Ringgold,Mount Ayr 2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,125,61,64
+Ringgold,Tingley,Governor,,DEM,Deidre DeJear and Eric Van Lancker,12,6,6
+Ringgold,Union,Governor,,DEM,Deidre DeJear and Eric Van Lancker,63,22,41
+Ringgold,Washington,Governor,,DEM,Deidre DeJear and Eric Van Lancker,51,13,38
+Ringgold,Athens,Governor,,LIB,Rick Stewart and Marco Battaglia,7,1,6
+Ringgold,Clinton,Governor,,LIB,Rick Stewart and Marco Battaglia,3,2,1
+Ringgold,Mount Ayr 1,Governor,,LIB,Rick Stewart and Marco Battaglia,5,3,2
+Ringgold,Mount Ayr 2,Governor,,LIB,Rick Stewart and Marco Battaglia,15,6,9
+Ringgold,Tingley,Governor,,LIB,Rick Stewart and Marco Battaglia,2,0,2
+Ringgold,Union,Governor,,LIB,Rick Stewart and Marco Battaglia,5,0,5
+Ringgold,Washington,Governor,,LIB,Rick Stewart and Marco Battaglia,11,4,7
+Ringgold,Athens,Governor,,,Write-in,1,1,0
+Ringgold,Clinton,Governor,,,Write-in,0,0,0
+Ringgold,Mount Ayr 1,Governor,,,Write-in,0,0,0
+Ringgold,Mount Ayr 2,Governor,,,Write-in,1,0,1
+Ringgold,Tingley,Governor,,,Write-in,0,0,0
+Ringgold,Union,Governor,,,Write-in,0,0,0
+Ringgold,Washington,Governor,,,Write-in,0,0,0
+Ringgold,Athens,Secretary of State,,REP,Paul D. Pate,202,44,158
+Ringgold,Clinton,Secretary of State,,REP,Paul D. Pate,113,33,80
+Ringgold,Mount Ayr 1,Secretary of State,,REP,Paul D. Pate,372,99,273
+Ringgold,Mount Ayr 2,Secretary of State,,REP,Paul D. Pate,365,101,264
+Ringgold,Tingley,Secretary of State,,REP,Paul D. Pate,113,15,98
+Ringgold,Union,Secretary of State,,REP,Paul D. Pate,146,45,101
+Ringgold,Washington,Secretary of State,,REP,Paul D. Pate,288,53,235
+Ringgold,Athens,Secretary of State,,DEM,Joel Miller,45,8,37
+Ringgold,Clinton,Secretary of State,,DEM,Joel Miller,31,15,16
+Ringgold,Mount Ayr 1,Secretary of State,,DEM,Joel Miller,107,50,57
+Ringgold,Mount Ayr 2,Secretary of State,,DEM,Joel Miller,126,61,65
+Ringgold,Tingley,Secretary of State,,DEM,Joel Miller,18,8,10
+Ringgold,Union,Secretary of State,,DEM,Joel Miller,56,20,36
+Ringgold,Washington,Secretary of State,,DEM,Joel Miller,48,15,33
+Ringgold,Athens,Secretary of State,,,Write-in,1,1,0
+Ringgold,Clinton,Secretary of State,,,Write-in,0,0,0
+Ringgold,Mount Ayr 1,Secretary of State,,,Write-in,0,0,0
+Ringgold,Mount Ayr 2,Secretary of State,,,Write-in,0,0,0
+Ringgold,Tingley,Secretary of State,,,Write-in,0,0,0
+Ringgold,Union,Secretary of State,,,Write-in,0,0,0
+Ringgold,Washington,Secretary of State,,,Write-in,0,0,0
+Ringgold,Athens,Auditor of State,,REP,Todd Halbur,163,32,131
+Ringgold,Clinton,Auditor of State,,REP,Todd Halbur,90,25,65
+Ringgold,Mount Ayr 1,Auditor of State,,REP,Todd Halbur,274,67,207
+Ringgold,Mount Ayr 2,Auditor of State,,REP,Todd Halbur,294,78,216
+Ringgold,Tingley,Auditor of State,,REP,Todd Halbur,89,12,77
+Ringgold,Union,Auditor of State,,REP,Todd Halbur,113,41,72
+Ringgold,Washington,Auditor of State,,REP,Todd Halbur,217,37,180
+Ringgold,Athens,Auditor of State,,DEM,Rob Sand,85,21,64
+Ringgold,Clinton,Auditor of State,,DEM,Rob Sand,55,24,31
+Ringgold,Mount Ayr 1,Auditor of State,,DEM,Rob Sand,201,81,120
+Ringgold,Mount Ayr 2,Auditor of State,,DEM,Rob Sand,201,84,117
+Ringgold,Tingley,Auditor of State,,DEM,Rob Sand,38,8,30
+Ringgold,Union,Auditor of State,,DEM,Rob Sand,92,25,67
+Ringgold,Washington,Auditor of State,,DEM,Rob Sand,118,31,87
+Ringgold,Athens,Auditor of State,,,Write-in,0,0,0
+Ringgold,Clinton,Auditor of State,,,Write-in,0,0,0
+Ringgold,Mount Ayr 1,Auditor of State,,,Write-in,0,0,0
+Ringgold,Mount Ayr 2,Auditor of State,,,Write-in,0,0,0
+Ringgold,Tingley,Auditor of State,,,Write-in,0,0,0
+Ringgold,Union,Auditor of State,,,Write-in,0,0,0
+Ringgold,Washington,Auditor of State,,,Write-in,0,0,0
+Ringgold,Athens,Treasurer of State,,REP,Roby Smith,174,35,139
+Ringgold,Clinton,Treasurer of State,,REP,Roby Smith,90,25,65
+Ringgold,Mount Ayr 1,Treasurer of State,,REP,Roby Smith,282,61,221
+Ringgold,Mount Ayr 2,Treasurer of State,,REP,Roby Smith,295,70,225
+Ringgold,Tingley,Treasurer of State,,REP,Roby Smith,99,14,85
+Ringgold,Union,Treasurer of State,,REP,Roby Smith,117,39,78
+Ringgold,Washington,Treasurer of State,,REP,Roby Smith,228,40,188
+Ringgold,Athens,Treasurer of State,,DEM,Michael L. Fitzgerald,71,17,54
+Ringgold,Clinton,Treasurer of State,,DEM,Michael L. Fitzgerald,53,23,30
+Ringgold,Mount Ayr 1,Treasurer of State,,DEM,Michael L. Fitzgerald,187,85,102
+Ringgold,Mount Ayr 2,Treasurer of State,,DEM,Michael L. Fitzgerald,197,92,105
+Ringgold,Tingley,Treasurer of State,,DEM,Michael L. Fitzgerald,28,7,21
+Ringgold,Union,Treasurer of State,,DEM,Michael L. Fitzgerald,88,27,61
+Ringgold,Washington,Treasurer of State,,DEM,Michael L. Fitzgerald,110,28,82
+Ringgold,Athens,Treasurer of State,,,Write-in,0,0,0
+Ringgold,Clinton,Treasurer of State,,,Write-in,0,0,0
+Ringgold,Mount Ayr 1,Treasurer of State,,,Write-in,0,0,0
+Ringgold,Mount Ayr 2,Treasurer of State,,,Write-in,0,0,0
+Ringgold,Tingley,Treasurer of State,,,Write-in,0,0,0
+Ringgold,Union,Treasurer of State,,,Write-in,0,0,0
+Ringgold,Washington,Treasurer of State,,,Write-in,0,0,0
+Ringgold,Athens,Secretary of Agriculture,,REP,Mike Naig,201,40,161
+Ringgold,Clinton,Secretary of Agriculture,,REP,Mike Naig,114,36,78
+Ringgold,Mount Ayr 1,Secretary of Agriculture,,REP,Mike Naig,368,96,272
+Ringgold,Mount Ayr 2,Secretary of Agriculture,,REP,Mike Naig,369,102,267
+Ringgold,Tingley,Secretary of Agriculture,,REP,Mike Naig,115,16,99
+Ringgold,Union,Secretary of Agriculture,,REP,Mike Naig,147,46,101
+Ringgold,Washington,Secretary of Agriculture,,REP,Mike Naig,294,55,239
+Ringgold,Athens,Secretary of Agriculture,,DEM,John Norwood,47,11,36
+Ringgold,Clinton,Secretary of Agriculture,,DEM,John Norwood,31,13,18
+Ringgold,Mount Ayr 1,Secretary of Agriculture,,DEM,John Norwood,111,53,58
+Ringgold,Mount Ayr 2,Secretary of Agriculture,,DEM,John Norwood,127,60,67
+Ringgold,Tingley,Secretary of Agriculture,,DEM,John Norwood,11,5,6
+Ringgold,Union,Secretary of Agriculture,,DEM,John Norwood,59,20,39
+Ringgold,Washington,Secretary of Agriculture,,DEM,John Norwood,47,13,34
+Ringgold,Athens,Secretary of Agriculture,,,Write-in,1,1,0
+Ringgold,Clinton,Secretary of Agriculture,,,Write-in,0,0,0
+Ringgold,Mount Ayr 1,Secretary of Agriculture,,,Write-in,1,1,0
+Ringgold,Mount Ayr 2,Secretary of Agriculture,,,Write-in,0,0,0
+Ringgold,Tingley,Secretary of Agriculture,,,Write-in,0,0,0
+Ringgold,Union,Secretary of Agriculture,,,Write-in,1,0,1
+Ringgold,Washington,Secretary of Agriculture,,,Write-in,0,0,0
+Ringgold,Athens,Attorney General,,REP,Brenna Bird,175,35,140
+Ringgold,Clinton,Attorney General,,REP,Brenna Bird,96,25,71
+Ringgold,Mount Ayr 1,Attorney General,,REP,Brenna Bird,290,62,228
+Ringgold,Mount Ayr 2,Attorney General,,REP,Brenna Bird,288,65,223
+Ringgold,Tingley,Attorney General,,REP,Brenna Bird,98,13,85
+Ringgold,Union,Attorney General,,REP,Brenna Bird,110,33,77
+Ringgold,Washington,Attorney General,,REP,Brenna Bird,230,35,195
+Ringgold,Athens,Attorney General,,DEM,Tom Miller,74,19,55
+Ringgold,Clinton,Attorney General,,DEM,Tom Miller,49,24,25
+Ringgold,Mount Ayr 1,Attorney General,,DEM,Tom Miller,191,89,102
+Ringgold,Mount Ayr 2,Attorney General,,DEM,Tom Miller,206,96,110
+Ringgold,Tingley,Attorney General,,DEM,Tom Miller,32,10,22
+Ringgold,Union,Attorney General,,DEM,Tom Miller,97,32,65
+Ringgold,Washington,Attorney General,,DEM,Tom Miller,109,33,76
+Ringgold,Athens,Attorney General,,,Write-in,0,0,0
+Ringgold,Clinton,Attorney General,,,Write-in,0,0,0
+Ringgold,Mount Ayr 1,Attorney General,,,Write-in,1,0,1
+Ringgold,Mount Ayr 2,Attorney General,,,Write-in,0,0,0
+Ringgold,Tingley,Attorney General,,,Write-in,0,0,0
+Ringgold,Union,Attorney General,,,Write-in,0,0,0
+Ringgold,Washington,Attorney General,,,Write-in,0,0,0
+Ringgold,Athens,State Senate,9,REP,Tom Shipley,198,43,155
+Ringgold,Clinton,State Senate,9,REP,Tom Shipley,107,29,78
+Ringgold,Mount Ayr 1,State Senate,9,REP,Tom Shipley,353,89,264
+Ringgold,Mount Ayr 2,State Senate,9,REP,Tom Shipley,366,99,267
+Ringgold,Tingley,State Senate,9,REP,Tom Shipley,115,17,98
+Ringgold,Union,State Senate,9,REP,Tom Shipley,135,42,93
+Ringgold,Washington,State Senate,9,REP,Tom Shipley,288,49,239
+Ringgold,Athens,State Senate,9,DEM,Tripp Narup,44,9,35
+Ringgold,Clinton,State Senate,9,DEM,Tripp Narup,38,20,18
+Ringgold,Mount Ayr 1,State Senate,9,DEM,Tripp Narup,117,56,61
+Ringgold,Mount Ayr 2,State Senate,9,DEM,Tripp Narup,122,55,67
+Ringgold,Tingley,State Senate,9,DEM,Tripp Narup,9,2,7
+Ringgold,Union,State Senate,9,DEM,Tripp Narup,66,23,43
+Ringgold,Washington,State Senate,9,DEM,Tripp Narup,51,18,33
+Ringgold,Athens,State Senate,9,,Write-in,0,0,0
+Ringgold,Clinton,State Senate,9,,Write-in,0,0,0
+Ringgold,Mount Ayr 1,State Senate,9,,Write-in,0,0,0
+Ringgold,Mount Ayr 2,State Senate,9,,Write-in,0,0,0
+Ringgold,Tingley,State Senate,9,,Write-in,0,0,0
+Ringgold,Union,State Senate,9,,Write-in,0,0,0
+Ringgold,Washington,State Senate,9,,Write-in,0,0,0
+Ringgold,Athens,State House,17,REP,Devon Wood,195,40,155
+Ringgold,Clinton,State House,17,REP,Devon Wood,113,31,82
+Ringgold,Mount Ayr 1,State House,17,REP,Devon Wood,365,91,274
+Ringgold,Mount Ayr 2,State House,17,REP,Devon Wood,376,105,271
+Ringgold,Tingley,State House,17,REP,Devon Wood,111,17,94
+Ringgold,Union,State House,17,REP,Devon Wood,127,42,85
+Ringgold,Washington,State House,17,REP,Devon Wood,277,48,229
+Ringgold,Athens,State House,17,DEM,Pat Shipley,53,12,41
+Ringgold,Clinton,State House,17,DEM,Pat Shipley,32,18,14
+Ringgold,Mount Ayr 1,State House,17,DEM,Pat Shipley,117,57,60
+Ringgold,Mount Ayr 2,State House,17,DEM,Pat Shipley,125,56,69
+Ringgold,Tingley,State House,17,DEM,Pat Shipley,16,3,13
+Ringgold,Union,State House,17,DEM,Pat Shipley,75,24,51
+Ringgold,Washington,State House,17,DEM,Pat Shipley,62,19,43
+Ringgold,Athens,State House,17,,Write-in,0,0,0
+Ringgold,Clinton,State House,17,,Write-in,0,0,0
+Ringgold,Mount Ayr 1,State House,17,,Write-in,0,0,0
+Ringgold,Mount Ayr 2,State House,17,,Write-in,0,0,0
+Ringgold,Tingley,State House,17,,Write-in,0,0,0
+Ringgold,Union,State House,17,,Write-in,0,0,0
+Ringgold,Washington,State House,17,,Write-in,0,0,0
+Ringgold,Athens,County Board of Supervisors At Large,,REP,Randy Taylor,235,49,186
+Ringgold,Clinton,County Board of Supervisors At Large,,REP,Randy Taylor,139,45,94
+Ringgold,Mount Ayr 1,County Board of Supervisors At Large,,REP,Randy Taylor,454,132,322
+Ringgold,Mount Ayr 2,County Board of Supervisors At Large,,REP,Randy Taylor,466,146,320
+Ringgold,Tingley,County Board of Supervisors At Large,,REP,Randy Taylor,124,19,105
+Ringgold,Union,County Board of Supervisors At Large,,REP,Randy Taylor,181,55,126
+Ringgold,Washington,County Board of Supervisors At Large,,REP,Randy Taylor,322,61,261
+Ringgold,Athens,County Board of Supervisors At Large,,,Write-in,4,1,3
+Ringgold,Clinton,County Board of Supervisors At Large,,,Write-in,3,0,3
+Ringgold,Mount Ayr 1,County Board of Supervisors At Large,,,Write-in,6,0,6
+Ringgold,Mount Ayr 2,County Board of Supervisors At Large,,,Write-in,4,1,3
+Ringgold,Tingley,County Board of Supervisors At Large,,,Write-in,1,1,0
+Ringgold,Union,County Board of Supervisors At Large,,,Write-in,4,2,2
+Ringgold,Washington,County Board of Supervisors At Large,,,Write-in,2,0,2
+Ringgold,Athens,County Treasurer,,REP,Debra A. Cannon,242,51,191
+Ringgold,Clinton,County Treasurer,,REP,Debra A. Cannon,140,46,94
+Ringgold,Mount Ayr 1,County Treasurer,,REP,Debra A. Cannon,473,142,331
+Ringgold,Mount Ayr 2,County Treasurer,,REP,Debra A. Cannon,480,154,326
+Ringgold,Tingley,County Treasurer,,REP,Debra A. Cannon,128,23,105
+Ringgold,Union,County Treasurer,,REP,Debra A. Cannon,186,56,130
+Ringgold,Washington,County Treasurer,,REP,Debra A. Cannon,332,65,267
+Ringgold,Athens,County Treasurer,,,Write-in,2,1,1
+Ringgold,Clinton,County Treasurer,,,Write-in,1,0,1
+Ringgold,Mount Ayr 1,County Treasurer,,,Write-in,0,0,0
+Ringgold,Mount Ayr 2,County Treasurer,,,Write-in,1,0,1
+Ringgold,Tingley,County Treasurer,,,Write-in,0,0,0
+Ringgold,Union,County Treasurer,,,Write-in,1,1,0
+Ringgold,Washington,County Treasurer,,,Write-in,1,0,1
+Ringgold,Athens,County Recorder,,DEM,Kisha Martin,196,34,162
+Ringgold,Clinton,County Recorder,,DEM,Kisha Martin,115,37,78
+Ringgold,Mount Ayr 1,County Recorder,,DEM,Kisha Martin,429,138,291
+Ringgold,Mount Ayr 2,County Recorder,,DEM,Kisha Martin,436,143,293
+Ringgold,Tingley,County Recorder,,DEM,Kisha Martin,101,14,87
+Ringgold,Union,County Recorder,,DEM,Kisha Martin,164,47,117
+Ringgold,Washington,County Recorder,,DEM,Kisha Martin,296,53,243
+Ringgold,Athens,County Recorder,,,Write-in,7,3,4
+Ringgold,Clinton,County Recorder,,,Write-in,5,1,4
+Ringgold,Mount Ayr 1,County Recorder,,,Write-in,4,2,2
+Ringgold,Mount Ayr 2,County Recorder,,,Write-in,4,3,1
+Ringgold,Tingley,County Recorder,,,Write-in,2,1,1
+Ringgold,Union,County Recorder,,,Write-in,1,0,1
+Ringgold,Washington,County Recorder,,,Write-in,8,3,5
+Ringgold,Athens,County Attorney,,REP,Clinton L. Spurrier,221,48,173
+Ringgold,Clinton,County Attorney,,REP,Clinton L. Spurrier,131,43,88
+Ringgold,Mount Ayr 1,County Attorney,,REP,Clinton L. Spurrier,444,133,311
+Ringgold,Mount Ayr 2,County Attorney,,REP,Clinton L. Spurrier,442,136,306
+Ringgold,Tingley,County Attorney,,REP,Clinton L. Spurrier,117,20,97
+Ringgold,Union,County Attorney,,REP,Clinton L. Spurrier,181,55,126
+Ringgold,Washington,County Attorney,,REP,Clinton L. Spurrier,313,60,253
+Ringgold,Athens,County Attorney,,,Write-in,6,1,5
+Ringgold,Clinton,County Attorney,,,Write-in,3,0,3
+Ringgold,Mount Ayr 1,County Attorney,,,Write-in,5,0,5
+Ringgold,Mount Ayr 2,County Attorney,,,Write-in,3,0,3
+Ringgold,Tingley,County Attorney,,,Write-in,2,0,2
+Ringgold,Union,County Attorney,,,Write-in,0,0,0
+Ringgold,Washington,County Attorney,,,Write-in,3,0,3
+Ringgold,Washington,Grant Township Trustee,,,Write-in,10,0,10
+Ringgold,Washington,Grant Township Trustee,,,Ryan Bailey,4,0,4
+Ringgold,Washington,Grant Township Clerk,,,Write-in,6,0,6
+Ringgold,Washington,Grant Township Clerk,,,Tammy Rychnovsky,4,0,4
+Ringgold,Mount Ayr 1,Lotts Creek Township Trustee,,,Danny Karr,34,12,22
+Ringgold,Mount Ayr 1,Lotts Creek Township Trustee,,,Write-in,2,0,2
+Ringgold,Mount Ayr 1,Lotts Creek Township Clerk,,,Stacy Jones,38,13,25
+Ringgold,Mount Ayr 1,Lotts Creek Township Clerk,,,Write-in,0,0,0
+Ringgold,Union,Union Township Trustee,,,Kevin Greenland,155,49,106
+Ringgold,Union,Union Township Trustee,,,Write-in,0,0,0
+Ringgold,Union,Union Township Clerk,,,Angela Slee Hynek,152,48,104
+Ringgold,Union,Union Township Clerk,,,Write-in,0,0,0
+Ringgold,Athens,Hospital Trustee,,,Kimberly Bishop,171,31,140
+Ringgold,Clinton,Hospital Trustee,,,Kimberly Bishop,110,36,74
+Ringgold,Mount Ayr 1,Hospital Trustee,,,Kimberly Bishop,374,118,256
+Ringgold,Mount Ayr 2,Hospital Trustee,,,Kimberly Bishop,382,120,262
+Ringgold,Tingley,Hospital Trustee,,,Kimberly Bishop,87,10,77
+Ringgold,Union,Hospital Trustee,,,Kimberly Bishop,128,41,87
+Ringgold,Washington,Hospital Trustee,,,Kimberly Bishop,262,47,215
+Ringgold,Athens,Hospital Trustee,,,Christopher Elwood,163,30,133
+Ringgold,Clinton,Hospital Trustee,,,Christopher Elwood,111,39,72
+Ringgold,Mount Ayr 1,Hospital Trustee,,,Christopher Elwood,366,113,253
+Ringgold,Mount Ayr 2,Hospital Trustee,,,Christopher Elwood,355,108,247
+Ringgold,Tingley,Hospital Trustee,,,Christopher Elwood,81,12,69
+Ringgold,Union,Hospital Trustee,,,Christopher Elwood,126,39,87
+Ringgold,Washington,Hospital Trustee,,,Christopher Elwood,238,36,202
+Ringgold,Athens,Hospital Trustee,,,Mike Hopkins,151,30,121
+Ringgold,Clinton,Hospital Trustee,,,Mike Hopkins,97,38,59
+Ringgold,Mount Ayr 1,Hospital Trustee,,,Mike Hopkins,302,96,206
+Ringgold,Mount Ayr 2,Hospital Trustee,,,Mike Hopkins,307,98,209
+Ringgold,Tingley,Hospital Trustee,,,Mike Hopkins,73,11,62
+Ringgold,Union,Hospital Trustee,,,Mike Hopkins,142,49,93
+Ringgold,Washington,Hospital Trustee,,,Mike Hopkins,229,38,191
+Ringgold,Athens,Hospital Trustee,,,Greg Jobe,171,34,137
+Ringgold,Clinton,Hospital Trustee,,,Greg Jobe,106,39,67
+Ringgold,Mount Ayr 1,Hospital Trustee,,,Greg Jobe,349,107,242
+Ringgold,Mount Ayr 2,Hospital Trustee,,,Greg Jobe,352,112,240
+Ringgold,Tingley,Hospital Trustee,,,Greg Jobe,83,12,71
+Ringgold,Union,Hospital Trustee,,,Greg Jobe,163,52,111
+Ringgold,Washington,Hospital Trustee,,,Greg Jobe,261,44,217
+Ringgold,Athens,Hospital Trustee,,,Karleen Stephens,161,31,130
+Ringgold,Clinton,Hospital Trustee,,,Karleen Stephens,106,41,65
+Ringgold,Mount Ayr 1,Hospital Trustee,,,Karleen Stephens,346,114,232
+Ringgold,Mount Ayr 2,Hospital Trustee,,,Karleen Stephens,361,122,239
+Ringgold,Tingley,Hospital Trustee,,,Karleen Stephens,83,16,67
+Ringgold,Union,Hospital Trustee,,,Karleen Stephens,130,41,89
+Ringgold,Washington,Hospital Trustee,,,Karleen Stephens,267,51,216
+Ringgold,Athens,Hospital Trustee,,,Write-in,6,6,0
+Ringgold,Clinton,Hospital Trustee,,,Write-in,1,0,1
+Ringgold,Mount Ayr 1,Hospital Trustee,,,Write-in,8,1,7
+Ringgold,Mount Ayr 2,Hospital Trustee,,,Write-in,3,0,3
+Ringgold,Tingley,Hospital Trustee,,,Write-in,2,2,0
+Ringgold,Union,Hospital Trustee,,,Write-in,2,1,1
+Ringgold,Washington,Hospital Trustee,,,Write-in,3,0,3
+Ringgold,Athens,Soil and Water Conservation District Commissioner,,,Joyce Frost,203,37,166
+Ringgold,Clinton,Soil and Water Conservation District Commissioner,,,Joyce Frost,109,38,71
+Ringgold,Mount Ayr 1,Soil and Water Conservation District Commissioner,,,Joyce Frost,405,121,284
+Ringgold,Mount Ayr 2,Soil and Water Conservation District Commissioner,,,Joyce Frost,409,128,281
+Ringgold,Tingley,Soil and Water Conservation District Commissioner,,,Joyce Frost,106,16,90
+Ringgold,Union,Soil and Water Conservation District Commissioner,,,Joyce Frost,149,43,106
+Ringgold,Washington,Soil and Water Conservation District Commissioner,,,Joyce Frost,287,47,240
+Ringgold,Athens,Soil and Water Conservation District Commissioner,,,Vickie Jeanes,152,34,118
+Ringgold,Clinton,Soil and Water Conservation District Commissioner,,,Vickie Jeanes,102,40,62
+Ringgold,Mount Ayr 1,Soil and Water Conservation District Commissioner,,,Vickie Jeanes,321,100,221
+Ringgold,Mount Ayr 2,Soil and Water Conservation District Commissioner,,,Vickie Jeanes,343,113,230
+Ringgold,Tingley,Soil and Water Conservation District Commissioner,,,Vickie Jeanes,85,15,70
+Ringgold,Union,Soil and Water Conservation District Commissioner,,,Vickie Jeanes,131,41,90
+Ringgold,Washington,Soil and Water Conservation District Commissioner,,,Vickie Jeanes,217,43,174
+Ringgold,Athens,Soil and Water Conservation District Commissioner,,,Write-in,5,3,2
+Ringgold,Clinton,Soil and Water Conservation District Commissioner,,,Write-in,2,1,1
+Ringgold,Mount Ayr 1,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Ringgold,Mount Ayr 2,Soil and Water Conservation District Commissioner,,,Write-in,2,1,1
+Ringgold,Tingley,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Ringgold,Union,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Ringgold,Washington,Soil and Water Conservation District Commissioner,,,Write-in,3,1,2
+Ringgold,Athens,County Agricultural Extension Council Member,,,Jenifer Breneman,170,36,134
+Ringgold,Clinton,County Agricultural Extension Council Member,,,Jenifer Breneman,113,38,75
+Ringgold,Mount Ayr 1,County Agricultural Extension Council Member,,,Jenifer Breneman,372,119,253
+Ringgold,Mount Ayr 2,County Agricultural Extension Council Member,,,Jenifer Breneman,388,123,265
+Ringgold,Tingley,County Agricultural Extension Council Member,,,Jenifer Breneman,93,13,80
+Ringgold,Union,County Agricultural Extension Council Member,,,Jenifer Breneman,123,37,86
+Ringgold,Washington,County Agricultural Extension Council Member,,,Jenifer Breneman,261,46,215
+Ringgold,Athens,County Agricultural Extension Council Member,,,Adam Triggs,177,37,140
+Ringgold,Clinton,County Agricultural Extension Council Member,,,Adam Triggs,102,37,65
+Ringgold,Mount Ayr 1,County Agricultural Extension Council Member,,,Adam Triggs,361,109,252
+Ringgold,Mount Ayr 2,County Agricultural Extension Council Member,,,Adam Triggs,361,115,246
+Ringgold,Tingley,County Agricultural Extension Council Member,,,Adam Triggs,100,18,82
+Ringgold,Union,County Agricultural Extension Council Member,,,Adam Triggs,131,36,95
+Ringgold,Washington,County Agricultural Extension Council Member,,,Adam Triggs,267,45,222
+Ringgold,Athens,County Agricultural Extension Council Member,,,Joshua L. Waske,159,32,127
+Ringgold,Clinton,County Agricultural Extension Council Member,,,Joshua L. Waske,104,36,68
+Ringgold,Mount Ayr 1,County Agricultural Extension Council Member,,,Joshua L. Waske,344,111,233
+Ringgold,Mount Ayr 2,County Agricultural Extension Council Member,,,Joshua L. Waske,348,116,232
+Ringgold,Tingley,County Agricultural Extension Council Member,,,Joshua L. Waske,83,13,70
+Ringgold,Union,County Agricultural Extension Council Member,,,Joshua L. Waske,133,42,91
+Ringgold,Washington,County Agricultural Extension Council Member,,,Joshua L. Waske,259,44,215
+Ringgold,Athens,County Agricultural Extension Council Member,,,Write-in,18,6,12
+Ringgold,Clinton,County Agricultural Extension Council Member,,,Write-in,9,5,4
+Ringgold,Mount Ayr 1,County Agricultural Extension Council Member,,,Write-in,11,0,11
+Ringgold,Mount Ayr 2,County Agricultural Extension Council Member,,,Write-in,17,3,14
+Ringgold,Tingley,County Agricultural Extension Council Member,,,Write-in,9,2,7
+Ringgold,Union,County Agricultural Extension Council Member,,,Write-in,6,4,2
+Ringgold,Washington,County Agricultural Extension Council Member,,,Write-in,14,1,13
+Ringgold,Athens,County Agricultural Extension Council Member,,,Logan Stackhouse,5,0,5
+Ringgold,Clinton,County Agricultural Extension Council Member,,,Logan Stackhouse,2,0,2
+Ringgold,Mount Ayr 1,County Agricultural Extension Council Member,,,Logan Stackhouse,4,0,4
+Ringgold,Mount Ayr 2,County Agricultural Extension Council Member,,,Logan Stackhouse,4,0,4
+Ringgold,Tingley,County Agricultural Extension Council Member,,,Logan Stackhouse,2,0,2
+Ringgold,Union,County Agricultural Extension Council Member,,,Logan Stackhouse,1,0,1
+Ringgold,Washington,County Agricultural Extension Council Member,,,Logan Stackhouse,21,1,20
+Ringgold,Union,Rural Improvement Zone Board,,,Michael Cheese,110,41,69
+Ringgold,Union,Rural Improvement Zone Board,,,Bob Weeks,102,40,62
+Ringgold,Union,Rural Improvement Zone Board,,,Write-in,2,1,1
+Ringgold,Athens,Supreme Court Justice,,,Yes,139,31,108
+Ringgold,Clinton,Supreme Court Justice,,,Yes,75,25,50
+Ringgold,Mount Ayr 1,Supreme Court Justice,,,Yes,251,75,176
+Ringgold,Mount Ayr 2,Supreme Court Justice,,,Yes,269,82,187
+Ringgold,Tingley,Supreme Court Justice,,,Yes,60,10,50
+Ringgold,Union,Supreme Court Justice,,,Yes,98,36,62
+Ringgold,Washington,Supreme Court Justice,,,Yes,182,34,148
+Ringgold,Athens,Supreme Court Justice,,,No,58,12,46
+Ringgold,Clinton,Supreme Court Justice,,,No,28,9,19
+Ringgold,Mount Ayr 1,Supreme Court Justice,,,No,125,35,90
+Ringgold,Mount Ayr 2,Supreme Court Justice,,,No,109,40,69
+Ringgold,Tingley,Supreme Court Justice,,,No,33,5,28
+Ringgold,Union,Supreme Court Justice,,,No,38,5,33
+Ringgold,Washington,Supreme Court Justice,,,No,98,20,78
+Ringgold,Athens,Court of Appeals Judge,,,Yes,144,33,111
+Ringgold,Clinton,Court of Appeals Judge,,,Yes,69,23,46
+Ringgold,Mount Ayr 1,Court of Appeals Judge,,,Yes,239,67,172
+Ringgold,Mount Ayr 2,Court of Appeals Judge,,,Yes,261,81,180
+Ringgold,Tingley,Court of Appeals Judge,,,Yes,53,9,44
+Ringgold,Union,Court of Appeals Judge,,,Yes,98,37,61
+Ringgold,Washington,Court of Appeals Judge,,,Yes,171,33,138
+Ringgold,Athens,Court of Appeals Judge,,,No,55,10,45
+Ringgold,Clinton,Court of Appeals Judge,,,No,29,8,21
+Ringgold,Mount Ayr 1,Court of Appeals Judge,,,No,124,35,89
+Ringgold,Mount Ayr 2,Court of Appeals Judge,,,No,101,35,66
+Ringgold,Tingley,Court of Appeals Judge,,,No,35,5,30
+Ringgold,Union,Court of Appeals Judge,,,No,36,4,32
+Ringgold,Washington,Court of Appeals Judge,,,No,103,19,84
+Ringgold,Athens,District 5B Judge,,,Yes,152,34,118
+Ringgold,Clinton,District 5B Judge,,,Yes,73,23,50
+Ringgold,Mount Ayr 1,District 5B Judge,,,Yes,262,82,180
+Ringgold,Mount Ayr 2,District 5B Judge,,,Yes,266,85,181
+Ringgold,Tingley,District 5B Judge,,,Yes,59,9,50
+Ringgold,Union,District 5B Judge,,,Yes,105,39,66
+Ringgold,Washington,District 5B Judge,,,Yes,188,38,150
+Ringgold,Athens,District 5B Judge,,,No,55,12,43
+Ringgold,Clinton,District 5B Judge,,,No,32,10,22
+Ringgold,Mount Ayr 1,District 5B Judge,,,No,112,28,84
+Ringgold,Mount Ayr 2,District 5B Judge,,,No,113,32,81
+Ringgold,Tingley,District 5B Judge,,,No,35,4,31
+Ringgold,Union,District 5B Judge,,,No,37,5,32
+Ringgold,Washington,District 5B Judge,,,No,99,16,83
+Ringgold,Athens,Constitutional Amendment 1,,,Yes,211,46,165
+Ringgold,Clinton,Constitutional Amendment 1,,,Yes,121,36,85
+Ringgold,Mount Ayr 1,Constitutional Amendment 1,,,Yes,381,96,285
+Ringgold,Mount Ayr 2,Constitutional Amendment 1,,,Yes,391,113,278
+Ringgold,Tingley,Constitutional Amendment 1,,,Yes,110,18,92
+Ringgold,Union,Constitutional Amendment 1,,,Yes,145,43,102
+Ringgold,Washington,Constitutional Amendment 1,,,Yes,286,51,235
+Ringgold,Athens,Constitutional Amendment 1,,,No,32,6,26
+Ringgold,Clinton,Constitutional Amendment 1,,,No,18,12,6
+Ringgold,Mount Ayr 1,Constitutional Amendment 1,,,No,92,47,45
+Ringgold,Mount Ayr 2,Constitutional Amendment 1,,,No,91,45,46
+Ringgold,Tingley,Constitutional Amendment 1,,,No,16,4,12
+Ringgold,Union,Constitutional Amendment 1,,,No,56,23,33
+Ringgold,Washington,Constitutional Amendment 1,,,No,40,12,28

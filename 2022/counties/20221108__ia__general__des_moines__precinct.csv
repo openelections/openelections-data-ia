@@ -1,0 +1,914 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Des Moines,PCT 1,U.S. Senate,,DEM,Michael Franken,587,277,310
+Des Moines,PCT 2,U.S. Senate,,DEM,Michael Franken,391,169,222
+Des Moines,PCT 3,U.S. Senate,,DEM,Michael Franken,434,238,196
+Des Moines,PCT 4,U.S. Senate,,DEM,Michael Franken,565,277,288
+Des Moines,PCT 5,U.S. Senate,,DEM,Michael Franken,384,187,197
+Des Moines,PCT 6,U.S. Senate,,DEM,Michael Franken,245,103,142
+Des Moines,PCT 7,U.S. Senate,,DEM,Michael Franken,536,235,301
+Des Moines,PCT 8,U.S. Senate,,DEM,Michael Franken,691,305,386
+Des Moines,PCT BHJ,U.S. Senate,,DEM,Michael Franken,147,80,67
+Des Moines,PCT CC,U.S. Senate,,DEM,Michael Franken,136,67,69
+Des Moines,PCT DM,U.S. Senate,,DEM,Michael Franken,188,52,136
+Des Moines,PCT FM,U.S. Senate,,DEM,Michael Franken,396,228,168
+Des Moines,PCT MYF,U.S. Senate,,DEM,Michael Franken,336,102,234
+Des Moines,PCT PW,U.S. Senate,,DEM,Michael Franken,63,22,41
+Des Moines,PCT TAMA,U.S. Senate,,DEM,Michael Franken,131,73,58
+Des Moines,PCT UNION,U.S. Senate,,DEM,Michael Franken,131,83,48
+Des Moines,PCT WB,U.S. Senate,,DEM,Michael Franken,475,189,286
+Des Moines,PCT 1,U.S. Senate,,REP,Chuck Grassley,629,159,470
+Des Moines,PCT 2,U.S. Senate,,REP,Chuck Grassley,317,74,243
+Des Moines,PCT 3,U.S. Senate,,REP,Chuck Grassley,376,108,268
+Des Moines,PCT 4,U.S. Senate,,REP,Chuck Grassley,581,174,407
+Des Moines,PCT 5,U.S. Senate,,REP,Chuck Grassley,300,63,237
+Des Moines,PCT 6,U.S. Senate,,REP,Chuck Grassley,154,36,118
+Des Moines,PCT 7,U.S. Senate,,REP,Chuck Grassley,457,110,347
+Des Moines,PCT 8,U.S. Senate,,REP,Chuck Grassley,678,156,522
+Des Moines,PCT BHJ,U.S. Senate,,REP,Chuck Grassley,427,83,344
+Des Moines,PCT CC,U.S. Senate,,REP,Chuck Grassley,175,44,131
+Des Moines,PCT DM,U.S. Senate,,REP,Chuck Grassley,484,54,430
+Des Moines,PCT FM,U.S. Senate,,REP,Chuck Grassley,642,181,461
+Des Moines,PCT MYF,U.S. Senate,,REP,Chuck Grassley,862,121,741
+Des Moines,PCT PW,U.S. Senate,,REP,Chuck Grassley,268,29,239
+Des Moines,PCT TAMA,U.S. Senate,,REP,Chuck Grassley,298,85,213
+Des Moines,PCT UNION,U.S. Senate,,REP,Chuck Grassley,239,52,187
+Des Moines,PCT WB,U.S. Senate,,REP,Chuck Grassley,466,90,376
+Des Moines,PCT 1,U.S. Senate,,,Write-in,2,0,2
+Des Moines,PCT 2,U.S. Senate,,,Write-in,2,1,1
+Des Moines,PCT 3,U.S. Senate,,,Write-in,2,0,2
+Des Moines,PCT 4,U.S. Senate,,,Write-in,0,0,0
+Des Moines,PCT 5,U.S. Senate,,,Write-in,1,0,1
+Des Moines,PCT 6,U.S. Senate,,,Write-in,1,1,0
+Des Moines,PCT 7,U.S. Senate,,,Write-in,2,1,1
+Des Moines,PCT 8,U.S. Senate,,,Write-in,1,0,1
+Des Moines,PCT BHJ,U.S. Senate,,,Write-in,0,0,0
+Des Moines,PCT CC,U.S. Senate,,,Write-in,0,0,0
+Des Moines,PCT DM,U.S. Senate,,,Write-in,1,0,1
+Des Moines,PCT FM,U.S. Senate,,,Write-in,2,1,1
+Des Moines,PCT MYF,U.S. Senate,,,Write-in,1,0,1
+Des Moines,PCT PW,U.S. Senate,,,Write-in,0,0,0
+Des Moines,PCT TAMA,U.S. Senate,,,Write-in,0,0,0
+Des Moines,PCT UNION,U.S. Senate,,,Write-in,0,0,0
+Des Moines,PCT WB,U.S. Senate,,,Write-in,2,0,2
+Des Moines,PCT 1,U.S. House,1,DEM,Christina Bohannan,564,272,292
+Des Moines,PCT 2,U.S. House,1,DEM,Christina Bohannan,397,175,222
+Des Moines,PCT 3,U.S. House,1,DEM,Christina Bohannan,436,238,198
+Des Moines,PCT 4,U.S. House,1,DEM,Christina Bohannan,555,274,281
+Des Moines,PCT 5,U.S. House,1,DEM,Christina Bohannan,382,188,194
+Des Moines,PCT 6,U.S. House,1,DEM,Christina Bohannan,233,97,136
+Des Moines,PCT 7,U.S. House,1,DEM,Christina Bohannan,531,235,296
+Des Moines,PCT 8,U.S. House,1,DEM,Christina Bohannan,687,306,381
+Des Moines,PCT BHJ,U.S. House,1,DEM,Christina Bohannan,150,79,71
+Des Moines,PCT CC,U.S. House,1,DEM,Christina Bohannan,132,68,64
+Des Moines,PCT DM,U.S. House,1,DEM,Christina Bohannan,186,49,137
+Des Moines,PCT FM,U.S. House,1,DEM,Christina Bohannan,396,227,169
+Des Moines,PCT MYF,U.S. House,1,DEM,Christina Bohannan,326,101,225
+Des Moines,PCT PW,U.S. House,1,DEM,Christina Bohannan,64,20,44
+Des Moines,PCT TAMA,U.S. House,1,DEM,Christina Bohannan,128,74,54
+Des Moines,PCT UNION,U.S. House,1,DEM,Christina Bohannan,129,81,48
+Des Moines,PCT WB,U.S. House,1,DEM,Christina Bohannan,460,188,272
+Des Moines,PCT 1,U.S. House,1,REP,Mariannette Miller-Meeks,678,173,505
+Des Moines,PCT 2,U.S. House,1,REP,Mariannette Miller-Meeks,321,74,247
+Des Moines,PCT 3,U.S. House,1,REP,Mariannette Miller-Meeks,402,117,285
+Des Moines,PCT 4,U.S. House,1,REP,Mariannette Miller-Meeks,612,186,426
+Des Moines,PCT 5,U.S. House,1,REP,Mariannette Miller-Meeks,312,64,248
+Des Moines,PCT 6,U.S. House,1,REP,Mariannette Miller-Meeks,172,45,127
+Des Moines,PCT 7,U.S. House,1,REP,Mariannette Miller-Meeks,483,115,368
+Des Moines,PCT 8,U.S. House,1,REP,Mariannette Miller-Meeks,704,163,541
+Des Moines,PCT BHJ,U.S. House,1,REP,Mariannette Miller-Meeks,428,82,346
+Des Moines,PCT CC,U.S. House,1,REP,Mariannette Miller-Meeks,184,46,138
+Des Moines,PCT DM,U.S. House,1,REP,Mariannette Miller-Meeks,500,58,442
+Des Moines,PCT FM,U.S. House,1,REP,Mariannette Miller-Meeks,667,199,468
+Des Moines,PCT MYF,U.S. House,1,REP,Mariannette Miller-Meeks,905,133,772
+Des Moines,PCT PW,U.S. House,1,REP,Mariannette Miller-Meeks,278,31,247
+Des Moines,PCT TAMA,U.S. House,1,REP,Mariannette Miller-Meeks,312,86,226
+Des Moines,PCT UNION,U.S. House,1,REP,Mariannette Miller-Meeks,247,57,190
+Des Moines,PCT WB,U.S. House,1,REP,Mariannette Miller-Meeks,488,93,395
+Des Moines,PCT 1,U.S. House,1,,Write-in,1,0,1
+Des Moines,PCT 2,U.S. House,1,,Write-in,3,0,3
+Des Moines,PCT 3,U.S. House,1,,Write-in,0,0,0
+Des Moines,PCT 4,U.S. House,1,,Write-in,0,0,0
+Des Moines,PCT 5,U.S. House,1,,Write-in,0,0,0
+Des Moines,PCT 6,U.S. House,1,,Write-in,0,0,0
+Des Moines,PCT 7,U.S. House,1,,Write-in,2,2,0
+Des Moines,PCT 8,U.S. House,1,,Write-in,2,0,2
+Des Moines,PCT BHJ,U.S. House,1,,Write-in,1,0,1
+Des Moines,PCT CC,U.S. House,1,,Write-in,0,0,0
+Des Moines,PCT DM,U.S. House,1,,Write-in,2,0,2
+Des Moines,PCT FM,U.S. House,1,,Write-in,1,0,1
+Des Moines,PCT MYF,U.S. House,1,,Write-in,2,0,2
+Des Moines,PCT PW,U.S. House,1,,Write-in,0,0,0
+Des Moines,PCT TAMA,U.S. House,1,,Write-in,0,0,0
+Des Moines,PCT UNION,U.S. House,1,,Write-in,0,0,0
+Des Moines,PCT WB,U.S. House,1,,Write-in,3,0,3
+Des Moines,PCT 1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,505,247,258
+Des Moines,PCT 2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,370,173,197
+Des Moines,PCT 3,Governor,,DEM,Deidre DeJear and Eric Van Lancker,394,225,169
+Des Moines,PCT 4,Governor,,DEM,Deidre DeJear and Eric Van Lancker,485,248,237
+Des Moines,PCT 5,Governor,,DEM,Deidre DeJear and Eric Van Lancker,355,183,172
+Des Moines,PCT 6,Governor,,DEM,Deidre DeJear and Eric Van Lancker,229,95,134
+Des Moines,PCT 7,Governor,,DEM,Deidre DeJear and Eric Van Lancker,482,224,258
+Des Moines,PCT 8,Governor,,DEM,Deidre DeJear and Eric Van Lancker,638,299,339
+Des Moines,PCT BHJ,Governor,,DEM,Deidre DeJear and Eric Van Lancker,126,74,52
+Des Moines,PCT CC,Governor,,DEM,Deidre DeJear and Eric Van Lancker,115,60,55
+Des Moines,PCT DM,Governor,,DEM,Deidre DeJear and Eric Van Lancker,158,44,114
+Des Moines,PCT FM,Governor,,DEM,Deidre DeJear and Eric Van Lancker,351,203,148
+Des Moines,PCT MYF,Governor,,DEM,Deidre DeJear and Eric Van Lancker,270,86,184
+Des Moines,PCT PW,Governor,,DEM,Deidre DeJear and Eric Van Lancker,50,19,31
+Des Moines,PCT TAMA,Governor,,DEM,Deidre DeJear and Eric Van Lancker,109,63,46
+Des Moines,PCT UNION,Governor,,DEM,Deidre DeJear and Eric Van Lancker,117,79,38
+Des Moines,PCT WB,Governor,,DEM,Deidre DeJear and Eric Van Lancker,430,172,258
+Des Moines,PCT 1,Governor,,REP,Kim Reynolds and Adam Gregg,711,188,523
+Des Moines,PCT 2,Governor,,REP,Kim Reynolds and Adam Gregg,339,79,260
+Des Moines,PCT 3,Governor,,REP,Kim Reynolds and Adam Gregg,416,120,296
+Des Moines,PCT 4,Governor,,REP,Kim Reynolds and Adam Gregg,641,198,443
+Des Moines,PCT 5,Governor,,REP,Kim Reynolds and Adam Gregg,311,64,247
+Des Moines,PCT 6,Governor,,REP,Kim Reynolds and Adam Gregg,162,44,118
+Des Moines,PCT 7,Governor,,REP,Kim Reynolds and Adam Gregg,490,119,371
+Des Moines,PCT 8,Governor,,REP,Kim Reynolds and Adam Gregg,724,162,562
+Des Moines,PCT BHJ,Governor,,REP,Kim Reynolds and Adam Gregg,448,88,360
+Des Moines,PCT CC,Governor,,REP,Kim Reynolds and Adam Gregg,196,52,144
+Des Moines,PCT DM,Governor,,REP,Kim Reynolds and Adam Gregg,516,63,453
+Des Moines,PCT FM,Governor,,REP,Kim Reynolds and Adam Gregg,695,212,483
+Des Moines,PCT MYF,Governor,,REP,Kim Reynolds and Adam Gregg,931,139,792
+Des Moines,PCT PW,Governor,,REP,Kim Reynolds and Adam Gregg,286,31,255
+Des Moines,PCT TAMA,Governor,,REP,Kim Reynolds and Adam Gregg,322,94,228
+Des Moines,PCT UNION,Governor,,REP,Kim Reynolds and Adam Gregg,249,58,191
+Des Moines,PCT WB,Governor,,REP,Kim Reynolds and Adam Gregg,492,96,396
+Des Moines,PCT 1,Governor,,LIB,Rick Stewart and Marco Battaglia,25,6,19
+Des Moines,PCT 2,Governor,,LIB,Rick Stewart and Marco Battaglia,16,0,16
+Des Moines,PCT 3,Governor,,LIB,Rick Stewart and Marco Battaglia,29,10,19
+Des Moines,PCT 4,Governor,,LIB,Rick Stewart and Marco Battaglia,41,13,28
+Des Moines,PCT 5,Governor,,LIB,Rick Stewart and Marco Battaglia,30,7,23
+Des Moines,PCT 6,Governor,,LIB,Rick Stewart and Marco Battaglia,19,4,15
+Des Moines,PCT 7,Governor,,LIB,Rick Stewart and Marco Battaglia,46,8,38
+Des Moines,PCT 8,Governor,,LIB,Rick Stewart and Marco Battaglia,33,8,25
+Des Moines,PCT BHJ,Governor,,LIB,Rick Stewart and Marco Battaglia,8,1,7
+Des Moines,PCT CC,Governor,,LIB,Rick Stewart and Marco Battaglia,2,0,2
+Des Moines,PCT DM,Governor,,LIB,Rick Stewart and Marco Battaglia,13,2,11
+Des Moines,PCT FM,Governor,,LIB,Rick Stewart and Marco Battaglia,23,11,12
+Des Moines,PCT MYF,Governor,,LIB,Rick Stewart and Marco Battaglia,31,5,26
+Des Moines,PCT PW,Governor,,LIB,Rick Stewart and Marco Battaglia,4,0,4
+Des Moines,PCT TAMA,Governor,,LIB,Rick Stewart and Marco Battaglia,8,3,5
+Des Moines,PCT UNION,Governor,,LIB,Rick Stewart and Marco Battaglia,9,1,8
+Des Moines,PCT WB,Governor,,LIB,Rick Stewart and Marco Battaglia,32,14,18
+Des Moines,PCT 1,Governor,,,Write-in,0,0,0
+Des Moines,PCT 2,Governor,,,Write-in,0,0,0
+Des Moines,PCT 3,Governor,,,Write-in,1,1,0
+Des Moines,PCT 4,Governor,,,Write-in,0,0,0
+Des Moines,PCT 5,Governor,,,Write-in,0,0,0
+Des Moines,PCT 6,Governor,,,Write-in,0,0,0
+Des Moines,PCT 7,Governor,,,Write-in,2,2,0
+Des Moines,PCT 8,Governor,,,Write-in,1,0,1
+Des Moines,PCT BHJ,Governor,,,Write-in,0,0,0
+Des Moines,PCT CC,Governor,,,Write-in,0,0,0
+Des Moines,PCT DM,Governor,,,Write-in,1,0,1
+Des Moines,PCT FM,Governor,,,Write-in,0,0,0
+Des Moines,PCT MYF,Governor,,,Write-in,1,0,1
+Des Moines,PCT PW,Governor,,,Write-in,0,0,0
+Des Moines,PCT TAMA,Governor,,,Write-in,0,0,0
+Des Moines,PCT UNION,Governor,,,Write-in,0,0,0
+Des Moines,PCT WB,Governor,,,Write-in,0,0,0
+Des Moines,PCT 1,Secretary of State,,DEM,Joel Miller,538,254,284
+Des Moines,PCT 2,Secretary of State,,DEM,Joel Miller,376,167,209
+Des Moines,PCT 3,Secretary of State,,DEM,Joel Miller,428,237,191
+Des Moines,PCT 4,Secretary of State,,DEM,Joel Miller,556,273,283
+Des Moines,PCT 5,Secretary of State,,DEM,Joel Miller,386,191,195
+Des Moines,PCT 6,Secretary of State,,DEM,Joel Miller,240,102,138
+Des Moines,PCT 7,Secretary of State,,DEM,Joel Miller,528,230,298
+Des Moines,PCT 8,Secretary of State,,DEM,Joel Miller,658,298,360
+Des Moines,PCT BHJ,Secretary of State,,DEM,Joel Miller,141,78,63
+Des Moines,PCT CC,Secretary of State,,DEM,Joel Miller,126,69,57
+Des Moines,PCT DM,Secretary of State,,DEM,Joel Miller,175,50,125
+Des Moines,PCT FM,Secretary of State,,DEM,Joel Miller,383,222,161
+Des Moines,PCT MYF,Secretary of State,,DEM,Joel Miller,308,94,214
+Des Moines,PCT PW,Secretary of State,,DEM,Joel Miller,58,19,39
+Des Moines,PCT TAMA,Secretary of State,,DEM,Joel Miller,126,73,53
+Des Moines,PCT UNION,Secretary of State,,DEM,Joel Miller,116,77,39
+Des Moines,PCT WB,Secretary of State,,DEM,Joel Miller,453,187,266
+Des Moines,PCT 1,Secretary of State,,REP,Paul D. Pate,688,185,503
+Des Moines,PCT 2,Secretary of State,,REP,Paul D. Pate,336,81,255
+Des Moines,PCT 3,Secretary of State,,REP,Paul D. Pate,392,111,281
+Des Moines,PCT 4,Secretary of State,,REP,Paul D. Pate,590,180,410
+Des Moines,PCT 5,Secretary of State,,REP,Paul D. Pate,298,62,236
+Des Moines,PCT 6,Secretary of State,,REP,Paul D. Pate,160,38,122
+Des Moines,PCT 7,Secretary of State,,REP,Paul D. Pate,472,116,356
+Des Moines,PCT 8,Secretary of State,,REP,Paul D. Pate,711,167,544
+Des Moines,PCT BHJ,Secretary of State,,REP,Paul D. Pate,435,82,353
+Des Moines,PCT CC,Secretary of State,,REP,Paul D. Pate,183,43,140
+Des Moines,PCT DM,Secretary of State,,REP,Paul D. Pate,496,55,441
+Des Moines,PCT FM,Secretary of State,,REP,Paul D. Pate,669,202,467
+Des Moines,PCT MYF,Secretary of State,,REP,Paul D. Pate,898,135,763
+Des Moines,PCT PW,Secretary of State,,REP,Paul D. Pate,275,31,244
+Des Moines,PCT TAMA,Secretary of State,,REP,Paul D. Pate,312,86,226
+Des Moines,PCT UNION,Secretary of State,,REP,Paul D. Pate,248,55,193
+Des Moines,PCT WB,Secretary of State,,REP,Paul D. Pate,487,89,398
+Des Moines,PCT 1,Secretary of State,,,Write-in,3,1,2
+Des Moines,PCT 2,Secretary of State,,,Write-in,0,0,0
+Des Moines,PCT 3,Secretary of State,,,Write-in,0,0,0
+Des Moines,PCT 4,Secretary of State,,,Write-in,0,0,0
+Des Moines,PCT 5,Secretary of State,,,Write-in,1,0,1
+Des Moines,PCT 6,Secretary of State,,,Write-in,0,0,0
+Des Moines,PCT 7,Secretary of State,,,Write-in,1,1,0
+Des Moines,PCT 8,Secretary of State,,,Write-in,1,0,1
+Des Moines,PCT BHJ,Secretary of State,,,Write-in,1,0,1
+Des Moines,PCT CC,Secretary of State,,,Write-in,0,0,0
+Des Moines,PCT DM,Secretary of State,,,Write-in,0,0,0
+Des Moines,PCT FM,Secretary of State,,,Write-in,0,0,0
+Des Moines,PCT MYF,Secretary of State,,,Write-in,1,0,1
+Des Moines,PCT PW,Secretary of State,,,Write-in,0,0,0
+Des Moines,PCT TAMA,Secretary of State,,,Write-in,1,1,0
+Des Moines,PCT UNION,Secretary of State,,,Write-in,0,0,0
+Des Moines,PCT WB,Secretary of State,,,Write-in,0,0,0
+Des Moines,PCT 1,Auditor of State,,DEM,Rob Sand,638,292,346
+Des Moines,PCT 2,Auditor of State,,DEM,Rob Sand,409,175,234
+Des Moines,PCT 3,Auditor of State,,DEM,Rob Sand,477,257,220
+Des Moines,PCT 4,Auditor of State,,DEM,Rob Sand,612,300,312
+Des Moines,PCT 5,Auditor of State,,DEM,Rob Sand,410,197,213
+Des Moines,PCT 6,Auditor of State,,DEM,Rob Sand,253,107,146
+Des Moines,PCT 7,Auditor of State,,DEM,Rob Sand,554,242,312
+Des Moines,PCT 8,Auditor of State,,DEM,Rob Sand,754,329,425
+Des Moines,PCT BHJ,Auditor of State,,DEM,Rob Sand,186,84,102
+Des Moines,PCT CC,Auditor of State,,DEM,Rob Sand,152,74,78
+Des Moines,PCT DM,Auditor of State,,DEM,Rob Sand,234,58,176
+Des Moines,PCT FM,Auditor of State,,DEM,Rob Sand,456,244,212
+Des Moines,PCT MYF,Auditor of State,,DEM,Rob Sand,424,119,305
+Des Moines,PCT PW,Auditor of State,,DEM,Rob Sand,86,26,60
+Des Moines,PCT TAMA,Auditor of State,,DEM,Rob Sand,150,83,67
+Des Moines,PCT UNION,Auditor of State,,DEM,Rob Sand,152,87,65
+Des Moines,PCT WB,Auditor of State,,DEM,Rob Sand,517,207,310
+Des Moines,PCT 1,Auditor of State,,REP,Todd Halbur,582,146,436
+Des Moines,PCT 2,Auditor of State,,REP,Todd Halbur,300,72,228
+Des Moines,PCT 3,Auditor of State,,REP,Todd Halbur,348,97,251
+Des Moines,PCT 4,Auditor of State,,REP,Todd Halbur,525,151,374
+Des Moines,PCT 5,Auditor of State,,REP,Todd Halbur,268,53,215
+Des Moines,PCT 6,Auditor of State,,REP,Todd Halbur,144,34,110
+Des Moines,PCT 7,Auditor of State,,REP,Todd Halbur,440,102,338
+Des Moines,PCT 8,Auditor of State,,REP,Todd Halbur,611,132,479
+Des Moines,PCT BHJ,Auditor of State,,REP,Todd Halbur,386,74,312
+Des Moines,PCT CC,Auditor of State,,REP,Todd Halbur,155,37,118
+Des Moines,PCT DM,Auditor of State,,REP,Todd Halbur,432,46,386
+Des Moines,PCT FM,Auditor of State,,REP,Todd Halbur,592,178,414
+Des Moines,PCT MYF,Auditor of State,,REP,Todd Halbur,781,109,672
+Des Moines,PCT PW,Auditor of State,,REP,Todd Halbur,244,25,219
+Des Moines,PCT TAMA,Auditor of State,,REP,Todd Halbur,288,76,212
+Des Moines,PCT UNION,Auditor of State,,REP,Todd Halbur,215,46,169
+Des Moines,PCT WB,Auditor of State,,REP,Todd Halbur,421,73,348
+Des Moines,PCT 1,Auditor of State,,,Write-in,3,1,2
+Des Moines,PCT 2,Auditor of State,,,Write-in,0,0,0
+Des Moines,PCT 3,Auditor of State,,,Write-in,0,0,0
+Des Moines,PCT 4,Auditor of State,,,Write-in,0,0,0
+Des Moines,PCT 5,Auditor of State,,,Write-in,1,0,1
+Des Moines,PCT 6,Auditor of State,,,Write-in,0,0,0
+Des Moines,PCT 7,Auditor of State,,,Write-in,1,1,0
+Des Moines,PCT 8,Auditor of State,,,Write-in,1,0,1
+Des Moines,PCT BHJ,Auditor of State,,,Write-in,0,0,0
+Des Moines,PCT CC,Auditor of State,,,Write-in,0,0,0
+Des Moines,PCT DM,Auditor of State,,,Write-in,1,0,1
+Des Moines,PCT FM,Auditor of State,,,Write-in,1,0,1
+Des Moines,PCT MYF,Auditor of State,,,Write-in,1,0,1
+Des Moines,PCT PW,Auditor of State,,,Write-in,0,0,0
+Des Moines,PCT TAMA,Auditor of State,,,Write-in,0,0,0
+Des Moines,PCT UNION,Auditor of State,,,Write-in,0,0,0
+Des Moines,PCT WB,Auditor of State,,,Write-in,0,0,0
+Des Moines,PCT 1,Treasurer of State,,DEM,Michael L. Fitzgerald,620,282,338
+Des Moines,PCT 2,Treasurer of State,,DEM,Michael L. Fitzgerald,401,180,221
+Des Moines,PCT 3,Treasurer of State,,DEM,Michael L. Fitzgerald,459,255,204
+Des Moines,PCT 4,Treasurer of State,,DEM,Michael L. Fitzgerald,606,303,303
+Des Moines,PCT 5,Treasurer of State,,DEM,Michael L. Fitzgerald,406,198,208
+Des Moines,PCT 6,Treasurer of State,,DEM,Michael L. Fitzgerald,260,106,154
+Des Moines,PCT 7,Treasurer of State,,DEM,Michael L. Fitzgerald,558,246,312
+Des Moines,PCT 8,Treasurer of State,,DEM,Michael L. Fitzgerald,728,328,400
+Des Moines,PCT BHJ,Treasurer of State,,DEM,Michael L. Fitzgerald,178,82,96
+Des Moines,PCT CC,Treasurer of State,,DEM,Michael L. Fitzgerald,147,72,75
+Des Moines,PCT DM,Treasurer of State,,DEM,Michael L. Fitzgerald,215,54,161
+Des Moines,PCT FM,Treasurer of State,,DEM,Michael L. Fitzgerald,448,248,200
+Des Moines,PCT MYF,Treasurer of State,,DEM,Michael L. Fitzgerald,404,113,291
+Des Moines,PCT PW,Treasurer of State,,DEM,Michael L. Fitzgerald,80,23,57
+Des Moines,PCT TAMA,Treasurer of State,,DEM,Michael L. Fitzgerald,144,83,61
+Des Moines,PCT UNION,Treasurer of State,,DEM,Michael L. Fitzgerald,151,85,66
+Des Moines,PCT WB,Treasurer of State,,DEM,Michael L. Fitzgerald,513,200,313
+Des Moines,PCT 1,Treasurer of State,,REP,Roby Smith,596,153,443
+Des Moines,PCT 2,Treasurer of State,,REP,Roby Smith,313,68,245
+Des Moines,PCT 3,Treasurer of State,,REP,Roby Smith,364,96,268
+Des Moines,PCT 4,Treasurer of State,,REP,Roby Smith,533,149,384
+Des Moines,PCT 5,Treasurer of State,,REP,Roby Smith,276,55,221
+Des Moines,PCT 6,Treasurer of State,,REP,Roby Smith,141,36,105
+Des Moines,PCT 7,Treasurer of State,,REP,Roby Smith,442,100,342
+Des Moines,PCT 8,Treasurer of State,,REP,Roby Smith,637,134,503
+Des Moines,PCT BHJ,Treasurer of State,,REP,Roby Smith,396,78,318
+Des Moines,PCT CC,Treasurer of State,,REP,Roby Smith,159,38,121
+Des Moines,PCT DM,Treasurer of State,,REP,Roby Smith,452,50,402
+Des Moines,PCT FM,Treasurer of State,,REP,Roby Smith,599,174,425
+Des Moines,PCT MYF,Treasurer of State,,REP,Roby Smith,801,114,687
+Des Moines,PCT PW,Treasurer of State,,REP,Roby Smith,253,26,227
+Des Moines,PCT TAMA,Treasurer of State,,REP,Roby Smith,288,74,214
+Des Moines,PCT UNION,Treasurer of State,,REP,Roby Smith,213,47,166
+Des Moines,PCT WB,Treasurer of State,,REP,Roby Smith,426,77,349
+Des Moines,PCT 1,Treasurer of State,,,Write-in,0,0,0
+Des Moines,PCT 2,Treasurer of State,,,Write-in,0,0,0
+Des Moines,PCT 3,Treasurer of State,,,Write-in,1,1,0
+Des Moines,PCT 4,Treasurer of State,,,Write-in,0,0,0
+Des Moines,PCT 5,Treasurer of State,,,Write-in,1,0,1
+Des Moines,PCT 6,Treasurer of State,,,Write-in,0,0,0
+Des Moines,PCT 7,Treasurer of State,,,Write-in,1,1,0
+Des Moines,PCT 8,Treasurer of State,,,Write-in,1,0,1
+Des Moines,PCT BHJ,Treasurer of State,,,Write-in,0,0,0
+Des Moines,PCT CC,Treasurer of State,,,Write-in,0,0,0
+Des Moines,PCT DM,Treasurer of State,,,Write-in,0,0,0
+Des Moines,PCT FM,Treasurer of State,,,Write-in,1,0,1
+Des Moines,PCT MYF,Treasurer of State,,,Write-in,1,0,1
+Des Moines,PCT PW,Treasurer of State,,,Write-in,0,0,0
+Des Moines,PCT TAMA,Treasurer of State,,,Write-in,0,0,0
+Des Moines,PCT UNION,Treasurer of State,,,Write-in,1,1,0
+Des Moines,PCT WB,Treasurer of State,,,Write-in,0,0,0
+Des Moines,PCT 1,Secretary of Agriculture,,DEM,John Norwood,530,257,273
+Des Moines,PCT 2,Secretary of Agriculture,,DEM,John Norwood,369,167,202
+Des Moines,PCT 3,Secretary of Agriculture,,DEM,John Norwood,425,241,184
+Des Moines,PCT 4,Secretary of Agriculture,,DEM,John Norwood,529,268,261
+Des Moines,PCT 5,Secretary of Agriculture,,DEM,John Norwood,366,187,179
+Des Moines,PCT 6,Secretary of Agriculture,,DEM,John Norwood,233,101,132
+Des Moines,PCT 7,Secretary of Agriculture,,DEM,John Norwood,509,228,281
+Des Moines,PCT 8,Secretary of Agriculture,,DEM,John Norwood,657,303,354
+Des Moines,PCT BHJ,Secretary of Agriculture,,DEM,John Norwood,137,74,63
+Des Moines,PCT CC,Secretary of Agriculture,,DEM,John Norwood,123,66,57
+Des Moines,PCT DM,Secretary of Agriculture,,DEM,John Norwood,168,51,117
+Des Moines,PCT FM,Secretary of Agriculture,,DEM,John Norwood,364,213,151
+Des Moines,PCT MYF,Secretary of Agriculture,,DEM,John Norwood,274,95,179
+Des Moines,PCT PW,Secretary of Agriculture,,DEM,John Norwood,52,22,30
+Des Moines,PCT TAMA,Secretary of Agriculture,,DEM,John Norwood,114,71,43
+Des Moines,PCT UNION,Secretary of Agriculture,,DEM,John Norwood,121,80,41
+Des Moines,PCT WB,Secretary of Agriculture,,DEM,John Norwood,431,178,253
+Des Moines,PCT 1,Secretary of Agriculture,,REP,Mike Naig,675,171,504
+Des Moines,PCT 2,Secretary of Agriculture,,REP,Mike Naig,336,77,259
+Des Moines,PCT 3,Secretary of Agriculture,,REP,Mike Naig,396,105,291
+Des Moines,PCT 4,Secretary of Agriculture,,REP,Mike Naig,608,183,425
+Des Moines,PCT 5,Secretary of Agriculture,,REP,Mike Naig,314,65,249
+Des Moines,PCT 6,Secretary of Agriculture,,REP,Mike Naig,166,41,125
+Des Moines,PCT 7,Secretary of Agriculture,,REP,Mike Naig,482,113,369
+Des Moines,PCT 8,Secretary of Agriculture,,REP,Mike Naig,702,155,547
+Des Moines,PCT BHJ,Secretary of Agriculture,,REP,Mike Naig,437,86,351
+Des Moines,PCT CC,Secretary of Agriculture,,REP,Mike Naig,181,44,137
+Des Moines,PCT DM,Secretary of Agriculture,,REP,Mike Naig,501,52,449
+Des Moines,PCT FM,Secretary of Agriculture,,REP,Mike Naig,678,208,470
+Des Moines,PCT MYF,Secretary of Agriculture,,REP,Mike Naig,931,132,799
+Des Moines,PCT PW,Secretary of Agriculture,,REP,Mike Naig,283,29,254
+Des Moines,PCT TAMA,Secretary of Agriculture,,REP,Mike Naig,316,85,231
+Des Moines,PCT UNION,Secretary of Agriculture,,REP,Mike Naig,244,52,192
+Des Moines,PCT WB,Secretary of Agriculture,,REP,Mike Naig,495,95,400
+Des Moines,PCT 1,Secretary of Agriculture,,,Write-in,2,0,2
+Des Moines,PCT 2,Secretary of Agriculture,,,Write-in,0,0,0
+Des Moines,PCT 3,Secretary of Agriculture,,,Write-in,1,1,0
+Des Moines,PCT 4,Secretary of Agriculture,,,Write-in,0,0,0
+Des Moines,PCT 5,Secretary of Agriculture,,,Write-in,1,0,1
+Des Moines,PCT 6,Secretary of Agriculture,,,Write-in,0,0,0
+Des Moines,PCT 7,Secretary of Agriculture,,,Write-in,1,1,0
+Des Moines,PCT 8,Secretary of Agriculture,,,Write-in,0,0,0
+Des Moines,PCT BHJ,Secretary of Agriculture,,,Write-in,0,0,0
+Des Moines,PCT CC,Secretary of Agriculture,,,Write-in,0,0,0
+Des Moines,PCT DM,Secretary of Agriculture,,,Write-in,0,0,0
+Des Moines,PCT FM,Secretary of Agriculture,,,Write-in,2,1,1
+Des Moines,PCT MYF,Secretary of Agriculture,,,Write-in,2,0,2
+Des Moines,PCT PW,Secretary of Agriculture,,,Write-in,0,0,0
+Des Moines,PCT TAMA,Secretary of Agriculture,,,Write-in,1,1,0
+Des Moines,PCT UNION,Secretary of Agriculture,,,Write-in,0,0,0
+Des Moines,PCT WB,Secretary of Agriculture,,,Write-in,0,0,0
+Des Moines,PCT 1,Attorney General,,DEM,Tom Miller,625,293,332
+Des Moines,PCT 2,Attorney General,,DEM,Tom Miller,400,179,221
+Des Moines,PCT 3,Attorney General,,DEM,Tom Miller,474,254,220
+Des Moines,PCT 4,Attorney General,,DEM,Tom Miller,622,307,315
+Des Moines,PCT 5,Attorney General,,DEM,Tom Miller,388,197,191
+Des Moines,PCT 6,Attorney General,,DEM,Tom Miller,256,109,147
+Des Moines,PCT 7,Attorney General,,DEM,Tom Miller,562,248,314
+Des Moines,PCT 8,Attorney General,,DEM,Tom Miller,728,326,402
+Des Moines,PCT BHJ,Attorney General,,DEM,Tom Miller,170,82,88
+Des Moines,PCT CC,Attorney General,,DEM,Tom Miller,152,79,73
+Des Moines,PCT DM,Attorney General,,DEM,Tom Miller,228,61,167
+Des Moines,PCT FM,Attorney General,,DEM,Tom Miller,439,244,195
+Des Moines,PCT MYF,Attorney General,,DEM,Tom Miller,386,121,265
+Des Moines,PCT PW,Attorney General,,DEM,Tom Miller,81,25,56
+Des Moines,PCT TAMA,Attorney General,,DEM,Tom Miller,142,79,63
+Des Moines,PCT UNION,Attorney General,,DEM,Tom Miller,148,87,61
+Des Moines,PCT WB,Attorney General,,DEM,Tom Miller,511,203,308
+Des Moines,PCT 1,Attorney General,,REP,Brenna Bird,605,150,455
+Des Moines,PCT 2,Attorney General,,REP,Brenna Bird,311,68,243
+Des Moines,PCT 3,Attorney General,,REP,Brenna Bird,359,102,257
+Des Moines,PCT 4,Attorney General,,REP,Brenna Bird,530,153,377
+Des Moines,PCT 5,Attorney General,,REP,Brenna Bird,297,55,242
+Des Moines,PCT 6,Attorney General,,REP,Brenna Bird,144,33,111
+Des Moines,PCT 7,Attorney General,,REP,Brenna Bird,444,103,341
+Des Moines,PCT 8,Attorney General,,REP,Brenna Bird,641,138,503
+Des Moines,PCT BHJ,Attorney General,,REP,Brenna Bird,399,75,324
+Des Moines,PCT CC,Attorney General,,REP,Brenna Bird,157,35,122
+Des Moines,PCT DM,Attorney General,,REP,Brenna Bird,446,45,401
+Des Moines,PCT FM,Attorney General,,REP,Brenna Bird,614,178,436
+Des Moines,PCT MYF,Attorney General,,REP,Brenna Bird,824,108,716
+Des Moines,PCT PW,Attorney General,,REP,Brenna Bird,252,26,226
+Des Moines,PCT TAMA,Attorney General,,REP,Brenna Bird,289,77,212
+Des Moines,PCT UNION,Attorney General,,REP,Brenna Bird,222,49,173
+Des Moines,PCT WB,Attorney General,,REP,Brenna Bird,426,75,351
+Des Moines,PCT 1,Attorney General,,,Write-in,1,0,1
+Des Moines,PCT 2,Attorney General,,,Write-in,0,0,0
+Des Moines,PCT 3,Attorney General,,,Write-in,0,0,0
+Des Moines,PCT 4,Attorney General,,,Write-in,0,0,0
+Des Moines,PCT 5,Attorney General,,,Write-in,2,0,2
+Des Moines,PCT 6,Attorney General,,,Write-in,0,0,0
+Des Moines,PCT 7,Attorney General,,,Write-in,0,0,0
+Des Moines,PCT 8,Attorney General,,,Write-in,0,0,0
+Des Moines,PCT BHJ,Attorney General,,,Write-in,1,1,0
+Des Moines,PCT CC,Attorney General,,,Write-in,0,0,0
+Des Moines,PCT DM,Attorney General,,,Write-in,1,0,1
+Des Moines,PCT FM,Attorney General,,,Write-in,0,0,0
+Des Moines,PCT MYF,Attorney General,,,Write-in,1,0,1
+Des Moines,PCT PW,Attorney General,,,Write-in,0,0,0
+Des Moines,PCT TAMA,Attorney General,,,Write-in,0,0,0
+Des Moines,PCT UNION,Attorney General,,,Write-in,0,0,0
+Des Moines,PCT WB,Attorney General,,,Write-in,1,1,0
+Des Moines,PCT BHJ,State House,95,REP,Taylor Collins,473,97,376
+Des Moines,PCT FM,State House,95,REP,Taylor Collins,808,281,527
+Des Moines,PCT MYF,State House,95,REP,Taylor Collins,1012,156,856
+Des Moines,PCT PW,State House,95,REP,Taylor Collins,288,32,256
+Des Moines,PCT TAMA,State House,95,REP,Taylor Collins,346,105,241
+Des Moines,PCT BHJ,State House,95,,Write-in,9,3,6
+Des Moines,PCT FM,State House,95,,Write-in,12,4,8
+Des Moines,PCT MYF,State House,95,,Write-in,18,5,13
+Des Moines,PCT PW,State House,95,,Write-in,4,2,2
+Des Moines,PCT TAMA,State House,95,,Write-in,6,2,4
+Des Moines,PCT 1,State House,99,DEM,Dennis M. Cohoon,589,281,308
+Des Moines,PCT 2,State House,99,DEM,Dennis M. Cohoon,387,174,213
+Des Moines,PCT 3,State House,99,DEM,Dennis M. Cohoon,438,244,194
+Des Moines,PCT 4,State House,99,DEM,Dennis M. Cohoon,578,282,296
+Des Moines,PCT 5,State House,99,DEM,Dennis M. Cohoon,379,191,188
+Des Moines,PCT 6,State House,99,DEM,Dennis M. Cohoon,245,105,140
+Des Moines,PCT 7,State House,99,DEM,Dennis M. Cohoon,541,234,307
+Des Moines,PCT 8,State House,99,DEM,Dennis M. Cohoon,699,316,383
+Des Moines,PCT CC,State House,99,DEM,Dennis M. Cohoon,142,71,71
+Des Moines,PCT DM,State House,99,DEM,Dennis M. Cohoon,194,54,140
+Des Moines,PCT UNION,State House,99,DEM,Dennis M. Cohoon,135,84,51
+Des Moines,PCT WB,State House,99,DEM,Dennis M. Cohoon,475,196,279
+Des Moines,PCT 1,State House,99,REP,Matthew Rinker,648,163,485
+Des Moines,PCT 2,State House,99,REP,Matthew Rinker,331,77,254
+Des Moines,PCT 3,State House,99,REP,Matthew Rinker,389,109,280
+Des Moines,PCT 4,State House,99,REP,Matthew Rinker,583,177,406
+Des Moines,PCT 5,State House,99,REP,Matthew Rinker,303,63,240
+Des Moines,PCT 6,State House,99,REP,Matthew Rinker,159,36,123
+Des Moines,PCT 7,State House,99,REP,Matthew Rinker,471,119,352
+Des Moines,PCT 8,State House,99,REP,Matthew Rinker,684,155,529
+Des Moines,PCT CC,State House,99,REP,Matthew Rinker,172,42,130
+Des Moines,PCT DM,State House,99,REP,Matthew Rinker,493,55,438
+Des Moines,PCT UNION,State House,99,REP,Matthew Rinker,235,52,183
+Des Moines,PCT WB,State House,99,REP,Matthew Rinker,467,84,383
+Des Moines,PCT 1,State House,99,,Write-in,1,0,1
+Des Moines,PCT 2,State House,99,,Write-in,1,0,1
+Des Moines,PCT 3,State House,99,,Write-in,1,0,1
+Des Moines,PCT 4,State House,99,,Write-in,1,0,1
+Des Moines,PCT 5,State House,99,,Write-in,4,0,4
+Des Moines,PCT 6,State House,99,,Write-in,1,0,1
+Des Moines,PCT 7,State House,99,,Write-in,3,1,2
+Des Moines,PCT 8,State House,99,,Write-in,5,0,5
+Des Moines,PCT CC,State House,99,,Write-in,2,1,1
+Des Moines,PCT DM,State House,99,,Write-in,2,0,2
+Des Moines,PCT UNION,State House,99,,Write-in,0,0,0
+Des Moines,PCT WB,State House,99,,Write-in,3,0,3
+Des Moines,PCT 1,County Board of Supervisors At Large,,DEM,Sandy Dockendorff,481,224,257
+Des Moines,PCT 2,County Board of Supervisors At Large,,DEM,Sandy Dockendorff,365,170,195
+Des Moines,PCT 3,County Board of Supervisors At Large,,DEM,Sandy Dockendorff,409,222,187
+Des Moines,PCT 4,County Board of Supervisors At Large,,DEM,Sandy Dockendorff,484,243,241
+Des Moines,PCT 5,County Board of Supervisors At Large,,DEM,Sandy Dockendorff,358,177,181
+Des Moines,PCT 6,County Board of Supervisors At Large,,DEM,Sandy Dockendorff,227,95,132
+Des Moines,PCT 7,County Board of Supervisors At Large,,DEM,Sandy Dockendorff,492,218,274
+Des Moines,PCT 8,County Board of Supervisors At Large,,DEM,Sandy Dockendorff,606,270,336
+Des Moines,PCT BHJ,County Board of Supervisors At Large,,DEM,Sandy Dockendorff,126,65,61
+Des Moines,PCT CC,County Board of Supervisors At Large,,DEM,Sandy Dockendorff,116,65,51
+Des Moines,PCT DM,County Board of Supervisors At Large,,DEM,Sandy Dockendorff,174,44,130
+Des Moines,PCT FM,County Board of Supervisors At Large,,DEM,Sandy Dockendorff,377,210,167
+Des Moines,PCT MYF,County Board of Supervisors At Large,,DEM,Sandy Dockendorff,277,91,186
+Des Moines,PCT PW,County Board of Supervisors At Large,,DEM,Sandy Dockendorff,64,21,43
+Des Moines,PCT TAMA,County Board of Supervisors At Large,,DEM,Sandy Dockendorff,109,67,42
+Des Moines,PCT UNION,County Board of Supervisors At Large,,DEM,Sandy Dockendorff,120,73,47
+Des Moines,PCT WB,County Board of Supervisors At Large,,DEM,Sandy Dockendorff,419,176,243
+Des Moines,PCT 1,County Board of Supervisors At Large,,REP,Tom Broeker,755,219,536
+Des Moines,PCT 2,County Board of Supervisors At Large,,REP,Tom Broeker,352,79,273
+Des Moines,PCT 3,County Board of Supervisors At Large,,REP,Tom Broeker,416,127,289
+Des Moines,PCT 4,County Board of Supervisors At Large,,REP,Tom Broeker,671,211,460
+Des Moines,PCT 5,County Board of Supervisors At Large,,REP,Tom Broeker,328,77,251
+Des Moines,PCT 6,County Board of Supervisors At Large,,REP,Tom Broeker,175,47,128
+Des Moines,PCT 7,County Board of Supervisors At Large,,REP,Tom Broeker,511,129,382
+Des Moines,PCT 8,County Board of Supervisors At Large,,REP,Tom Broeker,779,198,581
+Des Moines,PCT BHJ,County Board of Supervisors At Large,,REP,Tom Broeker,451,96,355
+Des Moines,PCT CC,County Board of Supervisors At Large,,REP,Tom Broeker,199,49,150
+Des Moines,PCT DM,County Board of Supervisors At Large,,REP,Tom Broeker,506,64,442
+Des Moines,PCT FM,County Board of Supervisors At Large,,REP,Tom Broeker,681,215,466
+Des Moines,PCT MYF,County Board of Supervisors At Large,,REP,Tom Broeker,940,138,802
+Des Moines,PCT PW,County Board of Supervisors At Large,,REP,Tom Broeker,271,28,243
+Des Moines,PCT TAMA,County Board of Supervisors At Large,,REP,Tom Broeker,326,91,235
+Des Moines,PCT UNION,County Board of Supervisors At Large,,REP,Tom Broeker,250,62,188
+Des Moines,PCT WB,County Board of Supervisors At Large,,REP,Tom Broeker,521,105,416
+Des Moines,PCT 1,County Board of Supervisors At Large,,,Write-in,1,0,1
+Des Moines,PCT 2,County Board of Supervisors At Large,,,Write-in,1,1,0
+Des Moines,PCT 3,County Board of Supervisors At Large,,,Write-in,1,0,1
+Des Moines,PCT 4,County Board of Supervisors At Large,,,Write-in,1,1,0
+Des Moines,PCT 5,County Board of Supervisors At Large,,,Write-in,2,0,2
+Des Moines,PCT 6,County Board of Supervisors At Large,,,Write-in,0,0,0
+Des Moines,PCT 7,County Board of Supervisors At Large,,,Write-in,2,2,0
+Des Moines,PCT 8,County Board of Supervisors At Large,,,Write-in,1,0,1
+Des Moines,PCT BHJ,County Board of Supervisors At Large,,,Write-in,1,0,1
+Des Moines,PCT CC,County Board of Supervisors At Large,,,Write-in,1,1,0
+Des Moines,PCT DM,County Board of Supervisors At Large,,,Write-in,1,0,1
+Des Moines,PCT FM,County Board of Supervisors At Large,,,Write-in,0,0,0
+Des Moines,PCT MYF,County Board of Supervisors At Large,,,Write-in,1,0,1
+Des Moines,PCT PW,County Board of Supervisors At Large,,,Write-in,0,0,0
+Des Moines,PCT TAMA,County Board of Supervisors At Large,,,Write-in,0,0,0
+Des Moines,PCT UNION,County Board of Supervisors At Large,,,Write-in,0,0,0
+Des Moines,PCT WB,County Board of Supervisors At Large,,,Write-in,1,1,0
+Des Moines,PCT 1,County Treasurer,,DEM,Janelle Nalley-Londquist,904,351,553
+Des Moines,PCT 2,County Treasurer,,DEM,Janelle Nalley-Londquist,559,202,357
+Des Moines,PCT 3,County Treasurer,,DEM,Janelle Nalley-Londquist,645,300,345
+Des Moines,PCT 4,County Treasurer,,DEM,Janelle Nalley-Londquist,864,375,489
+Des Moines,PCT 5,County Treasurer,,DEM,Janelle Nalley-Londquist,525,213,312
+Des Moines,PCT 6,County Treasurer,,DEM,Janelle Nalley-Londquist,334,127,207
+Des Moines,PCT 7,County Treasurer,,DEM,Janelle Nalley-Londquist,765,290,475
+Des Moines,PCT 8,County Treasurer,,DEM,Janelle Nalley-Londquist,1028,378,650
+Des Moines,PCT BHJ,County Treasurer,,DEM,Janelle Nalley-Londquist,395,118,277
+Des Moines,PCT CC,County Treasurer,,DEM,Janelle Nalley-Londquist,217,95,122
+Des Moines,PCT DM,County Treasurer,,DEM,Janelle Nalley-Londquist,478,80,398
+Des Moines,PCT FM,County Treasurer,,DEM,Janelle Nalley-Londquist,724,316,408
+Des Moines,PCT MYF,County Treasurer,,DEM,Janelle Nalley-Londquist,846,160,686
+Des Moines,PCT PW,County Treasurer,,DEM,Janelle Nalley-Londquist,191,35,156
+Des Moines,PCT TAMA,County Treasurer,,DEM,Janelle Nalley-Londquist,301,121,180
+Des Moines,PCT UNION,County Treasurer,,DEM,Janelle Nalley-Londquist,263,100,163
+Des Moines,PCT WB,County Treasurer,,DEM,Janelle Nalley-Londquist,742,236,506
+Des Moines,PCT 1,County Treasurer,,,Write-in,26,4,22
+Des Moines,PCT 2,County Treasurer,,,Write-in,14,2,12
+Des Moines,PCT 3,County Treasurer,,,Write-in,18,4,14
+Des Moines,PCT 4,County Treasurer,,,Write-in,20,6,14
+Des Moines,PCT 5,County Treasurer,,,Write-in,26,2,24
+Des Moines,PCT 6,County Treasurer,,,Write-in,11,1,10
+Des Moines,PCT 7,County Treasurer,,,Write-in,29,4,25
+Des Moines,PCT 8,County Treasurer,,,Write-in,22,3,19
+Des Moines,PCT BHJ,County Treasurer,,,Write-in,8,1,7
+Des Moines,PCT CC,County Treasurer,,,Write-in,14,1,13
+Des Moines,PCT DM,County Treasurer,,,Write-in,18,2,16
+Des Moines,PCT FM,County Treasurer,,,Write-in,24,5,19
+Des Moines,PCT MYF,County Treasurer,,,Write-in,30,3,27
+Des Moines,PCT PW,County Treasurer,,,Write-in,6,2,4
+Des Moines,PCT TAMA,County Treasurer,,,Write-in,11,1,10
+Des Moines,PCT UNION,County Treasurer,,,Write-in,8,3,5
+Des Moines,PCT WB,County Treasurer,,,Write-in,20,2,18
+Des Moines,PCT 1,County Recorder,,DEM,Natalie Steffener,894,342,552
+Des Moines,PCT 2,County Recorder,,DEM,Natalie Steffener,549,196,353
+Des Moines,PCT 3,County Recorder,,DEM,Natalie Steffener,627,295,332
+Des Moines,PCT 4,County Recorder,,DEM,Natalie Steffener,858,375,483
+Des Moines,PCT 5,County Recorder,,DEM,Natalie Steffener,525,216,309
+Des Moines,PCT 6,County Recorder,,DEM,Natalie Steffener,328,124,204
+Des Moines,PCT 7,County Recorder,,DEM,Natalie Steffener,761,290,471
+Des Moines,PCT 8,County Recorder,,DEM,Natalie Steffener,1011,371,640
+Des Moines,PCT BHJ,County Recorder,,DEM,Natalie Steffener,391,116,275
+Des Moines,PCT CC,County Recorder,,DEM,Natalie Steffener,215,92,123
+Des Moines,PCT DM,County Recorder,,DEM,Natalie Steffener,469,79,390
+Des Moines,PCT FM,County Recorder,,DEM,Natalie Steffener,702,314,388
+Des Moines,PCT MYF,County Recorder,,DEM,Natalie Steffener,872,163,709
+Des Moines,PCT PW,County Recorder,,DEM,Natalie Steffener,191,33,158
+Des Moines,PCT TAMA,County Recorder,,DEM,Natalie Steffener,288,117,171
+Des Moines,PCT UNION,County Recorder,,DEM,Natalie Steffener,255,100,155
+Des Moines,PCT WB,County Recorder,,DEM,Natalie Steffener,744,239,505
+Des Moines,PCT 1,County Recorder,,,Write-in,22,4,18
+Des Moines,PCT 2,County Recorder,,,Write-in,15,2,13
+Des Moines,PCT 3,County Recorder,,,Write-in,18,4,14
+Des Moines,PCT 4,County Recorder,,,Write-in,17,6,11
+Des Moines,PCT 5,County Recorder,,,Write-in,25,2,23
+Des Moines,PCT 6,County Recorder,,,Write-in,10,1,9
+Des Moines,PCT 7,County Recorder,,,Write-in,28,3,25
+Des Moines,PCT 8,County Recorder,,,Write-in,23,4,19
+Des Moines,PCT BHJ,County Recorder,,,Write-in,7,0,7
+Des Moines,PCT CC,County Recorder,,,Write-in,13,1,12
+Des Moines,PCT DM,County Recorder,,,Write-in,15,2,13
+Des Moines,PCT FM,County Recorder,,,Write-in,26,6,20
+Des Moines,PCT MYF,County Recorder,,,Write-in,24,2,22
+Des Moines,PCT PW,County Recorder,,,Write-in,7,2,5
+Des Moines,PCT TAMA,County Recorder,,,Write-in,11,1,10
+Des Moines,PCT UNION,County Recorder,,,Write-in,7,2,5
+Des Moines,PCT WB,County Recorder,,,Write-in,20,2,18
+Des Moines,PCT 1,County Attorney,,DEM,Lisa Schaefer,854,324,530
+Des Moines,PCT 2,County Attorney,,DEM,Lisa Schaefer,528,195,333
+Des Moines,PCT 3,County Attorney,,DEM,Lisa Schaefer,615,285,330
+Des Moines,PCT 4,County Attorney,,DEM,Lisa Schaefer,827,371,456
+Des Moines,PCT 5,County Attorney,,DEM,Lisa Schaefer,501,208,293
+Des Moines,PCT 6,County Attorney,,DEM,Lisa Schaefer,326,124,202
+Des Moines,PCT 7,County Attorney,,DEM,Lisa Schaefer,731,283,448
+Des Moines,PCT 8,County Attorney,,DEM,Lisa Schaefer,978,362,616
+Des Moines,PCT BHJ,County Attorney,,DEM,Lisa Schaefer,339,105,234
+Des Moines,PCT CC,County Attorney,,DEM,Lisa Schaefer,207,92,115
+Des Moines,PCT DM,County Attorney,,DEM,Lisa Schaefer,452,79,373
+Des Moines,PCT FM,County Attorney,,DEM,Lisa Schaefer,666,303,363
+Des Moines,PCT MYF,County Attorney,,DEM,Lisa Schaefer,791,152,639
+Des Moines,PCT PW,County Attorney,,DEM,Lisa Schaefer,174,31,143
+Des Moines,PCT TAMA,County Attorney,,DEM,Lisa Schaefer,277,114,163
+Des Moines,PCT UNION,County Attorney,,DEM,Lisa Schaefer,242,94,148
+Des Moines,PCT WB,County Attorney,,DEM,Lisa Schaefer,704,234,470
+Des Moines,PCT 1,County Attorney,,,Write-in,40,11,29
+Des Moines,PCT 2,County Attorney,,,Write-in,27,2,25
+Des Moines,PCT 3,County Attorney,,,Write-in,22,4,18
+Des Moines,PCT 4,County Attorney,,,Write-in,28,7,21
+Des Moines,PCT 5,County Attorney,,,Write-in,33,2,31
+Des Moines,PCT 6,County Attorney,,,Write-in,12,2,10
+Des Moines,PCT 7,County Attorney,,,Write-in,37,7,30
+Des Moines,PCT 8,County Attorney,,,Write-in,38,7,31
+Des Moines,PCT BHJ,County Attorney,,,Write-in,14,2,12
+Des Moines,PCT CC,County Attorney,,,Write-in,15,1,14
+Des Moines,PCT DM,County Attorney,,,Write-in,19,3,16
+Des Moines,PCT FM,County Attorney,,,Write-in,43,11,32
+Des Moines,PCT MYF,County Attorney,,,Write-in,37,3,34
+Des Moines,PCT PW,County Attorney,,,Write-in,9,1,8
+Des Moines,PCT TAMA,County Attorney,,,Write-in,16,1,15
+Des Moines,PCT UNION,County Attorney,,,Write-in,9,3,6
+Des Moines,PCT WB,County Attorney,,,Write-in,31,4,27
+Des Moines,PCT 1,Soil and Water Conservation District Commissioner,,,Brian Messer,809,289,520
+Des Moines,PCT 2,Soil and Water Conservation District Commissioner,,,Brian Messer,451,156,295
+Des Moines,PCT 3,Soil and Water Conservation District Commissioner,,,Brian Messer,530,232,298
+Des Moines,PCT 4,Soil and Water Conservation District Commissioner,,,Brian Messer,758,323,435
+Des Moines,PCT 5,Soil and Water Conservation District Commissioner,,,Brian Messer,441,168,273
+Des Moines,PCT 6,Soil and Water Conservation District Commissioner,,,Brian Messer,251,93,158
+Des Moines,PCT 7,Soil and Water Conservation District Commissioner,,,Brian Messer,663,229,434
+Des Moines,PCT 8,Soil and Water Conservation District Commissioner,,,Brian Messer,881,319,562
+Des Moines,PCT BHJ,Soil and Water Conservation District Commissioner,,,Brian Messer,406,110,296
+Des Moines,PCT CC,Soil and Water Conservation District Commissioner,,,Brian Messer,209,76,133
+Des Moines,PCT DM,Soil and Water Conservation District Commissioner,,,Brian Messer,465,74,391
+Des Moines,PCT FM,Soil and Water Conservation District Commissioner,,,Brian Messer,677,277,400
+Des Moines,PCT MYF,Soil and Water Conservation District Commissioner,,,Brian Messer,881,162,719
+Des Moines,PCT PW,Soil and Water Conservation District Commissioner,,,Brian Messer,257,37,220
+Des Moines,PCT TAMA,Soil and Water Conservation District Commissioner,,,Brian Messer,285,103,182
+Des Moines,PCT UNION,Soil and Water Conservation District Commissioner,,,Brian Messer,256,91,165
+Des Moines,PCT WB,Soil and Water Conservation District Commissioner,,,Brian Messer,659,198,461
+Des Moines,PCT 1,Soil and Water Conservation District Commissioner,,,Maureen Hutchcroft,678,255,423
+Des Moines,PCT 2,Soil and Water Conservation District Commissioner,,,Maureen Hutchcroft,431,158,273
+Des Moines,PCT 3,Soil and Water Conservation District Commissioner,,,Maureen Hutchcroft,424,199,225
+Des Moines,PCT 4,Soil and Water Conservation District Commissioner,,,Maureen Hutchcroft,690,313,377
+Des Moines,PCT 5,Soil and Water Conservation District Commissioner,,,Maureen Hutchcroft,386,153,233
+Des Moines,PCT 6,Soil and Water Conservation District Commissioner,,,Maureen Hutchcroft,208,81,127
+Des Moines,PCT 7,Soil and Water Conservation District Commissioner,,,Maureen Hutchcroft,553,197,356
+Des Moines,PCT 8,Soil and Water Conservation District Commissioner,,,Maureen Hutchcroft,778,287,491
+Des Moines,PCT BHJ,Soil and Water Conservation District Commissioner,,,Maureen Hutchcroft,336,97,239
+Des Moines,PCT CC,Soil and Water Conservation District Commissioner,,,Maureen Hutchcroft,177,72,105
+Des Moines,PCT DM,Soil and Water Conservation District Commissioner,,,Maureen Hutchcroft,355,60,295
+Des Moines,PCT FM,Soil and Water Conservation District Commissioner,,,Maureen Hutchcroft,566,256,310
+Des Moines,PCT MYF,Soil and Water Conservation District Commissioner,,,Maureen Hutchcroft,749,148,601
+Des Moines,PCT PW,Soil and Water Conservation District Commissioner,,,Maureen Hutchcroft,176,26,150
+Des Moines,PCT TAMA,Soil and Water Conservation District Commissioner,,,Maureen Hutchcroft,228,97,131
+Des Moines,PCT UNION,Soil and Water Conservation District Commissioner,,,Maureen Hutchcroft,205,77,128
+Des Moines,PCT WB,Soil and Water Conservation District Commissioner,,,Maureen Hutchcroft,585,176,409
+Des Moines,PCT 1,Soil and Water Conservation District Commissioner,,,Write-in,4,2,2
+Des Moines,PCT 2,Soil and Water Conservation District Commissioner,,,Write-in,5,2,3
+Des Moines,PCT 3,Soil and Water Conservation District Commissioner,,,Write-in,7,2,5
+Des Moines,PCT 4,Soil and Water Conservation District Commissioner,,,Write-in,7,2,5
+Des Moines,PCT 5,Soil and Water Conservation District Commissioner,,,Write-in,18,2,16
+Des Moines,PCT 6,Soil and Water Conservation District Commissioner,,,Write-in,4,0,4
+Des Moines,PCT 7,Soil and Water Conservation District Commissioner,,,Write-in,14,3,11
+Des Moines,PCT 8,Soil and Water Conservation District Commissioner,,,Write-in,3,1,2
+Des Moines,PCT BHJ,Soil and Water Conservation District Commissioner,,,Write-in,3,2,1
+Des Moines,PCT CC,Soil and Water Conservation District Commissioner,,,Write-in,5,1,4
+Des Moines,PCT DM,Soil and Water Conservation District Commissioner,,,Write-in,6,0,6
+Des Moines,PCT FM,Soil and Water Conservation District Commissioner,,,Write-in,11,5,6
+Des Moines,PCT MYF,Soil and Water Conservation District Commissioner,,,Write-in,11,0,11
+Des Moines,PCT PW,Soil and Water Conservation District Commissioner,,,Write-in,3,2,1
+Des Moines,PCT TAMA,Soil and Water Conservation District Commissioner,,,Write-in,3,1,2
+Des Moines,PCT UNION,Soil and Water Conservation District Commissioner,,,Write-in,2,1,1
+Des Moines,PCT WB,Soil and Water Conservation District Commissioner,,,Write-in,8,4,4
+Des Moines,PCT 1,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Josh Nelson,863,311,552
+Des Moines,PCT 2,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Josh Nelson,500,171,329
+Des Moines,PCT 3,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Josh Nelson,591,258,333
+Des Moines,PCT 4,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Josh Nelson,803,345,458
+Des Moines,PCT 5,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Josh Nelson,486,186,300
+Des Moines,PCT 6,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Josh Nelson,298,102,196
+Des Moines,PCT 7,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Josh Nelson,710,246,464
+Des Moines,PCT 8,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Josh Nelson,956,342,614
+Des Moines,PCT BHJ,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Josh Nelson,446,119,327
+Des Moines,PCT CC,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Josh Nelson,209,84,125
+Des Moines,PCT DM,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Josh Nelson,478,71,407
+Des Moines,PCT FM,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Josh Nelson,700,297,403
+Des Moines,PCT MYF,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Josh Nelson,966,172,794
+Des Moines,PCT PW,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Josh Nelson,236,37,199
+Des Moines,PCT TAMA,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Josh Nelson,301,110,191
+Des Moines,PCT UNION,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Josh Nelson,265,100,165
+Des Moines,PCT WB,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Josh Nelson,707,212,495
+Des Moines,PCT 1,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,1,0,1
+Des Moines,PCT 2,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,6,2,4
+Des Moines,PCT 3,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,8,1,7
+Des Moines,PCT 4,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,7,2,5
+Des Moines,PCT 5,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,12,0,12
+Des Moines,PCT 6,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,2,0,2
+Des Moines,PCT 7,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,14,2,12
+Des Moines,PCT 8,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,5,0,5
+Des Moines,PCT BHJ,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,3,1,2
+Des Moines,PCT CC,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,3,1,2
+Des Moines,PCT DM,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,6,0,6
+Des Moines,PCT FM,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,10,3,7
+Des Moines,PCT MYF,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,3,0,3
+Des Moines,PCT PW,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,1,0,1
+Des Moines,PCT TAMA,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,3,0,3
+Des Moines,PCT UNION,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,2,1,1
+Des Moines,PCT WB,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,9,2,7
+Des Moines,PCT 1,County Agricultural Extension Council Member,,,Ericka B Breuer,719,268,451
+Des Moines,PCT 2,County Agricultural Extension Council Member,,,Ericka B Breuer,403,149,254
+Des Moines,PCT 3,County Agricultural Extension Council Member,,,Ericka B Breuer,463,212,251
+Des Moines,PCT 4,County Agricultural Extension Council Member,,,Ericka B Breuer,676,290,386
+Des Moines,PCT 5,County Agricultural Extension Council Member,,,Ericka B Breuer,400,158,242
+Des Moines,PCT 6,County Agricultural Extension Council Member,,,Ericka B Breuer,217,87,130
+Des Moines,PCT 7,County Agricultural Extension Council Member,,,Ericka B Breuer,582,213,369
+Des Moines,PCT 8,County Agricultural Extension Council Member,,,Ericka B Breuer,830,291,539
+Des Moines,PCT BHJ,County Agricultural Extension Council Member,,,Ericka B Breuer,333,96,237
+Des Moines,PCT CC,County Agricultural Extension Council Member,,,Ericka B Breuer,199,74,125
+Des Moines,PCT DM,County Agricultural Extension Council Member,,,Ericka B Breuer,380,67,313
+Des Moines,PCT FM,County Agricultural Extension Council Member,,,Ericka B Breuer,587,257,330
+Des Moines,PCT MYF,County Agricultural Extension Council Member,,,Ericka B Breuer,717,130,587
+Des Moines,PCT PW,County Agricultural Extension Council Member,,,Ericka B Breuer,187,33,154
+Des Moines,PCT TAMA,County Agricultural Extension Council Member,,,Ericka B Breuer,237,87,150
+Des Moines,PCT UNION,County Agricultural Extension Council Member,,,Ericka B Breuer,237,87,150
+Des Moines,PCT WB,County Agricultural Extension Council Member,,,Ericka B Breuer,595,176,419
+Des Moines,PCT 1,County Agricultural Extension Council Member,,,Dean Van Ness,684,250,434
+Des Moines,PCT 2,County Agricultural Extension Council Member,,,Dean Van Ness,364,126,238
+Des Moines,PCT 3,County Agricultural Extension Council Member,,,Dean Van Ness,454,206,248
+Des Moines,PCT 4,County Agricultural Extension Council Member,,,Dean Van Ness,636,284,352
+Des Moines,PCT 5,County Agricultural Extension Council Member,,,Dean Van Ness,375,146,229
+Des Moines,PCT 6,County Agricultural Extension Council Member,,,Dean Van Ness,207,79,128
+Des Moines,PCT 7,County Agricultural Extension Council Member,,,Dean Van Ness,544,196,348
+Des Moines,PCT 8,County Agricultural Extension Council Member,,,Dean Van Ness,766,279,487
+Des Moines,PCT BHJ,County Agricultural Extension Council Member,,,Dean Van Ness,333,89,244
+Des Moines,PCT CC,County Agricultural Extension Council Member,,,Dean Van Ness,171,65,106
+Des Moines,PCT DM,County Agricultural Extension Council Member,,,Dean Van Ness,381,67,314
+Des Moines,PCT FM,County Agricultural Extension Council Member,,,Dean Van Ness,538,241,297
+Des Moines,PCT MYF,County Agricultural Extension Council Member,,,Dean Van Ness,734,131,603
+Des Moines,PCT PW,County Agricultural Extension Council Member,,,Dean Van Ness,181,29,152
+Des Moines,PCT TAMA,County Agricultural Extension Council Member,,,Dean Van Ness,230,84,146
+Des Moines,PCT UNION,County Agricultural Extension Council Member,,,Dean Van Ness,202,79,123
+Des Moines,PCT WB,County Agricultural Extension Council Member,,,Dean Van Ness,577,172,405
+Des Moines,PCT 1,County Agricultural Extension Council Member,,,Barbara E Kerr,673,252,421
+Des Moines,PCT 2,County Agricultural Extension Council Member,,,Barbara E Kerr,382,143,239
+Des Moines,PCT 3,County Agricultural Extension Council Member,,,Barbara E Kerr,441,204,237
+Des Moines,PCT 4,County Agricultural Extension Council Member,,,Barbara E Kerr,648,293,355
+Des Moines,PCT 5,County Agricultural Extension Council Member,,,Barbara E Kerr,374,152,222
+Des Moines,PCT 6,County Agricultural Extension Council Member,,,Barbara E Kerr,210,78,132
+Des Moines,PCT 7,County Agricultural Extension Council Member,,,Barbara E Kerr,539,196,343
+Des Moines,PCT 8,County Agricultural Extension Council Member,,,Barbara E Kerr,759,274,485
+Des Moines,PCT BHJ,County Agricultural Extension Council Member,,,Barbara E Kerr,343,90,253
+Des Moines,PCT CC,County Agricultural Extension Council Member,,,Barbara E Kerr,170,68,102
+Des Moines,PCT DM,County Agricultural Extension Council Member,,,Barbara E Kerr,370,65,305
+Des Moines,PCT FM,County Agricultural Extension Council Member,,,Barbara E Kerr,555,252,303
+Des Moines,PCT MYF,County Agricultural Extension Council Member,,,Barbara E Kerr,729,130,599
+Des Moines,PCT PW,County Agricultural Extension Council Member,,,Barbara E Kerr,185,24,161
+Des Moines,PCT TAMA,County Agricultural Extension Council Member,,,Barbara E Kerr,222,81,141
+Des Moines,PCT UNION,County Agricultural Extension Council Member,,,Barbara E Kerr,202,76,126
+Des Moines,PCT WB,County Agricultural Extension Council Member,,,Barbara E Kerr,573,173,400
+Des Moines,PCT 1,County Agricultural Extension Council Member,,,Brenda Wischmeier,717,266,451
+Des Moines,PCT 2,County Agricultural Extension Council Member,,,Brenda Wischmeier,412,148,264
+Des Moines,PCT 3,County Agricultural Extension Council Member,,,Brenda Wischmeier,467,210,257
+Des Moines,PCT 4,County Agricultural Extension Council Member,,,Brenda Wischmeier,681,296,385
+Des Moines,PCT 5,County Agricultural Extension Council Member,,,Brenda Wischmeier,391,153,238
+Des Moines,PCT 6,County Agricultural Extension Council Member,,,Brenda Wischmeier,224,86,138
+Des Moines,PCT 7,County Agricultural Extension Council Member,,,Brenda Wischmeier,569,197,372
+Des Moines,PCT 8,County Agricultural Extension Council Member,,,Brenda Wischmeier,797,292,505
+Des Moines,PCT BHJ,County Agricultural Extension Council Member,,,Brenda Wischmeier,375,98,277
+Des Moines,PCT CC,County Agricultural Extension Council Member,,,Brenda Wischmeier,194,71,123
+Des Moines,PCT DM,County Agricultural Extension Council Member,,,Brenda Wischmeier,400,72,328
+Des Moines,PCT FM,County Agricultural Extension Council Member,,,Brenda Wischmeier,598,273,325
+Des Moines,PCT MYF,County Agricultural Extension Council Member,,,Brenda Wischmeier,782,134,648
+Des Moines,PCT PW,County Agricultural Extension Council Member,,,Brenda Wischmeier,184,25,159
+Des Moines,PCT TAMA,County Agricultural Extension Council Member,,,Brenda Wischmeier,255,90,165
+Des Moines,PCT UNION,County Agricultural Extension Council Member,,,Brenda Wischmeier,225,85,140
+Des Moines,PCT WB,County Agricultural Extension Council Member,,,Brenda Wischmeier,606,176,430
+Des Moines,PCT 1,County Agricultural Extension Council Member,,,Dwight Byerly,641,241,400
+Des Moines,PCT 2,County Agricultural Extension Council Member,,,Dwight Byerly,350,125,225
+Des Moines,PCT 3,County Agricultural Extension Council Member,,,Dwight Byerly,428,202,226
+Des Moines,PCT 4,County Agricultural Extension Council Member,,,Dwight Byerly,614,276,338
+Des Moines,PCT 5,County Agricultural Extension Council Member,,,Dwight Byerly,363,143,220
+Des Moines,PCT 6,County Agricultural Extension Council Member,,,Dwight Byerly,194,75,119
+Des Moines,PCT 7,County Agricultural Extension Council Member,,,Dwight Byerly,511,183,328
+Des Moines,PCT 8,County Agricultural Extension Council Member,,,Dwight Byerly,735,263,472
+Des Moines,PCT BHJ,County Agricultural Extension Council Member,,,Dwight Byerly,307,81,226
+Des Moines,PCT CC,County Agricultural Extension Council Member,,,Dwight Byerly,158,62,96
+Des Moines,PCT DM,County Agricultural Extension Council Member,,,Dwight Byerly,410,72,338
+Des Moines,PCT FM,County Agricultural Extension Council Member,,,Dwight Byerly,556,251,305
+Des Moines,PCT MYF,County Agricultural Extension Council Member,,,Dwight Byerly,678,118,560
+Des Moines,PCT PW,County Agricultural Extension Council Member,,,Dwight Byerly,184,27,157
+Des Moines,PCT TAMA,County Agricultural Extension Council Member,,,Dwight Byerly,205,74,131
+Des Moines,PCT UNION,County Agricultural Extension Council Member,,,Dwight Byerly,201,75,126
+Des Moines,PCT WB,County Agricultural Extension Council Member,,,Dwight Byerly,563,168,395
+Des Moines,PCT 1,County Agricultural Extension Council Member,,,Write-in,4,3,1
+Des Moines,PCT 2,County Agricultural Extension Council Member,,,Write-in,5,2,3
+Des Moines,PCT 3,County Agricultural Extension Council Member,,,Write-in,16,5,11
+Des Moines,PCT 4,County Agricultural Extension Council Member,,,Write-in,11,4,7
+Des Moines,PCT 5,County Agricultural Extension Council Member,,,Write-in,11,0,11
+Des Moines,PCT 6,County Agricultural Extension Council Member,,,Write-in,6,1,5
+Des Moines,PCT 7,County Agricultural Extension Council Member,,,Write-in,21,0,21
+Des Moines,PCT 8,County Agricultural Extension Council Member,,,Write-in,12,2,10
+Des Moines,PCT BHJ,County Agricultural Extension Council Member,,,Write-in,5,0,5
+Des Moines,PCT CC,County Agricultural Extension Council Member,,,Write-in,4,2,2
+Des Moines,PCT DM,County Agricultural Extension Council Member,,,Write-in,6,0,6
+Des Moines,PCT FM,County Agricultural Extension Council Member,,,Write-in,17,7,10
+Des Moines,PCT MYF,County Agricultural Extension Council Member,,,Write-in,22,2,20
+Des Moines,PCT PW,County Agricultural Extension Council Member,,,Write-in,14,1,13
+Des Moines,PCT TAMA,County Agricultural Extension Council Member,,,Write-in,2,2,0
+Des Moines,PCT UNION,County Agricultural Extension Council Member,,,Write-in,3,2,1
+Des Moines,PCT WB,County Agricultural Extension Council Member,,,Write-in,12,5,7
+Des Moines,PCT 1,Supreme Court Justice,,,Yes,657,246,411
+Des Moines,PCT 2,Supreme Court Justice,,,Yes,388,131,257
+Des Moines,PCT 3,Supreme Court Justice,,,Yes,434,189,245
+Des Moines,PCT 4,Supreme Court Justice,,,Yes,638,257,381
+Des Moines,PCT 5,Supreme Court Justice,,,Yes,390,140,250
+Des Moines,PCT 6,Supreme Court Justice,,,Yes,208,77,131
+Des Moines,PCT 7,Supreme Court Justice,,,Yes,552,193,359
+Des Moines,PCT 8,Supreme Court Justice,,,Yes,744,254,490
+Des Moines,PCT BHJ,Supreme Court Justice,,,Yes,271,73,198
+Des Moines,PCT CC,Supreme Court Justice,,,Yes,167,75,92
+Des Moines,PCT DM,Supreme Court Justice,,,Yes,331,57,274
+Des Moines,PCT FM,Supreme Court Justice,,,Yes,525,227,298
+Des Moines,PCT MYF,Supreme Court Justice,,,Yes,628,115,513
+Des Moines,PCT PW,Supreme Court Justice,,,Yes,147,21,126
+Des Moines,PCT TAMA,Supreme Court Justice,,,Yes,225,77,148
+Des Moines,PCT UNION,Supreme Court Justice,,,Yes,194,69,125
+Des Moines,PCT WB,Supreme Court Justice,,,Yes,534,159,375
+Des Moines,PCT 1,Supreme Court Justice,,,No,260,86,174
+Des Moines,PCT 2,Supreme Court Justice,,,No,166,57,109
+Des Moines,PCT 3,Supreme Court Justice,,,No,195,91,104
+Des Moines,PCT 4,Supreme Court Justice,,,No,224,102,122
+Des Moines,PCT 5,Supreme Court Justice,,,No,155,60,95
+Des Moines,PCT 6,Supreme Court Justice,,,No,120,46,74
+Des Moines,PCT 7,Supreme Court Justice,,,No,237,89,148
+Des Moines,PCT 8,Supreme Court Justice,,,No,306,124,182
+Des Moines,PCT BHJ,Supreme Court Justice,,,No,133,43,90
+Des Moines,PCT CC,Supreme Court Justice,,,No,61,16,45
+Des Moines,PCT DM,Supreme Court Justice,,,No,160,27,133
+Des Moines,PCT FM,Supreme Court Justice,,,No,246,97,149
+Des Moines,PCT MYF,Supreme Court Justice,,,No,257,45,212
+Des Moines,PCT PW,Supreme Court Justice,,,No,79,15,64
+Des Moines,PCT TAMA,Supreme Court Justice,,,No,95,35,60
+Des Moines,PCT UNION,Supreme Court Justice,,,No,82,39,43
+Des Moines,PCT WB,Supreme Court Justice,,,No,205,58,147
+Des Moines,PCT 1,Court of Appeals Judge,,,Yes,659,240,419
+Des Moines,PCT 2,Court of Appeals Judge,,,Yes,390,135,255
+Des Moines,PCT 3,Court of Appeals Judge,,,Yes,450,198,252
+Des Moines,PCT 4,Court of Appeals Judge,,,Yes,671,281,390
+Des Moines,PCT 5,Court of Appeals Judge,,,Yes,398,145,253
+Des Moines,PCT 6,Court of Appeals Judge,,,Yes,224,84,140
+Des Moines,PCT 7,Court of Appeals Judge,,,Yes,550,192,358
+Des Moines,PCT 8,Court of Appeals Judge,,,Yes,765,265,500
+Des Moines,PCT BHJ,Court of Appeals Judge,,,Yes,264,71,193
+Des Moines,PCT CC,Court of Appeals Judge,,,Yes,168,78,90
+Des Moines,PCT DM,Court of Appeals Judge,,,Yes,332,55,277
+Des Moines,PCT FM,Court of Appeals Judge,,,Yes,551,247,304
+Des Moines,PCT MYF,Court of Appeals Judge,,,Yes,624,118,506
+Des Moines,PCT PW,Court of Appeals Judge,,,Yes,149,21,128
+Des Moines,PCT TAMA,Court of Appeals Judge,,,Yes,231,80,151
+Des Moines,PCT UNION,Court of Appeals Judge,,,Yes,200,69,131
+Des Moines,PCT WB,Court of Appeals Judge,,,Yes,543,162,381
+Des Moines,PCT 1,Court of Appeals Judge,,,No,237,76,161
+Des Moines,PCT 2,Court of Appeals Judge,,,No,156,53,103
+Des Moines,PCT 3,Court of Appeals Judge,,,No,179,78,101
+Des Moines,PCT 4,Court of Appeals Judge,,,No,188,78,110
+Des Moines,PCT 5,Court of Appeals Judge,,,No,143,53,90
+Des Moines,PCT 6,Court of Appeals Judge,,,No,101,39,62
+Des Moines,PCT 7,Court of Appeals Judge,,,No,223,82,141
+Des Moines,PCT 8,Court of Appeals Judge,,,No,284,114,170
+Des Moines,PCT BHJ,Court of Appeals Judge,,,No,132,41,91
+Des Moines,PCT CC,Court of Appeals Judge,,,No,62,16,46
+Des Moines,PCT DM,Court of Appeals Judge,,,No,155,28,127
+Des Moines,PCT FM,Court of Appeals Judge,,,No,217,80,137
+Des Moines,PCT MYF,Court of Appeals Judge,,,No,249,39,210
+Des Moines,PCT PW,Court of Appeals Judge,,,No,73,11,62
+Des Moines,PCT TAMA,Court of Appeals Judge,,,No,85,29,56
+Des Moines,PCT UNION,Court of Appeals Judge,,,No,74,36,38
+Des Moines,PCT WB,Court of Appeals Judge,,,No,189,56,133
+Des Moines,PCT 1,Constitutional Amendment 1,,,Yes,803,231,572
+Des Moines,PCT 2,Constitutional Amendment 1,,,Yes,437,115,322
+Des Moines,PCT 3,Constitutional Amendment 1,,,Yes,579,218,361
+Des Moines,PCT 4,Constitutional Amendment 1,,,Yes,731,253,478
+Des Moines,PCT 5,Constitutional Amendment 1,,,Yes,452,118,334
+Des Moines,PCT 6,Constitutional Amendment 1,,,Yes,255,75,180
+Des Moines,PCT 7,Constitutional Amendment 1,,,Yes,676,191,485
+Des Moines,PCT 8,Constitutional Amendment 1,,,Yes,863,231,632
+Des Moines,PCT BHJ,Constitutional Amendment 1,,,Yes,462,102,360
+Des Moines,PCT CC,Constitutional Amendment 1,,,Yes,225,72,153
+Des Moines,PCT DM,Constitutional Amendment 1,,,Yes,545,71,474
+Des Moines,PCT FM,Constitutional Amendment 1,,,Yes,777,262,515
+Des Moines,PCT MYF,Constitutional Amendment 1,,,Yes,970,166,804
+Des Moines,PCT PW,Constitutional Amendment 1,,,Yes,285,30,255
+Des Moines,PCT TAMA,Constitutional Amendment 1,,,Yes,346,110,236
+Des Moines,PCT UNION,Constitutional Amendment 1,,,Yes,290,86,204
+Des Moines,PCT WB,Constitutional Amendment 1,,,Yes,660,163,497
+Des Moines,PCT 1,Constitutional Amendment 1,,,No,371,188,183
+Des Moines,PCT 2,Constitutional Amendment 1,,,No,257,126,131
+Des Moines,PCT 3,Constitutional Amendment 1,,,No,203,119,84
+Des Moines,PCT 4,Constitutional Amendment 1,,,No,369,182,187
+Des Moines,PCT 5,Constitutional Amendment 1,,,No,211,124,87
+Des Moines,PCT 6,Constitutional Amendment 1,,,No,129,64,65
+Des Moines,PCT 7,Constitutional Amendment 1,,,No,296,146,150
+Des Moines,PCT 8,Constitutional Amendment 1,,,No,458,224,234
+Des Moines,PCT BHJ,Constitutional Amendment 1,,,No,84,46,38
+Des Moines,PCT CC,Constitutional Amendment 1,,,No,76,37,39
+Des Moines,PCT DM,Constitutional Amendment 1,,,No,115,31,84
+Des Moines,PCT FM,Constitutional Amendment 1,,,No,240,146,94
+Des Moines,PCT MYF,Constitutional Amendment 1,,,No,193,51,142
+Des Moines,PCT PW,Constitutional Amendment 1,,,No,35,16,19
+Des Moines,PCT TAMA,Constitutional Amendment 1,,,No,70,41,29
+Des Moines,PCT UNION,Constitutional Amendment 1,,,No,62,45,17
+Des Moines,PCT WB,Constitutional Amendment 1,,,No,252,106,146

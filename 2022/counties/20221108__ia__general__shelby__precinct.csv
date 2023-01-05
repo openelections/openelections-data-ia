@@ -1,0 +1,792 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Shelby,HARLAN WARD 1,U.S. Senate,,DEM,Michael Franken,94,31,63
+Shelby,HARLAN WARD 2,U.S. Senate,,DEM,Michael Franken,170,71,99
+Shelby,HARLAN WARD 3,U.S. Senate,,DEM,Michael Franken,156,88,68
+Shelby,HARLAN WARD 4,U.S. Senate,,DEM,Michael Franken,106,54,52
+Shelby,CASS LINCOLN,U.S. Senate,,DEM,Michael Franken,82,41,41
+Shelby,GREELEY JEFFERSON,U.S. Senate,,DEM,Michael Franken,65,13,52
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,U.S. Senate,,DEM,Michael Franken,182,70,112
+Shelby,CENTER JACKSON,U.S. Senate,,DEM,Michael Franken,76,38,38
+Shelby,FAIRVIEW SHELBY,U.S. Senate,,DEM,Michael Franken,111,26,85
+Shelby,CLAY MONROE,U.S. Senate,,DEM,Michael Franken,131,28,103
+Shelby,DOUGLAS POLK,U.S. Senate,,DEM,Michael Franken,40,27,13
+Shelby,HARLAN WARD 1,U.S. Senate,,REP,Chuck Grassley,246,66,180
+Shelby,HARLAN WARD 2,U.S. Senate,,REP,Chuck Grassley,375,92,283
+Shelby,HARLAN WARD 3,U.S. Senate,,REP,Chuck Grassley,369,118,251
+Shelby,HARLAN WARD 4,U.S. Senate,,REP,Chuck Grassley,258,82,176
+Shelby,CASS LINCOLN,U.S. Senate,,REP,Chuck Grassley,268,87,181
+Shelby,GREELEY JEFFERSON,U.S. Senate,,REP,Chuck Grassley,245,39,206
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,U.S. Senate,,REP,Chuck Grassley,562,131,431
+Shelby,CENTER JACKSON,U.S. Senate,,REP,Chuck Grassley,260,82,178
+Shelby,FAIRVIEW SHELBY,U.S. Senate,,REP,Chuck Grassley,339,60,279
+Shelby,CLAY MONROE,U.S. Senate,,REP,Chuck Grassley,336,72,264
+Shelby,DOUGLAS POLK,U.S. Senate,,REP,Chuck Grassley,143,36,107
+Shelby,HARLAN WARD 1,U.S. Senate,,,Write-in,0,0,0
+Shelby,HARLAN WARD 2,U.S. Senate,,,Write-in,0,0,0
+Shelby,HARLAN WARD 3,U.S. Senate,,,Write-in,1,1,0
+Shelby,HARLAN WARD 4,U.S. Senate,,,Write-in,1,0,1
+Shelby,CASS LINCOLN,U.S. Senate,,,Write-in,0,0,0
+Shelby,GREELEY JEFFERSON,U.S. Senate,,,Write-in,1,0,1
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,U.S. Senate,,,Write-in,1,0,1
+Shelby,CENTER JACKSON,U.S. Senate,,,Write-in,1,0,1
+Shelby,FAIRVIEW SHELBY,U.S. Senate,,,Write-in,1,1,0
+Shelby,CLAY MONROE,U.S. Senate,,,Write-in,0,0,0
+Shelby,DOUGLAS POLK,U.S. Senate,,,Write-in,0,0,0
+Shelby,HARLAN WARD 1,U.S. House,4,DEM,Ryan Melton,76,31,45
+Shelby,HARLAN WARD 2,U.S. House,4,DEM,Ryan Melton,148,66,82
+Shelby,HARLAN WARD 3,U.S. House,4,DEM,Ryan Melton,146,77,69
+Shelby,HARLAN WARD 4,U.S. House,4,DEM,Ryan Melton,94,43,51
+Shelby,CASS LINCOLN,U.S. House,4,DEM,Ryan Melton,72,37,35
+Shelby,GREELEY JEFFERSON,U.S. House,4,DEM,Ryan Melton,52,10,42
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,U.S. House,4,DEM,Ryan Melton,141,56,85
+Shelby,CENTER JACKSON,U.S. House,4,DEM,Ryan Melton,64,33,31
+Shelby,FAIRVIEW SHELBY,U.S. House,4,DEM,Ryan Melton,101,27,74
+Shelby,CLAY MONROE,U.S. House,4,DEM,Ryan Melton,122,31,91
+Shelby,DOUGLAS POLK,U.S. House,4,DEM,Ryan Melton,38,26,12
+Shelby,HARLAN WARD 1,U.S. House,4,REP,Randy Feenstra,242,63,179
+Shelby,HARLAN WARD 2,U.S. House,4,REP,Randy Feenstra,374,92,282
+Shelby,HARLAN WARD 3,U.S. House,4,REP,Randy Feenstra,356,122,234
+Shelby,HARLAN WARD 4,U.S. House,4,REP,Randy Feenstra,255,85,170
+Shelby,CASS LINCOLN,U.S. House,4,REP,Randy Feenstra,271,87,184
+Shelby,GREELEY JEFFERSON,U.S. House,4,REP,Randy Feenstra,250,42,208
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,U.S. House,4,REP,Randy Feenstra,573,135,438
+Shelby,CENTER JACKSON,U.S. House,4,REP,Randy Feenstra,263,85,178
+Shelby,FAIRVIEW SHELBY,U.S. House,4,REP,Randy Feenstra,335,56,279
+Shelby,CLAY MONROE,U.S. House,4,REP,Randy Feenstra,322,63,259
+Shelby,DOUGLAS POLK,U.S. House,4,REP,Randy Feenstra,144,34,110
+Shelby,HARLAN WARD 1,U.S. House,4,LBC,Bryan Jack Holder,13,2,11
+Shelby,HARLAN WARD 2,U.S. House,4,LBC,Bryan Jack Holder,9,3,6
+Shelby,HARLAN WARD 3,U.S. House,4,LBC,Bryan Jack Holder,11,3,8
+Shelby,HARLAN WARD 4,U.S. House,4,LBC,Bryan Jack Holder,6,2,4
+Shelby,CASS LINCOLN,U.S. House,4,LBC,Bryan Jack Holder,3,1,2
+Shelby,GREELEY JEFFERSON,U.S. House,4,LBC,Bryan Jack Holder,7,0,7
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,U.S. House,4,LBC,Bryan Jack Holder,17,6,11
+Shelby,CENTER JACKSON,U.S. House,4,LBC,Bryan Jack Holder,7,0,7
+Shelby,FAIRVIEW SHELBY,U.S. House,4,LBC,Bryan Jack Holder,8,3,5
+Shelby,CLAY MONROE,U.S. House,4,LBC,Bryan Jack Holder,16,5,11
+Shelby,DOUGLAS POLK,U.S. House,4,LBC,Bryan Jack Holder,3,2,1
+Shelby,HARLAN WARD 1,U.S. House,4,,Write-in,1,0,1
+Shelby,HARLAN WARD 2,U.S. House,4,,Write-in,0,0,0
+Shelby,HARLAN WARD 3,U.S. House,4,,Write-in,0,0,0
+Shelby,HARLAN WARD 4,U.S. House,4,,Write-in,0,0,0
+Shelby,CASS LINCOLN,U.S. House,4,,Write-in,0,0,0
+Shelby,GREELEY JEFFERSON,U.S. House,4,,Write-in,0,0,0
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,U.S. House,4,,Write-in,4,0,4
+Shelby,CENTER JACKSON,U.S. House,4,,Write-in,0,0,0
+Shelby,FAIRVIEW SHELBY,U.S. House,4,,Write-in,0,0,0
+Shelby,CLAY MONROE,U.S. House,4,,Write-in,0,0,0
+Shelby,DOUGLAS POLK,U.S. House,4,,Write-in,0,0,0
+Shelby,HARLAN WARD 1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,77,28,49
+Shelby,HARLAN WARD 2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,145,68,77
+Shelby,HARLAN WARD 3,Governor,,DEM,Deidre DeJear and Eric Van Lancker,139,76,63
+Shelby,HARLAN WARD 4,Governor,,DEM,Deidre DeJear and Eric Van Lancker,99,50,49
+Shelby,CASS LINCOLN,Governor,,DEM,Deidre DeJear and Eric Van Lancker,69,38,31
+Shelby,GREELEY JEFFERSON,Governor,,DEM,Deidre DeJear and Eric Van Lancker,50,10,40
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Governor,,DEM,Deidre DeJear and Eric Van Lancker,132,54,78
+Shelby,CENTER JACKSON,Governor,,DEM,Deidre DeJear and Eric Van Lancker,59,34,25
+Shelby,FAIRVIEW SHELBY,Governor,,DEM,Deidre DeJear and Eric Van Lancker,101,26,75
+Shelby,CLAY MONROE,Governor,,DEM,Deidre DeJear and Eric Van Lancker,117,25,92
+Shelby,DOUGLAS POLK,Governor,,DEM,Deidre DeJear and Eric Van Lancker,35,25,10
+Shelby,HARLAN WARD 1,Governor,,REP,Kim Reynolds and Adam Gregg,255,69,186
+Shelby,HARLAN WARD 2,Governor,,REP,Kim Reynolds and Adam Gregg,392,98,294
+Shelby,HARLAN WARD 3,Governor,,REP,Kim Reynolds and Adam Gregg,388,135,253
+Shelby,HARLAN WARD 4,Governor,,REP,Kim Reynolds and Adam Gregg,269,89,180
+Shelby,CASS LINCOLN,Governor,,REP,Kim Reynolds and Adam Gregg,282,92,190
+Shelby,GREELEY JEFFERSON,Governor,,REP,Kim Reynolds and Adam Gregg,260,43,217
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Governor,,REP,Kim Reynolds and Adam Gregg,601,140,461
+Shelby,CENTER JACKSON,Governor,,REP,Kim Reynolds and Adam Gregg,278,88,190
+Shelby,FAIRVIEW SHELBY,Governor,,REP,Kim Reynolds and Adam Gregg,350,62,288
+Shelby,CLAY MONROE,Governor,,REP,Kim Reynolds and Adam Gregg,343,75,268
+Shelby,DOUGLAS POLK,Governor,,REP,Kim Reynolds and Adam Gregg,152,39,113
+Shelby,HARLAN WARD 1,Governor,,LIB,Rick Stewart and Marco Battaglia,15,4,11
+Shelby,HARLAN WARD 2,Governor,,LIB,Rick Stewart and Marco Battaglia,14,3,11
+Shelby,HARLAN WARD 3,Governor,,LIB,Rick Stewart and Marco Battaglia,7,3,4
+Shelby,HARLAN WARD 4,Governor,,LIB,Rick Stewart and Marco Battaglia,4,0,4
+Shelby,CASS LINCOLN,Governor,,LIB,Rick Stewart and Marco Battaglia,6,2,4
+Shelby,GREELEY JEFFERSON,Governor,,LIB,Rick Stewart and Marco Battaglia,6,0,6
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Governor,,LIB,Rick Stewart and Marco Battaglia,19,10,9
+Shelby,CENTER JACKSON,Governor,,LIB,Rick Stewart and Marco Battaglia,7,3,4
+Shelby,FAIRVIEW SHELBY,Governor,,LIB,Rick Stewart and Marco Battaglia,9,1,8
+Shelby,CLAY MONROE,Governor,,LIB,Rick Stewart and Marco Battaglia,12,4,8
+Shelby,DOUGLAS POLK,Governor,,LIB,Rick Stewart and Marco Battaglia,4,2,2
+Shelby,HARLAN WARD 1,Governor,,,Write-in,0,0,0
+Shelby,HARLAN WARD 2,Governor,,,Write-in,0,0,0
+Shelby,HARLAN WARD 3,Governor,,,Write-in,0,0,0
+Shelby,HARLAN WARD 4,Governor,,,Write-in,0,0,0
+Shelby,CASS LINCOLN,Governor,,,Write-in,0,0,0
+Shelby,GREELEY JEFFERSON,Governor,,,Write-in,0,0,0
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Governor,,,Write-in,1,0,1
+Shelby,CENTER JACKSON,Governor,,,Write-in,0,0,0
+Shelby,FAIRVIEW SHELBY,Governor,,,Write-in,0,0,0
+Shelby,CLAY MONROE,Governor,,,Write-in,0,0,0
+Shelby,DOUGLAS POLK,Governor,,,Write-in,0,0,0
+Shelby,HARLAN WARD 1,Secretary of State,,DEM,Joel Miller,82,30,52
+Shelby,HARLAN WARD 2,Secretary of State,,DEM,Joel Miller,147,67,80
+Shelby,HARLAN WARD 3,Secretary of State,,DEM,Joel Miller,144,79,65
+Shelby,HARLAN WARD 4,Secretary of State,,DEM,Joel Miller,107,52,55
+Shelby,CASS LINCOLN,Secretary of State,,DEM,Joel Miller,72,39,33
+Shelby,GREELEY JEFFERSON,Secretary of State,,DEM,Joel Miller,62,11,51
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Secretary of State,,DEM,Joel Miller,159,58,101
+Shelby,CENTER JACKSON,Secretary of State,,DEM,Joel Miller,63,31,32
+Shelby,FAIRVIEW SHELBY,Secretary of State,,DEM,Joel Miller,101,30,71
+Shelby,CLAY MONROE,Secretary of State,,DEM,Joel Miller,136,36,100
+Shelby,DOUGLAS POLK,Secretary of State,,DEM,Joel Miller,36,25,11
+Shelby,HARLAN WARD 1,Secretary of State,,REP,Paul D. Pate,256,70,186
+Shelby,HARLAN WARD 2,Secretary of State,,REP,Paul D. Pate,387,101,286
+Shelby,HARLAN WARD 3,Secretary of State,,REP,Paul D. Pate,378,129,249
+Shelby,HARLAN WARD 4,Secretary of State,,REP,Paul D. Pate,252,83,169
+Shelby,CASS LINCOLN,Secretary of State,,REP,Paul D. Pate,274,87,187
+Shelby,GREELEY JEFFERSON,Secretary of State,,REP,Paul D. Pate,244,41,203
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Secretary of State,,REP,Paul D. Pate,580,139,441
+Shelby,CENTER JACKSON,Secretary of State,,REP,Paul D. Pate,274,90,184
+Shelby,FAIRVIEW SHELBY,Secretary of State,,REP,Paul D. Pate,347,57,290
+Shelby,CLAY MONROE,Secretary of State,,REP,Paul D. Pate,327,67,260
+Shelby,DOUGLAS POLK,Secretary of State,,REP,Paul D. Pate,151,38,113
+Shelby,HARLAN WARD 1,Secretary of State,,,Write-in,0,0,0
+Shelby,HARLAN WARD 2,Secretary of State,,,Write-in,0,0,0
+Shelby,HARLAN WARD 3,Secretary of State,,,Write-in,0,0,0
+Shelby,HARLAN WARD 4,Secretary of State,,,Write-in,1,0,1
+Shelby,CASS LINCOLN,Secretary of State,,,Write-in,0,0,0
+Shelby,GREELEY JEFFERSON,Secretary of State,,,Write-in,0,0,0
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Secretary of State,,,Write-in,1,0,1
+Shelby,CENTER JACKSON,Secretary of State,,,Write-in,0,0,0
+Shelby,FAIRVIEW SHELBY,Secretary of State,,,Write-in,0,0,0
+Shelby,CLAY MONROE,Secretary of State,,,Write-in,0,0,0
+Shelby,DOUGLAS POLK,Secretary of State,,,Write-in,0,0,0
+Shelby,HARLAN WARD 1,Auditor of State,,DEM,Rob Sand,93,32,61
+Shelby,HARLAN WARD 2,Auditor of State,,DEM,Rob Sand,178,77,101
+Shelby,HARLAN WARD 3,Auditor of State,,DEM,Rob Sand,156,80,76
+Shelby,HARLAN WARD 4,Auditor of State,,DEM,Rob Sand,102,49,53
+Shelby,CASS LINCOLN,Auditor of State,,DEM,Rob Sand,83,43,40
+Shelby,GREELEY JEFFERSON,Auditor of State,,DEM,Rob Sand,56,12,44
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Auditor of State,,DEM,Rob Sand,169,70,99
+Shelby,CENTER JACKSON,Auditor of State,,DEM,Rob Sand,83,38,45
+Shelby,FAIRVIEW SHELBY,Auditor of State,,DEM,Rob Sand,113,29,84
+Shelby,CLAY MONROE,Auditor of State,,DEM,Rob Sand,144,34,110
+Shelby,DOUGLAS POLK,Auditor of State,,DEM,Rob Sand,42,25,17
+Shelby,HARLAN WARD 1,Auditor of State,,REP,Todd Halbur,241,68,173
+Shelby,HARLAN WARD 2,Auditor of State,,REP,Todd Halbur,350,87,263
+Shelby,HARLAN WARD 3,Auditor of State,,REP,Todd Halbur,357,122,235
+Shelby,HARLAN WARD 4,Auditor of State,,REP,Todd Halbur,246,76,170
+Shelby,CASS LINCOLN,Auditor of State,,REP,Todd Halbur,263,83,180
+Shelby,GREELEY JEFFERSON,Auditor of State,,REP,Todd Halbur,247,37,210
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Auditor of State,,REP,Todd Halbur,560,125,435
+Shelby,CENTER JACKSON,Auditor of State,,REP,Todd Halbur,248,79,169
+Shelby,FAIRVIEW SHELBY,Auditor of State,,REP,Todd Halbur,330,56,274
+Shelby,CLAY MONROE,Auditor of State,,REP,Todd Halbur,316,66,250
+Shelby,DOUGLAS POLK,Auditor of State,,REP,Todd Halbur,142,36,106
+Shelby,HARLAN WARD 1,Auditor of State,,,Write-in,0,0,0
+Shelby,HARLAN WARD 2,Auditor of State,,,Write-in,0,0,0
+Shelby,HARLAN WARD 3,Auditor of State,,,Write-in,0,0,0
+Shelby,HARLAN WARD 4,Auditor of State,,,Write-in,1,0,1
+Shelby,CASS LINCOLN,Auditor of State,,,Write-in,0,0,0
+Shelby,GREELEY JEFFERSON,Auditor of State,,,Write-in,0,0,0
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Auditor of State,,,Write-in,1,0,1
+Shelby,CENTER JACKSON,Auditor of State,,,Write-in,0,0,0
+Shelby,FAIRVIEW SHELBY,Auditor of State,,,Write-in,0,0,0
+Shelby,CLAY MONROE,Auditor of State,,,Write-in,0,0,0
+Shelby,DOUGLAS POLK,Auditor of State,,,Write-in,0,0,0
+Shelby,HARLAN WARD 1,Treasurer of State,,DEM,Michael L. Fitzgerald,102,38,64
+Shelby,HARLAN WARD 2,Treasurer of State,,DEM,Michael L. Fitzgerald,197,85,112
+Shelby,HARLAN WARD 3,Treasurer of State,,DEM,Michael L. Fitzgerald,190,104,86
+Shelby,HARLAN WARD 4,Treasurer of State,,DEM,Michael L. Fitzgerald,121,60,61
+Shelby,CASS LINCOLN,Treasurer of State,,DEM,Michael L. Fitzgerald,97,46,51
+Shelby,GREELEY JEFFERSON,Treasurer of State,,DEM,Michael L. Fitzgerald,80,15,65
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Treasurer of State,,DEM,Michael L. Fitzgerald,214,82,132
+Shelby,CENTER JACKSON,Treasurer of State,,DEM,Michael L. Fitzgerald,96,44,52
+Shelby,FAIRVIEW SHELBY,Treasurer of State,,DEM,Michael L. Fitzgerald,131,33,98
+Shelby,CLAY MONROE,Treasurer of State,,DEM,Michael L. Fitzgerald,148,32,116
+Shelby,DOUGLAS POLK,Treasurer of State,,DEM,Michael L. Fitzgerald,52,29,23
+Shelby,HARLAN WARD 1,Treasurer of State,,REP,Roby Smith,229,60,169
+Shelby,HARLAN WARD 2,Treasurer of State,,REP,Roby Smith,333,78,255
+Shelby,HARLAN WARD 3,Treasurer of State,,REP,Roby Smith,335,107,228
+Shelby,HARLAN WARD 4,Treasurer of State,,REP,Roby Smith,235,73,162
+Shelby,CASS LINCOLN,Treasurer of State,,REP,Roby Smith,248,81,167
+Shelby,GREELEY JEFFERSON,Treasurer of State,,REP,Roby Smith,227,37,190
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Treasurer of State,,REP,Roby Smith,511,115,396
+Shelby,CENTER JACKSON,Treasurer of State,,REP,Roby Smith,237,73,164
+Shelby,FAIRVIEW SHELBY,Treasurer of State,,REP,Roby Smith,318,53,265
+Shelby,CLAY MONROE,Treasurer of State,,REP,Roby Smith,308,66,242
+Shelby,DOUGLAS POLK,Treasurer of State,,REP,Roby Smith,133,34,99
+Shelby,HARLAN WARD 1,Treasurer of State,,,Write-in,0,0,0
+Shelby,HARLAN WARD 2,Treasurer of State,,,Write-in,0,0,0
+Shelby,HARLAN WARD 3,Treasurer of State,,,Write-in,0,0,0
+Shelby,HARLAN WARD 4,Treasurer of State,,,Write-in,1,0,1
+Shelby,CASS LINCOLN,Treasurer of State,,,Write-in,0,0,0
+Shelby,GREELEY JEFFERSON,Treasurer of State,,,Write-in,0,0,0
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Treasurer of State,,,Write-in,0,0,0
+Shelby,CENTER JACKSON,Treasurer of State,,,Write-in,0,0,0
+Shelby,FAIRVIEW SHELBY,Treasurer of State,,,Write-in,0,0,0
+Shelby,CLAY MONROE,Treasurer of State,,,Write-in,0,0,0
+Shelby,DOUGLAS POLK,Treasurer of State,,,Write-in,0,0,0
+Shelby,HARLAN WARD 1,Secretary of Agriculture,,DEM,John Norwood,78,30,48
+Shelby,HARLAN WARD 2,Secretary of Agriculture,,DEM,John Norwood,149,66,83
+Shelby,HARLAN WARD 3,Secretary of Agriculture,,DEM,John Norwood,142,75,67
+Shelby,HARLAN WARD 4,Secretary of Agriculture,,DEM,John Norwood,100,48,52
+Shelby,CASS LINCOLN,Secretary of Agriculture,,DEM,John Norwood,70,36,34
+Shelby,GREELEY JEFFERSON,Secretary of Agriculture,,DEM,John Norwood,46,9,37
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Secretary of Agriculture,,DEM,John Norwood,140,62,78
+Shelby,CENTER JACKSON,Secretary of Agriculture,,DEM,John Norwood,64,33,31
+Shelby,FAIRVIEW SHELBY,Secretary of Agriculture,,DEM,John Norwood,102,27,75
+Shelby,CLAY MONROE,Secretary of Agriculture,,DEM,John Norwood,112,27,85
+Shelby,DOUGLAS POLK,Secretary of Agriculture,,DEM,John Norwood,33,25,8
+Shelby,HARLAN WARD 1,Secretary of Agriculture,,REP,Mike Naig,255,69,186
+Shelby,HARLAN WARD 2,Secretary of Agriculture,,REP,Mike Naig,380,97,283
+Shelby,HARLAN WARD 3,Secretary of Agriculture,,REP,Mike Naig,375,126,249
+Shelby,HARLAN WARD 4,Secretary of Agriculture,,REP,Mike Naig,251,81,170
+Shelby,CASS LINCOLN,Secretary of Agriculture,,REP,Mike Naig,277,89,188
+Shelby,GREELEY JEFFERSON,Secretary of Agriculture,,REP,Mike Naig,259,42,217
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Secretary of Agriculture,,REP,Mike Naig,594,136,458
+Shelby,CENTER JACKSON,Secretary of Agriculture,,REP,Mike Naig,271,88,183
+Shelby,FAIRVIEW SHELBY,Secretary of Agriculture,,REP,Mike Naig,346,60,286
+Shelby,CLAY MONROE,Secretary of Agriculture,,REP,Mike Naig,342,70,272
+Shelby,DOUGLAS POLK,Secretary of Agriculture,,REP,Mike Naig,154,39,115
+Shelby,HARLAN WARD 1,Secretary of Agriculture,,,Write-in,0,0,0
+Shelby,HARLAN WARD 2,Secretary of Agriculture,,,Write-in,0,0,0
+Shelby,HARLAN WARD 3,Secretary of Agriculture,,,Write-in,0,0,0
+Shelby,HARLAN WARD 4,Secretary of Agriculture,,,Write-in,1,0,1
+Shelby,CASS LINCOLN,Secretary of Agriculture,,,Write-in,0,0,0
+Shelby,GREELEY JEFFERSON,Secretary of Agriculture,,,Write-in,0,0,0
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Secretary of Agriculture,,,Write-in,1,1,0
+Shelby,CENTER JACKSON,Secretary of Agriculture,,,Write-in,1,0,1
+Shelby,FAIRVIEW SHELBY,Secretary of Agriculture,,,Write-in,0,0,0
+Shelby,CLAY MONROE,Secretary of Agriculture,,,Write-in,0,0,0
+Shelby,DOUGLAS POLK,Secretary of Agriculture,,,Write-in,0,0,0
+Shelby,HARLAN WARD 1,Attorney General,,DEM,Tom Miller,95,31,64
+Shelby,HARLAN WARD 2,Attorney General,,DEM,Tom Miller,173,82,91
+Shelby,HARLAN WARD 3,Attorney General,,DEM,Tom Miller,177,87,90
+Shelby,HARLAN WARD 4,Attorney General,,DEM,Tom Miller,120,60,60
+Shelby,CASS LINCOLN,Attorney General,,DEM,Tom Miller,86,44,42
+Shelby,GREELEY JEFFERSON,Attorney General,,DEM,Tom Miller,70,16,54
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Attorney General,,DEM,Tom Miller,217,84,133
+Shelby,CENTER JACKSON,Attorney General,,DEM,Tom Miller,81,38,43
+Shelby,FAIRVIEW SHELBY,Attorney General,,DEM,Tom Miller,122,35,87
+Shelby,CLAY MONROE,Attorney General,,DEM,Tom Miller,149,32,117
+Shelby,DOUGLAS POLK,Attorney General,,DEM,Tom Miller,52,31,21
+Shelby,HARLAN WARD 1,Attorney General,,REP,Brenna Bird,245,71,174
+Shelby,HARLAN WARD 2,Attorney General,,REP,Brenna Bird,353,81,272
+Shelby,HARLAN WARD 3,Attorney General,,REP,Brenna Bird,350,121,229
+Shelby,HARLAN WARD 4,Attorney General,,REP,Brenna Bird,234,71,163
+Shelby,CASS LINCOLN,Attorney General,,REP,Brenna Bird,259,84,175
+Shelby,GREELEY JEFFERSON,Attorney General,,REP,Brenna Bird,237,37,200
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Attorney General,,REP,Brenna Bird,514,110,404
+Shelby,CENTER JACKSON,Attorney General,,REP,Brenna Bird,257,83,174
+Shelby,FAIRVIEW SHELBY,Attorney General,,REP,Brenna Bird,321,49,272
+Shelby,CLAY MONROE,Attorney General,,REP,Brenna Bird,313,67,246
+Shelby,DOUGLAS POLK,Attorney General,,REP,Brenna Bird,129,32,97
+Shelby,HARLAN WARD 1,Attorney General,,,Write-in,0,0,0
+Shelby,HARLAN WARD 2,Attorney General,,,Write-in,0,0,0
+Shelby,HARLAN WARD 3,Attorney General,,,Write-in,0,0,0
+Shelby,HARLAN WARD 4,Attorney General,,,Write-in,1,0,1
+Shelby,CASS LINCOLN,Attorney General,,,Write-in,1,0,1
+Shelby,GREELEY JEFFERSON,Attorney General,,,Write-in,0,0,0
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Attorney General,,,Write-in,0,0,0
+Shelby,CENTER JACKSON,Attorney General,,,Write-in,0,0,0
+Shelby,FAIRVIEW SHELBY,Attorney General,,,Write-in,0,0,0
+Shelby,CLAY MONROE,Attorney General,,,Write-in,0,0,0
+Shelby,DOUGLAS POLK,Attorney General,,,Write-in,0,0,0
+Shelby,HARLAN WARD 1,State Senate,6,REP,Jason Schultz,258,72,186
+Shelby,HARLAN WARD 2,State Senate,6,REP,Jason Schultz,404,110,294
+Shelby,HARLAN WARD 3,State Senate,6,REP,Jason Schultz,396,141,255
+Shelby,HARLAN WARD 4,State Senate,6,REP,Jason Schultz,271,94,177
+Shelby,CASS LINCOLN,State Senate,6,REP,Jason Schultz,284,93,191
+Shelby,GREELEY JEFFERSON,State Senate,6,REP,Jason Schultz,263,44,219
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,State Senate,6,REP,Jason Schultz,611,147,464
+Shelby,CENTER JACKSON,State Senate,6,REP,Jason Schultz,274,95,179
+Shelby,FAIRVIEW SHELBY,State Senate,6,REP,Jason Schultz,344,62,282
+Shelby,CLAY MONROE,State Senate,6,REP,Jason Schultz,345,72,273
+Shelby,DOUGLAS POLK,State Senate,6,REP,Jason Schultz,146,36,110
+Shelby,HARLAN WARD 1,State Senate,6,LIB,David M. Davis,66,22,44
+Shelby,HARLAN WARD 2,State Senate,6,LIB,David M. Davis,100,42,58
+Shelby,HARLAN WARD 3,State Senate,6,LIB,David M. Davis,96,46,50
+Shelby,HARLAN WARD 4,State Senate,6,LIB,David M. Davis,63,25,38
+Shelby,CASS LINCOLN,State Senate,6,LIB,David M. Davis,53,26,27
+Shelby,GREELEY JEFFERSON,State Senate,6,LIB,David M. Davis,32,8,24
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,State Senate,6,LIB,David M. Davis,94,36,58
+Shelby,CENTER JACKSON,State Senate,6,LIB,David M. Davis,44,17,27
+Shelby,FAIRVIEW SHELBY,State Senate,6,LIB,David M. Davis,86,16,70
+Shelby,CLAY MONROE,State Senate,6,LIB,David M. Davis,82,17,65
+Shelby,DOUGLAS POLK,State Senate,6,LIB,David M. Davis,27,16,11
+Shelby,HARLAN WARD 1,State Senate,6,,Write-in,0,0,0
+Shelby,HARLAN WARD 2,State Senate,6,,Write-in,1,0,1
+Shelby,HARLAN WARD 3,State Senate,6,,Write-in,2,1,1
+Shelby,HARLAN WARD 4,State Senate,6,,Write-in,2,1,1
+Shelby,CASS LINCOLN,State Senate,6,,Write-in,0,0,0
+Shelby,GREELEY JEFFERSON,State Senate,6,,Write-in,1,0,1
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,State Senate,6,,Write-in,2,1,1
+Shelby,CENTER JACKSON,State Senate,6,,Write-in,1,0,1
+Shelby,FAIRVIEW SHELBY,State Senate,6,,Write-in,0,0,0
+Shelby,CLAY MONROE,State Senate,6,,Write-in,2,0,2
+Shelby,DOUGLAS POLK,State Senate,6,,Write-in,1,1,0
+Shelby,CENTER JACKSON,State House,11,REP,Brian Best,277,88,189
+Shelby,FAIRVIEW SHELBY,State House,11,REP,Brian Best,371,63,308
+Shelby,CLAY MONROE,State House,11,REP,Brian Best,401,84,317
+Shelby,DOUGLAS POLK,State House,11,REP,Brian Best,156,42,114
+Shelby,CENTER JACKSON,State House,11,,Write-in,2,0,2
+Shelby,FAIRVIEW SHELBY,State House,11,,Write-in,3,0,3
+Shelby,CLAY MONROE,State House,11,,Write-in,5,0,5
+Shelby,DOUGLAS POLK,State House,11,,Write-in,2,1,1
+Shelby,HARLAN WARD 1,State House,12,REP,Steven Holt,283,76,207
+Shelby,HARLAN WARD 2,State House,12,REP,Steven Holt,421,112,309
+Shelby,HARLAN WARD 3,State House,12,REP,Steven Holt,402,135,267
+Shelby,HARLAN WARD 4,State House,12,REP,Steven Holt,290,104,186
+Shelby,CASS LINCOLN,State House,12,REP,Steven Holt,287,95,192
+Shelby,GREELEY JEFFERSON,State House,12,REP,Steven Holt,267,42,225
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,State House,12,REP,Steven Holt,643,160,483
+Shelby,HARLAN WARD 1,State House,12,,Write-in,9,1,8
+Shelby,HARLAN WARD 2,State House,12,,Write-in,10,3,7
+Shelby,HARLAN WARD 3,State House,12,,Write-in,13,4,9
+Shelby,HARLAN WARD 4,State House,12,,Write-in,6,3,3
+Shelby,CASS LINCOLN,State House,12,,Write-in,5,2,3
+Shelby,GREELEY JEFFERSON,State House,12,,Write-in,8,2,6
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,State House,12,,Write-in,6,1,5
+Shelby,HARLAN WARD 1,County Board of Supervisors At Large,,REP,Bryce Schaben,311,89,222
+Shelby,HARLAN WARD 2,County Board of Supervisors At Large,,REP,Bryce Schaben,474,134,340
+Shelby,HARLAN WARD 3,County Board of Supervisors At Large,,REP,Bryce Schaben,470,182,288
+Shelby,HARLAN WARD 4,County Board of Supervisors At Large,,REP,Bryce Schaben,315,113,202
+Shelby,CASS LINCOLN,County Board of Supervisors At Large,,REP,Bryce Schaben,317,114,203
+Shelby,GREELEY JEFFERSON,County Board of Supervisors At Large,,REP,Bryce Schaben,290,46,244
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,County Board of Supervisors At Large,,REP,Bryce Schaben,681,181,500
+Shelby,CENTER JACKSON,County Board of Supervisors At Large,,REP,Bryce Schaben,301,105,196
+Shelby,FAIRVIEW SHELBY,County Board of Supervisors At Large,,REP,Bryce Schaben,379,63,316
+Shelby,CLAY MONROE,County Board of Supervisors At Large,,REP,Bryce Schaben,407,89,318
+Shelby,DOUGLAS POLK,County Board of Supervisors At Large,,REP,Bryce Schaben,169,61,108
+Shelby,HARLAN WARD 1,County Board of Supervisors At Large,,,Write-in,4,1,3
+Shelby,HARLAN WARD 2,County Board of Supervisors At Large,,,Write-in,4,2,2
+Shelby,HARLAN WARD 3,County Board of Supervisors At Large,,,Write-in,6,1,5
+Shelby,HARLAN WARD 4,County Board of Supervisors At Large,,,Write-in,3,1,2
+Shelby,CASS LINCOLN,County Board of Supervisors At Large,,,Write-in,1,0,1
+Shelby,GREELEY JEFFERSON,County Board of Supervisors At Large,,,Write-in,5,2,3
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,County Board of Supervisors At Large,,,Write-in,7,2,5
+Shelby,CENTER JACKSON,County Board of Supervisors At Large,,,Write-in,3,0,3
+Shelby,FAIRVIEW SHELBY,County Board of Supervisors At Large,,,Write-in,4,1,3
+Shelby,CLAY MONROE,County Board of Supervisors At Large,,,Write-in,4,0,4
+Shelby,DOUGLAS POLK,County Board of Supervisors At Large,,,Write-in,2,0,2
+Shelby,HARLAN WARD 1,County Treasurer,,REP,Carolyn Blum,303,87,216
+Shelby,HARLAN WARD 2,County Treasurer,,REP,Carolyn Blum,455,127,328
+Shelby,HARLAN WARD 3,County Treasurer,,REP,Carolyn Blum,453,169,284
+Shelby,HARLAN WARD 4,County Treasurer,,REP,Carolyn Blum,302,110,192
+Shelby,CASS LINCOLN,County Treasurer,,REP,Carolyn Blum,314,115,199
+Shelby,GREELEY JEFFERSON,County Treasurer,,REP,Carolyn Blum,278,44,234
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,County Treasurer,,REP,Carolyn Blum,666,172,494
+Shelby,CENTER JACKSON,County Treasurer,,REP,Carolyn Blum,268,89,179
+Shelby,FAIRVIEW SHELBY,County Treasurer,,REP,Carolyn Blum,390,66,324
+Shelby,CLAY MONROE,County Treasurer,,REP,Carolyn Blum,415,91,324
+Shelby,DOUGLAS POLK,County Treasurer,,REP,Carolyn Blum,167,55,112
+Shelby,HARLAN WARD 1,County Treasurer,,,Write-in,9,5,4
+Shelby,HARLAN WARD 2,County Treasurer,,,Write-in,6,3,3
+Shelby,HARLAN WARD 3,County Treasurer,,,Write-in,13,6,7
+Shelby,HARLAN WARD 4,County Treasurer,,,Write-in,6,1,5
+Shelby,CASS LINCOLN,County Treasurer,,,Write-in,1,0,1
+Shelby,GREELEY JEFFERSON,County Treasurer,,,Write-in,3,0,3
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,County Treasurer,,,Write-in,13,3,10
+Shelby,CENTER JACKSON,County Treasurer,,,Write-in,10,4,6
+Shelby,FAIRVIEW SHELBY,County Treasurer,,,Write-in,3,1,2
+Shelby,CLAY MONROE,County Treasurer,,,Write-in,5,0,5
+Shelby,DOUGLAS POLK,County Treasurer,,,Write-in,3,1,2
+Shelby,HARLAN WARD 1,County Recorder,,REP,Geralyn S. Greer,303,90,213
+Shelby,HARLAN WARD 2,County Recorder,,REP,Geralyn S. Greer,471,134,337
+Shelby,HARLAN WARD 3,County Recorder,,REP,Geralyn S. Greer,464,180,284
+Shelby,HARLAN WARD 4,County Recorder,,REP,Geralyn S. Greer,314,119,195
+Shelby,CASS LINCOLN,County Recorder,,REP,Geralyn S. Greer,314,115,199
+Shelby,GREELEY JEFFERSON,County Recorder,,REP,Geralyn S. Greer,284,45,239
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,County Recorder,,REP,Geralyn S. Greer,689,181,508
+Shelby,CENTER JACKSON,County Recorder,,REP,Geralyn S. Greer,294,102,192
+Shelby,FAIRVIEW SHELBY,County Recorder,,REP,Geralyn S. Greer,388,66,322
+Shelby,CLAY MONROE,County Recorder,,REP,Geralyn S. Greer,405,87,318
+Shelby,DOUGLAS POLK,County Recorder,,REP,Geralyn S. Greer,174,60,114
+Shelby,HARLAN WARD 1,County Recorder,,,Write-in,5,1,4
+Shelby,HARLAN WARD 2,County Recorder,,,Write-in,3,2,1
+Shelby,HARLAN WARD 3,County Recorder,,,Write-in,5,1,4
+Shelby,HARLAN WARD 4,County Recorder,,,Write-in,5,0,5
+Shelby,CASS LINCOLN,County Recorder,,,Write-in,0,0,0
+Shelby,GREELEY JEFFERSON,County Recorder,,,Write-in,2,0,2
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,County Recorder,,,Write-in,6,4,2
+Shelby,CENTER JACKSON,County Recorder,,,Write-in,2,0,2
+Shelby,FAIRVIEW SHELBY,County Recorder,,,Write-in,3,1,2
+Shelby,CLAY MONROE,County Recorder,,,Write-in,3,0,3
+Shelby,DOUGLAS POLK,County Recorder,,,Write-in,1,0,1
+Shelby,HARLAN WARD 1,County Attorney,,DEM,Marcus Gross Jr.,219,67,152
+Shelby,HARLAN WARD 2,County Attorney,,DEM,Marcus Gross Jr.,342,115,227
+Shelby,HARLAN WARD 3,County Attorney,,DEM,Marcus Gross Jr.,354,154,200
+Shelby,HARLAN WARD 4,County Attorney,,DEM,Marcus Gross Jr.,231,93,138
+Shelby,CASS LINCOLN,County Attorney,,DEM,Marcus Gross Jr.,202,79,123
+Shelby,GREELEY JEFFERSON,County Attorney,,DEM,Marcus Gross Jr.,195,30,165
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,County Attorney,,DEM,Marcus Gross Jr.,516,147,369
+Shelby,CENTER JACKSON,County Attorney,,DEM,Marcus Gross Jr.,193,73,120
+Shelby,FAIRVIEW SHELBY,County Attorney,,DEM,Marcus Gross Jr.,264,47,217
+Shelby,CLAY MONROE,County Attorney,,DEM,Marcus Gross Jr.,260,47,213
+Shelby,DOUGLAS POLK,County Attorney,,DEM,Marcus Gross Jr.,111,46,65
+Shelby,HARLAN WARD 1,County Attorney,,,Write-in,23,2,21
+Shelby,HARLAN WARD 2,County Attorney,,,Write-in,24,1,23
+Shelby,HARLAN WARD 3,County Attorney,,,Write-in,18,2,16
+Shelby,HARLAN WARD 4,County Attorney,,,Write-in,19,3,16
+Shelby,CASS LINCOLN,County Attorney,,,Write-in,18,2,16
+Shelby,GREELEY JEFFERSON,County Attorney,,,Write-in,10,3,7
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,County Attorney,,,Write-in,31,5,26
+Shelby,CENTER JACKSON,County Attorney,,,Write-in,7,0,7
+Shelby,FAIRVIEW SHELBY,County Attorney,,,Write-in,20,4,16
+Shelby,CLAY MONROE,County Attorney,,,Write-in,16,3,13
+Shelby,DOUGLAS POLK,County Attorney,,,Write-in,10,0,10
+Shelby,CASS LINCOLN,Cass Township Trustee,,,James Voge Sr.,72,26,46
+Shelby,CASS LINCOLN,Cass Township Trustee,,,Write-in,1,0,1
+Shelby,CASS LINCOLN,Cass Township Clerk,,,Kenneth Stein,83,29,54
+Shelby,CASS LINCOLN,Cass Township Clerk,,,Write-in,0,0,0
+Shelby,CENTER JACKSON,Center Township Trustee,,,Steve Ineson,169,62,107
+Shelby,CENTER JACKSON,Center Township Trustee,,,Write-in,4,2,2
+Shelby,CENTER JACKSON,Center Township Clerk,,,Keith Burchett,186,71,115
+Shelby,CENTER JACKSON,Center Township Clerk,,,Write-in,0,0,0
+Shelby,CLAY MONROE,Clay Township Trustee,,,Gene Mardesen,100,22,78
+Shelby,CLAY MONROE,Clay Township Trustee,,,Write-in,0,0,0
+Shelby,CLAY MONROE,Clay Township Clerk,,,Steve Jacobs,105,22,83
+Shelby,CLAY MONROE,Clay Township Clerk,,,Write-in,0,0,0
+Shelby,DOUGLAS POLK,Douglas Township Trustee,,,H. Jay Nielsen,92,37,55
+Shelby,DOUGLAS POLK,Douglas Township Trustee,,,Write-in,0,0,0
+Shelby,DOUGLAS POLK,Douglas Township Clerk,,,Suzanne Rasmussen,85,31,54
+Shelby,DOUGLAS POLK,Douglas Township Clerk,,,Write-in,1,1,0
+Shelby,FAIRVIEW SHELBY,Fairview Township Trustee,,,Write-in,8,4,4
+Shelby,FAIRVIEW SHELBY,Fairview Township Trustee,,,NEIL OHMS,6,2,4
+Shelby,FAIRVIEW SHELBY,Fairview Township Trustee,,,LESLIE NIELSEN,2,0,2
+Shelby,FAIRVIEW SHELBY,Fairview Township Clerk,,,Write-in,4,2,2
+Shelby,FAIRVIEW SHELBY,Fairview Township Clerk,,,RON LEE,9,4,5
+Shelby,FAIRVIEW SHELBY,Fairview Township Clerk,,,LESLIE NIELSEN,2,0,2
+Shelby,FAIRVIEW SHELBY,Fairview Township Clerk,,,KYLIE GROSS,2,0,2
+Shelby,GREELEY JEFFERSON,Greeley Township Trustee,,,Norman Campbell,71,15,56
+Shelby,GREELEY JEFFERSON,Greeley Township Trustee,,,Write-in,2,0,2
+Shelby,GREELEY JEFFERSON,Greeley Township Clerk,,,Write-in,1,0,1
+Shelby,GREELEY JEFFERSON,Greeley Township Clerk,,,PATTY SAUNDERS,1,0,1
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Grove Township Trustee,,,Gaylord Gross,66,16,50
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Grove Township Trustee,,,Write-in,0,0,0
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Grove Township Trustee To Fill Vacancy,,,Joseph Jonathan Klein,65,16,49
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Grove Township Trustee To Fill Vacancy,,,Write-in,0,0,0
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Grove Township Clerk,,,Brad Gross,67,17,50
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Grove Township Clerk,,,Write-in,0,0,0
+Shelby,CENTER JACKSON,Jackson Township Trustee,,,Mark Rold,104,29,75
+Shelby,CENTER JACKSON,Jackson Township Trustee,,,Write-in,1,0,1
+Shelby,CENTER JACKSON,Jackson Township Trustee To Fill Vacancy,,,Troy Doonan,104,30,74
+Shelby,CENTER JACKSON,Jackson Township Trustee To Fill Vacancy,,,Write-in,3,1,2
+Shelby,CENTER JACKSON,Jackson Township Clerk,,,Dan Buman,107,31,76
+Shelby,CENTER JACKSON,Jackson Township Clerk,,,Write-in,0,0,0
+Shelby,GREELEY JEFFERSON,Jefferson Township Trustee,,,Lyle Campbell,78,11,67
+Shelby,GREELEY JEFFERSON,Jefferson Township Trustee,,,Write-in,1,0,1
+Shelby,GREELEY JEFFERSON,Jefferson Township Clerk,,,Cathy Clark,76,11,65
+Shelby,GREELEY JEFFERSON,Jefferson Township Clerk,,,Write-in,1,0,1
+Shelby,CASS LINCOLN,Lincoln Township Trustee,,,Duane Errett,166,53,113
+Shelby,CASS LINCOLN,Lincoln Township Trustee,,,Write-in,0,0,0
+Shelby,CASS LINCOLN,Lincoln Township Clerk,,,H. David Boettger,157,49,108
+Shelby,CASS LINCOLN,Lincoln Township Clerk,,,Write-in,0,0,0
+Shelby,CLAY MONROE,Monroe Township Trustee,,,John Clayton,83,22,61
+Shelby,CLAY MONROE,Monroe Township Trustee,,,Write-in,0,0,0
+Shelby,CLAY MONROE,Monroe Township Clerk,,,Bryan Greve,81,20,61
+Shelby,CLAY MONROE,Monroe Township Clerk,,,Write-in,0,0,0
+Shelby,DOUGLAS POLK,Polk Township Trustee,,,Karl Hanson,65,14,51
+Shelby,DOUGLAS POLK,Polk Township Trustee,,,Write-in,0,0,0
+Shelby,DOUGLAS POLK,Polk Township Clerk,,,Matt Bartelson,66,15,51
+Shelby,DOUGLAS POLK,Polk Township Clerk,,,Write-in,0,0,0
+Shelby,FAIRVIEW SHELBY,Shelby Township Trustee,,,Write-in,0,0,0
+Shelby,FAIRVIEW SHELBY,Shelby Township Trustee,,,ROBERT HALL,3,0,3
+Shelby,FAIRVIEW SHELBY,Shelby Township Trustee,,,ROBERT RICHMOND,1,0,1
+Shelby,FAIRVIEW SHELBY,Shelby Township Trustee,,,BRAD BLUM,1,0,1
+Shelby,FAIRVIEW SHELBY,Shelby Township Trustee,,,MARK EVANS,1,0,1
+Shelby,FAIRVIEW SHELBY,Shelby Township Trustee,,,EUGENE WAHLING,1,0,1
+Shelby,FAIRVIEW SHELBY,Shelby Township Trustee,,,BONNIE MYERS,1,0,1
+Shelby,FAIRVIEW SHELBY,Shelby Township Trustee,,,GARY COLLINS,1,0,1
+Shelby,FAIRVIEW SHELBY,Shelby Township Clerk,,,Chris Evans,95,12,83
+Shelby,FAIRVIEW SHELBY,Shelby Township Clerk,,,Write-in,0,0,0
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Union Township Trustee,,,Neal Gaul,72,24,48
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Union Township Trustee,,,Write-in,2,0,2
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Union Township Trustee To Fill Vacancy,,,Brandon Scheuring,65,19,46
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Union Township Trustee To Fill Vacancy,,,Write-in,4,0,4
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Union Township Clerk,,,Jim Scheuring,64,20,44
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Union Township Clerk,,,Write-in,3,0,3
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Washington Township Trustee,,,Write-in,7,2,5
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Washington Township Trustee,,,TYLER SCHWERY,5,0,5
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Washington Township Trustee,,,LARRY ASSMAN,2,0,2
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Washington Township Trustee,,,DAVE KEANE ,2,0,2
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Washington Township Trustee To Fill Vacancy,,,Write-in,1,0,1
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Washington Township Trustee To Fill Vacancy,,,DAVE MAGES,4,0,4
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Washington Township Trustee To Fill Vacancy,,,JOE MIKELS,1,0,1
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Washington Township Trustee To Fill Vacancy,,,SAMUEL KENKEL,1,0,1
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Washington Township Trustee To Fill Vacancy,,,STEVE WEGNER,1,0,1
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Washington Township Trustee To Fill Vacancy,,,PHIL SCHWERY,1,0,1
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Washington Township Clerk,,,Connie Klein,83,17,66
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Washington Township Clerk,,,Write-in,0,0,0
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Westphalia Township Trustee,,,Anthony Goetz,130,35,95
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Westphalia Township Trustee,,,Write-in,0,0,0
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Westphalia Township Clerk,,,Write-in,5,1,4
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Westphalia Township Clerk,,,ED GOETZINGER,5,0,5
+Shelby,HARLAN WARD 1,Hospital Trustee,,,Kathleen Kohorst,247,77,170
+Shelby,HARLAN WARD 2,Hospital Trustee,,,Kathleen Kohorst,413,128,285
+Shelby,HARLAN WARD 3,Hospital Trustee,,,Kathleen Kohorst,414,163,251
+Shelby,HARLAN WARD 4,Hospital Trustee,,,Kathleen Kohorst,264,101,163
+Shelby,CASS LINCOLN,Hospital Trustee,,,Kathleen Kohorst,251,85,166
+Shelby,GREELEY JEFFERSON,Hospital Trustee,,,Kathleen Kohorst,210,36,174
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Hospital Trustee,,,Kathleen Kohorst,502,130,372
+Shelby,CENTER JACKSON,Hospital Trustee,,,Kathleen Kohorst,247,89,158
+Shelby,FAIRVIEW SHELBY,Hospital Trustee,,,Kathleen Kohorst,262,53,209
+Shelby,CLAY MONROE,Hospital Trustee,,,Kathleen Kohorst,289,61,228
+Shelby,DOUGLAS POLK,Hospital Trustee,,,Kathleen Kohorst,132,46,86
+Shelby,HARLAN WARD 1,Hospital Trustee,,,Terry R. Torneten,190,62,128
+Shelby,HARLAN WARD 2,Hospital Trustee,,,Terry R. Torneten,338,96,242
+Shelby,HARLAN WARD 3,Hospital Trustee,,,Terry R. Torneten,347,122,225
+Shelby,HARLAN WARD 4,Hospital Trustee,,,Terry R. Torneten,197,70,127
+Shelby,CASS LINCOLN,Hospital Trustee,,,Terry R. Torneten,196,71,125
+Shelby,GREELEY JEFFERSON,Hospital Trustee,,,Terry R. Torneten,171,27,144
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Hospital Trustee,,,Terry R. Torneten,418,106,312
+Shelby,CENTER JACKSON,Hospital Trustee,,,Terry R. Torneten,221,81,140
+Shelby,FAIRVIEW SHELBY,Hospital Trustee,,,Terry R. Torneten,241,47,194
+Shelby,CLAY MONROE,Hospital Trustee,,,Terry R. Torneten,255,53,202
+Shelby,DOUGLAS POLK,Hospital Trustee,,,Terry R. Torneten,121,42,79
+Shelby,HARLAN WARD 1,Hospital Trustee,,,Janis Norgaard,185,62,123
+Shelby,HARLAN WARD 2,Hospital Trustee,,,Janis Norgaard,315,94,221
+Shelby,HARLAN WARD 3,Hospital Trustee,,,Janis Norgaard,314,112,202
+Shelby,HARLAN WARD 4,Hospital Trustee,,,Janis Norgaard,197,65,132
+Shelby,CASS LINCOLN,Hospital Trustee,,,Janis Norgaard,183,60,123
+Shelby,GREELEY JEFFERSON,Hospital Trustee,,,Janis Norgaard,169,28,141
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Hospital Trustee,,,Janis Norgaard,390,97,293
+Shelby,CENTER JACKSON,Hospital Trustee,,,Janis Norgaard,190,70,120
+Shelby,FAIRVIEW SHELBY,Hospital Trustee,,,Janis Norgaard,277,45,232
+Shelby,CLAY MONROE,Hospital Trustee,,,Janis Norgaard,288,66,222
+Shelby,DOUGLAS POLK,Hospital Trustee,,,Janis Norgaard,115,42,73
+Shelby,HARLAN WARD 1,Hospital Trustee,,,Tom Cannon,178,59,119
+Shelby,HARLAN WARD 2,Hospital Trustee,,,Tom Cannon,273,80,193
+Shelby,HARLAN WARD 3,Hospital Trustee,,,Tom Cannon,294,104,190
+Shelby,HARLAN WARD 4,Hospital Trustee,,,Tom Cannon,170,57,113
+Shelby,CASS LINCOLN,Hospital Trustee,,,Tom Cannon,161,50,111
+Shelby,GREELEY JEFFERSON,Hospital Trustee,,,Tom Cannon,157,27,130
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Hospital Trustee,,,Tom Cannon,358,84,274
+Shelby,CENTER JACKSON,Hospital Trustee,,,Tom Cannon,177,66,111
+Shelby,FAIRVIEW SHELBY,Hospital Trustee,,,Tom Cannon,209,39,170
+Shelby,CLAY MONROE,Hospital Trustee,,,Tom Cannon,286,60,226
+Shelby,DOUGLAS POLK,Hospital Trustee,,,Tom Cannon,104,37,67
+Shelby,HARLAN WARD 1,Hospital Trustee,,,James B. Zimmerman,225,72,153
+Shelby,HARLAN WARD 2,Hospital Trustee,,,James B. Zimmerman,374,109,265
+Shelby,HARLAN WARD 3,Hospital Trustee,,,James B. Zimmerman,392,153,239
+Shelby,HARLAN WARD 4,Hospital Trustee,,,James B. Zimmerman,234,93,141
+Shelby,CASS LINCOLN,Hospital Trustee,,,James B. Zimmerman,224,75,149
+Shelby,GREELEY JEFFERSON,Hospital Trustee,,,James B. Zimmerman,202,32,170
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Hospital Trustee,,,James B. Zimmerman,488,117,371
+Shelby,CENTER JACKSON,Hospital Trustee,,,James B. Zimmerman,236,86,150
+Shelby,FAIRVIEW SHELBY,Hospital Trustee,,,James B. Zimmerman,273,47,226
+Shelby,CLAY MONROE,Hospital Trustee,,,James B. Zimmerman,268,56,212
+Shelby,DOUGLAS POLK,Hospital Trustee,,,James B. Zimmerman,133,44,89
+Shelby,HARLAN WARD 1,Hospital Trustee,,,Write-in,5,0,5
+Shelby,HARLAN WARD 2,Hospital Trustee,,,Write-in,2,1,1
+Shelby,HARLAN WARD 3,Hospital Trustee,,,Write-in,4,1,3
+Shelby,HARLAN WARD 4,Hospital Trustee,,,Write-in,4,0,4
+Shelby,CASS LINCOLN,Hospital Trustee,,,Write-in,3,2,1
+Shelby,GREELEY JEFFERSON,Hospital Trustee,,,Write-in,3,0,3
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Hospital Trustee,,,Write-in,11,1,10
+Shelby,CENTER JACKSON,Hospital Trustee,,,Write-in,2,1,1
+Shelby,FAIRVIEW SHELBY,Hospital Trustee,,,Write-in,5,2,3
+Shelby,CLAY MONROE,Hospital Trustee,,,Write-in,3,0,3
+Shelby,DOUGLAS POLK,Hospital Trustee,,,Write-in,1,0,1
+Shelby,HARLAN WARD 1,Soil and Water Conservation District Commissioner,,,Cathy Johannsen,222,68,154
+Shelby,HARLAN WARD 2,Soil and Water Conservation District Commissioner,,,Cathy Johannsen,366,106,260
+Shelby,HARLAN WARD 3,Soil and Water Conservation District Commissioner,,,Cathy Johannsen,361,143,218
+Shelby,HARLAN WARD 4,Soil and Water Conservation District Commissioner,,,Cathy Johannsen,237,85,152
+Shelby,CASS LINCOLN,Soil and Water Conservation District Commissioner,,,Cathy Johannsen,213,69,144
+Shelby,GREELEY JEFFERSON,Soil and Water Conservation District Commissioner,,,Cathy Johannsen,188,32,156
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Soil and Water Conservation District Commissioner,,,Cathy Johannsen,458,110,348
+Shelby,CENTER JACKSON,Soil and Water Conservation District Commissioner,,,Cathy Johannsen,228,77,151
+Shelby,FAIRVIEW SHELBY,Soil and Water Conservation District Commissioner,,,Cathy Johannsen,262,51,211
+Shelby,CLAY MONROE,Soil and Water Conservation District Commissioner,,,Cathy Johannsen,316,71,245
+Shelby,DOUGLAS POLK,Soil and Water Conservation District Commissioner,,,Cathy Johannsen,130,45,85
+Shelby,HARLAN WARD 1,Soil and Water Conservation District Commissioner,,,Allan Reinig,198,66,132
+Shelby,HARLAN WARD 2,Soil and Water Conservation District Commissioner,,,Allan Reinig,324,95,229
+Shelby,HARLAN WARD 3,Soil and Water Conservation District Commissioner,,,Allan Reinig,353,134,219
+Shelby,HARLAN WARD 4,Soil and Water Conservation District Commissioner,,,Allan Reinig,207,76,131
+Shelby,CASS LINCOLN,Soil and Water Conservation District Commissioner,,,Allan Reinig,236,74,162
+Shelby,GREELEY JEFFERSON,Soil and Water Conservation District Commissioner,,,Allan Reinig,184,28,156
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Soil and Water Conservation District Commissioner,,,Allan Reinig,495,133,362
+Shelby,CENTER JACKSON,Soil and Water Conservation District Commissioner,,,Allan Reinig,211,75,136
+Shelby,FAIRVIEW SHELBY,Soil and Water Conservation District Commissioner,,,Allan Reinig,254,43,211
+Shelby,CLAY MONROE,Soil and Water Conservation District Commissioner,,,Allan Reinig,273,56,217
+Shelby,DOUGLAS POLK,Soil and Water Conservation District Commissioner,,,Allan Reinig,131,43,88
+Shelby,HARLAN WARD 1,Soil and Water Conservation District Commissioner,,,Write-in,3,1,2
+Shelby,HARLAN WARD 2,Soil and Water Conservation District Commissioner,,,Write-in,2,1,1
+Shelby,HARLAN WARD 3,Soil and Water Conservation District Commissioner,,,Write-in,4,1,3
+Shelby,HARLAN WARD 4,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Shelby,CASS LINCOLN,Soil and Water Conservation District Commissioner,,,Write-in,2,1,1
+Shelby,GREELEY JEFFERSON,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Soil and Water Conservation District Commissioner,,,Write-in,4,1,3
+Shelby,CENTER JACKSON,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Shelby,FAIRVIEW SHELBY,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Shelby,CLAY MONROE,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Shelby,DOUGLAS POLK,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Shelby,HARLAN WARD 1,County Agricultural Extension Council Member,,,Mike Kolbe,223,71,152
+Shelby,HARLAN WARD 2,County Agricultural Extension Council Member,,,Mike Kolbe,375,107,268
+Shelby,HARLAN WARD 3,County Agricultural Extension Council Member,,,Mike Kolbe,347,128,219
+Shelby,HARLAN WARD 4,County Agricultural Extension Council Member,,,Mike Kolbe,236,89,147
+Shelby,CASS LINCOLN,County Agricultural Extension Council Member,,,Mike Kolbe,202,63,139
+Shelby,GREELEY JEFFERSON,County Agricultural Extension Council Member,,,Mike Kolbe,188,31,157
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,County Agricultural Extension Council Member,,,Mike Kolbe,453,112,341
+Shelby,CENTER JACKSON,County Agricultural Extension Council Member,,,Mike Kolbe,208,78,130
+Shelby,FAIRVIEW SHELBY,County Agricultural Extension Council Member,,,Mike Kolbe,247,39,208
+Shelby,CLAY MONROE,County Agricultural Extension Council Member,,,Mike Kolbe,276,61,215
+Shelby,DOUGLAS POLK,County Agricultural Extension Council Member,,,Mike Kolbe,128,46,82
+Shelby,HARLAN WARD 1,County Agricultural Extension Council Member,,,Elaine Baughman,210,69,141
+Shelby,HARLAN WARD 2,County Agricultural Extension Council Member,,,Elaine Baughman,347,97,250
+Shelby,HARLAN WARD 3,County Agricultural Extension Council Member,,,Elaine Baughman,360,130,230
+Shelby,HARLAN WARD 4,County Agricultural Extension Council Member,,,Elaine Baughman,214,77,137
+Shelby,CASS LINCOLN,County Agricultural Extension Council Member,,,Elaine Baughman,200,71,129
+Shelby,GREELEY JEFFERSON,County Agricultural Extension Council Member,,,Elaine Baughman,208,37,171
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,County Agricultural Extension Council Member,,,Elaine Baughman,455,120,335
+Shelby,CENTER JACKSON,County Agricultural Extension Council Member,,,Elaine Baughman,214,80,134
+Shelby,FAIRVIEW SHELBY,County Agricultural Extension Council Member,,,Elaine Baughman,227,45,182
+Shelby,CLAY MONROE,County Agricultural Extension Council Member,,,Elaine Baughman,259,60,199
+Shelby,DOUGLAS POLK,County Agricultural Extension Council Member,,,Elaine Baughman,140,50,90
+Shelby,HARLAN WARD 1,County Agricultural Extension Council Member,,,Katelin Weis,180,62,118
+Shelby,HARLAN WARD 2,County Agricultural Extension Council Member,,,Katelin Weis,285,85,200
+Shelby,HARLAN WARD 3,County Agricultural Extension Council Member,,,Katelin Weis,303,111,192
+Shelby,HARLAN WARD 4,County Agricultural Extension Council Member,,,Katelin Weis,180,64,116
+Shelby,CASS LINCOLN,County Agricultural Extension Council Member,,,Katelin Weis,171,53,118
+Shelby,GREELEY JEFFERSON,County Agricultural Extension Council Member,,,Katelin Weis,168,31,137
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,County Agricultural Extension Council Member,,,Katelin Weis,391,97,294
+Shelby,CENTER JACKSON,County Agricultural Extension Council Member,,,Katelin Weis,173,66,107
+Shelby,FAIRVIEW SHELBY,County Agricultural Extension Council Member,,,Katelin Weis,217,39,178
+Shelby,CLAY MONROE,County Agricultural Extension Council Member,,,Katelin Weis,246,53,193
+Shelby,DOUGLAS POLK,County Agricultural Extension Council Member,,,Katelin Weis,107,37,70
+Shelby,HARLAN WARD 1,County Agricultural Extension Council Member,,,Kristina Larsen,179,59,120
+Shelby,HARLAN WARD 2,County Agricultural Extension Council Member,,,Kristina Larsen,302,91,211
+Shelby,HARLAN WARD 3,County Agricultural Extension Council Member,,,Kristina Larsen,314,113,201
+Shelby,HARLAN WARD 4,County Agricultural Extension Council Member,,,Kristina Larsen,191,66,125
+Shelby,CASS LINCOLN,County Agricultural Extension Council Member,,,Kristina Larsen,162,49,113
+Shelby,GREELEY JEFFERSON,County Agricultural Extension Council Member,,,Kristina Larsen,169,30,139
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,County Agricultural Extension Council Member,,,Kristina Larsen,376,90,286
+Shelby,CENTER JACKSON,County Agricultural Extension Council Member,,,Kristina Larsen,186,68,118
+Shelby,FAIRVIEW SHELBY,County Agricultural Extension Council Member,,,Kristina Larsen,214,39,175
+Shelby,CLAY MONROE,County Agricultural Extension Council Member,,,Kristina Larsen,270,57,213
+Shelby,DOUGLAS POLK,County Agricultural Extension Council Member,,,Kristina Larsen,115,42,73
+Shelby,HARLAN WARD 1,County Agricultural Extension Council Member,,,Brenda Arkfeld,207,68,139
+Shelby,HARLAN WARD 2,County Agricultural Extension Council Member,,,Brenda Arkfeld,344,103,241
+Shelby,HARLAN WARD 3,County Agricultural Extension Council Member,,,Brenda Arkfeld,361,138,223
+Shelby,HARLAN WARD 4,County Agricultural Extension Council Member,,,Brenda Arkfeld,230,83,147
+Shelby,CASS LINCOLN,County Agricultural Extension Council Member,,,Brenda Arkfeld,235,78,157
+Shelby,GREELEY JEFFERSON,County Agricultural Extension Council Member,,,Brenda Arkfeld,181,30,151
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,County Agricultural Extension Council Member,,,Brenda Arkfeld,477,123,354
+Shelby,CENTER JACKSON,County Agricultural Extension Council Member,,,Brenda Arkfeld,202,77,125
+Shelby,FAIRVIEW SHELBY,County Agricultural Extension Council Member,,,Brenda Arkfeld,232,42,190
+Shelby,CLAY MONROE,County Agricultural Extension Council Member,,,Brenda Arkfeld,271,57,214
+Shelby,DOUGLAS POLK,County Agricultural Extension Council Member,,,Brenda Arkfeld,113,41,72
+Shelby,HARLAN WARD 1,County Agricultural Extension Council Member,,,Write-in,8,0,8
+Shelby,HARLAN WARD 2,County Agricultural Extension Council Member,,,Write-in,5,2,3
+Shelby,HARLAN WARD 3,County Agricultural Extension Council Member,,,Write-in,3,0,3
+Shelby,HARLAN WARD 4,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Shelby,CASS LINCOLN,County Agricultural Extension Council Member,,,Write-in,2,1,1
+Shelby,GREELEY JEFFERSON,County Agricultural Extension Council Member,,,Write-in,4,1,3
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,County Agricultural Extension Council Member,,,Write-in,16,1,15
+Shelby,CENTER JACKSON,County Agricultural Extension Council Member,,,Write-in,3,0,3
+Shelby,FAIRVIEW SHELBY,County Agricultural Extension Council Member,,,Write-in,4,0,4
+Shelby,CLAY MONROE,County Agricultural Extension Council Member,,,Write-in,5,0,5
+Shelby,DOUGLAS POLK,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Shelby,HARLAN WARD 1,Supreme Court Justice,,,Yes,173,52,121
+Shelby,HARLAN WARD 2,Supreme Court Justice,,,Yes,260,72,188
+Shelby,HARLAN WARD 3,Supreme Court Justice,,,Yes,273,91,182
+Shelby,HARLAN WARD 4,Supreme Court Justice,,,Yes,186,62,124
+Shelby,CASS LINCOLN,Supreme Court Justice,,,Yes,137,46,91
+Shelby,GREELEY JEFFERSON,Supreme Court Justice,,,Yes,138,19,119
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Supreme Court Justice,,,Yes,373,78,295
+Shelby,CENTER JACKSON,Supreme Court Justice,,,Yes,157,53,104
+Shelby,FAIRVIEW SHELBY,Supreme Court Justice,,,Yes,215,30,185
+Shelby,CLAY MONROE,Supreme Court Justice,,,Yes,215,40,175
+Shelby,DOUGLAS POLK,Supreme Court Justice,,,Yes,95,33,62
+Shelby,HARLAN WARD 1,Supreme Court Justice,,,No,67,15,52
+Shelby,HARLAN WARD 2,Supreme Court Justice,,,No,80,19,61
+Shelby,HARLAN WARD 3,Supreme Court Justice,,,No,96,36,60
+Shelby,HARLAN WARD 4,Supreme Court Justice,,,No,64,21,43
+Shelby,CASS LINCOLN,Supreme Court Justice,,,No,68,20,48
+Shelby,GREELEY JEFFERSON,Supreme Court Justice,,,No,68,7,61
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Supreme Court Justice,,,No,127,40,87
+Shelby,CENTER JACKSON,Supreme Court Justice,,,No,64,21,43
+Shelby,FAIRVIEW SHELBY,Supreme Court Justice,,,No,92,20,72
+Shelby,CLAY MONROE,Supreme Court Justice,,,No,97,23,74
+Shelby,DOUGLAS POLK,Supreme Court Justice,,,No,36,8,28
+Shelby,HARLAN WARD 1,Court of Appeals Judge,,,Yes,166,51,115
+Shelby,HARLAN WARD 2,Court of Appeals Judge,,,Yes,270,79,191
+Shelby,HARLAN WARD 3,Court of Appeals Judge,,,Yes,263,78,185
+Shelby,HARLAN WARD 4,Court of Appeals Judge,,,Yes,184,60,124
+Shelby,CASS LINCOLN,Court of Appeals Judge,,,Yes,136,45,91
+Shelby,GREELEY JEFFERSON,Court of Appeals Judge,,,Yes,142,19,123
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Court of Appeals Judge,,,Yes,356,72,284
+Shelby,CENTER JACKSON,Court of Appeals Judge,,,Yes,154,53,101
+Shelby,FAIRVIEW SHELBY,Court of Appeals Judge,,,Yes,215,31,184
+Shelby,CLAY MONROE,Court of Appeals Judge,,,Yes,211,40,171
+Shelby,DOUGLAS POLK,Court of Appeals Judge,,,Yes,102,35,67
+Shelby,HARLAN WARD 1,Court of Appeals Judge,,,No,56,11,45
+Shelby,HARLAN WARD 2,Court of Appeals Judge,,,No,62,10,52
+Shelby,HARLAN WARD 3,Court of Appeals Judge,,,No,91,38,53
+Shelby,HARLAN WARD 4,Court of Appeals Judge,,,No,55,19,36
+Shelby,CASS LINCOLN,Court of Appeals Judge,,,No,58,15,43
+Shelby,GREELEY JEFFERSON,Court of Appeals Judge,,,No,60,8,52
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Court of Appeals Judge,,,No,124,39,85
+Shelby,CENTER JACKSON,Court of Appeals Judge,,,No,57,17,40
+Shelby,FAIRVIEW SHELBY,Court of Appeals Judge,,,No,90,18,72
+Shelby,CLAY MONROE,Court of Appeals Judge,,,No,101,20,81
+Shelby,DOUGLAS POLK,Court of Appeals Judge,,,No,30,7,23
+Shelby,HARLAN WARD 1,District 4 Judge,,,Yes,178,55,123
+Shelby,HARLAN WARD 2,District 4 Judge,,,Yes,280,81,199
+Shelby,HARLAN WARD 3,District 4 Judge,,,Yes,275,86,189
+Shelby,HARLAN WARD 4,District 4 Judge,,,Yes,193,64,129
+Shelby,CASS LINCOLN,District 4 Judge,,,Yes,151,48,103
+Shelby,GREELEY JEFFERSON,District 4 Judge,,,Yes,137,19,118
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,District 4 Judge,,,Yes,371,86,285
+Shelby,CENTER JACKSON,District 4 Judge,,,Yes,158,55,103
+Shelby,FAIRVIEW SHELBY,District 4 Judge,,,Yes,227,34,193
+Shelby,CLAY MONROE,District 4 Judge,,,Yes,220,43,177
+Shelby,DOUGLAS POLK,District 4 Judge,,,Yes,106,36,70
+Shelby,HARLAN WARD 1,District 4 Judge,,,No,55,11,44
+Shelby,HARLAN WARD 2,District 4 Judge,,,No,64,10,54
+Shelby,HARLAN WARD 3,District 4 Judge,,,No,86,32,54
+Shelby,HARLAN WARD 4,District 4 Judge,,,No,51,17,34
+Shelby,CASS LINCOLN,District 4 Judge,,,No,54,13,41
+Shelby,GREELEY JEFFERSON,District 4 Judge,,,No,63,10,53
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,District 4 Judge,,,No,109,31,78
+Shelby,CENTER JACKSON,District 4 Judge,,,No,53,17,36
+Shelby,FAIRVIEW SHELBY,District 4 Judge,,,No,85,15,70
+Shelby,CLAY MONROE,District 4 Judge,,,No,93,19,74
+Shelby,DOUGLAS POLK,District 4 Judge,,,No,31,9,22
+Shelby,HARLAN WARD 1,District 4 Associate Judge,,,Yes,188,58,130
+Shelby,HARLAN WARD 2,District 4 Associate Judge,,,Yes,281,84,197
+Shelby,HARLAN WARD 3,District 4 Associate Judge,,,Yes,289,95,194
+Shelby,HARLAN WARD 4,District 4 Associate Judge,,,Yes,205,64,141
+Shelby,CASS LINCOLN,District 4 Associate Judge,,,Yes,148,48,100
+Shelby,GREELEY JEFFERSON,District 4 Associate Judge,,,Yes,155,19,136
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,District 4 Associate Judge,,,Yes,380,83,297
+Shelby,CENTER JACKSON,District 4 Associate Judge,,,Yes,159,54,105
+Shelby,FAIRVIEW SHELBY,District 4 Associate Judge,,,Yes,234,31,203
+Shelby,CLAY MONROE,District 4 Associate Judge,,,Yes,239,49,190
+Shelby,DOUGLAS POLK,District 4 Associate Judge,,,Yes,105,36,69
+Shelby,HARLAN WARD 1,District 4 Associate Judge,,,No,54,7,47
+Shelby,HARLAN WARD 2,District 4 Associate Judge,,,No,57,7,50
+Shelby,HARLAN WARD 3,District 4 Associate Judge,,,No,83,33,50
+Shelby,HARLAN WARD 4,District 4 Associate Judge,,,No,52,19,33
+Shelby,CASS LINCOLN,District 4 Associate Judge,,,No,53,16,37
+Shelby,GREELEY JEFFERSON,District 4 Associate Judge,,,No,54,7,47
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,District 4 Associate Judge,,,No,107,33,74
+Shelby,CENTER JACKSON,District 4 Associate Judge,,,No,47,14,33
+Shelby,FAIRVIEW SHELBY,District 4 Associate Judge,,,No,78,16,62
+Shelby,CLAY MONROE,District 4 Associate Judge,,,No,85,17,68
+Shelby,DOUGLAS POLK,District 4 Associate Judge,,,No,28,8,20
+Shelby,HARLAN WARD 1,Constitutional Amendment 1,,,Yes,275,73,202
+Shelby,HARLAN WARD 2,Constitutional Amendment 1,,,Yes,415,110,305
+Shelby,HARLAN WARD 3,Constitutional Amendment 1,,,Yes,379,126,253
+Shelby,HARLAN WARD 4,Constitutional Amendment 1,,,Yes,279,95,184
+Shelby,CASS LINCOLN,Constitutional Amendment 1,,,Yes,273,87,186
+Shelby,GREELEY JEFFERSON,Constitutional Amendment 1,,,Yes,262,43,219
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Constitutional Amendment 1,,,Yes,599,140,459
+Shelby,CENTER JACKSON,Constitutional Amendment 1,,,Yes,271,85,186
+Shelby,FAIRVIEW SHELBY,Constitutional Amendment 1,,,Yes,355,56,299
+Shelby,CLAY MONROE,Constitutional Amendment 1,,,Yes,372,83,289
+Shelby,DOUGLAS POLK,Constitutional Amendment 1,,,Yes,153,40,113
+Shelby,HARLAN WARD 1,Constitutional Amendment 1,,,No,60,21,39
+Shelby,HARLAN WARD 2,Constitutional Amendment 1,,,No,99,44,55
+Shelby,HARLAN WARD 3,Constitutional Amendment 1,,,No,118,65,53
+Shelby,HARLAN WARD 4,Constitutional Amendment 1,,,No,69,29,40
+Shelby,CASS LINCOLN,Constitutional Amendment 1,,,No,56,31,25
+Shelby,GREELEY JEFFERSON,Constitutional Amendment 1,,,No,39,8,31
+Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,Constitutional Amendment 1,,,No,104,40,64
+Shelby,CENTER JACKSON,Constitutional Amendment 1,,,No,54,27,27
+Shelby,FAIRVIEW SHELBY,Constitutional Amendment 1,,,No,81,24,57
+Shelby,CLAY MONROE,Constitutional Amendment 1,,,No,78,13,65
+Shelby,DOUGLAS POLK,Constitutional Amendment 1,,,No,30,21,9

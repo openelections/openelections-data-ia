@@ -1,0 +1,693 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Madison,Grand River - Monroe - Webster - Lincoln SW,U.S. Senate,,DEM,Michael Franken,103,48,55
+Madison,Jackson - Douglas - Lincoln NW,U.S. Senate,,DEM,Michael Franken,151,73,78
+Madison,Jefferson - Lee,U.S. Senate,,DEM,Michael Franken,277,141,136
+Madison,Penn - Madison,U.S. Senate,,DEM,Michael Franken,298,79,219
+Madison,South,U.S. Senate,,DEM,Michael Franken,221,98,123
+Madison,Union - Crawford - Scott - Lincoln SE,U.S. Senate,,DEM,Michael Franken,366,203,163
+Madison,Walnut - Ohio,U.S. Senate,,DEM,Michael Franken,143,58,85
+Madison,Winterset I,U.S. Senate,,DEM,Michael Franken,441,218,223
+Madison,Winterset II,U.S. Senate,,DEM,Michael Franken,391,202,189
+Madison,Lincoln NE Township,U.S. Senate,,DEM,Michael Franken,14,10,4
+Madison,Grand River - Monroe - Webster - Lincoln SW,U.S. Senate,,REP,Chuck Grassley,323,85,238
+Madison,Jackson - Douglas - Lincoln NW,U.S. Senate,,REP,Chuck Grassley,361,76,285
+Madison,Jefferson - Lee,U.S. Senate,,REP,Chuck Grassley,568,147,421
+Madison,Penn - Madison,U.S. Senate,,REP,Chuck Grassley,667,83,584
+Madison,South,U.S. Senate,,REP,Chuck Grassley,493,71,422
+Madison,Union - Crawford - Scott - Lincoln SE,U.S. Senate,,REP,Chuck Grassley,848,274,574
+Madison,Walnut - Ohio,U.S. Senate,,REP,Chuck Grassley,468,82,386
+Madison,Winterset I,U.S. Senate,,REP,Chuck Grassley,694,224,470
+Madison,Winterset II,U.S. Senate,,REP,Chuck Grassley,596,171,425
+Madison,Lincoln NE Township,U.S. Senate,,REP,Chuck Grassley,46,10,36
+Madison,Grand River - Monroe - Webster - Lincoln SW,U.S. Senate,,,Write-in,0,0,0
+Madison,Jackson - Douglas - Lincoln NW,U.S. Senate,,,Write-in,1,0,1
+Madison,Jefferson - Lee,U.S. Senate,,,Write-in,1,0,1
+Madison,Penn - Madison,U.S. Senate,,,Write-in,4,0,4
+Madison,South,U.S. Senate,,,Write-in,1,0,1
+Madison,Union - Crawford - Scott - Lincoln SE,U.S. Senate,,,Write-in,2,0,2
+Madison,Walnut - Ohio,U.S. Senate,,,Write-in,2,0,2
+Madison,Winterset I,U.S. Senate,,,Write-in,4,0,4
+Madison,Winterset II,U.S. Senate,,,Write-in,1,0,1
+Madison,Lincoln NE Township,U.S. Senate,,,Write-in,0,0,0
+Madison,Grand River - Monroe - Webster - Lincoln SW,U.S. House,3,DEM,Cindy Axne,102,52,50
+Madison,Jackson - Douglas - Lincoln NW,U.S. House,3,DEM,Cindy Axne,161,75,86
+Madison,Jefferson - Lee,U.S. House,3,DEM,Cindy Axne,284,138,146
+Madison,Penn - Madison,U.S. House,3,DEM,Cindy Axne,323,83,240
+Madison,South,U.S. House,3,DEM,Cindy Axne,228,96,132
+Madison,Union - Crawford - Scott - Lincoln SE,U.S. House,3,DEM,Cindy Axne,364,201,163
+Madison,Walnut - Ohio,U.S. House,3,DEM,Cindy Axne,148,61,87
+Madison,Winterset I,U.S. House,3,DEM,Cindy Axne,458,221,237
+Madison,Winterset II,U.S. House,3,DEM,Cindy Axne,408,210,198
+Madison,Lincoln NE Township,U.S. House,3,DEM,Cindy Axne,16,10,6
+Madison,Grand River - Monroe - Webster - Lincoln SW,U.S. House,3,REP,Zach Nunn,324,82,242
+Madison,Jackson - Douglas - Lincoln NW,U.S. House,3,REP,Zach Nunn,350,71,279
+Madison,Jefferson - Lee,U.S. House,3,REP,Zach Nunn,565,150,415
+Madison,Penn - Madison,U.S. House,3,REP,Zach Nunn,642,79,563
+Madison,South,U.S. House,3,REP,Zach Nunn,490,70,420
+Madison,Union - Crawford - Scott - Lincoln SE,U.S. House,3,REP,Zach Nunn,842,273,569
+Madison,Walnut - Ohio,U.S. House,3,REP,Zach Nunn,465,79,386
+Madison,Winterset I,U.S. House,3,REP,Zach Nunn,683,223,460
+Madison,Winterset II,U.S. House,3,REP,Zach Nunn,580,163,417
+Madison,Lincoln NE Township,U.S. House,3,REP,Zach Nunn,43,9,34
+Madison,Grand River - Monroe - Webster - Lincoln SW,U.S. House,3,,Write-in,0,0,0
+Madison,Jackson - Douglas - Lincoln NW,U.S. House,3,,Write-in,0,0,0
+Madison,Jefferson - Lee,U.S. House,3,,Write-in,0,0,0
+Madison,Penn - Madison,U.S. House,3,,Write-in,3,0,3
+Madison,South,U.S. House,3,,Write-in,1,1,0
+Madison,Union - Crawford - Scott - Lincoln SE,U.S. House,3,,Write-in,4,0,4
+Madison,Walnut - Ohio,U.S. House,3,,Write-in,1,0,1
+Madison,Winterset I,U.S. House,3,,Write-in,2,0,2
+Madison,Winterset II,U.S. House,3,,Write-in,2,0,2
+Madison,Lincoln NE Township,U.S. House,3,,Write-in,0,0,0
+Madison,Grand River - Monroe - Webster - Lincoln SW,Governor,,DEM,Deidre DeJear and Eric Van Lancker,79,42,37
+Madison,Jackson - Douglas - Lincoln NW,Governor,,DEM,Deidre DeJear and Eric Van Lancker,122,61,61
+Madison,Jefferson - Lee,Governor,,DEM,Deidre DeJear and Eric Van Lancker,257,134,123
+Madison,Penn - Madison,Governor,,DEM,Deidre DeJear and Eric Van Lancker,252,70,182
+Madison,South,Governor,,DEM,Deidre DeJear and Eric Van Lancker,195,87,108
+Madison,Union - Crawford - Scott - Lincoln SE,Governor,,DEM,Deidre DeJear and Eric Van Lancker,299,178,121
+Madison,Walnut - Ohio,Governor,,DEM,Deidre DeJear and Eric Van Lancker,111,47,64
+Madison,Winterset I,Governor,,DEM,Deidre DeJear and Eric Van Lancker,398,201,197
+Madison,Winterset II,Governor,,DEM,Deidre DeJear and Eric Van Lancker,350,191,159
+Madison,Lincoln NE Township,Governor,,DEM,Deidre DeJear and Eric Van Lancker,14,10,4
+Madison,Grand River - Monroe - Webster - Lincoln SW,Governor,,REP,Kim Reynolds and Adam Gregg,338,90,248
+Madison,Jackson - Douglas - Lincoln NW,Governor,,REP,Kim Reynolds and Adam Gregg,385,85,300
+Madison,Jefferson - Lee,Governor,,REP,Kim Reynolds and Adam Gregg,579,154,425
+Madison,Penn - Madison,Governor,,REP,Kim Reynolds and Adam Gregg,709,88,621
+Madison,South,Governor,,REP,Kim Reynolds and Adam Gregg,510,74,436
+Madison,Union - Crawford - Scott - Lincoln SE,Governor,,REP,Kim Reynolds and Adam Gregg,881,291,590
+Madison,Walnut - Ohio,Governor,,REP,Kim Reynolds and Adam Gregg,492,89,403
+Madison,Winterset I,Governor,,REP,Kim Reynolds and Adam Gregg,737,246,491
+Madison,Winterset II,Governor,,REP,Kim Reynolds and Adam Gregg,630,182,448
+Madison,Lincoln NE Township,Governor,,REP,Kim Reynolds and Adam Gregg,46,10,36
+Madison,Grand River - Monroe - Webster - Lincoln SW,Governor,,LIB,Rick Stewart and Marco Battaglia,12,1,11
+Madison,Jackson - Douglas - Lincoln NW,Governor,,LIB,Rick Stewart and Marco Battaglia,10,3,7
+Madison,Jefferson - Lee,Governor,,LIB,Rick Stewart and Marco Battaglia,14,2,12
+Madison,Penn - Madison,Governor,,LIB,Rick Stewart and Marco Battaglia,21,5,16
+Madison,South,Governor,,LIB,Rick Stewart and Marco Battaglia,19,8,11
+Madison,Union - Crawford - Scott - Lincoln SE,Governor,,LIB,Rick Stewart and Marco Battaglia,35,9,26
+Madison,Walnut - Ohio,Governor,,LIB,Rick Stewart and Marco Battaglia,17,5,12
+Madison,Winterset I,Governor,,LIB,Rick Stewart and Marco Battaglia,22,4,18
+Madison,Winterset II,Governor,,LIB,Rick Stewart and Marco Battaglia,21,4,17
+Madison,Lincoln NE Township,Governor,,LIB,Rick Stewart and Marco Battaglia,1,1,0
+Madison,Grand River - Monroe - Webster - Lincoln SW,Governor,,,Write-in,0,0,0
+Madison,Jackson - Douglas - Lincoln NW,Governor,,,Write-in,0,0,0
+Madison,Jefferson - Lee,Governor,,,Write-in,0,0,0
+Madison,Penn - Madison,Governor,,,Write-in,0,0,0
+Madison,South,Governor,,,Write-in,0,0,0
+Madison,Union - Crawford - Scott - Lincoln SE,Governor,,,Write-in,1,0,1
+Madison,Walnut - Ohio,Governor,,,Write-in,0,0,0
+Madison,Winterset I,Governor,,,Write-in,1,0,1
+Madison,Winterset II,Governor,,,Write-in,1,0,1
+Madison,Lincoln NE Township,Governor,,,Write-in,0,0,0
+Madison,Grand River - Monroe - Webster - Lincoln SW,Secretary of State,,DEM,Joel Miller,91,44,47
+Madison,Jackson - Douglas - Lincoln NW,Secretary of State,,DEM,Joel Miller,129,67,62
+Madison,Jefferson - Lee,Secretary of State,,DEM,Joel Miller,229,124,105
+Madison,Penn - Madison,Secretary of State,,DEM,Joel Miller,259,70,189
+Madison,South,Secretary of State,,DEM,Joel Miller,191,76,115
+Madison,Union - Crawford - Scott - Lincoln SE,Secretary of State,,DEM,Joel Miller,304,161,143
+Madison,Walnut - Ohio,Secretary of State,,DEM,Joel Miller,129,47,82
+Madison,Winterset I,Secretary of State,,DEM,Joel Miller,373,175,198
+Madison,Winterset II,Secretary of State,,DEM,Joel Miller,323,166,157
+Madison,Lincoln NE Township,Secretary of State,,DEM,Joel Miller,12,9,3
+Madison,Grand River - Monroe - Webster - Lincoln SW,Secretary of State,,REP,Paul D. Pate,330,85,245
+Madison,Jackson - Douglas - Lincoln NW,Secretary of State,,REP,Paul D. Pate,382,83,299
+Madison,Jefferson - Lee,Secretary of State,,REP,Paul D. Pate,604,154,450
+Madison,Penn - Madison,Secretary of State,,REP,Paul D. Pate,698,92,606
+Madison,South,Secretary of State,,REP,Paul D. Pate,519,89,430
+Madison,Union - Crawford - Scott - Lincoln SE,Secretary of State,,REP,Paul D. Pate,902,312,590
+Madison,Walnut - Ohio,Secretary of State,,REP,Paul D. Pate,481,91,390
+Madison,Winterset I,Secretary of State,,REP,Paul D. Pate,761,266,495
+Madison,Winterset II,Secretary of State,,REP,Paul D. Pate,657,204,453
+Madison,Lincoln NE Township,Secretary of State,,REP,Paul D. Pate,47,11,36
+Madison,Grand River - Monroe - Webster - Lincoln SW,Secretary of State,,,Write-in,0,0,0
+Madison,Jackson - Douglas - Lincoln NW,Secretary of State,,,Write-in,0,0,0
+Madison,Jefferson - Lee,Secretary of State,,,Write-in,0,0,0
+Madison,Penn - Madison,Secretary of State,,,Write-in,2,0,2
+Madison,South,Secretary of State,,,Write-in,0,0,0
+Madison,Union - Crawford - Scott - Lincoln SE,Secretary of State,,,Write-in,1,0,1
+Madison,Walnut - Ohio,Secretary of State,,,Write-in,1,0,1
+Madison,Winterset I,Secretary of State,,,Write-in,0,0,0
+Madison,Winterset II,Secretary of State,,,Write-in,2,1,1
+Madison,Lincoln NE Township,Secretary of State,,,Write-in,0,0,0
+Madison,Grand River - Monroe - Webster - Lincoln SW,Auditor of State,,DEM,Rob Sand,145,61,84
+Madison,Jackson - Douglas - Lincoln NW,Auditor of State,,DEM,Rob Sand,215,83,132
+Madison,Jefferson - Lee,Auditor of State,,DEM,Rob Sand,364,173,191
+Madison,Penn - Madison,Auditor of State,,DEM,Rob Sand,426,101,325
+Madison,South,Auditor of State,,DEM,Rob Sand,291,106,185
+Madison,Union - Crawford - Scott - Lincoln SE,Auditor of State,,DEM,Rob Sand,487,254,233
+Madison,Walnut - Ohio,Auditor of State,,DEM,Rob Sand,210,77,133
+Madison,Winterset I,Auditor of State,,DEM,Rob Sand,545,255,290
+Madison,Winterset II,Auditor of State,,DEM,Rob Sand,476,238,238
+Madison,Lincoln NE Township,Auditor of State,,DEM,Rob Sand,25,12,13
+Madison,Grand River - Monroe - Webster - Lincoln SW,Auditor of State,,REP,Todd Halbur,275,69,206
+Madison,Jackson - Douglas - Lincoln NW,Auditor of State,,REP,Todd Halbur,294,65,229
+Madison,Jefferson - Lee,Auditor of State,,REP,Todd Halbur,475,113,362
+Madison,Penn - Madison,Auditor of State,,REP,Todd Halbur,534,59,475
+Madison,South,Auditor of State,,REP,Todd Halbur,420,60,360
+Madison,Union - Crawford - Scott - Lincoln SE,Auditor of State,,REP,Todd Halbur,714,221,493
+Madison,Walnut - Ohio,Auditor of State,,REP,Todd Halbur,404,64,340
+Madison,Winterset I,Auditor of State,,REP,Todd Halbur,579,179,400
+Madison,Winterset II,Auditor of State,,REP,Todd Halbur,505,136,369
+Madison,Lincoln NE Township,Auditor of State,,REP,Todd Halbur,35,8,27
+Madison,Grand River - Monroe - Webster - Lincoln SW,Auditor of State,,,Write-in,1,0,1
+Madison,Jackson - Douglas - Lincoln NW,Auditor of State,,,Write-in,0,0,0
+Madison,Jefferson - Lee,Auditor of State,,,Write-in,1,0,1
+Madison,Penn - Madison,Auditor of State,,,Write-in,2,0,2
+Madison,South,Auditor of State,,,Write-in,0,0,0
+Madison,Union - Crawford - Scott - Lincoln SE,Auditor of State,,,Write-in,3,0,3
+Madison,Walnut - Ohio,Auditor of State,,,Write-in,1,0,1
+Madison,Winterset I,Auditor of State,,,Write-in,1,0,1
+Madison,Winterset II,Auditor of State,,,Write-in,1,0,1
+Madison,Lincoln NE Township,Auditor of State,,,Write-in,0,0,0
+Madison,Grand River - Monroe - Webster - Lincoln SW,Treasurer of State,,DEM,Michael L. Fitzgerald,139,57,82
+Madison,Jackson - Douglas - Lincoln NW,Treasurer of State,,DEM,Michael L. Fitzgerald,187,77,110
+Madison,Jefferson - Lee,Treasurer of State,,DEM,Michael L. Fitzgerald,345,162,183
+Madison,Penn - Madison,Treasurer of State,,DEM,Michael L. Fitzgerald,395,99,296
+Madison,South,Treasurer of State,,DEM,Michael L. Fitzgerald,269,103,166
+Madison,Union - Crawford - Scott - Lincoln SE,Treasurer of State,,DEM,Michael L. Fitzgerald,453,245,208
+Madison,Walnut - Ohio,Treasurer of State,,DEM,Michael L. Fitzgerald,192,72,120
+Madison,Winterset I,Treasurer of State,,DEM,Michael L. Fitzgerald,544,265,279
+Madison,Winterset II,Treasurer of State,,DEM,Michael L. Fitzgerald,455,231,224
+Madison,Lincoln NE Township,Treasurer of State,,DEM,Michael L. Fitzgerald,19,11,8
+Madison,Grand River - Monroe - Webster - Lincoln SW,Treasurer of State,,REP,Roby Smith,282,73,209
+Madison,Jackson - Douglas - Lincoln NW,Treasurer of State,,REP,Roby Smith,318,70,248
+Madison,Jefferson - Lee,Treasurer of State,,REP,Roby Smith,489,120,369
+Madison,Penn - Madison,Treasurer of State,,REP,Roby Smith,553,60,493
+Madison,South,Treasurer of State,,REP,Roby Smith,442,64,378
+Madison,Union - Crawford - Scott - Lincoln SE,Treasurer of State,,REP,Roby Smith,751,230,521
+Madison,Walnut - Ohio,Treasurer of State,,REP,Roby Smith,417,66,351
+Madison,Winterset I,Treasurer of State,,REP,Roby Smith,586,177,409
+Madison,Winterset II,Treasurer of State,,REP,Roby Smith,521,139,382
+Madison,Lincoln NE Township,Treasurer of State,,REP,Roby Smith,40,9,31
+Madison,Grand River - Monroe - Webster - Lincoln SW,Treasurer of State,,,Write-in,0,0,0
+Madison,Jackson - Douglas - Lincoln NW,Treasurer of State,,,Write-in,0,0,0
+Madison,Jefferson - Lee,Treasurer of State,,,Write-in,0,0,0
+Madison,Penn - Madison,Treasurer of State,,,Write-in,4,0,4
+Madison,South,Treasurer of State,,,Write-in,0,0,0
+Madison,Union - Crawford - Scott - Lincoln SE,Treasurer of State,,,Write-in,1,0,1
+Madison,Walnut - Ohio,Treasurer of State,,,Write-in,2,0,2
+Madison,Winterset I,Treasurer of State,,,Write-in,1,0,1
+Madison,Winterset II,Treasurer of State,,,Write-in,1,0,1
+Madison,Lincoln NE Township,Treasurer of State,,,Write-in,0,0,0
+Madison,Grand River - Monroe - Webster - Lincoln SW,Secretary of Agriculture,,DEM,John Norwood,85,46,39
+Madison,Jackson - Douglas - Lincoln NW,Secretary of Agriculture,,DEM,John Norwood,134,65,69
+Madison,Jefferson - Lee,Secretary of Agriculture,,DEM,John Norwood,234,122,112
+Madison,Penn - Madison,Secretary of Agriculture,,DEM,John Norwood,242,66,176
+Madison,South,Secretary of Agriculture,,DEM,John Norwood,182,84,98
+Madison,Union - Crawford - Scott - Lincoln SE,Secretary of Agriculture,,DEM,John Norwood,309,171,138
+Madison,Walnut - Ohio,Secretary of Agriculture,,DEM,John Norwood,128,52,76
+Madison,Winterset I,Secretary of Agriculture,,DEM,John Norwood,387,187,200
+Madison,Winterset II,Secretary of Agriculture,,DEM,John Norwood,331,181,150
+Madison,Lincoln NE Township,Secretary of Agriculture,,DEM,John Norwood,14,8,6
+Madison,Grand River - Monroe - Webster - Lincoln SW,Secretary of Agriculture,,REP,Mike Naig,334,83,251
+Madison,Jackson - Douglas - Lincoln NW,Secretary of Agriculture,,REP,Mike Naig,377,84,293
+Madison,Jefferson - Lee,Secretary of Agriculture,,REP,Mike Naig,599,158,441
+Madison,Penn - Madison,Secretary of Agriculture,,REP,Mike Naig,716,95,621
+Madison,South,Secretary of Agriculture,,REP,Mike Naig,522,79,443
+Madison,Union - Crawford - Scott - Lincoln SE,Secretary of Agriculture,,REP,Mike Naig,881,296,585
+Madison,Walnut - Ohio,Secretary of Agriculture,,REP,Mike Naig,484,87,397
+Madison,Winterset I,Secretary of Agriculture,,REP,Mike Naig,735,248,487
+Madison,Winterset II,Secretary of Agriculture,,REP,Mike Naig,638,186,452
+Madison,Lincoln NE Township,Secretary of Agriculture,,REP,Mike Naig,46,12,34
+Madison,Grand River - Monroe - Webster - Lincoln SW,Secretary of Agriculture,,,Write-in,2,0,2
+Madison,Jackson - Douglas - Lincoln NW,Secretary of Agriculture,,,Write-in,0,0,0
+Madison,Jefferson - Lee,Secretary of Agriculture,,,Write-in,0,0,0
+Madison,Penn - Madison,Secretary of Agriculture,,,Write-in,2,0,2
+Madison,South,Secretary of Agriculture,,,Write-in,0,0,0
+Madison,Union - Crawford - Scott - Lincoln SE,Secretary of Agriculture,,,Write-in,1,0,1
+Madison,Walnut - Ohio,Secretary of Agriculture,,,Write-in,1,0,1
+Madison,Winterset I,Secretary of Agriculture,,,Write-in,1,1,0
+Madison,Winterset II,Secretary of Agriculture,,,Write-in,1,0,1
+Madison,Lincoln NE Township,Secretary of Agriculture,,,Write-in,0,0,0
+Madison,Grand River - Monroe - Webster - Lincoln SW,Attorney General,,DEM,Tom Miller,135,61,74
+Madison,Jackson - Douglas - Lincoln NW,Attorney General,,DEM,Tom Miller,176,80,96
+Madison,Jefferson - Lee,Attorney General,,DEM,Tom Miller,321,158,163
+Madison,Penn - Madison,Attorney General,,DEM,Tom Miller,392,100,292
+Madison,South,Attorney General,,DEM,Tom Miller,279,109,170
+Madison,Union - Crawford - Scott - Lincoln SE,Attorney General,,DEM,Tom Miller,431,235,196
+Madison,Walnut - Ohio,Attorney General,,DEM,Tom Miller,204,80,124
+Madison,Winterset I,Attorney General,,DEM,Tom Miller,528,257,271
+Madison,Winterset II,Attorney General,,DEM,Tom Miller,487,238,249
+Madison,Lincoln NE Township,Attorney General,,DEM,Tom Miller,23,12,11
+Madison,Grand River - Monroe - Webster - Lincoln SW,Attorney General,,REP,Brenna Bird,286,70,216
+Madison,Jackson - Douglas - Lincoln NW,Attorney General,,REP,Brenna Bird,332,66,266
+Madison,Jefferson - Lee,Attorney General,,REP,Brenna Bird,518,131,387
+Madison,Penn - Madison,Attorney General,,REP,Brenna Bird,570,58,512
+Madison,South,Attorney General,,REP,Brenna Bird,434,58,376
+Madison,Union - Crawford - Scott - Lincoln SE,Attorney General,,REP,Brenna Bird,758,234,524
+Madison,Walnut - Ohio,Attorney General,,REP,Brenna Bird,406,58,348
+Madison,Winterset I,Attorney General,,REP,Brenna Bird,605,183,422
+Madison,Winterset II,Attorney General,,REP,Brenna Bird,490,131,359
+Madison,Lincoln NE Township,Attorney General,,REP,Brenna Bird,37,9,28
+Madison,Grand River - Monroe - Webster - Lincoln SW,Attorney General,,,Write-in,0,0,0
+Madison,Jackson - Douglas - Lincoln NW,Attorney General,,,Write-in,0,0,0
+Madison,Jefferson - Lee,Attorney General,,,Write-in,0,0,0
+Madison,Penn - Madison,Attorney General,,,Write-in,2,0,2
+Madison,South,Attorney General,,,Write-in,0,0,0
+Madison,Union - Crawford - Scott - Lincoln SE,Attorney General,,,Write-in,1,0,1
+Madison,Walnut - Ohio,Attorney General,,,Write-in,1,0,1
+Madison,Winterset I,Attorney General,,,Write-in,0,0,0
+Madison,Winterset II,Attorney General,,,Write-in,1,0,1
+Madison,Lincoln NE Township,Attorney General,,,Write-in,0,0,0
+Madison,Grand River - Monroe - Webster - Lincoln SW,State House,23,REP,Ray Bubba Sorensen,362,100,262
+Madison,Jackson - Douglas - Lincoln NW,State House,23,REP,Ray Bubba Sorensen,406,100,306
+Madison,Jefferson - Lee,State House,23,REP,Ray Bubba Sorensen,634,168,466
+Madison,Penn - Madison,State House,23,REP,Ray Bubba Sorensen,798,107,691
+Madison,South,State House,23,REP,Ray Bubba Sorensen,558,98,460
+Madison,Union - Crawford - Scott - Lincoln SE,State House,23,REP,Ray Bubba Sorensen,960,326,634
+Madison,Walnut - Ohio,State House,23,REP,Ray Bubba Sorensen,526,99,427
+Madison,Winterset I,State House,23,REP,Ray Bubba Sorensen,885,301,584
+Madison,Winterset II,State House,23,REP,Ray Bubba Sorensen,755,244,511
+Madison,Lincoln NE Township,State House,23,REP,Ray Bubba Sorensen,51,13,38
+Madison,Grand River - Monroe - Webster - Lincoln SW,State House,23,,Write-in,4,1,3
+Madison,Jackson - Douglas - Lincoln NW,State House,23,,Write-in,12,6,6
+Madison,Jefferson - Lee,State House,23,,Write-in,14,6,8
+Madison,Penn - Madison,State House,23,,Write-in,16,4,12
+Madison,South,State House,23,,Write-in,8,5,3
+Madison,Union - Crawford - Scott - Lincoln SE,State House,23,,Write-in,23,10,13
+Madison,Walnut - Ohio,State House,23,,Write-in,9,4,5
+Madison,Winterset I,State House,23,,Write-in,24,9,15
+Madison,Winterset II,State House,23,,Write-in,17,7,10
+Madison,Lincoln NE Township,State House,23,,Write-in,1,0,1
+Madison,Grand River - Monroe - Webster - Lincoln SW,County Board of Supervisors District 1,,REP,Heather Stancil,349,92,257
+Madison,Jackson - Douglas - Lincoln NW,County Board of Supervisors District 1,,REP,Heather Stancil,390,98,292
+Madison,Penn - Madison,County Board of Supervisors District 1,,REP,Heather Stancil,743,100,643
+Madison,Walnut - Ohio,County Board of Supervisors District 1,,REP,Heather Stancil,502,94,408
+Madison,Grand River - Monroe - Webster - Lincoln SW,County Board of Supervisors District 1,,,Write-in,10,3,7
+Madison,Jackson - Douglas - Lincoln NW,County Board of Supervisors District 1,,,Write-in,18,10,8
+Madison,Penn - Madison,County Board of Supervisors District 1,,,Write-in,48,10,38
+Madison,Walnut - Ohio,County Board of Supervisors District 1,,,Write-in,19,5,14
+Madison,Winterset I,County Board of Supervisors District 2,,REP,Phillip J. Clifton,886,309,577
+Madison,Winterset II,County Board of Supervisors District 2,,REP,Phillip J. Clifton,758,252,506
+Madison,Lincoln NE Township,County Board of Supervisors District 2,,REP,Phillip J. Clifton,51,13,38
+Madison,Winterset I,County Board of Supervisors District 2,,,Write-in,33,13,20
+Madison,Winterset II,County Board of Supervisors District 2,,,Write-in,28,12,16
+Madison,Lincoln NE Township,County Board of Supervisors District 2,,,Write-in,2,1,1
+Madison,Jefferson - Lee,County Board of Supervisors District 3,,REP,Diane Fitch,491,132,359
+Madison,South,County Board of Supervisors District 3,,REP,Diane Fitch,499,82,417
+Madison,Union - Crawford - Scott - Lincoln SE,County Board of Supervisors District 3,,REP,Diane Fitch,709,240,469
+Madison,Jefferson - Lee,County Board of Supervisors District 3,,,Ryan Marquardt,281,117,164
+Madison,South,County Board of Supervisors District 3,,,Ryan Marquardt,194,78,116
+Madison,Union - Crawford - Scott - Lincoln SE,County Board of Supervisors District 3,,,Ryan Marquardt,426,198,228
+Madison,Jefferson - Lee,County Board of Supervisors District 3,,,Write-in,0,0,0
+Madison,South,County Board of Supervisors District 3,,,Write-in,3,1,2
+Madison,Union - Crawford - Scott - Lincoln SE,County Board of Supervisors District 3,,,Write-in,5,2,3
+Madison,Grand River - Monroe - Webster - Lincoln SW,County Treasurer,,REP,Amanda DeVos,363,97,266
+Madison,Jackson - Douglas - Lincoln NW,County Treasurer,,REP,Amanda DeVos,404,104,300
+Madison,Jefferson - Lee,County Treasurer,,REP,Amanda DeVos,652,176,476
+Madison,Penn - Madison,County Treasurer,,REP,Amanda DeVos,788,108,680
+Madison,South,County Treasurer,,REP,Amanda DeVos,569,97,472
+Madison,Union - Crawford - Scott - Lincoln SE,County Treasurer,,REP,Amanda DeVos,971,336,635
+Madison,Walnut - Ohio,County Treasurer,,REP,Amanda DeVos,514,101,413
+Madison,Winterset I,County Treasurer,,REP,Amanda DeVos,892,310,582
+Madison,Winterset II,County Treasurer,,REP,Amanda DeVos,756,237,519
+Madison,Lincoln NE Township,County Treasurer,,REP,Amanda DeVos,51,13,38
+Madison,Grand River - Monroe - Webster - Lincoln SW,County Treasurer,,,Write-in,4,1,3
+Madison,Jackson - Douglas - Lincoln NW,County Treasurer,,,Write-in,9,4,5
+Madison,Jefferson - Lee,County Treasurer,,,Write-in,6,6,0
+Madison,Penn - Madison,County Treasurer,,,Write-in,11,1,10
+Madison,South,County Treasurer,,,Write-in,6,5,1
+Madison,Union - Crawford - Scott - Lincoln SE,County Treasurer,,,Write-in,14,9,5
+Madison,Walnut - Ohio,County Treasurer,,,Write-in,11,2,9
+Madison,Winterset I,County Treasurer,,,Write-in,17,6,11
+Madison,Winterset II,County Treasurer,,,Write-in,8,3,5
+Madison,Lincoln NE Township,County Treasurer,,,Write-in,0,0,0
+Madison,Grand River - Monroe - Webster - Lincoln SW,County Recorder,,REP,Brandy Macumber,368,101,267
+Madison,Jackson - Douglas - Lincoln NW,County Recorder,,REP,Brandy Macumber,416,105,311
+Madison,Jefferson - Lee,County Recorder,,REP,Brandy Macumber,654,179,475
+Madison,Penn - Madison,County Recorder,,REP,Brandy Macumber,793,112,681
+Madison,South,County Recorder,,REP,Brandy Macumber,574,101,473
+Madison,Union - Crawford - Scott - Lincoln SE,County Recorder,,REP,Brandy Macumber,992,345,647
+Madison,Walnut - Ohio,County Recorder,,REP,Brandy Macumber,530,106,424
+Madison,Winterset I,County Recorder,,REP,Brandy Macumber,932,331,601
+Madison,Winterset II,County Recorder,,REP,Brandy Macumber,786,258,528
+Madison,Lincoln NE Township,County Recorder,,REP,Brandy Macumber,52,13,39
+Madison,Grand River - Monroe - Webster - Lincoln SW,County Recorder,,,Write-in,5,1,4
+Madison,Jackson - Douglas - Lincoln NW,County Recorder,,,Write-in,5,2,3
+Madison,Jefferson - Lee,County Recorder,,,Write-in,5,4,1
+Madison,Penn - Madison,County Recorder,,,Write-in,13,1,12
+Madison,South,County Recorder,,,Write-in,5,4,1
+Madison,Union - Crawford - Scott - Lincoln SE,County Recorder,,,Write-in,9,5,4
+Madison,Walnut - Ohio,County Recorder,,,Write-in,9,2,7
+Madison,Winterset I,County Recorder,,,Write-in,13,5,8
+Madison,Winterset II,County Recorder,,,Write-in,7,2,5
+Madison,Lincoln NE Township,County Recorder,,,Write-in,0,0,0
+Madison,Grand River - Monroe - Webster - Lincoln SW,County Attorney,,REP,Matt Schultz,357,93,264
+Madison,Jackson - Douglas - Lincoln NW,County Attorney,,REP,Matt Schultz,392,101,291
+Madison,Jefferson - Lee,County Attorney,,REP,Matt Schultz,648,178,470
+Madison,Penn - Madison,County Attorney,,REP,Matt Schultz,770,107,663
+Madison,South,County Attorney,,REP,Matt Schultz,576,104,472
+Madison,Union - Crawford - Scott - Lincoln SE,County Attorney,,REP,Matt Schultz,952,328,624
+Madison,Walnut - Ohio,County Attorney,,REP,Matt Schultz,528,106,422
+Madison,Winterset I,County Attorney,,REP,Matt Schultz,888,307,581
+Madison,Winterset II,County Attorney,,REP,Matt Schultz,752,245,507
+Madison,Lincoln NE Township,County Attorney,,REP,Matt Schultz,48,12,36
+Madison,Grand River - Monroe - Webster - Lincoln SW,County Attorney,,,Write-in,8,3,5
+Madison,Jackson - Douglas - Lincoln NW,County Attorney,,,Write-in,14,3,11
+Madison,Jefferson - Lee,County Attorney,,,Write-in,5,3,2
+Madison,Penn - Madison,County Attorney,,,Write-in,20,2,18
+Madison,South,County Attorney,,,Write-in,7,3,4
+Madison,Union - Crawford - Scott - Lincoln SE,County Attorney,,,Write-in,20,9,11
+Madison,Walnut - Ohio,County Attorney,,,Write-in,8,0,8
+Madison,Winterset I,County Attorney,,,Write-in,22,9,13
+Madison,Winterset II,County Attorney,,,Write-in,14,3,11
+Madison,Lincoln NE Township,County Attorney,,,Write-in,4,1,3
+Madison,Union - Crawford - Scott - Lincoln SE,Crawford Township Trustees,,,Write-in,39,12,27
+Madison,Union - Crawford - Scott - Lincoln SE,Crawford Township Trustees,,,Dennis Schrodt,4,4,0
+Madison,Union - Crawford - Scott - Lincoln SE,Crawford Township Trustees,,,John Lafrette,3,2,1
+Madison,Union - Crawford - Scott - Lincoln SE,Crawford Township Clerk,,,Sheryl Faux,179,69,110
+Madison,Union - Crawford - Scott - Lincoln SE,Crawford Township Clerk,,,Write-in,4,1,3
+Madison,Jackson - Douglas - Lincoln NW,Douglas Township Trustees,,,Write-in,14,1,13
+Madison,Jackson - Douglas - Lincoln NW,Douglas Township Trustees,,,Laura Barringer,3,0,3
+Madison,Jackson - Douglas - Lincoln NW,Douglas Township Trustees,,,Shawn Clark,2,2,0
+Madison,Jackson - Douglas - Lincoln NW,Douglas Township Clerk,,,Write-in,6,0,6
+Madison,Jackson - Douglas - Lincoln NW,Douglas Township Clerk,,,Shawn Clark,2,2,0
+Madison,Grand River - Monroe - Webster - Lincoln SW,Grand River Township Trustees,,,Write-in,5,1,4
+Madison,Grand River - Monroe - Webster - Lincoln SW,Grand River Township Trustees,,,Cory Kiddoo,3,0,3
+Madison,Grand River - Monroe - Webster - Lincoln SW,Grand River Township Trustees,,,Kevin Blair,2,0,2
+Madison,Grand River - Monroe - Webster - Lincoln SW,Grand River Township Clerk,,,Write-in,1,1,0
+Madison,Grand River - Monroe - Webster - Lincoln SW,Grand River Township Clerk,,,Tracy Wolfe,2,0,2
+Madison,Jackson - Douglas - Lincoln NW,Jackson Township Trustees,,,Dennis Eckles,91,28,63
+Madison,Jackson - Douglas - Lincoln NW,Jackson Township Trustees,,,Brett Terhaar,80,20,60
+Madison,Jackson - Douglas - Lincoln NW,Jackson Township Trustees,,,Write-in,7,3,4
+Madison,Jackson - Douglas - Lincoln NW,Jackson Township Clerk,,,Write-in,7,2,5
+Madison,Jackson - Douglas - Lincoln NW,Jackson Township Clerk,,,Steve Neal,7,2,5
+Madison,Jefferson - Lee,Jefferson Township Trustees,,,William Jensen,231,66,165
+Madison,Jefferson - Lee,Jefferson Township Trustees,,,Write-in,18,5,13
+Madison,Jefferson - Lee,Jefferson Township Trustees,,,Matthew VanPelt,2,1,1
+Madison,Jefferson - Lee,Jefferson Township Trustee To Fill Vacancy,,,Anna Golightly,233,63,170
+Madison,Jefferson - Lee,Jefferson Township Trustee To Fill Vacancy,,,Write-in,2,0,2
+Madison,Jefferson - Lee,Jefferson Township Clerk,,,Write-in,18,6,12
+Madison,Jefferson - Lee,Jefferson Township Clerk,,,Michael Koch,1,0,1
+Madison,Jefferson - Lee,Lee Township Trustees,,,Write-in,50,15,35
+Madison,Jefferson - Lee,Lee Township Trustees,,,Eric Kenoyer,6,2,4
+Madison,Jefferson - Lee,Lee Township Trustees,,,Wes Duncan,6,0,6
+Madison,Jefferson - Lee,Lee Township Clerk,,,Write-in,20,6,14
+Madison,Jefferson - Lee,Lee Township Clerk,,,Abby Duncan,4,0,4
+Madison,Grand River - Monroe - Webster - Lincoln SW,Lincoln Township Trustees,,,Write-in,5,1,4
+Madison,Jackson - Douglas - Lincoln NW,Lincoln Township Trustees,,,Write-in,3,0,3
+Madison,Union - Crawford - Scott - Lincoln SE,Lincoln Township Trustees,,,Write-in,8,1,7
+Madison,Lincoln NE Township,Lincoln Township Trustees,,,Write-in,5,2,3
+Madison,Grand River - Monroe - Webster - Lincoln SW,Lincoln Township Trustees,,,Brad Gibson,7,5,2
+Madison,Jackson - Douglas - Lincoln NW,Lincoln Township Trustees,,,Brad Gibson,1,0,1
+Madison,Union - Crawford - Scott - Lincoln SE,Lincoln Township Trustees,,,Brad Gibson,0,0,0
+Madison,Lincoln NE Township,Lincoln Township Trustees,,,Brad Gibson,0,0,0
+Madison,Grand River - Monroe - Webster - Lincoln SW,Lincoln Township Trustees,,,Marshall Harpole,2,2,0
+Madison,Jackson - Douglas - Lincoln NW,Lincoln Township Trustees,,,Marshall Harpole,0,0,0
+Madison,Union - Crawford - Scott - Lincoln SE,Lincoln Township Trustees,,,Marshall Harpole,0,0,0
+Madison,Lincoln NE Township,Lincoln Township Trustees,,,Marshall Harpole,0,0,0
+Madison,Grand River - Monroe - Webster - Lincoln SW,Lincoln Township Clerk,,,Julie Waltz,35,12,23
+Madison,Jackson - Douglas - Lincoln NW,Lincoln Township Clerk,,,Julie Waltz,62,15,47
+Madison,Union - Crawford - Scott - Lincoln SE,Lincoln Township Clerk,,,Julie Waltz,44,12,32
+Madison,Lincoln NE Township,Lincoln Township Clerk,,,Julie Waltz,35,10,25
+Madison,Grand River - Monroe - Webster - Lincoln SW,Lincoln Township Clerk,,,Write-in,0,0,0
+Madison,Jackson - Douglas - Lincoln NW,Lincoln Township Clerk,,,Write-in,0,0,0
+Madison,Union - Crawford - Scott - Lincoln SE,Lincoln Township Clerk,,,Write-in,1,1,0
+Madison,Lincoln NE Township,Lincoln Township Clerk,,,Write-in,2,1,1
+Madison,Penn - Madison,Madison Township Trustees,,,Keith M. Williamson,142,44,98
+Madison,Penn - Madison,Madison Township Trustees,,,Frederick W. Martens,127,40,87
+Madison,Penn - Madison,Madison Township Trustees,,,Write-in,3,0,3
+Madison,Penn - Madison,Madison Township Clerk,,,Write-in,5,1,4
+Madison,Penn - Madison,Madison Township Clerk,,,John Mills,3,1,2
+Madison,Grand River - Monroe - Webster - Lincoln SW,Monroe Township Trustees,,,John Larry Kirk,120,49,71
+Madison,Grand River - Monroe - Webster - Lincoln SW,Monroe Township Trustees,,,Write-in,4,3,1
+Madison,Grand River - Monroe - Webster - Lincoln SW,Monroe Township Trustees,,,Gary Leopold,8,4,4
+Madison,Grand River - Monroe - Webster - Lincoln SW,Monroe Township Clerk,,,Write-in,5,3,2
+Madison,Grand River - Monroe - Webster - Lincoln SW,Monroe Township Clerk,,,William K. Coverdale,10,4,6
+Madison,Walnut - Ohio,Ohio Township Trustees,,,William Jaques,159,26,133
+Madison,Walnut - Ohio,Ohio Township Trustees,,,Write-in,10,2,8
+Madison,Walnut - Ohio,Ohio Township Trustees,,,Tim Palmer,2,0,2
+Madison,Walnut - Ohio,Ohio Township Clerk,,,Write-in,17,1,16
+Madison,Walnut - Ohio,Ohio Township Clerk,,,Darlene Brister,6,0,6
+Madison,Penn - Madison,Penn Township Trustees,,,Kenneth Creswell,113,22,91
+Madison,Penn - Madison,Penn Township Trustees,,,Michael H. Frey,111,14,97
+Madison,Penn - Madison,Penn Township Trustees,,,Write-in,4,0,4
+Madison,Penn - Madison,Penn Township Clerk,,,Write-in,11,1,10
+Madison,Penn - Madison,Penn Township Clerk,,,Patricia Hochstetler,2,0,2
+Madison,Union - Crawford - Scott - Lincoln SE,Scott Township Trustees,,,Spencer Morehouse,203,75,128
+Madison,Union - Crawford - Scott - Lincoln SE,Scott Township Trustees,,,Jeff Manny,274,92,182
+Madison,Union - Crawford - Scott - Lincoln SE,Scott Township Trustees,,,Write-in,7,1,6
+Madison,Union - Crawford - Scott - Lincoln SE,Scott Township Clerk,,,Connie Manny,295,98,197
+Madison,Union - Crawford - Scott - Lincoln SE,Scott Township Clerk,,,Write-in,0,0,0
+Madison,South,South Township Trustees,,,Ron Stout,294,57,237
+Madison,South,South Township Trustees,,,Write-in,15,8,7
+Madison,South,South Township Trustees,,,Richard Burhans,2,0,2
+Madison,South,South Township Clerk,,,Erin Goering,318,64,254
+Madison,South,South Township Clerk,,,Write-in,4,3,1
+Madison,Union - Crawford - Scott - Lincoln SE,Union Township Trustees,,,Daniel K. Ryner,253,109,144
+Madison,Union - Crawford - Scott - Lincoln SE,Union Township Trustees,,,Ronald D. Lyon,260,109,151
+Madison,Union - Crawford - Scott - Lincoln SE,Union Township Trustees,,,Write-in,2,0,2
+Madison,Union - Crawford - Scott - Lincoln SE,Union Township Clerk,,,Ted Benshoof,305,130,175
+Madison,Union - Crawford - Scott - Lincoln SE,Union Township Clerk,,,Write-in,2,1,1
+Madison,Walnut - Ohio,Walnut Township Trustees,,,Write-in,20,6,14
+Madison,Walnut - Ohio,Walnut Township Trustees,,,Clint Russell,4,0,4
+Madison,Walnut - Ohio,Walnut Township Trustees,,,Steve Agan,3,3,0
+Madison,Walnut - Ohio,Walnut Township Trustee To Fill Vacancy,,,Write-in,9,2,7
+Madison,Walnut - Ohio,Walnut Township Trustee To Fill Vacancy,,,Clint Russell,2,0,2
+Madison,Walnut - Ohio,Walnut Township Clerk,,,Dona Russell,103,26,77
+Madison,Walnut - Ohio,Walnut Township Clerk,,,Write-in,1,1,0
+Madison,Grand River - Monroe - Webster - Lincoln SW,Webster Township Trustees,,,Susie R. Shipman,73,21,52
+Madison,Grand River - Monroe - Webster - Lincoln SW,Webster Township Trustees,,,Ken Klingaman,84,24,60
+Madison,Grand River - Monroe - Webster - Lincoln SW,Webster Township Trustees,,,Write-in,5,0,5
+Madison,Grand River - Monroe - Webster - Lincoln SW,Webster Township Clerk,,,Rocky E. Shipman,85,22,63
+Madison,Grand River - Monroe - Webster - Lincoln SW,Webster Township Clerk,,,Write-in,2,0,2
+Madison,Grand River - Monroe - Webster - Lincoln SW,Hospital Trustees,,,Jared McDonald,258,74,184
+Madison,Jackson - Douglas - Lincoln NW,Hospital Trustees,,,Jared McDonald,286,87,199
+Madison,Jefferson - Lee,Hospital Trustees,,,Jared McDonald,420,136,284
+Madison,Penn - Madison,Hospital Trustees,,,Jared McDonald,581,94,487
+Madison,South,Hospital Trustees,,,Jared McDonald,408,84,324
+Madison,Union - Crawford - Scott - Lincoln SE,Hospital Trustees,,,Jared McDonald,720,264,456
+Madison,Walnut - Ohio,Hospital Trustees,,,Jared McDonald,352,76,276
+Madison,Winterset I,Hospital Trustees,,,Jared McDonald,788,289,499
+Madison,Winterset II,Hospital Trustees,,,Jared McDonald,655,230,425
+Madison,Lincoln NE Township,Hospital Trustees,,,Jared McDonald,43,12,31
+Madison,Grand River - Monroe - Webster - Lincoln SW,Hospital Trustees,,,Shari Carlson,210,57,153
+Madison,Jackson - Douglas - Lincoln NW,Hospital Trustees,,,Shari Carlson,250,81,169
+Madison,Jefferson - Lee,Hospital Trustees,,,Shari Carlson,411,128,283
+Madison,Penn - Madison,Hospital Trustees,,,Shari Carlson,562,100,462
+Madison,South,Hospital Trustees,,,Shari Carlson,379,82,297
+Madison,Union - Crawford - Scott - Lincoln SE,Hospital Trustees,,,Shari Carlson,645,228,417
+Madison,Walnut - Ohio,Hospital Trustees,,,Shari Carlson,325,67,258
+Madison,Winterset I,Hospital Trustees,,,Shari Carlson,683,257,426
+Madison,Winterset II,Hospital Trustees,,,Shari Carlson,559,193,366
+Madison,Lincoln NE Township,Hospital Trustees,,,Shari Carlson,37,11,26
+Madison,Grand River - Monroe - Webster - Lincoln SW,Hospital Trustees,,,Jacque Mohs,232,68,164
+Madison,Jackson - Douglas - Lincoln NW,Hospital Trustees,,,Jacque Mohs,269,80,189
+Madison,Jefferson - Lee,Hospital Trustees,,,Jacque Mohs,407,131,276
+Madison,Penn - Madison,Hospital Trustees,,,Jacque Mohs,536,94,442
+Madison,South,Hospital Trustees,,,Jacque Mohs,368,78,290
+Madison,Union - Crawford - Scott - Lincoln SE,Hospital Trustees,,,Jacque Mohs,708,262,446
+Madison,Walnut - Ohio,Hospital Trustees,,,Jacque Mohs,314,71,243
+Madison,Winterset I,Hospital Trustees,,,Jacque Mohs,752,283,469
+Madison,Winterset II,Hospital Trustees,,,Jacque Mohs,633,223,410
+Madison,Lincoln NE Township,Hospital Trustees,,,Jacque Mohs,41,12,29
+Madison,Grand River - Monroe - Webster - Lincoln SW,Hospital Trustees,,,Brian Gibson,258,70,188
+Madison,Jackson - Douglas - Lincoln NW,Hospital Trustees,,,Brian Gibson,280,82,198
+Madison,Jefferson - Lee,Hospital Trustees,,,Brian Gibson,417,132,285
+Madison,Penn - Madison,Hospital Trustees,,,Brian Gibson,562,88,474
+Madison,South,Hospital Trustees,,,Brian Gibson,391,80,311
+Madison,Union - Crawford - Scott - Lincoln SE,Hospital Trustees,,,Brian Gibson,686,241,445
+Madison,Walnut - Ohio,Hospital Trustees,,,Brian Gibson,332,67,265
+Madison,Winterset I,Hospital Trustees,,,Brian Gibson,721,274,447
+Madison,Winterset II,Hospital Trustees,,,Brian Gibson,611,222,389
+Madison,Lincoln NE Township,Hospital Trustees,,,Brian Gibson,43,14,29
+Madison,Grand River - Monroe - Webster - Lincoln SW,Hospital Trustees,,,Write-in,6,1,5
+Madison,Jackson - Douglas - Lincoln NW,Hospital Trustees,,,Write-in,3,1,2
+Madison,Jefferson - Lee,Hospital Trustees,,,Write-in,7,3,4
+Madison,Penn - Madison,Hospital Trustees,,,Write-in,14,2,12
+Madison,South,Hospital Trustees,,,Write-in,7,5,2
+Madison,Union - Crawford - Scott - Lincoln SE,Hospital Trustees,,,Write-in,21,15,6
+Madison,Walnut - Ohio,Hospital Trustees,,,Write-in,14,5,9
+Madison,Winterset I,Hospital Trustees,,,Write-in,22,4,18
+Madison,Winterset II,Hospital Trustees,,,Write-in,16,5,11
+Madison,Lincoln NE Township,Hospital Trustees,,,Write-in,1,1,0
+Madison,Grand River - Monroe - Webster - Lincoln SW,Soil and Water Conservation District Commissioner,,,Frederick Martens,274,69,205
+Madison,Jackson - Douglas - Lincoln NW,Soil and Water Conservation District Commissioner,,,Frederick Martens,302,88,214
+Madison,Jefferson - Lee,Soil and Water Conservation District Commissioner,,,Frederick Martens,482,152,330
+Madison,Penn - Madison,Soil and Water Conservation District Commissioner,,,Frederick Martens,690,114,576
+Madison,South,Soil and Water Conservation District Commissioner,,,Frederick Martens,453,87,366
+Madison,Union - Crawford - Scott - Lincoln SE,Soil and Water Conservation District Commissioner,,,Frederick Martens,763,260,503
+Madison,Walnut - Ohio,Soil and Water Conservation District Commissioner,,,Frederick Martens,400,76,324
+Madison,Winterset I,Soil and Water Conservation District Commissioner,,,Frederick Martens,794,281,513
+Madison,Winterset II,Soil and Water Conservation District Commissioner,,,Frederick Martens,663,220,443
+Madison,Lincoln NE Township,Soil and Water Conservation District Commissioner,,,Frederick Martens,42,14,28
+Madison,Grand River - Monroe - Webster - Lincoln SW,Soil and Water Conservation District Commissioner,,,Write-in,10,1,9
+Madison,Jackson - Douglas - Lincoln NW,Soil and Water Conservation District Commissioner,,,Write-in,14,7,7
+Madison,Jefferson - Lee,Soil and Water Conservation District Commissioner,,,Write-in,27,9,18
+Madison,Penn - Madison,Soil and Water Conservation District Commissioner,,,Write-in,28,4,24
+Madison,South,Soil and Water Conservation District Commissioner,,,Write-in,15,7,8
+Madison,Union - Crawford - Scott - Lincoln SE,Soil and Water Conservation District Commissioner,,,Write-in,52,29,23
+Madison,Walnut - Ohio,Soil and Water Conservation District Commissioner,,,Write-in,21,4,17
+Madison,Winterset I,Soil and Water Conservation District Commissioner,,,Write-in,38,8,30
+Madison,Winterset II,Soil and Water Conservation District Commissioner,,,Write-in,29,6,23
+Madison,Lincoln NE Township,Soil and Water Conservation District Commissioner,,,Write-in,6,3,3
+Madison,Grand River - Monroe - Webster - Lincoln SW,Soil and Water Conservation District Commissioner,,,Tom Moss,5,1,4
+Madison,Jackson - Douglas - Lincoln NW,Soil and Water Conservation District Commissioner,,,Tom Moss,15,5,10
+Madison,Jefferson - Lee,Soil and Water Conservation District Commissioner,,,Tom Moss,14,3,11
+Madison,Penn - Madison,Soil and Water Conservation District Commissioner,,,Tom Moss,2,0,2
+Madison,South,Soil and Water Conservation District Commissioner,,,Tom Moss,1,0,1
+Madison,Union - Crawford - Scott - Lincoln SE,Soil and Water Conservation District Commissioner,,,Tom Moss,22,9,13
+Madison,Walnut - Ohio,Soil and Water Conservation District Commissioner,,,Tom Moss,3,1,2
+Madison,Winterset I,Soil and Water Conservation District Commissioner,,,Tom Moss,19,9,10
+Madison,Winterset II,Soil and Water Conservation District Commissioner,,,Tom Moss,26,11,15
+Madison,Lincoln NE Township,Soil and Water Conservation District Commissioner,,,Tom Moss,0,0,0
+Madison,Grand River - Monroe - Webster - Lincoln SW,County Agricultural Extension Council Member,,,Tiffany Jensen,227,60,167
+Madison,Jackson - Douglas - Lincoln NW,County Agricultural Extension Council Member,,,Tiffany Jensen,239,78,161
+Madison,Jefferson - Lee,County Agricultural Extension Council Member,,,Tiffany Jensen,398,124,274
+Madison,Penn - Madison,County Agricultural Extension Council Member,,,Tiffany Jensen,556,94,462
+Madison,South,County Agricultural Extension Council Member,,,Tiffany Jensen,374,75,299
+Madison,Union - Crawford - Scott - Lincoln SE,County Agricultural Extension Council Member,,,Tiffany Jensen,634,212,422
+Madison,Walnut - Ohio,County Agricultural Extension Council Member,,,Tiffany Jensen,334,68,266
+Madison,Winterset I,County Agricultural Extension Council Member,,,Tiffany Jensen,657,234,423
+Madison,Winterset II,County Agricultural Extension Council Member,,,Tiffany Jensen,538,175,363
+Madison,Lincoln NE Township,County Agricultural Extension Council Member,,,Tiffany Jensen,36,10,26
+Madison,Grand River - Monroe - Webster - Lincoln SW,County Agricultural Extension Council Member,,,Diogenes Ayala,214,60,154
+Madison,Jackson - Douglas - Lincoln NW,County Agricultural Extension Council Member,,,Diogenes Ayala,239,78,161
+Madison,Jefferson - Lee,County Agricultural Extension Council Member,,,Diogenes Ayala,372,115,257
+Madison,Penn - Madison,County Agricultural Extension Council Member,,,Diogenes Ayala,527,92,435
+Madison,South,County Agricultural Extension Council Member,,,Diogenes Ayala,364,78,286
+Madison,Union - Crawford - Scott - Lincoln SE,County Agricultural Extension Council Member,,,Diogenes Ayala,629,232,397
+Madison,Walnut - Ohio,County Agricultural Extension Council Member,,,Diogenes Ayala,299,70,229
+Madison,Winterset I,County Agricultural Extension Council Member,,,Diogenes Ayala,678,265,413
+Madison,Winterset II,County Agricultural Extension Council Member,,,Diogenes Ayala,571,206,365
+Madison,Lincoln NE Township,County Agricultural Extension Council Member,,,Diogenes Ayala,36,11,25
+Madison,Grand River - Monroe - Webster - Lincoln SW,County Agricultural Extension Council Member,,,Amy Warnke,207,50,157
+Madison,Jackson - Douglas - Lincoln NW,County Agricultural Extension Council Member,,,Amy Warnke,230,73,157
+Madison,Jefferson - Lee,County Agricultural Extension Council Member,,,Amy Warnke,396,118,278
+Madison,Penn - Madison,County Agricultural Extension Council Member,,,Amy Warnke,537,94,443
+Madison,South,County Agricultural Extension Council Member,,,Amy Warnke,353,73,280
+Madison,Union - Crawford - Scott - Lincoln SE,County Agricultural Extension Council Member,,,Amy Warnke,591,207,384
+Madison,Walnut - Ohio,County Agricultural Extension Council Member,,,Amy Warnke,303,64,239
+Madison,Winterset I,County Agricultural Extension Council Member,,,Amy Warnke,624,240,384
+Madison,Winterset II,County Agricultural Extension Council Member,,,Amy Warnke,512,172,340
+Madison,Lincoln NE Township,County Agricultural Extension Council Member,,,Amy Warnke,34,10,24
+Madison,Grand River - Monroe - Webster - Lincoln SW,County Agricultural Extension Council Member,,,Lisa Jones,220,54,166
+Madison,Jackson - Douglas - Lincoln NW,County Agricultural Extension Council Member,,,Lisa Jones,226,71,155
+Madison,Jefferson - Lee,County Agricultural Extension Council Member,,,Lisa Jones,392,119,273
+Madison,Penn - Madison,County Agricultural Extension Council Member,,,Lisa Jones,542,91,451
+Madison,South,County Agricultural Extension Council Member,,,Lisa Jones,378,73,305
+Madison,Union - Crawford - Scott - Lincoln SE,County Agricultural Extension Council Member,,,Lisa Jones,610,207,403
+Madison,Walnut - Ohio,County Agricultural Extension Council Member,,,Lisa Jones,341,73,268
+Madison,Winterset I,County Agricultural Extension Council Member,,,Lisa Jones,630,232,398
+Madison,Winterset II,County Agricultural Extension Council Member,,,Lisa Jones,503,165,338
+Madison,Lincoln NE Township,County Agricultural Extension Council Member,,,Lisa Jones,36,10,26
+Madison,Grand River - Monroe - Webster - Lincoln SW,County Agricultural Extension Council Member,,,Nathan Romine,202,50,152
+Madison,Jackson - Douglas - Lincoln NW,County Agricultural Extension Council Member,,,Nathan Romine,209,64,145
+Madison,Jefferson - Lee,County Agricultural Extension Council Member,,,Nathan Romine,382,115,267
+Madison,Penn - Madison,County Agricultural Extension Council Member,,,Nathan Romine,524,89,435
+Madison,South,County Agricultural Extension Council Member,,,Nathan Romine,355,66,289
+Madison,Union - Crawford - Scott - Lincoln SE,County Agricultural Extension Council Member,,,Nathan Romine,590,208,382
+Madison,Walnut - Ohio,County Agricultural Extension Council Member,,,Nathan Romine,309,66,243
+Madison,Winterset I,County Agricultural Extension Council Member,,,Nathan Romine,601,219,382
+Madison,Winterset II,County Agricultural Extension Council Member,,,Nathan Romine,508,166,342
+Madison,Lincoln NE Township,County Agricultural Extension Council Member,,,Nathan Romine,36,11,25
+Madison,Grand River - Monroe - Webster - Lincoln SW,County Agricultural Extension Council Member,,,Write-in,3,0,3
+Madison,Jackson - Douglas - Lincoln NW,County Agricultural Extension Council Member,,,Write-in,8,2,6
+Madison,Jefferson - Lee,County Agricultural Extension Council Member,,,Write-in,9,1,8
+Madison,Penn - Madison,County Agricultural Extension Council Member,,,Write-in,8,0,8
+Madison,South,County Agricultural Extension Council Member,,,Write-in,9,7,2
+Madison,Union - Crawford - Scott - Lincoln SE,County Agricultural Extension Council Member,,,Write-in,16,6,10
+Madison,Walnut - Ohio,County Agricultural Extension Council Member,,,Write-in,13,2,11
+Madison,Winterset I,County Agricultural Extension Council Member,,,Write-in,14,2,12
+Madison,Winterset II,County Agricultural Extension Council Member,,,Write-in,9,2,7
+Madison,Lincoln NE Township,County Agricultural Extension Council Member,,,Write-in,2,1,1
+Madison,Grand River - Monroe - Webster - Lincoln SW,Supreme Court Justice,,,Yes,214,62,152
+Madison,Jackson - Douglas - Lincoln NW,Supreme Court Justice,,,Yes,219,62,157
+Madison,Jefferson - Lee,Supreme Court Justice,,,Yes,413,135,278
+Madison,Penn - Madison,Supreme Court Justice,,,Yes,503,81,422
+Madison,South,Supreme Court Justice,,,Yes,314,74,240
+Madison,Union - Crawford - Scott - Lincoln SE,Supreme Court Justice,,,Yes,579,206,373
+Madison,Walnut - Ohio,Supreme Court Justice,,,Yes,303,66,237
+Madison,Winterset I,Supreme Court Justice,,,Yes,550,182,368
+Madison,Winterset II,Supreme Court Justice,,,Yes,451,160,291
+Madison,Lincoln NE Township,Supreme Court Justice,,,Yes,31,6,25
+Madison,Grand River - Monroe - Webster - Lincoln SW,Supreme Court Justice,,,No,105,30,75
+Madison,Jackson - Douglas - Lincoln NW,Supreme Court Justice,,,No,119,33,86
+Madison,Jefferson - Lee,Supreme Court Justice,,,No,197,66,131
+Madison,Penn - Madison,Supreme Court Justice,,,No,228,43,185
+Madison,South,Supreme Court Justice,,,No,195,46,149
+Madison,Union - Crawford - Scott - Lincoln SE,Supreme Court Justice,,,No,286,115,171
+Madison,Walnut - Ohio,Supreme Court Justice,,,No,166,33,133
+Madison,Winterset I,Supreme Court Justice,,,No,294,118,176
+Madison,Winterset II,Supreme Court Justice,,,No,257,93,164
+Madison,Lincoln NE Township,Supreme Court Justice,,,No,18,10,8
+Madison,Grand River - Monroe - Webster - Lincoln SW,Court of Appeals Judge,,,Yes,211,58,153
+Madison,Jackson - Douglas - Lincoln NW,Court of Appeals Judge,,,Yes,213,61,152
+Madison,Jefferson - Lee,Court of Appeals Judge,,,Yes,419,136,283
+Madison,Penn - Madison,Court of Appeals Judge,,,Yes,507,81,426
+Madison,South,Court of Appeals Judge,,,Yes,313,74,239
+Madison,Union - Crawford - Scott - Lincoln SE,Court of Appeals Judge,,,Yes,571,211,360
+Madison,Walnut - Ohio,Court of Appeals Judge,,,Yes,300,63,237
+Madison,Winterset I,Court of Appeals Judge,,,Yes,559,188,371
+Madison,Winterset II,Court of Appeals Judge,,,Yes,471,165,306
+Madison,Lincoln NE Township,Court of Appeals Judge,,,Yes,33,5,28
+Madison,Grand River - Monroe - Webster - Lincoln SW,Court of Appeals Judge,,,No,97,28,69
+Madison,Jackson - Douglas - Lincoln NW,Court of Appeals Judge,,,No,114,33,81
+Madison,Jefferson - Lee,Court of Appeals Judge,,,No,173,56,117
+Madison,Penn - Madison,Court of Appeals Judge,,,No,217,41,176
+Madison,South,Court of Appeals Judge,,,No,187,40,147
+Madison,Union - Crawford - Scott - Lincoln SE,Court of Appeals Judge,,,No,284,102,182
+Madison,Walnut - Ohio,Court of Appeals Judge,,,No,161,34,127
+Madison,Winterset I,Court of Appeals Judge,,,No,268,107,161
+Madison,Winterset II,Court of Appeals Judge,,,No,223,75,148
+Madison,Lincoln NE Township,Court of Appeals Judge,,,No,15,9,6
+Madison,Grand River - Monroe - Webster - Lincoln SW,District 5A Judge,,,Yes,219,59,160
+Madison,Jackson - Douglas - Lincoln NW,District 5A Judge,,,Yes,230,69,161
+Madison,Jefferson - Lee,District 5A Judge,,,Yes,426,135,291
+Madison,Penn - Madison,District 5A Judge,,,Yes,549,84,465
+Madison,South,District 5A Judge,,,Yes,348,84,264
+Madison,Union - Crawford - Scott - Lincoln SE,District 5A Judge,,,Yes,598,222,376
+Madison,Walnut - Ohio,District 5A Judge,,,Yes,338,70,268
+Madison,Winterset I,District 5A Judge,,,Yes,617,211,406
+Madison,Winterset II,District 5A Judge,,,Yes,501,170,331
+Madison,Lincoln NE Township,District 5A Judge,,,Yes,32,4,28
+Madison,Grand River - Monroe - Webster - Lincoln SW,District 5A Judge,,,No,95,28,67
+Madison,Jackson - Douglas - Lincoln NW,District 5A Judge,,,No,111,27,84
+Madison,Jefferson - Lee,District 5A Judge,,,No,168,56,112
+Madison,Penn - Madison,District 5A Judge,,,No,197,37,160
+Madison,South,District 5A Judge,,,No,169,37,132
+Madison,Union - Crawford - Scott - Lincoln SE,District 5A Judge,,,No,253,91,162
+Madison,Walnut - Ohio,District 5A Judge,,,No,137,31,106
+Madison,Winterset I,District 5A Judge,,,No,243,98,145
+Madison,Winterset II,District 5A Judge,,,No,213,76,137
+Madison,Lincoln NE Township,District 5A Judge,,,No,15,9,6
+Madison,Grand River - Monroe - Webster - Lincoln SW,District 5A Associate Judge,,,Yes,212,55,157
+Madison,Jackson - Douglas - Lincoln NW,District 5A Associate Judge,,,Yes,224,65,159
+Madison,Jefferson - Lee,District 5A Associate Judge,,,Yes,412,129,283
+Madison,Penn - Madison,District 5A Associate Judge,,,Yes,540,84,456
+Madison,South,District 5A Associate Judge,,,Yes,336,79,257
+Madison,Union - Crawford - Scott - Lincoln SE,District 5A Associate Judge,,,Yes,574,212,362
+Madison,Walnut - Ohio,District 5A Associate Judge,,,Yes,321,66,255
+Madison,Winterset I,District 5A Associate Judge,,,Yes,599,202,397
+Madison,Winterset II,District 5A Associate Judge,,,Yes,493,170,323
+Madison,Lincoln NE Township,District 5A Associate Judge,,,Yes,32,4,28
+Madison,Grand River - Monroe - Webster - Lincoln SW,District 5A Associate Judge,,,No,97,29,68
+Madison,Jackson - Douglas - Lincoln NW,District 5A Associate Judge,,,No,110,28,82
+Madison,Jefferson - Lee,District 5A Associate Judge,,,No,175,59,116
+Madison,Penn - Madison,District 5A Associate Judge,,,No,201,35,166
+Madison,South,District 5A Associate Judge,,,No,172,37,135
+Madison,Union - Crawford - Scott - Lincoln SE,District 5A Associate Judge,,,No,267,96,171
+Madison,Walnut - Ohio,District 5A Associate Judge,,,No,149,33,116
+Madison,Winterset I,District 5A Associate Judge,,,No,250,101,149
+Madison,Winterset II,District 5A Associate Judge,,,No,215,75,140
+Madison,Lincoln NE Township,District 5A Associate Judge,,,No,15,9,6
+Madison,Grand River - Monroe - Webster - Lincoln SW,Constitutional Amendment 1,,,Yes,353,102,251
+Madison,Jackson - Douglas - Lincoln NW,Constitutional Amendment 1,,,Yes,393,94,299
+Madison,Jefferson - Lee,Constitutional Amendment 1,,,Yes,601,168,433
+Madison,Penn - Madison,Constitutional Amendment 1,,,Yes,712,105,607
+Madison,South,Constitutional Amendment 1,,,Yes,542,97,445
+Madison,Union - Crawford - Scott - Lincoln SE,Constitutional Amendment 1,,,Yes,912,307,605
+Madison,Walnut - Ohio,Constitutional Amendment 1,,,Yes,523,106,417
+Madison,Winterset I,Constitutional Amendment 1,,,Yes,778,251,527
+Madison,Winterset II,Constitutional Amendment 1,,,Yes,700,228,472
+Madison,Lincoln NE Township,Constitutional Amendment 1,,,Yes,50,15,35
+Madison,Grand River - Monroe - Webster - Lincoln SW,Constitutional Amendment 1,,,No,59,26,33
+Madison,Jackson - Douglas - Lincoln NW,Constitutional Amendment 1,,,No,96,52,44
+Madison,Jefferson - Lee,Constitutional Amendment 1,,,No,208,106,102
+Madison,Penn - Madison,Constitutional Amendment 1,,,No,213,54,159
+Madison,South,Constitutional Amendment 1,,,No,151,66,85
+Madison,Union - Crawford - Scott - Lincoln SE,Constitutional Amendment 1,,,No,238,144,94
+Madison,Walnut - Ohio,Constitutional Amendment 1,,,No,76,27,49
+Madison,Winterset I,Constitutional Amendment 1,,,No,318,165,153
+Madison,Winterset II,Constitutional Amendment 1,,,No,248,127,121
+Madison,Lincoln NE Township,Constitutional Amendment 1,,,No,10,6,4

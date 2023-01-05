@@ -1,0 +1,904 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Tama,Lincoln/Grant,U.S. Senate,,REP,Chuck Grassley,236,27,209
+Tama,Buckingham/Perry,U.S. Senate,,REP,Chuck Grassley,621,92,529
+Tama,Geneseo/Clark,U.S. Senate,,REP,Chuck Grassley,661,81,580
+Tama,Spring Creek/Crystal,U.S. Senate,,REP,Chuck Grassley,484,62,422
+Tama,Carlton,U.S. Senate,,REP,Chuck Grassley,236,39,197
+Tama,Howard/Toledo,U.S. Senate,,REP,Chuck Grassley,613,120,493
+Tama,Carroll/Oneida,U.S. Senate,,REP,Chuck Grassley,204,19,185
+Tama,Highland/Indian Village/Columb,U.S. Senate,,REP,Chuck Grassley,351,60,291
+Tama,Tama/Otter Creek,U.S. Senate,,REP,Chuck Grassley,457,80,377
+Tama,York,U.S. Senate,,REP,Chuck Grassley,172,18,154
+Tama,West Richland,U.S. Senate,,REP,Chuck Grassley,30,5,25
+Tama,East Richland/Salt Creek,U.S. Senate,,REP,Chuck Grassley,162,23,139
+Tama,Indian Settlement,U.S. Senate,,REP,Chuck Grassley,14,1,13
+Tama,Lincoln/Grant,U.S. Senate,,DEM,Michael Franken,68,15,53
+Tama,Buckingham/Perry,U.S. Senate,,DEM,Michael Franken,280,72,208
+Tama,Geneseo/Clark,U.S. Senate,,DEM,Michael Franken,305,84,221
+Tama,Spring Creek/Crystal,U.S. Senate,,DEM,Michael Franken,213,69,144
+Tama,Carlton,U.S. Senate,,DEM,Michael Franken,130,37,93
+Tama,Howard/Toledo,U.S. Senate,,DEM,Michael Franken,442,154,288
+Tama,Carroll/Oneida,U.S. Senate,,DEM,Michael Franken,64,20,44
+Tama,Highland/Indian Village/Columb,U.S. Senate,,DEM,Michael Franken,160,53,107
+Tama,Tama/Otter Creek,U.S. Senate,,DEM,Michael Franken,378,131,247
+Tama,York,U.S. Senate,,DEM,Michael Franken,63,10,53
+Tama,West Richland,U.S. Senate,,DEM,Michael Franken,4,1,3
+Tama,East Richland/Salt Creek,U.S. Senate,,DEM,Michael Franken,62,11,51
+Tama,Indian Settlement,U.S. Senate,,DEM,Michael Franken,204,17,187
+Tama,Lincoln/Grant,U.S. Senate,,,Write-in,0,0,0
+Tama,Buckingham/Perry,U.S. Senate,,,Write-in,2,0,2
+Tama,Geneseo/Clark,U.S. Senate,,,Write-in,1,0,1
+Tama,Spring Creek/Crystal,U.S. Senate,,,Write-in,1,0,1
+Tama,Carlton,U.S. Senate,,,Write-in,0,0,0
+Tama,Howard/Toledo,U.S. Senate,,,Write-in,2,0,2
+Tama,Carroll/Oneida,U.S. Senate,,,Write-in,1,0,1
+Tama,Highland/Indian Village/Columb,U.S. Senate,,,Write-in,0,0,0
+Tama,Tama/Otter Creek,U.S. Senate,,,Write-in,2,0,2
+Tama,York,U.S. Senate,,,Write-in,0,0,0
+Tama,West Richland,U.S. Senate,,,Write-in,0,0,0
+Tama,East Richland/Salt Creek,U.S. Senate,,,Write-in,0,0,0
+Tama,Indian Settlement,U.S. Senate,,,Write-in,1,1,0
+Tama,Lincoln/Grant,U.S. House,2,REP,Ashley Hinson,230,27,203
+Tama,Buckingham/Perry,U.S. House,2,REP,Ashley Hinson,605,89,516
+Tama,Geneseo/Clark,U.S. House,2,REP,Ashley Hinson,653,80,573
+Tama,Spring Creek/Crystal,U.S. House,2,REP,Ashley Hinson,497,70,427
+Tama,Carlton,U.S. House,2,REP,Ashley Hinson,235,39,196
+Tama,Howard/Toledo,U.S. House,2,REP,Ashley Hinson,615,119,496
+Tama,Carroll/Oneida,U.S. House,2,REP,Ashley Hinson,199,21,178
+Tama,Highland/Indian Village/Columb,U.S. House,2,REP,Ashley Hinson,349,60,289
+Tama,Tama/Otter Creek,U.S. House,2,REP,Ashley Hinson,452,78,374
+Tama,York,U.S. House,2,REP,Ashley Hinson,171,17,154
+Tama,West Richland,U.S. House,2,REP,Ashley Hinson,29,5,24
+Tama,East Richland/Salt Creek,U.S. House,2,REP,Ashley Hinson,160,21,139
+Tama,Indian Settlement,U.S. House,2,REP,Ashley Hinson,8,0,8
+Tama,Lincoln/Grant,U.S. House,2,DEM,Liz Mathis,74,15,59
+Tama,Buckingham/Perry,U.S. House,2,DEM,Liz Mathis,298,73,225
+Tama,Geneseo/Clark,U.S. House,2,DEM,Liz Mathis,311,85,226
+Tama,Spring Creek/Crystal,U.S. House,2,DEM,Liz Mathis,203,63,140
+Tama,Carlton,U.S. House,2,DEM,Liz Mathis,131,37,94
+Tama,Howard/Toledo,U.S. House,2,DEM,Liz Mathis,437,151,286
+Tama,Carroll/Oneida,U.S. House,2,DEM,Liz Mathis,69,19,50
+Tama,Highland/Indian Village/Columb,U.S. House,2,DEM,Liz Mathis,160,52,108
+Tama,Tama/Otter Creek,U.S. House,2,DEM,Liz Mathis,383,134,249
+Tama,York,U.S. House,2,DEM,Liz Mathis,64,11,53
+Tama,West Richland,U.S. House,2,DEM,Liz Mathis,5,1,4
+Tama,East Richland/Salt Creek,U.S. House,2,DEM,Liz Mathis,64,13,51
+Tama,Indian Settlement,U.S. House,2,DEM,Liz Mathis,209,19,190
+Tama,Lincoln/Grant,U.S. House,2,,Write-in,0,0,0
+Tama,Buckingham/Perry,U.S. House,2,,Write-in,0,0,0
+Tama,Geneseo/Clark,U.S. House,2,,Write-in,1,0,1
+Tama,Spring Creek/Crystal,U.S. House,2,,Write-in,0,0,0
+Tama,Carlton,U.S. House,2,,Write-in,0,0,0
+Tama,Howard/Toledo,U.S. House,2,,Write-in,3,1,2
+Tama,Carroll/Oneida,U.S. House,2,,Write-in,0,0,0
+Tama,Highland/Indian Village/Columb,U.S. House,2,,Write-in,0,0,0
+Tama,Tama/Otter Creek,U.S. House,2,,Write-in,1,0,1
+Tama,York,U.S. House,2,,Write-in,0,0,0
+Tama,West Richland,U.S. House,2,,Write-in,0,0,0
+Tama,East Richland/Salt Creek,U.S. House,2,,Write-in,0,0,0
+Tama,Indian Settlement,U.S. House,2,,Write-in,0,0,0
+Tama,Lincoln/Grant,Governor,,REP,Kim Reynolds and Adam Gregg,238,26,212
+Tama,Buckingham/Perry,Governor,,REP,Kim Reynolds and Adam Gregg,644,103,541
+Tama,Geneseo/Clark,Governor,,REP,Kim Reynolds and Adam Gregg,674,84,590
+Tama,Spring Creek/Crystal,Governor,,REP,Kim Reynolds and Adam Gregg,526,81,445
+Tama,Carlton,Governor,,REP,Kim Reynolds and Adam Gregg,241,39,202
+Tama,Howard/Toledo,Governor,,REP,Kim Reynolds and Adam Gregg,643,131,512
+Tama,Carroll/Oneida,Governor,,REP,Kim Reynolds and Adam Gregg,209,20,189
+Tama,Highland/Indian Village/Columb,Governor,,REP,Kim Reynolds and Adam Gregg,359,61,298
+Tama,Tama/Otter Creek,Governor,,REP,Kim Reynolds and Adam Gregg,477,87,390
+Tama,York,Governor,,REP,Kim Reynolds and Adam Gregg,172,18,154
+Tama,West Richland,Governor,,REP,Kim Reynolds and Adam Gregg,29,5,24
+Tama,East Richland/Salt Creek,Governor,,REP,Kim Reynolds and Adam Gregg,164,21,143
+Tama,Indian Settlement,Governor,,REP,Kim Reynolds and Adam Gregg,13,0,13
+Tama,Lincoln/Grant,Governor,,DEM,Deidre DeJear and Eric Van Lancker,62,15,47
+Tama,Buckingham/Perry,Governor,,DEM,Deidre DeJear and Eric Van Lancker,219,57,162
+Tama,Geneseo/Clark,Governor,,DEM,Deidre DeJear and Eric Van Lancker,262,78,184
+Tama,Spring Creek/Crystal,Governor,,DEM,Deidre DeJear and Eric Van Lancker,161,47,114
+Tama,Carlton,Governor,,DEM,Deidre DeJear and Eric Van Lancker,114,36,78
+Tama,Howard/Toledo,Governor,,DEM,Deidre DeJear and Eric Van Lancker,387,133,254
+Tama,Carroll/Oneida,Governor,,DEM,Deidre DeJear and Eric Van Lancker,53,20,33
+Tama,Highland/Indian Village/Columb,Governor,,DEM,Deidre DeJear and Eric Van Lancker,140,47,93
+Tama,Tama/Otter Creek,Governor,,DEM,Deidre DeJear and Eric Van Lancker,339,120,219
+Tama,York,Governor,,DEM,Deidre DeJear and Eric Van Lancker,56,8,48
+Tama,West Richland,Governor,,DEM,Deidre DeJear and Eric Van Lancker,4,1,3
+Tama,East Richland/Salt Creek,Governor,,DEM,Deidre DeJear and Eric Van Lancker,58,12,46
+Tama,Indian Settlement,Governor,,DEM,Deidre DeJear and Eric Van Lancker,198,19,179
+Tama,Lincoln/Grant,Governor,,LIB,Rick Stewart and Marco Battaglia,4,2,2
+Tama,Buckingham/Perry,Governor,,LIB,Rick Stewart and Marco Battaglia,45,4,41
+Tama,Geneseo/Clark,Governor,,LIB,Rick Stewart and Marco Battaglia,31,2,29
+Tama,Spring Creek/Crystal,Governor,,LIB,Rick Stewart and Marco Battaglia,13,3,10
+Tama,Carlton,Governor,,LIB,Rick Stewart and Marco Battaglia,11,1,10
+Tama,Howard/Toledo,Governor,,LIB,Rick Stewart and Marco Battaglia,25,8,17
+Tama,Carroll/Oneida,Governor,,LIB,Rick Stewart and Marco Battaglia,7,0,7
+Tama,Highland/Indian Village/Columb,Governor,,LIB,Rick Stewart and Marco Battaglia,12,5,7
+Tama,Tama/Otter Creek,Governor,,LIB,Rick Stewart and Marco Battaglia,25,8,17
+Tama,York,Governor,,LIB,Rick Stewart and Marco Battaglia,5,1,4
+Tama,West Richland,Governor,,LIB,Rick Stewart and Marco Battaglia,0,0,0
+Tama,East Richland/Salt Creek,Governor,,LIB,Rick Stewart and Marco Battaglia,2,1,1
+Tama,Indian Settlement,Governor,,LIB,Rick Stewart and Marco Battaglia,6,0,6
+Tama,Lincoln/Grant,Governor,,,Write-in,0,0,0
+Tama,Buckingham/Perry,Governor,,,Write-in,0,0,0
+Tama,Geneseo/Clark,Governor,,,Write-in,0,0,0
+Tama,Spring Creek/Crystal,Governor,,,Write-in,0,0,0
+Tama,Carlton,Governor,,,Write-in,1,0,1
+Tama,Howard/Toledo,Governor,,,Write-in,3,1,2
+Tama,Carroll/Oneida,Governor,,,Write-in,2,0,2
+Tama,Highland/Indian Village/Columb,Governor,,,Write-in,0,0,0
+Tama,Tama/Otter Creek,Governor,,,Write-in,0,0,0
+Tama,York,Governor,,,Write-in,0,0,0
+Tama,West Richland,Governor,,,Write-in,0,0,0
+Tama,East Richland/Salt Creek,Governor,,,Write-in,0,0,0
+Tama,Indian Settlement,Governor,,,Write-in,0,0,0
+Tama,Lincoln/Grant,Secretary of State,,REP,Paul D. Pate,249,29,220
+Tama,Buckingham/Perry,Secretary of State,,REP,Paul D. Pate,661,103,558
+Tama,Geneseo/Clark,Secretary of State,,REP,Paul D. Pate,706,88,618
+Tama,Spring Creek/Crystal,Secretary of State,,REP,Paul D. Pate,529,80,449
+Tama,Carlton,Secretary of State,,REP,Paul D. Pate,249,39,210
+Tama,Howard/Toledo,Secretary of State,,REP,Paul D. Pate,671,143,528
+Tama,Carroll/Oneida,Secretary of State,,REP,Paul D. Pate,208,19,189
+Tama,Highland/Indian Village/Columb,Secretary of State,,REP,Paul D. Pate,361,63,298
+Tama,Tama/Otter Creek,Secretary of State,,REP,Paul D. Pate,486,89,397
+Tama,York,Secretary of State,,REP,Paul D. Pate,172,17,155
+Tama,West Richland,Secretary of State,,REP,Paul D. Pate,31,5,26
+Tama,East Richland/Salt Creek,Secretary of State,,REP,Paul D. Pate,167,23,144
+Tama,Indian Settlement,Secretary of State,,REP,Paul D. Pate,13,1,12
+Tama,Lincoln/Grant,Secretary of State,,DEM,Joel Miller,56,14,42
+Tama,Buckingham/Perry,Secretary of State,,DEM,Joel Miller,241,59,182
+Tama,Geneseo/Clark,Secretary of State,,DEM,Joel Miller,252,74,178
+Tama,Spring Creek/Crystal,Secretary of State,,DEM,Joel Miller,162,51,111
+Tama,Carlton,Secretary of State,,DEM,Joel Miller,114,36,78
+Tama,Howard/Toledo,Secretary of State,,DEM,Joel Miller,374,127,247
+Tama,Carroll/Oneida,Secretary of State,,DEM,Joel Miller,58,21,37
+Tama,Highland/Indian Village/Columb,Secretary of State,,DEM,Joel Miller,143,47,96
+Tama,Tama/Otter Creek,Secretary of State,,DEM,Joel Miller,342,121,221
+Tama,York,Secretary of State,,DEM,Joel Miller,61,10,51
+Tama,West Richland,Secretary of State,,DEM,Joel Miller,3,1,2
+Tama,East Richland/Salt Creek,Secretary of State,,DEM,Joel Miller,55,11,44
+Tama,Indian Settlement,Secretary of State,,DEM,Joel Miller,206,18,188
+Tama,Lincoln/Grant,Secretary of State,,,Write-in,0,0,0
+Tama,Buckingham/Perry,Secretary of State,,,Write-in,0,0,0
+Tama,Geneseo/Clark,Secretary of State,,,Write-in,1,0,1
+Tama,Spring Creek/Crystal,Secretary of State,,,Write-in,0,0,0
+Tama,Carlton,Secretary of State,,,Write-in,1,0,1
+Tama,Howard/Toledo,Secretary of State,,,Write-in,1,0,1
+Tama,Carroll/Oneida,Secretary of State,,,Write-in,0,0,0
+Tama,Highland/Indian Village/Columb,Secretary of State,,,Write-in,0,0,0
+Tama,Tama/Otter Creek,Secretary of State,,,Write-in,1,0,1
+Tama,York,Secretary of State,,,Write-in,0,0,0
+Tama,West Richland,Secretary of State,,,Write-in,0,0,0
+Tama,East Richland/Salt Creek,Secretary of State,,,Write-in,0,0,0
+Tama,Indian Settlement,Secretary of State,,,Write-in,0,0,0
+Tama,Lincoln/Grant,Auditor of State,,REP,Todd Halbur,200,23,177
+Tama,Buckingham/Perry,Auditor of State,,REP,Todd Halbur,535,75,460
+Tama,Geneseo/Clark,Auditor of State,,REP,Todd Halbur,568,64,504
+Tama,Spring Creek/Crystal,Auditor of State,,REP,Todd Halbur,411,55,356
+Tama,Carlton,Auditor of State,,REP,Todd Halbur,212,37,175
+Tama,Howard/Toledo,Auditor of State,,REP,Todd Halbur,499,90,409
+Tama,Carroll/Oneida,Auditor of State,,REP,Todd Halbur,175,17,158
+Tama,Highland/Indian Village/Columb,Auditor of State,,REP,Todd Halbur,297,44,253
+Tama,Tama/Otter Creek,Auditor of State,,REP,Todd Halbur,386,68,318
+Tama,York,Auditor of State,,REP,Todd Halbur,150,13,137
+Tama,West Richland,Auditor of State,,REP,Todd Halbur,25,3,22
+Tama,East Richland/Salt Creek,Auditor of State,,REP,Todd Halbur,137,18,119
+Tama,Indian Settlement,Auditor of State,,REP,Todd Halbur,10,0,10
+Tama,Lincoln/Grant,Auditor of State,,DEM,Rob Sand,103,20,83
+Tama,Buckingham/Perry,Auditor of State,,DEM,Rob Sand,357,86,271
+Tama,Geneseo/Clark,Auditor of State,,DEM,Rob Sand,386,99,287
+Tama,Spring Creek/Crystal,Auditor of State,,DEM,Rob Sand,284,76,208
+Tama,Carlton,Auditor of State,,DEM,Rob Sand,152,38,114
+Tama,Howard/Toledo,Auditor of State,,DEM,Rob Sand,541,177,364
+Tama,Carroll/Oneida,Auditor of State,,DEM,Rob Sand,91,23,68
+Tama,Highland/Indian Village/Columb,Auditor of State,,DEM,Rob Sand,205,65,140
+Tama,Tama/Otter Creek,Auditor of State,,DEM,Rob Sand,439,141,298
+Tama,York,Auditor of State,,DEM,Rob Sand,81,13,68
+Tama,West Richland,Auditor of State,,DEM,Rob Sand,9,3,6
+Tama,East Richland/Salt Creek,Auditor of State,,DEM,Rob Sand,85,16,69
+Tama,Indian Settlement,Auditor of State,,DEM,Rob Sand,206,19,187
+Tama,Lincoln/Grant,Auditor of State,,,Write-in,0,0,0
+Tama,Buckingham/Perry,Auditor of State,,,Write-in,0,0,0
+Tama,Geneseo/Clark,Auditor of State,,,Write-in,2,0,2
+Tama,Spring Creek/Crystal,Auditor of State,,,Write-in,0,0,0
+Tama,Carlton,Auditor of State,,,Write-in,0,0,0
+Tama,Howard/Toledo,Auditor of State,,,Write-in,2,0,2
+Tama,Carroll/Oneida,Auditor of State,,,Write-in,0,0,0
+Tama,Highland/Indian Village/Columb,Auditor of State,,,Write-in,0,0,0
+Tama,Tama/Otter Creek,Auditor of State,,,Write-in,2,0,2
+Tama,York,Auditor of State,,,Write-in,0,0,0
+Tama,West Richland,Auditor of State,,,Write-in,0,0,0
+Tama,East Richland/Salt Creek,Auditor of State,,,Write-in,0,0,0
+Tama,Indian Settlement,Auditor of State,,,Write-in,0,0,0
+Tama,Lincoln/Grant,Treasurer of State,,REP,Roby Smith,209,23,186
+Tama,Buckingham/Perry,Treasurer of State,,REP,Roby Smith,579,85,494
+Tama,Geneseo/Clark,Treasurer of State,,REP,Roby Smith,614,69,545
+Tama,Spring Creek/Crystal,Treasurer of State,,REP,Roby Smith,441,58,383
+Tama,Carlton,Treasurer of State,,REP,Roby Smith,215,36,179
+Tama,Howard/Toledo,Treasurer of State,,REP,Roby Smith,552,105,447
+Tama,Carroll/Oneida,Treasurer of State,,REP,Roby Smith,178,17,161
+Tama,Highland/Indian Village/Columb,Treasurer of State,,REP,Roby Smith,317,52,265
+Tama,Tama/Otter Creek,Treasurer of State,,REP,Roby Smith,406,67,339
+Tama,York,Treasurer of State,,REP,Roby Smith,154,15,139
+Tama,West Richland,Treasurer of State,,REP,Roby Smith,27,4,23
+Tama,East Richland/Salt Creek,Treasurer of State,,REP,Roby Smith,149,20,129
+Tama,Indian Settlement,Treasurer of State,,REP,Roby Smith,13,0,13
+Tama,Lincoln/Grant,Treasurer of State,,DEM,Michael L. Fitzgerald,94,20,74
+Tama,Buckingham/Perry,Treasurer of State,,DEM,Michael L. Fitzgerald,312,78,234
+Tama,Geneseo/Clark,Treasurer of State,,DEM,Michael L. Fitzgerald,341,92,249
+Tama,Spring Creek/Crystal,Treasurer of State,,DEM,Michael L. Fitzgerald,246,70,176
+Tama,Carlton,Treasurer of State,,DEM,Michael L. Fitzgerald,150,39,111
+Tama,Howard/Toledo,Treasurer of State,,DEM,Michael L. Fitzgerald,492,165,327
+Tama,Carroll/Oneida,Treasurer of State,,DEM,Michael L. Fitzgerald,89,23,66
+Tama,Highland/Indian Village/Columb,Treasurer of State,,DEM,Michael L. Fitzgerald,188,58,130
+Tama,Tama/Otter Creek,Treasurer of State,,DEM,Michael L. Fitzgerald,427,143,284
+Tama,York,Treasurer of State,,DEM,Michael L. Fitzgerald,77,11,66
+Tama,West Richland,Treasurer of State,,DEM,Michael L. Fitzgerald,7,2,5
+Tama,East Richland/Salt Creek,Treasurer of State,,DEM,Michael L. Fitzgerald,73,14,59
+Tama,Indian Settlement,Treasurer of State,,DEM,Michael L. Fitzgerald,205,19,186
+Tama,Lincoln/Grant,Treasurer of State,,,Write-in,0,0,0
+Tama,Buckingham/Perry,Treasurer of State,,,Write-in,1,0,1
+Tama,Geneseo/Clark,Treasurer of State,,,Write-in,1,0,1
+Tama,Spring Creek/Crystal,Treasurer of State,,,Write-in,0,0,0
+Tama,Carlton,Treasurer of State,,,Write-in,0,0,0
+Tama,Howard/Toledo,Treasurer of State,,,Write-in,3,0,3
+Tama,Carroll/Oneida,Treasurer of State,,,Write-in,0,0,0
+Tama,Highland/Indian Village/Columb,Treasurer of State,,,Write-in,0,0,0
+Tama,Tama/Otter Creek,Treasurer of State,,,Write-in,0,0,0
+Tama,York,Treasurer of State,,,Write-in,0,0,0
+Tama,West Richland,Treasurer of State,,,Write-in,0,0,0
+Tama,East Richland/Salt Creek,Treasurer of State,,,Write-in,0,0,0
+Tama,Indian Settlement,Treasurer of State,,,Write-in,0,0,0
+Tama,Lincoln/Grant,Secretary of Agriculture,,REP,Mike Naig,257,32,225
+Tama,Buckingham/Perry,Secretary of Agriculture,,REP,Mike Naig,670,104,566
+Tama,Geneseo/Clark,Secretary of Agriculture,,REP,Mike Naig,714,83,631
+Tama,Spring Creek/Crystal,Secretary of Agriculture,,REP,Mike Naig,546,82,464
+Tama,Carlton,Secretary of Agriculture,,REP,Mike Naig,260,41,219
+Tama,Howard/Toledo,Secretary of Agriculture,,REP,Mike Naig,682,136,546
+Tama,Carroll/Oneida,Secretary of Agriculture,,REP,Mike Naig,215,23,192
+Tama,Highland/Indian Village/Columb,Secretary of Agriculture,,REP,Mike Naig,375,67,308
+Tama,Tama/Otter Creek,Secretary of Agriculture,,REP,Mike Naig,503,93,410
+Tama,York,Secretary of Agriculture,,REP,Mike Naig,179,18,161
+Tama,West Richland,Secretary of Agriculture,,REP,Mike Naig,33,5,28
+Tama,East Richland/Salt Creek,Secretary of Agriculture,,REP,Mike Naig,173,24,149
+Tama,Indian Settlement,Secretary of Agriculture,,REP,Mike Naig,13,0,13
+Tama,Lincoln/Grant,Secretary of Agriculture,,DEM,John Norwood,46,11,35
+Tama,Buckingham/Perry,Secretary of Agriculture,,DEM,John Norwood,224,58,166
+Tama,Geneseo/Clark,Secretary of Agriculture,,DEM,John Norwood,237,77,160
+Tama,Spring Creek/Crystal,Secretary of Agriculture,,DEM,John Norwood,142,47,95
+Tama,Carlton,Secretary of Agriculture,,DEM,John Norwood,106,34,72
+Tama,Howard/Toledo,Secretary of Agriculture,,DEM,John Norwood,359,130,229
+Tama,Carroll/Oneida,Secretary of Agriculture,,DEM,John Norwood,52,16,36
+Tama,Highland/Indian Village/Columb,Secretary of Agriculture,,DEM,John Norwood,135,45,90
+Tama,Tama/Otter Creek,Secretary of Agriculture,,DEM,John Norwood,322,114,208
+Tama,York,Secretary of Agriculture,,DEM,John Norwood,53,8,45
+Tama,West Richland,Secretary of Agriculture,,DEM,John Norwood,1,1,0
+Tama,East Richland/Salt Creek,Secretary of Agriculture,,DEM,John Norwood,49,10,39
+Tama,Indian Settlement,Secretary of Agriculture,,DEM,John Norwood,205,19,186
+Tama,Lincoln/Grant,Secretary of Agriculture,,,Write-in,0,0,0
+Tama,Buckingham/Perry,Secretary of Agriculture,,,Write-in,1,0,1
+Tama,Geneseo/Clark,Secretary of Agriculture,,,Write-in,1,0,1
+Tama,Spring Creek/Crystal,Secretary of Agriculture,,,Write-in,0,0,0
+Tama,Carlton,Secretary of Agriculture,,,Write-in,0,0,0
+Tama,Howard/Toledo,Secretary of Agriculture,,,Write-in,1,0,1
+Tama,Carroll/Oneida,Secretary of Agriculture,,,Write-in,0,0,0
+Tama,Highland/Indian Village/Columb,Secretary of Agriculture,,,Write-in,0,0,0
+Tama,Tama/Otter Creek,Secretary of Agriculture,,,Write-in,0,0,0
+Tama,York,Secretary of Agriculture,,,Write-in,0,0,0
+Tama,West Richland,Secretary of Agriculture,,,Write-in,0,0,0
+Tama,East Richland/Salt Creek,Secretary of Agriculture,,,Write-in,1,0,1
+Tama,Indian Settlement,Secretary of Agriculture,,,Write-in,0,0,0
+Tama,Lincoln/Grant,Attorney General,,REP,Brenna Bird,214,22,192
+Tama,Buckingham/Perry,Attorney General,,REP,Brenna Bird,559,79,480
+Tama,Geneseo/Clark,Attorney General,,REP,Brenna Bird,600,69,531
+Tama,Spring Creek/Crystal,Attorney General,,REP,Brenna Bird,416,52,364
+Tama,Carlton,Attorney General,,REP,Brenna Bird,218,38,180
+Tama,Howard/Toledo,Attorney General,,REP,Brenna Bird,530,92,438
+Tama,Carroll/Oneida,Attorney General,,REP,Brenna Bird,175,18,157
+Tama,Highland/Indian Village/Columb,Attorney General,,REP,Brenna Bird,312,47,265
+Tama,Tama/Otter Creek,Attorney General,,REP,Brenna Bird,399,69,330
+Tama,York,Attorney General,,REP,Brenna Bird,153,13,140
+Tama,West Richland,Attorney General,,REP,Brenna Bird,26,4,22
+Tama,East Richland/Salt Creek,Attorney General,,REP,Brenna Bird,142,18,124
+Tama,Indian Settlement,Attorney General,,REP,Brenna Bird,12,0,12
+Tama,Lincoln/Grant,Attorney General,,DEM,Tom Miller,90,21,69
+Tama,Buckingham/Perry,Attorney General,,DEM,Tom Miller,335,83,252
+Tama,Geneseo/Clark,Attorney General,,DEM,Tom Miller,356,94,262
+Tama,Spring Creek/Crystal,Attorney General,,DEM,Tom Miller,278,79,199
+Tama,Carlton,Attorney General,,DEM,Tom Miller,147,38,109
+Tama,Howard/Toledo,Attorney General,,DEM,Tom Miller,510,175,335
+Tama,Carroll/Oneida,Attorney General,,DEM,Tom Miller,91,22,69
+Tama,Highland/Indian Village/Columb,Attorney General,,DEM,Tom Miller,194,63,131
+Tama,Tama/Otter Creek,Attorney General,,DEM,Tom Miller,432,143,289
+Tama,York,Attorney General,,DEM,Tom Miller,78,14,64
+Tama,West Richland,Attorney General,,DEM,Tom Miller,7,1,6
+Tama,East Richland/Salt Creek,Attorney General,,DEM,Tom Miller,80,15,65
+Tama,Indian Settlement,Attorney General,,DEM,Tom Miller,205,19,186
+Tama,Lincoln/Grant,Attorney General,,,Write-in,0,0,0
+Tama,Buckingham/Perry,Attorney General,,,Write-in,1,0,1
+Tama,Geneseo/Clark,Attorney General,,,Write-in,2,0,2
+Tama,Spring Creek/Crystal,Attorney General,,,Write-in,0,0,0
+Tama,Carlton,Attorney General,,,Write-in,0,0,0
+Tama,Howard/Toledo,Attorney General,,,Write-in,4,0,4
+Tama,Carroll/Oneida,Attorney General,,,Write-in,0,0,0
+Tama,Highland/Indian Village/Columb,Attorney General,,,Write-in,1,1,0
+Tama,Tama/Otter Creek,Attorney General,,,Write-in,0,0,0
+Tama,York,Attorney General,,,Write-in,0,0,0
+Tama,West Richland,Attorney General,,,Write-in,0,0,0
+Tama,East Richland/Salt Creek,Attorney General,,,Write-in,0,0,0
+Tama,Indian Settlement,Attorney General,,,Write-in,0,0,0
+Tama,Lincoln/Grant,State Senate,27,REP,Annette Sweeney,237,27,210
+Tama,Spring Creek/Crystal,State Senate,27,REP,Annette Sweeney,505,73,432
+Tama,Carlton,State Senate,27,REP,Annette Sweeney,229,37,192
+Tama,Howard/Toledo,State Senate,27,REP,Annette Sweeney,623,124,499
+Tama,Carroll/Oneida,State Senate,27,REP,Annette Sweeney,199,18,181
+Tama,Highland/Indian Village/Columb,State Senate,27,REP,Annette Sweeney,347,61,286
+Tama,Tama/Otter Creek,State Senate,27,REP,Annette Sweeney,447,77,370
+Tama,York,State Senate,27,REP,Annette Sweeney,167,14,153
+Tama,West Richland,State Senate,27,REP,Annette Sweeney,28,5,23
+Tama,East Richland/Salt Creek,State Senate,27,REP,Annette Sweeney,165,23,142
+Tama,Indian Settlement,State Senate,27,REP,Annette Sweeney,12,0,12
+Tama,Lincoln/Grant,State Senate,27,DEM,Sam Cox,63,14,49
+Tama,Spring Creek/Crystal,State Senate,27,DEM,Sam Cox,180,56,124
+Tama,Carlton,State Senate,27,DEM,Sam Cox,129,37,92
+Tama,Howard/Toledo,State Senate,27,DEM,Sam Cox,400,139,261
+Tama,Carroll/Oneida,State Senate,27,DEM,Sam Cox,66,20,46
+Tama,Highland/Indian Village/Columb,State Senate,27,DEM,Sam Cox,157,49,108
+Tama,Tama/Otter Creek,State Senate,27,DEM,Sam Cox,364,127,237
+Tama,York,State Senate,27,DEM,Sam Cox,60,10,50
+Tama,West Richland,State Senate,27,DEM,Sam Cox,6,1,5
+Tama,East Richland/Salt Creek,State Senate,27,DEM,Sam Cox,54,11,43
+Tama,Indian Settlement,State Senate,27,DEM,Sam Cox,204,19,185
+Tama,Lincoln/Grant,State Senate,27,,Write-in,0,0,0
+Tama,Spring Creek/Crystal,State Senate,27,,Write-in,0,0,0
+Tama,Carlton,State Senate,27,,Write-in,0,0,0
+Tama,Howard/Toledo,State Senate,27,,Write-in,4,0,4
+Tama,Carroll/Oneida,State Senate,27,,Write-in,0,0,0
+Tama,Highland/Indian Village/Columb,State Senate,27,,Write-in,0,0,0
+Tama,Tama/Otter Creek,State Senate,27,,Write-in,1,0,1
+Tama,York,State Senate,27,,Write-in,0,0,0
+Tama,West Richland,State Senate,27,,Write-in,0,0,0
+Tama,East Richland/Salt Creek,State Senate,27,,Write-in,0,0,0
+Tama,Indian Settlement,State Senate,27,,Write-in,0,0,0
+Tama,Lincoln/Grant,State House,53,REP,Dean Fisher,235,28,207
+Tama,Spring Creek/Crystal,State House,53,REP,Dean Fisher,505,78,427
+Tama,Carlton,State House,53,REP,Dean Fisher,233,40,193
+Tama,Howard/Toledo,State House,53,REP,Dean Fisher,590,120,470
+Tama,Carroll/Oneida,State House,53,REP,Dean Fisher,200,22,178
+Tama,Highland/Indian Village/Columb,State House,53,REP,Dean Fisher,336,58,278
+Tama,Tama/Otter Creek,State House,53,REP,Dean Fisher,444,88,356
+Tama,York,State House,53,REP,Dean Fisher,170,16,154
+Tama,West Richland,State House,53,REP,Dean Fisher,28,4,24
+Tama,East Richland/Salt Creek,State House,53,REP,Dean Fisher,156,22,134
+Tama,Indian Settlement,State House,53,REP,Dean Fisher,11,0,11
+Tama,Lincoln/Grant,State House,53,DEM,Sarah Smith,68,15,53
+Tama,Spring Creek/Crystal,State House,53,DEM,Sarah Smith,185,50,135
+Tama,Carlton,State House,53,DEM,Sarah Smith,131,36,95
+Tama,Howard/Toledo,State House,53,DEM,Sarah Smith,468,156,312
+Tama,Carroll/Oneida,State House,53,DEM,Sarah Smith,68,18,50
+Tama,Highland/Indian Village/Columb,State House,53,DEM,Sarah Smith,169,52,117
+Tama,Tama/Otter Creek,State House,53,DEM,Sarah Smith,386,123,263
+Tama,York,State House,53,DEM,Sarah Smith,62,11,51
+Tama,West Richland,State House,53,DEM,Sarah Smith,6,2,4
+Tama,East Richland/Salt Creek,State House,53,DEM,Sarah Smith,67,12,55
+Tama,Indian Settlement,State House,53,DEM,Sarah Smith,208,19,189
+Tama,Lincoln/Grant,State House,53,,Write-in,0,0,0
+Tama,Spring Creek/Crystal,State House,53,,Write-in,0,0,0
+Tama,Carlton,State House,53,,Write-in,2,0,2
+Tama,Howard/Toledo,State House,53,,Write-in,1,0,1
+Tama,Carroll/Oneida,State House,53,,Write-in,1,0,1
+Tama,Highland/Indian Village/Columb,State House,53,,Write-in,0,0,0
+Tama,Tama/Otter Creek,State House,53,,Write-in,0,0,0
+Tama,York,State House,53,,Write-in,1,0,1
+Tama,West Richland,State House,53,,Write-in,0,0,0
+Tama,East Richland/Salt Creek,State House,53,,Write-in,0,0,0
+Tama,Indian Settlement,State House,53,,Write-in,0,0,0
+Tama,Buckingham/Perry,State House,76,REP,Derek Wulf,634,98,536
+Tama,Geneseo/Clark,State House,76,REP,Derek Wulf,686,82,604
+Tama,Buckingham/Perry,State House,76,DEM,Kate Wyatt,266,65,201
+Tama,Geneseo/Clark,State House,76,DEM,Kate Wyatt,263,80,183
+Tama,Buckingham/Perry,State House,76,,Write-in,0,0,0
+Tama,Geneseo/Clark,State House,76,,Write-in,3,0,3
+Tama,Buckingham/Perry,County Board of Supervisors District 1,,REP,Curt Hilmer,640,91,549
+Tama,Geneseo/Clark,County Board of Supervisors District 1,,REP,Curt Hilmer,648,73,575
+Tama,Carroll/Oneida,County Board of Supervisors District 1,,REP,Curt Hilmer,181,18,163
+Tama,York,County Board of Supervisors District 1,,REP,Curt Hilmer,166,15,151
+Tama,East Richland/Salt Creek,County Board of Supervisors District 1,,REP,Curt Hilmer,154,21,133
+Tama,Buckingham/Perry,County Board of Supervisors District 1,,DEM,Randie R. Brodigan,252,70,182
+Tama,Geneseo/Clark,County Board of Supervisors District 1,,DEM,Randie R. Brodigan,302,86,216
+Tama,Carroll/Oneida,County Board of Supervisors District 1,,DEM,Randie R. Brodigan,84,21,63
+Tama,York,County Board of Supervisors District 1,,DEM,Randie R. Brodigan,62,12,50
+Tama,East Richland/Salt Creek,County Board of Supervisors District 1,,DEM,Randie R. Brodigan,66,13,53
+Tama,Buckingham/Perry,County Board of Supervisors District 1,,,Write-in,2,0,2
+Tama,Geneseo/Clark,County Board of Supervisors District 1,,,Write-in,4,2,2
+Tama,Carroll/Oneida,County Board of Supervisors District 1,,,Write-in,1,0,1
+Tama,York,County Board of Supervisors District 1,,,Write-in,2,0,2
+Tama,East Richland/Salt Creek,County Board of Supervisors District 1,,,Write-in,0,0,0
+Tama,Lincoln/Grant,County Treasurer,,REP,Amanda Kriegel,228,26,202
+Tama,Buckingham/Perry,County Treasurer,,REP,Amanda Kriegel,621,99,522
+Tama,Geneseo/Clark,County Treasurer,,REP,Amanda Kriegel,611,71,540
+Tama,Spring Creek/Crystal,County Treasurer,,REP,Amanda Kriegel,495,79,416
+Tama,Carlton,County Treasurer,,REP,Amanda Kriegel,261,45,216
+Tama,Howard/Toledo,County Treasurer,,REP,Amanda Kriegel,498,125,373
+Tama,Carroll/Oneida,County Treasurer,,REP,Amanda Kriegel,174,24,150
+Tama,Highland/Indian Village/Columb,County Treasurer,,REP,Amanda Kriegel,334,61,273
+Tama,Tama/Otter Creek,County Treasurer,,REP,Amanda Kriegel,373,80,293
+Tama,York,County Treasurer,,REP,Amanda Kriegel,160,13,147
+Tama,West Richland,County Treasurer,,REP,Amanda Kriegel,23,2,21
+Tama,East Richland/Salt Creek,County Treasurer,,REP,Amanda Kriegel,143,16,127
+Tama,Indian Settlement,County Treasurer,,REP,Amanda Kriegel,22,1,21
+Tama,Lincoln/Grant,County Treasurer,,,Kathy Holtz,63,12,51
+Tama,Buckingham/Perry,County Treasurer,,,Kathy Holtz,258,58,200
+Tama,Geneseo/Clark,County Treasurer,,,Kathy Holtz,321,82,239
+Tama,Spring Creek/Crystal,County Treasurer,,,Kathy Holtz,183,50,133
+Tama,Carlton,County Treasurer,,,Kathy Holtz,93,27,66
+Tama,Howard/Toledo,County Treasurer,,,Kathy Holtz,546,146,400
+Tama,Carroll/Oneida,County Treasurer,,,Kathy Holtz,90,14,76
+Tama,Highland/Indian Village/Columb,County Treasurer,,,Kathy Holtz,165,47,118
+Tama,Tama/Otter Creek,County Treasurer,,,Kathy Holtz,446,121,325
+Tama,York,County Treasurer,,,Kathy Holtz,66,11,55
+Tama,West Richland,County Treasurer,,,Kathy Holtz,11,4,7
+Tama,East Richland/Salt Creek,County Treasurer,,,Kathy Holtz,78,17,61
+Tama,Indian Settlement,County Treasurer,,,Kathy Holtz,170,14,156
+Tama,Lincoln/Grant,County Treasurer,,,Write-in,0,0,0
+Tama,Buckingham/Perry,County Treasurer,,,Write-in,1,1,0
+Tama,Geneseo/Clark,County Treasurer,,,Write-in,2,1,1
+Tama,Spring Creek/Crystal,County Treasurer,,,Write-in,0,0,0
+Tama,Carlton,County Treasurer,,,Write-in,0,0,0
+Tama,Howard/Toledo,County Treasurer,,,Write-in,2,0,2
+Tama,Carroll/Oneida,County Treasurer,,,Write-in,0,0,0
+Tama,Highland/Indian Village/Columb,County Treasurer,,,Write-in,0,0,0
+Tama,Tama/Otter Creek,County Treasurer,,,Write-in,0,0,0
+Tama,York,County Treasurer,,,Write-in,0,0,0
+Tama,West Richland,County Treasurer,,,Write-in,0,0,0
+Tama,East Richland/Salt Creek,County Treasurer,,,Write-in,1,0,1
+Tama,Indian Settlement,County Treasurer,,,Write-in,2,0,2
+Tama,Lincoln/Grant,County Recorder,,REP,Amelia Kemper,266,30,236
+Tama,Buckingham/Perry,County Recorder,,REP,Amelia Kemper,783,132,651
+Tama,Geneseo/Clark,County Recorder,,REP,Amelia Kemper,798,110,688
+Tama,Spring Creek/Crystal,County Recorder,,REP,Amelia Kemper,612,109,503
+Tama,Carlton,County Recorder,,REP,Amelia Kemper,305,58,247
+Tama,Howard/Toledo,County Recorder,,REP,Amelia Kemper,862,203,659
+Tama,Carroll/Oneida,County Recorder,,REP,Amelia Kemper,235,30,205
+Tama,Highland/Indian Village/Columb,County Recorder,,REP,Amelia Kemper,438,82,356
+Tama,Tama/Otter Creek,County Recorder,,REP,Amelia Kemper,679,135,544
+Tama,York,County Recorder,,REP,Amelia Kemper,205,21,184
+Tama,West Richland,County Recorder,,REP,Amelia Kemper,30,4,26
+Tama,East Richland/Salt Creek,County Recorder,,REP,Amelia Kemper,197,28,169
+Tama,Indian Settlement,County Recorder,,REP,Amelia Kemper,90,5,85
+Tama,Lincoln/Grant,County Recorder,,,Write-in,3,0,3
+Tama,Buckingham/Perry,County Recorder,,,Write-in,8,1,7
+Tama,Geneseo/Clark,County Recorder,,,Write-in,18,8,10
+Tama,Spring Creek/Crystal,County Recorder,,,Write-in,3,0,3
+Tama,Carlton,County Recorder,,,Write-in,2,0,2
+Tama,Howard/Toledo,County Recorder,,,Write-in,25,4,21
+Tama,Carroll/Oneida,County Recorder,,,Write-in,2,0,2
+Tama,Highland/Indian Village/Columb,County Recorder,,,Write-in,2,0,2
+Tama,Tama/Otter Creek,County Recorder,,,Write-in,9,4,5
+Tama,York,County Recorder,,,Write-in,4,0,4
+Tama,West Richland,County Recorder,,,Write-in,0,0,0
+Tama,East Richland/Salt Creek,County Recorder,,,Write-in,1,0,1
+Tama,Indian Settlement,County Recorder,,,Write-in,15,0,15
+Tama,Lincoln/Grant,County Attorney,,REP,Brent Heeren,256,29,227
+Tama,Buckingham/Perry,County Attorney,,REP,Brent Heeren,731,118,613
+Tama,Geneseo/Clark,County Attorney,,REP,Brent Heeren,744,96,648
+Tama,Spring Creek/Crystal,County Attorney,,REP,Brent Heeren,561,99,462
+Tama,Carlton,County Attorney,,REP,Brent Heeren,289,58,231
+Tama,Howard/Toledo,County Attorney,,REP,Brent Heeren,710,169,541
+Tama,Carroll/Oneida,County Attorney,,REP,Brent Heeren,217,27,190
+Tama,Highland/Indian Village/Columb,County Attorney,,REP,Brent Heeren,377,67,310
+Tama,Tama/Otter Creek,County Attorney,,REP,Brent Heeren,555,113,442
+Tama,York,County Attorney,,REP,Brent Heeren,183,19,164
+Tama,West Richland,County Attorney,,REP,Brent Heeren,21,3,18
+Tama,East Richland/Salt Creek,County Attorney,,REP,Brent Heeren,158,25,133
+Tama,Indian Settlement,County Attorney,,REP,Brent Heeren,62,4,58
+Tama,Lincoln/Grant,County Attorney,,,Write-in,3,0,3
+Tama,Buckingham/Perry,County Attorney,,,Write-in,20,1,19
+Tama,Geneseo/Clark,County Attorney,,,Write-in,21,6,15
+Tama,Spring Creek/Crystal,County Attorney,,,Write-in,12,5,7
+Tama,Carlton,County Attorney,,,Write-in,9,1,8
+Tama,Howard/Toledo,County Attorney,,,Write-in,46,10,36
+Tama,Carroll/Oneida,County Attorney,,,Write-in,4,0,4
+Tama,Highland/Indian Village/Columb,County Attorney,,,Write-in,6,3,3
+Tama,Tama/Otter Creek,County Attorney,,,Write-in,19,5,14
+Tama,York,County Attorney,,,Write-in,8,0,8
+Tama,West Richland,County Attorney,,,Write-in,1,1,0
+Tama,East Richland/Salt Creek,County Attorney,,,Write-in,5,1,4
+Tama,Indian Settlement,County Attorney,,,Write-in,20,0,20
+Tama,Lincoln/Grant,County Attorney,,,Adam Todd,3,1,2
+Tama,Buckingham/Perry,County Attorney,,,Adam Todd,17,7,10
+Tama,Geneseo/Clark,County Attorney,,,Adam Todd,19,7,12
+Tama,Spring Creek/Crystal,County Attorney,,,Adam Todd,15,3,12
+Tama,Carlton,County Attorney,,,Adam Todd,3,0,3
+Tama,Howard/Toledo,County Attorney,,,Adam Todd,78,18,60
+Tama,Carroll/Oneida,County Attorney,,,Adam Todd,13,4,9
+Tama,Highland/Indian Village/Columb,County Attorney,,,Adam Todd,38,9,29
+Tama,Tama/Otter Creek,County Attorney,,,Adam Todd,51,11,40
+Tama,York,County Attorney,,,Adam Todd,6,1,5
+Tama,West Richland,County Attorney,,,Adam Todd,6,1,5
+Tama,East Richland/Salt Creek,County Attorney,,,Adam Todd,17,3,14
+Tama,Indian Settlement,County Attorney,,,Adam Todd,21,3,18
+Tama,Buckingham/Perry,Township Trustee Buckingham,,,Richard Ruzicka,141,31,110
+Tama,Buckingham/Perry,Township Trustee Buckingham,,,Write-in,2,0,2
+Tama,Buckingham/Perry,Township Clerk Buckingham,,,Write-in,5,0,5
+Tama,Buckingham/Perry,Township Clerk Buckingham,,,Adam Clapp,7,0,7
+Tama,Buckingham/Perry,Township Clerk Buckingham,,,Dave Stuart,3,0,3
+Tama,Carlton,Township Trustee Carlton,,,Allen Aldrich,166,35,131
+Tama,Carlton,Township Trustee Carlton,,,Write-in,2,1,1
+Tama,Carlton,Township Clerk Carlton,,,Jill Aldrich,162,34,128
+Tama,Carlton,Township Clerk Carlton,,,Write-in,2,1,1
+Tama,Carroll/Oneida,Township Trustee Carroll,,,Mark Pokorny,90,14,76
+Tama,Carroll/Oneida,Township Trustee Carroll,,,Write-in,0,0,0
+Tama,Carroll/Oneida,Township Clerk Carroll,,,Sheryl Jesina,85,12,73
+Tama,Carroll/Oneida,Township Clerk Carroll,,,Write-in,0,0,0
+Tama,Geneseo/Clark,Township Trustee Clark,,,Dale Degner,118,27,91
+Tama,Geneseo/Clark,Township Trustee Clark,,,Write-in,4,1,3
+Tama,Geneseo/Clark,Township Clerk Clark,,,Phillip McKenna,124,26,98
+Tama,Geneseo/Clark,Township Clerk Clark,,,Write-in,2,2,0
+Tama,Highland/Indian Village/Columb,Township Trustee Columbia,,,Corey Timm,138,35,103
+Tama,Highland/Indian Village/Columb,Township Trustee Columbia,,,Write-in,2,1,1
+Tama,Highland/Indian Village/Columb,Township Clerk Columbia,,,Lloyd Chyma Jr.,140,38,102
+Tama,Highland/Indian Village/Columb,Township Clerk Columbia,,,Write-in,0,0,0
+Tama,Spring Creek/Crystal,Township Trustee Crystal,,,Dave Mauderer,97,22,75
+Tama,Spring Creek/Crystal,Township Trustee Crystal,,,Write-in,2,0,2
+Tama,Spring Creek/Crystal,Township Clerk Crystal,,,Penny Peters,100,22,78
+Tama,Spring Creek/Crystal,Township Clerk Crystal,,,Write-in,0,0,0
+Tama,Geneseo/Clark,Township Trustee Geneseo,,,Matthew Coverdale,171,49,122
+Tama,Geneseo/Clark,Township Trustee Geneseo,,,Write-in,1,1,0
+Tama,Geneseo/Clark,Township Clerk Geneseo,,,Angela Coverdale,172,49,123
+Tama,Geneseo/Clark,Township Clerk Geneseo,,,Write-in,1,1,0
+Tama,Lincoln/Grant,Township Trustee Grant,,,Vincent Moye,115,11,104
+Tama,Lincoln/Grant,Township Trustee Grant,,,Write-in,2,2,0
+Tama,Lincoln/Grant,Township Clerk Grant,,,Nancy Calderwood,116,13,103
+Tama,Lincoln/Grant,Township Clerk Grant,,,Write-in,0,0,0
+Tama,Highland/Indian Village/Columb,Township Trustee Highland,,,John Mark Gilliland,75,16,59
+Tama,Highland/Indian Village/Columb,Township Trustee Highland,,,Write-in,0,0,0
+Tama,Highland/Indian Village/Columb,Township Clerk Highland,,,Nancy Gilliland,72,16,56
+Tama,Highland/Indian Village/Columb,Township Clerk Highland,,,Write-in,0,0,0
+Tama,Howard/Toledo,Township Trustee Howard,,,Jim Hlas,106,19,87
+Tama,Howard/Toledo,Township Trustee Howard,,,Write-in,2,0,2
+Tama,Howard/Toledo,Township Clerk Howard,,,David Chizek,108,21,87
+Tama,Howard/Toledo,Township Clerk Howard,,,Write-in,1,0,1
+Tama,Highland/Indian Village/Columb,Township Trustee Indian Village,,,Write-in,8,0,8
+Tama,Indian Settlement,Township Trustee Indian Village,,,Write-in,9,3,6
+Tama,Highland/Indian Village/Columb,Township Trustee Indian Village,,,James C. Lacina,14,3,11
+Tama,Indian Settlement,Township Trustee Indian Village,,,James C. Lacina,0,0,0
+Tama,Highland/Indian Village/Columb,Township Clerk Indian Village,,,Brian Hempy,161,25,136
+Tama,Indian Settlement,Township Clerk Indian Village,,,Brian Hempy,52,8,44
+Tama,Highland/Indian Village/Columb,Township Clerk Indian Village,,,Write-in,2,0,2
+Tama,Indian Settlement,Township Clerk Indian Village,,,Write-in,5,0,5
+Tama,Lincoln/Grant,Township Trustee Lincoln,,,Darryl Widmayer,108,16,92
+Tama,Lincoln/Grant,Township Trustee Lincoln,,,Write-in,6,0,6
+Tama,Lincoln/Grant,Township Clerk Lincoln,,,Debra Wentzien,115,18,97
+Tama,Lincoln/Grant,Township Clerk Lincoln,,,Write-in,2,0,2
+Tama,Carroll/Oneida,Township Trustee Oneida,,,Marvin Dostal,92,14,78
+Tama,Carroll/Oneida,Township Trustee Oneida,,,Write-in,3,0,3
+Tama,Carroll/Oneida,Township Clerk Oneida,,,Chris Behrens,87,14,73
+Tama,Carroll/Oneida,Township Clerk Oneida,,,Write-in,6,1,5
+Tama,Tama/Otter Creek,Township Trustee Otter Creek,,,James H. Smith,108,33,75
+Tama,Tama/Otter Creek,Township Trustee Otter Creek,,,Write-in,2,0,2
+Tama,Tama/Otter Creek,Township Clerk Otter Creek,,,Brenda L. Doyle,112,35,77
+Tama,Tama/Otter Creek,Township Clerk Otter Creek,,,Write-in,0,0,0
+Tama,Buckingham/Perry,Township Trustee Perry,,,Pat McLean,104,22,82
+Tama,Buckingham/Perry,Township Trustee Perry,,,Write-in,3,2,1
+Tama,Buckingham/Perry,Township Clerk Perry,,,Mike Reuman,109,25,84
+Tama,Buckingham/Perry,Township Clerk Perry,,,Write-in,0,0,0
+Tama,West Richland,Township Trustee Richland,,,Randy J. Upah,33,6,27
+Tama,East Richland/Salt Creek,Township Trustee Richland,,,Randy J. Upah,36,4,32
+Tama,West Richland,Township Trustee Richland,,,Write-in,0,0,0
+Tama,East Richland/Salt Creek,Township Trustee Richland,,,Write-in,2,2,0
+Tama,West Richland,Township Clerk Richland,,,Patrick Henry,32,6,26
+Tama,East Richland/Salt Creek,Township Clerk Richland,,,Patrick Henry,36,6,30
+Tama,West Richland,Township Clerk Richland,,,Write-in,0,0,0
+Tama,East Richland/Salt Creek,Township Clerk Richland,,,Write-in,0,0,0
+Tama,East Richland/Salt Creek,Township Trustee Salt Creek,,,Jim Poduska,107,17,90
+Tama,East Richland/Salt Creek,Township Trustee Salt Creek,,,Write-in,5,2,3
+Tama,East Richland/Salt Creek,Township Clerk Salt Creek,,,Jamie Kupka,108,16,92
+Tama,East Richland/Salt Creek,Township Clerk Salt Creek,,,Write-in,0,0,0
+Tama,Spring Creek/Crystal,Township Trustee Spring Creek,,,Brett T. Miller,180,31,149
+Tama,Spring Creek/Crystal,Township Trustee Spring Creek,,,Write-in,0,0,0
+Tama,Spring Creek/Crystal,Township Clerk Spring Creek,,,Paul Koester,181,32,149
+Tama,Spring Creek/Crystal,Township Clerk Spring Creek,,,Write-in,0,0,0
+Tama,Tama/Otter Creek,Township Trustee Tama,,,Scott Bolen,22,4,18
+Tama,Indian Settlement,Township Trustee Tama,,,Scott Bolen,6,0,6
+Tama,Tama/Otter Creek,Township Trustee Tama,,,Write-in,0,0,0
+Tama,Indian Settlement,Township Trustee Tama,,,Write-in,0,0,0
+Tama,Tama/Otter Creek,Township Clerk Tama,,,Judy Welch,22,4,18
+Tama,Indian Settlement,Township Clerk Tama,,,Judy Welch,7,0,7
+Tama,Tama/Otter Creek,Township Clerk Tama,,,Write-in,0,0,0
+Tama,Indian Settlement,Township Clerk Tama,,,Write-in,0,0,0
+Tama,Howard/Toledo,Township Trustee Toledo,,,Sam J. Ferriss,171,51,120
+Tama,Indian Settlement,Township Trustee Toledo,,,Sam J. Ferriss,50,1,49
+Tama,Howard/Toledo,Township Trustee Toledo,,,Write-in,1,1,0
+Tama,Indian Settlement,Township Trustee Toledo,,,Write-in,1,0,1
+Tama,Howard/Toledo,Township Clerk Toledo,,,Brock Rohrs,169,51,118
+Tama,Indian Settlement,Township Clerk Toledo,,,Brock Rohrs,46,1,45
+Tama,Howard/Toledo,Township Clerk Toledo,,,Write-in,0,0,0
+Tama,Indian Settlement,Township Clerk Toledo,,,Write-in,3,0,3
+Tama,York,Township Trustee York,,,Steve Kesl,143,16,127
+Tama,York,Township Trustee York,,,Write-in,2,0,2
+Tama,York,Township Clerk York,,,Lorie Kesl,140,16,124
+Tama,York,Township Clerk York,,,Write-in,1,0,1
+Tama,Lincoln/Grant,Soil and Water Conservation District Commissioner,,,Jack C. Boyer,222,25,197
+Tama,Buckingham/Perry,Soil and Water Conservation District Commissioner,,,Jack C. Boyer,656,110,546
+Tama,Geneseo/Clark,Soil and Water Conservation District Commissioner,,,Jack C. Boyer,643,112,531
+Tama,Spring Creek/Crystal,Soil and Water Conservation District Commissioner,,,Jack C. Boyer,483,90,393
+Tama,Carlton,Soil and Water Conservation District Commissioner,,,Jack C. Boyer,240,43,197
+Tama,Howard/Toledo,Soil and Water Conservation District Commissioner,,,Jack C. Boyer,680,152,528
+Tama,Carroll/Oneida,Soil and Water Conservation District Commissioner,,,Jack C. Boyer,183,20,163
+Tama,Highland/Indian Village/Columb,Soil and Water Conservation District Commissioner,,,Jack C. Boyer,311,52,259
+Tama,Tama/Otter Creek,Soil and Water Conservation District Commissioner,,,Jack C. Boyer,516,104,412
+Tama,York,Soil and Water Conservation District Commissioner,,,Jack C. Boyer,166,18,148
+Tama,West Richland,Soil and Water Conservation District Commissioner,,,Jack C. Boyer,24,4,20
+Tama,East Richland/Salt Creek,Soil and Water Conservation District Commissioner,,,Jack C. Boyer,157,16,141
+Tama,Indian Settlement,Soil and Water Conservation District Commissioner,,,Jack C. Boyer,73,5,68
+Tama,Lincoln/Grant,Soil and Water Conservation District Commissioner,,,Linn R. Snell,151,16,135
+Tama,Buckingham/Perry,Soil and Water Conservation District Commissioner,,,Linn R. Snell,528,104,424
+Tama,Geneseo/Clark,Soil and Water Conservation District Commissioner,,,Linn R. Snell,528,104,424
+Tama,Spring Creek/Crystal,Soil and Water Conservation District Commissioner,,,Linn R. Snell,416,87,329
+Tama,Carlton,Soil and Water Conservation District Commissioner,,,Linn R. Snell,195,41,154
+Tama,Howard/Toledo,Soil and Water Conservation District Commissioner,,,Linn R. Snell,566,134,432
+Tama,Carroll/Oneida,Soil and Water Conservation District Commissioner,,,Linn R. Snell,153,21,132
+Tama,Highland/Indian Village/Columb,Soil and Water Conservation District Commissioner,,,Linn R. Snell,243,50,193
+Tama,Tama/Otter Creek,Soil and Water Conservation District Commissioner,,,Linn R. Snell,430,100,330
+Tama,York,Soil and Water Conservation District Commissioner,,,Linn R. Snell,102,18,84
+Tama,West Richland,Soil and Water Conservation District Commissioner,,,Linn R. Snell,21,3,18
+Tama,East Richland/Salt Creek,Soil and Water Conservation District Commissioner,,,Linn R. Snell,113,14,99
+Tama,Indian Settlement,Soil and Water Conservation District Commissioner,,,Linn R. Snell,92,5,87
+Tama,Lincoln/Grant,Soil and Water Conservation District Commissioner,,,Write-in,4,1,3
+Tama,Buckingham/Perry,Soil and Water Conservation District Commissioner,,,Write-in,7,1,6
+Tama,Geneseo/Clark,Soil and Water Conservation District Commissioner,,,Write-in,8,2,6
+Tama,Spring Creek/Crystal,Soil and Water Conservation District Commissioner,,,Write-in,4,0,4
+Tama,Carlton,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Tama,Howard/Toledo,Soil and Water Conservation District Commissioner,,,Write-in,17,3,14
+Tama,Carroll/Oneida,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Tama,Highland/Indian Village/Columb,Soil and Water Conservation District Commissioner,,,Write-in,3,0,3
+Tama,Tama/Otter Creek,Soil and Water Conservation District Commissioner,,,Write-in,11,0,11
+Tama,York,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Tama,West Richland,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Tama,East Richland/Salt Creek,Soil and Water Conservation District Commissioner,,,Write-in,3,0,3
+Tama,Indian Settlement,Soil and Water Conservation District Commissioner,,,Write-in,3,0,3
+Tama,Lincoln/Grant,Soil and Water Conservation District Commissioner,,,Jan Wobeter,227,22,205
+Tama,Buckingham/Perry,Soil and Water Conservation District Commissioner,,,Jan Wobeter,740,123,617
+Tama,Geneseo/Clark,Soil and Water Conservation District Commissioner,,,Jan Wobeter,723,115,608
+Tama,Spring Creek/Crystal,Soil and Water Conservation District Commissioner,,,Jan Wobeter,539,102,437
+Tama,Carlton,Soil and Water Conservation District Commissioner,,,Jan Wobeter,272,49,223
+Tama,Howard/Toledo,Soil and Water Conservation District Commissioner,,,Jan Wobeter,817,186,631
+Tama,Carroll/Oneida,Soil and Water Conservation District Commissioner,,,Jan Wobeter,217,25,192
+Tama,Highland/Indian Village/Columb,Soil and Water Conservation District Commissioner,,,Jan Wobeter,376,66,310
+Tama,Tama/Otter Creek,Soil and Water Conservation District Commissioner,,,Jan Wobeter,651,142,509
+Tama,York,Soil and Water Conservation District Commissioner,,,Jan Wobeter,189,24,165
+Tama,West Richland,Soil and Water Conservation District Commissioner,,,Jan Wobeter,25,4,21
+Tama,East Richland/Salt Creek,Soil and Water Conservation District Commissioner,,,Jan Wobeter,178,20,158
+Tama,Indian Settlement,Soil and Water Conservation District Commissioner,,,Jan Wobeter,124,8,116
+Tama,Lincoln/Grant,County Agricultural Extension Council Member,,,Jackie Skala,183,21,162
+Tama,Buckingham/Perry,County Agricultural Extension Council Member,,,Jackie Skala,556,96,460
+Tama,Geneseo/Clark,County Agricultural Extension Council Member,,,Jackie Skala,578,101,477
+Tama,Spring Creek/Crystal,County Agricultural Extension Council Member,,,Jackie Skala,459,84,375
+Tama,Carlton,County Agricultural Extension Council Member,,,Jackie Skala,229,41,188
+Tama,Howard/Toledo,County Agricultural Extension Council Member,,,Jackie Skala,711,167,544
+Tama,Carroll/Oneida,County Agricultural Extension Council Member,,,Jackie Skala,180,22,158
+Tama,Highland/Indian Village/Columb,County Agricultural Extension Council Member,,,Jackie Skala,314,59,255
+Tama,Tama/Otter Creek,County Agricultural Extension Council Member,,,Jackie Skala,573,126,447
+Tama,York,County Agricultural Extension Council Member,,,Jackie Skala,151,21,130
+Tama,West Richland,County Agricultural Extension Council Member,,,Jackie Skala,24,3,21
+Tama,East Richland/Salt Creek,County Agricultural Extension Council Member,,,Jackie Skala,154,18,136
+Tama,Indian Settlement,County Agricultural Extension Council Member,,,Jackie Skala,95,3,92
+Tama,Lincoln/Grant,County Agricultural Extension Council Member,,,Donald Linnenbrink,202,25,177
+Tama,Buckingham/Perry,County Agricultural Extension Council Member,,,Donald Linnenbrink,535,89,446
+Tama,Geneseo/Clark,County Agricultural Extension Council Member,,,Donald Linnenbrink,572,100,472
+Tama,Spring Creek/Crystal,County Agricultural Extension Council Member,,,Donald Linnenbrink,464,90,374
+Tama,Carlton,County Agricultural Extension Council Member,,,Donald Linnenbrink,218,41,177
+Tama,Howard/Toledo,County Agricultural Extension Council Member,,,Donald Linnenbrink,570,125,445
+Tama,Carroll/Oneida,County Agricultural Extension Council Member,,,Donald Linnenbrink,154,16,138
+Tama,Highland/Indian Village/Columb,County Agricultural Extension Council Member,,,Donald Linnenbrink,265,54,211
+Tama,Tama/Otter Creek,County Agricultural Extension Council Member,,,Donald Linnenbrink,434,94,340
+Tama,York,County Agricultural Extension Council Member,,,Donald Linnenbrink,141,19,122
+Tama,West Richland,County Agricultural Extension Council Member,,,Donald Linnenbrink,23,3,20
+Tama,East Richland/Salt Creek,County Agricultural Extension Council Member,,,Donald Linnenbrink,142,15,127
+Tama,Indian Settlement,County Agricultural Extension Council Member,,,Donald Linnenbrink,59,3,56
+Tama,Lincoln/Grant,County Agricultural Extension Council Member,,,Judy Morrison,191,22,169
+Tama,Buckingham/Perry,County Agricultural Extension Council Member,,,Judy Morrison,665,114,551
+Tama,Geneseo/Clark,County Agricultural Extension Council Member,,,Judy Morrison,602,100,502
+Tama,Spring Creek/Crystal,County Agricultural Extension Council Member,,,Judy Morrison,451,87,364
+Tama,Carlton,County Agricultural Extension Council Member,,,Judy Morrison,211,40,171
+Tama,Howard/Toledo,County Agricultural Extension Council Member,,,Judy Morrison,589,133,456
+Tama,Carroll/Oneida,County Agricultural Extension Council Member,,,Judy Morrison,175,19,156
+Tama,Highland/Indian Village/Columb,County Agricultural Extension Council Member,,,Judy Morrison,266,53,213
+Tama,Tama/Otter Creek,County Agricultural Extension Council Member,,,Judy Morrison,453,97,356
+Tama,York,County Agricultural Extension Council Member,,,Judy Morrison,140,21,119
+Tama,West Richland,County Agricultural Extension Council Member,,,Judy Morrison,23,3,20
+Tama,East Richland/Salt Creek,County Agricultural Extension Council Member,,,Judy Morrison,142,14,128
+Tama,Indian Settlement,County Agricultural Extension Council Member,,,Judy Morrison,74,3,71
+Tama,Lincoln/Grant,County Agricultural Extension Council Member,,,Clinton Murty,189,24,165
+Tama,Buckingham/Perry,County Agricultural Extension Council Member,,,Clinton Murty,556,92,464
+Tama,Geneseo/Clark,County Agricultural Extension Council Member,,,Clinton Murty,580,100,480
+Tama,Spring Creek/Crystal,County Agricultural Extension Council Member,,,Clinton Murty,460,90,370
+Tama,Carlton,County Agricultural Extension Council Member,,,Clinton Murty,225,40,185
+Tama,Howard/Toledo,County Agricultural Extension Council Member,,,Clinton Murty,615,138,477
+Tama,Carroll/Oneida,County Agricultural Extension Council Member,,,Clinton Murty,166,15,151
+Tama,Highland/Indian Village/Columb,County Agricultural Extension Council Member,,,Clinton Murty,303,55,248
+Tama,Tama/Otter Creek,County Agricultural Extension Council Member,,,Clinton Murty,476,95,381
+Tama,York,County Agricultural Extension Council Member,,,Clinton Murty,145,20,125
+Tama,West Richland,County Agricultural Extension Council Member,,,Clinton Murty,24,4,20
+Tama,East Richland/Salt Creek,County Agricultural Extension Council Member,,,Clinton Murty,150,15,135
+Tama,Indian Settlement,County Agricultural Extension Council Member,,,Clinton Murty,67,3,64
+Tama,Lincoln/Grant,County Agricultural Extension Council Member,,,Sandy Supianoski,170,20,150
+Tama,Buckingham/Perry,County Agricultural Extension Council Member,,,Sandy Supianoski,523,89,434
+Tama,Geneseo/Clark,County Agricultural Extension Council Member,,,Sandy Supianoski,546,92,454
+Tama,Spring Creek/Crystal,County Agricultural Extension Council Member,,,Sandy Supianoski,414,80,334
+Tama,Carlton,County Agricultural Extension Council Member,,,Sandy Supianoski,204,39,165
+Tama,Howard/Toledo,County Agricultural Extension Council Member,,,Sandy Supianoski,634,145,489
+Tama,Carroll/Oneida,County Agricultural Extension Council Member,,,Sandy Supianoski,158,17,141
+Tama,Highland/Indian Village/Columb,County Agricultural Extension Council Member,,,Sandy Supianoski,282,57,225
+Tama,Tama/Otter Creek,County Agricultural Extension Council Member,,,Sandy Supianoski,507,113,394
+Tama,York,County Agricultural Extension Council Member,,,Sandy Supianoski,139,19,120
+Tama,West Richland,County Agricultural Extension Council Member,,,Sandy Supianoski,25,3,22
+Tama,East Richland/Salt Creek,County Agricultural Extension Council Member,,,Sandy Supianoski,171,21,150
+Tama,Indian Settlement,County Agricultural Extension Council Member,,,Sandy Supianoski,88,4,84
+Tama,Lincoln/Grant,County Agricultural Extension Council Member,,,Write-in,8,0,8
+Tama,Buckingham/Perry,County Agricultural Extension Council Member,,,Write-in,19,5,14
+Tama,Geneseo/Clark,County Agricultural Extension Council Member,,,Write-in,11,1,10
+Tama,Spring Creek/Crystal,County Agricultural Extension Council Member,,,Write-in,14,2,12
+Tama,Carlton,County Agricultural Extension Council Member,,,Write-in,8,0,8
+Tama,Howard/Toledo,County Agricultural Extension Council Member,,,Write-in,30,6,24
+Tama,Carroll/Oneida,County Agricultural Extension Council Member,,,Write-in,10,1,9
+Tama,Highland/Indian Village/Columb,County Agricultural Extension Council Member,,,Write-in,10,3,7
+Tama,Tama/Otter Creek,County Agricultural Extension Council Member,,,Write-in,12,6,6
+Tama,York,County Agricultural Extension Council Member,,,Write-in,6,0,6
+Tama,West Richland,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Tama,East Richland/Salt Creek,County Agricultural Extension Council Member,,,Write-in,12,2,10
+Tama,Indian Settlement,County Agricultural Extension Council Member,,,Write-in,8,0,8
+Tama,Lincoln/Grant,Supreme Court Justice,,,Yes,160,18,142
+Tama,Buckingham/Perry,Supreme Court Justice,,,Yes,491,83,408
+Tama,Geneseo/Clark,Supreme Court Justice,,,Yes,486,67,419
+Tama,Spring Creek/Crystal,Supreme Court Justice,,,Yes,342,62,280
+Tama,Carlton,Supreme Court Justice,,,Yes,194,34,160
+Tama,Howard/Toledo,Supreme Court Justice,,,Yes,499,96,403
+Tama,Carroll/Oneida,Supreme Court Justice,,,Yes,151,20,131
+Tama,Highland/Indian Village/Columb,Supreme Court Justice,,,Yes,246,40,206
+Tama,Tama/Otter Creek,Supreme Court Justice,,,Yes,428,79,349
+Tama,York,Supreme Court Justice,,,Yes,112,15,97
+Tama,West Richland,Supreme Court Justice,,,Yes,14,0,14
+Tama,East Richland/Salt Creek,Supreme Court Justice,,,Yes,109,16,93
+Tama,Indian Settlement,Supreme Court Justice,,,Yes,81,6,75
+Tama,Lincoln/Grant,Supreme Court Justice,,,No,69,10,59
+Tama,Buckingham/Perry,Supreme Court Justice,,,No,213,37,176
+Tama,Geneseo/Clark,Supreme Court Justice,,,No,240,44,196
+Tama,Spring Creek/Crystal,Supreme Court Justice,,,No,165,34,131
+Tama,Carlton,Supreme Court Justice,,,No,101,23,78
+Tama,Howard/Toledo,Supreme Court Justice,,,No,284,70,214
+Tama,Carroll/Oneida,Supreme Court Justice,,,No,57,7,50
+Tama,Highland/Indian Village/Columb,Supreme Court Justice,,,No,128,26,102
+Tama,Tama/Otter Creek,Supreme Court Justice,,,No,200,56,144
+Tama,York,Supreme Court Justice,,,No,60,3,57
+Tama,West Richland,Supreme Court Justice,,,No,11,4,7
+Tama,East Richland/Salt Creek,Supreme Court Justice,,,No,74,9,65
+Tama,Indian Settlement,Supreme Court Justice,,,No,75,8,67
+Tama,Lincoln/Grant,Court of Appeals Judge,,,Yes,162,16,146
+Tama,Buckingham/Perry,Court of Appeals Judge,,,Yes,477,81,396
+Tama,Geneseo/Clark,Court of Appeals Judge,,,Yes,475,65,410
+Tama,Spring Creek/Crystal,Court of Appeals Judge,,,Yes,338,58,280
+Tama,Carlton,Court of Appeals Judge,,,Yes,175,30,145
+Tama,Howard/Toledo,Court of Appeals Judge,,,Yes,493,97,396
+Tama,Carroll/Oneida,Court of Appeals Judge,,,Yes,128,15,113
+Tama,Highland/Indian Village/Columb,Court of Appeals Judge,,,Yes,221,32,189
+Tama,Tama/Otter Creek,Court of Appeals Judge,,,Yes,427,81,346
+Tama,York,Court of Appeals Judge,,,Yes,111,15,96
+Tama,West Richland,Court of Appeals Judge,,,Yes,13,0,13
+Tama,East Richland/Salt Creek,Court of Appeals Judge,,,Yes,105,15,90
+Tama,Indian Settlement,Court of Appeals Judge,,,Yes,81,7,74
+Tama,Lincoln/Grant,Court of Appeals Judge,,,No,59,9,50
+Tama,Buckingham/Perry,Court of Appeals Judge,,,No,203,35,168
+Tama,Geneseo/Clark,Court of Appeals Judge,,,No,222,38,184
+Tama,Spring Creek/Crystal,Court of Appeals Judge,,,No,160,31,129
+Tama,Carlton,Court of Appeals Judge,,,No,104,22,82
+Tama,Howard/Toledo,Court of Appeals Judge,,,No,272,64,208
+Tama,Carroll/Oneida,Court of Appeals Judge,,,No,70,11,59
+Tama,Highland/Indian Village/Columb,Court of Appeals Judge,,,No,137,25,112
+Tama,Tama/Otter Creek,Court of Appeals Judge,,,No,190,51,139
+Tama,York,Court of Appeals Judge,,,No,57,2,55
+Tama,West Richland,Court of Appeals Judge,,,No,12,4,8
+Tama,East Richland/Salt Creek,Court of Appeals Judge,,,No,74,9,65
+Tama,Indian Settlement,Court of Appeals Judge,,,No,70,8,62
+Tama,Lincoln/Grant,District 6 Judge,,,Yes,155,17,138
+Tama,Buckingham/Perry,District 6 Judge,,,Yes,461,78,383
+Tama,Geneseo/Clark,District 6 Judge,,,Yes,478,68,410
+Tama,Spring Creek/Crystal,District 6 Judge,,,Yes,344,60,284
+Tama,Carlton,District 6 Judge,,,Yes,190,34,156
+Tama,Howard/Toledo,District 6 Judge,,,Yes,515,101,414
+Tama,Carroll/Oneida,District 6 Judge,,,Yes,125,17,108
+Tama,Highland/Indian Village/Columb,District 6 Judge,,,Yes,229,33,196
+Tama,Tama/Otter Creek,District 6 Judge,,,Yes,432,90,342
+Tama,York,District 6 Judge,,,Yes,105,13,92
+Tama,West Richland,District 6 Judge,,,Yes,14,0,14
+Tama,East Richland/Salt Creek,District 6 Judge,,,Yes,110,14,96
+Tama,Indian Settlement,District 6 Judge,,,Yes,97,8,89
+Tama,Lincoln/Grant,District 6 Judge,,,No,58,7,51
+Tama,Buckingham/Perry,District 6 Judge,,,No,197,34,163
+Tama,Geneseo/Clark,District 6 Judge,,,No,211,30,181
+Tama,Spring Creek/Crystal,District 6 Judge,,,No,149,29,120
+Tama,Carlton,District 6 Judge,,,No,93,19,74
+Tama,Howard/Toledo,District 6 Judge,,,No,243,54,189
+Tama,Carroll/Oneida,District 6 Judge,,,No,62,7,55
+Tama,Highland/Indian Village/Columb,District 6 Judge,,,No,122,24,98
+Tama,Tama/Otter Creek,District 6 Judge,,,No,174,39,135
+Tama,York,District 6 Judge,,,No,60,2,58
+Tama,West Richland,District 6 Judge,,,No,11,4,7
+Tama,East Richland/Salt Creek,District 6 Judge,,,No,68,9,59
+Tama,Indian Settlement,District 6 Judge,,,No,64,7,57
+Tama,Lincoln/Grant,District 6 Associate Judge,,,Yes,158,16,142
+Tama,Buckingham/Perry,District 6 Associate Judge,,,Yes,468,78,390
+Tama,Geneseo/Clark,District 6 Associate Judge,,,Yes,465,63,402
+Tama,Spring Creek/Crystal,District 6 Associate Judge,,,Yes,340,62,278
+Tama,Carlton,District 6 Associate Judge,,,Yes,182,31,151
+Tama,Howard/Toledo,District 6 Associate Judge,,,Yes,521,102,419
+Tama,Carroll/Oneida,District 6 Associate Judge,,,Yes,133,18,115
+Tama,Highland/Indian Village/Columb,District 6 Associate Judge,,,Yes,221,29,192
+Tama,Tama/Otter Creek,District 6 Associate Judge,,,Yes,426,82,344
+Tama,York,District 6 Associate Judge,,,Yes,110,13,97
+Tama,West Richland,District 6 Associate Judge,,,Yes,13,0,13
+Tama,East Richland/Salt Creek,District 6 Associate Judge,,,Yes,108,14,94
+Tama,Indian Settlement,District 6 Associate Judge,,,Yes,82,7,75
+Tama,Lincoln/Grant,District 6 Associate Judge,,,No,56,7,49
+Tama,Buckingham/Perry,District 6 Associate Judge,,,No,186,30,156
+Tama,Geneseo/Clark,District 6 Associate Judge,,,No,216,31,185
+Tama,Spring Creek/Crystal,District 6 Associate Judge,,,No,150,26,124
+Tama,Carlton,District 6 Associate Judge,,,No,99,20,79
+Tama,Howard/Toledo,District 6 Associate Judge,,,No,231,51,180
+Tama,Carroll/Oneida,District 6 Associate Judge,,,No,56,6,50
+Tama,Highland/Indian Village/Columb,District 6 Associate Judge,,,No,124,25,99
+Tama,Tama/Otter Creek,District 6 Associate Judge,,,No,174,43,131
+Tama,York,District 6 Associate Judge,,,No,53,2,51
+Tama,West Richland,District 6 Associate Judge,,,No,11,4,7
+Tama,East Richland/Salt Creek,District 6 Associate Judge,,,No,70,8,62
+Tama,Indian Settlement,District 6 Associate Judge,,,No,71,7,64
+Tama,Lincoln/Grant,Constitutional Amendment 1,,,Yes,239,30,209
+Tama,Buckingham/Perry,Constitutional Amendment 1,,,Yes,655,102,553
+Tama,Geneseo/Clark,Constitutional Amendment 1,,,Yes,700,94,606
+Tama,Spring Creek/Crystal,Constitutional Amendment 1,,,Yes,520,83,437
+Tama,Carlton,Constitutional Amendment 1,,,Yes,277,44,233
+Tama,Howard/Toledo,Constitutional Amendment 1,,,Yes,724,150,574
+Tama,Carroll/Oneida,Constitutional Amendment 1,,,Yes,218,24,194
+Tama,Highland/Indian Village/Columb,Constitutional Amendment 1,,,Yes,383,71,312
+Tama,Tama/Otter Creek,Constitutional Amendment 1,,,Yes,563,107,456
+Tama,York,Constitutional Amendment 1,,,Yes,180,20,160
+Tama,West Richland,Constitutional Amendment 1,,,Yes,27,4,23
+Tama,East Richland/Salt Creek,Constitutional Amendment 1,,,Yes,183,22,161
+Tama,Indian Settlement,Constitutional Amendment 1,,,Yes,98,5,93
+Tama,Lincoln/Grant,Constitutional Amendment 1,,,No,49,13,36
+Tama,Buckingham/Perry,Constitutional Amendment 1,,,No,194,49,145
+Tama,Geneseo/Clark,Constitutional Amendment 1,,,No,225,61,164
+Tama,Spring Creek/Crystal,Constitutional Amendment 1,,,No,138,40,98
+Tama,Carlton,Constitutional Amendment 1,,,No,77,29,48
+Tama,Howard/Toledo,Constitutional Amendment 1,,,No,261,99,162
+Tama,Carroll/Oneida,Constitutional Amendment 1,,,No,46,14,32
+Tama,Highland/Indian Village/Columb,Constitutional Amendment 1,,,No,103,37,66
+Tama,Tama/Otter Creek,Constitutional Amendment 1,,,No,213,81,132
+Tama,York,Constitutional Amendment 1,,,No,45,6,39
+Tama,West Richland,Constitutional Amendment 1,,,No,4,1,3
+Tama,East Richland/Salt Creek,Constitutional Amendment 1,,,No,34,9,25
+Tama,Indian Settlement,Constitutional Amendment 1,,,No,87,12,75
+Tama,Lincoln/Grant,Public Measure TX,,,Yes,192,23,169
+Tama,Buckingham/Perry,Public Measure TX,,,Yes,553,102,451
+Tama,Geneseo/Clark,Public Measure TX,,,Yes,564,91,473
+Tama,Spring Creek/Crystal,Public Measure TX,,,Yes,413,83,330
+Tama,Carlton,Public Measure TX,,,Yes,214,45,169
+Tama,Howard/Toledo,Public Measure TX,,,Yes,595,142,453
+Tama,Carroll/Oneida,Public Measure TX,,,Yes,177,20,157
+Tama,Highland/Indian Village/Columb,Public Measure TX,,,Yes,251,51,200
+Tama,Tama/Otter Creek,Public Measure TX,,,Yes,473,97,376
+Tama,York,Public Measure TX,,,Yes,150,22,128
+Tama,West Richland,Public Measure TX,,,Yes,14,2,12
+Tama,East Richland/Salt Creek,Public Measure TX,,,Yes,118,13,105
+Tama,Indian Settlement,Public Measure TX,,,Yes,135,10,125
+Tama,Lincoln/Grant,Public Measure TX,,,No,89,16,73
+Tama,Buckingham/Perry,Public Measure TX,,,No,281,48,233
+Tama,Geneseo/Clark,Public Measure TX,,,No,328,57,271
+Tama,Spring Creek/Crystal,Public Measure TX,,,No,231,38,193
+Tama,Carlton,Public Measure TX,,,No,129,27,102
+Tama,Howard/Toledo,Public Measure TX,,,No,391,113,278
+Tama,Carroll/Oneida,Public Measure TX,,,No,84,18,66
+Tama,Highland/Indian Village/Columb,Public Measure TX,,,No,215,47,168
+Tama,Tama/Otter Creek,Public Measure TX,,,No,299,91,208
+Tama,York,Public Measure TX,,,No,70,6,64
+Tama,West Richland,Public Measure TX,,,No,18,4,14
+Tama,East Richland/Salt Creek,Public Measure TX,,,No,97,19,78
+Tama,Indian Settlement,Public Measure TX,,,No,53,8,45

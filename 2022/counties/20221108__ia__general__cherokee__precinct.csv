@@ -1,0 +1,432 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Cherokee,1-Cherokee Ward 1,U.S. Senate,,REP,Chuck Grassley,387,151,236
+Cherokee,2-Cherokee Ward 2,U.S. Senate,,REP,Chuck Grassley,344,109,235
+Cherokee,3-Cherokee Ward 3,U.S. Senate,,REP,Chuck Grassley,355,141,214
+Cherokee,4-Cherokee,U.S. Senate,,REP,Chuck Grassley,588,168,420
+Cherokee,5-Aurelia,U.S. Senate,,REP,Chuck Grassley,561,112,449
+Cherokee,6 - Quimby,U.S. Senate,,REP,Chuck Grassley,405,114,291
+Cherokee,7 - Marcus,U.S. Senate,,REP,Chuck Grassley,698,167,531
+Cherokee,1-Cherokee Ward 1,U.S. Senate,,DEM,Michael Franken,185,86,99
+Cherokee,2-Cherokee Ward 2,U.S. Senate,,DEM,Michael Franken,165,75,90
+Cherokee,3-Cherokee Ward 3,U.S. Senate,,DEM,Michael Franken,193,108,85
+Cherokee,4-Cherokee,U.S. Senate,,DEM,Michael Franken,149,75,74
+Cherokee,5-Aurelia,U.S. Senate,,DEM,Michael Franken,184,64,120
+Cherokee,6 - Quimby,U.S. Senate,,DEM,Michael Franken,91,32,59
+Cherokee,7 - Marcus,U.S. Senate,,DEM,Michael Franken,192,96,96
+Cherokee,1-Cherokee Ward 1,U.S. Senate,,,Write-in,0,0,0
+Cherokee,2-Cherokee Ward 2,U.S. Senate,,,Write-in,0,0,0
+Cherokee,3-Cherokee Ward 3,U.S. Senate,,,Write-in,2,1,1
+Cherokee,4-Cherokee,U.S. Senate,,,Write-in,0,0,0
+Cherokee,5-Aurelia,U.S. Senate,,,Write-in,0,0,0
+Cherokee,6 - Quimby,U.S. Senate,,,Write-in,1,0,1
+Cherokee,7 - Marcus,U.S. Senate,,,Write-in,0,0,0
+Cherokee,1-Cherokee Ward 1,U.S. House,4,REP,Randy Feenstra,399,154,245
+Cherokee,2-Cherokee Ward 2,U.S. House,4,REP,Randy Feenstra,351,111,240
+Cherokee,3-Cherokee Ward 3,U.S. House,4,REP,Randy Feenstra,376,149,227
+Cherokee,4-Cherokee,U.S. House,4,REP,Randy Feenstra,601,170,431
+Cherokee,5-Aurelia,U.S. House,4,REP,Randy Feenstra,569,114,455
+Cherokee,6 - Quimby,U.S. House,4,REP,Randy Feenstra,401,113,288
+Cherokee,7 - Marcus,U.S. House,4,REP,Randy Feenstra,705,166,539
+Cherokee,1-Cherokee Ward 1,U.S. House,4,DEM,Ryan Melton,155,74,81
+Cherokee,2-Cherokee Ward 2,U.S. House,4,DEM,Ryan Melton,139,67,72
+Cherokee,3-Cherokee Ward 3,U.S. House,4,DEM,Ryan Melton,159,95,64
+Cherokee,4-Cherokee,U.S. House,4,DEM,Ryan Melton,130,70,60
+Cherokee,5-Aurelia,U.S. House,4,DEM,Ryan Melton,150,57,93
+Cherokee,6 - Quimby,U.S. House,4,DEM,Ryan Melton,78,27,51
+Cherokee,7 - Marcus,U.S. House,4,DEM,Ryan Melton,164,88,76
+Cherokee,1-Cherokee Ward 1,U.S. House,4,LBC,Bryan Jack Holder,10,5,5
+Cherokee,2-Cherokee Ward 2,U.S. House,4,LBC,Bryan Jack Holder,15,8,7
+Cherokee,3-Cherokee Ward 3,U.S. House,4,LBC,Bryan Jack Holder,11,3,8
+Cherokee,4-Cherokee,U.S. House,4,LBC,Bryan Jack Holder,5,1,4
+Cherokee,5-Aurelia,U.S. House,4,LBC,Bryan Jack Holder,17,3,14
+Cherokee,6 - Quimby,U.S. House,4,LBC,Bryan Jack Holder,7,3,4
+Cherokee,7 - Marcus,U.S. House,4,LBC,Bryan Jack Holder,8,2,6
+Cherokee,1-Cherokee Ward 1,U.S. House,4,,Write-in,0,0,0
+Cherokee,2-Cherokee Ward 2,U.S. House,4,,Write-in,0,0,0
+Cherokee,3-Cherokee Ward 3,U.S. House,4,,Write-in,0,0,0
+Cherokee,4-Cherokee,U.S. House,4,,Write-in,0,0,0
+Cherokee,5-Aurelia,U.S. House,4,,Write-in,0,0,0
+Cherokee,6 - Quimby,U.S. House,4,,Write-in,2,0,2
+Cherokee,7 - Marcus,U.S. House,4,,Write-in,0,0,0
+Cherokee,1-Cherokee Ward 1,Governor,,REP,Kim Reynolds and Adam Gregg,426,169,257
+Cherokee,2-Cherokee Ward 2,Governor,,REP,Kim Reynolds and Adam Gregg,379,121,258
+Cherokee,3-Cherokee Ward 3,Governor,,REP,Kim Reynolds and Adam Gregg,392,157,235
+Cherokee,4-Cherokee,Governor,,REP,Kim Reynolds and Adam Gregg,619,173,446
+Cherokee,5-Aurelia,Governor,,REP,Kim Reynolds and Adam Gregg,596,120,476
+Cherokee,6 - Quimby,Governor,,REP,Kim Reynolds and Adam Gregg,426,117,309
+Cherokee,7 - Marcus,Governor,,REP,Kim Reynolds and Adam Gregg,741,177,564
+Cherokee,1-Cherokee Ward 1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,151,70,81
+Cherokee,2-Cherokee Ward 2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,131,63,68
+Cherokee,3-Cherokee Ward 3,Governor,,DEM,Deidre DeJear and Eric Van Lancker,153,93,60
+Cherokee,4-Cherokee,Governor,,DEM,Deidre DeJear and Eric Van Lancker,116,63,53
+Cherokee,5-Aurelia,Governor,,DEM,Deidre DeJear and Eric Van Lancker,144,55,89
+Cherokee,6 - Quimby,Governor,,DEM,Deidre DeJear and Eric Van Lancker,68,23,45
+Cherokee,7 - Marcus,Governor,,DEM,Deidre DeJear and Eric Van Lancker,148,86,62
+Cherokee,1-Cherokee Ward 1,Governor,,LIB,Rick Stewart and Marco Battaglia,7,1,6
+Cherokee,2-Cherokee Ward 2,Governor,,LIB,Rick Stewart and Marco Battaglia,18,7,11
+Cherokee,3-Cherokee Ward 3,Governor,,LIB,Rick Stewart and Marco Battaglia,11,2,9
+Cherokee,4-Cherokee,Governor,,LIB,Rick Stewart and Marco Battaglia,13,8,5
+Cherokee,5-Aurelia,Governor,,LIB,Rick Stewart and Marco Battaglia,19,5,14
+Cherokee,6 - Quimby,Governor,,LIB,Rick Stewart and Marco Battaglia,10,6,4
+Cherokee,7 - Marcus,Governor,,LIB,Rick Stewart and Marco Battaglia,9,3,6
+Cherokee,1-Cherokee Ward 1,Governor,,,Write-in,0,0,0
+Cherokee,2-Cherokee Ward 2,Governor,,,Write-in,0,0,0
+Cherokee,3-Cherokee Ward 3,Governor,,,Write-in,0,0,0
+Cherokee,4-Cherokee,Governor,,,Write-in,0,0,0
+Cherokee,5-Aurelia,Governor,,,Write-in,0,0,0
+Cherokee,6 - Quimby,Governor,,,Write-in,0,0,0
+Cherokee,7 - Marcus,Governor,,,Write-in,0,0,0
+Cherokee,1-Cherokee Ward 1,Secretary of State,,REP,Paul D. Pate,412,161,251
+Cherokee,2-Cherokee Ward 2,Secretary of State,,REP,Paul D. Pate,372,118,254
+Cherokee,3-Cherokee Ward 3,Secretary of State,,REP,Paul D. Pate,375,146,229
+Cherokee,4-Cherokee,Secretary of State,,REP,Paul D. Pate,614,179,435
+Cherokee,5-Aurelia,Secretary of State,,REP,Paul D. Pate,591,117,474
+Cherokee,6 - Quimby,Secretary of State,,REP,Paul D. Pate,410,117,293
+Cherokee,7 - Marcus,Secretary of State,,REP,Paul D. Pate,714,178,536
+Cherokee,1-Cherokee Ward 1,Secretary of State,,DEM,Joel Miller,153,70,83
+Cherokee,2-Cherokee Ward 2,Secretary of State,,DEM,Joel Miller,140,69,71
+Cherokee,3-Cherokee Ward 3,Secretary of State,,DEM,Joel Miller,168,99,69
+Cherokee,4-Cherokee,Secretary of State,,DEM,Joel Miller,121,63,58
+Cherokee,5-Aurelia,Secretary of State,,DEM,Joel Miller,153,56,97
+Cherokee,6 - Quimby,Secretary of State,,DEM,Joel Miller,78,24,54
+Cherokee,7 - Marcus,Secretary of State,,DEM,Joel Miller,157,80,77
+Cherokee,1-Cherokee Ward 1,Secretary of State,,,Write-in,0,0,0
+Cherokee,2-Cherokee Ward 2,Secretary of State,,,Write-in,0,0,0
+Cherokee,3-Cherokee Ward 3,Secretary of State,,,Write-in,1,0,1
+Cherokee,4-Cherokee,Secretary of State,,,Write-in,1,0,1
+Cherokee,5-Aurelia,Secretary of State,,,Write-in,0,0,0
+Cherokee,6 - Quimby,Secretary of State,,,Write-in,1,0,1
+Cherokee,7 - Marcus,Secretary of State,,,Write-in,0,0,0
+Cherokee,1-Cherokee Ward 1,Auditor of State,,REP,Todd Halbur,318,118,200
+Cherokee,2-Cherokee Ward 2,Auditor of State,,REP,Todd Halbur,291,81,210
+Cherokee,3-Cherokee Ward 3,Auditor of State,,REP,Todd Halbur,307,119,188
+Cherokee,4-Cherokee,Auditor of State,,REP,Todd Halbur,529,151,378
+Cherokee,5-Aurelia,Auditor of State,,REP,Todd Halbur,486,98,388
+Cherokee,6 - Quimby,Auditor of State,,REP,Todd Halbur,339,96,243
+Cherokee,7 - Marcus,Auditor of State,,REP,Todd Halbur,573,145,428
+Cherokee,1-Cherokee Ward 1,Auditor of State,,DEM,Rob Sand,243,116,127
+Cherokee,2-Cherokee Ward 2,Auditor of State,,DEM,Rob Sand,218,102,116
+Cherokee,3-Cherokee Ward 3,Auditor of State,,DEM,Rob Sand,231,125,106
+Cherokee,4-Cherokee,Auditor of State,,DEM,Rob Sand,197,88,109
+Cherokee,5-Aurelia,Auditor of State,,DEM,Rob Sand,251,74,177
+Cherokee,6 - Quimby,Auditor of State,,DEM,Rob Sand,145,42,103
+Cherokee,7 - Marcus,Auditor of State,,DEM,Rob Sand,299,116,183
+Cherokee,1-Cherokee Ward 1,Auditor of State,,,Write-in,0,0,0
+Cherokee,2-Cherokee Ward 2,Auditor of State,,,Write-in,0,0,0
+Cherokee,3-Cherokee Ward 3,Auditor of State,,,Write-in,1,0,1
+Cherokee,4-Cherokee,Auditor of State,,,Write-in,1,0,1
+Cherokee,5-Aurelia,Auditor of State,,,Write-in,0,0,0
+Cherokee,6 - Quimby,Auditor of State,,,Write-in,0,0,0
+Cherokee,7 - Marcus,Auditor of State,,,Write-in,0,0,0
+Cherokee,1-Cherokee Ward 1,Treasurer of State,,REP,Roby Smith,325,119,206
+Cherokee,2-Cherokee Ward 2,Treasurer of State,,REP,Roby Smith,314,93,221
+Cherokee,3-Cherokee Ward 3,Treasurer of State,,REP,Roby Smith,312,120,192
+Cherokee,4-Cherokee,Treasurer of State,,REP,Roby Smith,526,148,378
+Cherokee,5-Aurelia,Treasurer of State,,REP,Roby Smith,499,96,403
+Cherokee,6 - Quimby,Treasurer of State,,REP,Roby Smith,359,102,257
+Cherokee,7 - Marcus,Treasurer of State,,REP,Roby Smith,605,145,460
+Cherokee,1-Cherokee Ward 1,Treasurer of State,,DEM,Michael L. Fitzgerald,232,112,120
+Cherokee,2-Cherokee Ward 2,Treasurer of State,,DEM,Michael L. Fitzgerald,195,90,105
+Cherokee,3-Cherokee Ward 3,Treasurer of State,,DEM,Michael L. Fitzgerald,229,128,101
+Cherokee,4-Cherokee,Treasurer of State,,DEM,Michael L. Fitzgerald,190,88,102
+Cherokee,5-Aurelia,Treasurer of State,,DEM,Michael L. Fitzgerald,242,77,165
+Cherokee,6 - Quimby,Treasurer of State,,DEM,Michael L. Fitzgerald,120,38,82
+Cherokee,7 - Marcus,Treasurer of State,,DEM,Michael L. Fitzgerald,262,115,147
+Cherokee,1-Cherokee Ward 1,Treasurer of State,,,Write-in,0,0,0
+Cherokee,2-Cherokee Ward 2,Treasurer of State,,,Write-in,0,0,0
+Cherokee,3-Cherokee Ward 3,Treasurer of State,,,Write-in,1,0,1
+Cherokee,4-Cherokee,Treasurer of State,,,Write-in,0,0,0
+Cherokee,5-Aurelia,Treasurer of State,,,Write-in,0,0,0
+Cherokee,6 - Quimby,Treasurer of State,,,Write-in,0,0,0
+Cherokee,7 - Marcus,Treasurer of State,,,Write-in,0,0,0
+Cherokee,1-Cherokee Ward 1,Secretary of Agriculture,,REP,Mike Naig,433,173,260
+Cherokee,2-Cherokee Ward 2,Secretary of Agriculture,,REP,Mike Naig,390,121,269
+Cherokee,3-Cherokee Ward 3,Secretary of Agriculture,,REP,Mike Naig,388,150,238
+Cherokee,4-Cherokee,Secretary of Agriculture,,REP,Mike Naig,633,187,446
+Cherokee,5-Aurelia,Secretary of Agriculture,,REP,Mike Naig,588,123,465
+Cherokee,6 - Quimby,Secretary of Agriculture,,REP,Mike Naig,437,127,310
+Cherokee,7 - Marcus,Secretary of Agriculture,,REP,Mike Naig,734,180,554
+Cherokee,1-Cherokee Ward 1,Secretary of Agriculture,,DEM,John Norwood,132,62,70
+Cherokee,2-Cherokee Ward 2,Secretary of Agriculture,,DEM,John Norwood,121,61,60
+Cherokee,3-Cherokee Ward 3,Secretary of Agriculture,,DEM,John Norwood,152,95,57
+Cherokee,4-Cherokee,Secretary of Agriculture,,DEM,John Norwood,97,55,42
+Cherokee,5-Aurelia,Secretary of Agriculture,,DEM,John Norwood,148,52,96
+Cherokee,6 - Quimby,Secretary of Agriculture,,DEM,John Norwood,59,18,41
+Cherokee,7 - Marcus,Secretary of Agriculture,,DEM,John Norwood,133,77,56
+Cherokee,1-Cherokee Ward 1,Secretary of Agriculture,,,Write-in,0,0,0
+Cherokee,2-Cherokee Ward 2,Secretary of Agriculture,,,Write-in,0,0,0
+Cherokee,3-Cherokee Ward 3,Secretary of Agriculture,,,Write-in,1,0,1
+Cherokee,4-Cherokee,Secretary of Agriculture,,,Write-in,1,0,1
+Cherokee,5-Aurelia,Secretary of Agriculture,,,Write-in,0,0,0
+Cherokee,6 - Quimby,Secretary of Agriculture,,,Write-in,0,0,0
+Cherokee,7 - Marcus,Secretary of Agriculture,,,Write-in,0,0,0
+Cherokee,1-Cherokee Ward 1,Attorney General,,REP,Brenna Bird,320,104,216
+Cherokee,2-Cherokee Ward 2,Attorney General,,REP,Brenna Bird,306,88,218
+Cherokee,3-Cherokee Ward 3,Attorney General,,REP,Brenna Bird,300,115,185
+Cherokee,4-Cherokee,Attorney General,,REP,Brenna Bird,513,138,375
+Cherokee,5-Aurelia,Attorney General,,REP,Brenna Bird,500,95,405
+Cherokee,6 - Quimby,Attorney General,,REP,Brenna Bird,366,94,272
+Cherokee,7 - Marcus,Attorney General,,REP,Brenna Bird,601,140,461
+Cherokee,1-Cherokee Ward 1,Attorney General,,DEM,Tom Miller,249,133,116
+Cherokee,2-Cherokee Ward 2,Attorney General,,DEM,Tom Miller,211,99,112
+Cherokee,3-Cherokee Ward 3,Attorney General,,DEM,Tom Miller,239,132,107
+Cherokee,4-Cherokee,Attorney General,,DEM,Tom Miller,212,97,115
+Cherokee,5-Aurelia,Attorney General,,DEM,Tom Miller,236,81,155
+Cherokee,6 - Quimby,Attorney General,,DEM,Tom Miller,131,52,79
+Cherokee,7 - Marcus,Attorney General,,DEM,Tom Miller,275,120,155
+Cherokee,1-Cherokee Ward 1,Attorney General,,,Write-in,0,0,0
+Cherokee,2-Cherokee Ward 2,Attorney General,,,Write-in,0,0,0
+Cherokee,3-Cherokee Ward 3,Attorney General,,,Write-in,1,0,1
+Cherokee,4-Cherokee,Attorney General,,,Write-in,0,0,0
+Cherokee,5-Aurelia,Attorney General,,,Write-in,0,0,0
+Cherokee,6 - Quimby,Attorney General,,,Write-in,0,0,0
+Cherokee,7 - Marcus,Attorney General,,,Write-in,1,0,1
+Cherokee,1-Cherokee Ward 1,State Senate,3,REP,Lynn Evans,444,183,261
+Cherokee,2-Cherokee Ward 2,State Senate,3,REP,Lynn Evans,420,139,281
+Cherokee,3-Cherokee Ward 3,State Senate,3,REP,Lynn Evans,436,191,245
+Cherokee,4-Cherokee,State Senate,3,REP,Lynn Evans,614,192,422
+Cherokee,5-Aurelia,State Senate,3,REP,Lynn Evans,651,128,523
+Cherokee,1-Cherokee Ward 1,State Senate,3,,Write-in,4,1,3
+Cherokee,2-Cherokee Ward 2,State Senate,3,,Write-in,2,0,2
+Cherokee,3-Cherokee Ward 3,State Senate,3,,Write-in,6,2,4
+Cherokee,4-Cherokee,State Senate,3,,Write-in,6,2,4
+Cherokee,5-Aurelia,State Senate,3,,Write-in,7,3,4
+Cherokee,6 - Quimby,State Senate,7,REP,Kevin Alons,411,106,305
+Cherokee,7 - Marcus,State Senate,7,REP,Kevin Alons,684,180,504
+Cherokee,6 - Quimby,State Senate,7,,Write-in,1,0,1
+Cherokee,7 - Marcus,State Senate,7,,Write-in,4,3,1
+Cherokee,1-Cherokee Ward 1,State House,5,REP,Zachary M. Dieken,434,177,257
+Cherokee,2-Cherokee Ward 2,State House,5,REP,Zachary M. Dieken,414,133,281
+Cherokee,3-Cherokee Ward 3,State House,5,REP,Zachary M. Dieken,408,172,236
+Cherokee,4-Cherokee,State House,5,REP,Zachary M. Dieken,583,180,403
+Cherokee,5-Aurelia,State House,5,REP,Zachary M. Dieken,598,121,477
+Cherokee,1-Cherokee Ward 1,State House,5,,Write-in,8,2,6
+Cherokee,2-Cherokee Ward 2,State House,5,,Write-in,3,1,2
+Cherokee,3-Cherokee Ward 3,State House,5,,Write-in,6,3,3
+Cherokee,4-Cherokee,State House,5,,Write-in,5,3,2
+Cherokee,5-Aurelia,State House,5,,Write-in,8,3,5
+Cherokee,6 - Quimby,State House,13,REP,Ken E. Carlson,407,115,292
+Cherokee,7 - Marcus,State House,13,REP,Ken E. Carlson,677,178,499
+Cherokee,6 - Quimby,State House,13,LIB,Amy Janowski,54,15,39
+Cherokee,7 - Marcus,State House,13,LIB,Amy Janowski,105,45,60
+Cherokee,6 - Quimby,State House,13,,Write-in,0,0,0
+Cherokee,7 - Marcus,State House,13,,Write-in,3,2,1
+Cherokee,1-Cherokee Ward 1,County Board of Supervisors District 3,,REP,David L. Skou,470,192,278
+Cherokee,2-Cherokee Ward 2,County Board of Supervisors District 3,,REP,David L. Skou,416,135,281
+Cherokee,3-Cherokee Ward 3,County Board of Supervisors District 3,,REP,David L. Skou,432,185,247
+Cherokee,4-Cherokee,County Board of Supervisors District 3,,REP,David L. Skou,608,187,421
+Cherokee,5-Aurelia,County Board of Supervisors District 3,,REP,David L. Skou,627,125,502
+Cherokee,6 - Quimby,County Board of Supervisors District 3,,REP,David L. Skou,431,114,317
+Cherokee,7 - Marcus,County Board of Supervisors District 3,,REP,David L. Skou,701,191,510
+Cherokee,1-Cherokee Ward 1,County Board of Supervisors District 3,,,Write-in,4,2,2
+Cherokee,2-Cherokee Ward 2,County Board of Supervisors District 3,,,Write-in,3,1,2
+Cherokee,3-Cherokee Ward 3,County Board of Supervisors District 3,,,Write-in,5,1,4
+Cherokee,4-Cherokee,County Board of Supervisors District 3,,,Write-in,3,1,2
+Cherokee,5-Aurelia,County Board of Supervisors District 3,,,Write-in,9,3,6
+Cherokee,6 - Quimby,County Board of Supervisors District 3,,,Write-in,1,0,1
+Cherokee,7 - Marcus,County Board of Supervisors District 3,,,Write-in,7,4,3
+Cherokee,1-Cherokee Ward 1,County Board of Supervisors District 4,,REP,Cheryl Ellis,475,191,284
+Cherokee,2-Cherokee Ward 2,County Board of Supervisors District 4,,REP,Cheryl Ellis,409,127,282
+Cherokee,3-Cherokee Ward 3,County Board of Supervisors District 4,,REP,Cheryl Ellis,426,175,251
+Cherokee,4-Cherokee,County Board of Supervisors District 4,,REP,Cheryl Ellis,590,178,412
+Cherokee,5-Aurelia,County Board of Supervisors District 4,,REP,Cheryl Ellis,616,128,488
+Cherokee,6 - Quimby,County Board of Supervisors District 4,,REP,Cheryl Ellis,431,117,314
+Cherokee,7 - Marcus,County Board of Supervisors District 4,,REP,Cheryl Ellis,684,192,492
+Cherokee,1-Cherokee Ward 1,County Board of Supervisors District 4,,,Write-in,3,1,2
+Cherokee,2-Cherokee Ward 2,County Board of Supervisors District 4,,,Write-in,2,0,2
+Cherokee,3-Cherokee Ward 3,County Board of Supervisors District 4,,,Write-in,1,0,1
+Cherokee,4-Cherokee,County Board of Supervisors District 4,,,Write-in,5,2,3
+Cherokee,5-Aurelia,County Board of Supervisors District 4,,,Write-in,6,3,3
+Cherokee,6 - Quimby,County Board of Supervisors District 4,,,Write-in,1,0,1
+Cherokee,7 - Marcus,County Board of Supervisors District 4,,,Write-in,4,1,3
+Cherokee,1-Cherokee Ward 1,County Treasurer,,REP,Hedgie Roswitha Brandt,487,202,285
+Cherokee,2-Cherokee Ward 2,County Treasurer,,REP,Hedgie Roswitha Brandt,445,154,291
+Cherokee,3-Cherokee Ward 3,County Treasurer,,REP,Hedgie Roswitha Brandt,446,199,247
+Cherokee,4-Cherokee,County Treasurer,,REP,Hedgie Roswitha Brandt,627,205,422
+Cherokee,5-Aurelia,County Treasurer,,REP,Hedgie Roswitha Brandt,645,142,503
+Cherokee,6 - Quimby,County Treasurer,,REP,Hedgie Roswitha Brandt,455,130,325
+Cherokee,7 - Marcus,County Treasurer,,REP,Hedgie Roswitha Brandt,750,214,536
+Cherokee,1-Cherokee Ward 1,County Treasurer,,,Write-in,1,0,1
+Cherokee,2-Cherokee Ward 2,County Treasurer,,,Write-in,2,0,2
+Cherokee,3-Cherokee Ward 3,County Treasurer,,,Write-in,4,1,3
+Cherokee,4-Cherokee,County Treasurer,,,Write-in,3,0,3
+Cherokee,5-Aurelia,County Treasurer,,,Write-in,5,0,5
+Cherokee,6 - Quimby,County Treasurer,,,Write-in,3,0,3
+Cherokee,7 - Marcus,County Treasurer,,,Write-in,6,2,4
+Cherokee,1-Cherokee Ward 1,County Recorder,,REP,Samantha Boothby,498,207,291
+Cherokee,2-Cherokee Ward 2,County Recorder,,REP,Samantha Boothby,436,147,289
+Cherokee,3-Cherokee Ward 3,County Recorder,,REP,Samantha Boothby,442,192,250
+Cherokee,4-Cherokee,County Recorder,,REP,Samantha Boothby,622,195,427
+Cherokee,5-Aurelia,County Recorder,,REP,Samantha Boothby,648,143,505
+Cherokee,6 - Quimby,County Recorder,,REP,Samantha Boothby,447,127,320
+Cherokee,7 - Marcus,County Recorder,,REP,Samantha Boothby,735,204,531
+Cherokee,1-Cherokee Ward 1,County Recorder,,,Write-in,3,1,2
+Cherokee,2-Cherokee Ward 2,County Recorder,,,Write-in,1,0,1
+Cherokee,3-Cherokee Ward 3,County Recorder,,,Write-in,3,0,3
+Cherokee,4-Cherokee,County Recorder,,,Write-in,5,3,2
+Cherokee,5-Aurelia,County Recorder,,,Write-in,3,0,3
+Cherokee,6 - Quimby,County Recorder,,,Write-in,1,0,1
+Cherokee,7 - Marcus,County Recorder,,,Write-in,2,1,1
+Cherokee,1-Cherokee Ward 1,County Attorney,,REP,Ryan R. Kolpin,473,201,272
+Cherokee,2-Cherokee Ward 2,County Attorney,,REP,Ryan R. Kolpin,418,141,277
+Cherokee,3-Cherokee Ward 3,County Attorney,,REP,Ryan R. Kolpin,436,195,241
+Cherokee,4-Cherokee,County Attorney,,REP,Ryan R. Kolpin,587,183,404
+Cherokee,5-Aurelia,County Attorney,,REP,Ryan R. Kolpin,611,136,475
+Cherokee,6 - Quimby,County Attorney,,REP,Ryan R. Kolpin,439,124,315
+Cherokee,7 - Marcus,County Attorney,,REP,Ryan R. Kolpin,710,194,516
+Cherokee,1-Cherokee Ward 1,County Attorney,,,Write-in,7,1,6
+Cherokee,2-Cherokee Ward 2,County Attorney,,,Write-in,6,1,5
+Cherokee,3-Cherokee Ward 3,County Attorney,,,Write-in,9,1,8
+Cherokee,4-Cherokee,County Attorney,,,Write-in,13,4,9
+Cherokee,5-Aurelia,County Attorney,,,Write-in,10,1,9
+Cherokee,6 - Quimby,County Attorney,,,Write-in,2,0,2
+Cherokee,7 - Marcus,County Attorney,,,Write-in,6,3,3
+Cherokee,7 - Marcus,Amherst Township Trustee,,,David Whited,98,23,75
+Cherokee,7 - Marcus,Amherst Township Trustee,,,Galen T. Rupp,74,20,54
+Cherokee,7 - Marcus,Amherst Township Trustee,,,Write-in,0,0,0
+Cherokee,6 - Quimby,Grand Meadow Township Trustee,,,William Sokolowski,84,30,54
+Cherokee,6 - Quimby,Grand Meadow Township Trustee,,,Write-in,1,0,1
+Cherokee,7 - Marcus,Marcus Township Trustee,,,Steve Hueser,37,12,25
+Cherokee,7 - Marcus,Marcus Township Trustee,,,Jeff Letsche,45,14,31
+Cherokee,7 - Marcus,Marcus Township Trustee,,,Write-in,0,0,0
+Cherokee,7 - Marcus,Marcus Township Clerk,,,Patrick Bird,47,15,32
+Cherokee,7 - Marcus,Marcus Township Clerk,,,Write-in,0,0,0
+Cherokee,6 - Quimby,Rock Township Trustee,,,John Zimmer,79,30,49
+Cherokee,6 - Quimby,Rock Township Trustee,,,Write-in,1,0,1
+Cherokee,6 - Quimby,Tilden Township Trustee,,,Tony Simons,66,31,35
+Cherokee,6 - Quimby,Tilden Township Trustee,,,Write-in,0,0,0
+Cherokee,6 - Quimby,Tilden Township Clerk,,,Ed Schlenger,65,30,35
+Cherokee,6 - Quimby,Tilden Township Clerk,,,Write-in,0,0,0
+Cherokee,1-Cherokee Ward 1,Soil and Water Conservation District Commissioner,,,Ramona Nitz,379,161,218
+Cherokee,2-Cherokee Ward 2,Soil and Water Conservation District Commissioner,,,Ramona Nitz,315,100,215
+Cherokee,3-Cherokee Ward 3,Soil and Water Conservation District Commissioner,,,Ramona Nitz,333,153,180
+Cherokee,4-Cherokee,Soil and Water Conservation District Commissioner,,,Ramona Nitz,462,154,308
+Cherokee,5-Aurelia,Soil and Water Conservation District Commissioner,,,Ramona Nitz,411,93,318
+Cherokee,6 - Quimby,Soil and Water Conservation District Commissioner,,,Ramona Nitz,291,82,209
+Cherokee,7 - Marcus,Soil and Water Conservation District Commissioner,,,Ramona Nitz,506,163,343
+Cherokee,1-Cherokee Ward 1,Soil and Water Conservation District Commissioner,,,Russell Winterhof,398,172,226
+Cherokee,2-Cherokee Ward 2,Soil and Water Conservation District Commissioner,,,Russell Winterhof,318,117,201
+Cherokee,3-Cherokee Ward 3,Soil and Water Conservation District Commissioner,,,Russell Winterhof,357,168,189
+Cherokee,4-Cherokee,Soil and Water Conservation District Commissioner,,,Russell Winterhof,476,167,309
+Cherokee,5-Aurelia,Soil and Water Conservation District Commissioner,,,Russell Winterhof,576,127,449
+Cherokee,6 - Quimby,Soil and Water Conservation District Commissioner,,,Russell Winterhof,344,97,247
+Cherokee,7 - Marcus,Soil and Water Conservation District Commissioner,,,Russell Winterhof,546,167,379
+Cherokee,1-Cherokee Ward 1,Soil and Water Conservation District Commissioner,,,Write-in,4,2,2
+Cherokee,2-Cherokee Ward 2,Soil and Water Conservation District Commissioner,,,Write-in,4,0,4
+Cherokee,3-Cherokee Ward 3,Soil and Water Conservation District Commissioner,,,Write-in,1,1,0
+Cherokee,4-Cherokee,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Cherokee,5-Aurelia,Soil and Water Conservation District Commissioner,,,Write-in,4,3,1
+Cherokee,6 - Quimby,Soil and Water Conservation District Commissioner,,,Write-in,5,1,4
+Cherokee,7 - Marcus,Soil and Water Conservation District Commissioner,,,Write-in,4,2,2
+Cherokee,1-Cherokee Ward 1,County Agricultural Extension Council Member,,,Donna Amundson,363,161,202
+Cherokee,2-Cherokee Ward 2,County Agricultural Extension Council Member,,,Donna Amundson,310,93,217
+Cherokee,3-Cherokee Ward 3,County Agricultural Extension Council Member,,,Donna Amundson,327,149,178
+Cherokee,4-Cherokee,County Agricultural Extension Council Member,,,Donna Amundson,455,155,300
+Cherokee,5-Aurelia,County Agricultural Extension Council Member,,,Donna Amundson,440,99,341
+Cherokee,6 - Quimby,County Agricultural Extension Council Member,,,Donna Amundson,289,94,195
+Cherokee,7 - Marcus,County Agricultural Extension Council Member,,,Donna Amundson,487,157,330
+Cherokee,1-Cherokee Ward 1,County Agricultural Extension Council Member,,,Jacob L. Wetter,319,144,175
+Cherokee,2-Cherokee Ward 2,County Agricultural Extension Council Member,,,Jacob L. Wetter,258,79,179
+Cherokee,3-Cherokee Ward 3,County Agricultural Extension Council Member,,,Jacob L. Wetter,285,136,149
+Cherokee,4-Cherokee,County Agricultural Extension Council Member,,,Jacob L. Wetter,378,136,242
+Cherokee,5-Aurelia,County Agricultural Extension Council Member,,,Jacob L. Wetter,398,86,312
+Cherokee,6 - Quimby,County Agricultural Extension Council Member,,,Jacob L. Wetter,295,87,208
+Cherokee,7 - Marcus,County Agricultural Extension Council Member,,,Jacob L. Wetter,575,172,403
+Cherokee,1-Cherokee Ward 1,County Agricultural Extension Council Member,,,Nancy A. Nelson,356,159,197
+Cherokee,2-Cherokee Ward 2,County Agricultural Extension Council Member,,,Nancy A. Nelson,297,93,204
+Cherokee,3-Cherokee Ward 3,County Agricultural Extension Council Member,,,Nancy A. Nelson,328,156,172
+Cherokee,4-Cherokee,County Agricultural Extension Council Member,,,Nancy A. Nelson,403,146,257
+Cherokee,5-Aurelia,County Agricultural Extension Council Member,,,Nancy A. Nelson,429,100,329
+Cherokee,6 - Quimby,County Agricultural Extension Council Member,,,Nancy A. Nelson,320,91,229
+Cherokee,7 - Marcus,County Agricultural Extension Council Member,,,Nancy A. Nelson,528,165,363
+Cherokee,1-Cherokee Ward 1,County Agricultural Extension Council Member,,,Kristi Letsche,332,147,185
+Cherokee,2-Cherokee Ward 2,County Agricultural Extension Council Member,,,Kristi Letsche,290,95,195
+Cherokee,3-Cherokee Ward 3,County Agricultural Extension Council Member,,,Kristi Letsche,298,144,154
+Cherokee,4-Cherokee,County Agricultural Extension Council Member,,,Kristi Letsche,403,141,262
+Cherokee,5-Aurelia,County Agricultural Extension Council Member,,,Kristi Letsche,414,91,323
+Cherokee,6 - Quimby,County Agricultural Extension Council Member,,,Kristi Letsche,304,97,207
+Cherokee,7 - Marcus,County Agricultural Extension Council Member,,,Kristi Letsche,624,177,447
+Cherokee,1-Cherokee Ward 1,County Agricultural Extension Council Member,,,Shelby Redig,317,137,180
+Cherokee,2-Cherokee Ward 2,County Agricultural Extension Council Member,,,Shelby Redig,264,85,179
+Cherokee,3-Cherokee Ward 3,County Agricultural Extension Council Member,,,Shelby Redig,284,131,153
+Cherokee,4-Cherokee,County Agricultural Extension Council Member,,,Shelby Redig,372,129,243
+Cherokee,5-Aurelia,County Agricultural Extension Council Member,,,Shelby Redig,501,96,405
+Cherokee,6 - Quimby,County Agricultural Extension Council Member,,,Shelby Redig,271,81,190
+Cherokee,7 - Marcus,County Agricultural Extension Council Member,,,Shelby Redig,446,144,302
+Cherokee,1-Cherokee Ward 1,County Agricultural Extension Council Member,,,Write-in,13,4,9
+Cherokee,2-Cherokee Ward 2,County Agricultural Extension Council Member,,,Write-in,4,0,4
+Cherokee,3-Cherokee Ward 3,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Cherokee,4-Cherokee,County Agricultural Extension Council Member,,,Write-in,4,0,4
+Cherokee,5-Aurelia,County Agricultural Extension Council Member,,,Write-in,6,6,0
+Cherokee,6 - Quimby,County Agricultural Extension Council Member,,,Write-in,6,0,6
+Cherokee,7 - Marcus,County Agricultural Extension Council Member,,,Write-in,9,1,8
+Cherokee,1-Cherokee Ward 1,Supreme Court Justice,,,Yes,298,131,167
+Cherokee,2-Cherokee Ward 2,Supreme Court Justice,,,Yes,263,88,175
+Cherokee,3-Cherokee Ward 3,Supreme Court Justice,,,Yes,282,126,156
+Cherokee,4-Cherokee,Supreme Court Justice,,,Yes,301,106,195
+Cherokee,5-Aurelia,Supreme Court Justice,,,Yes,382,80,302
+Cherokee,6 - Quimby,Supreme Court Justice,,,Yes,246,75,171
+Cherokee,7 - Marcus,Supreme Court Justice,,,Yes,408,124,284
+Cherokee,1-Cherokee Ward 1,Supreme Court Justice,,,No,83,27,56
+Cherokee,2-Cherokee Ward 2,Supreme Court Justice,,,No,88,27,61
+Cherokee,3-Cherokee Ward 3,Supreme Court Justice,,,No,92,45,47
+Cherokee,4-Cherokee,Supreme Court Justice,,,No,121,56,65
+Cherokee,5-Aurelia,Supreme Court Justice,,,No,141,30,111
+Cherokee,6 - Quimby,Supreme Court Justice,,,No,98,26,72
+Cherokee,7 - Marcus,Supreme Court Justice,,,No,150,45,105
+Cherokee,1-Cherokee Ward 1,Court of Appeals Judge,,,Yes,277,123,154
+Cherokee,2-Cherokee Ward 2,Court of Appeals Judge,,,Yes,257,88,169
+Cherokee,3-Cherokee Ward 3,Court of Appeals Judge,,,Yes,277,128,149
+Cherokee,4-Cherokee,Court of Appeals Judge,,,Yes,288,101,187
+Cherokee,5-Aurelia,Court of Appeals Judge,,,Yes,372,77,295
+Cherokee,6 - Quimby,Court of Appeals Judge,,,Yes,232,69,163
+Cherokee,7 - Marcus,Court of Appeals Judge,,,Yes,405,123,282
+Cherokee,1-Cherokee Ward 1,Court of Appeals Judge,,,No,86,29,57
+Cherokee,2-Cherokee Ward 2,Court of Appeals Judge,,,No,77,23,54
+Cherokee,3-Cherokee Ward 3,Court of Appeals Judge,,,No,71,33,38
+Cherokee,4-Cherokee,Court of Appeals Judge,,,No,111,55,56
+Cherokee,5-Aurelia,Court of Appeals Judge,,,No,132,28,104
+Cherokee,6 - Quimby,Court of Appeals Judge,,,No,98,24,74
+Cherokee,7 - Marcus,Court of Appeals Judge,,,No,147,46,101
+Cherokee,1-Cherokee Ward 1,District 3A Judge,,,Yes,287,125,162
+Cherokee,2-Cherokee Ward 2,District 3A Judge,,,Yes,269,91,178
+Cherokee,3-Cherokee Ward 3,District 3A Judge,,,Yes,270,124,146
+Cherokee,4-Cherokee,District 3A Judge,,,Yes,285,96,189
+Cherokee,5-Aurelia,District 3A Judge,,,Yes,376,80,296
+Cherokee,6 - Quimby,District 3A Judge,,,Yes,233,68,165
+Cherokee,7 - Marcus,District 3A Judge,,,Yes,400,125,275
+Cherokee,1-Cherokee Ward 1,District 3A Judge,,,No,85,28,57
+Cherokee,2-Cherokee Ward 2,District 3A Judge,,,No,76,21,55
+Cherokee,3-Cherokee Ward 3,District 3A Judge,,,No,77,37,40
+Cherokee,4-Cherokee,District 3A Judge,,,No,113,57,56
+Cherokee,5-Aurelia,District 3A Judge,,,No,127,23,104
+Cherokee,6 - Quimby,District 3A Judge,,,No,90,23,67
+Cherokee,7 - Marcus,District 3A Judge,,,No,141,42,99
+Cherokee,1-Cherokee Ward 1,District 3A Associate Judge,,,Yes,288,124,164
+Cherokee,2-Cherokee Ward 2,District 3A Associate Judge,,,Yes,262,87,175
+Cherokee,3-Cherokee Ward 3,District 3A Associate Judge,,,Yes,280,130,150
+Cherokee,4-Cherokee,District 3A Associate Judge,,,Yes,289,104,185
+Cherokee,5-Aurelia,District 3A Associate Judge,,,Yes,362,77,285
+Cherokee,6 - Quimby,District 3A Associate Judge,,,Yes,225,67,158
+Cherokee,7 - Marcus,District 3A Associate Judge,,,Yes,398,119,279
+Cherokee,1-Cherokee Ward 1,District 3A Associate Judge,,,No,87,29,58
+Cherokee,2-Cherokee Ward 2,District 3A Associate Judge,,,No,81,24,57
+Cherokee,3-Cherokee Ward 3,District 3A Associate Judge,,,No,69,32,37
+Cherokee,4-Cherokee,District 3A Associate Judge,,,No,105,49,56
+Cherokee,5-Aurelia,District 3A Associate Judge,,,No,139,25,114
+Cherokee,6 - Quimby,District 3A Associate Judge,,,No,99,23,76
+Cherokee,7 - Marcus,District 3A Associate Judge,,,No,145,45,100
+Cherokee,1-Cherokee Ward 1,Constitutional Amendment 1,,,Yes,433,172,261
+Cherokee,2-Cherokee Ward 2,Constitutional Amendment 1,,,Yes,383,119,264
+Cherokee,3-Cherokee Ward 3,Constitutional Amendment 1,,,Yes,416,158,258
+Cherokee,4-Cherokee,Constitutional Amendment 1,,,Yes,603,181,422
+Cherokee,5-Aurelia,Constitutional Amendment 1,,,Yes,582,121,461
+Cherokee,6 - Quimby,Constitutional Amendment 1,,,Yes,419,123,296
+Cherokee,7 - Marcus,Constitutional Amendment 1,,,Yes,676,162,514
+Cherokee,1-Cherokee Ward 1,Constitutional Amendment 1,,,No,111,46,65
+Cherokee,2-Cherokee Ward 2,Constitutional Amendment 1,,,No,99,44,55
+Cherokee,3-Cherokee Ward 3,Constitutional Amendment 1,,,No,99,60,39
+Cherokee,4-Cherokee,Constitutional Amendment 1,,,No,84,45,39
+Cherokee,5-Aurelia,Constitutional Amendment 1,,,No,109,40,69
+Cherokee,6 - Quimby,Constitutional Amendment 1,,,No,57,14,43
+Cherokee,7 - Marcus,Constitutional Amendment 1,,,No,132,69,63

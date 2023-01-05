@@ -1,0 +1,763 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Cass,Atlantic 1,U.S. Senate,,DEM,Michael Franken,140,46,94
+Cass,Atlantic 2,U.S. Senate,,DEM,Michael Franken,128,42,86
+Cass,Atlantic 3,U.S. Senate,,DEM,Michael Franken,186,71,115
+Cass,Atlantic 4,U.S. Senate,,DEM,Michael Franken,182,70,112
+Cass,Atlantic 5,U.S. Senate,,DEM,Michael Franken,200,94,106
+Cass,Bear Grove/Cass/Lewis,U.S. Senate,,DEM,Michael Franken,96,29,67
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,U.S. Senate,,DEM,Michael Franken,208,65,143
+Cass,Brighton/Grove/Pymosa/Washington/Marne,U.S. Senate,,DEM,Michael Franken,106,35,71
+Cass,Noble/Pleasant/Griswold,U.S. Senate,,DEM,Michael Franken,147,46,101
+Cass,Union/Cumberland,U.S. Senate,,DEM,Michael Franken,31,7,24
+Cass,Edna/Victoria/East side of Massena Township,U.S. Senate,,DEM,Michael Franken,25,4,21
+Cass,Westerly side of Massena Township/Massena,U.S. Senate,,DEM,Michael Franken,53,10,43
+Cass,Atlantic 1,U.S. Senate,,REP,Chuck Grassley,204,51,153
+Cass,Atlantic 2,U.S. Senate,,REP,Chuck Grassley,203,52,151
+Cass,Atlantic 3,U.S. Senate,,REP,Chuck Grassley,401,103,298
+Cass,Atlantic 4,U.S. Senate,,REP,Chuck Grassley,374,103,271
+Cass,Atlantic 5,U.S. Senate,,REP,Chuck Grassley,426,150,276
+Cass,Bear Grove/Cass/Lewis,U.S. Senate,,REP,Chuck Grassley,285,39,246
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,U.S. Senate,,REP,Chuck Grassley,511,86,425
+Cass,Brighton/Grove/Pymosa/Washington/Marne,U.S. Senate,,REP,Chuck Grassley,446,108,338
+Cass,Noble/Pleasant/Griswold,U.S. Senate,,REP,Chuck Grassley,454,39,415
+Cass,Union/Cumberland,U.S. Senate,,REP,Chuck Grassley,132,12,120
+Cass,Edna/Victoria/East side of Massena Township,U.S. Senate,,REP,Chuck Grassley,137,20,117
+Cass,Westerly side of Massena Township/Massena,U.S. Senate,,REP,Chuck Grassley,125,9,116
+Cass,Atlantic 1,U.S. Senate,,,Write-in,0,0,0
+Cass,Atlantic 2,U.S. Senate,,,Write-in,0,0,0
+Cass,Atlantic 3,U.S. Senate,,,Write-in,2,1,1
+Cass,Atlantic 4,U.S. Senate,,,Write-in,2,0,2
+Cass,Atlantic 5,U.S. Senate,,,Write-in,0,0,0
+Cass,Bear Grove/Cass/Lewis,U.S. Senate,,,Write-in,2,0,2
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,U.S. Senate,,,Write-in,0,0,0
+Cass,Brighton/Grove/Pymosa/Washington/Marne,U.S. Senate,,,Write-in,0,0,0
+Cass,Noble/Pleasant/Griswold,U.S. Senate,,,Write-in,1,0,1
+Cass,Union/Cumberland,U.S. Senate,,,Write-in,1,0,1
+Cass,Edna/Victoria/East side of Massena Township,U.S. Senate,,,Write-in,0,0,0
+Cass,Westerly side of Massena Township/Massena,U.S. Senate,,,Write-in,1,0,1
+Cass,Atlantic 1,U.S. House,3,DEM,Cindy Axne,142,48,94
+Cass,Atlantic 2,U.S. House,3,DEM,Cindy Axne,121,37,84
+Cass,Atlantic 3,U.S. House,3,DEM,Cindy Axne,200,79,121
+Cass,Atlantic 4,U.S. House,3,DEM,Cindy Axne,191,67,124
+Cass,Atlantic 5,U.S. House,3,DEM,Cindy Axne,230,107,123
+Cass,Bear Grove/Cass/Lewis,U.S. House,3,DEM,Cindy Axne,95,30,65
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,U.S. House,3,DEM,Cindy Axne,223,64,159
+Cass,Brighton/Grove/Pymosa/Washington/Marne,U.S. House,3,DEM,Cindy Axne,112,37,75
+Cass,Noble/Pleasant/Griswold,U.S. House,3,DEM,Cindy Axne,162,46,116
+Cass,Union/Cumberland,U.S. House,3,DEM,Cindy Axne,36,8,28
+Cass,Edna/Victoria/East side of Massena Township,U.S. House,3,DEM,Cindy Axne,33,6,27
+Cass,Westerly side of Massena Township/Massena,U.S. House,3,DEM,Cindy Axne,57,10,47
+Cass,Atlantic 1,U.S. House,3,REP,Zach Nunn,201,50,151
+Cass,Atlantic 2,U.S. House,3,REP,Zach Nunn,207,57,150
+Cass,Atlantic 3,U.S. House,3,REP,Zach Nunn,387,98,289
+Cass,Atlantic 4,U.S. House,3,REP,Zach Nunn,360,105,255
+Cass,Atlantic 5,U.S. House,3,REP,Zach Nunn,396,136,260
+Cass,Bear Grove/Cass/Lewis,U.S. House,3,REP,Zach Nunn,284,37,247
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,U.S. House,3,REP,Zach Nunn,486,84,402
+Cass,Brighton/Grove/Pymosa/Washington/Marne,U.S. House,3,REP,Zach Nunn,438,106,332
+Cass,Noble/Pleasant/Griswold,U.S. House,3,REP,Zach Nunn,441,39,402
+Cass,Union/Cumberland,U.S. House,3,REP,Zach Nunn,131,12,119
+Cass,Edna/Victoria/East side of Massena Township,U.S. House,3,REP,Zach Nunn,128,18,110
+Cass,Westerly side of Massena Township/Massena,U.S. House,3,REP,Zach Nunn,120,9,111
+Cass,Atlantic 1,U.S. House,3,,Write-in,1,0,1
+Cass,Atlantic 2,U.S. House,3,,Write-in,2,1,1
+Cass,Atlantic 3,U.S. House,3,,Write-in,1,0,1
+Cass,Atlantic 4,U.S. House,3,,Write-in,2,0,2
+Cass,Atlantic 5,U.S. House,3,,Write-in,1,0,1
+Cass,Bear Grove/Cass/Lewis,U.S. House,3,,Write-in,2,0,2
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,U.S. House,3,,Write-in,0,0,0
+Cass,Brighton/Grove/Pymosa/Washington/Marne,U.S. House,3,,Write-in,0,0,0
+Cass,Noble/Pleasant/Griswold,U.S. House,3,,Write-in,1,1,0
+Cass,Union/Cumberland,U.S. House,3,,Write-in,1,0,1
+Cass,Edna/Victoria/East side of Massena Township,U.S. House,3,,Write-in,1,0,1
+Cass,Westerly side of Massena Township/Massena,U.S. House,3,,Write-in,0,0,0
+Cass,Atlantic 1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,121,40,81
+Cass,Atlantic 2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,110,33,77
+Cass,Atlantic 3,Governor,,DEM,Deidre DeJear and Eric Van Lancker,168,73,95
+Cass,Atlantic 4,Governor,,DEM,Deidre DeJear and Eric Van Lancker,163,66,97
+Cass,Atlantic 5,Governor,,DEM,Deidre DeJear and Eric Van Lancker,181,88,93
+Cass,Bear Grove/Cass/Lewis,Governor,,DEM,Deidre DeJear and Eric Van Lancker,81,29,52
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Governor,,DEM,Deidre DeJear and Eric Van Lancker,173,55,118
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Governor,,DEM,Deidre DeJear and Eric Van Lancker,89,32,57
+Cass,Noble/Pleasant/Griswold,Governor,,DEM,Deidre DeJear and Eric Van Lancker,121,41,80
+Cass,Union/Cumberland,Governor,,DEM,Deidre DeJear and Eric Van Lancker,26,7,19
+Cass,Edna/Victoria/East side of Massena Township,Governor,,DEM,Deidre DeJear and Eric Van Lancker,23,6,17
+Cass,Westerly side of Massena Township/Massena,Governor,,DEM,Deidre DeJear and Eric Van Lancker,43,8,35
+Cass,Atlantic 1,Governor,,REP,Kim Reynolds and Adam Gregg,212,53,159
+Cass,Atlantic 2,Governor,,REP,Kim Reynolds and Adam Gregg,212,61,151
+Cass,Atlantic 3,Governor,,REP,Kim Reynolds and Adam Gregg,416,105,311
+Cass,Atlantic 4,Governor,,REP,Kim Reynolds and Adam Gregg,401,116,285
+Cass,Atlantic 5,Governor,,REP,Kim Reynolds and Adam Gregg,444,160,284
+Cass,Bear Grove/Cass/Lewis,Governor,,REP,Kim Reynolds and Adam Gregg,295,40,255
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Governor,,REP,Kim Reynolds and Adam Gregg,543,97,446
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Governor,,REP,Kim Reynolds and Adam Gregg,462,111,351
+Cass,Noble/Pleasant/Griswold,Governor,,REP,Kim Reynolds and Adam Gregg,469,43,426
+Cass,Union/Cumberland,Governor,,REP,Kim Reynolds and Adam Gregg,137,13,124
+Cass,Edna/Victoria/East side of Massena Township,Governor,,REP,Kim Reynolds and Adam Gregg,141,20,121
+Cass,Westerly side of Massena Township/Massena,Governor,,REP,Kim Reynolds and Adam Gregg,132,11,121
+Cass,Atlantic 1,Governor,,LIB,Rick Stewart and Marco Battaglia,13,5,8
+Cass,Atlantic 2,Governor,,LIB,Rick Stewart and Marco Battaglia,13,4,9
+Cass,Atlantic 3,Governor,,LIB,Rick Stewart and Marco Battaglia,11,2,9
+Cass,Atlantic 4,Governor,,LIB,Rick Stewart and Marco Battaglia,7,1,6
+Cass,Atlantic 5,Governor,,LIB,Rick Stewart and Marco Battaglia,15,4,11
+Cass,Bear Grove/Cass/Lewis,Governor,,LIB,Rick Stewart and Marco Battaglia,7,0,7
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Governor,,LIB,Rick Stewart and Marco Battaglia,9,1,8
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Governor,,LIB,Rick Stewart and Marco Battaglia,4,0,4
+Cass,Noble/Pleasant/Griswold,Governor,,LIB,Rick Stewart and Marco Battaglia,19,2,17
+Cass,Union/Cumberland,Governor,,LIB,Rick Stewart and Marco Battaglia,4,0,4
+Cass,Edna/Victoria/East side of Massena Township,Governor,,LIB,Rick Stewart and Marco Battaglia,1,0,1
+Cass,Westerly side of Massena Township/Massena,Governor,,LIB,Rick Stewart and Marco Battaglia,6,0,6
+Cass,Atlantic 1,Governor,,,Write-in,0,0,0
+Cass,Atlantic 2,Governor,,,Write-in,0,0,0
+Cass,Atlantic 3,Governor,,,Write-in,0,0,0
+Cass,Atlantic 4,Governor,,,Write-in,0,0,0
+Cass,Atlantic 5,Governor,,,Write-in,0,0,0
+Cass,Bear Grove/Cass/Lewis,Governor,,,Write-in,0,0,0
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Governor,,,Write-in,0,0,0
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Governor,,,Write-in,0,0,0
+Cass,Noble/Pleasant/Griswold,Governor,,,Write-in,0,0,0
+Cass,Union/Cumberland,Governor,,,Write-in,0,0,0
+Cass,Edna/Victoria/East side of Massena Township,Governor,,,Write-in,0,0,0
+Cass,Westerly side of Massena Township/Massena,Governor,,,Write-in,0,0,0
+Cass,Atlantic 1,Secretary of State,,DEM,Joel Miller,126,44,82
+Cass,Atlantic 2,Secretary of State,,DEM,Joel Miller,113,35,78
+Cass,Atlantic 3,Secretary of State,,DEM,Joel Miller,173,68,105
+Cass,Atlantic 4,Secretary of State,,DEM,Joel Miller,162,62,100
+Cass,Atlantic 5,Secretary of State,,DEM,Joel Miller,187,84,103
+Cass,Bear Grove/Cass/Lewis,Secretary of State,,DEM,Joel Miller,91,30,61
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Secretary of State,,DEM,Joel Miller,181,55,126
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Secretary of State,,DEM,Joel Miller,98,33,65
+Cass,Noble/Pleasant/Griswold,Secretary of State,,DEM,Joel Miller,132,44,88
+Cass,Union/Cumberland,Secretary of State,,DEM,Joel Miller,32,7,25
+Cass,Edna/Victoria/East side of Massena Township,Secretary of State,,DEM,Joel Miller,22,8,14
+Cass,Westerly side of Massena Township/Massena,Secretary of State,,DEM,Joel Miller,48,9,39
+Cass,Atlantic 1,Secretary of State,,REP,Paul D. Pate,208,50,158
+Cass,Atlantic 2,Secretary of State,,REP,Paul D. Pate,214,57,157
+Cass,Atlantic 3,Secretary of State,,REP,Paul D. Pate,407,103,304
+Cass,Atlantic 4,Secretary of State,,REP,Paul D. Pate,399,115,284
+Cass,Atlantic 5,Secretary of State,,REP,Paul D. Pate,437,160,277
+Cass,Bear Grove/Cass/Lewis,Secretary of State,,REP,Paul D. Pate,283,38,245
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Secretary of State,,REP,Paul D. Pate,530,94,436
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Secretary of State,,REP,Paul D. Pate,449,108,341
+Cass,Noble/Pleasant/Griswold,Secretary of State,,REP,Paul D. Pate,460,42,418
+Cass,Union/Cumberland,Secretary of State,,REP,Paul D. Pate,133,13,120
+Cass,Edna/Victoria/East side of Massena Township,Secretary of State,,REP,Paul D. Pate,139,17,122
+Cass,Westerly side of Massena Township/Massena,Secretary of State,,REP,Paul D. Pate,130,10,120
+Cass,Atlantic 1,Secretary of State,,,Write-in,0,0,0
+Cass,Atlantic 2,Secretary of State,,,Write-in,0,0,0
+Cass,Atlantic 3,Secretary of State,,,Write-in,1,0,1
+Cass,Atlantic 4,Secretary of State,,,Write-in,0,0,0
+Cass,Atlantic 5,Secretary of State,,,Write-in,0,0,0
+Cass,Bear Grove/Cass/Lewis,Secretary of State,,,Write-in,2,0,2
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Secretary of State,,,Write-in,0,0,0
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Secretary of State,,,Write-in,0,0,0
+Cass,Noble/Pleasant/Griswold,Secretary of State,,,Write-in,0,0,0
+Cass,Union/Cumberland,Secretary of State,,,Write-in,0,0,0
+Cass,Edna/Victoria/East side of Massena Township,Secretary of State,,,Write-in,0,0,0
+Cass,Westerly side of Massena Township/Massena,Secretary of State,,,Write-in,0,0,0
+Cass,Atlantic 1,Auditor of State,,DEM,Rob Sand,124,42,82
+Cass,Atlantic 2,Auditor of State,,DEM,Rob Sand,130,39,91
+Cass,Atlantic 3,Auditor of State,,DEM,Rob Sand,188,70,118
+Cass,Atlantic 4,Auditor of State,,DEM,Rob Sand,197,70,127
+Cass,Atlantic 5,Auditor of State,,DEM,Rob Sand,212,97,115
+Cass,Bear Grove/Cass/Lewis,Auditor of State,,DEM,Rob Sand,97,32,65
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Auditor of State,,DEM,Rob Sand,244,74,170
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Auditor of State,,DEM,Rob Sand,117,34,83
+Cass,Noble/Pleasant/Griswold,Auditor of State,,DEM,Rob Sand,126,42,84
+Cass,Union/Cumberland,Auditor of State,,DEM,Rob Sand,41,8,33
+Cass,Edna/Victoria/East side of Massena Township,Auditor of State,,DEM,Rob Sand,36,9,27
+Cass,Westerly side of Massena Township/Massena,Auditor of State,,DEM,Rob Sand,61,10,51
+Cass,Atlantic 1,Auditor of State,,REP,Todd Halbur,204,50,154
+Cass,Atlantic 2,Auditor of State,,REP,Todd Halbur,198,53,145
+Cass,Atlantic 3,Auditor of State,,REP,Todd Halbur,387,98,289
+Cass,Atlantic 4,Auditor of State,,REP,Todd Halbur,355,105,250
+Cass,Atlantic 5,Auditor of State,,REP,Todd Halbur,401,146,255
+Cass,Bear Grove/Cass/Lewis,Auditor of State,,REP,Todd Halbur,277,36,241
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Auditor of State,,REP,Todd Halbur,459,77,382
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Auditor of State,,REP,Todd Halbur,427,107,320
+Cass,Noble/Pleasant/Griswold,Auditor of State,,REP,Todd Halbur,472,44,428
+Cass,Union/Cumberland,Auditor of State,,REP,Todd Halbur,126,12,114
+Cass,Edna/Victoria/East side of Massena Township,Auditor of State,,REP,Todd Halbur,124,17,107
+Cass,Westerly side of Massena Township/Massena,Auditor of State,,REP,Todd Halbur,114,9,105
+Cass,Atlantic 1,Auditor of State,,,Write-in,0,0,0
+Cass,Atlantic 2,Auditor of State,,,Write-in,0,0,0
+Cass,Atlantic 3,Auditor of State,,,Write-in,1,0,1
+Cass,Atlantic 4,Auditor of State,,,Write-in,1,0,1
+Cass,Atlantic 5,Auditor of State,,,Write-in,0,0,0
+Cass,Bear Grove/Cass/Lewis,Auditor of State,,,Write-in,2,0,2
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Auditor of State,,,Write-in,0,0,0
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Auditor of State,,,Write-in,0,0,0
+Cass,Noble/Pleasant/Griswold,Auditor of State,,,Write-in,0,0,0
+Cass,Union/Cumberland,Auditor of State,,,Write-in,0,0,0
+Cass,Edna/Victoria/East side of Massena Township,Auditor of State,,,Write-in,0,0,0
+Cass,Westerly side of Massena Township/Massena,Auditor of State,,,Write-in,1,0,1
+Cass,Atlantic 1,Treasurer of State,,DEM,Michael L. Fitzgerald,144,49,95
+Cass,Atlantic 2,Treasurer of State,,DEM,Michael L. Fitzgerald,136,41,95
+Cass,Atlantic 3,Treasurer of State,,DEM,Michael L. Fitzgerald,211,80,131
+Cass,Atlantic 4,Treasurer of State,,DEM,Michael L. Fitzgerald,205,77,128
+Cass,Atlantic 5,Treasurer of State,,DEM,Michael L. Fitzgerald,231,102,129
+Cass,Bear Grove/Cass/Lewis,Treasurer of State,,DEM,Michael L. Fitzgerald,114,32,82
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Treasurer of State,,DEM,Michael L. Fitzgerald,270,71,199
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Treasurer of State,,DEM,Michael L. Fitzgerald,129,40,89
+Cass,Noble/Pleasant/Griswold,Treasurer of State,,DEM,Michael L. Fitzgerald,162,48,114
+Cass,Union/Cumberland,Treasurer of State,,DEM,Michael L. Fitzgerald,46,10,36
+Cass,Edna/Victoria/East side of Massena Township,Treasurer of State,,DEM,Michael L. Fitzgerald,43,9,34
+Cass,Westerly side of Massena Township/Massena,Treasurer of State,,DEM,Michael L. Fitzgerald,67,11,56
+Cass,Atlantic 1,Treasurer of State,,REP,Roby Smith,191,47,144
+Cass,Atlantic 2,Treasurer of State,,REP,Roby Smith,192,53,139
+Cass,Atlantic 3,Treasurer of State,,REP,Roby Smith,365,92,273
+Cass,Atlantic 4,Treasurer of State,,REP,Roby Smith,355,103,252
+Cass,Atlantic 5,Treasurer of State,,REP,Roby Smith,385,140,245
+Cass,Bear Grove/Cass/Lewis,Treasurer of State,,REP,Roby Smith,255,33,222
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Treasurer of State,,REP,Roby Smith,436,78,358
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Treasurer of State,,REP,Roby Smith,417,101,316
+Cass,Noble/Pleasant/Griswold,Treasurer of State,,REP,Roby Smith,423,36,387
+Cass,Union/Cumberland,Treasurer of State,,REP,Roby Smith,122,10,112
+Cass,Edna/Victoria/East side of Massena Township,Treasurer of State,,REP,Roby Smith,117,17,100
+Cass,Westerly side of Massena Township/Massena,Treasurer of State,,REP,Roby Smith,108,8,100
+Cass,Atlantic 1,Treasurer of State,,,Write-in,0,0,0
+Cass,Atlantic 2,Treasurer of State,,,Write-in,0,0,0
+Cass,Atlantic 3,Treasurer of State,,,Write-in,1,0,1
+Cass,Atlantic 4,Treasurer of State,,,Write-in,0,0,0
+Cass,Atlantic 5,Treasurer of State,,,Write-in,0,0,0
+Cass,Bear Grove/Cass/Lewis,Treasurer of State,,,Write-in,0,0,0
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Treasurer of State,,,Write-in,0,0,0
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Treasurer of State,,,Write-in,0,0,0
+Cass,Noble/Pleasant/Griswold,Treasurer of State,,,Write-in,0,0,0
+Cass,Union/Cumberland,Treasurer of State,,,Write-in,0,0,0
+Cass,Edna/Victoria/East side of Massena Township,Treasurer of State,,,Write-in,0,0,0
+Cass,Westerly side of Massena Township/Massena,Treasurer of State,,,Write-in,0,0,0
+Cass,Atlantic 1,Secretary of Agriculture,,DEM,John Norwood,118,43,75
+Cass,Atlantic 2,Secretary of Agriculture,,DEM,John Norwood,108,34,74
+Cass,Atlantic 3,Secretary of Agriculture,,DEM,John Norwood,163,64,99
+Cass,Atlantic 4,Secretary of Agriculture,,DEM,John Norwood,156,61,95
+Cass,Atlantic 5,Secretary of Agriculture,,DEM,John Norwood,181,81,100
+Cass,Bear Grove/Cass/Lewis,Secretary of Agriculture,,DEM,John Norwood,78,28,50
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Secretary of Agriculture,,DEM,John Norwood,171,52,119
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Secretary of Agriculture,,DEM,John Norwood,92,31,61
+Cass,Noble/Pleasant/Griswold,Secretary of Agriculture,,DEM,John Norwood,119,40,79
+Cass,Union/Cumberland,Secretary of Agriculture,,DEM,John Norwood,31,8,23
+Cass,Edna/Victoria/East side of Massena Township,Secretary of Agriculture,,DEM,John Norwood,20,7,13
+Cass,Westerly side of Massena Township/Massena,Secretary of Agriculture,,DEM,John Norwood,43,6,37
+Cass,Atlantic 1,Secretary of Agriculture,,REP,Mike Naig,215,50,165
+Cass,Atlantic 2,Secretary of Agriculture,,REP,Mike Naig,213,59,154
+Cass,Atlantic 3,Secretary of Agriculture,,REP,Mike Naig,407,103,304
+Cass,Atlantic 4,Secretary of Agriculture,,REP,Mike Naig,397,114,283
+Cass,Atlantic 5,Secretary of Agriculture,,REP,Mike Naig,437,159,278
+Cass,Bear Grove/Cass/Lewis,Secretary of Agriculture,,REP,Mike Naig,295,40,255
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Secretary of Agriculture,,REP,Mike Naig,535,97,438
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Secretary of Agriculture,,REP,Mike Naig,454,111,343
+Cass,Noble/Pleasant/Griswold,Secretary of Agriculture,,REP,Mike Naig,470,45,425
+Cass,Union/Cumberland,Secretary of Agriculture,,REP,Mike Naig,137,12,125
+Cass,Edna/Victoria/East side of Massena Township,Secretary of Agriculture,,REP,Mike Naig,140,19,121
+Cass,Westerly side of Massena Township/Massena,Secretary of Agriculture,,REP,Mike Naig,131,13,118
+Cass,Atlantic 1,Secretary of Agriculture,,,Write-in,0,0,0
+Cass,Atlantic 2,Secretary of Agriculture,,,Write-in,1,0,1
+Cass,Atlantic 3,Secretary of Agriculture,,,Write-in,1,0,1
+Cass,Atlantic 4,Secretary of Agriculture,,,Write-in,0,0,0
+Cass,Atlantic 5,Secretary of Agriculture,,,Write-in,0,0,0
+Cass,Bear Grove/Cass/Lewis,Secretary of Agriculture,,,Write-in,2,0,2
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Secretary of Agriculture,,,Write-in,1,0,1
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Secretary of Agriculture,,,Write-in,0,0,0
+Cass,Noble/Pleasant/Griswold,Secretary of Agriculture,,,Write-in,0,0,0
+Cass,Union/Cumberland,Secretary of Agriculture,,,Write-in,0,0,0
+Cass,Edna/Victoria/East side of Massena Township,Secretary of Agriculture,,,Write-in,0,0,0
+Cass,Westerly side of Massena Township/Massena,Secretary of Agriculture,,,Write-in,0,0,0
+Cass,Atlantic 1,Attorney General,,DEM,Tom Miller,145,47,98
+Cass,Atlantic 2,Attorney General,,DEM,Tom Miller,129,39,90
+Cass,Atlantic 3,Attorney General,,DEM,Tom Miller,196,78,118
+Cass,Atlantic 4,Attorney General,,DEM,Tom Miller,191,73,118
+Cass,Atlantic 5,Attorney General,,DEM,Tom Miller,228,100,128
+Cass,Bear Grove/Cass/Lewis,Attorney General,,DEM,Tom Miller,108,33,75
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Attorney General,,DEM,Tom Miller,245,70,175
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Attorney General,,DEM,Tom Miller,115,40,75
+Cass,Noble/Pleasant/Griswold,Attorney General,,DEM,Tom Miller,142,45,97
+Cass,Union/Cumberland,Attorney General,,DEM,Tom Miller,37,7,30
+Cass,Edna/Victoria/East side of Massena Township,Attorney General,,DEM,Tom Miller,40,9,31
+Cass,Westerly side of Massena Township/Massena,Attorney General,,DEM,Tom Miller,59,11,48
+Cass,Atlantic 1,Attorney General,,REP,Brenna Bird,194,49,145
+Cass,Atlantic 2,Attorney General,,REP,Brenna Bird,196,54,142
+Cass,Atlantic 3,Attorney General,,REP,Brenna Bird,379,95,284
+Cass,Atlantic 4,Attorney General,,REP,Brenna Bird,369,107,262
+Cass,Atlantic 5,Attorney General,,REP,Brenna Bird,396,144,252
+Cass,Bear Grove/Cass/Lewis,Attorney General,,REP,Brenna Bird,271,36,235
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Attorney General,,REP,Brenna Bird,457,79,378
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Attorney General,,REP,Brenna Bird,432,100,332
+Cass,Noble/Pleasant/Griswold,Attorney General,,REP,Brenna Bird,439,39,400
+Cass,Union/Cumberland,Attorney General,,REP,Brenna Bird,127,13,114
+Cass,Edna/Victoria/East side of Massena Township,Attorney General,,REP,Brenna Bird,120,16,104
+Cass,Westerly side of Massena Township/Massena,Attorney General,,REP,Brenna Bird,118,8,110
+Cass,Atlantic 1,Attorney General,,,Write-in,0,0,0
+Cass,Atlantic 2,Attorney General,,,Write-in,0,0,0
+Cass,Atlantic 3,Attorney General,,,Write-in,0,0,0
+Cass,Atlantic 4,Attorney General,,,Write-in,1,1,0
+Cass,Atlantic 5,Attorney General,,,Write-in,0,0,0
+Cass,Bear Grove/Cass/Lewis,Attorney General,,,Write-in,1,0,1
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Attorney General,,,Write-in,2,0,2
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Attorney General,,,Write-in,0,0,0
+Cass,Noble/Pleasant/Griswold,Attorney General,,,Write-in,0,0,0
+Cass,Union/Cumberland,Attorney General,,,Write-in,1,0,1
+Cass,Edna/Victoria/East side of Massena Township,Attorney General,,,Write-in,0,0,0
+Cass,Westerly side of Massena Township/Massena,Attorney General,,,Write-in,0,0,0
+Cass,Atlantic 1,State Senate,9,DEM,Tripp Narup,117,39,78
+Cass,Atlantic 2,State Senate,9,DEM,Tripp Narup,110,35,75
+Cass,Atlantic 3,State Senate,9,DEM,Tripp Narup,153,63,90
+Cass,Atlantic 4,State Senate,9,DEM,Tripp Narup,140,56,84
+Cass,Atlantic 5,State Senate,9,DEM,Tripp Narup,167,78,89
+Cass,Bear Grove/Cass/Lewis,State Senate,9,DEM,Tripp Narup,73,27,46
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,State Senate,9,DEM,Tripp Narup,154,52,102
+Cass,Brighton/Grove/Pymosa/Washington/Marne,State Senate,9,DEM,Tripp Narup,87,31,56
+Cass,Noble/Pleasant/Griswold,State Senate,9,DEM,Tripp Narup,126,41,85
+Cass,Union/Cumberland,State Senate,9,DEM,Tripp Narup,26,7,19
+Cass,Edna/Victoria/East side of Massena Township,State Senate,9,DEM,Tripp Narup,23,7,16
+Cass,Westerly side of Massena Township/Massena,State Senate,9,DEM,Tripp Narup,36,5,31
+Cass,Atlantic 1,State Senate,9,REP,Tom Shipley,217,53,164
+Cass,Atlantic 2,State Senate,9,REP,Tom Shipley,216,59,157
+Cass,Atlantic 3,State Senate,9,REP,Tom Shipley,423,108,315
+Cass,Atlantic 4,State Senate,9,REP,Tom Shipley,420,125,295
+Cass,Atlantic 5,State Senate,9,REP,Tom Shipley,455,164,291
+Cass,Bear Grove/Cass/Lewis,State Senate,9,REP,Tom Shipley,305,41,264
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,State Senate,9,REP,Tom Shipley,549,93,456
+Cass,Brighton/Grove/Pymosa/Washington/Marne,State Senate,9,REP,Tom Shipley,462,112,350
+Cass,Noble/Pleasant/Griswold,State Senate,9,REP,Tom Shipley,470,44,426
+Cass,Union/Cumberland,State Senate,9,REP,Tom Shipley,142,13,129
+Cass,Edna/Victoria/East side of Massena Township,State Senate,9,REP,Tom Shipley,141,19,122
+Cass,Westerly side of Massena Township/Massena,State Senate,9,REP,Tom Shipley,141,14,127
+Cass,Atlantic 1,State Senate,9,,Write-in,0,0,0
+Cass,Atlantic 2,State Senate,9,,Write-in,0,0,0
+Cass,Atlantic 3,State Senate,9,,Write-in,0,0,0
+Cass,Atlantic 4,State Senate,9,,Write-in,2,0,2
+Cass,Atlantic 5,State Senate,9,,Write-in,0,0,0
+Cass,Bear Grove/Cass/Lewis,State Senate,9,,Write-in,0,0,0
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,State Senate,9,,Write-in,0,0,0
+Cass,Brighton/Grove/Pymosa/Washington/Marne,State Senate,9,,Write-in,0,0,0
+Cass,Noble/Pleasant/Griswold,State Senate,9,,Write-in,0,0,0
+Cass,Union/Cumberland,State Senate,9,,Write-in,0,0,0
+Cass,Edna/Victoria/East side of Massena Township,State Senate,9,,Write-in,0,0,0
+Cass,Westerly side of Massena Township/Massena,State Senate,9,,Write-in,0,0,0
+Cass,Atlantic 1,State House,18,REP,Thomas Jay Moore,246,59,187
+Cass,Atlantic 2,State House,18,REP,Thomas Jay Moore,245,55,190
+Cass,Atlantic 3,State House,18,REP,Thomas Jay Moore,480,125,355
+Cass,Atlantic 4,State House,18,REP,Thomas Jay Moore,446,125,321
+Cass,Atlantic 5,State House,18,REP,Thomas Jay Moore,501,183,318
+Cass,Bear Grove/Cass/Lewis,State House,18,REP,Thomas Jay Moore,322,42,280
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,State House,18,REP,Thomas Jay Moore,586,103,483
+Cass,Brighton/Grove/Pymosa/Washington/Marne,State House,18,REP,Thomas Jay Moore,470,111,359
+Cass,Noble/Pleasant/Griswold,State House,18,REP,Thomas Jay Moore,508,54,454
+Cass,Union/Cumberland,State House,18,REP,Thomas Jay Moore,138,12,126
+Cass,Edna/Victoria/East side of Massena Township,State House,18,REP,Thomas Jay Moore,133,20,113
+Cass,Westerly side of Massena Township/Massena,State House,18,REP,Thomas Jay Moore,144,11,133
+Cass,Atlantic 1,State House,18,,Write-in,4,0,4
+Cass,Atlantic 2,State House,18,,Write-in,9,1,8
+Cass,Atlantic 3,State House,18,,Write-in,7,1,6
+Cass,Atlantic 4,State House,18,,Write-in,9,2,7
+Cass,Atlantic 5,State House,18,,Write-in,2,1,1
+Cass,Bear Grove/Cass/Lewis,State House,18,,Write-in,4,3,1
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,State House,18,,Write-in,6,2,4
+Cass,Brighton/Grove/Pymosa/Washington/Marne,State House,18,,Write-in,10,6,4
+Cass,Noble/Pleasant/Griswold,State House,18,,Write-in,12,1,11
+Cass,Union/Cumberland,State House,18,,Write-in,3,1,2
+Cass,Edna/Victoria/East side of Massena Township,State House,18,,Write-in,1,1,0
+Cass,Westerly side of Massena Township/Massena,State House,18,,Write-in,1,0,1
+Cass,Atlantic 2,County Board of Supervisors District 2,,REP,Mark O'Brien,264,64,200
+Cass,Atlantic 3,County Board of Supervisors District 2,,REP,Mark O'Brien,462,126,336
+Cass,Atlantic 2,County Board of Supervisors District 2,,,Write-in,6,1,5
+Cass,Atlantic 3,County Board of Supervisors District 2,,,Write-in,19,3,16
+Cass,Atlantic 4,County Board of Supervisors District 3,,REP,Wendy Richter,476,149,327
+Cass,Atlantic 5,County Board of Supervisors District 3,,REP,Wendy Richter,526,195,331
+Cass,Atlantic 4,County Board of Supervisors District 3,,,Write-in,9,0,9
+Cass,Atlantic 5,County Board of Supervisors District 3,,,Write-in,7,1,6
+Cass,Atlantic 1,County Treasurer,,REP,Tracey J Marshall,241,57,184
+Cass,Atlantic 2,County Treasurer,,REP,Tracey J Marshall,238,59,179
+Cass,Atlantic 3,County Treasurer,,REP,Tracey J Marshall,435,115,320
+Cass,Atlantic 4,County Treasurer,,REP,Tracey J Marshall,429,136,293
+Cass,Atlantic 5,County Treasurer,,REP,Tracey J Marshall,505,182,323
+Cass,Bear Grove/Cass/Lewis,County Treasurer,,REP,Tracey J Marshall,274,41,233
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Treasurer,,REP,Tracey J Marshall,521,92,429
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Treasurer,,REP,Tracey J Marshall,430,111,319
+Cass,Noble/Pleasant/Griswold,County Treasurer,,REP,Tracey J Marshall,498,52,446
+Cass,Union/Cumberland,County Treasurer,,REP,Tracey J Marshall,111,9,102
+Cass,Edna/Victoria/East side of Massena Township,County Treasurer,,REP,Tracey J Marshall,119,19,100
+Cass,Westerly side of Massena Township/Massena,County Treasurer,,REP,Tracey J Marshall,121,13,108
+Cass,Atlantic 1,County Treasurer,,,Write-in,11,4,7
+Cass,Atlantic 2,County Treasurer,,,Write-in,13,1,12
+Cass,Atlantic 3,County Treasurer,,,Write-in,19,2,17
+Cass,Atlantic 4,County Treasurer,,,Write-in,16,7,9
+Cass,Atlantic 5,County Treasurer,,,Write-in,9,5,4
+Cass,Bear Grove/Cass/Lewis,County Treasurer,,,Write-in,21,3,18
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Treasurer,,,Write-in,30,6,24
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Treasurer,,,Write-in,15,3,12
+Cass,Noble/Pleasant/Griswold,County Treasurer,,,Write-in,18,3,15
+Cass,Union/Cumberland,County Treasurer,,,Write-in,9,2,7
+Cass,Edna/Victoria/East side of Massena Township,County Treasurer,,,Write-in,2,1,1
+Cass,Westerly side of Massena Township/Massena,County Treasurer,,,Write-in,11,0,11
+Cass,Atlantic 1,County Recorder,,REP,Mary Ward,269,69,200
+Cass,Atlantic 2,County Recorder,,REP,Mary Ward,266,64,202
+Cass,Atlantic 3,County Recorder,,REP,Mary Ward,478,127,351
+Cass,Atlantic 4,County Recorder,,REP,Mary Ward,473,141,332
+Cass,Atlantic 5,County Recorder,,REP,Mary Ward,529,195,334
+Cass,Bear Grove/Cass/Lewis,County Recorder,,REP,Mary Ward,320,45,275
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Recorder,,REP,Mary Ward,610,110,500
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Recorder,,REP,Mary Ward,485,120,365
+Cass,Noble/Pleasant/Griswold,County Recorder,,REP,Mary Ward,514,59,455
+Cass,Union/Cumberland,County Recorder,,REP,Mary Ward,139,13,126
+Cass,Edna/Victoria/East side of Massena Township,County Recorder,,REP,Mary Ward,139,21,118
+Cass,Westerly side of Massena Township/Massena,County Recorder,,REP,Mary Ward,144,13,131
+Cass,Atlantic 1,County Recorder,,,Write-in,4,1,3
+Cass,Atlantic 2,County Recorder,,,Write-in,4,0,4
+Cass,Atlantic 3,County Recorder,,,Write-in,5,0,5
+Cass,Atlantic 4,County Recorder,,,Write-in,3,0,3
+Cass,Atlantic 5,County Recorder,,,Write-in,2,0,2
+Cass,Bear Grove/Cass/Lewis,County Recorder,,,Write-in,3,1,2
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Recorder,,,Write-in,5,2,3
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Recorder,,,Write-in,5,3,2
+Cass,Noble/Pleasant/Griswold,County Recorder,,,Write-in,9,0,9
+Cass,Union/Cumberland,County Recorder,,,Write-in,2,0,2
+Cass,Edna/Victoria/East side of Massena Township,County Recorder,,,Write-in,1,1,0
+Cass,Westerly side of Massena Township/Massena,County Recorder,,,Write-in,1,0,1
+Cass,Atlantic 1,County Attorney,,REP,Vanessa E Strazdas,248,61,187
+Cass,Atlantic 2,County Attorney,,REP,Vanessa E Strazdas,246,59,187
+Cass,Atlantic 3,County Attorney,,REP,Vanessa E Strazdas,452,121,331
+Cass,Atlantic 4,County Attorney,,REP,Vanessa E Strazdas,438,133,305
+Cass,Atlantic 5,County Attorney,,REP,Vanessa E Strazdas,491,182,309
+Cass,Bear Grove/Cass/Lewis,County Attorney,,REP,Vanessa E Strazdas,295,38,257
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Attorney,,REP,Vanessa E Strazdas,538,92,446
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Attorney,,REP,Vanessa E Strazdas,429,103,326
+Cass,Noble/Pleasant/Griswold,County Attorney,,REP,Vanessa E Strazdas,482,43,439
+Cass,Union/Cumberland,County Attorney,,REP,Vanessa E Strazdas,118,10,108
+Cass,Edna/Victoria/East side of Massena Township,County Attorney,,REP,Vanessa E Strazdas,112,20,92
+Cass,Westerly side of Massena Township/Massena,County Attorney,,REP,Vanessa E Strazdas,108,10,98
+Cass,Atlantic 1,County Attorney,,,Write-in,9,3,6
+Cass,Atlantic 2,County Attorney,,,Write-in,11,1,10
+Cass,Atlantic 3,County Attorney,,,Write-in,17,5,12
+Cass,Atlantic 4,County Attorney,,,Write-in,9,1,8
+Cass,Atlantic 5,County Attorney,,,Write-in,7,1,6
+Cass,Bear Grove/Cass/Lewis,County Attorney,,,Write-in,9,1,8
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Attorney,,,Write-in,15,2,13
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Attorney,,,Write-in,13,9,4
+Cass,Noble/Pleasant/Griswold,County Attorney,,,Write-in,13,2,11
+Cass,Union/Cumberland,County Attorney,,,Write-in,6,1,5
+Cass,Edna/Victoria/East side of Massena Township,County Attorney,,,Write-in,5,1,4
+Cass,Westerly side of Massena Township/Massena,County Attorney,,,Write-in,6,0,6
+Cass,Atlantic 1,County Auditor To Fill a Vacancy,,REP,Kathy Somers,251,64,187
+Cass,Atlantic 2,County Auditor To Fill a Vacancy,,REP,Kathy Somers,239,58,181
+Cass,Atlantic 3,County Auditor To Fill a Vacancy,,REP,Kathy Somers,446,120,326
+Cass,Atlantic 4,County Auditor To Fill a Vacancy,,REP,Kathy Somers,416,127,289
+Cass,Atlantic 5,County Auditor To Fill a Vacancy,,REP,Kathy Somers,481,176,305
+Cass,Bear Grove/Cass/Lewis,County Auditor To Fill a Vacancy,,REP,Kathy Somers,295,46,249
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Auditor To Fill a Vacancy,,REP,Kathy Somers,570,104,466
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Auditor To Fill a Vacancy,,REP,Kathy Somers,433,110,323
+Cass,Noble/Pleasant/Griswold,County Auditor To Fill a Vacancy,,REP,Kathy Somers,480,44,436
+Cass,Union/Cumberland,County Auditor To Fill a Vacancy,,REP,Kathy Somers,120,13,107
+Cass,Edna/Victoria/East side of Massena Township,County Auditor To Fill a Vacancy,,REP,Kathy Somers,124,19,105
+Cass,Westerly side of Massena Township/Massena,County Auditor To Fill a Vacancy,,REP,Kathy Somers,123,9,114
+Cass,Atlantic 1,County Auditor To Fill a Vacancy,,,Write-in,10,3,7
+Cass,Atlantic 2,County Auditor To Fill a Vacancy,,,Write-in,22,5,17
+Cass,Atlantic 3,County Auditor To Fill a Vacancy,,,Write-in,31,13,18
+Cass,Atlantic 4,County Auditor To Fill a Vacancy,,,Write-in,25,6,19
+Cass,Atlantic 5,County Auditor To Fill a Vacancy,,,Write-in,24,10,14
+Cass,Bear Grove/Cass/Lewis,County Auditor To Fill a Vacancy,,,Write-in,18,2,16
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Auditor To Fill a Vacancy,,,Write-in,16,8,8
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Auditor To Fill a Vacancy,,,Write-in,24,5,19
+Cass,Noble/Pleasant/Griswold,County Auditor To Fill a Vacancy,,,Write-in,22,6,16
+Cass,Union/Cumberland,County Auditor To Fill a Vacancy,,,Write-in,5,0,5
+Cass,Edna/Victoria/East side of Massena Township,County Auditor To Fill a Vacancy,,,Write-in,3,2,1
+Cass,Westerly side of Massena Township/Massena,County Auditor To Fill a Vacancy,,,Write-in,7,0,7
+Cass,Edna/Victoria/East side of Massena Township,Edna Township Trustee,,,Kevin A Stender,41,7,34
+Cass,Edna/Victoria/East side of Massena Township,Edna Township Trustee,,,Pat Erickson,42,9,33
+Cass,Edna/Victoria/East side of Massena Township,Edna Township Trustee,,,Write-in,0,0,0
+Cass,Edna/Victoria/East side of Massena Township,Edna Township Clerk,,,Travis Erickson,41,8,33
+Cass,Edna/Victoria/East side of Massena Township,Edna Township Clerk,,,Write-in,1,1,0
+Cass,Union/Cumberland,Union Township Trustee,,,Clarke Gerlock,69,8,61
+Cass,Union/Cumberland,Union Township Trustee,,,Richard Hoffman,60,6,54
+Cass,Union/Cumberland,Union Township Trustee,,,Write-in,3,1,2
+Cass,Union/Cumberland,Union Township Clerk,,,Cheryl Christensen,77,9,68
+Cass,Union/Cumberland,Union Township Clerk,,,Write-in,2,1,1
+Cass,Atlantic 1,Hospital Trustee,,,Joanne Lorence,188,52,136
+Cass,Atlantic 2,Hospital Trustee,,,Joanne Lorence,172,51,121
+Cass,Atlantic 3,Hospital Trustee,,,Joanne Lorence,366,106,260
+Cass,Atlantic 4,Hospital Trustee,,,Joanne Lorence,326,103,223
+Cass,Atlantic 5,Hospital Trustee,,,Joanne Lorence,390,133,257
+Cass,Bear Grove/Cass/Lewis,Hospital Trustee,,,Joanne Lorence,199,35,164
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Hospital Trustee,,,Joanne Lorence,389,78,311
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Hospital Trustee,,,Joanne Lorence,291,59,232
+Cass,Noble/Pleasant/Griswold,Hospital Trustee,,,Joanne Lorence,327,48,279
+Cass,Union/Cumberland,Hospital Trustee,,,Joanne Lorence,86,7,79
+Cass,Edna/Victoria/East side of Massena Township,Hospital Trustee,,,Joanne Lorence,83,12,71
+Cass,Westerly side of Massena Township/Massena,Hospital Trustee,,,Joanne Lorence,101,7,94
+Cass,Atlantic 1,Hospital Trustee,,,Julie Pollock,191,51,140
+Cass,Atlantic 2,Hospital Trustee,,,Julie Pollock,184,48,136
+Cass,Atlantic 3,Hospital Trustee,,,Julie Pollock,344,96,248
+Cass,Atlantic 4,Hospital Trustee,,,Julie Pollock,335,100,235
+Cass,Atlantic 5,Hospital Trustee,,,Julie Pollock,381,129,252
+Cass,Bear Grove/Cass/Lewis,Hospital Trustee,,,Julie Pollock,203,34,169
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Hospital Trustee,,,Julie Pollock,558,106,452
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Hospital Trustee,,,Julie Pollock,297,63,234
+Cass,Noble/Pleasant/Griswold,Hospital Trustee,,,Julie Pollock,344,42,302
+Cass,Union/Cumberland,Hospital Trustee,,,Julie Pollock,89,8,81
+Cass,Edna/Victoria/East side of Massena Township,Hospital Trustee,,,Julie Pollock,85,12,73
+Cass,Westerly side of Massena Township/Massena,Hospital Trustee,,,Julie Pollock,104,8,96
+Cass,Atlantic 1,Hospital Trustee,,,Roger Herring,220,59,161
+Cass,Atlantic 2,Hospital Trustee,,,Roger Herring,217,61,156
+Cass,Atlantic 3,Hospital Trustee,,,Roger Herring,407,118,289
+Cass,Atlantic 4,Hospital Trustee,,,Roger Herring,413,123,290
+Cass,Atlantic 5,Hospital Trustee,,,Roger Herring,449,158,291
+Cass,Bear Grove/Cass/Lewis,Hospital Trustee,,,Roger Herring,235,41,194
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Hospital Trustee,,,Roger Herring,444,88,356
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Hospital Trustee,,,Roger Herring,412,90,322
+Cass,Noble/Pleasant/Griswold,Hospital Trustee,,,Roger Herring,371,47,324
+Cass,Union/Cumberland,Hospital Trustee,,,Roger Herring,88,9,79
+Cass,Edna/Victoria/East side of Massena Township,Hospital Trustee,,,Roger Herring,87,12,75
+Cass,Westerly side of Massena Township/Massena,Hospital Trustee,,,Roger Herring,98,7,91
+Cass,Atlantic 1,Hospital Trustee,,,Mike Klocke,170,44,126
+Cass,Atlantic 2,Hospital Trustee,,,Mike Klocke,152,43,109
+Cass,Atlantic 3,Hospital Trustee,,,Mike Klocke,306,87,219
+Cass,Atlantic 4,Hospital Trustee,,,Mike Klocke,288,91,197
+Cass,Atlantic 5,Hospital Trustee,,,Mike Klocke,346,110,236
+Cass,Bear Grove/Cass/Lewis,Hospital Trustee,,,Mike Klocke,190,32,158
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Hospital Trustee,,,Mike Klocke,412,76,336
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Hospital Trustee,,,Mike Klocke,266,57,209
+Cass,Noble/Pleasant/Griswold,Hospital Trustee,,,Mike Klocke,308,42,266
+Cass,Union/Cumberland,Hospital Trustee,,,Mike Klocke,86,8,78
+Cass,Edna/Victoria/East side of Massena Township,Hospital Trustee,,,Mike Klocke,110,15,95
+Cass,Westerly side of Massena Township/Massena,Hospital Trustee,,,Mike Klocke,140,13,127
+Cass,Atlantic 1,Hospital Trustee,,,Write-in,2,0,2
+Cass,Atlantic 2,Hospital Trustee,,,Write-in,3,0,3
+Cass,Atlantic 3,Hospital Trustee,,,Write-in,5,0,5
+Cass,Atlantic 4,Hospital Trustee,,,Write-in,2,1,1
+Cass,Atlantic 5,Hospital Trustee,,,Write-in,3,3,0
+Cass,Bear Grove/Cass/Lewis,Hospital Trustee,,,Write-in,3,1,2
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Hospital Trustee,,,Write-in,4,1,3
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Hospital Trustee,,,Write-in,9,0,9
+Cass,Noble/Pleasant/Griswold,Hospital Trustee,,,Write-in,8,0,8
+Cass,Union/Cumberland,Hospital Trustee,,,Write-in,1,0,1
+Cass,Edna/Victoria/East side of Massena Township,Hospital Trustee,,,Write-in,1,1,0
+Cass,Westerly side of Massena Township/Massena,Hospital Trustee,,,Write-in,2,0,2
+Cass,Atlantic 1,Soil and Water Conservation District Commissioner,,,John J Hansen,175,49,126
+Cass,Atlantic 2,Soil and Water Conservation District Commissioner,,,John J Hansen,160,42,118
+Cass,Atlantic 3,Soil and Water Conservation District Commissioner,,,John J Hansen,320,92,228
+Cass,Atlantic 4,Soil and Water Conservation District Commissioner,,,John J Hansen,308,91,217
+Cass,Atlantic 5,Soil and Water Conservation District Commissioner,,,John J Hansen,345,116,229
+Cass,Bear Grove/Cass/Lewis,Soil and Water Conservation District Commissioner,,,John J Hansen,204,37,167
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Soil and Water Conservation District Commissioner,,,John J Hansen,439,82,357
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Soil and Water Conservation District Commissioner,,,John J Hansen,326,71,255
+Cass,Noble/Pleasant/Griswold,Soil and Water Conservation District Commissioner,,,John J Hansen,344,48,296
+Cass,Union/Cumberland,Soil and Water Conservation District Commissioner,,,John J Hansen,96,8,88
+Cass,Edna/Victoria/East side of Massena Township,Soil and Water Conservation District Commissioner,,,John J Hansen,99,14,85
+Cass,Westerly side of Massena Township/Massena,Soil and Water Conservation District Commissioner,,,John J Hansen,117,6,111
+Cass,Atlantic 1,Soil and Water Conservation District Commissioner,,,Gregory D Zellmer,241,64,177
+Cass,Atlantic 2,Soil and Water Conservation District Commissioner,,,Gregory D Zellmer,233,60,173
+Cass,Atlantic 3,Soil and Water Conservation District Commissioner,,,Gregory D Zellmer,425,130,295
+Cass,Atlantic 4,Soil and Water Conservation District Commissioner,,,Gregory D Zellmer,423,132,291
+Cass,Atlantic 5,Soil and Water Conservation District Commissioner,,,Gregory D Zellmer,467,170,297
+Cass,Bear Grove/Cass/Lewis,Soil and Water Conservation District Commissioner,,,Gregory D Zellmer,271,46,225
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Soil and Water Conservation District Commissioner,,,Gregory D Zellmer,541,104,437
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Soil and Water Conservation District Commissioner,,,Gregory D Zellmer,440,101,339
+Cass,Noble/Pleasant/Griswold,Soil and Water Conservation District Commissioner,,,Gregory D Zellmer,414,55,359
+Cass,Union/Cumberland,Soil and Water Conservation District Commissioner,,,Gregory D Zellmer,111,13,98
+Cass,Edna/Victoria/East side of Massena Township,Soil and Water Conservation District Commissioner,,,Gregory D Zellmer,118,15,103
+Cass,Westerly side of Massena Township/Massena,Soil and Water Conservation District Commissioner,,,Gregory D Zellmer,122,9,113
+Cass,Atlantic 1,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Cass,Atlantic 2,Soil and Water Conservation District Commissioner,,,Write-in,3,0,3
+Cass,Atlantic 3,Soil and Water Conservation District Commissioner,,,Write-in,2,1,1
+Cass,Atlantic 4,Soil and Water Conservation District Commissioner,,,Write-in,1,1,0
+Cass,Atlantic 5,Soil and Water Conservation District Commissioner,,,Write-in,3,2,1
+Cass,Bear Grove/Cass/Lewis,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Soil and Water Conservation District Commissioner,,,Write-in,1,1,0
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Soil and Water Conservation District Commissioner,,,Write-in,3,1,2
+Cass,Noble/Pleasant/Griswold,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Cass,Union/Cumberland,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Cass,Edna/Victoria/East side of Massena Township,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Cass,Westerly side of Massena Township/Massena,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Cass,Atlantic 1,County Agricultural Extension Council Member,,,Jeb Peck,161,42,119
+Cass,Atlantic 2,County Agricultural Extension Council Member,,,Jeb Peck,162,44,118
+Cass,Atlantic 3,County Agricultural Extension Council Member,,,Jeb Peck,320,88,232
+Cass,Atlantic 4,County Agricultural Extension Council Member,,,Jeb Peck,304,94,210
+Cass,Atlantic 5,County Agricultural Extension Council Member,,,Jeb Peck,332,105,227
+Cass,Bear Grove/Cass/Lewis,County Agricultural Extension Council Member,,,Jeb Peck,228,39,189
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Agricultural Extension Council Member,,,Jeb Peck,381,64,317
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Agricultural Extension Council Member,,,Jeb Peck,284,63,221
+Cass,Noble/Pleasant/Griswold,County Agricultural Extension Council Member,,,Jeb Peck,456,61,395
+Cass,Union/Cumberland,County Agricultural Extension Council Member,,,Jeb Peck,86,8,78
+Cass,Edna/Victoria/East side of Massena Township,County Agricultural Extension Council Member,,,Jeb Peck,85,12,73
+Cass,Westerly side of Massena Township/Massena,County Agricultural Extension Council Member,,,Jeb Peck,104,6,98
+Cass,Atlantic 1,County Agricultural Extension Council Member,,,David York,166,46,120
+Cass,Atlantic 2,County Agricultural Extension Council Member,,,David York,161,47,114
+Cass,Atlantic 3,County Agricultural Extension Council Member,,,David York,323,92,231
+Cass,Atlantic 4,County Agricultural Extension Council Member,,,David York,316,97,219
+Cass,Atlantic 5,County Agricultural Extension Council Member,,,David York,350,116,234
+Cass,Bear Grove/Cass/Lewis,County Agricultural Extension Council Member,,,David York,201,41,160
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Agricultural Extension Council Member,,,David York,389,70,319
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Agricultural Extension Council Member,,,David York,308,65,243
+Cass,Noble/Pleasant/Griswold,County Agricultural Extension Council Member,,,David York,296,41,255
+Cass,Union/Cumberland,County Agricultural Extension Council Member,,,David York,82,7,75
+Cass,Edna/Victoria/East side of Massena Township,County Agricultural Extension Council Member,,,David York,79,10,69
+Cass,Westerly side of Massena Township/Massena,County Agricultural Extension Council Member,,,David York,88,6,82
+Cass,Atlantic 1,County Agricultural Extension Council Member,,,Chad Becker,182,45,137
+Cass,Atlantic 2,County Agricultural Extension Council Member,,,Chad Becker,169,48,121
+Cass,Atlantic 3,County Agricultural Extension Council Member,,,Chad Becker,326,91,235
+Cass,Atlantic 4,County Agricultural Extension Council Member,,,Chad Becker,314,94,220
+Cass,Atlantic 5,County Agricultural Extension Council Member,,,Chad Becker,357,122,235
+Cass,Bear Grove/Cass/Lewis,County Agricultural Extension Council Member,,,Chad Becker,198,40,158
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Agricultural Extension Council Member,,,Chad Becker,452,75,377
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Agricultural Extension Council Member,,,Chad Becker,303,66,237
+Cass,Noble/Pleasant/Griswold,County Agricultural Extension Council Member,,,Chad Becker,331,47,284
+Cass,Union/Cumberland,County Agricultural Extension Council Member,,,Chad Becker,116,11,105
+Cass,Edna/Victoria/East side of Massena Township,County Agricultural Extension Council Member,,,Chad Becker,119,17,102
+Cass,Westerly side of Massena Township/Massena,County Agricultural Extension Council Member,,,Chad Becker,125,10,115
+Cass,Atlantic 1,County Agricultural Extension Council Member,,,Todd M Weppler,183,46,137
+Cass,Atlantic 2,County Agricultural Extension Council Member,,,Todd M Weppler,194,52,142
+Cass,Atlantic 3,County Agricultural Extension Council Member,,,Todd M Weppler,338,94,244
+Cass,Atlantic 4,County Agricultural Extension Council Member,,,Todd M Weppler,325,96,229
+Cass,Atlantic 5,County Agricultural Extension Council Member,,,Todd M Weppler,378,127,251
+Cass,Bear Grove/Cass/Lewis,County Agricultural Extension Council Member,,,Todd M Weppler,249,50,199
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Agricultural Extension Council Member,,,Todd M Weppler,415,74,341
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Agricultural Extension Council Member,,,Todd M Weppler,321,69,252
+Cass,Noble/Pleasant/Griswold,County Agricultural Extension Council Member,,,Todd M Weppler,384,52,332
+Cass,Union/Cumberland,County Agricultural Extension Council Member,,,Todd M Weppler,87,8,79
+Cass,Edna/Victoria/East side of Massena Township,County Agricultural Extension Council Member,,,Todd M Weppler,94,12,82
+Cass,Westerly side of Massena Township/Massena,County Agricultural Extension Council Member,,,Todd M Weppler,101,6,95
+Cass,Atlantic 1,County Agricultural Extension Council Member,,,Bradley J Pellett,193,50,143
+Cass,Atlantic 2,County Agricultural Extension Council Member,,,Bradley J Pellett,190,55,135
+Cass,Atlantic 3,County Agricultural Extension Council Member,,,Bradley J Pellett,370,100,270
+Cass,Atlantic 4,County Agricultural Extension Council Member,,,Bradley J Pellett,371,114,257
+Cass,Atlantic 5,County Agricultural Extension Council Member,,,Bradley J Pellett,388,131,257
+Cass,Bear Grove/Cass/Lewis,County Agricultural Extension Council Member,,,Bradley J Pellett,224,43,181
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Agricultural Extension Council Member,,,Bradley J Pellett,451,82,369
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Agricultural Extension Council Member,,,Bradley J Pellett,373,88,285
+Cass,Noble/Pleasant/Griswold,County Agricultural Extension Council Member,,,Bradley J Pellett,341,45,296
+Cass,Union/Cumberland,County Agricultural Extension Council Member,,,Bradley J Pellett,86,8,78
+Cass,Edna/Victoria/East side of Massena Township,County Agricultural Extension Council Member,,,Bradley J Pellett,94,12,82
+Cass,Westerly side of Massena Township/Massena,County Agricultural Extension Council Member,,,Bradley J Pellett,108,9,99
+Cass,Atlantic 1,County Agricultural Extension Council Member,,,Write-in,5,1,4
+Cass,Atlantic 2,County Agricultural Extension Council Member,,,Write-in,5,0,5
+Cass,Atlantic 3,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Cass,Atlantic 4,County Agricultural Extension Council Member,,,Write-in,5,0,5
+Cass,Atlantic 5,County Agricultural Extension Council Member,,,Write-in,1,1,0
+Cass,Bear Grove/Cass/Lewis,County Agricultural Extension Council Member,,,Write-in,3,0,3
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Cass,Brighton/Grove/Pymosa/Washington/Marne,County Agricultural Extension Council Member,,,Write-in,10,1,9
+Cass,Noble/Pleasant/Griswold,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Cass,Union/Cumberland,County Agricultural Extension Council Member,,,Write-in,3,2,1
+Cass,Edna/Victoria/East side of Massena Township,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Cass,Westerly side of Massena Township/Massena,County Agricultural Extension Council Member,,,Write-in,5,0,5
+Cass,Atlantic 1,Supreme Court Justice,,,Yes,156,32,124
+Cass,Atlantic 2,Supreme Court Justice,,,Yes,152,33,119
+Cass,Atlantic 3,Supreme Court Justice,,,Yes,269,65,204
+Cass,Atlantic 4,Supreme Court Justice,,,Yes,262,76,186
+Cass,Atlantic 5,Supreme Court Justice,,,Yes,286,96,190
+Cass,Bear Grove/Cass/Lewis,Supreme Court Justice,,,Yes,162,26,136
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Supreme Court Justice,,,Yes,310,48,262
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Supreme Court Justice,,,Yes,240,53,187
+Cass,Noble/Pleasant/Griswold,Supreme Court Justice,,,Yes,284,34,250
+Cass,Union/Cumberland,Supreme Court Justice,,,Yes,64,5,59
+Cass,Edna/Victoria/East side of Massena Township,Supreme Court Justice,,,Yes,57,10,47
+Cass,Westerly side of Massena Township/Massena,Supreme Court Justice,,,Yes,77,7,70
+Cass,Atlantic 1,Supreme Court Justice,,,No,89,29,60
+Cass,Atlantic 2,Supreme Court Justice,,,No,75,20,55
+Cass,Atlantic 3,Supreme Court Justice,,,No,123,42,81
+Cass,Atlantic 4,Supreme Court Justice,,,No,143,48,95
+Cass,Atlantic 5,Supreme Court Justice,,,No,114,47,67
+Cass,Bear Grove/Cass/Lewis,Supreme Court Justice,,,No,97,13,84
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Supreme Court Justice,,,No,190,36,154
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Supreme Court Justice,,,No,136,39,97
+Cass,Noble/Pleasant/Griswold,Supreme Court Justice,,,No,154,26,128
+Cass,Union/Cumberland,Supreme Court Justice,,,No,44,3,41
+Cass,Edna/Victoria/East side of Massena Township,Supreme Court Justice,,,No,47,4,43
+Cass,Westerly side of Massena Township/Massena,Supreme Court Justice,,,No,45,3,42
+Cass,Atlantic 1,Court of Appeals Judge,,,Yes,159,31,128
+Cass,Atlantic 2,Court of Appeals Judge,,,Yes,162,35,127
+Cass,Atlantic 3,Court of Appeals Judge,,,Yes,280,68,212
+Cass,Atlantic 4,Court of Appeals Judge,,,Yes,256,73,183
+Cass,Atlantic 5,Court of Appeals Judge,,,Yes,280,92,188
+Cass,Bear Grove/Cass/Lewis,Court of Appeals Judge,,,Yes,158,25,133
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Court of Appeals Judge,,,Yes,320,48,272
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Court of Appeals Judge,,,Yes,237,53,184
+Cass,Noble/Pleasant/Griswold,Court of Appeals Judge,,,Yes,281,32,249
+Cass,Union/Cumberland,Court of Appeals Judge,,,Yes,59,4,55
+Cass,Edna/Victoria/East side of Massena Township,Court of Appeals Judge,,,Yes,60,11,49
+Cass,Westerly side of Massena Township/Massena,Court of Appeals Judge,,,Yes,76,7,69
+Cass,Atlantic 1,Court of Appeals Judge,,,No,84,26,58
+Cass,Atlantic 2,Court of Appeals Judge,,,No,69,19,50
+Cass,Atlantic 3,Court of Appeals Judge,,,No,111,37,74
+Cass,Atlantic 4,Court of Appeals Judge,,,No,127,41,86
+Cass,Atlantic 5,Court of Appeals Judge,,,No,110,46,64
+Cass,Bear Grove/Cass/Lewis,Court of Appeals Judge,,,No,92,14,78
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Court of Appeals Judge,,,No,168,32,136
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Court of Appeals Judge,,,No,120,30,90
+Cass,Noble/Pleasant/Griswold,Court of Appeals Judge,,,No,145,24,121
+Cass,Union/Cumberland,Court of Appeals Judge,,,No,47,5,42
+Cass,Edna/Victoria/East side of Massena Township,Court of Appeals Judge,,,No,35,3,32
+Cass,Westerly side of Massena Township/Massena,Court of Appeals Judge,,,No,39,1,38
+Cass,Atlantic 1,District 4 Judge,,,Yes,149,32,117
+Cass,Atlantic 2,District 4 Judge,,,Yes,156,36,120
+Cass,Atlantic 3,District 4 Judge,,,Yes,274,73,201
+Cass,Atlantic 4,District 4 Judge,,,Yes,257,76,181
+Cass,Atlantic 5,District 4 Judge,,,Yes,298,94,204
+Cass,Bear Grove/Cass/Lewis,District 4 Judge,,,Yes,162,25,137
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Judge,,,Yes,331,49,282
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Judge,,,Yes,237,54,183
+Cass,Noble/Pleasant/Griswold,District 4 Judge,,,Yes,294,38,256
+Cass,Union/Cumberland,District 4 Judge,,,Yes,57,3,54
+Cass,Edna/Victoria/East side of Massena Township,District 4 Judge,,,Yes,56,11,45
+Cass,Westerly side of Massena Township/Massena,District 4 Judge,,,Yes,75,5,70
+Cass,Atlantic 1,District 4 Judge,,,No,91,29,62
+Cass,Atlantic 2,District 4 Judge,,,No,72,17,55
+Cass,Atlantic 3,District 4 Judge,,,No,112,34,78
+Cass,Atlantic 4,District 4 Judge,,,No,119,34,85
+Cass,Atlantic 5,District 4 Judge,,,No,100,46,54
+Cass,Bear Grove/Cass/Lewis,District 4 Judge,,,No,90,15,75
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Judge,,,No,166,32,134
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Judge,,,No,130,32,98
+Cass,Noble/Pleasant/Griswold,District 4 Judge,,,No,131,20,111
+Cass,Union/Cumberland,District 4 Judge,,,No,46,6,40
+Cass,Edna/Victoria/East side of Massena Township,District 4 Judge,,,No,39,4,35
+Cass,Westerly side of Massena Township/Massena,District 4 Judge,,,No,41,3,38
+Cass,Atlantic 1,District 4 Associate Judge,,,Yes,166,36,130
+Cass,Atlantic 2,District 4 Associate Judge,,,Yes,163,37,126
+Cass,Atlantic 3,District 4 Associate Judge,,,Yes,301,77,224
+Cass,Atlantic 4,District 4 Associate Judge,,,Yes,283,83,200
+Cass,Atlantic 5,District 4 Associate Judge,,,Yes,308,97,211
+Cass,Bear Grove/Cass/Lewis,District 4 Associate Judge,,,Yes,173,26,147
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Associate Judge,,,Yes,350,53,297
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Associate Judge,,,Yes,250,54,196
+Cass,Noble/Pleasant/Griswold,District 4 Associate Judge,,,Yes,308,36,272
+Cass,Union/Cumberland,District 4 Associate Judge,,,Yes,64,4,60
+Cass,Edna/Victoria/East side of Massena Township,District 4 Associate Judge,,,Yes,67,10,57
+Cass,Westerly side of Massena Township/Massena,District 4 Associate Judge,,,Yes,78,5,73
+Cass,Atlantic 1,District 4 Associate Judge,,,No,85,25,60
+Cass,Atlantic 2,District 4 Associate Judge,,,No,67,19,48
+Cass,Atlantic 3,District 4 Associate Judge,,,No,107,37,70
+Cass,Atlantic 4,District 4 Associate Judge,,,No,114,35,79
+Cass,Atlantic 5,District 4 Associate Judge,,,No,103,47,56
+Cass,Bear Grove/Cass/Lewis,District 4 Associate Judge,,,No,91,14,77
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,District 4 Associate Judge,,,No,168,32,136
+Cass,Brighton/Grove/Pymosa/Washington/Marne,District 4 Associate Judge,,,No,124,31,93
+Cass,Noble/Pleasant/Griswold,District 4 Associate Judge,,,No,128,22,106
+Cass,Union/Cumberland,District 4 Associate Judge,,,No,45,6,39
+Cass,Edna/Victoria/East side of Massena Township,District 4 Associate Judge,,,No,33,4,29
+Cass,Westerly side of Massena Township/Massena,District 4 Associate Judge,,,No,40,4,36
+Cass,Atlantic 1,Constitutional Amendment 1,,,Yes,242,56,186
+Cass,Atlantic 2,Constitutional Amendment 1,,,Yes,230,56,174
+Cass,Atlantic 3,Constitutional Amendment 1,,,Yes,409,108,301
+Cass,Atlantic 4,Constitutional Amendment 1,,,Yes,380,99,281
+Cass,Atlantic 5,Constitutional Amendment 1,,,Yes,435,150,285
+Cass,Bear Grove/Cass/Lewis,Constitutional Amendment 1,,,Yes,294,41,253
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Constitutional Amendment 1,,,Yes,559,97,462
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Constitutional Amendment 1,,,Yes,453,110,343
+Cass,Noble/Pleasant/Griswold,Constitutional Amendment 1,,,Yes,480,57,423
+Cass,Union/Cumberland,Constitutional Amendment 1,,,Yes,139,13,126
+Cass,Edna/Victoria/East side of Massena Township,Constitutional Amendment 1,,,Yes,130,16,114
+Cass,Westerly side of Massena Township/Massena,Constitutional Amendment 1,,,Yes,139,12,127
+Cass,Atlantic 1,Constitutional Amendment 1,,,No,73,29,44
+Cass,Atlantic 2,Constitutional Amendment 1,,,No,79,28,51
+Cass,Atlantic 3,Constitutional Amendment 1,,,No,136,60,76
+Cass,Atlantic 4,Constitutional Amendment 1,,,No,147,61,86
+Cass,Atlantic 5,Constitutional Amendment 1,,,No,147,68,79
+Cass,Bear Grove/Cass/Lewis,Constitutional Amendment 1,,,No,56,17,39
+Cass,Benton/Franklin/Grant/Lincoln/Anita/Wiota,Constitutional Amendment 1,,,No,115,39,76
+Cass,Brighton/Grove/Pymosa/Washington/Marne,Constitutional Amendment 1,,,No,66,21,45
+Cass,Noble/Pleasant/Griswold,Constitutional Amendment 1,,,No,84,27,57
+Cass,Union/Cumberland,Constitutional Amendment 1,,,No,21,5,16
+Cass,Edna/Victoria/East side of Massena Township,Constitutional Amendment 1,,,No,20,7,13
+Cass,Westerly side of Massena Township/Massena,Constitutional Amendment 1,,,No,30,4,26

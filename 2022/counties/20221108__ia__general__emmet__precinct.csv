@@ -1,0 +1,703 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Emmet,Armstrong,U.S. Senate,,REP,Chuck Grassley,377,53,324
+Emmet,Gruver,U.S. Senate,,REP,Chuck Grassley,136,17,119
+Emmet,City of Ringsted - DN-JC,U.S. Senate,,REP,Chuck Grassley,192,14,178
+Emmet,DOLLIVER,U.S. Senate,,REP,Chuck Grassley,120,12,108
+Emmet,Emmet / Estherville Twp,U.S. Senate,,REP,Chuck Grassley,213,60,153
+Emmet,Estherville Ward 1,U.S. Senate,,REP,Chuck Grassley,353,95,258
+Emmet,Estherville Ward 2,U.S. Senate,,REP,Chuck Grassley,267,58,209
+Emmet,Estherville Ward 3,U.S. Senate,,REP,Chuck Grassley,207,60,147
+Emmet,Estherville Ward 4,U.S. Senate,,REP,Chuck Grassley,190,39,151
+Emmet,Estherville Ward 5,U.S. Senate,,REP,Chuck Grassley,158,37,121
+Emmet,City of Wallingford - HL-12 Mile,U.S. Senate,,REP,Chuck Grassley,178,19,159
+Emmet,Armstrong,U.S. Senate,,DEM,Michael Franken,114,36,78
+Emmet,Gruver,U.S. Senate,,DEM,Michael Franken,31,9,22
+Emmet,City of Ringsted - DN-JC,U.S. Senate,,DEM,Michael Franken,48,16,32
+Emmet,DOLLIVER,U.S. Senate,,DEM,Michael Franken,34,13,21
+Emmet,Emmet / Estherville Twp,U.S. Senate,,DEM,Michael Franken,47,25,22
+Emmet,Estherville Ward 1,U.S. Senate,,DEM,Michael Franken,131,56,75
+Emmet,Estherville Ward 2,U.S. Senate,,DEM,Michael Franken,129,52,77
+Emmet,Estherville Ward 3,U.S. Senate,,DEM,Michael Franken,162,79,83
+Emmet,Estherville Ward 4,U.S. Senate,,DEM,Michael Franken,91,44,47
+Emmet,Estherville Ward 5,U.S. Senate,,DEM,Michael Franken,83,39,44
+Emmet,City of Wallingford - HL-12 Mile,U.S. Senate,,DEM,Michael Franken,65,16,49
+Emmet,Armstrong,U.S. Senate,,,Write-in,0,0,0
+Emmet,Gruver,U.S. Senate,,,Write-in,0,0,0
+Emmet,City of Ringsted - DN-JC,U.S. Senate,,,Write-in,0,0,0
+Emmet,DOLLIVER,U.S. Senate,,,Write-in,0,0,0
+Emmet,Emmet / Estherville Twp,U.S. Senate,,,Write-in,0,0,0
+Emmet,Estherville Ward 1,U.S. Senate,,,Write-in,1,0,1
+Emmet,Estherville Ward 2,U.S. Senate,,,Write-in,0,0,0
+Emmet,Estherville Ward 3,U.S. Senate,,,Write-in,0,0,0
+Emmet,Estherville Ward 4,U.S. Senate,,,Write-in,0,0,0
+Emmet,Estherville Ward 5,U.S. Senate,,,Write-in,1,1,0
+Emmet,City of Wallingford - HL-12 Mile,U.S. Senate,,,Write-in,0,0,0
+Emmet,Armstrong,U.S. House,4,REP,Randy Feenstra,385,48,337
+Emmet,Gruver,U.S. House,4,REP,Randy Feenstra,135,17,118
+Emmet,City of Ringsted - DN-JC,U.S. House,4,REP,Randy Feenstra,186,12,174
+Emmet,DOLLIVER,U.S. House,4,REP,Randy Feenstra,118,11,107
+Emmet,Emmet / Estherville Twp,U.S. House,4,REP,Randy Feenstra,213,62,151
+Emmet,Estherville Ward 1,U.S. House,4,REP,Randy Feenstra,349,84,265
+Emmet,Estherville Ward 2,U.S. House,4,REP,Randy Feenstra,275,63,212
+Emmet,Estherville Ward 3,U.S. House,4,REP,Randy Feenstra,210,62,148
+Emmet,Estherville Ward 4,U.S. House,4,REP,Randy Feenstra,189,41,148
+Emmet,Estherville Ward 5,U.S. House,4,REP,Randy Feenstra,163,39,124
+Emmet,City of Wallingford - HL-12 Mile,U.S. House,4,REP,Randy Feenstra,184,21,163
+Emmet,Armstrong,U.S. House,4,DEM,Ryan Melton,91,33,58
+Emmet,Gruver,U.S. House,4,DEM,Ryan Melton,28,10,18
+Emmet,City of Ringsted - DN-JC,U.S. House,4,DEM,Ryan Melton,49,16,33
+Emmet,DOLLIVER,U.S. House,4,DEM,Ryan Melton,32,11,21
+Emmet,Emmet / Estherville Twp,U.S. House,4,DEM,Ryan Melton,39,22,17
+Emmet,Estherville Ward 1,U.S. House,4,DEM,Ryan Melton,116,60,56
+Emmet,Estherville Ward 2,U.S. House,4,DEM,Ryan Melton,110,45,65
+Emmet,Estherville Ward 3,U.S. House,4,DEM,Ryan Melton,153,75,78
+Emmet,Estherville Ward 4,U.S. House,4,DEM,Ryan Melton,82,40,42
+Emmet,Estherville Ward 5,U.S. House,4,DEM,Ryan Melton,69,36,33
+Emmet,City of Wallingford - HL-12 Mile,U.S. House,4,DEM,Ryan Melton,54,13,41
+Emmet,Armstrong,U.S. House,4,LBC,Bryan Jack Holder,9,5,4
+Emmet,Gruver,U.S. House,4,LBC,Bryan Jack Holder,4,0,4
+Emmet,City of Ringsted - DN-JC,U.S. House,4,LBC,Bryan Jack Holder,4,1,3
+Emmet,DOLLIVER,U.S. House,4,LBC,Bryan Jack Holder,0,0,0
+Emmet,Emmet / Estherville Twp,U.S. House,4,LBC,Bryan Jack Holder,7,0,7
+Emmet,Estherville Ward 1,U.S. House,4,LBC,Bryan Jack Holder,11,5,6
+Emmet,Estherville Ward 2,U.S. House,4,LBC,Bryan Jack Holder,6,0,6
+Emmet,Estherville Ward 3,U.S. House,4,LBC,Bryan Jack Holder,6,2,4
+Emmet,Estherville Ward 4,U.S. House,4,LBC,Bryan Jack Holder,8,2,6
+Emmet,Estherville Ward 5,U.S. House,4,LBC,Bryan Jack Holder,4,1,3
+Emmet,City of Wallingford - HL-12 Mile,U.S. House,4,LBC,Bryan Jack Holder,1,0,1
+Emmet,Armstrong,U.S. House,4,,Write-in,0,0,0
+Emmet,Gruver,U.S. House,4,,Write-in,0,0,0
+Emmet,City of Ringsted - DN-JC,U.S. House,4,,Write-in,0,0,0
+Emmet,DOLLIVER,U.S. House,4,,Write-in,0,0,0
+Emmet,Emmet / Estherville Twp,U.S. House,4,,Write-in,0,0,0
+Emmet,Estherville Ward 1,U.S. House,4,,Write-in,1,0,1
+Emmet,Estherville Ward 2,U.S. House,4,,Write-in,0,0,0
+Emmet,Estherville Ward 3,U.S. House,4,,Write-in,0,0,0
+Emmet,Estherville Ward 4,U.S. House,4,,Write-in,0,0,0
+Emmet,Estherville Ward 5,U.S. House,4,,Write-in,1,1,0
+Emmet,City of Wallingford - HL-12 Mile,U.S. House,4,,Write-in,0,0,0
+Emmet,Armstrong,Governor,,REP,Kim Reynolds and Adam Gregg,403,58,345
+Emmet,Gruver,Governor,,REP,Kim Reynolds and Adam Gregg,138,16,122
+Emmet,City of Ringsted - DN-JC,Governor,,REP,Kim Reynolds and Adam Gregg,193,13,180
+Emmet,DOLLIVER,Governor,,REP,Kim Reynolds and Adam Gregg,124,12,112
+Emmet,Emmet / Estherville Twp,Governor,,REP,Kim Reynolds and Adam Gregg,223,65,158
+Emmet,Estherville Ward 1,Governor,,REP,Kim Reynolds and Adam Gregg,377,97,280
+Emmet,Estherville Ward 2,Governor,,REP,Kim Reynolds and Adam Gregg,287,62,225
+Emmet,Estherville Ward 3,Governor,,REP,Kim Reynolds and Adam Gregg,223,68,155
+Emmet,Estherville Ward 4,Governor,,REP,Kim Reynolds and Adam Gregg,197,42,155
+Emmet,Estherville Ward 5,Governor,,REP,Kim Reynolds and Adam Gregg,176,46,130
+Emmet,City of Wallingford - HL-12 Mile,Governor,,REP,Kim Reynolds and Adam Gregg,184,20,164
+Emmet,Armstrong,Governor,,DEM,Deidre DeJear and Eric Van Lancker,78,25,53
+Emmet,Gruver,Governor,,DEM,Deidre DeJear and Eric Van Lancker,30,13,17
+Emmet,City of Ringsted - DN-JC,Governor,,DEM,Deidre DeJear and Eric Van Lancker,42,16,26
+Emmet,DOLLIVER,Governor,,DEM,Deidre DeJear and Eric Van Lancker,30,13,17
+Emmet,Emmet / Estherville Twp,Governor,,DEM,Deidre DeJear and Eric Van Lancker,42,23,19
+Emmet,Estherville Ward 1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,106,53,53
+Emmet,Estherville Ward 2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,111,45,66
+Emmet,Estherville Ward 3,Governor,,DEM,Deidre DeJear and Eric Van Lancker,149,72,77
+Emmet,Estherville Ward 4,Governor,,DEM,Deidre DeJear and Eric Van Lancker,85,40,45
+Emmet,Estherville Ward 5,Governor,,DEM,Deidre DeJear and Eric Van Lancker,69,32,37
+Emmet,City of Wallingford - HL-12 Mile,Governor,,DEM,Deidre DeJear and Eric Van Lancker,61,15,46
+Emmet,Armstrong,Governor,,LIB,Rick Stewart and Marco Battaglia,16,6,10
+Emmet,Gruver,Governor,,LIB,Rick Stewart and Marco Battaglia,3,0,3
+Emmet,City of Ringsted - DN-JC,Governor,,LIB,Rick Stewart and Marco Battaglia,8,1,7
+Emmet,DOLLIVER,Governor,,LIB,Rick Stewart and Marco Battaglia,1,0,1
+Emmet,Emmet / Estherville Twp,Governor,,LIB,Rick Stewart and Marco Battaglia,4,1,3
+Emmet,Estherville Ward 1,Governor,,LIB,Rick Stewart and Marco Battaglia,12,1,11
+Emmet,Estherville Ward 2,Governor,,LIB,Rick Stewart and Marco Battaglia,10,2,8
+Emmet,Estherville Ward 3,Governor,,LIB,Rick Stewart and Marco Battaglia,3,2,1
+Emmet,Estherville Ward 4,Governor,,LIB,Rick Stewart and Marco Battaglia,6,2,4
+Emmet,Estherville Ward 5,Governor,,LIB,Rick Stewart and Marco Battaglia,2,0,2
+Emmet,City of Wallingford - HL-12 Mile,Governor,,LIB,Rick Stewart and Marco Battaglia,3,1,2
+Emmet,Armstrong,Governor,,,Write-in,0,0,0
+Emmet,Gruver,Governor,,,Write-in,0,0,0
+Emmet,City of Ringsted - DN-JC,Governor,,,Write-in,0,0,0
+Emmet,DOLLIVER,Governor,,,Write-in,0,0,0
+Emmet,Emmet / Estherville Twp,Governor,,,Write-in,0,0,0
+Emmet,Estherville Ward 1,Governor,,,Write-in,0,0,0
+Emmet,Estherville Ward 2,Governor,,,Write-in,0,0,0
+Emmet,Estherville Ward 3,Governor,,,Write-in,1,1,0
+Emmet,Estherville Ward 4,Governor,,,Write-in,0,0,0
+Emmet,Estherville Ward 5,Governor,,,Write-in,0,0,0
+Emmet,City of Wallingford - HL-12 Mile,Governor,,,Write-in,0,0,0
+Emmet,Armstrong,Secretary of State,,REP,Paul D. Pate,386,51,335
+Emmet,Gruver,Secretary of State,,REP,Paul D. Pate,136,16,120
+Emmet,City of Ringsted - DN-JC,Secretary of State,,REP,Paul D. Pate,182,12,170
+Emmet,DOLLIVER,Secretary of State,,REP,Paul D. Pate,119,14,105
+Emmet,Emmet / Estherville Twp,Secretary of State,,REP,Paul D. Pate,221,63,158
+Emmet,Estherville Ward 1,Secretary of State,,REP,Paul D. Pate,352,89,263
+Emmet,Estherville Ward 2,Secretary of State,,REP,Paul D. Pate,280,63,217
+Emmet,Estherville Ward 3,Secretary of State,,REP,Paul D. Pate,217,68,149
+Emmet,Estherville Ward 4,Secretary of State,,REP,Paul D. Pate,191,43,148
+Emmet,Estherville Ward 5,Secretary of State,,REP,Paul D. Pate,168,42,126
+Emmet,City of Wallingford - HL-12 Mile,Secretary of State,,REP,Paul D. Pate,181,17,164
+Emmet,Armstrong,Secretary of State,,DEM,Joel Miller,105,38,67
+Emmet,Gruver,Secretary of State,,DEM,Joel Miller,30,13,17
+Emmet,City of Ringsted - DN-JC,Secretary of State,,DEM,Joel Miller,55,15,40
+Emmet,DOLLIVER,Secretary of State,,DEM,Joel Miller,34,10,24
+Emmet,Emmet / Estherville Twp,Secretary of State,,DEM,Joel Miller,44,24,20
+Emmet,Estherville Ward 1,Secretary of State,,DEM,Joel Miller,125,58,67
+Emmet,Estherville Ward 2,Secretary of State,,DEM,Joel Miller,119,45,74
+Emmet,Estherville Ward 3,Secretary of State,,DEM,Joel Miller,157,76,81
+Emmet,Estherville Ward 4,Secretary of State,,DEM,Joel Miller,90,42,48
+Emmet,Estherville Ward 5,Secretary of State,,DEM,Joel Miller,76,37,39
+Emmet,City of Wallingford - HL-12 Mile,Secretary of State,,DEM,Joel Miller,58,16,42
+Emmet,Armstrong,Secretary of State,,,Write-in,0,0,0
+Emmet,Gruver,Secretary of State,,,Write-in,0,0,0
+Emmet,City of Ringsted - DN-JC,Secretary of State,,,Write-in,0,0,0
+Emmet,DOLLIVER,Secretary of State,,,Write-in,1,1,0
+Emmet,Emmet / Estherville Twp,Secretary of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 1,Secretary of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 2,Secretary of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 3,Secretary of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 4,Secretary of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 5,Secretary of State,,,Write-in,0,0,0
+Emmet,City of Wallingford - HL-12 Mile,Secretary of State,,,Write-in,0,0,0
+Emmet,Armstrong,Auditor of State,,REP,Todd Halbur,358,50,308
+Emmet,Gruver,Auditor of State,,REP,Todd Halbur,121,14,107
+Emmet,City of Ringsted - DN-JC,Auditor of State,,REP,Todd Halbur,160,10,150
+Emmet,DOLLIVER,Auditor of State,,REP,Todd Halbur,107,10,97
+Emmet,Emmet / Estherville Twp,Auditor of State,,REP,Todd Halbur,191,56,135
+Emmet,Estherville Ward 1,Auditor of State,,REP,Todd Halbur,310,75,235
+Emmet,Estherville Ward 2,Auditor of State,,REP,Todd Halbur,248,51,197
+Emmet,Estherville Ward 3,Auditor of State,,REP,Todd Halbur,192,58,134
+Emmet,Estherville Ward 4,Auditor of State,,REP,Todd Halbur,182,39,143
+Emmet,Estherville Ward 5,Auditor of State,,REP,Todd Halbur,141,33,108
+Emmet,City of Wallingford - HL-12 Mile,Auditor of State,,REP,Todd Halbur,161,16,145
+Emmet,Armstrong,Auditor of State,,DEM,Rob Sand,131,39,92
+Emmet,Gruver,Auditor of State,,DEM,Rob Sand,49,16,33
+Emmet,City of Ringsted - DN-JC,Auditor of State,,DEM,Rob Sand,72,17,55
+Emmet,DOLLIVER,Auditor of State,,DEM,Rob Sand,38,13,25
+Emmet,Emmet / Estherville Twp,Auditor of State,,DEM,Rob Sand,71,31,40
+Emmet,Estherville Ward 1,Auditor of State,,DEM,Rob Sand,168,76,92
+Emmet,Estherville Ward 2,Auditor of State,,DEM,Rob Sand,148,54,94
+Emmet,Estherville Ward 3,Auditor of State,,DEM,Rob Sand,183,86,97
+Emmet,Estherville Ward 4,Auditor of State,,DEM,Rob Sand,100,46,54
+Emmet,Estherville Ward 5,Auditor of State,,DEM,Rob Sand,102,46,56
+Emmet,City of Wallingford - HL-12 Mile,Auditor of State,,DEM,Rob Sand,76,17,59
+Emmet,Armstrong,Auditor of State,,,Write-in,0,0,0
+Emmet,Gruver,Auditor of State,,,Write-in,0,0,0
+Emmet,City of Ringsted - DN-JC,Auditor of State,,,Write-in,0,0,0
+Emmet,DOLLIVER,Auditor of State,,,Write-in,0,0,0
+Emmet,Emmet / Estherville Twp,Auditor of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 1,Auditor of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 2,Auditor of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 3,Auditor of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 4,Auditor of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 5,Auditor of State,,,Write-in,0,0,0
+Emmet,City of Wallingford - HL-12 Mile,Auditor of State,,,Write-in,0,0,0
+Emmet,Armstrong,Treasurer of State,,REP,Roby Smith,357,45,312
+Emmet,Gruver,Treasurer of State,,REP,Roby Smith,128,15,113
+Emmet,City of Ringsted - DN-JC,Treasurer of State,,REP,Roby Smith,154,10,144
+Emmet,DOLLIVER,Treasurer of State,,REP,Roby Smith,103,9,94
+Emmet,Emmet / Estherville Twp,Treasurer of State,,REP,Roby Smith,201,59,142
+Emmet,Estherville Ward 1,Treasurer of State,,REP,Roby Smith,317,71,246
+Emmet,Estherville Ward 2,Treasurer of State,,REP,Roby Smith,245,52,193
+Emmet,Estherville Ward 3,Treasurer of State,,REP,Roby Smith,193,56,137
+Emmet,Estherville Ward 4,Treasurer of State,,REP,Roby Smith,176,33,143
+Emmet,Estherville Ward 5,Treasurer of State,,REP,Roby Smith,144,30,114
+Emmet,City of Wallingford - HL-12 Mile,Treasurer of State,,REP,Roby Smith,163,17,146
+Emmet,Armstrong,Treasurer of State,,DEM,Michael L. Fitzgerald,133,44,89
+Emmet,Gruver,Treasurer of State,,DEM,Michael L. Fitzgerald,43,14,29
+Emmet,City of Ringsted - DN-JC,Treasurer of State,,DEM,Michael L. Fitzgerald,82,17,65
+Emmet,DOLLIVER,Treasurer of State,,DEM,Michael L. Fitzgerald,47,16,31
+Emmet,Emmet / Estherville Twp,Treasurer of State,,DEM,Michael L. Fitzgerald,60,27,33
+Emmet,Estherville Ward 1,Treasurer of State,,DEM,Michael L. Fitzgerald,160,79,81
+Emmet,Estherville Ward 2,Treasurer of State,,DEM,Michael L. Fitzgerald,152,55,97
+Emmet,Estherville Ward 3,Treasurer of State,,DEM,Michael L. Fitzgerald,180,86,94
+Emmet,Estherville Ward 4,Treasurer of State,,DEM,Michael L. Fitzgerald,107,52,55
+Emmet,Estherville Ward 5,Treasurer of State,,DEM,Michael L. Fitzgerald,96,47,49
+Emmet,City of Wallingford - HL-12 Mile,Treasurer of State,,DEM,Michael L. Fitzgerald,78,17,61
+Emmet,Armstrong,Treasurer of State,,,Write-in,0,0,0
+Emmet,Gruver,Treasurer of State,,,Write-in,0,0,0
+Emmet,City of Ringsted - DN-JC,Treasurer of State,,,Write-in,0,0,0
+Emmet,DOLLIVER,Treasurer of State,,,Write-in,0,0,0
+Emmet,Emmet / Estherville Twp,Treasurer of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 1,Treasurer of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 2,Treasurer of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 3,Treasurer of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 4,Treasurer of State,,,Write-in,0,0,0
+Emmet,Estherville Ward 5,Treasurer of State,,,Write-in,0,0,0
+Emmet,City of Wallingford - HL-12 Mile,Treasurer of State,,,Write-in,0,0,0
+Emmet,Armstrong,Secretary of Agriculture,,REP,Mike Naig,414,56,358
+Emmet,Gruver,Secretary of Agriculture,,REP,Mike Naig,148,17,131
+Emmet,City of Ringsted - DN-JC,Secretary of Agriculture,,REP,Mike Naig,204,14,190
+Emmet,DOLLIVER,Secretary of Agriculture,,REP,Mike Naig,123,14,109
+Emmet,Emmet / Estherville Twp,Secretary of Agriculture,,REP,Mike Naig,229,66,163
+Emmet,Estherville Ward 1,Secretary of Agriculture,,REP,Mike Naig,384,98,286
+Emmet,Estherville Ward 2,Secretary of Agriculture,,REP,Mike Naig,297,66,231
+Emmet,Estherville Ward 3,Secretary of Agriculture,,REP,Mike Naig,227,72,155
+Emmet,Estherville Ward 4,Secretary of Agriculture,,REP,Mike Naig,208,47,161
+Emmet,Estherville Ward 5,Secretary of Agriculture,,REP,Mike Naig,176,45,131
+Emmet,City of Wallingford - HL-12 Mile,Secretary of Agriculture,,REP,Mike Naig,198,23,175
+Emmet,Armstrong,Secretary of Agriculture,,DEM,John Norwood,78,34,44
+Emmet,Gruver,Secretary of Agriculture,,DEM,John Norwood,24,12,12
+Emmet,City of Ringsted - DN-JC,Secretary of Agriculture,,DEM,John Norwood,35,14,21
+Emmet,DOLLIVER,Secretary of Agriculture,,DEM,John Norwood,32,12,20
+Emmet,Emmet / Estherville Twp,Secretary of Agriculture,,DEM,John Norwood,36,21,15
+Emmet,Estherville Ward 1,Secretary of Agriculture,,DEM,John Norwood,98,54,44
+Emmet,Estherville Ward 2,Secretary of Agriculture,,DEM,John Norwood,101,41,60
+Emmet,Estherville Ward 3,Secretary of Agriculture,,DEM,John Norwood,142,67,75
+Emmet,Estherville Ward 4,Secretary of Agriculture,,DEM,John Norwood,75,37,38
+Emmet,Estherville Ward 5,Secretary of Agriculture,,DEM,John Norwood,70,35,35
+Emmet,City of Wallingford - HL-12 Mile,Secretary of Agriculture,,DEM,John Norwood,50,12,38
+Emmet,Armstrong,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,Gruver,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,City of Ringsted - DN-JC,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,DOLLIVER,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,Emmet / Estherville Twp,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,Estherville Ward 1,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,Estherville Ward 2,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,Estherville Ward 3,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,Estherville Ward 4,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,Estherville Ward 5,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,City of Wallingford - HL-12 Mile,Secretary of Agriculture,,,Write-in,0,0,0
+Emmet,Armstrong,Attorney General,,REP,Brenna Bird,358,48,310
+Emmet,Gruver,Attorney General,,REP,Brenna Bird,122,14,108
+Emmet,City of Ringsted - DN-JC,Attorney General,,REP,Brenna Bird,162,10,152
+Emmet,DOLLIVER,Attorney General,,REP,Brenna Bird,105,9,96
+Emmet,Emmet / Estherville Twp,Attorney General,,REP,Brenna Bird,199,56,143
+Emmet,Estherville Ward 1,Attorney General,,REP,Brenna Bird,317,71,246
+Emmet,Estherville Ward 2,Attorney General,,REP,Brenna Bird,244,47,197
+Emmet,Estherville Ward 3,Attorney General,,REP,Brenna Bird,186,53,133
+Emmet,Estherville Ward 4,Attorney General,,REP,Brenna Bird,171,34,137
+Emmet,Estherville Ward 5,Attorney General,,REP,Brenna Bird,148,33,115
+Emmet,City of Wallingford - HL-12 Mile,Attorney General,,REP,Brenna Bird,169,15,154
+Emmet,Armstrong,Attorney General,,DEM,Tom Miller,130,40,90
+Emmet,Gruver,Attorney General,,DEM,Tom Miller,47,15,32
+Emmet,City of Ringsted - DN-JC,Attorney General,,DEM,Tom Miller,74,18,56
+Emmet,DOLLIVER,Attorney General,,DEM,Tom Miller,45,16,29
+Emmet,Emmet / Estherville Twp,Attorney General,,DEM,Tom Miller,60,30,30
+Emmet,Estherville Ward 1,Attorney General,,DEM,Tom Miller,166,78,88
+Emmet,Estherville Ward 2,Attorney General,,DEM,Tom Miller,155,61,94
+Emmet,Estherville Ward 3,Attorney General,,DEM,Tom Miller,188,91,97
+Emmet,Estherville Ward 4,Attorney General,,DEM,Tom Miller,109,51,58
+Emmet,Estherville Ward 5,Attorney General,,DEM,Tom Miller,92,45,47
+Emmet,City of Wallingford - HL-12 Mile,Attorney General,,DEM,Tom Miller,73,17,56
+Emmet,Armstrong,Attorney General,,,Write-in,0,0,0
+Emmet,Gruver,Attorney General,,,Write-in,0,0,0
+Emmet,City of Ringsted - DN-JC,Attorney General,,,Write-in,0,0,0
+Emmet,DOLLIVER,Attorney General,,,Write-in,0,0,0
+Emmet,Emmet / Estherville Twp,Attorney General,,,Write-in,0,0,0
+Emmet,Estherville Ward 1,Attorney General,,,Write-in,0,0,0
+Emmet,Estherville Ward 2,Attorney General,,,Write-in,0,0,0
+Emmet,Estherville Ward 3,Attorney General,,,Write-in,0,0,0
+Emmet,Estherville Ward 4,Attorney General,,,Write-in,0,0,0
+Emmet,Estherville Ward 5,Attorney General,,,Write-in,0,0,0
+Emmet,City of Wallingford - HL-12 Mile,Attorney General,,,Write-in,0,0,0
+Emmet,Armstrong,State Senate,5,REP,Dave Rowley,432,67,365
+Emmet,Gruver,State Senate,5,REP,Dave Rowley,153,26,127
+Emmet,City of Ringsted - DN-JC,State Senate,5,REP,Dave Rowley,205,16,189
+Emmet,DOLLIVER,State Senate,5,REP,Dave Rowley,125,17,108
+Emmet,Emmet / Estherville Twp,State Senate,5,REP,Dave Rowley,227,68,159
+Emmet,Estherville Ward 1,State Senate,5,REP,Dave Rowley,414,115,299
+Emmet,Estherville Ward 2,State Senate,5,REP,Dave Rowley,329,72,257
+Emmet,Estherville Ward 3,State Senate,5,REP,Dave Rowley,277,87,190
+Emmet,Estherville Ward 4,State Senate,5,REP,Dave Rowley,209,49,160
+Emmet,Estherville Ward 5,State Senate,5,REP,Dave Rowley,188,50,138
+Emmet,City of Wallingford - HL-12 Mile,State Senate,5,REP,Dave Rowley,195,21,174
+Emmet,Armstrong,State Senate,5,,Write-in,5,1,4
+Emmet,Gruver,State Senate,5,,Write-in,0,0,0
+Emmet,City of Ringsted - DN-JC,State Senate,5,,Write-in,1,0,1
+Emmet,DOLLIVER,State Senate,5,,Write-in,1,0,1
+Emmet,Emmet / Estherville Twp,State Senate,5,,Write-in,2,2,0
+Emmet,Estherville Ward 1,State Senate,5,,Write-in,6,4,2
+Emmet,Estherville Ward 2,State Senate,5,,Write-in,3,2,1
+Emmet,Estherville Ward 3,State Senate,5,,Write-in,5,2,3
+Emmet,Estherville Ward 4,State Senate,5,,Write-in,7,2,5
+Emmet,Estherville Ward 5,State Senate,5,,Write-in,4,2,2
+Emmet,City of Wallingford - HL-12 Mile,State Senate,5,,Write-in,2,0,2
+Emmet,Armstrong,State House,9,REP,Henry Stone,375,47,328
+Emmet,Gruver,State House,9,REP,Henry Stone,131,18,113
+Emmet,City of Ringsted - DN-JC,State House,9,REP,Henry Stone,174,11,163
+Emmet,DOLLIVER,State House,9,REP,Henry Stone,110,11,99
+Emmet,Emmet / Estherville Twp,State House,9,REP,Henry Stone,212,62,150
+Emmet,Estherville Ward 1,State House,9,REP,Henry Stone,331,85,246
+Emmet,Estherville Ward 2,State House,9,REP,Henry Stone,270,58,212
+Emmet,Estherville Ward 3,State House,9,REP,Henry Stone,198,58,140
+Emmet,Estherville Ward 4,State House,9,REP,Henry Stone,178,39,139
+Emmet,Estherville Ward 5,State House,9,REP,Henry Stone,154,34,120
+Emmet,City of Wallingford - HL-12 Mile,State House,9,REP,Henry Stone,172,17,155
+Emmet,Armstrong,State House,9,DEM,Joseph Tillman,110,38,72
+Emmet,Gruver,State House,9,DEM,Joseph Tillman,36,11,25
+Emmet,City of Ringsted - DN-JC,State House,9,DEM,Joseph Tillman,57,16,41
+Emmet,DOLLIVER,State House,9,DEM,Joseph Tillman,39,14,25
+Emmet,Emmet / Estherville Twp,State House,9,DEM,Joseph Tillman,45,22,23
+Emmet,Estherville Ward 1,State House,9,DEM,Joseph Tillman,141,63,78
+Emmet,Estherville Ward 2,State House,9,DEM,Joseph Tillman,124,45,79
+Emmet,Estherville Ward 3,State House,9,DEM,Joseph Tillman,169,81,88
+Emmet,Estherville Ward 4,State House,9,DEM,Joseph Tillman,94,43,51
+Emmet,Estherville Ward 5,State House,9,DEM,Joseph Tillman,84,42,42
+Emmet,City of Wallingford - HL-12 Mile,State House,9,DEM,Joseph Tillman,64,15,49
+Emmet,Armstrong,State House,9,,Write-in,0,0,0
+Emmet,Gruver,State House,9,,Write-in,0,0,0
+Emmet,City of Ringsted - DN-JC,State House,9,,Write-in,0,0,0
+Emmet,DOLLIVER,State House,9,,Write-in,0,0,0
+Emmet,Emmet / Estherville Twp,State House,9,,Write-in,0,0,0
+Emmet,Estherville Ward 1,State House,9,,Write-in,0,0,0
+Emmet,Estherville Ward 2,State House,9,,Write-in,0,0,0
+Emmet,Estherville Ward 3,State House,9,,Write-in,0,0,0
+Emmet,Estherville Ward 4,State House,9,,Write-in,0,0,0
+Emmet,Estherville Ward 5,State House,9,,Write-in,0,0,0
+Emmet,City of Wallingford - HL-12 Mile,State House,9,,Write-in,0,0,0
+Emmet,Armstrong,County Board of Supervisors At Large,,REP,John Pluth,397,60,337
+Emmet,Gruver,County Board of Supervisors At Large,,REP,John Pluth,155,27,128
+Emmet,City of Ringsted - DN-JC,County Board of Supervisors At Large,,REP,John Pluth,196,17,179
+Emmet,DOLLIVER,County Board of Supervisors At Large,,REP,John Pluth,120,20,100
+Emmet,Emmet / Estherville Twp,County Board of Supervisors At Large,,REP,John Pluth,213,62,151
+Emmet,Estherville Ward 1,County Board of Supervisors At Large,,REP,John Pluth,382,115,267
+Emmet,Estherville Ward 2,County Board of Supervisors At Large,,REP,John Pluth,324,81,243
+Emmet,Estherville Ward 3,County Board of Supervisors At Large,,REP,John Pluth,253,88,165
+Emmet,Estherville Ward 4,County Board of Supervisors At Large,,REP,John Pluth,206,59,147
+Emmet,Estherville Ward 5,County Board of Supervisors At Large,,REP,John Pluth,182,53,129
+Emmet,City of Wallingford - HL-12 Mile,County Board of Supervisors At Large,,REP,John Pluth,204,19,185
+Emmet,Armstrong,County Board of Supervisors At Large,,,Jeff Quastad,317,60,257
+Emmet,Gruver,County Board of Supervisors At Large,,,Jeff Quastad,142,27,115
+Emmet,City of Ringsted - DN-JC,County Board of Supervisors At Large,,,Jeff Quastad,157,25,132
+Emmet,DOLLIVER,County Board of Supervisors At Large,,,Jeff Quastad,126,23,103
+Emmet,Emmet / Estherville Twp,County Board of Supervisors At Large,,,Jeff Quastad,191,61,130
+Emmet,Estherville Ward 1,County Board of Supervisors At Large,,,Jeff Quastad,334,121,213
+Emmet,Estherville Ward 2,County Board of Supervisors At Large,,,Jeff Quastad,261,70,191
+Emmet,Estherville Ward 3,County Board of Supervisors At Large,,,Jeff Quastad,235,96,139
+Emmet,Estherville Ward 4,County Board of Supervisors At Large,,,Jeff Quastad,157,47,110
+Emmet,Estherville Ward 5,County Board of Supervisors At Large,,,Jeff Quastad,150,48,102
+Emmet,City of Wallingford - HL-12 Mile,County Board of Supervisors At Large,,,Jeff Quastad,184,32,152
+Emmet,Armstrong,County Board of Supervisors At Large,,,Write-in,0,0,0
+Emmet,Gruver,County Board of Supervisors At Large,,,Write-in,5,2,3
+Emmet,City of Ringsted - DN-JC,County Board of Supervisors At Large,,,Write-in,1,0,1
+Emmet,DOLLIVER,County Board of Supervisors At Large,,,Write-in,0,0,0
+Emmet,Emmet / Estherville Twp,County Board of Supervisors At Large,,,Write-in,3,3,0
+Emmet,Estherville Ward 1,County Board of Supervisors At Large,,,Write-in,7,1,6
+Emmet,Estherville Ward 2,County Board of Supervisors At Large,,,Write-in,5,2,3
+Emmet,Estherville Ward 3,County Board of Supervisors At Large,,,Write-in,2,0,2
+Emmet,Estherville Ward 4,County Board of Supervisors At Large,,,Write-in,4,1,3
+Emmet,Estherville Ward 5,County Board of Supervisors At Large,,,Write-in,9,3,6
+Emmet,City of Wallingford - HL-12 Mile,County Board of Supervisors At Large,,,Write-in,2,0,2
+Emmet,Armstrong,County Treasurer,,REP,Lisa Rosburg,394,48,346
+Emmet,Gruver,County Treasurer,,REP,Lisa Rosburg,100,16,84
+Emmet,City of Ringsted - DN-JC,County Treasurer,,REP,Lisa Rosburg,182,16,166
+Emmet,DOLLIVER,County Treasurer,,REP,Lisa Rosburg,103,12,91
+Emmet,Emmet / Estherville Twp,County Treasurer,,REP,Lisa Rosburg,175,52,123
+Emmet,Estherville Ward 1,County Treasurer,,REP,Lisa Rosburg,302,81,221
+Emmet,Estherville Ward 2,County Treasurer,,REP,Lisa Rosburg,257,60,197
+Emmet,Estherville Ward 3,County Treasurer,,REP,Lisa Rosburg,194,63,131
+Emmet,Estherville Ward 4,County Treasurer,,REP,Lisa Rosburg,177,36,141
+Emmet,Estherville Ward 5,County Treasurer,,REP,Lisa Rosburg,144,37,107
+Emmet,City of Wallingford - HL-12 Mile,County Treasurer,,REP,Lisa Rosburg,166,20,146
+Emmet,Armstrong,County Treasurer,,DEM,Kati Rivera,103,41,62
+Emmet,Gruver,County Treasurer,,DEM,Kati Rivera,72,15,57
+Emmet,City of Ringsted - DN-JC,County Treasurer,,DEM,Kati Rivera,58,14,44
+Emmet,DOLLIVER,County Treasurer,,DEM,Kati Rivera,49,13,36
+Emmet,Emmet / Estherville Twp,County Treasurer,,DEM,Kati Rivera,87,35,52
+Emmet,Estherville Ward 1,County Treasurer,,DEM,Kati Rivera,187,70,117
+Emmet,Estherville Ward 2,County Treasurer,,DEM,Kati Rivera,138,47,91
+Emmet,Estherville Ward 3,County Treasurer,,DEM,Kati Rivera,178,77,101
+Emmet,Estherville Ward 4,County Treasurer,,DEM,Kati Rivera,110,50,60
+Emmet,Estherville Ward 5,County Treasurer,,DEM,Kati Rivera,98,43,55
+Emmet,City of Wallingford - HL-12 Mile,County Treasurer,,DEM,Kati Rivera,77,15,62
+Emmet,Armstrong,County Treasurer,,,Write-in,0,0,0
+Emmet,Gruver,County Treasurer,,,Write-in,0,0,0
+Emmet,City of Ringsted - DN-JC,County Treasurer,,,Write-in,0,0,0
+Emmet,DOLLIVER,County Treasurer,,,Write-in,0,0,0
+Emmet,Emmet / Estherville Twp,County Treasurer,,,Write-in,0,0,0
+Emmet,Estherville Ward 1,County Treasurer,,,Write-in,0,0,0
+Emmet,Estherville Ward 2,County Treasurer,,,Write-in,0,0,0
+Emmet,Estherville Ward 3,County Treasurer,,,Write-in,0,0,0
+Emmet,Estherville Ward 4,County Treasurer,,,Write-in,0,0,0
+Emmet,Estherville Ward 5,County Treasurer,,,Write-in,0,0,0
+Emmet,City of Wallingford - HL-12 Mile,County Treasurer,,,Write-in,0,0,0
+Emmet,Armstrong,County Recorder,,REP,Diann Quastad Minion,457,76,381
+Emmet,Gruver,County Recorder,,REP,Diann Quastad Minion,171,28,143
+Emmet,City of Ringsted - DN-JC,County Recorder,,REP,Diann Quastad Minion,216,22,194
+Emmet,DOLLIVER,County Recorder,,REP,Diann Quastad Minion,141,19,122
+Emmet,Emmet / Estherville Twp,County Recorder,,REP,Diann Quastad Minion,242,79,163
+Emmet,Estherville Ward 1,County Recorder,,REP,Diann Quastad Minion,442,129,313
+Emmet,Estherville Ward 2,County Recorder,,REP,Diann Quastad Minion,345,78,267
+Emmet,Estherville Ward 3,County Recorder,,REP,Diann Quastad Minion,300,102,198
+Emmet,Estherville Ward 4,County Recorder,,REP,Diann Quastad Minion,227,55,172
+Emmet,Estherville Ward 5,County Recorder,,REP,Diann Quastad Minion,201,55,146
+Emmet,City of Wallingford - HL-12 Mile,County Recorder,,REP,Diann Quastad Minion,222,29,193
+Emmet,Armstrong,County Recorder,,,Write-in,2,0,2
+Emmet,Gruver,County Recorder,,,Write-in,0,0,0
+Emmet,City of Ringsted - DN-JC,County Recorder,,,Write-in,0,0,0
+Emmet,DOLLIVER,County Recorder,,,Write-in,0,0,0
+Emmet,Emmet / Estherville Twp,County Recorder,,,Write-in,1,1,0
+Emmet,Estherville Ward 1,County Recorder,,,Write-in,1,0,1
+Emmet,Estherville Ward 2,County Recorder,,,Write-in,4,1,3
+Emmet,Estherville Ward 3,County Recorder,,,Write-in,3,1,2
+Emmet,Estherville Ward 4,County Recorder,,,Write-in,2,1,1
+Emmet,Estherville Ward 5,County Recorder,,,Write-in,6,3,3
+Emmet,City of Wallingford - HL-12 Mile,County Recorder,,,Write-in,3,0,3
+Emmet,Armstrong,County Attorney,,REP,Melanie Summers Bauler,425,69,356
+Emmet,Gruver,County Attorney,,REP,Melanie Summers Bauler,131,17,114
+Emmet,City of Ringsted - DN-JC,County Attorney,,REP,Melanie Summers Bauler,205,18,187
+Emmet,DOLLIVER,County Attorney,,REP,Melanie Summers Bauler,128,20,108
+Emmet,Emmet / Estherville Twp,County Attorney,,REP,Melanie Summers Bauler,221,69,152
+Emmet,Estherville Ward 1,County Attorney,,REP,Melanie Summers Bauler,416,123,293
+Emmet,Estherville Ward 2,County Attorney,,REP,Melanie Summers Bauler,322,77,245
+Emmet,Estherville Ward 3,County Attorney,,REP,Melanie Summers Bauler,284,96,188
+Emmet,Estherville Ward 4,County Attorney,,REP,Melanie Summers Bauler,212,53,159
+Emmet,Estherville Ward 5,County Attorney,,REP,Melanie Summers Bauler,187,52,135
+Emmet,City of Wallingford - HL-12 Mile,County Attorney,,REP,Melanie Summers Bauler,193,20,173
+Emmet,Armstrong,County Attorney,,,Write-in,7,2,5
+Emmet,Gruver,County Attorney,,,Write-in,9,3,6
+Emmet,City of Ringsted - DN-JC,County Attorney,,,Write-in,2,1,1
+Emmet,DOLLIVER,County Attorney,,,Write-in,2,0,2
+Emmet,Emmet / Estherville Twp,County Attorney,,,Write-in,4,1,3
+Emmet,Estherville Ward 1,County Attorney,,,Write-in,7,1,6
+Emmet,Estherville Ward 2,County Attorney,,,Write-in,8,2,6
+Emmet,Estherville Ward 3,County Attorney,,,Write-in,5,2,3
+Emmet,Estherville Ward 4,County Attorney,,,Write-in,4,1,3
+Emmet,Estherville Ward 5,County Attorney,,,Write-in,3,1,2
+Emmet,City of Wallingford - HL-12 Mile,County Attorney,,,Write-in,2,0,2
+Emmet,Armstrong,Armstrong Grove Township Trustee,,,Jeff Felkey,79,12,67
+Emmet,Armstrong,Armstrong Grove Township Trustee,,,Write-in,0,0,0
+Emmet,Armstrong,Armstrong Grove Township Clerk,,,Jennifer Welbig,76,11,65
+Emmet,Armstrong,Armstrong Grove Township Clerk,,,Write-in,0,0,0
+Emmet,Gruver,Center Township Trustee,,,Jerry Pluth,83,12,71
+Emmet,Gruver,Center Township Trustee,,,Write-in,1,1,0
+Emmet,Gruver,Center Township Clerk,,,John E. Klingbeil,84,13,71
+Emmet,Gruver,Center Township Clerk,,,Write-in,0,0,0
+Emmet,Emmet / Estherville Twp,Emmet Township Trustee,,,Mark Guge,81,30,51
+Emmet,Emmet / Estherville Twp,Emmet Township Trustee,,,Write-in,0,0,0
+Emmet,Emmet / Estherville Twp,Emmet Township Clerk,,,Phyllis Martens,84,31,53
+Emmet,Emmet / Estherville Twp,Emmet Township Clerk,,,Write-in,0,0,0
+Emmet,Armstrong,Iowa Lake Township Trustee,,,Bryon Nelsen,51,11,40
+Emmet,Armstrong,Iowa Lake Township Trustee,,,Write-in,1,0,1
+Emmet,Armstrong,Iowa Lake Township Clerk,,,Deb Tietje,53,13,40
+Emmet,Armstrong,Iowa Lake Township Clerk,,,Write-in,1,0,1
+Emmet,DOLLIVER,Lincoln Township Trustee,,,Dennis Hoffman,52,10,42
+Emmet,DOLLIVER,Lincoln Township Trustee,,,Write-in,0,0,0
+Emmet,DOLLIVER,Lincoln Township Clerk,,,Jean Hoffman,52,10,42
+Emmet,DOLLIVER,Lincoln Township Clerk,,,Write-in,0,0,0
+Emmet,Armstrong,Soil and Water Conservation District Commissioner,,,Write-in,20,1,19
+Emmet,Gruver,Soil and Water Conservation District Commissioner,,,Write-in,12,4,8
+Emmet,City of Ringsted - DN-JC,Soil and Water Conservation District Commissioner,,,Write-in,14,1,13
+Emmet,DOLLIVER,Soil and Water Conservation District Commissioner,,,Write-in,12,6,6
+Emmet,Emmet / Estherville Twp,Soil and Water Conservation District Commissioner,,,Write-in,11,4,7
+Emmet,Estherville Ward 1,Soil and Water Conservation District Commissioner,,,Write-in,26,4,22
+Emmet,Estherville Ward 2,Soil and Water Conservation District Commissioner,,,Write-in,22,1,21
+Emmet,Estherville Ward 3,Soil and Water Conservation District Commissioner,,,Write-in,12,5,7
+Emmet,Estherville Ward 4,Soil and Water Conservation District Commissioner,,,Write-in,7,4,3
+Emmet,Estherville Ward 5,Soil and Water Conservation District Commissioner,,,Write-in,11,3,8
+Emmet,City of Wallingford - HL-12 Mile,Soil and Water Conservation District Commissioner,,,Write-in,8,2,6
+Emmet,Armstrong,Soil and Water Conservation District Commissioner,,,Braxton Dahl,0,0,0
+Emmet,Gruver,Soil and Water Conservation District Commissioner,,,Braxton Dahl,8,0,8
+Emmet,City of Ringsted - DN-JC,Soil and Water Conservation District Commissioner,,,Braxton Dahl,0,0,0
+Emmet,DOLLIVER,Soil and Water Conservation District Commissioner,,,Braxton Dahl,1,0,1
+Emmet,Emmet / Estherville Twp,Soil and Water Conservation District Commissioner,,,Braxton Dahl,2,0,2
+Emmet,Estherville Ward 1,Soil and Water Conservation District Commissioner,,,Braxton Dahl,4,0,4
+Emmet,Estherville Ward 2,Soil and Water Conservation District Commissioner,,,Braxton Dahl,1,0,1
+Emmet,Estherville Ward 3,Soil and Water Conservation District Commissioner,,,Braxton Dahl,0,0,0
+Emmet,Estherville Ward 4,Soil and Water Conservation District Commissioner,,,Braxton Dahl,1,0,1
+Emmet,Estherville Ward 5,Soil and Water Conservation District Commissioner,,,Braxton Dahl,1,0,1
+Emmet,City of Wallingford - HL-12 Mile,Soil and Water Conservation District Commissioner,,,Braxton Dahl,2,0,2
+Emmet,Armstrong,Soil and Water Conservation District Commissioner,,,Carson Glasnapp,3,0,3
+Emmet,Gruver,Soil and Water Conservation District Commissioner,,,Carson Glasnapp,1,0,1
+Emmet,City of Ringsted - DN-JC,Soil and Water Conservation District Commissioner,,,Carson Glasnapp,0,0,0
+Emmet,DOLLIVER,Soil and Water Conservation District Commissioner,,,Carson Glasnapp,0,0,0
+Emmet,Emmet / Estherville Twp,Soil and Water Conservation District Commissioner,,,Carson Glasnapp,0,0,0
+Emmet,Estherville Ward 1,Soil and Water Conservation District Commissioner,,,Carson Glasnapp,0,0,0
+Emmet,Estherville Ward 2,Soil and Water Conservation District Commissioner,,,Carson Glasnapp,0,0,0
+Emmet,Estherville Ward 3,Soil and Water Conservation District Commissioner,,,Carson Glasnapp,0,0,0
+Emmet,Estherville Ward 4,Soil and Water Conservation District Commissioner,,,Carson Glasnapp,0,0,0
+Emmet,Estherville Ward 5,Soil and Water Conservation District Commissioner,,,Carson Glasnapp,0,0,0
+Emmet,City of Wallingford - HL-12 Mile,Soil and Water Conservation District Commissioner,,,Carson Glasnapp,0,0,0
+Emmet,Armstrong,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Write-in,11,1,10
+Emmet,Gruver,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Write-in,8,2,6
+Emmet,City of Ringsted - DN-JC,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Write-in,7,0,7
+Emmet,DOLLIVER,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Write-in,4,3,1
+Emmet,Emmet / Estherville Twp,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Write-in,5,2,3
+Emmet,Estherville Ward 1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Write-in,13,1,12
+Emmet,Estherville Ward 2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Write-in,13,0,13
+Emmet,Estherville Ward 3,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Write-in,7,3,4
+Emmet,Estherville Ward 4,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Write-in,6,3,3
+Emmet,Estherville Ward 5,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Write-in,5,1,4
+Emmet,City of Wallingford - HL-12 Mile,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Write-in,5,0,5
+Emmet,Armstrong,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Joe Crouch,2,0,2
+Emmet,Gruver,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Joe Crouch,0,0,0
+Emmet,City of Ringsted - DN-JC,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Joe Crouch,0,0,0
+Emmet,DOLLIVER,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Joe Crouch,0,0,0
+Emmet,Emmet / Estherville Twp,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Joe Crouch,0,0,0
+Emmet,Estherville Ward 1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Joe Crouch,0,0,0
+Emmet,Estherville Ward 2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Joe Crouch,0,0,0
+Emmet,Estherville Ward 3,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Joe Crouch,0,0,0
+Emmet,Estherville Ward 4,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Joe Crouch,0,0,0
+Emmet,Estherville Ward 5,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Joe Crouch,1,0,1
+Emmet,City of Wallingford - HL-12 Mile,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Joe Crouch,0,0,0
+Emmet,Armstrong,County Agricultural Extension Council Member,,,Leah Martens Keene,235,53,182
+Emmet,Gruver,County Agricultural Extension Council Member,,,Leah Martens Keene,106,20,86
+Emmet,City of Ringsted - DN-JC,County Agricultural Extension Council Member,,,Leah Martens Keene,129,19,110
+Emmet,DOLLIVER,County Agricultural Extension Council Member,,,Leah Martens Keene,90,15,75
+Emmet,Emmet / Estherville Twp,County Agricultural Extension Council Member,,,Leah Martens Keene,162,48,114
+Emmet,Estherville Ward 1,County Agricultural Extension Council Member,,,Leah Martens Keene,281,93,188
+Emmet,Estherville Ward 2,County Agricultural Extension Council Member,,,Leah Martens Keene,244,61,183
+Emmet,Estherville Ward 3,County Agricultural Extension Council Member,,,Leah Martens Keene,205,77,128
+Emmet,Estherville Ward 4,County Agricultural Extension Council Member,,,Leah Martens Keene,136,38,98
+Emmet,Estherville Ward 5,County Agricultural Extension Council Member,,,Leah Martens Keene,140,41,99
+Emmet,City of Wallingford - HL-12 Mile,County Agricultural Extension Council Member,,,Leah Martens Keene,136,13,123
+Emmet,Armstrong,County Agricultural Extension Council Member,,,Todd Eisenbacher,364,65,299
+Emmet,Gruver,County Agricultural Extension Council Member,,,Todd Eisenbacher,99,21,78
+Emmet,City of Ringsted - DN-JC,County Agricultural Extension Council Member,,,Todd Eisenbacher,177,24,153
+Emmet,DOLLIVER,County Agricultural Extension Council Member,,,Todd Eisenbacher,87,15,72
+Emmet,Emmet / Estherville Twp,County Agricultural Extension Council Member,,,Todd Eisenbacher,137,41,96
+Emmet,Estherville Ward 1,County Agricultural Extension Council Member,,,Todd Eisenbacher,260,91,169
+Emmet,Estherville Ward 2,County Agricultural Extension Council Member,,,Todd Eisenbacher,229,55,174
+Emmet,Estherville Ward 3,County Agricultural Extension Council Member,,,Todd Eisenbacher,187,64,123
+Emmet,Estherville Ward 4,County Agricultural Extension Council Member,,,Todd Eisenbacher,131,39,92
+Emmet,Estherville Ward 5,County Agricultural Extension Council Member,,,Todd Eisenbacher,130,38,92
+Emmet,City of Wallingford - HL-12 Mile,County Agricultural Extension Council Member,,,Todd Eisenbacher,137,15,122
+Emmet,Armstrong,County Agricultural Extension Council Member,,,Crystal Clabaugh,256,56,200
+Emmet,Gruver,County Agricultural Extension Council Member,,,Crystal Clabaugh,118,23,95
+Emmet,City of Ringsted - DN-JC,County Agricultural Extension Council Member,,,Crystal Clabaugh,138,16,122
+Emmet,DOLLIVER,County Agricultural Extension Council Member,,,Crystal Clabaugh,97,17,80
+Emmet,Emmet / Estherville Twp,County Agricultural Extension Council Member,,,Crystal Clabaugh,176,50,126
+Emmet,Estherville Ward 1,County Agricultural Extension Council Member,,,Crystal Clabaugh,299,99,200
+Emmet,Estherville Ward 2,County Agricultural Extension Council Member,,,Crystal Clabaugh,263,63,200
+Emmet,Estherville Ward 3,County Agricultural Extension Council Member,,,Crystal Clabaugh,226,73,153
+Emmet,Estherville Ward 4,County Agricultural Extension Council Member,,,Crystal Clabaugh,164,45,119
+Emmet,Estherville Ward 5,County Agricultural Extension Council Member,,,Crystal Clabaugh,147,43,104
+Emmet,City of Wallingford - HL-12 Mile,County Agricultural Extension Council Member,,,Crystal Clabaugh,151,19,132
+Emmet,Armstrong,County Agricultural Extension Council Member,,,Chantel Kloucek,221,46,175
+Emmet,Gruver,County Agricultural Extension Council Member,,,Chantel Kloucek,101,20,81
+Emmet,City of Ringsted - DN-JC,County Agricultural Extension Council Member,,,Chantel Kloucek,120,15,105
+Emmet,DOLLIVER,County Agricultural Extension Council Member,,,Chantel Kloucek,80,13,67
+Emmet,Emmet / Estherville Twp,County Agricultural Extension Council Member,,,Chantel Kloucek,156,46,110
+Emmet,Estherville Ward 1,County Agricultural Extension Council Member,,,Chantel Kloucek,263,89,174
+Emmet,Estherville Ward 2,County Agricultural Extension Council Member,,,Chantel Kloucek,215,50,165
+Emmet,Estherville Ward 3,County Agricultural Extension Council Member,,,Chantel Kloucek,175,62,113
+Emmet,Estherville Ward 4,County Agricultural Extension Council Member,,,Chantel Kloucek,138,38,100
+Emmet,Estherville Ward 5,County Agricultural Extension Council Member,,,Chantel Kloucek,124,38,86
+Emmet,City of Wallingford - HL-12 Mile,County Agricultural Extension Council Member,,,Chantel Kloucek,137,14,123
+Emmet,Armstrong,County Agricultural Extension Council Member,,,Joe Crouch,388,66,322
+Emmet,Gruver,County Agricultural Extension Council Member,,,Joe Crouch,101,21,80
+Emmet,City of Ringsted - DN-JC,County Agricultural Extension Council Member,,,Joe Crouch,167,23,144
+Emmet,DOLLIVER,County Agricultural Extension Council Member,,,Joe Crouch,76,14,62
+Emmet,Emmet / Estherville Twp,County Agricultural Extension Council Member,,,Joe Crouch,123,34,89
+Emmet,Estherville Ward 1,County Agricultural Extension Council Member,,,Joe Crouch,251,90,161
+Emmet,Estherville Ward 2,County Agricultural Extension Council Member,,,Joe Crouch,213,51,162
+Emmet,Estherville Ward 3,County Agricultural Extension Council Member,,,Joe Crouch,172,55,117
+Emmet,Estherville Ward 4,County Agricultural Extension Council Member,,,Joe Crouch,118,35,83
+Emmet,Estherville Ward 5,County Agricultural Extension Council Member,,,Joe Crouch,124,35,89
+Emmet,City of Wallingford - HL-12 Mile,County Agricultural Extension Council Member,,,Joe Crouch,127,13,114
+Emmet,Armstrong,County Agricultural Extension Council Member,,,Write-in,4,2,2
+Emmet,Gruver,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Emmet,City of Ringsted - DN-JC,County Agricultural Extension Council Member,,,Write-in,4,1,3
+Emmet,DOLLIVER,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Emmet,Emmet / Estherville Twp,County Agricultural Extension Council Member,,,Write-in,8,5,3
+Emmet,Estherville Ward 1,County Agricultural Extension Council Member,,,Write-in,4,0,4
+Emmet,Estherville Ward 2,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Emmet,Estherville Ward 3,County Agricultural Extension Council Member,,,Write-in,9,9,0
+Emmet,Estherville Ward 4,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Emmet,Estherville Ward 5,County Agricultural Extension Council Member,,,Write-in,5,1,4
+Emmet,City of Wallingford - HL-12 Mile,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Emmet,Armstrong,Supreme Court Justice,,,Yes,261,40,221
+Emmet,Gruver,Supreme Court Justice,,,Yes,84,17,67
+Emmet,City of Ringsted - DN-JC,Supreme Court Justice,,,Yes,132,17,115
+Emmet,DOLLIVER,Supreme Court Justice,,,Yes,75,12,63
+Emmet,Emmet / Estherville Twp,Supreme Court Justice,,,Yes,141,54,87
+Emmet,Estherville Ward 1,Supreme Court Justice,,,Yes,264,74,190
+Emmet,Estherville Ward 2,Supreme Court Justice,,,Yes,213,52,161
+Emmet,Estherville Ward 3,Supreme Court Justice,,,Yes,194,68,126
+Emmet,Estherville Ward 4,Supreme Court Justice,,,Yes,129,28,101
+Emmet,Estherville Ward 5,Supreme Court Justice,,,Yes,136,36,100
+Emmet,City of Wallingford - HL-12 Mile,Supreme Court Justice,,,Yes,121,16,105
+Emmet,Armstrong,Supreme Court Justice,,,No,76,13,63
+Emmet,Gruver,Supreme Court Justice,,,No,20,3,17
+Emmet,City of Ringsted - DN-JC,Supreme Court Justice,,,No,45,6,39
+Emmet,DOLLIVER,Supreme Court Justice,,,No,20,2,18
+Emmet,Emmet / Estherville Twp,Supreme Court Justice,,,No,32,12,20
+Emmet,Estherville Ward 1,Supreme Court Justice,,,No,78,19,59
+Emmet,Estherville Ward 2,Supreme Court Justice,,,No,77,26,51
+Emmet,Estherville Ward 3,Supreme Court Justice,,,No,60,24,36
+Emmet,Estherville Ward 4,Supreme Court Justice,,,No,48,19,29
+Emmet,Estherville Ward 5,Supreme Court Justice,,,No,39,15,24
+Emmet,City of Wallingford - HL-12 Mile,Supreme Court Justice,,,No,43,7,36
+Emmet,Armstrong,Court of Appeals Judge,,,Yes,251,38,213
+Emmet,Gruver,Court of Appeals Judge,,,Yes,85,17,68
+Emmet,City of Ringsted - DN-JC,Court of Appeals Judge,,,Yes,122,15,107
+Emmet,DOLLIVER,Court of Appeals Judge,,,Yes,69,11,58
+Emmet,Emmet / Estherville Twp,Court of Appeals Judge,,,Yes,138,54,84
+Emmet,Estherville Ward 1,Court of Appeals Judge,,,Yes,260,77,183
+Emmet,Estherville Ward 2,Court of Appeals Judge,,,Yes,200,49,151
+Emmet,Estherville Ward 3,Court of Appeals Judge,,,Yes,194,69,125
+Emmet,Estherville Ward 4,Court of Appeals Judge,,,Yes,126,27,99
+Emmet,Estherville Ward 5,Court of Appeals Judge,,,Yes,137,37,100
+Emmet,City of Wallingford - HL-12 Mile,Court of Appeals Judge,,,Yes,116,17,99
+Emmet,Armstrong,Court of Appeals Judge,,,No,72,8,64
+Emmet,Gruver,Court of Appeals Judge,,,No,19,3,16
+Emmet,City of Ringsted - DN-JC,Court of Appeals Judge,,,No,53,5,48
+Emmet,DOLLIVER,Court of Appeals Judge,,,No,20,3,17
+Emmet,Emmet / Estherville Twp,Court of Appeals Judge,,,No,24,6,18
+Emmet,Estherville Ward 1,Court of Appeals Judge,,,No,81,20,61
+Emmet,Estherville Ward 2,Court of Appeals Judge,,,No,78,23,55
+Emmet,Estherville Ward 3,Court of Appeals Judge,,,No,54,21,33
+Emmet,Estherville Ward 4,Court of Appeals Judge,,,No,45,18,27
+Emmet,Estherville Ward 5,Court of Appeals Judge,,,No,38,12,26
+Emmet,City of Wallingford - HL-12 Mile,Court of Appeals Judge,,,No,44,5,39
+Emmet,Armstrong,District 3A Judge,,,Yes,261,42,219
+Emmet,Gruver,District 3A Judge,,,Yes,86,16,70
+Emmet,City of Ringsted - DN-JC,District 3A Judge,,,Yes,136,18,118
+Emmet,DOLLIVER,District 3A Judge,,,Yes,79,11,68
+Emmet,Emmet / Estherville Twp,District 3A Judge,,,Yes,157,51,106
+Emmet,Estherville Ward 1,District 3A Judge,,,Yes,295,89,206
+Emmet,Estherville Ward 2,District 3A Judge,,,Yes,231,59,172
+Emmet,Estherville Ward 3,District 3A Judge,,,Yes,220,88,132
+Emmet,Estherville Ward 4,District 3A Judge,,,Yes,152,40,112
+Emmet,Estherville Ward 5,District 3A Judge,,,Yes,144,40,104
+Emmet,City of Wallingford - HL-12 Mile,District 3A Judge,,,Yes,127,21,106
+Emmet,Armstrong,District 3A Judge,,,No,75,8,67
+Emmet,Gruver,District 3A Judge,,,No,27,4,23
+Emmet,City of Ringsted - DN-JC,District 3A Judge,,,No,46,4,42
+Emmet,DOLLIVER,District 3A Judge,,,No,26,6,20
+Emmet,Emmet / Estherville Twp,District 3A Judge,,,No,33,12,21
+Emmet,Estherville Ward 1,District 3A Judge,,,No,84,25,59
+Emmet,Estherville Ward 2,District 3A Judge,,,No,81,22,59
+Emmet,Estherville Ward 3,District 3A Judge,,,No,55,17,38
+Emmet,Estherville Ward 4,District 3A Judge,,,No,40,14,26
+Emmet,Estherville Ward 5,District 3A Judge,,,No,39,13,26
+Emmet,City of Wallingford - HL-12 Mile,District 3A Judge,,,No,49,3,46
+Emmet,Armstrong,District 3A Associate Judge,,,Yes,263,45,218
+Emmet,Gruver,District 3A Associate Judge,,,Yes,77,16,61
+Emmet,City of Ringsted - DN-JC,District 3A Associate Judge,,,Yes,129,17,112
+Emmet,DOLLIVER,District 3A Associate Judge,,,Yes,76,14,62
+Emmet,Emmet / Estherville Twp,District 3A Associate Judge,,,Yes,142,52,90
+Emmet,Estherville Ward 1,District 3A Associate Judge,,,Yes,274,85,189
+Emmet,Estherville Ward 2,District 3A Associate Judge,,,Yes,215,53,162
+Emmet,Estherville Ward 3,District 3A Associate Judge,,,Yes,213,79,134
+Emmet,Estherville Ward 4,District 3A Associate Judge,,,Yes,125,32,93
+Emmet,Estherville Ward 5,District 3A Associate Judge,,,Yes,132,34,98
+Emmet,City of Wallingford - HL-12 Mile,District 3A Associate Judge,,,Yes,117,17,100
+Emmet,Armstrong,District 3A Associate Judge,,,No,71,5,66
+Emmet,Gruver,District 3A Associate Judge,,,No,21,3,18
+Emmet,City of Ringsted - DN-JC,District 3A Associate Judge,,,No,51,4,47
+Emmet,DOLLIVER,District 3A Associate Judge,,,No,18,1,17
+Emmet,Emmet / Estherville Twp,District 3A Associate Judge,,,No,26,6,20
+Emmet,Estherville Ward 1,District 3A Associate Judge,,,No,78,16,62
+Emmet,Estherville Ward 2,District 3A Associate Judge,,,No,70,20,50
+Emmet,Estherville Ward 3,District 3A Associate Judge,,,No,50,19,31
+Emmet,Estherville Ward 4,District 3A Associate Judge,,,No,42,13,29
+Emmet,Estherville Ward 5,District 3A Associate Judge,,,No,40,14,26
+Emmet,City of Wallingford - HL-12 Mile,District 3A Associate Judge,,,No,49,6,43
+Emmet,Armstrong,Constitutional Amendment 1,,,Yes,373,55,318
+Emmet,Gruver,Constitutional Amendment 1,,,Yes,136,22,114
+Emmet,City of Ringsted - DN-JC,Constitutional Amendment 1,,,Yes,181,19,162
+Emmet,DOLLIVER,Constitutional Amendment 1,,,Yes,109,9,100
+Emmet,Emmet / Estherville Twp,Constitutional Amendment 1,,,Yes,207,65,142
+Emmet,Estherville Ward 1,Constitutional Amendment 1,,,Yes,370,97,273
+Emmet,Estherville Ward 2,Constitutional Amendment 1,,,Yes,283,61,222
+Emmet,Estherville Ward 3,Constitutional Amendment 1,,,Yes,241,83,158
+Emmet,Estherville Ward 4,Constitutional Amendment 1,,,Yes,189,50,139
+Emmet,Estherville Ward 5,Constitutional Amendment 1,,,Yes,185,48,137
+Emmet,City of Wallingford - HL-12 Mile,Constitutional Amendment 1,,,Yes,201,23,178
+Emmet,Armstrong,Constitutional Amendment 1,,,No,65,22,43
+Emmet,Gruver,Constitutional Amendment 1,,,No,18,4,14
+Emmet,City of Ringsted - DN-JC,Constitutional Amendment 1,,,No,41,8,33
+Emmet,DOLLIVER,Constitutional Amendment 1,,,No,22,11,11
+Emmet,Emmet / Estherville Twp,Constitutional Amendment 1,,,No,26,15,11
+Emmet,Estherville Ward 1,Constitutional Amendment 1,,,No,66,37,29
+Emmet,Estherville Ward 2,Constitutional Amendment 1,,,No,77,30,47
+Emmet,Estherville Ward 3,Constitutional Amendment 1,,,No,96,51,45
+Emmet,Estherville Ward 4,Constitutional Amendment 1,,,No,61,28,33
+Emmet,Estherville Ward 5,Constitutional Amendment 1,,,No,37,22,15
+Emmet,City of Wallingford - HL-12 Mile,Constitutional Amendment 1,,,No,31,10,21

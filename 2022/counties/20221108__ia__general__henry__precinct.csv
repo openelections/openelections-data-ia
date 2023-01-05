@@ -1,0 +1,617 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Henry,Precinct 1,U.S. Senate,,REP,Chuck Grassley,772,224,548
+Henry,Precinct 2,U.S. Senate,,REP,Chuck Grassley,471,99,372
+Henry,Precinct 3,U.S. Senate,,REP,Chuck Grassley,863,365,498
+Henry,Precinct 4 MP1,U.S. Senate,,REP,Chuck Grassley,403,188,215
+Henry,Precinct 5 MP2,U.S. Senate,,REP,Chuck Grassley,320,117,203
+Henry,Precinct 6 MP3,U.S. Senate,,REP,Chuck Grassley,385,144,241
+Henry,Precinct 7 MP4,U.S. Senate,,REP,Chuck Grassley,375,163,212
+Henry,Precinct 8,U.S. Senate,,REP,Chuck Grassley,474,141,333
+Henry,Precinct 9,U.S. Senate,,REP,Chuck Grassley,539,119,420
+Henry,Precinct 1,U.S. Senate,,DEM,Michael Franken,309,171,138
+Henry,Precinct 2,U.S. Senate,,DEM,Michael Franken,187,73,114
+Henry,Precinct 3,U.S. Senate,,DEM,Michael Franken,344,211,133
+Henry,Precinct 4 MP1,U.S. Senate,,DEM,Michael Franken,240,154,86
+Henry,Precinct 5 MP2,U.S. Senate,,DEM,Michael Franken,227,114,113
+Henry,Precinct 6 MP3,U.S. Senate,,DEM,Michael Franken,266,157,109
+Henry,Precinct 7 MP4,U.S. Senate,,DEM,Michael Franken,202,129,73
+Henry,Precinct 8,U.S. Senate,,DEM,Michael Franken,193,86,107
+Henry,Precinct 9,U.S. Senate,,DEM,Michael Franken,293,105,188
+Henry,Precinct 1,U.S. Senate,,,Write-in,2,1,1
+Henry,Precinct 2,U.S. Senate,,,Write-in,1,0,1
+Henry,Precinct 3,U.S. Senate,,,Write-in,2,2,0
+Henry,Precinct 4 MP1,U.S. Senate,,,Write-in,0,0,0
+Henry,Precinct 5 MP2,U.S. Senate,,,Write-in,0,0,0
+Henry,Precinct 6 MP3,U.S. Senate,,,Write-in,0,0,0
+Henry,Precinct 7 MP4,U.S. Senate,,,Write-in,0,0,0
+Henry,Precinct 8,U.S. Senate,,,Write-in,0,0,0
+Henry,Precinct 9,U.S. Senate,,,Write-in,2,1,1
+Henry,Precinct 1,U.S. House,1,REP,Mariannette Miller-Meeks,797,237,560
+Henry,Precinct 2,U.S. House,1,REP,Mariannette Miller-Meeks,473,98,375
+Henry,Precinct 3,U.S. House,1,REP,Mariannette Miller-Meeks,869,369,500
+Henry,Precinct 4 MP1,U.S. House,1,REP,Mariannette Miller-Meeks,400,183,217
+Henry,Precinct 5 MP2,U.S. House,1,REP,Mariannette Miller-Meeks,327,123,204
+Henry,Precinct 6 MP3,U.S. House,1,REP,Mariannette Miller-Meeks,391,148,243
+Henry,Precinct 7 MP4,U.S. House,1,REP,Mariannette Miller-Meeks,378,169,209
+Henry,Precinct 8,U.S. House,1,REP,Mariannette Miller-Meeks,488,148,340
+Henry,Precinct 9,U.S. House,1,REP,Mariannette Miller-Meeks,550,124,426
+Henry,Precinct 1,U.S. House,1,DEM,Christina Bohannan,292,159,133
+Henry,Precinct 2,U.S. House,1,DEM,Christina Bohannan,184,70,114
+Henry,Precinct 3,U.S. House,1,DEM,Christina Bohannan,334,205,129
+Henry,Precinct 4 MP1,U.S. House,1,DEM,Christina Bohannan,233,153,80
+Henry,Precinct 5 MP2,U.S. House,1,DEM,Christina Bohannan,221,107,114
+Henry,Precinct 6 MP3,U.S. House,1,DEM,Christina Bohannan,257,152,105
+Henry,Precinct 7 MP4,U.S. House,1,DEM,Christina Bohannan,198,123,75
+Henry,Precinct 8,U.S. House,1,DEM,Christina Bohannan,180,79,101
+Henry,Precinct 9,U.S. House,1,DEM,Christina Bohannan,284,101,183
+Henry,Precinct 1,U.S. House,1,,Write-in,0,0,0
+Henry,Precinct 2,U.S. House,1,,Write-in,0,0,0
+Henry,Precinct 3,U.S. House,1,,Write-in,2,1,1
+Henry,Precinct 4 MP1,U.S. House,1,,Write-in,0,0,0
+Henry,Precinct 5 MP2,U.S. House,1,,Write-in,0,0,0
+Henry,Precinct 6 MP3,U.S. House,1,,Write-in,0,0,0
+Henry,Precinct 7 MP4,U.S. House,1,,Write-in,0,0,0
+Henry,Precinct 8,U.S. House,1,,Write-in,0,0,0
+Henry,Precinct 9,U.S. House,1,,Write-in,0,0,0
+Henry,Precinct 1,Governor,,REP,Kim Reynolds and Adam Gregg,818,248,570
+Henry,Precinct 2,Governor,,REP,Kim Reynolds and Adam Gregg,498,107,391
+Henry,Precinct 3,Governor,,REP,Kim Reynolds and Adam Gregg,904,380,524
+Henry,Precinct 4 MP1,Governor,,REP,Kim Reynolds and Adam Gregg,419,196,223
+Henry,Precinct 5 MP2,Governor,,REP,Kim Reynolds and Adam Gregg,339,129,210
+Henry,Precinct 6 MP3,Governor,,REP,Kim Reynolds and Adam Gregg,408,153,255
+Henry,Precinct 7 MP4,Governor,,REP,Kim Reynolds and Adam Gregg,389,177,212
+Henry,Precinct 8,Governor,,REP,Kim Reynolds and Adam Gregg,498,148,350
+Henry,Precinct 9,Governor,,REP,Kim Reynolds and Adam Gregg,564,127,437
+Henry,Precinct 1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,273,155,118
+Henry,Precinct 2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,150,60,90
+Henry,Precinct 3,Governor,,DEM,Deidre DeJear and Eric Van Lancker,292,189,103
+Henry,Precinct 4 MP1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,218,145,73
+Henry,Precinct 5 MP2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,203,104,99
+Henry,Precinct 6 MP3,Governor,,DEM,Deidre DeJear and Eric Van Lancker,238,147,91
+Henry,Precinct 7 MP4,Governor,,DEM,Deidre DeJear and Eric Van Lancker,181,116,65
+Henry,Precinct 8,Governor,,DEM,Deidre DeJear and Eric Van Lancker,166,79,87
+Henry,Precinct 9,Governor,,DEM,Deidre DeJear and Eric Van Lancker,266,95,171
+Henry,Precinct 1,Governor,,LIB,Rick Stewart and Marco Battaglia,14,2,12
+Henry,Precinct 2,Governor,,LIB,Rick Stewart and Marco Battaglia,13,4,9
+Henry,Precinct 3,Governor,,LIB,Rick Stewart and Marco Battaglia,23,9,14
+Henry,Precinct 4 MP1,Governor,,LIB,Rick Stewart and Marco Battaglia,10,5,5
+Henry,Precinct 5 MP2,Governor,,LIB,Rick Stewart and Marco Battaglia,18,5,13
+Henry,Precinct 6 MP3,Governor,,LIB,Rick Stewart and Marco Battaglia,16,6,10
+Henry,Precinct 7 MP4,Governor,,LIB,Rick Stewart and Marco Battaglia,13,5,8
+Henry,Precinct 8,Governor,,LIB,Rick Stewart and Marco Battaglia,15,9,6
+Henry,Precinct 9,Governor,,LIB,Rick Stewart and Marco Battaglia,16,7,9
+Henry,Precinct 1,Governor,,,Write-in,0,0,0
+Henry,Precinct 2,Governor,,,Write-in,1,1,0
+Henry,Precinct 3,Governor,,,Write-in,0,0,0
+Henry,Precinct 4 MP1,Governor,,,Write-in,0,0,0
+Henry,Precinct 5 MP2,Governor,,,Write-in,0,0,0
+Henry,Precinct 6 MP3,Governor,,,Write-in,0,0,0
+Henry,Precinct 7 MP4,Governor,,,Write-in,0,0,0
+Henry,Precinct 8,Governor,,,Write-in,0,0,0
+Henry,Precinct 9,Governor,,,Write-in,0,0,0
+Henry,Precinct 1,Secretary of State,,REP,Paul D. Pate,831,247,584
+Henry,Precinct 2,Secretary of State,,REP,Paul D. Pate,484,108,376
+Henry,Precinct 3,Secretary of State,,REP,Paul D. Pate,896,381,515
+Henry,Precinct 4 MP1,Secretary of State,,REP,Paul D. Pate,424,203,221
+Henry,Precinct 5 MP2,Secretary of State,,REP,Paul D. Pate,342,128,214
+Henry,Precinct 6 MP3,Secretary of State,,REP,Paul D. Pate,403,157,246
+Henry,Precinct 7 MP4,Secretary of State,,REP,Paul D. Pate,400,182,218
+Henry,Precinct 8,Secretary of State,,REP,Paul D. Pate,486,143,343
+Henry,Precinct 9,Secretary of State,,REP,Paul D. Pate,544,120,424
+Henry,Precinct 1,Secretary of State,,DEM,Joel Miller,253,145,108
+Henry,Precinct 2,Secretary of State,,DEM,Joel Miller,166,62,104
+Henry,Precinct 3,Secretary of State,,DEM,Joel Miller,316,194,122
+Henry,Precinct 4 MP1,Secretary of State,,DEM,Joel Miller,221,143,78
+Henry,Precinct 5 MP2,Secretary of State,,DEM,Joel Miller,209,106,103
+Henry,Precinct 6 MP3,Secretary of State,,DEM,Joel Miller,246,143,103
+Henry,Precinct 7 MP4,Secretary of State,,DEM,Joel Miller,173,113,60
+Henry,Precinct 8,Secretary of State,,DEM,Joel Miller,186,90,96
+Henry,Precinct 9,Secretary of State,,DEM,Joel Miller,289,105,184
+Henry,Precinct 1,Secretary of State,,,Write-in,0,0,0
+Henry,Precinct 2,Secretary of State,,,Write-in,0,0,0
+Henry,Precinct 3,Secretary of State,,,Write-in,0,0,0
+Henry,Precinct 4 MP1,Secretary of State,,,Write-in,1,1,0
+Henry,Precinct 5 MP2,Secretary of State,,,Write-in,0,0,0
+Henry,Precinct 6 MP3,Secretary of State,,,Write-in,0,0,0
+Henry,Precinct 7 MP4,Secretary of State,,,Write-in,0,0,0
+Henry,Precinct 8,Secretary of State,,,Write-in,0,0,0
+Henry,Precinct 9,Secretary of State,,,Write-in,0,0,0
+Henry,Precinct 1,Auditor of State,,REP,Todd Halbur,719,196,523
+Henry,Precinct 2,Auditor of State,,REP,Todd Halbur,420,85,335
+Henry,Precinct 3,Auditor of State,,REP,Todd Halbur,796,333,463
+Henry,Precinct 4 MP1,Auditor of State,,REP,Todd Halbur,370,162,208
+Henry,Precinct 5 MP2,Auditor of State,,REP,Todd Halbur,302,111,191
+Henry,Precinct 6 MP3,Auditor of State,,REP,Todd Halbur,358,128,230
+Henry,Precinct 7 MP4,Auditor of State,,REP,Todd Halbur,337,145,192
+Henry,Precinct 8,Auditor of State,,REP,Todd Halbur,453,130,323
+Henry,Precinct 9,Auditor of State,,REP,Todd Halbur,504,112,392
+Henry,Precinct 1,Auditor of State,,DEM,Rob Sand,351,191,160
+Henry,Precinct 2,Auditor of State,,DEM,Rob Sand,233,86,147
+Henry,Precinct 3,Auditor of State,,DEM,Rob Sand,407,236,171
+Henry,Precinct 4 MP1,Auditor of State,,DEM,Rob Sand,269,177,92
+Henry,Precinct 5 MP2,Auditor of State,,DEM,Rob Sand,240,119,121
+Henry,Precinct 6 MP3,Auditor of State,,DEM,Rob Sand,288,173,115
+Henry,Precinct 7 MP4,Auditor of State,,DEM,Rob Sand,231,149,82
+Henry,Precinct 8,Auditor of State,,DEM,Rob Sand,220,101,119
+Henry,Precinct 9,Auditor of State,,DEM,Rob Sand,324,115,209
+Henry,Precinct 1,Auditor of State,,,Write-in,0,0,0
+Henry,Precinct 2,Auditor of State,,,Write-in,0,0,0
+Henry,Precinct 3,Auditor of State,,,Write-in,0,0,0
+Henry,Precinct 4 MP1,Auditor of State,,,Write-in,0,0,0
+Henry,Precinct 5 MP2,Auditor of State,,,Write-in,0,0,0
+Henry,Precinct 6 MP3,Auditor of State,,,Write-in,1,0,1
+Henry,Precinct 7 MP4,Auditor of State,,,Write-in,0,0,0
+Henry,Precinct 8,Auditor of State,,,Write-in,0,0,0
+Henry,Precinct 9,Auditor of State,,,Write-in,0,0,0
+Henry,Precinct 1,Treasurer of State,,REP,Roby Smith,749,211,538
+Henry,Precinct 2,Treasurer of State,,REP,Roby Smith,425,79,346
+Henry,Precinct 3,Treasurer of State,,REP,Roby Smith,801,333,468
+Henry,Precinct 4 MP1,Treasurer of State,,REP,Roby Smith,387,173,214
+Henry,Precinct 5 MP2,Treasurer of State,,REP,Roby Smith,302,111,191
+Henry,Precinct 6 MP3,Treasurer of State,,REP,Roby Smith,367,136,231
+Henry,Precinct 7 MP4,Treasurer of State,,REP,Roby Smith,325,144,181
+Henry,Precinct 8,Treasurer of State,,REP,Roby Smith,453,129,324
+Henry,Precinct 9,Treasurer of State,,REP,Roby Smith,484,105,379
+Henry,Precinct 1,Treasurer of State,,DEM,Michael L. Fitzgerald,324,178,146
+Henry,Precinct 2,Treasurer of State,,DEM,Michael L. Fitzgerald,222,89,133
+Henry,Precinct 3,Treasurer of State,,DEM,Michael L. Fitzgerald,400,236,164
+Henry,Precinct 4 MP1,Treasurer of State,,DEM,Michael L. Fitzgerald,256,173,83
+Henry,Precinct 5 MP2,Treasurer of State,,DEM,Michael L. Fitzgerald,243,123,120
+Henry,Precinct 6 MP3,Treasurer of State,,DEM,Michael L. Fitzgerald,280,167,113
+Henry,Precinct 7 MP4,Treasurer of State,,DEM,Michael L. Fitzgerald,245,150,95
+Henry,Precinct 8,Treasurer of State,,DEM,Michael L. Fitzgerald,211,99,112
+Henry,Precinct 9,Treasurer of State,,DEM,Michael L. Fitzgerald,344,121,223
+Henry,Precinct 1,Treasurer of State,,,Write-in,0,0,0
+Henry,Precinct 2,Treasurer of State,,,Write-in,0,0,0
+Henry,Precinct 3,Treasurer of State,,,Write-in,0,0,0
+Henry,Precinct 4 MP1,Treasurer of State,,,Write-in,0,0,0
+Henry,Precinct 5 MP2,Treasurer of State,,,Write-in,0,0,0
+Henry,Precinct 6 MP3,Treasurer of State,,,Write-in,1,0,1
+Henry,Precinct 7 MP4,Treasurer of State,,,Write-in,0,0,0
+Henry,Precinct 8,Treasurer of State,,,Write-in,0,0,0
+Henry,Precinct 9,Treasurer of State,,,Write-in,1,0,1
+Henry,Precinct 1,Secretary of Agriculture,,REP,Mike Naig,834,246,588
+Henry,Precinct 2,Secretary of Agriculture,,REP,Mike Naig,498,108,390
+Henry,Precinct 3,Secretary of Agriculture,,REP,Mike Naig,908,381,527
+Henry,Precinct 4 MP1,Secretary of Agriculture,,REP,Mike Naig,428,200,228
+Henry,Precinct 5 MP2,Secretary of Agriculture,,REP,Mike Naig,346,126,220
+Henry,Precinct 6 MP3,Secretary of Agriculture,,REP,Mike Naig,412,156,256
+Henry,Precinct 7 MP4,Secretary of Agriculture,,REP,Mike Naig,396,183,213
+Henry,Precinct 8,Secretary of Agriculture,,REP,Mike Naig,508,144,364
+Henry,Precinct 9,Secretary of Agriculture,,REP,Mike Naig,558,121,437
+Henry,Precinct 1,Secretary of Agriculture,,DEM,John Norwood,234,137,97
+Henry,Precinct 2,Secretary of Agriculture,,DEM,John Norwood,150,58,92
+Henry,Precinct 3,Secretary of Agriculture,,DEM,John Norwood,295,187,108
+Henry,Precinct 4 MP1,Secretary of Agriculture,,DEM,John Norwood,207,138,69
+Henry,Precinct 5 MP2,Secretary of Agriculture,,DEM,John Norwood,194,102,92
+Henry,Precinct 6 MP3,Secretary of Agriculture,,DEM,John Norwood,233,142,91
+Henry,Precinct 7 MP4,Secretary of Agriculture,,DEM,John Norwood,174,112,62
+Henry,Precinct 8,Secretary of Agriculture,,DEM,John Norwood,163,88,75
+Henry,Precinct 9,Secretary of Agriculture,,DEM,John Norwood,264,100,164
+Henry,Precinct 1,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Precinct 2,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Precinct 3,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Precinct 4 MP1,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Precinct 5 MP2,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Precinct 6 MP3,Secretary of Agriculture,,,Write-in,1,0,1
+Henry,Precinct 7 MP4,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Precinct 8,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Precinct 9,Secretary of Agriculture,,,Write-in,0,0,0
+Henry,Precinct 1,Attorney General,,REP,Brenna Bird,719,192,527
+Henry,Precinct 2,Attorney General,,REP,Brenna Bird,428,81,347
+Henry,Precinct 3,Attorney General,,REP,Brenna Bird,803,327,476
+Henry,Precinct 4 MP1,Attorney General,,REP,Brenna Bird,365,160,205
+Henry,Precinct 5 MP2,Attorney General,,REP,Brenna Bird,311,108,203
+Henry,Precinct 6 MP3,Attorney General,,REP,Brenna Bird,371,134,237
+Henry,Precinct 7 MP4,Attorney General,,REP,Brenna Bird,333,146,187
+Henry,Precinct 8,Attorney General,,REP,Brenna Bird,452,132,320
+Henry,Precinct 9,Attorney General,,REP,Brenna Bird,501,106,395
+Henry,Precinct 1,Attorney General,,DEM,Tom Miller,353,197,156
+Henry,Precinct 2,Attorney General,,DEM,Tom Miller,217,86,131
+Henry,Precinct 3,Attorney General,,DEM,Tom Miller,399,239,160
+Henry,Precinct 4 MP1,Attorney General,,DEM,Tom Miller,268,177,91
+Henry,Precinct 5 MP2,Attorney General,,DEM,Tom Miller,231,122,109
+Henry,Precinct 6 MP3,Attorney General,,DEM,Tom Miller,281,170,111
+Henry,Precinct 7 MP4,Attorney General,,DEM,Tom Miller,231,143,88
+Henry,Precinct 8,Attorney General,,DEM,Tom Miller,210,98,112
+Henry,Precinct 9,Attorney General,,DEM,Tom Miller,324,117,207
+Henry,Precinct 1,Attorney General,,,Write-in,0,0,0
+Henry,Precinct 2,Attorney General,,,Write-in,0,0,0
+Henry,Precinct 3,Attorney General,,,Write-in,0,0,0
+Henry,Precinct 4 MP1,Attorney General,,,Write-in,0,0,0
+Henry,Precinct 5 MP2,Attorney General,,,Write-in,0,0,0
+Henry,Precinct 6 MP3,Attorney General,,,Write-in,0,0,0
+Henry,Precinct 7 MP4,Attorney General,,,Write-in,1,0,1
+Henry,Precinct 8,Attorney General,,,Write-in,0,0,0
+Henry,Precinct 9,Attorney General,,,Write-in,1,0,1
+Henry,Precinct 3,State Senate,44,REP,Adrian Dickey,824,341,483
+Henry,Precinct 4 MP1,State Senate,44,REP,Adrian Dickey,381,174,207
+Henry,Precinct 5 MP2,State Senate,44,REP,Adrian Dickey,313,116,197
+Henry,Precinct 6 MP3,State Senate,44,REP,Adrian Dickey,360,129,231
+Henry,Precinct 7 MP4,State Senate,44,REP,Adrian Dickey,340,148,192
+Henry,Precinct 3,State Senate,44,DEM,Rich Taylor,392,237,155
+Henry,Precinct 4 MP1,State Senate,44,DEM,Rich Taylor,269,176,93
+Henry,Precinct 5 MP2,State Senate,44,DEM,Rich Taylor,241,121,120
+Henry,Precinct 6 MP3,State Senate,44,DEM,Rich Taylor,292,172,120
+Henry,Precinct 7 MP4,State Senate,44,DEM,Rich Taylor,237,148,89
+Henry,Precinct 3,State Senate,44,,Write-in,1,0,1
+Henry,Precinct 4 MP1,State Senate,44,,Write-in,0,0,0
+Henry,Precinct 5 MP2,State Senate,44,,Write-in,1,1,0
+Henry,Precinct 6 MP3,State Senate,44,,Write-in,1,1,0
+Henry,Precinct 7 MP4,State Senate,44,,Write-in,0,0,0
+Henry,Precinct 3,State House,87,REP,Jeff Shipley,812,336,476
+Henry,Precinct 4 MP1,State House,87,REP,Jeff Shipley,378,173,205
+Henry,Precinct 5 MP2,State House,87,REP,Jeff Shipley,307,114,193
+Henry,Precinct 6 MP3,State House,87,REP,Jeff Shipley,370,140,230
+Henry,Precinct 7 MP4,State House,87,REP,Jeff Shipley,335,149,186
+Henry,Precinct 3,State House,87,DEM,Mike Heaton,403,240,163
+Henry,Precinct 4 MP1,State House,87,DEM,Mike Heaton,271,175,96
+Henry,Precinct 5 MP2,State House,87,DEM,Mike Heaton,249,123,126
+Henry,Precinct 6 MP3,State House,87,DEM,Mike Heaton,288,166,122
+Henry,Precinct 7 MP4,State House,87,DEM,Mike Heaton,243,147,96
+Henry,Precinct 3,State House,87,,Write-in,3,2,1
+Henry,Precinct 4 MP1,State House,87,,Write-in,0,0,0
+Henry,Precinct 5 MP2,State House,87,,Write-in,1,1,0
+Henry,Precinct 6 MP3,State House,87,,Write-in,1,0,1
+Henry,Precinct 7 MP4,State House,87,,Write-in,0,0,0
+Henry,Precinct 1,State House,95,REP,Taylor Collins,901,266,635
+Henry,Precinct 2,State House,95,REP,Taylor Collins,550,122,428
+Henry,Precinct 8,State House,95,REP,Taylor Collins,554,168,386
+Henry,Precinct 9,State House,95,REP,Taylor Collins,671,156,515
+Henry,Precinct 1,State House,95,,Write-in,9,5,4
+Henry,Precinct 2,State House,95,,Write-in,12,6,6
+Henry,Precinct 8,State House,95,,Write-in,9,4,5
+Henry,Precinct 9,State House,95,,Write-in,13,4,9
+Henry,Precinct 1,County Board of Supervisors At Large,,REP,Marc B. Lindeen,916,287,629
+Henry,Precinct 2,County Board of Supervisors At Large,,REP,Marc B. Lindeen,551,134,417
+Henry,Precinct 3,County Board of Supervisors At Large,,REP,Marc B. Lindeen,1019,463,556
+Henry,Precinct 4 MP1,County Board of Supervisors At Large,,REP,Marc B. Lindeen,525,272,253
+Henry,Precinct 5 MP2,County Board of Supervisors At Large,,REP,Marc B. Lindeen,440,179,261
+Henry,Precinct 6 MP3,County Board of Supervisors At Large,,REP,Marc B. Lindeen,513,220,293
+Henry,Precinct 7 MP4,County Board of Supervisors At Large,,REP,Marc B. Lindeen,481,238,243
+Henry,Precinct 8,County Board of Supervisors At Large,,REP,Marc B. Lindeen,556,167,389
+Henry,Precinct 9,County Board of Supervisors At Large,,REP,Marc B. Lindeen,675,164,511
+Henry,Precinct 1,County Board of Supervisors At Large,,,Write-in,12,7,5
+Henry,Precinct 2,County Board of Supervisors At Large,,,Write-in,14,5,9
+Henry,Precinct 3,County Board of Supervisors At Large,,,Write-in,28,11,17
+Henry,Precinct 4 MP1,County Board of Supervisors At Large,,,Write-in,13,8,5
+Henry,Precinct 5 MP2,County Board of Supervisors At Large,,,Write-in,11,7,4
+Henry,Precinct 6 MP3,County Board of Supervisors At Large,,,Write-in,12,5,7
+Henry,Precinct 7 MP4,County Board of Supervisors At Large,,,Write-in,11,5,6
+Henry,Precinct 8,County Board of Supervisors At Large,,,Write-in,10,5,5
+Henry,Precinct 9,County Board of Supervisors At Large,,,Write-in,10,1,9
+Henry,Precinct 1,County Treasurer,,REP,Kellie Sloan,922,291,631
+Henry,Precinct 2,County Treasurer,,REP,Kellie Sloan,563,134,429
+Henry,Precinct 3,County Treasurer,,REP,Kellie Sloan,1042,469,573
+Henry,Precinct 4 MP1,County Treasurer,,REP,Kellie Sloan,522,263,259
+Henry,Precinct 5 MP2,County Treasurer,,REP,Kellie Sloan,450,182,268
+Henry,Precinct 6 MP3,County Treasurer,,REP,Kellie Sloan,517,211,306
+Henry,Precinct 7 MP4,County Treasurer,,REP,Kellie Sloan,485,239,246
+Henry,Precinct 8,County Treasurer,,REP,Kellie Sloan,569,173,396
+Henry,Precinct 9,County Treasurer,,REP,Kellie Sloan,695,169,526
+Henry,Precinct 1,County Treasurer,,,Write-in,7,4,3
+Henry,Precinct 2,County Treasurer,,,Write-in,5,2,3
+Henry,Precinct 3,County Treasurer,,,Write-in,8,3,5
+Henry,Precinct 4 MP1,County Treasurer,,,Write-in,12,9,3
+Henry,Precinct 5 MP2,County Treasurer,,,Write-in,10,5,5
+Henry,Precinct 6 MP3,County Treasurer,,,Write-in,6,2,4
+Henry,Precinct 7 MP4,County Treasurer,,,Write-in,6,2,4
+Henry,Precinct 8,County Treasurer,,,Write-in,3,1,2
+Henry,Precinct 9,County Treasurer,,,Write-in,5,0,5
+Henry,Precinct 1,County Recorder,,REP,Lynnae Buffington,711,187,524
+Henry,Precinct 2,County Recorder,,REP,Lynnae Buffington,452,94,358
+Henry,Precinct 3,County Recorder,,REP,Lynnae Buffington,744,311,433
+Henry,Precinct 4 MP1,County Recorder,,REP,Lynnae Buffington,370,169,201
+Henry,Precinct 5 MP2,County Recorder,,REP,Lynnae Buffington,296,113,183
+Henry,Precinct 6 MP3,County Recorder,,REP,Lynnae Buffington,356,133,223
+Henry,Precinct 7 MP4,County Recorder,,REP,Lynnae Buffington,325,152,173
+Henry,Precinct 8,County Recorder,,REP,Lynnae Buffington,434,118,316
+Henry,Precinct 9,County Recorder,,REP,Lynnae Buffington,495,112,383
+Henry,Precinct 1,County Recorder,,DEM,Mindy Fitzgibbon,341,186,155
+Henry,Precinct 2,County Recorder,,DEM,Mindy Fitzgibbon,181,70,111
+Henry,Precinct 3,County Recorder,,DEM,Mindy Fitzgibbon,438,250,188
+Henry,Precinct 4 MP1,County Recorder,,DEM,Mindy Fitzgibbon,262,173,89
+Henry,Precinct 5 MP2,County Recorder,,DEM,Mindy Fitzgibbon,242,118,124
+Henry,Precinct 6 MP3,County Recorder,,DEM,Mindy Fitzgibbon,285,166,119
+Henry,Precinct 7 MP4,County Recorder,,DEM,Mindy Fitzgibbon,237,138,99
+Henry,Precinct 8,County Recorder,,DEM,Mindy Fitzgibbon,219,112,107
+Henry,Precinct 9,County Recorder,,DEM,Mindy Fitzgibbon,329,110,219
+Henry,Precinct 1,County Recorder,,,Write-in,0,0,0
+Henry,Precinct 2,County Recorder,,,Write-in,0,0,0
+Henry,Precinct 3,County Recorder,,,Write-in,1,1,0
+Henry,Precinct 4 MP1,County Recorder,,,Write-in,1,1,0
+Henry,Precinct 5 MP2,County Recorder,,,Write-in,3,1,2
+Henry,Precinct 6 MP3,County Recorder,,,Write-in,2,1,1
+Henry,Precinct 7 MP4,County Recorder,,,Write-in,0,0,0
+Henry,Precinct 8,County Recorder,,,Write-in,0,0,0
+Henry,Precinct 9,County Recorder,,,Write-in,0,0,0
+Henry,Precinct 1,County Attorney,,REP,Darin R. Stater,897,281,616
+Henry,Precinct 2,County Attorney,,REP,Darin R. Stater,540,126,414
+Henry,Precinct 3,County Attorney,,REP,Darin R. Stater,992,437,555
+Henry,Precinct 4 MP1,County Attorney,,REP,Darin R. Stater,509,258,251
+Henry,Precinct 5 MP2,County Attorney,,REP,Darin R. Stater,423,165,258
+Henry,Precinct 6 MP3,County Attorney,,REP,Darin R. Stater,504,212,292
+Henry,Precinct 7 MP4,County Attorney,,REP,Darin R. Stater,468,227,241
+Henry,Precinct 8,County Attorney,,REP,Darin R. Stater,544,163,381
+Henry,Precinct 9,County Attorney,,REP,Darin R. Stater,665,159,506
+Henry,Precinct 1,County Attorney,,,Write-in,8,6,2
+Henry,Precinct 2,County Attorney,,,Write-in,10,4,6
+Henry,Precinct 3,County Attorney,,,Write-in,21,9,12
+Henry,Precinct 4 MP1,County Attorney,,,Write-in,15,10,5
+Henry,Precinct 5 MP2,County Attorney,,,Write-in,13,7,6
+Henry,Precinct 6 MP3,County Attorney,,,Write-in,12,4,8
+Henry,Precinct 7 MP4,County Attorney,,,Write-in,12,4,8
+Henry,Precinct 8,County Attorney,,,Write-in,10,5,5
+Henry,Precinct 9,County Attorney,,,Write-in,10,2,8
+Henry,Precinct 8,Baltimore Township Trustee,,,Write-in,31,7,24
+Henry,Precinct 8,Baltimore Township Trustee,,,Joshua Lair,2,0,2
+Henry,Precinct 8,Baltimore Township Clerk,,,Joseph Johnson,309,72,237
+Henry,Precinct 8,Baltimore Township Clerk,,,Write-in,2,1,1
+Henry,Precinct 2,Canaan Township Trustee,,,Write-in,10,6,4
+Henry,Precinct 2,Canaan Township Trustee,,,Andrew Grieser,4,0,4
+Henry,Precinct 2,Canaan Township Clerk,,,Katie Byczek,119,51,68
+Henry,Precinct 2,Canaan Township Clerk,,,Write-in,1,0,1
+Henry,Precinct 3,Center Township Trustee,,,Stephen R. Gray,400,201,199
+Henry,Precinct 3,Center Township Trustee,,,Write-in,2,1,1
+Henry,Precinct 3,Center Township Clerk,,,Debbie Smith,404,200,204
+Henry,Precinct 3,Center Township Clerk,,,Write-in,1,1,0
+Henry,Precinct 8,Jackson Township Trustee,,,Write-in,17,13,4
+Henry,Precinct 8,Jackson Township Trustee,,,Scott Fedler,3,0,3
+Henry,Precinct 8,Jackson Township Clerk,,,Write-in,12,9,3
+Henry,Precinct 8,Jackson Township Clerk,,,Steven Detrick,1,0,1
+Henry,Precinct 1,Jefferson Township Trustee,,,Paul VonTersch,171,32,139
+Henry,Precinct 1,Jefferson Township Trustee,,,Write-in,1,0,1
+Henry,Precinct 1,Jefferson Township Clerk,,,Dwain Alvine,173,33,140
+Henry,Precinct 1,Jefferson Township Clerk,,,Write-in,1,0,1
+Henry,Precinct 1,Marion Township Trustee,,,Write-in,9,5,4
+Henry,Precinct 1,Marion Township Trustee,,,Jeremiah Greiner,1,0,1
+Henry,Precinct 1,Marion Township Trustee To Fill Vacancy,,,Ryan Coop,93,66,27
+Henry,Precinct 1,Marion Township Trustee To Fill Vacancy,,,Write-in,2,2,0
+Henry,Precinct 1,Marion Township Clerk,,,Write-in,0,0,0
+Henry,Precinct 1,Marion Township Clerk,,,Sara Mertens,1,1,0
+Henry,Precinct 9,New London Township Trustee,,,John Fitzpatrick,192,65,127
+Henry,Precinct 9,New London Township Trustee,,,Write-in,0,0,0
+Henry,Precinct 9,New London Township Clerk,,,Write-in,6,0,6
+Henry,Precinct 9,New London Township Clerk,,,Christa Lehman,1,0,1
+Henry,Precinct 3,Salem Township Trustee,,,Jon Mills,148,54,94
+Henry,Precinct 3,Salem Township Trustee,,,Write-in,0,0,0
+Henry,Precinct 3,Salem Township Trustee To Fill Vacancy,,,Jerad Syfert,151,54,97
+Henry,Precinct 3,Salem Township Trustee To Fill Vacancy,,,Write-in,0,0,0
+Henry,Precinct 3,Salem Township Clerk,,,Dan L. Wesely,149,54,95
+Henry,Precinct 3,Salem Township Clerk,,,Write-in,0,0,0
+Henry,Precinct 2,Scott Township Trustee,,,Brian Haymond,102,24,78
+Henry,Precinct 2,Scott Township Trustee,,,Write-in,2,0,2
+Henry,Precinct 2,Scott Township Clerk,,,Patti A. Gerling,104,23,81
+Henry,Precinct 2,Scott Township Clerk,,,Write-in,4,0,4
+Henry,Precinct 3,Tippecanoe Township Trustee,,,Mike Kerr,244,113,131
+Henry,Precinct 3,Tippecanoe Township Trustee,,,Write-in,1,1,0
+Henry,Precinct 3,Tippecanoe Township Clerk,,,Gary E. Oldt,248,115,133
+Henry,Precinct 3,Tippecanoe Township Clerk,,,Write-in,1,1,0
+Henry,Precinct 1,Trenton Township Trustee,,,Write-in,25,20,5
+Henry,Precinct 1,Trenton Township Trustee,,,Stephen Bain,2,0,2
+Henry,Precinct 1,Trenton Township Clerk,,,Terri Bain,152,100,52
+Henry,Precinct 1,Trenton Township Clerk,,,Write-in,3,2,1
+Henry,Precinct 1,Wayne Township Trustee,,,Allen G. Rodgers,91,25,66
+Henry,Precinct 2,Wayne Township Trustee,,,Allen G. Rodgers,70,21,49
+Henry,Precinct 1,Wayne Township Trustee,,,Write-in,1,1,0
+Henry,Precinct 2,Wayne Township Trustee,,,Write-in,0,0,0
+Henry,Precinct 1,Wayne Township Clerk,,,Brad Benson,92,28,64
+Henry,Precinct 2,Wayne Township Clerk,,,Brad Benson,71,21,50
+Henry,Precinct 1,Wayne Township Clerk,,,Write-in,1,1,0
+Henry,Precinct 2,Wayne Township Clerk,,,Write-in,0,0,0
+Henry,Precinct 1,County Health Center Trustees,,,Robert G. Meyer,718,226,492
+Henry,Precinct 2,County Health Center Trustees,,,Robert G. Meyer,400,105,295
+Henry,Precinct 3,County Health Center Trustees,,,Robert G. Meyer,763,339,424
+Henry,Precinct 4 MP1,County Health Center Trustees,,,Robert G. Meyer,395,210,185
+Henry,Precinct 5 MP2,County Health Center Trustees,,,Robert G. Meyer,321,135,186
+Henry,Precinct 6 MP3,County Health Center Trustees,,,Robert G. Meyer,393,182,211
+Henry,Precinct 7 MP4,County Health Center Trustees,,,Robert G. Meyer,365,188,177
+Henry,Precinct 8,County Health Center Trustees,,,Robert G. Meyer,382,126,256
+Henry,Precinct 9,County Health Center Trustees,,,Robert G. Meyer,473,128,345
+Henry,Precinct 1,County Health Center Trustees,,,Kent Lee Severson,673,215,458
+Henry,Precinct 2,County Health Center Trustees,,,Kent Lee Severson,394,105,289
+Henry,Precinct 3,County Health Center Trustees,,,Kent Lee Severson,752,343,409
+Henry,Precinct 4 MP1,County Health Center Trustees,,,Kent Lee Severson,393,212,181
+Henry,Precinct 5 MP2,County Health Center Trustees,,,Kent Lee Severson,319,144,175
+Henry,Precinct 6 MP3,County Health Center Trustees,,,Kent Lee Severson,387,181,206
+Henry,Precinct 7 MP4,County Health Center Trustees,,,Kent Lee Severson,361,183,178
+Henry,Precinct 8,County Health Center Trustees,,,Kent Lee Severson,380,123,257
+Henry,Precinct 9,County Health Center Trustees,,,Kent Lee Severson,499,134,365
+Henry,Precinct 1,County Health Center Trustees,,,Joel D. Prottsman,691,223,468
+Henry,Precinct 2,County Health Center Trustees,,,Joel D. Prottsman,430,115,315
+Henry,Precinct 3,County Health Center Trustees,,,Joel D. Prottsman,799,368,431
+Henry,Precinct 4 MP1,County Health Center Trustees,,,Joel D. Prottsman,410,217,193
+Henry,Precinct 5 MP2,County Health Center Trustees,,,Joel D. Prottsman,323,142,181
+Henry,Precinct 6 MP3,County Health Center Trustees,,,Joel D. Prottsman,399,192,207
+Henry,Precinct 7 MP4,County Health Center Trustees,,,Joel D. Prottsman,390,202,188
+Henry,Precinct 8,County Health Center Trustees,,,Joel D. Prottsman,442,139,303
+Henry,Precinct 9,County Health Center Trustees,,,Joel D. Prottsman,611,159,452
+Henry,Precinct 1,County Health Center Trustees,,,Carla McNamee,733,240,493
+Henry,Precinct 2,County Health Center Trustees,,,Carla McNamee,442,113,329
+Henry,Precinct 3,County Health Center Trustees,,,Carla McNamee,891,410,481
+Henry,Precinct 4 MP1,County Health Center Trustees,,,Carla McNamee,440,228,212
+Henry,Precinct 5 MP2,County Health Center Trustees,,,Carla McNamee,353,156,197
+Henry,Precinct 6 MP3,County Health Center Trustees,,,Carla McNamee,444,195,249
+Henry,Precinct 7 MP4,County Health Center Trustees,,,Carla McNamee,412,206,206
+Henry,Precinct 8,County Health Center Trustees,,,Carla McNamee,435,146,289
+Henry,Precinct 9,County Health Center Trustees,,,Carla McNamee,509,134,375
+Henry,Precinct 1,County Health Center Trustees,,,Rebecca Bender,678,218,460
+Henry,Precinct 2,County Health Center Trustees,,,Rebecca Bender,457,119,338
+Henry,Precinct 3,County Health Center Trustees,,,Rebecca Bender,759,342,417
+Henry,Precinct 4 MP1,County Health Center Trustees,,,Rebecca Bender,391,210,181
+Henry,Precinct 5 MP2,County Health Center Trustees,,,Rebecca Bender,303,128,175
+Henry,Precinct 6 MP3,County Health Center Trustees,,,Rebecca Bender,395,183,212
+Henry,Precinct 7 MP4,County Health Center Trustees,,,Rebecca Bender,371,189,182
+Henry,Precinct 8,County Health Center Trustees,,,Rebecca Bender,377,126,251
+Henry,Precinct 9,County Health Center Trustees,,,Rebecca Bender,505,141,364
+Henry,Precinct 1,County Health Center Trustees,,,Write-in,10,10,0
+Henry,Precinct 2,County Health Center Trustees,,,Write-in,9,1,8
+Henry,Precinct 3,County Health Center Trustees,,,Write-in,14,6,8
+Henry,Precinct 4 MP1,County Health Center Trustees,,,Write-in,14,5,9
+Henry,Precinct 5 MP2,County Health Center Trustees,,,Write-in,6,5,1
+Henry,Precinct 6 MP3,County Health Center Trustees,,,Write-in,6,3,3
+Henry,Precinct 7 MP4,County Health Center Trustees,,,Write-in,7,0,7
+Henry,Precinct 8,County Health Center Trustees,,,Write-in,2,0,2
+Henry,Precinct 9,County Health Center Trustees,,,Write-in,4,3,1
+Henry,Precinct 1,Soil and Water Conservation District Commissioner,,,Rick M. Mallams,782,270,512
+Henry,Precinct 2,Soil and Water Conservation District Commissioner,,,Rick M. Mallams,473,120,353
+Henry,Precinct 3,Soil and Water Conservation District Commissioner,,,Rick M. Mallams,884,398,486
+Henry,Precinct 4 MP1,Soil and Water Conservation District Commissioner,,,Rick M. Mallams,455,233,222
+Henry,Precinct 5 MP2,Soil and Water Conservation District Commissioner,,,Rick M. Mallams,360,156,204
+Henry,Precinct 6 MP3,Soil and Water Conservation District Commissioner,,,Rick M. Mallams,449,200,249
+Henry,Precinct 7 MP4,Soil and Water Conservation District Commissioner,,,Rick M. Mallams,419,218,201
+Henry,Precinct 8,Soil and Water Conservation District Commissioner,,,Rick M. Mallams,464,145,319
+Henry,Precinct 9,Soil and Water Conservation District Commissioner,,,Rick M. Mallams,592,153,439
+Henry,Precinct 1,Soil and Water Conservation District Commissioner,,,Harlan Miller,660,220,440
+Henry,Precinct 2,Soil and Water Conservation District Commissioner,,,Harlan Miller,398,105,293
+Henry,Precinct 3,Soil and Water Conservation District Commissioner,,,Harlan Miller,789,362,427
+Henry,Precinct 4 MP1,Soil and Water Conservation District Commissioner,,,Harlan Miller,381,205,176
+Henry,Precinct 5 MP2,Soil and Water Conservation District Commissioner,,,Harlan Miller,316,138,178
+Henry,Precinct 6 MP3,Soil and Water Conservation District Commissioner,,,Harlan Miller,401,180,221
+Henry,Precinct 7 MP4,Soil and Water Conservation District Commissioner,,,Harlan Miller,363,195,168
+Henry,Precinct 8,Soil and Water Conservation District Commissioner,,,Harlan Miller,410,154,256
+Henry,Precinct 9,Soil and Water Conservation District Commissioner,,,Harlan Miller,467,128,339
+Henry,Precinct 1,Soil and Water Conservation District Commissioner,,,Write-in,10,7,3
+Henry,Precinct 2,Soil and Water Conservation District Commissioner,,,Write-in,5,2,3
+Henry,Precinct 3,Soil and Water Conservation District Commissioner,,,Write-in,4,0,4
+Henry,Precinct 4 MP1,Soil and Water Conservation District Commissioner,,,Write-in,2,1,1
+Henry,Precinct 5 MP2,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Henry,Precinct 6 MP3,Soil and Water Conservation District Commissioner,,,Write-in,4,1,3
+Henry,Precinct 7 MP4,Soil and Water Conservation District Commissioner,,,Write-in,3,1,2
+Henry,Precinct 8,Soil and Water Conservation District Commissioner,,,Write-in,2,1,1
+Henry,Precinct 9,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Henry,Precinct 1,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Chuck Allen,818,275,543
+Henry,Precinct 2,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Chuck Allen,495,124,371
+Henry,Precinct 3,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Chuck Allen,969,428,541
+Henry,Precinct 4 MP1,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Chuck Allen,477,239,238
+Henry,Precinct 5 MP2,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Chuck Allen,406,174,232
+Henry,Precinct 6 MP3,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Chuck Allen,499,217,282
+Henry,Precinct 7 MP4,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Chuck Allen,446,223,223
+Henry,Precinct 8,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Chuck Allen,513,162,351
+Henry,Precinct 9,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Chuck Allen,633,160,473
+Henry,Precinct 1,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,8,6,2
+Henry,Precinct 2,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,4,2,2
+Henry,Precinct 3,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,4,3,1
+Henry,Precinct 4 MP1,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,3,2,1
+Henry,Precinct 5 MP2,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,1,1,0
+Henry,Precinct 6 MP3,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,1,1,0
+Henry,Precinct 7 MP4,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,3,0,3
+Henry,Precinct 8,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,5,2,3
+Henry,Precinct 9,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,3,0,3
+Henry,Precinct 1,County Agricultural Extension Council Member,,,Linn Hunsaker,711,238,473
+Henry,Precinct 2,County Agricultural Extension Council Member,,,Linn Hunsaker,418,114,304
+Henry,Precinct 3,County Agricultural Extension Council Member,,,Linn Hunsaker,864,404,460
+Henry,Precinct 4 MP1,County Agricultural Extension Council Member,,,Linn Hunsaker,418,223,195
+Henry,Precinct 5 MP2,County Agricultural Extension Council Member,,,Linn Hunsaker,342,156,186
+Henry,Precinct 6 MP3,County Agricultural Extension Council Member,,,Linn Hunsaker,434,204,230
+Henry,Precinct 7 MP4,County Agricultural Extension Council Member,,,Linn Hunsaker,399,212,187
+Henry,Precinct 8,County Agricultural Extension Council Member,,,Linn Hunsaker,427,137,290
+Henry,Precinct 9,County Agricultural Extension Council Member,,,Linn Hunsaker,507,139,368
+Henry,Precinct 1,County Agricultural Extension Council Member,,,Marc Benson,706,235,471
+Henry,Precinct 2,County Agricultural Extension Council Member,,,Marc Benson,457,114,343
+Henry,Precinct 3,County Agricultural Extension Council Member,,,Marc Benson,714,320,394
+Henry,Precinct 4 MP1,County Agricultural Extension Council Member,,,Marc Benson,367,193,174
+Henry,Precinct 5 MP2,County Agricultural Extension Council Member,,,Marc Benson,292,131,161
+Henry,Precinct 6 MP3,County Agricultural Extension Council Member,,,Marc Benson,370,180,190
+Henry,Precinct 7 MP4,County Agricultural Extension Council Member,,,Marc Benson,355,187,168
+Henry,Precinct 8,County Agricultural Extension Council Member,,,Marc Benson,367,118,249
+Henry,Precinct 9,County Agricultural Extension Council Member,,,Marc Benson,456,120,336
+Henry,Precinct 1,County Agricultural Extension Council Member,,,Brenda K. Rubey,643,205,438
+Henry,Precinct 2,County Agricultural Extension Council Member,,,Brenda K. Rubey,390,103,287
+Henry,Precinct 3,County Agricultural Extension Council Member,,,Brenda K. Rubey,725,325,400
+Henry,Precinct 4 MP1,County Agricultural Extension Council Member,,,Brenda K. Rubey,373,199,174
+Henry,Precinct 5 MP2,County Agricultural Extension Council Member,,,Brenda K. Rubey,298,131,167
+Henry,Precinct 6 MP3,County Agricultural Extension Council Member,,,Brenda K. Rubey,360,170,190
+Henry,Precinct 7 MP4,County Agricultural Extension Council Member,,,Brenda K. Rubey,358,189,169
+Henry,Precinct 8,County Agricultural Extension Council Member,,,Brenda K. Rubey,360,119,241
+Henry,Precinct 9,County Agricultural Extension Council Member,,,Brenda K. Rubey,454,118,336
+Henry,Precinct 1,County Agricultural Extension Council Member,,,Roger L. Beckman,685,230,455
+Henry,Precinct 2,County Agricultural Extension Council Member,,,Roger L. Beckman,406,103,303
+Henry,Precinct 3,County Agricultural Extension Council Member,,,Roger L. Beckman,771,345,426
+Henry,Precinct 4 MP1,County Agricultural Extension Council Member,,,Roger L. Beckman,392,209,183
+Henry,Precinct 5 MP2,County Agricultural Extension Council Member,,,Roger L. Beckman,321,144,177
+Henry,Precinct 6 MP3,County Agricultural Extension Council Member,,,Roger L. Beckman,400,189,211
+Henry,Precinct 7 MP4,County Agricultural Extension Council Member,,,Roger L. Beckman,368,189,179
+Henry,Precinct 8,County Agricultural Extension Council Member,,,Roger L. Beckman,398,127,271
+Henry,Precinct 9,County Agricultural Extension Council Member,,,Roger L. Beckman,506,131,375
+Henry,Precinct 1,County Agricultural Extension Council Member,,,Mary Lou Steffensmeier,664,218,446
+Henry,Precinct 2,County Agricultural Extension Council Member,,,Mary Lou Steffensmeier,406,108,298
+Henry,Precinct 3,County Agricultural Extension Council Member,,,Mary Lou Steffensmeier,785,360,425
+Henry,Precinct 4 MP1,County Agricultural Extension Council Member,,,Mary Lou Steffensmeier,388,201,187
+Henry,Precinct 5 MP2,County Agricultural Extension Council Member,,,Mary Lou Steffensmeier,305,134,171
+Henry,Precinct 6 MP3,County Agricultural Extension Council Member,,,Mary Lou Steffensmeier,392,184,208
+Henry,Precinct 7 MP4,County Agricultural Extension Council Member,,,Mary Lou Steffensmeier,369,191,178
+Henry,Precinct 8,County Agricultural Extension Council Member,,,Mary Lou Steffensmeier,411,144,267
+Henry,Precinct 9,County Agricultural Extension Council Member,,,Mary Lou Steffensmeier,491,130,361
+Henry,Precinct 1,County Agricultural Extension Council Member,,,Theresa K. Rose,686,232,454
+Henry,Precinct 2,County Agricultural Extension Council Member,,,Theresa K. Rose,426,114,312
+Henry,Precinct 3,County Agricultural Extension Council Member,,,Theresa K. Rose,807,372,435
+Henry,Precinct 4 MP1,County Agricultural Extension Council Member,,,Theresa K. Rose,421,226,195
+Henry,Precinct 5 MP2,County Agricultural Extension Council Member,,,Theresa K. Rose,335,153,182
+Henry,Precinct 6 MP3,County Agricultural Extension Council Member,,,Theresa K. Rose,420,205,215
+Henry,Precinct 7 MP4,County Agricultural Extension Council Member,,,Theresa K. Rose,400,200,200
+Henry,Precinct 8,County Agricultural Extension Council Member,,,Theresa K. Rose,377,132,245
+Henry,Precinct 9,County Agricultural Extension Council Member,,,Theresa K. Rose,489,134,355
+Henry,Precinct 1,County Agricultural Extension Council Member,,,Write-in,11,10,1
+Henry,Precinct 2,County Agricultural Extension Council Member,,,Write-in,3,1,2
+Henry,Precinct 3,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Henry,Precinct 4 MP1,County Agricultural Extension Council Member,,,Write-in,2,1,1
+Henry,Precinct 5 MP2,County Agricultural Extension Council Member,,,Write-in,5,5,0
+Henry,Precinct 6 MP3,County Agricultural Extension Council Member,,,Write-in,3,1,2
+Henry,Precinct 7 MP4,County Agricultural Extension Council Member,,,Write-in,3,0,3
+Henry,Precinct 8,County Agricultural Extension Council Member,,,Write-in,3,0,3
+Henry,Precinct 9,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Henry,Precinct 1,Supreme Court Justice,,,Yes,618,176,442
+Henry,Precinct 2,Supreme Court Justice,,,Yes,349,84,265
+Henry,Precinct 3,Supreme Court Justice,,,Yes,669,294,375
+Henry,Precinct 4 MP1,Supreme Court Justice,,,Yes,349,189,160
+Henry,Precinct 5 MP2,Supreme Court Justice,,,Yes,310,134,176
+Henry,Precinct 6 MP3,Supreme Court Justice,,,Yes,339,149,190
+Henry,Precinct 7 MP4,Supreme Court Justice,,,Yes,324,159,165
+Henry,Precinct 8,Supreme Court Justice,,,Yes,394,124,270
+Henry,Precinct 9,Supreme Court Justice,,,Yes,453,106,347
+Henry,Precinct 1,Supreme Court Justice,,,No,194,89,105
+Henry,Precinct 2,Supreme Court Justice,,,No,149,34,115
+Henry,Precinct 3,Supreme Court Justice,,,No,283,136,147
+Henry,Precinct 4 MP1,Supreme Court Justice,,,No,148,66,82
+Henry,Precinct 5 MP2,Supreme Court Justice,,,No,101,37,64
+Henry,Precinct 6 MP3,Supreme Court Justice,,,No,162,67,95
+Henry,Precinct 7 MP4,Supreme Court Justice,,,No,116,63,53
+Henry,Precinct 8,Supreme Court Justice,,,No,118,42,76
+Henry,Precinct 9,Supreme Court Justice,,,No,174,50,124
+Henry,Precinct 1,Court of Appeals Judge,,,Yes,612,173,439
+Henry,Precinct 2,Court of Appeals Judge,,,Yes,346,82,264
+Henry,Precinct 3,Court of Appeals Judge,,,Yes,677,305,372
+Henry,Precinct 4 MP1,Court of Appeals Judge,,,Yes,351,188,163
+Henry,Precinct 5 MP2,Court of Appeals Judge,,,Yes,312,131,181
+Henry,Precinct 6 MP3,Court of Appeals Judge,,,Yes,359,160,199
+Henry,Precinct 7 MP4,Court of Appeals Judge,,,Yes,328,162,166
+Henry,Precinct 8,Court of Appeals Judge,,,Yes,404,131,273
+Henry,Precinct 9,Court of Appeals Judge,,,Yes,438,105,333
+Henry,Precinct 1,Court of Appeals Judge,,,No,183,87,96
+Henry,Precinct 2,Court of Appeals Judge,,,No,151,39,112
+Henry,Precinct 3,Court of Appeals Judge,,,No,278,134,144
+Henry,Precinct 4 MP1,Court of Appeals Judge,,,No,142,61,81
+Henry,Precinct 5 MP2,Court of Appeals Judge,,,No,104,42,62
+Henry,Precinct 6 MP3,Court of Appeals Judge,,,No,144,57,87
+Henry,Precinct 7 MP4,Court of Appeals Judge,,,No,110,60,50
+Henry,Precinct 8,Court of Appeals Judge,,,No,106,36,70
+Henry,Precinct 9,Court of Appeals Judge,,,No,179,48,131
+Henry,Precinct 1,Constitutional Amendment 1,,,Yes,809,232,577
+Henry,Precinct 2,Constitutional Amendment 1,,,Yes,500,111,389
+Henry,Precinct 3,Constitutional Amendment 1,,,Yes,915,388,527
+Henry,Precinct 4 MP1,Constitutional Amendment 1,,,Yes,435,198,237
+Henry,Precinct 5 MP2,Constitutional Amendment 1,,,Yes,357,139,218
+Henry,Precinct 6 MP3,Constitutional Amendment 1,,,Yes,435,169,266
+Henry,Precinct 7 MP4,Constitutional Amendment 1,,,Yes,397,184,213
+Henry,Precinct 8,Constitutional Amendment 1,,,Yes,528,156,372
+Henry,Precinct 9,Constitutional Amendment 1,,,Yes,636,155,481
+Henry,Precinct 1,Constitutional Amendment 1,,,No,201,116,85
+Henry,Precinct 2,Constitutional Amendment 1,,,No,129,54,75
+Henry,Precinct 3,Constitutional Amendment 1,,,No,239,151,88
+Henry,Precinct 4 MP1,Constitutional Amendment 1,,,No,175,127,48
+Henry,Precinct 5 MP2,Constitutional Amendment 1,,,No,163,83,80
+Henry,Precinct 6 MP3,Constitutional Amendment 1,,,No,172,108,64
+Henry,Precinct 7 MP4,Constitutional Amendment 1,,,No,149,95,54
+Henry,Precinct 8,Constitutional Amendment 1,,,No,109,63,46
+Henry,Precinct 9,Constitutional Amendment 1,,,No,150,49,101

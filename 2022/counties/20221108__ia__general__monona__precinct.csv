@@ -1,0 +1,598 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Monona,AS-BV-CN-CS-KB-TU,U.S. Senate,,DEM,Michael Franken,75,41,34
+Monona,CP-MA-MT,U.S. Senate,,DEM,Michael Franken,167,56,111
+Monona,FV-GT-LK-LN-RO-WT-WF,U.S. Senate,,DEM,Michael Franken,128,45,83
+Monona,JO-MH-SO-SOC-SV-WL,U.S. Senate,,DEM,Michael Franken,102,26,76
+Monona,Onawa Ward 1,U.S. Senate,,DEM,Michael Franken,52,21,31
+Monona,Onawa Ward 2,U.S. Senate,,DEM,Michael Franken,78,34,44
+Monona,Onawa Ward 3,U.S. Senate,,DEM,Michael Franken,92,36,56
+Monona,Onawa Ward 4,U.S. Senate,,DEM,Michael Franken,54,19,35
+Monona,SH-FR-BL-SX,U.S. Senate,,DEM,Michael Franken,79,37,42
+Monona,SC-UT,U.S. Senate,,DEM,Michael Franken,52,5,47
+Monona,AS-BV-CN-CS-KB-TU,U.S. Senate,,REP,Chuck Grassley,211,41,170
+Monona,CP-MA-MT,U.S. Senate,,REP,Chuck Grassley,436,47,389
+Monona,FV-GT-LK-LN-RO-WT-WF,U.S. Senate,,REP,Chuck Grassley,470,87,383
+Monona,JO-MH-SO-SOC-SV-WL,U.S. Senate,,REP,Chuck Grassley,268,36,232
+Monona,Onawa Ward 1,U.S. Senate,,REP,Chuck Grassley,131,22,109
+Monona,Onawa Ward 2,U.S. Senate,,REP,Chuck Grassley,168,34,134
+Monona,Onawa Ward 3,U.S. Senate,,REP,Chuck Grassley,173,24,149
+Monona,Onawa Ward 4,U.S. Senate,,REP,Chuck Grassley,142,28,114
+Monona,SH-FR-BL-SX,U.S. Senate,,REP,Chuck Grassley,226,41,185
+Monona,SC-UT,U.S. Senate,,REP,Chuck Grassley,151,13,138
+Monona,AS-BV-CN-CS-KB-TU,U.S. Senate,,,Write-in,1,1,0
+Monona,CP-MA-MT,U.S. Senate,,,Write-in,5,0,5
+Monona,FV-GT-LK-LN-RO-WT-WF,U.S. Senate,,,Write-in,1,0,1
+Monona,JO-MH-SO-SOC-SV-WL,U.S. Senate,,,Write-in,1,0,1
+Monona,Onawa Ward 1,U.S. Senate,,,Write-in,0,0,0
+Monona,Onawa Ward 2,U.S. Senate,,,Write-in,0,0,0
+Monona,Onawa Ward 3,U.S. Senate,,,Write-in,0,0,0
+Monona,Onawa Ward 4,U.S. Senate,,,Write-in,1,0,1
+Monona,SH-FR-BL-SX,U.S. Senate,,,Write-in,0,0,0
+Monona,SC-UT,U.S. Senate,,,Write-in,0,0,0
+Monona,AS-BV-CN-CS-KB-TU,U.S. House,4,DEM,Ryan Melton,73,40,33
+Monona,CP-MA-MT,U.S. House,4,DEM,Ryan Melton,147,51,96
+Monona,FV-GT-LK-LN-RO-WT-WF,U.S. House,4,DEM,Ryan Melton,121,43,78
+Monona,JO-MH-SO-SOC-SV-WL,U.S. House,4,DEM,Ryan Melton,89,24,65
+Monona,Onawa Ward 1,U.S. House,4,DEM,Ryan Melton,49,18,31
+Monona,Onawa Ward 2,U.S. House,4,DEM,Ryan Melton,62,27,35
+Monona,Onawa Ward 3,U.S. House,4,DEM,Ryan Melton,81,34,47
+Monona,Onawa Ward 4,U.S. House,4,DEM,Ryan Melton,50,17,33
+Monona,SH-FR-BL-SX,U.S. House,4,DEM,Ryan Melton,75,36,39
+Monona,SC-UT,U.S. House,4,DEM,Ryan Melton,45,5,40
+Monona,AS-BV-CN-CS-KB-TU,U.S. House,4,REP,Randy Feenstra,209,39,170
+Monona,CP-MA-MT,U.S. House,4,REP,Randy Feenstra,426,45,381
+Monona,FV-GT-LK-LN-RO-WT-WF,U.S. House,4,REP,Randy Feenstra,470,86,384
+Monona,JO-MH-SO-SOC-SV-WL,U.S. House,4,REP,Randy Feenstra,260,36,224
+Monona,Onawa Ward 1,U.S. House,4,REP,Randy Feenstra,129,25,104
+Monona,Onawa Ward 2,U.S. House,4,REP,Randy Feenstra,179,39,140
+Monona,Onawa Ward 3,U.S. House,4,REP,Randy Feenstra,174,23,151
+Monona,Onawa Ward 4,U.S. House,4,REP,Randy Feenstra,142,27,115
+Monona,SH-FR-BL-SX,U.S. House,4,REP,Randy Feenstra,221,39,182
+Monona,SC-UT,U.S. House,4,REP,Randy Feenstra,154,12,142
+Monona,AS-BV-CN-CS-KB-TU,U.S. House,4,LBC,Bryan Jack Holder,5,2,3
+Monona,CP-MA-MT,U.S. House,4,LBC,Bryan Jack Holder,13,3,10
+Monona,FV-GT-LK-LN-RO-WT-WF,U.S. House,4,LBC,Bryan Jack Holder,9,0,9
+Monona,JO-MH-SO-SOC-SV-WL,U.S. House,4,LBC,Bryan Jack Holder,13,2,11
+Monona,Onawa Ward 1,U.S. House,4,LBC,Bryan Jack Holder,5,0,5
+Monona,Onawa Ward 2,U.S. House,4,LBC,Bryan Jack Holder,4,1,3
+Monona,Onawa Ward 3,U.S. House,4,LBC,Bryan Jack Holder,5,1,4
+Monona,Onawa Ward 4,U.S. House,4,LBC,Bryan Jack Holder,3,0,3
+Monona,SH-FR-BL-SX,U.S. House,4,LBC,Bryan Jack Holder,5,0,5
+Monona,SC-UT,U.S. House,4,LBC,Bryan Jack Holder,1,0,1
+Monona,AS-BV-CN-CS-KB-TU,U.S. House,4,,Write-in,0,0,0
+Monona,CP-MA-MT,U.S. House,4,,Write-in,6,0,6
+Monona,FV-GT-LK-LN-RO-WT-WF,U.S. House,4,,Write-in,0,0,0
+Monona,JO-MH-SO-SOC-SV-WL,U.S. House,4,,Write-in,1,0,1
+Monona,Onawa Ward 1,U.S. House,4,,Write-in,0,0,0
+Monona,Onawa Ward 2,U.S. House,4,,Write-in,0,0,0
+Monona,Onawa Ward 3,U.S. House,4,,Write-in,0,0,0
+Monona,Onawa Ward 4,U.S. House,4,,Write-in,0,0,0
+Monona,SH-FR-BL-SX,U.S. House,4,,Write-in,0,0,0
+Monona,SC-UT,U.S. House,4,,Write-in,0,0,0
+Monona,AS-BV-CN-CS-KB-TU,Governor,,DEM,Deidre DeJear and Eric Van Lancker,65,38,27
+Monona,CP-MA-MT,Governor,,DEM,Deidre DeJear and Eric Van Lancker,137,45,92
+Monona,FV-GT-LK-LN-RO-WT-WF,Governor,,DEM,Deidre DeJear and Eric Van Lancker,111,38,73
+Monona,JO-MH-SO-SOC-SV-WL,Governor,,DEM,Deidre DeJear and Eric Van Lancker,80,26,54
+Monona,Onawa Ward 1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,45,18,27
+Monona,Onawa Ward 2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,61,28,33
+Monona,Onawa Ward 3,Governor,,DEM,Deidre DeJear and Eric Van Lancker,71,29,42
+Monona,Onawa Ward 4,Governor,,DEM,Deidre DeJear and Eric Van Lancker,42,18,24
+Monona,SH-FR-BL-SX,Governor,,DEM,Deidre DeJear and Eric Van Lancker,66,30,36
+Monona,SC-UT,Governor,,DEM,Deidre DeJear and Eric Van Lancker,40,6,34
+Monona,AS-BV-CN-CS-KB-TU,Governor,,REP,Kim Reynolds and Adam Gregg,220,41,179
+Monona,CP-MA-MT,Governor,,REP,Kim Reynolds and Adam Gregg,476,55,421
+Monona,FV-GT-LK-LN-RO-WT-WF,Governor,,REP,Kim Reynolds and Adam Gregg,500,100,400
+Monona,JO-MH-SO-SOC-SV-WL,Governor,,REP,Kim Reynolds and Adam Gregg,284,39,245
+Monona,Onawa Ward 1,Governor,,REP,Kim Reynolds and Adam Gregg,137,23,114
+Monona,Onawa Ward 2,Governor,,REP,Kim Reynolds and Adam Gregg,187,40,147
+Monona,Onawa Ward 3,Governor,,REP,Kim Reynolds and Adam Gregg,191,29,162
+Monona,Onawa Ward 4,Governor,,REP,Kim Reynolds and Adam Gregg,154,29,125
+Monona,SH-FR-BL-SX,Governor,,REP,Kim Reynolds and Adam Gregg,243,48,195
+Monona,SC-UT,Governor,,REP,Kim Reynolds and Adam Gregg,163,12,151
+Monona,AS-BV-CN-CS-KB-TU,Governor,,LIB,Rick Stewart and Marco Battaglia,6,5,1
+Monona,CP-MA-MT,Governor,,LIB,Rick Stewart and Marco Battaglia,12,7,5
+Monona,FV-GT-LK-LN-RO-WT-WF,Governor,,LIB,Rick Stewart and Marco Battaglia,4,1,3
+Monona,JO-MH-SO-SOC-SV-WL,Governor,,LIB,Rick Stewart and Marco Battaglia,15,3,12
+Monona,Onawa Ward 1,Governor,,LIB,Rick Stewart and Marco Battaglia,3,3,0
+Monona,Onawa Ward 2,Governor,,LIB,Rick Stewart and Marco Battaglia,5,2,3
+Monona,Onawa Ward 3,Governor,,LIB,Rick Stewart and Marco Battaglia,6,2,4
+Monona,Onawa Ward 4,Governor,,LIB,Rick Stewart and Marco Battaglia,3,0,3
+Monona,SH-FR-BL-SX,Governor,,LIB,Rick Stewart and Marco Battaglia,4,0,4
+Monona,SC-UT,Governor,,LIB,Rick Stewart and Marco Battaglia,0,0,0
+Monona,AS-BV-CN-CS-KB-TU,Governor,,,Write-in,0,0,0
+Monona,CP-MA-MT,Governor,,,Write-in,3,0,3
+Monona,FV-GT-LK-LN-RO-WT-WF,Governor,,,Write-in,0,0,0
+Monona,JO-MH-SO-SOC-SV-WL,Governor,,,Write-in,1,0,1
+Monona,Onawa Ward 1,Governor,,,Write-in,0,0,0
+Monona,Onawa Ward 2,Governor,,,Write-in,0,0,0
+Monona,Onawa Ward 3,Governor,,,Write-in,0,0,0
+Monona,Onawa Ward 4,Governor,,,Write-in,0,0,0
+Monona,SH-FR-BL-SX,Governor,,,Write-in,0,0,0
+Monona,SC-UT,Governor,,,Write-in,0,0,0
+Monona,AS-BV-CN-CS-KB-TU,Secretary of State,,DEM,Joel Miller,72,37,35
+Monona,CP-MA-MT,Secretary of State,,DEM,Joel Miller,157,51,106
+Monona,FV-GT-LK-LN-RO-WT-WF,Secretary of State,,DEM,Joel Miller,140,49,91
+Monona,JO-MH-SO-SOC-SV-WL,Secretary of State,,DEM,Joel Miller,113,31,82
+Monona,Onawa Ward 1,Secretary of State,,DEM,Joel Miller,52,19,33
+Monona,Onawa Ward 2,Secretary of State,,DEM,Joel Miller,68,28,40
+Monona,Onawa Ward 3,Secretary of State,,DEM,Joel Miller,85,35,50
+Monona,Onawa Ward 4,Secretary of State,,DEM,Joel Miller,55,20,35
+Monona,SH-FR-BL-SX,Secretary of State,,DEM,Joel Miller,80,35,45
+Monona,SC-UT,Secretary of State,,DEM,Joel Miller,46,3,43
+Monona,AS-BV-CN-CS-KB-TU,Secretary of State,,REP,Paul D. Pate,215,45,170
+Monona,CP-MA-MT,Secretary of State,,REP,Paul D. Pate,451,52,399
+Monona,FV-GT-LK-LN-RO-WT-WF,Secretary of State,,REP,Paul D. Pate,470,86,384
+Monona,JO-MH-SO-SOC-SV-WL,Secretary of State,,REP,Paul D. Pate,257,36,221
+Monona,Onawa Ward 1,Secretary of State,,REP,Paul D. Pate,129,24,105
+Monona,Onawa Ward 2,Secretary of State,,REP,Paul D. Pate,175,41,134
+Monona,Onawa Ward 3,Secretary of State,,REP,Paul D. Pate,178,25,153
+Monona,Onawa Ward 4,Secretary of State,,REP,Paul D. Pate,141,26,115
+Monona,SH-FR-BL-SX,Secretary of State,,REP,Paul D. Pate,226,41,185
+Monona,SC-UT,Secretary of State,,REP,Paul D. Pate,151,15,136
+Monona,AS-BV-CN-CS-KB-TU,Secretary of State,,,Write-in,0,0,0
+Monona,CP-MA-MT,Secretary of State,,,Write-in,0,0,0
+Monona,FV-GT-LK-LN-RO-WT-WF,Secretary of State,,,Write-in,0,0,0
+Monona,JO-MH-SO-SOC-SV-WL,Secretary of State,,,Write-in,2,1,1
+Monona,Onawa Ward 1,Secretary of State,,,Write-in,0,0,0
+Monona,Onawa Ward 2,Secretary of State,,,Write-in,0,0,0
+Monona,Onawa Ward 3,Secretary of State,,,Write-in,0,0,0
+Monona,Onawa Ward 4,Secretary of State,,,Write-in,0,0,0
+Monona,SH-FR-BL-SX,Secretary of State,,,Write-in,0,0,0
+Monona,SC-UT,Secretary of State,,,Write-in,0,0,0
+Monona,AS-BV-CN-CS-KB-TU,Auditor of State,,DEM,Rob Sand,99,45,54
+Monona,CP-MA-MT,Auditor of State,,DEM,Rob Sand,218,70,148
+Monona,FV-GT-LK-LN-RO-WT-WF,Auditor of State,,DEM,Rob Sand,191,57,134
+Monona,JO-MH-SO-SOC-SV-WL,Auditor of State,,DEM,Rob Sand,131,38,93
+Monona,Onawa Ward 1,Auditor of State,,DEM,Rob Sand,62,22,40
+Monona,Onawa Ward 2,Auditor of State,,DEM,Rob Sand,98,42,56
+Monona,Onawa Ward 3,Auditor of State,,DEM,Rob Sand,116,38,78
+Monona,Onawa Ward 4,Auditor of State,,DEM,Rob Sand,73,23,50
+Monona,SH-FR-BL-SX,Auditor of State,,DEM,Rob Sand,109,45,64
+Monona,SC-UT,Auditor of State,,DEM,Rob Sand,57,9,48
+Monona,AS-BV-CN-CS-KB-TU,Auditor of State,,REP,Todd Halbur,187,36,151
+Monona,CP-MA-MT,Auditor of State,,REP,Todd Halbur,385,33,352
+Monona,FV-GT-LK-LN-RO-WT-WF,Auditor of State,,REP,Todd Halbur,417,79,338
+Monona,JO-MH-SO-SOC-SV-WL,Auditor of State,,REP,Todd Halbur,232,28,204
+Monona,Onawa Ward 1,Auditor of State,,REP,Todd Halbur,117,20,97
+Monona,Onawa Ward 2,Auditor of State,,REP,Todd Halbur,144,25,119
+Monona,Onawa Ward 3,Auditor of State,,REP,Todd Halbur,150,22,128
+Monona,Onawa Ward 4,Auditor of State,,REP,Todd Halbur,123,22,101
+Monona,SH-FR-BL-SX,Auditor of State,,REP,Todd Halbur,195,30,165
+Monona,SC-UT,Auditor of State,,REP,Todd Halbur,138,9,129
+Monona,AS-BV-CN-CS-KB-TU,Auditor of State,,,Write-in,0,0,0
+Monona,CP-MA-MT,Auditor of State,,,Write-in,0,0,0
+Monona,FV-GT-LK-LN-RO-WT-WF,Auditor of State,,,Write-in,0,0,0
+Monona,JO-MH-SO-SOC-SV-WL,Auditor of State,,,Write-in,2,1,1
+Monona,Onawa Ward 1,Auditor of State,,,Write-in,0,0,0
+Monona,Onawa Ward 2,Auditor of State,,,Write-in,0,0,0
+Monona,Onawa Ward 3,Auditor of State,,,Write-in,0,0,0
+Monona,Onawa Ward 4,Auditor of State,,,Write-in,0,0,0
+Monona,SH-FR-BL-SX,Auditor of State,,,Write-in,0,0,0
+Monona,SC-UT,Auditor of State,,,Write-in,0,0,0
+Monona,AS-BV-CN-CS-KB-TU,Treasurer of State,,DEM,Michael L. Fitzgerald,100,44,56
+Monona,CP-MA-MT,Treasurer of State,,DEM,Michael L. Fitzgerald,213,71,142
+Monona,FV-GT-LK-LN-RO-WT-WF,Treasurer of State,,DEM,Michael L. Fitzgerald,181,58,123
+Monona,JO-MH-SO-SOC-SV-WL,Treasurer of State,,DEM,Michael L. Fitzgerald,133,37,96
+Monona,Onawa Ward 1,Treasurer of State,,DEM,Michael L. Fitzgerald,65,25,40
+Monona,Onawa Ward 2,Treasurer of State,,DEM,Michael L. Fitzgerald,90,37,53
+Monona,Onawa Ward 3,Treasurer of State,,DEM,Michael L. Fitzgerald,110,38,72
+Monona,Onawa Ward 4,Treasurer of State,,DEM,Michael L. Fitzgerald,74,24,50
+Monona,SH-FR-BL-SX,Treasurer of State,,DEM,Michael L. Fitzgerald,99,40,59
+Monona,SC-UT,Treasurer of State,,DEM,Michael L. Fitzgerald,62,7,55
+Monona,AS-BV-CN-CS-KB-TU,Treasurer of State,,REP,Roby Smith,186,35,151
+Monona,CP-MA-MT,Treasurer of State,,REP,Roby Smith,396,35,361
+Monona,FV-GT-LK-LN-RO-WT-WF,Treasurer of State,,REP,Roby Smith,429,79,350
+Monona,JO-MH-SO-SOC-SV-WL,Treasurer of State,,REP,Roby Smith,239,31,208
+Monona,Onawa Ward 1,Treasurer of State,,REP,Roby Smith,118,18,100
+Monona,Onawa Ward 2,Treasurer of State,,REP,Roby Smith,152,31,121
+Monona,Onawa Ward 3,Treasurer of State,,REP,Roby Smith,149,21,128
+Monona,Onawa Ward 4,Treasurer of State,,REP,Roby Smith,121,21,100
+Monona,SH-FR-BL-SX,Treasurer of State,,REP,Roby Smith,207,34,173
+Monona,SC-UT,Treasurer of State,,REP,Roby Smith,131,11,120
+Monona,AS-BV-CN-CS-KB-TU,Treasurer of State,,,Write-in,0,0,0
+Monona,CP-MA-MT,Treasurer of State,,,Write-in,0,0,0
+Monona,FV-GT-LK-LN-RO-WT-WF,Treasurer of State,,,Write-in,0,0,0
+Monona,JO-MH-SO-SOC-SV-WL,Treasurer of State,,,Write-in,1,0,1
+Monona,Onawa Ward 1,Treasurer of State,,,Write-in,0,0,0
+Monona,Onawa Ward 2,Treasurer of State,,,Write-in,0,0,0
+Monona,Onawa Ward 3,Treasurer of State,,,Write-in,0,0,0
+Monona,Onawa Ward 4,Treasurer of State,,,Write-in,0,0,0
+Monona,SH-FR-BL-SX,Treasurer of State,,,Write-in,1,0,1
+Monona,SC-UT,Treasurer of State,,,Write-in,0,0,0
+Monona,AS-BV-CN-CS-KB-TU,Secretary of Agriculture,,DEM,John Norwood,71,41,30
+Monona,CP-MA-MT,Secretary of Agriculture,,DEM,John Norwood,143,50,93
+Monona,FV-GT-LK-LN-RO-WT-WF,Secretary of Agriculture,,DEM,John Norwood,125,47,78
+Monona,JO-MH-SO-SOC-SV-WL,Secretary of Agriculture,,DEM,John Norwood,97,31,66
+Monona,Onawa Ward 1,Secretary of Agriculture,,DEM,John Norwood,46,19,27
+Monona,Onawa Ward 2,Secretary of Agriculture,,DEM,John Norwood,64,30,34
+Monona,Onawa Ward 3,Secretary of Agriculture,,DEM,John Norwood,73,33,40
+Monona,Onawa Ward 4,Secretary of Agriculture,,DEM,John Norwood,54,19,35
+Monona,SH-FR-BL-SX,Secretary of Agriculture,,DEM,John Norwood,67,29,38
+Monona,SC-UT,Secretary of Agriculture,,DEM,John Norwood,42,5,37
+Monona,AS-BV-CN-CS-KB-TU,Secretary of Agriculture,,REP,Mike Naig,215,40,175
+Monona,CP-MA-MT,Secretary of Agriculture,,REP,Mike Naig,469,53,416
+Monona,FV-GT-LK-LN-RO-WT-WF,Secretary of Agriculture,,REP,Mike Naig,481,90,391
+Monona,JO-MH-SO-SOC-SV-WL,Secretary of Agriculture,,REP,Mike Naig,271,36,235
+Monona,Onawa Ward 1,Secretary of Agriculture,,REP,Mike Naig,132,23,109
+Monona,Onawa Ward 2,Secretary of Agriculture,,REP,Mike Naig,183,40,143
+Monona,Onawa Ward 3,Secretary of Agriculture,,REP,Mike Naig,187,23,164
+Monona,Onawa Ward 4,Secretary of Agriculture,,REP,Mike Naig,140,26,114
+Monona,SH-FR-BL-SX,Secretary of Agriculture,,REP,Mike Naig,241,48,193
+Monona,SC-UT,Secretary of Agriculture,,REP,Mike Naig,157,13,144
+Monona,AS-BV-CN-CS-KB-TU,Secretary of Agriculture,,,Write-in,0,0,0
+Monona,CP-MA-MT,Secretary of Agriculture,,,Write-in,0,0,0
+Monona,FV-GT-LK-LN-RO-WT-WF,Secretary of Agriculture,,,Write-in,0,0,0
+Monona,JO-MH-SO-SOC-SV-WL,Secretary of Agriculture,,,Write-in,1,0,1
+Monona,Onawa Ward 1,Secretary of Agriculture,,,Write-in,0,0,0
+Monona,Onawa Ward 2,Secretary of Agriculture,,,Write-in,0,0,0
+Monona,Onawa Ward 3,Secretary of Agriculture,,,Write-in,0,0,0
+Monona,Onawa Ward 4,Secretary of Agriculture,,,Write-in,0,0,0
+Monona,SH-FR-BL-SX,Secretary of Agriculture,,,Write-in,0,0,0
+Monona,SC-UT,Secretary of Agriculture,,,Write-in,0,0,0
+Monona,AS-BV-CN-CS-KB-TU,Attorney General,,DEM,Tom Miller,98,47,51
+Monona,CP-MA-MT,Attorney General,,DEM,Tom Miller,209,70,139
+Monona,FV-GT-LK-LN-RO-WT-WF,Attorney General,,DEM,Tom Miller,168,60,108
+Monona,JO-MH-SO-SOC-SV-WL,Attorney General,,DEM,Tom Miller,129,38,91
+Monona,Onawa Ward 1,Attorney General,,DEM,Tom Miller,59,22,37
+Monona,Onawa Ward 2,Attorney General,,DEM,Tom Miller,91,37,54
+Monona,Onawa Ward 3,Attorney General,,DEM,Tom Miller,111,36,75
+Monona,Onawa Ward 4,Attorney General,,DEM,Tom Miller,66,25,41
+Monona,SH-FR-BL-SX,Attorney General,,DEM,Tom Miller,104,49,55
+Monona,SC-UT,Attorney General,,DEM,Tom Miller,58,7,51
+Monona,AS-BV-CN-CS-KB-TU,Attorney General,,REP,Brenna Bird,187,35,152
+Monona,CP-MA-MT,Attorney General,,REP,Brenna Bird,404,36,368
+Monona,FV-GT-LK-LN-RO-WT-WF,Attorney General,,REP,Brenna Bird,438,74,364
+Monona,JO-MH-SO-SOC-SV-WL,Attorney General,,REP,Brenna Bird,239,28,211
+Monona,Onawa Ward 1,Attorney General,,REP,Brenna Bird,124,21,103
+Monona,Onawa Ward 2,Attorney General,,REP,Brenna Bird,150,29,121
+Monona,Onawa Ward 3,Attorney General,,REP,Brenna Bird,152,21,131
+Monona,Onawa Ward 4,Attorney General,,REP,Brenna Bird,125,19,106
+Monona,SH-FR-BL-SX,Attorney General,,REP,Brenna Bird,203,28,175
+Monona,SC-UT,Attorney General,,REP,Brenna Bird,137,11,126
+Monona,AS-BV-CN-CS-KB-TU,Attorney General,,,Write-in,1,0,1
+Monona,CP-MA-MT,Attorney General,,,Write-in,1,0,1
+Monona,FV-GT-LK-LN-RO-WT-WF,Attorney General,,,Write-in,0,0,0
+Monona,JO-MH-SO-SOC-SV-WL,Attorney General,,,Write-in,2,1,1
+Monona,Onawa Ward 1,Attorney General,,,Write-in,0,0,0
+Monona,Onawa Ward 2,Attorney General,,,Write-in,0,0,0
+Monona,Onawa Ward 3,Attorney General,,,Write-in,0,0,0
+Monona,Onawa Ward 4,Attorney General,,,Write-in,0,0,0
+Monona,SH-FR-BL-SX,Attorney General,,,Write-in,1,0,1
+Monona,SC-UT,Attorney General,,,Write-in,0,0,0
+Monona,AS-BV-CN-CS-KB-TU,State Senate,7,REP,Kevin Alons,225,45,180
+Monona,CP-MA-MT,State Senate,7,REP,Kevin Alons,511,68,443
+Monona,FV-GT-LK-LN-RO-WT-WF,State Senate,7,REP,Kevin Alons,522,108,414
+Monona,JO-MH-SO-SOC-SV-WL,State Senate,7,REP,Kevin Alons,301,44,257
+Monona,Onawa Ward 1,State Senate,7,REP,Kevin Alons,145,29,116
+Monona,Onawa Ward 2,State Senate,7,REP,Kevin Alons,203,46,157
+Monona,Onawa Ward 3,State Senate,7,REP,Kevin Alons,216,42,174
+Monona,Onawa Ward 4,State Senate,7,REP,Kevin Alons,155,24,131
+Monona,SH-FR-BL-SX,State Senate,7,REP,Kevin Alons,258,53,205
+Monona,SC-UT,State Senate,7,REP,Kevin Alons,161,11,150
+Monona,AS-BV-CN-CS-KB-TU,State Senate,7,,Write-in,3,2,1
+Monona,CP-MA-MT,State Senate,7,,Write-in,6,3,3
+Monona,FV-GT-LK-LN-RO-WT-WF,State Senate,7,,Write-in,7,2,5
+Monona,JO-MH-SO-SOC-SV-WL,State Senate,7,,Write-in,9,1,8
+Monona,Onawa Ward 1,State Senate,7,,Write-in,7,3,4
+Monona,Onawa Ward 2,State Senate,7,,Write-in,7,6,1
+Monona,Onawa Ward 3,State Senate,7,,Write-in,2,0,2
+Monona,Onawa Ward 4,State Senate,7,,Write-in,3,1,2
+Monona,SH-FR-BL-SX,State Senate,7,,Write-in,1,0,1
+Monona,SC-UT,State Senate,7,,Write-in,2,0,2
+Monona,AS-BV-CN-CS-KB-TU,State House,13,REP,Ken E. Carlson,226,45,181
+Monona,CP-MA-MT,State House,13,REP,Ken E. Carlson,450,56,394
+Monona,FV-GT-LK-LN-RO-WT-WF,State House,13,REP,Ken E. Carlson,500,104,396
+Monona,JO-MH-SO-SOC-SV-WL,State House,13,REP,Ken E. Carlson,280,40,240
+Monona,Onawa Ward 1,State House,13,REP,Ken E. Carlson,136,27,109
+Monona,Onawa Ward 2,State House,13,REP,Ken E. Carlson,188,44,144
+Monona,Onawa Ward 3,State House,13,REP,Ken E. Carlson,196,31,165
+Monona,Onawa Ward 4,State House,13,REP,Ken E. Carlson,150,28,122
+Monona,SH-FR-BL-SX,State House,13,REP,Ken E. Carlson,248,51,197
+Monona,SC-UT,State House,13,REP,Ken E. Carlson,148,12,136
+Monona,AS-BV-CN-CS-KB-TU,State House,13,LIB,Amy Janowski,43,23,20
+Monona,CP-MA-MT,State House,13,LIB,Amy Janowski,117,38,79
+Monona,FV-GT-LK-LN-RO-WT-WF,State House,13,LIB,Amy Janowski,87,26,61
+Monona,JO-MH-SO-SOC-SV-WL,State House,13,LIB,Amy Janowski,64,19,45
+Monona,Onawa Ward 1,State House,13,LIB,Amy Janowski,35,7,28
+Monona,Onawa Ward 2,State House,13,LIB,Amy Janowski,42,15,27
+Monona,Onawa Ward 3,State House,13,LIB,Amy Janowski,53,25,28
+Monona,Onawa Ward 4,State House,13,LIB,Amy Janowski,32,8,24
+Monona,SH-FR-BL-SX,State House,13,LIB,Amy Janowski,37,14,23
+Monona,SC-UT,State House,13,LIB,Amy Janowski,29,2,27
+Monona,AS-BV-CN-CS-KB-TU,State House,13,,Write-in,0,0,0
+Monona,CP-MA-MT,State House,13,,Write-in,5,0,5
+Monona,FV-GT-LK-LN-RO-WT-WF,State House,13,,Write-in,2,0,2
+Monona,JO-MH-SO-SOC-SV-WL,State House,13,,Write-in,4,0,4
+Monona,Onawa Ward 1,State House,13,,Write-in,1,1,0
+Monona,Onawa Ward 2,State House,13,,Write-in,2,2,0
+Monona,Onawa Ward 3,State House,13,,Write-in,1,0,1
+Monona,Onawa Ward 4,State House,13,,Write-in,1,0,1
+Monona,SH-FR-BL-SX,State House,13,,Write-in,0,0,0
+Monona,SC-UT,State House,13,,Write-in,2,0,2
+Monona,CP-MA-MT,County Board of Supervisors District 2,,DEM,Tom Brouillette,390,86,304
+Monona,JO-MH-SO-SOC-SV-WL,County Board of Supervisors District 2,,DEM,Tom Brouillette,168,42,126
+Monona,SC-UT,County Board of Supervisors District 2,,DEM,Tom Brouillette,106,9,97
+Monona,CP-MA-MT,County Board of Supervisors District 2,,,Sandy Bubke,221,24,197
+Monona,JO-MH-SO-SOC-SV-WL,County Board of Supervisors District 2,,,Sandy Bubke,171,22,149
+Monona,SC-UT,County Board of Supervisors District 2,,,Sandy Bubke,84,8,76
+Monona,CP-MA-MT,County Board of Supervisors District 2,,,Write-in,5,0,5
+Monona,JO-MH-SO-SOC-SV-WL,County Board of Supervisors District 2,,,Write-in,5,1,4
+Monona,SC-UT,County Board of Supervisors District 2,,,Write-in,0,0,0
+Monona,Onawa Ward 1,County Board of Supervisors District 3,,REP,Vincent Phillips,156,36,120
+Monona,Onawa Ward 2,County Board of Supervisors District 3,,REP,Vincent Phillips,218,52,166
+Monona,Onawa Ward 3,County Board of Supervisors District 3,,REP,Vincent Phillips,241,50,191
+Monona,Onawa Ward 4,County Board of Supervisors District 3,,REP,Vincent Phillips,171,32,139
+Monona,Onawa Ward 1,County Board of Supervisors District 3,,,Write-in,2,1,1
+Monona,Onawa Ward 2,County Board of Supervisors District 3,,,Write-in,4,3,1
+Monona,Onawa Ward 3,County Board of Supervisors District 3,,,Write-in,2,0,2
+Monona,Onawa Ward 4,County Board of Supervisors District 3,,,Write-in,2,1,1
+Monona,AS-BV-CN-CS-KB-TU,County Treasurer,,REP,Abby Riesberg,244,57,187
+Monona,CP-MA-MT,County Treasurer,,REP,Abby Riesberg,560,89,471
+Monona,FV-GT-LK-LN-RO-WT-WF,County Treasurer,,REP,Abby Riesberg,546,117,429
+Monona,JO-MH-SO-SOC-SV-WL,County Treasurer,,REP,Abby Riesberg,323,51,272
+Monona,Onawa Ward 1,County Treasurer,,REP,Abby Riesberg,148,32,116
+Monona,Onawa Ward 2,County Treasurer,,REP,Abby Riesberg,208,48,160
+Monona,Onawa Ward 3,County Treasurer,,REP,Abby Riesberg,235,53,182
+Monona,Onawa Ward 4,County Treasurer,,REP,Abby Riesberg,164,31,133
+Monona,SH-FR-BL-SX,County Treasurer,,REP,Abby Riesberg,268,57,211
+Monona,SC-UT,County Treasurer,,REP,Abby Riesberg,172,14,158
+Monona,AS-BV-CN-CS-KB-TU,County Treasurer,,,Write-in,4,3,1
+Monona,CP-MA-MT,County Treasurer,,,Write-in,5,0,5
+Monona,FV-GT-LK-LN-RO-WT-WF,County Treasurer,,,Write-in,9,2,7
+Monona,JO-MH-SO-SOC-SV-WL,County Treasurer,,,Write-in,7,2,5
+Monona,Onawa Ward 1,County Treasurer,,,Write-in,3,3,0
+Monona,Onawa Ward 2,County Treasurer,,,Write-in,10,6,4
+Monona,Onawa Ward 3,County Treasurer,,,Write-in,4,0,4
+Monona,Onawa Ward 4,County Treasurer,,,Write-in,3,1,2
+Monona,SH-FR-BL-SX,County Treasurer,,,Write-in,1,0,1
+Monona,SC-UT,County Treasurer,,,Write-in,1,0,1
+Monona,AS-BV-CN-CS-KB-TU,County Recorder,,DEM,Kelly K. Seward,202,64,138
+Monona,CP-MA-MT,County Recorder,,DEM,Kelly K. Seward,428,93,335
+Monona,FV-GT-LK-LN-RO-WT-WF,County Recorder,,DEM,Kelly K. Seward,401,97,304
+Monona,JO-MH-SO-SOC-SV-WL,County Recorder,,DEM,Kelly K. Seward,255,53,202
+Monona,Onawa Ward 1,County Recorder,,DEM,Kelly K. Seward,127,37,90
+Monona,Onawa Ward 2,County Recorder,,DEM,Kelly K. Seward,181,56,125
+Monona,Onawa Ward 3,County Recorder,,DEM,Kelly K. Seward,210,52,158
+Monona,Onawa Ward 4,County Recorder,,DEM,Kelly K. Seward,145,36,109
+Monona,SH-FR-BL-SX,County Recorder,,DEM,Kelly K. Seward,225,67,158
+Monona,SC-UT,County Recorder,,DEM,Kelly K. Seward,127,10,117
+Monona,AS-BV-CN-CS-KB-TU,County Recorder,,,Write-in,6,2,4
+Monona,CP-MA-MT,County Recorder,,,Write-in,13,0,13
+Monona,FV-GT-LK-LN-RO-WT-WF,County Recorder,,,Write-in,29,0,29
+Monona,JO-MH-SO-SOC-SV-WL,County Recorder,,,Write-in,12,4,8
+Monona,Onawa Ward 1,County Recorder,,,Write-in,11,0,11
+Monona,Onawa Ward 2,County Recorder,,,Write-in,9,1,8
+Monona,Onawa Ward 3,County Recorder,,,Write-in,7,0,7
+Monona,Onawa Ward 4,County Recorder,,,Write-in,8,0,8
+Monona,SH-FR-BL-SX,County Recorder,,,Write-in,10,1,9
+Monona,SC-UT,County Recorder,,,Write-in,2,0,2
+Monona,AS-BV-CN-CS-KB-TU,County Attorney,,REP,Ian McConeghey,228,54,174
+Monona,CP-MA-MT,County Attorney,,REP,Ian McConeghey,501,75,426
+Monona,FV-GT-LK-LN-RO-WT-WF,County Attorney,,REP,Ian McConeghey,522,115,407
+Monona,JO-MH-SO-SOC-SV-WL,County Attorney,,REP,Ian McConeghey,299,46,253
+Monona,Onawa Ward 1,County Attorney,,REP,Ian McConeghey,141,30,111
+Monona,Onawa Ward 2,County Attorney,,REP,Ian McConeghey,197,47,150
+Monona,Onawa Ward 3,County Attorney,,REP,Ian McConeghey,220,51,169
+Monona,Onawa Ward 4,County Attorney,,REP,Ian McConeghey,159,33,126
+Monona,SH-FR-BL-SX,County Attorney,,REP,Ian McConeghey,245,52,193
+Monona,SC-UT,County Attorney,,REP,Ian McConeghey,166,13,153
+Monona,AS-BV-CN-CS-KB-TU,County Attorney,,,Write-in,5,1,4
+Monona,CP-MA-MT,County Attorney,,,Write-in,15,2,13
+Monona,FV-GT-LK-LN-RO-WT-WF,County Attorney,,,Write-in,17,3,14
+Monona,JO-MH-SO-SOC-SV-WL,County Attorney,,,Write-in,10,3,7
+Monona,Onawa Ward 1,County Attorney,,,Write-in,4,1,3
+Monona,Onawa Ward 2,County Attorney,,,Write-in,7,3,4
+Monona,Onawa Ward 3,County Attorney,,,Write-in,6,1,5
+Monona,Onawa Ward 4,County Attorney,,,Write-in,4,1,3
+Monona,SH-FR-BL-SX,County Attorney,,,Write-in,4,0,4
+Monona,SC-UT,County Attorney,,,Write-in,1,0,1
+Monona,AS-BV-CN-CS-KB-TU,Center Township Trustee,,,Thomas Masters,41,14,27
+Monona,AS-BV-CN-CS-KB-TU,Center Township Trustee,,,Jennifer Hanson,48,17,31
+Monona,AS-BV-CN-CS-KB-TU,Center Township Trustee,,,Write-in,0,0,0
+Monona,AS-BV-CN-CS-KB-TU,Center Township Clerk,,,Brenda L Howland,53,18,35
+Monona,AS-BV-CN-CS-KB-TU,Center Township Clerk,,,Write-in,0,0,0
+Monona,SH-FR-BL-SX,Sioux Township Trustee,,,Merle Losh,23,10,13
+Monona,SH-FR-BL-SX,Sioux Township Trustee,,,Samuel Johnson,26,11,15
+Monona,SH-FR-BL-SX,Sioux Township Trustee,,,Write-in,0,0,0
+Monona,SH-FR-BL-SX,Sioux Township Clerk,,,Susan Johnson,29,11,18
+Monona,SH-FR-BL-SX,Sioux Township Clerk,,,Write-in,0,0,0
+Monona,JO-MH-SO-SOC-SV-WL,Soldier Township Trustee,,,Fred Dumkrieger,44,14,30
+Monona,JO-MH-SO-SOC-SV-WL,Soldier Township Trustee,,,Ronald Amunson,58,15,43
+Monona,JO-MH-SO-SOC-SV-WL,Soldier Township Trustee,,,Write-in,2,0,2
+Monona,JO-MH-SO-SOC-SV-WL,Soldier Township Clerk,,,Judy Pohlman,60,14,46
+Monona,JO-MH-SO-SOC-SV-WL,Soldier Township Clerk,,,Write-in,0,0,0
+Monona,JO-MH-SO-SOC-SV-WL,Willow Township Trustee,,,Nicholas Behrendt,21,0,21
+Monona,JO-MH-SO-SOC-SV-WL,Willow Township Trustee,,,Ronald Lee,22,1,21
+Monona,JO-MH-SO-SOC-SV-WL,Willow Township Trustee,,,Write-in,0,0,0
+Monona,JO-MH-SO-SOC-SV-WL,Willow Township Clerk,,,Rozlynn Fundermann,25,1,24
+Monona,JO-MH-SO-SOC-SV-WL,Willow Township Clerk,,,Write-in,0,0,0
+Monona,AS-BV-CN-CS-KB-TU,Soil and Water Conservation District Commissioner,,,T. Eric Brown,215,59,156
+Monona,CP-MA-MT,Soil and Water Conservation District Commissioner,,,T. Eric Brown,334,59,275
+Monona,FV-GT-LK-LN-RO-WT-WF,Soil and Water Conservation District Commissioner,,,T. Eric Brown,458,104,354
+Monona,JO-MH-SO-SOC-SV-WL,Soil and Water Conservation District Commissioner,,,T. Eric Brown,277,46,231
+Monona,Onawa Ward 1,Soil and Water Conservation District Commissioner,,,T. Eric Brown,125,34,91
+Monona,Onawa Ward 2,Soil and Water Conservation District Commissioner,,,T. Eric Brown,173,47,126
+Monona,Onawa Ward 3,Soil and Water Conservation District Commissioner,,,T. Eric Brown,200,47,153
+Monona,Onawa Ward 4,Soil and Water Conservation District Commissioner,,,T. Eric Brown,148,36,112
+Monona,SH-FR-BL-SX,Soil and Water Conservation District Commissioner,,,T. Eric Brown,242,59,183
+Monona,SC-UT,Soil and Water Conservation District Commissioner,,,T. Eric Brown,116,9,107
+Monona,AS-BV-CN-CS-KB-TU,Soil and Water Conservation District Commissioner,,,Marvin Sonksen,162,50,112
+Monona,CP-MA-MT,Soil and Water Conservation District Commissioner,,,Marvin Sonksen,433,87,346
+Monona,FV-GT-LK-LN-RO-WT-WF,Soil and Water Conservation District Commissioner,,,Marvin Sonksen,373,86,287
+Monona,JO-MH-SO-SOC-SV-WL,Soil and Water Conservation District Commissioner,,,Marvin Sonksen,209,39,170
+Monona,Onawa Ward 1,Soil and Water Conservation District Commissioner,,,Marvin Sonksen,104,24,80
+Monona,Onawa Ward 2,Soil and Water Conservation District Commissioner,,,Marvin Sonksen,135,38,97
+Monona,Onawa Ward 3,Soil and Water Conservation District Commissioner,,,Marvin Sonksen,159,40,119
+Monona,Onawa Ward 4,Soil and Water Conservation District Commissioner,,,Marvin Sonksen,96,22,74
+Monona,SH-FR-BL-SX,Soil and Water Conservation District Commissioner,,,Marvin Sonksen,172,47,125
+Monona,SC-UT,Soil and Water Conservation District Commissioner,,,Marvin Sonksen,111,8,103
+Monona,AS-BV-CN-CS-KB-TU,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Monona,CP-MA-MT,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Monona,FV-GT-LK-LN-RO-WT-WF,Soil and Water Conservation District Commissioner,,,Write-in,5,0,5
+Monona,JO-MH-SO-SOC-SV-WL,Soil and Water Conservation District Commissioner,,,Write-in,2,1,1
+Monona,Onawa Ward 1,Soil and Water Conservation District Commissioner,,,Write-in,1,1,0
+Monona,Onawa Ward 2,Soil and Water Conservation District Commissioner,,,Write-in,1,1,0
+Monona,Onawa Ward 3,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Monona,Onawa Ward 4,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Monona,SH-FR-BL-SX,Soil and Water Conservation District Commissioner,,,Write-in,5,0,5
+Monona,SC-UT,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Monona,AS-BV-CN-CS-KB-TU,County Agricultural Extension Council Member,,,Brian L. Hobbs,169,44,125
+Monona,CP-MA-MT,County Agricultural Extension Council Member,,,Brian L. Hobbs,371,66,305
+Monona,FV-GT-LK-LN-RO-WT-WF,County Agricultural Extension Council Member,,,Brian L. Hobbs,462,102,360
+Monona,JO-MH-SO-SOC-SV-WL,County Agricultural Extension Council Member,,,Brian L. Hobbs,232,43,189
+Monona,Onawa Ward 1,County Agricultural Extension Council Member,,,Brian L. Hobbs,100,24,76
+Monona,Onawa Ward 2,County Agricultural Extension Council Member,,,Brian L. Hobbs,143,41,102
+Monona,Onawa Ward 3,County Agricultural Extension Council Member,,,Brian L. Hobbs,165,38,127
+Monona,Onawa Ward 4,County Agricultural Extension Council Member,,,Brian L. Hobbs,110,21,89
+Monona,SH-FR-BL-SX,County Agricultural Extension Council Member,,,Brian L. Hobbs,196,54,142
+Monona,SC-UT,County Agricultural Extension Council Member,,,Brian L. Hobbs,97,8,89
+Monona,AS-BV-CN-CS-KB-TU,County Agricultural Extension Council Member,,,Brent Watkins,156,43,113
+Monona,CP-MA-MT,County Agricultural Extension Council Member,,,Brent Watkins,334,60,274
+Monona,FV-GT-LK-LN-RO-WT-WF,County Agricultural Extension Council Member,,,Brent Watkins,342,75,267
+Monona,JO-MH-SO-SOC-SV-WL,County Agricultural Extension Council Member,,,Brent Watkins,223,38,185
+Monona,Onawa Ward 1,County Agricultural Extension Council Member,,,Brent Watkins,90,19,71
+Monona,Onawa Ward 2,County Agricultural Extension Council Member,,,Brent Watkins,132,36,96
+Monona,Onawa Ward 3,County Agricultural Extension Council Member,,,Brent Watkins,147,33,114
+Monona,Onawa Ward 4,County Agricultural Extension Council Member,,,Brent Watkins,95,20,75
+Monona,SH-FR-BL-SX,County Agricultural Extension Council Member,,,Brent Watkins,185,48,137
+Monona,SC-UT,County Agricultural Extension Council Member,,,Brent Watkins,97,8,89
+Monona,AS-BV-CN-CS-KB-TU,County Agricultural Extension Council Member,,,Rosa Lynch,155,47,108
+Monona,CP-MA-MT,County Agricultural Extension Council Member,,,Rosa Lynch,315,61,254
+Monona,FV-GT-LK-LN-RO-WT-WF,County Agricultural Extension Council Member,,,Rosa Lynch,338,74,264
+Monona,JO-MH-SO-SOC-SV-WL,County Agricultural Extension Council Member,,,Rosa Lynch,203,35,168
+Monona,Onawa Ward 1,County Agricultural Extension Council Member,,,Rosa Lynch,85,18,67
+Monona,Onawa Ward 2,County Agricultural Extension Council Member,,,Rosa Lynch,127,40,87
+Monona,Onawa Ward 3,County Agricultural Extension Council Member,,,Rosa Lynch,136,34,102
+Monona,Onawa Ward 4,County Agricultural Extension Council Member,,,Rosa Lynch,91,22,69
+Monona,SH-FR-BL-SX,County Agricultural Extension Council Member,,,Rosa Lynch,175,48,127
+Monona,SC-UT,County Agricultural Extension Council Member,,,Rosa Lynch,86,6,80
+Monona,AS-BV-CN-CS-KB-TU,County Agricultural Extension Council Member,,,Julie Miller,187,52,135
+Monona,CP-MA-MT,County Agricultural Extension Council Member,,,Julie Miller,337,69,268
+Monona,FV-GT-LK-LN-RO-WT-WF,County Agricultural Extension Council Member,,,Julie Miller,396,89,307
+Monona,JO-MH-SO-SOC-SV-WL,County Agricultural Extension Council Member,,,Julie Miller,225,41,184
+Monona,Onawa Ward 1,County Agricultural Extension Council Member,,,Julie Miller,119,29,90
+Monona,Onawa Ward 2,County Agricultural Extension Council Member,,,Julie Miller,150,42,108
+Monona,Onawa Ward 3,County Agricultural Extension Council Member,,,Julie Miller,172,38,134
+Monona,Onawa Ward 4,County Agricultural Extension Council Member,,,Julie Miller,123,31,92
+Monona,SH-FR-BL-SX,County Agricultural Extension Council Member,,,Julie Miller,224,55,169
+Monona,SC-UT,County Agricultural Extension Council Member,,,Julie Miller,100,7,93
+Monona,AS-BV-CN-CS-KB-TU,County Agricultural Extension Council Member,,,Leland Hathaway,207,54,153
+Monona,CP-MA-MT,County Agricultural Extension Council Member,,,Leland Hathaway,345,72,273
+Monona,FV-GT-LK-LN-RO-WT-WF,County Agricultural Extension Council Member,,,Leland Hathaway,393,92,301
+Monona,JO-MH-SO-SOC-SV-WL,County Agricultural Extension Council Member,,,Leland Hathaway,235,43,192
+Monona,Onawa Ward 1,County Agricultural Extension Council Member,,,Leland Hathaway,117,27,90
+Monona,Onawa Ward 2,County Agricultural Extension Council Member,,,Leland Hathaway,169,45,124
+Monona,Onawa Ward 3,County Agricultural Extension Council Member,,,Leland Hathaway,185,42,143
+Monona,Onawa Ward 4,County Agricultural Extension Council Member,,,Leland Hathaway,125,27,98
+Monona,SH-FR-BL-SX,County Agricultural Extension Council Member,,,Leland Hathaway,228,56,172
+Monona,SC-UT,County Agricultural Extension Council Member,,,Leland Hathaway,98,9,89
+Monona,AS-BV-CN-CS-KB-TU,County Agricultural Extension Council Member,,,Write-in,4,0,4
+Monona,CP-MA-MT,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Monona,FV-GT-LK-LN-RO-WT-WF,County Agricultural Extension Council Member,,,Write-in,7,1,6
+Monona,JO-MH-SO-SOC-SV-WL,County Agricultural Extension Council Member,,,Write-in,14,7,7
+Monona,Onawa Ward 1,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Monona,Onawa Ward 2,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Monona,Onawa Ward 3,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Monona,Onawa Ward 4,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Monona,SH-FR-BL-SX,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Monona,SC-UT,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Monona,AS-BV-CN-CS-KB-TU,Supreme Court Justice,,,Yes,125,35,90
+Monona,CP-MA-MT,Supreme Court Justice,,,Yes,295,50,245
+Monona,FV-GT-LK-LN-RO-WT-WF,Supreme Court Justice,,,Yes,321,73,248
+Monona,JO-MH-SO-SOC-SV-WL,Supreme Court Justice,,,Yes,163,27,136
+Monona,Onawa Ward 1,Supreme Court Justice,,,Yes,79,14,65
+Monona,Onawa Ward 2,Supreme Court Justice,,,Yes,108,26,82
+Monona,Onawa Ward 3,Supreme Court Justice,,,Yes,134,33,101
+Monona,Onawa Ward 4,Supreme Court Justice,,,Yes,99,24,75
+Monona,SH-FR-BL-SX,Supreme Court Justice,,,Yes,147,32,115
+Monona,SC-UT,Supreme Court Justice,,,Yes,83,5,78
+Monona,AS-BV-CN-CS-KB-TU,Supreme Court Justice,,,No,68,20,48
+Monona,CP-MA-MT,Supreme Court Justice,,,No,155,33,122
+Monona,FV-GT-LK-LN-RO-WT-WF,Supreme Court Justice,,,No,143,28,115
+Monona,JO-MH-SO-SOC-SV-WL,Supreme Court Justice,,,No,107,25,82
+Monona,Onawa Ward 1,Supreme Court Justice,,,No,46,11,35
+Monona,Onawa Ward 2,Supreme Court Justice,,,No,59,20,39
+Monona,Onawa Ward 3,Supreme Court Justice,,,No,55,8,47
+Monona,Onawa Ward 4,Supreme Court Justice,,,No,45,5,40
+Monona,SH-FR-BL-SX,Supreme Court Justice,,,No,71,18,53
+Monona,SC-UT,Supreme Court Justice,,,No,45,8,37
+Monona,AS-BV-CN-CS-KB-TU,Court of Appeals Judge,,,Yes,129,39,90
+Monona,CP-MA-MT,Court of Appeals Judge,,,Yes,313,55,258
+Monona,FV-GT-LK-LN-RO-WT-WF,Court of Appeals Judge,,,Yes,321,76,245
+Monona,JO-MH-SO-SOC-SV-WL,Court of Appeals Judge,,,Yes,172,28,144
+Monona,Onawa Ward 1,Court of Appeals Judge,,,Yes,81,18,63
+Monona,Onawa Ward 2,Court of Appeals Judge,,,Yes,105,27,78
+Monona,Onawa Ward 3,Court of Appeals Judge,,,Yes,142,31,111
+Monona,Onawa Ward 4,Court of Appeals Judge,,,Yes,104,24,80
+Monona,SH-FR-BL-SX,Court of Appeals Judge,,,Yes,138,33,105
+Monona,SC-UT,Court of Appeals Judge,,,Yes,95,3,92
+Monona,AS-BV-CN-CS-KB-TU,Court of Appeals Judge,,,No,61,16,45
+Monona,CP-MA-MT,Court of Appeals Judge,,,No,133,25,108
+Monona,FV-GT-LK-LN-RO-WT-WF,Court of Appeals Judge,,,No,123,19,104
+Monona,JO-MH-SO-SOC-SV-WL,Court of Appeals Judge,,,No,92,20,72
+Monona,Onawa Ward 1,Court of Appeals Judge,,,No,44,8,36
+Monona,Onawa Ward 2,Court of Appeals Judge,,,No,58,20,38
+Monona,Onawa Ward 3,Court of Appeals Judge,,,No,48,7,41
+Monona,Onawa Ward 4,Court of Appeals Judge,,,No,38,4,34
+Monona,SH-FR-BL-SX,Court of Appeals Judge,,,No,68,10,58
+Monona,SC-UT,Court of Appeals Judge,,,No,30,5,25
+Monona,AS-BV-CN-CS-KB-TU,District 3B Judge,,,Yes,123,34,89
+Monona,CP-MA-MT,District 3B Judge,,,Yes,303,53,250
+Monona,FV-GT-LK-LN-RO-WT-WF,District 3B Judge,,,Yes,332,75,257
+Monona,JO-MH-SO-SOC-SV-WL,District 3B Judge,,,Yes,177,24,153
+Monona,Onawa Ward 1,District 3B Judge,,,Yes,86,19,67
+Monona,Onawa Ward 2,District 3B Judge,,,Yes,114,30,84
+Monona,Onawa Ward 3,District 3B Judge,,,Yes,130,28,102
+Monona,Onawa Ward 4,District 3B Judge,,,Yes,101,24,77
+Monona,SH-FR-BL-SX,District 3B Judge,,,Yes,148,35,113
+Monona,SC-UT,District 3B Judge,,,Yes,86,4,82
+Monona,AS-BV-CN-CS-KB-TU,District 3B Judge,,,No,60,17,43
+Monona,CP-MA-MT,District 3B Judge,,,No,135,29,106
+Monona,FV-GT-LK-LN-RO-WT-WF,District 3B Judge,,,No,120,20,100
+Monona,JO-MH-SO-SOC-SV-WL,District 3B Judge,,,No,85,21,64
+Monona,Onawa Ward 1,District 3B Judge,,,No,38,9,29
+Monona,Onawa Ward 2,District 3B Judge,,,No,55,17,38
+Monona,Onawa Ward 3,District 3B Judge,,,No,48,9,39
+Monona,Onawa Ward 4,District 3B Judge,,,No,41,4,37
+Monona,SH-FR-BL-SX,District 3B Judge,,,No,62,13,49
+Monona,SC-UT,District 3B Judge,,,No,27,4,23
+Monona,AS-BV-CN-CS-KB-TU,District 3B Associate Judge,,,Yes,131,37,94
+Monona,CP-MA-MT,District 3B Associate Judge,,,Yes,343,62,281
+Monona,FV-GT-LK-LN-RO-WT-WF,District 3B Associate Judge,,,Yes,351,81,270
+Monona,JO-MH-SO-SOC-SV-WL,District 3B Associate Judge,,,Yes,187,30,157
+Monona,Onawa Ward 1,District 3B Associate Judge,,,Yes,97,23,74
+Monona,Onawa Ward 2,District 3B Associate Judge,,,Yes,122,30,92
+Monona,Onawa Ward 3,District 3B Associate Judge,,,Yes,146,33,113
+Monona,Onawa Ward 4,District 3B Associate Judge,,,Yes,110,24,86
+Monona,SH-FR-BL-SX,District 3B Associate Judge,,,Yes,160,42,118
+Monona,SC-UT,District 3B Associate Judge,,,Yes,101,4,97
+Monona,AS-BV-CN-CS-KB-TU,District 3B Associate Judge,,,No,56,15,41
+Monona,CP-MA-MT,District 3B Associate Judge,,,No,116,21,95
+Monona,FV-GT-LK-LN-RO-WT-WF,District 3B Associate Judge,,,No,103,17,86
+Monona,JO-MH-SO-SOC-SV-WL,District 3B Associate Judge,,,No,81,17,64
+Monona,Onawa Ward 1,District 3B Associate Judge,,,No,31,4,27
+Monona,Onawa Ward 2,District 3B Associate Judge,,,No,46,16,30
+Monona,Onawa Ward 3,District 3B Associate Judge,,,No,42,6,36
+Monona,Onawa Ward 4,District 3B Associate Judge,,,No,39,4,35
+Monona,SH-FR-BL-SX,District 3B Associate Judge,,,No,57,9,48
+Monona,SC-UT,District 3B Associate Judge,,,No,20,4,16
+Monona,AS-BV-CN-CS-KB-TU,Constitutional Amendment 1,,,Yes,215,47,168
+Monona,CP-MA-MT,Constitutional Amendment 1,,,Yes,465,74,391
+Monona,FV-GT-LK-LN-RO-WT-WF,Constitutional Amendment 1,,,Yes,507,105,402
+Monona,JO-MH-SO-SOC-SV-WL,Constitutional Amendment 1,,,Yes,292,47,245
+Monona,Onawa Ward 1,Constitutional Amendment 1,,,Yes,152,33,119
+Monona,Onawa Ward 2,Constitutional Amendment 1,,,Yes,182,43,139
+Monona,Onawa Ward 3,Constitutional Amendment 1,,,Yes,205,37,168
+Monona,Onawa Ward 4,Constitutional Amendment 1,,,Yes,158,33,125
+Monona,SH-FR-BL-SX,Constitutional Amendment 1,,,Yes,253,53,200
+Monona,SC-UT,Constitutional Amendment 1,,,Yes,163,16,147
+Monona,AS-BV-CN-CS-KB-TU,Constitutional Amendment 1,,,No,54,28,26
+Monona,CP-MA-MT,Constitutional Amendment 1,,,No,89,21,68
+Monona,FV-GT-LK-LN-RO-WT-WF,Constitutional Amendment 1,,,No,87,28,59
+Monona,JO-MH-SO-SOC-SV-WL,Constitutional Amendment 1,,,No,54,14,40
+Monona,Onawa Ward 1,Constitutional Amendment 1,,,No,25,8,17
+Monona,Onawa Ward 2,Constitutional Amendment 1,,,No,41,19,22
+Monona,Onawa Ward 3,Constitutional Amendment 1,,,No,45,15,30
+Monona,Onawa Ward 4,Constitutional Amendment 1,,,No,30,9,21
+Monona,SH-FR-BL-SX,Constitutional Amendment 1,,,No,42,18,24
+Monona,SC-UT,Constitutional Amendment 1,,,No,24,1,23

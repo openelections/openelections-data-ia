@@ -1,0 +1,586 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Floyd,CC1 - Courthouse,U.S. Senate,,REP,Chuck Grassley,413,131,282
+Floyd,CC2 - Messiah Lutheran Church,U.S. Senate,,REP,Chuck Grassley,489,92,397
+Floyd,CC3 - Trinity United Methodist Church,U.S. Senate,,REP,Chuck Grassley,451,111,340
+Floyd,Rudd - Floyd - Cedar - Niles,U.S. Senate,,REP,Chuck Grassley,567,115,452
+Floyd,Rock Grove,U.S. Senate,,REP,Chuck Grassley,351,41,310
+Floyd,Rockford,U.S. Senate,,REP,Chuck Grassley,293,24,269
+Floyd,Scott - Union - Pleasant Grove,U.S. Senate,,REP,Chuck Grassley,268,37,231
+Floyd,Ulster - St. Charles - Riverton,U.S. Senate,,REP,Chuck Grassley,633,175,458
+Floyd,CC1 - Courthouse,U.S. Senate,,DEM,Michael Franken,336,194,142
+Floyd,CC2 - Messiah Lutheran Church,U.S. Senate,,DEM,Michael Franken,408,162,246
+Floyd,CC3 - Trinity United Methodist Church,U.S. Senate,,DEM,Michael Franken,390,175,215
+Floyd,Rudd - Floyd - Cedar - Niles,U.S. Senate,,DEM,Michael Franken,285,115,170
+Floyd,Rock Grove,U.S. Senate,,DEM,Michael Franken,274,75,199
+Floyd,Rockford,U.S. Senate,,DEM,Michael Franken,162,41,121
+Floyd,Scott - Union - Pleasant Grove,U.S. Senate,,DEM,Michael Franken,129,42,87
+Floyd,Ulster - St. Charles - Riverton,U.S. Senate,,DEM,Michael Franken,263,139,124
+Floyd,CC1 - Courthouse,U.S. Senate,,,Write-in,0,0,0
+Floyd,CC2 - Messiah Lutheran Church,U.S. Senate,,,Write-in,0,0,0
+Floyd,CC3 - Trinity United Methodist Church,U.S. Senate,,,Write-in,0,0,0
+Floyd,Rudd - Floyd - Cedar - Niles,U.S. Senate,,,Write-in,2,0,2
+Floyd,Rock Grove,U.S. Senate,,,Write-in,3,0,3
+Floyd,Rockford,U.S. Senate,,,Write-in,0,0,0
+Floyd,Scott - Union - Pleasant Grove,U.S. Senate,,,Write-in,0,0,0
+Floyd,Ulster - St. Charles - Riverton,U.S. Senate,,,Write-in,0,0,0
+Floyd,CC1 - Courthouse,U.S. House,2,REP,Ashley Hinson,391,118,273
+Floyd,CC2 - Messiah Lutheran Church,U.S. House,2,REP,Ashley Hinson,468,81,387
+Floyd,CC3 - Trinity United Methodist Church,U.S. House,2,REP,Ashley Hinson,436,104,332
+Floyd,Rudd - Floyd - Cedar - Niles,U.S. House,2,REP,Ashley Hinson,551,106,445
+Floyd,Rock Grove,U.S. House,2,REP,Ashley Hinson,355,40,315
+Floyd,Rockford,U.S. House,2,REP,Ashley Hinson,286,23,263
+Floyd,Scott - Union - Pleasant Grove,U.S. House,2,REP,Ashley Hinson,267,38,229
+Floyd,Ulster - St. Charles - Riverton,U.S. House,2,REP,Ashley Hinson,623,167,456
+Floyd,CC1 - Courthouse,U.S. House,2,DEM,Liz Mathis,350,202,148
+Floyd,CC2 - Messiah Lutheran Church,U.S. House,2,DEM,Liz Mathis,425,171,254
+Floyd,CC3 - Trinity United Methodist Church,U.S. House,2,DEM,Liz Mathis,396,181,215
+Floyd,Rudd - Floyd - Cedar - Niles,U.S. House,2,DEM,Liz Mathis,297,121,176
+Floyd,Rock Grove,U.S. House,2,DEM,Liz Mathis,270,75,195
+Floyd,Rockford,U.S. House,2,DEM,Liz Mathis,167,41,126
+Floyd,Scott - Union - Pleasant Grove,U.S. House,2,DEM,Liz Mathis,130,41,89
+Floyd,Ulster - St. Charles - Riverton,U.S. House,2,DEM,Liz Mathis,269,143,126
+Floyd,CC1 - Courthouse,U.S. House,2,,Write-in,0,0,0
+Floyd,CC2 - Messiah Lutheran Church,U.S. House,2,,Write-in,0,0,0
+Floyd,CC3 - Trinity United Methodist Church,U.S. House,2,,Write-in,0,0,0
+Floyd,Rudd - Floyd - Cedar - Niles,U.S. House,2,,Write-in,2,0,2
+Floyd,Rock Grove,U.S. House,2,,Write-in,0,0,0
+Floyd,Rockford,U.S. House,2,,Write-in,0,0,0
+Floyd,Scott - Union - Pleasant Grove,U.S. House,2,,Write-in,0,0,0
+Floyd,Ulster - St. Charles - Riverton,U.S. House,2,,Write-in,2,1,1
+Floyd,CC1 - Courthouse,Governor,,REP,Kim Reynolds and Adam Gregg,441,149,292
+Floyd,CC2 - Messiah Lutheran Church,Governor,,REP,Kim Reynolds and Adam Gregg,524,103,421
+Floyd,CC3 - Trinity United Methodist Church,Governor,,REP,Kim Reynolds and Adam Gregg,478,120,358
+Floyd,Rudd - Floyd - Cedar - Niles,Governor,,REP,Kim Reynolds and Adam Gregg,600,128,472
+Floyd,Rock Grove,Governor,,REP,Kim Reynolds and Adam Gregg,387,50,337
+Floyd,Rockford,Governor,,REP,Kim Reynolds and Adam Gregg,295,22,273
+Floyd,Scott - Union - Pleasant Grove,Governor,,REP,Kim Reynolds and Adam Gregg,280,41,239
+Floyd,Ulster - St. Charles - Riverton,Governor,,REP,Kim Reynolds and Adam Gregg,652,179,473
+Floyd,CC1 - Courthouse,Governor,,DEM,Deidre DeJear and Eric Van Lancker,298,172,126
+Floyd,CC2 - Messiah Lutheran Church,Governor,,DEM,Deidre DeJear and Eric Van Lancker,355,149,206
+Floyd,CC3 - Trinity United Methodist Church,Governor,,DEM,Deidre DeJear and Eric Van Lancker,337,157,180
+Floyd,Rudd - Floyd - Cedar - Niles,Governor,,DEM,Deidre DeJear and Eric Van Lancker,244,103,141
+Floyd,Rock Grove,Governor,,DEM,Deidre DeJear and Eric Van Lancker,229,66,163
+Floyd,Rockford,Governor,,DEM,Deidre DeJear and Eric Van Lancker,152,45,107
+Floyd,Scott - Union - Pleasant Grove,Governor,,DEM,Deidre DeJear and Eric Van Lancker,107,37,70
+Floyd,Ulster - St. Charles - Riverton,Governor,,DEM,Deidre DeJear and Eric Van Lancker,231,131,100
+Floyd,CC1 - Courthouse,Governor,,LIB,Rick Stewart and Marco Battaglia,13,7,6
+Floyd,CC2 - Messiah Lutheran Church,Governor,,LIB,Rick Stewart and Marco Battaglia,23,2,21
+Floyd,CC3 - Trinity United Methodist Church,Governor,,LIB,Rick Stewart and Marco Battaglia,26,9,17
+Floyd,Rudd - Floyd - Cedar - Niles,Governor,,LIB,Rick Stewart and Marco Battaglia,18,1,17
+Floyd,Rock Grove,Governor,,LIB,Rick Stewart and Marco Battaglia,16,2,14
+Floyd,Rockford,Governor,,LIB,Rick Stewart and Marco Battaglia,12,0,12
+Floyd,Scott - Union - Pleasant Grove,Governor,,LIB,Rick Stewart and Marco Battaglia,11,2,9
+Floyd,Ulster - St. Charles - Riverton,Governor,,LIB,Rick Stewart and Marco Battaglia,27,11,16
+Floyd,CC1 - Courthouse,Governor,,,Write-in,0,0,0
+Floyd,CC2 - Messiah Lutheran Church,Governor,,,Write-in,1,0,1
+Floyd,CC3 - Trinity United Methodist Church,Governor,,,Write-in,0,0,0
+Floyd,Rudd - Floyd - Cedar - Niles,Governor,,,Write-in,0,0,0
+Floyd,Rock Grove,Governor,,,Write-in,0,0,0
+Floyd,Rockford,Governor,,,Write-in,0,0,0
+Floyd,Scott - Union - Pleasant Grove,Governor,,,Write-in,0,0,0
+Floyd,Ulster - St. Charles - Riverton,Governor,,,Write-in,0,0,0
+Floyd,CC1 - Courthouse,Secretary of State,,REP,Paul D. Pate,437,152,285
+Floyd,CC2 - Messiah Lutheran Church,Secretary of State,,REP,Paul D. Pate,541,105,436
+Floyd,CC3 - Trinity United Methodist Church,Secretary of State,,REP,Paul D. Pate,477,115,362
+Floyd,Rudd - Floyd - Cedar - Niles,Secretary of State,,REP,Paul D. Pate,592,124,468
+Floyd,Rock Grove,Secretary of State,,REP,Paul D. Pate,383,51,332
+Floyd,Rockford,Secretary of State,,REP,Paul D. Pate,299,26,273
+Floyd,Scott - Union - Pleasant Grove,Secretary of State,,REP,Paul D. Pate,283,44,239
+Floyd,Ulster - St. Charles - Riverton,Secretary of State,,REP,Paul D. Pate,659,186,473
+Floyd,CC1 - Courthouse,Secretary of State,,DEM,Joel Miller,291,171,120
+Floyd,CC2 - Messiah Lutheran Church,Secretary of State,,DEM,Joel Miller,356,146,210
+Floyd,CC3 - Trinity United Methodist Church,Secretary of State,,DEM,Joel Miller,352,166,186
+Floyd,Rudd - Floyd - Cedar - Niles,Secretary of State,,DEM,Joel Miller,245,101,144
+Floyd,Rock Grove,Secretary of State,,DEM,Joel Miller,241,65,176
+Floyd,Rockford,Secretary of State,,DEM,Joel Miller,156,40,116
+Floyd,Scott - Union - Pleasant Grove,Secretary of State,,DEM,Joel Miller,109,34,75
+Floyd,Ulster - St. Charles - Riverton,Secretary of State,,DEM,Joel Miller,228,123,105
+Floyd,CC1 - Courthouse,Secretary of State,,,Write-in,0,0,0
+Floyd,CC2 - Messiah Lutheran Church,Secretary of State,,,Write-in,0,0,0
+Floyd,CC3 - Trinity United Methodist Church,Secretary of State,,,Write-in,0,0,0
+Floyd,Rudd - Floyd - Cedar - Niles,Secretary of State,,,Write-in,1,0,1
+Floyd,Rock Grove,Secretary of State,,,Write-in,0,0,0
+Floyd,Rockford,Secretary of State,,,Write-in,1,1,0
+Floyd,Scott - Union - Pleasant Grove,Secretary of State,,,Write-in,0,0,0
+Floyd,Ulster - St. Charles - Riverton,Secretary of State,,,Write-in,1,0,1
+Floyd,CC1 - Courthouse,Auditor of State,,REP,Todd Halbur,384,123,261
+Floyd,CC2 - Messiah Lutheran Church,Auditor of State,,REP,Todd Halbur,475,86,389
+Floyd,CC3 - Trinity United Methodist Church,Auditor of State,,REP,Todd Halbur,444,106,338
+Floyd,Rudd - Floyd - Cedar - Niles,Auditor of State,,REP,Todd Halbur,525,101,424
+Floyd,Rock Grove,Auditor of State,,REP,Todd Halbur,345,41,304
+Floyd,Rockford,Auditor of State,,REP,Todd Halbur,287,24,263
+Floyd,Scott - Union - Pleasant Grove,Auditor of State,,REP,Todd Halbur,246,36,210
+Floyd,Ulster - St. Charles - Riverton,Auditor of State,,REP,Todd Halbur,568,149,419
+Floyd,CC1 - Courthouse,Auditor of State,,DEM,Rob Sand,346,197,149
+Floyd,CC2 - Messiah Lutheran Church,Auditor of State,,DEM,Rob Sand,415,164,251
+Floyd,CC3 - Trinity United Methodist Church,Auditor of State,,DEM,Rob Sand,384,175,209
+Floyd,Rudd - Floyd - Cedar - Niles,Auditor of State,,DEM,Rob Sand,305,122,183
+Floyd,Rock Grove,Auditor of State,,DEM,Rob Sand,270,73,197
+Floyd,Rockford,Auditor of State,,DEM,Rob Sand,167,43,124
+Floyd,Scott - Union - Pleasant Grove,Auditor of State,,DEM,Rob Sand,147,42,105
+Floyd,Ulster - St. Charles - Riverton,Auditor of State,,DEM,Rob Sand,313,159,154
+Floyd,CC1 - Courthouse,Auditor of State,,,Write-in,0,0,0
+Floyd,CC2 - Messiah Lutheran Church,Auditor of State,,,Write-in,0,0,0
+Floyd,CC3 - Trinity United Methodist Church,Auditor of State,,,Write-in,0,0,0
+Floyd,Rudd - Floyd - Cedar - Niles,Auditor of State,,,Write-in,1,0,1
+Floyd,Rock Grove,Auditor of State,,,Write-in,0,0,0
+Floyd,Rockford,Auditor of State,,,Write-in,0,0,0
+Floyd,Scott - Union - Pleasant Grove,Auditor of State,,,Write-in,0,0,0
+Floyd,Ulster - St. Charles - Riverton,Auditor of State,,,Write-in,1,0,1
+Floyd,CC1 - Courthouse,Treasurer of State,,REP,Roby Smith,356,111,245
+Floyd,CC2 - Messiah Lutheran Church,Treasurer of State,,REP,Roby Smith,448,75,373
+Floyd,CC3 - Trinity United Methodist Church,Treasurer of State,,REP,Roby Smith,405,93,312
+Floyd,Rudd - Floyd - Cedar - Niles,Treasurer of State,,REP,Roby Smith,491,90,401
+Floyd,Rock Grove,Treasurer of State,,REP,Roby Smith,324,37,287
+Floyd,Rockford,Treasurer of State,,REP,Roby Smith,258,23,235
+Floyd,Scott - Union - Pleasant Grove,Treasurer of State,,REP,Roby Smith,249,35,214
+Floyd,Ulster - St. Charles - Riverton,Treasurer of State,,REP,Roby Smith,561,151,410
+Floyd,CC1 - Courthouse,Treasurer of State,,DEM,Michael L. Fitzgerald,375,211,164
+Floyd,CC2 - Messiah Lutheran Church,Treasurer of State,,DEM,Michael L. Fitzgerald,445,175,270
+Floyd,CC3 - Trinity United Methodist Church,Treasurer of State,,DEM,Michael L. Fitzgerald,422,186,236
+Floyd,Rudd - Floyd - Cedar - Niles,Treasurer of State,,DEM,Michael L. Fitzgerald,343,135,208
+Floyd,Rock Grove,Treasurer of State,,DEM,Michael L. Fitzgerald,292,75,217
+Floyd,Rockford,Treasurer of State,,DEM,Michael L. Fitzgerald,197,43,154
+Floyd,Scott - Union - Pleasant Grove,Treasurer of State,,DEM,Michael L. Fitzgerald,143,43,100
+Floyd,Ulster - St. Charles - Riverton,Treasurer of State,,DEM,Michael L. Fitzgerald,324,160,164
+Floyd,CC1 - Courthouse,Treasurer of State,,,Write-in,0,0,0
+Floyd,CC2 - Messiah Lutheran Church,Treasurer of State,,,Write-in,0,0,0
+Floyd,CC3 - Trinity United Methodist Church,Treasurer of State,,,Write-in,0,0,0
+Floyd,Rudd - Floyd - Cedar - Niles,Treasurer of State,,,Write-in,1,0,1
+Floyd,Rock Grove,Treasurer of State,,,Write-in,0,0,0
+Floyd,Rockford,Treasurer of State,,,Write-in,0,0,0
+Floyd,Scott - Union - Pleasant Grove,Treasurer of State,,,Write-in,0,0,0
+Floyd,Ulster - St. Charles - Riverton,Treasurer of State,,,Write-in,1,0,1
+Floyd,CC1 - Courthouse,Secretary of Agriculture,,REP,Mike Naig,443,150,293
+Floyd,CC2 - Messiah Lutheran Church,Secretary of Agriculture,,REP,Mike Naig,547,102,445
+Floyd,CC3 - Trinity United Methodist Church,Secretary of Agriculture,,REP,Mike Naig,484,117,367
+Floyd,Rudd - Floyd - Cedar - Niles,Secretary of Agriculture,,REP,Mike Naig,620,125,495
+Floyd,Rock Grove,Secretary of Agriculture,,REP,Mike Naig,401,57,344
+Floyd,Rockford,Secretary of Agriculture,,REP,Mike Naig,314,25,289
+Floyd,Scott - Union - Pleasant Grove,Secretary of Agriculture,,REP,Mike Naig,291,45,246
+Floyd,Ulster - St. Charles - Riverton,Secretary of Agriculture,,REP,Mike Naig,697,200,497
+Floyd,CC1 - Courthouse,Secretary of Agriculture,,DEM,John Norwood,284,169,115
+Floyd,CC2 - Messiah Lutheran Church,Secretary of Agriculture,,DEM,John Norwood,346,148,198
+Floyd,CC3 - Trinity United Methodist Church,Secretary of Agriculture,,DEM,John Norwood,338,160,178
+Floyd,Rudd - Floyd - Cedar - Niles,Secretary of Agriculture,,DEM,John Norwood,216,100,116
+Floyd,Rock Grove,Secretary of Agriculture,,DEM,John Norwood,220,59,161
+Floyd,Rockford,Secretary of Agriculture,,DEM,John Norwood,143,42,101
+Floyd,Scott - Union - Pleasant Grove,Secretary of Agriculture,,DEM,John Norwood,104,34,70
+Floyd,Ulster - St. Charles - Riverton,Secretary of Agriculture,,DEM,John Norwood,200,113,87
+Floyd,CC1 - Courthouse,Secretary of Agriculture,,,Write-in,0,0,0
+Floyd,CC2 - Messiah Lutheran Church,Secretary of Agriculture,,,Write-in,0,0,0
+Floyd,CC3 - Trinity United Methodist Church,Secretary of Agriculture,,,Write-in,0,0,0
+Floyd,Rudd - Floyd - Cedar - Niles,Secretary of Agriculture,,,Write-in,1,0,1
+Floyd,Rock Grove,Secretary of Agriculture,,,Write-in,1,0,1
+Floyd,Rockford,Secretary of Agriculture,,,Write-in,0,0,0
+Floyd,Scott - Union - Pleasant Grove,Secretary of Agriculture,,,Write-in,0,0,0
+Floyd,Ulster - St. Charles - Riverton,Secretary of Agriculture,,,Write-in,1,1,0
+Floyd,CC1 - Courthouse,Attorney General,,REP,Brenna Bird,367,113,254
+Floyd,CC2 - Messiah Lutheran Church,Attorney General,,REP,Brenna Bird,453,73,380
+Floyd,CC3 - Trinity United Methodist Church,Attorney General,,REP,Brenna Bird,420,95,325
+Floyd,Rudd - Floyd - Cedar - Niles,Attorney General,,REP,Brenna Bird,514,92,422
+Floyd,Rock Grove,Attorney General,,REP,Brenna Bird,339,35,304
+Floyd,Rockford,Attorney General,,REP,Brenna Bird,270,23,247
+Floyd,Scott - Union - Pleasant Grove,Attorney General,,REP,Brenna Bird,252,31,221
+Floyd,Ulster - St. Charles - Riverton,Attorney General,,REP,Brenna Bird,580,153,427
+Floyd,CC1 - Courthouse,Attorney General,,DEM,Tom Miller,373,215,158
+Floyd,CC2 - Messiah Lutheran Church,Attorney General,,DEM,Tom Miller,446,180,266
+Floyd,CC3 - Trinity United Methodist Church,Attorney General,,DEM,Tom Miller,411,188,223
+Floyd,Rudd - Floyd - Cedar - Niles,Attorney General,,DEM,Tom Miller,323,130,193
+Floyd,Rock Grove,Attorney General,,DEM,Tom Miller,280,81,199
+Floyd,Rockford,Attorney General,,DEM,Tom Miller,183,44,139
+Floyd,Scott - Union - Pleasant Grove,Attorney General,,DEM,Tom Miller,144,48,96
+Floyd,Ulster - St. Charles - Riverton,Attorney General,,DEM,Tom Miller,311,160,151
+Floyd,CC1 - Courthouse,Attorney General,,,Write-in,0,0,0
+Floyd,CC2 - Messiah Lutheran Church,Attorney General,,,Write-in,0,0,0
+Floyd,CC3 - Trinity United Methodist Church,Attorney General,,,Write-in,1,0,1
+Floyd,Rudd - Floyd - Cedar - Niles,Attorney General,,,Write-in,1,0,1
+Floyd,Rock Grove,Attorney General,,,Write-in,0,0,0
+Floyd,Rockford,Attorney General,,,Write-in,0,0,0
+Floyd,Scott - Union - Pleasant Grove,Attorney General,,,Write-in,1,1,0
+Floyd,Ulster - St. Charles - Riverton,Attorney General,,,Write-in,1,0,1
+Floyd,CC1 - Courthouse,State Senate,29,REP,Sandy Salmon,414,135,279
+Floyd,CC2 - Messiah Lutheran Church,State Senate,29,REP,Sandy Salmon,515,100,415
+Floyd,CC3 - Trinity United Methodist Church,State Senate,29,REP,Sandy Salmon,463,112,351
+Floyd,Rudd - Floyd - Cedar - Niles,State Senate,29,REP,Sandy Salmon,571,114,457
+Floyd,Scott - Union - Pleasant Grove,State Senate,29,REP,Sandy Salmon,269,40,229
+Floyd,Ulster - St. Charles - Riverton,State Senate,29,REP,Sandy Salmon,640,179,461
+Floyd,CC1 - Courthouse,State Senate,29,DEM,Jenn Wolff,319,185,134
+Floyd,CC2 - Messiah Lutheran Church,State Senate,29,DEM,Jenn Wolff,383,153,230
+Floyd,CC3 - Trinity United Methodist Church,State Senate,29,DEM,Jenn Wolff,366,170,196
+Floyd,Rudd - Floyd - Cedar - Niles,State Senate,29,DEM,Jenn Wolff,270,111,159
+Floyd,Scott - Union - Pleasant Grove,State Senate,29,DEM,Jenn Wolff,119,39,80
+Floyd,Ulster - St. Charles - Riverton,State Senate,29,DEM,Jenn Wolff,243,133,110
+Floyd,CC1 - Courthouse,State Senate,29,,Write-in,0,0,0
+Floyd,CC2 - Messiah Lutheran Church,State Senate,29,,Write-in,0,0,0
+Floyd,CC3 - Trinity United Methodist Church,State Senate,29,,Write-in,0,0,0
+Floyd,Rudd - Floyd - Cedar - Niles,State Senate,29,,Write-in,1,0,1
+Floyd,Scott - Union - Pleasant Grove,State Senate,29,,Write-in,0,0,0
+Floyd,Ulster - St. Charles - Riverton,State Senate,29,,Write-in,1,0,1
+Floyd,Rock Grove,State Senate,30,REP,Waylon Brown,380,44,336
+Floyd,Rockford,State Senate,30,REP,Waylon Brown,308,24,284
+Floyd,Rock Grove,State Senate,30,DEM,Whitney Mixdorf,244,69,175
+Floyd,Rockford,State Senate,30,DEM,Whitney Mixdorf,149,42,107
+Floyd,Rock Grove,State Senate,30,,Write-in,0,0,0
+Floyd,Rockford,State Senate,30,,Write-in,0,0,0
+Floyd,CC1 - Courthouse,State House,58,REP,Charley Thomson,276,92,184
+Floyd,CC2 - Messiah Lutheran Church,State House,58,REP,Charley Thomson,358,61,297
+Floyd,CC3 - Trinity United Methodist Church,State House,58,REP,Charley Thomson,337,85,252
+Floyd,Rudd - Floyd - Cedar - Niles,State House,58,REP,Charley Thomson,428,87,341
+Floyd,Scott - Union - Pleasant Grove,State House,58,REP,Charley Thomson,250,39,211
+Floyd,Ulster - St. Charles - Riverton,State House,58,REP,Charley Thomson,458,121,337
+Floyd,CC1 - Courthouse,State House,58,DEM,Dené Lundberg,458,229,229
+Floyd,CC2 - Messiah Lutheran Church,State House,58,DEM,Dené Lundberg,537,191,346
+Floyd,CC3 - Trinity United Methodist Church,State House,58,DEM,Dené Lundberg,496,200,296
+Floyd,Rudd - Floyd - Cedar - Niles,State House,58,DEM,Dené Lundberg,399,140,259
+Floyd,Scott - Union - Pleasant Grove,State House,58,DEM,Dené Lundberg,135,40,95
+Floyd,Ulster - St. Charles - Riverton,State House,58,DEM,Dené Lundberg,434,194,240
+Floyd,CC1 - Courthouse,State House,58,,Write-in,1,0,1
+Floyd,CC2 - Messiah Lutheran Church,State House,58,,Write-in,2,1,1
+Floyd,CC3 - Trinity United Methodist Church,State House,58,,Write-in,0,0,0
+Floyd,Rudd - Floyd - Cedar - Niles,State House,58,,Write-in,3,0,3
+Floyd,Scott - Union - Pleasant Grove,State House,58,,Write-in,0,0,0
+Floyd,Ulster - St. Charles - Riverton,State House,58,,Write-in,5,0,5
+Floyd,Rock Grove,State House,60,REP,Jane Bloomingdale,499,70,429
+Floyd,Rockford,State House,60,REP,Jane Bloomingdale,383,38,345
+Floyd,Rock Grove,State House,60,,Write-in,3,2,1
+Floyd,Rockford,State House,60,,Write-in,2,1,1
+Floyd,CC1 - Courthouse,County Board of Supervisors District 1,,REP,Julius Bryant,224,67,157
+Floyd,Scott - Union - Pleasant Grove,County Board of Supervisors District 1,,REP,Julius Bryant,169,24,145
+Floyd,Ulster - St. Charles - Riverton,County Board of Supervisors District 1,,REP,Julius Bryant,315,87,228
+Floyd,CC1 - Courthouse,County Board of Supervisors District 1,,DEM,Mark Kuhn,357,187,170
+Floyd,Scott - Union - Pleasant Grove,County Board of Supervisors District 1,,DEM,Mark Kuhn,169,47,122
+Floyd,Ulster - St. Charles - Riverton,County Board of Supervisors District 1,,DEM,Mark Kuhn,350,139,211
+Floyd,CC1 - Courthouse,County Board of Supervisors District 1,,,Douglas A. Kamm,160,71,89
+Floyd,Scott - Union - Pleasant Grove,County Board of Supervisors District 1,,,Douglas A. Kamm,60,11,49
+Floyd,Ulster - St. Charles - Riverton,County Board of Supervisors District 1,,,Douglas A. Kamm,239,91,148
+Floyd,CC1 - Courthouse,County Board of Supervisors District 1,,,Write-in,0,0,0
+Floyd,Scott - Union - Pleasant Grove,County Board of Supervisors District 1,,,Write-in,0,0,0
+Floyd,Ulster - St. Charles - Riverton,County Board of Supervisors District 1,,,Write-in,1,0,1
+Floyd,CC2 - Messiah Lutheran Church,County Board of Supervisors District 2,,REP,Dennis Keifer,495,94,401
+Floyd,CC3 - Trinity United Methodist Church,County Board of Supervisors District 2,,REP,Dennis Keifer,445,116,329
+Floyd,CC2 - Messiah Lutheran Church,County Board of Supervisors District 2,,DEM,Josh Mack,395,156,239
+Floyd,CC3 - Trinity United Methodist Church,County Board of Supervisors District 2,,DEM,Josh Mack,386,163,223
+Floyd,CC2 - Messiah Lutheran Church,County Board of Supervisors District 2,,,Write-in,3,0,3
+Floyd,CC3 - Trinity United Methodist Church,County Board of Supervisors District 2,,,Write-in,0,0,0
+Floyd,Rudd - Floyd - Cedar - Niles,County Board of Supervisors District 3,,REP,Jeff Hawbaker,402,76,326
+Floyd,Rock Grove,County Board of Supervisors District 3,,REP,Jeff Hawbaker,252,24,228
+Floyd,Rockford,County Board of Supervisors District 3,,REP,Jeff Hawbaker,222,19,203
+Floyd,Rudd - Floyd - Cedar - Niles,County Board of Supervisors District 3,,DEM,James Lundberg,364,129,235
+Floyd,Rock Grove,County Board of Supervisors District 3,,DEM,James Lundberg,210,57,153
+Floyd,Rockford,County Board of Supervisors District 3,,DEM,James Lundberg,142,38,104
+Floyd,Rudd - Floyd - Cedar - Niles,County Board of Supervisors District 3,,,Jayson Ryner,72,18,54
+Floyd,Rock Grove,County Board of Supervisors District 3,,,Jayson Ryner,158,35,123
+Floyd,Rockford,County Board of Supervisors District 3,,,Jayson Ryner,90,10,80
+Floyd,Rudd - Floyd - Cedar - Niles,County Board of Supervisors District 3,,,Write-in,5,1,4
+Floyd,Rock Grove,County Board of Supervisors District 3,,,Write-in,0,0,0
+Floyd,Rockford,County Board of Supervisors District 3,,,Write-in,1,0,1
+Floyd,CC1 - Courthouse,County Treasurer,,REP,Jessie Lynn Holm,616,244,372
+Floyd,CC2 - Messiah Lutheran Church,County Treasurer,,REP,Jessie Lynn Holm,766,183,583
+Floyd,CC3 - Trinity United Methodist Church,County Treasurer,,REP,Jessie Lynn Holm,700,206,494
+Floyd,Rudd - Floyd - Cedar - Niles,County Treasurer,,REP,Jessie Lynn Holm,761,177,584
+Floyd,Rock Grove,County Treasurer,,REP,Jessie Lynn Holm,521,81,440
+Floyd,Rockford,County Treasurer,,REP,Jessie Lynn Holm,394,40,354
+Floyd,Scott - Union - Pleasant Grove,County Treasurer,,REP,Jessie Lynn Holm,349,64,285
+Floyd,Ulster - St. Charles - Riverton,County Treasurer,,REP,Jessie Lynn Holm,817,269,548
+Floyd,CC1 - Courthouse,County Treasurer,,,Write-in,12,7,5
+Floyd,CC2 - Messiah Lutheran Church,County Treasurer,,,Write-in,12,5,7
+Floyd,CC3 - Trinity United Methodist Church,County Treasurer,,,Write-in,7,5,2
+Floyd,Rudd - Floyd - Cedar - Niles,County Treasurer,,,Write-in,6,1,5
+Floyd,Rock Grove,County Treasurer,,,Write-in,1,1,0
+Floyd,Rockford,County Treasurer,,,Write-in,2,1,1
+Floyd,Scott - Union - Pleasant Grove,County Treasurer,,,Write-in,3,0,3
+Floyd,Ulster - St. Charles - Riverton,County Treasurer,,,Write-in,7,2,5
+Floyd,CC1 - Courthouse,County Recorder,,REP,Amy M. Assink,629,251,378
+Floyd,CC2 - Messiah Lutheran Church,County Recorder,,REP,Amy M. Assink,776,190,586
+Floyd,CC3 - Trinity United Methodist Church,County Recorder,,REP,Amy M. Assink,709,214,495
+Floyd,Rudd - Floyd - Cedar - Niles,County Recorder,,REP,Amy M. Assink,769,183,586
+Floyd,Rock Grove,County Recorder,,REP,Amy M. Assink,524,83,441
+Floyd,Rockford,County Recorder,,REP,Amy M. Assink,396,40,356
+Floyd,Scott - Union - Pleasant Grove,County Recorder,,REP,Amy M. Assink,351,63,288
+Floyd,Ulster - St. Charles - Riverton,County Recorder,,REP,Amy M. Assink,827,274,553
+Floyd,CC1 - Courthouse,County Recorder,,,Write-in,6,5,1
+Floyd,CC2 - Messiah Lutheran Church,County Recorder,,,Write-in,9,4,5
+Floyd,CC3 - Trinity United Methodist Church,County Recorder,,,Write-in,5,4,1
+Floyd,Rudd - Floyd - Cedar - Niles,County Recorder,,,Write-in,6,0,6
+Floyd,Rock Grove,County Recorder,,,Write-in,2,1,1
+Floyd,Rockford,County Recorder,,,Write-in,2,1,1
+Floyd,Scott - Union - Pleasant Grove,County Recorder,,,Write-in,1,0,1
+Floyd,Ulster - St. Charles - Riverton,County Recorder,,,Write-in,3,0,3
+Floyd,CC1 - Courthouse,County Attorney,,REP,Rachel Ginbey,591,242,349
+Floyd,CC2 - Messiah Lutheran Church,County Attorney,,REP,Rachel Ginbey,741,170,571
+Floyd,CC3 - Trinity United Methodist Church,County Attorney,,REP,Rachel Ginbey,648,184,464
+Floyd,Rudd - Floyd - Cedar - Niles,County Attorney,,REP,Rachel Ginbey,710,167,543
+Floyd,Rock Grove,County Attorney,,REP,Rachel Ginbey,523,83,440
+Floyd,Rockford,County Attorney,,REP,Rachel Ginbey,387,40,347
+Floyd,Scott - Union - Pleasant Grove,County Attorney,,REP,Rachel Ginbey,338,59,279
+Floyd,Ulster - St. Charles - Riverton,County Attorney,,REP,Rachel Ginbey,765,251,514
+Floyd,CC1 - Courthouse,County Attorney,,,Write-in,18,8,10
+Floyd,CC2 - Messiah Lutheran Church,County Attorney,,,Write-in,21,8,13
+Floyd,CC3 - Trinity United Methodist Church,County Attorney,,,Write-in,24,10,14
+Floyd,Rudd - Floyd - Cedar - Niles,County Attorney,,,Write-in,26,5,21
+Floyd,Rock Grove,County Attorney,,,Write-in,2,0,2
+Floyd,Rockford,County Attorney,,,Write-in,3,1,2
+Floyd,Scott - Union - Pleasant Grove,County Attorney,,,Write-in,4,1,3
+Floyd,Ulster - St. Charles - Riverton,County Attorney,,,Write-in,13,6,7
+Floyd,Rudd - Floyd - Cedar - Niles,Cedar Township Trustee,,,David Wetherell,42,18,24
+Floyd,Rudd - Floyd - Cedar - Niles,Cedar Township Trustee,,,Larry Tjaden,44,16,28
+Floyd,Rudd - Floyd - Cedar - Niles,Cedar Township Trustee,,,Write-in,0,0,0
+Floyd,Rudd - Floyd - Cedar - Niles,Cedar Township Clerk,,,Amy Johnson,53,21,32
+Floyd,Rudd - Floyd - Cedar - Niles,Cedar Township Clerk,,,Write-in,0,0,0
+Floyd,Rudd - Floyd - Cedar - Niles,Floyd Township Trustee,,,Duane Folz,142,27,115
+Floyd,Rudd - Floyd - Cedar - Niles,Floyd Township Trustee,,,Jay Jung,234,49,185
+Floyd,Rudd - Floyd - Cedar - Niles,Floyd Township Trustee,,,Write-in,6,1,5
+Floyd,Rudd - Floyd - Cedar - Niles,Floyd Township Trustee,,,Luke Chatfield,50,6,44
+Floyd,Rudd - Floyd - Cedar - Niles,Floyd Township Clerk,,,Theresa Stewart,245,47,198
+Floyd,Rudd - Floyd - Cedar - Niles,Floyd Township Clerk,,,Write-in,7,1,6
+Floyd,Rudd - Floyd - Cedar - Niles,Niles Township Trustee,,,Gary G. Girkin,140,41,99
+Floyd,Rudd - Floyd - Cedar - Niles,Niles Township Trustee,,,Christopher Garden,151,44,107
+Floyd,Rudd - Floyd - Cedar - Niles,Niles Township Trustee,,,Write-in,1,1,0
+Floyd,Rudd - Floyd - Cedar - Niles,Niles Township Clerk,,,Write-in,14,2,12
+Floyd,Rudd - Floyd - Cedar - Niles,Niles Township Clerk,,,Sandy Hicks,6,3,3
+Floyd,Scott - Union - Pleasant Grove,Pleasant Grove Township Trustee,,,Dennis Gabe,78,17,61
+Floyd,Scott - Union - Pleasant Grove,Pleasant Grove Township Trustee,,,Write-in,8,0,8
+Floyd,Scott - Union - Pleasant Grove,Pleasant Grove Township Trustee,,,John Eggena,6,0,6
+Floyd,Scott - Union - Pleasant Grove,Pleasant Grove Township Clerk,,,Roxann M. Geelhoed,82,16,66
+Floyd,Scott - Union - Pleasant Grove,Pleasant Grove Township Clerk,,,Write-in,1,0,1
+Floyd,Ulster - St. Charles - Riverton,Riverton Township Trustee,,,Robert Mondt,136,37,99
+Floyd,Ulster - St. Charles - Riverton,Riverton Township Trustee,,,Charlie Westervelt,145,39,106
+Floyd,Ulster - St. Charles - Riverton,Riverton Township Trustee,,,Write-in,3,1,2
+Floyd,Ulster - St. Charles - Riverton,Riverton Township Clerk,,,Troy Stille,166,48,118
+Floyd,Ulster - St. Charles - Riverton,Riverton Township Clerk,,,Write-in,0,0,0
+Floyd,Rock Grove,Rock Grove Township Trustee,,,Michael Shanks,107,24,83
+Floyd,Rock Grove,Rock Grove Township Trustee,,,Bruce Squier,102,24,78
+Floyd,Rock Grove,Rock Grove Township Trustee,,,Write-in,1,0,1
+Floyd,Rock Grove,Rock Grove Township Trustee To A Fill Vacancy,,,Mark Nel,118,20,98
+Floyd,Rock Grove,Rock Grove Township Trustee To A Fill Vacancy,,,Write-in,1,0,1
+Floyd,Rock Grove,Rock Grove Township Clerk,,,Galen Montag,125,25,100
+Floyd,Rock Grove,Rock Grove Township Clerk,,,Write-in,1,0,1
+Floyd,Rockford,Rockford Township Trustee,,,Darrin White,161,23,138
+Floyd,Rockford,Rockford Township Trustee,,,Write-in,0,0,0
+Floyd,Rockford,Rockford Township Clerk,,,Kevin L. Boehmer,163,22,141
+Floyd,Rockford,Rockford Township Clerk,,,Write-in,0,0,0
+Floyd,Rudd - Floyd - Cedar - Niles,Rudd Township Trustee,,,Dustin Straube,55,15,40
+Floyd,Rudd - Floyd - Cedar - Niles,Rudd Township Trustee,,,Larry Bortz,60,15,45
+Floyd,Rudd - Floyd - Cedar - Niles,Rudd Township Trustee,,,Write-in,0,0,0
+Floyd,Rudd - Floyd - Cedar - Niles,Rudd Township Clerk,,,Write-in,2,2,0
+Floyd,Rudd - Floyd - Cedar - Niles,Rudd Township Clerk,,,Lucas Brandau,2,0,2
+Floyd,Scott - Union - Pleasant Grove,Scott Township Trustee,,,Andrew Kruse,43,11,32
+Floyd,Scott - Union - Pleasant Grove,Scott Township Trustee,,,Paul Ott,41,11,30
+Floyd,Scott - Union - Pleasant Grove,Scott Township Trustee,,,Write-in,0,0,0
+Floyd,Scott - Union - Pleasant Grove,Scott Township Clerk,,,Samantha Kruse,50,13,37
+Floyd,Scott - Union - Pleasant Grove,Scott Township Clerk,,,Write-in,0,0,0
+Floyd,CC3 - Trinity United Methodist Church,St. Charles Township Trustee,,,David Holschlag,72,37,35
+Floyd,Ulster - St. Charles - Riverton,St. Charles Township Trustee,,,David Holschlag,412,151,261
+Floyd,CC3 - Trinity United Methodist Church,St. Charles Township Trustee,,,Dennis Sanvig,39,14,25
+Floyd,Ulster - St. Charles - Riverton,St. Charles Township Trustee,,,Dennis Sanvig,245,101,144
+Floyd,CC3 - Trinity United Methodist Church,St. Charles Township Trustee,,,Wallace L. Ross,36,15,21
+Floyd,Ulster - St. Charles - Riverton,St. Charles Township Trustee,,,Wallace L. Ross,196,81,115
+Floyd,CC3 - Trinity United Methodist Church,St. Charles Township Trustee,,,Write-in,1,1,0
+Floyd,Ulster - St. Charles - Riverton,St. Charles Township Trustee,,,Write-in,6,2,4
+Floyd,CC3 - Trinity United Methodist Church,St. Charles Township Clerk,,,Diane Hobert,75,36,39
+Floyd,Ulster - St. Charles - Riverton,St. Charles Township Clerk,,,Diane Hobert,457,177,280
+Floyd,CC3 - Trinity United Methodist Church,St. Charles Township Clerk,,,Write-in,2,0,2
+Floyd,Ulster - St. Charles - Riverton,St. Charles Township Clerk,,,Write-in,5,1,4
+Floyd,Ulster - St. Charles - Riverton,Ulster Township Trustee,,,Randy Heitz,92,25,67
+Floyd,Ulster - St. Charles - Riverton,Ulster Township Trustee,,,Gerald Schmitt,106,26,80
+Floyd,Ulster - St. Charles - Riverton,Ulster Township Trustee,,,Write-in,0,0,0
+Floyd,Ulster - St. Charles - Riverton,Ulster Township Clerk,,,William J Dolan,119,32,87
+Floyd,Ulster - St. Charles - Riverton,Ulster Township Clerk,,,Write-in,0,0,0
+Floyd,Scott - Union - Pleasant Grove,Union Township Trustee,,,Mark Schlader,103,22,81
+Floyd,Scott - Union - Pleasant Grove,Union Township Trustee,,,Ricky Rex,106,19,87
+Floyd,Scott - Union - Pleasant Grove,Union Township Trustee,,,Write-in,2,0,2
+Floyd,Scott - Union - Pleasant Grove,Union Township Clerk,,,Randall Schweizer,125,23,102
+Floyd,Scott - Union - Pleasant Grove,Union Township Clerk,,,Write-in,0,0,0
+Floyd,CC1 - Courthouse,County Public Hospital Trustee,,,Sharon Enabnit,470,207,263
+Floyd,CC2 - Messiah Lutheran Church,County Public Hospital Trustee,,,Sharon Enabnit,633,177,456
+Floyd,CC3 - Trinity United Methodist Church,County Public Hospital Trustee,,,Sharon Enabnit,555,180,375
+Floyd,Rudd - Floyd - Cedar - Niles,County Public Hospital Trustee,,,Sharon Enabnit,589,145,444
+Floyd,Rock Grove,County Public Hospital Trustee,,,Sharon Enabnit,456,83,373
+Floyd,Rockford,County Public Hospital Trustee,,,Sharon Enabnit,377,52,325
+Floyd,Scott - Union - Pleasant Grove,County Public Hospital Trustee,,,Sharon Enabnit,304,58,246
+Floyd,Ulster - St. Charles - Riverton,County Public Hospital Trustee,,,Sharon Enabnit,623,217,406
+Floyd,CC1 - Courthouse,County Public Hospital Trustee,,,Viva Boerschel,463,203,260
+Floyd,CC2 - Messiah Lutheran Church,County Public Hospital Trustee,,,Viva Boerschel,631,173,458
+Floyd,CC3 - Trinity United Methodist Church,County Public Hospital Trustee,,,Viva Boerschel,541,182,359
+Floyd,Rudd - Floyd - Cedar - Niles,County Public Hospital Trustee,,,Viva Boerschel,551,138,413
+Floyd,Rock Grove,County Public Hospital Trustee,,,Viva Boerschel,361,67,294
+Floyd,Rockford,County Public Hospital Trustee,,,Viva Boerschel,276,40,236
+Floyd,Scott - Union - Pleasant Grove,County Public Hospital Trustee,,,Viva Boerschel,227,47,180
+Floyd,Ulster - St. Charles - Riverton,County Public Hospital Trustee,,,Viva Boerschel,581,206,375
+Floyd,CC1 - Courthouse,County Public Hospital Trustee,,,Amanda McCarty,481,199,282
+Floyd,CC2 - Messiah Lutheran Church,County Public Hospital Trustee,,,Amanda McCarty,638,180,458
+Floyd,CC3 - Trinity United Methodist Church,County Public Hospital Trustee,,,Amanda McCarty,565,180,385
+Floyd,Rudd - Floyd - Cedar - Niles,County Public Hospital Trustee,,,Amanda McCarty,562,136,426
+Floyd,Rock Grove,County Public Hospital Trustee,,,Amanda McCarty,393,70,323
+Floyd,Rockford,County Public Hospital Trustee,,,Amanda McCarty,290,40,250
+Floyd,Scott - Union - Pleasant Grove,County Public Hospital Trustee,,,Amanda McCarty,238,48,190
+Floyd,Ulster - St. Charles - Riverton,County Public Hospital Trustee,,,Amanda McCarty,593,201,392
+Floyd,CC1 - Courthouse,County Public Hospital Trustee,,,Cheryl A. Erb,446,202,244
+Floyd,CC2 - Messiah Lutheran Church,County Public Hospital Trustee,,,Cheryl A. Erb,609,172,437
+Floyd,CC3 - Trinity United Methodist Church,County Public Hospital Trustee,,,Cheryl A. Erb,523,168,355
+Floyd,Rudd - Floyd - Cedar - Niles,County Public Hospital Trustee,,,Cheryl A. Erb,513,126,387
+Floyd,Rock Grove,County Public Hospital Trustee,,,Cheryl A. Erb,380,72,308
+Floyd,Rockford,County Public Hospital Trustee,,,Cheryl A. Erb,279,42,237
+Floyd,Scott - Union - Pleasant Grove,County Public Hospital Trustee,,,Cheryl A. Erb,229,47,182
+Floyd,Ulster - St. Charles - Riverton,County Public Hospital Trustee,,,Cheryl A. Erb,566,200,366
+Floyd,CC1 - Courthouse,County Public Hospital Trustee,,,Write-in,4,2,2
+Floyd,CC2 - Messiah Lutheran Church,County Public Hospital Trustee,,,Write-in,12,5,7
+Floyd,CC3 - Trinity United Methodist Church,County Public Hospital Trustee,,,Write-in,15,6,9
+Floyd,Rudd - Floyd - Cedar - Niles,County Public Hospital Trustee,,,Write-in,6,1,5
+Floyd,Rock Grove,County Public Hospital Trustee,,,Write-in,2,1,1
+Floyd,Rockford,County Public Hospital Trustee,,,Write-in,0,0,0
+Floyd,Scott - Union - Pleasant Grove,County Public Hospital Trustee,,,Write-in,2,1,1
+Floyd,Ulster - St. Charles - Riverton,County Public Hospital Trustee,,,Write-in,3,2,1
+Floyd,CC1 - Courthouse,Soil and Water Conservation District Commissioner,,,Mason Kolbet,558,235,323
+Floyd,CC2 - Messiah Lutheran Church,Soil and Water Conservation District Commissioner,,,Mason Kolbet,707,183,524
+Floyd,CC3 - Trinity United Methodist Church,Soil and Water Conservation District Commissioner,,,Mason Kolbet,639,187,452
+Floyd,Rudd - Floyd - Cedar - Niles,Soil and Water Conservation District Commissioner,,,Mason Kolbet,674,167,507
+Floyd,Rock Grove,Soil and Water Conservation District Commissioner,,,Mason Kolbet,485,75,410
+Floyd,Rockford,Soil and Water Conservation District Commissioner,,,Mason Kolbet,371,46,325
+Floyd,Scott - Union - Pleasant Grove,Soil and Water Conservation District Commissioner,,,Mason Kolbet,323,62,261
+Floyd,Ulster - St. Charles - Riverton,Soil and Water Conservation District Commissioner,,,Mason Kolbet,704,236,468
+Floyd,CC1 - Courthouse,Soil and Water Conservation District Commissioner,,,Write-in,9,4,5
+Floyd,CC2 - Messiah Lutheran Church,Soil and Water Conservation District Commissioner,,,Write-in,17,6,11
+Floyd,CC3 - Trinity United Methodist Church,Soil and Water Conservation District Commissioner,,,Write-in,13,4,9
+Floyd,Rudd - Floyd - Cedar - Niles,Soil and Water Conservation District Commissioner,,,Write-in,16,4,12
+Floyd,Rock Grove,Soil and Water Conservation District Commissioner,,,Write-in,13,1,12
+Floyd,Rockford,Soil and Water Conservation District Commissioner,,,Write-in,7,1,6
+Floyd,Scott - Union - Pleasant Grove,Soil and Water Conservation District Commissioner,,,Write-in,11,0,11
+Floyd,Ulster - St. Charles - Riverton,Soil and Water Conservation District Commissioner,,,Write-in,20,7,13
+Floyd,CC1 - Courthouse,Soil and Water Conservation District Commissioner,,,Ken Pecinovsky,3,1,2
+Floyd,CC2 - Messiah Lutheran Church,Soil and Water Conservation District Commissioner,,,Ken Pecinovsky,0,0,0
+Floyd,CC3 - Trinity United Methodist Church,Soil and Water Conservation District Commissioner,,,Ken Pecinovsky,3,0,3
+Floyd,Rudd - Floyd - Cedar - Niles,Soil and Water Conservation District Commissioner,,,Ken Pecinovsky,16,4,12
+Floyd,Rock Grove,Soil and Water Conservation District Commissioner,,,Ken Pecinovsky,0,0,0
+Floyd,Rockford,Soil and Water Conservation District Commissioner,,,Ken Pecinovsky,0,0,0
+Floyd,Scott - Union - Pleasant Grove,Soil and Water Conservation District Commissioner,,,Ken Pecinovsky,0,0,0
+Floyd,Ulster - St. Charles - Riverton,Soil and Water Conservation District Commissioner,,,Ken Pecinovsky,5,0,5
+Floyd,CC1 - Courthouse,County Agricultural Extension Council Member,,,Jacie Peichel,422,179,243
+Floyd,CC2 - Messiah Lutheran Church,County Agricultural Extension Council Member,,,Jacie Peichel,569,149,420
+Floyd,CC3 - Trinity United Methodist Church,County Agricultural Extension Council Member,,,Jacie Peichel,507,164,343
+Floyd,Rudd - Floyd - Cedar - Niles,County Agricultural Extension Council Member,,,Jacie Peichel,515,123,392
+Floyd,Rock Grove,County Agricultural Extension Council Member,,,Jacie Peichel,373,66,307
+Floyd,Rockford,County Agricultural Extension Council Member,,,Jacie Peichel,281,40,241
+Floyd,Scott - Union - Pleasant Grove,County Agricultural Extension Council Member,,,Jacie Peichel,232,50,182
+Floyd,Ulster - St. Charles - Riverton,County Agricultural Extension Council Member,,,Jacie Peichel,515,175,340
+Floyd,CC1 - Courthouse,County Agricultural Extension Council Member,,,Julia A. Knecht,475,198,277
+Floyd,CC2 - Messiah Lutheran Church,County Agricultural Extension Council Member,,,Julia A. Knecht,636,173,463
+Floyd,CC3 - Trinity United Methodist Church,County Agricultural Extension Council Member,,,Julia A. Knecht,561,178,383
+Floyd,Rudd - Floyd - Cedar - Niles,County Agricultural Extension Council Member,,,Julia A. Knecht,585,136,449
+Floyd,Rock Grove,County Agricultural Extension Council Member,,,Julia A. Knecht,393,67,326
+Floyd,Rockford,County Agricultural Extension Council Member,,,Julia A. Knecht,290,40,250
+Floyd,Scott - Union - Pleasant Grove,County Agricultural Extension Council Member,,,Julia A. Knecht,251,53,198
+Floyd,Ulster - St. Charles - Riverton,County Agricultural Extension Council Member,,,Julia A. Knecht,590,193,397
+Floyd,CC1 - Courthouse,County Agricultural Extension Council Member,,,Lenis Buseman,458,203,255
+Floyd,CC2 - Messiah Lutheran Church,County Agricultural Extension Council Member,,,Lenis Buseman,615,163,452
+Floyd,CC3 - Trinity United Methodist Church,County Agricultural Extension Council Member,,,Lenis Buseman,526,171,355
+Floyd,Rudd - Floyd - Cedar - Niles,County Agricultural Extension Council Member,,,Lenis Buseman,554,138,416
+Floyd,Rock Grove,County Agricultural Extension Council Member,,,Lenis Buseman,375,68,307
+Floyd,Rockford,County Agricultural Extension Council Member,,,Lenis Buseman,293,38,255
+Floyd,Scott - Union - Pleasant Grove,County Agricultural Extension Council Member,,,Lenis Buseman,246,51,195
+Floyd,Ulster - St. Charles - Riverton,County Agricultural Extension Council Member,,,Lenis Buseman,596,204,392
+Floyd,CC1 - Courthouse,County Agricultural Extension Council Member,,,Laura E Paplow,414,177,237
+Floyd,CC2 - Messiah Lutheran Church,County Agricultural Extension Council Member,,,Laura E Paplow,566,150,416
+Floyd,CC3 - Trinity United Methodist Church,County Agricultural Extension Council Member,,,Laura E Paplow,486,162,324
+Floyd,Rudd - Floyd - Cedar - Niles,County Agricultural Extension Council Member,,,Laura E Paplow,525,126,399
+Floyd,Rock Grove,County Agricultural Extension Council Member,,,Laura E Paplow,378,69,309
+Floyd,Rockford,County Agricultural Extension Council Member,,,Laura E Paplow,306,43,263
+Floyd,Scott - Union - Pleasant Grove,County Agricultural Extension Council Member,,,Laura E Paplow,259,53,206
+Floyd,Ulster - St. Charles - Riverton,County Agricultural Extension Council Member,,,Laura E Paplow,582,189,393
+Floyd,CC1 - Courthouse,County Agricultural Extension Council Member,,,Brenda Dight,444,192,252
+Floyd,CC2 - Messiah Lutheran Church,County Agricultural Extension Council Member,,,Brenda Dight,569,153,416
+Floyd,CC3 - Trinity United Methodist Church,County Agricultural Extension Council Member,,,Brenda Dight,513,171,342
+Floyd,Rudd - Floyd - Cedar - Niles,County Agricultural Extension Council Member,,,Brenda Dight,570,142,428
+Floyd,Rock Grove,County Agricultural Extension Council Member,,,Brenda Dight,413,69,344
+Floyd,Rockford,County Agricultural Extension Council Member,,,Brenda Dight,343,44,299
+Floyd,Scott - Union - Pleasant Grove,County Agricultural Extension Council Member,,,Brenda Dight,263,55,208
+Floyd,Ulster - St. Charles - Riverton,County Agricultural Extension Council Member,,,Brenda Dight,559,189,370
+Floyd,CC1 - Courthouse,County Agricultural Extension Council Member,,,Write-in,4,3,1
+Floyd,CC2 - Messiah Lutheran Church,County Agricultural Extension Council Member,,,Write-in,10,3,7
+Floyd,CC3 - Trinity United Methodist Church,County Agricultural Extension Council Member,,,Write-in,3,2,1
+Floyd,Rudd - Floyd - Cedar - Niles,County Agricultural Extension Council Member,,,Write-in,8,1,7
+Floyd,Rock Grove,County Agricultural Extension Council Member,,,Write-in,10,0,10
+Floyd,Rockford,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Floyd,Scott - Union - Pleasant Grove,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Floyd,Ulster - St. Charles - Riverton,County Agricultural Extension Council Member,,,Write-in,8,1,7
+Floyd,CC1 - Courthouse,Supreme Court Justice,,,Yes,419,174,245
+Floyd,CC2 - Messiah Lutheran Church,Supreme Court Justice,,,Yes,543,134,409
+Floyd,CC3 - Trinity United Methodist Church,Supreme Court Justice,,,Yes,506,155,351
+Floyd,Rudd - Floyd - Cedar - Niles,Supreme Court Justice,,,Yes,474,101,373
+Floyd,Rock Grove,Supreme Court Justice,,,Yes,350,61,289
+Floyd,Rockford,Supreme Court Justice,,,Yes,247,33,214
+Floyd,Scott - Union - Pleasant Grove,Supreme Court Justice,,,Yes,227,48,179
+Floyd,Ulster - St. Charles - Riverton,Supreme Court Justice,,,Yes,502,164,338
+Floyd,CC1 - Courthouse,Supreme Court Justice,,,No,159,72,87
+Floyd,CC2 - Messiah Lutheran Church,Supreme Court Justice,,,No,178,56,122
+Floyd,CC3 - Trinity United Methodist Church,Supreme Court Justice,,,No,172,60,112
+Floyd,Rudd - Floyd - Cedar - Niles,Supreme Court Justice,,,No,208,66,142
+Floyd,Rock Grove,Supreme Court Justice,,,No,159,24,135
+Floyd,Rockford,Supreme Court Justice,,,No,133,22,111
+Floyd,Scott - Union - Pleasant Grove,Supreme Court Justice,,,No,97,15,82
+Floyd,Ulster - St. Charles - Riverton,Supreme Court Justice,,,No,180,75,105
+Floyd,CC1 - Courthouse,Court of Appeals Judge,,,Yes,417,177,240
+Floyd,CC2 - Messiah Lutheran Church,Court of Appeals Judge,,,Yes,533,137,396
+Floyd,CC3 - Trinity United Methodist Church,Court of Appeals Judge,,,Yes,503,155,348
+Floyd,Rudd - Floyd - Cedar - Niles,Court of Appeals Judge,,,Yes,458,103,355
+Floyd,Rock Grove,Court of Appeals Judge,,,Yes,351,63,288
+Floyd,Rockford,Court of Appeals Judge,,,Yes,254,33,221
+Floyd,Scott - Union - Pleasant Grove,Court of Appeals Judge,,,Yes,230,48,182
+Floyd,Ulster - St. Charles - Riverton,Court of Appeals Judge,,,Yes,481,162,319
+Floyd,CC1 - Courthouse,Court of Appeals Judge,,,No,146,64,82
+Floyd,CC2 - Messiah Lutheran Church,Court of Appeals Judge,,,No,176,49,127
+Floyd,CC3 - Trinity United Methodist Church,Court of Appeals Judge,,,No,160,54,106
+Floyd,Rudd - Floyd - Cedar - Niles,Court of Appeals Judge,,,No,199,59,140
+Floyd,Rock Grove,Court of Appeals Judge,,,No,146,20,126
+Floyd,Rockford,Court of Appeals Judge,,,No,124,21,103
+Floyd,Scott - Union - Pleasant Grove,Court of Appeals Judge,,,No,89,16,73
+Floyd,Ulster - St. Charles - Riverton,Court of Appeals Judge,,,No,185,74,111
+Floyd,CC1 - Courthouse,District 2A Associate Judge,,,Yes,439,194,245
+Floyd,CC2 - Messiah Lutheran Church,District 2A Associate Judge,,,Yes,565,151,414
+Floyd,CC3 - Trinity United Methodist Church,District 2A Associate Judge,,,Yes,521,164,357
+Floyd,Rudd - Floyd - Cedar - Niles,District 2A Associate Judge,,,Yes,478,107,371
+Floyd,Rock Grove,District 2A Associate Judge,,,Yes,366,65,301
+Floyd,Rockford,District 2A Associate Judge,,,Yes,260,32,228
+Floyd,Scott - Union - Pleasant Grove,District 2A Associate Judge,,,Yes,236,53,183
+Floyd,Ulster - St. Charles - Riverton,District 2A Associate Judge,,,Yes,500,171,329
+Floyd,CC1 - Courthouse,District 2A Associate Judge,,,No,146,58,88
+Floyd,CC2 - Messiah Lutheran Church,District 2A Associate Judge,,,No,159,40,119
+Floyd,CC3 - Trinity United Methodist Church,District 2A Associate Judge,,,No,151,47,104
+Floyd,Rudd - Floyd - Cedar - Niles,District 2A Associate Judge,,,No,193,57,136
+Floyd,Rock Grove,District 2A Associate Judge,,,No,134,15,119
+Floyd,Rockford,District 2A Associate Judge,,,No,124,20,104
+Floyd,Scott - Union - Pleasant Grove,District 2A Associate Judge,,,No,91,13,78
+Floyd,Ulster - St. Charles - Riverton,District 2A Associate Judge,,,No,179,63,116
+Floyd,CC1 - Courthouse,Constitutional Amendment 1,,,Yes,517,185,332
+Floyd,CC2 - Messiah Lutheran Church,Constitutional Amendment 1,,,Yes,598,116,482
+Floyd,CC3 - Trinity United Methodist Church,Constitutional Amendment 1,,,Yes,572,160,412
+Floyd,Rudd - Floyd - Cedar - Niles,Constitutional Amendment 1,,,Yes,668,149,519
+Floyd,Rock Grove,Constitutional Amendment 1,,,Yes,441,68,373
+Floyd,Rockford,Constitutional Amendment 1,,,Yes,351,32,319
+Floyd,Scott - Union - Pleasant Grove,Constitutional Amendment 1,,,Yes,306,56,250
+Floyd,Ulster - St. Charles - Riverton,Constitutional Amendment 1,,,Yes,687,208,479
+Floyd,CC1 - Courthouse,Constitutional Amendment 1,,,No,191,118,73
+Floyd,CC2 - Messiah Lutheran Church,Constitutional Amendment 1,,,No,258,121,137
+Floyd,CC3 - Trinity United Methodist Church,Constitutional Amendment 1,,,No,231,108,123
+Floyd,Rudd - Floyd - Cedar - Niles,Constitutional Amendment 1,,,No,154,58,96
+Floyd,Rock Grove,Constitutional Amendment 1,,,No,150,41,109
+Floyd,Rockford,Constitutional Amendment 1,,,No,87,33,54
+Floyd,Scott - Union - Pleasant Grove,Constitutional Amendment 1,,,No,64,19,45
+Floyd,Ulster - St. Charles - Riverton,Constitutional Amendment 1,,,No,186,93,93
+Floyd,CC1 - Courthouse,Floyd County Public Measure HR,,,Yes,399,186,213
+Floyd,CC2 - Messiah Lutheran Church,Floyd County Public Measure HR,,,Yes,477,140,337
+Floyd,CC3 - Trinity United Methodist Church,Floyd County Public Measure HR,,,Yes,404,141,263
+Floyd,Rudd - Floyd - Cedar - Niles,Floyd County Public Measure HR,,,Yes,314,88,226
+Floyd,Rock Grove,Floyd County Public Measure HR,,,Yes,243,43,200
+Floyd,Rockford,Floyd County Public Measure HR,,,Yes,220,31,189
+Floyd,Scott - Union - Pleasant Grove,Floyd County Public Measure HR,,,Yes,169,38,131
+Floyd,Ulster - St. Charles - Riverton,Floyd County Public Measure HR,,,Yes,399,146,253
+Floyd,CC1 - Courthouse,Floyd County Public Measure HR,,,No,320,125,195
+Floyd,CC2 - Messiah Lutheran Church,Floyd County Public Measure HR,,,No,376,103,273
+Floyd,CC3 - Trinity United Methodist Church,Floyd County Public Measure HR,,,No,391,125,266
+Floyd,Rudd - Floyd - Cedar - Niles,Floyd County Public Measure HR,,,No,506,122,384
+Floyd,Rock Grove,Floyd County Public Measure HR,,,No,343,61,282
+Floyd,Rockford,Floyd County Public Measure HR,,,No,221,35,186
+Floyd,Scott - Union - Pleasant Grove,Floyd County Public Measure HR,,,No,201,37,164
+Floyd,Ulster - St. Charles - Riverton,Floyd County Public Measure HR,,,No,457,151,306

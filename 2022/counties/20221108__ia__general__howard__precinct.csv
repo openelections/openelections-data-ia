@@ -1,0 +1,624 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Howard,Albion/Forest City/Lime Springs,U.S. Senate,,DEM,Michael Franken,105,29,76
+Howard,Saratoga/Howard Center/Chester/Chester City,U.S. Senate,,DEM,Michael Franken,93,34,59
+Howard,Jamestown/Oakdale/Riceville,U.S. Senate,,DEM,Michael Franken,86,34,52
+Howard,New Oregon/Protivin,U.S. Senate,,DEM,Michael Franken,82,33,49
+Howard,Paris/Afton/Howard/Elma,U.S. Senate,,DEM,Michael Franken,194,55,139
+Howard,Cresco 1A,U.S. Senate,,DEM,Michael Franken,113,36,77
+Howard,Cresco 2,U.S. Senate,,DEM,Michael Franken,207,94,113
+Howard,Cresco 3,U.S. Senate,,DEM,Michael Franken,209,76,133
+Howard,Vernon Springs/Cresco 1B,U.S. Senate,,DEM,Michael Franken,132,52,80
+Howard,Albion/Forest City/Lime Springs,U.S. Senate,,REP,Chuck Grassley,218,30,188
+Howard,Saratoga/Howard Center/Chester/Chester City,U.S. Senate,,REP,Chuck Grassley,182,43,139
+Howard,Jamestown/Oakdale/Riceville,U.S. Senate,,REP,Chuck Grassley,183,27,156
+Howard,New Oregon/Protivin,U.S. Senate,,REP,Chuck Grassley,247,45,202
+Howard,Paris/Afton/Howard/Elma,U.S. Senate,,REP,Chuck Grassley,348,63,285
+Howard,Cresco 1A,U.S. Senate,,REP,Chuck Grassley,114,33,81
+Howard,Cresco 2,U.S. Senate,,REP,Chuck Grassley,261,53,208
+Howard,Cresco 3,U.S. Senate,,REP,Chuck Grassley,266,57,209
+Howard,Vernon Springs/Cresco 1B,U.S. Senate,,REP,Chuck Grassley,307,68,239
+Howard,Albion/Forest City/Lime Springs,U.S. Senate,,,Write-in,0,0,0
+Howard,Saratoga/Howard Center/Chester/Chester City,U.S. Senate,,,Write-in,1,0,1
+Howard,Jamestown/Oakdale/Riceville,U.S. Senate,,,Write-in,0,0,0
+Howard,New Oregon/Protivin,U.S. Senate,,,Write-in,2,0,2
+Howard,Paris/Afton/Howard/Elma,U.S. Senate,,,Write-in,2,0,2
+Howard,Cresco 1A,U.S. Senate,,,Write-in,1,1,0
+Howard,Cresco 2,U.S. Senate,,,Write-in,0,0,0
+Howard,Cresco 3,U.S. Senate,,,Write-in,0,0,0
+Howard,Vernon Springs/Cresco 1B,U.S. Senate,,,Write-in,0,0,0
+Howard,Albion/Forest City/Lime Springs,U.S. House,2,DEM,Liz Mathis,102,30,72
+Howard,Saratoga/Howard Center/Chester/Chester City,U.S. House,2,DEM,Liz Mathis,91,32,59
+Howard,Jamestown/Oakdale/Riceville,U.S. House,2,DEM,Liz Mathis,81,30,51
+Howard,New Oregon/Protivin,U.S. House,2,DEM,Liz Mathis,89,33,56
+Howard,Paris/Afton/Howard/Elma,U.S. House,2,DEM,Liz Mathis,185,59,126
+Howard,Cresco 1A,U.S. House,2,DEM,Liz Mathis,108,32,76
+Howard,Cresco 2,U.S. House,2,DEM,Liz Mathis,203,96,107
+Howard,Cresco 3,U.S. House,2,DEM,Liz Mathis,211,79,132
+Howard,Vernon Springs/Cresco 1B,U.S. House,2,DEM,Liz Mathis,136,52,84
+Howard,Albion/Forest City/Lime Springs,U.S. House,2,REP,Ashley Hinson,219,29,190
+Howard,Saratoga/Howard Center/Chester/Chester City,U.S. House,2,REP,Ashley Hinson,186,46,140
+Howard,Jamestown/Oakdale/Riceville,U.S. House,2,REP,Ashley Hinson,188,30,158
+Howard,New Oregon/Protivin,U.S. House,2,REP,Ashley Hinson,246,48,198
+Howard,Paris/Afton/Howard/Elma,U.S. House,2,REP,Ashley Hinson,362,60,302
+Howard,Cresco 1A,U.S. House,2,REP,Ashley Hinson,120,37,83
+Howard,Cresco 2,U.S. House,2,REP,Ashley Hinson,270,52,218
+Howard,Cresco 3,U.S. House,2,REP,Ashley Hinson,260,53,207
+Howard,Vernon Springs/Cresco 1B,U.S. House,2,REP,Ashley Hinson,303,69,234
+Howard,Albion/Forest City/Lime Springs,U.S. House,2,,Write-in,0,0,0
+Howard,Saratoga/Howard Center/Chester/Chester City,U.S. House,2,,Write-in,2,0,2
+Howard,Jamestown/Oakdale/Riceville,U.S. House,2,,Write-in,0,0,0
+Howard,New Oregon/Protivin,U.S. House,2,,Write-in,1,0,1
+Howard,Paris/Afton/Howard/Elma,U.S. House,2,,Write-in,0,0,0
+Howard,Cresco 1A,U.S. House,2,,Write-in,0,0,0
+Howard,Cresco 2,U.S. House,2,,Write-in,0,0,0
+Howard,Cresco 3,U.S. House,2,,Write-in,0,0,0
+Howard,Vernon Springs/Cresco 1B,U.S. House,2,,Write-in,0,0,0
+Howard,Albion/Forest City/Lime Springs,Governor,,DEM,Deidre DeJear and Eric Van Lancker,93,29,64
+Howard,Saratoga/Howard Center/Chester/Chester City,Governor,,DEM,Deidre DeJear and Eric Van Lancker,80,30,50
+Howard,Jamestown/Oakdale/Riceville,Governor,,DEM,Deidre DeJear and Eric Van Lancker,67,26,41
+Howard,New Oregon/Protivin,Governor,,DEM,Deidre DeJear and Eric Van Lancker,65,30,35
+Howard,Paris/Afton/Howard/Elma,Governor,,DEM,Deidre DeJear and Eric Van Lancker,143,51,92
+Howard,Cresco 1A,Governor,,DEM,Deidre DeJear and Eric Van Lancker,90,31,59
+Howard,Cresco 2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,184,91,93
+Howard,Cresco 3,Governor,,DEM,Deidre DeJear and Eric Van Lancker,185,68,117
+Howard,Vernon Springs/Cresco 1B,Governor,,DEM,Deidre DeJear and Eric Van Lancker,103,42,61
+Howard,Albion/Forest City/Lime Springs,Governor,,REP,Kim Reynolds and Adam Gregg,223,31,192
+Howard,Saratoga/Howard Center/Chester/Chester City,Governor,,REP,Kim Reynolds and Adam Gregg,199,47,152
+Howard,Jamestown/Oakdale/Riceville,Governor,,REP,Kim Reynolds and Adam Gregg,201,35,166
+Howard,New Oregon/Protivin,Governor,,REP,Kim Reynolds and Adam Gregg,267,51,216
+Howard,Paris/Afton/Howard/Elma,Governor,,REP,Kim Reynolds and Adam Gregg,391,67,324
+Howard,Cresco 1A,Governor,,REP,Kim Reynolds and Adam Gregg,133,40,93
+Howard,Cresco 2,Governor,,REP,Kim Reynolds and Adam Gregg,277,54,223
+Howard,Cresco 3,Governor,,REP,Kim Reynolds and Adam Gregg,278,64,214
+Howard,Vernon Springs/Cresco 1B,Governor,,REP,Kim Reynolds and Adam Gregg,341,80,261
+Howard,Albion/Forest City/Lime Springs,Governor,,LIB,Rick Stewart and Marco Battaglia,9,0,9
+Howard,Saratoga/Howard Center/Chester/Chester City,Governor,,LIB,Rick Stewart and Marco Battaglia,1,0,1
+Howard,Jamestown/Oakdale/Riceville,Governor,,LIB,Rick Stewart and Marco Battaglia,3,1,2
+Howard,New Oregon/Protivin,Governor,,LIB,Rick Stewart and Marco Battaglia,5,1,4
+Howard,Paris/Afton/Howard/Elma,Governor,,LIB,Rick Stewart and Marco Battaglia,14,3,11
+Howard,Cresco 1A,Governor,,LIB,Rick Stewart and Marco Battaglia,7,0,7
+Howard,Cresco 2,Governor,,LIB,Rick Stewart and Marco Battaglia,10,2,8
+Howard,Cresco 3,Governor,,LIB,Rick Stewart and Marco Battaglia,13,2,11
+Howard,Vernon Springs/Cresco 1B,Governor,,LIB,Rick Stewart and Marco Battaglia,3,2,1
+Howard,Albion/Forest City/Lime Springs,Governor,,,Write-in,0,0,0
+Howard,Saratoga/Howard Center/Chester/Chester City,Governor,,,Write-in,1,0,1
+Howard,Jamestown/Oakdale/Riceville,Governor,,,Write-in,0,0,0
+Howard,New Oregon/Protivin,Governor,,,Write-in,2,1,1
+Howard,Paris/Afton/Howard/Elma,Governor,,,Write-in,0,0,0
+Howard,Cresco 1A,Governor,,,Write-in,0,0,0
+Howard,Cresco 2,Governor,,,Write-in,0,0,0
+Howard,Cresco 3,Governor,,,Write-in,0,0,0
+Howard,Vernon Springs/Cresco 1B,Governor,,,Write-in,0,0,0
+Howard,Albion/Forest City/Lime Springs,Secretary of State,,DEM,Joel Miller,100,24,76
+Howard,Saratoga/Howard Center/Chester/Chester City,Secretary of State,,DEM,Joel Miller,85,30,55
+Howard,Jamestown/Oakdale/Riceville,Secretary of State,,DEM,Joel Miller,78,27,51
+Howard,New Oregon/Protivin,Secretary of State,,DEM,Joel Miller,82,34,48
+Howard,Paris/Afton/Howard/Elma,Secretary of State,,DEM,Joel Miller,168,50,118
+Howard,Cresco 1A,Secretary of State,,DEM,Joel Miller,97,33,64
+Howard,Cresco 2,Secretary of State,,DEM,Joel Miller,202,95,107
+Howard,Cresco 3,Secretary of State,,DEM,Joel Miller,183,64,119
+Howard,Vernon Springs/Cresco 1B,Secretary of State,,DEM,Joel Miller,118,49,69
+Howard,Albion/Forest City/Lime Springs,Secretary of State,,REP,Paul D. Pate,214,32,182
+Howard,Saratoga/Howard Center/Chester/Chester City,Secretary of State,,REP,Paul D. Pate,193,48,145
+Howard,Jamestown/Oakdale/Riceville,Secretary of State,,REP,Paul D. Pate,188,33,155
+Howard,New Oregon/Protivin,Secretary of State,,REP,Paul D. Pate,252,47,205
+Howard,Paris/Afton/Howard/Elma,Secretary of State,,REP,Paul D. Pate,369,68,301
+Howard,Cresco 1A,Secretary of State,,REP,Paul D. Pate,128,37,91
+Howard,Cresco 2,Secretary of State,,REP,Paul D. Pate,268,53,215
+Howard,Cresco 3,Secretary of State,,REP,Paul D. Pate,287,68,219
+Howard,Vernon Springs/Cresco 1B,Secretary of State,,REP,Paul D. Pate,325,74,251
+Howard,Albion/Forest City/Lime Springs,Secretary of State,,,Write-in,0,0,0
+Howard,Saratoga/Howard Center/Chester/Chester City,Secretary of State,,,Write-in,0,0,0
+Howard,Jamestown/Oakdale/Riceville,Secretary of State,,,Write-in,0,0,0
+Howard,New Oregon/Protivin,Secretary of State,,,Write-in,1,0,1
+Howard,Paris/Afton/Howard/Elma,Secretary of State,,,Write-in,0,0,0
+Howard,Cresco 1A,Secretary of State,,,Write-in,0,0,0
+Howard,Cresco 2,Secretary of State,,,Write-in,0,0,0
+Howard,Cresco 3,Secretary of State,,,Write-in,0,0,0
+Howard,Vernon Springs/Cresco 1B,Secretary of State,,,Write-in,0,0,0
+Howard,Albion/Forest City/Lime Springs,Auditor of State,,DEM,Rob Sand,111,29,82
+Howard,Saratoga/Howard Center/Chester/Chester City,Auditor of State,,DEM,Rob Sand,95,37,58
+Howard,Jamestown/Oakdale/Riceville,Auditor of State,,DEM,Rob Sand,83,31,52
+Howard,New Oregon/Protivin,Auditor of State,,DEM,Rob Sand,114,44,70
+Howard,Paris/Afton/Howard/Elma,Auditor of State,,DEM,Rob Sand,187,59,128
+Howard,Cresco 1A,Auditor of State,,DEM,Rob Sand,117,39,78
+Howard,Cresco 2,Auditor of State,,DEM,Rob Sand,225,103,122
+Howard,Cresco 3,Auditor of State,,DEM,Rob Sand,222,79,143
+Howard,Vernon Springs/Cresco 1B,Auditor of State,,DEM,Rob Sand,167,60,107
+Howard,Albion/Forest City/Lime Springs,Auditor of State,,REP,Todd Halbur,199,26,173
+Howard,Saratoga/Howard Center/Chester/Chester City,Auditor of State,,REP,Todd Halbur,179,38,141
+Howard,Jamestown/Oakdale/Riceville,Auditor of State,,REP,Todd Halbur,180,30,150
+Howard,New Oregon/Protivin,Auditor of State,,REP,Todd Halbur,215,33,182
+Howard,Paris/Afton/Howard/Elma,Auditor of State,,REP,Todd Halbur,340,57,283
+Howard,Cresco 1A,Auditor of State,,REP,Todd Halbur,108,31,77
+Howard,Cresco 2,Auditor of State,,REP,Todd Halbur,239,43,196
+Howard,Cresco 3,Auditor of State,,REP,Todd Halbur,244,53,191
+Howard,Vernon Springs/Cresco 1B,Auditor of State,,REP,Todd Halbur,271,62,209
+Howard,Albion/Forest City/Lime Springs,Auditor of State,,,Write-in,0,0,0
+Howard,Saratoga/Howard Center/Chester/Chester City,Auditor of State,,,Write-in,0,0,0
+Howard,Jamestown/Oakdale/Riceville,Auditor of State,,,Write-in,0,0,0
+Howard,New Oregon/Protivin,Auditor of State,,,Write-in,1,0,1
+Howard,Paris/Afton/Howard/Elma,Auditor of State,,,Write-in,0,0,0
+Howard,Cresco 1A,Auditor of State,,,Write-in,0,0,0
+Howard,Cresco 2,Auditor of State,,,Write-in,0,0,0
+Howard,Cresco 3,Auditor of State,,,Write-in,0,0,0
+Howard,Vernon Springs/Cresco 1B,Auditor of State,,,Write-in,1,0,1
+Howard,Albion/Forest City/Lime Springs,Treasurer of State,,DEM,Michael L. Fitzgerald,129,31,98
+Howard,Saratoga/Howard Center/Chester/Chester City,Treasurer of State,,DEM,Michael L. Fitzgerald,115,44,71
+Howard,Jamestown/Oakdale/Riceville,Treasurer of State,,DEM,Michael L. Fitzgerald,102,29,73
+Howard,New Oregon/Protivin,Treasurer of State,,DEM,Michael L. Fitzgerald,111,43,68
+Howard,Paris/Afton/Howard/Elma,Treasurer of State,,DEM,Michael L. Fitzgerald,215,68,147
+Howard,Cresco 1A,Treasurer of State,,DEM,Michael L. Fitzgerald,121,42,79
+Howard,Cresco 2,Treasurer of State,,DEM,Michael L. Fitzgerald,242,109,133
+Howard,Cresco 3,Treasurer of State,,DEM,Michael L. Fitzgerald,234,88,146
+Howard,Vernon Springs/Cresco 1B,Treasurer of State,,DEM,Michael L. Fitzgerald,176,69,107
+Howard,Albion/Forest City/Lime Springs,Treasurer of State,,REP,Roby Smith,186,24,162
+Howard,Saratoga/Howard Center/Chester/Chester City,Treasurer of State,,REP,Roby Smith,162,33,129
+Howard,Jamestown/Oakdale/Riceville,Treasurer of State,,REP,Roby Smith,162,32,130
+Howard,New Oregon/Protivin,Treasurer of State,,REP,Roby Smith,218,36,182
+Howard,Paris/Afton/Howard/Elma,Treasurer of State,,REP,Roby Smith,326,50,276
+Howard,Cresco 1A,Treasurer of State,,REP,Roby Smith,104,29,75
+Howard,Cresco 2,Treasurer of State,,REP,Roby Smith,228,40,188
+Howard,Cresco 3,Treasurer of State,,REP,Roby Smith,238,45,193
+Howard,Vernon Springs/Cresco 1B,Treasurer of State,,REP,Roby Smith,261,52,209
+Howard,Albion/Forest City/Lime Springs,Treasurer of State,,,Write-in,0,0,0
+Howard,Saratoga/Howard Center/Chester/Chester City,Treasurer of State,,,Write-in,0,0,0
+Howard,Jamestown/Oakdale/Riceville,Treasurer of State,,,Write-in,0,0,0
+Howard,New Oregon/Protivin,Treasurer of State,,,Write-in,1,0,1
+Howard,Paris/Afton/Howard/Elma,Treasurer of State,,,Write-in,0,0,0
+Howard,Cresco 1A,Treasurer of State,,,Write-in,0,0,0
+Howard,Cresco 2,Treasurer of State,,,Write-in,1,0,1
+Howard,Cresco 3,Treasurer of State,,,Write-in,0,0,0
+Howard,Vernon Springs/Cresco 1B,Treasurer of State,,,Write-in,0,0,0
+Howard,Albion/Forest City/Lime Springs,Secretary of Agriculture,,DEM,John Norwood,94,22,72
+Howard,Saratoga/Howard Center/Chester/Chester City,Secretary of Agriculture,,DEM,John Norwood,74,22,52
+Howard,Jamestown/Oakdale/Riceville,Secretary of Agriculture,,DEM,John Norwood,73,27,46
+Howard,New Oregon/Protivin,Secretary of Agriculture,,DEM,John Norwood,64,30,34
+Howard,Paris/Afton/Howard/Elma,Secretary of Agriculture,,DEM,John Norwood,146,47,99
+Howard,Cresco 1A,Secretary of Agriculture,,DEM,John Norwood,96,31,65
+Howard,Cresco 2,Secretary of Agriculture,,DEM,John Norwood,166,86,80
+Howard,Cresco 3,Secretary of Agriculture,,DEM,John Norwood,183,70,113
+Howard,Vernon Springs/Cresco 1B,Secretary of Agriculture,,DEM,John Norwood,102,46,56
+Howard,Albion/Forest City/Lime Springs,Secretary of Agriculture,,REP,Mike Naig,217,33,184
+Howard,Saratoga/Howard Center/Chester/Chester City,Secretary of Agriculture,,REP,Mike Naig,206,56,150
+Howard,Jamestown/Oakdale/Riceville,Secretary of Agriculture,,REP,Mike Naig,194,34,160
+Howard,New Oregon/Protivin,Secretary of Agriculture,,REP,Mike Naig,267,49,218
+Howard,Paris/Afton/Howard/Elma,Secretary of Agriculture,,REP,Mike Naig,394,70,324
+Howard,Cresco 1A,Secretary of Agriculture,,REP,Mike Naig,131,40,91
+Howard,Cresco 2,Secretary of Agriculture,,REP,Mike Naig,300,62,238
+Howard,Cresco 3,Secretary of Agriculture,,REP,Mike Naig,287,63,224
+Howard,Vernon Springs/Cresco 1B,Secretary of Agriculture,,REP,Mike Naig,339,77,262
+Howard,Albion/Forest City/Lime Springs,Secretary of Agriculture,,,Write-in,1,0,1
+Howard,Saratoga/Howard Center/Chester/Chester City,Secretary of Agriculture,,,Write-in,0,0,0
+Howard,Jamestown/Oakdale/Riceville,Secretary of Agriculture,,,Write-in,0,0,0
+Howard,New Oregon/Protivin,Secretary of Agriculture,,,Write-in,1,0,1
+Howard,Paris/Afton/Howard/Elma,Secretary of Agriculture,,,Write-in,0,0,0
+Howard,Cresco 1A,Secretary of Agriculture,,,Write-in,0,0,0
+Howard,Cresco 2,Secretary of Agriculture,,,Write-in,1,0,1
+Howard,Cresco 3,Secretary of Agriculture,,,Write-in,0,0,0
+Howard,Vernon Springs/Cresco 1B,Secretary of Agriculture,,,Write-in,0,0,0
+Howard,Albion/Forest City/Lime Springs,Attorney General,,DEM,Tom Miller,111,30,81
+Howard,Saratoga/Howard Center/Chester/Chester City,Attorney General,,DEM,Tom Miller,112,44,68
+Howard,Jamestown/Oakdale/Riceville,Attorney General,,DEM,Tom Miller,89,31,58
+Howard,New Oregon/Protivin,Attorney General,,DEM,Tom Miller,119,42,77
+Howard,Paris/Afton/Howard/Elma,Attorney General,,DEM,Tom Miller,218,67,151
+Howard,Cresco 1A,Attorney General,,DEM,Tom Miller,117,39,78
+Howard,Cresco 2,Attorney General,,DEM,Tom Miller,236,112,124
+Howard,Cresco 3,Attorney General,,DEM,Tom Miller,215,84,131
+Howard,Vernon Springs/Cresco 1B,Attorney General,,DEM,Tom Miller,165,63,102
+Howard,Albion/Forest City/Lime Springs,Attorney General,,REP,Brenna Bird,207,28,179
+Howard,Saratoga/Howard Center/Chester/Chester City,Attorney General,,REP,Brenna Bird,161,31,130
+Howard,Jamestown/Oakdale/Riceville,Attorney General,,REP,Brenna Bird,174,29,145
+Howard,New Oregon/Protivin,Attorney General,,REP,Brenna Bird,213,38,175
+Howard,Paris/Afton/Howard/Elma,Attorney General,,REP,Brenna Bird,318,49,269
+Howard,Cresco 1A,Attorney General,,REP,Brenna Bird,108,30,78
+Howard,Cresco 2,Attorney General,,REP,Brenna Bird,229,37,192
+Howard,Cresco 3,Attorney General,,REP,Brenna Bird,256,50,206
+Howard,Vernon Springs/Cresco 1B,Attorney General,,REP,Brenna Bird,270,55,215
+Howard,Albion/Forest City/Lime Springs,Attorney General,,,Write-in,0,0,0
+Howard,Saratoga/Howard Center/Chester/Chester City,Attorney General,,,Write-in,1,0,1
+Howard,Jamestown/Oakdale/Riceville,Attorney General,,,Write-in,0,0,0
+Howard,New Oregon/Protivin,Attorney General,,,Write-in,1,0,1
+Howard,Paris/Afton/Howard/Elma,Attorney General,,,Write-in,1,0,1
+Howard,Cresco 1A,Attorney General,,,Write-in,0,0,0
+Howard,Cresco 2,Attorney General,,,Write-in,1,0,1
+Howard,Cresco 3,Attorney General,,,Write-in,1,0,1
+Howard,Vernon Springs/Cresco 1B,Attorney General,,,Write-in,0,0,0
+Howard,Albion/Forest City/Lime Springs,State House,63,DEM,Tim Lecander,100,28,72
+Howard,Saratoga/Howard Center/Chester/Chester City,State House,63,DEM,Tim Lecander,83,28,55
+Howard,Jamestown/Oakdale/Riceville,State House,63,DEM,Tim Lecander,76,29,47
+Howard,New Oregon/Protivin,State House,63,DEM,Tim Lecander,67,31,36
+Howard,Paris/Afton/Howard/Elma,State House,63,DEM,Tim Lecander,151,48,103
+Howard,Cresco 1A,State House,63,DEM,Tim Lecander,105,34,71
+Howard,Cresco 2,State House,63,DEM,Tim Lecander,181,92,89
+Howard,Cresco 3,State House,63,DEM,Tim Lecander,187,66,121
+Howard,Vernon Springs/Cresco 1B,State House,63,DEM,Tim Lecander,117,49,68
+Howard,Albion/Forest City/Lime Springs,State House,63,REP,Michael R. Bergan,220,30,190
+Howard,Saratoga/Howard Center/Chester/Chester City,State House,63,REP,Michael R. Bergan,196,49,147
+Howard,Jamestown/Oakdale/Riceville,State House,63,REP,Michael R. Bergan,186,32,154
+Howard,New Oregon/Protivin,State House,63,REP,Michael R. Bergan,266,49,217
+Howard,Paris/Afton/Howard/Elma,State House,63,REP,Michael R. Bergan,387,70,317
+Howard,Cresco 1A,State House,63,REP,Michael R. Bergan,119,36,83
+Howard,Cresco 2,State House,63,REP,Michael R. Bergan,289,56,233
+Howard,Cresco 3,State House,63,REP,Michael R. Bergan,282,66,216
+Howard,Vernon Springs/Cresco 1B,State House,63,REP,Michael R. Bergan,323,73,250
+Howard,Albion/Forest City/Lime Springs,State House,63,,Write-in,0,0,0
+Howard,Saratoga/Howard Center/Chester/Chester City,State House,63,,Write-in,0,0,0
+Howard,Jamestown/Oakdale/Riceville,State House,63,,Write-in,0,0,0
+Howard,New Oregon/Protivin,State House,63,,Write-in,1,0,1
+Howard,Paris/Afton/Howard/Elma,State House,63,,Write-in,0,0,0
+Howard,Cresco 1A,State House,63,,Write-in,0,0,0
+Howard,Cresco 2,State House,63,,Write-in,0,0,0
+Howard,Cresco 3,State House,63,,Write-in,0,0,0
+Howard,Vernon Springs/Cresco 1B,State House,63,,Write-in,0,0,0
+Howard,Albion/Forest City/Lime Springs,County Board of Supervisors District 2,,REP,Joe Pisney,291,47,244
+Howard,New Oregon/Protivin,County Board of Supervisors District 2,,REP,Joe Pisney,312,67,245
+Howard,Vernon Springs/Cresco 1B,County Board of Supervisors District 2,,REP,Joe Pisney,393,106,287
+Howard,Albion/Forest City/Lime Springs,County Board of Supervisors District 2,,,Write-in,6,2,4
+Howard,New Oregon/Protivin,County Board of Supervisors District 2,,,Write-in,2,0,2
+Howard,Vernon Springs/Cresco 1B,County Board of Supervisors District 2,,,Write-in,5,0,5
+Howard,Saratoga/Howard Center/Chester/Chester City,County Board of Supervisors District 3,,REP,Dean Eastman,259,72,187
+Howard,Jamestown/Oakdale/Riceville,County Board of Supervisors District 3,,REP,Dean Eastman,244,49,195
+Howard,Paris/Afton/Howard/Elma,County Board of Supervisors District 3,,REP,Dean Eastman,475,100,375
+Howard,Saratoga/Howard Center/Chester/Chester City,County Board of Supervisors District 3,,,Write-in,5,2,3
+Howard,Jamestown/Oakdale/Riceville,County Board of Supervisors District 3,,,Write-in,5,1,4
+Howard,Paris/Afton/Howard/Elma,County Board of Supervisors District 3,,,Write-in,10,3,7
+Howard,Albion/Forest City/Lime Springs,County Treasurer,,REP,Christine Ihns Hron,283,46,237
+Howard,Saratoga/Howard Center/Chester/Chester City,County Treasurer,,REP,Christine Ihns Hron,253,67,186
+Howard,Jamestown/Oakdale/Riceville,County Treasurer,,REP,Christine Ihns Hron,241,50,191
+Howard,New Oregon/Protivin,County Treasurer,,REP,Christine Ihns Hron,310,70,240
+Howard,Paris/Afton/Howard/Elma,County Treasurer,,REP,Christine Ihns Hron,473,96,377
+Howard,Cresco 1A,County Treasurer,,REP,Christine Ihns Hron,200,62,138
+Howard,Cresco 2,County Treasurer,,REP,Christine Ihns Hron,414,125,289
+Howard,Cresco 3,County Treasurer,,REP,Christine Ihns Hron,426,113,313
+Howard,Vernon Springs/Cresco 1B,County Treasurer,,REP,Christine Ihns Hron,399,109,290
+Howard,Albion/Forest City/Lime Springs,County Treasurer,,,Write-in,10,3,7
+Howard,Saratoga/Howard Center/Chester/Chester City,County Treasurer,,,Write-in,4,2,2
+Howard,Jamestown/Oakdale/Riceville,County Treasurer,,,Write-in,1,0,1
+Howard,New Oregon/Protivin,County Treasurer,,,Write-in,3,2,1
+Howard,Paris/Afton/Howard/Elma,County Treasurer,,,Write-in,7,2,5
+Howard,Cresco 1A,County Treasurer,,,Write-in,5,1,4
+Howard,Cresco 2,County Treasurer,,,Write-in,8,1,7
+Howard,Cresco 3,County Treasurer,,,Write-in,7,2,5
+Howard,Vernon Springs/Cresco 1B,County Treasurer,,,Write-in,6,1,5
+Howard,Albion/Forest City/Lime Springs,County Recorder,,DEM,Roxann Vokaty,265,53,212
+Howard,Saratoga/Howard Center/Chester/Chester City,County Recorder,,DEM,Roxann Vokaty,222,65,157
+Howard,Jamestown/Oakdale/Riceville,County Recorder,,DEM,Roxann Vokaty,196,50,146
+Howard,New Oregon/Protivin,County Recorder,,DEM,Roxann Vokaty,294,75,219
+Howard,Paris/Afton/Howard/Elma,County Recorder,,DEM,Roxann Vokaty,420,95,325
+Howard,Cresco 1A,County Recorder,,DEM,Roxann Vokaty,195,64,131
+Howard,Cresco 2,County Recorder,,DEM,Roxann Vokaty,404,136,268
+Howard,Cresco 3,County Recorder,,DEM,Roxann Vokaty,406,115,291
+Howard,Vernon Springs/Cresco 1B,County Recorder,,DEM,Roxann Vokaty,375,110,265
+Howard,Albion/Forest City/Lime Springs,County Recorder,,,Write-in,6,0,6
+Howard,Saratoga/Howard Center/Chester/Chester City,County Recorder,,,Write-in,6,0,6
+Howard,Jamestown/Oakdale/Riceville,County Recorder,,,Write-in,7,0,7
+Howard,New Oregon/Protivin,County Recorder,,,Write-in,3,0,3
+Howard,Paris/Afton/Howard/Elma,County Recorder,,,Write-in,13,4,9
+Howard,Cresco 1A,County Recorder,,,Write-in,3,0,3
+Howard,Cresco 2,County Recorder,,,Write-in,5,0,5
+Howard,Cresco 3,County Recorder,,,Write-in,10,3,7
+Howard,Vernon Springs/Cresco 1B,County Recorder,,,Write-in,9,3,6
+Howard,Albion/Forest City/Lime Springs,County Attorney,,REP,Kevin E. Schoeberl,288,48,240
+Howard,Saratoga/Howard Center/Chester/Chester City,County Attorney,,REP,Kevin E. Schoeberl,252,68,184
+Howard,Jamestown/Oakdale/Riceville,County Attorney,,REP,Kevin E. Schoeberl,244,50,194
+Howard,New Oregon/Protivin,County Attorney,,REP,Kevin E. Schoeberl,307,67,240
+Howard,Paris/Afton/Howard/Elma,County Attorney,,REP,Kevin E. Schoeberl,454,93,361
+Howard,Cresco 1A,County Attorney,,REP,Kevin E. Schoeberl,201,62,139
+Howard,Cresco 2,County Attorney,,REP,Kevin E. Schoeberl,421,125,296
+Howard,Cresco 3,County Attorney,,REP,Kevin E. Schoeberl,419,115,304
+Howard,Vernon Springs/Cresco 1B,County Attorney,,REP,Kevin E. Schoeberl,390,101,289
+Howard,Albion/Forest City/Lime Springs,County Attorney,,,Write-in,1,1,0
+Howard,Saratoga/Howard Center/Chester/Chester City,County Attorney,,,Write-in,1,0,1
+Howard,Jamestown/Oakdale/Riceville,County Attorney,,,Write-in,1,0,1
+Howard,New Oregon/Protivin,County Attorney,,,Write-in,5,1,4
+Howard,Paris/Afton/Howard/Elma,County Attorney,,,Write-in,4,0,4
+Howard,Cresco 1A,County Attorney,,,Write-in,1,0,1
+Howard,Cresco 2,County Attorney,,,Write-in,7,2,5
+Howard,Cresco 3,County Attorney,,,Write-in,4,0,4
+Howard,Vernon Springs/Cresco 1B,County Attorney,,,Write-in,6,1,5
+Howard,Paris/Afton/Howard/Elma,Afton Township Trustee,,,Ron O'Donnell,90,11,79
+Howard,Paris/Afton/Howard/Elma,Afton Township Trustee,,,Michael Marr,98,11,87
+Howard,Paris/Afton/Howard/Elma,Afton Township Trustee,,,Write-in,2,0,2
+Howard,Paris/Afton/Howard/Elma,Afton Township Clerk,,,Judy Biwer,108,13,95
+Howard,Paris/Afton/Howard/Elma,Afton Township Clerk,,,Write-in,0,0,0
+Howard,Albion/Forest City/Lime Springs,Albion Township Trustee,,,A.J. Friedges,58,23,35
+Howard,Albion/Forest City/Lime Springs,Albion Township Trustee,,,Gerald Keune,66,24,42
+Howard,Albion/Forest City/Lime Springs,Albion Township Trustee,,,Write-in,1,0,1
+Howard,Albion/Forest City/Lime Springs,Albion Township Trustee To Fill A Vacancy,,,Ricky Wangen,78,27,51
+Howard,Albion/Forest City/Lime Springs,Albion Township Trustee To Fill A Vacancy,,,Write-in,0,0,0
+Howard,Albion/Forest City/Lime Springs,Albion Township Clerk,,,Carol Gates,79,27,52
+Howard,Albion/Forest City/Lime Springs,Albion Township Clerk,,,Write-in,0,0,0
+Howard,Saratoga/Howard Center/Chester/Chester City,Chester Township Trustee,,,Brian Goodman,43,7,36
+Howard,Saratoga/Howard Center/Chester/Chester City,Chester Township Trustee,,,Melissa Adams,45,6,39
+Howard,Saratoga/Howard Center/Chester/Chester City,Chester Township Trustee,,,Write-in,0,0,0
+Howard,Saratoga/Howard Center/Chester/Chester City,Chester Township Clerk,,,Jean A. Bowser,49,7,42
+Howard,Saratoga/Howard Center/Chester/Chester City,Chester Township Clerk,,,Write-in,1,1,0
+Howard,Albion/Forest City/Lime Springs,Forest City Township Trustee,,,Jason Ullom,61,9,52
+Howard,Albion/Forest City/Lime Springs,Forest City Township Trustee,,,Gene Pisney,80,10,70
+Howard,Albion/Forest City/Lime Springs,Forest City Township Trustee,,,Write-in,1,0,1
+Howard,Albion/Forest City/Lime Springs,Forest City Township Clerk,,,Patrick Boyle,81,10,71
+Howard,Albion/Forest City/Lime Springs,Forest City Township Clerk,,,Write-in,1,0,1
+Howard,Saratoga/Howard Center/Chester/Chester City,Howard Center Township Trustee,,,Jerry Reicks,62,30,32
+Howard,Saratoga/Howard Center/Chester/Chester City,Howard Center Township Trustee,,,David Ollendick,86,40,46
+Howard,Saratoga/Howard Center/Chester/Chester City,Howard Center Township Trustee,,,Write-in,2,0,2
+Howard,Saratoga/Howard Center/Chester/Chester City,Howard Center Township Clerk,,,Gary L. Gassett,86,37,49
+Howard,Saratoga/Howard Center/Chester/Chester City,Howard Center Township Clerk,,,Write-in,1,0,1
+Howard,Paris/Afton/Howard/Elma,Howard Township Trustee,,,Kurt Grover,92,18,74
+Howard,Paris/Afton/Howard/Elma,Howard Township Trustee,,,Jason Ludwig,112,17,95
+Howard,Paris/Afton/Howard/Elma,Howard Township Trustee,,,Write-in,1,0,1
+Howard,Paris/Afton/Howard/Elma,Howard Township Clerk,,,Trudy O'Donnell,117,17,100
+Howard,Paris/Afton/Howard/Elma,Howard Township Clerk,,,Write-in,0,0,0
+Howard,Jamestown/Oakdale/Riceville,Jamestown Township Trustee,,,Steve Christensen,70,15,55
+Howard,Jamestown/Oakdale/Riceville,Jamestown Township Trustee,,,Richard Brunner,55,13,42
+Howard,Jamestown/Oakdale/Riceville,Jamestown Township Trustee,,,Write-in,3,0,3
+Howard,Jamestown/Oakdale/Riceville,Jamestown Township Clerk,,,Sandra Gronwoldt,83,19,64
+Howard,Jamestown/Oakdale/Riceville,Jamestown Township Clerk,,,Write-in,2,0,2
+Howard,New Oregon/Protivin,New Oregon Township Trustee,,,Michael Mrachek,200,58,142
+Howard,New Oregon/Protivin,New Oregon Township Trustee,,,Dean D. Hubka,183,51,132
+Howard,New Oregon/Protivin,New Oregon Township Trustee,,,Write-in,1,0,1
+Howard,New Oregon/Protivin,New Oregon Township Clerk,,,Bob Stika,215,60,155
+Howard,New Oregon/Protivin,New Oregon Township Clerk,,,Write-in,0,0,0
+Howard,Jamestown/Oakdale/Riceville,Oakdale Township Trustee,,,Loren Rickerl,60,18,42
+Howard,Jamestown/Oakdale/Riceville,Oakdale Township Trustee,,,Keith Knode,55,16,39
+Howard,Jamestown/Oakdale/Riceville,Oakdale Township Trustee,,,Write-in,0,0,0
+Howard,Jamestown/Oakdale/Riceville,Oakdale Township Clerk,,,Monica Jensen,69,22,47
+Howard,Jamestown/Oakdale/Riceville,Oakdale Township Clerk,,,Write-in,0,0,0
+Howard,Paris/Afton/Howard/Elma,Paris Township Trustee,,,Brad Sovereign,82,37,45
+Howard,Paris/Afton/Howard/Elma,Paris Township Trustee,,,Lon Scheidel,88,41,47
+Howard,Paris/Afton/Howard/Elma,Paris Township Trustee,,,Write-in,0,0,0
+Howard,Paris/Afton/Howard/Elma,Paris Township Clerk,,,Chuck Stevenson,99,43,56
+Howard,Paris/Afton/Howard/Elma,Paris Township Clerk,,,Write-in,2,1,1
+Howard,Saratoga/Howard Center/Chester/Chester City,Saratoga Township Trustee,,,Richard Baethke,72,23,49
+Howard,Saratoga/Howard Center/Chester/Chester City,Saratoga Township Trustee,,,Barry Christensen,69,22,47
+Howard,Saratoga/Howard Center/Chester/Chester City,Saratoga Township Trustee,,,Write-in,1,0,1
+Howard,Saratoga/Howard Center/Chester/Chester City,Saratoga Township Clerk,,,Susan Norman,80,25,55
+Howard,Saratoga/Howard Center/Chester/Chester City,Saratoga Township Clerk,,,Write-in,1,0,1
+Howard,Vernon Springs/Cresco 1B,Vernon Springs Township Trustee,,,Mark Reis,189,55,134
+Howard,Vernon Springs/Cresco 1B,Vernon Springs Township Trustee,,,Ken Hruska,190,56,134
+Howard,Vernon Springs/Cresco 1B,Vernon Springs Township Trustee,,,Write-in,0,0,0
+Howard,Vernon Springs/Cresco 1B,Vernon Springs Township Clerk,,,Roger L. Kleve,211,62,149
+Howard,Vernon Springs/Cresco 1B,Vernon Springs Township Clerk,,,Write-in,1,1,0
+Howard,Albion/Forest City/Lime Springs,Regional Health Services of Howard County Board of Trustees,,,Michael W. Mahr,263,45,218
+Howard,Saratoga/Howard Center/Chester/Chester City,Regional Health Services of Howard County Board of Trustees,,,Michael W. Mahr,217,59,158
+Howard,Jamestown/Oakdale/Riceville,Regional Health Services of Howard County Board of Trustees,,,Michael W. Mahr,197,37,160
+Howard,New Oregon/Protivin,Regional Health Services of Howard County Board of Trustees,,,Michael W. Mahr,271,68,203
+Howard,Paris/Afton/Howard/Elma,Regional Health Services of Howard County Board of Trustees,,,Michael W. Mahr,413,89,324
+Howard,Cresco 1A,Regional Health Services of Howard County Board of Trustees,,,Michael W. Mahr,164,55,109
+Howard,Cresco 2,Regional Health Services of Howard County Board of Trustees,,,Michael W. Mahr,359,118,241
+Howard,Cresco 3,Regional Health Services of Howard County Board of Trustees,,,Michael W. Mahr,349,97,252
+Howard,Vernon Springs/Cresco 1B,Regional Health Services of Howard County Board of Trustees,,,Michael W. Mahr,344,92,252
+Howard,Albion/Forest City/Lime Springs,Regional Health Services of Howard County Board of Trustees,,,John J. Wacha III,252,46,206
+Howard,Saratoga/Howard Center/Chester/Chester City,Regional Health Services of Howard County Board of Trustees,,,John J. Wacha III,203,61,142
+Howard,Jamestown/Oakdale/Riceville,Regional Health Services of Howard County Board of Trustees,,,John J. Wacha III,171,31,140
+Howard,New Oregon/Protivin,Regional Health Services of Howard County Board of Trustees,,,John J. Wacha III,274,72,202
+Howard,Paris/Afton/Howard/Elma,Regional Health Services of Howard County Board of Trustees,,,John J. Wacha III,419,89,330
+Howard,Cresco 1A,Regional Health Services of Howard County Board of Trustees,,,John J. Wacha III,162,55,107
+Howard,Cresco 2,Regional Health Services of Howard County Board of Trustees,,,John J. Wacha III,348,112,236
+Howard,Cresco 3,Regional Health Services of Howard County Board of Trustees,,,John J. Wacha III,339,91,248
+Howard,Vernon Springs/Cresco 1B,Regional Health Services of Howard County Board of Trustees,,,John J. Wacha III,328,89,239
+Howard,Albion/Forest City/Lime Springs,Regional Health Services of Howard County Board of Trustees,,,Chuck L. Malek,249,42,207
+Howard,Saratoga/Howard Center/Chester/Chester City,Regional Health Services of Howard County Board of Trustees,,,Chuck L. Malek,197,59,138
+Howard,Jamestown/Oakdale/Riceville,Regional Health Services of Howard County Board of Trustees,,,Chuck L. Malek,171,31,140
+Howard,New Oregon/Protivin,Regional Health Services of Howard County Board of Trustees,,,Chuck L. Malek,267,62,205
+Howard,Paris/Afton/Howard/Elma,Regional Health Services of Howard County Board of Trustees,,,Chuck L. Malek,372,78,294
+Howard,Cresco 1A,Regional Health Services of Howard County Board of Trustees,,,Chuck L. Malek,161,52,109
+Howard,Cresco 2,Regional Health Services of Howard County Board of Trustees,,,Chuck L. Malek,345,109,236
+Howard,Cresco 3,Regional Health Services of Howard County Board of Trustees,,,Chuck L. Malek,337,94,243
+Howard,Vernon Springs/Cresco 1B,Regional Health Services of Howard County Board of Trustees,,,Chuck L. Malek,319,81,238
+Howard,Albion/Forest City/Lime Springs,Regional Health Services of Howard County Board of Trustees,,,Don Recker,229,39,190
+Howard,Saratoga/Howard Center/Chester/Chester City,Regional Health Services of Howard County Board of Trustees,,,Don Recker,177,55,122
+Howard,Jamestown/Oakdale/Riceville,Regional Health Services of Howard County Board of Trustees,,,Don Recker,166,29,137
+Howard,New Oregon/Protivin,Regional Health Services of Howard County Board of Trustees,,,Don Recker,233,60,173
+Howard,Paris/Afton/Howard/Elma,Regional Health Services of Howard County Board of Trustees,,,Don Recker,368,80,288
+Howard,Cresco 1A,Regional Health Services of Howard County Board of Trustees,,,Don Recker,145,51,94
+Howard,Cresco 2,Regional Health Services of Howard County Board of Trustees,,,Don Recker,326,110,216
+Howard,Cresco 3,Regional Health Services of Howard County Board of Trustees,,,Don Recker,303,89,214
+Howard,Vernon Springs/Cresco 1B,Regional Health Services of Howard County Board of Trustees,,,Don Recker,298,78,220
+Howard,Albion/Forest City/Lime Springs,Regional Health Services of Howard County Board of Trustees,,,Jeremy Johnston,235,43,192
+Howard,Saratoga/Howard Center/Chester/Chester City,Regional Health Services of Howard County Board of Trustees,,,Jeremy Johnston,187,55,132
+Howard,Jamestown/Oakdale/Riceville,Regional Health Services of Howard County Board of Trustees,,,Jeremy Johnston,164,31,133
+Howard,New Oregon/Protivin,Regional Health Services of Howard County Board of Trustees,,,Jeremy Johnston,235,59,176
+Howard,Paris/Afton/Howard/Elma,Regional Health Services of Howard County Board of Trustees,,,Jeremy Johnston,351,77,274
+Howard,Cresco 1A,Regional Health Services of Howard County Board of Trustees,,,Jeremy Johnston,152,51,101
+Howard,Cresco 2,Regional Health Services of Howard County Board of Trustees,,,Jeremy Johnston,331,106,225
+Howard,Cresco 3,Regional Health Services of Howard County Board of Trustees,,,Jeremy Johnston,313,86,227
+Howard,Vernon Springs/Cresco 1B,Regional Health Services of Howard County Board of Trustees,,,Jeremy Johnston,306,77,229
+Howard,Albion/Forest City/Lime Springs,Regional Health Services of Howard County Board of Trustees,,,Write-in,3,2,1
+Howard,Saratoga/Howard Center/Chester/Chester City,Regional Health Services of Howard County Board of Trustees,,,Write-in,4,2,2
+Howard,Jamestown/Oakdale/Riceville,Regional Health Services of Howard County Board of Trustees,,,Write-in,0,0,0
+Howard,New Oregon/Protivin,Regional Health Services of Howard County Board of Trustees,,,Write-in,11,1,10
+Howard,Paris/Afton/Howard/Elma,Regional Health Services of Howard County Board of Trustees,,,Write-in,4,0,4
+Howard,Cresco 1A,Regional Health Services of Howard County Board of Trustees,,,Write-in,2,0,2
+Howard,Cresco 2,Regional Health Services of Howard County Board of Trustees,,,Write-in,7,3,4
+Howard,Cresco 3,Regional Health Services of Howard County Board of Trustees,,,Write-in,8,1,7
+Howard,Vernon Springs/Cresco 1B,Regional Health Services of Howard County Board of Trustees,,,Write-in,8,1,7
+Howard,Albion/Forest City/Lime Springs,Soil and Water Conservation District Commissioner,,,Kayla Sebastian,255,46,209
+Howard,Saratoga/Howard Center/Chester/Chester City,Soil and Water Conservation District Commissioner,,,Kayla Sebastian,212,64,148
+Howard,Jamestown/Oakdale/Riceville,Soil and Water Conservation District Commissioner,,,Kayla Sebastian,196,44,152
+Howard,New Oregon/Protivin,Soil and Water Conservation District Commissioner,,,Kayla Sebastian,269,64,205
+Howard,Paris/Afton/Howard/Elma,Soil and Water Conservation District Commissioner,,,Kayla Sebastian,408,89,319
+Howard,Cresco 1A,Soil and Water Conservation District Commissioner,,,Kayla Sebastian,160,53,107
+Howard,Cresco 2,Soil and Water Conservation District Commissioner,,,Kayla Sebastian,354,114,240
+Howard,Cresco 3,Soil and Water Conservation District Commissioner,,,Kayla Sebastian,352,99,253
+Howard,Vernon Springs/Cresco 1B,Soil and Water Conservation District Commissioner,,,Kayla Sebastian,341,94,247
+Howard,Albion/Forest City/Lime Springs,Soil and Water Conservation District Commissioner,,,Charles L. Malek Jr,226,38,188
+Howard,Saratoga/Howard Center/Chester/Chester City,Soil and Water Conservation District Commissioner,,,Charles L. Malek Jr,184,52,132
+Howard,Jamestown/Oakdale/Riceville,Soil and Water Conservation District Commissioner,,,Charles L. Malek Jr,179,34,145
+Howard,New Oregon/Protivin,Soil and Water Conservation District Commissioner,,,Charles L. Malek Jr,258,61,197
+Howard,Paris/Afton/Howard/Elma,Soil and Water Conservation District Commissioner,,,Charles L. Malek Jr,364,76,288
+Howard,Cresco 1A,Soil and Water Conservation District Commissioner,,,Charles L. Malek Jr,155,51,104
+Howard,Cresco 2,Soil and Water Conservation District Commissioner,,,Charles L. Malek Jr,328,109,219
+Howard,Cresco 3,Soil and Water Conservation District Commissioner,,,Charles L. Malek Jr,312,89,223
+Howard,Vernon Springs/Cresco 1B,Soil and Water Conservation District Commissioner,,,Charles L. Malek Jr,313,86,227
+Howard,Albion/Forest City/Lime Springs,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Howard,Saratoga/Howard Center/Chester/Chester City,Soil and Water Conservation District Commissioner,,,Write-in,2,1,1
+Howard,Jamestown/Oakdale/Riceville,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Howard,New Oregon/Protivin,Soil and Water Conservation District Commissioner,,,Write-in,3,0,3
+Howard,Paris/Afton/Howard/Elma,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Howard,Cresco 1A,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Howard,Cresco 2,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Howard,Cresco 3,Soil and Water Conservation District Commissioner,,,Write-in,4,0,4
+Howard,Vernon Springs/Cresco 1B,Soil and Water Conservation District Commissioner,,,Write-in,10,5,5
+Howard,Albion/Forest City/Lime Springs,County Agricultural Extension Council Member,,,Diana Huhe,241,44,197
+Howard,Saratoga/Howard Center/Chester/Chester City,County Agricultural Extension Council Member,,,Diana Huhe,188,56,132
+Howard,Jamestown/Oakdale/Riceville,County Agricultural Extension Council Member,,,Diana Huhe,166,34,132
+Howard,New Oregon/Protivin,County Agricultural Extension Council Member,,,Diana Huhe,239,62,177
+Howard,Paris/Afton/Howard/Elma,County Agricultural Extension Council Member,,,Diana Huhe,351,78,273
+Howard,Cresco 1A,County Agricultural Extension Council Member,,,Diana Huhe,162,51,111
+Howard,Cresco 2,County Agricultural Extension Council Member,,,Diana Huhe,337,112,225
+Howard,Cresco 3,County Agricultural Extension Council Member,,,Diana Huhe,326,98,228
+Howard,Vernon Springs/Cresco 1B,County Agricultural Extension Council Member,,,Diana Huhe,318,89,229
+Howard,Albion/Forest City/Lime Springs,County Agricultural Extension Council Member,,,Brent Mehmert,272,48,224
+Howard,Saratoga/Howard Center/Chester/Chester City,County Agricultural Extension Council Member,,,Brent Mehmert,221,64,157
+Howard,Jamestown/Oakdale/Riceville,County Agricultural Extension Council Member,,,Brent Mehmert,187,33,154
+Howard,New Oregon/Protivin,County Agricultural Extension Council Member,,,Brent Mehmert,269,65,204
+Howard,Paris/Afton/Howard/Elma,County Agricultural Extension Council Member,,,Brent Mehmert,403,87,316
+Howard,Cresco 1A,County Agricultural Extension Council Member,,,Brent Mehmert,168,52,116
+Howard,Cresco 2,County Agricultural Extension Council Member,,,Brent Mehmert,366,110,256
+Howard,Cresco 3,County Agricultural Extension Council Member,,,Brent Mehmert,348,99,249
+Howard,Vernon Springs/Cresco 1B,County Agricultural Extension Council Member,,,Brent Mehmert,350,98,252
+Howard,Albion/Forest City/Lime Springs,County Agricultural Extension Council Member,,,Jim Zajicek,234,41,193
+Howard,Saratoga/Howard Center/Chester/Chester City,County Agricultural Extension Council Member,,,Jim Zajicek,192,61,131
+Howard,Jamestown/Oakdale/Riceville,County Agricultural Extension Council Member,,,Jim Zajicek,156,29,127
+Howard,New Oregon/Protivin,County Agricultural Extension Council Member,,,Jim Zajicek,278,64,214
+Howard,Paris/Afton/Howard/Elma,County Agricultural Extension Council Member,,,Jim Zajicek,358,79,279
+Howard,Cresco 1A,County Agricultural Extension Council Member,,,Jim Zajicek,153,49,104
+Howard,Cresco 2,County Agricultural Extension Council Member,,,Jim Zajicek,339,107,232
+Howard,Cresco 3,County Agricultural Extension Council Member,,,Jim Zajicek,326,92,234
+Howard,Vernon Springs/Cresco 1B,County Agricultural Extension Council Member,,,Jim Zajicek,317,87,230
+Howard,Albion/Forest City/Lime Springs,County Agricultural Extension Council Member,,,Brandon Mayer,236,40,196
+Howard,Saratoga/Howard Center/Chester/Chester City,County Agricultural Extension Council Member,,,Brandon Mayer,180,52,128
+Howard,Jamestown/Oakdale/Riceville,County Agricultural Extension Council Member,,,Brandon Mayer,170,33,137
+Howard,New Oregon/Protivin,County Agricultural Extension Council Member,,,Brandon Mayer,236,62,174
+Howard,Paris/Afton/Howard/Elma,County Agricultural Extension Council Member,,,Brandon Mayer,359,79,280
+Howard,Cresco 1A,County Agricultural Extension Council Member,,,Brandon Mayer,144,47,97
+Howard,Cresco 2,County Agricultural Extension Council Member,,,Brandon Mayer,335,107,228
+Howard,Cresco 3,County Agricultural Extension Council Member,,,Brandon Mayer,324,94,230
+Howard,Vernon Springs/Cresco 1B,County Agricultural Extension Council Member,,,Brandon Mayer,303,82,221
+Howard,Albion/Forest City/Lime Springs,County Agricultural Extension Council Member,,,Susan Heimerdinger,225,39,186
+Howard,Saratoga/Howard Center/Chester/Chester City,County Agricultural Extension Council Member,,,Susan Heimerdinger,174,53,121
+Howard,Jamestown/Oakdale/Riceville,County Agricultural Extension Council Member,,,Susan Heimerdinger,166,32,134
+Howard,New Oregon/Protivin,County Agricultural Extension Council Member,,,Susan Heimerdinger,232,61,171
+Howard,Paris/Afton/Howard/Elma,County Agricultural Extension Council Member,,,Susan Heimerdinger,350,75,275
+Howard,Cresco 1A,County Agricultural Extension Council Member,,,Susan Heimerdinger,146,51,95
+Howard,Cresco 2,County Agricultural Extension Council Member,,,Susan Heimerdinger,319,106,213
+Howard,Cresco 3,County Agricultural Extension Council Member,,,Susan Heimerdinger,312,94,218
+Howard,Vernon Springs/Cresco 1B,County Agricultural Extension Council Member,,,Susan Heimerdinger,297,79,218
+Howard,Albion/Forest City/Lime Springs,County Agricultural Extension Council Member,,,Write-in,1,1,0
+Howard,Saratoga/Howard Center/Chester/Chester City,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Howard,Jamestown/Oakdale/Riceville,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Howard,New Oregon/Protivin,County Agricultural Extension Council Member,,,Write-in,7,0,7
+Howard,Paris/Afton/Howard/Elma,County Agricultural Extension Council Member,,,Write-in,2,1,1
+Howard,Cresco 1A,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Howard,Cresco 2,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Howard,Cresco 3,County Agricultural Extension Council Member,,,Write-in,6,0,6
+Howard,Vernon Springs/Cresco 1B,County Agricultural Extension Council Member,,,Write-in,3,0,3
+Howard,Albion/Forest City/Lime Springs,Supreme Court Justice,,,Yes,186,29,157
+Howard,Saratoga/Howard Center/Chester/Chester City,Supreme Court Justice,,,Yes,140,40,100
+Howard,Jamestown/Oakdale/Riceville,Supreme Court Justice,,,Yes,150,25,125
+Howard,New Oregon/Protivin,Supreme Court Justice,,,Yes,190,43,147
+Howard,Paris/Afton/Howard/Elma,Supreme Court Justice,,,Yes,266,52,214
+Howard,Cresco 1A,Supreme Court Justice,,,Yes,134,42,92
+Howard,Cresco 2,Supreme Court Justice,,,Yes,248,82,166
+Howard,Cresco 3,Supreme Court Justice,,,Yes,260,72,188
+Howard,Vernon Springs/Cresco 1B,Supreme Court Justice,,,Yes,245,63,182
+Howard,Albion/Forest City/Lime Springs,Supreme Court Justice,,,No,68,10,58
+Howard,Saratoga/Howard Center/Chester/Chester City,Supreme Court Justice,,,No,63,16,47
+Howard,Jamestown/Oakdale/Riceville,Supreme Court Justice,,,No,45,13,32
+Howard,New Oregon/Protivin,Supreme Court Justice,,,No,84,21,63
+Howard,Paris/Afton/Howard/Elma,Supreme Court Justice,,,No,144,33,111
+Howard,Cresco 1A,Supreme Court Justice,,,No,45,14,31
+Howard,Cresco 2,Supreme Court Justice,,,No,117,40,77
+Howard,Cresco 3,Supreme Court Justice,,,No,109,30,79
+Howard,Vernon Springs/Cresco 1B,Supreme Court Justice,,,No,96,31,65
+Howard,Albion/Forest City/Lime Springs,Court of Appeals Judge,,,Yes,186,32,154
+Howard,Saratoga/Howard Center/Chester/Chester City,Court of Appeals Judge,,,Yes,143,38,105
+Howard,Jamestown/Oakdale/Riceville,Court of Appeals Judge,,,Yes,147,25,122
+Howard,New Oregon/Protivin,Court of Appeals Judge,,,Yes,193,46,147
+Howard,Paris/Afton/Howard/Elma,Court of Appeals Judge,,,Yes,268,53,215
+Howard,Cresco 1A,Court of Appeals Judge,,,Yes,132,40,92
+Howard,Cresco 2,Court of Appeals Judge,,,Yes,262,84,178
+Howard,Cresco 3,Court of Appeals Judge,,,Yes,243,67,176
+Howard,Vernon Springs/Cresco 1B,Court of Appeals Judge,,,Yes,250,70,180
+Howard,Albion/Forest City/Lime Springs,Court of Appeals Judge,,,No,62,7,55
+Howard,Saratoga/Howard Center/Chester/Chester City,Court of Appeals Judge,,,No,60,16,44
+Howard,Jamestown/Oakdale/Riceville,Court of Appeals Judge,,,No,52,15,37
+Howard,New Oregon/Protivin,Court of Appeals Judge,,,No,88,22,66
+Howard,Paris/Afton/Howard/Elma,Court of Appeals Judge,,,No,141,28,113
+Howard,Cresco 1A,Court of Appeals Judge,,,No,41,11,30
+Howard,Cresco 2,Court of Appeals Judge,,,No,94,31,63
+Howard,Cresco 3,Court of Appeals Judge,,,No,105,29,76
+Howard,Vernon Springs/Cresco 1B,Court of Appeals Judge,,,No,96,29,67
+Howard,Albion/Forest City/Lime Springs,District 1B Judge,,,Yes,188,36,152
+Howard,Saratoga/Howard Center/Chester/Chester City,District 1B Judge,,,Yes,144,43,101
+Howard,Jamestown/Oakdale/Riceville,District 1B Judge,,,Yes,150,25,125
+Howard,New Oregon/Protivin,District 1B Judge,,,Yes,198,48,150
+Howard,Paris/Afton/Howard/Elma,District 1B Judge,,,Yes,279,58,221
+Howard,Cresco 1A,District 1B Judge,,,Yes,145,47,98
+Howard,Cresco 2,District 1B Judge,,,Yes,270,89,181
+Howard,Cresco 3,District 1B Judge,,,Yes,276,73,203
+Howard,Vernon Springs/Cresco 1B,District 1B Judge,,,Yes,259,68,191
+Howard,Albion/Forest City/Lime Springs,District 1B Judge,,,No,65,6,59
+Howard,Saratoga/Howard Center/Chester/Chester City,District 1B Judge,,,No,55,12,43
+Howard,Jamestown/Oakdale/Riceville,District 1B Judge,,,No,45,14,31
+Howard,New Oregon/Protivin,District 1B Judge,,,No,81,19,62
+Howard,Paris/Afton/Howard/Elma,District 1B Judge,,,No,126,23,103
+Howard,Cresco 1A,District 1B Judge,,,No,37,10,27
+Howard,Cresco 2,District 1B Judge,,,No,92,26,66
+Howard,Cresco 3,District 1B Judge,,,No,91,28,63
+Howard,Vernon Springs/Cresco 1B,District 1B Judge,,,No,85,28,57
+Howard,Albion/Forest City/Lime Springs,District 1B Associate Judge,,,Yes,200,35,165
+Howard,Saratoga/Howard Center/Chester/Chester City,District 1B Associate Judge,,,Yes,156,43,113
+Howard,Jamestown/Oakdale/Riceville,District 1B Associate Judge,,,Yes,159,27,132
+Howard,New Oregon/Protivin,District 1B Associate Judge,,,Yes,204,45,159
+Howard,Paris/Afton/Howard/Elma,District 1B Associate Judge,,,Yes,290,60,230
+Howard,Cresco 1A,District 1B Associate Judge,,,Yes,148,47,101
+Howard,Cresco 2,District 1B Associate Judge,,,Yes,292,94,198
+Howard,Cresco 3,District 1B Associate Judge,,,Yes,280,76,204
+Howard,Vernon Springs/Cresco 1B,District 1B Associate Judge,,,Yes,266,71,195
+Howard,Albion/Forest City/Lime Springs,District 1B Associate Judge,,,No,58,7,51
+Howard,Saratoga/Howard Center/Chester/Chester City,District 1B Associate Judge,,,No,48,12,36
+Howard,Jamestown/Oakdale/Riceville,District 1B Associate Judge,,,No,42,15,27
+Howard,New Oregon/Protivin,District 1B Associate Judge,,,No,76,22,54
+Howard,Paris/Afton/Howard/Elma,District 1B Associate Judge,,,No,122,24,98
+Howard,Cresco 1A,District 1B Associate Judge,,,No,37,9,28
+Howard,Cresco 2,District 1B Associate Judge,,,No,81,26,55
+Howard,Cresco 3,District 1B Associate Judge,,,No,91,27,64
+Howard,Vernon Springs/Cresco 1B,District 1B Associate Judge,,,No,79,22,57
+Howard,Albion/Forest City/Lime Springs,District 1B Associate Juvenile Judge,,,Yes,203,37,166
+Howard,Saratoga/Howard Center/Chester/Chester City,District 1B Associate Juvenile Judge,,,Yes,148,44,104
+Howard,Jamestown/Oakdale/Riceville,District 1B Associate Juvenile Judge,,,Yes,152,25,127
+Howard,New Oregon/Protivin,District 1B Associate Juvenile Judge,,,Yes,202,48,154
+Howard,Paris/Afton/Howard/Elma,District 1B Associate Juvenile Judge,,,Yes,283,59,224
+Howard,Cresco 1A,District 1B Associate Juvenile Judge,,,Yes,145,48,97
+Howard,Cresco 2,District 1B Associate Juvenile Judge,,,Yes,281,88,193
+Howard,Cresco 3,District 1B Associate Juvenile Judge,,,Yes,268,65,203
+Howard,Vernon Springs/Cresco 1B,District 1B Associate Juvenile Judge,,,Yes,255,64,191
+Howard,Albion/Forest City/Lime Springs,District 1B Associate Juvenile Judge,,,No,54,4,50
+Howard,Saratoga/Howard Center/Chester/Chester City,District 1B Associate Juvenile Judge,,,No,57,12,45
+Howard,Jamestown/Oakdale/Riceville,District 1B Associate Juvenile Judge,,,No,49,14,35
+Howard,New Oregon/Protivin,District 1B Associate Juvenile Judge,,,No,80,21,59
+Howard,Paris/Afton/Howard/Elma,District 1B Associate Juvenile Judge,,,No,130,26,104
+Howard,Cresco 1A,District 1B Associate Juvenile Judge,,,No,40,8,32
+Howard,Cresco 2,District 1B Associate Juvenile Judge,,,No,90,30,60
+Howard,Cresco 3,District 1B Associate Juvenile Judge,,,No,106,39,67
+Howard,Vernon Springs/Cresco 1B,District 1B Associate Juvenile Judge,,,No,92,30,62
+Howard,Albion/Forest City/Lime Springs,Constitutional Amendment 1,,,Yes,250,39,211
+Howard,Saratoga/Howard Center/Chester/Chester City,Constitutional Amendment 1,,,Yes,197,48,149
+Howard,Jamestown/Oakdale/Riceville,Constitutional Amendment 1,,,Yes,198,40,158
+Howard,New Oregon/Protivin,Constitutional Amendment 1,,,Yes,257,55,202
+Howard,Paris/Afton/Howard/Elma,Constitutional Amendment 1,,,Yes,397,73,324
+Howard,Cresco 1A,Constitutional Amendment 1,,,Yes,138,46,92
+Howard,Cresco 2,Constitutional Amendment 1,,,Yes,299,70,229
+Howard,Cresco 3,Constitutional Amendment 1,,,Yes,309,74,235
+Howard,Vernon Springs/Cresco 1B,Constitutional Amendment 1,,,Yes,320,75,245
+Howard,Albion/Forest City/Lime Springs,Constitutional Amendment 1,,,No,57,17,40
+Howard,Saratoga/Howard Center/Chester/Chester City,Constitutional Amendment 1,,,No,52,21,31
+Howard,Jamestown/Oakdale/Riceville,Constitutional Amendment 1,,,No,51,16,35
+Howard,New Oregon/Protivin,Constitutional Amendment 1,,,No,55,17,38
+Howard,Paris/Afton/Howard/Elma,Constitutional Amendment 1,,,No,105,34,71
+Howard,Cresco 1A,Constitutional Amendment 1,,,No,77,20,57
+Howard,Cresco 2,Constitutional Amendment 1,,,No,139,65,74
+Howard,Cresco 3,Constitutional Amendment 1,,,No,138,50,88
+Howard,Vernon Springs/Cresco 1B,Constitutional Amendment 1,,,No,85,34,51

@@ -1,0 +1,454 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Ida,Ida Grove Ward 1,U.S. Senate,,DEM,Michael Franken,60,27,33
+Ida,Ida Grove Ward 2,U.S. Senate,,DEM,Michael Franken,65,26,39
+Ida,Precinct 3,U.S. Senate,,DEM,Michael Franken,85,36,49
+Ida,Precinct 4,U.S. Senate,,DEM,Michael Franken,37,16,21
+Ida,Precinct 5,U.S. Senate,,DEM,Michael Franken,19,3,16
+Ida,Precinct 6,U.S. Senate,,DEM,Michael Franken,189,41,148
+Ida,Precinct 7,U.S. Senate,,DEM,Michael Franken,133,45,88
+Ida,Ida Grove Ward 1,U.S. Senate,,REP,Chuck Grassley,212,51,161
+Ida,Ida Grove Ward 2,U.S. Senate,,REP,Chuck Grassley,218,56,162
+Ida,Precinct 3,U.S. Senate,,REP,Chuck Grassley,268,71,197
+Ida,Precinct 4,U.S. Senate,,REP,Chuck Grassley,303,42,261
+Ida,Precinct 5,U.S. Senate,,REP,Chuck Grassley,158,14,144
+Ida,Precinct 6,U.S. Senate,,REP,Chuck Grassley,460,65,395
+Ida,Precinct 7,U.S. Senate,,REP,Chuck Grassley,511,67,444
+Ida,Ida Grove Ward 1,U.S. Senate,,,Write-in,2,1,1
+Ida,Ida Grove Ward 2,U.S. Senate,,,Write-in,0,0,0
+Ida,Precinct 3,U.S. Senate,,,Write-in,0,0,0
+Ida,Precinct 4,U.S. Senate,,,Write-in,1,0,1
+Ida,Precinct 5,U.S. Senate,,,Write-in,2,0,2
+Ida,Precinct 6,U.S. Senate,,,Write-in,1,0,1
+Ida,Precinct 7,U.S. Senate,,,Write-in,2,0,2
+Ida,Ida Grove Ward 1,U.S. House,4,DEM,Ryan Melton,54,26,28
+Ida,Ida Grove Ward 2,U.S. House,4,DEM,Ryan Melton,49,20,29
+Ida,Precinct 3,U.S. House,4,DEM,Ryan Melton,77,35,42
+Ida,Precinct 4,U.S. House,4,DEM,Ryan Melton,30,14,16
+Ida,Precinct 5,U.S. House,4,DEM,Ryan Melton,13,2,11
+Ida,Precinct 6,U.S. House,4,DEM,Ryan Melton,166,40,126
+Ida,Precinct 7,U.S. House,4,DEM,Ryan Melton,103,39,64
+Ida,Ida Grove Ward 1,U.S. House,4,REP,Randy Feenstra,216,54,162
+Ida,Ida Grove Ward 2,U.S. House,4,REP,Randy Feenstra,226,59,167
+Ida,Precinct 3,U.S. House,4,REP,Randy Feenstra,273,73,200
+Ida,Precinct 4,U.S. House,4,REP,Randy Feenstra,305,42,263
+Ida,Precinct 5,U.S. House,4,REP,Randy Feenstra,160,15,145
+Ida,Precinct 6,U.S. House,4,REP,Randy Feenstra,466,62,404
+Ida,Precinct 7,U.S. House,4,REP,Randy Feenstra,523,69,454
+Ida,Ida Grove Ward 1,U.S. House,4,LBC,Bryan Jack Holder,3,0,3
+Ida,Ida Grove Ward 2,U.S. House,4,LBC,Bryan Jack Holder,2,1,1
+Ida,Precinct 3,U.S. House,4,LBC,Bryan Jack Holder,3,0,3
+Ida,Precinct 4,U.S. House,4,LBC,Bryan Jack Holder,3,0,3
+Ida,Precinct 5,U.S. House,4,LBC,Bryan Jack Holder,4,0,4
+Ida,Precinct 6,U.S. House,4,LBC,Bryan Jack Holder,11,3,8
+Ida,Precinct 7,U.S. House,4,LBC,Bryan Jack Holder,13,0,13
+Ida,Ida Grove Ward 1,U.S. House,4,,Write-in,0,0,0
+Ida,Ida Grove Ward 2,U.S. House,4,,Write-in,0,0,0
+Ida,Precinct 3,U.S. House,4,,Write-in,0,0,0
+Ida,Precinct 4,U.S. House,4,,Write-in,0,0,0
+Ida,Precinct 5,U.S. House,4,,Write-in,0,0,0
+Ida,Precinct 6,U.S. House,4,,Write-in,1,0,1
+Ida,Precinct 7,U.S. House,4,,Write-in,1,0,1
+Ida,Ida Grove Ward 1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,51,26,25
+Ida,Ida Grove Ward 2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,51,21,30
+Ida,Precinct 3,Governor,,DEM,Deidre DeJear and Eric Van Lancker,73,32,41
+Ida,Precinct 4,Governor,,DEM,Deidre DeJear and Eric Van Lancker,31,12,19
+Ida,Precinct 5,Governor,,DEM,Deidre DeJear and Eric Van Lancker,12,2,10
+Ida,Precinct 6,Governor,,DEM,Deidre DeJear and Eric Van Lancker,152,35,117
+Ida,Precinct 7,Governor,,DEM,Deidre DeJear and Eric Van Lancker,98,39,59
+Ida,Ida Grove Ward 1,Governor,,REP,Kim Reynolds and Adam Gregg,220,54,166
+Ida,Ida Grove Ward 2,Governor,,REP,Kim Reynolds and Adam Gregg,234,61,173
+Ida,Precinct 3,Governor,,REP,Kim Reynolds and Adam Gregg,283,79,204
+Ida,Precinct 4,Governor,,REP,Kim Reynolds and Adam Gregg,311,44,267
+Ida,Precinct 5,Governor,,REP,Kim Reynolds and Adam Gregg,165,15,150
+Ida,Precinct 6,Governor,,REP,Kim Reynolds and Adam Gregg,494,66,428
+Ida,Precinct 7,Governor,,REP,Kim Reynolds and Adam Gregg,532,69,463
+Ida,Ida Grove Ward 1,Governor,,LIB,Rick Stewart and Marco Battaglia,7,1,6
+Ida,Ida Grove Ward 2,Governor,,LIB,Rick Stewart and Marco Battaglia,2,1,1
+Ida,Precinct 3,Governor,,LIB,Rick Stewart and Marco Battaglia,4,0,4
+Ida,Precinct 4,Governor,,LIB,Rick Stewart and Marco Battaglia,3,0,3
+Ida,Precinct 5,Governor,,LIB,Rick Stewart and Marco Battaglia,2,0,2
+Ida,Precinct 6,Governor,,LIB,Rick Stewart and Marco Battaglia,8,3,5
+Ida,Precinct 7,Governor,,LIB,Rick Stewart and Marco Battaglia,18,3,15
+Ida,Ida Grove Ward 1,Governor,,,Write-in,1,1,0
+Ida,Ida Grove Ward 2,Governor,,,Write-in,0,0,0
+Ida,Precinct 3,Governor,,,Write-in,0,0,0
+Ida,Precinct 4,Governor,,,Write-in,0,0,0
+Ida,Precinct 5,Governor,,,Write-in,0,0,0
+Ida,Precinct 6,Governor,,,Write-in,0,0,0
+Ida,Precinct 7,Governor,,,Write-in,1,0,1
+Ida,Ida Grove Ward 1,Secretary of State,,DEM,Joel Miller,59,26,33
+Ida,Ida Grove Ward 2,Secretary of State,,DEM,Joel Miller,49,19,30
+Ida,Precinct 3,Secretary of State,,DEM,Joel Miller,82,34,48
+Ida,Precinct 4,Secretary of State,,DEM,Joel Miller,33,14,19
+Ida,Precinct 5,Secretary of State,,DEM,Joel Miller,21,2,19
+Ida,Precinct 6,Secretary of State,,DEM,Joel Miller,161,37,124
+Ida,Precinct 7,Secretary of State,,DEM,Joel Miller,116,34,82
+Ida,Ida Grove Ward 1,Secretary of State,,REP,Paul D. Pate,213,54,159
+Ida,Ida Grove Ward 2,Secretary of State,,REP,Paul D. Pate,227,61,166
+Ida,Precinct 3,Secretary of State,,REP,Paul D. Pate,271,76,195
+Ida,Precinct 4,Secretary of State,,REP,Paul D. Pate,307,40,267
+Ida,Precinct 5,Secretary of State,,REP,Paul D. Pate,157,15,142
+Ida,Precinct 6,Secretary of State,,REP,Paul D. Pate,476,65,411
+Ida,Precinct 7,Secretary of State,,REP,Paul D. Pate,511,72,439
+Ida,Ida Grove Ward 1,Secretary of State,,,Write-in,0,0,0
+Ida,Ida Grove Ward 2,Secretary of State,,,Write-in,0,0,0
+Ida,Precinct 3,Secretary of State,,,Write-in,0,0,0
+Ida,Precinct 4,Secretary of State,,,Write-in,1,0,1
+Ida,Precinct 5,Secretary of State,,,Write-in,0,0,0
+Ida,Precinct 6,Secretary of State,,,Write-in,1,0,1
+Ida,Precinct 7,Secretary of State,,,Write-in,1,0,1
+Ida,Ida Grove Ward 1,Auditor of State,,DEM,Rob Sand,88,36,52
+Ida,Ida Grove Ward 2,Auditor of State,,DEM,Rob Sand,94,43,51
+Ida,Precinct 3,Auditor of State,,DEM,Rob Sand,113,45,68
+Ida,Precinct 4,Auditor of State,,DEM,Rob Sand,74,21,53
+Ida,Precinct 5,Auditor of State,,DEM,Rob Sand,38,6,32
+Ida,Precinct 6,Auditor of State,,DEM,Rob Sand,250,54,196
+Ida,Precinct 7,Auditor of State,,DEM,Rob Sand,171,51,120
+Ida,Ida Grove Ward 1,Auditor of State,,REP,Todd Halbur,180,42,138
+Ida,Ida Grove Ward 2,Auditor of State,,REP,Todd Halbur,181,36,145
+Ida,Precinct 3,Auditor of State,,REP,Todd Halbur,233,66,167
+Ida,Precinct 4,Auditor of State,,REP,Todd Halbur,260,33,227
+Ida,Precinct 5,Auditor of State,,REP,Todd Halbur,137,11,126
+Ida,Precinct 6,Auditor of State,,REP,Todd Halbur,384,49,335
+Ida,Precinct 7,Auditor of State,,REP,Todd Halbur,458,58,400
+Ida,Ida Grove Ward 1,Auditor of State,,,Write-in,0,0,0
+Ida,Ida Grove Ward 2,Auditor of State,,,Write-in,0,0,0
+Ida,Precinct 3,Auditor of State,,,Write-in,1,0,1
+Ida,Precinct 4,Auditor of State,,,Write-in,1,0,1
+Ida,Precinct 5,Auditor of State,,,Write-in,0,0,0
+Ida,Precinct 6,Auditor of State,,,Write-in,0,0,0
+Ida,Precinct 7,Auditor of State,,,Write-in,1,0,1
+Ida,Ida Grove Ward 1,Treasurer of State,,DEM,Michael L. Fitzgerald,79,34,45
+Ida,Ida Grove Ward 2,Treasurer of State,,DEM,Michael L. Fitzgerald,87,35,52
+Ida,Precinct 3,Treasurer of State,,DEM,Michael L. Fitzgerald,109,45,64
+Ida,Precinct 4,Treasurer of State,,DEM,Michael L. Fitzgerald,75,24,51
+Ida,Precinct 5,Treasurer of State,,DEM,Michael L. Fitzgerald,33,4,29
+Ida,Precinct 6,Treasurer of State,,DEM,Michael L. Fitzgerald,246,56,190
+Ida,Precinct 7,Treasurer of State,,DEM,Michael L. Fitzgerald,181,52,129
+Ida,Ida Grove Ward 1,Treasurer of State,,REP,Roby Smith,192,45,147
+Ida,Ida Grove Ward 2,Treasurer of State,,REP,Roby Smith,190,45,145
+Ida,Precinct 3,Treasurer of State,,REP,Roby Smith,240,65,175
+Ida,Precinct 4,Treasurer of State,,REP,Roby Smith,259,30,229
+Ida,Precinct 5,Treasurer of State,,REP,Roby Smith,142,13,129
+Ida,Precinct 6,Treasurer of State,,REP,Roby Smith,391,48,343
+Ida,Precinct 7,Treasurer of State,,REP,Roby Smith,448,56,392
+Ida,Ida Grove Ward 1,Treasurer of State,,,Write-in,0,0,0
+Ida,Ida Grove Ward 2,Treasurer of State,,,Write-in,0,0,0
+Ida,Precinct 3,Treasurer of State,,,Write-in,0,0,0
+Ida,Precinct 4,Treasurer of State,,,Write-in,1,0,1
+Ida,Precinct 5,Treasurer of State,,,Write-in,0,0,0
+Ida,Precinct 6,Treasurer of State,,,Write-in,1,0,1
+Ida,Precinct 7,Treasurer of State,,,Write-in,1,0,1
+Ida,Ida Grove Ward 1,Secretary of Agriculture,,DEM,John Norwood,55,23,32
+Ida,Ida Grove Ward 2,Secretary of Agriculture,,DEM,John Norwood,43,16,27
+Ida,Precinct 3,Secretary of Agriculture,,DEM,John Norwood,67,33,34
+Ida,Precinct 4,Secretary of Agriculture,,DEM,John Norwood,24,12,12
+Ida,Precinct 5,Secretary of Agriculture,,DEM,John Norwood,14,2,12
+Ida,Precinct 6,Secretary of Agriculture,,DEM,John Norwood,148,40,108
+Ida,Precinct 7,Secretary of Agriculture,,DEM,John Norwood,99,32,67
+Ida,Ida Grove Ward 1,Secretary of Agriculture,,REP,Mike Naig,215,55,160
+Ida,Ida Grove Ward 2,Secretary of Agriculture,,REP,Mike Naig,232,63,169
+Ida,Precinct 3,Secretary of Agriculture,,REP,Mike Naig,283,76,207
+Ida,Precinct 4,Secretary of Agriculture,,REP,Mike Naig,316,42,274
+Ida,Precinct 5,Secretary of Agriculture,,REP,Mike Naig,161,15,146
+Ida,Precinct 6,Secretary of Agriculture,,REP,Mike Naig,493,63,430
+Ida,Precinct 7,Secretary of Agriculture,,REP,Mike Naig,536,77,459
+Ida,Ida Grove Ward 1,Secretary of Agriculture,,,Write-in,0,0,0
+Ida,Ida Grove Ward 2,Secretary of Agriculture,,,Write-in,0,0,0
+Ida,Precinct 3,Secretary of Agriculture,,,Write-in,0,0,0
+Ida,Precinct 4,Secretary of Agriculture,,,Write-in,0,0,0
+Ida,Precinct 5,Secretary of Agriculture,,,Write-in,0,0,0
+Ida,Precinct 6,Secretary of Agriculture,,,Write-in,0,0,0
+Ida,Precinct 7,Secretary of Agriculture,,,Write-in,2,0,2
+Ida,Ida Grove Ward 1,Attorney General,,DEM,Tom Miller,83,34,49
+Ida,Ida Grove Ward 2,Attorney General,,DEM,Tom Miller,83,36,47
+Ida,Precinct 3,Attorney General,,DEM,Tom Miller,111,45,66
+Ida,Precinct 4,Attorney General,,DEM,Tom Miller,66,20,46
+Ida,Precinct 5,Attorney General,,DEM,Tom Miller,29,5,24
+Ida,Precinct 6,Attorney General,,DEM,Tom Miller,236,54,182
+Ida,Precinct 7,Attorney General,,DEM,Tom Miller,169,47,122
+Ida,Ida Grove Ward 1,Attorney General,,REP,Brenna Bird,186,46,140
+Ida,Ida Grove Ward 2,Attorney General,,REP,Brenna Bird,194,44,150
+Ida,Precinct 3,Attorney General,,REP,Brenna Bird,241,62,179
+Ida,Precinct 4,Attorney General,,REP,Brenna Bird,268,36,232
+Ida,Precinct 5,Attorney General,,REP,Brenna Bird,147,12,135
+Ida,Precinct 6,Attorney General,,REP,Brenna Bird,398,49,349
+Ida,Precinct 7,Attorney General,,REP,Brenna Bird,464,61,403
+Ida,Ida Grove Ward 1,Attorney General,,,Write-in,0,0,0
+Ida,Ida Grove Ward 2,Attorney General,,,Write-in,0,0,0
+Ida,Precinct 3,Attorney General,,,Write-in,0,0,0
+Ida,Precinct 4,Attorney General,,,Write-in,0,0,0
+Ida,Precinct 5,Attorney General,,,Write-in,0,0,0
+Ida,Precinct 6,Attorney General,,,Write-in,0,0,0
+Ida,Precinct 7,Attorney General,,,Write-in,1,0,1
+Ida,Ida Grove Ward 1,State Senate,6,REP,Jason Schultz,242,65,177
+Ida,Ida Grove Ward 2,State Senate,6,REP,Jason Schultz,238,63,175
+Ida,Precinct 3,State Senate,6,REP,Jason Schultz,294,83,211
+Ida,Precinct 4,State Senate,6,REP,Jason Schultz,307,44,263
+Ida,Precinct 5,State Senate,6,REP,Jason Schultz,157,15,142
+Ida,Precinct 6,State Senate,6,REP,Jason Schultz,505,71,434
+Ida,Precinct 7,State Senate,6,REP,Jason Schultz,551,81,470
+Ida,Ida Grove Ward 1,State Senate,6,LIB,David M. Davis,24,10,14
+Ida,Ida Grove Ward 2,State Senate,6,LIB,David M. Davis,36,14,22
+Ida,Precinct 3,State Senate,6,LIB,David M. Davis,52,21,31
+Ida,Precinct 4,State Senate,6,LIB,David M. Davis,19,4,15
+Ida,Precinct 5,State Senate,6,LIB,David M. Davis,16,2,14
+Ida,Precinct 6,State Senate,6,LIB,David M. Davis,104,19,85
+Ida,Precinct 7,State Senate,6,LIB,David M. Davis,75,20,55
+Ida,Ida Grove Ward 1,State Senate,6,,Write-in,2,1,1
+Ida,Ida Grove Ward 2,State Senate,6,,Write-in,0,0,0
+Ida,Precinct 3,State Senate,6,,Write-in,1,1,0
+Ida,Precinct 4,State Senate,6,,Write-in,2,1,1
+Ida,Precinct 5,State Senate,6,,Write-in,0,0,0
+Ida,Precinct 6,State Senate,6,,Write-in,1,0,1
+Ida,Precinct 7,State Senate,6,,Write-in,2,0,2
+Ida,Ida Grove Ward 1,State House,12,REP,Steven Holt,239,66,173
+Ida,Ida Grove Ward 2,State House,12,REP,Steven Holt,239,64,175
+Ida,Precinct 3,State House,12,REP,Steven Holt,294,83,211
+Ida,Precinct 4,State House,12,REP,Steven Holt,309,43,266
+Ida,Precinct 5,State House,12,REP,Steven Holt,164,15,149
+Ida,Precinct 6,State House,12,REP,Steven Holt,536,76,460
+Ida,Precinct 7,State House,12,REP,Steven Holt,559,86,473
+Ida,Ida Grove Ward 1,State House,12,,Write-in,2,2,0
+Ida,Ida Grove Ward 2,State House,12,,Write-in,0,0,0
+Ida,Precinct 3,State House,12,,Write-in,3,1,2
+Ida,Precinct 4,State House,12,,Write-in,3,1,2
+Ida,Precinct 5,State House,12,,Write-in,3,1,2
+Ida,Precinct 6,State House,12,,Write-in,8,2,6
+Ida,Precinct 7,State House,12,,Write-in,6,0,6
+Ida,Ida Grove Ward 1,County Board of Supervisors District 3,,REP,Devlun Whiteing,149,40,109
+Ida,Ida Grove Ward 2,County Board of Supervisors District 3,,REP,Devlun Whiteing,155,39,116
+Ida,Precinct 3,County Board of Supervisors District 3,,REP,Devlun Whiteing,187,58,129
+Ida,Ida Grove Ward 1,County Board of Supervisors District 3,,,Todd Conover,120,34,86
+Ida,Ida Grove Ward 2,County Board of Supervisors District 3,,,Todd Conover,127,43,84
+Ida,Precinct 3,County Board of Supervisors District 3,,,Todd Conover,162,47,115
+Ida,Ida Grove Ward 1,County Board of Supervisors District 3,,,Write-in,1,1,0
+Ida,Ida Grove Ward 2,County Board of Supervisors District 3,,,Write-in,1,0,1
+Ida,Precinct 3,County Board of Supervisors District 3,,,Write-in,0,0,0
+Ida,Ida Grove Ward 1,County Treasurer,,REP,Traci Riessen,258,73,185
+Ida,Ida Grove Ward 2,County Treasurer,,REP,Traci Riessen,261,78,183
+Ida,Precinct 3,County Treasurer,,REP,Traci Riessen,324,100,224
+Ida,Precinct 4,County Treasurer,,REP,Traci Riessen,326,52,274
+Ida,Precinct 5,County Treasurer,,REP,Traci Riessen,172,16,156
+Ida,Precinct 6,County Treasurer,,REP,Traci Riessen,594,91,503
+Ida,Precinct 7,County Treasurer,,REP,Traci Riessen,595,97,498
+Ida,Ida Grove Ward 1,County Treasurer,,,Write-in,1,1,0
+Ida,Ida Grove Ward 2,County Treasurer,,,Write-in,1,0,1
+Ida,Precinct 3,County Treasurer,,,Write-in,2,1,1
+Ida,Precinct 4,County Treasurer,,,Write-in,0,0,0
+Ida,Precinct 5,County Treasurer,,,Write-in,2,1,1
+Ida,Precinct 6,County Treasurer,,,Write-in,4,1,3
+Ida,Precinct 7,County Treasurer,,,Write-in,3,1,2
+Ida,Ida Grove Ward 1,County Recorder,,REP,Julie Phillips,265,77,188
+Ida,Ida Grove Ward 2,County Recorder,,REP,Julie Phillips,269,78,191
+Ida,Precinct 3,County Recorder,,REP,Julie Phillips,326,98,228
+Ida,Precinct 4,County Recorder,,REP,Julie Phillips,329,51,278
+Ida,Precinct 5,County Recorder,,REP,Julie Phillips,170,16,154
+Ida,Precinct 6,County Recorder,,REP,Julie Phillips,595,91,504
+Ida,Precinct 7,County Recorder,,REP,Julie Phillips,602,97,505
+Ida,Ida Grove Ward 1,County Recorder,,,Write-in,0,0,0
+Ida,Ida Grove Ward 2,County Recorder,,,Write-in,0,0,0
+Ida,Precinct 3,County Recorder,,,Write-in,1,0,1
+Ida,Precinct 4,County Recorder,,,Write-in,1,0,1
+Ida,Precinct 5,County Recorder,,,Write-in,2,1,1
+Ida,Precinct 6,County Recorder,,,Write-in,4,1,3
+Ida,Precinct 7,County Recorder,,,Write-in,3,1,2
+Ida,Ida Grove Ward 1,County Attorney,,DEM,Meghann Cosgrove Whitmer,188,58,130
+Ida,Ida Grove Ward 2,County Attorney,,DEM,Meghann Cosgrove Whitmer,186,57,129
+Ida,Precinct 3,County Attorney,,DEM,Meghann Cosgrove Whitmer,222,70,152
+Ida,Precinct 4,County Attorney,,DEM,Meghann Cosgrove Whitmer,191,33,158
+Ida,Precinct 5,County Attorney,,DEM,Meghann Cosgrove Whitmer,103,11,92
+Ida,Precinct 6,County Attorney,,DEM,Meghann Cosgrove Whitmer,465,78,387
+Ida,Precinct 7,County Attorney,,DEM,Meghann Cosgrove Whitmer,402,69,333
+Ida,Ida Grove Ward 1,County Attorney,,,Write-in,11,2,9
+Ida,Ida Grove Ward 2,County Attorney,,,Write-in,13,1,12
+Ida,Precinct 3,County Attorney,,,Write-in,10,2,8
+Ida,Precinct 4,County Attorney,,,Write-in,13,0,13
+Ida,Precinct 5,County Attorney,,,Write-in,7,2,5
+Ida,Precinct 6,County Attorney,,,Write-in,19,0,19
+Ida,Precinct 7,County Attorney,,,Write-in,23,2,21
+Ida,Precinct 7,Battle Township Trustee,,,Brian Cronin,79,13,66
+Ida,Precinct 7,Battle Township Trustee,,,Write-in,1,0,1
+Ida,Precinct 7,Battle Township Clerk,,,Melissa Butcher,81,13,68
+Ida,Precinct 7,Battle Township Clerk,,,Write-in,0,0,0
+Ida,Precinct 4,Blaine Township Trustee,,,Eric Hemer,118,25,93
+Ida,Precinct 4,Blaine Township Trustee,,,Write-in,1,0,1
+Ida,Precinct 4,Blaine Township Clerk,,,Jay W. Hemer,120,25,95
+Ida,Precinct 4,Blaine Township Clerk,,,Write-in,1,0,1
+Ida,Precinct 3,Corwin Township Trustee,,,Art Witten,108,33,75
+Ida,Precinct 3,Corwin Township Trustee,,,Write-in,0,0,0
+Ida,Precinct 3,Corwin Township Clerk,,,Linda K. Burk,106,29,77
+Ida,Precinct 3,Corwin Township Clerk,,,Write-in,0,0,0
+Ida,Precinct 6,Douglas Township Trustee,,,Jeremy Lukins,30,7,23
+Ida,Precinct 7,Douglas Township Trustee,,,Jeremy Lukins,28,5,23
+Ida,Precinct 6,Douglas Township Trustee,,,Write-in,0,0,0
+Ida,Precinct 7,Douglas Township Trustee,,,Write-in,0,0,0
+Ida,Precinct 6,Douglas Township Trustee To Fill a Vacancy,,,Jacob Stowater,28,6,22
+Ida,Precinct 7,Douglas Township Trustee To Fill a Vacancy,,,Jacob Stowater,29,6,23
+Ida,Precinct 6,Douglas Township Trustee To Fill a Vacancy,,,Write-in,1,1,0
+Ida,Precinct 7,Douglas Township Trustee To Fill a Vacancy,,,Write-in,0,0,0
+Ida,Precinct 6,Douglas Township Clerk,,,Write-in,3,1,2
+Ida,Precinct 7,Douglas Township Clerk,,,Write-in,2,0,2
+Ida,Precinct 6,Douglas Township Clerk,,,Meagan Stowater,2,0,2
+Ida,Precinct 7,Douglas Township Clerk,,,Meagan Stowater,0,0,0
+Ida,Precinct 5,Galva Township Trustee,,,Jeff Naslund,57,14,43
+Ida,Precinct 5,Galva Township Trustee,,,Write-in,0,0,0
+Ida,Precinct 5,Galva Township Clerk,,,Maureen Andresen,58,13,45
+Ida,Precinct 5,Galva Township Clerk,,,Write-in,0,0,0
+Ida,Precinct 7,Garfield Township Trustee,,,Chester S. Lee,56,9,47
+Ida,Precinct 7,Garfield Township Trustee,,,Write-in,0,0,0
+Ida,Precinct 7,Garfield Township Clerk,,,Rick McBride,57,9,48
+Ida,Precinct 7,Garfield Township Clerk,,,Write-in,0,0,0
+Ida,Precinct 6,Griggs Township Trustee,,,Write-in,7,2,5
+Ida,Precinct 6,Griggs Township Trustee,,,Francene Leonard,2,0,2
+Ida,Precinct 6,Griggs Township Clerk,,,Keith Leonard,85,8,77
+Ida,Precinct 6,Griggs Township Clerk,,,Write-in,1,0,1
+Ida,Precinct 4,Hayes Township Trustee,,,Billy Bergman,65,14,51
+Ida,Precinct 4,Hayes Township Trustee,,,Write-in,0,0,0
+Ida,Precinct 4,Hayes Township Clerk,,,Burdelle Knudsen,70,15,55
+Ida,Precinct 4,Hayes Township Clerk,,,Write-in,1,0,1
+Ida,Precinct 7,Logan Township Trustee,,,David Thorborg,72,27,45
+Ida,Precinct 7,Logan Township Trustee,,,Write-in,1,1,0
+Ida,Precinct 7,Logan Township Clerk,,,Trisha Hoffman,77,29,48
+Ida,Precinct 7,Logan Township Clerk,,,Write-in,0,0,0
+Ida,Precinct 7,Maple Township Trustee,,,Jason E. Schmidt,79,3,76
+Ida,Precinct 7,Maple Township Trustee,,,Write-in,1,0,1
+Ida,Precinct 7,Maple Township Clerk,,,Amber Schaeding,69,2,67
+Ida,Precinct 7,Maple Township Clerk,,,Write-in,0,0,0
+Ida,Precinct 4,Silver Creek Township Trustee,,,Dennis R. Bennett,63,9,54
+Ida,Precinct 4,Silver Creek Township Trustee,,,Write-in,0,0,0
+Ida,Precinct 4,Silver Creek Township Clerk,,,Jeff Stevenson,56,8,48
+Ida,Precinct 4,Silver Creek Township Clerk,,,Write-in,0,0,0
+Ida,Ida Grove Ward 1,Soil and Water Conservation District Commissioner,,,Roger Bumann,242,75,167
+Ida,Ida Grove Ward 2,Soil and Water Conservation District Commissioner,,,Roger Bumann,259,76,183
+Ida,Precinct 3,Soil and Water Conservation District Commissioner,,,Roger Bumann,317,90,227
+Ida,Precinct 4,Soil and Water Conservation District Commissioner,,,Roger Bumann,319,53,266
+Ida,Precinct 5,Soil and Water Conservation District Commissioner,,,Roger Bumann,141,16,125
+Ida,Precinct 6,Soil and Water Conservation District Commissioner,,,Roger Bumann,529,82,447
+Ida,Precinct 7,Soil and Water Conservation District Commissioner,,,Roger Bumann,564,95,469
+Ida,Ida Grove Ward 1,Soil and Water Conservation District Commissioner,,,Write-in,4,0,4
+Ida,Ida Grove Ward 2,Soil and Water Conservation District Commissioner,,,Write-in,8,2,6
+Ida,Precinct 3,Soil and Water Conservation District Commissioner,,,Write-in,4,2,2
+Ida,Precinct 4,Soil and Water Conservation District Commissioner,,,Write-in,2,1,1
+Ida,Precinct 5,Soil and Water Conservation District Commissioner,,,Write-in,5,1,4
+Ida,Precinct 6,Soil and Water Conservation District Commissioner,,,Write-in,15,1,14
+Ida,Precinct 7,Soil and Water Conservation District Commissioner,,,Write-in,9,1,8
+Ida,Ida Grove Ward 1,Soil and Water Conservation District Commissioner,,,Joyce Johnson,0,0,0
+Ida,Ida Grove Ward 2,Soil and Water Conservation District Commissioner,,,Joyce Johnson,0,0,0
+Ida,Precinct 3,Soil and Water Conservation District Commissioner,,,Joyce Johnson,2,1,1
+Ida,Precinct 4,Soil and Water Conservation District Commissioner,,,Joyce Johnson,4,2,2
+Ida,Precinct 5,Soil and Water Conservation District Commissioner,,,Joyce Johnson,0,0,0
+Ida,Precinct 6,Soil and Water Conservation District Commissioner,,,Joyce Johnson,1,0,1
+Ida,Precinct 7,Soil and Water Conservation District Commissioner,,,Joyce Johnson,2,0,2
+Ida,Ida Grove Ward 1,County Agricultural Extension Council Member,,,Barbara Knudsen,192,63,129
+Ida,Ida Grove Ward 2,County Agricultural Extension Council Member,,,Barbara Knudsen,204,63,141
+Ida,Precinct 3,County Agricultural Extension Council Member,,,Barbara Knudsen,241,73,168
+Ida,Precinct 4,County Agricultural Extension Council Member,,,Barbara Knudsen,264,47,217
+Ida,Precinct 5,County Agricultural Extension Council Member,,,Barbara Knudsen,110,14,96
+Ida,Precinct 6,County Agricultural Extension Council Member,,,Barbara Knudsen,397,70,327
+Ida,Precinct 7,County Agricultural Extension Council Member,,,Barbara Knudsen,475,77,398
+Ida,Ida Grove Ward 1,County Agricultural Extension Council Member,,,Denise Van Dusen,188,60,128
+Ida,Ida Grove Ward 2,County Agricultural Extension Council Member,,,Denise Van Dusen,210,60,150
+Ida,Precinct 3,County Agricultural Extension Council Member,,,Denise Van Dusen,244,71,173
+Ida,Precinct 4,County Agricultural Extension Council Member,,,Denise Van Dusen,263,41,222
+Ida,Precinct 5,County Agricultural Extension Council Member,,,Denise Van Dusen,99,9,90
+Ida,Precinct 6,County Agricultural Extension Council Member,,,Denise Van Dusen,408,71,337
+Ida,Precinct 7,County Agricultural Extension Council Member,,,Denise Van Dusen,411,61,350
+Ida,Ida Grove Ward 1,County Agricultural Extension Council Member,,,Kyle Rohlk,197,69,128
+Ida,Ida Grove Ward 2,County Agricultural Extension Council Member,,,Kyle Rohlk,203,62,141
+Ida,Precinct 3,County Agricultural Extension Council Member,,,Kyle Rohlk,236,69,167
+Ida,Precinct 4,County Agricultural Extension Council Member,,,Kyle Rohlk,262,47,215
+Ida,Precinct 5,County Agricultural Extension Council Member,,,Kyle Rohlk,112,13,99
+Ida,Precinct 6,County Agricultural Extension Council Member,,,Kyle Rohlk,411,73,338
+Ida,Precinct 7,County Agricultural Extension Council Member,,,Kyle Rohlk,435,76,359
+Ida,Ida Grove Ward 1,County Agricultural Extension Council Member,,,Teresa Sohm-McMillen,162,52,110
+Ida,Ida Grove Ward 2,County Agricultural Extension Council Member,,,Teresa Sohm-McMillen,159,50,109
+Ida,Precinct 3,County Agricultural Extension Council Member,,,Teresa Sohm-McMillen,200,58,142
+Ida,Precinct 4,County Agricultural Extension Council Member,,,Teresa Sohm-McMillen,221,44,177
+Ida,Precinct 5,County Agricultural Extension Council Member,,,Teresa Sohm-McMillen,99,11,88
+Ida,Precinct 6,County Agricultural Extension Council Member,,,Teresa Sohm-McMillen,355,68,287
+Ida,Precinct 7,County Agricultural Extension Council Member,,,Teresa Sohm-McMillen,426,66,360
+Ida,Ida Grove Ward 1,County Agricultural Extension Council Member,,,Layne Todd,154,48,106
+Ida,Ida Grove Ward 2,County Agricultural Extension Council Member,,,Layne Todd,154,52,102
+Ida,Precinct 3,County Agricultural Extension Council Member,,,Layne Todd,191,49,142
+Ida,Precinct 4,County Agricultural Extension Council Member,,,Layne Todd,224,40,184
+Ida,Precinct 5,County Agricultural Extension Council Member,,,Layne Todd,116,14,102
+Ida,Precinct 6,County Agricultural Extension Council Member,,,Layne Todd,485,81,404
+Ida,Precinct 7,County Agricultural Extension Council Member,,,Layne Todd,420,67,353
+Ida,Ida Grove Ward 1,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Ida,Ida Grove Ward 2,County Agricultural Extension Council Member,,,Write-in,2,1,1
+Ida,Precinct 3,County Agricultural Extension Council Member,,,Write-in,1,1,0
+Ida,Precinct 4,County Agricultural Extension Council Member,,,Write-in,0,0,0
+Ida,Precinct 5,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Ida,Precinct 6,County Agricultural Extension Council Member,,,Write-in,7,2,5
+Ida,Precinct 7,County Agricultural Extension Council Member,,,Write-in,7,3,4
+Ida,Ida Grove Ward 1,Supreme Court Justice,,,Yes,143,45,98
+Ida,Ida Grove Ward 2,Supreme Court Justice,,,Yes,143,43,100
+Ida,Precinct 3,Supreme Court Justice,,,Yes,167,47,120
+Ida,Precinct 4,Supreme Court Justice,,,Yes,182,29,153
+Ida,Precinct 5,Supreme Court Justice,,,Yes,64,9,55
+Ida,Precinct 6,Supreme Court Justice,,,Yes,352,56,296
+Ida,Precinct 7,Supreme Court Justice,,,Yes,301,46,255
+Ida,Ida Grove Ward 1,Supreme Court Justice,,,No,45,13,32
+Ida,Ida Grove Ward 2,Supreme Court Justice,,,No,41,6,35
+Ida,Precinct 3,Supreme Court Justice,,,No,76,25,51
+Ida,Precinct 4,Supreme Court Justice,,,No,56,11,45
+Ida,Precinct 5,Supreme Court Justice,,,No,35,4,31
+Ida,Precinct 6,Supreme Court Justice,,,No,118,25,93
+Ida,Precinct 7,Supreme Court Justice,,,No,152,30,122
+Ida,Ida Grove Ward 1,Court of Appeals Judge,,,Yes,146,46,100
+Ida,Ida Grove Ward 2,Court of Appeals Judge,,,Yes,148,43,105
+Ida,Precinct 3,Court of Appeals Judge,,,Yes,161,46,115
+Ida,Precinct 4,Court of Appeals Judge,,,Yes,183,28,155
+Ida,Precinct 5,Court of Appeals Judge,,,Yes,65,10,55
+Ida,Precinct 6,Court of Appeals Judge,,,Yes,353,60,293
+Ida,Precinct 7,Court of Appeals Judge,,,Yes,296,44,252
+Ida,Ida Grove Ward 1,Court of Appeals Judge,,,No,41,11,30
+Ida,Ida Grove Ward 2,Court of Appeals Judge,,,No,36,7,29
+Ida,Precinct 3,Court of Appeals Judge,,,No,78,23,55
+Ida,Precinct 4,Court of Appeals Judge,,,No,51,10,41
+Ida,Precinct 5,Court of Appeals Judge,,,No,33,4,29
+Ida,Precinct 6,Court of Appeals Judge,,,No,115,20,95
+Ida,Precinct 7,Court of Appeals Judge,,,No,153,31,122
+Ida,Ida Grove Ward 1,District 3B Judge,,,Yes,151,47,104
+Ida,Ida Grove Ward 2,District 3B Judge,,,Yes,146,40,106
+Ida,Precinct 3,District 3B Judge,,,Yes,175,49,126
+Ida,Precinct 4,District 3B Judge,,,Yes,188,29,159
+Ida,Precinct 5,District 3B Judge,,,Yes,70,10,60
+Ida,Precinct 6,District 3B Judge,,,Yes,363,62,301
+Ida,Precinct 7,District 3B Judge,,,Yes,316,54,262
+Ida,Ida Grove Ward 1,District 3B Judge,,,No,34,10,24
+Ida,Ida Grove Ward 2,District 3B Judge,,,No,42,11,31
+Ida,Precinct 3,District 3B Judge,,,No,63,20,43
+Ida,Precinct 4,District 3B Judge,,,No,41,7,34
+Ida,Precinct 5,District 3B Judge,,,No,28,4,24
+Ida,Precinct 6,District 3B Judge,,,No,101,18,83
+Ida,Precinct 7,District 3B Judge,,,No,126,23,103
+Ida,Ida Grove Ward 1,District 3B Associate Judge,,,Yes,184,62,122
+Ida,Ida Grove Ward 2,District 3B Associate Judge,,,Yes,186,60,126
+Ida,Precinct 3,District 3B Associate Judge,,,Yes,214,63,151
+Ida,Precinct 4,District 3B Associate Judge,,,Yes,249,41,208
+Ida,Precinct 5,District 3B Associate Judge,,,Yes,98,12,86
+Ida,Precinct 6,District 3B Associate Judge,,,Yes,482,73,409
+Ida,Precinct 7,District 3B Associate Judge,,,Yes,401,68,333
+Ida,Ida Grove Ward 1,District 3B Associate Judge,,,No,33,6,27
+Ida,Ida Grove Ward 2,District 3B Associate Judge,,,No,43,6,37
+Ida,Precinct 3,District 3B Associate Judge,,,No,64,17,47
+Ida,Precinct 4,District 3B Associate Judge,,,No,29,3,26
+Ida,Precinct 5,District 3B Associate Judge,,,No,28,3,25
+Ida,Precinct 6,District 3B Associate Judge,,,No,84,20,64
+Ida,Precinct 7,District 3B Associate Judge,,,No,121,18,103
+Ida,Ida Grove Ward 1,Constitutional Amendment 1,,,Yes,219,61,158
+Ida,Ida Grove Ward 2,Constitutional Amendment 1,,,Yes,234,56,178
+Ida,Precinct 3,Constitutional Amendment 1,,,Yes,290,77,213
+Ida,Precinct 4,Constitutional Amendment 1,,,Yes,304,48,256
+Ida,Precinct 5,Constitutional Amendment 1,,,Yes,170,15,155
+Ida,Precinct 6,Constitutional Amendment 1,,,Yes,502,72,430
+Ida,Precinct 7,Constitutional Amendment 1,,,Yes,538,74,464
+Ida,Ida Grove Ward 1,Constitutional Amendment 1,,,No,43,18,25
+Ida,Ida Grove Ward 2,Constitutional Amendment 1,,,No,39,22,17
+Ida,Precinct 3,Constitutional Amendment 1,,,No,49,25,24
+Ida,Precinct 4,Constitutional Amendment 1,,,No,24,6,18
+Ida,Precinct 5,Constitutional Amendment 1,,,No,10,2,8
+Ida,Precinct 6,Constitutional Amendment 1,,,No,131,27,104
+Ida,Precinct 7,Constitutional Amendment 1,,,No,86,34,52

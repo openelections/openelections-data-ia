@@ -1,0 +1,297 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Adams,Adams 1,U.S. Senate,,REP,Chuck Grassley,189,49,140
+Adams,Adams 2,U.S. Senate,,REP,Chuck Grassley,221,57,164
+Adams,Adams 3,U.S. Senate,,REP,Chuck Grassley,239,59,180
+Adams,Adams 4,U.S. Senate,,REP,Chuck Grassley,242,77,165
+Adams,Adams 5,U.S. Senate,,REP,Chuck Grassley,276,72,204
+Adams,Adams 1,U.S. Senate,,DEM,Michael Franken,92,41,51
+Adams,Adams 2,U.S. Senate,,DEM,Michael Franken,93,26,67
+Adams,Adams 3,U.S. Senate,,DEM,Michael Franken,102,41,61
+Adams,Adams 4,U.S. Senate,,DEM,Michael Franken,100,60,40
+Adams,Adams 5,U.S. Senate,,DEM,Michael Franken,80,34,46
+Adams,Adams 1,U.S. Senate,,,Write-in,0,0,0
+Adams,Adams 2,U.S. Senate,,,Write-in,0,0,0
+Adams,Adams 3,U.S. Senate,,,Write-in,2,0,2
+Adams,Adams 4,U.S. Senate,,,Write-in,1,0,1
+Adams,Adams 5,U.S. Senate,,,Write-in,0,0,0
+Adams,Adams 1,U.S. House,3,REP,Zach Nunn,184,48,136
+Adams,Adams 2,U.S. House,3,REP,Zach Nunn,215,51,164
+Adams,Adams 3,U.S. House,3,REP,Zach Nunn,228,53,175
+Adams,Adams 4,U.S. House,3,REP,Zach Nunn,231,74,157
+Adams,Adams 5,U.S. House,3,REP,Zach Nunn,268,70,198
+Adams,Adams 1,U.S. House,3,DEM,Cindy Axne,93,39,54
+Adams,Adams 2,U.S. House,3,DEM,Cindy Axne,100,31,69
+Adams,Adams 3,U.S. House,3,DEM,Cindy Axne,115,46,69
+Adams,Adams 4,U.S. House,3,DEM,Cindy Axne,112,65,47
+Adams,Adams 5,U.S. House,3,DEM,Cindy Axne,90,37,53
+Adams,Adams 1,U.S. House,3,,Write-in,1,0,1
+Adams,Adams 2,U.S. House,3,,Write-in,0,0,0
+Adams,Adams 3,U.S. House,3,,Write-in,1,1,0
+Adams,Adams 4,U.S. House,3,,Write-in,1,0,1
+Adams,Adams 5,U.S. House,3,,Write-in,0,0,0
+Adams,Adams 1,Governor,,REP,Kim Reynolds and Adam Gregg,192,51,141
+Adams,Adams 2,Governor,,REP,Kim Reynolds and Adam Gregg,233,59,174
+Adams,Adams 3,Governor,,REP,Kim Reynolds and Adam Gregg,268,71,197
+Adams,Adams 4,Governor,,REP,Kim Reynolds and Adam Gregg,259,85,174
+Adams,Adams 5,Governor,,REP,Kim Reynolds and Adam Gregg,289,74,215
+Adams,Adams 1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,73,35,38
+Adams,Adams 2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,78,25,53
+Adams,Adams 3,Governor,,DEM,Deidre DeJear and Eric Van Lancker,82,35,47
+Adams,Adams 4,Governor,,DEM,Deidre DeJear and Eric Van Lancker,83,54,29
+Adams,Adams 5,Governor,,DEM,Deidre DeJear and Eric Van Lancker,65,30,35
+Adams,Adams 1,Governor,,LIB,Rick Stewart and Marco Battaglia,16,5,11
+Adams,Adams 2,Governor,,LIB,Rick Stewart and Marco Battaglia,10,3,7
+Adams,Adams 3,Governor,,LIB,Rick Stewart and Marco Battaglia,6,3,3
+Adams,Adams 4,Governor,,LIB,Rick Stewart and Marco Battaglia,11,3,8
+Adams,Adams 5,Governor,,LIB,Rick Stewart and Marco Battaglia,5,3,2
+Adams,Adams 1,Governor,,,Write-in,1,0,1
+Adams,Adams 2,Governor,,,Write-in,0,0,0
+Adams,Adams 3,Governor,,,Write-in,1,0,1
+Adams,Adams 4,Governor,,,Write-in,0,0,0
+Adams,Adams 5,Governor,,,Write-in,1,0,1
+Adams,Adams 1,Secretary of State,,REP,Paul D. Pate,194,53,141
+Adams,Adams 2,Secretary of State,,REP,Paul D. Pate,228,57,171
+Adams,Adams 3,Secretary of State,,REP,Paul D. Pate,256,63,193
+Adams,Adams 4,Secretary of State,,REP,Paul D. Pate,252,85,167
+Adams,Adams 5,Secretary of State,,REP,Paul D. Pate,294,81,213
+Adams,Adams 1,Secretary of State,,DEM,Joel Miller,86,37,49
+Adams,Adams 2,Secretary of State,,DEM,Joel Miller,88,28,60
+Adams,Adams 3,Secretary of State,,DEM,Joel Miller,90,42,48
+Adams,Adams 4,Secretary of State,,DEM,Joel Miller,90,54,36
+Adams,Adams 5,Secretary of State,,DEM,Joel Miller,63,25,38
+Adams,Adams 1,Secretary of State,,,Write-in,0,0,0
+Adams,Adams 2,Secretary of State,,,Write-in,0,0,0
+Adams,Adams 3,Secretary of State,,,Write-in,1,1,0
+Adams,Adams 4,Secretary of State,,,Write-in,1,1,0
+Adams,Adams 5,Secretary of State,,,Write-in,0,0,0
+Adams,Adams 1,Auditor of State,,REP,Todd Halbur,157,38,119
+Adams,Adams 2,Auditor of State,,REP,Todd Halbur,201,52,149
+Adams,Adams 3,Auditor of State,,REP,Todd Halbur,217,62,155
+Adams,Adams 4,Auditor of State,,REP,Todd Halbur,225,71,154
+Adams,Adams 5,Auditor of State,,REP,Todd Halbur,252,68,184
+Adams,Adams 1,Auditor of State,,DEM,Rob Sand,122,51,71
+Adams,Adams 2,Auditor of State,,DEM,Rob Sand,112,32,80
+Adams,Adams 3,Auditor of State,,DEM,Rob Sand,131,45,86
+Adams,Adams 4,Auditor of State,,DEM,Rob Sand,117,68,49
+Adams,Adams 5,Auditor of State,,DEM,Rob Sand,105,38,67
+Adams,Adams 1,Auditor of State,,,Write-in,1,0,1
+Adams,Adams 2,Auditor of State,,,Write-in,0,0,0
+Adams,Adams 3,Auditor of State,,,Write-in,0,0,0
+Adams,Adams 4,Auditor of State,,,Write-in,0,0,0
+Adams,Adams 5,Auditor of State,,,Write-in,0,0,0
+Adams,Adams 1,Treasurer of State,,REP,Roby Smith,163,44,119
+Adams,Adams 2,Treasurer of State,,REP,Roby Smith,196,44,152
+Adams,Adams 3,Treasurer of State,,REP,Roby Smith,215,57,158
+Adams,Adams 4,Treasurer of State,,REP,Roby Smith,218,68,150
+Adams,Adams 5,Treasurer of State,,REP,Roby Smith,247,64,183
+Adams,Adams 1,Treasurer of State,,DEM,Michael L. Fitzgerald,115,45,70
+Adams,Adams 2,Treasurer of State,,DEM,Michael L. Fitzgerald,118,40,78
+Adams,Adams 3,Treasurer of State,,DEM,Michael L. Fitzgerald,136,50,86
+Adams,Adams 4,Treasurer of State,,DEM,Michael L. Fitzgerald,121,70,51
+Adams,Adams 5,Treasurer of State,,DEM,Michael L. Fitzgerald,109,42,67
+Adams,Adams 1,Treasurer of State,,,Write-in,0,0,0
+Adams,Adams 2,Treasurer of State,,,Write-in,0,0,0
+Adams,Adams 3,Treasurer of State,,,Write-in,1,1,0
+Adams,Adams 4,Treasurer of State,,,Write-in,0,0,0
+Adams,Adams 5,Treasurer of State,,,Write-in,0,0,0
+Adams,Adams 1,Secretary of Agriculture,,REP,Mike Naig,209,55,154
+Adams,Adams 2,Secretary of Agriculture,,REP,Mike Naig,236,62,174
+Adams,Adams 3,Secretary of Agriculture,,REP,Mike Naig,264,69,195
+Adams,Adams 4,Secretary of Agriculture,,REP,Mike Naig,264,93,171
+Adams,Adams 5,Secretary of Agriculture,,REP,Mike Naig,300,75,225
+Adams,Adams 1,Secretary of Agriculture,,DEM,John Norwood,70,32,38
+Adams,Adams 2,Secretary of Agriculture,,DEM,John Norwood,76,20,56
+Adams,Adams 3,Secretary of Agriculture,,DEM,John Norwood,81,35,46
+Adams,Adams 4,Secretary of Agriculture,,DEM,John Norwood,76,45,31
+Adams,Adams 5,Secretary of Agriculture,,DEM,John Norwood,58,32,26
+Adams,Adams 1,Secretary of Agriculture,,,Write-in,0,0,0
+Adams,Adams 2,Secretary of Agriculture,,,Write-in,0,0,0
+Adams,Adams 3,Secretary of Agriculture,,,Write-in,0,0,0
+Adams,Adams 4,Secretary of Agriculture,,,Write-in,1,0,1
+Adams,Adams 5,Secretary of Agriculture,,,Write-in,0,0,0
+Adams,Adams 1,Attorney General,,REP,Brenna Bird,164,40,124
+Adams,Adams 2,Attorney General,,REP,Brenna Bird,197,44,153
+Adams,Adams 3,Attorney General,,REP,Brenna Bird,214,50,164
+Adams,Adams 4,Attorney General,,REP,Brenna Bird,217,66,151
+Adams,Adams 5,Attorney General,,REP,Brenna Bird,252,67,185
+Adams,Adams 1,Attorney General,,DEM,Tom Miller,112,49,63
+Adams,Adams 2,Attorney General,,DEM,Tom Miller,119,41,78
+Adams,Adams 3,Attorney General,,DEM,Tom Miller,133,55,78
+Adams,Adams 4,Attorney General,,DEM,Tom Miller,128,72,56
+Adams,Adams 5,Attorney General,,DEM,Tom Miller,101,36,65
+Adams,Adams 1,Attorney General,,,Write-in,0,0,0
+Adams,Adams 2,Attorney General,,,Write-in,0,0,0
+Adams,Adams 3,Attorney General,,,Write-in,0,0,0
+Adams,Adams 4,Attorney General,,,Write-in,0,0,0
+Adams,Adams 5,Attorney General,,,Write-in,0,0,0
+Adams,Adams 1,State Senate,9,REP,Tom Shipley,226,63,163
+Adams,Adams 2,State Senate,9,REP,Tom Shipley,260,72,188
+Adams,Adams 3,State Senate,9,REP,Tom Shipley,277,75,202
+Adams,Adams 4,State Senate,9,REP,Tom Shipley,279,97,182
+Adams,Adams 5,State Senate,9,REP,Tom Shipley,304,81,223
+Adams,Adams 1,State Senate,9,DEM,Tripp Narup,55,27,28
+Adams,Adams 2,State Senate,9,DEM,Tripp Narup,64,15,49
+Adams,Adams 3,State Senate,9,DEM,Tripp Narup,75,31,44
+Adams,Adams 4,State Senate,9,DEM,Tripp Narup,69,44,25
+Adams,Adams 5,State Senate,9,DEM,Tripp Narup,54,26,28
+Adams,Adams 1,State Senate,9,,Write-in,1,1,0
+Adams,Adams 2,State Senate,9,,Write-in,0,0,0
+Adams,Adams 3,State Senate,9,,Write-in,0,0,0
+Adams,Adams 4,State Senate,9,,Write-in,1,0,1
+Adams,Adams 5,State Senate,9,,Write-in,0,0,0
+Adams,Adams 1,State House,17,REP,Devon Wood,169,44,125
+Adams,Adams 2,State House,17,REP,Devon Wood,204,49,155
+Adams,Adams 3,State House,17,REP,Devon Wood,224,56,168
+Adams,Adams 4,State House,17,REP,Devon Wood,224,69,155
+Adams,Adams 5,State House,17,REP,Devon Wood,270,72,198
+Adams,Adams 1,State House,17,DEM,Pat Shipley,110,44,66
+Adams,Adams 2,State House,17,DEM,Pat Shipley,114,37,77
+Adams,Adams 3,State House,17,DEM,Pat Shipley,126,48,78
+Adams,Adams 4,State House,17,DEM,Pat Shipley,123,72,51
+Adams,Adams 5,State House,17,DEM,Pat Shipley,85,33,52
+Adams,Adams 1,State House,17,,Write-in,0,0,0
+Adams,Adams 2,State House,17,,Write-in,0,0,0
+Adams,Adams 3,State House,17,,Write-in,0,0,0
+Adams,Adams 4,State House,17,,Write-in,0,0,0
+Adams,Adams 5,State House,17,,Write-in,0,0,0
+Adams,Adams 1,County Board of Supervisor District 1,,REP,Bobbi J. Baker-Maynes,250,75,175
+Adams,Adams 1,County Board of Supervisor District 1,,,Write-in,10,3,7
+Adams,Adams 2,County Board of Supervisor District 2,,REP,Tony Hardisty,260,70,190
+Adams,Adams 2,County Board of Supervisor District 2,,,Write-in,17,4,13
+Adams,Adams 3,County Board of Supervisor District 3,,REP,Scott Akin,317,93,224
+Adams,Adams 3,County Board of Supervisor District 3,,,Write-in,6,1,5
+Adams,Adams 4,County Board of Supervisor District 4,,REP,Leland Shipley,213,90,123
+Adams,Adams 4,County Board of Supervisor District 4,,,Write-in,3,1,2
+Adams,Adams 4,County Board of Supervisor District 4,,,Jed Palmer,98,32,66
+Adams,Adams 5,County Board of Supervisor District 5,,REP,Christopher Standley,320,90,230
+Adams,Adams 5,County Board of Supervisor District 5,,,Write-in,5,2,3
+Adams,Adams 1,County Treasurer,,DEM,Holly Schafer,251,81,170
+Adams,Adams 2,County Treasurer,,DEM,Holly Schafer,279,73,206
+Adams,Adams 3,County Treasurer,,DEM,Holly Schafer,320,98,222
+Adams,Adams 4,County Treasurer,,DEM,Holly Schafer,312,122,190
+Adams,Adams 5,County Treasurer,,DEM,Holly Schafer,267,81,186
+Adams,Adams 1,County Treasurer,,,Write-in,1,0,1
+Adams,Adams 2,County Treasurer,,,Write-in,5,0,5
+Adams,Adams 3,County Treasurer,,,Write-in,7,1,6
+Adams,Adams 4,County Treasurer,,,Write-in,2,1,1
+Adams,Adams 5,County Treasurer,,,Write-in,13,0,13
+Adams,Adams 1,County Recorder,,REP,Jamie Stargell,263,83,180
+Adams,Adams 2,County Recorder,,REP,Jamie Stargell,301,81,220
+Adams,Adams 3,County Recorder,,REP,Jamie Stargell,330,98,232
+Adams,Adams 4,County Recorder,,REP,Jamie Stargell,331,126,205
+Adams,Adams 5,County Recorder,,REP,Jamie Stargell,322,88,234
+Adams,Adams 1,County Recorder,,,Write-in,2,0,2
+Adams,Adams 2,County Recorder,,,Write-in,3,0,3
+Adams,Adams 3,County Recorder,,,Write-in,3,1,2
+Adams,Adams 4,County Recorder,,,Write-in,0,0,0
+Adams,Adams 5,County Recorder,,,Write-in,1,0,1
+Adams,Adams 1,County Attorney,,REP,Andrew Knuth,236,71,165
+Adams,Adams 2,County Attorney,,REP,Andrew Knuth,281,71,210
+Adams,Adams 3,County Attorney,,REP,Andrew Knuth,299,89,210
+Adams,Adams 4,County Attorney,,REP,Andrew Knuth,304,113,191
+Adams,Adams 5,County Attorney,,REP,Andrew Knuth,310,83,227
+Adams,Adams 1,County Attorney,,,Write-in,7,1,6
+Adams,Adams 2,County Attorney,,,Write-in,7,0,7
+Adams,Adams 3,County Attorney,,,Write-in,4,1,3
+Adams,Adams 4,County Attorney,,,Write-in,3,0,3
+Adams,Adams 5,County Attorney,,,Write-in,2,1,1
+Adams,Adams 1,Soil and Water Conservation District Commissioner,,,Robbie Tucker,219,68,151
+Adams,Adams 2,Soil and Water Conservation District Commissioner,,,Robbie Tucker,234,64,170
+Adams,Adams 3,Soil and Water Conservation District Commissioner,,,Robbie Tucker,255,79,176
+Adams,Adams 4,Soil and Water Conservation District Commissioner,,,Robbie Tucker,258,99,159
+Adams,Adams 5,Soil and Water Conservation District Commissioner,,,Robbie Tucker,258,72,186
+Adams,Adams 1,Soil and Water Conservation District Commissioner,,,Michael Olive,209,62,147
+Adams,Adams 2,Soil and Water Conservation District Commissioner,,,Michael Olive,244,66,178
+Adams,Adams 3,Soil and Water Conservation District Commissioner,,,Michael Olive,248,77,171
+Adams,Adams 4,Soil and Water Conservation District Commissioner,,,Michael Olive,255,104,151
+Adams,Adams 5,Soil and Water Conservation District Commissioner,,,Michael Olive,219,67,152
+Adams,Adams 1,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Adams,Adams 2,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Adams,Adams 3,Soil and Water Conservation District Commissioner,,,Write-in,3,2,1
+Adams,Adams 4,Soil and Water Conservation District Commissioner,,,Write-in,2,1,1
+Adams,Adams 5,Soil and Water Conservation District Commissioner,,,Write-in,1,1,0
+Adams,Adams 1,Soil and Water Conservation District Commissioner,,,David Lundquist,256,79,177
+Adams,Adams 2,Soil and Water Conservation District Commissioner,,,David Lundquist,288,75,213
+Adams,Adams 3,Soil and Water Conservation District Commissioner,,,David Lundquist,294,84,210
+Adams,Adams 4,Soil and Water Conservation District Commissioner,,,David Lundquist,305,118,187
+Adams,Adams 5,Soil and Water Conservation District Commissioner,,,David Lundquist,300,85,215
+Adams,Adams 1,County Agricultural Extension Council Member,,,Chris Gilbert,176,54,122
+Adams,Adams 2,County Agricultural Extension Council Member,,,Chris Gilbert,175,48,127
+Adams,Adams 3,County Agricultural Extension Council Member,,,Chris Gilbert,199,63,136
+Adams,Adams 4,County Agricultural Extension Council Member,,,Chris Gilbert,184,74,110
+Adams,Adams 5,County Agricultural Extension Council Member,,,Chris Gilbert,174,51,123
+Adams,Adams 1,County Agricultural Extension Council Member,,,Laura Bowman,199,60,139
+Adams,Adams 2,County Agricultural Extension Council Member,,,Laura Bowman,217,53,164
+Adams,Adams 3,County Agricultural Extension Council Member,,,Laura Bowman,218,65,153
+Adams,Adams 4,County Agricultural Extension Council Member,,,Laura Bowman,221,79,142
+Adams,Adams 5,County Agricultural Extension Council Member,,,Laura Bowman,207,53,154
+Adams,Adams 1,County Agricultural Extension Council Member,,,Sue Privett,141,44,97
+Adams,Adams 2,County Agricultural Extension Council Member,,,Sue Privett,145,36,109
+Adams,Adams 3,County Agricultural Extension Council Member,,,Sue Privett,148,46,102
+Adams,Adams 4,County Agricultural Extension Council Member,,,Sue Privett,140,51,89
+Adams,Adams 5,County Agricultural Extension Council Member,,,Sue Privett,145,40,105
+Adams,Adams 1,County Agricultural Extension Council Member,,,Rex Townsend,3,1,2
+Adams,Adams 2,County Agricultural Extension Council Member,,,Rex Townsend,2,0,2
+Adams,Adams 3,County Agricultural Extension Council Member,,,Rex Townsend,3,0,3
+Adams,Adams 4,County Agricultural Extension Council Member,,,Rex Townsend,1,0,1
+Adams,Adams 5,County Agricultural Extension Council Member,,,Rex Townsend,0,0,0
+Adams,Adams 1,County Agricultural Extension Council Member,,,Kyle Shipley,206,57,149
+Adams,Adams 2,County Agricultural Extension Council Member,,,Kyle Shipley,209,52,157
+Adams,Adams 3,County Agricultural Extension Council Member,,,Kyle Shipley,223,66,157
+Adams,Adams 4,County Agricultural Extension Council Member,,,Kyle Shipley,222,77,145
+Adams,Adams 5,County Agricultural Extension Council Member,,,Kyle Shipley,206,52,154
+Adams,Adams 1,County Agricultural Extension Council Member,,,Clifford Mann,181,55,126
+Adams,Adams 2,County Agricultural Extension Council Member,,,Clifford Mann,192,50,142
+Adams,Adams 3,County Agricultural Extension Council Member,,,Clifford Mann,217,59,158
+Adams,Adams 4,County Agricultural Extension Council Member,,,Clifford Mann,204,80,124
+Adams,Adams 5,County Agricultural Extension Council Member,,,Clifford Mann,173,49,124
+Adams,Adams 1,County Agricultural Extension Council Member,,,Write-in,15,7,8
+Adams,Adams 2,County Agricultural Extension Council Member,,,Write-in,10,2,8
+Adams,Adams 3,County Agricultural Extension Council Member,,,Write-in,10,4,6
+Adams,Adams 4,County Agricultural Extension Council Member,,,Write-in,13,2,11
+Adams,Adams 5,County Agricultural Extension Council Member,,,Write-in,21,2,19
+Adams,Adams 1,County Agricultural Extension Council Member,,,Jed Palmer,0,0,0
+Adams,Adams 2,County Agricultural Extension Council Member,,,Jed Palmer,0,0,0
+Adams,Adams 3,County Agricultural Extension Council Member,,,Jed Palmer,5,0,5
+Adams,Adams 4,County Agricultural Extension Council Member,,,Jed Palmer,1,0,1
+Adams,Adams 5,County Agricultural Extension Council Member,,,Jed Palmer,0,0,0
+Adams,Adams 1,Supreme Court Justice,,,Yes,170,43,127
+Adams,Adams 2,Supreme Court Justice,,,Yes,184,43,141
+Adams,Adams 3,Supreme Court Justice,,,Yes,175,50,125
+Adams,Adams 4,Supreme Court Justice,,,Yes,173,64,109
+Adams,Adams 5,Supreme Court Justice,,,Yes,213,58,155
+Adams,Adams 1,Supreme Court Justice,,,No,71,30,41
+Adams,Adams 2,Supreme Court Justice,,,No,81,23,58
+Adams,Adams 3,Supreme Court Justice,,,No,95,23,72
+Adams,Adams 4,Supreme Court Justice,,,No,98,32,66
+Adams,Adams 5,Supreme Court Justice,,,No,78,26,52
+Adams,Adams 1,Court of Appeals Judge,,,Yes,168,40,128
+Adams,Adams 2,Court of Appeals Judge,,,Yes,180,41,139
+Adams,Adams 3,Court of Appeals Judge,,,Yes,174,51,123
+Adams,Adams 4,Court of Appeals Judge,,,Yes,164,61,103
+Adams,Adams 5,Court of Appeals Judge,,,Yes,199,55,144
+Adams,Adams 1,Court of Appeals Judge,,,No,68,28,40
+Adams,Adams 2,Court of Appeals Judge,,,No,78,21,57
+Adams,Adams 3,Court of Appeals Judge,,,No,93,21,72
+Adams,Adams 4,Court of Appeals Judge,,,No,96,32,64
+Adams,Adams 5,Court of Appeals Judge,,,No,77,24,53
+Adams,Adams 1,District 5B Judge,,,Yes,169,43,126
+Adams,Adams 2,District 5B Judge,,,Yes,183,44,139
+Adams,Adams 3,District 5B Judge,,,Yes,187,53,134
+Adams,Adams 4,District 5B Judge,,,Yes,166,63,103
+Adams,Adams 5,District 5B Judge,,,Yes,200,59,141
+Adams,Adams 1,District 5B Judge,,,No,68,27,41
+Adams,Adams 2,District 5B Judge,,,No,82,21,61
+Adams,Adams 3,District 5B Judge,,,No,91,20,71
+Adams,Adams 4,District 5B Judge,,,No,97,30,67
+Adams,Adams 5,District 5B Judge,,,No,81,25,56
+Adams,Adams 1,Constitutional Amendment 1,,,Yes,212,53,159
+Adams,Adams 2,Constitutional Amendment 1,,,Yes,249,64,185
+Adams,Adams 3,Constitutional Amendment 1,,,Yes,255,64,191
+Adams,Adams 4,Constitutional Amendment 1,,,Yes,267,96,171
+Adams,Adams 5,Constitutional Amendment 1,,,Yes,298,82,216
+Adams,Adams 1,Constitutional Amendment 1,,,No,62,31,31
+Adams,Adams 2,Constitutional Amendment 1,,,No,62,20,42
+Adams,Adams 3,Constitutional Amendment 1,,,No,76,33,43
+Adams,Adams 4,Constitutional Amendment 1,,,No,57,35,22
+Adams,Adams 5,Constitutional Amendment 1,,,No,46,19,27

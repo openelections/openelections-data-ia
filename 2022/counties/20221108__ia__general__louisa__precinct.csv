@@ -1,0 +1,312 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Louisa,Columbus Junction,U.S. Senate,,REP,Chuck Grassley,211,41,170
+Louisa,Grandview Port Louisa,U.S. Senate,,REP,Chuck Grassley,489,110,379
+Louisa,Morning Sun Marshall,U.S. Senate,,REP,Chuck Grassley,360,37,323
+Louisa,Southeast Louisa,U.S. Senate,,REP,Chuck Grassley,776,175,601
+Louisa,West Louisa,U.S. Senate,,REP,Chuck Grassley,605,82,523
+Louisa,Columbus Junction,U.S. Senate,,DEM,Michael Franken,137,41,96
+Louisa,Grandview Port Louisa,U.S. Senate,,DEM,Michael Franken,218,104,114
+Louisa,Morning Sun Marshall,U.S. Senate,,DEM,Michael Franken,141,56,85
+Louisa,Southeast Louisa,U.S. Senate,,DEM,Michael Franken,337,134,203
+Louisa,West Louisa,U.S. Senate,,DEM,Michael Franken,205,70,135
+Louisa,Columbus Junction,U.S. Senate,,,Write-in,0,0,0
+Louisa,Grandview Port Louisa,U.S. Senate,,,Write-in,0,0,0
+Louisa,Morning Sun Marshall,U.S. Senate,,,Write-in,2,0,2
+Louisa,Southeast Louisa,U.S. Senate,,,Write-in,1,0,1
+Louisa,West Louisa,U.S. Senate,,,Write-in,0,0,0
+Louisa,Columbus Junction,U.S. House,1,REP,Mariannette Miller-Meeks,209,37,172
+Louisa,Grandview Port Louisa,U.S. House,1,REP,Mariannette Miller-Meeks,506,120,386
+Louisa,Morning Sun Marshall,U.S. House,1,REP,Mariannette Miller-Meeks,374,41,333
+Louisa,Southeast Louisa,U.S. House,1,REP,Mariannette Miller-Meeks,797,184,613
+Louisa,West Louisa,U.S. House,1,REP,Mariannette Miller-Meeks,594,82,512
+Louisa,Columbus Junction,U.S. House,1,DEM,Christina Bohannan,136,42,94
+Louisa,Grandview Port Louisa,U.S. House,1,DEM,Christina Bohannan,195,91,104
+Louisa,Morning Sun Marshall,U.S. House,1,DEM,Christina Bohannan,130,53,77
+Louisa,Southeast Louisa,U.S. House,1,DEM,Christina Bohannan,313,128,185
+Louisa,West Louisa,U.S. House,1,DEM,Christina Bohannan,213,71,142
+Louisa,Columbus Junction,U.S. House,1,,Write-in,0,0,0
+Louisa,Grandview Port Louisa,U.S. House,1,,Write-in,0,0,0
+Louisa,Morning Sun Marshall,U.S. House,1,,Write-in,0,0,0
+Louisa,Southeast Louisa,U.S. House,1,,Write-in,1,0,1
+Louisa,West Louisa,U.S. House,1,,Write-in,1,0,1
+Louisa,Columbus Junction,Governor,,REP,Kim Reynolds and Adam Gregg,220,40,180
+Louisa,Grandview Port Louisa,Governor,,REP,Kim Reynolds and Adam Gregg,526,125,401
+Louisa,Morning Sun Marshall,Governor,,REP,Kim Reynolds and Adam Gregg,381,43,338
+Louisa,Southeast Louisa,Governor,,REP,Kim Reynolds and Adam Gregg,831,194,637
+Louisa,West Louisa,Governor,,REP,Kim Reynolds and Adam Gregg,620,85,535
+Louisa,Columbus Junction,Governor,,DEM,Deidre DeJear and Eric Van Lancker,125,41,84
+Louisa,Grandview Port Louisa,Governor,,DEM,Deidre DeJear and Eric Van Lancker,174,88,86
+Louisa,Morning Sun Marshall,Governor,,DEM,Deidre DeJear and Eric Van Lancker,113,51,62
+Louisa,Southeast Louisa,Governor,,DEM,Deidre DeJear and Eric Van Lancker,275,124,151
+Louisa,West Louisa,Governor,,DEM,Deidre DeJear and Eric Van Lancker,177,68,109
+Louisa,Columbus Junction,Governor,,LIB,Rick Stewart and Marco Battaglia,8,3,5
+Louisa,Grandview Port Louisa,Governor,,LIB,Rick Stewart and Marco Battaglia,10,3,7
+Louisa,Morning Sun Marshall,Governor,,LIB,Rick Stewart and Marco Battaglia,17,1,16
+Louisa,Southeast Louisa,Governor,,LIB,Rick Stewart and Marco Battaglia,26,3,23
+Louisa,West Louisa,Governor,,LIB,Rick Stewart and Marco Battaglia,20,2,18
+Louisa,Columbus Junction,Governor,,,Write-in,0,0,0
+Louisa,Grandview Port Louisa,Governor,,,Write-in,0,0,0
+Louisa,Morning Sun Marshall,Governor,,,Write-in,0,0,0
+Louisa,Southeast Louisa,Governor,,,Write-in,0,0,0
+Louisa,West Louisa,Governor,,,Write-in,0,0,0
+Louisa,Columbus Junction,Secretary of State,,REP,Paul D. Pate,221,39,182
+Louisa,Grandview Port Louisa,Secretary of State,,REP,Paul D. Pate,521,125,396
+Louisa,Morning Sun Marshall,Secretary of State,,REP,Paul D. Pate,386,48,338
+Louisa,Southeast Louisa,Secretary of State,,REP,Paul D. Pate,825,188,637
+Louisa,West Louisa,Secretary of State,,REP,Paul D. Pate,624,90,534
+Louisa,Columbus Junction,Secretary of State,,DEM,Joel Miller,132,45,87
+Louisa,Grandview Port Louisa,Secretary of State,,DEM,Joel Miller,185,92,93
+Louisa,Morning Sun Marshall,Secretary of State,,DEM,Joel Miller,118,47,71
+Louisa,Southeast Louisa,Secretary of State,,DEM,Joel Miller,290,131,159
+Louisa,West Louisa,Secretary of State,,DEM,Joel Miller,185,64,121
+Louisa,Columbus Junction,Secretary of State,,,Write-in,0,0,0
+Louisa,Grandview Port Louisa,Secretary of State,,,Write-in,0,0,0
+Louisa,Morning Sun Marshall,Secretary of State,,,Write-in,0,0,0
+Louisa,Southeast Louisa,Secretary of State,,,Write-in,0,0,0
+Louisa,West Louisa,Secretary of State,,,Write-in,0,0,0
+Louisa,Columbus Junction,Auditor of State,,REP,Todd Halbur,178,28,150
+Louisa,Grandview Port Louisa,Auditor of State,,REP,Todd Halbur,471,105,366
+Louisa,Morning Sun Marshall,Auditor of State,,REP,Todd Halbur,327,36,291
+Louisa,Southeast Louisa,Auditor of State,,REP,Todd Halbur,696,160,536
+Louisa,West Louisa,Auditor of State,,REP,Todd Halbur,538,69,469
+Louisa,Columbus Junction,Auditor of State,,DEM,Rob Sand,173,56,117
+Louisa,Grandview Port Louisa,Auditor of State,,DEM,Rob Sand,236,112,124
+Louisa,Morning Sun Marshall,Auditor of State,,DEM,Rob Sand,177,59,118
+Louisa,Southeast Louisa,Auditor of State,,DEM,Rob Sand,417,158,259
+Louisa,West Louisa,Auditor of State,,DEM,Rob Sand,271,85,186
+Louisa,Columbus Junction,Auditor of State,,,Write-in,0,0,0
+Louisa,Grandview Port Louisa,Auditor of State,,,Write-in,0,0,0
+Louisa,Morning Sun Marshall,Auditor of State,,,Write-in,0,0,0
+Louisa,Southeast Louisa,Auditor of State,,,Write-in,0,0,0
+Louisa,West Louisa,Auditor of State,,,Write-in,1,0,1
+Louisa,Columbus Junction,Treasurer of State,,REP,Roby Smith,179,28,151
+Louisa,Grandview Port Louisa,Treasurer of State,,REP,Roby Smith,475,105,370
+Louisa,Morning Sun Marshall,Treasurer of State,,REP,Roby Smith,346,38,308
+Louisa,Southeast Louisa,Treasurer of State,,REP,Roby Smith,732,165,567
+Louisa,West Louisa,Treasurer of State,,REP,Roby Smith,548,72,476
+Louisa,Columbus Junction,Treasurer of State,,DEM,Michael L. Fitzgerald,169,56,113
+Louisa,Grandview Port Louisa,Treasurer of State,,DEM,Michael L. Fitzgerald,227,111,116
+Louisa,Morning Sun Marshall,Treasurer of State,,DEM,Michael L. Fitzgerald,153,54,99
+Louisa,Southeast Louisa,Treasurer of State,,DEM,Michael L. Fitzgerald,372,147,225
+Louisa,West Louisa,Treasurer of State,,DEM,Michael L. Fitzgerald,260,82,178
+Louisa,Columbus Junction,Treasurer of State,,,Write-in,0,0,0
+Louisa,Grandview Port Louisa,Treasurer of State,,,Write-in,0,0,0
+Louisa,Morning Sun Marshall,Treasurer of State,,,Write-in,0,0,0
+Louisa,Southeast Louisa,Treasurer of State,,,Write-in,0,0,0
+Louisa,West Louisa,Treasurer of State,,,Write-in,2,0,2
+Louisa,Columbus Junction,Secretary of Agriculture,,REP,Mike Naig,209,35,174
+Louisa,Grandview Port Louisa,Secretary of Agriculture,,REP,Mike Naig,521,120,401
+Louisa,Morning Sun Marshall,Secretary of Agriculture,,REP,Mike Naig,384,45,339
+Louisa,Southeast Louisa,Secretary of Agriculture,,REP,Mike Naig,825,192,633
+Louisa,West Louisa,Secretary of Agriculture,,REP,Mike Naig,644,90,554
+Louisa,Columbus Junction,Secretary of Agriculture,,DEM,John Norwood,134,46,88
+Louisa,Grandview Port Louisa,Secretary of Agriculture,,DEM,John Norwood,180,95,85
+Louisa,Morning Sun Marshall,Secretary of Agriculture,,DEM,John Norwood,115,48,67
+Louisa,Southeast Louisa,Secretary of Agriculture,,DEM,John Norwood,280,123,157
+Louisa,West Louisa,Secretary of Agriculture,,DEM,John Norwood,167,63,104
+Louisa,Columbus Junction,Secretary of Agriculture,,,Write-in,0,0,0
+Louisa,Grandview Port Louisa,Secretary of Agriculture,,,Write-in,0,0,0
+Louisa,Morning Sun Marshall,Secretary of Agriculture,,,Write-in,0,0,0
+Louisa,Southeast Louisa,Secretary of Agriculture,,,Write-in,1,0,1
+Louisa,West Louisa,Secretary of Agriculture,,,Write-in,0,0,0
+Louisa,Columbus Junction,Attorney General,,REP,Brenna Bird,189,30,159
+Louisa,Grandview Port Louisa,Attorney General,,REP,Brenna Bird,467,104,363
+Louisa,Morning Sun Marshall,Attorney General,,REP,Brenna Bird,335,34,301
+Louisa,Southeast Louisa,Attorney General,,REP,Brenna Bird,717,160,557
+Louisa,West Louisa,Attorney General,,REP,Brenna Bird,553,68,485
+Louisa,Columbus Junction,Attorney General,,DEM,Tom Miller,158,51,107
+Louisa,Grandview Port Louisa,Attorney General,,DEM,Tom Miller,229,109,120
+Louisa,Morning Sun Marshall,Attorney General,,DEM,Tom Miller,162,59,103
+Louisa,Southeast Louisa,Attorney General,,DEM,Tom Miller,379,153,226
+Louisa,West Louisa,Attorney General,,DEM,Tom Miller,246,83,163
+Louisa,Columbus Junction,Attorney General,,,Write-in,0,0,0
+Louisa,Grandview Port Louisa,Attorney General,,,Write-in,0,0,0
+Louisa,Morning Sun Marshall,Attorney General,,,Write-in,0,0,0
+Louisa,Southeast Louisa,Attorney General,,,Write-in,1,0,1
+Louisa,West Louisa,Attorney General,,,Write-in,3,1,2
+Louisa,Columbus Junction,State House,95,REP,Taylor Collins,260,48,212
+Louisa,Grandview Port Louisa,State House,95,REP,Taylor Collins,587,159,428
+Louisa,Morning Sun Marshall,State House,95,REP,Taylor Collins,421,48,373
+Louisa,Southeast Louisa,State House,95,REP,Taylor Collins,955,243,712
+Louisa,West Louisa,State House,95,REP,Taylor Collins,697,117,580
+Louisa,Columbus Junction,State House,95,,Write-in,6,0,6
+Louisa,Grandview Port Louisa,State House,95,,Write-in,7,1,6
+Louisa,Morning Sun Marshall,State House,95,,Write-in,4,1,3
+Louisa,Southeast Louisa,State House,95,,Write-in,11,3,8
+Louisa,West Louisa,State House,95,,Write-in,14,4,10
+Louisa,Columbus Junction,County Board of Supervisors At Large,,REP,Shawn Maine,202,32,170
+Louisa,Grandview Port Louisa,County Board of Supervisors At Large,,REP,Shawn Maine,447,114,333
+Louisa,Morning Sun Marshall,County Board of Supervisors At Large,,REP,Shawn Maine,358,45,313
+Louisa,Southeast Louisa,County Board of Supervisors At Large,,REP,Shawn Maine,784,201,583
+Louisa,West Louisa,County Board of Supervisors At Large,,REP,Shawn Maine,573,81,492
+Louisa,Columbus Junction,County Board of Supervisors At Large,,DEM,Randy Schlutz,147,49,98
+Louisa,Grandview Port Louisa,County Board of Supervisors At Large,,DEM,Randy Schlutz,265,105,160
+Louisa,Morning Sun Marshall,County Board of Supervisors At Large,,DEM,Randy Schlutz,132,46,86
+Louisa,Southeast Louisa,County Board of Supervisors At Large,,DEM,Randy Schlutz,324,113,211
+Louisa,West Louisa,County Board of Supervisors At Large,,DEM,Randy Schlutz,229,71,158
+Louisa,Columbus Junction,County Board of Supervisors At Large,,,Write-in,0,0,0
+Louisa,Grandview Port Louisa,County Board of Supervisors At Large,,,Write-in,2,1,1
+Louisa,Morning Sun Marshall,County Board of Supervisors At Large,,,Write-in,2,0,2
+Louisa,Southeast Louisa,County Board of Supervisors At Large,,,Write-in,10,2,8
+Louisa,West Louisa,County Board of Supervisors At Large,,,Write-in,2,0,2
+Louisa,Columbus Junction,County Treasurer,,REP,Vicki L Frank,285,58,227
+Louisa,Grandview Port Louisa,County Treasurer,,REP,Vicki L Frank,619,183,436
+Louisa,Morning Sun Marshall,County Treasurer,,REP,Vicki L Frank,439,64,375
+Louisa,Southeast Louisa,County Treasurer,,REP,Vicki L Frank,981,263,718
+Louisa,West Louisa,County Treasurer,,REP,Vicki L Frank,737,130,607
+Louisa,Columbus Junction,County Treasurer,,,Write-in,6,1,5
+Louisa,Grandview Port Louisa,County Treasurer,,,Write-in,5,0,5
+Louisa,Morning Sun Marshall,County Treasurer,,,Write-in,3,1,2
+Louisa,Southeast Louisa,County Treasurer,,,Write-in,13,1,12
+Louisa,West Louisa,County Treasurer,,,Write-in,2,1,1
+Louisa,Columbus Junction,County Recorder,,REP,Tammy Hayes,281,55,226
+Louisa,Grandview Port Louisa,County Recorder,,REP,Tammy Hayes,617,178,439
+Louisa,Morning Sun Marshall,County Recorder,,REP,Tammy Hayes,441,61,380
+Louisa,Southeast Louisa,County Recorder,,REP,Tammy Hayes,1019,274,745
+Louisa,West Louisa,County Recorder,,REP,Tammy Hayes,736,125,611
+Louisa,Columbus Junction,County Recorder,,,Write-in,6,1,5
+Louisa,Grandview Port Louisa,County Recorder,,,Write-in,3,0,3
+Louisa,Morning Sun Marshall,County Recorder,,,Write-in,1,0,1
+Louisa,Southeast Louisa,County Recorder,,,Write-in,7,2,5
+Louisa,West Louisa,County Recorder,,,Write-in,4,1,3
+Louisa,Columbus Junction,County Attorney,,REP,Adam Parsons,285,56,229
+Louisa,Grandview Port Louisa,County Attorney,,REP,Adam Parsons,614,175,439
+Louisa,Morning Sun Marshall,County Attorney,,REP,Adam Parsons,441,60,381
+Louisa,Southeast Louisa,County Attorney,,REP,Adam Parsons,1014,273,741
+Louisa,West Louisa,County Attorney,,REP,Adam Parsons,723,120,603
+Louisa,Columbus Junction,County Attorney,,,Write-in,6,1,5
+Louisa,Grandview Port Louisa,County Attorney,,,Write-in,3,0,3
+Louisa,Morning Sun Marshall,County Attorney,,,Write-in,2,1,1
+Louisa,Southeast Louisa,County Attorney,,,Write-in,6,0,6
+Louisa,West Louisa,County Attorney,,,Write-in,5,2,3
+Louisa,West Louisa,Columbus City Township Trustee,,,Write-in,31,4,27
+Louisa,West Louisa,Columbus City Township Trustee To Fill a Vacancy,,,Write-in,28,3,25
+Louisa,West Louisa,Columbus City Township Clerk,,,Write-in,13,2,11
+Louisa,West Louisa,Columbus City Township Clerk,,,Tom Howell,5,0,5
+Louisa,West Louisa,Concord Township Trustee,,,Lee A Foster,97,21,76
+Louisa,West Louisa,Concord Township Trustee,,,Write-in,2,0,2
+Louisa,West Louisa,Concord Township Clerk,,,Jennifer Scorpil,88,19,69
+Louisa,West Louisa,Concord Township Clerk,,,Write-in,2,0,2
+Louisa,Southeast Louisa,Eliot Township Trustee,,,Trent Kuntz,54,13,41
+Louisa,Southeast Louisa,Eliot Township Trustee,,,Write-in,0,0,0
+Louisa,Southeast Louisa,Eliot Township Clerk,,,Linda Avery,53,12,41
+Louisa,Southeast Louisa,Eliot Township Clerk,,,Write-in,0,0,0
+Louisa,West Louisa,Elm Grove Township Trustee,,,Gerald Chris Buffington,83,17,66
+Louisa,West Louisa,Elm Grove Township Trustee,,,Write-in,0,0,0
+Louisa,West Louisa,Elm Grove Township Trustee To Fill a Vacancy,,,Write-in,6,1,5
+Louisa,West Louisa,Elm Grove Township Clerk,,,Write-in,4,1,3
+Louisa,Grandview Port Louisa,Grandview Township Trustee,,,Kevin Schaper,195,45,150
+Louisa,Grandview Port Louisa,Grandview Township Trustee,,,Write-in,0,0,0
+Louisa,Grandview Port Louisa,Grandview Township Clerk,,,Earl McGill,198,49,149
+Louisa,Grandview Port Louisa,Grandview Township Clerk,,,Write-in,1,0,1
+Louisa,Southeast Louisa,Jefferson Township Trustee,,,Marlin Spitznogle,95,38,57
+Louisa,Southeast Louisa,Jefferson Township Trustee,,,Write-in,4,1,3
+Louisa,Southeast Louisa,Jefferson Township Clerk,,,Selena Gerst,101,36,65
+Louisa,Southeast Louisa,Jefferson Township Clerk,,,Write-in,0,0,0
+Louisa,Morning Sun Marshall,Marshall Township Trustee,,,Kim Rossiter,63,9,54
+Louisa,Morning Sun Marshall,Marshall Township Trustee,,,Write-in,0,0,0
+Louisa,Morning Sun Marshall,Marshall Township Clerk,,,Rhonda Pritchard,67,13,54
+Louisa,Morning Sun Marshall,Marshall Township Clerk,,,Write-in,0,0,0
+Louisa,Morning Sun Marshall,Morning Sun Township Trustee,,,Trent Samuels,165,27,138
+Louisa,Morning Sun Marshall,Morning Sun Township Trustee,,,Write-in,0,0,0
+Louisa,Morning Sun Marshall,Morning Sun Township Clerk,,,Roger J Wyss,164,27,137
+Louisa,Morning Sun Marshall,Morning Sun Township Clerk,,,Write-in,0,0,0
+Louisa,West Louisa,Oakland Township Trustee,,,Write-in,8,1,7
+Louisa,West Louisa,Oakland Township Clerk,,,Write-in,5,1,4
+Louisa,Grandview Port Louisa,Port Louisa Township Trustee,,,Edward Yotter,181,66,115
+Louisa,Grandview Port Louisa,Port Louisa Township Trustee,,,Write-in,1,1,0
+Louisa,Grandview Port Louisa,Port Louisa Township Clerk,,,Jasey Moore,171,64,107
+Louisa,Grandview Port Louisa,Port Louisa Township Clerk,,,Write-in,0,0,0
+Louisa,West Louisa,Union Township Trustee,,,Ardell Dave Gerot,98,13,85
+Louisa,West Louisa,Union Township Trustee,,,Write-in,0,0,0
+Louisa,West Louisa,Union Township Clerk,,,Burdette E Baker,101,14,87
+Louisa,West Louisa,Union Township Clerk,,,Write-in,1,0,1
+Louisa,Southeast Louisa,Wapello Township Trustee,,,Fred Weyrick Jr,211,58,153
+Louisa,Southeast Louisa,Wapello Township Trustee,,,Write-in,3,2,1
+Louisa,Southeast Louisa,Wapello Township Clerk,,,Anne Ball,212,59,153
+Louisa,Southeast Louisa,Wapello Township Clerk,,,Write-in,0,0,0
+Louisa,Columbus Junction,Soil and Water Conservation District Commissioner,,,Tim Knutson,215,44,171
+Louisa,Grandview Port Louisa,Soil and Water Conservation District Commissioner,,,Tim Knutson,427,119,308
+Louisa,Morning Sun Marshall,Soil and Water Conservation District Commissioner,,,Tim Knutson,343,44,299
+Louisa,Southeast Louisa,Soil and Water Conservation District Commissioner,,,Tim Knutson,784,204,580
+Louisa,West Louisa,Soil and Water Conservation District Commissioner,,,Tim Knutson,539,85,454
+Louisa,Columbus Junction,Soil and Water Conservation District Commissioner,,,Kathy Dice,209,49,160
+Louisa,Grandview Port Louisa,Soil and Water Conservation District Commissioner,,,Kathy Dice,410,115,295
+Louisa,Morning Sun Marshall,Soil and Water Conservation District Commissioner,,,Kathy Dice,307,58,249
+Louisa,Southeast Louisa,Soil and Water Conservation District Commissioner,,,Kathy Dice,696,178,518
+Louisa,West Louisa,Soil and Water Conservation District Commissioner,,,Kathy Dice,455,80,375
+Louisa,Columbus Junction,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Louisa,Grandview Port Louisa,Soil and Water Conservation District Commissioner,,,Write-in,6,1,5
+Louisa,Morning Sun Marshall,Soil and Water Conservation District Commissioner,,,Write-in,2,1,1
+Louisa,Southeast Louisa,Soil and Water Conservation District Commissioner,,,Write-in,4,0,4
+Louisa,West Louisa,Soil and Water Conservation District Commissioner,,,Write-in,7,1,6
+Louisa,Columbus Junction,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Drew Yotter,244,39,205
+Louisa,Grandview Port Louisa,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Drew Yotter,554,151,403
+Louisa,Morning Sun Marshall,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Drew Yotter,397,47,350
+Louisa,Southeast Louisa,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Drew Yotter,939,233,706
+Louisa,West Louisa,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Drew Yotter,605,88,517
+Louisa,Columbus Junction,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,1,0,1
+Louisa,Grandview Port Louisa,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,3,1,2
+Louisa,Morning Sun Marshall,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,0,0,0
+Louisa,Southeast Louisa,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,3,1,2
+Louisa,West Louisa,Soil and Water Conservation District Commissioner To Fill Vacancy,,,Write-in,3,2,1
+Louisa,Columbus Junction,County Agricultural Extension Council Member,,,Samuel Willson,197,54,143
+Louisa,Grandview Port Louisa,County Agricultural Extension Council Member,,,Samuel Willson,402,128,274
+Louisa,Morning Sun Marshall,County Agricultural Extension Council Member,,,Samuel Willson,336,51,285
+Louisa,Southeast Louisa,County Agricultural Extension Council Member,,,Samuel Willson,759,217,542
+Louisa,West Louisa,County Agricultural Extension Council Member,,,Samuel Willson,481,92,389
+Louisa,Columbus Junction,County Agricultural Extension Council Member,,,Mark Carroll,207,51,156
+Louisa,Grandview Port Louisa,County Agricultural Extension Council Member,,,Mark Carroll,441,133,308
+Louisa,Morning Sun Marshall,County Agricultural Extension Council Member,,,Mark Carroll,302,44,258
+Louisa,Southeast Louisa,County Agricultural Extension Council Member,,,Mark Carroll,656,179,477
+Louisa,West Louisa,County Agricultural Extension Council Member,,,Mark Carroll,502,104,398
+Louisa,Columbus Junction,County Agricultural Extension Council Member,,,Marsha Gerot,224,55,169
+Louisa,Grandview Port Louisa,County Agricultural Extension Council Member,,,Marsha Gerot,392,122,270
+Louisa,Morning Sun Marshall,County Agricultural Extension Council Member,,,Marsha Gerot,299,48,251
+Louisa,Southeast Louisa,County Agricultural Extension Council Member,,,Marsha Gerot,686,186,500
+Louisa,West Louisa,County Agricultural Extension Council Member,,,Marsha Gerot,532,101,431
+Louisa,Columbus Junction,County Agricultural Extension Council Member,,,Kasey Heindel,223,54,169
+Louisa,Grandview Port Louisa,County Agricultural Extension Council Member,,,Kasey Heindel,372,110,262
+Louisa,Morning Sun Marshall,County Agricultural Extension Council Member,,,Kasey Heindel,308,49,259
+Louisa,Southeast Louisa,County Agricultural Extension Council Member,,,Kasey Heindel,701,195,506
+Louisa,West Louisa,County Agricultural Extension Council Member,,,Kasey Heindel,543,102,441
+Louisa,Columbus Junction,County Agricultural Extension Council Member,,,Henry Hoopes,204,48,156
+Louisa,Grandview Port Louisa,County Agricultural Extension Council Member,,,Henry Hoopes,465,135,330
+Louisa,Morning Sun Marshall,County Agricultural Extension Council Member,,,Henry Hoopes,301,46,255
+Louisa,Southeast Louisa,County Agricultural Extension Council Member,,,Henry Hoopes,646,173,473
+Louisa,West Louisa,County Agricultural Extension Council Member,,,Henry Hoopes,505,100,405
+Louisa,Columbus Junction,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Louisa,Grandview Port Louisa,County Agricultural Extension Council Member,,,Write-in,8,2,6
+Louisa,Morning Sun Marshall,County Agricultural Extension Council Member,,,Write-in,9,1,8
+Louisa,Southeast Louisa,County Agricultural Extension Council Member,,,Write-in,10,3,7
+Louisa,West Louisa,County Agricultural Extension Council Member,,,Write-in,10,3,7
+Louisa,Columbus Junction,Supreme Court Justice,,,Yes,198,48,150
+Louisa,Grandview Port Louisa,Supreme Court Justice,,,Yes,372,105,267
+Louisa,Morning Sun Marshall,Supreme Court Justice,,,Yes,280,41,239
+Louisa,Southeast Louisa,Supreme Court Justice,,,Yes,579,146,433
+Louisa,West Louisa,Supreme Court Justice,,,Yes,428,83,345
+Louisa,Columbus Junction,Supreme Court Justice,,,No,75,19,56
+Louisa,Grandview Port Louisa,Supreme Court Justice,,,No,165,62,103
+Louisa,Morning Sun Marshall,Supreme Court Justice,,,No,131,38,93
+Louisa,Southeast Louisa,Supreme Court Justice,,,No,304,91,213
+Louisa,West Louisa,Supreme Court Justice,,,No,200,41,159
+Louisa,Columbus Junction,Court of Appeals Judge,,,Yes,203,47,156
+Louisa,Grandview Port Louisa,Court of Appeals Judge,,,Yes,364,104,260
+Louisa,Morning Sun Marshall,Court of Appeals Judge,,,Yes,279,40,239
+Louisa,Southeast Louisa,Court of Appeals Judge,,,Yes,575,149,426
+Louisa,West Louisa,Court of Appeals Judge,,,Yes,441,87,354
+Louisa,Columbus Junction,Court of Appeals Judge,,,No,69,16,53
+Louisa,Grandview Port Louisa,Court of Appeals Judge,,,No,171,60,111
+Louisa,Morning Sun Marshall,Court of Appeals Judge,,,No,125,34,91
+Louisa,Southeast Louisa,Court of Appeals Judge,,,No,302,87,215
+Louisa,West Louisa,Court of Appeals Judge,,,No,183,34,149
+Louisa,Columbus Junction,Constitutional Amendment 1,,,Yes,229,44,185
+Louisa,Grandview Port Louisa,Constitutional Amendment 1,,,Yes,584,154,430
+Louisa,Morning Sun Marshall,Constitutional Amendment 1,,,Yes,409,58,351
+Louisa,Southeast Louisa,Constitutional Amendment 1,,,Yes,864,213,651
+Louisa,West Louisa,Constitutional Amendment 1,,,Yes,639,94,545
+Louisa,Columbus Junction,Constitutional Amendment 1,,,No,97,33,64
+Louisa,Grandview Port Louisa,Constitutional Amendment 1,,,No,93,48,45
+Louisa,Morning Sun Marshall,Constitutional Amendment 1,,,No,69,30,39
+Louisa,Southeast Louisa,Constitutional Amendment 1,,,No,182,87,95
+Louisa,West Louisa,Constitutional Amendment 1,,,No,138,55,83

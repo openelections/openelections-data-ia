@@ -1,0 +1,490 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Hardin,Alden-Buckeye,U.S. Senate,,REP,Chuck Grassley,357,35,322
+Hardin,Eldora-Pleasant-Providence-Union,U.S. Senate,,REP,Chuck Grassley,562,227,335
+Hardin,Concord-Sherman-Grant-Tipton,U.S. Senate,,REP,Chuck Grassley,790,137,653
+Hardin,Eldora City,U.S. Senate,,REP,Chuck Grassley,617,243,374
+Hardin,Etna-Clay,U.S. Senate,,REP,Chuck Grassley,657,161,496
+Hardin,Hardin-Ellis-Jackson,U.S. Senate,,REP,Chuck Grassley,504,84,420
+Hardin,Iowa Falls #1,U.S. Senate,,REP,Chuck Grassley,389,86,303
+Hardin,Iowa Falls #2,U.S. Senate,,REP,Chuck Grassley,663,107,556
+Hardin,Alden-Buckeye,U.S. Senate,,DEM,Michael Franken,165,46,119
+Hardin,Eldora-Pleasant-Providence-Union,U.S. Senate,,DEM,Michael Franken,182,104,78
+Hardin,Concord-Sherman-Grant-Tipton,U.S. Senate,,DEM,Michael Franken,260,117,143
+Hardin,Eldora City,U.S. Senate,,DEM,Michael Franken,281,138,143
+Hardin,Etna-Clay,U.S. Senate,,DEM,Michael Franken,271,107,164
+Hardin,Hardin-Ellis-Jackson,U.S. Senate,,DEM,Michael Franken,180,71,109
+Hardin,Iowa Falls #1,U.S. Senate,,DEM,Michael Franken,305,104,201
+Hardin,Iowa Falls #2,U.S. Senate,,DEM,Michael Franken,400,128,272
+Hardin,Alden-Buckeye,U.S. Senate,,,Write-in,1,0,1
+Hardin,Eldora-Pleasant-Providence-Union,U.S. Senate,,,Write-in,0,0,0
+Hardin,Concord-Sherman-Grant-Tipton,U.S. Senate,,,Write-in,3,2,1
+Hardin,Eldora City,U.S. Senate,,,Write-in,1,0,1
+Hardin,Etna-Clay,U.S. Senate,,,Write-in,0,0,0
+Hardin,Hardin-Ellis-Jackson,U.S. Senate,,,Write-in,1,0,1
+Hardin,Iowa Falls #1,U.S. Senate,,,Write-in,2,0,2
+Hardin,Iowa Falls #2,U.S. Senate,,,Write-in,0,0,0
+Hardin,Alden-Buckeye,U.S. House,2,REP,Ashley Hinson,349,32,317
+Hardin,Eldora-Pleasant-Providence-Union,U.S. House,2,REP,Ashley Hinson,562,222,340
+Hardin,Concord-Sherman-Grant-Tipton,U.S. House,2,REP,Ashley Hinson,788,138,650
+Hardin,Eldora City,U.S. House,2,REP,Ashley Hinson,607,242,365
+Hardin,Etna-Clay,U.S. House,2,REP,Ashley Hinson,621,148,473
+Hardin,Hardin-Ellis-Jackson,U.S. House,2,REP,Ashley Hinson,504,84,420
+Hardin,Iowa Falls #1,U.S. House,2,REP,Ashley Hinson,386,80,306
+Hardin,Iowa Falls #2,U.S. House,2,REP,Ashley Hinson,669,103,566
+Hardin,Alden-Buckeye,U.S. House,2,DEM,Liz Mathis,159,45,114
+Hardin,Eldora-Pleasant-Providence-Union,U.S. House,2,DEM,Liz Mathis,178,102,76
+Hardin,Concord-Sherman-Grant-Tipton,U.S. House,2,DEM,Liz Mathis,257,116,141
+Hardin,Eldora City,U.S. House,2,DEM,Liz Mathis,286,136,150
+Hardin,Etna-Clay,U.S. House,2,DEM,Liz Mathis,293,116,177
+Hardin,Hardin-Ellis-Jackson,U.S. House,2,DEM,Liz Mathis,177,71,106
+Hardin,Iowa Falls #1,U.S. House,2,DEM,Liz Mathis,300,106,194
+Hardin,Iowa Falls #2,U.S. House,2,DEM,Liz Mathis,387,130,257
+Hardin,Alden-Buckeye,U.S. House,2,,Write-in,0,0,0
+Hardin,Eldora-Pleasant-Providence-Union,U.S. House,2,,Write-in,0,0,0
+Hardin,Concord-Sherman-Grant-Tipton,U.S. House,2,,Write-in,0,0,0
+Hardin,Eldora City,U.S. House,2,,Write-in,0,0,0
+Hardin,Etna-Clay,U.S. House,2,,Write-in,1,0,1
+Hardin,Hardin-Ellis-Jackson,U.S. House,2,,Write-in,0,0,0
+Hardin,Iowa Falls #1,U.S. House,2,,Write-in,0,0,0
+Hardin,Iowa Falls #2,U.S. House,2,,Write-in,1,0,1
+Hardin,Alden-Buckeye,Governor,,REP,Kim Reynolds and Adam Gregg,372,42,330
+Hardin,Eldora-Pleasant-Providence-Union,Governor,,REP,Kim Reynolds and Adam Gregg,562,226,336
+Hardin,Concord-Sherman-Grant-Tipton,Governor,,REP,Kim Reynolds and Adam Gregg,813,146,667
+Hardin,Eldora City,Governor,,REP,Kim Reynolds and Adam Gregg,643,257,386
+Hardin,Etna-Clay,Governor,,REP,Kim Reynolds and Adam Gregg,670,158,512
+Hardin,Hardin-Ellis-Jackson,Governor,,REP,Kim Reynolds and Adam Gregg,516,89,427
+Hardin,Iowa Falls #1,Governor,,REP,Kim Reynolds and Adam Gregg,403,89,314
+Hardin,Iowa Falls #2,Governor,,REP,Kim Reynolds and Adam Gregg,666,112,554
+Hardin,Alden-Buckeye,Governor,,DEM,Deidre DeJear and Eric Van Lancker,142,39,103
+Hardin,Eldora-Pleasant-Providence-Union,Governor,,DEM,Deidre DeJear and Eric Van Lancker,164,97,67
+Hardin,Concord-Sherman-Grant-Tipton,Governor,,DEM,Deidre DeJear and Eric Van Lancker,209,96,113
+Hardin,Eldora City,Governor,,DEM,Deidre DeJear and Eric Van Lancker,240,119,121
+Hardin,Etna-Clay,Governor,,DEM,Deidre DeJear and Eric Van Lancker,238,105,133
+Hardin,Hardin-Ellis-Jackson,Governor,,DEM,Deidre DeJear and Eric Van Lancker,161,63,98
+Hardin,Iowa Falls #1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,274,96,178
+Hardin,Iowa Falls #2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,365,118,247
+Hardin,Alden-Buckeye,Governor,,LIB,Rick Stewart and Marco Battaglia,7,1,6
+Hardin,Eldora-Pleasant-Providence-Union,Governor,,LIB,Rick Stewart and Marco Battaglia,23,7,16
+Hardin,Concord-Sherman-Grant-Tipton,Governor,,LIB,Rick Stewart and Marco Battaglia,29,11,18
+Hardin,Eldora City,Governor,,LIB,Rick Stewart and Marco Battaglia,19,5,14
+Hardin,Etna-Clay,Governor,,LIB,Rick Stewart and Marco Battaglia,20,5,15
+Hardin,Hardin-Ellis-Jackson,Governor,,LIB,Rick Stewart and Marco Battaglia,10,6,4
+Hardin,Iowa Falls #1,Governor,,LIB,Rick Stewart and Marco Battaglia,20,4,16
+Hardin,Iowa Falls #2,Governor,,LIB,Rick Stewart and Marco Battaglia,30,2,28
+Hardin,Alden-Buckeye,Governor,,,Write-in,0,0,0
+Hardin,Eldora-Pleasant-Providence-Union,Governor,,,Write-in,0,0,0
+Hardin,Concord-Sherman-Grant-Tipton,Governor,,,Write-in,1,0,1
+Hardin,Eldora City,Governor,,,Write-in,0,0,0
+Hardin,Etna-Clay,Governor,,,Write-in,1,0,1
+Hardin,Hardin-Ellis-Jackson,Governor,,,Write-in,0,0,0
+Hardin,Iowa Falls #1,Governor,,,Write-in,0,0,0
+Hardin,Iowa Falls #2,Governor,,,Write-in,0,0,0
+Hardin,Alden-Buckeye,Secretary of State,,REP,Paul D. Pate,373,37,336
+Hardin,Eldora-Pleasant-Providence-Union,Secretary of State,,REP,Paul D. Pate,587,242,345
+Hardin,Concord-Sherman-Grant-Tipton,Secretary of State,,REP,Paul D. Pate,829,151,678
+Hardin,Eldora City,Secretary of State,,REP,Paul D. Pate,650,263,387
+Hardin,Etna-Clay,Secretary of State,,REP,Paul D. Pate,690,167,523
+Hardin,Hardin-Ellis-Jackson,Secretary of State,,REP,Paul D. Pate,527,95,432
+Hardin,Iowa Falls #1,Secretary of State,,REP,Paul D. Pate,424,93,331
+Hardin,Iowa Falls #2,Secretary of State,,REP,Paul D. Pate,714,125,589
+Hardin,Alden-Buckeye,Secretary of State,,DEM,Joel Miller,139,43,96
+Hardin,Eldora-Pleasant-Providence-Union,Secretary of State,,DEM,Joel Miller,152,81,71
+Hardin,Concord-Sherman-Grant-Tipton,Secretary of State,,DEM,Joel Miller,215,101,114
+Hardin,Eldora City,Secretary of State,,DEM,Joel Miller,238,112,126
+Hardin,Etna-Clay,Secretary of State,,DEM,Joel Miller,221,98,123
+Hardin,Hardin-Ellis-Jackson,Secretary of State,,DEM,Joel Miller,152,61,91
+Hardin,Iowa Falls #1,Secretary of State,,DEM,Joel Miller,257,92,165
+Hardin,Iowa Falls #2,Secretary of State,,DEM,Joel Miller,334,104,230
+Hardin,Alden-Buckeye,Secretary of State,,,Write-in,0,0,0
+Hardin,Eldora-Pleasant-Providence-Union,Secretary of State,,,Write-in,0,0,0
+Hardin,Concord-Sherman-Grant-Tipton,Secretary of State,,,Write-in,0,0,0
+Hardin,Eldora City,Secretary of State,,,Write-in,1,1,0
+Hardin,Etna-Clay,Secretary of State,,,Write-in,0,0,0
+Hardin,Hardin-Ellis-Jackson,Secretary of State,,,Write-in,0,0,0
+Hardin,Iowa Falls #1,Secretary of State,,,Write-in,1,1,0
+Hardin,Iowa Falls #2,Secretary of State,,,Write-in,1,0,1
+Hardin,Alden-Buckeye,Auditor of State,,REP,Todd Halbur,296,27,269
+Hardin,Eldora-Pleasant-Providence-Union,Auditor of State,,REP,Todd Halbur,482,184,298
+Hardin,Concord-Sherman-Grant-Tipton,Auditor of State,,REP,Todd Halbur,677,116,561
+Hardin,Eldora City,Auditor of State,,REP,Todd Halbur,525,199,326
+Hardin,Etna-Clay,Auditor of State,,REP,Todd Halbur,556,128,428
+Hardin,Hardin-Ellis-Jackson,Auditor of State,,REP,Todd Halbur,427,68,359
+Hardin,Iowa Falls #1,Auditor of State,,REP,Todd Halbur,345,67,278
+Hardin,Iowa Falls #2,Auditor of State,,REP,Todd Halbur,563,84,479
+Hardin,Alden-Buckeye,Auditor of State,,DEM,Rob Sand,218,52,166
+Hardin,Eldora-Pleasant-Providence-Union,Auditor of State,,DEM,Rob Sand,255,140,115
+Hardin,Concord-Sherman-Grant-Tipton,Auditor of State,,DEM,Rob Sand,363,136,227
+Hardin,Eldora City,Auditor of State,,DEM,Rob Sand,362,177,185
+Hardin,Etna-Clay,Auditor of State,,DEM,Rob Sand,350,135,215
+Hardin,Hardin-Ellis-Jackson,Auditor of State,,DEM,Rob Sand,252,89,163
+Hardin,Iowa Falls #1,Auditor of State,,DEM,Rob Sand,342,122,220
+Hardin,Iowa Falls #2,Auditor of State,,DEM,Rob Sand,481,144,337
+Hardin,Alden-Buckeye,Auditor of State,,,Write-in,0,0,0
+Hardin,Eldora-Pleasant-Providence-Union,Auditor of State,,,Write-in,0,0,0
+Hardin,Concord-Sherman-Grant-Tipton,Auditor of State,,,Write-in,0,0,0
+Hardin,Eldora City,Auditor of State,,,Write-in,0,0,0
+Hardin,Etna-Clay,Auditor of State,,,Write-in,0,0,0
+Hardin,Hardin-Ellis-Jackson,Auditor of State,,,Write-in,0,0,0
+Hardin,Iowa Falls #1,Auditor of State,,,Write-in,1,0,1
+Hardin,Iowa Falls #2,Auditor of State,,,Write-in,1,0,1
+Hardin,Alden-Buckeye,Treasurer of State,,REP,Roby Smith,304,25,279
+Hardin,Eldora-Pleasant-Providence-Union,Treasurer of State,,REP,Roby Smith,502,190,312
+Hardin,Concord-Sherman-Grant-Tipton,Treasurer of State,,REP,Roby Smith,683,114,569
+Hardin,Eldora City,Treasurer of State,,REP,Roby Smith,532,204,328
+Hardin,Etna-Clay,Treasurer of State,,REP,Roby Smith,563,127,436
+Hardin,Hardin-Ellis-Jackson,Treasurer of State,,REP,Roby Smith,440,69,371
+Hardin,Iowa Falls #1,Treasurer of State,,REP,Roby Smith,348,64,284
+Hardin,Iowa Falls #2,Treasurer of State,,REP,Roby Smith,592,87,505
+Hardin,Alden-Buckeye,Treasurer of State,,DEM,Michael L. Fitzgerald,208,54,154
+Hardin,Eldora-Pleasant-Providence-Union,Treasurer of State,,DEM,Michael L. Fitzgerald,233,136,97
+Hardin,Concord-Sherman-Grant-Tipton,Treasurer of State,,DEM,Michael L. Fitzgerald,354,135,219
+Hardin,Eldora City,Treasurer of State,,DEM,Michael L. Fitzgerald,354,173,181
+Hardin,Etna-Clay,Treasurer of State,,DEM,Michael L. Fitzgerald,348,137,211
+Hardin,Hardin-Ellis-Jackson,Treasurer of State,,DEM,Michael L. Fitzgerald,244,88,156
+Hardin,Iowa Falls #1,Treasurer of State,,DEM,Michael L. Fitzgerald,339,128,211
+Hardin,Iowa Falls #2,Treasurer of State,,DEM,Michael L. Fitzgerald,458,146,312
+Hardin,Alden-Buckeye,Treasurer of State,,,Write-in,0,0,0
+Hardin,Eldora-Pleasant-Providence-Union,Treasurer of State,,,Write-in,1,0,1
+Hardin,Concord-Sherman-Grant-Tipton,Treasurer of State,,,Write-in,0,0,0
+Hardin,Eldora City,Treasurer of State,,,Write-in,0,0,0
+Hardin,Etna-Clay,Treasurer of State,,,Write-in,0,0,0
+Hardin,Hardin-Ellis-Jackson,Treasurer of State,,,Write-in,0,0,0
+Hardin,Iowa Falls #1,Treasurer of State,,,Write-in,0,0,0
+Hardin,Iowa Falls #2,Treasurer of State,,,Write-in,0,0,0
+Hardin,Alden-Buckeye,Secretary of Agriculture,,REP,Mike Naig,384,37,347
+Hardin,Eldora-Pleasant-Providence-Union,Secretary of Agriculture,,REP,Mike Naig,606,252,354
+Hardin,Concord-Sherman-Grant-Tipton,Secretary of Agriculture,,REP,Mike Naig,851,161,690
+Hardin,Eldora City,Secretary of Agriculture,,REP,Mike Naig,669,267,402
+Hardin,Etna-Clay,Secretary of Agriculture,,REP,Mike Naig,705,166,539
+Hardin,Hardin-Ellis-Jackson,Secretary of Agriculture,,REP,Mike Naig,531,92,439
+Hardin,Iowa Falls #1,Secretary of Agriculture,,REP,Mike Naig,436,93,343
+Hardin,Iowa Falls #2,Secretary of Agriculture,,REP,Mike Naig,724,123,601
+Hardin,Alden-Buckeye,Secretary of Agriculture,,DEM,John Norwood,125,41,84
+Hardin,Eldora-Pleasant-Providence-Union,Secretary of Agriculture,,DEM,John Norwood,130,73,57
+Hardin,Concord-Sherman-Grant-Tipton,Secretary of Agriculture,,DEM,John Norwood,192,90,102
+Hardin,Eldora City,Secretary of Agriculture,,DEM,John Norwood,218,108,110
+Hardin,Etna-Clay,Secretary of Agriculture,,DEM,John Norwood,211,98,113
+Hardin,Hardin-Ellis-Jackson,Secretary of Agriculture,,DEM,John Norwood,139,60,79
+Hardin,Iowa Falls #1,Secretary of Agriculture,,DEM,John Norwood,244,93,151
+Hardin,Iowa Falls #2,Secretary of Agriculture,,DEM,John Norwood,321,107,214
+Hardin,Alden-Buckeye,Secretary of Agriculture,,,Write-in,0,0,0
+Hardin,Eldora-Pleasant-Providence-Union,Secretary of Agriculture,,,Write-in,1,0,1
+Hardin,Concord-Sherman-Grant-Tipton,Secretary of Agriculture,,,Write-in,1,0,1
+Hardin,Eldora City,Secretary of Agriculture,,,Write-in,0,0,0
+Hardin,Etna-Clay,Secretary of Agriculture,,,Write-in,1,0,1
+Hardin,Hardin-Ellis-Jackson,Secretary of Agriculture,,,Write-in,0,0,0
+Hardin,Iowa Falls #1,Secretary of Agriculture,,,Write-in,1,0,1
+Hardin,Iowa Falls #2,Secretary of Agriculture,,,Write-in,0,0,0
+Hardin,Alden-Buckeye,Attorney General,,REP,Brenna Bird,305,24,281
+Hardin,Eldora-Pleasant-Providence-Union,Attorney General,,REP,Brenna Bird,486,176,310
+Hardin,Concord-Sherman-Grant-Tipton,Attorney General,,REP,Brenna Bird,695,109,586
+Hardin,Eldora City,Attorney General,,REP,Brenna Bird,519,187,332
+Hardin,Etna-Clay,Attorney General,,REP,Brenna Bird,551,123,428
+Hardin,Hardin-Ellis-Jackson,Attorney General,,REP,Brenna Bird,442,71,371
+Hardin,Iowa Falls #1,Attorney General,,REP,Brenna Bird,349,60,289
+Hardin,Iowa Falls #2,Attorney General,,REP,Brenna Bird,571,79,492
+Hardin,Alden-Buckeye,Attorney General,,DEM,Tom Miller,208,55,153
+Hardin,Eldora-Pleasant-Providence-Union,Attorney General,,DEM,Tom Miller,256,153,103
+Hardin,Concord-Sherman-Grant-Tipton,Attorney General,,DEM,Tom Miller,349,143,206
+Hardin,Eldora City,Attorney General,,DEM,Tom Miller,371,189,182
+Hardin,Etna-Clay,Attorney General,,DEM,Tom Miller,353,139,214
+Hardin,Hardin-Ellis-Jackson,Attorney General,,DEM,Tom Miller,243,87,156
+Hardin,Iowa Falls #1,Attorney General,,DEM,Tom Miller,334,127,207
+Hardin,Iowa Falls #2,Attorney General,,DEM,Tom Miller,477,154,323
+Hardin,Alden-Buckeye,Attorney General,,,Write-in,0,0,0
+Hardin,Eldora-Pleasant-Providence-Union,Attorney General,,,Write-in,0,0,0
+Hardin,Concord-Sherman-Grant-Tipton,Attorney General,,,Write-in,0,0,0
+Hardin,Eldora City,Attorney General,,,Write-in,1,1,0
+Hardin,Etna-Clay,Attorney General,,,Write-in,2,1,1
+Hardin,Hardin-Ellis-Jackson,Attorney General,,,Write-in,0,0,0
+Hardin,Iowa Falls #1,Attorney General,,,Write-in,0,0,0
+Hardin,Iowa Falls #2,Attorney General,,,Write-in,0,0,0
+Hardin,Alden-Buckeye,State Senate,27,REP,Annette Sweeney,368,41,327
+Hardin,Eldora-Pleasant-Providence-Union,State Senate,27,REP,Annette Sweeney,582,240,342
+Hardin,Concord-Sherman-Grant-Tipton,State Senate,27,REP,Annette Sweeney,848,160,688
+Hardin,Eldora City,State Senate,27,REP,Annette Sweeney,636,256,380
+Hardin,Etna-Clay,State Senate,27,REP,Annette Sweeney,668,160,508
+Hardin,Hardin-Ellis-Jackson,State Senate,27,REP,Annette Sweeney,519,97,422
+Hardin,Iowa Falls #1,State Senate,27,REP,Annette Sweeney,422,92,330
+Hardin,Iowa Falls #2,State Senate,27,REP,Annette Sweeney,700,125,575
+Hardin,Alden-Buckeye,State Senate,27,DEM,Sam Cox,143,38,105
+Hardin,Eldora-Pleasant-Providence-Union,State Senate,27,DEM,Sam Cox,151,83,68
+Hardin,Concord-Sherman-Grant-Tipton,State Senate,27,DEM,Sam Cox,197,90,107
+Hardin,Eldora City,State Senate,27,DEM,Sam Cox,255,121,134
+Hardin,Etna-Clay,State Senate,27,DEM,Sam Cox,241,100,141
+Hardin,Hardin-Ellis-Jackson,State Senate,27,DEM,Sam Cox,156,58,98
+Hardin,Iowa Falls #1,State Senate,27,DEM,Sam Cox,274,99,175
+Hardin,Iowa Falls #2,State Senate,27,DEM,Sam Cox,346,104,242
+Hardin,Alden-Buckeye,State Senate,27,,Write-in,0,0,0
+Hardin,Eldora-Pleasant-Providence-Union,State Senate,27,,Write-in,3,2,1
+Hardin,Concord-Sherman-Grant-Tipton,State Senate,27,,Write-in,0,0,0
+Hardin,Eldora City,State Senate,27,,Write-in,1,1,0
+Hardin,Etna-Clay,State Senate,27,,Write-in,2,1,1
+Hardin,Hardin-Ellis-Jackson,State Senate,27,,Write-in,1,0,1
+Hardin,Iowa Falls #1,State Senate,27,,Write-in,0,0,0
+Hardin,Iowa Falls #2,State Senate,27,,Write-in,0,0,0
+Hardin,Alden-Buckeye,State House,54,REP,Joshua Meggers,379,44,335
+Hardin,Eldora-Pleasant-Providence-Union,State House,54,REP,Joshua Meggers,603,246,357
+Hardin,Concord-Sherman-Grant-Tipton,State House,54,REP,Joshua Meggers,880,163,717
+Hardin,Eldora City,State House,54,REP,Joshua Meggers,701,279,422
+Hardin,Etna-Clay,State House,54,REP,Joshua Meggers,731,180,551
+Hardin,Hardin-Ellis-Jackson,State House,54,REP,Joshua Meggers,559,96,463
+Hardin,Iowa Falls #1,State House,54,REP,Joshua Meggers,473,103,370
+Hardin,Iowa Falls #2,State House,54,REP,Joshua Meggers,777,134,643
+Hardin,Alden-Buckeye,State House,54,,Write-in,2,0,2
+Hardin,Eldora-Pleasant-Providence-Union,State House,54,,Write-in,8,4,4
+Hardin,Concord-Sherman-Grant-Tipton,State House,54,,Write-in,9,8,1
+Hardin,Eldora City,State House,54,,Write-in,15,4,11
+Hardin,Etna-Clay,State House,54,,Write-in,14,7,7
+Hardin,Hardin-Ellis-Jackson,State House,54,,Write-in,12,5,7
+Hardin,Iowa Falls #1,State House,54,,Write-in,11,2,9
+Hardin,Iowa Falls #2,State House,54,,Write-in,21,6,15
+Hardin,Alden-Buckeye,County Board of Supervisors At Large,,REP,Lance Granzow,323,38,285
+Hardin,Eldora-Pleasant-Providence-Union,County Board of Supervisors At Large,,REP,Lance Granzow,460,200,260
+Hardin,Concord-Sherman-Grant-Tipton,County Board of Supervisors At Large,,REP,Lance Granzow,781,167,614
+Hardin,Eldora City,County Board of Supervisors At Large,,REP,Lance Granzow,527,227,300
+Hardin,Etna-Clay,County Board of Supervisors At Large,,REP,Lance Granzow,622,158,464
+Hardin,Hardin-Ellis-Jackson,County Board of Supervisors At Large,,REP,Lance Granzow,369,71,298
+Hardin,Iowa Falls #1,County Board of Supervisors At Large,,REP,Lance Granzow,355,85,270
+Hardin,Iowa Falls #2,County Board of Supervisors At Large,,REP,Lance Granzow,472,92,380
+Hardin,Alden-Buckeye,County Board of Supervisors At Large,,REP,Reneé McClellan,270,43,227
+Hardin,Eldora-Pleasant-Providence-Union,County Board of Supervisors At Large,,REP,Reneé McClellan,546,237,309
+Hardin,Concord-Sherman-Grant-Tipton,County Board of Supervisors At Large,,REP,Reneé McClellan,665,151,514
+Hardin,Eldora City,County Board of Supervisors At Large,,REP,Reneé McClellan,668,286,382
+Hardin,Etna-Clay,County Board of Supervisors At Large,,REP,Reneé McClellan,589,166,423
+Hardin,Hardin-Ellis-Jackson,County Board of Supervisors At Large,,REP,Reneé McClellan,448,88,360
+Hardin,Iowa Falls #1,County Board of Supervisors At Large,,REP,Reneé McClellan,351,117,234
+Hardin,Iowa Falls #2,County Board of Supervisors At Large,,REP,Reneé McClellan,616,126,490
+Hardin,Alden-Buckeye,County Board of Supervisors At Large,,,Alison Campbell,180,32,148
+Hardin,Eldora-Pleasant-Providence-Union,County Board of Supervisors At Large,,,Alison Campbell,170,87,83
+Hardin,Concord-Sherman-Grant-Tipton,County Board of Supervisors At Large,,,Alison Campbell,196,75,121
+Hardin,Eldora City,County Board of Supervisors At Large,,,Alison Campbell,250,107,143
+Hardin,Etna-Clay,County Board of Supervisors At Large,,,Alison Campbell,240,103,137
+Hardin,Hardin-Ellis-Jackson,County Board of Supervisors At Large,,,Alison Campbell,279,70,209
+Hardin,Iowa Falls #1,County Board of Supervisors At Large,,,Alison Campbell,284,81,203
+Hardin,Iowa Falls #2,County Board of Supervisors At Large,,,Alison Campbell,489,120,369
+Hardin,Alden-Buckeye,County Board of Supervisors At Large,,,Write-in,5,1,4
+Hardin,Eldora-Pleasant-Providence-Union,County Board of Supervisors At Large,,,Write-in,25,15,10
+Hardin,Concord-Sherman-Grant-Tipton,County Board of Supervisors At Large,,,Write-in,21,8,13
+Hardin,Eldora City,County Board of Supervisors At Large,,,Write-in,23,9,14
+Hardin,Etna-Clay,County Board of Supervisors At Large,,,Write-in,20,10,10
+Hardin,Hardin-Ellis-Jackson,County Board of Supervisors At Large,,,Write-in,18,10,8
+Hardin,Iowa Falls #1,County Board of Supervisors At Large,,,Write-in,13,1,12
+Hardin,Iowa Falls #2,County Board of Supervisors At Large,,,Write-in,22,9,13
+Hardin,Alden-Buckeye,County Treasurer,,REP,Machel Eichmeier,441,60,381
+Hardin,Eldora-Pleasant-Providence-Union,County Treasurer,,REP,Machel Eichmeier,652,275,377
+Hardin,Concord-Sherman-Grant-Tipton,County Treasurer,,REP,Machel Eichmeier,936,190,746
+Hardin,Eldora City,County Treasurer,,REP,Machel Eichmeier,780,322,458
+Hardin,Etna-Clay,County Treasurer,,REP,Machel Eichmeier,832,224,608
+Hardin,Hardin-Ellis-Jackson,County Treasurer,,REP,Machel Eichmeier,616,121,495
+Hardin,Iowa Falls #1,County Treasurer,,REP,Machel Eichmeier,554,134,420
+Hardin,Iowa Falls #2,County Treasurer,,REP,Machel Eichmeier,894,168,726
+Hardin,Alden-Buckeye,County Treasurer,,,Write-in,0,0,0
+Hardin,Eldora-Pleasant-Providence-Union,County Treasurer,,,Write-in,9,6,3
+Hardin,Concord-Sherman-Grant-Tipton,County Treasurer,,,Write-in,2,1,1
+Hardin,Eldora City,County Treasurer,,,Write-in,10,2,8
+Hardin,Etna-Clay,County Treasurer,,,Write-in,7,1,6
+Hardin,Hardin-Ellis-Jackson,County Treasurer,,,Write-in,6,4,2
+Hardin,Iowa Falls #1,County Treasurer,,,Write-in,6,1,5
+Hardin,Iowa Falls #2,County Treasurer,,,Write-in,12,5,7
+Hardin,Alden-Buckeye,County Recorder,,REP,Lori Kadner,428,56,372
+Hardin,Eldora-Pleasant-Providence-Union,County Recorder,,REP,Lori Kadner,646,279,367
+Hardin,Concord-Sherman-Grant-Tipton,County Recorder,,REP,Lori Kadner,915,185,730
+Hardin,Eldora City,County Recorder,,REP,Lori Kadner,782,320,462
+Hardin,Etna-Clay,County Recorder,,REP,Lori Kadner,795,212,583
+Hardin,Hardin-Ellis-Jackson,County Recorder,,REP,Lori Kadner,604,121,483
+Hardin,Iowa Falls #1,County Recorder,,REP,Lori Kadner,532,125,407
+Hardin,Iowa Falls #2,County Recorder,,REP,Lori Kadner,854,158,696
+Hardin,Alden-Buckeye,County Recorder,,,Write-in,0,0,0
+Hardin,Eldora-Pleasant-Providence-Union,County Recorder,,,Write-in,4,1,3
+Hardin,Concord-Sherman-Grant-Tipton,County Recorder,,,Write-in,2,1,1
+Hardin,Eldora City,County Recorder,,,Write-in,3,1,2
+Hardin,Etna-Clay,County Recorder,,,Write-in,2,1,1
+Hardin,Hardin-Ellis-Jackson,County Recorder,,,Write-in,2,0,2
+Hardin,Iowa Falls #1,County Recorder,,,Write-in,9,2,7
+Hardin,Iowa Falls #2,County Recorder,,,Write-in,13,4,9
+Hardin,Alden-Buckeye,County Attorney,,REP,Darrell Meyer,414,53,361
+Hardin,Eldora-Pleasant-Providence-Union,County Attorney,,REP,Darrell Meyer,619,258,361
+Hardin,Concord-Sherman-Grant-Tipton,County Attorney,,REP,Darrell Meyer,888,176,712
+Hardin,Eldora City,County Attorney,,REP,Darrell Meyer,746,308,438
+Hardin,Etna-Clay,County Attorney,,REP,Darrell Meyer,774,207,567
+Hardin,Hardin-Ellis-Jackson,County Attorney,,REP,Darrell Meyer,586,111,475
+Hardin,Iowa Falls #1,County Attorney,,REP,Darrell Meyer,507,124,383
+Hardin,Iowa Falls #2,County Attorney,,REP,Darrell Meyer,825,151,674
+Hardin,Alden-Buckeye,County Attorney,,,Write-in,1,0,1
+Hardin,Eldora-Pleasant-Providence-Union,County Attorney,,,Write-in,4,1,3
+Hardin,Concord-Sherman-Grant-Tipton,County Attorney,,,Write-in,2,1,1
+Hardin,Eldora City,County Attorney,,,Write-in,9,3,6
+Hardin,Etna-Clay,County Attorney,,,Write-in,6,1,5
+Hardin,Hardin-Ellis-Jackson,County Attorney,,,Write-in,5,3,2
+Hardin,Iowa Falls #1,County Attorney,,,Write-in,9,2,7
+Hardin,Iowa Falls #2,County Attorney,,,Write-in,13,3,10
+Hardin,Alden-Buckeye,Buckeye Township Trustees,,,Write-in,29,8,21
+Hardin,Alden-Buckeye,Soil and Water Conservation District Commissioner,,,Rex Lawler,335,40,295
+Hardin,Eldora-Pleasant-Providence-Union,Soil and Water Conservation District Commissioner,,,Rex Lawler,624,281,343
+Hardin,Concord-Sherman-Grant-Tipton,Soil and Water Conservation District Commissioner,,,Rex Lawler,857,188,669
+Hardin,Eldora City,Soil and Water Conservation District Commissioner,,,Rex Lawler,762,312,450
+Hardin,Etna-Clay,Soil and Water Conservation District Commissioner,,,Rex Lawler,718,192,526
+Hardin,Hardin-Ellis-Jackson,Soil and Water Conservation District Commissioner,,,Rex Lawler,540,103,437
+Hardin,Iowa Falls #1,Soil and Water Conservation District Commissioner,,,Rex Lawler,492,126,366
+Hardin,Iowa Falls #2,Soil and Water Conservation District Commissioner,,,Rex Lawler,782,147,635
+Hardin,Alden-Buckeye,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Hardin,Eldora-Pleasant-Providence-Union,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Hardin,Concord-Sherman-Grant-Tipton,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Hardin,Eldora City,Soil and Water Conservation District Commissioner,,,Write-in,7,3,4
+Hardin,Etna-Clay,Soil and Water Conservation District Commissioner,,,Write-in,6,2,4
+Hardin,Hardin-Ellis-Jackson,Soil and Water Conservation District Commissioner,,,Write-in,1,1,0
+Hardin,Iowa Falls #1,Soil and Water Conservation District Commissioner,,,Write-in,5,2,3
+Hardin,Iowa Falls #2,Soil and Water Conservation District Commissioner,,,Write-in,5,1,4
+Hardin,Alden-Buckeye,Soil and Water Conservation District Commissioner,,,John Everly,273,30,243
+Hardin,Eldora-Pleasant-Providence-Union,Soil and Water Conservation District Commissioner,,,John Everly,501,220,281
+Hardin,Concord-Sherman-Grant-Tipton,Soil and Water Conservation District Commissioner,,,John Everly,726,162,564
+Hardin,Eldora City,Soil and Water Conservation District Commissioner,,,John Everly,614,252,362
+Hardin,Etna-Clay,Soil and Water Conservation District Commissioner,,,John Everly,633,170,463
+Hardin,Hardin-Ellis-Jackson,Soil and Water Conservation District Commissioner,,,John Everly,466,80,386
+Hardin,Iowa Falls #1,Soil and Water Conservation District Commissioner,,,John Everly,396,99,297
+Hardin,Iowa Falls #2,Soil and Water Conservation District Commissioner,,,John Everly,679,132,547
+Hardin,Alden-Buckeye,Soil and Water Conservation District Commissioner,,,Jo Baumann,253,29,224
+Hardin,Eldora-Pleasant-Providence-Union,Soil and Water Conservation District Commissioner,,,Jo Baumann,446,198,248
+Hardin,Concord-Sherman-Grant-Tipton,Soil and Water Conservation District Commissioner,,,Jo Baumann,640,152,488
+Hardin,Eldora City,Soil and Water Conservation District Commissioner,,,Jo Baumann,551,231,320
+Hardin,Etna-Clay,Soil and Water Conservation District Commissioner,,,Jo Baumann,550,159,391
+Hardin,Hardin-Ellis-Jackson,Soil and Water Conservation District Commissioner,,,Jo Baumann,431,80,351
+Hardin,Iowa Falls #1,Soil and Water Conservation District Commissioner,,,Jo Baumann,393,108,285
+Hardin,Iowa Falls #2,Soil and Water Conservation District Commissioner,,,Jo Baumann,621,134,487
+Hardin,Alden-Buckeye,County Agricultural Extension Council Member,,,Rita Cook-Miller,235,33,202
+Hardin,Eldora-Pleasant-Providence-Union,County Agricultural Extension Council Member,,,Rita Cook-Miller,441,190,251
+Hardin,Concord-Sherman-Grant-Tipton,County Agricultural Extension Council Member,,,Rita Cook-Miller,692,160,532
+Hardin,Eldora City,County Agricultural Extension Council Member,,,Rita Cook-Miller,468,192,276
+Hardin,Etna-Clay,County Agricultural Extension Council Member,,,Rita Cook-Miller,436,136,300
+Hardin,Hardin-Ellis-Jackson,County Agricultural Extension Council Member,,,Rita Cook-Miller,352,70,282
+Hardin,Iowa Falls #1,County Agricultural Extension Council Member,,,Rita Cook-Miller,266,76,190
+Hardin,Iowa Falls #2,County Agricultural Extension Council Member,,,Rita Cook-Miller,462,96,366
+Hardin,Alden-Buckeye,County Agricultural Extension Council Member,,,Tyler Rose,164,16,148
+Hardin,Eldora-Pleasant-Providence-Union,County Agricultural Extension Council Member,,,Tyler Rose,325,145,180
+Hardin,Concord-Sherman-Grant-Tipton,County Agricultural Extension Council Member,,,Tyler Rose,444,107,337
+Hardin,Eldora City,County Agricultural Extension Council Member,,,Tyler Rose,417,178,239
+Hardin,Etna-Clay,County Agricultural Extension Council Member,,,Tyler Rose,526,158,368
+Hardin,Hardin-Ellis-Jackson,County Agricultural Extension Council Member,,,Tyler Rose,301,54,247
+Hardin,Iowa Falls #1,County Agricultural Extension Council Member,,,Tyler Rose,246,60,186
+Hardin,Iowa Falls #2,County Agricultural Extension Council Member,,,Tyler Rose,444,87,357
+Hardin,Alden-Buckeye,County Agricultural Extension Council Member,,,Jo Duncan,305,32,273
+Hardin,Eldora-Pleasant-Providence-Union,County Agricultural Extension Council Member,,,Jo Duncan,309,135,174
+Hardin,Concord-Sherman-Grant-Tipton,County Agricultural Extension Council Member,,,Jo Duncan,481,116,365
+Hardin,Eldora City,County Agricultural Extension Council Member,,,Jo Duncan,361,148,213
+Hardin,Etna-Clay,County Agricultural Extension Council Member,,,Jo Duncan,381,118,263
+Hardin,Hardin-Ellis-Jackson,County Agricultural Extension Council Member,,,Jo Duncan,359,71,288
+Hardin,Iowa Falls #1,County Agricultural Extension Council Member,,,Jo Duncan,276,76,200
+Hardin,Iowa Falls #2,County Agricultural Extension Council Member,,,Jo Duncan,496,97,399
+Hardin,Alden-Buckeye,County Agricultural Extension Council Member,,,Paige Granzow,206,18,188
+Hardin,Eldora-Pleasant-Providence-Union,County Agricultural Extension Council Member,,,Paige Granzow,351,137,214
+Hardin,Concord-Sherman-Grant-Tipton,County Agricultural Extension Council Member,,,Paige Granzow,566,125,441
+Hardin,Eldora City,County Agricultural Extension Council Member,,,Paige Granzow,432,175,257
+Hardin,Etna-Clay,County Agricultural Extension Council Member,,,Paige Granzow,469,117,352
+Hardin,Hardin-Ellis-Jackson,County Agricultural Extension Council Member,,,Paige Granzow,354,65,289
+Hardin,Iowa Falls #1,County Agricultural Extension Council Member,,,Paige Granzow,286,72,214
+Hardin,Iowa Falls #2,County Agricultural Extension Council Member,,,Paige Granzow,496,95,401
+Hardin,Alden-Buckeye,County Agricultural Extension Council Member,,,Korey DeBerg,167,12,155
+Hardin,Eldora-Pleasant-Providence-Union,County Agricultural Extension Council Member,,,Korey DeBerg,277,119,158
+Hardin,Concord-Sherman-Grant-Tipton,County Agricultural Extension Council Member,,,Korey DeBerg,364,81,283
+Hardin,Eldora City,County Agricultural Extension Council Member,,,Korey DeBerg,352,152,200
+Hardin,Etna-Clay,County Agricultural Extension Council Member,,,Korey DeBerg,509,142,367
+Hardin,Hardin-Ellis-Jackson,County Agricultural Extension Council Member,,,Korey DeBerg,333,65,268
+Hardin,Iowa Falls #1,County Agricultural Extension Council Member,,,Korey DeBerg,258,66,192
+Hardin,Iowa Falls #2,County Agricultural Extension Council Member,,,Korey DeBerg,477,110,367
+Hardin,Alden-Buckeye,County Agricultural Extension Council Member,,,Rachel Kessler,173,15,158
+Hardin,Eldora-Pleasant-Providence-Union,County Agricultural Extension Council Member,,,Rachel Kessler,275,118,157
+Hardin,Concord-Sherman-Grant-Tipton,County Agricultural Extension Council Member,,,Rachel Kessler,392,97,295
+Hardin,Eldora City,County Agricultural Extension Council Member,,,Rachel Kessler,346,142,204
+Hardin,Etna-Clay,County Agricultural Extension Council Member,,,Rachel Kessler,356,109,247
+Hardin,Hardin-Ellis-Jackson,County Agricultural Extension Council Member,,,Rachel Kessler,272,51,221
+Hardin,Iowa Falls #1,County Agricultural Extension Council Member,,,Rachel Kessler,229,69,160
+Hardin,Iowa Falls #2,County Agricultural Extension Council Member,,,Rachel Kessler,403,74,329
+Hardin,Alden-Buckeye,County Agricultural Extension Council Member,,,Write-in,7,0,7
+Hardin,Eldora-Pleasant-Providence-Union,County Agricultural Extension Council Member,,,Write-in,6,1,5
+Hardin,Concord-Sherman-Grant-Tipton,County Agricultural Extension Council Member,,,Write-in,3,0,3
+Hardin,Eldora City,County Agricultural Extension Council Member,,,Write-in,4,0,4
+Hardin,Etna-Clay,County Agricultural Extension Council Member,,,Write-in,12,3,9
+Hardin,Hardin-Ellis-Jackson,County Agricultural Extension Council Member,,,Write-in,1,1,0
+Hardin,Iowa Falls #1,County Agricultural Extension Council Member,,,Write-in,6,4,2
+Hardin,Iowa Falls #2,County Agricultural Extension Council Member,,,Write-in,9,1,8
+Hardin,Alden-Buckeye,Supreme Court Justice,,,Yes,217,29,188
+Hardin,Eldora-Pleasant-Providence-Union,Supreme Court Justice,,,Yes,327,152,175
+Hardin,Concord-Sherman-Grant-Tipton,Supreme Court Justice,,,Yes,507,106,401
+Hardin,Eldora City,Supreme Court Justice,,,Yes,472,188,284
+Hardin,Etna-Clay,Supreme Court Justice,,,Yes,477,130,347
+Hardin,Hardin-Ellis-Jackson,Supreme Court Justice,,,Yes,372,75,297
+Hardin,Iowa Falls #1,Supreme Court Justice,,,Yes,303,66,237
+Hardin,Iowa Falls #2,Supreme Court Justice,,,Yes,529,98,431
+Hardin,Alden-Buckeye,Supreme Court Justice,,,No,109,24,85
+Hardin,Eldora-Pleasant-Providence-Union,Supreme Court Justice,,,No,196,88,108
+Hardin,Concord-Sherman-Grant-Tipton,Supreme Court Justice,,,No,240,67,173
+Hardin,Eldora City,Supreme Court Justice,,,No,194,76,118
+Hardin,Etna-Clay,Supreme Court Justice,,,No,184,61,123
+Hardin,Hardin-Ellis-Jackson,Supreme Court Justice,,,No,130,32,98
+Hardin,Iowa Falls #1,Supreme Court Justice,,,No,150,37,113
+Hardin,Iowa Falls #2,Supreme Court Justice,,,No,224,58,166
+Hardin,Alden-Buckeye,Court of Appeals Judge,,,Yes,211,32,179
+Hardin,Eldora-Pleasant-Providence-Union,Court of Appeals Judge,,,Yes,309,134,175
+Hardin,Concord-Sherman-Grant-Tipton,Court of Appeals Judge,,,Yes,507,107,400
+Hardin,Eldora City,Court of Appeals Judge,,,Yes,471,191,280
+Hardin,Etna-Clay,Court of Appeals Judge,,,Yes,472,131,341
+Hardin,Hardin-Ellis-Jackson,Court of Appeals Judge,,,Yes,374,67,307
+Hardin,Iowa Falls #1,Court of Appeals Judge,,,Yes,300,66,234
+Hardin,Iowa Falls #2,Court of Appeals Judge,,,Yes,516,102,414
+Hardin,Alden-Buckeye,Court of Appeals Judge,,,No,94,16,78
+Hardin,Eldora-Pleasant-Providence-Union,Court of Appeals Judge,,,No,189,88,101
+Hardin,Concord-Sherman-Grant-Tipton,Court of Appeals Judge,,,No,224,59,165
+Hardin,Eldora City,Court of Appeals Judge,,,No,174,60,114
+Hardin,Etna-Clay,Court of Appeals Judge,,,No,175,55,120
+Hardin,Hardin-Ellis-Jackson,Court of Appeals Judge,,,No,120,32,88
+Hardin,Iowa Falls #1,Court of Appeals Judge,,,No,140,33,107
+Hardin,Iowa Falls #2,Court of Appeals Judge,,,No,212,52,160
+Hardin,Alden-Buckeye,District 2B Judge,,,Yes,204,27,177
+Hardin,Eldora-Pleasant-Providence-Union,District 2B Judge,,,Yes,322,141,181
+Hardin,Concord-Sherman-Grant-Tipton,District 2B Judge,,,Yes,494,105,389
+Hardin,Eldora City,District 2B Judge,,,Yes,475,194,281
+Hardin,Etna-Clay,District 2B Judge,,,Yes,459,127,332
+Hardin,Hardin-Ellis-Jackson,District 2B Judge,,,Yes,359,69,290
+Hardin,Iowa Falls #1,District 2B Judge,,,Yes,285,63,222
+Hardin,Iowa Falls #2,District 2B Judge,,,Yes,523,102,421
+Hardin,Alden-Buckeye,District 2B Judge,,,No,103,20,83
+Hardin,Eldora-Pleasant-Providence-Union,District 2B Judge,,,No,180,82,98
+Hardin,Concord-Sherman-Grant-Tipton,District 2B Judge,,,No,231,60,171
+Hardin,Eldora City,District 2B Judge,,,No,169,59,110
+Hardin,Etna-Clay,District 2B Judge,,,No,186,56,130
+Hardin,Hardin-Ellis-Jackson,District 2B Judge,,,No,136,31,105
+Hardin,Iowa Falls #1,District 2B Judge,,,No,143,33,110
+Hardin,Iowa Falls #2,District 2B Judge,,,No,206,50,156
+Hardin,Alden-Buckeye,District 2B Associate Judge,,,Yes,215,33,182
+Hardin,Eldora-Pleasant-Providence-Union,District 2B Associate Judge,,,Yes,317,144,173
+Hardin,Concord-Sherman-Grant-Tipton,District 2B Associate Judge,,,Yes,514,108,406
+Hardin,Eldora City,District 2B Associate Judge,,,Yes,478,188,290
+Hardin,Etna-Clay,District 2B Associate Judge,,,Yes,470,123,347
+Hardin,Hardin-Ellis-Jackson,District 2B Associate Judge,,,Yes,358,69,289
+Hardin,Iowa Falls #1,District 2B Associate Judge,,,Yes,310,73,237
+Hardin,Iowa Falls #2,District 2B Associate Judge,,,Yes,522,101,421
+Hardin,Alden-Buckeye,District 2B Associate Judge,,,No,99,16,83
+Hardin,Eldora-Pleasant-Providence-Union,District 2B Associate Judge,,,No,186,80,106
+Hardin,Concord-Sherman-Grant-Tipton,District 2B Associate Judge,,,No,227,63,164
+Hardin,Eldora City,District 2B Associate Judge,,,No,160,60,100
+Hardin,Etna-Clay,District 2B Associate Judge,,,No,167,52,115
+Hardin,Hardin-Ellis-Jackson,District 2B Associate Judge,,,No,129,29,100
+Hardin,Iowa Falls #1,District 2B Associate Judge,,,No,133,29,104
+Hardin,Iowa Falls #2,District 2B Associate Judge,,,No,209,52,157
+Hardin,Alden-Buckeye,Constitutional Amendment 1,,,Yes,364,42,322
+Hardin,Eldora-Pleasant-Providence-Union,Constitutional Amendment 1,,,Yes,568,232,336
+Hardin,Concord-Sherman-Grant-Tipton,Constitutional Amendment 1,,,Yes,794,164,630
+Hardin,Eldora City,Constitutional Amendment 1,,,Yes,642,256,386
+Hardin,Etna-Clay,Constitutional Amendment 1,,,Yes,666,165,501
+Hardin,Hardin-Ellis-Jackson,Constitutional Amendment 1,,,Yes,526,98,428
+Hardin,Iowa Falls #1,Constitutional Amendment 1,,,Yes,420,99,321
+Hardin,Iowa Falls #2,Constitutional Amendment 1,,,Yes,686,122,564
+Hardin,Alden-Buckeye,Constitutional Amendment 1,,,No,105,31,74
+Hardin,Eldora-Pleasant-Providence-Union,Constitutional Amendment 1,,,No,140,82,58
+Hardin,Concord-Sherman-Grant-Tipton,Constitutional Amendment 1,,,No,184,76,108
+Hardin,Eldora City,Constitutional Amendment 1,,,No,186,89,97
+Hardin,Etna-Clay,Constitutional Amendment 1,,,No,184,70,114
+Hardin,Hardin-Ellis-Jackson,Constitutional Amendment 1,,,No,119,46,73
+Hardin,Iowa Falls #1,Constitutional Amendment 1,,,No,186,64,122
+Hardin,Iowa Falls #2,Constitutional Amendment 1,,,No,284,84,200

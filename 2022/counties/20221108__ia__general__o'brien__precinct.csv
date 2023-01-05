@@ -1,0 +1,541 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+O'Brien,Carroll-Floyd,U.S. Senate,,DEM,Michael Franken,43,16,27
+O'Brien,Franklin,U.S. Senate,,DEM,Michael Franken,81,17,64
+O'Brien,Hartley-Lincoln-Omega,U.S. Senate,,DEM,Michael Franken,175,52,123
+O'Brien,Sheldon 1st Ward,U.S. Senate,,DEM,Michael Franken,125,41,84
+O'Brien,Sheldon 2nd Ward,U.S. Senate,,DEM,Michael Franken,93,22,71
+O'Brien,Sheldon 3rd Ward,U.S. Senate,,DEM,Michael Franken,77,16,61
+O'Brien,Summit-Center-Dale-Highland,U.S. Senate,,DEM,Michael Franken,147,43,104
+O'Brien,Union-Baker-Caledonia,U.S. Senate,,DEM,Michael Franken,133,33,100
+O'Brien,Waterman-Grant-Liberty,U.S. Senate,,DEM,Michael Franken,98,20,78
+O'Brien,Carroll-Floyd,U.S. Senate,,REP,Chuck Grassley,256,41,215
+O'Brien,Franklin,U.S. Senate,,REP,Chuck Grassley,562,67,495
+O'Brien,Hartley-Lincoln-Omega,U.S. Senate,,REP,Chuck Grassley,634,61,573
+O'Brien,Sheldon 1st Ward,U.S. Senate,,REP,Chuck Grassley,715,110,605
+O'Brien,Sheldon 2nd Ward,U.S. Senate,,REP,Chuck Grassley,388,65,323
+O'Brien,Sheldon 3rd Ward,U.S. Senate,,REP,Chuck Grassley,357,29,328
+O'Brien,Summit-Center-Dale-Highland,U.S. Senate,,REP,Chuck Grassley,507,84,423
+O'Brien,Union-Baker-Caledonia,U.S. Senate,,REP,Chuck Grassley,528,59,469
+O'Brien,Waterman-Grant-Liberty,U.S. Senate,,REP,Chuck Grassley,414,44,370
+O'Brien,Carroll-Floyd,U.S. Senate,,,Write-in,0,0,0
+O'Brien,Franklin,U.S. Senate,,,Write-in,0,0,0
+O'Brien,Hartley-Lincoln-Omega,U.S. Senate,,,Write-in,0,0,0
+O'Brien,Sheldon 1st Ward,U.S. Senate,,,Write-in,1,0,1
+O'Brien,Sheldon 2nd Ward,U.S. Senate,,,Write-in,1,1,0
+O'Brien,Sheldon 3rd Ward,U.S. Senate,,,Write-in,0,0,0
+O'Brien,Summit-Center-Dale-Highland,U.S. Senate,,,Write-in,1,0,1
+O'Brien,Union-Baker-Caledonia,U.S. Senate,,,Write-in,0,0,0
+O'Brien,Waterman-Grant-Liberty,U.S. Senate,,,Write-in,0,0,0
+O'Brien,Carroll-Floyd,U.S. House,4,DEM,Ryan Melton,38,13,25
+O'Brien,Franklin,U.S. House,4,DEM,Ryan Melton,62,15,47
+O'Brien,Hartley-Lincoln-Omega,U.S. House,4,DEM,Ryan Melton,144,47,97
+O'Brien,Sheldon 1st Ward,U.S. House,4,DEM,Ryan Melton,102,35,67
+O'Brien,Sheldon 2nd Ward,U.S. House,4,DEM,Ryan Melton,83,21,62
+O'Brien,Sheldon 3rd Ward,U.S. House,4,DEM,Ryan Melton,64,13,51
+O'Brien,Summit-Center-Dale-Highland,U.S. House,4,DEM,Ryan Melton,128,41,87
+O'Brien,Union-Baker-Caledonia,U.S. House,4,DEM,Ryan Melton,109,31,78
+O'Brien,Waterman-Grant-Liberty,U.S. House,4,DEM,Ryan Melton,81,19,62
+O'Brien,Carroll-Floyd,U.S. House,4,REP,Randy Feenstra,256,42,214
+O'Brien,Franklin,U.S. House,4,REP,Randy Feenstra,574,66,508
+O'Brien,Hartley-Lincoln-Omega,U.S. House,4,REP,Randy Feenstra,632,62,570
+O'Brien,Sheldon 1st Ward,U.S. House,4,REP,Randy Feenstra,725,114,611
+O'Brien,Sheldon 2nd Ward,U.S. House,4,REP,Randy Feenstra,397,67,330
+O'Brien,Sheldon 3rd Ward,U.S. House,4,REP,Randy Feenstra,363,32,331
+O'Brien,Summit-Center-Dale-Highland,U.S. House,4,REP,Randy Feenstra,509,82,427
+O'Brien,Union-Baker-Caledonia,U.S. House,4,REP,Randy Feenstra,545,62,483
+O'Brien,Waterman-Grant-Liberty,U.S. House,4,REP,Randy Feenstra,418,43,375
+O'Brien,Carroll-Floyd,U.S. House,4,LBC,Bryan Jack Holder,5,2,3
+O'Brien,Franklin,U.S. House,4,LBC,Bryan Jack Holder,2,1,1
+O'Brien,Hartley-Lincoln-Omega,U.S. House,4,LBC,Bryan Jack Holder,15,1,14
+O'Brien,Sheldon 1st Ward,U.S. House,4,LBC,Bryan Jack Holder,9,2,7
+O'Brien,Sheldon 2nd Ward,U.S. House,4,LBC,Bryan Jack Holder,2,0,2
+O'Brien,Sheldon 3rd Ward,U.S. House,4,LBC,Bryan Jack Holder,9,0,9
+O'Brien,Summit-Center-Dale-Highland,U.S. House,4,LBC,Bryan Jack Holder,14,2,12
+O'Brien,Union-Baker-Caledonia,U.S. House,4,LBC,Bryan Jack Holder,7,0,7
+O'Brien,Waterman-Grant-Liberty,U.S. House,4,LBC,Bryan Jack Holder,13,0,13
+O'Brien,Carroll-Floyd,U.S. House,4,,Write-in,0,0,0
+O'Brien,Franklin,U.S. House,4,,Write-in,2,1,1
+O'Brien,Hartley-Lincoln-Omega,U.S. House,4,,Write-in,1,0,1
+O'Brien,Sheldon 1st Ward,U.S. House,4,,Write-in,0,0,0
+O'Brien,Sheldon 2nd Ward,U.S. House,4,,Write-in,1,0,1
+O'Brien,Sheldon 3rd Ward,U.S. House,4,,Write-in,0,0,0
+O'Brien,Summit-Center-Dale-Highland,U.S. House,4,,Write-in,1,1,0
+O'Brien,Union-Baker-Caledonia,U.S. House,4,,Write-in,0,0,0
+O'Brien,Waterman-Grant-Liberty,U.S. House,4,,Write-in,1,1,0
+O'Brien,Carroll-Floyd,Governor,,DEM,Deidre DeJear and Eric Van Lancker,37,12,25
+O'Brien,Franklin,Governor,,DEM,Deidre DeJear and Eric Van Lancker,61,15,46
+O'Brien,Hartley-Lincoln-Omega,Governor,,DEM,Deidre DeJear and Eric Van Lancker,138,46,92
+O'Brien,Sheldon 1st Ward,Governor,,DEM,Deidre DeJear and Eric Van Lancker,107,37,70
+O'Brien,Sheldon 2nd Ward,Governor,,DEM,Deidre DeJear and Eric Van Lancker,73,15,58
+O'Brien,Sheldon 3rd Ward,Governor,,DEM,Deidre DeJear and Eric Van Lancker,59,15,44
+O'Brien,Summit-Center-Dale-Highland,Governor,,DEM,Deidre DeJear and Eric Van Lancker,124,39,85
+O'Brien,Union-Baker-Caledonia,Governor,,DEM,Deidre DeJear and Eric Van Lancker,99,31,68
+O'Brien,Waterman-Grant-Liberty,Governor,,DEM,Deidre DeJear and Eric Van Lancker,78,15,63
+O'Brien,Carroll-Floyd,Governor,,REP,Kim Reynolds and Adam Gregg,262,44,218
+O'Brien,Franklin,Governor,,REP,Kim Reynolds and Adam Gregg,586,69,517
+O'Brien,Hartley-Lincoln-Omega,Governor,,REP,Kim Reynolds and Adam Gregg,663,65,598
+O'Brien,Sheldon 1st Ward,Governor,,REP,Kim Reynolds and Adam Gregg,733,116,617
+O'Brien,Sheldon 2nd Ward,Governor,,REP,Kim Reynolds and Adam Gregg,412,75,337
+O'Brien,Sheldon 3rd Ward,Governor,,REP,Kim Reynolds and Adam Gregg,371,30,341
+O'Brien,Summit-Center-Dale-Highland,Governor,,REP,Kim Reynolds and Adam Gregg,528,86,442
+O'Brien,Union-Baker-Caledonia,Governor,,REP,Kim Reynolds and Adam Gregg,552,61,491
+O'Brien,Waterman-Grant-Liberty,Governor,,REP,Kim Reynolds and Adam Gregg,434,48,386
+O'Brien,Carroll-Floyd,Governor,,LIB,Rick Stewart and Marco Battaglia,3,1,2
+O'Brien,Franklin,Governor,,LIB,Rick Stewart and Marco Battaglia,8,2,6
+O'Brien,Hartley-Lincoln-Omega,Governor,,LIB,Rick Stewart and Marco Battaglia,15,0,15
+O'Brien,Sheldon 1st Ward,Governor,,LIB,Rick Stewart and Marco Battaglia,8,0,8
+O'Brien,Sheldon 2nd Ward,Governor,,LIB,Rick Stewart and Marco Battaglia,4,0,4
+O'Brien,Sheldon 3rd Ward,Governor,,LIB,Rick Stewart and Marco Battaglia,7,1,6
+O'Brien,Summit-Center-Dale-Highland,Governor,,LIB,Rick Stewart and Marco Battaglia,12,3,9
+O'Brien,Union-Baker-Caledonia,Governor,,LIB,Rick Stewart and Marco Battaglia,11,2,9
+O'Brien,Waterman-Grant-Liberty,Governor,,LIB,Rick Stewart and Marco Battaglia,9,1,8
+O'Brien,Carroll-Floyd,Governor,,,Write-in,0,0,0
+O'Brien,Franklin,Governor,,,Write-in,0,0,0
+O'Brien,Hartley-Lincoln-Omega,Governor,,,Write-in,0,0,0
+O'Brien,Sheldon 1st Ward,Governor,,,Write-in,1,0,1
+O'Brien,Sheldon 2nd Ward,Governor,,,Write-in,1,0,1
+O'Brien,Sheldon 3rd Ward,Governor,,,Write-in,0,0,0
+O'Brien,Summit-Center-Dale-Highland,Governor,,,Write-in,0,0,0
+O'Brien,Union-Baker-Caledonia,Governor,,,Write-in,0,0,0
+O'Brien,Waterman-Grant-Liberty,Governor,,,Write-in,0,0,0
+O'Brien,Carroll-Floyd,Secretary of State,,DEM,Joel Miller,41,15,26
+O'Brien,Franklin,Secretary of State,,DEM,Joel Miller,71,16,55
+O'Brien,Hartley-Lincoln-Omega,Secretary of State,,DEM,Joel Miller,169,51,118
+O'Brien,Sheldon 1st Ward,Secretary of State,,DEM,Joel Miller,117,36,81
+O'Brien,Sheldon 2nd Ward,Secretary of State,,DEM,Joel Miller,87,18,69
+O'Brien,Sheldon 3rd Ward,Secretary of State,,DEM,Joel Miller,69,13,56
+O'Brien,Summit-Center-Dale-Highland,Secretary of State,,DEM,Joel Miller,132,40,92
+O'Brien,Union-Baker-Caledonia,Secretary of State,,DEM,Joel Miller,135,35,100
+O'Brien,Waterman-Grant-Liberty,Secretary of State,,DEM,Joel Miller,111,19,92
+O'Brien,Carroll-Floyd,Secretary of State,,REP,Paul D. Pate,260,42,218
+O'Brien,Franklin,Secretary of State,,REP,Paul D. Pate,563,66,497
+O'Brien,Hartley-Lincoln-Omega,Secretary of State,,REP,Paul D. Pate,634,60,574
+O'Brien,Sheldon 1st Ward,Secretary of State,,REP,Paul D. Pate,703,109,594
+O'Brien,Sheldon 2nd Ward,Secretary of State,,REP,Paul D. Pate,394,67,327
+O'Brien,Sheldon 3rd Ward,Secretary of State,,REP,Paul D. Pate,363,32,331
+O'Brien,Summit-Center-Dale-Highland,Secretary of State,,REP,Paul D. Pate,517,85,432
+O'Brien,Union-Baker-Caledonia,Secretary of State,,REP,Paul D. Pate,520,58,462
+O'Brien,Waterman-Grant-Liberty,Secretary of State,,REP,Paul D. Pate,396,45,351
+O'Brien,Carroll-Floyd,Secretary of State,,,Write-in,0,0,0
+O'Brien,Franklin,Secretary of State,,,Write-in,0,0,0
+O'Brien,Hartley-Lincoln-Omega,Secretary of State,,,Write-in,0,0,0
+O'Brien,Sheldon 1st Ward,Secretary of State,,,Write-in,0,0,0
+O'Brien,Sheldon 2nd Ward,Secretary of State,,,Write-in,0,0,0
+O'Brien,Sheldon 3rd Ward,Secretary of State,,,Write-in,0,0,0
+O'Brien,Summit-Center-Dale-Highland,Secretary of State,,,Write-in,0,0,0
+O'Brien,Union-Baker-Caledonia,Secretary of State,,,Write-in,0,0,0
+O'Brien,Waterman-Grant-Liberty,Secretary of State,,,Write-in,0,0,0
+O'Brien,Carroll-Floyd,Auditor of State,,DEM,Rob Sand,61,20,41
+O'Brien,Franklin,Auditor of State,,DEM,Rob Sand,109,19,90
+O'Brien,Hartley-Lincoln-Omega,Auditor of State,,DEM,Rob Sand,239,60,179
+O'Brien,Sheldon 1st Ward,Auditor of State,,DEM,Rob Sand,177,51,126
+O'Brien,Sheldon 2nd Ward,Auditor of State,,DEM,Rob Sand,134,29,105
+O'Brien,Sheldon 3rd Ward,Auditor of State,,DEM,Rob Sand,98,13,85
+O'Brien,Summit-Center-Dale-Highland,Auditor of State,,DEM,Rob Sand,196,54,142
+O'Brien,Union-Baker-Caledonia,Auditor of State,,DEM,Rob Sand,186,39,147
+O'Brien,Waterman-Grant-Liberty,Auditor of State,,DEM,Rob Sand,165,23,142
+O'Brien,Carroll-Floyd,Auditor of State,,REP,Todd Halbur,239,36,203
+O'Brien,Franklin,Auditor of State,,REP,Todd Halbur,526,65,461
+O'Brien,Hartley-Lincoln-Omega,Auditor of State,,REP,Todd Halbur,562,51,511
+O'Brien,Sheldon 1st Ward,Auditor of State,,REP,Todd Halbur,642,92,550
+O'Brien,Sheldon 2nd Ward,Auditor of State,,REP,Todd Halbur,343,56,287
+O'Brien,Sheldon 3rd Ward,Auditor of State,,REP,Todd Halbur,329,29,300
+O'Brien,Summit-Center-Dale-Highland,Auditor of State,,REP,Todd Halbur,441,69,372
+O'Brien,Union-Baker-Caledonia,Auditor of State,,REP,Todd Halbur,464,54,410
+O'Brien,Waterman-Grant-Liberty,Auditor of State,,REP,Todd Halbur,337,39,298
+O'Brien,Carroll-Floyd,Auditor of State,,,Write-in,0,0,0
+O'Brien,Franklin,Auditor of State,,,Write-in,0,0,0
+O'Brien,Hartley-Lincoln-Omega,Auditor of State,,,Write-in,0,0,0
+O'Brien,Sheldon 1st Ward,Auditor of State,,,Write-in,1,0,1
+O'Brien,Sheldon 2nd Ward,Auditor of State,,,Write-in,0,0,0
+O'Brien,Sheldon 3rd Ward,Auditor of State,,,Write-in,0,0,0
+O'Brien,Summit-Center-Dale-Highland,Auditor of State,,,Write-in,0,0,0
+O'Brien,Union-Baker-Caledonia,Auditor of State,,,Write-in,0,0,0
+O'Brien,Waterman-Grant-Liberty,Auditor of State,,,Write-in,0,0,0
+O'Brien,Carroll-Floyd,Treasurer of State,,DEM,Michael L. Fitzgerald,53,20,33
+O'Brien,Franklin,Treasurer of State,,DEM,Michael L. Fitzgerald,103,15,88
+O'Brien,Hartley-Lincoln-Omega,Treasurer of State,,DEM,Michael L. Fitzgerald,222,60,162
+O'Brien,Sheldon 1st Ward,Treasurer of State,,DEM,Michael L. Fitzgerald,171,53,118
+O'Brien,Sheldon 2nd Ward,Treasurer of State,,DEM,Michael L. Fitzgerald,112,26,86
+O'Brien,Sheldon 3rd Ward,Treasurer of State,,DEM,Michael L. Fitzgerald,97,15,82
+O'Brien,Summit-Center-Dale-Highland,Treasurer of State,,DEM,Michael L. Fitzgerald,204,58,146
+O'Brien,Union-Baker-Caledonia,Treasurer of State,,DEM,Michael L. Fitzgerald,182,41,141
+O'Brien,Waterman-Grant-Liberty,Treasurer of State,,DEM,Michael L. Fitzgerald,141,25,116
+O'Brien,Carroll-Floyd,Treasurer of State,,REP,Roby Smith,247,37,210
+O'Brien,Franklin,Treasurer of State,,REP,Roby Smith,533,68,465
+O'Brien,Hartley-Lincoln-Omega,Treasurer of State,,REP,Roby Smith,577,50,527
+O'Brien,Sheldon 1st Ward,Treasurer of State,,REP,Roby Smith,651,92,559
+O'Brien,Sheldon 2nd Ward,Treasurer of State,,REP,Roby Smith,365,59,306
+O'Brien,Sheldon 3rd Ward,Treasurer of State,,REP,Roby Smith,331,29,302
+O'Brien,Summit-Center-Dale-Highland,Treasurer of State,,REP,Roby Smith,438,65,373
+O'Brien,Union-Baker-Caledonia,Treasurer of State,,REP,Roby Smith,472,51,421
+O'Brien,Waterman-Grant-Liberty,Treasurer of State,,REP,Roby Smith,357,38,319
+O'Brien,Carroll-Floyd,Treasurer of State,,,Write-in,0,0,0
+O'Brien,Franklin,Treasurer of State,,,Write-in,0,0,0
+O'Brien,Hartley-Lincoln-Omega,Treasurer of State,,,Write-in,1,0,1
+O'Brien,Sheldon 1st Ward,Treasurer of State,,,Write-in,0,0,0
+O'Brien,Sheldon 2nd Ward,Treasurer of State,,,Write-in,0,0,0
+O'Brien,Sheldon 3rd Ward,Treasurer of State,,,Write-in,0,0,0
+O'Brien,Summit-Center-Dale-Highland,Treasurer of State,,,Write-in,0,0,0
+O'Brien,Union-Baker-Caledonia,Treasurer of State,,,Write-in,0,0,0
+O'Brien,Waterman-Grant-Liberty,Treasurer of State,,,Write-in,1,0,1
+O'Brien,Carroll-Floyd,Secretary of Agriculture,,DEM,John Norwood,36,13,23
+O'Brien,Franklin,Secretary of Agriculture,,DEM,John Norwood,50,13,37
+O'Brien,Hartley-Lincoln-Omega,Secretary of Agriculture,,DEM,John Norwood,145,51,94
+O'Brien,Sheldon 1st Ward,Secretary of Agriculture,,DEM,John Norwood,90,32,58
+O'Brien,Sheldon 2nd Ward,Secretary of Agriculture,,DEM,John Norwood,75,18,57
+O'Brien,Sheldon 3rd Ward,Secretary of Agriculture,,DEM,John Norwood,63,14,49
+O'Brien,Summit-Center-Dale-Highland,Secretary of Agriculture,,DEM,John Norwood,95,28,67
+O'Brien,Union-Baker-Caledonia,Secretary of Agriculture,,DEM,John Norwood,101,30,71
+O'Brien,Waterman-Grant-Liberty,Secretary of Agriculture,,DEM,John Norwood,69,18,51
+O'Brien,Carroll-Floyd,Secretary of Agriculture,,REP,Mike Naig,266,45,221
+O'Brien,Franklin,Secretary of Agriculture,,REP,Mike Naig,595,72,523
+O'Brien,Hartley-Lincoln-Omega,Secretary of Agriculture,,REP,Mike Naig,660,59,601
+O'Brien,Sheldon 1st Ward,Secretary of Agriculture,,REP,Mike Naig,736,116,620
+O'Brien,Sheldon 2nd Ward,Secretary of Agriculture,,REP,Mike Naig,407,68,339
+O'Brien,Sheldon 3rd Ward,Secretary of Agriculture,,REP,Mike Naig,367,31,336
+O'Brien,Summit-Center-Dale-Highland,Secretary of Agriculture,,REP,Mike Naig,556,98,458
+O'Brien,Union-Baker-Caledonia,Secretary of Agriculture,,REP,Mike Naig,558,64,494
+O'Brien,Waterman-Grant-Liberty,Secretary of Agriculture,,REP,Mike Naig,436,45,391
+O'Brien,Carroll-Floyd,Secretary of Agriculture,,,Write-in,0,0,0
+O'Brien,Franklin,Secretary of Agriculture,,,Write-in,0,0,0
+O'Brien,Hartley-Lincoln-Omega,Secretary of Agriculture,,,Write-in,0,0,0
+O'Brien,Sheldon 1st Ward,Secretary of Agriculture,,,Write-in,0,0,0
+O'Brien,Sheldon 2nd Ward,Secretary of Agriculture,,,Write-in,0,0,0
+O'Brien,Sheldon 3rd Ward,Secretary of Agriculture,,,Write-in,0,0,0
+O'Brien,Summit-Center-Dale-Highland,Secretary of Agriculture,,,Write-in,0,0,0
+O'Brien,Union-Baker-Caledonia,Secretary of Agriculture,,,Write-in,0,0,0
+O'Brien,Waterman-Grant-Liberty,Secretary of Agriculture,,,Write-in,0,0,0
+O'Brien,Carroll-Floyd,Attorney General,,DEM,Tom Miller,60,20,40
+O'Brien,Franklin,Attorney General,,DEM,Tom Miller,103,19,84
+O'Brien,Hartley-Lincoln-Omega,Attorney General,,DEM,Tom Miller,234,58,176
+O'Brien,Sheldon 1st Ward,Attorney General,,DEM,Tom Miller,152,53,99
+O'Brien,Sheldon 2nd Ward,Attorney General,,DEM,Tom Miller,120,31,89
+O'Brien,Sheldon 3rd Ward,Attorney General,,DEM,Tom Miller,90,17,73
+O'Brien,Summit-Center-Dale-Highland,Attorney General,,DEM,Tom Miller,202,58,144
+O'Brien,Union-Baker-Caledonia,Attorney General,,DEM,Tom Miller,179,40,139
+O'Brien,Waterman-Grant-Liberty,Attorney General,,DEM,Tom Miller,137,27,110
+O'Brien,Carroll-Floyd,Attorney General,,REP,Brenna Bird,241,37,204
+O'Brien,Franklin,Attorney General,,REP,Brenna Bird,538,65,473
+O'Brien,Hartley-Lincoln-Omega,Attorney General,,REP,Brenna Bird,572,52,520
+O'Brien,Sheldon 1st Ward,Attorney General,,REP,Brenna Bird,671,95,576
+O'Brien,Sheldon 2nd Ward,Attorney General,,REP,Brenna Bird,359,55,304
+O'Brien,Sheldon 3rd Ward,Attorney General,,REP,Brenna Bird,344,28,316
+O'Brien,Summit-Center-Dale-Highland,Attorney General,,REP,Brenna Bird,438,63,375
+O'Brien,Union-Baker-Caledonia,Attorney General,,REP,Brenna Bird,480,53,427
+O'Brien,Waterman-Grant-Liberty,Attorney General,,REP,Brenna Bird,367,36,331
+O'Brien,Carroll-Floyd,Attorney General,,,Write-in,0,0,0
+O'Brien,Franklin,Attorney General,,,Write-in,0,0,0
+O'Brien,Hartley-Lincoln-Omega,Attorney General,,,Write-in,0,0,0
+O'Brien,Sheldon 1st Ward,Attorney General,,,Write-in,1,0,1
+O'Brien,Sheldon 2nd Ward,Attorney General,,,Write-in,0,0,0
+O'Brien,Sheldon 3rd Ward,Attorney General,,,Write-in,0,0,0
+O'Brien,Summit-Center-Dale-Highland,Attorney General,,,Write-in,1,0,1
+O'Brien,Union-Baker-Caledonia,Attorney General,,,Write-in,0,0,0
+O'Brien,Waterman-Grant-Liberty,Attorney General,,,Write-in,1,0,1
+O'Brien,Carroll-Floyd,State Senate,3,REP,Lynn Evans,265,41,224
+O'Brien,Franklin,State Senate,3,REP,Lynn Evans,563,70,493
+O'Brien,Hartley-Lincoln-Omega,State Senate,3,REP,Lynn Evans,711,75,636
+O'Brien,Sheldon 1st Ward,State Senate,3,REP,Lynn Evans,687,113,574
+O'Brien,Sheldon 2nd Ward,State Senate,3,REP,Lynn Evans,422,73,349
+O'Brien,Sheldon 3rd Ward,State Senate,3,REP,Lynn Evans,373,33,340
+O'Brien,Summit-Center-Dale-Highland,State Senate,3,REP,Lynn Evans,552,96,456
+O'Brien,Union-Baker-Caledonia,State Senate,3,REP,Lynn Evans,575,75,500
+O'Brien,Waterman-Grant-Liberty,State Senate,3,REP,Lynn Evans,434,48,386
+O'Brien,Carroll-Floyd,State Senate,3,,Write-in,0,0,0
+O'Brien,Franklin,State Senate,3,,Write-in,0,0,0
+O'Brien,Hartley-Lincoln-Omega,State Senate,3,,Write-in,4,0,4
+O'Brien,Sheldon 1st Ward,State Senate,3,,Write-in,2,0,2
+O'Brien,Sheldon 2nd Ward,State Senate,3,,Write-in,5,0,5
+O'Brien,Sheldon 3rd Ward,State Senate,3,,Write-in,5,0,5
+O'Brien,Summit-Center-Dale-Highland,State Senate,3,,Write-in,4,1,3
+O'Brien,Union-Baker-Caledonia,State Senate,3,,Write-in,0,0,0
+O'Brien,Waterman-Grant-Liberty,State Senate,3,,Write-in,4,0,4
+O'Brien,Carroll-Floyd,State House,5,REP,Zachary M. Dieken,263,40,223
+O'Brien,Franklin,State House,5,REP,Zachary M. Dieken,567,70,497
+O'Brien,Hartley-Lincoln-Omega,State House,5,REP,Zachary M. Dieken,673,69,604
+O'Brien,Sheldon 1st Ward,State House,5,REP,Zachary M. Dieken,701,116,585
+O'Brien,Sheldon 2nd Ward,State House,5,REP,Zachary M. Dieken,420,73,347
+O'Brien,Sheldon 3rd Ward,State House,5,REP,Zachary M. Dieken,368,29,339
+O'Brien,Summit-Center-Dale-Highland,State House,5,REP,Zachary M. Dieken,527,91,436
+O'Brien,Union-Baker-Caledonia,State House,5,REP,Zachary M. Dieken,567,71,496
+O'Brien,Waterman-Grant-Liberty,State House,5,REP,Zachary M. Dieken,434,52,382
+O'Brien,Carroll-Floyd,State House,5,,Write-in,0,0,0
+O'Brien,Franklin,State House,5,,Write-in,0,0,0
+O'Brien,Hartley-Lincoln-Omega,State House,5,,Write-in,5,0,5
+O'Brien,Sheldon 1st Ward,State House,5,,Write-in,5,1,4
+O'Brien,Sheldon 2nd Ward,State House,5,,Write-in,7,0,7
+O'Brien,Sheldon 3rd Ward,State House,5,,Write-in,4,0,4
+O'Brien,Summit-Center-Dale-Highland,State House,5,,Write-in,11,0,11
+O'Brien,Union-Baker-Caledonia,State House,5,,Write-in,4,0,4
+O'Brien,Waterman-Grant-Liberty,State House,5,,Write-in,8,1,7
+O'Brien,Carroll-Floyd,County Board of Supervisors District 4,,REP,Dennis Vanden Hull,278,52,226
+O'Brien,Franklin,County Board of Supervisors District 4,,REP,Dennis Vanden Hull,557,71,486
+O'Brien,Hartley-Lincoln-Omega,County Board of Supervisors District 4,,REP,Dennis Vanden Hull,675,69,606
+O'Brien,Sheldon 1st Ward,County Board of Supervisors District 4,,REP,Dennis Vanden Hull,728,120,608
+O'Brien,Sheldon 2nd Ward,County Board of Supervisors District 4,,REP,Dennis Vanden Hull,427,75,352
+O'Brien,Sheldon 3rd Ward,County Board of Supervisors District 4,,REP,Dennis Vanden Hull,378,33,345
+O'Brien,Summit-Center-Dale-Highland,County Board of Supervisors District 4,,REP,Dennis Vanden Hull,561,99,462
+O'Brien,Union-Baker-Caledonia,County Board of Supervisors District 4,,REP,Dennis Vanden Hull,562,75,487
+O'Brien,Waterman-Grant-Liberty,County Board of Supervisors District 4,,REP,Dennis Vanden Hull,432,52,380
+O'Brien,Carroll-Floyd,County Board of Supervisors District 4,,,Write-in,1,0,1
+O'Brien,Franklin,County Board of Supervisors District 4,,,Write-in,1,0,1
+O'Brien,Hartley-Lincoln-Omega,County Board of Supervisors District 4,,,Write-in,3,0,3
+O'Brien,Sheldon 1st Ward,County Board of Supervisors District 4,,,Write-in,3,0,3
+O'Brien,Sheldon 2nd Ward,County Board of Supervisors District 4,,,Write-in,7,0,7
+O'Brien,Sheldon 3rd Ward,County Board of Supervisors District 4,,,Write-in,1,0,1
+O'Brien,Summit-Center-Dale-Highland,County Board of Supervisors District 4,,,Write-in,5,1,4
+O'Brien,Union-Baker-Caledonia,County Board of Supervisors District 4,,,Write-in,4,0,4
+O'Brien,Waterman-Grant-Liberty,County Board of Supervisors District 4,,,Write-in,5,0,5
+O'Brien,Carroll-Floyd,County Board of Supervisors District 5,,REP,Dan Friedrichsen,271,47,224
+O'Brien,Franklin,County Board of Supervisors District 5,,REP,Dan Friedrichsen,545,70,475
+O'Brien,Hartley-Lincoln-Omega,County Board of Supervisors District 5,,REP,Dan Friedrichsen,675,67,608
+O'Brien,Sheldon 1st Ward,County Board of Supervisors District 5,,REP,Dan Friedrichsen,696,114,582
+O'Brien,Sheldon 2nd Ward,County Board of Supervisors District 5,,REP,Dan Friedrichsen,412,69,343
+O'Brien,Sheldon 3rd Ward,County Board of Supervisors District 5,,REP,Dan Friedrichsen,366,31,335
+O'Brien,Summit-Center-Dale-Highland,County Board of Supervisors District 5,,REP,Dan Friedrichsen,569,98,471
+O'Brien,Union-Baker-Caledonia,County Board of Supervisors District 5,,REP,Dan Friedrichsen,571,77,494
+O'Brien,Waterman-Grant-Liberty,County Board of Supervisors District 5,,REP,Dan Friedrichsen,437,51,386
+O'Brien,Carroll-Floyd,County Board of Supervisors District 5,,,Write-in,1,0,1
+O'Brien,Franklin,County Board of Supervisors District 5,,,Write-in,1,0,1
+O'Brien,Hartley-Lincoln-Omega,County Board of Supervisors District 5,,,Write-in,5,1,4
+O'Brien,Sheldon 1st Ward,County Board of Supervisors District 5,,,Write-in,1,0,1
+O'Brien,Sheldon 2nd Ward,County Board of Supervisors District 5,,,Write-in,8,1,7
+O'Brien,Sheldon 3rd Ward,County Board of Supervisors District 5,,,Write-in,1,0,1
+O'Brien,Summit-Center-Dale-Highland,County Board of Supervisors District 5,,,Write-in,7,1,6
+O'Brien,Union-Baker-Caledonia,County Board of Supervisors District 5,,,Write-in,6,0,6
+O'Brien,Waterman-Grant-Liberty,County Board of Supervisors District 5,,,Write-in,12,0,12
+O'Brien,Carroll-Floyd,County Treasurer,,REP,Marcella Missy Hattermann,281,51,230
+O'Brien,Franklin,County Treasurer,,REP,Marcella Missy Hattermann,570,74,496
+O'Brien,Hartley-Lincoln-Omega,County Treasurer,,REP,Marcella Missy Hattermann,712,76,636
+O'Brien,Sheldon 1st Ward,County Treasurer,,REP,Marcella Missy Hattermann,728,123,605
+O'Brien,Sheldon 2nd Ward,County Treasurer,,REP,Marcella Missy Hattermann,424,78,346
+O'Brien,Sheldon 3rd Ward,County Treasurer,,REP,Marcella Missy Hattermann,382,35,347
+O'Brien,Summit-Center-Dale-Highland,County Treasurer,,REP,Marcella Missy Hattermann,609,114,495
+O'Brien,Union-Baker-Caledonia,County Treasurer,,REP,Marcella Missy Hattermann,600,77,523
+O'Brien,Waterman-Grant-Liberty,County Treasurer,,REP,Marcella Missy Hattermann,466,54,412
+O'Brien,Carroll-Floyd,County Treasurer,,,Write-in,0,0,0
+O'Brien,Franklin,County Treasurer,,,Write-in,0,0,0
+O'Brien,Hartley-Lincoln-Omega,County Treasurer,,,Write-in,4,0,4
+O'Brien,Sheldon 1st Ward,County Treasurer,,,Write-in,2,0,2
+O'Brien,Sheldon 2nd Ward,County Treasurer,,,Write-in,4,0,4
+O'Brien,Sheldon 3rd Ward,County Treasurer,,,Write-in,1,0,1
+O'Brien,Summit-Center-Dale-Highland,County Treasurer,,,Write-in,5,0,5
+O'Brien,Union-Baker-Caledonia,County Treasurer,,,Write-in,1,0,1
+O'Brien,Waterman-Grant-Liberty,County Treasurer,,,Write-in,3,0,3
+O'Brien,Carroll-Floyd,County Recorder,,REP,Susan Smith,273,48,225
+O'Brien,Franklin,County Recorder,,REP,Susan Smith,574,73,501
+O'Brien,Hartley-Lincoln-Omega,County Recorder,,REP,Susan Smith,706,74,632
+O'Brien,Sheldon 1st Ward,County Recorder,,REP,Susan Smith,724,121,603
+O'Brien,Sheldon 2nd Ward,County Recorder,,REP,Susan Smith,429,78,351
+O'Brien,Sheldon 3rd Ward,County Recorder,,REP,Susan Smith,375,33,342
+O'Brien,Summit-Center-Dale-Highland,County Recorder,,REP,Susan Smith,602,111,491
+O'Brien,Union-Baker-Caledonia,County Recorder,,REP,Susan Smith,598,77,521
+O'Brien,Waterman-Grant-Liberty,County Recorder,,REP,Susan Smith,461,54,407
+O'Brien,Carroll-Floyd,County Recorder,,,Write-in,0,0,0
+O'Brien,Franklin,County Recorder,,,Write-in,0,0,0
+O'Brien,Hartley-Lincoln-Omega,County Recorder,,,Write-in,2,0,2
+O'Brien,Sheldon 1st Ward,County Recorder,,,Write-in,1,0,1
+O'Brien,Sheldon 2nd Ward,County Recorder,,,Write-in,4,0,4
+O'Brien,Sheldon 3rd Ward,County Recorder,,,Write-in,1,0,1
+O'Brien,Summit-Center-Dale-Highland,County Recorder,,,Write-in,4,1,3
+O'Brien,Union-Baker-Caledonia,County Recorder,,,Write-in,0,0,0
+O'Brien,Waterman-Grant-Liberty,County Recorder,,,Write-in,2,0,2
+O'Brien,Carroll-Floyd,County Attorney,,REP,Katie F. Morgan,273,49,224
+O'Brien,Franklin,County Attorney,,REP,Katie F. Morgan,559,70,489
+O'Brien,Hartley-Lincoln-Omega,County Attorney,,REP,Katie F. Morgan,695,74,621
+O'Brien,Sheldon 1st Ward,County Attorney,,REP,Katie F. Morgan,721,118,603
+O'Brien,Sheldon 2nd Ward,County Attorney,,REP,Katie F. Morgan,428,77,351
+O'Brien,Sheldon 3rd Ward,County Attorney,,REP,Katie F. Morgan,382,34,348
+O'Brien,Summit-Center-Dale-Highland,County Attorney,,REP,Katie F. Morgan,568,98,470
+O'Brien,Union-Baker-Caledonia,County Attorney,,REP,Katie F. Morgan,584,77,507
+O'Brien,Waterman-Grant-Liberty,County Attorney,,REP,Katie F. Morgan,446,52,394
+O'Brien,Carroll-Floyd,County Attorney,,,Write-in,1,0,1
+O'Brien,Franklin,County Attorney,,,Write-in,3,0,3
+O'Brien,Hartley-Lincoln-Omega,County Attorney,,,Write-in,6,1,5
+O'Brien,Sheldon 1st Ward,County Attorney,,,Write-in,2,0,2
+O'Brien,Sheldon 2nd Ward,County Attorney,,,Write-in,5,0,5
+O'Brien,Sheldon 3rd Ward,County Attorney,,,Write-in,2,0,2
+O'Brien,Summit-Center-Dale-Highland,County Attorney,,,Write-in,3,1,2
+O'Brien,Union-Baker-Caledonia,County Attorney,,,Write-in,2,0,2
+O'Brien,Waterman-Grant-Liberty,County Attorney,,,Write-in,3,0,3
+O'Brien,Waterman-Grant-Liberty,Grant Township Trustee,,,Joel Sickelka,57,13,44
+O'Brien,Waterman-Grant-Liberty,Grant Township Trustee,,,Luke Streit,17,2,15
+O'Brien,Waterman-Grant-Liberty,Grant Township Trustee,,,Write-in,0,0,0
+O'Brien,Waterman-Grant-Liberty,Grant Township Clerk,,,Josh Moermond,71,14,57
+O'Brien,Waterman-Grant-Liberty,Grant Township Clerk,,,Write-in,0,0,0
+O'Brien,Summit-Center-Dale-Highland,Highland Township Trustee,,,Mark Tjossem,69,17,52
+O'Brien,Summit-Center-Dale-Highland,Highland Township Trustee,,,Write-in,0,0,0
+O'Brien,Summit-Center-Dale-Highland,Highland Township Clerk,,,Turner Hicks,64,16,48
+O'Brien,Summit-Center-Dale-Highland,Highland Township Clerk,,,Write-in,0,0,0
+O'Brien,Carroll-Floyd,Soil and Water Conservation District Commissioner,,,Matt Jones,189,32,157
+O'Brien,Franklin,Soil and Water Conservation District Commissioner,,,Matt Jones,341,54,287
+O'Brien,Hartley-Lincoln-Omega,Soil and Water Conservation District Commissioner,,,Matt Jones,526,55,471
+O'Brien,Sheldon 1st Ward,Soil and Water Conservation District Commissioner,,,Matt Jones,433,91,342
+O'Brien,Sheldon 2nd Ward,Soil and Water Conservation District Commissioner,,,Matt Jones,304,45,259
+O'Brien,Sheldon 3rd Ward,Soil and Water Conservation District Commissioner,,,Matt Jones,255,25,230
+O'Brien,Summit-Center-Dale-Highland,Soil and Water Conservation District Commissioner,,,Matt Jones,423,85,338
+O'Brien,Union-Baker-Caledonia,Soil and Water Conservation District Commissioner,,,Matt Jones,411,57,354
+O'Brien,Waterman-Grant-Liberty,Soil and Water Conservation District Commissioner,,,Matt Jones,322,40,282
+O'Brien,Carroll-Floyd,Soil and Water Conservation District Commissioner,,,Carmen Billick,156,33,123
+O'Brien,Franklin,Soil and Water Conservation District Commissioner,,,Carmen Billick,325,54,271
+O'Brien,Hartley-Lincoln-Omega,Soil and Water Conservation District Commissioner,,,Carmen Billick,447,44,403
+O'Brien,Sheldon 1st Ward,Soil and Water Conservation District Commissioner,,,Carmen Billick,386,81,305
+O'Brien,Sheldon 2nd Ward,Soil and Water Conservation District Commissioner,,,Carmen Billick,248,35,213
+O'Brien,Sheldon 3rd Ward,Soil and Water Conservation District Commissioner,,,Carmen Billick,237,24,213
+O'Brien,Summit-Center-Dale-Highland,Soil and Water Conservation District Commissioner,,,Carmen Billick,433,83,350
+O'Brien,Union-Baker-Caledonia,Soil and Water Conservation District Commissioner,,,Carmen Billick,471,65,406
+O'Brien,Waterman-Grant-Liberty,Soil and Water Conservation District Commissioner,,,Carmen Billick,293,34,259
+O'Brien,Carroll-Floyd,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+O'Brien,Franklin,Soil and Water Conservation District Commissioner,,,Write-in,4,0,4
+O'Brien,Hartley-Lincoln-Omega,Soil and Water Conservation District Commissioner,,,Write-in,6,0,6
+O'Brien,Sheldon 1st Ward,Soil and Water Conservation District Commissioner,,,Write-in,4,0,4
+O'Brien,Sheldon 2nd Ward,Soil and Water Conservation District Commissioner,,,Write-in,3,0,3
+O'Brien,Sheldon 3rd Ward,Soil and Water Conservation District Commissioner,,,Write-in,6,0,6
+O'Brien,Summit-Center-Dale-Highland,Soil and Water Conservation District Commissioner,,,Write-in,6,1,5
+O'Brien,Union-Baker-Caledonia,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+O'Brien,Waterman-Grant-Liberty,Soil and Water Conservation District Commissioner,,,Write-in,7,0,7
+O'Brien,Carroll-Floyd,County Agricultural Extension Council Member,,,Ron McCarty,153,22,131
+O'Brien,Franklin,County Agricultural Extension Council Member,,,Ron McCarty,306,54,252
+O'Brien,Hartley-Lincoln-Omega,County Agricultural Extension Council Member,,,Ron McCarty,450,46,404
+O'Brien,Sheldon 1st Ward,County Agricultural Extension Council Member,,,Ron McCarty,418,86,332
+O'Brien,Sheldon 2nd Ward,County Agricultural Extension Council Member,,,Ron McCarty,275,47,228
+O'Brien,Sheldon 3rd Ward,County Agricultural Extension Council Member,,,Ron McCarty,237,27,210
+O'Brien,Summit-Center-Dale-Highland,County Agricultural Extension Council Member,,,Ron McCarty,369,70,299
+O'Brien,Union-Baker-Caledonia,County Agricultural Extension Council Member,,,Ron McCarty,417,52,365
+O'Brien,Waterman-Grant-Liberty,County Agricultural Extension Council Member,,,Ron McCarty,285,43,242
+O'Brien,Carroll-Floyd,County Agricultural Extension Council Member,,,Alicia Poduska,146,27,119
+O'Brien,Franklin,County Agricultural Extension Council Member,,,Alicia Poduska,276,49,227
+O'Brien,Hartley-Lincoln-Omega,County Agricultural Extension Council Member,,,Alicia Poduska,463,46,417
+O'Brien,Sheldon 1st Ward,County Agricultural Extension Council Member,,,Alicia Poduska,359,76,283
+O'Brien,Sheldon 2nd Ward,County Agricultural Extension Council Member,,,Alicia Poduska,236,35,201
+O'Brien,Sheldon 3rd Ward,County Agricultural Extension Council Member,,,Alicia Poduska,202,18,184
+O'Brien,Summit-Center-Dale-Highland,County Agricultural Extension Council Member,,,Alicia Poduska,358,68,290
+O'Brien,Union-Baker-Caledonia,County Agricultural Extension Council Member,,,Alicia Poduska,392,58,334
+O'Brien,Waterman-Grant-Liberty,County Agricultural Extension Council Member,,,Alicia Poduska,266,37,229
+O'Brien,Carroll-Floyd,County Agricultural Extension Council Member,,,Michael Schmalen,174,31,143
+O'Brien,Franklin,County Agricultural Extension Council Member,,,Michael Schmalen,277,50,227
+O'Brien,Hartley-Lincoln-Omega,County Agricultural Extension Council Member,,,Michael Schmalen,414,45,369
+O'Brien,Sheldon 1st Ward,County Agricultural Extension Council Member,,,Michael Schmalen,431,86,345
+O'Brien,Sheldon 2nd Ward,County Agricultural Extension Council Member,,,Michael Schmalen,269,44,225
+O'Brien,Sheldon 3rd Ward,County Agricultural Extension Council Member,,,Michael Schmalen,221,21,200
+O'Brien,Summit-Center-Dale-Highland,County Agricultural Extension Council Member,,,Michael Schmalen,358,72,286
+O'Brien,Union-Baker-Caledonia,County Agricultural Extension Council Member,,,Michael Schmalen,384,53,331
+O'Brien,Waterman-Grant-Liberty,County Agricultural Extension Council Member,,,Michael Schmalen,263,38,225
+O'Brien,Carroll-Floyd,County Agricultural Extension Council Member,,,Ryan McCarty,170,29,141
+O'Brien,Franklin,County Agricultural Extension Council Member,,,Ryan McCarty,291,52,239
+O'Brien,Hartley-Lincoln-Omega,County Agricultural Extension Council Member,,,Ryan McCarty,460,45,415
+O'Brien,Sheldon 1st Ward,County Agricultural Extension Council Member,,,Ryan McCarty,396,85,311
+O'Brien,Sheldon 2nd Ward,County Agricultural Extension Council Member,,,Ryan McCarty,248,41,207
+O'Brien,Sheldon 3rd Ward,County Agricultural Extension Council Member,,,Ryan McCarty,224,18,206
+O'Brien,Summit-Center-Dale-Highland,County Agricultural Extension Council Member,,,Ryan McCarty,365,74,291
+O'Brien,Union-Baker-Caledonia,County Agricultural Extension Council Member,,,Ryan McCarty,415,53,362
+O'Brien,Waterman-Grant-Liberty,County Agricultural Extension Council Member,,,Ryan McCarty,278,36,242
+O'Brien,Carroll-Floyd,County Agricultural Extension Council Member,,,Write-in,8,3,5
+O'Brien,Franklin,County Agricultural Extension Council Member,,,Write-in,12,3,9
+O'Brien,Hartley-Lincoln-Omega,County Agricultural Extension Council Member,,,Write-in,15,1,14
+O'Brien,Sheldon 1st Ward,County Agricultural Extension Council Member,,,Write-in,27,4,23
+O'Brien,Sheldon 2nd Ward,County Agricultural Extension Council Member,,,Write-in,15,1,14
+O'Brien,Sheldon 3rd Ward,County Agricultural Extension Council Member,,,Write-in,14,0,14
+O'Brien,Summit-Center-Dale-Highland,County Agricultural Extension Council Member,,,Write-in,26,7,19
+O'Brien,Union-Baker-Caledonia,County Agricultural Extension Council Member,,,Write-in,18,5,13
+O'Brien,Waterman-Grant-Liberty,County Agricultural Extension Council Member,,,Write-in,18,1,17
+O'Brien,Carroll-Floyd,County Agricultural Extension Council Member,,,Stephen Maier,1,0,1
+O'Brien,Franklin,County Agricultural Extension Council Member,,,Stephen Maier,0,0,0
+O'Brien,Hartley-Lincoln-Omega,County Agricultural Extension Council Member,,,Stephen Maier,5,0,5
+O'Brien,Sheldon 1st Ward,County Agricultural Extension Council Member,,,Stephen Maier,2,0,2
+O'Brien,Sheldon 2nd Ward,County Agricultural Extension Council Member,,,Stephen Maier,0,0,0
+O'Brien,Sheldon 3rd Ward,County Agricultural Extension Council Member,,,Stephen Maier,0,0,0
+O'Brien,Summit-Center-Dale-Highland,County Agricultural Extension Council Member,,,Stephen Maier,1,0,1
+O'Brien,Union-Baker-Caledonia,County Agricultural Extension Council Member,,,Stephen Maier,13,0,13
+O'Brien,Waterman-Grant-Liberty,County Agricultural Extension Council Member,,,Stephen Maier,3,0,3
+O'Brien,Carroll-Floyd,Supreme Court Justice,,,Yes,170,26,144
+O'Brien,Franklin,Supreme Court Justice,,,Yes,310,43,267
+O'Brien,Hartley-Lincoln-Omega,Supreme Court Justice,,,Yes,425,42,383
+O'Brien,Sheldon 1st Ward,Supreme Court Justice,,,Yes,389,73,316
+O'Brien,Sheldon 2nd Ward,Supreme Court Justice,,,Yes,271,43,228
+O'Brien,Sheldon 3rd Ward,Supreme Court Justice,,,Yes,246,22,224
+O'Brien,Summit-Center-Dale-Highland,Supreme Court Justice,,,Yes,343,62,281
+O'Brien,Union-Baker-Caledonia,Supreme Court Justice,,,Yes,377,53,324
+O'Brien,Waterman-Grant-Liberty,Supreme Court Justice,,,Yes,255,28,227
+O'Brien,Carroll-Floyd,Supreme Court Justice,,,No,47,10,37
+O'Brien,Franklin,Supreme Court Justice,,,No,75,10,65
+O'Brien,Hartley-Lincoln-Omega,Supreme Court Justice,,,No,131,20,111
+O'Brien,Sheldon 1st Ward,Supreme Court Justice,,,No,77,14,63
+O'Brien,Sheldon 2nd Ward,Supreme Court Justice,,,No,58,5,53
+O'Brien,Sheldon 3rd Ward,Supreme Court Justice,,,No,69,7,62
+O'Brien,Summit-Center-Dale-Highland,Supreme Court Justice,,,No,91,16,75
+O'Brien,Union-Baker-Caledonia,Supreme Court Justice,,,No,82,15,67
+O'Brien,Waterman-Grant-Liberty,Supreme Court Justice,,,No,73,12,61
+O'Brien,Carroll-Floyd,Court of Appeals Judge,,,Yes,159,29,130
+O'Brien,Franklin,Court of Appeals Judge,,,Yes,308,47,261
+O'Brien,Hartley-Lincoln-Omega,Court of Appeals Judge,,,Yes,440,51,389
+O'Brien,Sheldon 1st Ward,Court of Appeals Judge,,,Yes,379,71,308
+O'Brien,Sheldon 2nd Ward,Court of Appeals Judge,,,Yes,271,45,226
+O'Brien,Sheldon 3rd Ward,Court of Appeals Judge,,,Yes,242,23,219
+O'Brien,Summit-Center-Dale-Highland,Court of Appeals Judge,,,Yes,338,63,275
+O'Brien,Union-Baker-Caledonia,Court of Appeals Judge,,,Yes,379,54,325
+O'Brien,Waterman-Grant-Liberty,Court of Appeals Judge,,,Yes,248,25,223
+O'Brien,Carroll-Floyd,Court of Appeals Judge,,,No,40,9,31
+O'Brien,Franklin,Court of Appeals Judge,,,No,54,6,48
+O'Brien,Hartley-Lincoln-Omega,Court of Appeals Judge,,,No,109,11,98
+O'Brien,Sheldon 1st Ward,Court of Appeals Judge,,,No,64,12,52
+O'Brien,Sheldon 2nd Ward,Court of Appeals Judge,,,No,52,6,46
+O'Brien,Sheldon 3rd Ward,Court of Appeals Judge,,,No,63,4,59
+O'Brien,Summit-Center-Dale-Highland,Court of Appeals Judge,,,No,85,12,73
+O'Brien,Union-Baker-Caledonia,Court of Appeals Judge,,,No,71,12,59
+O'Brien,Waterman-Grant-Liberty,Court of Appeals Judge,,,No,71,14,57
+O'Brien,Carroll-Floyd,District 3A Judge,,,Yes,169,29,140
+O'Brien,Franklin,District 3A Judge,,,Yes,353,47,306
+O'Brien,Hartley-Lincoln-Omega,District 3A Judge,,,Yes,523,63,460
+O'Brien,Sheldon 1st Ward,District 3A Judge,,,Yes,392,68,324
+O'Brien,Sheldon 2nd Ward,District 3A Judge,,,Yes,277,44,233
+O'Brien,Sheldon 3rd Ward,District 3A Judge,,,Yes,248,23,225
+O'Brien,Summit-Center-Dale-Highland,District 3A Judge,,,Yes,357,63,294
+O'Brien,Union-Baker-Caledonia,District 3A Judge,,,Yes,400,56,344
+O'Brien,Waterman-Grant-Liberty,District 3A Judge,,,Yes,266,26,240
+O'Brien,Carroll-Floyd,District 3A Judge,,,No,33,9,24
+O'Brien,Franklin,District 3A Judge,,,No,45,7,38
+O'Brien,Hartley-Lincoln-Omega,District 3A Judge,,,No,85,13,72
+O'Brien,Sheldon 1st Ward,District 3A Judge,,,No,73,18,55
+O'Brien,Sheldon 2nd Ward,District 3A Judge,,,No,49,7,42
+O'Brien,Sheldon 3rd Ward,District 3A Judge,,,No,54,5,49
+O'Brien,Summit-Center-Dale-Highland,District 3A Judge,,,No,85,11,74
+O'Brien,Union-Baker-Caledonia,District 3A Judge,,,No,70,13,57
+O'Brien,Waterman-Grant-Liberty,District 3A Judge,,,No,68,11,57
+O'Brien,Carroll-Floyd,District 3A Associate Judge,,,Yes,164,28,136
+O'Brien,Franklin,District 3A Associate Judge,,,Yes,330,50,280
+O'Brien,Hartley-Lincoln-Omega,District 3A Associate Judge,,,Yes,477,53,424
+O'Brien,Sheldon 1st Ward,District 3A Associate Judge,,,Yes,402,72,330
+O'Brien,Sheldon 2nd Ward,District 3A Associate Judge,,,Yes,280,43,237
+O'Brien,Sheldon 3rd Ward,District 3A Associate Judge,,,Yes,255,24,231
+O'Brien,Summit-Center-Dale-Highland,District 3A Associate Judge,,,Yes,362,65,297
+O'Brien,Union-Baker-Caledonia,District 3A Associate Judge,,,Yes,403,58,345
+O'Brien,Waterman-Grant-Liberty,District 3A Associate Judge,,,Yes,263,25,238
+O'Brien,Carroll-Floyd,District 3A Associate Judge,,,No,43,9,34
+O'Brien,Franklin,District 3A Associate Judge,,,No,48,6,42
+O'Brien,Hartley-Lincoln-Omega,District 3A Associate Judge,,,No,97,14,83
+O'Brien,Sheldon 1st Ward,District 3A Associate Judge,,,No,61,13,48
+O'Brien,Sheldon 2nd Ward,District 3A Associate Judge,,,No,58,10,48
+O'Brien,Sheldon 3rd Ward,District 3A Associate Judge,,,No,58,3,55
+O'Brien,Summit-Center-Dale-Highland,District 3A Associate Judge,,,No,87,12,75
+O'Brien,Union-Baker-Caledonia,District 3A Associate Judge,,,No,68,12,56
+O'Brien,Waterman-Grant-Liberty,District 3A Associate Judge,,,No,73,13,60
+O'Brien,Carroll-Floyd,Constitutional Amendment 1,,,Yes,252,37,215
+O'Brien,Franklin,Constitutional Amendment 1,,,Yes,508,61,447
+O'Brien,Hartley-Lincoln-Omega,Constitutional Amendment 1,,,Yes,634,70,564
+O'Brien,Sheldon 1st Ward,Constitutional Amendment 1,,,Yes,649,103,546
+O'Brien,Sheldon 2nd Ward,Constitutional Amendment 1,,,Yes,375,64,311
+O'Brien,Sheldon 3rd Ward,Constitutional Amendment 1,,,Yes,350,31,319
+O'Brien,Summit-Center-Dale-Highland,Constitutional Amendment 1,,,Yes,490,81,409
+O'Brien,Union-Baker-Caledonia,Constitutional Amendment 1,,,Yes,529,65,464
+O'Brien,Waterman-Grant-Liberty,Constitutional Amendment 1,,,Yes,407,49,358
+O'Brien,Carroll-Floyd,Constitutional Amendment 1,,,No,38,17,21
+O'Brien,Franklin,Constitutional Amendment 1,,,No,73,11,62
+O'Brien,Hartley-Lincoln-Omega,Constitutional Amendment 1,,,No,106,27,79
+O'Brien,Sheldon 1st Ward,Constitutional Amendment 1,,,No,101,36,65
+O'Brien,Sheldon 2nd Ward,Constitutional Amendment 1,,,No,71,15,56
+O'Brien,Sheldon 3rd Ward,Constitutional Amendment 1,,,No,54,12,42
+O'Brien,Summit-Center-Dale-Highland,Constitutional Amendment 1,,,No,103,25,78
+O'Brien,Union-Baker-Caledonia,Constitutional Amendment 1,,,No,85,24,61
+O'Brien,Waterman-Grant-Liberty,Constitutional Amendment 1,,,No,67,9,58

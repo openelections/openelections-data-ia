@@ -1,0 +1,926 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Bremer,#1 Polk Twp/City of Plainfield,U.S. Senate,,DEM,Michael Franken,110,37,73
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,U.S. Senate,,DEM,Michael Franken,122,50,72
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,U.S. Senate,,DEM,Michael Franken,331,101,230
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,U.S. Senate,,DEM,Michael Franken,337,112,225
+Bremer,#5 Lafayette Twp/Washington Twp,U.S. Senate,,DEM,Michael Franken,250,130,120
+Bremer,#6 Jackson Twp/City of Janesville,U.S. Senate,,DEM,Michael Franken,295,105,190
+Bremer,#7 Jefferson Twp,U.S. Senate,,DEM,Michael Franken,242,107,135
+Bremer,#8 City of Denver,U.S. Senate,,DEM,Michael Franken,322,96,226
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,U.S. Senate,,DEM,Michael Franken,199,79,120
+Bremer,#10 City of Waverly Ward 1,U.S. Senate,,DEM,Michael Franken,474,241,233
+Bremer,#11 City of Waverly Ward 2,U.S. Senate,,DEM,Michael Franken,407,180,227
+Bremer,#12 City of Waverly Ward 3,U.S. Senate,,DEM,Michael Franken,268,91,177
+Bremer,#13 City of Waverly Ward 4,U.S. Senate,,DEM,Michael Franken,464,178,286
+Bremer,#14 City of Waverly Ward 5,U.S. Senate,,DEM,Michael Franken,524,249,275
+Bremer,#1 Polk Twp/City of Plainfield,U.S. Senate,,REP,Chuck Grassley,281,42,239
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,U.S. Senate,,REP,Chuck Grassley,305,56,249
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,U.S. Senate,,REP,Chuck Grassley,800,114,686
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,U.S. Senate,,REP,Chuck Grassley,580,125,455
+Bremer,#5 Lafayette Twp/Washington Twp,U.S. Senate,,REP,Chuck Grassley,378,100,278
+Bremer,#6 Jackson Twp/City of Janesville,U.S. Senate,,REP,Chuck Grassley,516,93,423
+Bremer,#7 Jefferson Twp,U.S. Senate,,REP,Chuck Grassley,464,111,353
+Bremer,#8 City of Denver,U.S. Senate,,REP,Chuck Grassley,549,73,476
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,U.S. Senate,,REP,Chuck Grassley,543,81,462
+Bremer,#10 City of Waverly Ward 1,U.S. Senate,,REP,Chuck Grassley,538,181,357
+Bremer,#11 City of Waverly Ward 2,U.S. Senate,,REP,Chuck Grassley,539,139,400
+Bremer,#12 City of Waverly Ward 3,U.S. Senate,,REP,Chuck Grassley,205,35,170
+Bremer,#13 City of Waverly Ward 4,U.S. Senate,,REP,Chuck Grassley,438,108,330
+Bremer,#14 City of Waverly Ward 5,U.S. Senate,,REP,Chuck Grassley,505,158,347
+Bremer,#1 Polk Twp/City of Plainfield,U.S. Senate,,,Write-in,0,0,0
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,U.S. Senate,,,Write-in,0,0,0
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,U.S. Senate,,,Write-in,1,0,1
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,U.S. Senate,,,Write-in,2,1,1
+Bremer,#5 Lafayette Twp/Washington Twp,U.S. Senate,,,Write-in,1,0,1
+Bremer,#6 Jackson Twp/City of Janesville,U.S. Senate,,,Write-in,0,0,0
+Bremer,#7 Jefferson Twp,U.S. Senate,,,Write-in,0,0,0
+Bremer,#8 City of Denver,U.S. Senate,,,Write-in,0,0,0
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,U.S. Senate,,,Write-in,0,0,0
+Bremer,#10 City of Waverly Ward 1,U.S. Senate,,,Write-in,1,0,1
+Bremer,#11 City of Waverly Ward 2,U.S. Senate,,,Write-in,1,0,1
+Bremer,#12 City of Waverly Ward 3,U.S. Senate,,,Write-in,0,0,0
+Bremer,#13 City of Waverly Ward 4,U.S. Senate,,,Write-in,0,0,0
+Bremer,#14 City of Waverly Ward 5,U.S. Senate,,,Write-in,0,0,0
+Bremer,#1 Polk Twp/City of Plainfield,U.S. House,2,DEM,Liz Mathis,112,41,71
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,U.S. House,2,DEM,Liz Mathis,126,50,76
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,U.S. House,2,DEM,Liz Mathis,352,114,238
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,U.S. House,2,DEM,Liz Mathis,333,114,219
+Bremer,#5 Lafayette Twp/Washington Twp,U.S. House,2,DEM,Liz Mathis,263,136,127
+Bremer,#6 Jackson Twp/City of Janesville,U.S. House,2,DEM,Liz Mathis,306,109,197
+Bremer,#7 Jefferson Twp,U.S. House,2,DEM,Liz Mathis,237,106,131
+Bremer,#8 City of Denver,U.S. House,2,DEM,Liz Mathis,317,100,217
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,U.S. House,2,DEM,Liz Mathis,201,83,118
+Bremer,#10 City of Waverly Ward 1,U.S. House,2,DEM,Liz Mathis,482,240,242
+Bremer,#11 City of Waverly Ward 2,U.S. House,2,DEM,Liz Mathis,418,188,230
+Bremer,#12 City of Waverly Ward 3,U.S. House,2,DEM,Liz Mathis,274,92,182
+Bremer,#13 City of Waverly Ward 4,U.S. House,2,DEM,Liz Mathis,471,190,281
+Bremer,#14 City of Waverly Ward 5,U.S. House,2,DEM,Liz Mathis,536,256,280
+Bremer,#1 Polk Twp/City of Plainfield,U.S. House,2,REP,Ashley Hinson,278,38,240
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,U.S. House,2,REP,Ashley Hinson,300,56,244
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,U.S. House,2,REP,Ashley Hinson,782,101,681
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,U.S. House,2,REP,Ashley Hinson,587,125,462
+Bremer,#5 Lafayette Twp/Washington Twp,U.S. House,2,REP,Ashley Hinson,366,93,273
+Bremer,#6 Jackson Twp/City of Janesville,U.S. House,2,REP,Ashley Hinson,507,88,419
+Bremer,#7 Jefferson Twp,U.S. House,2,REP,Ashley Hinson,473,112,361
+Bremer,#8 City of Denver,U.S. House,2,REP,Ashley Hinson,551,68,483
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,U.S. House,2,REP,Ashley Hinson,540,77,463
+Bremer,#10 City of Waverly Ward 1,U.S. House,2,REP,Ashley Hinson,531,185,346
+Bremer,#11 City of Waverly Ward 2,U.S. House,2,REP,Ashley Hinson,533,134,399
+Bremer,#12 City of Waverly Ward 3,U.S. House,2,REP,Ashley Hinson,200,35,165
+Bremer,#13 City of Waverly Ward 4,U.S. House,2,REP,Ashley Hinson,434,99,335
+Bremer,#14 City of Waverly Ward 5,U.S. House,2,REP,Ashley Hinson,494,152,342
+Bremer,#1 Polk Twp/City of Plainfield,U.S. House,2,,Write-in,1,0,1
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,U.S. House,2,,Write-in,0,0,0
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,U.S. House,2,,Write-in,1,1,0
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,U.S. House,2,,Write-in,0,0,0
+Bremer,#5 Lafayette Twp/Washington Twp,U.S. House,2,,Write-in,1,0,1
+Bremer,#6 Jackson Twp/City of Janesville,U.S. House,2,,Write-in,0,0,0
+Bremer,#7 Jefferson Twp,U.S. House,2,,Write-in,0,0,0
+Bremer,#8 City of Denver,U.S. House,2,,Write-in,2,0,2
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,U.S. House,2,,Write-in,0,0,0
+Bremer,#10 City of Waverly Ward 1,U.S. House,2,,Write-in,0,0,0
+Bremer,#11 City of Waverly Ward 2,U.S. House,2,,Write-in,1,0,1
+Bremer,#12 City of Waverly Ward 3,U.S. House,2,,Write-in,0,0,0
+Bremer,#13 City of Waverly Ward 4,U.S. House,2,,Write-in,0,0,0
+Bremer,#14 City of Waverly Ward 5,U.S. House,2,,Write-in,0,0,0
+Bremer,#1 Polk Twp/City of Plainfield,Governor,,DEM,Deidre DeJear and Eric Van Lancker,85,35,50
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Governor,,DEM,Deidre DeJear and Eric Van Lancker,109,44,65
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Governor,,DEM,Deidre DeJear and Eric Van Lancker,261,89,172
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Governor,,DEM,Deidre DeJear and Eric Van Lancker,296,100,196
+Bremer,#5 Lafayette Twp/Washington Twp,Governor,,DEM,Deidre DeJear and Eric Van Lancker,230,125,105
+Bremer,#6 Jackson Twp/City of Janesville,Governor,,DEM,Deidre DeJear and Eric Van Lancker,264,96,168
+Bremer,#7 Jefferson Twp,Governor,,DEM,Deidre DeJear and Eric Van Lancker,211,95,116
+Bremer,#8 City of Denver,Governor,,DEM,Deidre DeJear and Eric Van Lancker,268,86,182
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Governor,,DEM,Deidre DeJear and Eric Van Lancker,154,72,82
+Bremer,#10 City of Waverly Ward 1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,437,227,210
+Bremer,#11 City of Waverly Ward 2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,365,173,192
+Bremer,#12 City of Waverly Ward 3,Governor,,DEM,Deidre DeJear and Eric Van Lancker,249,86,163
+Bremer,#13 City of Waverly Ward 4,Governor,,DEM,Deidre DeJear and Eric Van Lancker,416,170,246
+Bremer,#14 City of Waverly Ward 5,Governor,,DEM,Deidre DeJear and Eric Van Lancker,475,233,242
+Bremer,#1 Polk Twp/City of Plainfield,Governor,,REP,Kim Reynolds and Adam Gregg,302,43,259
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Governor,,REP,Kim Reynolds and Adam Gregg,311,61,250
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Governor,,REP,Kim Reynolds and Adam Gregg,847,126,721
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Governor,,REP,Kim Reynolds and Adam Gregg,605,138,467
+Bremer,#5 Lafayette Twp/Washington Twp,Governor,,REP,Kim Reynolds and Adam Gregg,381,102,279
+Bremer,#6 Jackson Twp/City of Janesville,Governor,,REP,Kim Reynolds and Adam Gregg,546,103,443
+Bremer,#7 Jefferson Twp,Governor,,REP,Kim Reynolds and Adam Gregg,489,122,367
+Bremer,#8 City of Denver,Governor,,REP,Kim Reynolds and Adam Gregg,574,79,495
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Governor,,REP,Kim Reynolds and Adam Gregg,581,86,495
+Bremer,#10 City of Waverly Ward 1,Governor,,REP,Kim Reynolds and Adam Gregg,563,194,369
+Bremer,#11 City of Waverly Ward 2,Governor,,REP,Kim Reynolds and Adam Gregg,569,145,424
+Bremer,#12 City of Waverly Ward 3,Governor,,REP,Kim Reynolds and Adam Gregg,207,38,169
+Bremer,#13 City of Waverly Ward 4,Governor,,REP,Kim Reynolds and Adam Gregg,473,116,357
+Bremer,#14 City of Waverly Ward 5,Governor,,REP,Kim Reynolds and Adam Gregg,541,176,365
+Bremer,#1 Polk Twp/City of Plainfield,Governor,,LIB,Rick Stewart and Marco Battaglia,4,0,4
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Governor,,LIB,Rick Stewart and Marco Battaglia,9,3,6
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Governor,,LIB,Rick Stewart and Marco Battaglia,36,6,30
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Governor,,LIB,Rick Stewart and Marco Battaglia,27,5,22
+Bremer,#5 Lafayette Twp/Washington Twp,Governor,,LIB,Rick Stewart and Marco Battaglia,16,4,12
+Bremer,#6 Jackson Twp/City of Janesville,Governor,,LIB,Rick Stewart and Marco Battaglia,14,2,12
+Bremer,#7 Jefferson Twp,Governor,,LIB,Rick Stewart and Marco Battaglia,17,2,15
+Bremer,#8 City of Denver,Governor,,LIB,Rick Stewart and Marco Battaglia,29,3,26
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Governor,,LIB,Rick Stewart and Marco Battaglia,15,3,12
+Bremer,#10 City of Waverly Ward 1,Governor,,LIB,Rick Stewart and Marco Battaglia,21,5,16
+Bremer,#11 City of Waverly Ward 2,Governor,,LIB,Rick Stewart and Marco Battaglia,23,7,16
+Bremer,#12 City of Waverly Ward 3,Governor,,LIB,Rick Stewart and Marco Battaglia,18,4,14
+Bremer,#13 City of Waverly Ward 4,Governor,,LIB,Rick Stewart and Marco Battaglia,21,6,15
+Bremer,#14 City of Waverly Ward 5,Governor,,LIB,Rick Stewart and Marco Battaglia,27,7,20
+Bremer,#1 Polk Twp/City of Plainfield,Governor,,,Write-in,0,0,0
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Governor,,,Write-in,0,0,0
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Governor,,,Write-in,0,0,0
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Governor,,,Write-in,0,0,0
+Bremer,#5 Lafayette Twp/Washington Twp,Governor,,,Write-in,3,0,3
+Bremer,#6 Jackson Twp/City of Janesville,Governor,,,Write-in,0,0,0
+Bremer,#7 Jefferson Twp,Governor,,,Write-in,0,0,0
+Bremer,#8 City of Denver,Governor,,,Write-in,0,0,0
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Governor,,,Write-in,1,0,1
+Bremer,#10 City of Waverly Ward 1,Governor,,,Write-in,0,0,0
+Bremer,#11 City of Waverly Ward 2,Governor,,,Write-in,0,0,0
+Bremer,#12 City of Waverly Ward 3,Governor,,,Write-in,0,0,0
+Bremer,#13 City of Waverly Ward 4,Governor,,,Write-in,0,0,0
+Bremer,#14 City of Waverly Ward 5,Governor,,,Write-in,0,0,0
+Bremer,#1 Polk Twp/City of Plainfield,Secretary of State,,DEM,Joel Miller,94,34,60
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Secretary of State,,DEM,Joel Miller,114,45,69
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Secretary of State,,DEM,Joel Miller,276,93,183
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Secretary of State,,DEM,Joel Miller,270,90,180
+Bremer,#5 Lafayette Twp/Washington Twp,Secretary of State,,DEM,Joel Miller,208,109,99
+Bremer,#6 Jackson Twp/City of Janesville,Secretary of State,,DEM,Joel Miller,266,97,169
+Bremer,#7 Jefferson Twp,Secretary of State,,DEM,Joel Miller,190,85,105
+Bremer,#8 City of Denver,Secretary of State,,DEM,Joel Miller,278,79,199
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Secretary of State,,DEM,Joel Miller,161,61,100
+Bremer,#10 City of Waverly Ward 1,Secretary of State,,DEM,Joel Miller,406,199,207
+Bremer,#11 City of Waverly Ward 2,Secretary of State,,DEM,Joel Miller,332,152,180
+Bremer,#12 City of Waverly Ward 3,Secretary of State,,DEM,Joel Miller,231,73,158
+Bremer,#13 City of Waverly Ward 4,Secretary of State,,DEM,Joel Miller,394,154,240
+Bremer,#14 City of Waverly Ward 5,Secretary of State,,DEM,Joel Miller,410,197,213
+Bremer,#1 Polk Twp/City of Plainfield,Secretary of State,,REP,Paul D. Pate,289,44,245
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Secretary of State,,REP,Paul D. Pate,309,62,247
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Secretary of State,,REP,Paul D. Pate,850,124,726
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Secretary of State,,REP,Paul D. Pate,631,146,485
+Bremer,#5 Lafayette Twp/Washington Twp,Secretary of State,,REP,Paul D. Pate,414,119,295
+Bremer,#6 Jackson Twp/City of Janesville,Secretary of State,,REP,Paul D. Pate,540,99,441
+Bremer,#7 Jefferson Twp,Secretary of State,,REP,Paul D. Pate,507,129,378
+Bremer,#8 City of Denver,Secretary of State,,REP,Paul D. Pate,584,88,496
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Secretary of State,,REP,Paul D. Pate,582,99,483
+Bremer,#10 City of Waverly Ward 1,Secretary of State,,REP,Paul D. Pate,605,224,381
+Bremer,#11 City of Waverly Ward 2,Secretary of State,,REP,Paul D. Pate,614,171,443
+Bremer,#12 City of Waverly Ward 3,Secretary of State,,REP,Paul D. Pate,234,51,183
+Bremer,#13 City of Waverly Ward 4,Secretary of State,,REP,Paul D. Pate,505,137,368
+Bremer,#14 City of Waverly Ward 5,Secretary of State,,REP,Paul D. Pate,605,207,398
+Bremer,#1 Polk Twp/City of Plainfield,Secretary of State,,,Write-in,0,0,0
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Secretary of State,,,Write-in,0,0,0
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Secretary of State,,,Write-in,1,1,0
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Secretary of State,,,Write-in,0,0,0
+Bremer,#5 Lafayette Twp/Washington Twp,Secretary of State,,,Write-in,1,0,1
+Bremer,#6 Jackson Twp/City of Janesville,Secretary of State,,,Write-in,0,0,0
+Bremer,#7 Jefferson Twp,Secretary of State,,,Write-in,0,0,0
+Bremer,#8 City of Denver,Secretary of State,,,Write-in,0,0,0
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Secretary of State,,,Write-in,0,0,0
+Bremer,#10 City of Waverly Ward 1,Secretary of State,,,Write-in,0,0,0
+Bremer,#11 City of Waverly Ward 2,Secretary of State,,,Write-in,0,0,0
+Bremer,#12 City of Waverly Ward 3,Secretary of State,,,Write-in,0,0,0
+Bremer,#13 City of Waverly Ward 4,Secretary of State,,,Write-in,0,0,0
+Bremer,#14 City of Waverly Ward 5,Secretary of State,,,Write-in,0,0,0
+Bremer,#1 Polk Twp/City of Plainfield,Auditor of State,,DEM,Rob Sand,154,42,112
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Auditor of State,,DEM,Rob Sand,173,62,111
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Auditor of State,,DEM,Rob Sand,480,139,341
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Auditor of State,,DEM,Rob Sand,451,145,306
+Bremer,#5 Lafayette Twp/Washington Twp,Auditor of State,,DEM,Rob Sand,321,156,165
+Bremer,#6 Jackson Twp/City of Janesville,Auditor of State,,DEM,Rob Sand,382,136,246
+Bremer,#7 Jefferson Twp,Auditor of State,,DEM,Rob Sand,288,119,169
+Bremer,#8 City of Denver,Auditor of State,,DEM,Rob Sand,432,116,316
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Auditor of State,,DEM,Rob Sand,266,93,173
+Bremer,#10 City of Waverly Ward 1,Auditor of State,,DEM,Rob Sand,572,281,291
+Bremer,#11 City of Waverly Ward 2,Auditor of State,,DEM,Rob Sand,501,219,282
+Bremer,#12 City of Waverly Ward 3,Auditor of State,,DEM,Rob Sand,286,90,196
+Bremer,#13 City of Waverly Ward 4,Auditor of State,,DEM,Rob Sand,543,216,327
+Bremer,#14 City of Waverly Ward 5,Auditor of State,,DEM,Rob Sand,624,292,332
+Bremer,#1 Polk Twp/City of Plainfield,Auditor of State,,REP,Todd Halbur,234,37,197
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Auditor of State,,REP,Todd Halbur,250,44,206
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Auditor of State,,REP,Todd Halbur,646,79,567
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Auditor of State,,REP,Todd Halbur,453,93,360
+Bremer,#5 Lafayette Twp/Washington Twp,Auditor of State,,REP,Todd Halbur,303,74,229
+Bremer,#6 Jackson Twp/City of Janesville,Auditor of State,,REP,Todd Halbur,427,62,365
+Bremer,#7 Jefferson Twp,Auditor of State,,REP,Todd Halbur,401,96,305
+Bremer,#8 City of Denver,Auditor of State,,REP,Todd Halbur,428,52,376
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Auditor of State,,REP,Todd Halbur,470,66,404
+Bremer,#10 City of Waverly Ward 1,Auditor of State,,REP,Todd Halbur,429,140,289
+Bremer,#11 City of Waverly Ward 2,Auditor of State,,REP,Todd Halbur,441,104,337
+Bremer,#12 City of Waverly Ward 3,Auditor of State,,REP,Todd Halbur,178,35,143
+Bremer,#13 City of Waverly Ward 4,Auditor of State,,REP,Todd Halbur,350,74,276
+Bremer,#14 City of Waverly Ward 5,Auditor of State,,REP,Todd Halbur,386,107,279
+Bremer,#1 Polk Twp/City of Plainfield,Auditor of State,,,Write-in,0,0,0
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Auditor of State,,,Write-in,0,0,0
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Auditor of State,,,Write-in,1,1,0
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Auditor of State,,,Write-in,0,0,0
+Bremer,#5 Lafayette Twp/Washington Twp,Auditor of State,,,Write-in,0,0,0
+Bremer,#6 Jackson Twp/City of Janesville,Auditor of State,,,Write-in,0,0,0
+Bremer,#7 Jefferson Twp,Auditor of State,,,Write-in,0,0,0
+Bremer,#8 City of Denver,Auditor of State,,,Write-in,0,0,0
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Auditor of State,,,Write-in,0,0,0
+Bremer,#10 City of Waverly Ward 1,Auditor of State,,,Write-in,1,0,1
+Bremer,#11 City of Waverly Ward 2,Auditor of State,,,Write-in,0,0,0
+Bremer,#12 City of Waverly Ward 3,Auditor of State,,,Write-in,0,0,0
+Bremer,#13 City of Waverly Ward 4,Auditor of State,,,Write-in,0,0,0
+Bremer,#14 City of Waverly Ward 5,Auditor of State,,,Write-in,0,0,0
+Bremer,#1 Polk Twp/City of Plainfield,Treasurer of State,,DEM,Michael L. Fitzgerald,124,42,82
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Treasurer of State,,DEM,Michael L. Fitzgerald,152,58,94
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Treasurer of State,,DEM,Michael L. Fitzgerald,391,121,270
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Treasurer of State,,DEM,Michael L. Fitzgerald,386,129,257
+Bremer,#5 Lafayette Twp/Washington Twp,Treasurer of State,,DEM,Michael L. Fitzgerald,271,131,140
+Bremer,#6 Jackson Twp/City of Janesville,Treasurer of State,,DEM,Michael L. Fitzgerald,344,126,218
+Bremer,#7 Jefferson Twp,Treasurer of State,,DEM,Michael L. Fitzgerald,256,110,146
+Bremer,#8 City of Denver,Treasurer of State,,DEM,Michael L. Fitzgerald,377,110,267
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Treasurer of State,,DEM,Michael L. Fitzgerald,221,87,134
+Bremer,#10 City of Waverly Ward 1,Treasurer of State,,DEM,Michael L. Fitzgerald,526,269,257
+Bremer,#11 City of Waverly Ward 2,Treasurer of State,,DEM,Michael L. Fitzgerald,448,195,253
+Bremer,#12 City of Waverly Ward 3,Treasurer of State,,DEM,Michael L. Fitzgerald,261,85,176
+Bremer,#13 City of Waverly Ward 4,Treasurer of State,,DEM,Michael L. Fitzgerald,497,199,298
+Bremer,#14 City of Waverly Ward 5,Treasurer of State,,DEM,Michael L. Fitzgerald,570,259,311
+Bremer,#1 Polk Twp/City of Plainfield,Treasurer of State,,REP,Roby Smith,258,37,221
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Treasurer of State,,REP,Roby Smith,270,48,222
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Treasurer of State,,REP,Roby Smith,729,97,632
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Treasurer of State,,REP,Roby Smith,513,111,402
+Bremer,#5 Lafayette Twp/Washington Twp,Treasurer of State,,REP,Roby Smith,345,94,251
+Bremer,#6 Jackson Twp/City of Janesville,Treasurer of State,,REP,Roby Smith,458,69,389
+Bremer,#7 Jefferson Twp,Treasurer of State,,REP,Roby Smith,435,103,332
+Bremer,#8 City of Denver,Treasurer of State,,REP,Roby Smith,475,53,422
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Treasurer of State,,REP,Roby Smith,518,73,445
+Bremer,#10 City of Waverly Ward 1,Treasurer of State,,REP,Roby Smith,476,148,328
+Bremer,#11 City of Waverly Ward 2,Treasurer of State,,REP,Roby Smith,492,123,369
+Bremer,#12 City of Waverly Ward 3,Treasurer of State,,REP,Roby Smith,199,39,160
+Bremer,#13 City of Waverly Ward 4,Treasurer of State,,REP,Roby Smith,395,91,304
+Bremer,#14 City of Waverly Ward 5,Treasurer of State,,REP,Roby Smith,440,139,301
+Bremer,#1 Polk Twp/City of Plainfield,Treasurer of State,,,Write-in,0,0,0
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Treasurer of State,,,Write-in,0,0,0
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Treasurer of State,,,Write-in,0,0,0
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Treasurer of State,,,Write-in,0,0,0
+Bremer,#5 Lafayette Twp/Washington Twp,Treasurer of State,,,Write-in,0,0,0
+Bremer,#6 Jackson Twp/City of Janesville,Treasurer of State,,,Write-in,1,0,1
+Bremer,#7 Jefferson Twp,Treasurer of State,,,Write-in,0,0,0
+Bremer,#8 City of Denver,Treasurer of State,,,Write-in,1,0,1
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Treasurer of State,,,Write-in,0,0,0
+Bremer,#10 City of Waverly Ward 1,Treasurer of State,,,Write-in,0,0,0
+Bremer,#11 City of Waverly Ward 2,Treasurer of State,,,Write-in,0,0,0
+Bremer,#12 City of Waverly Ward 3,Treasurer of State,,,Write-in,0,0,0
+Bremer,#13 City of Waverly Ward 4,Treasurer of State,,,Write-in,1,0,1
+Bremer,#14 City of Waverly Ward 5,Treasurer of State,,,Write-in,0,0,0
+Bremer,#1 Polk Twp/City of Plainfield,Secretary of Agriculture,,DEM,John Norwood,84,34,50
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Secretary of Agriculture,,DEM,John Norwood,98,43,55
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Secretary of Agriculture,,DEM,John Norwood,258,93,165
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Secretary of Agriculture,,DEM,John Norwood,268,95,173
+Bremer,#5 Lafayette Twp/Washington Twp,Secretary of Agriculture,,DEM,John Norwood,201,109,92
+Bremer,#6 Jackson Twp/City of Janesville,Secretary of Agriculture,,DEM,John Norwood,255,101,154
+Bremer,#7 Jefferson Twp,Secretary of Agriculture,,DEM,John Norwood,189,92,97
+Bremer,#8 City of Denver,Secretary of Agriculture,,DEM,John Norwood,261,76,185
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Secretary of Agriculture,,DEM,John Norwood,138,55,83
+Bremer,#10 City of Waverly Ward 1,Secretary of Agriculture,,DEM,John Norwood,390,203,187
+Bremer,#11 City of Waverly Ward 2,Secretary of Agriculture,,DEM,John Norwood,323,154,169
+Bremer,#12 City of Waverly Ward 3,Secretary of Agriculture,,DEM,John Norwood,210,68,142
+Bremer,#13 City of Waverly Ward 4,Secretary of Agriculture,,DEM,John Norwood,374,153,221
+Bremer,#14 City of Waverly Ward 5,Secretary of Agriculture,,DEM,John Norwood,401,202,199
+Bremer,#1 Polk Twp/City of Plainfield,Secretary of Agriculture,,REP,Mike Naig,300,44,256
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Secretary of Agriculture,,REP,Mike Naig,324,63,261
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Secretary of Agriculture,,REP,Mike Naig,868,125,743
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Secretary of Agriculture,,REP,Mike Naig,636,143,493
+Bremer,#5 Lafayette Twp/Washington Twp,Secretary of Agriculture,,REP,Mike Naig,415,119,296
+Bremer,#6 Jackson Twp/City of Janesville,Secretary of Agriculture,,REP,Mike Naig,547,94,453
+Bremer,#7 Jefferson Twp,Secretary of Agriculture,,REP,Mike Naig,501,121,380
+Bremer,#8 City of Denver,Secretary of Agriculture,,REP,Mike Naig,591,88,503
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Secretary of Agriculture,,REP,Mike Naig,603,103,500
+Bremer,#10 City of Waverly Ward 1,Secretary of Agriculture,,REP,Mike Naig,608,214,394
+Bremer,#11 City of Waverly Ward 2,Secretary of Agriculture,,REP,Mike Naig,613,164,449
+Bremer,#12 City of Waverly Ward 3,Secretary of Agriculture,,REP,Mike Naig,242,50,192
+Bremer,#13 City of Waverly Ward 4,Secretary of Agriculture,,REP,Mike Naig,512,137,375
+Bremer,#14 City of Waverly Ward 5,Secretary of Agriculture,,REP,Mike Naig,607,198,409
+Bremer,#1 Polk Twp/City of Plainfield,Secretary of Agriculture,,,Write-in,0,0,0
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Secretary of Agriculture,,,Write-in,0,0,0
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Secretary of Agriculture,,,Write-in,0,0,0
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Secretary of Agriculture,,,Write-in,0,0,0
+Bremer,#5 Lafayette Twp/Washington Twp,Secretary of Agriculture,,,Write-in,1,0,1
+Bremer,#6 Jackson Twp/City of Janesville,Secretary of Agriculture,,,Write-in,1,0,1
+Bremer,#7 Jefferson Twp,Secretary of Agriculture,,,Write-in,0,0,0
+Bremer,#8 City of Denver,Secretary of Agriculture,,,Write-in,0,0,0
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Secretary of Agriculture,,,Write-in,0,0,0
+Bremer,#10 City of Waverly Ward 1,Secretary of Agriculture,,,Write-in,0,0,0
+Bremer,#11 City of Waverly Ward 2,Secretary of Agriculture,,,Write-in,0,0,0
+Bremer,#12 City of Waverly Ward 3,Secretary of Agriculture,,,Write-in,0,0,0
+Bremer,#13 City of Waverly Ward 4,Secretary of Agriculture,,,Write-in,0,0,0
+Bremer,#14 City of Waverly Ward 5,Secretary of Agriculture,,,Write-in,0,0,0
+Bremer,#1 Polk Twp/City of Plainfield,Attorney General,,DEM,Tom Miller,122,43,79
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Attorney General,,DEM,Tom Miller,151,61,90
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Attorney General,,DEM,Tom Miller,439,148,291
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Attorney General,,DEM,Tom Miller,402,140,262
+Bremer,#5 Lafayette Twp/Washington Twp,Attorney General,,DEM,Tom Miller,297,149,148
+Bremer,#6 Jackson Twp/City of Janesville,Attorney General,,DEM,Tom Miller,356,129,227
+Bremer,#7 Jefferson Twp,Attorney General,,DEM,Tom Miller,270,119,151
+Bremer,#8 City of Denver,Attorney General,,DEM,Tom Miller,401,122,279
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Attorney General,,DEM,Tom Miller,253,98,155
+Bremer,#10 City of Waverly Ward 1,Attorney General,,DEM,Tom Miller,542,283,259
+Bremer,#11 City of Waverly Ward 2,Attorney General,,DEM,Tom Miller,470,208,262
+Bremer,#12 City of Waverly Ward 3,Attorney General,,DEM,Tom Miller,276,86,190
+Bremer,#13 City of Waverly Ward 4,Attorney General,,DEM,Tom Miller,523,213,310
+Bremer,#14 City of Waverly Ward 5,Attorney General,,DEM,Tom Miller,604,284,320
+Bremer,#1 Polk Twp/City of Plainfield,Attorney General,,REP,Brenna Bird,260,36,224
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Attorney General,,REP,Brenna Bird,271,46,225
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Attorney General,,REP,Brenna Bird,690,69,621
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Attorney General,,REP,Brenna Bird,504,100,404
+Bremer,#5 Lafayette Twp/Washington Twp,Attorney General,,REP,Brenna Bird,324,79,245
+Bremer,#6 Jackson Twp/City of Janesville,Attorney General,,REP,Brenna Bird,458,69,389
+Bremer,#7 Jefferson Twp,Attorney General,,REP,Brenna Bird,427,97,330
+Bremer,#8 City of Denver,Attorney General,,REP,Brenna Bird,457,46,411
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Attorney General,,REP,Brenna Bird,482,63,419
+Bremer,#10 City of Waverly Ward 1,Attorney General,,REP,Brenna Bird,467,139,328
+Bremer,#11 City of Waverly Ward 2,Attorney General,,REP,Brenna Bird,472,115,357
+Bremer,#12 City of Waverly Ward 3,Attorney General,,REP,Brenna Bird,181,37,144
+Bremer,#13 City of Waverly Ward 4,Attorney General,,REP,Brenna Bird,365,76,289
+Bremer,#14 City of Waverly Ward 5,Attorney General,,REP,Brenna Bird,419,127,292
+Bremer,#1 Polk Twp/City of Plainfield,Attorney General,,,Write-in,0,0,0
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Attorney General,,,Write-in,0,0,0
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Attorney General,,,Write-in,0,0,0
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Attorney General,,,Write-in,1,0,1
+Bremer,#5 Lafayette Twp/Washington Twp,Attorney General,,,Write-in,1,0,1
+Bremer,#6 Jackson Twp/City of Janesville,Attorney General,,,Write-in,0,0,0
+Bremer,#7 Jefferson Twp,Attorney General,,,Write-in,0,0,0
+Bremer,#8 City of Denver,Attorney General,,,Write-in,0,0,0
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Attorney General,,,Write-in,0,0,0
+Bremer,#10 City of Waverly Ward 1,Attorney General,,,Write-in,0,0,0
+Bremer,#11 City of Waverly Ward 2,Attorney General,,,Write-in,0,0,0
+Bremer,#12 City of Waverly Ward 3,Attorney General,,,Write-in,1,0,1
+Bremer,#13 City of Waverly Ward 4,Attorney General,,,Write-in,0,0,0
+Bremer,#14 City of Waverly Ward 5,Attorney General,,,Write-in,0,0,0
+Bremer,#1 Polk Twp/City of Plainfield,State Senate,29,DEM,Jenn Wolff,104,37,67
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,State Senate,29,DEM,Jenn Wolff,126,48,78
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,State Senate,29,DEM,Jenn Wolff,304,95,209
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,State Senate,29,DEM,Jenn Wolff,332,108,224
+Bremer,#5 Lafayette Twp/Washington Twp,State Senate,29,DEM,Jenn Wolff,258,136,122
+Bremer,#6 Jackson Twp/City of Janesville,State Senate,29,DEM,Jenn Wolff,288,107,181
+Bremer,#7 Jefferson Twp,State Senate,29,DEM,Jenn Wolff,229,101,128
+Bremer,#8 City of Denver,State Senate,29,DEM,Jenn Wolff,308,91,217
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,State Senate,29,DEM,Jenn Wolff,175,74,101
+Bremer,#10 City of Waverly Ward 1,State Senate,29,DEM,Jenn Wolff,491,241,250
+Bremer,#11 City of Waverly Ward 2,State Senate,29,DEM,Jenn Wolff,414,189,225
+Bremer,#12 City of Waverly Ward 3,State Senate,29,DEM,Jenn Wolff,256,82,174
+Bremer,#13 City of Waverly Ward 4,State Senate,29,DEM,Jenn Wolff,468,183,285
+Bremer,#14 City of Waverly Ward 5,State Senate,29,DEM,Jenn Wolff,530,255,275
+Bremer,#1 Polk Twp/City of Plainfield,State Senate,29,REP,Sandy Salmon,288,42,246
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,State Senate,29,REP,Sandy Salmon,299,58,241
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,State Senate,29,REP,Sandy Salmon,837,127,710
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,State Senate,29,REP,Sandy Salmon,588,134,454
+Bremer,#5 Lafayette Twp/Washington Twp,State Senate,29,REP,Sandy Salmon,367,93,274
+Bremer,#6 Jackson Twp/City of Janesville,State Senate,29,REP,Sandy Salmon,527,87,440
+Bremer,#7 Jefferson Twp,State Senate,29,REP,Sandy Salmon,480,117,363
+Bremer,#8 City of Denver,State Senate,29,REP,Sandy Salmon,561,76,485
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,State Senate,29,REP,Sandy Salmon,571,87,484
+Bremer,#10 City of Waverly Ward 1,State Senate,29,REP,Sandy Salmon,525,184,341
+Bremer,#11 City of Waverly Ward 2,State Senate,29,REP,Sandy Salmon,538,137,401
+Bremer,#12 City of Waverly Ward 3,State Senate,29,REP,Sandy Salmon,211,41,170
+Bremer,#13 City of Waverly Ward 4,State Senate,29,REP,Sandy Salmon,436,109,327
+Bremer,#14 City of Waverly Ward 5,State Senate,29,REP,Sandy Salmon,497,156,341
+Bremer,#1 Polk Twp/City of Plainfield,State Senate,29,,Write-in,1,0,1
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,State Senate,29,,Write-in,0,0,0
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,State Senate,29,,Write-in,1,0,1
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,State Senate,29,,Write-in,0,0,0
+Bremer,#5 Lafayette Twp/Washington Twp,State Senate,29,,Write-in,0,0,0
+Bremer,#6 Jackson Twp/City of Janesville,State Senate,29,,Write-in,0,0,0
+Bremer,#7 Jefferson Twp,State Senate,29,,Write-in,1,0,1
+Bremer,#8 City of Denver,State Senate,29,,Write-in,0,0,0
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,State Senate,29,,Write-in,1,0,1
+Bremer,#10 City of Waverly Ward 1,State Senate,29,,Write-in,0,0,0
+Bremer,#11 City of Waverly Ward 2,State Senate,29,,Write-in,2,0,2
+Bremer,#12 City of Waverly Ward 3,State Senate,29,,Write-in,1,1,0
+Bremer,#13 City of Waverly Ward 4,State Senate,29,,Write-in,0,0,0
+Bremer,#14 City of Waverly Ward 5,State Senate,29,,Write-in,2,2,0
+Bremer,#1 Polk Twp/City of Plainfield,State House,57,DEM,Carissa Froyum,107,40,67
+Bremer,#5 Lafayette Twp/Washington Twp,State House,57,DEM,Carissa Froyum,247,130,117
+Bremer,#6 Jackson Twp/City of Janesville,State House,57,DEM,Carissa Froyum,298,106,192
+Bremer,#7 Jefferson Twp,State House,57,DEM,Carissa Froyum,235,101,134
+Bremer,#8 City of Denver,State House,57,DEM,Carissa Froyum,324,98,226
+Bremer,#10 City of Waverly Ward 1,State House,57,DEM,Carissa Froyum,474,237,237
+Bremer,#11 City of Waverly Ward 2,State House,57,DEM,Carissa Froyum,404,185,219
+Bremer,#12 City of Waverly Ward 3,State House,57,DEM,Carissa Froyum,262,85,177
+Bremer,#13 City of Waverly Ward 4,State House,57,DEM,Carissa Froyum,451,179,272
+Bremer,#14 City of Waverly Ward 5,State House,57,DEM,Carissa Froyum,515,248,267
+Bremer,#1 Polk Twp/City of Plainfield,State House,57,REP,Pat Grassley,282,39,243
+Bremer,#5 Lafayette Twp/Washington Twp,State House,57,REP,Pat Grassley,381,101,280
+Bremer,#6 Jackson Twp/City of Janesville,State House,57,REP,Pat Grassley,517,93,424
+Bremer,#7 Jefferson Twp,State House,57,REP,Pat Grassley,471,116,355
+Bremer,#8 City of Denver,State House,57,REP,Pat Grassley,543,70,473
+Bremer,#10 City of Waverly Ward 1,State House,57,REP,Pat Grassley,536,185,351
+Bremer,#11 City of Waverly Ward 2,State House,57,REP,Pat Grassley,549,140,409
+Bremer,#12 City of Waverly Ward 3,State House,57,REP,Pat Grassley,204,39,165
+Bremer,#13 City of Waverly Ward 4,State House,57,REP,Pat Grassley,451,114,337
+Bremer,#14 City of Waverly Ward 5,State House,57,REP,Pat Grassley,518,163,355
+Bremer,#1 Polk Twp/City of Plainfield,State House,57,,Write-in,0,0,0
+Bremer,#5 Lafayette Twp/Washington Twp,State House,57,,Write-in,1,0,1
+Bremer,#6 Jackson Twp/City of Janesville,State House,57,,Write-in,0,0,0
+Bremer,#7 Jefferson Twp,State House,57,,Write-in,0,0,0
+Bremer,#8 City of Denver,State House,57,,Write-in,1,0,1
+Bremer,#10 City of Waverly Ward 1,State House,57,,Write-in,0,0,0
+Bremer,#11 City of Waverly Ward 2,State House,57,,Write-in,2,0,2
+Bremer,#12 City of Waverly Ward 3,State House,57,,Write-in,0,0,0
+Bremer,#13 City of Waverly Ward 4,State House,57,,Write-in,1,0,1
+Bremer,#14 City of Waverly Ward 5,State House,57,,Write-in,0,0,0
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,State House,58,DEM,Dené Lundberg,121,50,71
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,State House,58,DEM,Dené Lundberg,314,111,203
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,State House,58,DEM,Dené Lundberg,315,106,209
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,State House,58,DEM,Dené Lundberg,171,68,103
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,State House,58,REP,Charley Thomson,292,53,239
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,State House,58,REP,Charley Thomson,800,104,696
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,State House,58,REP,Charley Thomson,567,125,442
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,State House,58,REP,Charley Thomson,564,87,477
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,State House,58,,Write-in,0,0,0
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,State House,58,,Write-in,2,1,1
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,State House,58,,Write-in,0,0,0
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,State House,58,,Write-in,0,0,0
+Bremer,#5 Lafayette Twp/Washington Twp,County Board of Supervisors District 2,,REP,Corey Cerwinske,469,146,323
+Bremer,#6 Jackson Twp/City of Janesville,County Board of Supervisors District 2,,REP,Corey Cerwinske,620,112,508
+Bremer,#7 Jefferson Twp,County Board of Supervisors District 2,,REP,Corey Cerwinske,530,148,382
+Bremer,#8 City of Denver,County Board of Supervisors District 2,,REP,Corey Cerwinske,715,128,587
+Bremer,#10 City of Waverly Ward 1,County Board of Supervisors District 2,,REP,Corey Cerwinske,753,275,478
+Bremer,#5 Lafayette Twp/Washington Twp,County Board of Supervisors District 2,,,Write-in,15,5,10
+Bremer,#6 Jackson Twp/City of Janesville,County Board of Supervisors District 2,,,Write-in,11,2,9
+Bremer,#7 Jefferson Twp,County Board of Supervisors District 2,,,Write-in,10,2,8
+Bremer,#8 City of Denver,County Board of Supervisors District 2,,,Write-in,12,2,10
+Bremer,#10 City of Waverly Ward 1,County Board of Supervisors District 2,,,Write-in,20,8,12
+Bremer,#1 Polk Twp/City of Plainfield,County Board of Supervisors District 3,,REP,Dewey L. Hildebrandt,167,28,139
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Board of Supervisors District 3,,REP,Dewey L. Hildebrandt,308,69,239
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Board of Supervisors District 3,,REP,Dewey L. Hildebrandt,932,160,772
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Board of Supervisors District 3,,REP,Dewey L. Hildebrandt,646,164,482
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Board of Supervisors District 3,,REP,Dewey L. Hildebrandt,618,117,501
+Bremer,#1 Polk Twp/City of Plainfield,County Board of Supervisors District 3,,,Timothy L. Neil,214,48,166
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Board of Supervisors District 3,,,Timothy L. Neil,109,36,73
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Board of Supervisors District 3,,,Timothy L. Neil,186,53,133
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Board of Supervisors District 3,,,Timothy L. Neil,226,64,162
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Board of Supervisors District 3,,,Timothy L. Neil,103,38,65
+Bremer,#1 Polk Twp/City of Plainfield,County Board of Supervisors District 3,,,Write-in,0,0,0
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Board of Supervisors District 3,,,Write-in,0,0,0
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Board of Supervisors District 3,,,Write-in,3,0,3
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Board of Supervisors District 3,,,Write-in,0,0,0
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Board of Supervisors District 3,,,Write-in,2,0,2
+Bremer,#1 Polk Twp/City of Plainfield,County Treasurer,,DEM,Erin Pratt,136,30,106
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Treasurer,,DEM,Erin Pratt,149,60,89
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Treasurer,,DEM,Erin Pratt,335,108,227
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Treasurer,,DEM,Erin Pratt,323,102,221
+Bremer,#5 Lafayette Twp/Washington Twp,County Treasurer,,DEM,Erin Pratt,248,122,126
+Bremer,#6 Jackson Twp/City of Janesville,County Treasurer,,DEM,Erin Pratt,296,106,190
+Bremer,#7 Jefferson Twp,County Treasurer,,DEM,Erin Pratt,226,104,122
+Bremer,#8 City of Denver,County Treasurer,,DEM,Erin Pratt,301,89,212
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Treasurer,,DEM,Erin Pratt,185,73,112
+Bremer,#10 City of Waverly Ward 1,County Treasurer,,DEM,Erin Pratt,462,241,221
+Bremer,#11 City of Waverly Ward 2,County Treasurer,,DEM,Erin Pratt,396,176,220
+Bremer,#12 City of Waverly Ward 3,County Treasurer,,DEM,Erin Pratt,246,81,165
+Bremer,#13 City of Waverly Ward 4,County Treasurer,,DEM,Erin Pratt,419,172,247
+Bremer,#14 City of Waverly Ward 5,County Treasurer,,DEM,Erin Pratt,493,245,248
+Bremer,#1 Polk Twp/City of Plainfield,County Treasurer,,REP,Adam Hoffman,250,46,204
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Treasurer,,REP,Adam Hoffman,270,43,227
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Treasurer,,REP,Adam Hoffman,781,106,675
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Treasurer,,REP,Adam Hoffman,586,136,450
+Bremer,#5 Lafayette Twp/Washington Twp,County Treasurer,,REP,Adam Hoffman,366,104,262
+Bremer,#6 Jackson Twp/City of Janesville,County Treasurer,,REP,Adam Hoffman,501,83,418
+Bremer,#7 Jefferson Twp,County Treasurer,,REP,Adam Hoffman,452,108,344
+Bremer,#8 City of Denver,County Treasurer,,REP,Adam Hoffman,533,67,466
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Treasurer,,REP,Adam Hoffman,546,84,462
+Bremer,#10 City of Waverly Ward 1,County Treasurer,,REP,Adam Hoffman,540,176,364
+Bremer,#11 City of Waverly Ward 2,County Treasurer,,REP,Adam Hoffman,545,146,399
+Bremer,#12 City of Waverly Ward 3,County Treasurer,,REP,Adam Hoffman,209,43,166
+Bremer,#13 City of Waverly Ward 4,County Treasurer,,REP,Adam Hoffman,477,118,359
+Bremer,#14 City of Waverly Ward 5,County Treasurer,,REP,Adam Hoffman,529,162,367
+Bremer,#1 Polk Twp/City of Plainfield,County Treasurer,,,Write-in,0,0,0
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Treasurer,,,Write-in,0,0,0
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Treasurer,,,Write-in,0,0,0
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Treasurer,,,Write-in,1,0,1
+Bremer,#5 Lafayette Twp/Washington Twp,County Treasurer,,,Write-in,0,0,0
+Bremer,#6 Jackson Twp/City of Janesville,County Treasurer,,,Write-in,0,0,0
+Bremer,#7 Jefferson Twp,County Treasurer,,,Write-in,0,0,0
+Bremer,#8 City of Denver,County Treasurer,,,Write-in,1,0,1
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Treasurer,,,Write-in,0,0,0
+Bremer,#10 City of Waverly Ward 1,County Treasurer,,,Write-in,1,1,0
+Bremer,#11 City of Waverly Ward 2,County Treasurer,,,Write-in,1,0,1
+Bremer,#12 City of Waverly Ward 3,County Treasurer,,,Write-in,2,0,2
+Bremer,#13 City of Waverly Ward 4,County Treasurer,,,Write-in,0,0,0
+Bremer,#14 City of Waverly Ward 5,County Treasurer,,,Write-in,0,0,0
+Bremer,#1 Polk Twp/City of Plainfield,County Recorder,,REP,Missy Thurm,353,67,286
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Recorder,,REP,Missy Thurm,373,92,281
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Recorder,,REP,Missy Thurm,1023,181,842
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Recorder,,REP,Missy Thurm,791,200,591
+Bremer,#5 Lafayette Twp/Washington Twp,County Recorder,,REP,Missy Thurm,507,169,338
+Bremer,#6 Jackson Twp/City of Janesville,County Recorder,,REP,Missy Thurm,645,115,530
+Bremer,#7 Jefferson Twp,County Recorder,,REP,Missy Thurm,544,152,392
+Bremer,#8 City of Denver,County Recorder,,REP,Missy Thurm,740,139,601
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Recorder,,REP,Missy Thurm,672,137,535
+Bremer,#10 City of Waverly Ward 1,County Recorder,,REP,Missy Thurm,779,292,487
+Bremer,#11 City of Waverly Ward 2,County Recorder,,REP,Missy Thurm,781,247,534
+Bremer,#12 City of Waverly Ward 3,County Recorder,,REP,Missy Thurm,369,91,278
+Bremer,#13 City of Waverly Ward 4,County Recorder,,REP,Missy Thurm,722,224,498
+Bremer,#14 City of Waverly Ward 5,County Recorder,,REP,Missy Thurm,802,304,498
+Bremer,#1 Polk Twp/City of Plainfield,County Recorder,,,Write-in,4,0,4
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Recorder,,,Write-in,2,1,1
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Recorder,,,Write-in,9,5,4
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Recorder,,,Write-in,2,0,2
+Bremer,#5 Lafayette Twp/Washington Twp,County Recorder,,,Write-in,4,0,4
+Bremer,#6 Jackson Twp/City of Janesville,County Recorder,,,Write-in,6,2,4
+Bremer,#7 Jefferson Twp,County Recorder,,,Write-in,2,1,1
+Bremer,#8 City of Denver,County Recorder,,,Write-in,10,0,10
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Recorder,,,Write-in,4,0,4
+Bremer,#10 City of Waverly Ward 1,County Recorder,,,Write-in,11,5,6
+Bremer,#11 City of Waverly Ward 2,County Recorder,,,Write-in,7,3,4
+Bremer,#12 City of Waverly Ward 3,County Recorder,,,Write-in,20,7,13
+Bremer,#13 City of Waverly Ward 4,County Recorder,,,Write-in,9,4,5
+Bremer,#14 City of Waverly Ward 5,County Recorder,,,Write-in,12,3,9
+Bremer,#1 Polk Twp/City of Plainfield,County Attorney,,DEM,Jill S. Dashner,129,39,90
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Attorney,,DEM,Jill S. Dashner,158,55,103
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Attorney,,DEM,Jill S. Dashner,389,130,259
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Attorney,,DEM,Jill S. Dashner,414,141,273
+Bremer,#5 Lafayette Twp/Washington Twp,County Attorney,,DEM,Jill S. Dashner,281,136,145
+Bremer,#6 Jackson Twp/City of Janesville,County Attorney,,DEM,Jill S. Dashner,333,111,222
+Bremer,#7 Jefferson Twp,County Attorney,,DEM,Jill S. Dashner,247,112,135
+Bremer,#8 City of Denver,County Attorney,,DEM,Jill S. Dashner,366,109,257
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Attorney,,DEM,Jill S. Dashner,231,88,143
+Bremer,#10 City of Waverly Ward 1,County Attorney,,DEM,Jill S. Dashner,526,260,266
+Bremer,#11 City of Waverly Ward 2,County Attorney,,DEM,Jill S. Dashner,454,193,261
+Bremer,#12 City of Waverly Ward 3,County Attorney,,DEM,Jill S. Dashner,263,83,180
+Bremer,#13 City of Waverly Ward 4,County Attorney,,DEM,Jill S. Dashner,496,192,304
+Bremer,#14 City of Waverly Ward 5,County Attorney,,DEM,Jill S. Dashner,576,261,315
+Bremer,#1 Polk Twp/City of Plainfield,County Attorney,,REP,Darius P. R. Robinson,247,37,210
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Attorney,,REP,Darius P. R. Robinson,259,49,210
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Attorney,,REP,Darius P. R. Robinson,709,85,624
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Attorney,,REP,Darius P. R. Robinson,470,90,380
+Bremer,#5 Lafayette Twp/Washington Twp,County Attorney,,REP,Darius P. R. Robinson,318,84,234
+Bremer,#6 Jackson Twp/City of Janesville,County Attorney,,REP,Darius P. R. Robinson,457,78,379
+Bremer,#7 Jefferson Twp,County Attorney,,REP,Darius P. R. Robinson,418,100,318
+Bremer,#8 City of Denver,County Attorney,,REP,Darius P. R. Robinson,466,51,415
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Attorney,,REP,Darius P. R. Robinson,491,67,424
+Bremer,#10 City of Waverly Ward 1,County Attorney,,REP,Darius P. R. Robinson,464,150,314
+Bremer,#11 City of Waverly Ward 2,County Attorney,,REP,Darius P. R. Robinson,466,122,344
+Bremer,#12 City of Waverly Ward 3,County Attorney,,REP,Darius P. R. Robinson,188,36,152
+Bremer,#13 City of Waverly Ward 4,County Attorney,,REP,Darius P. R. Robinson,381,93,288
+Bremer,#14 City of Waverly Ward 5,County Attorney,,REP,Darius P. R. Robinson,411,128,283
+Bremer,#1 Polk Twp/City of Plainfield,County Attorney,,,Write-in,0,0,0
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Attorney,,,Write-in,0,0,0
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Attorney,,,Write-in,0,0,0
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Attorney,,,Write-in,0,0,0
+Bremer,#5 Lafayette Twp/Washington Twp,County Attorney,,,Write-in,1,0,1
+Bremer,#6 Jackson Twp/City of Janesville,County Attorney,,,Write-in,0,0,0
+Bremer,#7 Jefferson Twp,County Attorney,,,Write-in,0,0,0
+Bremer,#8 City of Denver,County Attorney,,,Write-in,1,0,1
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Attorney,,,Write-in,0,0,0
+Bremer,#10 City of Waverly Ward 1,County Attorney,,,Write-in,1,0,1
+Bremer,#11 City of Waverly Ward 2,County Attorney,,,Write-in,4,1,3
+Bremer,#12 City of Waverly Ward 3,County Attorney,,,Write-in,0,0,0
+Bremer,#13 City of Waverly Ward 4,County Attorney,,,Write-in,1,1,0
+Bremer,#14 City of Waverly Ward 5,County Attorney,,,Write-in,1,0,1
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Dayton Township Trustee,,,Write-in,14,3,11
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Dayton Township Trustee,,,John Nederhoff,2,1,1
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Dayton Township Clerk,,,Dean Buhr,148,45,103
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Dayton Township Clerk,,,Write-in,0,0,0
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Douglas Township Trustee,,,Jerome Roy Boeckmann,152,49,103
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Douglas Township Trustee,,,Write-in,0,0,0
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Douglas Township Clerk,,,Lowell Biermann,152,49,103
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Douglas Township Clerk,,,Write-in,0,0,0
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Franklin Township Trustee,,,Russ Cox,137,33,104
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Franklin Township Trustee,,,Write-in,1,0,1
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Franklin Township Clerk,,,Brenda R. Meyer,139,33,106
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Franklin Township Clerk,,,Write-in,1,0,1
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Frederika Township Trustee,,,Robert Schellhorn,71,12,59
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Frederika Township Trustee,,,Write-in,1,1,0
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Frederika Township Clerk,,,Bradley Bunce,71,11,60
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Frederika Township Clerk,,,Write-in,1,1,0
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Fremont Township Trustee,,,Lee Schweer,162,46,116
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Fremont Township Trustee,,,Write-in,1,0,1
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Fremont Township Clerk,,,Daniel Kalkbrenner,153,42,111
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Fremont Township Clerk,,,Write-in,1,1,0
+Bremer,#6 Jackson Twp/City of Janesville,Jackson Township Trustee,,,Write-in,25,7,18
+Bremer,#6 Jackson Twp/City of Janesville,Jackson Township Trustee,,,Jamie Borglum,7,1,6
+Bremer,#6 Jackson Twp/City of Janesville,Jackson Township Clerk,,,Brad Ruth,313,86,227
+Bremer,#6 Jackson Twp/City of Janesville,Jackson Township Clerk,,,Write-in,3,1,2
+Bremer,#7 Jefferson Twp,Jefferson Township Trustee,,,Eric Foelske,510,146,364
+Bremer,#7 Jefferson Twp,Jefferson Township Trustee,,,Write-in,10,2,8
+Bremer,#7 Jefferson Twp,Jefferson Township Clerk,,,Brenda Feldt,487,144,343
+Bremer,#7 Jefferson Twp,Jefferson Township Clerk,,,Write-in,4,0,4
+Bremer,#5 Lafayette Twp/Washington Twp,Lafayette Township Trustee,,,Ryan Weiss,299,110,189
+Bremer,#5 Lafayette Twp/Washington Twp,Lafayette Township Trustee,,,Write-in,3,0,3
+Bremer,#5 Lafayette Twp/Washington Twp,Lafayette Township Clerk,,,John W. White,293,101,192
+Bremer,#5 Lafayette Twp/Washington Twp,Lafayette Township Clerk,,,Write-in,4,0,4
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Leroy Township Trustee,,,Craig Petersen,79,27,52
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Leroy Township Trustee,,,Write-in,1,0,1
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Leroy Township Clerk,,,Christa Jordan,76,27,49
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Leroy Township Clerk,,,Write-in,1,0,1
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Maxfield Township Trustee,,,Dennis Kuker,214,59,155
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Maxfield Township Trustee,,,Write-in,0,0,0
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Maxfield Township Clerk,,,Nancy J. Kleitsch,213,58,155
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Maxfield Township Clerk,,,Write-in,1,0,1
+Bremer,#1 Polk Twp/City of Plainfield,Polk Township Trustee,,,Leland Busching,196,47,149
+Bremer,#1 Polk Twp/City of Plainfield,Polk Township Trustee,,,Write-in,2,0,2
+Bremer,#1 Polk Twp/City of Plainfield,Polk Township Clerk,,,Kreg Smith,197,46,151
+Bremer,#1 Polk Twp/City of Plainfield,Polk Township Clerk,,,Write-in,0,0,0
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Sumner #2 Township Trustee,,,Rodney Toussaint,139,21,118
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Sumner #2 Township Trustee,,,Write-in,0,0,0
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Sumner #2 Township Clerk,,,Joyce Gitch,142,22,120
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Sumner #2 Township Clerk,,,Write-in,0,0,0
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Warren Township Trustee,,,Write-in,13,3,10
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Warren Township Trustee,,,Dennis Epley,3,1,2
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Warren Township Trustee To Fill Vacancy,,,Mitchell Norton,184,60,124
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Warren Township Trustee To Fill Vacancy,,,Write-in,2,1,1
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Warren Township Clerk,,,Jade Heine,194,70,124
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Warren Township Clerk,,,Write-in,0,0,0
+Bremer,#5 Lafayette Twp/Washington Twp,Washington Township Trustee,,,Ronald Zelle,218,74,144
+Bremer,#5 Lafayette Twp/Washington Twp,Washington Township Trustee,,,Write-in,1,0,1
+Bremer,#5 Lafayette Twp/Washington Twp,Washington Township Clerk,,,David Joachim,216,74,142
+Bremer,#5 Lafayette Twp/Washington Twp,Washington Township Clerk,,,Write-in,2,0,2
+Bremer,#1 Polk Twp/City of Plainfield,Soil and Water Conservation District Commissioner,,,Verle Tom Manson,306,56,250
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Soil and Water Conservation District Commissioner,,,Verle Tom Manson,353,91,262
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Soil and Water Conservation District Commissioner,,,Verle Tom Manson,927,172,755
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Soil and Water Conservation District Commissioner,,,Verle Tom Manson,711,179,532
+Bremer,#5 Lafayette Twp/Washington Twp,Soil and Water Conservation District Commissioner,,,Verle Tom Manson,467,155,312
+Bremer,#6 Jackson Twp/City of Janesville,Soil and Water Conservation District Commissioner,,,Verle Tom Manson,556,110,446
+Bremer,#7 Jefferson Twp,Soil and Water Conservation District Commissioner,,,Verle Tom Manson,450,136,314
+Bremer,#8 City of Denver,Soil and Water Conservation District Commissioner,,,Verle Tom Manson,638,120,518
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Soil and Water Conservation District Commissioner,,,Verle Tom Manson,591,135,456
+Bremer,#10 City of Waverly Ward 1,Soil and Water Conservation District Commissioner,,,Verle Tom Manson,726,287,439
+Bremer,#11 City of Waverly Ward 2,Soil and Water Conservation District Commissioner,,,Verle Tom Manson,664,215,449
+Bremer,#12 City of Waverly Ward 3,Soil and Water Conservation District Commissioner,,,Verle Tom Manson,338,81,257
+Bremer,#13 City of Waverly Ward 4,Soil and Water Conservation District Commissioner,,,Verle Tom Manson,660,214,446
+Bremer,#14 City of Waverly Ward 5,Soil and Water Conservation District Commissioner,,,Verle Tom Manson,694,268,426
+Bremer,#1 Polk Twp/City of Plainfield,Soil and Water Conservation District Commissioner,,,Write-in,8,2,6
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Soil and Water Conservation District Commissioner,,,Write-in,22,6,16
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Soil and Water Conservation District Commissioner,,,Write-in,22,6,16
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Soil and Water Conservation District Commissioner,,,Write-in,53,9,44
+Bremer,#5 Lafayette Twp/Washington Twp,Soil and Water Conservation District Commissioner,,,Write-in,25,4,21
+Bremer,#6 Jackson Twp/City of Janesville,Soil and Water Conservation District Commissioner,,,Write-in,21,5,16
+Bremer,#7 Jefferson Twp,Soil and Water Conservation District Commissioner,,,Write-in,14,3,11
+Bremer,#8 City of Denver,Soil and Water Conservation District Commissioner,,,Write-in,13,1,12
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Soil and Water Conservation District Commissioner,,,Write-in,12,1,11
+Bremer,#10 City of Waverly Ward 1,Soil and Water Conservation District Commissioner,,,Write-in,28,11,17
+Bremer,#11 City of Waverly Ward 2,Soil and Water Conservation District Commissioner,,,Write-in,21,5,16
+Bremer,#12 City of Waverly Ward 3,Soil and Water Conservation District Commissioner,,,Write-in,18,6,12
+Bremer,#13 City of Waverly Ward 4,Soil and Water Conservation District Commissioner,,,Write-in,21,4,17
+Bremer,#14 City of Waverly Ward 5,Soil and Water Conservation District Commissioner,,,Write-in,34,13,21
+Bremer,#1 Polk Twp/City of Plainfield,Soil and Water Conservation District Commissioner,,,Sara Lockie,1,0,1
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Soil and Water Conservation District Commissioner,,,Sara Lockie,5,3,2
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Soil and Water Conservation District Commissioner,,,Sara Lockie,2,0,2
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Soil and Water Conservation District Commissioner,,,Sara Lockie,2,2,0
+Bremer,#5 Lafayette Twp/Washington Twp,Soil and Water Conservation District Commissioner,,,Sara Lockie,10,8,2
+Bremer,#6 Jackson Twp/City of Janesville,Soil and Water Conservation District Commissioner,,,Sara Lockie,8,2,6
+Bremer,#7 Jefferson Twp,Soil and Water Conservation District Commissioner,,,Sara Lockie,5,3,2
+Bremer,#8 City of Denver,Soil and Water Conservation District Commissioner,,,Sara Lockie,4,2,2
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Soil and Water Conservation District Commissioner,,,Sara Lockie,0,0,0
+Bremer,#10 City of Waverly Ward 1,Soil and Water Conservation District Commissioner,,,Sara Lockie,25,17,8
+Bremer,#11 City of Waverly Ward 2,Soil and Water Conservation District Commissioner,,,Sara Lockie,46,26,20
+Bremer,#12 City of Waverly Ward 3,Soil and Water Conservation District Commissioner,,,Sara Lockie,8,2,6
+Bremer,#13 City of Waverly Ward 4,Soil and Water Conservation District Commissioner,,,Sara Lockie,18,2,16
+Bremer,#14 City of Waverly Ward 5,Soil and Water Conservation District Commissioner,,,Sara Lockie,45,25,20
+Bremer,#1 Polk Twp/City of Plainfield,County Agricultural Extension Council Member,,,Timothy R. Spratt,151,31,120
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Agricultural Extension Council Member,,,Timothy R. Spratt,141,36,105
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Agricultural Extension Council Member,,,Timothy R. Spratt,364,55,309
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Agricultural Extension Council Member,,,Timothy R. Spratt,296,81,215
+Bremer,#5 Lafayette Twp/Washington Twp,County Agricultural Extension Council Member,,,Timothy R. Spratt,275,107,168
+Bremer,#6 Jackson Twp/City of Janesville,County Agricultural Extension Council Member,,,Timothy R. Spratt,243,47,196
+Bremer,#7 Jefferson Twp,County Agricultural Extension Council Member,,,Timothy R. Spratt,138,48,90
+Bremer,#8 City of Denver,County Agricultural Extension Council Member,,,Timothy R. Spratt,226,51,175
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Agricultural Extension Council Member,,,Timothy R. Spratt,222,47,175
+Bremer,#10 City of Waverly Ward 1,County Agricultural Extension Council Member,,,Timothy R. Spratt,348,151,197
+Bremer,#11 City of Waverly Ward 2,County Agricultural Extension Council Member,,,Timothy R. Spratt,325,109,216
+Bremer,#12 City of Waverly Ward 3,County Agricultural Extension Council Member,,,Timothy R. Spratt,165,34,131
+Bremer,#13 City of Waverly Ward 4,County Agricultural Extension Council Member,,,Timothy R. Spratt,311,102,209
+Bremer,#14 City of Waverly Ward 5,County Agricultural Extension Council Member,,,Timothy R. Spratt,371,136,235
+Bremer,#1 Polk Twp/City of Plainfield,County Agricultural Extension Council Member,,,Wendy Brase,254,47,207
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Agricultural Extension Council Member,,,Wendy Brase,225,58,167
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Agricultural Extension Council Member,,,Wendy Brase,507,99,408
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Agricultural Extension Council Member,,,Wendy Brase,456,121,335
+Bremer,#5 Lafayette Twp/Washington Twp,County Agricultural Extension Council Member,,,Wendy Brase,301,104,197
+Bremer,#6 Jackson Twp/City of Janesville,County Agricultural Extension Council Member,,,Wendy Brase,347,66,281
+Bremer,#7 Jefferson Twp,County Agricultural Extension Council Member,,,Wendy Brase,215,75,140
+Bremer,#8 City of Denver,County Agricultural Extension Council Member,,,Wendy Brase,322,68,254
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Agricultural Extension Council Member,,,Wendy Brase,329,82,247
+Bremer,#10 City of Waverly Ward 1,County Agricultural Extension Council Member,,,Wendy Brase,431,176,255
+Bremer,#11 City of Waverly Ward 2,County Agricultural Extension Council Member,,,Wendy Brase,397,134,263
+Bremer,#12 City of Waverly Ward 3,County Agricultural Extension Council Member,,,Wendy Brase,219,53,166
+Bremer,#13 City of Waverly Ward 4,County Agricultural Extension Council Member,,,Wendy Brase,397,135,262
+Bremer,#14 City of Waverly Ward 5,County Agricultural Extension Council Member,,,Wendy Brase,390,140,250
+Bremer,#1 Polk Twp/City of Plainfield,County Agricultural Extension Council Member,,,Jason Lobeck,116,22,94
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Agricultural Extension Council Member,,,Jason Lobeck,213,51,162
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Agricultural Extension Council Member,,,Jason Lobeck,476,87,389
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Agricultural Extension Council Member,,,Jason Lobeck,539,120,419
+Bremer,#5 Lafayette Twp/Washington Twp,County Agricultural Extension Council Member,,,Jason Lobeck,166,69,97
+Bremer,#6 Jackson Twp/City of Janesville,County Agricultural Extension Council Member,,,Jason Lobeck,226,44,182
+Bremer,#7 Jefferson Twp,County Agricultural Extension Council Member,,,Jason Lobeck,191,68,123
+Bremer,#8 City of Denver,County Agricultural Extension Council Member,,,Jason Lobeck,352,65,287
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Agricultural Extension Council Member,,,Jason Lobeck,320,79,241
+Bremer,#10 City of Waverly Ward 1,County Agricultural Extension Council Member,,,Jason Lobeck,286,120,166
+Bremer,#11 City of Waverly Ward 2,County Agricultural Extension Council Member,,,Jason Lobeck,239,88,151
+Bremer,#12 City of Waverly Ward 3,County Agricultural Extension Council Member,,,Jason Lobeck,141,30,111
+Bremer,#13 City of Waverly Ward 4,County Agricultural Extension Council Member,,,Jason Lobeck,270,93,177
+Bremer,#14 City of Waverly Ward 5,County Agricultural Extension Council Member,,,Jason Lobeck,283,101,182
+Bremer,#1 Polk Twp/City of Plainfield,County Agricultural Extension Council Member,,,Roger Lenius,133,30,103
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Agricultural Extension Council Member,,,Roger Lenius,172,44,128
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Agricultural Extension Council Member,,,Roger Lenius,397,83,314
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Agricultural Extension Council Member,,,Roger Lenius,352,103,249
+Bremer,#5 Lafayette Twp/Washington Twp,County Agricultural Extension Council Member,,,Roger Lenius,270,104,166
+Bremer,#6 Jackson Twp/City of Janesville,County Agricultural Extension Council Member,,,Roger Lenius,251,59,192
+Bremer,#7 Jefferson Twp,County Agricultural Extension Council Member,,,Roger Lenius,164,66,98
+Bremer,#8 City of Denver,County Agricultural Extension Council Member,,,Roger Lenius,270,62,208
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Agricultural Extension Council Member,,,Roger Lenius,254,68,186
+Bremer,#10 City of Waverly Ward 1,County Agricultural Extension Council Member,,,Roger Lenius,360,163,197
+Bremer,#11 City of Waverly Ward 2,County Agricultural Extension Council Member,,,Roger Lenius,332,117,215
+Bremer,#12 City of Waverly Ward 3,County Agricultural Extension Council Member,,,Roger Lenius,151,44,107
+Bremer,#13 City of Waverly Ward 4,County Agricultural Extension Council Member,,,Roger Lenius,310,118,192
+Bremer,#14 City of Waverly Ward 5,County Agricultural Extension Council Member,,,Roger Lenius,359,140,219
+Bremer,#1 Polk Twp/City of Plainfield,County Agricultural Extension Council Member,,,Erich D. Priebe,65,15,50
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Agricultural Extension Council Member,,,Erich D. Priebe,114,30,84
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Agricultural Extension Council Member,,,Erich D. Priebe,518,94,424
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Agricultural Extension Council Member,,,Erich D. Priebe,221,59,162
+Bremer,#5 Lafayette Twp/Washington Twp,County Agricultural Extension Council Member,,,Erich D. Priebe,100,26,74
+Bremer,#6 Jackson Twp/City of Janesville,County Agricultural Extension Council Member,,,Erich D. Priebe,142,29,113
+Bremer,#7 Jefferson Twp,County Agricultural Extension Council Member,,,Erich D. Priebe,102,42,60
+Bremer,#8 City of Denver,County Agricultural Extension Council Member,,,Erich D. Priebe,190,36,154
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Agricultural Extension Council Member,,,Erich D. Priebe,187,38,149
+Bremer,#10 City of Waverly Ward 1,County Agricultural Extension Council Member,,,Erich D. Priebe,200,84,116
+Bremer,#11 City of Waverly Ward 2,County Agricultural Extension Council Member,,,Erich D. Priebe,203,66,137
+Bremer,#12 City of Waverly Ward 3,County Agricultural Extension Council Member,,,Erich D. Priebe,93,20,73
+Bremer,#13 City of Waverly Ward 4,County Agricultural Extension Council Member,,,Erich D. Priebe,199,65,134
+Bremer,#14 City of Waverly Ward 5,County Agricultural Extension Council Member,,,Erich D. Priebe,231,95,136
+Bremer,#1 Polk Twp/City of Plainfield,County Agricultural Extension Council Member,,,Brian Mahoney,124,21,103
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Agricultural Extension Council Member,,,Brian Mahoney,109,25,84
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Agricultural Extension Council Member,,,Brian Mahoney,273,45,228
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Agricultural Extension Council Member,,,Brian Mahoney,207,59,148
+Bremer,#5 Lafayette Twp/Washington Twp,County Agricultural Extension Council Member,,,Brian Mahoney,154,49,105
+Bremer,#6 Jackson Twp/City of Janesville,County Agricultural Extension Council Member,,,Brian Mahoney,198,40,158
+Bremer,#7 Jefferson Twp,County Agricultural Extension Council Member,,,Brian Mahoney,160,50,110
+Bremer,#8 City of Denver,County Agricultural Extension Council Member,,,Brian Mahoney,237,45,192
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Agricultural Extension Council Member,,,Brian Mahoney,187,43,144
+Bremer,#10 City of Waverly Ward 1,County Agricultural Extension Council Member,,,Brian Mahoney,238,87,151
+Bremer,#11 City of Waverly Ward 2,County Agricultural Extension Council Member,,,Brian Mahoney,218,68,150
+Bremer,#12 City of Waverly Ward 3,County Agricultural Extension Council Member,,,Brian Mahoney,120,24,96
+Bremer,#13 City of Waverly Ward 4,County Agricultural Extension Council Member,,,Brian Mahoney,234,76,158
+Bremer,#14 City of Waverly Ward 5,County Agricultural Extension Council Member,,,Brian Mahoney,232,78,154
+Bremer,#1 Polk Twp/City of Plainfield,County Agricultural Extension Council Member,,,David Lehman,177,36,141
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Agricultural Extension Council Member,,,David Lehman,138,36,102
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Agricultural Extension Council Member,,,David Lehman,449,80,369
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Agricultural Extension Council Member,,,David Lehman,301,81,220
+Bremer,#5 Lafayette Twp/Washington Twp,County Agricultural Extension Council Member,,,David Lehman,190,61,129
+Bremer,#6 Jackson Twp/City of Janesville,County Agricultural Extension Council Member,,,David Lehman,232,56,176
+Bremer,#7 Jefferson Twp,County Agricultural Extension Council Member,,,David Lehman,173,63,110
+Bremer,#8 City of Denver,County Agricultural Extension Council Member,,,David Lehman,321,69,252
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Agricultural Extension Council Member,,,David Lehman,265,57,208
+Bremer,#10 City of Waverly Ward 1,County Agricultural Extension Council Member,,,David Lehman,328,125,203
+Bremer,#11 City of Waverly Ward 2,County Agricultural Extension Council Member,,,David Lehman,284,102,182
+Bremer,#12 City of Waverly Ward 3,County Agricultural Extension Council Member,,,David Lehman,156,42,114
+Bremer,#13 City of Waverly Ward 4,County Agricultural Extension Council Member,,,David Lehman,288,101,187
+Bremer,#14 City of Waverly Ward 5,County Agricultural Extension Council Member,,,David Lehman,320,115,205
+Bremer,#1 Polk Twp/City of Plainfield,County Agricultural Extension Council Member,,,Nancy Foelske,154,30,124
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Agricultural Extension Council Member,,,Nancy Foelske,234,67,167
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Agricultural Extension Council Member,,,Nancy Foelske,565,118,447
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Agricultural Extension Council Member,,,Nancy Foelske,512,128,384
+Bremer,#5 Lafayette Twp/Washington Twp,County Agricultural Extension Council Member,,,Nancy Foelske,288,106,182
+Bremer,#6 Jackson Twp/City of Janesville,County Agricultural Extension Council Member,,,Nancy Foelske,407,85,322
+Bremer,#7 Jefferson Twp,County Agricultural Extension Council Member,,,Nancy Foelske,299,104,195
+Bremer,#8 City of Denver,County Agricultural Extension Council Member,,,Nancy Foelske,432,91,341
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Agricultural Extension Council Member,,,Nancy Foelske,400,104,296
+Bremer,#10 City of Waverly Ward 1,County Agricultural Extension Council Member,,,Nancy Foelske,478,206,272
+Bremer,#11 City of Waverly Ward 2,County Agricultural Extension Council Member,,,Nancy Foelske,412,149,263
+Bremer,#12 City of Waverly Ward 3,County Agricultural Extension Council Member,,,Nancy Foelske,219,64,155
+Bremer,#13 City of Waverly Ward 4,County Agricultural Extension Council Member,,,Nancy Foelske,436,156,280
+Bremer,#14 City of Waverly Ward 5,County Agricultural Extension Council Member,,,Nancy Foelske,447,194,253
+Bremer,#1 Polk Twp/City of Plainfield,County Agricultural Extension Council Member,,,Write-in,3,2,1
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,County Agricultural Extension Council Member,,,Write-in,4,0,4
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,County Agricultural Extension Council Member,,,Write-in,11,2,9
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,County Agricultural Extension Council Member,,,Write-in,4,1,3
+Bremer,#5 Lafayette Twp/Washington Twp,County Agricultural Extension Council Member,,,Write-in,15,3,12
+Bremer,#6 Jackson Twp/City of Janesville,County Agricultural Extension Council Member,,,Write-in,13,4,9
+Bremer,#7 Jefferson Twp,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Bremer,#8 City of Denver,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,County Agricultural Extension Council Member,,,Write-in,7,0,7
+Bremer,#10 City of Waverly Ward 1,County Agricultural Extension Council Member,,,Write-in,11,6,5
+Bremer,#11 City of Waverly Ward 2,County Agricultural Extension Council Member,,,Write-in,5,0,5
+Bremer,#12 City of Waverly Ward 3,County Agricultural Extension Council Member,,,Write-in,24,0,24
+Bremer,#13 City of Waverly Ward 4,County Agricultural Extension Council Member,,,Write-in,10,2,8
+Bremer,#14 City of Waverly Ward 5,County Agricultural Extension Council Member,,,Write-in,13,1,12
+Bremer,#1 Polk Twp/City of Plainfield,Supreme Court Justice,,,Yes,223,39,184
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Supreme Court Justice,,,Yes,228,64,164
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Supreme Court Justice,,,Yes,632,123,509
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Supreme Court Justice,,,Yes,483,118,365
+Bremer,#5 Lafayette Twp/Washington Twp,Supreme Court Justice,,,Yes,303,108,195
+Bremer,#6 Jackson Twp/City of Janesville,Supreme Court Justice,,,Yes,419,79,340
+Bremer,#7 Jefferson Twp,Supreme Court Justice,,,Yes,307,99,208
+Bremer,#8 City of Denver,Supreme Court Justice,,,Yes,461,85,376
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Supreme Court Justice,,,Yes,389,92,297
+Bremer,#10 City of Waverly Ward 1,Supreme Court Justice,,,Yes,580,235,345
+Bremer,#11 City of Waverly Ward 2,Supreme Court Justice,,,Yes,506,157,349
+Bremer,#12 City of Waverly Ward 3,Supreme Court Justice,,,Yes,253,61,192
+Bremer,#13 City of Waverly Ward 4,Supreme Court Justice,,,Yes,515,158,357
+Bremer,#14 City of Waverly Ward 5,Supreme Court Justice,,,Yes,589,230,359
+Bremer,#1 Polk Twp/City of Plainfield,Supreme Court Justice,,,No,82,18,64
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Supreme Court Justice,,,No,102,17,85
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Supreme Court Justice,,,No,289,53,236
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Supreme Court Justice,,,No,217,53,164
+Bremer,#5 Lafayette Twp/Washington Twp,Supreme Court Justice,,,No,128,38,90
+Bremer,#6 Jackson Twp/City of Janesville,Supreme Court Justice,,,No,203,58,145
+Bremer,#7 Jefferson Twp,Supreme Court Justice,,,No,142,60,82
+Bremer,#8 City of Denver,Supreme Court Justice,,,No,204,44,160
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Supreme Court Justice,,,No,186,41,145
+Bremer,#10 City of Waverly Ward 1,Supreme Court Justice,,,No,209,82,127
+Bremer,#11 City of Waverly Ward 2,Supreme Court Justice,,,No,196,76,120
+Bremer,#12 City of Waverly Ward 3,Supreme Court Justice,,,No,104,29,75
+Bremer,#13 City of Waverly Ward 4,Supreme Court Justice,,,No,173,70,103
+Bremer,#14 City of Waverly Ward 5,Supreme Court Justice,,,No,170,75,95
+Bremer,#1 Polk Twp/City of Plainfield,Court of Appeals Judge,,,Yes,217,39,178
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Court of Appeals Judge,,,Yes,230,66,164
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Court of Appeals Judge,,,Yes,643,121,522
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Court of Appeals Judge,,,Yes,511,131,380
+Bremer,#5 Lafayette Twp/Washington Twp,Court of Appeals Judge,,,Yes,316,112,204
+Bremer,#6 Jackson Twp/City of Janesville,Court of Appeals Judge,,,Yes,432,91,341
+Bremer,#7 Jefferson Twp,Court of Appeals Judge,,,Yes,313,107,206
+Bremer,#8 City of Denver,Court of Appeals Judge,,,Yes,465,91,374
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Court of Appeals Judge,,,Yes,397,91,306
+Bremer,#10 City of Waverly Ward 1,Court of Appeals Judge,,,Yes,592,248,344
+Bremer,#11 City of Waverly Ward 2,Court of Appeals Judge,,,Yes,518,167,351
+Bremer,#12 City of Waverly Ward 3,Court of Appeals Judge,,,Yes,262,63,199
+Bremer,#13 City of Waverly Ward 4,Court of Appeals Judge,,,Yes,540,170,370
+Bremer,#14 City of Waverly Ward 5,Court of Appeals Judge,,,Yes,583,229,354
+Bremer,#1 Polk Twp/City of Plainfield,Court of Appeals Judge,,,No,79,17,62
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Court of Appeals Judge,,,No,94,17,77
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Court of Appeals Judge,,,No,276,53,223
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Court of Appeals Judge,,,No,185,40,145
+Bremer,#5 Lafayette Twp/Washington Twp,Court of Appeals Judge,,,No,106,33,73
+Bremer,#6 Jackson Twp/City of Janesville,Court of Appeals Judge,,,No,174,44,130
+Bremer,#7 Jefferson Twp,Court of Appeals Judge,,,No,122,47,75
+Bremer,#8 City of Denver,Court of Appeals Judge,,,No,192,41,151
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Court of Appeals Judge,,,No,174,40,134
+Bremer,#10 City of Waverly Ward 1,Court of Appeals Judge,,,No,180,70,110
+Bremer,#11 City of Waverly Ward 2,Court of Appeals Judge,,,No,170,60,110
+Bremer,#12 City of Waverly Ward 3,Court of Appeals Judge,,,No,84,20,64
+Bremer,#13 City of Waverly Ward 4,Court of Appeals Judge,,,No,147,54,93
+Bremer,#14 City of Waverly Ward 5,Court of Appeals Judge,,,No,161,72,89
+Bremer,#1 Polk Twp/City of Plainfield,District 2A Associate Judge,,,Yes,238,48,190
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,District 2A Associate Judge,,,Yes,258,76,182
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,District 2A Associate Judge,,,Yes,706,135,571
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,District 2A Associate Judge,,,Yes,558,152,406
+Bremer,#5 Lafayette Twp/Washington Twp,District 2A Associate Judge,,,Yes,390,139,251
+Bremer,#6 Jackson Twp/City of Janesville,District 2A Associate Judge,,,Yes,498,113,385
+Bremer,#7 Jefferson Twp,District 2A Associate Judge,,,Yes,358,125,233
+Bremer,#8 City of Denver,District 2A Associate Judge,,,Yes,505,97,408
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,District 2A Associate Judge,,,Yes,449,110,339
+Bremer,#10 City of Waverly Ward 1,District 2A Associate Judge,,,Yes,701,303,398
+Bremer,#11 City of Waverly Ward 2,District 2A Associate Judge,,,Yes,622,213,409
+Bremer,#12 City of Waverly Ward 3,District 2A Associate Judge,,,Yes,316,78,238
+Bremer,#13 City of Waverly Ward 4,District 2A Associate Judge,,,Yes,656,219,437
+Bremer,#14 City of Waverly Ward 5,District 2A Associate Judge,,,Yes,733,297,436
+Bremer,#1 Polk Twp/City of Plainfield,District 2A Associate Judge,,,No,69,13,56
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,District 2A Associate Judge,,,No,80,13,67
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,District 2A Associate Judge,,,No,250,48,202
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,District 2A Associate Judge,,,No,180,37,143
+Bremer,#5 Lafayette Twp/Washington Twp,District 2A Associate Judge,,,No,85,25,60
+Bremer,#6 Jackson Twp/City of Janesville,District 2A Associate Judge,,,No,151,34,117
+Bremer,#7 Jefferson Twp,District 2A Associate Judge,,,No,102,35,67
+Bremer,#8 City of Denver,District 2A Associate Judge,,,No,177,40,137
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,District 2A Associate Judge,,,No,153,30,123
+Bremer,#10 City of Waverly Ward 1,District 2A Associate Judge,,,No,149,55,94
+Bremer,#11 City of Waverly Ward 2,District 2A Associate Judge,,,No,129,45,84
+Bremer,#12 City of Waverly Ward 3,District 2A Associate Judge,,,No,62,18,44
+Bremer,#13 City of Waverly Ward 4,District 2A Associate Judge,,,No,109,33,76
+Bremer,#14 City of Waverly Ward 5,District 2A Associate Judge,,,No,114,47,67
+Bremer,#1 Polk Twp/City of Plainfield,Constitutional Amendment 1,,,Yes,311,49,262
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Constitutional Amendment 1,,,Yes,317,72,245
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Constitutional Amendment 1,,,Yes,820,126,694
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Constitutional Amendment 1,,,Yes,639,153,486
+Bremer,#5 Lafayette Twp/Washington Twp,Constitutional Amendment 1,,,Yes,421,118,303
+Bremer,#6 Jackson Twp/City of Janesville,Constitutional Amendment 1,,,Yes,554,105,449
+Bremer,#7 Jefferson Twp,Constitutional Amendment 1,,,Yes,485,121,364
+Bremer,#8 City of Denver,Constitutional Amendment 1,,,Yes,576,79,497
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Constitutional Amendment 1,,,Yes,552,90,462
+Bremer,#10 City of Waverly Ward 1,Constitutional Amendment 1,,,Yes,559,181,378
+Bremer,#11 City of Waverly Ward 2,Constitutional Amendment 1,,,Yes,525,127,398
+Bremer,#12 City of Waverly Ward 3,Constitutional Amendment 1,,,Yes,235,42,193
+Bremer,#13 City of Waverly Ward 4,Constitutional Amendment 1,,,Yes,492,128,364
+Bremer,#14 City of Waverly Ward 5,Constitutional Amendment 1,,,Yes,513,163,350
+Bremer,#1 Polk Twp/City of Plainfield,Constitutional Amendment 1,,,No,56,24,32
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Constitutional Amendment 1,,,No,79,30,49
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Constitutional Amendment 1,,,No,245,80,165
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Constitutional Amendment 1,,,No,220,71,149
+Bremer,#5 Lafayette Twp/Washington Twp,Constitutional Amendment 1,,,No,180,96,84
+Bremer,#6 Jackson Twp/City of Janesville,Constitutional Amendment 1,,,No,218,89,129
+Bremer,#7 Jefferson Twp,Constitutional Amendment 1,,,No,176,85,91
+Bremer,#8 City of Denver,Constitutional Amendment 1,,,No,242,74,168
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Constitutional Amendment 1,,,No,132,61,71
+Bremer,#10 City of Waverly Ward 1,Constitutional Amendment 1,,,No,395,216,179
+Bremer,#11 City of Waverly Ward 2,Constitutional Amendment 1,,,No,359,169,190
+Bremer,#12 City of Waverly Ward 3,Constitutional Amendment 1,,,No,206,71,135
+Bremer,#13 City of Waverly Ward 4,Constitutional Amendment 1,,,No,359,149,210
+Bremer,#14 City of Waverly Ward 5,Constitutional Amendment 1,,,No,441,221,220
+Bremer,#1 Polk Twp/City of Plainfield,Bremer County Public Measure BW,,,Yes,116,34,82
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Bremer County Public Measure BW,,,Yes,156,50,106
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Bremer County Public Measure BW,,,Yes,150,41,109
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Bremer County Public Measure BW,,,Yes,208,75,133
+Bremer,#5 Lafayette Twp/Washington Twp,Bremer County Public Measure BW,,,Yes,321,128,193
+Bremer,#6 Jackson Twp/City of Janesville,Bremer County Public Measure BW,,,Yes,184,63,121
+Bremer,#7 Jefferson Twp,Bremer County Public Measure BW,,,Yes,321,106,215
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Bremer County Public Measure BW,,,Yes,175,63,112
+Bremer,#1 Polk Twp/City of Plainfield,Bremer County Public Measure BW,,,No,97,14,83
+Bremer,#2 Douglas/Frederika/Leroy/City of Frederika,Bremer County Public Measure BW,,,No,163,43,120
+Bremer,#3 Dayton Twp/Sumner No. 2 Twp/City of Sumner,Bremer County Public Measure BW,,,No,156,31,125
+Bremer,#4 Warren Twp/Fremont Twp/City of Tripoli,Bremer County Public Measure BW,,,No,192,64,128
+Bremer,#5 Lafayette Twp/Washington Twp,Bremer County Public Measure BW,,,No,275,89,186
+Bremer,#6 Jackson Twp/City of Janesville,Bremer County Public Measure BW,,,No,198,56,142
+Bremer,#7 Jefferson Twp,Bremer County Public Measure BW,,,No,319,93,226
+Bremer,#9 Maxfield Twp/Franklin Twp/City of Readlyn,Bremer County Public Measure BW,,,No,200,37,163

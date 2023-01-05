@@ -1,0 +1,373 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Taylor,Precinct 1 TWPS,U.S. Senate,,DEM,Michael Franken,39,15,24
+Taylor,Precinct 2 Bed/Block,U.S. Senate,,DEM,Michael Franken,129,47,82
+Taylor,Precinct 4,U.S. Senate,,DEM,Michael Franken,70,25,45
+Taylor,Precinct 3,U.S. Senate,,DEM,Michael Franken,178,47,131
+Taylor,Precinct 5,U.S. Senate,,DEM,Michael Franken,71,19,52
+Taylor,Precinct 1 TWPS,U.S. Senate,,REP,Chuck Grassley,192,42,150
+Taylor,Precinct 2 Bed/Block,U.S. Senate,,REP,Chuck Grassley,598,114,484
+Taylor,Precinct 4,U.S. Senate,,REP,Chuck Grassley,217,25,192
+Taylor,Precinct 3,U.S. Senate,,REP,Chuck Grassley,438,67,371
+Taylor,Precinct 5,U.S. Senate,,REP,Chuck Grassley,319,54,265
+Taylor,Precinct 1 TWPS,U.S. Senate,,,Write-in,0,0,0
+Taylor,Precinct 2 Bed/Block,U.S. Senate,,,Write-in,1,0,1
+Taylor,Precinct 4,U.S. Senate,,,Write-in,1,0,1
+Taylor,Precinct 3,U.S. Senate,,,Write-in,2,0,2
+Taylor,Precinct 5,U.S. Senate,,,Write-in,0,0,0
+Taylor,Precinct 1 TWPS,U.S. House,3,DEM,Cindy Axne,52,18,34
+Taylor,Precinct 2 Bed/Block,U.S. House,3,DEM,Cindy Axne,157,52,105
+Taylor,Precinct 4,U.S. House,3,DEM,Cindy Axne,74,25,49
+Taylor,Precinct 3,U.S. House,3,DEM,Cindy Axne,202,54,148
+Taylor,Precinct 5,U.S. House,3,DEM,Cindy Axne,92,30,62
+Taylor,Precinct 1 TWPS,U.S. House,3,REP,Zach Nunn,179,37,142
+Taylor,Precinct 2 Bed/Block,U.S. House,3,REP,Zach Nunn,558,104,454
+Taylor,Precinct 4,U.S. House,3,REP,Zach Nunn,212,24,188
+Taylor,Precinct 3,U.S. House,3,REP,Zach Nunn,415,59,356
+Taylor,Precinct 5,U.S. House,3,REP,Zach Nunn,296,41,255
+Taylor,Precinct 1 TWPS,U.S. House,3,,Write-in,0,0,0
+Taylor,Precinct 2 Bed/Block,U.S. House,3,,Write-in,0,0,0
+Taylor,Precinct 4,U.S. House,3,,Write-in,2,0,2
+Taylor,Precinct 3,U.S. House,3,,Write-in,1,0,1
+Taylor,Precinct 5,U.S. House,3,,Write-in,0,0,0
+Taylor,Precinct 1 TWPS,Governor,,DEM,Deidre DeJear and Eric Van Lancker,31,15,16
+Taylor,Precinct 2 Bed/Block,Governor,,DEM,Deidre DeJear and Eric Van Lancker,102,37,65
+Taylor,Precinct 4,Governor,,DEM,Deidre DeJear and Eric Van Lancker,60,22,38
+Taylor,Precinct 3,Governor,,DEM,Deidre DeJear and Eric Van Lancker,155,45,110
+Taylor,Precinct 5,Governor,,DEM,Deidre DeJear and Eric Van Lancker,57,18,39
+Taylor,Precinct 1 TWPS,Governor,,REP,Kim Reynolds and Adam Gregg,203,44,159
+Taylor,Precinct 2 Bed/Block,Governor,,REP,Kim Reynolds and Adam Gregg,635,129,506
+Taylor,Precinct 4,Governor,,REP,Kim Reynolds and Adam Gregg,225,28,197
+Taylor,Precinct 3,Governor,,REP,Kim Reynolds and Adam Gregg,461,68,393
+Taylor,Precinct 5,Governor,,REP,Kim Reynolds and Adam Gregg,326,54,272
+Taylor,Precinct 1 TWPS,Governor,,LIB,Rick Stewart and Marco Battaglia,1,0,1
+Taylor,Precinct 2 Bed/Block,Governor,,LIB,Rick Stewart and Marco Battaglia,7,1,6
+Taylor,Precinct 4,Governor,,LIB,Rick Stewart and Marco Battaglia,9,1,8
+Taylor,Precinct 3,Governor,,LIB,Rick Stewart and Marco Battaglia,14,3,11
+Taylor,Precinct 5,Governor,,LIB,Rick Stewart and Marco Battaglia,11,1,10
+Taylor,Precinct 1 TWPS,Governor,,,Write-in,0,0,0
+Taylor,Precinct 2 Bed/Block,Governor,,,Write-in,1,0,1
+Taylor,Precinct 4,Governor,,,Write-in,0,0,0
+Taylor,Precinct 3,Governor,,,Write-in,0,0,0
+Taylor,Precinct 5,Governor,,,Write-in,0,0,0
+Taylor,Precinct 1 TWPS,Secretary of State,,DEM,Joel Miller,38,13,25
+Taylor,Precinct 2 Bed/Block,Secretary of State,,DEM,Joel Miller,133,49,84
+Taylor,Precinct 4,Secretary of State,,DEM,Joel Miller,56,17,39
+Taylor,Precinct 3,Secretary of State,,DEM,Joel Miller,149,44,105
+Taylor,Precinct 5,Secretary of State,,DEM,Joel Miller,69,21,48
+Taylor,Precinct 1 TWPS,Secretary of State,,REP,Paul D. Pate,194,43,151
+Taylor,Precinct 2 Bed/Block,Secretary of State,,REP,Paul D. Pate,588,111,477
+Taylor,Precinct 4,Secretary of State,,REP,Paul D. Pate,233,31,202
+Taylor,Precinct 3,Secretary of State,,REP,Paul D. Pate,468,69,399
+Taylor,Precinct 5,Secretary of State,,REP,Paul D. Pate,320,51,269
+Taylor,Precinct 1 TWPS,Secretary of State,,,Write-in,0,0,0
+Taylor,Precinct 2 Bed/Block,Secretary of State,,,Write-in,0,0,0
+Taylor,Precinct 4,Secretary of State,,,Write-in,0,0,0
+Taylor,Precinct 3,Secretary of State,,,Write-in,0,0,0
+Taylor,Precinct 5,Secretary of State,,,Write-in,0,0,0
+Taylor,Precinct 1 TWPS,Auditor of State,,DEM,Rob Sand,63,22,41
+Taylor,Precinct 2 Bed/Block,Auditor of State,,DEM,Rob Sand,179,58,121
+Taylor,Precinct 4,Auditor of State,,DEM,Rob Sand,95,26,69
+Taylor,Precinct 3,Auditor of State,,DEM,Rob Sand,257,65,192
+Taylor,Precinct 5,Auditor of State,,DEM,Rob Sand,93,28,65
+Taylor,Precinct 1 TWPS,Auditor of State,,REP,Todd Halbur,169,34,135
+Taylor,Precinct 2 Bed/Block,Auditor of State,,REP,Todd Halbur,533,104,429
+Taylor,Precinct 4,Auditor of State,,REP,Todd Halbur,193,23,170
+Taylor,Precinct 3,Auditor of State,,REP,Todd Halbur,357,49,308
+Taylor,Precinct 5,Auditor of State,,REP,Todd Halbur,289,43,246
+Taylor,Precinct 1 TWPS,Auditor of State,,,Write-in,0,0,0
+Taylor,Precinct 2 Bed/Block,Auditor of State,,,Write-in,0,0,0
+Taylor,Precinct 4,Auditor of State,,,Write-in,0,0,0
+Taylor,Precinct 3,Auditor of State,,,Write-in,0,0,0
+Taylor,Precinct 5,Auditor of State,,,Write-in,1,0,1
+Taylor,Precinct 1 TWPS,Treasurer of State,,DEM,Michael L. Fitzgerald,64,22,42
+Taylor,Precinct 2 Bed/Block,Treasurer of State,,DEM,Michael L. Fitzgerald,194,61,133
+Taylor,Precinct 4,Treasurer of State,,DEM,Michael L. Fitzgerald,90,26,64
+Taylor,Precinct 3,Treasurer of State,,DEM,Michael L. Fitzgerald,248,65,183
+Taylor,Precinct 5,Treasurer of State,,DEM,Michael L. Fitzgerald,94,29,65
+Taylor,Precinct 1 TWPS,Treasurer of State,,REP,Roby Smith,164,34,130
+Taylor,Precinct 2 Bed/Block,Treasurer of State,,REP,Roby Smith,517,100,417
+Taylor,Precinct 4,Treasurer of State,,REP,Roby Smith,197,25,172
+Taylor,Precinct 3,Treasurer of State,,REP,Roby Smith,371,50,321
+Taylor,Precinct 5,Treasurer of State,,REP,Roby Smith,291,42,249
+Taylor,Precinct 1 TWPS,Treasurer of State,,,Write-in,0,0,0
+Taylor,Precinct 2 Bed/Block,Treasurer of State,,,Write-in,1,0,1
+Taylor,Precinct 4,Treasurer of State,,,Write-in,0,0,0
+Taylor,Precinct 3,Treasurer of State,,,Write-in,0,0,0
+Taylor,Precinct 5,Treasurer of State,,,Write-in,0,0,0
+Taylor,Precinct 1 TWPS,Secretary of Agriculture,,DEM,John Norwood,35,15,20
+Taylor,Precinct 2 Bed/Block,Secretary of Agriculture,,DEM,John Norwood,110,41,69
+Taylor,Precinct 4,Secretary of Agriculture,,DEM,John Norwood,58,19,39
+Taylor,Precinct 3,Secretary of Agriculture,,DEM,John Norwood,154,46,108
+Taylor,Precinct 5,Secretary of Agriculture,,DEM,John Norwood,62,20,42
+Taylor,Precinct 1 TWPS,Secretary of Agriculture,,REP,Mike Naig,196,42,154
+Taylor,Precinct 2 Bed/Block,Secretary of Agriculture,,REP,Mike Naig,603,118,485
+Taylor,Precinct 4,Secretary of Agriculture,,REP,Mike Naig,230,31,199
+Taylor,Precinct 3,Secretary of Agriculture,,REP,Mike Naig,464,67,397
+Taylor,Precinct 5,Secretary of Agriculture,,REP,Mike Naig,325,51,274
+Taylor,Precinct 1 TWPS,Secretary of Agriculture,,,Write-in,0,0,0
+Taylor,Precinct 2 Bed/Block,Secretary of Agriculture,,,Write-in,0,0,0
+Taylor,Precinct 4,Secretary of Agriculture,,,Write-in,0,0,0
+Taylor,Precinct 3,Secretary of Agriculture,,,Write-in,0,0,0
+Taylor,Precinct 5,Secretary of Agriculture,,,Write-in,0,0,0
+Taylor,Precinct 1 TWPS,Attorney General,,DEM,Tom Miller,67,24,43
+Taylor,Precinct 2 Bed/Block,Attorney General,,DEM,Tom Miller,181,68,113
+Taylor,Precinct 4,Attorney General,,DEM,Tom Miller,89,24,65
+Taylor,Precinct 3,Attorney General,,DEM,Tom Miller,244,67,177
+Taylor,Precinct 5,Attorney General,,DEM,Tom Miller,95,23,72
+Taylor,Precinct 1 TWPS,Attorney General,,REP,Brenna Bird,165,33,132
+Taylor,Precinct 2 Bed/Block,Attorney General,,REP,Brenna Bird,532,94,438
+Taylor,Precinct 4,Attorney General,,REP,Brenna Bird,201,26,175
+Taylor,Precinct 3,Attorney General,,REP,Brenna Bird,372,44,328
+Taylor,Precinct 5,Attorney General,,REP,Brenna Bird,289,46,243
+Taylor,Precinct 1 TWPS,Attorney General,,,Write-in,0,0,0
+Taylor,Precinct 2 Bed/Block,Attorney General,,,Write-in,0,0,0
+Taylor,Precinct 4,Attorney General,,,Write-in,0,0,0
+Taylor,Precinct 3,Attorney General,,,Write-in,0,0,0
+Taylor,Precinct 5,Attorney General,,,Write-in,0,0,0
+Taylor,Precinct 1 TWPS,State Senate,9,DEM,Tripp Narup,39,15,24
+Taylor,Precinct 2 Bed/Block,State Senate,9,DEM,Tripp Narup,110,43,67
+Taylor,Precinct 4,State Senate,9,DEM,Tripp Narup,52,19,33
+Taylor,Precinct 3,State Senate,9,DEM,Tripp Narup,147,44,103
+Taylor,Precinct 5,State Senate,9,DEM,Tripp Narup,49,14,35
+Taylor,Precinct 1 TWPS,State Senate,9,REP,Tom Shipley,188,39,149
+Taylor,Precinct 2 Bed/Block,State Senate,9,REP,Tom Shipley,607,122,485
+Taylor,Precinct 4,State Senate,9,REP,Tom Shipley,236,31,205
+Taylor,Precinct 3,State Senate,9,REP,Tom Shipley,477,71,406
+Taylor,Precinct 5,State Senate,9,REP,Tom Shipley,339,55,284
+Taylor,Precinct 1 TWPS,State Senate,9,,Write-in,0,0,0
+Taylor,Precinct 2 Bed/Block,State Senate,9,,Write-in,0,0,0
+Taylor,Precinct 4,State Senate,9,,Write-in,1,0,1
+Taylor,Precinct 3,State Senate,9,,Write-in,0,0,0
+Taylor,Precinct 5,State Senate,9,,Write-in,1,1,0
+Taylor,Precinct 1 TWPS,State House,17,DEM,Pat Shipley,44,18,26
+Taylor,Precinct 2 Bed/Block,State House,17,DEM,Pat Shipley,121,45,76
+Taylor,Precinct 4,State House,17,DEM,Pat Shipley,71,24,47
+Taylor,Precinct 3,State House,17,DEM,Pat Shipley,185,51,134
+Taylor,Precinct 5,State House,17,DEM,Pat Shipley,63,21,42
+Taylor,Precinct 1 TWPS,State House,17,REP,Devon Wood,182,37,145
+Taylor,Precinct 2 Bed/Block,State House,17,REP,Devon Wood,596,118,478
+Taylor,Precinct 4,State House,17,REP,Devon Wood,215,27,188
+Taylor,Precinct 3,State House,17,REP,Devon Wood,435,63,372
+Taylor,Precinct 5,State House,17,REP,Devon Wood,325,49,276
+Taylor,Precinct 1 TWPS,State House,17,,Write-in,0,0,0
+Taylor,Precinct 2 Bed/Block,State House,17,,Write-in,0,0,0
+Taylor,Precinct 4,State House,17,,Write-in,0,0,0
+Taylor,Precinct 3,State House,17,,Write-in,0,0,0
+Taylor,Precinct 5,State House,17,,Write-in,0,0,0
+Taylor,Precinct 1 TWPS,County Board of Supervisors District 1,,REP,Ronald Fitzgerald,121,28,93
+Taylor,Precinct 4,County Board of Supervisors District 1,,REP,Ronald Fitzgerald,180,24,156
+Taylor,Precinct 5,County Board of Supervisors District 1,,REP,Ronald Fitzgerald,202,28,174
+Taylor,Precinct 1 TWPS,County Board of Supervisors District 1,,,Jacque Lenhart,75,17,58
+Taylor,Precinct 4,County Board of Supervisors District 1,,,Jacque Lenhart,39,9,30
+Taylor,Precinct 5,County Board of Supervisors District 1,,,Jacque Lenhart,69,14,55
+Taylor,Precinct 1 TWPS,County Board of Supervisors District 1,,,Robert Lundquist,32,9,23
+Taylor,Precinct 4,County Board of Supervisors District 1,,,Robert Lundquist,67,16,51
+Taylor,Precinct 5,County Board of Supervisors District 1,,,Robert Lundquist,100,23,77
+Taylor,Precinct 1 TWPS,County Board of Supervisors District 1,,,Write-in,0,0,0
+Taylor,Precinct 4,County Board of Supervisors District 1,,,Write-in,1,0,1
+Taylor,Precinct 5,County Board of Supervisors District 1,,,Write-in,1,1,0
+Taylor,Precinct 2 Bed/Block,County Board of Supervisors District 2,,REP,Kim Watson,674,146,528
+Taylor,Precinct 2 Bed/Block,County Board of Supervisors District 2,,,Write-in,7,2,5
+Taylor,Precinct 3,County Board of Supervisors District 3,,REP,Jack Beggs,586,98,488
+Taylor,Precinct 3,County Board of Supervisors District 3,,,Write-in,10,2,8
+Taylor,Precinct 1 TWPS,County Treasurer,,REP,Dana Davis,228,56,172
+Taylor,Precinct 2 Bed/Block,County Treasurer,,REP,Dana Davis,718,160,558
+Taylor,Precinct 4,County Treasurer,,REP,Dana Davis,273,43,230
+Taylor,Precinct 3,County Treasurer,,REP,Dana Davis,583,101,482
+Taylor,Precinct 5,County Treasurer,,REP,Dana Davis,382,67,315
+Taylor,Precinct 1 TWPS,County Treasurer,,,Write-in,0,0,0
+Taylor,Precinct 2 Bed/Block,County Treasurer,,,Write-in,1,0,1
+Taylor,Precinct 4,County Treasurer,,,Write-in,1,1,0
+Taylor,Precinct 3,County Treasurer,,,Write-in,10,2,8
+Taylor,Precinct 5,County Treasurer,,,Write-in,2,1,1
+Taylor,Precinct 1 TWPS,County Recorder,,REP,Rick Sheley,218,49,169
+Taylor,Precinct 2 Bed/Block,County Recorder,,REP,Rick Sheley,699,156,543
+Taylor,Precinct 4,County Recorder,,REP,Rick Sheley,266,42,224
+Taylor,Precinct 3,County Recorder,,REP,Rick Sheley,574,98,476
+Taylor,Precinct 5,County Recorder,,REP,Rick Sheley,371,62,309
+Taylor,Precinct 1 TWPS,County Recorder,,,Write-in,4,3,1
+Taylor,Precinct 2 Bed/Block,County Recorder,,,Write-in,0,0,0
+Taylor,Precinct 4,County Recorder,,,Write-in,2,0,2
+Taylor,Precinct 3,County Recorder,,,Write-in,8,0,8
+Taylor,Precinct 5,County Recorder,,,Write-in,2,1,1
+Taylor,Precinct 1 TWPS,County Attorney,,REP,Clinton L. Spurrier,210,46,164
+Taylor,Precinct 2 Bed/Block,County Attorney,,REP,Clinton L. Spurrier,642,141,501
+Taylor,Precinct 4,County Attorney,,REP,Clinton L. Spurrier,254,39,215
+Taylor,Precinct 3,County Attorney,,REP,Clinton L. Spurrier,572,98,474
+Taylor,Precinct 5,County Attorney,,REP,Clinton L. Spurrier,355,59,296
+Taylor,Precinct 1 TWPS,County Attorney,,,Write-in,2,1,1
+Taylor,Precinct 2 Bed/Block,County Attorney,,,Write-in,5,1,4
+Taylor,Precinct 4,County Attorney,,,Write-in,3,0,3
+Taylor,Precinct 3,County Attorney,,,Write-in,11,1,10
+Taylor,Precinct 5,County Attorney,,,Write-in,2,1,1
+Taylor,Precinct 2 Bed/Block,Bedford Township Trustee,,,Dennis White,72,13,59
+Taylor,Precinct 2 Bed/Block,Bedford Township Trustee,,,Write-in,0,0,0
+Taylor,Precinct 2 Bed/Block,Bedford Township Clerk,,,Jim Offenbacker,68,11,57
+Taylor,Precinct 2 Bed/Block,Bedford Township Clerk,,,Write-in,0,0,0
+Taylor,Precinct 1 TWPS,Benton Township Trustee,,,Write-in,14,0,14
+Taylor,Precinct 2 Bed/Block,Benton Township Trustee,,,Write-in,1,0,1
+Taylor,Precinct 1 TWPS,Benton Township Clerk,,,Melissa Strickland,63,12,51
+Taylor,Precinct 2 Bed/Block,Benton Township Clerk,,,Melissa Strickland,15,1,14
+Taylor,Precinct 1 TWPS,Benton Township Clerk,,,Write-in,0,0,0
+Taylor,Precinct 2 Bed/Block,Benton Township Clerk,,,Write-in,0,0,0
+Taylor,Precinct 2 Bed/Block,Clayton Township Trustee,,,Garry Dean Rankin,37,6,31
+Taylor,Precinct 2 Bed/Block,Clayton Township Trustee,,,Write-in,0,0,0
+Taylor,Precinct 2 Bed/Block,Clayton Township Clerk,,,Patty Rankin,35,5,30
+Taylor,Precinct 2 Bed/Block,Clayton Township Clerk,,,Write-in,0,0,0
+Taylor,Precinct 5,Dallas Township Trustee,,,Steve Wright,109,12,97
+Taylor,Precinct 5,Dallas Township Trustee,,,Write-in,0,0,0
+Taylor,Precinct 5,Dallas Township Clerk,,,Lee Haug,105,13,92
+Taylor,Precinct 5,Dallas Township Clerk,,,Write-in,1,0,1
+Taylor,Precinct 2 Bed/Block,Gay Township Trustee,,,Steve Jennett,87,11,76
+Taylor,Precinct 2 Bed/Block,Gay Township Trustee,,,Write-in,0,0,0
+Taylor,Precinct 2 Bed/Block,Gay Township Clerk,,,Chantelle Jennett,84,10,74
+Taylor,Precinct 2 Bed/Block,Gay Township Clerk,,,Write-in,0,0,0
+Taylor,Precinct 3,Grant Township Trustee,,,Doug England,52,12,40
+Taylor,Precinct 3,Grant Township Trustee,,,Write-in,0,0,0
+Taylor,Precinct 3,Grant Township Clerk,,,Nickie Henderson,50,12,38
+Taylor,Precinct 3,Grant Township Clerk,,,Write-in,0,0,0
+Taylor,Precinct 4,Grove Township Trustee,,,Write-in,2,0,2
+Taylor,Precinct 3,Grove Township Trustee,,,Write-in,6,3,3
+Taylor,Precinct 4,Grove Township Clerk,,,Write-in,1,0,1
+Taylor,Precinct 3,Grove Township Clerk,,,Write-in,7,3,4
+Taylor,Precinct 4,Holt Township Trustee,,,Shane Bennett,57,13,44
+Taylor,Precinct 4,Holt Township Trustee,,,Write-in,2,1,1
+Taylor,Precinct 4,Holt Township Clerk,,,Sharon Dalton,56,13,43
+Taylor,Precinct 4,Holt Township Clerk,,,Write-in,0,0,0
+Taylor,Precinct 1 TWPS,Jackson Township Trustee,,,Steve McMillin,25,10,15
+Taylor,Precinct 1 TWPS,Jackson Township Trustee,,,Write-in,1,0,1
+Taylor,Precinct 1 TWPS,Jackson Township Clerk,,,Michelle McMillin,26,10,16
+Taylor,Precinct 1 TWPS,Jackson Township Clerk,,,Write-in,0,0,0
+Taylor,Precinct 2 Bed/Block,Jefferson Township Trustee,,,Write-in,2,0,2
+Taylor,Precinct 2 Bed/Block,Jefferson Township Clerk,,,David Loutzenhiser,41,10,31
+Taylor,Precinct 2 Bed/Block,Jefferson Township Clerk,,,Write-in,0,0,0
+Taylor,Precinct 4,Marshall Township Trustee,,,Paul W. Norton,27,5,22
+Taylor,Precinct 4,Marshall Township Trustee,,,Write-in,5,2,3
+Taylor,Precinct 4,Marshall Township Trustee To Fill Vacancy,,,James Murphy,32,7,25
+Taylor,Precinct 4,Marshall Township Trustee To Fill Vacancy,,,Write-in,1,0,1
+Taylor,Precinct 4,Marshall Township Clerk,,,Write-in,7,0,7
+Taylor,Precinct 5,Mason Township Trustee,,,Write-in,8,1,7
+Taylor,Precinct 5,Mason Township Clerk,,,Write-in,5,1,4
+Taylor,Precinct 5,Nodaway Township Trustee,,,Brian Schaffer,47,15,32
+Taylor,Precinct 5,Nodaway Township Trustee,,,Write-in,1,0,1
+Taylor,Precinct 5,Nodaway Township Clerk,,,Fredrick Berggren,48,16,32
+Taylor,Precinct 5,Nodaway Township Clerk,,,Write-in,1,0,1
+Taylor,Precinct 3,Platte Township Trustee,,,Write-in,5,2,3
+Taylor,Precinct 3,Platte Township Clerk,,,Marygrace Davenport,47,3,44
+Taylor,Precinct 3,Platte Township Clerk,,,Write-in,0,0,0
+Taylor,Precinct 1 TWPS,Polk Township Trustee,,,Write-in,14,3,11
+Taylor,Precinct 1 TWPS,Polk Township Clerk,,,Jolyn Jackson,39,10,29
+Taylor,Precinct 1 TWPS,Polk Township Clerk,,,Write-in,0,0,0
+Taylor,Precinct 1 TWPS,Ross Township Trustee,,,Paul Ackley,81,15,66
+Taylor,Precinct 1 TWPS,Ross Township Trustee,,,Write-in,0,0,0
+Taylor,Precinct 1 TWPS,Ross Township Clerk,,,Louis Els,72,10,62
+Taylor,Precinct 1 TWPS,Ross Township Clerk,,,Write-in,0,0,0
+Taylor,Precinct 4,Washington Township Trustee,,,Jesse Beemer,72,14,58
+Taylor,Precinct 4,Washington Township Trustee,,,Write-in,1,0,1
+Taylor,Precinct 4,Washington Township Clerk,,,Cindy M. Coleman,77,13,64
+Taylor,Precinct 4,Washington Township Clerk,,,Write-in,0,0,0
+Taylor,Precinct 1 TWPS,Soil and Water Conservation District Commissioner,,,Bonnie Godden,146,30,116
+Taylor,Precinct 2 Bed/Block,Soil and Water Conservation District Commissioner,,,Bonnie Godden,463,110,353
+Taylor,Precinct 4,Soil and Water Conservation District Commissioner,,,Bonnie Godden,173,27,146
+Taylor,Precinct 3,Soil and Water Conservation District Commissioner,,,Bonnie Godden,397,73,324
+Taylor,Precinct 5,Soil and Water Conservation District Commissioner,,,Bonnie Godden,247,43,204
+Taylor,Precinct 1 TWPS,Soil and Water Conservation District Commissioner,,,Paul Ackley,203,48,155
+Taylor,Precinct 2 Bed/Block,Soil and Water Conservation District Commissioner,,,Paul Ackley,566,131,435
+Taylor,Precinct 4,Soil and Water Conservation District Commissioner,,,Paul Ackley,212,34,178
+Taylor,Precinct 3,Soil and Water Conservation District Commissioner,,,Paul Ackley,448,76,372
+Taylor,Precinct 5,Soil and Water Conservation District Commissioner,,,Paul Ackley,296,52,244
+Taylor,Precinct 1 TWPS,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Taylor,Precinct 2 Bed/Block,Soil and Water Conservation District Commissioner,,,Write-in,4,0,4
+Taylor,Precinct 4,Soil and Water Conservation District Commissioner,,,Write-in,3,0,3
+Taylor,Precinct 3,Soil and Water Conservation District Commissioner,,,Write-in,5,3,2
+Taylor,Precinct 5,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Taylor,Precinct 1 TWPS,County Agricultural Extension Council Member,,,Branden Cline,151,30,121
+Taylor,Precinct 2 Bed/Block,County Agricultural Extension Council Member,,,Branden Cline,430,97,333
+Taylor,Precinct 4,County Agricultural Extension Council Member,,,Branden Cline,194,29,165
+Taylor,Precinct 3,County Agricultural Extension Council Member,,,Branden Cline,472,76,396
+Taylor,Precinct 5,County Agricultural Extension Council Member,,,Branden Cline,263,52,211
+Taylor,Precinct 1 TWPS,County Agricultural Extension Council Member,,,James Ernst,155,30,125
+Taylor,Precinct 2 Bed/Block,County Agricultural Extension Council Member,,,James Ernst,445,97,348
+Taylor,Precinct 4,County Agricultural Extension Council Member,,,James Ernst,186,29,157
+Taylor,Precinct 3,County Agricultural Extension Council Member,,,James Ernst,390,71,319
+Taylor,Precinct 5,County Agricultural Extension Council Member,,,James Ernst,255,49,206
+Taylor,Precinct 1 TWPS,County Agricultural Extension Council Member,,,Lynn M. Stamps,156,32,124
+Taylor,Precinct 2 Bed/Block,County Agricultural Extension Council Member,,,Lynn M. Stamps,440,99,341
+Taylor,Precinct 4,County Agricultural Extension Council Member,,,Lynn M. Stamps,202,31,171
+Taylor,Precinct 3,County Agricultural Extension Council Member,,,Lynn M. Stamps,382,72,310
+Taylor,Precinct 5,County Agricultural Extension Council Member,,,Lynn M. Stamps,297,52,245
+Taylor,Precinct 1 TWPS,County Agricultural Extension Council Member,,,Tiffany Weller,146,30,116
+Taylor,Precinct 2 Bed/Block,County Agricultural Extension Council Member,,,Tiffany Weller,431,92,339
+Taylor,Precinct 4,County Agricultural Extension Council Member,,,Tiffany Weller,176,28,148
+Taylor,Precinct 3,County Agricultural Extension Council Member,,,Tiffany Weller,410,75,335
+Taylor,Precinct 5,County Agricultural Extension Council Member,,,Tiffany Weller,250,49,201
+Taylor,Precinct 1 TWPS,County Agricultural Extension Council Member,,,Tina McMillin,156,32,124
+Taylor,Precinct 2 Bed/Block,County Agricultural Extension Council Member,,,Tina McMillin,458,100,358
+Taylor,Precinct 4,County Agricultural Extension Council Member,,,Tina McMillin,178,29,149
+Taylor,Precinct 3,County Agricultural Extension Council Member,,,Tina McMillin,388,73,315
+Taylor,Precinct 5,County Agricultural Extension Council Member,,,Tina McMillin,246,47,199
+Taylor,Precinct 1 TWPS,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Taylor,Precinct 2 Bed/Block,County Agricultural Extension Council Member,,,Write-in,4,0,4
+Taylor,Precinct 4,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Taylor,Precinct 3,County Agricultural Extension Council Member,,,Write-in,10,0,10
+Taylor,Precinct 5,County Agricultural Extension Council Member,,,Write-in,1,0,1
+Taylor,Precinct 1 TWPS,County Agricultural Extension Council Member To Fill Vacancy,,,Chelsea Minor,192,42,150
+Taylor,Precinct 2 Bed/Block,County Agricultural Extension Council Member To Fill Vacancy,,,Chelsea Minor,574,122,452
+Taylor,Precinct 4,County Agricultural Extension Council Member To Fill Vacancy,,,Chelsea Minor,226,35,191
+Taylor,Precinct 3,County Agricultural Extension Council Member To Fill Vacancy,,,Chelsea Minor,487,82,405
+Taylor,Precinct 5,County Agricultural Extension Council Member To Fill Vacancy,,,Chelsea Minor,324,54,270
+Taylor,Precinct 1 TWPS,County Agricultural Extension Council Member To Fill Vacancy,,,Write-in,0,0,0
+Taylor,Precinct 2 Bed/Block,County Agricultural Extension Council Member To Fill Vacancy,,,Write-in,2,1,1
+Taylor,Precinct 4,County Agricultural Extension Council Member To Fill Vacancy,,,Write-in,0,0,0
+Taylor,Precinct 3,County Agricultural Extension Council Member To Fill Vacancy,,,Write-in,2,0,2
+Taylor,Precinct 5,County Agricultural Extension Council Member To Fill Vacancy,,,Write-in,0,0,0
+Taylor,Precinct 1 TWPS,Supreme Court Justice,,,Yes,104,23,81
+Taylor,Precinct 2 Bed/Block,Supreme Court Justice,,,Yes,346,81,265
+Taylor,Precinct 4,Supreme Court Justice,,,Yes,151,24,127
+Taylor,Precinct 3,Supreme Court Justice,,,Yes,333,48,285
+Taylor,Precinct 5,Supreme Court Justice,,,Yes,207,31,176
+Taylor,Precinct 1 TWPS,Supreme Court Justice,,,No,54,15,39
+Taylor,Precinct 2 Bed/Block,Supreme Court Justice,,,No,136,23,113
+Taylor,Precinct 4,Supreme Court Justice,,,No,63,7,56
+Taylor,Precinct 3,Supreme Court Justice,,,No,126,28,98
+Taylor,Precinct 5,Supreme Court Justice,,,No,88,14,74
+Taylor,Precinct 1 TWPS,Court of Appeals Judge,,,Yes,103,22,81
+Taylor,Precinct 2 Bed/Block,Court of Appeals Judge,,,Yes,326,78,248
+Taylor,Precinct 4,Court of Appeals Judge,,,Yes,139,23,116
+Taylor,Precinct 3,Court of Appeals Judge,,,Yes,325,52,273
+Taylor,Precinct 5,Court of Appeals Judge,,,Yes,197,29,168
+Taylor,Precinct 1 TWPS,Court of Appeals Judge,,,No,50,15,35
+Taylor,Precinct 2 Bed/Block,Court of Appeals Judge,,,No,138,22,116
+Taylor,Precinct 4,Court of Appeals Judge,,,No,68,7,61
+Taylor,Precinct 3,Court of Appeals Judge,,,No,132,30,102
+Taylor,Precinct 5,Court of Appeals Judge,,,No,95,14,81
+Taylor,Precinct 1 TWPS,District 5B Judge,,,Yes,106,22,84
+Taylor,Precinct 2 Bed/Block,District 5B Judge,,,Yes,340,80,260
+Taylor,Precinct 4,District 5B Judge,,,Yes,154,21,133
+Taylor,Precinct 3,District 5B Judge,,,Yes,357,60,297
+Taylor,Precinct 5,District 5B Judge,,,Yes,204,31,173
+Taylor,Precinct 1 TWPS,District 5B Judge,,,No,57,16,41
+Taylor,Precinct 2 Bed/Block,District 5B Judge,,,No,146,26,120
+Taylor,Precinct 4,District 5B Judge,,,No,66,9,57
+Taylor,Precinct 3,District 5B Judge,,,No,121,27,94
+Taylor,Precinct 5,District 5B Judge,,,No,96,14,82
+Taylor,Precinct 1 TWPS,Constitutional Amendment 1,,,Yes,197,42,155
+Taylor,Precinct 2 Bed/Block,Constitutional Amendment 1,,,Yes,614,129,485
+Taylor,Precinct 4,Constitutional Amendment 1,,,Yes,236,28,208
+Taylor,Precinct 3,Constitutional Amendment 1,,,Yes,487,81,406
+Taylor,Precinct 5,Constitutional Amendment 1,,,Yes,329,61,268
+Taylor,Precinct 1 TWPS,Constitutional Amendment 1,,,No,28,15,13
+Taylor,Precinct 2 Bed/Block,Constitutional Amendment 1,,,No,69,21,48
+Taylor,Precinct 4,Constitutional Amendment 1,,,No,39,14,25
+Taylor,Precinct 3,Constitutional Amendment 1,,,No,113,27,86
+Taylor,Precinct 5,Constitutional Amendment 1,,,No,38,6,32
+Taylor,Precinct 1 TWPS,Taylor County Public Measure EE,,,Yes,127,32,95
+Taylor,Precinct 2 Bed/Block,Taylor County Public Measure EE,,,Yes,417,103,314
+Taylor,Precinct 4,Taylor County Public Measure EE,,,Yes,143,20,123
+Taylor,Precinct 3,Taylor County Public Measure EE,,,Yes,314,75,239
+Taylor,Precinct 5,Taylor County Public Measure EE,,,Yes,234,55,179
+Taylor,Precinct 1 TWPS,Taylor County Public Measure EE,,,No,91,21,70
+Taylor,Precinct 2 Bed/Block,Taylor County Public Measure EE,,,No,281,52,229
+Taylor,Precinct 4,Taylor County Public Measure EE,,,No,130,21,109
+Taylor,Precinct 3,Taylor County Public Measure EE,,,No,294,35,259
+Taylor,Precinct 5,Taylor County Public Measure EE,,,No,132,13,119

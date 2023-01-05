@@ -1,0 +1,327 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Decatur,Lamoni,U.S. Senate,,DEM,Michael Franken,323,83,240
+Decatur,Davis City,U.S. Senate,,DEM,Michael Franken,71,35,36
+Decatur,Van Wert,U.S. Senate,,DEM,Michael Franken,149,48,101
+Decatur,Leon,U.S. Senate,,DEM,Michael Franken,251,104,147
+Decatur,Lamoni,U.S. Senate,,REP,Chuck Grassley,406,63,343
+Decatur,Davis City,U.S. Senate,,REP,Chuck Grassley,413,112,301
+Decatur,Van Wert,U.S. Senate,,REP,Chuck Grassley,408,104,304
+Decatur,Leon,U.S. Senate,,REP,Chuck Grassley,717,150,567
+Decatur,Lamoni,U.S. Senate,,,Write-in,5,0,5
+Decatur,Davis City,U.S. Senate,,,Write-in,0,0,0
+Decatur,Van Wert,U.S. Senate,,,Write-in,1,0,1
+Decatur,Leon,U.S. Senate,,,Write-in,1,1,0
+Decatur,Lamoni,U.S. House,3,DEM,Cindy Axne,322,83,239
+Decatur,Davis City,U.S. House,3,DEM,Cindy Axne,72,34,38
+Decatur,Van Wert,U.S. House,3,DEM,Cindy Axne,165,54,111
+Decatur,Leon,U.S. House,3,DEM,Cindy Axne,276,112,164
+Decatur,Lamoni,U.S. House,3,REP,Zach Nunn,405,63,342
+Decatur,Davis City,U.S. House,3,REP,Zach Nunn,407,110,297
+Decatur,Van Wert,U.S. House,3,REP,Zach Nunn,386,99,287
+Decatur,Leon,U.S. House,3,REP,Zach Nunn,692,148,544
+Decatur,Lamoni,U.S. House,3,,Write-in,1,0,1
+Decatur,Davis City,U.S. House,3,,Write-in,1,0,1
+Decatur,Van Wert,U.S. House,3,,Write-in,3,0,3
+Decatur,Leon,U.S. House,3,,Write-in,1,0,1
+Decatur,Lamoni,Governor,,DEM,Deidre DeJear and Eric Van Lancker,299,76,223
+Decatur,Davis City,Governor,,DEM,Deidre DeJear and Eric Van Lancker,48,24,24
+Decatur,Van Wert,Governor,,DEM,Deidre DeJear and Eric Van Lancker,115,45,70
+Decatur,Leon,Governor,,DEM,Deidre DeJear and Eric Van Lancker,189,76,113
+Decatur,Lamoni,Governor,,REP,Kim Reynolds and Adam Gregg,432,73,359
+Decatur,Davis City,Governor,,REP,Kim Reynolds and Adam Gregg,433,119,314
+Decatur,Van Wert,Governor,,REP,Kim Reynolds and Adam Gregg,438,103,335
+Decatur,Leon,Governor,,REP,Kim Reynolds and Adam Gregg,778,184,594
+Decatur,Lamoni,Governor,,LIB,Rick Stewart and Marco Battaglia,16,3,13
+Decatur,Davis City,Governor,,LIB,Rick Stewart and Marco Battaglia,12,6,6
+Decatur,Van Wert,Governor,,LIB,Rick Stewart and Marco Battaglia,14,5,9
+Decatur,Leon,Governor,,LIB,Rick Stewart and Marco Battaglia,19,3,16
+Decatur,Lamoni,Governor,,,Write-in,0,0,0
+Decatur,Davis City,Governor,,,Write-in,0,0,0
+Decatur,Van Wert,Governor,,,Write-in,0,0,0
+Decatur,Leon,Governor,,,Write-in,0,0,0
+Decatur,Lamoni,Secretary of State,,DEM,Joel Miller,300,78,222
+Decatur,Davis City,Secretary of State,,DEM,Joel Miller,81,35,46
+Decatur,Van Wert,Secretary of State,,DEM,Joel Miller,162,53,109
+Decatur,Leon,Secretary of State,,DEM,Joel Miller,248,95,153
+Decatur,Lamoni,Secretary of State,,REP,Paul D. Pate,427,73,354
+Decatur,Davis City,Secretary of State,,REP,Paul D. Pate,401,110,291
+Decatur,Van Wert,Secretary of State,,REP,Paul D. Pate,392,96,296
+Decatur,Leon,Secretary of State,,REP,Paul D. Pate,709,160,549
+Decatur,Lamoni,Secretary of State,,,Write-in,1,0,1
+Decatur,Davis City,Secretary of State,,,Write-in,0,0,0
+Decatur,Van Wert,Secretary of State,,,Write-in,1,0,1
+Decatur,Leon,Secretary of State,,,Write-in,0,0,0
+Decatur,Lamoni,Auditor of State,,DEM,Rob Sand,365,87,278
+Decatur,Davis City,Auditor of State,,DEM,Rob Sand,111,46,65
+Decatur,Van Wert,Auditor of State,,DEM,Rob Sand,217,73,144
+Decatur,Leon,Auditor of State,,DEM,Rob Sand,372,127,245
+Decatur,Lamoni,Auditor of State,,REP,Todd Halbur,356,59,297
+Decatur,Davis City,Auditor of State,,REP,Todd Halbur,364,99,265
+Decatur,Van Wert,Auditor of State,,REP,Todd Halbur,335,77,258
+Decatur,Leon,Auditor of State,,REP,Todd Halbur,585,129,456
+Decatur,Lamoni,Auditor of State,,,Write-in,1,0,1
+Decatur,Davis City,Auditor of State,,,Write-in,1,0,1
+Decatur,Van Wert,Auditor of State,,,Write-in,0,0,0
+Decatur,Leon,Auditor of State,,,Write-in,0,0,0
+Decatur,Lamoni,Treasurer of State,,DEM,Michael L. Fitzgerald,353,90,263
+Decatur,Davis City,Treasurer of State,,DEM,Michael L. Fitzgerald,97,40,57
+Decatur,Van Wert,Treasurer of State,,DEM,Michael L. Fitzgerald,192,65,127
+Decatur,Leon,Treasurer of State,,DEM,Michael L. Fitzgerald,352,117,235
+Decatur,Lamoni,Treasurer of State,,REP,Roby Smith,374,59,315
+Decatur,Davis City,Treasurer of State,,REP,Roby Smith,379,103,276
+Decatur,Van Wert,Treasurer of State,,REP,Roby Smith,357,82,275
+Decatur,Leon,Treasurer of State,,REP,Roby Smith,605,140,465
+Decatur,Lamoni,Treasurer of State,,,Write-in,0,0,0
+Decatur,Davis City,Treasurer of State,,,Write-in,0,0,0
+Decatur,Van Wert,Treasurer of State,,,Write-in,0,0,0
+Decatur,Leon,Treasurer of State,,,Write-in,0,0,0
+Decatur,Lamoni,Secretary of Agriculture,,DEM,John Norwood,294,77,217
+Decatur,Davis City,Secretary of Agriculture,,DEM,John Norwood,63,30,33
+Decatur,Van Wert,Secretary of Agriculture,,DEM,John Norwood,128,49,79
+Decatur,Leon,Secretary of Agriculture,,DEM,John Norwood,212,85,127
+Decatur,Lamoni,Secretary of Agriculture,,REP,Mike Naig,429,70,359
+Decatur,Davis City,Secretary of Agriculture,,REP,Mike Naig,415,113,302
+Decatur,Van Wert,Secretary of Agriculture,,REP,Mike Naig,427,101,326
+Decatur,Leon,Secretary of Agriculture,,REP,Mike Naig,745,170,575
+Decatur,Lamoni,Secretary of Agriculture,,,Write-in,1,1,0
+Decatur,Davis City,Secretary of Agriculture,,,Write-in,0,0,0
+Decatur,Van Wert,Secretary of Agriculture,,,Write-in,0,0,0
+Decatur,Leon,Secretary of Agriculture,,,Write-in,0,0,0
+Decatur,Lamoni,Attorney General,,DEM,Tom Miller,360,91,269
+Decatur,Davis City,Attorney General,,DEM,Tom Miller,102,42,60
+Decatur,Van Wert,Attorney General,,DEM,Tom Miller,203,69,134
+Decatur,Leon,Attorney General,,DEM,Tom Miller,331,119,212
+Decatur,Lamoni,Attorney General,,REP,Brenna Bird,369,58,311
+Decatur,Davis City,Attorney General,,REP,Brenna Bird,378,101,277
+Decatur,Van Wert,Attorney General,,REP,Brenna Bird,345,79,266
+Decatur,Leon,Attorney General,,REP,Brenna Bird,628,137,491
+Decatur,Lamoni,Attorney General,,,Write-in,2,0,2
+Decatur,Davis City,Attorney General,,,Write-in,0,0,0
+Decatur,Van Wert,Attorney General,,,Write-in,1,0,1
+Decatur,Leon,Attorney General,,,Write-in,1,0,1
+Decatur,Lamoni,State House,24,REP,Joel Fry,555,92,463
+Decatur,Davis City,State House,24,REP,Joel Fry,445,135,310
+Decatur,Van Wert,State House,24,REP,Joel Fry,477,115,362
+Decatur,Leon,State House,24,REP,Joel Fry,852,208,644
+Decatur,Lamoni,State House,24,,Write-in,27,6,21
+Decatur,Davis City,State House,24,,Write-in,3,1,2
+Decatur,Van Wert,State House,24,,Write-in,7,1,6
+Decatur,Leon,State House,24,,Write-in,9,4,5
+Decatur,Lamoni,County Board of Supervisors At Large,,REP,Steve Fulkerson,558,103,455
+Decatur,Davis City,County Board of Supervisors At Large,,REP,Steve Fulkerson,456,134,322
+Decatur,Van Wert,County Board of Supervisors At Large,,REP,Steve Fulkerson,498,127,371
+Decatur,Leon,County Board of Supervisors At Large,,REP,Steve Fulkerson,896,231,665
+Decatur,Lamoni,County Board of Supervisors At Large,,,Write-in,14,3,11
+Decatur,Davis City,County Board of Supervisors At Large,,,Write-in,6,3,3
+Decatur,Van Wert,County Board of Supervisors At Large,,,Write-in,6,2,4
+Decatur,Leon,County Board of Supervisors At Large,,,Write-in,10,3,7
+Decatur,Lamoni,County Treasurer,,REP,Janet Pierson,579,106,473
+Decatur,Davis City,County Treasurer,,REP,Janet Pierson,446,132,314
+Decatur,Van Wert,County Treasurer,,REP,Janet Pierson,490,123,367
+Decatur,Leon,County Treasurer,,REP,Janet Pierson,908,235,673
+Decatur,Lamoni,County Treasurer,,,Write-in,8,2,6
+Decatur,Davis City,County Treasurer,,,Write-in,3,0,3
+Decatur,Van Wert,County Treasurer,,,Write-in,8,3,5
+Decatur,Leon,County Treasurer,,,Write-in,7,2,5
+Decatur,Lamoni,County Recorder,,REP,Erica Cook,566,103,463
+Decatur,Davis City,County Recorder,,REP,Erica Cook,441,131,310
+Decatur,Van Wert,County Recorder,,REP,Erica Cook,494,120,374
+Decatur,Leon,County Recorder,,REP,Erica Cook,904,232,672
+Decatur,Lamoni,County Recorder,,,Write-in,8,2,6
+Decatur,Davis City,County Recorder,,,Write-in,3,2,1
+Decatur,Van Wert,County Recorder,,,Write-in,4,2,2
+Decatur,Leon,County Recorder,,,Write-in,4,2,2
+Decatur,Lamoni,County Attorney,,,Lisa Hynden Jeanes,589,118,471
+Decatur,Davis City,County Attorney,,,Lisa Hynden Jeanes,369,112,257
+Decatur,Van Wert,County Attorney,,,Lisa Hynden Jeanes,413,106,307
+Decatur,Leon,County Attorney,,,Lisa Hynden Jeanes,772,205,567
+Decatur,Lamoni,County Attorney,,,Write-in,22,5,17
+Decatur,Davis City,County Attorney,,,Write-in,9,1,8
+Decatur,Van Wert,County Attorney,,,Write-in,13,1,12
+Decatur,Leon,County Attorney,,,Write-in,24,4,20
+Decatur,Lamoni,County Auditor To Fill Vacancy,,REP,Charlene Hoover,331,68,263
+Decatur,Davis City,County Auditor To Fill Vacancy,,REP,Charlene Hoover,285,94,191
+Decatur,Van Wert,County Auditor To Fill Vacancy,,REP,Charlene Hoover,308,84,224
+Decatur,Leon,County Auditor To Fill Vacancy,,REP,Charlene Hoover,571,172,399
+Decatur,Lamoni,County Auditor To Fill Vacancy,,IND,Micki Michelle Norman,296,64,232
+Decatur,Davis City,County Auditor To Fill Vacancy,,IND,Micki Michelle Norman,91,31,60
+Decatur,Van Wert,County Auditor To Fill Vacancy,,IND,Micki Michelle Norman,114,28,86
+Decatur,Leon,County Auditor To Fill Vacancy,,IND,Micki Michelle Norman,167,33,134
+Decatur,Lamoni,County Auditor To Fill Vacancy,,,Patti Jimmerson,68,9,59
+Decatur,Davis City,County Auditor To Fill Vacancy,,,Patti Jimmerson,107,21,86
+Decatur,Van Wert,County Auditor To Fill Vacancy,,,Patti Jimmerson,122,33,89
+Decatur,Leon,County Auditor To Fill Vacancy,,,Patti Jimmerson,232,56,176
+Decatur,Lamoni,County Auditor To Fill Vacancy,,,Write-in,1,0,1
+Decatur,Davis City,County Auditor To Fill Vacancy,,,Write-in,0,0,0
+Decatur,Van Wert,County Auditor To Fill Vacancy,,,Write-in,2,0,2
+Decatur,Leon,County Auditor To Fill Vacancy,,,Write-in,0,0,0
+Decatur,Lamoni,County Sheriff To Fill Vacancy,,REP,Christopher J.L. Lane,582,107,475
+Decatur,Davis City,County Sheriff To Fill Vacancy,,REP,Christopher J.L. Lane,432,130,302
+Decatur,Van Wert,County Sheriff To Fill Vacancy,,REP,Christopher J.L. Lane,490,120,370
+Decatur,Leon,County Sheriff To Fill Vacancy,,REP,Christopher J.L. Lane,888,230,658
+Decatur,Lamoni,County Sheriff To Fill Vacancy,,,Write-in,13,1,12
+Decatur,Davis City,County Sheriff To Fill Vacancy,,,Write-in,10,2,8
+Decatur,Van Wert,County Sheriff To Fill Vacancy,,,Write-in,4,1,3
+Decatur,Leon,County Sheriff To Fill Vacancy,,,Write-in,18,5,13
+Decatur,Lamoni,Bloomington Township Trustee,,,Bill Salsman,68,17,51
+Decatur,Lamoni,Bloomington Township Trustee,,,Write-in,1,0,1
+Decatur,Lamoni,Bloomington Township Clerk,,,Don Templeton,65,16,49
+Decatur,Lamoni,Bloomington Township Clerk,,,Write-in,0,0,0
+Decatur,Davis City,Burrell Township Trustee,,,Bill Hill,57,13,44
+Decatur,Davis City,Burrell Township Trustee,,,Write-in,0,0,0
+Decatur,Davis City,Burrell Township Clerk,,,Scott Bethards,57,13,44
+Decatur,Davis City,Burrell Township Clerk,,,Write-in,0,0,0
+Decatur,Leon,Center Township Trustee,,,Merlin Bell,121,30,91
+Decatur,Leon,Center Township Trustee,,,Write-in,0,0,0
+Decatur,Leon,Center Township Clerk,,,Write-in,3,1,2
+Decatur,Leon,Center Township Clerk,,,Lance Porter,1,0,1
+Decatur,Leon,Decatur Township Trustee,,,Write-in,2,1,1
+Decatur,Leon,Decatur Township Trustee,,,Joyce Young,1,0,1
+Decatur,Leon,Decatur Township Clerk,,,Write-in,3,1,2
+Decatur,Leon,Decatur Township Clerk,,,Tim Andrew,1,0,1
+Decatur,Davis City,Eden Township Trustee,,,James Cornell,115,39,76
+Decatur,Davis City,Eden Township Trustee,,,Write-in,0,0,0
+Decatur,Davis City,Eden Township Clerk,,,Anne Akers,109,37,72
+Decatur,Davis City,Eden Township Clerk,,,Write-in,0,0,0
+Decatur,Lamoni,Fayette Township Trustee,,,Ron Mickelson,74,14,60
+Decatur,Lamoni,Fayette Township Trustee,,,Write-in,1,1,0
+Decatur,Lamoni,Fayette Township Clerk,,,Leon Kessel,70,13,57
+Decatur,Lamoni,Fayette Township Clerk,,,Write-in,0,0,0
+Decatur,Van Wert,Franklin Township Trustee,,,Sam Brimm,76,17,59
+Decatur,Van Wert,Franklin Township Trustee,,,Write-in,1,0,1
+Decatur,Van Wert,Franklin Township Clerk,,,Lindsay Wade,75,16,59
+Decatur,Van Wert,Franklin Township Clerk,,,Write-in,0,0,0
+Decatur,Van Wert,Garden Grove Township Trustee,,,Scott L Coffey,68,23,45
+Decatur,Van Wert,Garden Grove Township Trustee,,,Write-in,0,0,0
+Decatur,Van Wert,Garden Grove Township Clerk,,,Sandra Stripe,68,24,44
+Decatur,Van Wert,Garden Grove Township Clerk,,,Write-in,0,0,0
+Decatur,Leon,Grand River Township Trustee,,,William Ty Hunt,37,4,33
+Decatur,Leon,Grand River Township Trustee,,,Write-in,2,2,0
+Decatur,Leon,Grand River Township Clerk,,,Susan Griffin,40,6,34
+Decatur,Leon,Grand River Township Clerk,,,Write-in,0,0,0
+Decatur,Davis City,Hamilton Township Trustee,,,Write-in,5,2,3
+Decatur,Davis City,Hamilton Township Trustee,,,Loren Helton,8,0,8
+Decatur,Davis City,Hamilton Township Clerk,,,Amy Hamilton,52,9,43
+Decatur,Davis City,Hamilton Township Clerk,,,Write-in,0,0,0
+Decatur,Leon,High Point Township Trustee,,,Zachary Robert Mendenhall,62,18,44
+Decatur,Leon,High Point Township Trustee,,,Write-in,0,0,0
+Decatur,Leon,High Point Township Clerk,,,David Mendenhall,63,18,45
+Decatur,Leon,High Point Township Clerk,,,Write-in,0,0,0
+Decatur,Van Wert,Long Creek Township Trustee,,,William Beers,75,12,63
+Decatur,Van Wert,Long Creek Township Trustee,,,Write-in,0,0,0
+Decatur,Van Wert,Long Creek Township Clerk,,,Amanda Buttz,66,8,58
+Decatur,Van Wert,Long Creek Township Clerk,,,Write-in,4,1,3
+Decatur,Davis City,Morgan Township Trustee,,,Benjamin Hullinger,36,20,16
+Decatur,Davis City,Morgan Township Trustee,,,Write-in,1,1,0
+Decatur,Davis City,Morgan Township Clerk,,,Michael Andrew,37,21,16
+Decatur,Davis City,Morgan Township Clerk,,,Write-in,2,2,0
+Decatur,Davis City,New Buda Township Trustee,,,Write-in,0,0,0
+Decatur,Davis City,New Buda Township Trustee,,,Chris Beier,2,0,2
+Decatur,Davis City,New Buda Township Clerk,,,Write-in,2,0,2
+Decatur,Davis City,New Buda Township Clerk,,,Curtis Manchester,1,0,1
+Decatur,Van Wert,Richland Township Trustee,,,Brian Deemer,59,22,37
+Decatur,Van Wert,Richland Township Trustee,,,Write-in,8,0,8
+Decatur,Van Wert,Richland Township Trustee To Fill Vacancy,,,Write-in,15,8,7
+Decatur,Van Wert,Richland Township Trustee To Fill Vacancy,,,Randy Arnold,13,2,11
+Decatur,Van Wert,Richland Township Clerk,,,Patti A Jimmerson,55,20,35
+Decatur,Van Wert,Richland Township Clerk,,,Write-in,4,0,4
+Decatur,Davis City,Woodland Township Trustee,,,Bill Hamaker,44,19,25
+Decatur,Davis City,Woodland Township Trustee,,,Write-in,1,0,1
+Decatur,Davis City,Woodland Township Clerk,,,Sharon Hamaker,44,19,25
+Decatur,Davis City,Woodland Township Clerk,,,Write-in,1,0,1
+Decatur,Lamoni,Hospital Trustee,,,Denise Elefson,524,109,415
+Decatur,Davis City,Hospital Trustee,,,Denise Elefson,288,84,204
+Decatur,Van Wert,Hospital Trustee,,,Denise Elefson,321,83,238
+Decatur,Leon,Hospital Trustee,,,Denise Elefson,607,166,441
+Decatur,Lamoni,Hospital Trustee,,,Cheryl Zach,418,78,340
+Decatur,Davis City,Hospital Trustee,,,Cheryl Zach,259,81,178
+Decatur,Van Wert,Hospital Trustee,,,Cheryl Zach,325,85,240
+Decatur,Leon,Hospital Trustee,,,Cheryl Zach,575,160,415
+Decatur,Lamoni,Hospital Trustee,,,Larry Griffin,432,83,349
+Decatur,Davis City,Hospital Trustee,,,Larry Griffin,302,89,213
+Decatur,Van Wert,Hospital Trustee,,,Larry Griffin,371,97,274
+Decatur,Leon,Hospital Trustee,,,Larry Griffin,637,175,462
+Decatur,Lamoni,Hospital Trustee,,,Guy Clark,440,88,352
+Decatur,Davis City,Hospital Trustee,,,Guy Clark,269,80,189
+Decatur,Van Wert,Hospital Trustee,,,Guy Clark,335,84,251
+Decatur,Leon,Hospital Trustee,,,Guy Clark,648,165,483
+Decatur,Lamoni,Hospital Trustee,,,Teri Foster,513,107,406
+Decatur,Davis City,Hospital Trustee,,,Teri Foster,261,80,181
+Decatur,Van Wert,Hospital Trustee,,,Teri Foster,314,88,226
+Decatur,Leon,Hospital Trustee,,,Teri Foster,574,160,414
+Decatur,Lamoni,Hospital Trustee,,,Sheri Frost,450,84,366
+Decatur,Davis City,Hospital Trustee,,,Sheri Frost,303,94,209
+Decatur,Van Wert,Hospital Trustee,,,Sheri Frost,359,94,265
+Decatur,Leon,Hospital Trustee,,,Sheri Frost,697,189,508
+Decatur,Lamoni,Hospital Trustee,,,Write-in,5,2,3
+Decatur,Davis City,Hospital Trustee,,,Write-in,3,1,2
+Decatur,Van Wert,Hospital Trustee,,,Write-in,5,4,1
+Decatur,Leon,Hospital Trustee,,,Write-in,18,4,14
+Decatur,Lamoni,Soil and Water Conservation District Commissioner,,,Brad Funk,464,96,368
+Decatur,Davis City,Soil and Water Conservation District Commissioner,,,Brad Funk,293,95,198
+Decatur,Van Wert,Soil and Water Conservation District Commissioner,,,Brad Funk,387,104,283
+Decatur,Leon,Soil and Water Conservation District Commissioner,,,Brad Funk,690,190,500
+Decatur,Lamoni,Soil and Water Conservation District Commissioner,,,David Brennecke,430,90,340
+Decatur,Davis City,Soil and Water Conservation District Commissioner,,,David Brennecke,295,98,197
+Decatur,Van Wert,Soil and Water Conservation District Commissioner,,,David Brennecke,325,88,237
+Decatur,Leon,Soil and Water Conservation District Commissioner,,,David Brennecke,596,162,434
+Decatur,Lamoni,Soil and Water Conservation District Commissioner,,,Write-in,9,6,3
+Decatur,Davis City,Soil and Water Conservation District Commissioner,,,Write-in,1,1,0
+Decatur,Van Wert,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Decatur,Leon,Soil and Water Conservation District Commissioner,,,Write-in,5,3,2
+Decatur,Lamoni,County Agricultural Extension Council Member,,,Amy Hamilton,454,86,368
+Decatur,Davis City,County Agricultural Extension Council Member,,,Amy Hamilton,337,99,238
+Decatur,Van Wert,County Agricultural Extension Council Member,,,Amy Hamilton,355,90,265
+Decatur,Leon,County Agricultural Extension Council Member,,,Amy Hamilton,715,205,510
+Decatur,Lamoni,County Agricultural Extension Council Member,,,Bobette L. Lindsey,421,84,337
+Decatur,Davis City,County Agricultural Extension Council Member,,,Bobette L. Lindsey,291,92,199
+Decatur,Van Wert,County Agricultural Extension Council Member,,,Bobette L. Lindsey,339,88,251
+Decatur,Leon,County Agricultural Extension Council Member,,,Bobette L. Lindsey,666,198,468
+Decatur,Lamoni,County Agricultural Extension Council Member,,,Wayne Welborn,409,77,332
+Decatur,Davis City,County Agricultural Extension Council Member,,,Wayne Welborn,290,88,202
+Decatur,Van Wert,County Agricultural Extension Council Member,,,Wayne Welborn,323,83,240
+Decatur,Leon,County Agricultural Extension Council Member,,,Wayne Welborn,671,193,478
+Decatur,Lamoni,County Agricultural Extension Council Member,,,Leigh Ann Coffey,431,78,353
+Decatur,Davis City,County Agricultural Extension Council Member,,,Leigh Ann Coffey,296,94,202
+Decatur,Van Wert,County Agricultural Extension Council Member,,,Leigh Ann Coffey,375,93,282
+Decatur,Leon,County Agricultural Extension Council Member,,,Leigh Ann Coffey,639,182,457
+Decatur,Lamoni,County Agricultural Extension Council Member,,,Lorren Helton,422,81,341
+Decatur,Davis City,County Agricultural Extension Council Member,,,Lorren Helton,331,105,226
+Decatur,Van Wert,County Agricultural Extension Council Member,,,Lorren Helton,350,86,264
+Decatur,Leon,County Agricultural Extension Council Member,,,Lorren Helton,698,199,499
+Decatur,Lamoni,County Agricultural Extension Council Member,,,Write-in,10,3,7
+Decatur,Davis City,County Agricultural Extension Council Member,,,Write-in,2,1,1
+Decatur,Van Wert,County Agricultural Extension Council Member,,,Write-in,4,3,1
+Decatur,Leon,County Agricultural Extension Council Member,,,Write-in,6,0,6
+Decatur,Lamoni,Supreme Court Justice,,,Yes,415,88,327
+Decatur,Davis City,Supreme Court Justice,,,Yes,222,63,159
+Decatur,Van Wert,Supreme Court Justice,,,Yes,260,66,194
+Decatur,Leon,Supreme Court Justice,,,Yes,489,132,357
+Decatur,Lamoni,Supreme Court Justice,,,No,127,22,105
+Decatur,Davis City,Supreme Court Justice,,,No,117,44,73
+Decatur,Van Wert,Supreme Court Justice,,,No,145,34,111
+Decatur,Leon,Supreme Court Justice,,,No,248,57,191
+Decatur,Lamoni,Court of Appeals Judge,,,Yes,417,89,328
+Decatur,Davis City,Court of Appeals Judge,,,Yes,228,64,164
+Decatur,Van Wert,Court of Appeals Judge,,,Yes,271,69,202
+Decatur,Leon,Court of Appeals Judge,,,Yes,508,138,370
+Decatur,Lamoni,Court of Appeals Judge,,,No,104,19,85
+Decatur,Davis City,Court of Appeals Judge,,,No,111,42,69
+Decatur,Van Wert,Court of Appeals Judge,,,No,129,32,97
+Decatur,Leon,Court of Appeals Judge,,,No,230,53,177
+Decatur,Lamoni,District 5B Judge,,,Yes,433,90,343
+Decatur,Davis City,District 5B Judge,,,Yes,254,77,177
+Decatur,Van Wert,District 5B Judge,,,Yes,299,69,230
+Decatur,Leon,District 5B Judge,,,Yes,546,141,405
+Decatur,Lamoni,District 5B Judge,,,No,104,19,85
+Decatur,Davis City,District 5B Judge,,,No,105,35,70
+Decatur,Van Wert,District 5B Judge,,,No,126,32,94
+Decatur,Leon,District 5B Judge,,,No,211,52,159
+Decatur,Lamoni,Constitutional Amendment 1,,,Yes,454,77,377
+Decatur,Davis City,Constitutional Amendment 1,,,Yes,419,119,300
+Decatur,Van Wert,Constitutional Amendment 1,,,Yes,464,112,352
+Decatur,Leon,Constitutional Amendment 1,,,Yes,783,184,599
+Decatur,Lamoni,Constitutional Amendment 1,,,No,233,64,169
+Decatur,Davis City,Constitutional Amendment 1,,,No,42,19,23
+Decatur,Van Wert,Constitutional Amendment 1,,,No,68,27,41
+Decatur,Leon,Constitutional Amendment 1,,,No,136,55,81

@@ -1,0 +1,442 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Humboldt,Precinct 1,U.S. Senate,,REP,Chuck Grassley,648,147,501
+Humboldt,Precinct 2,U.S. Senate,,REP,Chuck Grassley,490,109,381
+Humboldt,Precinct 3,U.S. Senate,,REP,Chuck Grassley,567,132,435
+Humboldt,Precinct 4,U.S. Senate,,REP,Chuck Grassley,228,28,200
+Humboldt,Precinct 5,U.S. Senate,,REP,Chuck Grassley,358,40,318
+Humboldt,Precinct 6,U.S. Senate,,REP,Chuck Grassley,605,164,441
+Humboldt,Precinct 1,U.S. Senate,,DEM,Michael Franken,221,102,119
+Humboldt,Precinct 2,U.S. Senate,,DEM,Michael Franken,208,93,115
+Humboldt,Precinct 3,U.S. Senate,,DEM,Michael Franken,201,106,95
+Humboldt,Precinct 4,U.S. Senate,,DEM,Michael Franken,64,20,44
+Humboldt,Precinct 5,U.S. Senate,,DEM,Michael Franken,76,23,53
+Humboldt,Precinct 6,U.S. Senate,,DEM,Michael Franken,161,72,89
+Humboldt,Precinct 1,U.S. Senate,,,Write-in,2,0,2
+Humboldt,Precinct 2,U.S. Senate,,,Write-in,0,0,0
+Humboldt,Precinct 3,U.S. Senate,,,Write-in,0,0,0
+Humboldt,Precinct 4,U.S. Senate,,,Write-in,0,0,0
+Humboldt,Precinct 5,U.S. Senate,,,Write-in,0,0,0
+Humboldt,Precinct 6,U.S. Senate,,,Write-in,1,0,1
+Humboldt,Precinct 1,U.S. House,4,REP,Randy Feenstra,670,152,518
+Humboldt,Precinct 2,U.S. House,4,REP,Randy Feenstra,495,113,382
+Humboldt,Precinct 3,U.S. House,4,REP,Randy Feenstra,561,137,424
+Humboldt,Precinct 4,U.S. House,4,REP,Randy Feenstra,225,28,197
+Humboldt,Precinct 5,U.S. House,4,REP,Randy Feenstra,362,42,320
+Humboldt,Precinct 6,U.S. House,4,REP,Randy Feenstra,612,166,446
+Humboldt,Precinct 1,U.S. House,4,DEM,Ryan Melton,186,87,99
+Humboldt,Precinct 2,U.S. House,4,DEM,Ryan Melton,184,84,100
+Humboldt,Precinct 3,U.S. House,4,DEM,Ryan Melton,172,93,79
+Humboldt,Precinct 4,U.S. House,4,DEM,Ryan Melton,52,17,35
+Humboldt,Precinct 5,U.S. House,4,DEM,Ryan Melton,62,20,42
+Humboldt,Precinct 6,U.S. House,4,DEM,Ryan Melton,128,58,70
+Humboldt,Precinct 1,U.S. House,4,LBC,Bryan Jack Holder,12,6,6
+Humboldt,Precinct 2,U.S. House,4,LBC,Bryan Jack Holder,11,3,8
+Humboldt,Precinct 3,U.S. House,4,LBC,Bryan Jack Holder,16,2,14
+Humboldt,Precinct 4,U.S. House,4,LBC,Bryan Jack Holder,7,1,6
+Humboldt,Precinct 5,U.S. House,4,LBC,Bryan Jack Holder,4,0,4
+Humboldt,Precinct 6,U.S. House,4,LBC,Bryan Jack Holder,21,8,13
+Humboldt,Precinct 1,U.S. House,4,,Write-in,0,0,0
+Humboldt,Precinct 2,U.S. House,4,,Write-in,0,0,0
+Humboldt,Precinct 3,U.S. House,4,,Write-in,1,0,1
+Humboldt,Precinct 4,U.S. House,4,,Write-in,0,0,0
+Humboldt,Precinct 5,U.S. House,4,,Write-in,1,0,1
+Humboldt,Precinct 6,U.S. House,4,,Write-in,0,0,0
+Humboldt,Precinct 1,Governor,,REP,Kim Reynolds and Adam Gregg,682,161,521
+Humboldt,Precinct 2,Governor,,REP,Kim Reynolds and Adam Gregg,504,115,389
+Humboldt,Precinct 3,Governor,,REP,Kim Reynolds and Adam Gregg,600,141,459
+Humboldt,Precinct 4,Governor,,REP,Kim Reynolds and Adam Gregg,237,29,208
+Humboldt,Precinct 5,Governor,,REP,Kim Reynolds and Adam Gregg,372,42,330
+Humboldt,Precinct 6,Governor,,REP,Kim Reynolds and Adam Gregg,621,169,452
+Humboldt,Precinct 1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,188,90,98
+Humboldt,Precinct 2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,193,87,106
+Humboldt,Precinct 3,Governor,,DEM,Deidre DeJear and Eric Van Lancker,168,91,77
+Humboldt,Precinct 4,Governor,,DEM,Deidre DeJear and Eric Van Lancker,53,20,33
+Humboldt,Precinct 5,Governor,,DEM,Deidre DeJear and Eric Van Lancker,61,22,39
+Humboldt,Precinct 6,Governor,,DEM,Deidre DeJear and Eric Van Lancker,133,58,75
+Humboldt,Precinct 1,Governor,,LIB,Rick Stewart and Marco Battaglia,11,3,8
+Humboldt,Precinct 2,Governor,,LIB,Rick Stewart and Marco Battaglia,11,4,7
+Humboldt,Precinct 3,Governor,,LIB,Rick Stewart and Marco Battaglia,14,6,8
+Humboldt,Precinct 4,Governor,,LIB,Rick Stewart and Marco Battaglia,4,0,4
+Humboldt,Precinct 5,Governor,,LIB,Rick Stewart and Marco Battaglia,6,1,5
+Humboldt,Precinct 6,Governor,,LIB,Rick Stewart and Marco Battaglia,18,7,11
+Humboldt,Precinct 1,Governor,,,Write-in,0,0,0
+Humboldt,Precinct 2,Governor,,,Write-in,0,0,0
+Humboldt,Precinct 3,Governor,,,Write-in,0,0,0
+Humboldt,Precinct 4,Governor,,,Write-in,0,0,0
+Humboldt,Precinct 5,Governor,,,Write-in,0,0,0
+Humboldt,Precinct 6,Governor,,,Write-in,0,0,0
+Humboldt,Precinct 1,Secretary of State,,REP,Paul D. Pate,691,171,520
+Humboldt,Precinct 2,Secretary of State,,REP,Paul D. Pate,510,115,395
+Humboldt,Precinct 3,Secretary of State,,REP,Paul D. Pate,582,139,443
+Humboldt,Precinct 4,Secretary of State,,REP,Paul D. Pate,234,29,205
+Humboldt,Precinct 5,Secretary of State,,REP,Paul D. Pate,365,43,322
+Humboldt,Precinct 6,Secretary of State,,REP,Paul D. Pate,631,178,453
+Humboldt,Precinct 1,Secretary of State,,DEM,Joel Miller,179,80,99
+Humboldt,Precinct 2,Secretary of State,,DEM,Joel Miller,186,86,100
+Humboldt,Precinct 3,Secretary of State,,DEM,Joel Miller,180,95,85
+Humboldt,Precinct 4,Secretary of State,,DEM,Joel Miller,56,19,37
+Humboldt,Precinct 5,Secretary of State,,DEM,Joel Miller,68,20,48
+Humboldt,Precinct 6,Secretary of State,,DEM,Joel Miller,132,53,79
+Humboldt,Precinct 1,Secretary of State,,,Write-in,0,0,0
+Humboldt,Precinct 2,Secretary of State,,,Write-in,0,0,0
+Humboldt,Precinct 3,Secretary of State,,,Write-in,0,0,0
+Humboldt,Precinct 4,Secretary of State,,,Write-in,0,0,0
+Humboldt,Precinct 5,Secretary of State,,,Write-in,0,0,0
+Humboldt,Precinct 6,Secretary of State,,,Write-in,1,0,1
+Humboldt,Precinct 1,Auditor of State,,REP,Todd Halbur,566,124,442
+Humboldt,Precinct 2,Auditor of State,,REP,Todd Halbur,426,86,340
+Humboldt,Precinct 3,Auditor of State,,REP,Todd Halbur,480,106,374
+Humboldt,Precinct 4,Auditor of State,,REP,Todd Halbur,199,27,172
+Humboldt,Precinct 5,Auditor of State,,REP,Todd Halbur,318,33,285
+Humboldt,Precinct 6,Auditor of State,,REP,Todd Halbur,537,143,394
+Humboldt,Precinct 1,Auditor of State,,DEM,Rob Sand,301,127,174
+Humboldt,Precinct 2,Auditor of State,,DEM,Rob Sand,267,116,151
+Humboldt,Precinct 3,Auditor of State,,DEM,Rob Sand,275,125,150
+Humboldt,Precinct 4,Auditor of State,,DEM,Rob Sand,85,21,64
+Humboldt,Precinct 5,Auditor of State,,DEM,Rob Sand,115,31,84
+Humboldt,Precinct 6,Auditor of State,,DEM,Rob Sand,230,87,143
+Humboldt,Precinct 1,Auditor of State,,,Write-in,0,0,0
+Humboldt,Precinct 2,Auditor of State,,,Write-in,0,0,0
+Humboldt,Precinct 3,Auditor of State,,,Write-in,0,0,0
+Humboldt,Precinct 4,Auditor of State,,,Write-in,0,0,0
+Humboldt,Precinct 5,Auditor of State,,,Write-in,0,0,0
+Humboldt,Precinct 6,Auditor of State,,,Write-in,0,0,0
+Humboldt,Precinct 1,Treasurer of State,,REP,Roby Smith,562,124,438
+Humboldt,Precinct 2,Treasurer of State,,REP,Roby Smith,419,88,331
+Humboldt,Precinct 3,Treasurer of State,,REP,Roby Smith,491,100,391
+Humboldt,Precinct 4,Treasurer of State,,REP,Roby Smith,193,27,166
+Humboldt,Precinct 5,Treasurer of State,,REP,Roby Smith,313,32,281
+Humboldt,Precinct 6,Treasurer of State,,REP,Roby Smith,551,139,412
+Humboldt,Precinct 1,Treasurer of State,,DEM,Michael L. Fitzgerald,307,125,182
+Humboldt,Precinct 2,Treasurer of State,,DEM,Michael L. Fitzgerald,270,109,161
+Humboldt,Precinct 3,Treasurer of State,,DEM,Michael L. Fitzgerald,268,130,138
+Humboldt,Precinct 4,Treasurer of State,,DEM,Michael L. Fitzgerald,91,21,70
+Humboldt,Precinct 5,Treasurer of State,,DEM,Michael L. Fitzgerald,115,29,86
+Humboldt,Precinct 6,Treasurer of State,,DEM,Michael L. Fitzgerald,210,90,120
+Humboldt,Precinct 1,Treasurer of State,,,Write-in,0,0,0
+Humboldt,Precinct 2,Treasurer of State,,,Write-in,0,0,0
+Humboldt,Precinct 3,Treasurer of State,,,Write-in,0,0,0
+Humboldt,Precinct 4,Treasurer of State,,,Write-in,1,0,1
+Humboldt,Precinct 5,Treasurer of State,,,Write-in,0,0,0
+Humboldt,Precinct 6,Treasurer of State,,,Write-in,0,0,0
+Humboldt,Precinct 1,Secretary of Agriculture,,REP,Mike Naig,709,170,539
+Humboldt,Precinct 2,Secretary of Agriculture,,REP,Mike Naig,509,109,400
+Humboldt,Precinct 3,Secretary of Agriculture,,REP,Mike Naig,602,148,454
+Humboldt,Precinct 4,Secretary of Agriculture,,REP,Mike Naig,241,30,211
+Humboldt,Precinct 5,Secretary of Agriculture,,REP,Mike Naig,371,46,325
+Humboldt,Precinct 6,Secretary of Agriculture,,REP,Mike Naig,652,179,473
+Humboldt,Precinct 1,Secretary of Agriculture,,DEM,John Norwood,161,80,81
+Humboldt,Precinct 2,Secretary of Agriculture,,DEM,John Norwood,179,88,91
+Humboldt,Precinct 3,Secretary of Agriculture,,DEM,John Norwood,162,87,75
+Humboldt,Precinct 4,Secretary of Agriculture,,DEM,John Norwood,49,19,30
+Humboldt,Precinct 5,Secretary of Agriculture,,DEM,John Norwood,63,17,46
+Humboldt,Precinct 6,Secretary of Agriculture,,DEM,John Norwood,107,49,58
+Humboldt,Precinct 1,Secretary of Agriculture,,,Write-in,0,0,0
+Humboldt,Precinct 2,Secretary of Agriculture,,,Write-in,0,0,0
+Humboldt,Precinct 3,Secretary of Agriculture,,,Write-in,0,0,0
+Humboldt,Precinct 4,Secretary of Agriculture,,,Write-in,0,0,0
+Humboldt,Precinct 5,Secretary of Agriculture,,,Write-in,0,0,0
+Humboldt,Precinct 6,Secretary of Agriculture,,,Write-in,0,0,0
+Humboldt,Precinct 1,Attorney General,,REP,Brenna Bird,560,122,438
+Humboldt,Precinct 2,Attorney General,,REP,Brenna Bird,423,87,336
+Humboldt,Precinct 3,Attorney General,,REP,Brenna Bird,488,97,391
+Humboldt,Precinct 4,Attorney General,,REP,Brenna Bird,196,23,173
+Humboldt,Precinct 5,Attorney General,,REP,Brenna Bird,319,36,283
+Humboldt,Precinct 6,Attorney General,,REP,Brenna Bird,541,135,406
+Humboldt,Precinct 1,Attorney General,,DEM,Tom Miller,306,127,179
+Humboldt,Precinct 2,Attorney General,,DEM,Tom Miller,272,113,159
+Humboldt,Precinct 3,Attorney General,,DEM,Tom Miller,278,140,138
+Humboldt,Precinct 4,Attorney General,,DEM,Tom Miller,90,23,67
+Humboldt,Precinct 5,Attorney General,,DEM,Tom Miller,112,27,85
+Humboldt,Precinct 6,Attorney General,,DEM,Tom Miller,226,96,130
+Humboldt,Precinct 1,Attorney General,,,Write-in,0,0,0
+Humboldt,Precinct 2,Attorney General,,,Write-in,0,0,0
+Humboldt,Precinct 3,Attorney General,,,Write-in,0,0,0
+Humboldt,Precinct 4,Attorney General,,,Write-in,0,0,0
+Humboldt,Precinct 5,Attorney General,,,Write-in,0,0,0
+Humboldt,Precinct 6,Attorney General,,,Write-in,1,0,1
+Humboldt,Precinct 1,State House,56,REP,Mark Thompson,694,164,530
+Humboldt,Precinct 2,State House,56,REP,Mark Thompson,522,122,400
+Humboldt,Precinct 3,State House,56,REP,Mark Thompson,593,151,442
+Humboldt,Precinct 4,State House,56,REP,Mark Thompson,229,27,202
+Humboldt,Precinct 5,State House,56,REP,Mark Thompson,363,43,320
+Humboldt,Precinct 6,State House,56,REP,Mark Thompson,639,172,467
+Humboldt,Precinct 1,State House,56,LIB,Charles Aldrich,124,51,73
+Humboldt,Precinct 2,State House,56,LIB,Charles Aldrich,125,52,73
+Humboldt,Precinct 3,State House,56,LIB,Charles Aldrich,123,52,71
+Humboldt,Precinct 4,State House,56,LIB,Charles Aldrich,43,11,32
+Humboldt,Precinct 5,State House,56,LIB,Charles Aldrich,48,12,36
+Humboldt,Precinct 6,State House,56,LIB,Charles Aldrich,102,45,57
+Humboldt,Precinct 1,State House,56,,Write-in,2,2,0
+Humboldt,Precinct 2,State House,56,,Write-in,0,0,0
+Humboldt,Precinct 3,State House,56,,Write-in,2,0,2
+Humboldt,Precinct 4,State House,56,,Write-in,0,0,0
+Humboldt,Precinct 5,State House,56,,Write-in,0,0,0
+Humboldt,Precinct 6,State House,56,,Write-in,0,0,0
+Humboldt,Precinct 3,County Board of Supervisors District 1,,REP,Bruce Reimers,681,188,493
+Humboldt,Precinct 3,County Board of Supervisors District 1,,,Write-in,9,3,6
+Humboldt,Precinct 1,County Board of Supervisors District 2,,REP,Sandy Loney,769,203,566
+Humboldt,Precinct 1,County Board of Supervisors District 2,,,Write-in,8,1,7
+Humboldt,Precinct 2,County Board of Supervisors District 3,,REP,Rick Pedersen,591,152,439
+Humboldt,Precinct 2,County Board of Supervisors District 3,,,Write-in,11,2,9
+Humboldt,Precinct 1,County Treasurer,,REP,Jana Pettinger,773,203,570
+Humboldt,Precinct 2,County Treasurer,,REP,Jana Pettinger,593,153,440
+Humboldt,Precinct 3,County Treasurer,,REP,Jana Pettinger,667,185,482
+Humboldt,Precinct 4,County Treasurer,,REP,Jana Pettinger,254,33,221
+Humboldt,Precinct 5,County Treasurer,,REP,Jana Pettinger,387,48,339
+Humboldt,Precinct 6,County Treasurer,,REP,Jana Pettinger,685,183,502
+Humboldt,Precinct 1,County Treasurer,,,Write-in,2,1,1
+Humboldt,Precinct 2,County Treasurer,,,Write-in,7,1,6
+Humboldt,Precinct 3,County Treasurer,,,Write-in,4,0,4
+Humboldt,Precinct 4,County Treasurer,,,Write-in,1,0,1
+Humboldt,Precinct 5,County Treasurer,,,Write-in,3,0,3
+Humboldt,Precinct 6,County Treasurer,,,Write-in,1,1,0
+Humboldt,Precinct 1,County Recorder,,REP,Diane K. Amundson,791,212,579
+Humboldt,Precinct 2,County Recorder,,REP,Diane K. Amundson,604,161,443
+Humboldt,Precinct 3,County Recorder,,REP,Diane K. Amundson,684,187,497
+Humboldt,Precinct 4,County Recorder,,REP,Diane K. Amundson,258,35,223
+Humboldt,Precinct 5,County Recorder,,REP,Diane K. Amundson,394,50,344
+Humboldt,Precinct 6,County Recorder,,REP,Diane K. Amundson,688,187,501
+Humboldt,Precinct 1,County Recorder,,,Write-in,1,0,1
+Humboldt,Precinct 2,County Recorder,,,Write-in,4,0,4
+Humboldt,Precinct 3,County Recorder,,,Write-in,1,0,1
+Humboldt,Precinct 4,County Recorder,,,Write-in,0,0,0
+Humboldt,Precinct 5,County Recorder,,,Write-in,1,0,1
+Humboldt,Precinct 6,County Recorder,,,Write-in,1,1,0
+Humboldt,Precinct 1,County Attorney,,REP,Jon Beaty,741,193,548
+Humboldt,Precinct 2,County Attorney,,REP,Jon Beaty,586,153,433
+Humboldt,Precinct 3,County Attorney,,REP,Jon Beaty,635,174,461
+Humboldt,Precinct 4,County Attorney,,REP,Jon Beaty,256,36,220
+Humboldt,Precinct 5,County Attorney,,REP,Jon Beaty,361,46,315
+Humboldt,Precinct 6,County Attorney,,REP,Jon Beaty,640,176,464
+Humboldt,Precinct 1,County Attorney,,,Write-in,7,1,6
+Humboldt,Precinct 2,County Attorney,,,Write-in,11,2,9
+Humboldt,Precinct 3,County Attorney,,,Write-in,8,1,7
+Humboldt,Precinct 4,County Attorney,,,Write-in,0,0,0
+Humboldt,Precinct 5,County Attorney,,,Write-in,11,1,10
+Humboldt,Precinct 6,County Attorney,,,Write-in,6,2,4
+Humboldt,Precinct 4,Avery Township Trustee,,,Write-in,3,0,3
+Humboldt,Precinct 4,Avery Township Trustee,,,Martin Brown,2,0,2
+Humboldt,Precinct 4,Avery Township Clerk,,,Donald Day,65,6,59
+Humboldt,Precinct 4,Avery Township Clerk,,,Write-in,0,0,0
+Humboldt,Precinct 2,Beaver Township Trustee,,,Robert Larson,96,40,56
+Humboldt,Precinct 6,Beaver Township Trustee,,,Robert Larson,21,9,12
+Humboldt,Precinct 2,Beaver Township Trustee,,,Write-in,1,0,1
+Humboldt,Precinct 6,Beaver Township Trustee,,,Write-in,0,0,0
+Humboldt,Precinct 2,Beaver Township Clerk,,,Pat Hill,96,40,56
+Humboldt,Precinct 6,Beaver Township Clerk,,,Pat Hill,24,10,14
+Humboldt,Precinct 2,Beaver Township Clerk,,,Write-in,1,1,0
+Humboldt,Precinct 6,Beaver Township Clerk,,,Write-in,0,0,0
+Humboldt,Precinct 1,Corinth Township Trustee,,,Write-in,7,0,7
+Humboldt,Precinct 2,Corinth Township Trustee,,,Write-in,1,0,1
+Humboldt,Precinct 1,Corinth Township Trustee,,,Kyle Larsen,2,0,2
+Humboldt,Precinct 2,Corinth Township Trustee,,,Kyle Larsen,0,0,0
+Humboldt,Precinct 1,Corinth Township Clerk,,,Write-in,5,0,5
+Humboldt,Precinct 2,Corinth Township Clerk,,,Write-in,1,0,1
+Humboldt,Precinct 1,Corinth Township Clerk,,,Thad Naeve,2,0,2
+Humboldt,Precinct 2,Corinth Township Clerk,,,Thad Naeve,0,0,0
+Humboldt,Precinct 5,Delana Township Trustee,,,Write-in,4,0,4
+Humboldt,Precinct 5,Delana Township Trustee,,,Pat Bormann,1,0,1
+Humboldt,Precinct 5,Delana Township Clerk,,,Write-in,3,0,3
+Humboldt,Precinct 5,Delana Township Clerk,,,Les Olson,2,0,2
+Humboldt,Precinct 6,Grove Township Trustee,,,Write-in,5,2,3
+Humboldt,Precinct 6,Grove Township Trustee,,,Corie Erickson,2,1,1
+Humboldt,Precinct 6,Grove Township Clerk,,,Write-in,5,2,3
+Humboldt,Precinct 6,Grove Township Clerk,,,Will Spellmeyer,2,1,1
+Humboldt,Precinct 5,Humboldt Township Trustee,,,Write-in,9,0,9
+Humboldt,Precinct 5,Humboldt Township Trustee,,,Ryan Foth,2,0,2
+Humboldt,Precinct 5,Humboldt Township Trustee,,,Tyler McCullough,1,0,1
+Humboldt,Precinct 5,Humboldt Township Clerk,,,Write-in,0,0,0
+Humboldt,Precinct 5,Humboldt Township Clerk,,,Shawna Crahan,1,0,1
+Humboldt,Precinct 6,Lake Township Trustee,,,Mark A. Hansen,68,11,57
+Humboldt,Precinct 6,Lake Township Trustee,,,Write-in,1,0,1
+Humboldt,Precinct 6,Lake Township Clerk,,,Robert A. Rasmussen,69,12,57
+Humboldt,Precinct 6,Lake Township Clerk,,,Write-in,0,0,0
+Humboldt,Precinct 6,Norway Township Trustee,,,Write-in,2,1,1
+Humboldt,Precinct 6,Norway Township Trustee,,,Gordy Mersch,2,2,0
+Humboldt,Precinct 6,Norway Township Clerk,,,Steve Loux,68,34,34
+Humboldt,Precinct 6,Norway Township Clerk,,,Write-in,1,1,0
+Humboldt,Precinct 3,Rutland Township Trustee,,,Gary D. Jensen,107,29,78
+Humboldt,Precinct 5,Rutland Township Trustee,,,Gary D. Jensen,7,0,7
+Humboldt,Precinct 3,Rutland Township Trustee,,,Write-in,1,0,1
+Humboldt,Precinct 5,Rutland Township Trustee,,,Write-in,0,0,0
+Humboldt,Precinct 3,Rutland Township Clerk,,,Brett Kampen,106,29,77
+Humboldt,Precinct 5,Rutland Township Clerk,,,Brett Kampen,5,0,5
+Humboldt,Precinct 3,Rutland Township Clerk,,,Write-in,0,0,0
+Humboldt,Precinct 5,Rutland Township Clerk,,,Write-in,0,0,0
+Humboldt,Precinct 5,Vernon Township Trustee,,,Write-in,2,2,0
+Humboldt,Precinct 6,Vernon Township Trustee,,,Write-in,0,0,0
+Humboldt,Precinct 5,Vernon Township Trustee,,,Robert Pedersen,1,0,1
+Humboldt,Precinct 6,Vernon Township Trustee,,,Robert Pedersen,0,0,0
+Humboldt,Precinct 5,Vernon Township Clerk,,,A. Eleanor Fankhauser,30,10,20
+Humboldt,Precinct 6,Vernon Township Clerk,,,A. Eleanor Fankhauser,4,1,3
+Humboldt,Precinct 5,Vernon Township Clerk,,,Write-in,0,0,0
+Humboldt,Precinct 6,Vernon Township Clerk,,,Write-in,0,0,0
+Humboldt,Precinct 4,Wacousta Township Trustee,,,Blaine Thompson,48,11,37
+Humboldt,Precinct 4,Wacousta Township Trustee,,,Write-in,0,0,0
+Humboldt,Precinct 4,Wacousta Township Clerk,,,Write-in,2,0,2
+Humboldt,Precinct 4,Wacousta Township Clerk,,,Paul Hundertmark,1,0,1
+Humboldt,Precinct 1,Weaver Township Trustee,,,Tracie Phillips,16,9,7
+Humboldt,Precinct 4,Weaver Township Trustee,,,Tracie Phillips,43,5,38
+Humboldt,Precinct 1,Weaver Township Trustee,,,Write-in,0,0,0
+Humboldt,Precinct 4,Weaver Township Trustee,,,Write-in,1,1,0
+Humboldt,Precinct 1,Weaver Township Clerk,,,Andrew Pedersen,14,8,6
+Humboldt,Precinct 4,Weaver Township Clerk,,,Andrew Pedersen,42,6,36
+Humboldt,Precinct 1,Weaver Township Clerk,,,Write-in,1,1,0
+Humboldt,Precinct 4,Weaver Township Clerk,,,Write-in,0,0,0
+Humboldt,Precinct 1,County Hospital Trustee,,,Kevin Bornhoft,578,166,412
+Humboldt,Precinct 2,County Hospital Trustee,,,Kevin Bornhoft,431,116,315
+Humboldt,Precinct 3,County Hospital Trustee,,,Kevin Bornhoft,482,136,346
+Humboldt,Precinct 4,County Hospital Trustee,,,Kevin Bornhoft,158,20,138
+Humboldt,Precinct 5,County Hospital Trustee,,,Kevin Bornhoft,220,28,192
+Humboldt,Precinct 6,County Hospital Trustee,,,Kevin Bornhoft,419,102,317
+Humboldt,Precinct 1,County Hospital Trustee,,,David Boswell,577,162,415
+Humboldt,Precinct 2,County Hospital Trustee,,,David Boswell,448,123,325
+Humboldt,Precinct 3,County Hospital Trustee,,,David Boswell,507,149,358
+Humboldt,Precinct 4,County Hospital Trustee,,,David Boswell,159,19,140
+Humboldt,Precinct 5,County Hospital Trustee,,,David Boswell,239,33,206
+Humboldt,Precinct 6,County Hospital Trustee,,,David Boswell,446,111,335
+Humboldt,Precinct 1,County Hospital Trustee,,,Ashley Emick,618,172,446
+Humboldt,Precinct 2,County Hospital Trustee,,,Ashley Emick,496,137,359
+Humboldt,Precinct 3,County Hospital Trustee,,,Ashley Emick,553,162,391
+Humboldt,Precinct 4,County Hospital Trustee,,,Ashley Emick,188,27,161
+Humboldt,Precinct 5,County Hospital Trustee,,,Ashley Emick,291,37,254
+Humboldt,Precinct 6,County Hospital Trustee,,,Ashley Emick,476,120,356
+Humboldt,Precinct 1,County Hospital Trustee,,,Timothy L. McCartan,605,175,430
+Humboldt,Precinct 2,County Hospital Trustee,,,Timothy L. McCartan,445,123,322
+Humboldt,Precinct 3,County Hospital Trustee,,,Timothy L. McCartan,512,147,365
+Humboldt,Precinct 4,County Hospital Trustee,,,Timothy L. McCartan,159,22,137
+Humboldt,Precinct 5,County Hospital Trustee,,,Timothy L. McCartan,217,29,188
+Humboldt,Precinct 6,County Hospital Trustee,,,Timothy L. McCartan,449,114,335
+Humboldt,Precinct 1,County Hospital Trustee,,,Molly Varangkounh,576,168,408
+Humboldt,Precinct 2,County Hospital Trustee,,,Molly Varangkounh,415,118,297
+Humboldt,Precinct 3,County Hospital Trustee,,,Molly Varangkounh,478,142,336
+Humboldt,Precinct 4,County Hospital Trustee,,,Molly Varangkounh,157,21,136
+Humboldt,Precinct 5,County Hospital Trustee,,,Molly Varangkounh,227,32,195
+Humboldt,Precinct 6,County Hospital Trustee,,,Molly Varangkounh,422,109,313
+Humboldt,Precinct 1,County Hospital Trustee,,,Write-in,4,0,4
+Humboldt,Precinct 2,County Hospital Trustee,,,Write-in,7,1,6
+Humboldt,Precinct 3,County Hospital Trustee,,,Write-in,20,5,15
+Humboldt,Precinct 4,County Hospital Trustee,,,Write-in,7,0,7
+Humboldt,Precinct 5,County Hospital Trustee,,,Write-in,1,0,1
+Humboldt,Precinct 6,County Hospital Trustee,,,Write-in,2,0,2
+Humboldt,Precinct 1,Soil and Water Conservation District Commissioner,,,Reed Burres,315,96,219
+Humboldt,Precinct 2,Soil and Water Conservation District Commissioner,,,Reed Burres,257,62,195
+Humboldt,Precinct 3,Soil and Water Conservation District Commissioner,,,Reed Burres,274,61,213
+Humboldt,Precinct 4,Soil and Water Conservation District Commissioner,,,Reed Burres,87,5,82
+Humboldt,Precinct 5,Soil and Water Conservation District Commissioner,,,Reed Burres,122,14,108
+Humboldt,Precinct 6,Soil and Water Conservation District Commissioner,,,Reed Burres,287,86,201
+Humboldt,Precinct 1,Soil and Water Conservation District Commissioner,,,Jeff Helvick,493,122,371
+Humboldt,Precinct 2,Soil and Water Conservation District Commissioner,,,Jeff Helvick,385,108,277
+Humboldt,Precinct 3,Soil and Water Conservation District Commissioner,,,Jeff Helvick,474,135,339
+Humboldt,Precinct 4,Soil and Water Conservation District Commissioner,,,Jeff Helvick,170,24,146
+Humboldt,Precinct 5,Soil and Water Conservation District Commissioner,,,Jeff Helvick,280,35,245
+Humboldt,Precinct 6,Soil and Water Conservation District Commissioner,,,Jeff Helvick,420,91,329
+Humboldt,Precinct 1,Soil and Water Conservation District Commissioner,,,James Sayers,418,127,291
+Humboldt,Precinct 2,Soil and Water Conservation District Commissioner,,,James Sayers,318,98,220
+Humboldt,Precinct 3,Soil and Water Conservation District Commissioner,,,James Sayers,369,130,239
+Humboldt,Precinct 4,Soil and Water Conservation District Commissioner,,,James Sayers,112,22,90
+Humboldt,Precinct 5,Soil and Water Conservation District Commissioner,,,James Sayers,149,23,126
+Humboldt,Precinct 6,Soil and Water Conservation District Commissioner,,,James Sayers,330,92,238
+Humboldt,Precinct 1,Soil and Water Conservation District Commissioner,,,Write-in,4,1,3
+Humboldt,Precinct 2,Soil and Water Conservation District Commissioner,,,Write-in,1,1,0
+Humboldt,Precinct 3,Soil and Water Conservation District Commissioner,,,Write-in,1,0,1
+Humboldt,Precinct 4,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Humboldt,Precinct 5,Soil and Water Conservation District Commissioner,,,Write-in,2,0,2
+Humboldt,Precinct 6,Soil and Water Conservation District Commissioner,,,Write-in,3,0,3
+Humboldt,Precinct 1,County Agricultural Extension Council Member,,,Robert Abens,431,118,313
+Humboldt,Precinct 2,County Agricultural Extension Council Member,,,Robert Abens,341,101,240
+Humboldt,Precinct 3,County Agricultural Extension Council Member,,,Robert Abens,387,106,281
+Humboldt,Precinct 4,County Agricultural Extension Council Member,,,Robert Abens,126,17,109
+Humboldt,Precinct 5,County Agricultural Extension Council Member,,,Robert Abens,183,21,162
+Humboldt,Precinct 6,County Agricultural Extension Council Member,,,Robert Abens,349,96,253
+Humboldt,Precinct 1,County Agricultural Extension Council Member,,,Matthew Dornbier,296,81,215
+Humboldt,Precinct 2,County Agricultural Extension Council Member,,,Matthew Dornbier,259,57,202
+Humboldt,Precinct 3,County Agricultural Extension Council Member,,,Matthew Dornbier,290,73,217
+Humboldt,Precinct 4,County Agricultural Extension Council Member,,,Matthew Dornbier,85,12,73
+Humboldt,Precinct 5,County Agricultural Extension Council Member,,,Matthew Dornbier,188,23,165
+Humboldt,Precinct 6,County Agricultural Extension Council Member,,,Matthew Dornbier,288,70,218
+Humboldt,Precinct 1,County Agricultural Extension Council Member,,,Brad Frerk,456,101,355
+Humboldt,Precinct 2,County Agricultural Extension Council Member,,,Brad Frerk,334,81,253
+Humboldt,Precinct 3,County Agricultural Extension Council Member,,,Brad Frerk,383,102,281
+Humboldt,Precinct 4,County Agricultural Extension Council Member,,,Brad Frerk,180,17,163
+Humboldt,Precinct 5,County Agricultural Extension Council Member,,,Brad Frerk,210,26,184
+Humboldt,Precinct 6,County Agricultural Extension Council Member,,,Brad Frerk,347,91,256
+Humboldt,Precinct 1,County Agricultural Extension Council Member,,,Chelsea Nostrom,519,143,376
+Humboldt,Precinct 2,County Agricultural Extension Council Member,,,Chelsea Nostrom,391,109,282
+Humboldt,Precinct 3,County Agricultural Extension Council Member,,,Chelsea Nostrom,458,128,330
+Humboldt,Precinct 4,County Agricultural Extension Council Member,,,Chelsea Nostrom,154,21,133
+Humboldt,Precinct 5,County Agricultural Extension Council Member,,,Chelsea Nostrom,197,28,169
+Humboldt,Precinct 6,County Agricultural Extension Council Member,,,Chelsea Nostrom,406,95,311
+Humboldt,Precinct 1,County Agricultural Extension Council Member,,,Gary Peyton,510,136,374
+Humboldt,Precinct 2,County Agricultural Extension Council Member,,,Gary Peyton,360,99,261
+Humboldt,Precinct 3,County Agricultural Extension Council Member,,,Gary Peyton,387,108,279
+Humboldt,Precinct 4,County Agricultural Extension Council Member,,,Gary Peyton,113,14,99
+Humboldt,Precinct 5,County Agricultural Extension Council Member,,,Gary Peyton,155,27,128
+Humboldt,Precinct 6,County Agricultural Extension Council Member,,,Gary Peyton,344,91,253
+Humboldt,Precinct 1,County Agricultural Extension Council Member,,,Write-in,7,0,7
+Humboldt,Precinct 2,County Agricultural Extension Council Member,,,Write-in,6,1,5
+Humboldt,Precinct 3,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Humboldt,Precinct 4,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Humboldt,Precinct 5,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Humboldt,Precinct 6,County Agricultural Extension Council Member,,,Write-in,3,1,2
+Humboldt,Precinct 1,Supreme Court Justice,,,Yes,465,111,354
+Humboldt,Precinct 2,Supreme Court Justice,,,Yes,365,83,282
+Humboldt,Precinct 3,Supreme Court Justice,,,Yes,422,111,311
+Humboldt,Precinct 4,Supreme Court Justice,,,Yes,145,14,131
+Humboldt,Precinct 5,Supreme Court Justice,,,Yes,196,26,170
+Humboldt,Precinct 6,Supreme Court Justice,,,Yes,388,91,297
+Humboldt,Precinct 1,Supreme Court Justice,,,No,147,49,98
+Humboldt,Precinct 2,Supreme Court Justice,,,No,134,37,97
+Humboldt,Precinct 3,Supreme Court Justice,,,No,120,39,81
+Humboldt,Precinct 4,Supreme Court Justice,,,No,53,14,39
+Humboldt,Precinct 5,Supreme Court Justice,,,No,82,11,71
+Humboldt,Precinct 6,Supreme Court Justice,,,No,152,41,111
+Humboldt,Precinct 1,Court of Appeals Judge,,,Yes,465,112,353
+Humboldt,Precinct 2,Court of Appeals Judge,,,Yes,360,83,277
+Humboldt,Precinct 3,Court of Appeals Judge,,,Yes,396,104,292
+Humboldt,Precinct 4,Court of Appeals Judge,,,Yes,143,12,131
+Humboldt,Precinct 5,Court of Appeals Judge,,,Yes,188,28,160
+Humboldt,Precinct 6,Court of Appeals Judge,,,Yes,364,87,277
+Humboldt,Precinct 1,Court of Appeals Judge,,,No,124,40,84
+Humboldt,Precinct 2,Court of Appeals Judge,,,No,127,30,97
+Humboldt,Precinct 3,Court of Appeals Judge,,,No,124,31,93
+Humboldt,Precinct 4,Court of Appeals Judge,,,No,50,12,38
+Humboldt,Precinct 5,Court of Appeals Judge,,,No,78,8,70
+Humboldt,Precinct 6,Court of Appeals Judge,,,No,151,40,111
+Humboldt,Precinct 1,District 2B Judge,,,Yes,473,114,359
+Humboldt,Precinct 2,District 2B Judge,,,Yes,382,86,296
+Humboldt,Precinct 3,District 2B Judge,,,Yes,433,116,317
+Humboldt,Precinct 4,District 2B Judge,,,Yes,146,11,135
+Humboldt,Precinct 5,District 2B Judge,,,Yes,195,26,169
+Humboldt,Precinct 6,District 2B Judge,,,Yes,385,91,294
+Humboldt,Precinct 1,District 2B Judge,,,No,116,37,79
+Humboldt,Precinct 2,District 2B Judge,,,No,111,27,84
+Humboldt,Precinct 3,District 2B Judge,,,No,112,31,81
+Humboldt,Precinct 4,District 2B Judge,,,No,48,12,36
+Humboldt,Precinct 5,District 2B Judge,,,No,80,7,73
+Humboldt,Precinct 6,District 2B Judge,,,No,151,38,113
+Humboldt,Precinct 1,District 2B Associate Judge,,,Yes,464,113,351
+Humboldt,Precinct 2,District 2B Associate Judge,,,Yes,378,84,294
+Humboldt,Precinct 3,District 2B Associate Judge,,,Yes,423,105,318
+Humboldt,Precinct 4,District 2B Associate Judge,,,Yes,145,12,133
+Humboldt,Precinct 5,District 2B Associate Judge,,,Yes,196,28,168
+Humboldt,Precinct 6,District 2B Associate Judge,,,Yes,393,89,304
+Humboldt,Precinct 1,District 2B Associate Judge,,,No,125,40,85
+Humboldt,Precinct 2,District 2B Associate Judge,,,No,116,29,87
+Humboldt,Precinct 3,District 2B Associate Judge,,,No,115,36,79
+Humboldt,Precinct 4,District 2B Associate Judge,,,No,48,12,36
+Humboldt,Precinct 5,District 2B Associate Judge,,,No,81,5,76
+Humboldt,Precinct 6,District 2B Associate Judge,,,No,154,43,111
+Humboldt,Precinct 1,Constitutional Amendment 1,,,Yes,622,155,467
+Humboldt,Precinct 2,Constitutional Amendment 1,,,Yes,504,120,384
+Humboldt,Precinct 3,Constitutional Amendment 1,,,Yes,578,143,435
+Humboldt,Precinct 4,Constitutional Amendment 1,,,Yes,230,30,200
+Humboldt,Precinct 5,Constitutional Amendment 1,,,Yes,352,35,317
+Humboldt,Precinct 6,Constitutional Amendment 1,,,Yes,609,162,447
+Humboldt,Precinct 1,Constitutional Amendment 1,,,No,171,71,100
+Humboldt,Precinct 2,Constitutional Amendment 1,,,No,137,57,80
+Humboldt,Precinct 3,Constitutional Amendment 1,,,No,131,68,63
+Humboldt,Precinct 4,Constitutional Amendment 1,,,No,36,12,24
+Humboldt,Precinct 5,Constitutional Amendment 1,,,No,48,19,29
+Humboldt,Precinct 6,Constitutional Amendment 1,,,No,101,41,60

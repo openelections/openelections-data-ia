@@ -1,0 +1,545 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day
+Montgomery,Gold Fair Building Ward #1,U.S. Senate,,DEM,Michael Franken,198,77,121
+Montgomery,Gold Fair Building Ward #2,U.S. Senate,,DEM,Michael Franken,184,62,122
+Montgomery,First Christian Church Ward #3,U.S. Senate,,DEM,Michael Franken,234,64,170
+Montgomery,Elliott Community Building Precinct #4,U.S. Senate,,DEM,Michael Franken,79,33,46
+Montgomery,Elliott Community Building Precinct #5,U.S. Senate,,DEM,Michael Franken,27,11,16
+Montgomery,Stanton Community Building Precinct #6,U.S. Senate,,DEM,Michael Franken,118,39,79
+Montgomery,Villisca Community Building Precinct #7,U.S. Senate,,DEM,Michael Franken,164,61,103
+Montgomery,Gold Fair Building Ward #1,U.S. Senate,,REP,Chuck Grassley,387,65,322
+Montgomery,Gold Fair Building Ward #2,U.S. Senate,,REP,Chuck Grassley,339,73,266
+Montgomery,First Christian Church Ward #3,U.S. Senate,,REP,Chuck Grassley,532,122,410
+Montgomery,Elliott Community Building Precinct #4,U.S. Senate,,REP,Chuck Grassley,298,52,246
+Montgomery,Elliott Community Building Precinct #5,U.S. Senate,,REP,Chuck Grassley,89,13,76
+Montgomery,Stanton Community Building Precinct #6,U.S. Senate,,REP,Chuck Grassley,385,88,297
+Montgomery,Villisca Community Building Precinct #7,U.S. Senate,,REP,Chuck Grassley,479,76,403
+Montgomery,Gold Fair Building Ward #1,U.S. Senate,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #2,U.S. Senate,,,Write-in,2,0,2
+Montgomery,First Christian Church Ward #3,U.S. Senate,,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #4,U.S. Senate,,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #5,U.S. Senate,,,Write-in,0,0,0
+Montgomery,Stanton Community Building Precinct #6,U.S. Senate,,,Write-in,1,0,1
+Montgomery,Villisca Community Building Precinct #7,U.S. Senate,,,Write-in,2,1,1
+Montgomery,Gold Fair Building Ward #1,U.S. House,3,DEM,Cindy Axne,224,79,145
+Montgomery,Gold Fair Building Ward #2,U.S. House,3,DEM,Cindy Axne,209,68,141
+Montgomery,First Christian Church Ward #3,U.S. House,3,DEM,Cindy Axne,267,82,185
+Montgomery,Elliott Community Building Precinct #4,U.S. House,3,DEM,Cindy Axne,86,37,49
+Montgomery,Elliott Community Building Precinct #5,U.S. House,3,DEM,Cindy Axne,27,10,17
+Montgomery,Stanton Community Building Precinct #6,U.S. House,3,DEM,Cindy Axne,146,48,98
+Montgomery,Villisca Community Building Precinct #7,U.S. House,3,DEM,Cindy Axne,196,61,135
+Montgomery,Gold Fair Building Ward #1,U.S. House,3,REP,Zach Nunn,360,61,299
+Montgomery,Gold Fair Building Ward #2,U.S. House,3,REP,Zach Nunn,319,67,252
+Montgomery,First Christian Church Ward #3,U.S. House,3,REP,Zach Nunn,497,103,394
+Montgomery,Elliott Community Building Precinct #4,U.S. House,3,REP,Zach Nunn,288,47,241
+Montgomery,Elliott Community Building Precinct #5,U.S. House,3,REP,Zach Nunn,90,14,76
+Montgomery,Stanton Community Building Precinct #6,U.S. House,3,REP,Zach Nunn,350,73,277
+Montgomery,Villisca Community Building Precinct #7,U.S. House,3,REP,Zach Nunn,447,74,373
+Montgomery,Gold Fair Building Ward #1,U.S. House,3,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #2,U.S. House,3,,Write-in,0,0,0
+Montgomery,First Christian Church Ward #3,U.S. House,3,,Write-in,1,0,1
+Montgomery,Elliott Community Building Precinct #4,U.S. House,3,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #5,U.S. House,3,,Write-in,0,0,0
+Montgomery,Stanton Community Building Precinct #6,U.S. House,3,,Write-in,0,0,0
+Montgomery,Villisca Community Building Precinct #7,U.S. House,3,,Write-in,2,1,1
+Montgomery,Gold Fair Building Ward #1,Governor,,DEM,Deidre DeJear and Eric Van Lancker,174,73,101
+Montgomery,Gold Fair Building Ward #2,Governor,,DEM,Deidre DeJear and Eric Van Lancker,165,55,110
+Montgomery,First Christian Church Ward #3,Governor,,DEM,Deidre DeJear and Eric Van Lancker,198,57,141
+Montgomery,Elliott Community Building Precinct #4,Governor,,DEM,Deidre DeJear and Eric Van Lancker,64,32,32
+Montgomery,Elliott Community Building Precinct #5,Governor,,DEM,Deidre DeJear and Eric Van Lancker,21,10,11
+Montgomery,Stanton Community Building Precinct #6,Governor,,DEM,Deidre DeJear and Eric Van Lancker,102,38,64
+Montgomery,Villisca Community Building Precinct #7,Governor,,DEM,Deidre DeJear and Eric Van Lancker,147,55,92
+Montgomery,Gold Fair Building Ward #1,Governor,,REP,Kim Reynolds and Adam Gregg,400,68,332
+Montgomery,Gold Fair Building Ward #2,Governor,,REP,Kim Reynolds and Adam Gregg,358,79,279
+Montgomery,First Christian Church Ward #3,Governor,,REP,Kim Reynolds and Adam Gregg,551,127,424
+Montgomery,Elliott Community Building Precinct #4,Governor,,REP,Kim Reynolds and Adam Gregg,309,53,256
+Montgomery,Elliott Community Building Precinct #5,Governor,,REP,Kim Reynolds and Adam Gregg,93,13,80
+Montgomery,Stanton Community Building Precinct #6,Governor,,REP,Kim Reynolds and Adam Gregg,394,84,310
+Montgomery,Villisca Community Building Precinct #7,Governor,,REP,Kim Reynolds and Adam Gregg,497,82,415
+Montgomery,Gold Fair Building Ward #1,Governor,,LIB,Rick Stewart and Marco Battaglia,17,5,12
+Montgomery,Gold Fair Building Ward #2,Governor,,LIB,Rick Stewart and Marco Battaglia,11,2,9
+Montgomery,First Christian Church Ward #3,Governor,,LIB,Rick Stewart and Marco Battaglia,22,3,19
+Montgomery,Elliott Community Building Precinct #4,Governor,,LIB,Rick Stewart and Marco Battaglia,8,1,7
+Montgomery,Elliott Community Building Precinct #5,Governor,,LIB,Rick Stewart and Marco Battaglia,3,0,3
+Montgomery,Stanton Community Building Precinct #6,Governor,,LIB,Rick Stewart and Marco Battaglia,8,2,6
+Montgomery,Villisca Community Building Precinct #7,Governor,,LIB,Rick Stewart and Marco Battaglia,12,2,10
+Montgomery,Gold Fair Building Ward #1,Governor,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #2,Governor,,,Write-in,0,0,0
+Montgomery,First Christian Church Ward #3,Governor,,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #4,Governor,,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #5,Governor,,,Write-in,0,0,0
+Montgomery,Stanton Community Building Precinct #6,Governor,,,Write-in,0,0,0
+Montgomery,Villisca Community Building Precinct #7,Governor,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #1,Secretary of State,,DEM,Joel Miller,196,81,115
+Montgomery,Gold Fair Building Ward #2,Secretary of State,,DEM,Joel Miller,175,61,114
+Montgomery,First Christian Church Ward #3,Secretary of State,,DEM,Joel Miller,217,69,148
+Montgomery,Elliott Community Building Precinct #4,Secretary of State,,DEM,Joel Miller,73,36,37
+Montgomery,Elliott Community Building Precinct #5,Secretary of State,,DEM,Joel Miller,24,10,14
+Montgomery,Stanton Community Building Precinct #6,Secretary of State,,DEM,Joel Miller,112,38,74
+Montgomery,Villisca Community Building Precinct #7,Secretary of State,,DEM,Joel Miller,145,51,94
+Montgomery,Gold Fair Building Ward #1,Secretary of State,,REP,Paul D. Pate,385,61,324
+Montgomery,Gold Fair Building Ward #2,Secretary of State,,REP,Paul D. Pate,352,75,277
+Montgomery,First Christian Church Ward #3,Secretary of State,,REP,Paul D. Pate,539,113,426
+Montgomery,Elliott Community Building Precinct #4,Secretary of State,,REP,Paul D. Pate,304,51,253
+Montgomery,Elliott Community Building Precinct #5,Secretary of State,,REP,Paul D. Pate,92,14,78
+Montgomery,Stanton Community Building Precinct #6,Secretary of State,,REP,Paul D. Pate,382,83,299
+Montgomery,Villisca Community Building Precinct #7,Secretary of State,,REP,Paul D. Pate,492,84,408
+Montgomery,Gold Fair Building Ward #1,Secretary of State,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #2,Secretary of State,,,Write-in,0,0,0
+Montgomery,First Christian Church Ward #3,Secretary of State,,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #4,Secretary of State,,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #5,Secretary of State,,,Write-in,0,0,0
+Montgomery,Stanton Community Building Precinct #6,Secretary of State,,,Write-in,0,0,0
+Montgomery,Villisca Community Building Precinct #7,Secretary of State,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #1,Auditor of State,,DEM,Rob Sand,206,81,125
+Montgomery,Gold Fair Building Ward #2,Auditor of State,,DEM,Rob Sand,197,70,127
+Montgomery,First Christian Church Ward #3,Auditor of State,,DEM,Rob Sand,236,66,170
+Montgomery,Elliott Community Building Precinct #4,Auditor of State,,DEM,Rob Sand,83,36,47
+Montgomery,Elliott Community Building Precinct #5,Auditor of State,,DEM,Rob Sand,24,11,13
+Montgomery,Stanton Community Building Precinct #6,Auditor of State,,DEM,Rob Sand,132,45,87
+Montgomery,Villisca Community Building Precinct #7,Auditor of State,,DEM,Rob Sand,179,60,119
+Montgomery,Gold Fair Building Ward #1,Auditor of State,,REP,Todd Halbur,372,61,311
+Montgomery,Gold Fair Building Ward #2,Auditor of State,,REP,Todd Halbur,330,63,267
+Montgomery,First Christian Church Ward #3,Auditor of State,,REP,Todd Halbur,511,110,401
+Montgomery,Elliott Community Building Precinct #4,Auditor of State,,REP,Todd Halbur,293,50,243
+Montgomery,Elliott Community Building Precinct #5,Auditor of State,,REP,Todd Halbur,91,12,79
+Montgomery,Stanton Community Building Precinct #6,Auditor of State,,REP,Todd Halbur,354,74,280
+Montgomery,Villisca Community Building Precinct #7,Auditor of State,,REP,Todd Halbur,455,76,379
+Montgomery,Gold Fair Building Ward #1,Auditor of State,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #2,Auditor of State,,,Write-in,0,0,0
+Montgomery,First Christian Church Ward #3,Auditor of State,,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #4,Auditor of State,,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #5,Auditor of State,,,Write-in,0,0,0
+Montgomery,Stanton Community Building Precinct #6,Auditor of State,,,Write-in,0,0,0
+Montgomery,Villisca Community Building Precinct #7,Auditor of State,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #1,Treasurer of State,,DEM,Michael L. Fitzgerald,214,82,132
+Montgomery,Gold Fair Building Ward #2,Treasurer of State,,DEM,Michael L. Fitzgerald,205,75,130
+Montgomery,First Christian Church Ward #3,Treasurer of State,,DEM,Michael L. Fitzgerald,258,73,185
+Montgomery,Elliott Community Building Precinct #4,Treasurer of State,,DEM,Michael L. Fitzgerald,92,38,54
+Montgomery,Elliott Community Building Precinct #5,Treasurer of State,,DEM,Michael L. Fitzgerald,32,12,20
+Montgomery,Stanton Community Building Precinct #6,Treasurer of State,,DEM,Michael L. Fitzgerald,151,52,99
+Montgomery,Villisca Community Building Precinct #7,Treasurer of State,,DEM,Michael L. Fitzgerald,216,66,150
+Montgomery,Gold Fair Building Ward #1,Treasurer of State,,REP,Roby Smith,366,61,305
+Montgomery,Gold Fair Building Ward #2,Treasurer of State,,REP,Roby Smith,319,60,259
+Montgomery,First Christian Church Ward #3,Treasurer of State,,REP,Roby Smith,488,103,385
+Montgomery,Elliott Community Building Precinct #4,Treasurer of State,,REP,Roby Smith,280,48,232
+Montgomery,Elliott Community Building Precinct #5,Treasurer of State,,REP,Roby Smith,82,11,71
+Montgomery,Stanton Community Building Precinct #6,Treasurer of State,,REP,Roby Smith,341,65,276
+Montgomery,Villisca Community Building Precinct #7,Treasurer of State,,REP,Roby Smith,422,70,352
+Montgomery,Gold Fair Building Ward #1,Treasurer of State,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #2,Treasurer of State,,,Write-in,0,0,0
+Montgomery,First Christian Church Ward #3,Treasurer of State,,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #4,Treasurer of State,,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #5,Treasurer of State,,,Write-in,0,0,0
+Montgomery,Stanton Community Building Precinct #6,Treasurer of State,,,Write-in,0,0,0
+Montgomery,Villisca Community Building Precinct #7,Treasurer of State,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #1,Secretary of Agriculture,,DEM,John Norwood,189,79,110
+Montgomery,Gold Fair Building Ward #2,Secretary of Agriculture,,DEM,John Norwood,163,60,103
+Montgomery,First Christian Church Ward #3,Secretary of Agriculture,,DEM,John Norwood,199,60,139
+Montgomery,Elliott Community Building Precinct #4,Secretary of Agriculture,,DEM,John Norwood,66,29,37
+Montgomery,Elliott Community Building Precinct #5,Secretary of Agriculture,,DEM,John Norwood,23,11,12
+Montgomery,Stanton Community Building Precinct #6,Secretary of Agriculture,,DEM,John Norwood,95,33,62
+Montgomery,Villisca Community Building Precinct #7,Secretary of Agriculture,,DEM,John Norwood,152,54,98
+Montgomery,Gold Fair Building Ward #1,Secretary of Agriculture,,REP,Mike Naig,389,64,325
+Montgomery,Gold Fair Building Ward #2,Secretary of Agriculture,,REP,Mike Naig,363,73,290
+Montgomery,First Christian Church Ward #3,Secretary of Agriculture,,REP,Mike Naig,552,122,430
+Montgomery,Elliott Community Building Precinct #4,Secretary of Agriculture,,REP,Mike Naig,313,58,255
+Montgomery,Elliott Community Building Precinct #5,Secretary of Agriculture,,REP,Mike Naig,94,13,81
+Montgomery,Stanton Community Building Precinct #6,Secretary of Agriculture,,REP,Mike Naig,397,89,308
+Montgomery,Villisca Community Building Precinct #7,Secretary of Agriculture,,REP,Mike Naig,488,82,406
+Montgomery,Gold Fair Building Ward #1,Secretary of Agriculture,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #2,Secretary of Agriculture,,,Write-in,0,0,0
+Montgomery,First Christian Church Ward #3,Secretary of Agriculture,,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #4,Secretary of Agriculture,,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #5,Secretary of Agriculture,,,Write-in,0,0,0
+Montgomery,Stanton Community Building Precinct #6,Secretary of Agriculture,,,Write-in,0,0,0
+Montgomery,Villisca Community Building Precinct #7,Secretary of Agriculture,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #1,Attorney General,,DEM,Tom Miller,216,86,130
+Montgomery,Gold Fair Building Ward #2,Attorney General,,DEM,Tom Miller,196,73,123
+Montgomery,First Christian Church Ward #3,Attorney General,,DEM,Tom Miller,250,75,175
+Montgomery,Elliott Community Building Precinct #4,Attorney General,,DEM,Tom Miller,84,37,47
+Montgomery,Elliott Community Building Precinct #5,Attorney General,,DEM,Tom Miller,26,12,14
+Montgomery,Stanton Community Building Precinct #6,Attorney General,,DEM,Tom Miller,138,49,89
+Montgomery,Villisca Community Building Precinct #7,Attorney General,,DEM,Tom Miller,196,64,132
+Montgomery,Gold Fair Building Ward #1,Attorney General,,REP,Brenna Bird,362,57,305
+Montgomery,Gold Fair Building Ward #2,Attorney General,,REP,Brenna Bird,329,62,267
+Montgomery,First Christian Church Ward #3,Attorney General,,REP,Brenna Bird,509,111,398
+Montgomery,Elliott Community Building Precinct #4,Attorney General,,REP,Brenna Bird,289,48,241
+Montgomery,Elliott Community Building Precinct #5,Attorney General,,REP,Brenna Bird,91,11,80
+Montgomery,Stanton Community Building Precinct #6,Attorney General,,REP,Brenna Bird,349,72,277
+Montgomery,Villisca Community Building Precinct #7,Attorney General,,REP,Brenna Bird,437,71,366
+Montgomery,Gold Fair Building Ward #1,Attorney General,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #2,Attorney General,,,Write-in,1,0,1
+Montgomery,First Christian Church Ward #3,Attorney General,,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #4,Attorney General,,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #5,Attorney General,,,Write-in,0,0,0
+Montgomery,Stanton Community Building Precinct #6,Attorney General,,,Write-in,0,0,0
+Montgomery,Villisca Community Building Precinct #7,Attorney General,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #1,State Senate,9,DEM,Tripp Narup,185,77,108
+Montgomery,Gold Fair Building Ward #2,State Senate,9,DEM,Tripp Narup,157,54,103
+Montgomery,First Christian Church Ward #3,State Senate,9,DEM,Tripp Narup,194,59,135
+Montgomery,Elliott Community Building Precinct #4,State Senate,9,DEM,Tripp Narup,64,29,35
+Montgomery,Elliott Community Building Precinct #5,State Senate,9,DEM,Tripp Narup,18,9,9
+Montgomery,Stanton Community Building Precinct #6,State Senate,9,DEM,Tripp Narup,88,30,58
+Montgomery,Villisca Community Building Precinct #7,State Senate,9,DEM,Tripp Narup,126,49,77
+Montgomery,Gold Fair Building Ward #1,State Senate,9,REP,Tom Shipley,401,68,333
+Montgomery,Gold Fair Building Ward #2,State Senate,9,REP,Tom Shipley,373,80,293
+Montgomery,First Christian Church Ward #3,State Senate,9,REP,Tom Shipley,571,128,443
+Montgomery,Elliott Community Building Precinct #4,State Senate,9,REP,Tom Shipley,316,57,259
+Montgomery,Elliott Community Building Precinct #5,State Senate,9,REP,Tom Shipley,98,14,84
+Montgomery,Stanton Community Building Precinct #6,State Senate,9,REP,Tom Shipley,415,95,320
+Montgomery,Villisca Community Building Precinct #7,State Senate,9,REP,Tom Shipley,527,90,437
+Montgomery,Gold Fair Building Ward #1,State Senate,9,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #2,State Senate,9,,Write-in,0,0,0
+Montgomery,First Christian Church Ward #3,State Senate,9,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #4,State Senate,9,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #5,State Senate,9,,Write-in,0,0,0
+Montgomery,Stanton Community Building Precinct #6,State Senate,9,,Write-in,0,0,0
+Montgomery,Villisca Community Building Precinct #7,State Senate,9,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #1,State House,18,REP,Thomas Jay Moore,464,90,374
+Montgomery,Gold Fair Building Ward #2,State House,18,REP,Thomas Jay Moore,430,99,331
+Montgomery,First Christian Church Ward #3,State House,18,REP,Thomas Jay Moore,645,148,497
+Montgomery,Elliott Community Building Precinct #4,State House,18,REP,Thomas Jay Moore,323,62,261
+Montgomery,Elliott Community Building Precinct #5,State House,18,REP,Thomas Jay Moore,101,16,85
+Montgomery,Stanton Community Building Precinct #6,State House,18,REP,Thomas Jay Moore,417,87,330
+Montgomery,Villisca Community Building Precinct #7,State House,18,REP,Thomas Jay Moore,549,102,447
+Montgomery,Gold Fair Building Ward #1,State House,18,,Write-in,5,2,3
+Montgomery,Gold Fair Building Ward #2,State House,18,,Write-in,12,6,6
+Montgomery,First Christian Church Ward #3,State House,18,,Write-in,7,2,5
+Montgomery,Elliott Community Building Precinct #4,State House,18,,Write-in,1,1,0
+Montgomery,Elliott Community Building Precinct #5,State House,18,,Write-in,1,0,1
+Montgomery,Stanton Community Building Precinct #6,State House,18,,Write-in,6,1,5
+Montgomery,Villisca Community Building Precinct #7,State House,18,,Write-in,6,1,5
+Montgomery,Gold Fair Building Ward #1,County Board of Supervisors District 1,,REP,Charla A. Schmid,483,93,390
+Montgomery,Gold Fair Building Ward #1,County Board of Supervisors District 1,,,Write-in,8,4,4
+Montgomery,Gold Fair Building Ward #2,County Board of Supervisors District 2,,REP,Michael Olson,442,100,342
+Montgomery,Gold Fair Building Ward #2,County Board of Supervisors District 2,,,Write-in,14,8,6
+Montgomery,Elliott Community Building Precinct #4,County Board of Supervisors District 4,,REP,Mark L. Peterson,338,71,267
+Montgomery,Stanton Community Building Precinct #6,County Board of Supervisors District 4,,REP,Mark L. Peterson,436,94,342
+Montgomery,Elliott Community Building Precinct #4,County Board of Supervisors District 4,,,Write-in,3,2,1
+Montgomery,Stanton Community Building Precinct #6,County Board of Supervisors District 4,,,Write-in,9,2,7
+Montgomery,Gold Fair Building Ward #1,County Treasurer,,REP,Jackie Joy Porter,478,98,380
+Montgomery,Gold Fair Building Ward #2,County Treasurer,,REP,Jackie Joy Porter,438,105,333
+Montgomery,First Christian Church Ward #3,County Treasurer,,REP,Jackie Joy Porter,666,157,509
+Montgomery,Elliott Community Building Precinct #4,County Treasurer,,REP,Jackie Joy Porter,326,72,254
+Montgomery,Elliott Community Building Precinct #5,County Treasurer,,REP,Jackie Joy Porter,108,18,90
+Montgomery,Stanton Community Building Precinct #6,County Treasurer,,REP,Jackie Joy Porter,434,101,333
+Montgomery,Villisca Community Building Precinct #7,County Treasurer,,REP,Jackie Joy Porter,563,108,455
+Montgomery,Gold Fair Building Ward #1,County Treasurer,,,Write-in,8,2,6
+Montgomery,Gold Fair Building Ward #2,County Treasurer,,,Write-in,12,5,7
+Montgomery,First Christian Church Ward #3,County Treasurer,,,Write-in,12,3,9
+Montgomery,Elliott Community Building Precinct #4,County Treasurer,,,Write-in,3,1,2
+Montgomery,Elliott Community Building Precinct #5,County Treasurer,,,Write-in,1,0,1
+Montgomery,Stanton Community Building Precinct #6,County Treasurer,,,Write-in,7,1,6
+Montgomery,Villisca Community Building Precinct #7,County Treasurer,,,Write-in,6,3,3
+Montgomery,Gold Fair Building Ward #1,County Recorder,,REP,Carleen Bruning,493,103,390
+Montgomery,Gold Fair Building Ward #2,County Recorder,,REP,Carleen Bruning,443,106,337
+Montgomery,First Christian Church Ward #3,County Recorder,,REP,Carleen Bruning,677,154,523
+Montgomery,Elliott Community Building Precinct #4,County Recorder,,REP,Carleen Bruning,331,72,259
+Montgomery,Elliott Community Building Precinct #5,County Recorder,,REP,Carleen Bruning,107,17,90
+Montgomery,Stanton Community Building Precinct #6,County Recorder,,REP,Carleen Bruning,453,108,345
+Montgomery,Villisca Community Building Precinct #7,County Recorder,,REP,Carleen Bruning,576,113,463
+Montgomery,Gold Fair Building Ward #1,County Recorder,,,Write-in,3,2,1
+Montgomery,Gold Fair Building Ward #2,County Recorder,,,Write-in,13,6,7
+Montgomery,First Christian Church Ward #3,County Recorder,,,Write-in,7,2,5
+Montgomery,Elliott Community Building Precinct #4,County Recorder,,,Write-in,3,1,2
+Montgomery,Elliott Community Building Precinct #5,County Recorder,,,Write-in,1,0,1
+Montgomery,Stanton Community Building Precinct #6,County Recorder,,,Write-in,3,0,3
+Montgomery,Villisca Community Building Precinct #7,County Recorder,,,Write-in,2,1,1
+Montgomery,Gold Fair Building Ward #1,County Attorney,,REP,Drew B. Swanson,486,104,382
+Montgomery,Gold Fair Building Ward #2,County Attorney,,REP,Drew B. Swanson,438,100,338
+Montgomery,First Christian Church Ward #3,County Attorney,,REP,Drew B. Swanson,668,156,512
+Montgomery,Elliott Community Building Precinct #4,County Attorney,,REP,Drew B. Swanson,322,69,253
+Montgomery,Elliott Community Building Precinct #5,County Attorney,,REP,Drew B. Swanson,95,10,85
+Montgomery,Stanton Community Building Precinct #6,County Attorney,,REP,Drew B. Swanson,433,95,338
+Montgomery,Villisca Community Building Precinct #7,County Attorney,,REP,Drew B. Swanson,561,110,451
+Montgomery,Gold Fair Building Ward #1,County Attorney,,,Write-in,6,3,3
+Montgomery,Gold Fair Building Ward #2,County Attorney,,,Write-in,12,7,5
+Montgomery,First Christian Church Ward #3,County Attorney,,,Write-in,13,2,11
+Montgomery,Elliott Community Building Precinct #4,County Attorney,,,Write-in,4,1,3
+Montgomery,Elliott Community Building Precinct #5,County Attorney,,,Write-in,4,2,2
+Montgomery,Stanton Community Building Precinct #6,County Attorney,,,Write-in,3,0,3
+Montgomery,Villisca Community Building Precinct #7,County Attorney,,,Write-in,1,0,1
+Montgomery,Gold Fair Building Ward #1,County Auditor To Fill a Vacancy,,REP,Jill Ozuna,487,98,389
+Montgomery,Gold Fair Building Ward #2,County Auditor To Fill a Vacancy,,REP,Jill Ozuna,437,105,332
+Montgomery,First Christian Church Ward #3,County Auditor To Fill a Vacancy,,REP,Jill Ozuna,676,163,513
+Montgomery,Elliott Community Building Precinct #4,County Auditor To Fill a Vacancy,,REP,Jill Ozuna,331,75,256
+Montgomery,Elliott Community Building Precinct #5,County Auditor To Fill a Vacancy,,REP,Jill Ozuna,103,16,87
+Montgomery,Stanton Community Building Precinct #6,County Auditor To Fill a Vacancy,,REP,Jill Ozuna,438,100,338
+Montgomery,Villisca Community Building Precinct #7,County Auditor To Fill a Vacancy,,REP,Jill Ozuna,562,111,451
+Montgomery,Gold Fair Building Ward #1,County Auditor To Fill a Vacancy,,,Write-in,6,2,4
+Montgomery,Gold Fair Building Ward #2,County Auditor To Fill a Vacancy,,,Write-in,13,6,7
+Montgomery,First Christian Church Ward #3,County Auditor To Fill a Vacancy,,,Write-in,9,3,6
+Montgomery,Elliott Community Building Precinct #4,County Auditor To Fill a Vacancy,,,Write-in,1,0,1
+Montgomery,Elliott Community Building Precinct #5,County Auditor To Fill a Vacancy,,,Write-in,1,0,1
+Montgomery,Stanton Community Building Precinct #6,County Auditor To Fill a Vacancy,,,Write-in,4,0,4
+Montgomery,Villisca Community Building Precinct #7,County Auditor To Fill a Vacancy,,,Write-in,4,0,4
+Montgomery,Elliott Community Building Precinct #4,Lincoln Township Trustee,,,Bill Thomas,63,20,43
+Montgomery,Elliott Community Building Precinct #4,Lincoln Township Trustee,,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #4,Lincoln Township Clerk,,,Connie Mellott,62,19,43
+Montgomery,Elliott Community Building Precinct #4,Lincoln Township Clerk,,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #4,Garfield Township Trustee,,,Bryan Huff,83,39,44
+Montgomery,Elliott Community Building Precinct #4,Garfield Township Trustee,,,Write-in,2,0,2
+Montgomery,Elliott Community Building Precinct #4,Garfield Township Clerk,,,Ron Gerlt,79,36,43
+Montgomery,Elliott Community Building Precinct #4,Garfield Township Clerk,,,Write-in,3,1,2
+Montgomery,Stanton Community Building Precinct #6,West Township Trustee,,,Daniel R. Jensen,65,29,36
+Montgomery,Stanton Community Building Precinct #6,West Township Trustee,,,Write-in,1,0,1
+Montgomery,Stanton Community Building Precinct #6,West Township Trustee To Fill a Vacancy,,,Krista Huntsman,62,28,34
+Montgomery,Stanton Community Building Precinct #6,West Township Trustee To Fill a Vacancy,,,Write-in,0,0,0
+Montgomery,Stanton Community Building Precinct #6,West Township Clerk,,,Joseph M. Jardon,64,28,36
+Montgomery,Stanton Community Building Precinct #6,West Township Clerk,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #2,Sherman Township Trustee,,,Write-in,2,0,2
+Montgomery,First Christian Church Ward #3,Sherman Township Trustee,,,Write-in,4,0,4
+Montgomery,Elliott Community Building Precinct #4,Sherman Township Trustee,,,Write-in,10,0,10
+Montgomery,Gold Fair Building Ward #2,Sherman Township Trustee,,,Randy Pendleton,0,0,0
+Montgomery,First Christian Church Ward #3,Sherman Township Trustee,,,Randy Pendleton,2,2,0
+Montgomery,Elliott Community Building Precinct #4,Sherman Township Trustee,,,Randy Pendleton,2,0,2
+Montgomery,Gold Fair Building Ward #2,Sherman Township Clerk,,,Jo A. Good,10,2,8
+Montgomery,First Christian Church Ward #3,Sherman Township Clerk,,,Jo A. Good,15,6,9
+Montgomery,Elliott Community Building Precinct #4,Sherman Township Clerk,,,Jo A. Good,57,6,51
+Montgomery,Gold Fair Building Ward #2,Sherman Township Clerk,,,Write-in,0,0,0
+Montgomery,First Christian Church Ward #3,Sherman Township Clerk,,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #4,Sherman Township Clerk,,,Write-in,1,0,1
+Montgomery,Gold Fair Building Ward #1,Red Oak Township Trustee,,,Wayne Peterson,33,5,28
+Montgomery,Gold Fair Building Ward #2,Red Oak Township Trustee,,,Wayne Peterson,68,16,52
+Montgomery,First Christian Church Ward #3,Red Oak Township Trustee,,,Wayne Peterson,46,9,37
+Montgomery,Gold Fair Building Ward #1,Red Oak Township Trustee,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #2,Red Oak Township Trustee,,,Write-in,0,0,0
+Montgomery,First Christian Church Ward #3,Red Oak Township Trustee,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #1,Red Oak Township Clerk,,,Gordon Arnold,34,5,29
+Montgomery,Gold Fair Building Ward #2,Red Oak Township Clerk,,,Gordon Arnold,67,17,50
+Montgomery,First Christian Church Ward #3,Red Oak Township Clerk,,,Gordon Arnold,45,8,37
+Montgomery,Gold Fair Building Ward #1,Red Oak Township Clerk,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #2,Red Oak Township Clerk,,,Write-in,0,0,0
+Montgomery,First Christian Church Ward #3,Red Oak Township Clerk,,,Write-in,0,0,0
+Montgomery,Stanton Community Building Precinct #6,Grant Township Trustee,,,Dwayne Vennerberg,101,36,65
+Montgomery,Stanton Community Building Precinct #6,Grant Township Trustee,,,Write-in,1,0,1
+Montgomery,Stanton Community Building Precinct #6,Grant Township Trustee To Fill a Vacancy,,,Dane E. Belt,96,34,62
+Montgomery,Stanton Community Building Precinct #6,Grant Township Trustee To Fill a Vacancy,,,Write-in,0,0,0
+Montgomery,Stanton Community Building Precinct #6,Grant Township Clerk,,,Write-in,6,0,6
+Montgomery,Stanton Community Building Precinct #6,Grant Township Clerk,,,Nathan Johnson,2,2,0
+Montgomery,Gold Fair Building Ward #1,Pilot Grove Township Trustee,,,Write-in,0,0,0
+Montgomery,First Christian Church Ward #3,Pilot Grove Township Trustee,,,Write-in,1,1,0
+Montgomery,Elliott Community Building Precinct #4,Pilot Grove Township Trustee,,,Write-in,2,0,2
+Montgomery,Elliott Community Building Precinct #5,Pilot Grove Township Trustee,,,Write-in,4,1,3
+Montgomery,Gold Fair Building Ward #1,Pilot Grove Township Trustee,,,Nicholas Michael,0,0,0
+Montgomery,First Christian Church Ward #3,Pilot Grove Township Trustee,,,Nicholas Michael,0,0,0
+Montgomery,Elliott Community Building Precinct #4,Pilot Grove Township Trustee,,,Nicholas Michael,0,0,0
+Montgomery,Elliott Community Building Precinct #5,Pilot Grove Township Trustee,,,Nicholas Michael,1,0,1
+Montgomery,Gold Fair Building Ward #1,Pilot Grove Township Trustee To Fill a Vacancy,,,Write-in,0,0,0
+Montgomery,First Christian Church Ward #3,Pilot Grove Township Trustee To Fill a Vacancy,,,Write-in,1,1,0
+Montgomery,Elliott Community Building Precinct #4,Pilot Grove Township Trustee To Fill a Vacancy,,,Write-in,2,0,2
+Montgomery,Elliott Community Building Precinct #5,Pilot Grove Township Trustee To Fill a Vacancy,,,Write-in,1,1,0
+Montgomery,Gold Fair Building Ward #1,Pilot Grove Township Trustee To Fill a Vacancy,,,Ross Oakleaf,0,0,0
+Montgomery,First Christian Church Ward #3,Pilot Grove Township Trustee To Fill a Vacancy,,,Ross Oakleaf,0,0,0
+Montgomery,Elliott Community Building Precinct #4,Pilot Grove Township Trustee To Fill a Vacancy,,,Ross Oakleaf,0,0,0
+Montgomery,Elliott Community Building Precinct #5,Pilot Grove Township Trustee To Fill a Vacancy,,,Ross Oakleaf,1,0,1
+Montgomery,Gold Fair Building Ward #1,Pilot Grove Township Clerk,,,Write-in,0,0,0
+Montgomery,First Christian Church Ward #3,Pilot Grove Township Clerk,,,Write-in,0,0,0
+Montgomery,Elliott Community Building Precinct #4,Pilot Grove Township Clerk,,,Write-in,1,0,1
+Montgomery,Elliott Community Building Precinct #5,Pilot Grove Township Clerk,,,Write-in,3,2,1
+Montgomery,Gold Fair Building Ward #1,Pilot Grove Township Clerk,,,Kathy Kloewer,0,0,0
+Montgomery,First Christian Church Ward #3,Pilot Grove Township Clerk,,,Kathy Kloewer,1,1,0
+Montgomery,Elliott Community Building Precinct #4,Pilot Grove Township Clerk,,,Kathy Kloewer,0,0,0
+Montgomery,Elliott Community Building Precinct #5,Pilot Grove Township Clerk,,,Kathy Kloewer,0,0,0
+Montgomery,Gold Fair Building Ward #1,Frankfort Township Trustee,,,Mark B. Allen,33,5,28
+Montgomery,First Christian Church Ward #3,Frankfort Township Trustee,,,Mark B. Allen,9,2,7
+Montgomery,Stanton Community Building Precinct #6,Frankfort Township Trustee,,,Mark B. Allen,1,0,1
+Montgomery,Villisca Community Building Precinct #7,Frankfort Township Trustee,,,Mark B. Allen,47,7,40
+Montgomery,Gold Fair Building Ward #1,Frankfort Township Trustee,,,Write-in,0,0,0
+Montgomery,First Christian Church Ward #3,Frankfort Township Trustee,,,Write-in,0,0,0
+Montgomery,Stanton Community Building Precinct #6,Frankfort Township Trustee,,,Write-in,0,0,0
+Montgomery,Villisca Community Building Precinct #7,Frankfort Township Trustee,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #1,Frankfort Township Clerk,,,Greta McCarthy,33,5,28
+Montgomery,First Christian Church Ward #3,Frankfort Township Clerk,,,Greta McCarthy,9,1,8
+Montgomery,Stanton Community Building Precinct #6,Frankfort Township Clerk,,,Greta McCarthy,1,0,1
+Montgomery,Villisca Community Building Precinct #7,Frankfort Township Clerk,,,Greta McCarthy,47,7,40
+Montgomery,Gold Fair Building Ward #1,Frankfort Township Clerk,,,Write-in,0,0,0
+Montgomery,First Christian Church Ward #3,Frankfort Township Clerk,,,Write-in,0,0,0
+Montgomery,Stanton Community Building Precinct #6,Frankfort Township Clerk,,,Write-in,0,0,0
+Montgomery,Villisca Community Building Precinct #7,Frankfort Township Clerk,,,Write-in,0,0,0
+Montgomery,Villisca Community Building Precinct #7,Washington Township Trustee,,,Jeff L. Vanderhoof,70,32,38
+Montgomery,Villisca Community Building Precinct #7,Washington Township Trustee,,,Write-in,1,0,1
+Montgomery,Villisca Community Building Precinct #7,Washington Township Clerk,,,Cheryl Case,70,32,38
+Montgomery,Villisca Community Building Precinct #7,Washington Township Clerk,,,Write-in,1,0,1
+Montgomery,Gold Fair Building Ward #1,Hospital Trustee,,,Kevin Cabbage,358,80,278
+Montgomery,Gold Fair Building Ward #2,Hospital Trustee,,,Kevin Cabbage,337,84,253
+Montgomery,First Christian Church Ward #3,Hospital Trustee,,,Kevin Cabbage,496,121,375
+Montgomery,Elliott Community Building Precinct #4,Hospital Trustee,,,Kevin Cabbage,229,47,182
+Montgomery,Elliott Community Building Precinct #5,Hospital Trustee,,,Kevin Cabbage,91,20,71
+Montgomery,Stanton Community Building Precinct #6,Hospital Trustee,,,Kevin Cabbage,389,95,294
+Montgomery,Villisca Community Building Precinct #7,Hospital Trustee,,,Kevin Cabbage,465,107,358
+Montgomery,Gold Fair Building Ward #1,Hospital Trustee,,,Jill Carter Bergstrom,389,92,297
+Montgomery,Gold Fair Building Ward #2,Hospital Trustee,,,Jill Carter Bergstrom,368,90,278
+Montgomery,First Christian Church Ward #3,Hospital Trustee,,,Jill Carter Bergstrom,572,136,436
+Montgomery,Elliott Community Building Precinct #4,Hospital Trustee,,,Jill Carter Bergstrom,273,61,212
+Montgomery,Elliott Community Building Precinct #5,Hospital Trustee,,,Jill Carter Bergstrom,85,18,67
+Montgomery,Stanton Community Building Precinct #6,Hospital Trustee,,,Jill Carter Bergstrom,380,101,279
+Montgomery,Villisca Community Building Precinct #7,Hospital Trustee,,,Jill Carter Bergstrom,438,103,335
+Montgomery,Gold Fair Building Ward #1,Hospital Trustee,,,Roger Ehmke,362,78,284
+Montgomery,Gold Fair Building Ward #2,Hospital Trustee,,,Roger Ehmke,314,82,232
+Montgomery,First Christian Church Ward #3,Hospital Trustee,,,Roger Ehmke,529,136,393
+Montgomery,Elliott Community Building Precinct #4,Hospital Trustee,,,Roger Ehmke,235,48,187
+Montgomery,Elliott Community Building Precinct #5,Hospital Trustee,,,Roger Ehmke,77,17,60
+Montgomery,Stanton Community Building Precinct #6,Hospital Trustee,,,Roger Ehmke,336,88,248
+Montgomery,Villisca Community Building Precinct #7,Hospital Trustee,,,Roger Ehmke,400,99,301
+Montgomery,Gold Fair Building Ward #1,Hospital Trustee,,,Jason Poston,332,72,260
+Montgomery,Gold Fair Building Ward #2,Hospital Trustee,,,Jason Poston,294,77,217
+Montgomery,First Christian Church Ward #3,Hospital Trustee,,,Jason Poston,469,112,357
+Montgomery,Elliott Community Building Precinct #4,Hospital Trustee,,,Jason Poston,228,47,181
+Montgomery,Elliott Community Building Precinct #5,Hospital Trustee,,,Jason Poston,89,16,73
+Montgomery,Stanton Community Building Precinct #6,Hospital Trustee,,,Jason Poston,352,92,260
+Montgomery,Villisca Community Building Precinct #7,Hospital Trustee,,,Jason Poston,488,108,380
+Montgomery,Gold Fair Building Ward #1,Hospital Trustee,,,Write-in,6,3,3
+Montgomery,Gold Fair Building Ward #2,Hospital Trustee,,,Write-in,7,5,2
+Montgomery,First Christian Church Ward #3,Hospital Trustee,,,Write-in,11,0,11
+Montgomery,Elliott Community Building Precinct #4,Hospital Trustee,,,Write-in,10,4,6
+Montgomery,Elliott Community Building Precinct #5,Hospital Trustee,,,Write-in,3,1,2
+Montgomery,Stanton Community Building Precinct #6,Hospital Trustee,,,Write-in,2,0,2
+Montgomery,Villisca Community Building Precinct #7,Hospital Trustee,,,Write-in,1,0,1
+Montgomery,Gold Fair Building Ward #1,Soil and Water Conservation District Commissioner,,,Kirk Baird,380,91,289
+Montgomery,Gold Fair Building Ward #2,Soil and Water Conservation District Commissioner,,,Kirk Baird,375,90,285
+Montgomery,First Christian Church Ward #3,Soil and Water Conservation District Commissioner,,,Kirk Baird,563,138,425
+Montgomery,Elliott Community Building Precinct #4,Soil and Water Conservation District Commissioner,,,Kirk Baird,299,65,234
+Montgomery,Elliott Community Building Precinct #5,Soil and Water Conservation District Commissioner,,,Kirk Baird,90,18,72
+Montgomery,Stanton Community Building Precinct #6,Soil and Water Conservation District Commissioner,,,Kirk Baird,376,89,287
+Montgomery,Villisca Community Building Precinct #7,Soil and Water Conservation District Commissioner,,,Kirk Baird,427,97,330
+Montgomery,Gold Fair Building Ward #1,Soil and Water Conservation District Commissioner,,,Roger Cerven,395,88,307
+Montgomery,Gold Fair Building Ward #2,Soil and Water Conservation District Commissioner,,,Roger Cerven,334,85,249
+Montgomery,First Christian Church Ward #3,Soil and Water Conservation District Commissioner,,,Roger Cerven,521,127,394
+Montgomery,Elliott Community Building Precinct #4,Soil and Water Conservation District Commissioner,,,Roger Cerven,244,57,187
+Montgomery,Elliott Community Building Precinct #5,Soil and Water Conservation District Commissioner,,,Roger Cerven,101,23,78
+Montgomery,Stanton Community Building Precinct #6,Soil and Water Conservation District Commissioner,,,Roger Cerven,382,97,285
+Montgomery,Villisca Community Building Precinct #7,Soil and Water Conservation District Commissioner,,,Roger Cerven,497,111,386
+Montgomery,Gold Fair Building Ward #1,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #2,Soil and Water Conservation District Commissioner,,,Write-in,3,1,2
+Montgomery,First Christian Church Ward #3,Soil and Water Conservation District Commissioner,,,Write-in,3,0,3
+Montgomery,Elliott Community Building Precinct #4,Soil and Water Conservation District Commissioner,,,Write-in,4,1,3
+Montgomery,Elliott Community Building Precinct #5,Soil and Water Conservation District Commissioner,,,Write-in,0,0,0
+Montgomery,Stanton Community Building Precinct #6,Soil and Water Conservation District Commissioner,,,Write-in,3,0,3
+Montgomery,Villisca Community Building Precinct #7,Soil and Water Conservation District Commissioner,,,Write-in,4,0,4
+Montgomery,Gold Fair Building Ward #1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Kerry Confer,472,109,363
+Montgomery,Gold Fair Building Ward #2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Kerry Confer,426,98,328
+Montgomery,First Christian Church Ward #3,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Kerry Confer,656,155,501
+Montgomery,Elliott Community Building Precinct #4,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Kerry Confer,321,70,251
+Montgomery,Elliott Community Building Precinct #5,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Kerry Confer,108,21,87
+Montgomery,Stanton Community Building Precinct #6,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Kerry Confer,432,103,329
+Montgomery,Villisca Community Building Precinct #7,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Kerry Confer,536,117,419
+Montgomery,Gold Fair Building Ward #1,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Write-in,0,0,0
+Montgomery,Gold Fair Building Ward #2,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Write-in,2,0,2
+Montgomery,First Christian Church Ward #3,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Write-in,1,0,1
+Montgomery,Elliott Community Building Precinct #4,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Write-in,3,0,3
+Montgomery,Elliott Community Building Precinct #5,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Write-in,0,0,0
+Montgomery,Stanton Community Building Precinct #6,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Write-in,1,0,1
+Montgomery,Villisca Community Building Precinct #7,Soil and Water Conservation District Commissioner To Fill a Vacancy,,,Write-in,4,0,4
+Montgomery,Gold Fair Building Ward #1,County Agricultural Extension Council Member,,,Gayle Allensworth,400,91,309
+Montgomery,Gold Fair Building Ward #2,County Agricultural Extension Council Member,,,Gayle Allensworth,357,84,273
+Montgomery,First Christian Church Ward #3,County Agricultural Extension Council Member,,,Gayle Allensworth,569,141,428
+Montgomery,Elliott Community Building Precinct #4,County Agricultural Extension Council Member,,,Gayle Allensworth,264,60,204
+Montgomery,Elliott Community Building Precinct #5,County Agricultural Extension Council Member,,,Gayle Allensworth,94,20,74
+Montgomery,Stanton Community Building Precinct #6,County Agricultural Extension Council Member,,,Gayle Allensworth,352,86,266
+Montgomery,Villisca Community Building Precinct #7,County Agricultural Extension Council Member,,,Gayle Allensworth,457,103,354
+Montgomery,Gold Fair Building Ward #1,County Agricultural Extension Council Member,,,Ryan Sundermann,340,66,274
+Montgomery,Gold Fair Building Ward #2,County Agricultural Extension Council Member,,,Ryan Sundermann,318,80,238
+Montgomery,First Christian Church Ward #3,County Agricultural Extension Council Member,,,Ryan Sundermann,475,116,359
+Montgomery,Elliott Community Building Precinct #4,County Agricultural Extension Council Member,,,Ryan Sundermann,244,54,190
+Montgomery,Elliott Community Building Precinct #5,County Agricultural Extension Council Member,,,Ryan Sundermann,96,19,77
+Montgomery,Stanton Community Building Precinct #6,County Agricultural Extension Council Member,,,Ryan Sundermann,350,90,260
+Montgomery,Villisca Community Building Precinct #7,County Agricultural Extension Council Member,,,Ryan Sundermann,484,108,376
+Montgomery,Gold Fair Building Ward #1,County Agricultural Extension Council Member,,,Marta Clark-Moffett,320,71,249
+Montgomery,Gold Fair Building Ward #2,County Agricultural Extension Council Member,,,Marta Clark-Moffett,302,76,226
+Montgomery,First Christian Church Ward #3,County Agricultural Extension Council Member,,,Marta Clark-Moffett,464,111,353
+Montgomery,Elliott Community Building Precinct #4,County Agricultural Extension Council Member,,,Marta Clark-Moffett,228,48,180
+Montgomery,Elliott Community Building Precinct #5,County Agricultural Extension Council Member,,,Marta Clark-Moffett,78,18,60
+Montgomery,Stanton Community Building Precinct #6,County Agricultural Extension Council Member,,,Marta Clark-Moffett,347,88,259
+Montgomery,Villisca Community Building Precinct #7,County Agricultural Extension Council Member,,,Marta Clark-Moffett,417,100,317
+Montgomery,Gold Fair Building Ward #1,County Agricultural Extension Council Member,,,Tammi VanMeter,341,73,268
+Montgomery,Gold Fair Building Ward #2,County Agricultural Extension Council Member,,,Tammi VanMeter,313,75,238
+Montgomery,First Christian Church Ward #3,County Agricultural Extension Council Member,,,Tammi VanMeter,499,125,374
+Montgomery,Elliott Community Building Precinct #4,County Agricultural Extension Council Member,,,Tammi VanMeter,264,62,202
+Montgomery,Elliott Community Building Precinct #5,County Agricultural Extension Council Member,,,Tammi VanMeter,85,19,66
+Montgomery,Stanton Community Building Precinct #6,County Agricultural Extension Council Member,,,Tammi VanMeter,342,84,258
+Montgomery,Villisca Community Building Precinct #7,County Agricultural Extension Council Member,,,Tammi VanMeter,415,97,318
+Montgomery,Gold Fair Building Ward #1,County Agricultural Extension Council Member,,,Macey Ellis,314,75,239
+Montgomery,Gold Fair Building Ward #2,County Agricultural Extension Council Member,,,Macey Ellis,286,72,214
+Montgomery,First Christian Church Ward #3,County Agricultural Extension Council Member,,,Macey Ellis,433,107,326
+Montgomery,Elliott Community Building Precinct #4,County Agricultural Extension Council Member,,,Macey Ellis,213,49,164
+Montgomery,Elliott Community Building Precinct #5,County Agricultural Extension Council Member,,,Macey Ellis,79,16,63
+Montgomery,Stanton Community Building Precinct #6,County Agricultural Extension Council Member,,,Macey Ellis,310,75,235
+Montgomery,Villisca Community Building Precinct #7,County Agricultural Extension Council Member,,,Macey Ellis,391,93,298
+Montgomery,Gold Fair Building Ward #1,County Agricultural Extension Council Member,,,Write-in,3,2,1
+Montgomery,Gold Fair Building Ward #2,County Agricultural Extension Council Member,,,Write-in,6,1,5
+Montgomery,First Christian Church Ward #3,County Agricultural Extension Council Member,,,Write-in,7,1,6
+Montgomery,Elliott Community Building Precinct #4,County Agricultural Extension Council Member,,,Write-in,3,0,3
+Montgomery,Elliott Community Building Precinct #5,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Montgomery,Stanton Community Building Precinct #6,County Agricultural Extension Council Member,,,Write-in,2,0,2
+Montgomery,Villisca Community Building Precinct #7,County Agricultural Extension Council Member,,,Write-in,4,1,3
+Montgomery,Gold Fair Building Ward #1,Supreme Court Justice,,,Yes,270,59,211
+Montgomery,Gold Fair Building Ward #2,Supreme Court Justice,,,Yes,271,61,210
+Montgomery,First Christian Church Ward #3,Supreme Court Justice,,,Yes,398,91,307
+Montgomery,Elliott Community Building Precinct #4,Supreme Court Justice,,,Yes,174,37,137
+Montgomery,Elliott Community Building Precinct #5,Supreme Court Justice,,,Yes,52,9,43
+Montgomery,Stanton Community Building Precinct #6,Supreme Court Justice,,,Yes,264,59,205
+Montgomery,Villisca Community Building Precinct #7,Supreme Court Justice,,,Yes,347,66,281
+Montgomery,Gold Fair Building Ward #1,Supreme Court Justice,,,No,163,45,118
+Montgomery,Gold Fair Building Ward #2,Supreme Court Justice,,,No,136,31,105
+Montgomery,First Christian Church Ward #3,Supreme Court Justice,,,No,184,40,144
+Montgomery,Elliott Community Building Precinct #4,Supreme Court Justice,,,No,103,23,80
+Montgomery,Elliott Community Building Precinct #5,Supreme Court Justice,,,No,35,7,28
+Montgomery,Stanton Community Building Precinct #6,Supreme Court Justice,,,No,119,24,95
+Montgomery,Villisca Community Building Precinct #7,Supreme Court Justice,,,No,136,32,104
+Montgomery,Gold Fair Building Ward #1,Court of Appeals Judge,,,Yes,274,63,211
+Montgomery,Gold Fair Building Ward #2,Court of Appeals Judge,,,Yes,282,62,220
+Montgomery,First Christian Church Ward #3,Court of Appeals Judge,,,Yes,407,91,316
+Montgomery,Elliott Community Building Precinct #4,Court of Appeals Judge,,,Yes,177,37,140
+Montgomery,Elliott Community Building Precinct #5,Court of Appeals Judge,,,Yes,48,8,40
+Montgomery,Stanton Community Building Precinct #6,Court of Appeals Judge,,,Yes,260,63,197
+Montgomery,Villisca Community Building Precinct #7,Court of Appeals Judge,,,Yes,348,66,282
+Montgomery,Gold Fair Building Ward #1,Court of Appeals Judge,,,No,142,36,106
+Montgomery,Gold Fair Building Ward #2,Court of Appeals Judge,,,No,118,26,92
+Montgomery,First Christian Church Ward #3,Court of Appeals Judge,,,No,176,37,139
+Montgomery,Elliott Community Building Precinct #4,Court of Appeals Judge,,,No,98,21,77
+Montgomery,Elliott Community Building Precinct #5,Court of Appeals Judge,,,No,38,7,31
+Montgomery,Stanton Community Building Precinct #6,Court of Appeals Judge,,,No,119,24,95
+Montgomery,Villisca Community Building Precinct #7,Court of Appeals Judge,,,No,134,32,102
+Montgomery,Gold Fair Building Ward #1,District 4 Judge,,,Yes,289,67,222
+Montgomery,Gold Fair Building Ward #2,District 4 Judge,,,Yes,290,71,219
+Montgomery,First Christian Church Ward #3,District 4 Judge,,,Yes,415,92,323
+Montgomery,Elliott Community Building Precinct #4,District 4 Judge,,,Yes,181,37,144
+Montgomery,Elliott Community Building Precinct #5,District 4 Judge,,,Yes,53,7,46
+Montgomery,Stanton Community Building Precinct #6,District 4 Judge,,,Yes,262,68,194
+Montgomery,Villisca Community Building Precinct #7,District 4 Judge,,,Yes,345,68,277
+Montgomery,Gold Fair Building Ward #1,District 4 Judge,,,No,144,37,107
+Montgomery,Gold Fair Building Ward #2,District 4 Judge,,,No,112,20,92
+Montgomery,First Christian Church Ward #3,District 4 Judge,,,No,172,38,134
+Montgomery,Elliott Community Building Precinct #4,District 4 Judge,,,No,93,21,72
+Montgomery,Elliott Community Building Precinct #5,District 4 Judge,,,No,34,7,27
+Montgomery,Stanton Community Building Precinct #6,District 4 Judge,,,No,118,18,100
+Montgomery,Villisca Community Building Precinct #7,District 4 Judge,,,No,136,31,105
+Montgomery,Gold Fair Building Ward #1,District 4 Associate Judge,,,Yes,296,63,233
+Montgomery,Gold Fair Building Ward #2,District 4 Associate Judge,,,Yes,287,70,217
+Montgomery,First Christian Church Ward #3,District 4 Associate Judge,,,Yes,433,97,336
+Montgomery,Elliott Community Building Precinct #4,District 4 Associate Judge,,,Yes,195,38,157
+Montgomery,Elliott Community Building Precinct #5,District 4 Associate Judge,,,Yes,52,7,45
+Montgomery,Stanton Community Building Precinct #6,District 4 Associate Judge,,,Yes,275,66,209
+Montgomery,Villisca Community Building Precinct #7,District 4 Associate Judge,,,Yes,374,75,299
+Montgomery,Gold Fair Building Ward #1,District 4 Associate Judge,,,No,148,41,107
+Montgomery,Gold Fair Building Ward #2,District 4 Associate Judge,,,No,121,24,97
+Montgomery,First Christian Church Ward #3,District 4 Associate Judge,,,No,167,36,131
+Montgomery,Elliott Community Building Precinct #4,District 4 Associate Judge,,,No,87,19,68
+Montgomery,Elliott Community Building Precinct #5,District 4 Associate Judge,,,No,35,8,27
+Montgomery,Stanton Community Building Precinct #6,District 4 Associate Judge,,,No,108,20,88
+Montgomery,Villisca Community Building Precinct #7,District 4 Associate Judge,,,No,119,26,93
+Montgomery,Gold Fair Building Ward #1,Constitutional Amendment 1,,,Yes,432,87,345
+Montgomery,Gold Fair Building Ward #2,Constitutional Amendment 1,,,Yes,397,88,309
+Montgomery,First Christian Church Ward #3,Constitutional Amendment 1,,,Yes,579,127,452
+Montgomery,Elliott Community Building Precinct #4,Constitutional Amendment 1,,,Yes,302,59,243
+Montgomery,Elliott Community Building Precinct #5,Constitutional Amendment 1,,,Yes,98,15,83
+Montgomery,Stanton Community Building Precinct #6,Constitutional Amendment 1,,,Yes,379,84,295
+Montgomery,Villisca Community Building Precinct #7,Constitutional Amendment 1,,,Yes,483,83,400
+Montgomery,Gold Fair Building Ward #1,Constitutional Amendment 1,,,No,126,47,79
+Montgomery,Gold Fair Building Ward #2,Constitutional Amendment 1,,,No,105,39,66
+Montgomery,First Christian Church Ward #3,Constitutional Amendment 1,,,No,161,54,107
+Montgomery,Elliott Community Building Precinct #4,Constitutional Amendment 1,,,No,54,22,32
+Montgomery,Elliott Community Building Precinct #5,Constitutional Amendment 1,,,No,15,9,6
+Montgomery,Stanton Community Building Precinct #6,Constitutional Amendment 1,,,No,94,36,58
+Montgomery,Villisca Community Building Precinct #7,Constitutional Amendment 1,,,No,123,44,79
