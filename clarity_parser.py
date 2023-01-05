@@ -10,7 +10,7 @@ except ImportError:
 
 def statewide_results(url):
 #    j = clarify.Jurisdiction(url=url, level="state")
-    r = requests.get("https://electionresults.iowa.gov//IA//106279/271639/reports/detailxml.zip", stream=True)
+    r = requests.get("https://electionresults.iowa.gov//IA//106279/271639/reports/detailxml.zip", stream=True, headers={"User-Agent": "Mozilla/5.0 (platform; rv:geckoversion) Gecko/geckotrail Firefox/firefoxversion"})
     z = zipfile.ZipFile(BytesIO(r.content))
     z.extractall()
     p = clarify.Parser()
@@ -57,7 +57,7 @@ def download_county_files(url, filename):
     for sub in subs:
         print(sub.name)
         try:
-            r = requests.get(sub.report_url('xml'), stream=True)
+            r = requests.get(sub.report_url('xml'), stream=True, headers={"User-Agent": "Mozilla/5.0 (platform; rv:geckoversion) Gecko/geckotrail Firefox/firefoxversion"})
             z = zipfile.ZipFile(BytesIO(r.content))
             z.extractall()
             precinct_results(sub.name.replace(' ','_').lower(),filename)
@@ -130,8 +130,8 @@ def parse_office(office_text):
         office = office_text.split(',')[0]
     if ', District' in office_text:
         district = office_text.split(', District')[1].split(' - ')[0].strip()
-    elif 'United States Senator' in office_text:
-        office = 'United States Senator'
+    elif 'U.S. Senate' in office_text:
+        office = 'U.S. Senate'
         district = None
     elif ',' in office_text:
         district = office_text.split(',')[1]
