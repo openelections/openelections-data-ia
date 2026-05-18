@@ -111,7 +111,7 @@ def write_csv(results, county):
          for row in results:
              try:
                  w.writerow([row['county'].strip(), row['precinct'], row['office'], row['district'], row['party'], row['candidate'], row['absentee'], row['polling'], row['total']])
-             except:
+             except Exception:
                  if row.get('polling') is not None:
                      w.writerow([row['county'].strip(), row['precinct'], row['office'], row['district'], row['party'], row['candidate'], None, None, row['polling']])
                  elif row.get('absentee') is not None:

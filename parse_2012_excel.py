@@ -36,7 +36,7 @@ def parse_file(county):
                 try:
                     party = [p for p in PARTIES if p in rc][0]
                     candidate = rc.replace(party, '').strip()
-                except:
+                except Exception:
                     party = None
                     candidate = rc
                 candidates.append({ 'candidate': candidate, 'party': party})
